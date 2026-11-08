@@ -13,7 +13,7 @@ import { get } from 'node:https';
 
 const ASSET = 'assets-v1.tar.gz';
 const URL = `https://github.com/Biootak/rtm-journals/releases/download/assets-v1/${ASSET}`;
-const SHA256 = '__SHA256__';
+const SHA256 = 'c099e6031b8377e307ff89f0412ac4c93695f33bf059c742ed2d530ebd108b15';
 const EXPECTED = { images: 6796, thumbs: 6796 };
 
 const root = resolve(dirname(fileURLToPath(import.meta.url)), '..');
