@@ -1,0 +1,626 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl" data-theme="paper">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <meta name="color-scheme" content="light dark">
+  <meta name="description" content="آرشیو یکپارچهٔ ژورنال‌های معامله‌گری RTM (۲۰۱۳–۲۰۱۹) با جستجو در متن پست‌ها">
+  <title>آرشیو RTM — ژورنال‌های معامله‌گری</title>
+  <link rel="preconnect" href="css/style.css" as="style">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="scroll-sentinel" id="scrollSentinel" aria-hidden="true"></div>
+  <div class="reading-bar" id="readingBar" aria-hidden="true"></div>
+  <a class="skip-link" href="#mainContent">پرش به محتوای اصلی</a>
+
+  <svg xmlns="http://www.w3.org/2000/svg" class="svg-sprite" aria-hidden="true">
+    <symbol id="i-logo" viewBox="0 0 24 24"><path d="M3 17.5 8.2 11l3.6 3.2L20.5 4.5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/><path d="M15.5 4.5h5v5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/><path d="M3 21h18" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" opacity=".45"/></symbol>
+    <symbol id="i-search" viewBox="0 0 24 24"><circle cx="11" cy="11" r="6.4" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="m16 16 4.2 4.2" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></symbol>
+    <symbol id="i-close" viewBox="0 0 24 24"><path d="m6 6 12 12M18 6 6 18" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"/></symbol>
+    <symbol id="i-book" viewBox="0 0 24 24"><path d="M4 5.5A2.5 2.5 0 0 1 6.5 3H10c1.1 0 2 .9 2 2v15c0-1.1-.9-2-2-2H6.5A2.5 2.5 0 0 0 4 20.5v-15Z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/><path d="M20 5.5A2.5 2.5 0 0 0 17.5 3H14c-1.1 0-2 .9-2 2v15c0-1.1.9-2 2-2h3.5a2.5 2.5 0 0 1 2.5 2.5v-15Z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/></symbol>
+    <symbol id="i-home" viewBox="0 0 24 24"><path d="m3.5 11 8.5-7 8.5 7" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/><path d="M5.5 9.5V20h13V9.5" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/><path d="M9.5 20v-5.5h5V20" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-list" viewBox="0 0 24 24"><path d="M8 6h12M8 12h12M8 18h12" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><circle cx="4.2" cy="6" r="1.2" fill="currentColor"/><circle cx="4.2" cy="12" r="1.2" fill="currentColor"/><circle cx="4.2" cy="18" r="1.2" fill="currentColor"/></symbol>
+    <symbol id="i-grid" viewBox="0 0 24 24"><rect x="3.5" y="3.5" width="7" height="7" rx="1.2" fill="none" stroke="currentColor" stroke-width="1.7"/><rect x="13.5" y="3.5" width="7" height="7" rx="1.2" fill="none" stroke="currentColor" stroke-width="1.7"/><rect x="3.5" y="13.5" width="7" height="7" rx="1.2" fill="none" stroke="currentColor" stroke-width="1.7"/><rect x="13.5" y="13.5" width="7" height="7" rx="1.2" fill="none" stroke="currentColor" stroke-width="1.7"/></symbol>
+    <symbol id="i-image" viewBox="0 0 24 24"><rect x="3.5" y="4.5" width="17" height="15" rx="2" fill="none" stroke="currentColor" stroke-width="1.7"/><circle cx="8.5" cy="9.5" r="1.6" fill="currentColor"/><path d="m4.5 17 5-5 4 4 2.5-2.5 3.5 3.5" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-translate" viewBox="0 0 24 24"><path d="M4 6h8M8 4v2c0 4.2-1.8 7.4-5 9" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/><path d="M5.5 10.5c1.6 2.4 3.7 4.1 6.3 5.1" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/><path d="m13 20 3.4-8h1.2l3.4 8M14.4 17h4.8" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-copy" viewBox="0 0 24 24"><rect x="8" y="8" width="12" height="12" rx="2" fill="none" stroke="currentColor" stroke-width="1.7"/><path d="M16 8V6a2 2 0 0 0-2-2H6a2 2 0 0 0-2 2v8a2 2 0 0 0 2 2h2" fill="none" stroke="currentColor" stroke-width="1.7"/></symbol>
+    <symbol id="i-check" viewBox="0 0 24 24"><path d="m4.5 12.5 5 5L20 6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-chevron-right" viewBox="0 0 24 24"><path d="m9 5 7 7-7 7" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-chevron-left" viewBox="0 0 24 24"><path d="m15 5-7 7 7 7" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-chevron-down" viewBox="0 0 24 24"><path d="m5 9 7 7 7-7" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-eyedropper" viewBox="0 0 24 24"><path d="M19.6 4.4a2.1 2.1 0 0 0-3 0l-2.3 2.3-1-1a1 1 0 0 0-1.4 0l-1.2 1.2a1 1 0 0 0 0 1.4l1 1-7.2 7.2a1 1 0 0 0-.3.7V21h3.8a1 1 0 0 0 .7-.3l7.2-7.2 1 1a1 1 0 0 0 1.4 0l1.2-1.2a1 1 0 0 0 0-1.4l-1-1 2.3-2.3a2.1 2.1 0 0 0 0-3Z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/></symbol>
+    <symbol id="i-settings" viewBox="0 0 24 24"><circle cx="12" cy="12" r="3" fill="none" stroke="currentColor" stroke-width="1.7"/><path d="M19.4 15a1.7 1.7 0 0 0 .3 1.9l.1.1-2.8 2.8-.1-.1a1.7 1.7 0 0 0-1.9-.3 1.7 1.7 0 0 0-1 1.6v.2h-4V21a1.7 1.7 0 0 0-1-1.6 1.7 1.7 0 0 0-1.9.3l-.1.1L4.2 17l.1-.1a1.7 1.7 0 0 0 .3-1.9A1.7 1.7 0 0 0 3 14H2.8v-4H3a1.7 1.7 0 0 0 1.6-1 1.7 1.7 0 0 0-.3-1.9L4.2 7 7 4.2l.1.1A1.7 1.7 0 0 0 9 4.6a1.7 1.7 0 0 0 1-1.6v-.2h4V3a1.7 1.7 0 0 0 1 1.6 1.7 1.7 0 0 0 1.9-.3l.1-.1L19.8 7l-.1.1a1.7 1.7 0 0 0-.3 1.9 1.7 1.7 0 0 0 1.6 1h.2v4H21a1.7 1.7 0 0 0-1.6 1Z" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4" fill="none" stroke="currentColor" stroke-width="1.7"/><path d="M12 2.5v2M12 19.5v2M2.5 12h2M19.5 12h2M5.3 5.3l1.4 1.4M17.3 17.3l1.4 1.4M18.7 5.3l-1.4 1.4M6.7 17.3l-1.4 1.4" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></symbol>
+    <symbol id="i-moon" viewBox="0 0 24 24"><path d="M20 14.3A8 8 0 0 1 9.7 4a8.2 8.2 0 1 0 10.3 10.3Z" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/></symbol>
+    <symbol id="i-lamp" viewBox="0 0 24 24"><path d="M12 3v2M5.5 5.5 7 7M18.5 5.5 17 7M3.5 13H5M19 13h1.5" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/><path d="M12 8.6a4.4 4.4 0 0 0-2.6 7.9c.5.4.8 1 .8 1.6h3.6c0-.6.3-1.2.8-1.6a4.4 4.4 0 0 0-2.6-7.9Z" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/><path d="M10 20.5h4" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></symbol>
+    <symbol id="i-external" viewBox="0 0 24 24"><path d="M14 4h6v6M20 4l-8.5 8.5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/><path d="M19 14.5V19a1.5 1.5 0 0 1-1.5 1.5h-11A1.5 1.5 0 0 1 5 19V8a1.5 1.5 0 0 1 1.5-1.5H11" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></symbol>
+    <symbol id="i-download" viewBox="0 0 24 24"><path d="M12 3v11m0 0 4-4m-4 4-4-4" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/><path d="M4 17v2.5A1.5 1.5 0 0 0 5.5 21h13a1.5 1.5 0 0 0 1.5-1.5V17" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></symbol>
+    <symbol id="i-export" viewBox="0 0 24 24"><path d="M12 3v9m0 0 3.2-3.2M12 12l-3.2-3.2" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/><path d="M4 15.5V19a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-3.5" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/><path d="M4.5 6.5h3M16.5 6.5h3" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></symbol>
+    <symbol id="i-info" viewBox="0 0 24 24"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.7"/><path d="M12 10.5V17M12 7.3v.2" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></symbol>
+    <symbol id="i-clock" viewBox="0 0 24 24"><circle cx="12" cy="12" r="8.5" fill="none" stroke="currentColor" stroke-width="1.7"/><path d="M12 7v5.3l3.3 2" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-user" viewBox="0 0 24 24"><circle cx="12" cy="8" r="3.5" fill="none" stroke="currentColor" stroke-width="1.7"/><path d="M5 20a7 7 0 0 1 14 0" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></symbol>
+    <symbol id="i-calendar" viewBox="0 0 24 24"><rect x="3.5" y="5.5" width="17" height="15" rx="2" fill="none" stroke="currentColor" stroke-width="1.7"/><path d="M7.5 3.5v4M16.5 3.5v4M3.5 10h17" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></symbol>
+    <symbol id="i-hash" viewBox="0 0 24 24"><path d="M9 3.5 7.5 20.5M16.5 3.5 15 20.5M4 9h16M3 15h16" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></symbol>
+    <symbol id="i-arrow-right" viewBox="0 0 24 24"><path d="M4 12h16m0 0-6-6m6 6-6 6" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-arrow-left" viewBox="0 0 24 24"><path d="M20 12H4m0 0 6-6m-6 6 6 6" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-warning" viewBox="0 0 24 24"><path d="M12 3.5 21 20H3L12 3.5Z" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/><path d="M12 9v5M12 17v.2" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></symbol>
+    <symbol id="i-image-off" viewBox="0 0 24 24"><rect x="3.5" y="4.5" width="17" height="15" rx="2" fill="none" stroke="currentColor" stroke-width="1.7"/><path d="m4 4 16 16" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></symbol>
+    <symbol id="i-filter" viewBox="0 0 24 24"><path d="M3.5 5h17l-6.5 8v5l-4 2v-7L3.5 5Z" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/></symbol>
+    <symbol id="i-reset" viewBox="0 0 24 24"><path d="M5 8V4m0 0h4M5 4l4.2 4.2A7.5 7.5 0 1 1 4.5 12" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-maximize" viewBox="0 0 24 24"><path d="M9 4H4v5M15 4h5v5M9 20H4v-5M15 20h5v-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-minimize" viewBox="0 0 24 24"><path d="M4 9h5V4M20 9h-5V4M4 15h5v5M20 15h-5v5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-zoom-in" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="m15 15 5.5 5.5M8 10.5h5M10.5 8v5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></symbol>
+    <symbol id="i-zoom-out" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="m15 15 5.5 5.5M8 10.5h5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></symbol>
+    <symbol id="i-fit" viewBox="0 0 24 24"><rect x="3.5" y="5.5" width="17" height="13" rx="2" fill="none" stroke="currentColor" stroke-width="1.7"/><path d="M8 9.5h3v3H8zM13 11.5h3v3h-3z" fill="none" stroke="currentColor" stroke-width="1.5"/></symbol>
+    <symbol id="i-menu" viewBox="0 0 24 24"><path d="M4 7h16M4 12h16M4 17h16" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"/></symbol>
+    <symbol id="i-focus" viewBox="0 0 24 24"><rect x="4" y="4" width="16" height="16" rx="3" fill="none" stroke="currentColor" stroke-width="1.7"/><path d="M8 9h8M8 13h5" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></symbol>
+    <symbol id="i-shield" viewBox="0 0 24 24"><path d="M12 3 5 6v5.5c0 4.2 2.8 7.6 7 9.5 4.2-1.9 7-5.3 7-9.5V6l-7-3Z" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/><path d="m8.8 12 2.2 2.2 4.2-4.4" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-bookmark" viewBox="0 0 24 24"><path d="M6.5 3.5h11a1 1 0 0 1 1 1v16l-6.5-4-6.5 4v-16a1 1 0 0 1 1-1Z" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/></symbol>
+    <symbol id="i-bookmark-on" viewBox="0 0 24 24"><path d="M6.5 3.5h11a1 1 0 0 1 1 1v16l-6.5-4-6.5 4v-16a1 1 0 0 1 1-1Z" fill="currentColor" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/></symbol>
+    <symbol id="i-command" viewBox="0 0 24 24"><path d="M8 5.5h8M6.5 9.5h11M8 13.5h8M9 17.5h6" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></symbol>
+    <symbol id="i-journal" viewBox="0 0 24 24"><rect x="4.5" y="3.5" width="15" height="17" rx="1.6" fill="none" stroke="currentColor" stroke-width="1.7"/><path d="M8 3.5v17M11 8h5M11 12h5M11 16h3" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></symbol>
+    <symbol id="i-quote" viewBox="0 0 24 24"><path d="M9.5 6C6.8 7 5.5 9 5.5 12v6h6v-6H8.4c0-2 .6-3.3 2.1-4.2ZM19 6c-2.7 1-4 3-4 6v6h6v-6h-3.1c0-2 .6-3.3 2.1-4.2Z" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linejoin="round"/></symbol>
+    <!-- annotation set: the rail and the note rows draw these, all on the same
+         24-box and 1.7 stroke so they sit beside the existing icons unseen as a
+         different family -->
+    <symbol id="i-pencil" viewBox="0 0 24 24"><path d="M4 20.5 4.9 16.8 16.4 5.3a1.9 1.9 0 0 1 2.7 0l.6.6a1.9 1.9 0 0 1 0 2.7L8.2 20.1l-4.2.4Z" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/><path d="m14.9 6.8 2.3 2.3" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></symbol>
+    <symbol id="i-cursor" viewBox="0 0 24 24"><path d="M6 3.5 18.5 12l-5.6 1.1 3 5.9-2.4 1.2-3-5.9-3.3 4.1Z" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/></symbol>
+    <symbol id="i-pin" viewBox="0 0 24 24"><circle cx="12" cy="12" r="8.2" fill="none" stroke="currentColor" stroke-width="1.7"/><path d="M9.6 9.4h4.8M9.6 12h4.8M9.6 14.6h3" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></symbol>
+    <symbol id="i-note" viewBox="0 0 24 24"><path d="M4.5 4.5h15v10.2l-4.3 4.3h-10.7Z" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/><path d="M19.5 14.7h-4.3v4.3M8 8.5h8M8 11.6h6" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></symbol>
+    <symbol id="i-type" viewBox="0 0 24 24"><path d="M4.5 6.5V4.5h15v2M12 4.5v15M8.8 19.5h6.4" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-box" viewBox="0 0 24 24"><rect x="3.8" y="5.5" width="16.4" height="13" rx="1.4" fill="none" stroke="currentColor" stroke-width="1.7" stroke-dasharray="2.6 1.9"/></symbol>
+    <symbol id="i-circle" viewBox="0 0 24 24"><ellipse cx="12" cy="12" rx="8.4" ry="6.8" fill="none" stroke="currentColor" stroke-width="1.7" stroke-dasharray="2.6 1.9"/></symbol>
+    <symbol id="i-arrow-anno" viewBox="0 0 24 24"><path d="M4 20 14.9 9.1" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/><path d="M19.8 4.2 12.4 4.9l6.7 6.7Z" fill="currentColor"/></symbol>
+    <symbol id="i-line" viewBox="0 0 24 24"><path d="M5 19 19 5" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/><circle cx="5" cy="19" r="1.4" fill="currentColor"/><circle cx="19" cy="5" r="1.4" fill="currentColor"/></symbol>
+    <symbol id="i-path" viewBox="0 0 24 24"><path d="M4 19 8.5 8l5.5 6.5L20 5" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/><circle cx="4" cy="19" r="1.3" fill="currentColor"/><circle cx="8.5" cy="8" r="1.3" fill="currentColor"/><circle cx="14" cy="14.5" r="1.3" fill="currentColor"/><circle cx="20" cy="5" r="1.3" fill="currentColor"/></symbol>
+    <symbol id="i-highlight" viewBox="0 0 24 24"><path d="m6.5 15.5 8.2-9.8a1.6 1.6 0 0 1 2.3-.2l.6.5a1.6 1.6 0 0 1 .2 2.3l-8.2 9.8Z" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/><path d="M4.5 20.5h15" fill="none" stroke="currentColor" stroke-width="3.2" stroke-linecap="round" opacity=".3"/></symbol>
+    <symbol id="i-flip" viewBox="0 0 24 24"><path d="M4 9.2h13.4M14.2 5.6l3.4 3.6-3.4 3.6M20 14.8H6.6M9.8 11.2l-3.4 3.6 3.4 3.6" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-pen" viewBox="0 0 24 24"><path d="M3.5 17.5c3-6.5 5.4 3.2 8.2-2.6 2.4-5 3.3 3.1 6-6.4" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></symbol>
+    <symbol id="i-stamp" viewBox="0 0 24 24"><path d="M9 9.5V6.4a2.4 2.4 0 0 1 4.8 0v3.1l1.7 3.5H7.3Z" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/><path d="M4.8 16.4h14.4v2.2H4.8z" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/></symbol>
+    <symbol id="i-erase" viewBox="0 0 24 24"><path d="M6 19.5h12M5.6 15.2 12 8.6a2 2 0 0 1 2.8 0l3.1 3.1a2 2 0 0 1 0 2.8l-4.4 4.4H8.6l-3-3a2 2 0 0 1 0-.7Z" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/></symbol>
+    <symbol id="i-trash" viewBox="0 0 24 24"><path d="M4.8 7.2h14.4M9.6 7.2V5.4a1 1 0 0 1 1-1h2.8a1 1 0 0 1 1 1v1.8M6.6 7.2l1 12.1a1 1 0 0 0 1 .9h6.8a1 1 0 0 0 1-.9l1-12.1M10.4 10.6v6M13.6 10.6v6" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-undo" viewBox="0 0 24 24"><path d="M9 8.5H17a4 4 0 0 1 0 8h-6" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/><path d="M11.6 5.2 8.2 8.5l3.4 3.3" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-redo" viewBox="0 0 24 24"><path d="M15 8.5H7a4 4 0 0 0 0 8h6" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/><path d="M12.4 5.2l3.4 3.3-3.4 3.3" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-plus" viewBox="0 0 24 24"><path d="M12 5v14M5 12h14" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"/></symbol>
+    <symbol id="i-folder" viewBox="0 0 24 24"><path d="M3.5 6.5h5.2l2 2.6h9.8v10.4a1 1 0 0 1-1 1h-17a1 1 0 0 1-1-1V7.5a1 1 0 0 1 1-1Z" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/></symbol>
+    <symbol id="i-eye" viewBox="0 0 24 24"><path d="M2.5 12S6 6.2 12 6.2 21.5 12 21.5 12 18 17.8 12 17.8 2.5 12 2.5 12Z" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/><circle cx="12" cy="12" r="2.6" fill="none" stroke="currentColor" stroke-width="1.6"/></symbol>
+    <symbol id="i-eye-off" viewBox="0 0 24 24"><path d="M4.2 8.6C2.9 10.3 2.5 12 2.5 12S6 17.8 12 17.8c1.9 0 3.6-.5 4.9-1.3M9.4 6.7C10.2 6.4 11.1 6.2 12 6.2c6 0 9.5 5.8 9.5 5.8s-1.1 1.9-3.1 3.4M6.5 6.5l11 11" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="i-layer" viewBox="0 0 24 24"><path d="M12 3.8 21 8.4l-9 4.6L3 8.4Z" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/><path d="m4.6 12.8 7.4 3.8 7.4-3.8m-14.8 4.2 7.4 3.8 7.4-3.8" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+  </svg>
+
+  <header class="masthead" id="masthead">
+    <div class="masthead-inner">
+      <div class="masthead-row">
+        <a class="wordmark" href="#/" aria-label="صفحهٔ نخست آرشیو">
+          <span class="wordmark-main">آرشیو <em>RTM</em></span>
+          <span class="wordmark-sub">ژورنال‌های معامله‌گری · ۲۰۱۳–۲۰۱۹</span>
+        </a>
+        <nav class="masthead-nav" aria-label="بخش‌های آرشیو">
+          <a class="nav-link" data-nav="home" href="#/">خانه</a>
+          <a class="nav-link" data-nav="all" href="#/all">همهٔ پست‌ها</a>
+          <a class="nav-link" data-nav="gallery" href="#/gallery">تابلوی تصاویر</a>
+          <a class="nav-link" data-nav="saved" href="#/saved">نشان‌شده</a>
+          <a class="nav-link" data-nav="notes" href="#/notes">یادداشت‌ها</a>
+        </nav>
+        <div class="masthead-tools">
+          <button class="tool-btn" id="paletteBtn" type="button" title="پالت فرمان (Ctrl+K)" aria-label="پالت فرمان"><svg class="icon"><use href="#i-command"/></svg></button>
+          <button class="tool-btn" id="searchToggle" type="button" title="جستجو" aria-label="باز کردن جستجو"><svg class="icon"><use href="#i-search"/></svg></button>
+          <button class="tool-btn" id="focusBtn" type="button" title="حالت مطالعه: حاشیه‌ها پنهان می‌شوند" aria-label="حالت مطالعه" aria-pressed="false"><svg class="icon"><use href="#i-focus"/></svg></button>
+          <button class="tool-btn" id="menuBtn" type="button" title="فهرست ژورنال‌ها" aria-label="فهرست ژورنال‌ها" aria-expanded="false" aria-controls="sidebar"><svg class="icon"><use href="#i-menu"/></svg></button>
+          <button class="tool-btn" id="themeBtn" type="button" title="چراغ مطالعه" aria-label="تغییر روشنایی"></button>
+          <button class="tool-btn" id="settingsBtn" type="button" title="تنظیمات" aria-label="تنظیمات"><svg class="icon"><use href="#i-settings"/></svg></button>
+        </div>
+      </div>
+      <div class="stat-strip" id="topStats" aria-label="آمار آرشیو">
+        <span class="stat-cell"><b id="statJournals">—</b><span>ژورنال</span></span>
+        <span class="stat-cell"><b id="statPages">—</b><span>صفحه</span></span>
+        <span class="stat-cell"><b id="statPosts">—</b><span>پست</span></span>
+        <span class="stat-cell"><b id="statImages">—</b><span>تصویر</span></span>
+      </div>
+      <div class="search-band" id="searchArea">
+        <div class="search-line" role="search">
+          <svg class="icon"><use href="#i-search"/></svg>
+          <input id="globalSearch" type="search" autocomplete="off" spellcheck="false" placeholder="جستجو در متن پست‌ها — مثلاً liquidity یا نقدینگی" aria-label="جستجو در آرشیو">
+          <kbd class="search-kbd">Ctrl K</kbd>
+          <button class="search-clear" id="searchClear" type="button" aria-label="پاک کردن جستجو" hidden><svg class="icon"><use href="#i-close"/></svg></button>
+        </div>
+        <p class="search-note"><svg class="icon"><use href="#i-search"/></svg> متنِ پست‌ها و ترجمهٔ فارسی جستجو می‌شوند؛ خودِ تصویر فقط تصویر است.</p>
+      </div>
+    </div>
+  </header>
+
+  <div class="colophon" id="appShell">
+    <div class="rail-backdrop" id="sideBackdrop" hidden></div>
+    <aside class="index-rail" id="sidebar" aria-label="فهرست ژورنال‌ها">
+      <section class="rail-sections">
+        <div class="rail-head"><h2><svg class="icon"><use href="#i-list"/></svg> بخش‌های آرشیو</h2></div>
+        <nav aria-label="بخش‌های آرشیو">
+          <a class="rail-link" data-nav="home" href="#/">خانه</a>
+          <a class="rail-link" data-nav="all" href="#/all">همهٔ پست‌ها</a>
+          <a class="rail-link" data-nav="gallery" href="#/gallery">تابلوی تصاویر</a>
+          <a class="rail-link" data-nav="saved" href="#/saved">نشان‌شده</a>
+          <a class="rail-link" data-nav="notes" href="#/notes">یادداشت‌ها<span class="rail-badge" id="railNotesCount" hidden></span></a>
+        </nav>
+      </section>
+      <section class="rail-rule">
+        <div class="rail-head"><h2><svg class="icon"><use href="#i-journal"/></svg> ژورنال‌ها</h2><span class="rail-count" id="journalCount">—</span></div>
+        <div class="rail-filter"><input id="journalFilter" type="search" placeholder="پالایش نام…" aria-label="پالایش ژورنال‌ها"></div>
+        <nav class="toc-list" id="journalList" aria-label="فهرست ژورنال‌ها"></nav>
+      </section>
+      <section class="rail-rule">
+        <div class="rail-head"><h2><svg class="icon"><use href="#i-bookmark"/></svg> آخرین بازدید</h2></div>
+        <div class="toc-list" id="recentRead"></div>
+      </section>
+      <section class="rail-rule">
+        <div class="rail-note"><b>خواندنِ یک‌نگاهه.</b> نمودار همان‌طور که نویسنده‌اش دیده می‌ماند — ترجمه روی تصویر نمی‌نشیند. متنِ فارسی در ستونِ خواندن می‌آید.</div>
+      </section>
+      <section class="rail-rule rail-meta" id="sideMeta"></section>
+    </aside>
+
+    <main class="document" id="mainContent">
+
+      <section class="view" id="viewHome" data-view="home">
+        <div class="mast">
+          <div class="mast-grid">
+            <div>
+              <span class="kicker">آرشیو · ۲۰۱۳ — ۲۰۱۹</span>
+              <h1 class="mast-title">بیست‌وچهار دفتر، <span class="accent">ده‌هزار</span> یادداشت، به فارسی</h1>
+              <p class="mast-lede">متنِ پست‌ها با واژه‌نامهٔ تخصصی بازار ترجمه شده و در یک ایندکس جستجو می‌شود. نمودارها دست‌نخورده می‌مانند؛ نمادها، قیمت‌ها و تاریخ‌ها هم.</p>
+              <div class="mast-actions">
+                <a href="#/all" class="btn btn-solid"><svg class="icon"><use href="#i-list"/></svg> شروع مطالعه</a>
+                <a href="#/search/liquidity" class="btn btn-quiet"><svg class="icon"><use href="#i-search"/></svg> جستجوی نمونه</a>
+                <a href="#/gallery" class="btn"><svg class="icon"><use href="#i-grid"/></svg> تابلوی تصاویر</a>
+              </div>
+            </div>
+            <dl class="ledger" id="heroLedger" aria-label="آمار آرشیو">
+              <div class="ledger-row"><dt>تصاویر یکتای محتوایی</dt><span class="dot-leader"></span><dd id="heroImages">—</dd></div>
+              <div class="ledger-row"><dt>پست‌های ایندکس‌شده</dt><span class="dot-leader"></span><dd id="heroPosts">—</dd></div>
+              <div class="ledger-row is-accent"><dt>پست‌های ترجمه‌شده به فارسی</dt><span class="dot-leader"></span><dd id="heroLines">—</dd></div>
+              <div class="ledger-foot"><svg class="icon"><use href="#i-shield"/></svg> ترجمهٔ آفلاین + واژه‌نامهٔ تخصصی بازار · بدون CDN، بدون ردیابی</div>
+            </dl>
+          </div>
+        </div>
+
+        <div id="shelfWrap" hidden></div>
+
+        <div class="rule-head is-first" id="homeJournalsHead">
+          <h2>فهرست دفترها</h2>
+        </div>
+        <div class="index-table" id="journalGrid"></div>
+
+        <div class="rule-head">
+          <h2>تازه‌ترین یادداشت‌ها</h2>
+        </div>
+        <div class="latest" id="recentList"></div>
+      </section>
+
+      <section class="view" id="viewJournal" data-view="journal">
+        <div class="doc-head">
+          <div class="doc-head-copy">
+            <button class="doc-back" id="journalBack" type="button"><svg class="icon"><use href="#i-arrow-right"/></svg> بازگشت به فهرست</button>
+            <h1 class="doc-title" id="journalTitle"></h1>
+            <div class="doc-sub" id="journalSubtitle"></div>
+          </div>
+          <div class="doc-actions">
+            <a class="btn btn-quiet btn-sm" id="openOriginal" href="#" target="_blank" rel="noopener"><svg class="icon"><use href="#i-external"/></svg> نسخهٔ اصلی</a>
+          </div>
+        </div>
+        <div class="pager" id="journalPager">
+          <div class="pager-side">
+            <button class="pager-btn" id="prevPage" type="button"><svg class="icon"><use href="#i-chevron-right"/></svg> قبلی</button>
+            <button class="pager-btn" id="nextPage" type="button">بعدی <svg class="icon"><use href="#i-chevron-left"/></svg></button>
+          </div>
+          <div class="pager-side">
+            <label class="select-wrap"><span class="label">صفحه</span><select class="select" id="pageSelect" aria-label="رفتن به صفحه"></select></label>
+            <span class="pager-pos" id="pageOf"></span>
+          </div>
+        </div>
+        <div class="articles" id="journalPosts"></div>
+        <div class="pager is-bottom" id="journalPagerBottom"></div>
+      </section>
+
+      <section class="view" id="viewAll" data-view="all">
+        <div class="doc-head">
+          <div class="doc-head-copy">
+            <h1 class="doc-title">همهٔ پست‌ها</h1>
+            <div class="doc-sub" id="allSubtitle"></div>
+          </div>
+          <div class="doc-actions">
+            <label class="checkline"><input type="checkbox" id="allSavedOnly"> فقط نشان‌شده‌ها</label>
+          </div>
+        </div>
+        <div class="toolbar">
+          <div class="search-line grow" style="border:0;padding:0;">
+            <svg class="icon"><use href="#i-filter"/></svg>
+            <input id="allJournalFilter" type="search" placeholder="پالایش در متنِ همهٔ پست‌ها…" aria-label="پالایش پست‌ها">
+          </div>
+          <label class="select-wrap"><span class="label">دفتر</span><select class="select" id="allJournalSelect" aria-label="انتخاب دفتر"></select></label>
+          <span class="toolbar-note" id="allCount"></span>
+        </div>
+        <div class="articles" id="allPosts"></div>
+        <div class="more-row" id="allMore" hidden><button class="btn btn-quiet" type="button">نمایش پست‌های بیشتر</button></div>
+      </section>
+
+      <section class="view" id="viewGallery" data-view="gallery">
+        <div class="doc-head">
+          <div class="doc-head-copy">
+            <h1 class="doc-title">تابلوی تصاویر</h1>
+            <div class="doc-sub" id="galleryCount"></div>
+          </div>
+        </div>
+        <div class="toolbar">
+          <label class="select-wrap"><span class="label">دفتر</span><select class="select" id="galleryJournal" aria-label="انتخاب دفتر"></select></label>
+        </div>
+        <div class="contact" id="galleryGrid"></div>
+        <div class="more-row" id="galleryMore" hidden><button class="btn btn-quiet" type="button">نمایش تصویرهای بیشتر</button></div>
+      </section>
+
+      <section class="view" id="viewSearch" data-view="search">
+        <div class="doc-head">
+          <div class="doc-head-copy">
+            <h1 class="doc-title" id="searchTitle">نتایج جستجو</h1>
+            <div class="doc-sub" id="searchSubtitle"></div>
+          </div>
+        </div>
+        <div class="result-head">
+          <span class="spacer"></span>
+          <span class="result-count" id="searchStatus"></span>
+        </div>
+        <div id="searchResults"></div>
+        <div class="more-row" id="searchMore" hidden><button class="btn btn-quiet" type="button">نمایش نتایج بیشتر</button></div>
+      </section>
+
+      <section class="view" id="viewPost" data-view="post">
+        <div class="doc-head">
+          <div class="doc-head-copy">
+            <button class="doc-back" id="postBack" type="button"><svg class="icon"><use href="#i-arrow-right"/></svg> بازگشت</button>
+            <h1 class="doc-title" id="postTitle" style="font-size:clamp(22px,3vw,30px)"></h1>
+            <div class="doc-sub" id="postSubtitle"></div>
+          </div>
+          <div class="doc-actions">
+            <a class="btn btn-quiet btn-sm" id="postOriginal" href="#" target="_blank" rel="noopener"><svg class="icon"><use href="#i-external"/></svg> نسخهٔ اصلی</a>
+            <button class="btn btn-quiet btn-sm" id="postBookmark" type="button" aria-pressed="false"><svg class="icon"><use href="#i-bookmark"/></svg> <span>نشان‌کردن</span></button>
+            <button class="btn btn-quiet btn-sm" id="postExport" type="button"><svg class="icon"><use href="#i-export"/></svg> خروجی Markdown</button>
+            <button class="btn btn-quiet btn-sm" id="postCopy" type="button"><svg class="icon"><use href="#i-copy"/></svg> کپی متن</button>
+          </div>
+        </div>
+        <div class="post-thread" id="postThread" hidden></div>
+        <div class="detail-toolbar">
+          <div class="tabs" role="tablist" aria-label="زبانِ نمایش متن">
+            <button class="tab is-active" type="button" data-post-tab="both" role="tab" aria-selected="true">دوزبانه</button>
+            <button class="tab" type="button" data-post-tab="fa" role="tab" aria-selected="false">فارسی</button>
+            <button class="tab" type="button" data-post-tab="en" role="tab" aria-selected="false">متنِ اصل</button>
+          </div>
+          <span class="grow"></span>
+          <button class="text-action" id="postFontMinus" type="button" title="کوچک‌تر">A−</button>
+          <button class="text-action" id="postFontPlus" type="button" title="بزرگ‌تر">A+</button>
+        </div>
+        <div class="detail-grid">
+          <div class="detail-text" id="postDetailText"></div>
+          <div class="detail-media" id="postDetailMedia"></div>
+        </div>
+        <div class="detail-nav" id="postDetailNav"></div>
+      </section>
+
+      <section class="view" id="viewSaved" data-view="saved">
+        <div class="doc-head">
+          <div class="doc-head-copy">
+            <h1 class="doc-title">نشان‌شده‌ها</h1>
+            <div class="doc-sub" id="savedSubtitle"></div>
+          </div>
+          <div class="doc-actions">
+            <button class="btn btn-quiet btn-sm" id="savedExport" type="button"><svg class="icon"><use href="#i-export"/></svg> خروجی همه</button>
+            <button class="btn btn-quiet btn-sm" id="savedClear" type="button"><svg class="icon"><use href="#i-reset"/></svg> پاک کردن فهرست</button>
+          </div>
+        </div>
+        <div class="articles" id="savedList"></div>
+      </section>
+
+      <section class="view" id="viewNotes" data-view="notes">
+        <div class="doc-head">
+          <div class="doc-head-copy">
+            <h1 class="doc-title">یادداشت‌های من</h1>
+            <div class="doc-sub">هر بار که روی نموداری چیزی نوشتید، این‌جا فهرست می‌شود — به تفکیکِ گذرِ خواندن.</div>
+          </div>
+          <div class="doc-actions">
+            <input class="notes-search" id="notesFilter" type="search" placeholder="جستجو در یادداشت‌ها" aria-label="جستجو در یادداشت‌ها">
+            <button class="btn btn-quiet btn-sm" id="notesBackup" type="button"><svg class="icon"><use href="#i-download"/></svg> پشتیبان همه</button>
+          </div>
+        </div>
+        <div class="notes-stats" aria-live="polite">
+          <span><b id="notesTotal">۰</b> یادداشت</span>
+          <span><b id="notesImages">۰</b> تصویر</span>
+          <span><b id="notesAuthors">۰</b> نویسنده</span>
+          <span id="notesSyncState"></span>
+        </div>
+        <div class="notes-body" id="notesList"></div>
+      </section>
+
+      <section class="view" id="viewNotFound" data-view="notfound">
+        <div class="empty-state">
+          <svg class="icon"><use href="#i-image-off"/></svg>
+          <h3>چیزی این‌جا نیست</h3>
+          <p>نشانیِ درخواستی در آرشیو پیدا نشد. از فهرستِ دفترها انتخاب کنید یا جستجو کنید.</p>
+          <div class="more-row"><a class="btn btn-solid" href="#/">به صفحهٔ نخست</a></div>
+        </div>
+      </section>
+
+    </main>
+  </div>
+
+  <footer class="footer" id="footerMeta"></footer>
+
+  <!-- ---------------------------------------------------- plate viewer ---- -->
+  <div class="viewer" id="lightbox" hidden role="dialog" aria-modal="true" aria-label="تصویر بزرگ">
+    <div class="viewer-backdrop"></div>
+    <div class="viewer-shell" id="viewerShell">
+      <div class="pane">
+        <div class="viewer-toolbar">
+          <div class="vt-group">
+            <button class="vt-btn" id="lbPrev" type="button" title="تصویر پیشین" aria-label="تصویر پیشین"><svg class="icon"><use href="#i-chevron-right"/></svg></button>
+            <span class="vt-count" id="lbCounter">—</span>
+            <button class="vt-btn" id="lbNext" type="button" title="تصویر پسین" aria-label="تصویر پسین"><svg class="icon"><use href="#i-chevron-left"/></svg></button>
+          </div>
+          <span class="vt-sep"></span>
+          <div class="vt-group">
+            <button class="vt-btn" id="lbZoomOut" type="button" title="کوچک‌نمایی (−)" aria-label="کوچک‌نمایی"><svg class="icon"><use href="#i-zoom-out"/></svg></button>
+            <button class="vt-zoom" id="lbZoomLevel" type="button" title="بازنشانی به اندازهٔ پنجره (کلید ۰)">۱۰۰٪</button>
+            <button class="vt-btn" id="lbZoomIn" type="button" title="بزرگ‌نمایی (+)" aria-label="بزرگ‌نمایی"><svg class="icon"><use href="#i-zoom-in"/></svg></button>
+            <button class="vt-btn" id="lbZoomFit" type="button" title="اندازهٔ پنجره — کل تصویر (۰)" aria-label="اندازهٔ پنجره" aria-pressed="false"><svg class="icon"><use href="#i-fit"/></svg></button>
+            <button class="vt-btn" id="lbZoomWidth" type="button" title="اندازهٔ پهنا — تصویر به عرض پنجره، عمود اسکرول می‌شود (۲)" aria-label="اندازهٔ پهنا" aria-pressed="false">پهنا</button>
+            <button class="vt-btn" id="lbZoomActual" type="button" title="اندازهٔ واقعی — پیکسل به پیکسل (۱)" aria-label="اندازهٔ واقعی" aria-pressed="false">1:1</button>
+          </div>
+          <span class="grow"></span>
+          <div class="vt-group">
+            <button class="vt-btn is-anno" id="lbAnnotate" type="button" title="یادداشت روی تصویر (A)" aria-label="یادداشت روی تصویر" aria-pressed="false"><svg class="icon"><use href="#i-pencil"/></svg><span class="anno-badge" aria-hidden="true"></span></button>
+            <button class="vt-btn" id="lbOpenPost" type="button" title="به پست این تصویر برگرد" aria-label="رفتن به پست"><svg class="icon"><use href="#i-arrow-left"/></svg></button>
+            <a class="vt-btn" id="lbDownload" href="#" title="دانلود تصویر" aria-label="دانلود تصویر"><svg class="icon"><use href="#i-download"/></svg></a>
+            <button class="vt-btn" id="lbFullscreen" type="button" title="تمام‌صفحه (F)" aria-label="تمام‌صفحه"><svg class="icon"><use href="#i-maximize"/></svg></button>
+            <button class="vt-btn" id="lbCloseTop" type="button" title="بستن (Esc)" aria-label="بستن"><svg class="icon"><use href="#i-close"/></svg></button>
+          </div>
+        </div>
+        <div class="anno-rail" id="annoRail" hidden role="toolbar" aria-label="ابزارهای یادداشت">
+          <div class="anno-zone anno-zone-tools" id="annoTools" role="group" aria-label="ابزار"></div>
+          <span class="vt-sep"></span>
+          <div class="anno-zone anno-zone-style" role="group" aria-label="سبک و وضعیت">
+            <div class="anno-group anno-inks" id="annoInks" role="group" aria-label="رنگ مرکب">
+              <button class="anno-ink-btn" id="annoInk" type="button" title="رنگ مرکب" aria-label="رنگ مرکب" aria-haspopup="dialog" aria-expanded="false">
+                <span class="anno-ink-dot" id="annoInkDot" aria-hidden="true"></span>
+                <svg class="icon anno-ink-caret" aria-hidden="true"><use href="#i-chevron-down"/></svg>
+              </button>
+            </div>
+            <div class="anno-group anno-stepper" id="annoWidthGroup" role="group" aria-label="ضخامت قلم">
+              <span class="anno-step-tag">قلم</span>
+              <button type="button" class="anno-step-btn" data-step="width" data-dir="down" title="نازک‌تر" aria-label="نازک‌تر">−</button>
+              <span class="anno-step-val" id="annoWidthVal">۲</span>
+              <button type="button" class="anno-step-btn" data-step="width" data-dir="up" title="قطورتر" aria-label="قطورتر">+</button>
+            </div>
+            <div class="anno-group anno-stepper" id="annoSizeGroup" role="group" aria-label="اندازهٔ نوشته">
+              <span class="anno-step-tag">نوشته</span>
+              <button type="button" class="anno-step-btn" data-step="size" data-dir="down" title="ریزتر" aria-label="ریزتر">−</button>
+              <span class="anno-step-val" id="annoSizeVal">۲</span>
+              <button type="button" class="anno-step-btn" data-step="size" data-dir="up" title="درشت‌تر" aria-label="درشت‌تر">+</button>
+            </div>
+            <button class="anno-chip" type="button" id="annoFill" title="پُردوایی چارچوب (F)" aria-pressed="false">پُر</button>
+            <button class="anno-chip" type="button" id="annoStampPick" title="واژهٔ مُهر" aria-label="واژهٔ مُهر"><span id="annoStampVal">SL</span></button>
+            <span class="anno-chip is-static" id="annoStatusVal" title="وضعیت یادداشتِ برگزیده">—</span>
+            <button class="anno-chip" type="button" id="annoStatus" title="وضعیت را عوض کن">وضعیت</button>
+          </div>
+          <div class="anno-zone anno-zone-actions" role="group" aria-label="واگرد و کارها">
+            <button class="anno-tool" type="button" id="annoUndo" title="واگرد (Ctrl+Z)" aria-label="واگرد" disabled><svg class="icon"><use href="#i-undo"/></svg></button>
+            <button class="anno-tool" type="button" id="annoRedo" title="بازگرد (Ctrl+Shift+Z)" aria-label="بازگرد" disabled><svg class="icon"><use href="#i-redo"/></svg></button>
+            <button class="anno-tool" type="button" id="annoDuplicate" title="یک نسخهٔ دیگر" aria-label="تکثیر"><svg class="icon"><use href="#i-copy"/></svg></button>
+            <button class="anno-tool" type="button" id="annoDelete" title="پاک کردن برگزیده (Delete)" aria-label="پاک کردن"><svg class="icon"><use href="#i-trash"/></svg></button>
+          </div>
+        </div>
+        <div class="pane-scroll" id="lbImageScroll">
+          <div class="pane-board" id="lbBoard">
+            <div class="pane-stage" id="lbImageStage">
+              <div class="pane-loading" id="lbLoading" hidden><span class="spinner"></span><span>بارگذاری تصویر…</span></div>
+              <img id="lbImage" alt="" draggable="false">
+            </div>
+          </div>
+        </div>
+        <div class="pane-foot" id="lbImageMeta"></div>
+        <p class="sr-only" id="lbStatus" role="status" aria-live="polite"></p>
+      </div>
+
+      <aside class="anno-panel" id="annoPanel" hidden aria-label="یادداشت‌های این تصویر">
+        <div class="anno-panel-head">
+          <h3>یادداشت‌ها</h3>
+          <span class="anno-count" id="annoCount">۰ یادداشت · ۱ گذر</span>
+          <button class="anno-mini" type="button" id="annoPanelClose" title="فهرست را ببند (از زبانهٔ کنارِ صفحه بازش می‌کنی)">بستن</button>
+          <button class="anno-mini" type="button" id="annoHelpBtn" title="کلیدهای میان‌بر (؟)">کلیدها</button>
+        </div>
+        <div class="anno-passbar">
+          <button class="anno-mini" type="button" id="annoNewPass" title="گذر تازه: بارِ بعدی خواندن را جدا می‌نویسد"><svg class="icon"><use href="#i-layer"/></svg> گذر تازه</button>
+          <label class="anno-passname"><span class="sr-only">نام گذر</span><input type="text" id="annoPassName" placeholder="نام گذر"></label>
+          <span class="anno-pass-now" id="annoPassLabel">—</span>
+        </div>
+        <div class="anno-filters" role="group" aria-label="پالایش فهرست">
+          <button class="anno-filter is-active" type="button" data-filter="all">همه</button>
+          <button class="anno-filter" type="button" data-filter="mine">این نویسنده</button>
+          <button class="anno-filter" type="button" data-filter="open">باز</button>
+          <button class="anno-filter" type="button" data-filter="done">بسته</button>
+        </div>
+        <div class="anno-help" id="annoHelp" hidden>
+          <h4>کلیدها</h4>
+          <dl>
+            <dt>V</dt><dd>برگزیدن و جابه‌جایی</dd>
+            <dt>N / T / I</dt><dd>یادداشتِ جعبه‌ای · متن آزاد · شماره</dd>
+            <dt>R / O / A / Q</dt><dd>چارچوب · بیضی · پیکان · خط راست</dd>
+            <dt>P / H / G</dt><dd>قلم آزاد · هایلایتر · مسیر چندنقطه‌ای</dd>
+            <dt>دست‌خط</dt><dd>قلم و هایلایتر در دست می‌مانند؛ هر کشیدنِ نزدیک و پشتِ‌سرهم به همان نوشته افزوده می‌شود — برای جدا کردنِ واژه دو ثانیه صبر کنید یا Esc بزنید؛ یک کلیکِ کوتاه نقطه می‌گذارد؛ قلم نوری فشارِ دست را هم می‌خواند</dd>
+            <dt>مسیر</dt><dd>کلیک برای هر نقطه؛ دوبار کلیک یا Enter برای پایان؛ Esc برای لغو؛ کلیک روی نقطهٔ اول مسیر را می‌بندد</dd>
+            <dt>S / E</dt><dd>مُهر اصطلاح · پاک‌کن</dd>
+            <dt>U</dt><dd>افزودن تصویر روی تخته: گزینش از فایل، یا کشیدن و چسباندنِ هر تصویری — نمودار، وایرفریم، عکس مرجع. تصویرِ افزوده بیرونِ نمودار، در حاشیهٔ تخته می‌نشیند تا روی کندل‌ها را نپوشاند؛ هر تصویر را می‌توانید به داخل یا بیرون بکشید، و اندازه‌اش را از گوشه تغییر بدهید — نسبت حفظ می‌شود</dd>
+            <dt>کشیدن روی خالی</dt><dd>با ابزارِ برگزیدن، تصویرِ بزرگ‌شده را جابه‌جا می‌کند · Shift+کشیدن کادرِ برگزیدن · Shift+کلیک افزودن به برگزیده</dd>
+            <dt>Space+کشیدن</dt><dd>با هر ابزاری تصویر را جابه‌جا کن؛ دکمهٔ میانیِ ماوس هم همین کار را می‌کند</dd>
+            <dt>جابه‌جایی</dt><dd>لبه‌ها و مرکزها خودکار به هم می‌چسبند؛ برای آزاد گذاشتن Alt را نگه دار</dd>
+            <dt>← → ↑ ↓</dt><dd>جابه‌جاییِ ریزِ برگزیده؛ با Shift ده‌برابر</dd>
+            <dt>Tab / Shift+Tab</dt><dd>روی تصویر: یادداشتِ بعدی یا پیشین؛ داخلِ نوار ابزار Tab عادی کار می‌کند</dd>
+            <dt>Enter / F2</dt><dd>نوشتنِ متنِ برگزیده — برچسبِ چارچوب و پیکان هم ویرایش می‌شود</dd>
+            <dt>Ctrl+C / Ctrl+X / Ctrl+V</dt><dd>رونوشت · برش · جای‌گذاری</dd>
+            <dt>Ctrl+A</dt><dd>برگزیدنِ همهٔ یادداشت‌های این تصویر</dd>
+            <dt>Ctrl+] / Ctrl+[</dt><dd>یک لایه جلو یا عقب؛ با Shift روی همه یا زیر همه</dd>
+            <dt>K</dt><dd>قفل یا باز کردنِ برگزیده — یادداشتِ قفل از جابه‌جایی و پاک‌کن در امان می‌ماند</dd>
+            <dt>راست‌کلیک</dt><dd>همهٔ کارها: چیدن، رنگ، قفل، رونوشت و جای‌گذاری</dd>
+            <dt>دکمهٔ رنگ</dt><dd>شانزده رنگِ آماده، رنگِ دلخواه با گزینش‌گر، قطره‌چین از خودِ تصویر و رنگ‌های اخیر؛ با یادداشتِ برگزیده رنگِ آن را هم عوض می‌کند</dd>
+            <dt>↑↓ / Home / End</dt><dd>در منوی راست‌کلیک جابه‌جا شو؛ Enter اجرا و Esc بستن</dd>
+            <dt>چیدمانِ کیبورد</dt><dd>حروف با موقعیتِ فیزیکی کلید خوانده می‌شوند، پس کیبورد فارسی هم همان میان‌بر را می‌دهد</dd>
+            <dt>F</dt><dd>پُردوایی چارچوب</dd>
+            <dt>M</dt><dd>تغییر نویسنده</dd>
+            <dt>L</dt><dd>باز و بسته کردنِ فهرست یادداشت‌ها</dd>
+            <dt>Enter</dt><dd>پایانِ نوشتن؛ در یادداشتِ چندخطی Ctrl+Enter</dd>
+            <dt>Esc</dt><dd>بستنِ متن، سپس برداشتنِ برگزیده، سپس بستنِ تصویر</dd>
+            <dt>Del</dt><dd>پاک کردنِ برگزیده — با دکمهٔ بازگردانی</dd>
+            <dt>Ctrl+Z / Ctrl+Shift+Z</dt><dd>واگرد و بازگرد</dd>
+            <dt>Ctrl+D</dt><dd>یک نسخهٔ دیگر از برگزیده</dd>
+            <dt>دوکلیک</dt><dd>متن یا برچسبِ هر یادداشت را باز می‌کند؛ روی نشانه‌های بی‌متن همهٔ کارها (رنگ، قفل، چیدمان، رونوشت، پاک کردن) را می‌آورد</dd>
+            <dt>دستگیرهٔ گرد</dt><dd>بکش تا نوکِ دُم جابه‌جا شود؛ جابه‌جا کردنِ جعبه نوک را با خود نمی‌برد، پس هر کدام سرِ جای خود می‌مانند؛ داخلِ جعبه رها کن تا برداشته شود</dd>
+            <dt>دستگیرهٔ مربعی</dt><dd>بکش تا آن سرِ پیکان یا خط جابه‌جا شود؛ پیکان دو سر دارد و یکی از آن‌ها نوکِ تیر است</dd>
+            <dt>X</dt><dd>سرِ پیکان را به آن سرِ دیگر می‌برد (دکمهٔ ⇄ در فهرست همین کار را می‌کند)</dd>
+            <dt>دوبار روی ابزار</dt><dd>قفل کردنِ ابزار برای کشیدن‌های پیاپی</dd>
+          </dl>
+        </div>
+        <div class="anno-list" id="annoList"></div>
+        <div class="anno-panel-foot">
+          <div class="anno-foot-row">
+            <button class="anno-mini" type="button" id="annoAuthorPick" title="نویسندهٔ یادداشت‌ها را عوض کن (M)"><span class="anno-author" id="annoAuthor"></span></button>
+            <span class="anno-state" id="annoFolderState">فقط در این مرورگر</span>
+            <span class="anno-saved" id="annoSavedState"></span>
+          </div>
+          <div class="anno-foot-row anno-actions">
+            <button class="anno-mini" type="button" id="annoLinkFolder" title="پوشهٔ ژورنال‌ها را وصل کن تا کپیِ یادداشت‌دار کنار خودِ تصویر نوشته شود"><svg class="icon"><use href="#i-folder"/></svg> وصل کردن پوشه</button>
+            <button class="anno-mini" type="button" id="annoUnlinkFolder" title="وصل‌کردن پوشه را بردار">برداشتن</button>
+            <button class="anno-mini" type="button" id="annoWriteNow" title="همین حالا روی دیسک بنویس">بنویس</button>
+            <button class="anno-mini" type="button" id="annoBake" title="کپیِ یادداشت‌دار را دانلود کن"><svg class="icon"><use href="#i-download"/></svg> تصویر</button>
+            <button class="anno-mini" type="button" id="annoExportMd" title="یادداشت‌های این تصویر را به مارک‌داون ببر">مارک‌داون</button>
+            <button class="anno-mini" type="button" id="annoBackup" title="از همهٔ یادداشت‌ها پشتیبان بگیر">پشتیبان</button>
+            <button class="anno-mini" type="button" id="annoRestore" title="فایلِ پشتیبانی را بخوان و جای یادداشت‌های این مرورگر بگذار">از فایلِ پشتیبان</button>
+            <button class="anno-mini" type="button" id="annoUndelete" hidden title="آخرین یادداشتِ پاک‌شده را برگردان">بازگردانی</button>
+          </div>
+        </div>
+      </aside>
+
+      <!-- The notes column is the reader's to open, so the way back into it has
+           to live outside it. The count rides along: a marked chart says so
+           before the list is ever shown. -->
+      <button class="anno-peek" type="button" id="annoPeek" hidden aria-controls="annoPanel" title="فهرست یادداشت‌های این تصویر را باز کن">
+        <svg class="icon"><use href="#i-list"/></svg><span>یادداشت‌ها</span><span class="anno-peek-count" id="annoPeekCount"></span>
+      </button>
+
+    </div>
+  </div>
+
+  <!-- ------------------------------------------------------- settings ----- -->
+  <div class="sheet" id="settingsDrawer" hidden role="dialog" aria-modal="true" aria-label="تنظیمات نمایش">
+    <div class="sheet-backdrop" id="settingsBackdrop"></div>
+    <div class="sheet-panel">
+      <div class="sheet-head">
+        <h2>تنظیمات نمایش</h2>
+        <span class="grow"></span>
+        <button class="panel-btn" id="drawerClose" type="button" title="بستن" aria-label="بستن تنظیمات"><svg class="icon"><use href="#i-close"/></svg></button>
+      </div>
+      <fieldset class="fieldset">
+        <div class="field">
+          <span class="field-label">زبانِ نمایش متن</span>
+          <div class="tabs lang-tabs" role="tablist" aria-label="زبانِ نمایش متن">
+            <button class="tab" type="button" data-card-lang="both" role="tab" aria-selected="false">دوزبانه</button>
+            <button class="tab" type="button" data-card-lang="fa" role="tab" aria-selected="false">فارسی</button>
+            <button class="tab" type="button" data-card-lang="en" role="tab" aria-selected="false">اصل</button>
+          </div>
+        </div>
+        <div class="field">
+          <span class="field-label">اندازهٔ فونت متن</span>
+          <span class="field-hint">همه‌جا یکی: متنِ پست، ترجمهٔ زیرِ تصویر و ستونِ ترجمهٔ نمایشگر.</span>
+          <div class="switch-row">
+            <input type="range" id="setFont" min="13" max="24" step="1" aria-label="اندازهٔ فونت">
+            <span class="field-value" id="fontValue">۱۵</span>
+          </div>
+        </div>
+        <div class="field">
+          <span class="field-label">اندازهٔ تصویر در نمایشگر</span>
+          <span class="field-hint">«پهنا» برای چارت‌ها ساخته شده: تصویر به عرض پنجره باز می‌شود و خودتان عمود جابه‌جا می‌شوید.</span>
+          <div class="seg" id="setImageFit" role="group" aria-label="اندازهٔ اولیهٔ تصویر">
+            <button class="seg-btn" type="button" data-imagefit="fit">اندازهٔ پنجره</button>
+            <button class="seg-btn" type="button" data-imagefit="width">اندازهٔ پهنا</button>
+            <button class="seg-btn" type="button" data-imagefit="actual">اندازهٔ واقعی</button>
+          </div>
+        </div>
+        <div class="field">
+          <span class="field-label">چرخ ماوس روی تصویر</span>
+          <span class="field-hint">«بزرگ‌نمایی»: چرخ مستقیم و زیر نشانگر زوم می‌کند (Ctrl هم همیشه زوم است). «پیمایش»: چرخ تصویر را جابه‌جا می‌کند و برای بزرگ‌نمایی Ctrl را نگه دارید.</span>
+          <div class="seg" id="setWheel" role="group" aria-label="رفتار چرخ ماوس روی تصویر">
+            <button class="seg-btn" type="button" data-wheel="zoom">بزرگ‌نمایی</button>
+            <button class="seg-btn" type="button" data-wheel="pan">پیمایش</button>
+          </div>
+        </div>
+        <div class="field">
+          <span class="field-label">سرستون</span>
+          <div class="seg" id="setHeader" role="group" aria-label="رفتار سرستون">
+            <button class="seg-btn" type="button" data-header="compact">جمع‌شونده هنگام پیمایش</button>
+            <button class="seg-btn" type="button" data-header="static">همیشه کامل</button>
+          </div>
+        </div>
+        <div class="field">
+          <span class="field-label">فهرستِ کناری</span>
+          <div class="seg" id="setSidebar" role="group" aria-label="فهرست کناری">
+            <button class="seg-btn" type="button" data-sidebar="auto">خودکار</button>
+            <button class="seg-btn" type="button" data-sidebar="open">باز</button>
+            <button class="seg-btn" type="button" data-sidebar="closed">بسته</button>
+          </div>
+        </div>
+        <div class="field switch-row">
+          <div><span class="field-label">چراغ مطالعه</span><span class="field-hint">تمِ گرمِ تیره؛ کاغذ سیاه نمی‌شود.</span></div>
+          <label class="checkline"><input type="checkbox" id="setLight"> روشن</label>
+        </div>
+        <div class="field">
+          <span class="field-label">کلیدهای نمایشگر تصویر</span>
+          <span class="field-hint">این‌ها فقط وقتی کار می‌کنند که یک تصویر باز باشد.</span>
+          <ul class="keylist">
+            <li><kbd>چرخ ماوس</kbd> بزرگ‌نمایی دقیقاً همان‌جا که نشانگر ایستاده (در حالت «پیمایش»: جابه‌جایی)</li>
+            <li><kbd>Ctrl</kbd>+<kbd>چرخ</kbd> بزرگ‌نمایی، هر حالتی که برگزیده باشید</li>
+            <li><kbd>کشیدن</kbd> جابه‌جایی روی تصویر · <kbd>Shift</kbd>+<kbd>چرخ</kbd> جابه‌جایی افقی</li>
+            <li><kbd>Shift</kbd>+<kbd>کشیدن</kbd> دور بخشی از تصویر کادر بکشید تا همان بخش بزرگ شود</li>
+            <li><kbd>دابل‌کلیک</kbd> زوم روی همان نقطه؛ دوباره، برگشت به کل تصویر</li>
+            <li><kbd>+</kbd> <kbd>−</kbd> بزرگ‌نمایی و کوچک‌نمایی · <kbd>0</kbd> پنجره · <kbd>2</kbd> پهنا · <kbd>1</kbd> واقعی</li>
+            <li><kbd>↑</kbd> <kbd>↓</kbd> <kbd>→</kbd> <kbd>←</kbd> وقتی زوم هستید: حرکت روی تصویر؛ وقتی جا هست: تصویر بعد و پیش</li>
+            <li><kbd>PgDn</kbd> <kbd>PgUp</kbd> تصویر بعد و پیش · <kbd>Home</kbd> <kbd>End</kbd> نخستین و آخرین</li>
+            <li><kbd>F</kbd> تمام‌صفحه · <kbd>Esc</kbd> بستن</li>
+          </ul>
+        </div>
+        <div class="field">
+          <button class="btn btn-quiet btn-sm" id="resetSettings" type="button"><svg class="icon"><use href="#i-reset"/></svg> بازگشت به پیش‌فرض‌ها</button>
+          <span class="field-hint" style="margin-top:9px">همه‌چیز در همین مرورگر ذخیره می‌شود؛ چیزی به بیرون فرستاده نمی‌شود.</span>
+        </div>
+      </fieldset>
+    </div>
+  </div>
+
+  <!-- -------------------------------------------------- command palette --- -->
+  <div class="palette" id="palette" hidden role="dialog" aria-modal="true" aria-label="پالت فرمان">
+    <div class="palette-backdrop" id="paletteBackdrop"></div>
+    <div class="palette-box">
+      <div class="palette-input-row">
+        <svg class="icon"><use href="#i-command"/></svg>
+        <input id="paletteInput" type="text" autocomplete="off" spellcheck="false" placeholder="برو به دفتر، جستجو کن، یا دستور بده…" aria-label="ورودی پالت فرمان">
+        <kbd class="search-kbd">Esc</kbd>
+      </div>
+      <div class="palette-list" id="paletteList" role="listbox" aria-label="پیشنهادها"></div>
+      <div class="palette-foot">
+        <span>↑↓ انتخاب</span><span>↵ باز کردن</span><span>Ctrl K پالت</span><span>/ جستجو</span><span>F حالت تمرکز</span><span>T چراغ مطالعه</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <script src="data/index.js"></script>
+  <script src="data/integrity.js"></script>
+  <script src="js/vendor/perfect-freehand.js"></script>
+  <script src="js/annotate.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,4 @@
+node_modules/
+.assets-cache/
+.DS_Store
+Thumbs.db
