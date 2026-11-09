@@ -649,7 +649,7 @@ function postToMarkdown(journal, post) {
     out += `## تصویر: ${name2}\n\n`;
     plates.push(key);
   }
-  out += `---\n\nساخته‌شده از آرشیو RTM. ترجمهٔ فارسی ماشینی است؛ برای اطمینان، متن اصلی را ببینید.\n`;
+  out += `---\n\nساخته‌شده از آرشیو RTM. ترجمهٔ فارسی دستی و بازبینی‌شده است؛ متن اصلی هم در ادامه آمده.\n`;
   return out;
 }
 
@@ -1020,7 +1020,7 @@ function renderStats() {
       <a href="#/">خانه</a><a href="#/all">همهٔ پست‌ها</a><a href="#/gallery">تابلوی تصاویر</a><a href="#/saved">نشان‌شده</a>
     </nav>
     <span>${faNum(s.journals || 0)} دفتر · ${faNum(s.pages || 0)} صفحه · ${faNum(s.posts || 0)} پست · ${faNum(s.uniqueImages || 0)} تصویر یکتا</span>
-      <span>ترجمهٔ آفلاین + واژه‌نامهٔ تخصصی بازار · ترجمهٔ ماشینی، بازبینی‌نشده</span>
+      <span>ترجمهٔ فارسی دستی و بازبینی‌شده، همراه با متن اصلی هر پست</span>
       <span class="mono">build: ${esc(s.generatedAtLabel || '—')}</span>`;
   }
 }
