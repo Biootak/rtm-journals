@@ -886,8 +886,8 @@ html[data-theme="lamp"] .pane-scroll { background: radial-gradient(circle at 50%
 .error-state code { font-family:var(--mo); font-size:12px; color:var(--bad); word-break:break-all; }
 
 /* ------------------------------------------------------------ gallery ---- */
-.contact { display:grid; grid-template-columns:repeat(auto-fill, minmax(200px,1fr)); gap:14px; }
-.contact-cell { position:relative; padding:10px; border-radius:var(--radius); border:1px solid var(--rule); background:var(--paper-raised); transition:all var(--tr); }
+.contact { column-width:168px; column-gap:12px; }
+.contact-cell { display:inline-block; width:100%; break-inside:avoid; -webkit-column-break-inside:avoid; margin:0 0 12px; vertical-align:top; position:relative; padding:10px; border-radius:var(--radius); border:1px solid var(--rule); background:var(--paper-raised); transition:all var(--tr); }
 .contact-cell:hover { background:var(--paper-warm); box-shadow:var(--shadow-md); transform:translateY(-2px); border-color:var(--accent-line); }
 .contact-cell .plate-frame { padding:4px; box-shadow:none; border:0; background:transparent; }
 .contact-cell .plate-frame:hover { box-shadow:none; transform:none; }

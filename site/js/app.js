@@ -3105,7 +3105,7 @@ function renderGallery() {
     $('#galleryMore').hidden = true;
     return;
   }
-  grid.innerHTML = `<div class="contact">` + list.map(im => {
+  grid.innerHTML = list.map(im => {
     const src = im.t || im.f || '';
     const name = im.o || 'تصویر';
     const ar = im.w && im.h ? `${im.w} / ${im.h}` : 'auto';
@@ -3122,7 +3122,7 @@ function renderGallery() {
         </span>
       </a>
     </div>`;
-  }).join('') + `</div>`;
+  }).join('');
   wirePlateImages(grid);
   paintMoreRow('#galleryMore', all.length - list.length, 'تصویر');
 }
