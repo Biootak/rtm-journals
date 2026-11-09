@@ -36,8 +36,11 @@ const App = {
   currentPagePosts: [],
   postDetail: { journal: null, post: null, page: 1, view: 'both' },
   journalToken: 0,
-  search: { data: null, q: '', postLimit: 30, posts: [], loading: false, error: '' },
-  all: { data: null, rows: null, filter: 'all', text: '', savedOnly: false, limit: 40, loading: false, error: '' },
+  search: { shards: {}, q: '', postLimit: 30, posts: [], loading: false, error: '', token: 0, loaded: 0, total: 0, failed: 0 },
+  all: {
+    shards: {}, rows: null, filter: 'all', text: '', savedOnly: false, limit: 40,
+    loading: false, error: '', loaded: 0, total: 0, failed: 0, renderTimer: 0,
+  },
   gallery: { journalId: '', items: [], currentJournal: null, limit: 48, loading: false, error: '' },
   viewer: { items: [], idx: 0, journal: null, returnFocus: null, zoom: { scale: 1, fit: 1, fitW: 1, natW: 0, natH: 0, mode: 'fit' } },
   railOpen: false,
@@ -479,7 +482,7 @@ function refreshMarkupViews() {
   const y = window.scrollY;
   if (App.currentView === 'journal' && App.currentJournal) renderJournalPage();
   else if (App.currentView === 'post' && App.postDetail.post) renderPostDetail();
-  else if (App.currentView === 'all' && (App.all.rows || App.all.data)) renderAllPosts();
+  else if (App.currentView === 'all' && App.all.rows) renderAllPosts();
   syncLangTabs();
   window.scrollTo(0, y);
 }
@@ -718,14 +721,101 @@ function exportPostMarkdown() {
 
 /* ============================== data loading ============================== */
 
-function loadScript(src) {
-  return new Promise((resolve, reject) => {
-    const s = document.createElement('script');
-    s.src = src;
-    s.async = true;
-    s.onload = () => { s.remove(); resolve(); };
-    s.onerror = () => { s.remove(); reject(new Error('بارگذاری فایل داده ناموفق بود: ' + src)); };
-    document.head.appendChild(s);
+/* Data is sharded JSON: a journal's metadata, one file per page, a light image
+   index for the gallery, and per-journal search / all-posts shards. `fetch`
+   lets the service worker cache each request and keeps a 9 MB journal from
+   blocking the first paint as a <script> assignment did. */
+function loadJson(src) {
+  return fetch(src, { credentials: 'same-origin', cache: 'no-cache' }).then(res => {
+    if (!res.ok) throw new Error('بارگذاری فایل داده ناموفق بود: ' + src);
+    return res.json();
+  });
+}
+
+function journalUrl(id) {
+  return 'data/journals/' + encodeURIComponent(id) + '.json';
+}
+
+function journalPageUrl(id, page) {
+  return 'data/journals/' + encodeURIComponent(id) + '/p' + page + '.json';
+}
+
+function journalImagesUrl(id) {
+  return 'data/journals/' + encodeURIComponent(id) + '-images.json';
+}
+
+/* Every journal starts as metadata plus a stub per post (id, page, number,
+   author). The stub list keeps counts, prev/next navigation and deep links
+   working without shipping 3,448 bodies to render page one. */
+function ensureJournal(id) {
+  if (App.cache[id]) return Promise.resolve(App.cache[id]);
+  return cachedLoad('journal_meta_' + id, () => loadJson(journalUrl(id)).then(data => {
+    const journal = Object.assign({}, data, {
+      posts: Array.isArray(data.posts) ? data.posts : [],
+      images: [],
+      loadedPages: new Set(),
+      imagesLoaded: false,
+    });
+    App.cache[id] = journal;
+    return journal;
+  }));
+}
+
+function mergeJournalPage(journal, page, chunk) {
+  if (!chunk) return journal;
+  const at = new Map();
+  journal.posts.forEach((post, i) => { if (post && post.id) at.set(post.id, i); });
+  for (const post of (chunk.posts || [])) {
+    const found = at.get(post.id);
+    if (found == null) journal.posts.push(post);
+    else journal.posts[found] = post;
+  }
+  const seen = new Set(journal.images.map(im => im.k));
+  for (const im of (chunk.images || [])) {
+    if (!seen.has(im.k)) { seen.add(im.k); journal.images.push(im); }
+  }
+  journal.loadedPages.add(page);
+  return journal;
+}
+
+function ensureJournalPage(id, page) {
+  page = Number(page) || 1;
+  return ensureJournal(id).then(journal => {
+    if (journal.loadedPages.has(page)) return journal;
+    return cachedLoad('journal_page_' + id + '_' + page, () =>
+      loadJson(journalPageUrl(id, page)).then(chunk => mergeJournalPage(journal, page, chunk)));
+  });
+}
+
+function prefetchJournalPage(id, page) {
+  const journal = App.cache[id];
+  if (!journal || !page || page < 1 || page > (journal.pages || 0)) return;
+  if (journal.loadedPages.has(page)) return;
+  const key = 'journal_page_' + id + '_' + page;
+  if (App.promises[key]) return;
+  const run = () => {
+    cachedLoad(key, () => loadJson(journalPageUrl(id, page))
+      .then(chunk => mergeJournalPage(journal, page, chunk)))
+      /* A prefetch is opportunistic: a phone that goes offline must not leave
+         an unhandled rejection behind. */
+      .catch(() => {});
+  };
+  if ('requestIdleCallback' in window) requestIdleCallback(run, { timeout: 1600 });
+  else setTimeout(run, 700);
+}
+
+function ensureJournalImages(id) {
+  return ensureJournal(id).then(journal => {
+    if (journal.imagesLoaded) return journal;
+    return cachedLoad('journal_images_' + id, () =>
+      loadJson(journalImagesUrl(id)).then(list => {
+        const seen = new Set(journal.images.map(im => im.k));
+        for (const im of (list || [])) {
+          if (!seen.has(im.k)) { seen.add(im.k); journal.images.push(im); }
+        }
+        journal.imagesLoaded = true;
+        return journal;
+      }));
   });
 }
 
@@ -978,35 +1068,6 @@ function cachedLoad(key, start) {
   return App.promises[key];
 }
 
-function ensureJournal(id) {
-  if (App.cache[id]) return Promise.resolve(App.cache[id]);
-  return cachedLoad('journal_' + id, () =>
-    loadScript('data/journals/' + encodeURIComponent(id) + '.js').then(() => {
-      const data = (window.RTM_JOURNAL_CACHE || {})[id];
-      if (!data) throw new Error('دادهٔ ژورنال پیدا نشد: ' + id);
-      App.cache[id] = data;
-      return data;
-    }));
-}
-
-function ensureSearchData() {
-  if (window.RTM_SEARCH) { App.search.data = window.RTM_SEARCH; return Promise.resolve(window.RTM_SEARCH); }
-  return cachedLoad('search', () => loadScript('data/search.js').then(() => {
-    if (!window.RTM_SEARCH) throw new Error('ایندکس جستجو پیدا نشد.');
-    App.search.data = window.RTM_SEARCH;
-    return window.RTM_SEARCH;
-  }));
-}
-
-function ensurePostsData() {
-  if (window.RTM_POSTS) { App.all.data = window.RTM_POSTS; return Promise.resolve(window.RTM_POSTS); }
-  return cachedLoad('posts', () => loadScript('data/posts.js').then(() => {
-    if (!window.RTM_POSTS) throw new Error('فهرست پست‌ها پیدا نشد.');
-    App.all.data = window.RTM_POSTS;
-    return window.RTM_POSTS;
-  }));
-}
-
 /* ============================== boot ============================== */
 
 document.addEventListener('DOMContentLoaded', init);
@@ -1032,6 +1093,7 @@ function init() {
   setupPostView();
   setupPalette();
   route();
+  registerServiceWorker();
   // Chrome settles after the first paint: measure the real masthead height and
   // honour the saved reading position when coming back from a post.
   requestAnimationFrame(() => {
@@ -1045,6 +1107,15 @@ function restoreReadingPosition() {
   const y = App.pendingRestore.y;
   App.pendingRestore = null;
   window.scrollTo({ top: y, behavior: 'instant' });
+}
+
+/* Repeat visits are what a phone reader actually feels: the shell and the
+   shards already read are served from disk, and the next deploy replaces the
+   cache through the version in sw.js. A browser without service workers, or
+   a copy opened from file://, simply keeps working online. */
+function registerServiceWorker() {
+  if (!('serviceWorker' in navigator) || !/^https?:$/.test(location.protocol)) return;
+  navigator.serviceWorker.register('sw.js').catch(() => {});
 }
 
 function renderStats() {
@@ -1282,8 +1353,12 @@ async function openJournal(rawId, page = 1, postId = null, imageKey = null) {
     if (App.currentPage !== page && !imageKey) {
       replaceHash('j/' + encodeURIComponent(id) + '/' + App.currentPage);
     }
+    await ensureJournalPage(id, App.currentPage);
+    if (token !== App.journalToken) return;
     renderJournalHeader(journal);
     renderJournalPage();
+    prefetchJournalPage(id, App.currentPage + 1);
+    prefetchJournalPage(id, App.currentPage - 1);
     syncActiveNav();
     if (App.pendingRestore && App.pendingRestore.hash === location.hash) {
       const y = App.pendingRestore.y;
@@ -1327,7 +1402,7 @@ function renderJournalHeader(journal) {
   $('#journalSubtitle').innerHTML = [
     `${faNum(journal.pages)} صفحه`,
     `${faNum(journal.posts.length)} پست`,
-    `${faNum(journal.images.length)} تصویر`,
+    `${faNum(journal.imageCount ?? journal.images.length)} تصویر`,
     journal.title ? `<bdi dir="auto">${esc(journal.title)}</bdi>` : '',
   ].filter(Boolean).join(' <span class="sep">·</span> ');
   const sel = $('#pageSelect');
@@ -1608,14 +1683,21 @@ async function openPost(jid, page = 1, pid = '') {
   try {
     const journal = await ensureJournal(jid);
     if (token !== App.journalToken) return;
+    const stub = (journal.posts || []).find(p => p.id === pid);
+    if (!stub) { showView('notfound'); return; }
+    const targetPage = stub.p ?? stub.pageNum ?? page;
+    await ensureJournalPage(jid, targetPage);
+    if (token !== App.journalToken) return;
     const post = (journal.posts || []).find(p => p.id === pid);
     if (!post) { showView('notfound'); return; }
     App.currentJournal = journal;
-    App.currentPage = post.p ?? post.pageNum ?? page;
+    App.currentPage = targetPage;
     App.currentPagePosts = (journal.posts || []).filter(p => (p.p ?? p.pageNum) === App.currentPage);
     const preferred = post.fa ? 'both' : 'en';
     App.postDetail = { journal, post, page: App.currentPage, view: preferred };
     renderPostDetail();
+    prefetchJournalPage(jid, App.currentPage + 1);
+    prefetchJournalPage(jid, App.currentPage - 1);
     recordReading(jid, App.currentPage, pid, post.n || pidLabel(post));
   } catch (e) {
     if (token !== App.journalToken) return;
@@ -2994,6 +3076,28 @@ const onSearchInput = debounce(() => {
   runSearch(q);
 }, 260);
 
+/* ============================== search ============================== */
+
+function searchShardUrl(id) {
+  return 'data/search/' + encodeURIComponent(id) + '.json';
+}
+
+function ensureSearchShard(id) {
+  if (App.search.shards[id]) return Promise.resolve(App.search.shards[id]);
+  return cachedLoad('search_' + id, () => loadJson(searchShardUrl(id)).then(data => {
+    const shard = data && Array.isArray(data.posts) ? data : { posts: [] };
+    App.search.shards[id] = shard;
+    return shard;
+  }));
+}
+
+/* The small journals answer first, so the reader sees real results while the
+   two large books are still arriving. */
+function searchJournalOrder() {
+  return (App.index.journals || []).slice()
+    .sort((a, b) => (a.posts || 0) - (b.posts || 0) || String(a.name).localeCompare(String(b.name), 'en'));
+}
+
 async function runSearch(q) {
   q = String(q || '').trim();
   const input = $('#globalSearch');
@@ -3001,11 +3105,14 @@ async function runSearch(q) {
   const clear = $('#searchClear');
   if (clear) clear.hidden = !q;
   showView('search');
+  const token = ++App.search.token;
   App.search.q = q;
   App.search.postLimit = 30;
   $('#searchTitle').innerHTML = q ? `جستجو: <bdi dir="auto">${esc(q)}</bdi>` : 'جستجو در آرشیو';
   $('#searchSubtitle').textContent = 'در متن پست‌ها و ترجمهٔ فارسی آن‌ها';
   if (!q || q.length < 2) {
+    App.search.loading = false;
+    App.search.posts = [];
     $('#searchStatus').textContent = 'دو حرف به بالا';
     $('#searchResults').innerHTML = '';
     $('#searchMore').hidden = true;
@@ -3013,41 +3120,69 @@ async function runSearch(q) {
   }
   App.search.loading = true;
   App.search.error = '';
-  $('#searchStatus').innerHTML = `<span class="spinner"></span> ایندکس جستجو آماده می‌شود…`;
+  App.search.posts = [];
+  App.search.loaded = 0;
+  App.search.failed = 0;
+  const ids = searchJournalOrder().map(j => j.id);
+  App.search.total = ids.length;
+  $('#searchStatus').innerHTML = `<span class="spinner"></span> جستجو در ${faNum(ids.length)} دفتر…`;
   $('#searchResults').innerHTML = '';
   $('#searchMore').hidden = true;
-  try {
-    const data = await ensureSearchData();
-    if (App.search.q !== q) return;
-    const nq = norm(q);
-    const posts = [];
-    for (const row of (data.posts || [])) {
+  const nq = norm(q);
+  let timer = 0;
+  const paint = () => {
+    if (timer) return;
+    timer = setTimeout(() => {
+      timer = 0;
+      if (token === App.search.token) renderSearchResults();
+    }, 90);
+  };
+  await Promise.all(ids.map(id => ensureSearchShard(id).then(shard => {
+    if (token !== App.search.token) return;
+    for (const row of (shard.posts || [])) {
       const text = row[3] || '';
       const fa = row[4] || '';
-      if (norm(text).includes(nq) || (fa && norm(fa).includes(nq))) posts.push(row);
+      if (norm(text).includes(nq) || (fa && norm(fa).includes(nq))) App.search.posts.push(row);
     }
-    App.search.posts = posts;
-    App.search.loading = false;
-    renderSearchResults();
-  } catch (e) {
-    App.search.loading = false;
-    App.search.error = e.message;
+    App.search.loaded++;
+    paint();
+  }).catch(() => {
+    if (token !== App.search.token) return;
+    App.search.failed++;
+    App.search.loaded++;
+    paint();
+  })));
+  if (token !== App.search.token) return;
+  App.search.loading = false;
+  if (!App.search.posts.length && ids.length && App.search.failed === ids.length) {
+    App.search.error = 'هیچ دفتری خوانده نشد؛ اتصال را بررسی کنید.';
     $('#searchStatus').textContent = '';
-    $('#searchResults').innerHTML = errorState('جستجو انجام نشد', e.message);
+    $('#searchResults').innerHTML = errorState('جستجو انجام نشد', App.search.error);
     $('#searchMore').hidden = true;
+    return;
   }
+  renderSearchResults();
 }
 
 function renderSearchResults() {
   const posts = App.search.posts || [];
   const q = App.search.q;
-  $('#searchStatus').innerHTML = posts.length
-    ? `${faNum(posts.length)} پست برای «<bdi dir="auto">${esc(q)}</bdi>»`
-    : `${icon('info')} چیزی برای «<bdi dir="auto">${esc(q)}</bdi>» پیدا نشد.`;
+  const partial = !!App.search.loading;
+  const progress = partial ? ` · ${faNum(App.search.loaded)}/${faNum(App.search.total)} دفتر` : '';
+  if (partial) {
+    $('#searchStatus').innerHTML = posts.length
+      ? `<span class="spinner"></span> ${faNum(posts.length)} نتیجه تا اینجا${progress}`
+      : `<span class="spinner"></span> جستجو در دفترها${progress}`;
+  } else if (posts.length) {
+    const failed = App.search.failed ? ` · ${faNum(App.search.failed)} دفتر خوانده نشد` : '';
+    $('#searchStatus').innerHTML = `${faNum(posts.length)} پست برای «<bdi dir="auto">${esc(q)}</bdi>»${failed}`;
+  } else {
+    $('#searchStatus').innerHTML = `${icon('info')} چیزی برای «<bdi dir="auto">${esc(q)}</bdi>» پیدا نشد.`;
+  }
   let html = '';
   if (posts.length) {
     const list = posts.slice(0, App.search.postLimit);
-    html += `<div class="rule-head"><h2>پست‌ها</h2><span class="rule-head-note">${faNum(posts.length)} نتیجه</span></div>`;
+    html += `<div class="rule-head"><h2>پست‌ها</h2><span class="rule-head-note">${partial ? 'در حال جستجو' : faNum(posts.length) + ' نتیجه'}</span></div>`;
     html += list.map(row => {
       const [jid, page, pid, text, fa] = row;
       const hitFa = !!fa && norm(fa).includes(norm(q));
@@ -3065,7 +3200,7 @@ function renderSearchResults() {
       </a>`;
     }).join('');
   }
-  if (!html) {
+  if (!html && !partial) {
     html = `<div class="empty-state">${icon('search')}<h3>نتیجه‌ای نیست</h3>
       <p>عبارت دیگری را امتحان کنید؛ مثلاً «liquidity» یا «نقدینگی».</p></div>`;
   }
@@ -3074,6 +3209,38 @@ function renderSearchResults() {
 }
 
 /* ============================== all posts ============================== */
+
+function postsShardUrl(id) {
+  return 'data/posts/' + encodeURIComponent(id) + '.json';
+}
+
+function ensurePostsShard(id) {
+  if (App.all.shards[id]) return Promise.resolve(App.all.shards[id]);
+  return cachedLoad('posts_' + id, () => loadJson(postsShardUrl(id)).then(rows => {
+    App.all.shards[id] = Array.isArray(rows) ? rows : [];
+    return App.all.shards[id];
+  }));
+}
+
+/* Shards finish in whatever order the network gives them; rebuild the flat
+   list in journal order so the ledger never reshuffles under the reader. */
+function rebuildAllRows() {
+  const rows = [];
+  for (const journal of (App.index.journals || [])) {
+    const list = App.all.shards[journal.id];
+    if (!list) continue;
+    for (const row of list) rows.push(row);
+  }
+  App.all.rows = rows;
+}
+
+function scheduleAllRender() {
+  if (App.all.renderTimer) return;
+  App.all.renderTimer = setTimeout(() => {
+    App.all.renderTimer = 0;
+    if (App.currentView === 'all') renderAllPosts();
+  }, 140);
+}
 
 async function openAll() {
   showView('all');
@@ -3084,25 +3251,38 @@ async function openAll() {
       .map(j => `<option value="${esc(j.id)}">${esc(j.name)}</option>`).join('');
     select.value = App.all.filter;
   }
-  if (App.all.data) { renderAllPosts(); return; }
+  if (App.all.rows && !App.all.loading) { renderAllPosts(); return; }
+  if (App.all.loading) return;
   App.all.loading = true;
   App.all.error = '';
+  App.all.rows = [];
+  App.all.loaded = 0;
+  App.all.failed = 0;
+  const ids = (App.index.journals || []).map(j => j.id);
+  App.all.total = ids.length;
   $('#allPosts').innerHTML = `<div class="loading-row"><span class="spinner"></span> فهرست ${faNum(App.index.stats?.posts || 0)} پست بارگذاری می‌شود…</div>`;
   $('#allMore').hidden = true;
-  try {
-    await ensurePostsData();
-    App.all.loading = false;
-    App.all.rows = (window.RTM_POSTS || []).slice();
-    renderAllPosts();
-  } catch (e) {
-    App.all.loading = false;
-    App.all.error = e.message;
-    $('#allPosts').innerHTML = errorState('فهرست پست‌ها بارگذاری نشد', e.message);
+  renderAllPosts();
+  await Promise.all(ids.map(id => ensurePostsShard(id).then(() => {
+    App.all.loaded++;
+    rebuildAllRows();
+    scheduleAllRender();
+  }).catch(() => {
+    App.all.failed++;
+    App.all.loaded++;
+    scheduleAllRender();
+  })));
+  App.all.loading = false;
+  if (ids.length && App.all.failed === ids.length) {
+    App.all.error = 'هیچ دفتری خوانده نشد؛ اتصال را بررسی کنید.';
+    $('#allPosts').innerHTML = errorState('فهرست پست‌ها بارگذاری نشد', App.all.error);
+    return;
   }
+  renderAllPosts();
 }
 
 function renderAllPosts() {
-  const all = App.all.rows || App.all.data || [];
+  const all = App.all.rows || [];
   const journal = App.all.filter;
   const text = norm(App.all.text);
   const savedKeys = new Set(App.bookmarks.map(b => bookmarkKey(b.jid, b.pid)));
@@ -3112,11 +3292,17 @@ function renderAllPosts() {
     rows = rows.filter(row => norm((row[5] || '') + ' ' + (row[7] || '') + ' ' + (row[4] || '')).includes(text));
   }
   const list = rows.slice(0, App.all.limit);
-  $('#allSubtitle').innerHTML = `${faNum(all.length)} پست در ${faNum(App.index.journals.length)} دفتر · نشان‌شده‌ها ${faNum(App.bookmarks.length)}`;
-  $('#allCount').textContent = `${faNum(list.length)} از ${faNum(rows.length)} نمایش داده می‌شود`;
+  const loading = !!App.all.loading;
+  const total = loading ? (App.index.stats?.posts || all.length) : all.length;
+  $('#allSubtitle').innerHTML = `${faNum(total)} پست در ${faNum(App.index.journals.length)} دفتر · نشان‌شده‌ها ${faNum(App.bookmarks.length)}${loading ? ' · در حال بارگذاری…' : ''}`;
+  $('#allCount').textContent = loading
+    ? `${faNum(list.length)} از ${faNum(rows.length)} تا اینجا · ${faNum(App.all.loaded)}/${faNum(App.all.total)} دفتر`
+    : `${faNum(list.length)} از ${faNum(rows.length)} نمایش داده می‌شود`;
   const box = $('#allPosts');
   if (!list.length) {
-    box.innerHTML = `<div class="empty-state">${icon('list')}<h3>پستی نیست</h3><p>پالایش یا عبارت جستجو را تغییر دهید.</p></div>`;
+    box.innerHTML = loading
+      ? `<div class="loading-row"><span class="spinner"></span> فهرست پست‌ها بارگذاری می‌شود… (${faNum(App.all.loaded)}/${faNum(App.all.total)} دفتر)</div>`
+      : `<div class="empty-state">${icon('list')}<h3>پستی نیست</h3><p>پالایش یا عبارت جستجو را تغییر دهید.</p></div>`;
     $('#allMore').hidden = true;
     return;
   }
@@ -3169,7 +3355,7 @@ async function loadGalleryJournal() {
   $('#galleryCount').textContent = '';
   $('#galleryMore').hidden = true;
   try {
-    const journal = await ensureJournal(jid);
+    const journal = await ensureJournalImages(jid);
     App.gallery.currentJournal = journal;
     App.gallery.items = journal.images.slice();
     App.gallery.loading = false;
@@ -3260,10 +3446,23 @@ async function openNotesPlate(key, jid, pid, page) {
      to be open opened the right key in the wrong book — or nothing at all. */
   const meta = journalById(jid);
   if (!meta) { showToast('دفترِ این تصویر پیدا نشد'); return; }
-  const journal = await ensureJournal(meta.id);
-  App.currentJournal = journal;
-  App.currentPage = clamp(page || 1, 1, journal.pages || 1);
-  openViewerForImage(key, pid);
+  try {
+    const journal = await ensureJournal(meta.id);
+    App.currentPage = clamp(page || 1, 1, journal.pages || 1);
+    await ensureJournalPage(meta.id, App.currentPage);
+    /* The note carries the page it was taken on; if the archive moved that
+       plate, the light image index still knows where it lives now. */
+    if (!findImage(journal, key)) {
+      await ensureJournalImages(meta.id);
+      const im = findImage(journal, key);
+      if (im && im.p) App.currentPage = clamp(im.p, 1, journal.pages || 1);
+    }
+    App.currentJournal = journal;
+    App.currentPagePosts = (journal.posts || []).filter(p => (p.p ?? p.pageNum) === App.currentPage);
+    openViewerForImage(key, pid);
+  } catch (e) {
+    showToast('تصویر این یادداشت باز نشد');
+  }
 }
 
 function exportAllBookmarks() {

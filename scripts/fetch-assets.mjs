@@ -14,12 +14,15 @@ import { get } from 'node:https';
 const ASSET = 'assets-v1.tar.gz';
 const ASSET_URL = `https://github.com/Biootak/rtm-journals/releases/download/assets-v1/${ASSET}`;
 const SHA256 = 'c099e6031b8377e307ff89f0412ac4c93695f33bf059c742ed2d530ebd108b15';
-const EXPECTED = { images: 6796, thumbs: 6796 };
+const BASE_COUNT = 6796;
+const EXPECTED = { images: 7176, thumbs: 7176 };
+const DELTA = 'assets-delta-v2.tar.gz';
 
 const root = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const site = join(root, 'site');
 const cacheDir = join(root, '.assets-cache');
 const cacheFile = join(cacheDir, ASSET);
+const deltaFile = join(root, DELTA);
 const force = process.argv.includes('--force');
 
 const count = (dir) => {
@@ -32,6 +35,8 @@ if (!force &&
   console.log('assets already present — nothing to do');
   process.exit(0);
 }
+
+const basePresent = !force && count(join(site, 'assets', 'images')) >= BASE_COUNT;
 
 function download(url, dest, redirects = 5) {
   return new Promise((resolvePromise, reject) => {
@@ -71,32 +76,42 @@ const sha256 = (file) => new Promise((resolvePromise, reject) => {
     .on('error', reject);
 });
 
-mkdirSync(cacheDir, { recursive: true });
-
-if (!existsSync(cacheFile) || statSync(cacheFile).size < 500 * 1024 * 1024 || force) {
-  if (existsSync(cacheFile)) rmSync(cacheFile);
-  console.log(`downloading ${ASSET} (~900 MB, once)…`);
-  const part = cacheFile + '.part';
-  await download(ASSET_URL, part);
-  renameSync(part, cacheFile);
+if (basePresent) {
+  console.log('base images already present — skipping the ~900 MB download');
 } else {
-  console.log('using cached download');
+  mkdirSync(cacheDir, { recursive: true });
+
+  if (!existsSync(cacheFile) || statSync(cacheFile).size < 500 * 1024 * 1024 || force) {
+    if (existsSync(cacheFile)) rmSync(cacheFile);
+    console.log(`downloading ${ASSET} (~900 MB, once)…`);
+    const part = cacheFile + '.part';
+    await download(ASSET_URL, part);
+    renameSync(part, cacheFile);
+  } else {
+    console.log('using cached download');
+  }
+
+  const hash = await sha256(cacheFile);
+  if (SHA256 !== '__SHA256__' && hash !== SHA256) {
+    throw new Error(`checksum mismatch\nexpected ${SHA256}\ngot      ${hash}`);
+  }
+  console.log('checksum ok');
+
+  const tar = spawnSync('tar', ['-xzf', cacheFile, '-C', site], { stdio: 'inherit' });
+  if (tar.status !== 0) {
+    throw new Error('extraction failed — tar is required (Windows 10+ includes it)');
+  }
 }
 
-const hash = await sha256(cacheFile);
-if (SHA256 !== '__SHA256__' && hash !== SHA256) {
-  throw new Error(`checksum mismatch\nexpected ${SHA256}\ngot      ${hash}`);
-}
-console.log('checksum ok');
-
-const tar = spawnSync('tar', ['-xzf', cacheFile, '-C', site], { stdio: 'inherit' });
-if (tar.status !== 0) {
-  throw new Error('extraction failed — tar is required (Windows 10+ includes it)');
+console.log(`extracting ${DELTA}…`);
+const delta = spawnSync('tar', ['-xzf', deltaFile, '-C', site], { stdio: 'inherit' });
+if (delta.status !== 0) {
+  throw new Error(`extraction failed — ${DELTA} must sit in the repository root`);
 }
 
 const images = count(join(site, 'assets', 'images'));
 const thumbs = count(join(site, 'assets', 'thumbs'));
 console.log(`done: ${images} images, ${thumbs} thumbnails`);
-if (images !== EXPECTED.images || thumbs !== EXPECTED.thumbs) {
+if (images < EXPECTED.images || thumbs < EXPECTED.thumbs) {
   throw new Error('unexpected file counts after extraction');
 }
