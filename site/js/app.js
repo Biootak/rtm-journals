@@ -1134,6 +1134,9 @@ function renderStats() {
   setText('heroLines', faNum(translatedPosts));
   setText('heroPosts', faNum(s.posts ?? 0));
   setText('journalCount', faNum(App.index.journals.length));
+  // The masthead headline counts the journals in words, so it follows the
+  // build instead of a number frozen into the markup when the site was written.
+  setText('mastCount', faNum(s.journals ?? App.index.journals.length));
   const side = $('#sideMeta');
   if (side) {
     side.innerHTML = `
