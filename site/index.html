@@ -6,7 +6,6 @@
   <meta name="color-scheme" content="light dark">
   <meta name="description" content="آرشیو یکپارچهٔ ژورنال‌های معامله‌گری RTM (۲۰۱۳–۲۰۱۹) با جستجو در متن پست‌ها">
   <title>آرشیو RTM — ژورنال‌های معامله‌گری</title>
-  <link rel="preconnect" href="css/style.css" as="style">
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
@@ -105,7 +104,7 @@
         </nav>
         <div class="masthead-tools">
           <button class="tool-btn" id="paletteBtn" type="button" title="پالت فرمان (Ctrl+K)" aria-label="پالت فرمان"><svg class="icon"><use href="#i-command"/></svg></button>
-          <button class="tool-btn" id="searchToggle" type="button" title="جستجو" aria-label="باز کردن جستجو"><svg class="icon"><use href="#i-search"/></svg></button>
+          <button class="tool-btn" id="searchToggle" type="button" title="جستجو" aria-label="باز کردن جستجو" aria-controls="searchArea" aria-expanded="false"><svg class="icon"><use href="#i-search"/></svg></button>
           <button class="tool-btn" id="focusBtn" type="button" title="حالت مطالعه: حاشیه‌ها پنهان می‌شوند" aria-label="حالت مطالعه" aria-pressed="false"><svg class="icon"><use href="#i-focus"/></svg></button>
           <button class="tool-btn" id="menuBtn" type="button" title="فهرست ژورنال‌ها" aria-label="فهرست ژورنال‌ها" aria-expanded="false" aria-controls="sidebar"><svg class="icon"><use href="#i-menu"/></svg></button>
           <button class="tool-btn" id="themeBtn" type="button" title="چراغ مطالعه" aria-label="تغییر روشنایی"></button>
@@ -418,7 +417,7 @@
           <div class="pane-board" id="lbBoard">
             <div class="pane-stage" id="lbImageStage">
               <div class="pane-loading" id="lbLoading" hidden><span class="spinner"></span><span>بارگذاری تصویر…</span></div>
-              <img id="lbImage" alt="" draggable="false">
+              <img id="lbImage" alt="تصویر" draggable="false">
             </div>
           </div>
         </div>
@@ -426,7 +425,7 @@
         <p class="sr-only" id="lbStatus" role="status" aria-live="polite"></p>
       </div>
 
-      <aside class="anno-panel" id="annoPanel" hidden aria-label="یادداشت‌های این تصویر">
+      <aside class="anno-panel" id="annoPanel" hidden tabindex="-1" aria-label="یادداشت‌های این تصویر">
         <div class="anno-panel-head">
           <h3>یادداشت‌ها</h3>
           <span class="anno-count" id="annoCount">۰ یادداشت · ۱ گذر</span>
@@ -457,6 +456,7 @@
             <dt>U</dt><dd>افزودن تصویر روی تخته: گزینش از فایل، یا کشیدن و چسباندنِ هر تصویری — نمودار، وایرفریم، عکس مرجع. تصویرِ افزوده بیرونِ نمودار، در حاشیهٔ تخته می‌نشیند تا روی کندل‌ها را نپوشاند؛ هر تصویر را می‌توانید به داخل یا بیرون بکشید، و اندازه‌اش را از گوشه تغییر بدهید — نسبت حفظ می‌شود</dd>
             <dt>کشیدن روی خالی</dt><dd>با ابزارِ برگزیدن، تصویرِ بزرگ‌شده را جابه‌جا می‌کند · Shift+کشیدن کادرِ برگزیدن · Shift+کلیک افزودن به برگزیده</dd>
             <dt>Space+کشیدن</dt><dd>با هر ابزاری تصویر را جابه‌جا کن؛ دکمهٔ میانیِ ماوس هم همین کار را می‌کند</dd>
+            <dt>دو انگشت</dt><dd>با هر ابزاری روی تصویر: بزرگ‌نمایی و کوچک‌نمایی با فاصلهٔ دو انگشت، و رفتن به هر گوشه با حرکتِ هم‌زمانِ آن‌ها. اگر انگشتِ اول شروع به کشیدن کرده باشد، با آمدن انگشت دوم آن کشیدن لغو می‌شود</dd>
             <dt>جابه‌جایی</dt><dd>لبه‌ها و مرکزها خودکار به هم می‌چسبند؛ برای آزاد گذاشتن Alt را نگه دار</dd>
             <dt>← → ↑ ↓</dt><dd>جابه‌جاییِ ریزِ برگزیده؛ با Shift ده‌برابر</dd>
             <dt>Tab / Shift+Tab</dt><dd>روی تصویر: یادداشتِ بعدی یا پیشین؛ داخلِ نوار ابزار Tab عادی کار می‌کند</dd>
@@ -583,6 +583,7 @@
             <li><kbd>چرخ ماوس</kbd> بزرگ‌نمایی دقیقاً همان‌جا که نشانگر ایستاده (در حالت «پیمایش»: جابه‌جایی)</li>
             <li><kbd>Ctrl</kbd>+<kbd>چرخ</kbd> بزرگ‌نمایی، هر حالتی که برگزیده باشید</li>
             <li><kbd>کشیدن</kbd> جابه‌جایی روی تصویر · <kbd>Shift</kbd>+<kbd>چرخ</kbd> جابه‌جایی افقی</li>
+            <li><kbd>دو انگشت</kbd> روی صفحهٔ لمسی: بزرگ‌نمایی با فاصله و جابه‌جایی با حرکتِ هم‌زمان — در حالت یادداشت هم کار می‌کند</li>
             <li><kbd>Shift</kbd>+<kbd>کشیدن</kbd> دور بخشی از تصویر کادر بکشید تا همان بخش بزرگ شود</li>
             <li><kbd>دابل‌کلیک</kbd> زوم روی همان نقطه؛ دوباره، برگشت به کل تصویر</li>
             <li><kbd>+</kbd> <kbd>−</kbd> بزرگ‌نمایی و کوچک‌نمایی · <kbd>0</kbd> پنجره · <kbd>2</kbd> پهنا · <kbd>1</kbd> واقعی</li>

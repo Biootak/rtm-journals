@@ -99,14 +99,23 @@ function escapeRegex(s) {
 }
 
 function highlight(text, q) {
-  const safe = esc(text);
-  if (!q || !q.trim()) return safe;
-  try {
-    const re = new RegExp('(' + escapeRegex(q.trim()) + ')', 'gi');
-    return safe.replace(re, '<mark>$1</mark>');
-  } catch {
-    return safe;
+  const raw = String(text == null ? '' : text);
+  const needle = String(q || '').trim();
+  if (!needle) return esc(raw);
+  /* Match on the raw text and escape only the pieces: searching the escaped
+     HTML let a query like "amp" mark the inside of an `&amp;` entity and
+     printed a broken entity on screen. */
+  let re;
+  try { re = new RegExp(escapeRegex(needle), 'gi'); } catch { return esc(raw); }
+  let out = '';
+  let last = 0;
+  let m;
+  while ((m = re.exec(raw))) {
+    if (!m[0]) { re.lastIndex += 1; continue; }
+    out += esc(raw.slice(last, m.index)) + '<mark>' + esc(m[0]) + '</mark>';
+    last = m.index + m[0].length;
   }
+  return out + esc(raw.slice(last));
 }
 
 function snippet(text, q, max = 230) {
@@ -283,11 +292,32 @@ function paintMoreRow(id, remaining, unit) {
 
 /* ============================== settings ============================== */
 
+/* A stored profile is untrusted input: an old build, a hand-edited value or a
+   half-written object could carry a font size that is a string, a theme that
+   selects no stylesheet, or a wheel mode that leaves the plate dead. Every
+   value is checked against the closed set the UI actually offers. */
 function loadSettings() {
+  const clean = (input) => {
+    const src = input && typeof input === 'object' ? input : {};
+    const out = { ...DEFAULT_SETTINGS, ...src };
+    out.fontSize = clamp(Number(out.fontSize) || DEFAULT_SETTINGS.fontSize, 13, 24);
+    for (const [key, allowed] of Object.entries({
+      sidebar: ['auto', 'open', 'closed'],
+      header: ['compact', 'static'],
+      imageFit: ['fit', 'width', 'actual'],
+      wheel: ['zoom', 'pan'],
+      language: ['both', 'fa', 'en'],
+    })) {
+      if (!allowed.includes(out[key])) out[key] = DEFAULT_SETTINGS[key];
+    }
+    out.lamp = !!out.lamp;
+    out.focus = !!out.focus;
+    return out;
+  };
   try {
     const raw = localStorage.getItem(SETTINGS_KEY);
     if (raw) {
-      const merged = { ...DEFAULT_SETTINGS, ...JSON.parse(raw) };
+      const merged = clean(JSON.parse(raw));
       /* The first v3 build shipped wheel:'pan'. A stored 'pan' nobody picked is
          that old default, not a decision — move it to the new default instead
          of leaving the wheel dead on every existing profile. */
@@ -298,9 +328,8 @@ function loadSettings() {
     // is dropped rather than inverted onto the reader.
     const old = localStorage.getItem('rtm_archive_settings_v2');
     if (old) {
-      const merged = { ...DEFAULT_SETTINGS, ...JSON.parse(old) };
+      const merged = clean(JSON.parse(old));
       delete merged.light;
-      merged.fontSize = clamp(Number(merged.fontSize) || DEFAULT_SETTINGS.fontSize, 13, 24);
       return merged;
     }
     return { ...DEFAULT_SETTINGS };
@@ -400,8 +429,18 @@ function updateHeaderState() {
   setMastVar();
 }
 
+function setSearchOpen(open) {
+  document.body.classList.toggle('search-open', !!open);
+  const btn = $('#searchToggle');
+  if (btn) btn.setAttribute('aria-expanded', String(!!open));
+}
+
 function focusSearch() {
   document.body.classList.remove('head-compact', 'head-hidden');
+  /* On a phone the band is not on screen until asked for; without opening it
+     first, focusing the input was focusing a display:none element and the
+     search button did nothing at all. */
+  setSearchOpen(window.matchMedia('(max-width:700px)').matches);
   const input = $('#globalSearch');
   if (input) { input.focus(); input.select(); }
   setMastVar();
@@ -927,42 +966,45 @@ function threadJump(target) {
   go(`p/${encodeURIComponent(jid)}/${page}/${encodeURIComponent(pid)}`);
 }
 
+/* A rejected promise must not be cached: one flaky load used to poison the
+   key for the rest of the session, so pressing «تلاش دوباره» could never
+   actually try again. */
+function cachedLoad(key, start) {
+  if (!App.promises[key]) {
+    const p = start();
+    App.promises[key] = p;
+    p.catch(() => { if (App.promises[key] === p) delete App.promises[key]; });
+  }
+  return App.promises[key];
+}
+
 function ensureJournal(id) {
   if (App.cache[id]) return Promise.resolve(App.cache[id]);
-  if (!App.promises['journal_' + id]) {
-    App.promises['journal_' + id] = loadScript('data/journals/' + encodeURIComponent(id) + '.js')
-      .then(() => {
-        const data = (window.RTM_JOURNAL_CACHE || {})[id];
-        if (!data) throw new Error('دادهٔ ژورنال پیدا نشد: ' + id);
-        App.cache[id] = data;
-        return data;
-      });
-  }
-  return App.promises['journal_' + id];
+  return cachedLoad('journal_' + id, () =>
+    loadScript('data/journals/' + encodeURIComponent(id) + '.js').then(() => {
+      const data = (window.RTM_JOURNAL_CACHE || {})[id];
+      if (!data) throw new Error('دادهٔ ژورنال پیدا نشد: ' + id);
+      App.cache[id] = data;
+      return data;
+    }));
 }
 
 function ensureSearchData() {
   if (window.RTM_SEARCH) { App.search.data = window.RTM_SEARCH; return Promise.resolve(window.RTM_SEARCH); }
-  if (!App.promises.search) {
-    App.promises.search = loadScript('data/search.js').then(() => {
-      if (!window.RTM_SEARCH) throw new Error('ایندکس جستجو پیدا نشد.');
-      App.search.data = window.RTM_SEARCH;
-      return window.RTM_SEARCH;
-    });
-  }
-  return App.promises.search;
+  return cachedLoad('search', () => loadScript('data/search.js').then(() => {
+    if (!window.RTM_SEARCH) throw new Error('ایندکس جستجو پیدا نشد.');
+    App.search.data = window.RTM_SEARCH;
+    return window.RTM_SEARCH;
+  }));
 }
 
 function ensurePostsData() {
   if (window.RTM_POSTS) { App.all.data = window.RTM_POSTS; return Promise.resolve(window.RTM_POSTS); }
-  if (!App.promises.posts) {
-    App.promises.posts = loadScript('data/posts.js').then(() => {
-      if (!window.RTM_POSTS) throw new Error('فهرست پست‌ها پیدا نشد.');
-      App.all.data = window.RTM_POSTS;
-      return window.RTM_POSTS;
-    });
-  }
-  return App.promises.posts;
+  return cachedLoad('posts', () => loadScript('data/posts.js').then(() => {
+    if (!window.RTM_POSTS) throw new Error('فهرست پست‌ها پیدا نشد.');
+    App.all.data = window.RTM_POSTS;
+    return window.RTM_POSTS;
+  }));
 }
 
 /* ============================== boot ============================== */
@@ -1048,7 +1090,7 @@ function renderRail() {
   list.innerHTML = journals.map((j, i) => {
     const rank = priorityRank(j.id);
     return `
-    <a class="toc-item${rank ? ' is-priority' : ''}" href="#/j/${encodeURIComponent(j.id)}/1" data-journal="${esc(j.id)}">
+    <a class="toc-item${rank ? ' is-priority' : ''}" href="#/j/${encodeURIComponent(j.id)}/1" data-journal="${esc(j.id)}" data-name="${esc(j.name)}">
       <span class="toc-num">${faNum(i + 1)}</span>
       <span class="toc-name"><bdi dir="auto">${esc(j.name)}</bdi>${rank ? `<span class="toc-star" role="img" aria-label="ژورنال اولویت‌دار — اولویت ${faNum(rank)}">★</span>` : ''}</span>
       <span class="toc-count" title="${faNum(j.pages)} صفحه">${faNum(j.pages)}</span>
@@ -1065,7 +1107,7 @@ function applyRailFilter(rawQ) {
   const rows = $$('.toc-item[data-journal]');
   let shown = 0;
   rows.forEach(el => {
-    const hit = !q || norm(el.querySelector('.toc-name')?.textContent || '').includes(q);
+    const hit = !q || norm(el.dataset.name || el.querySelector('.toc-name')?.textContent || '').includes(q);
     el.hidden = !hit;
     if (hit) shown++;
   });
@@ -1126,6 +1168,12 @@ function route() {
     try { return decodeURIComponent(p); } catch { return p; }
   });
   const view = parts[0] || 'home';
+  /* A deep link to a plate is the only route that owns the viewer; walking to
+     any other address has to put the viewer away, or the plate stays pasted
+     over the page the address bar now names. */
+  const plateRoute = view === 'i' && !!(parts[1] && parts[3]);
+  if (!plateRoute) closeViewer();
+  if (document.body.classList.contains('search-open')) setSearchOpen(false);
   if (view === 'home' || view === '') { showView('home'); syncActiveNav(); return; }
   if (view === 'j' && parts[1]) { openJournal(parts[1], num(parts[2]) || 1, null, null); return; }
   if (view === 'p' && parts[1] && parts[3]) { openPost(parts[1], num(parts[2]) || 1, parts[3]); return; }
@@ -1229,6 +1277,11 @@ async function openJournal(rawId, page = 1, postId = null, imageKey = null) {
     if (token !== App.journalToken) return;
     App.currentJournal = journal;
     App.currentPage = clamp(page || 1, 1, journal.pages || 1);
+    /* The reader may have typed a page the journal does not have; the content
+       is clamped, so the address bar has to tell the same story. */
+    if (App.currentPage !== page && !imageKey) {
+      replaceHash('j/' + encodeURIComponent(id) + '/' + App.currentPage);
+    }
     renderJournalHeader(journal);
     renderJournalPage();
     syncActiveNav();
@@ -1286,6 +1339,7 @@ function renderJournalHeader(journal) {
   const original = $('#openOriginal');
   if (original) {
     const url = originalPageUrl(journal, App.currentPage);
+    original.hidden = url === '#';
     if (url === '#') {
       original.removeAttribute('href');
       original.title = 'پیوند فایل اصلی برای این صفحه ثبت نشده است';
@@ -1329,7 +1383,7 @@ function renderJournalBottomPager(journal) {
   if (!box) return;
   const page = App.currentPage;
   const atEnd = page >= journal.pages;
-  const list = (App.index && App.index.journals) || [];
+  const list = orderedJournals();
   const idx = list.findIndex(j => j.id === journal.id);
   const after = idx >= 0 ? list[idx + 1] : null;
   const nextLink = !atEnd ? '' : (after
@@ -1352,11 +1406,15 @@ function renderJournalBottomPager(journal) {
   box.querySelector('[data-edge="next"]')?.addEventListener('click', () => jump(1));
 }
 
+/* The scanned originals are far too large to publish with the archive, so a
+   `../dir/file` guess was a guaranteed 404 on every deployed page. The link is
+   only offered when the deployment actually names a base for them. */
 function originalPageUrl(journal, page) {
+  const base = String(window.RTM_ORIGINALS_BASE || '').replace(/\/+$/, '');
   const file = Array.isArray(journal.pageFiles) ? journal.pageFiles[page - 1] : null;
-  if (!file || !journal.dir) return '#';
+  if (!base || !file || !journal.dir) return '#';
   const enc = s => encodeURIComponent(s).replace(/%2F/gi, '/');
-  return '../' + enc(journal.dir) + '/' + enc(file);
+  return base + '/' + enc(journal.dir) + '/' + enc(file);
 }
 
 function setJournalLoading() {
@@ -1596,6 +1654,7 @@ function renderPostDetail() {
   const original = $('#postOriginal');
   if (original) {
     const url = originalPageUrl(journal, pnum);
+    original.hidden = url === '#';
     if (url === '#') original.removeAttribute('href');
     else original.href = url;
     original.onclick = (e) => { if (!original.getAttribute('href')) e.preventDefault(); };
@@ -2300,7 +2359,10 @@ function openViewer(items, idx, journal) {
   lb.hidden = false;
   syncRail();
   renderViewer();
-  setTimeout(() => $('#lbCloseTop')?.focus(), 30);
+  /* Focus the dialog itself, not its close button: on a phone the button's
+     focus ring read as a selection and painted a blue halo over the plate. */
+  lb.tabIndex = -1;
+  lb.focus({ preventScroll: true });
 }
 
 function closeViewer() {
@@ -2576,6 +2638,19 @@ function zoomToRect(rect) {
   const status = $('#lbStatus');
   if (status) status.textContent = 'ناحیهٔ انتخابی بزرگ شد';
 }
+
+/* The annotation layer owns the pointers while a tool is in hand, so its
+   two-finger gesture has to drive the same zoom path the viewer uses. These
+   three are the whole contract: scale around a screen point, pan by a screen
+   delta, and read the resulting scale after the clamp. */
+window.RTM_VIEWER = {
+  setZoom,
+  panBy: panViewer,
+  getScale: () => App.viewer.zoom.scale,
+};
+/* The notes panel's «پرش به نشانه» calls this through the global lookup; it was
+   never exposed, so choosing a note in a zoomed-out plate did nothing. */
+window.zoomToRect = zoomToRect;
 
 /* The plate is only "shown" once this runs: it lifts the loading veil and lets
    the zoom code measure the image. Both the `load` event and renderViewer's own
@@ -3181,7 +3256,9 @@ function setupNotesView() {
 /* A note row on the «یادداشت‌ها» page names a plate, but its journal has to be
    loaded before the viewer can page through anything. */
 async function openNotesPlate(key, jid, pid, page) {
-  const meta = journalById(jid) || App.currentJournal;
+  /* The note names its own journal. Falling back to whatever journal happened
+     to be open opened the right key in the wrong book — or nothing at all. */
+  const meta = journalById(jid);
   if (!meta) { showToast('دفترِ این تصویر پیدا نشد'); return; }
   const journal = await ensureJournal(meta.id);
   App.currentJournal = journal;
@@ -3205,6 +3282,7 @@ function exportAllBookmarks() {
 function clearBookmarks() {
   if (!App.bookmarks.length) { showToast('فهرست خالی است'); return; }
   const n = App.bookmarks.length;
+  if (!window.confirm(`همهٔ ${faNum(n)} نشان حذف شود؟ این کار برگشت‌پذیر نیست.`)) return;
   App.bookmarks = [];
   saveBookmarks();
   renderShelf();
@@ -3298,13 +3376,18 @@ function setupEvents() {
     if (e.key === 'Enter') {
       e.preventDefault();
       const q = search.value.trim();
-      if (q.length >= 2) { replaceHash('search/' + encodeURIComponent(q)); runSearch(q); }
+      if (q.length >= 2) {
+        replaceHash('search/' + encodeURIComponent(q));
+        runSearch(q);
+        setSearchOpen(false);
+      }
     }
-    if (e.key === 'Escape') { search.value = ''; $('#searchClear').hidden = true; go(''); search.blur(); }
+    if (e.key === 'Escape') { search.value = ''; $('#searchClear').hidden = true; setSearchOpen(false); go(''); search.blur(); }
   });
   $('#searchClear')?.addEventListener('click', () => {
     search.value = '';
     $('#searchClear').hidden = true;
+    setSearchOpen(false);
     go('');
     search.focus();
   });
@@ -3355,7 +3438,10 @@ function setupEvents() {
   $('#menuBtn')?.addEventListener('click', toggleRail);
   $('#sideBackdrop')?.addEventListener('click', () => { App.railOpen = false; syncRail(); });
   $('#focusBtn')?.addEventListener('click', toggleFocusMode);
-  $('#searchToggle')?.addEventListener('click', focusSearch);
+  $('#searchToggle')?.addEventListener('click', () => {
+    if (document.body.classList.contains('search-open')) setSearchOpen(false);
+    else focusSearch();
+  });
   $('#paletteBtn')?.addEventListener('click', () => openPalette());
 
   /* Compact chrome. An IntersectionObserver on a sentinel near the top is used

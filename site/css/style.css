@@ -351,6 +351,7 @@ html[dir="rtl"] .toc-item:hover { transform:translateX(2px); }
 .btn-quiet:hover { border-color:var(--accent); color:var(--accent-deep); background:var(--accent-soft); }
 .btn-sm { padding:7px 13px; font-size:12.5px; }
 .btn:disabled { opacity:.4; pointer-events:none; }
+.btn[hidden] { display:none; }
 
 /* inline text widgets */
 .checkline { display:inline-flex; align-items:center; gap:8px; font-size:13px; color:var(--ink-2); cursor:pointer; min-height:28px; }
@@ -626,10 +627,21 @@ html[data-theme="lamp"] .pane-scroll { background: radial-gradient(circle at 50%
   .pane { border-inline-end:0; border-block-end:1px solid var(--rule); }
   .panel { position:absolute; inset-inline:0; inset-block-end:0; max-height:52vh; border-top:1px solid var(--rule-strong); border-radius:18px 18px 0 0; box-shadow:var(--shadow-lift); transition:transform .26s cubic-bezier(.4,0,.2,1); }
   .panel[data-sheet="closed"] { transform:translateY(calc(100% - 52px)); }
-  .viewer-toolbar { padding:6px 8px; row-gap:6px; }
+  /* A phone bar is for thumbs: page, take the pen, get out. The rest of the
+     furniture (post, fullscreen) is a level down, and the zoom instruments get
+     a compact pill of their own under the bar instead of stretching it into a
+     third ragged line. */
+  .viewer-toolbar { padding:6px 8px; padding-top:max(6px, env(safe-area-inset-top)); row-gap:6px; }
+  .pane-foot { padding-bottom:max(9px, env(safe-area-inset-bottom)); }
   .viewer-toolbar .vt-sep, .viewer-toolbar .grow { display:none; }
   .viewer-toolbar .vt-group:nth-of-type(3) { margin-inline-start:auto; }
-  .viewer-toolbar .vt-group:nth-of-type(2) { order:3; flex-basis:100%; justify-content:space-between; }
+  .viewer-toolbar #lbOpenPost, .viewer-toolbar #lbFullscreen { display:none; }
+  .viewer-toolbar .vt-group:nth-of-type(2) {
+    order:3; flex:0 0 auto; margin-inline:auto; justify-content:center; gap:4px;
+    padding:3px; border:1px solid var(--rule); border-radius:999px; background:var(--paper-raised);
+  }
+  .viewer-toolbar .vt-zoom { height:40px; }
+  .viewer-toolbar #lbZoomWidth, .viewer-toolbar #lbZoomActual { display:none; }
 }
 
 /* --------------------------------------------------------- annotation -- */
@@ -850,14 +862,23 @@ html[data-theme="lamp"] .pane-scroll { background: radial-gradient(circle at 50%
 .notes-search:focus { outline:0; border-color:var(--accent); box-shadow:0 0 0 3px var(--accent-soft); }
 @media (max-width:860px) {
   .viewer-shell.has-anno { grid-template-columns:minmax(0,1fr); }
-  .anno-panel { position:absolute; inset-inline:0; inset-block-end:0; z-index:4; max-height:56%; border-top:1px solid var(--rule-strong); border-radius:18px 18px 0 0; box-shadow:var(--shadow-lift); }
+  /* On a phone the sheet takes the screen: a 56% drawer left a sliver of plate
+     between the toolbar and the rail that was too small to read or draw on, and
+     its own footer was fighting the system bar. The close button gives the
+     plate back. */
+  .anno-panel { position:absolute; inset:0; z-index:4; max-height:none; border-top:1px solid var(--rule-strong); border-radius:0; box-shadow:var(--shadow-lift); padding-top:env(safe-area-inset-top); }
+  .anno-panel-foot { padding-bottom:max(10px, env(safe-area-inset-bottom)); }
   .anno-layer { touch-action:none; }
-  .anno-rail { padding:6px 8px; }
+  .anno-rail { padding:6px 8px; gap:4px; row-gap:5px; }
   .anno-rail .vt-sep { display:none; }
-  /* Two deliberate rows: instruments and history on top, the style/context
-     strip beneath them, instead of one orphaned button on a line of its own. */
-  .anno-zone-actions { order:2; }
-  .anno-zone-style { order:3; flex-basis:100%; }
+  /* Fourteen instruments cannot wrap into the plate on a phone. They become one
+     swipeable strip; undo and the other verbs stay pinned beside it, and the
+     style strip gets a row of its own underneath. */
+  .anno-zone-tools { order:1; flex:1 1 0; min-width:0; flex-wrap:nowrap; overflow-x:auto; overscroll-behavior-x:contain; scrollbar-width:none; -webkit-overflow-scrolling:touch; -webkit-mask-image:linear-gradient(to left, transparent 0, #000 16px); mask-image:linear-gradient(to left, transparent 0, #000 16px); }
+  .anno-zone-tools::-webkit-scrollbar, .anno-zone-style::-webkit-scrollbar { display:none; }
+  .anno-zone-actions { order:2; margin-inline-start:0; flex-wrap:nowrap; }
+  .anno-zone-style { order:3; flex:1 1 100%; flex-wrap:nowrap; overflow-x:auto; overscroll-behavior-x:contain; scrollbar-width:none; -webkit-overflow-scrolling:touch; }
+  .anno-zone-tools > *, .anno-zone-style > * { flex:0 0 auto; }
   .anno-tool { width:30px; height:30px; }
   .anno-tool .icon { width:16px; height:16px; }
   .anno-ink { width:19px; height:19px; }
@@ -1024,8 +1045,25 @@ html[dir="rtl"] .toast.is-on { transform:translate(50%,0); }
 @media (max-width:700px) {
   :root { --gutter:14px; }
   .wordmark-sub { display:none; }
+  .masthead { padding-top:env(safe-area-inset-top); }
   .masthead-row { gap:10px; flex-wrap:wrap; padding-block:8px; }
   .stat-strip { display:none; }
+  /* Four icons a thumb can reach (search, focus, the shelf, settings); the
+     command palette needs a keyboard, and the lamp has its own switch in the
+     settings sheet, so neither earns a slot in the phone bar. */
+  .masthead-tools #paletteBtn, .masthead-tools #themeBtn { display:none; }
+  body.is-reading .masthead-tools #searchToggle { display:inline-grid; }
+  .search-kbd { display:none; }
+  /* The band is not a permanent strip on a phone. The toggle opens it as a
+     sheet under the bar; a second press, Esc, or choosing a result puts it away
+     again, so the reader never has to hunt for the keyboard. */
+  body.search-open .search-band {
+    display:block; position:absolute; inset-block-start:100%; inset-inline:0; z-index:2;
+    padding:8px var(--gutter) 12px; margin:0;
+    background:var(--paper); border-bottom:1px solid var(--rule); box-shadow:var(--shadow-md);
+  }
+  body.search-open .search-note { display:none; }
+  body.search-open .search-line input { font-size:16px; }
   .index-row { grid-template-columns:24px minmax(0,1fr) auto; gap:10px; padding:14px; }
   .index-row .idx-title { display:none; }
   .latest-item { grid-template-columns:minmax(0,1fr); gap:6px; padding:14px; }
@@ -1041,6 +1079,15 @@ html[dir="rtl"] .toast.is-on { transform:translate(50%,0); }
   .mast { padding:24px 0 28px; }
   .tool-btn { width:36px; height:36px; }
   .search-line { min-height:44px; }
+}
+/* Small phones: the wordmark gives the three tools their room back, and the
+   instrument strip keeps one more tool visible by dropping the least-used verb
+   (turning a mark into a copy is still on the keyboard and the context menu). */
+@media (max-width:480px) {
+  .wordmark::before { width:30px; height:30px; }
+  .wordmark-main { font-size:18px; }
+  .masthead-tools { gap:2px; }
+  .anno-zone-actions #annoDuplicate { display:none; }
 }
 
 /* touch — 40px minimum everywhere tappable */

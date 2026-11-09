@@ -1601,6 +1601,13 @@ const Anno = (function () {
   let raf = 0;
   let spaceDown = false; // Space turns any tool into a hand, as on every canvas
   let panRaf = 0;
+  /* Touch pointers live on the layer while a tool is armed, and `touch-action:
+     none` (rightly) stops the browser's own pinch. Two fingers therefore get a
+     first-class zoom-and-pan gesture here; `suppressed` keeps the finger that
+     started a stroke from drawing again once the pinch has taken over. */
+  const touchPointers = new Map();
+  const suppressedTouches = new Set();
+  let pinch = null;
 
   function mountLayer() {
     const stage = document.getElementById('lbImageStage');
@@ -1988,6 +1995,76 @@ const Anno = (function () {
     }
   }
 
+  /* ------------------------------------------------------- two-finger zoom
+     The plate is a chart: on a phone the reader needs to pinch into a candle
+     cluster and slide the paper under the fingers, exactly as in the viewer's
+     own pinch. A second touch cancels the half-started stroke (nobody meant to
+     draw the first 80 ms of a pinch), then the gesture zooms around the
+     previous midpoint and pans by however far that midpoint travelled, so the
+     content stays glued to the fingers at every scale. */
+  const touchMid = (a, b) => ({ x: (a.x + b.x) / 2, y: (a.y + b.y) / 2 });
+  const touchDist = (a, b) => Math.max(1, Math.hypot(a.x - b.x, a.y - b.y));
+
+  function beginPinch() {
+    const api = window.RTM_VIEWER;
+    if (!api || touchPointers.size < 2) return;
+    /* Drop the stroke, marquee or move the first finger had begun; a pinch is
+       never also a drawing. */
+    if (draft) {
+      draft = null;
+      clearLiveInk();
+      inkCursor = null;
+    }
+    if (drag) {
+      /* A second finger during a move/resize means the gesture was a pinch,
+         not an edit: put the marks back where they were. */
+      const restore = drag.moved && (drag.mode === 'move' || drag.mode === 'resize' || drag.mode === 'tail');
+      if (drag.pointerId !== undefined) { try { layer.releasePointerCapture(drag.pointerId); } catch { /* already gone */ } }
+      if (drag.mode === 'marquee' && marqueeNode && marqueeNode.parentNode) marqueeNode.parentNode.removeChild(marqueeNode);
+      if (drag.mode === 'marquee') marqueeNode = null;
+      drag = null;
+      if (restore) undo();
+    }
+    if (sweep) endSweep();
+    for (const id of touchPointers.keys()) suppressedTouches.add(id);
+    const [a, b] = [...touchPointers.values()];
+    pinch = {
+      dist: touchDist(a, b),
+      mid: touchMid(a, b),
+      scale: api.getScale(),
+    };
+    layer.classList.add('is-panning');
+    renderLayer();
+  }
+
+  function movePinch() {
+    const api = window.RTM_VIEWER;
+    if (!pinch || !api || touchPointers.size < 2) return;
+    const [a, b] = [...touchPointers.values()];
+    const mid = touchMid(a, b);
+    const scale = pinch.scale * (touchDist(a, b) / pinch.dist);
+    /* Anchor on the previous midpoint, then translate by the midpoint's own
+       travel: zoom first, pan second, so a stationary pinch does not drift. */
+    api.setZoom(scale, pinch.mid);
+    api.panBy(pinch.mid.x - mid.x, pinch.mid.y - mid.y);
+    pinch.dist = touchDist(a, b);
+    pinch.mid = mid;
+    pinch.scale = api.getScale();
+  }
+
+  function endPinch() {
+    pinch = null;
+    if (layer) layer.classList.remove('is-panning');
+  }
+
+  /* Closing the plate or leaving the mode can land between the two downs of a
+     gesture; stale ids would make the next single finger look like a pinch. */
+  function resetTouches() {
+    touchPointers.clear();
+    suppressedTouches.clear();
+    endPinch();
+  }
+
   /* Where the grips for this kind sit, in normalised units, and which one each
      is. An arrow gets two because either end may be the one the reader meant to
      move — with a single tip grip, an arrow that points the wrong way can only
@@ -2041,6 +2118,15 @@ const Anno = (function () {
     const middle = e.pointerType === 'mouse' && e.button === 1;
     if (e.pointerType === 'mouse' && e.button !== 0 && !middle) return;
     e.stopPropagation();
+    if (e.pointerType === 'touch') {
+      if (suppressedTouches.has(e.pointerId)) { e.preventDefault(); return; }
+      touchPointers.set(e.pointerId, { x: e.clientX, y: e.clientY });
+      if (touchPointers.size >= 2) {
+        if (!pinch) beginPinch();
+        e.preventDefault();
+        return;
+      }
+    }
     /* Space and the middle button are a hand in every tool: they never draw,
        never erase and never touch the selection. */
     if ((middle || spaceDown) && startPan(e)) return;
@@ -2165,6 +2251,11 @@ const Anno = (function () {
   }
 
   function onLayerMove(e) {
+    if (e.pointerType === 'touch') {
+      if (touchPointers.has(e.pointerId)) touchPointers.set(e.pointerId, { x: e.clientX, y: e.clientY });
+      if (pinch) { movePinch(); e.preventDefault(); e.stopPropagation(); return; }
+      if (suppressedTouches.has(e.pointerId)) return;
+    }
     if (sweep) { eraseAlong(e); return; }
     if (drag && drag.mode === 'pan') { movePan(e); return; }
     if (drag && drag.mode === 'marquee') { moveMarquee(e); return; }
@@ -2177,6 +2268,19 @@ const Anno = (function () {
   }
 
   function onLayerUp(e) {
+    if (e.pointerType === 'touch') {
+      touchPointers.delete(e.pointerId);
+      if (pinch) {
+        if (touchPointers.size < 2) endPinch();
+        e.preventDefault();
+        return;
+      }
+      if (suppressedTouches.delete(e.pointerId)) {
+        if (!touchPointers.size) suppressedTouches.clear();
+        e.preventDefault();
+        return;
+      }
+    }
     if (sweep) { endSweep(); return; }
     if (drag && drag.mode === 'pan') { endPan(); return; }
     if (drag && drag.mode === 'marquee') { endMarquee(); return; }
@@ -4062,10 +4166,11 @@ const Anno = (function () {
   function setPanel(open) {
     state.panelOpen = !!open;
     paintPanel();
-    /* Whichever control is left on screen keeps the focus, so a keyboard reader
-       is never dropped on a hidden element. */
-    const el = open ? $('#annoPanelClose') : $('#annoPeek');
-    if (el && !el.hidden) el.focus();
+    /* The surface itself takes focus, not its «بستن» button: a programmatic
+       focus on the button painted a blue ring on a touch screen, where it read
+       as a selection. The panel still catches Tab and Esc like before. */
+    const el = open ? $('#annoPanel') : $('#annoPeek');
+    if (el && !el.hidden) el.focus({ preventScroll: true });
   }
 
   /* The sheet is open only while it is being read: picking a tool, leaving the
@@ -4114,6 +4219,7 @@ const Anno = (function () {
       draft = null;
       clearLiveInk();
       inkCursor = null;
+      resetTouches();
       if (layer) { layer.classList.remove('is-capturing'); }
     }
     /* The layer's viewBox and the board's padding both depend on the mode. */
@@ -4861,6 +4967,7 @@ const Anno = (function () {
     if (state.set && state.imageKey !== imageKey) flushSave();
     closeEditor(true);
     draft = null; drag = null; sweep = null; freshId = '';
+    resetTouches();
     state.imageKey = imageKey;
     state.plate = plate;
     state.journal = journal;
@@ -4962,6 +5069,7 @@ const Anno = (function () {
   function detach() {
     closeEditor(true);
     draft = null; drag = null; sweep = null; freshId = '';
+    resetTouches();
     if (panRaf) { cancelAnimationFrame(panRaf); panRaf = 0; }
     spaceDown = false;
     if (layer) layer.classList.remove('is-panning', 'is-pan-ready');
