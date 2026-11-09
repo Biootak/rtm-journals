@@ -288,6 +288,8 @@ body.focus-mode .colophon { grid-template-columns: minmax(0,1fr); }
 html[dir="rtl"] .toc-item:hover { transform:translateX(2px); }
 .toc-item.is-active { background:var(--accent-soft); border-color:var(--accent-line); color:var(--accent-deep); }
 .toc-num { font-family:var(--mo); font-size:11px; color:var(--ink-3); }
+.toc-item.is-priority .toc-num { color:var(--accent-deep); background:var(--accent-soft); border-radius:6px; text-align:center; }
+.toc-star { margin-inline-start:5px; font-size:10px; color:var(--accent); vertical-align:1px; }
 .toc-name { font-size:13px; line-height:1.5; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
 .toc-count { font-family:var(--mo); font-size:11px; color:var(--ink-3); background:var(--paper-raised); padding:2px 7px; border-radius:999px; border:1px solid var(--rule); }
 .toc-empty { padding:10px 12px; font-size:12.5px; color:var(--ink-3); background:var(--paper-warm); border-radius:10px; border:1px dashed var(--rule-strong); }
@@ -371,6 +373,12 @@ html[dir="rtl"] .toc-item:hover { transform:translateX(2px); }
 .index-row:hover { transform:translateY(-2px); box-shadow:var(--shadow-md); border-color:var(--accent-line); }
 .index-row .idx-num { font-family:var(--mo); font-size:11px; color:var(--accent); font-weight:700; background:var(--accent-soft); padding:4px 8px; border-radius:8px; text-align:center; }
 .index-row .idx-name { font-size:15.5px; font-weight:800; line-height:1.5; }
+.idx-priority {
+  display:inline-block; margin-inline-start:9px; padding:2px 8px; border-radius:999px;
+  font-family:var(--fa); font-size:10.5px; font-weight:700; line-height:1.7; vertical-align:2px;
+  color:var(--accent-deep); background:var(--accent-soft); border:1px solid var(--accent-line); white-space:nowrap;
+}
+.index-row.is-priority { border-color:var(--accent-line); }
 .index-row:hover .idx-name { color:var(--accent-deep); }
 .index-row .idx-title { font-family:var(--en); font-size:13px; color:var(--ink-3); overflow:hidden; text-overflow:ellipsis; white-space:nowrap; }
 .index-row .idx-cell { font-family:var(--mo); font-size:12px; color:var(--ink-3); font-variant-numeric:tabular-nums; white-space:nowrap; }

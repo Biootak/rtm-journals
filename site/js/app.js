@@ -125,6 +125,22 @@ function snippet(text, q, max = 230) {
 
 function clamp(n, min, max) { return Math.max(min, Math.min(max, n)); }
 
+/* The owner reads four journals first. They lead every list and carry a badge;
+   the rest stay alphabetical. */
+const JOURNAL_PRIORITY = ['if', 'salivan', 'pedini', 'benhur'];
+function priorityRank(id) {
+  const i = JOURNAL_PRIORITY.indexOf(id);
+  return i < 0 ? 0 : i + 1;
+}
+function orderedJournals(list) {
+  const src = list || (App.index && App.index.journals) || [];
+  return [...src].sort((a, b) => {
+    const ra = priorityRank(a.id) || 99;
+    const rb = priorityRank(b.id) || 99;
+    return ra - rb || a.name.localeCompare(b.name, 'en');
+  });
+}
+
 function journalById(id) {
   const list = (App.index && App.index.journals) || [];
   if (!id) return null;
@@ -1028,13 +1044,16 @@ function renderStats() {
 function renderRail() {
   const list = $('#journalList');
   if (!list) return;
-  const journals = [...App.index.journals].sort((a, b) => a.name.localeCompare(b.name, 'en'));
-  list.innerHTML = journals.map((j, i) => `
-    <a class="toc-item" href="#/j/${encodeURIComponent(j.id)}/1" data-journal="${esc(j.id)}">
+  const journals = orderedJournals();
+  list.innerHTML = journals.map((j, i) => {
+    const rank = priorityRank(j.id);
+    return `
+    <a class="toc-item${rank ? ' is-priority' : ''}" href="#/j/${encodeURIComponent(j.id)}/1" data-journal="${esc(j.id)}">
       <span class="toc-num">${faNum(i + 1)}</span>
-      <span class="toc-name"><bdi dir="auto">${esc(j.name)}</bdi></span>
+      <span class="toc-name"><bdi dir="auto">${esc(j.name)}</bdi>${rank ? `<span class="toc-star" role="img" aria-label="ژورنال اولویت‌دار — اولویت ${faNum(rank)}">★</span>` : ''}</span>
       <span class="toc-count" title="${faNum(j.pages)} صفحه">${faNum(j.pages)}</span>
-    </a>`).join('')
+    </a>`;
+  }).join('')
     + `<p class="toc-empty" id="railFilterEmpty" hidden>موردی با این نام نیست.</p>`;
   syncActiveNav();
 }
@@ -1061,15 +1080,18 @@ function renderHome() {
   const grid = $('#journalGrid');
   const recent = $('#recentList');
   if (!grid || !recent) return;
-  const journals = [...App.index.journals].sort((a, b) => a.name.localeCompare(b.name, 'en'));
-  grid.innerHTML = journals.map((j, i) => `
-    <a class="index-row" href="#/j/${encodeURIComponent(j.id)}/1">
+  const journals = orderedJournals();
+  grid.innerHTML = journals.map((j, i) => {
+    const rank = priorityRank(j.id);
+    return `
+    <a class="index-row${rank ? ' is-priority' : ''}" href="#/j/${encodeURIComponent(j.id)}/1">
       <span class="idx-num">${faNum(i + 1)}</span>
-      <span class="idx-name"><bdi dir="auto">${esc(j.name)}</bdi></span>
+      <span class="idx-name"><bdi dir="auto">${esc(j.name)}</bdi>${rank ? `<span class="idx-priority">اولویت ${faNum(rank)}</span>` : ''}</span>
       <span class="idx-title"><bdi dir="auto">${esc(j.title || '')}</bdi></span>
       <span class="idx-cell"><b>${faNum(j.posts)}</b> پست</span>
       <span class="idx-cell is-accent"><b>${faNum(j.images)}</b> تصویر</span>
-    </a>`).join('');
+    </a>`;
+  }).join('');
 
   const items = (App.index.recent || []).slice(0, 12);
   if (!items.length) {
@@ -2983,8 +3005,7 @@ async function openAll() {
   syncActiveNav();
   const select = $('#allJournalSelect');
   if (select && !select.options.length) {
-    select.innerHTML = `<option value="all">همهٔ دفترها</option>` + App.index.journals
-      .slice().sort((a, b) => a.name.localeCompare(b.name, 'en'))
+    select.innerHTML = `<option value="all">همهٔ دفترها</option>` + orderedJournals()
       .map(j => `<option value="${esc(j.id)}">${esc(j.name)}</option>`).join('');
     select.value = App.all.filter;
   }
@@ -3056,8 +3077,7 @@ async function openGallery() {
   syncActiveNav();
   const sel = $('#galleryJournal');
   if (sel && !sel.options.length) {
-    sel.innerHTML = App.index.journals
-      .slice().sort((a, b) => a.name.localeCompare(b.name, 'en'))
+    sel.innerHTML = orderedJournals()
       .map(j => `<option value="${esc(j.id)}">${esc(j.name)}</option>`).join('');
   }
   if (!App.gallery.journalId) App.gallery.journalId = (App.currentJournal && App.currentJournal.id) || App.index.journals[0]?.id || '';
