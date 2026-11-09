@@ -12,7 +12,7 @@ import { fileURLToPath } from 'node:url';
 import { get } from 'node:https';
 
 const ASSET = 'assets-v1.tar.gz';
-const URL = `https://github.com/Biootak/rtm-journals/releases/download/assets-v1/${ASSET}`;
+const ASSET_URL = `https://github.com/Biootak/rtm-journals/releases/download/assets-v1/${ASSET}`;
 const SHA256 = 'c099e6031b8377e307ff89f0412ac4c93695f33bf059c742ed2d530ebd108b15';
 const EXPECTED = { images: 6796, thumbs: 6796 };
 
@@ -77,7 +77,7 @@ if (!existsSync(cacheFile) || statSync(cacheFile).size < 500 * 1024 * 1024 || fo
   if (existsSync(cacheFile)) rmSync(cacheFile);
   console.log(`downloading ${ASSET} (~900 MB, once)…`);
   const part = cacheFile + '.part';
-  await download(URL, part);
+  await download(ASSET_URL, part);
   renameSync(part, cacheFile);
 } else {
   console.log('using cached download');
