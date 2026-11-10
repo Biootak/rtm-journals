@@ -23,19 +23,15 @@ const BASE_COUNT = 6796;
 /* What the three bundles add up to — not what a working copy happens to hold:
  * a local site/assets also keeps stale re-extractions that the data never
  * references, and counting those made the runner fail. */
-const EXPECTED = { images: 9718, thumbs: 8787 };
+const EXPECTED = { images: 32337, thumbs: 32287 };
 const DELTA = 'assets-delta-v2.tar.gz';
 /* The 276 MB delta is a Release asset too: a single git file must stay < 100 MB. */
-const DELTA3 = 'assets-delta-v3.tar.gz';
-const DELTA3_URL = `${RELEASE}/assets-v1/${DELTA3}`;
-const DELTA3_SHA256 = '2b389e3ccc9c14f2c30ef64f95dce5c67db91a62f2d8608da2cfa1cb561d771b';
 
 const root = resolve(dirname(fileURLToPath(import.meta.url)), '..');
 const site = join(root, 'site');
 const cacheDir = join(root, '.assets-cache');
 const cacheFile = join(cacheDir, ASSET);
 const deltaFile = join(root, DELTA);
-const delta3File = join(cacheDir, DELTA3);
 const force = process.argv.includes('--force');
 
 const count = (dir) => {
@@ -129,28 +125,51 @@ check: {
   extract(deltaFile, `${DELTA} must sit in the repository root`);
 }
 
-/* Delta v3 holds the charts of the journals added after the first release:
- * Kruger, MM, Frosty's Igloo, DrSwing and Mertch. Only the new files are in it,
- * so re-publishing never re-uploads the ~900 MB that is already online. */
-const delta3Count = count(join(site, 'assets', 'thumbs'));
-if (delta3Count >= EXPECTED.thumbs) {
-  console.log(`${DELTA3} already applied — skipping`);
-} else {
-  if (!existsSync(delta3File) || force) {
-    if (existsSync(delta3File)) rmSync(delta3File);
-    console.log(`downloading ${DELTA3} (~276 MB)…`);
-    const part = delta3File + '.part';
-    await download(DELTA3_URL, part);
-    renameSync(part, delta3File);
-  } else {
-    console.log('using cached delta download');
+/* Later journals ship as release assets of their own, each holding only the
+ * files that were not online yet. A bundle is skipped when one of its files is
+ * already unpacked, so a re-run never downloads 1 GB twice. */
+const DELTAS = [
+  {
+    name: 'assets-delta-v3.tar.gz',
+    sha: '2b389e3ccc9c14f2c30ef64f95dce5c67db91a62f2d8608da2cfa1cb561d771b',
+    probe: 'assets/images/0008854c9d5781a8.webp',
+    size: '276 MB',
+  },
+  {
+    name: 'assets-delta-v4a.tar.gz',
+    sha: '7b5d7856d678e7d6dcc7c21bb5c7ab28fb5e04514a209631e9642544b9bb5c76',
+    probe: 'assets/images/000098e948a7607dc6ae5882eca7f0e13559ca9e.png',
+    size: '1.1 GB',
+  },
+  {
+    name: 'assets-delta-v4b.tar.gz',
+    sha: 'efbdbf6c4a3bca340af3520cbe4a64b6e2e198dafe758e36bc095c54f90225b3',
+    probe: 'assets/images/a05b6996428426d74b2e0232adadb07c90b7b4ad.png',
+    size: '1.2 GB',
+  },
+];
+
+for (const delta of DELTAS) {
+  if (!force && existsSync(join(site, delta.probe))) {
+    console.log(`${delta.name} already applied — skipping`);
+    continue;
   }
-  const hash = await sha256(delta3File);
-  if (DELTA3_SHA256 !== '__SHA256__' && hash !== DELTA3_SHA256) {
-    throw new Error(`checksum mismatch for ${DELTA3}\nexpected ${DELTA3_SHA256}\ngot      ${hash}`);
+  const file = join(cacheDir, delta.name);
+  if (!existsSync(file) || force) {
+    if (existsSync(file)) rmSync(file);
+    console.log(`downloading ${delta.name} (~${delta.size})…`);
+    const part = file + '.part';
+    await download(`${RELEASE}/assets-v1/${delta.name}`, part);
+    renameSync(part, file);
+  } else {
+    console.log(`using cached ${delta.name}`);
+  }
+  const hash = await sha256(file);
+  if (hash !== delta.sha) {
+    throw new Error(`checksum mismatch for ${delta.name}\nexpected ${delta.sha}\ngot      ${hash}`);
   }
   console.log('checksum ok');
-  extract(delta3File, DELTA3);
+  extract(file, delta.name);
 }
 
 const images = count(join(site, 'assets', 'images'));

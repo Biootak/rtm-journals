@@ -5,3 +5,8 @@ Thumbs.db
 
 # Delta bundles over 100 MB live in the Release, not in git
 /assets-delta-v3.tar.gz
+
+# Delta bundles over 100 MB live in the Release, not in git
+/assets-delta-v3.tar.gz
+/assets-delta-v4a.tar.gz
+/assets-delta-v4b.tar.gz

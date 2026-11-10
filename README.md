@@ -15,6 +15,9 @@ bundles live in this repository's **Releases** as `assets-v1`:
 - `assets-delta-v3.tar.gz` — only the charts of the journals added since
   (Kruger, MM, Frosty's Igloo, DrSwing, Mertch): 273 MB of new files and not a
   byte of what is already published.
+- `assets-delta-v4a.tar.gz` and `assets-delta-v4b.tar.gz` — the same idea for the
+  `RTM Journals` drop (59 journals and 30 education topics), 2.3 GB of plates
+  and thumbnails split in two because a release asset is capped at 2 GB.
 
 `scripts/fetch-assets.mjs` checks each bundle's SHA-256, downloads the missing
 ones and extracts them into `site/assets`. Image quality is untouched:
