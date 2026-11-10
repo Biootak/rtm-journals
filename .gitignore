@@ -2,3 +2,6 @@ node_modules/
 .assets-cache/
 .DS_Store
 Thumbs.db
+
+# Delta bundles over 100 MB live in the Release, not in git
+/assets-delta-v3.tar.gz

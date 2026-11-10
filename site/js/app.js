@@ -144,13 +144,28 @@ function priorityRank(id) {
   const i = JOURNAL_PRIORITY.indexOf(id);
   return i < 0 ? 0 : i + 1;
 }
+/* The archive holds two kinds of thread: a member's journal and a subject
+   thread (education). They share the reader, the data contract and the cards,
+   so the kind only decides which list a thread appears in. */
+function isTopic(unit) { return !!(unit && unit.kind === 'topic'); }
 function orderedJournals(list) {
-  const src = list || (App.index && App.index.journals) || [];
+  const src = (list || (App.index && App.index.journals) || []).filter(j => !isTopic(j));
   return [...src].sort((a, b) => {
     const ra = priorityRank(a.id) || 99;
     const rb = priorityRank(b.id) || 99;
     return ra - rb || a.name.localeCompare(b.name, 'en');
   });
+}
+function orderedTopics() {
+  const src = ((App.index && App.index.journals) || []).filter(isTopic);
+  return [...src].sort((a, b) => a.name.localeCompare(b.name, 'en'));
+}
+function orderedUnits() { return orderedJournals().concat(orderedTopics()); }
+/* The nav entry only earns its place once a subject thread exists; with none
+   archived yet, hide it instead of leading visitors to an empty page. */
+function hideEmptyTopics() {
+  if (orderedTopics().length) return;
+  $$('[data-nav="topics"]').forEach(el => { el.hidden = true; });
 }
 
 function journalById(id) {
@@ -1081,6 +1096,7 @@ function init() {
   }
   applySettings();
   renderStats();
+  hideEmptyTopics();
   renderRail();
   renderHome();
   renderReadingRail();
@@ -1234,6 +1250,30 @@ function renderHome() {
   }).join('');
 }
 
+/* Education threads: the same rows as the journal index, sorted by subject.
+   They are not one author's diary, so they carry no priority badge. */
+function openTopics() {
+  showView('topics');
+  const grid = $('#topicGrid');
+  const topics = orderedTopics();
+  if (grid) {
+    grid.innerHTML = topics.map((j, i) => `
+    <a class="index-row" href="#/j/${encodeURIComponent(j.id)}/1">
+      <span class="idx-num">${faNum(i + 1)}</span>
+      <span class="idx-name"><bdi dir="auto">${esc(j.name)}</bdi></span>
+      <span class="idx-title"><bdi dir="auto">${esc(j.title || '')}</bdi></span>
+      <span class="idx-cell"><b>${faNum(j.posts)}</b> پست</span>
+      <span class="idx-cell is-accent"><b>${faNum(j.images)}</b> تصویر</span>
+    </a>`).join('');
+  }
+  const count = $('#topicCount');
+  if (count) count.textContent = faNum(topics.length);
+  const pages = topics.reduce((s, j) => s + (j.pages || 0), 0);
+  const posts = topics.reduce((s, j) => s + (j.posts || 0), 0);
+  const meta = $('#topicMeta');
+  if (meta) meta.textContent = `${faNum(topics.length)} موضوع · ${faNum(pages)} صفحه · ${faNum(posts)} پست`;
+}
+
 /* ============================== routing ============================== */
 
 function route() {
@@ -1261,6 +1301,11 @@ function route() {
     return;
   }
   if (view === 'all') { openAll(); return; }
+  if (view === 'topics') {
+    if (!orderedTopics().length) { location.replace('#/'); return; }
+    openTopics();
+    return;
+  }
   if (view === 'gallery') { openGallery(); return; }
   if (view === 'saved') { openSaved(); return; }
   if (view === 'notes') { openNotes(parts.slice(1).join('/')); return; }
@@ -3250,7 +3295,7 @@ async function openAll() {
   syncActiveNav();
   const select = $('#allJournalSelect');
   if (select && !select.options.length) {
-    select.innerHTML = `<option value="all">همهٔ دفترها</option>` + orderedJournals()
+    select.innerHTML = `<option value="all">همهٔ دفترها</option>` + orderedUnits()
       .map(j => `<option value="${esc(j.id)}">${esc(j.name)}</option>`).join('');
     select.value = App.all.filter;
   }
@@ -3833,7 +3878,7 @@ function renderPalette(q) {
   const list = $('#paletteList');
   if (!list) return;
   const nq = norm(q);
-  const journals = (App.index?.journals || []).slice().sort((a, b) => a.name.localeCompare(b.name, 'en'));
+  const journals = orderedUnits();
   const items = [];
   if (nq.length >= 2) {
     items.push({ icon: 'search', title: `جستجوی «${q}»`, sub: 'در متن پست‌ها و تصویرها', kind: 'search', value: q });
@@ -3841,7 +3886,7 @@ function renderPalette(q) {
   for (const j of journals) {
     if (items.length >= 9) break;
     if (!nq || norm(j.name).includes(nq) || norm(j.title || '').includes(nq)) {
-      items.push({ icon: 'journal', title: j.name, sub: `${faNum(j.pages)} صفحه · ${faNum(j.posts)} پست`, kind: 'journal', value: j.id });
+      items.push({ icon: 'journal', title: j.name, sub: `${isTopic(j) ? 'آموزش' : 'ژورنال'} · ${faNum(j.pages)} صفحه · ${faNum(j.posts)} پست`, kind: 'journal', value: j.id });
     }
   }
   for (const c of PALETTE_COMMANDS) {

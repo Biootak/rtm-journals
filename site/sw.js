@@ -11,7 +11,7 @@
  *
  * Bump VERSION on every deploy; activate() drops every older cache.
  */
-const VERSION = 'rtm-v10';
+const VERSION = 'rtm-v13';
 const SHELL_CACHE = VERSION + '-shell';
 const DATA_CACHE = VERSION + '-data';
 const THUMB_CACHE = VERSION + '-thumb';

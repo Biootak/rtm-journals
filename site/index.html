@@ -97,6 +97,7 @@
         </a>
         <nav class="masthead-nav" aria-label="بخش‌های آرشیو">
           <a class="nav-link" data-nav="home" href="#/">خانه</a>
+          <a class="nav-link" data-nav="topics" href="#/topics">آموزش</a>
           <a class="nav-link" data-nav="all" href="#/all">همهٔ پست‌ها</a>
           <a class="nav-link" data-nav="gallery" href="#/gallery">تابلوی تصاویر</a>
           <a class="nav-link" data-nav="saved" href="#/saved">نشان‌شده</a>
@@ -136,6 +137,7 @@
         <div class="rail-head"><h2><svg class="icon"><use href="#i-list"/></svg> بخش‌های آرشیو</h2></div>
         <nav aria-label="بخش‌های آرشیو">
           <a class="rail-link" data-nav="home" href="#/">خانه</a>
+          <a class="rail-link" data-nav="topics" href="#/topics">آموزش</a>
           <a class="rail-link" data-nav="all" href="#/all">همهٔ پست‌ها</a>
           <a class="rail-link" data-nav="gallery" href="#/gallery">تابلوی تصاویر</a>
           <a class="rail-link" data-nav="saved" href="#/saved">نشان‌شده</a>
@@ -164,7 +166,7 @@
           <div class="mast-grid">
             <div>
               <span class="kicker">آرشیو · ۲۰۱۳ — ۲۰۱۹</span>
-              <h1 class="mast-title">بیست‌وچهار دفتر، <span class="accent">ده‌هزار</span> یادداشت، به فارسی</h1>
+              <h1 class="mast-title"><span id="mastCount">بیست‌وپنج</span> دفتر، <span class="accent">ده‌هزار</span> یادداشت، به فارسی</h1>
               <p class="mast-lede">متنِ پست‌ها با واژه‌نامهٔ تخصصی بازار ترجمه شده و در یک ایندکس جستجو می‌شود. نمودارها دست‌نخورده می‌مانند؛ نمادها، قیمت‌ها و تاریخ‌ها هم.</p>
               <div class="mast-actions">
                 <a href="#/all" class="btn btn-solid"><svg class="icon"><use href="#i-list"/></svg> شروع مطالعه</a>
@@ -192,6 +194,18 @@
           <h2>تازه‌ترین یادداشت‌ها</h2>
         </div>
         <div class="latest" id="recentList"></div>
+      </section>
+
+      <section class="view" id="viewTopics" data-view="topics">
+        <div class="doc-head">
+          <div class="doc-head-copy">
+            <span class="kicker">آموزش</span>
+            <h1 class="doc-title">موضوع‌های آموزشی RTM</h1>
+            <div class="doc-sub" id="topicMeta"></div>
+          </div>
+        </div>
+        <p class="mast-lede" style="margin:0 0 18px">این دفترها نوشتهٔ یک نفر نیستند: موضوع‌هایی که مدرسان و اعضای RTM برای توضیح ساختار بازار، نواحی، الگوها و ابزارهای معامله باز کرده‌اند. همان خواننده و همان قرارداد داده، فقط در فهرستی جدا از ژورنال‌ها.</p>
+        <div class="index-table" id="topicGrid"></div>
       </section>
 
       <section class="view" id="viewJournal" data-view="journal">
