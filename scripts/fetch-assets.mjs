@@ -20,7 +20,10 @@ const ASSET = 'assets-v1.tar.gz';
 const ASSET_URL = `${RELEASE}/assets-v1/${ASSET}`;
 const SHA256 = 'c099e6031b8377e307ff89f0412ac4c93695f33bf059c742ed2d530ebd108b15';
 const BASE_COUNT = 6796;
-const EXPECTED = { images: 32530, thumbs: 8804 };
+/* What the three bundles add up to — not what a working copy happens to hold:
+ * a local site/assets also keeps stale re-extractions that the data never
+ * references, and counting those made the runner fail. */
+const EXPECTED = { images: 9718, thumbs: 8787 };
 const DELTA = 'assets-delta-v2.tar.gz';
 /* The 276 MB delta is a Release asset too: a single git file must stay < 100 MB. */
 const DELTA3 = 'assets-delta-v3.tar.gz';
