@@ -3295,8 +3295,14 @@ async function openAll() {
   syncActiveNav();
   const select = $('#allJournalSelect');
   if (select && !select.options.length) {
-    select.innerHTML = `<option value="all">همهٔ دفترها</option>` + orderedUnits()
-      .map(j => `<option value="${esc(j.id)}">${esc(j.name)}</option>`).join('');
+    /* Journals and subject threads are separate lists, exactly as on the forum:
+       the opening option never mixes the two. */
+    const topics = orderedTopics();
+    select.innerHTML = `<option value="all">همهٔ دفترها</option>`
+      + `<optgroup label="دفترها">` + orderedJournals()
+        .map(j => `<option value="${esc(j.id)}">${esc(j.name)}</option>`).join('') + `</optgroup>`
+      + (topics.length ? `<optgroup label="موضوع‌های آموزشی">` + topics
+        .map(j => `<option value="${esc(j.id)}">${esc(j.name)}</option>`).join('') + `</optgroup>` : '');
     select.value = App.all.filter;
   }
   if (App.all.rows && !App.all.loading) { renderAllPosts(); return; }
@@ -3334,15 +3340,22 @@ function renderAllPosts() {
   const journal = App.all.filter;
   const text = norm(App.all.text);
   const savedKeys = new Set(App.bookmarks.map(b => bookmarkKey(b.jid, b.pid)));
-  let rows = journal === 'all' ? all : all.filter(row => row[0] === journal);
+  /* "همهٔ دفترها" means the journals: a subject thread shows up only when it is
+     picked from the topics group, or through search. */
+  const journalIds = new Set(orderedJournals().map(j => j.id));
+  let rows = journal === 'all'
+    ? all.filter(row => journalIds.has(row[0]))
+    : all.filter(row => row[0] === journal);
   if (App.all.savedOnly) rows = rows.filter(row => savedKeys.has(bookmarkKey(row[0], row[2])));
   if (text) {
     rows = rows.filter(row => norm((row[5] || '') + ' ' + (row[7] || '') + ' ' + (row[4] || '')).includes(text));
   }
   const list = rows.slice(0, App.all.limit);
   const loading = !!App.all.loading;
-  const total = loading ? (App.index.stats?.posts || all.length) : all.length;
-  $('#allSubtitle').innerHTML = `${faNum(total)} پست در ${faNum(App.index.journals.length)} دفتر · نشان‌شده‌ها ${faNum(App.bookmarks.length)}${loading ? ' · در حال بارگذاری…' : ''}`;
+  const total = loading ? (App.index.stats?.posts || all.length) : rows.length;
+  const unitCount = journal === 'all' ? journalIds.size : 1;
+  const unitWord = journal === 'all' ? 'دفتر' : (isTopic(journalById(journal)) ? 'موضوع' : 'دفتر');
+  $('#allSubtitle').innerHTML = `${faNum(total)} پست در ${faNum(unitCount)} ${unitWord} · نشان‌شده‌ها ${faNum(App.bookmarks.length)}${loading ? ' · در حال بارگذاری…' : ''}`;
   $('#allCount').textContent = loading
     ? `${faNum(list.length)} از ${faNum(rows.length)} تا اینجا · ${faNum(App.all.loaded)}/${faNum(App.all.total)} دفتر`
     : `${faNum(list.length)} از ${faNum(rows.length)} نمایش داده می‌شود`;
