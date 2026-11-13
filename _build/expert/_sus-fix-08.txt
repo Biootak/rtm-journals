@@ -1,0 +1,14 @@
+josh-p1|ac26fcaa|english-left|Beyond the Candlesticks ; by Julexo
+josh-p1|dfc39aaf|english-left|Beyond the Candlesticks ; by Julexo
+jurij-p14|16227a73|english-left|Price is everything
+jurij-p22|1b10f005|english-left|Finding the Decisions
+jurij-p3|3e95d93d|calque|r flip
+kruger-p14|edf8474e|english-left|If   were a song ; Z-dM Kruger
+kruger-p14|2aff29e5|english-left|If   were a song
+kruger-p14|4849e00b|english-left|If   were a song
+kruger-p15|20410a83|english-left|If   were a song
+kruger-p15|371fee3f|english-left|If   were a song
+kruger-p15|b373be39|english-left|If   were a song ; Z-dM Kruger-
+kruger-p3|2783e204|english-left|Price is everything ; Price is everything Chat Room ; Romancing the Price
+linos-p1|2a5380a8|fragment|Sierra Charts
+michal238-p4|ea61ef47|english-left|Trading in the Zone

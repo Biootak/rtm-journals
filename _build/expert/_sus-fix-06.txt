@@ -1,0 +1,10 @@
+hs-p1|debb942a|calque|price action
+hs-p2|0294af50|calque|day trading ; order flow ; volume profile
+hs-p23|d1ae9606|fragment|financial time
+hs-p40|c574317b|fragment|Les Paul ; dr swing ; dr swing
+hs-p47|41ff36b5|english-left|origin in here
+hs-p47|7a6530e1|english-left|origin in here
+hs-p47|1033408e|english-left|origin in here
+hs-p57|2172c660|english-left|whereas eng is into free ; whereas eng is into free
+hs-p69|1512e91c|calque|flag limit
+hs-p69|1be58652|calque|flag limit

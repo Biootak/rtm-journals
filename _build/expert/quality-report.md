@@ -1,310 +1,319 @@
 # Translation quality ledger
 
-Updated 2026-11-12T05:41:19.930Z
+Updated 2026-11-13T06:05:16.520Z
 
 ## Corpus
 
-- posts with Persian: **34346**
-- clean (severity 0): **32146**
-- need review: **2200**
-- pages needing review: **800 / 1484**
+- posts with Persian: **34354**
+- clean (severity 0): **33961**
+- need review: **393**
+- pages needing review: **263 / 1485**
 
 ## Issue counts
 
 | issue | posts |
 |---|---|
-| english-left | 1398 |
-| no-verb | 1122 |
-| untranslated | 499 |
-| fragment | 160 |
-| calque | 53 |
+| english-left | 180 |
+| fragment | 164 |
+| calque | 50 |
+| untranslated | 5 |
+| omission | 1 |
+
+## Informational (not counted as defects)
+
+A nominal Persian sentence has no verb and is still correct, so this is a
+reading hint for reviewers, never a gate.
+
+| hint | posts |
+|---|---|
+| no-verb | 1414 |
 
 ## Worst pages
 
 | page | needs / total | severity |
 |---|---|---|
-| pucci-p3 | 17 / 25 | 3 |
-| pucci-p5 | 16 / 25 | 3 |
-| robbie-p9 | 16 / 23 | 2 |
-| capnp-p1 | 15 / 25 | 3 |
-| doctorpatient-p11 | 15 / 25 | 2 |
-| doctorpatient-p15 | 15 / 25 | 2 |
-| paz-p6 | 15 / 25 | 3 |
-| pucci-p1 | 15 / 25 | 3 |
-| scotty-p6 | 15 / 25 | 3 |
-| warren-p6 | 15 / 25 | 2 |
-| art-p14 | 14 / 25 | 3 |
-| classroom-p31 | 14 / 25 | 3 |
-| eurotrash-p1 | 14 / 25 | 3 |
-| pucci-p7 | 14 / 25 | 3 |
-| scotty-p1 | 14 / 25 | 3 |
-| art-p5 | 13 / 22 | 2 |
-| doctorpatient-p10 | 13 / 25 | 2 |
-| ftrretest-p4 | 13 / 25 | 3 |
-| in2forex-p2 | 13 / 25 | 3 |
-| paz-p2 | 13 / 25 | 3 |
-| paz-p5 | 13 / 25 | 3 |
-| pucci-p4 | 13 / 25 | 3 |
-| art-p1 | 12 / 25 | 3 |
-| eurotrash-p3 | 12 / 25 | 3 |
-| paz-p1 | 12 / 25 | 3 |
-| paz-p3 | 12 / 25 | 3 |
-| pucci-p6 | 12 / 25 | 3 |
-| scotty-p2 | 12 / 25 | 3 |
-| diamond-p4 | 11 / 24 | 3 |
-| finddecision-p6 | 11 / 25 | 2 |
-| ftrretest-p6 | 11 / 25 | 3 |
-| luska-p8 | 11 / 25 | 3 |
-| paz-p7 | 11 / 25 | 3 |
-| scotty-p7 | 11 / 25 | 3 |
-| warren-p8 | 11 / 24 | 2 |
-| dbrrbd-p19 | 10 / 25 | 2 |
-| diamond-p1 | 10 / 25 | 3 |
-| diamond-p5 | 10 / 25 | 3 |
-| eurotrash-p2 | 10 / 25 | 3 |
-| eurotrash-p4 | 10 / 24 | 3 |
-| eurotrash-p7 | 10 / 18 | 3 |
-| ftrretest-p1 | 10 / 25 | 3 |
-| ftrretest-p2 | 10 / 19 | 3 |
-| ftrretest-p8 | 10 / 25 | 3 |
-| paz-p4 | 10 / 25 | 3 |
-| classroom-p32 | 9 / 25 | 2 |
-| classroom-p36 | 9 / 24 | 2 |
-| diamond-p2 | 9 / 23 | 3 |
-| eurotrash-p8 | 9 / 24 | 3 |
-| frosty-p8 | 9 / 25 | 2 |
-| in2forex-p4 | 9 / 25 | 3 |
-| in2forex-p6 | 9 / 25 | 3 |
-| in2forex-p7 | 9 / 24 | 3 |
-| luska-p2 | 9 / 25 | 3 |
-| diamond-p3 | 8 / 25 | 3 |
-| doctorpatient-p12 | 8 / 25 | 2 |
-| ftrretest-p3 | 8 / 22 | 3 |
-| ftrretest-p7 | 8 / 25 | 3 |
-| in2forex-p3 | 8 / 23 | 3 |
-| readingsession-p2 | 8 / 24 | 2 |
-| whynotwork-p2 | 8 / 25 | 2 |
-| cancan-p2 | 7 / 21 | 2 |
-| classroom-p33 | 7 / 25 | 2 |
-| classroom-p45 | 7 / 25 | 2 |
-| dbrrbd-p18 | 7 / 25 | 2 |
-| dbrrbd-p20 | 7 / 24 | 2 |
-| diamond-p8 | 7 / 24 | 3 |
-| eurotrash-p5 | 7 / 20 | 3 |
-| luska-p6 | 7 / 25 | 3 |
-| readingsession-p1 | 7 / 25 | 2 |
-| robbie-p8 | 7 / 25 | 2 |
-| sunnytrader-p6 | 7 / 25 | 2 |
-| aran-p2 | 6 / 23 | 2 |
-| classroom-p41 | 6 / 25 | 2 |
-| classroom-p43 | 6 / 25 | 2 |
-| dbrrbd-p26 | 6 / 25 | 2 |
-| dbrrbd-p27 | 6 / 24 | 2 |
-| diamond-p7 | 6 / 23 | 3 |
-| doctorpatient-p1 | 6 / 25 | 2 |
-| doctorpatient-p2 | 6 / 25 | 2 |
+| warren-p6 | 13 / 25 | 2 |
+| robbie-p9 | 7 / 23 | 2 |
+| warren-p8 | 7 / 24 | 2 |
+| drswing-p4 | 5 / 25 | 2 |
+| mm-p7 | 5 / 25 | 2 |
+| frosty-p8 | 4 / 25 | 2 |
+| whenever-p6 | 4 / 24 | 2 |
+| classroom-p20 | 3 / 24 | 2 |
+| doctorpatient-p27 | 3 / 25 | 2 |
+| flaglimits-p5 | 3 / 25 | 2 |
+| frosty-p9 | 3 / 25 | 2 |
+| fxeyes-p2 | 3 / 25 | 1 |
+| hs-p47 | 3 / 25 | 2 |
+| jiri-p4 | 3 / 24 | 2 |
+| kruger-p14 | 3 / 17 | 2 |
+| kruger-p15 | 3 / 24 | 2 |
+| michal238-p10 | 3 / 25 | 2 |
+| quasimodo-p22 | 3 / 25 | 2 |
+| smimon-p11 | 3 / 25 | 2 |
+| sunnytrader-p11 | 3 / 25 | 2 |
+| warren-p9 | 3 / 23 | 2 |
+| 3drive-p2 | 2 / 23 | 2 |
+| aboutcompression-p27 | 2 / 23 | 2 |
+| aboutcompression-p8 | 2 / 24 | 2 |
+| academylite2-p4 | 2 / 25 | 3 |
+| amit-p5 | 2 / 22 | 2 |
+| aran-p2 | 2 / 23 | 2 |
+| art-p5 | 2 / 22 | 2 |
+| classroom-p13 | 2 / 25 | 2 |
+| classroom-p16 | 2 / 25 | 2 |
+| classroom-p28 | 2 / 25 | 2 |
+| classroom-p38 | 2 / 25 | 2 |
+| dbrrbd-p19 | 2 / 25 | 1 |
+| dbrrbd-p24 | 2 / 25 | 2 |
+| dbrrbd-p37 | 2 / 24 | 2 |
+| dbrrbd-p59 | 2 / 24 | 2 |
+| dbrrbd-p61 | 2 / 25 | 2 |
+| doctorpatient-p6 | 2 / 25 | 2 |
+| doctorpatient-p8 | 2 / 25 | 2 |
+| engulf-p8 | 2 / 25 | 2 |
+| finddecision-p10 | 2 / 24 | 2 |
+| finddecision-p6 | 2 / 25 | 2 |
+| flaglimits-p46 | 2 / 25 | 1 |
+| flaglimits-p50 | 2 / 24 | 2 |
+| frosty-p7 | 2 / 25 | 2 |
+| ftrpaz-p3 | 2 / 25 | 2 |
+| hgblacksheep-p1 | 2 / 25 | 2 |
+| hgblacksheep-p5 | 2 / 25 | 2 |
+| homeoffinisher-p5 | 2 / 21 | 2 |
+| hs-p40 | 2 / 25 | 2 |
+| hs-p69 | 2 / 24 | 1 |
+| hs-p71 | 2 / 25 | 2 |
+| hs-p74 | 2 / 25 | 1 |
+| if-p132 | 2 / 25 | 2 |
+| if-p41 | 2 / 25 | 1 |
+| if-p43 | 2 / 25 | 2 |
+| if-p80 | 2 / 25 | 2 |
+| if-p84 | 2 / 25 | 2 |
+| if-p91 | 2 / 25 | 2 |
+| ignoredlevel-p1 | 2 / 24 | 2 |
+| its-p1 | 2 / 25 | 2 |
+| jiri-p5 | 2 / 25 | 2 |
+| josh-p1 | 2 / 24 | 2 |
+| jurij-p11 | 2 / 25 | 2 |
+| jurij-p9 | 2 / 25 | 2 |
+| linos-p1 | 2 / 24 | 2 |
+| mertch-p7 | 2 / 25 | 2 |
+| paz-p7 | 2 / 25 | 2 |
+| pedini-p13 | 2 / 24 | 2 |
+| projectsagana-p12 | 2 / 25 | 2 |
+| projectsagana-p18 | 2 / 25 | 2 |
+| projectsagana-p7 | 2 / 25 | 2 |
+| pucci-p1 | 2 / 25 | 2 |
+| pucci-p3 | 2 / 25 | 2 |
+| pucci-p5 | 2 / 25 | 2 |
+| quasimodo-p21 | 2 / 25 | 2 |
+| robbie-p6 | 2 / 21 | 2 |
+| robbie-p8 | 2 / 25 | 2 |
+| salivan-p42 | 2 / 25 | 2 |
+| shadowpit-p6 | 2 / 25 | 2 |
 
 ## First findings
 
-- 3drive-p1 3drive_p1_5 — S2 english-left — hi luska، من هم تازه‌کارم. مثلث را می‌بینم [2، سومی high پایین‌تر دارد… و اولی را زیاد دوست ندارم، pole عظیم ا
-- 3drive-p1 3drive_p1_6 — S2 english-left — hey IF، گرفتمش b i * c h =]] خط‌های سبز که مثلث می‌سازند کپی شده‌اند پس شیبشان یکسان است. این بار تقلبی نیست =
-- 3drive-p1 3drive_p1_14 — S2 english-left — سلام Aus و خوش آمدی بله، 3 drive‌ها راه خوبی برای دیدن compression در عمل هستند، اما واقعاً این چارت را در hom
-- 3drive-p10 3drive_p10_227 — S1 no-verb — 3Drive یعنی حرکت قیمت از یک نقطه به ناحیهٔ S/D بعدی در هر حرکتش؟
-- 3drive-p4 3drive_p4_82 — S1 no-verb — کار خوبی Mamba. یک 3drive بزرگ به پایین هم روی همان چارت هست.
-- 3drive-p4 3drive_p4_84 — S2 english-left — Harry نوشت: on the 2nd, all bases are intact. price didnt dip enough to clear them so no CP there. سلام، حدس م
-- 3drive-p4 3drive_p4_92 — S1 no-verb — سلام به همه، اولین ارسال 3Drive من - GBPUSD. از قبل برای هر نظری ممنون. Spongy.
-- 3drive-p4 3drive_p4_93 — S2 english-left — Ifmyante نوشت: Yup - it's easy to see the attempts to hide those positions. Nice work ممنون IF روی Find the de
-- 3drive-p4 3drive_p4_94 — S2 english-left — اولین تلاش homework مربوط به 3 Drive. این چارت اول drive‌های نسبتاً obvious به بالا و compression دارد، اما ال
-- 3drive-p6 3drive_p6_139 — S2 english-left — مثال‌های آخری‌ات حالا خیلی بهتر شده Mudar، can-can را هم درست تشخیص دادی
-- 3drive-p6 3drive_p6_143 — S2 english-left — توجه کرده‌اید به 3-Drive / can-can روی EURUSD؟ آیا این برتری می‌دهد؟ اگر بله، لطفاً یادم بدهید چطور با آن برخو
+- 3drive-p2 3drive_p2_28 — S2 fragment — Josh نوشت: آره. این یک 3drive است. واقعاً نمی‌دانم این اصطلاح از کجا آمده، اما CP داخلش و روان‌شناسی پشتش خیلی
+- 3drive-p2 3drive_p2_49 — S2 english-left — این یکی طعنه‌ای دارد. دیروز آن‌قدر مصمم بودم فشرده‌سازی در بازار ببینم که آخرش از آنچه بازار واقعاً به من می‌گ
+- 3drive-p4 3drive_p4_93 — S2 english-left — Ifmyante نوشت: آره - دیدن تلاش‌ها برای پنهان کردن آن موقعیت‌ها آسان است. کار قشنگ ممنون IF روی Find the decisi
 - 3drive-p6 3drive_p6_145 — S1 calque — سلام به همه شروع کمی کند برای تکلیف 3D من.
-- 3drive-p6 3drive_p6_146 — S2 english-left — خب، بعدی چارت 1 can-can را به‌عنوان واکنش بعد از نزدیک شدن 3D نشان می‌دهد چارت 2 Diamond را به‌عنوان واکنش داخ
-- 3drive-p7 3drive_p7_156 — S2 english-left — سلام به همه از کشیدن این لذت بردم. اگر trader خرده‌معامله‌گران بودی و به تاریخچه نگاه نمی‌کردی screwed بودی. ف
-- 3drive-p7 3drive_p7_163 — S1 no-verb — سلام بچه‌ها اولین 5 setup من از الگوی 3 Drives به S/D
-- aboutcompression-p1 aboutcompression_p1_28 — S2 english-left — whiteout نوشت: naughtypip نوشت: whiteout نوشت: سلام out، وای چه چارت‌هایی. خب، اصل ماجرا این است که من هم دقیق
 - aboutcompression-p1 aboutcompression_p1_30 — S1 calque — هی naughtypip. می‌گویم آن ناحیه 1) خروج بی‌نقص برای معاملهٔ چارت 01 است. m1 را روی کندل رد شدن [06 jul] ببین، 
-- aboutcompression-p1 aboutcompression_p1_32 — S1 no-verb — CP قشنگی روی eurnzd در m15 به داخل ناحیهٔ عرضهٔ h1 و حرکت خوبی هم بعدش
-- aboutcompression-p11 aboutcompression_p11_290 — S1 no-verb — سلام Oedipus چیزی که می‌خوام مطمئن بشم اینه که متوجه بشی وقتی قیمت وارد یه زون cp میشه چه اتفاقی میفته. موفق ب
-- aboutcompression-p14 aboutcompression_p14_362 — S1 no-verb — اوکی. ممنون If. اینجا ساعت 2 صبحه، وقتی ذهنم تازه باشه سراغش می‌رم.
+- aboutcompression-p11 aboutcompression_p11_283 — S2 fragment — نتیجه: 44 تا CP. پینوشت: حالا باور دارم که معامله‌گری واقعاً هنر است. (واضح است که این خطوط اینجا لازم نیستند،
 - aboutcompression-p15 aboutcompression_p15_380 — S2 fragment — Haydel نوشت: حالا سؤال این است: چون قیمت به اولین برخورد با ناحیهٔ DBD در M5 که درست زیر است واکنش داد، می‌توا
-- aboutcompression-p15 aboutcompression_p15_391 — S1 no-verb — چطور همهٔ بقیه در یک صفحه تکلیف این را می‌فهمند و من هنوز صفحهٔ 4 هستم؟
-- aboutcompression-p16 aboutcompression_p16_407 — S1 no-verb — این cp هست؟ یورو هفتگی، اگه باشه می‌تونه جالب باشه.
-- aboutcompression-p16 aboutcompression_p16_419 — S2 english-left — سلام Cath، چند تا یادداشت روی چارت بالایت. روی چارت اول علامت نزدم فشردگی کجاست بلکه پایه‌هایی رو علامت زدم که
-- aboutcompression-p16 aboutcompression_p16_423 — S1 no-verb — چارت سوم مثل همیشه، نظرات و پیشنهادها خیلی قدردانی میشن. ممنون
-- aboutcompression-p17 aboutcompression_p17_448 — S2 english-left — یادت نرود بعد از آپلود عکس، دکمهٔ insert را بزنی :) اگر یک بار دیگر دکمهٔ zoom out را روی چارتت بزنی، چارت احت
-- aboutcompression-p20 aboutcompression_p20_505 — S1 no-verb — سلام harry، بعد از بازبینی‌ات، چارت‌م رو دوباره کشیدم. ضمیمه. نظرات و تذکرهات از تو و بقیه‌ی Aces قدردانی میشه
-- aboutcompression-p20 aboutcompression_p20_522 — S2 english-left — توی پست آخرم توضیح دادم فشردگی چیه و چرا مهمه. با این حال، توضیح ندادم فشردگی روی صفحه چه شکلیه. توی این پست ت
-- aboutcompression-p21 aboutcompression_p21_534 — S1 no-verb — Ifmyante نوشت: اول توی تمرین‌هات دنبال فشردگی‌های واضح بگرد ببخشید وسط این ترد پریدن ولی این نسبتاً جالبه:
-- aboutcompression-p22 aboutcompression_p22_554 — S1 no-verb — سلام به همه، این اولین پستم توی این فورومه. این اولین تلاشم روی CP - چارت روزانه‌ی یورو/دلار. my.jetscreenshot
-- aboutcompression-p22 aboutcompression_p22_556 — S2 english-left — دارم به قیمتی نگاه می‌کنم که یورو اونجا فروپاشید و از خودم می‌پرسم چرا بازار تصمیم گرفت اون قیمت خیلی گرونه. م
-- aboutcompression-p23 aboutcompression_p23_587 — S1 no-verb — سلام Bushido، می‌گم که البته می‌تونی این کار رو توی بخش Decision انجام بدی. فقط توی ذهن داشته باش کلید این پتر
-- aboutcompression-p24 aboutcompression_p24_607 — S1 no-verb — تو دنبال زون‌ها هستی - تیک! فشردگی به‌سمتشون - تیک! کار قشنگی
-- aboutcompression-p24 aboutcompression_p24_625 — S1 no-verb — این چیزیه که روی EURNZD جمعه اتفاق افتاد - فلیپ خط روند نزولی (فشردگی) و شروع فیل فشردگی؟!
-- aboutcompression-p25 aboutcompression_p25_631 — S1 no-verb — هنوز چند تا جیب تقاضا توش مونده، ولی در کل، آره، این یه فشردگی خوبه
-- aboutcompression-p25 aboutcompression_p25_638 — S2 english-left — سلام دوباره، اینجا چارتی درباره‌ی فشردگی، همون‌طور که می‌بینی pull down بعد از اینکه قیمت دوباره به زون عرضه‌ی
-- aboutcompression-p25 aboutcompression_p25_642 — S1 no-verb — به نظر من روی EURUSD فشردگیه (چارت فعلی از 15.04.2013): نظرت چیه؟:)
-- aboutcompression-p27 aboutcompression_p27_676 — S1 no-verb — یک چارت فشرده‌سازی دیگر از AUD/CAD در تایم‌فریم 1H
-- aboutcompression-p27 aboutcompression_p27_688 — S1 calque — حدس می‌زنم در نگاه به گذشته انجام این کار واقعاً ساده است. اما امیدوارم نوشتن همه‌اش کمکم کند همان‌طور که اتفا
-- aboutcompression-p28 aboutcompression_p28_713 — S1 no-verb — اینم: www.freefilehosting.net/compression به‌هرحال همه‌اش در marketpedia هست :) خداحافظ
-- aboutcompression-p28 aboutcompression_p28_719 — S1 no-verb — سلام، امیدوارم کسی بگوید درست انجام می‌دهم یا غلط. با احترام، Kelvin
-- aboutcompression-p29 aboutcompression_p29_740 — S1 no-verb — این هم برای دانلود مستقیم www.readthemarket.com/media/pdf/Compression.pdf
-- aboutcompression-p3 aboutcompression_p3_83 — S2 english-left — Price is Everything Chatroom، یه ترد توی Forex factory. @mel یکی از همون آدماست - یه آدم نابغه - حتی اگه دختر 
-- aboutcompression-p3 aboutcompression_p3_93 — S1 no-verb — سلام AL، خوش اومدی عرضشون رو بیشتر از 1500px نذار و حجمشون هم بیشتر از 150kb نشه موفق باشی If
-- aboutcompression-p31 aboutcompression_p31_783 — S1 no-verb — boy2boy نوشت: سلام، آخری، یکی دیگه هم روی تایم‌فریم بالاتر
-- aboutcompression-p32 aboutcompression_p32_824 — S1 no-verb — کسی می‌تونه لینک کتاب فشردگی رو دوباره بذاره؟ یا بهم نشون بده چطور انجامش بدم. موفق نمی‌شم. از قبل ممنون
-- aboutcompression-p32 aboutcompression_p32_825 — S1 no-verb — توی پست اول این ترد هست: www.readthemarket.com/media/pdf/Compression.pdf
-- aboutcompression-p33 aboutcompression_p33_838 — S2 english-left — صبح بخیر به همه، دو چارت اول یه ترکیب روی چهارساعته با نتیجه: این رو زیاد دیدم - CPLQ و واکنش به پایه‌ی نقدینگ
-- aboutcompression-p33 aboutcompression_p33_840 — S1 no-verb — DT، اینجا یکی دیگه از چارت‌هات با چند تا علامت‌گذاری. ممنون،
-- aboutcompression-p33 aboutcompression_p33_845 — S1 no-verb — 2 چارت بعدی: دو چارت اول ترکیب چهارساعته و ساعتی‌ان، همه‌ی جزئیات روی چارت‌ها و سال 2005 چارت بعدی ساعتی به‌تن
-- aboutcompression-p33 aboutcompression_p33_847 — S1 no-verb — سلام به همه، آیا اینا درست به نظر میرسن؟ ممنون. Paul
-- aboutcompression-p33 aboutcompression_p33_850 — S1 no-verb — 2 چارت دیگه شامل چند تا CP… جزئیات روی چارت‌ها و سال 2006 DT
-- aboutcompression-p34 aboutcompression_p34_853 — S1 no-verb — 2 تا ستاپ معامله شامل CP. دو چارت اول یه ترکیبن: 1 ساعته 15 دقیقه‌ای: چارت بعدی باز یه ترکیبه: 1 ساعته 10 دقیق
-- aboutcompression-p34 aboutcompression_p34_854 — S1 no-verb — چند تا چارت دیگه: چارت بعدی ترکیب چهارساعته و 30 دقیقه‌ایه DT
-- aboutcompression-p35 aboutcompression_p35_882 — S1 calque — Victor نوشت: milkeyway نوشت: سلام. تلاش کردم فشرده‌سازی را پیدا کنم. درباره‌اش خواندم اما نفهمیدم دقیقاً چه نق
-- aboutcompression-p36 aboutcompression_p36_910 — S1 no-verb — چارت 4 ساعته‌ی USDCHF فشرده به‌سمت عرضه (زون flip) ولی توی مسیر CPای مخالف می‌بینیم
-- aboutcompression-p4 aboutcompression_p4_107 — S1 no-verb — سلام Sniffer:) ممنون از چارت‌ها، ساده و شفاف‌اند. روی یکی‌شان چند یادداشت گذاشته‌ام:
-- aboutcompression-p42 aboutcompression_p42_1052 — S1 no-verb — یکی دیگر، با Liquidity، و یک «آنومالی» در نحوهٔ عبور قیمت از CP.
-- aboutcompression-p42 aboutcompression_p42_1070 — S2 english-left — روی لینک «here» کلیک کردم اما مرا به سایت acegazzette برد و «error 404» داد. چطور می‌توانم ببینم چه چیزی نشان 
-- aboutcompression-p46 aboutcompression_p46_1172 — S1 no-verb — GOLD، تایم‌فریم ماهانه؛ CP خوب به سمت یک ناحیهٔ تقاضای مناسب (تازه، ناحیهٔ فلیپ)
-- aboutcompression-p48 aboutcompression_p48_1217 — S1 no-verb — کمی تکلیف فشردگی و مشاهدات روی USDCAD از چارت 1H سال 2015:
-- aboutcompression-p48 aboutcompression_p48_1220 — S1 no-verb — hey alirezat کار قشنگ رفیق، فقط چند یادداشت روی یکی از چارت‌هایت: با احترام omidFxt
-- aboutcompression-p49 aboutcompression_p49_1233 — S1 no-verb — full نوشت: سلام بچه‌ها جزئیات روی چارت full کار خوب رفیق مال من را جا انداختم… 
-- aboutcompression-p5 aboutcompression_p5_132 — S1 no-verb — یک فشرده‌سازی دیگر، این بار در AUD/JPY تایم‌فریم 4H.
-- aboutcompression-p5 aboutcompression_p5_141 — S2 english-left — اول از همه ممنون از تحلیل، می‌توانم بپرسم وقتی می‌نویسی This= Taken out، منظورت برداشتن سطح قبلی عرضه/تقاضاست؟
-- aboutcompression-p5 aboutcompression_p5_142 — S2 english-left — Acts 28 نوشت: اول از همه ممنون از تحلیل، می‌توانم بپرسم وقتی می‌نویسی This= Taken out، منظورت برداشتن سطح قبلی
-- aboutcompression-p5 aboutcompression_p5_144 — S2 english-left — whiteout نوشت: Acts 28 نوشت: اول از همه ممنون از تحلیل، می‌توانم بپرسم وقتی می‌نویسی This= Taken out، منظورت ب
+- aboutcompression-p27 aboutcompression_p27_684 — S2 fragment — Ifmyante نوشت: همه‌اش دقیقاً درست است! مطمئنم این توصیه را به تازه‌کارها شنیده‌ای: «وقتی فکر می‌کنی بخر، بفروش
+- aboutcompression-p27 aboutcompression_p27_688 — S1 calque — حدس می‌زنم در نگاه به گذشته انجام این کار واقعاً راحت است. ولی امیدوارم نوشتن همه‌اش کمکم کند همان لحظه که در 
+- aboutcompression-p3 aboutcompression_p3_83 — S2 english-left — «Price is Everything Chatroom»، یک ترد در Forex Factory. @mel هم یکی از همان بچه‌هاست — و یکی از باهوش‌ترین‌ها
+- aboutcompression-p35 aboutcompression_p35_882 — S1 calque — Victor نوشت: milkeyway نوشت: سلام. دنبال فشردگی گشتم. درباره‌ش خوندم ولی نفهمیدم دقیقاً چه نقشی توی معامله‌گری
+- aboutcompression-p46 aboutcompression_p46_1173 — S2 fragment — این یکی هم ترکیبی از چند مفهوم است: CP، RBD، DPها، QM LVL و
 - aboutcompression-p8 aboutcompression_p8_217 — S2 english-left — من تازه‌کارم در روش ترید Supply and Demand. اولین تلاش من برای تمرین CP… لطفاً نظر بدید… 
-- aboutcompression-p8 aboutcompression_p8_218 — S1 no-verb — سلام به همه، به تماشای بازار زنده ادامه می‌دم برای تمرین چشم و ثبت فاکتورهایی که به نظر میاد به هر ستاپ تمرین 
 - aboutcompression-p8 aboutcompression_p8_223 — S2 english-left — سلام Mel و Ifmyante ممنون که وقت گذاشتی و CP‌هایی که پیدا کردم رو نقد کردی. @Mel نرسیدم به عکس عرضه - آره حتما
-- academylite1-p1 academylite1_p1_3 — S2 english-left — ViTaLDRuG نوشت: IF خیلی ممنون بابت درس. چطور ویدئو را فعال کنم (در صورتی که ویدئویی داشته باشد). من فقط صدایت 
 - academylite1-p1 academylite1_p1_15 — S2 fragment — فکر می‌کنم این از نظر چیزی که باید دنبالش باشیم، نسبت به چارت اولم بهتر باشد:
-- academylite1-p1 academylite1_p1_24 — S1 no-verb — اولین تمرین: یک QM ناموفق (دایرهٔ قرمز) و یک QM خوب (دایرهٔ سبز)
-- academylite1-p2 academylite1_p2_32 — S1 calque — Whenever نوشت:… فکر کردم من هم گرفتم… ولی اینجا چطور؟ کادر قرمز را قبل از رسیدنش به تارگت پایین‌تر رسم می‌کنیم
 - academylite1-p2 academylite1_p2_50 — S2 fragment — ویدئو بخش یک --- رسم‌های تمیز ---- در آسمان (کی PA را بهتر از من می‌داند) بخش دو ---؟ (چارت‌های واقعی) --- روی
-- academylite1-p4 academylite1_p4_83 — S2 english-left — فکر می‌کنم همه سؤالم را یک‌جا پاسخ دادم… obvious را نمی‌دیدم چون در علامت‌گذاری پیچشها کار درستی انجام نمی‌داد
-- academylite1-p4 academylite1_p4_86 — S2 english-left — HCDE، به نظر می‌رسد داری FL‌ها را به روش جدیدی که از IF تدریس شده کشف می‌کنی. دوست دارم دوباره روی تعریفم که ق
-- academylite2-p3 academylite2_p3_58 — S2 english-left — پست‌های رفع اشکال را می‌توانید در فیدبک پیدا کنید readthemarket.com/index.php/en/forum/rtm… n-academy-lite-fil
-- academylite2-p4 academylite2_p4_85 — S2 english-left — ما چند مشکل را اینجا بحث کردیم readthemarket.com/index.php/en/forum/any… access-some-articles اگر نه، می‌توانی
-- academylite2-p4 academylite2_p4_88 — S2 english-left — Harry اصرار داشت به‌جای k-lite کدک Techsmith دانلود شود… اینجا readthemarket.com/index.php/en/forum/any… acces
-- academylite2-p4 academylite2_p4_90 — S3 untranslated, no-verb — readthemarket.com/index.php/en/forum/tra… or-pa?start=50#64050
-- alex-p10 alex_p10_249 — S1 no-verb — ژورنال عالیه، چارت‌هایت شفاف و ساده‌اند، ممنون Alex.
-- alex-p11 alex_p11_271 — S1 no-verb — ممنون Guys از این حرف‌ها!!!! همهٔ معامله‌گرهای RTM برای من فوق‌العاده‌اند!
-- alex-p12 alex_p12_297 — S2 english-left — سلام Smile. به RTM خوش آمدی! با Milkeyway موافقم. لطفاً این تاپیک را با دقت بخوانید. www.readthemarket.com/ind
-- alex-p13 alex_p13_312 — S1 no-verb — Kovalenko نوشت: سلام juniormaiafx سلام برادر… خیلی ممنون!!!
-- alex-p13 alex_p13_322 — S1 no-verb — خوشحالم که دوباره پست می‌گذاری Alex! همیشه کلی یاد می‌گیرم. دمت گرم.
-- alex-p16 alex_p16_390 — S1 no-verb — Gembel، تو بدون کامنت، قشنگ! تریدت A\U را دوست داشتم
-- alex-p17 alex_p17_406 — S2 english-left — Gembel جان، چارت قشنگی است. FO موضوع خوبی برای یادگیری است. اینجا در RTM موضوع خوبی دربارهٔ Engulf/Fake out هس
-- alex-p17 alex_p17_407 — S2 english-left — Kovalenko نوشت: Gembel جان، چارت قشنگی است. FO موضوع خوبی برای یادگیری است. اینجا در RTM موضوع خوبی دربارهٔ En
-- alex-p20 alex_p20_496 — S2 english-left — HI به معامله‌گرهای RTM! می‌خواهم تجربه‌ام را در سفر به FOREX به عنوان کسب‌وکار به اشتراک بگذارم. این یک بازی ن
-- alex-p21 alex_p21_508 — S1 no-verb — می‌توانی طلا را هم مثل *502 یک هفته روی 5MIN بکشی (مثال)؟ ممنون
-- alex-p22 alex_p22_528 — S1 no-verb — Hansma، لطفاً این را بخوانید readthemarket.com/index.php/technical-analysis Glory- G\J- H4/ منتظرش هستم.
-- alex-p22 alex_p22_531 — S1 no-verb — Kovalenko نوشت: Hansma، لطفاً این را بخوانید readthemarket.com/index.php/technical-analysis Glory- G\J- H4/ من
-- alex-p22 alex_p22_540 — S1 no-verb — سلام برادر، چارت دیگری با همان شک. ممنون. - Naveen
-- alex-p22 alex_p22_546 — S2 english-left — دستکاری - به زبان ساده، وقتی Pro می‌خواهد ما (معامله‌گرها) را گیج کند. مثال‌ها - Fake out، QM، DM. Pro اینگلاف
-- alex-p23 alex_p23_559 — S1 no-verb — ممنون ALEX. دربارهٔ #528 GBPJPY چی؟ الان نمی‌دونم بالا میره یا پایین
-- alex-p24 alex_p24_585 — S2 english-left — Hans، لطفاً توجه کن، مهم است که مفهوم ENG را روی چارت نه کمتر از H1 بفهمی. بعد اگر فهمیدی و راحت Key Eng/not k
-- alex-p24 alex_p24_587 — S2 english-left — Kovalenko نوشت: Hans، لطفاً توجه کن، مهم است که مفهوم ENG را روی چارت نه کمتر از H1 بفهمی. بعد اگر فهمیدی و را
-- alex-p25 alex_p25_622 — S1 no-verb — ورود امروز. هنوز روی دمو. ممنون RTM، ممنون Kovalenko
-- alex-p26 alex_p26_633 — S1 no-verb — ممنون بابت ژورنال عالی و وقتی که برای توضیح گذاشتی!
-- alex-p26 alex_p26_644 — S1 no-verb — رفیق، Whenever! این چارت‌ها برای تو رفیق، برای پیش‌نمایش! (از ژورنال H)
-- alex-p27 alex_p27_665 — S1 no-verb — سلام رفیق. ممنون. حالا دوباره یک زبان حرف می‌زنیم.
-- alex-p28 alex_p28_678 — S1 no-verb — مثل اینکه چیزهای کلیدی ترید را با دایره/خط‌های نارنجی/طلایی علامت می‌زنی;-)
-- alex-p29 alex_p29_715 — S2 english-left — Kovalenko نوشت: Glory، خیلی خوش‌بین هستی. دیگر QM کلاسیک ترید نمی‌کنم. برای گرفتن ترید دنبال اطلاعات اضافه می‌
-- alex-p3 alex_p3_65 — S1 no-verb — خیلی ممنون Harry. معامله‌های خوبی Glory. ممنون AUD\CAD EUR\USD
-- alex-p31 alex_p31_774 — S1 no-verb — سلام Alex! می‌توانی چارت GBPJPY را توضیح بدهی لطفاً؟
-- alex-p33 alex_p33_810 — S2 english-left — bllixu نوشت: پس فقط بدون تأیید مثل QM وارد می‌شوی؟ سلام - در این تریدها تأییدی نیست. دیگر QM را نمی‌گردم… به د
-- alex-p33 alex_p33_818 — S2 english-left — Hans، فکر کردم چطور باید به سؤالت جواب بدهم. توصیه می‌کنم ژورنالم را دوباره بخوانی - جواب‌های زیادی اینجا می‌گ
-- alex-p33 alex_p33_820 — S2 english-left — Kovalenko نوشت: bllixu نوشت: پس فقط بدون تأیید مثل QM وارد می‌شوی؟ سلام - در این تریدها تأییدی نیست. دیگر QM ر
-- alex-p34 alex_p34_826 — S1 no-verb — Alex، می‌توانی لطفاً توضیح بدهی منظورت از mid-level چیست؟ آیا از آن باکس زرد (غیر نقطه‌چین) ترید می‌گیری؟ [/qu
-- alex-p34 alex_p34_842 — S1 no-verb — Alex بهترین‌ها برای کریسمست و سال نوئی فوق‌العاده!!
-- alex-p35 alex_p35_857 — S1 no-verb — سلام رفیق!!! کریسمس مبارک و سال نو مبارک برای تو هم!!!!
-- alex-p35 alex_p35_858 — S1 no-verb — عالی kovalenko! کریسمس مبارک و سال نو مبارک برای تو! ترید بعدی کیه؟
-- alex-p35 alex_p35_862 — S1 no-verb — سلام به همه، ممنون IF- ، ما اینجا هستیم چون - تو آدم خیلی خوبی هستی!!!!!!!!!!!!!!!!!!!!
-- alex-p36 alex_p36_877 — S1 no-verb — نه، کشور ما — RTM TheBeard نوشت: معاملهٔ خوبی، رفیق. اهل UK هستی؟
-- alex-p36 alex_p36_878 — S1 no-verb — Kovalenko نوشت: نه، کشور ما — RTM TheBeard نوشت: معاملهٔ خوبی، رفیق. اهل UK هستی؟ جمهوریِ تُن‌ها پول
-- alex-p36 alex_p36_879 — S1 no-verb — کمی Whenever نوشت: Kovalenko نوشت: نه، کشور ما — RTM TheBeard نوشت: معاملهٔ خوبی، رفیق. اهل UK هستی؟ جمهوریِ ت
-- alex-p8 alex_p8_188 — S2 english-left — سلام Glory، سؤال خیلی خوبی است، لطفاً این مقاله را ببینید: www.readthemarket.com/index.php/support-and-resista
-- alex-p9 alex_p9_203 — S1 no-verb — و SPX500، جایی که الماس را می‌فروشیم، FTR آبی یا FTR قرمز؟
-- alex-p9 alex_p9_205 — S1 no-verb — طلا بچه‌ها، آخر هفتهٔ خوبی داشته باشید!!!!!!!!!
-- alex-p9 alex_p9_219 — S1 no-verb — gbpjpy را روی qm خریده‌ام و SP500 را در DP فروخته‌ام منتظر طلا هستم، فقط تو QM را بگو
-- amit-p11 amit_p11_259 — S2 english-left — چیزی تازه نیست… همین که در مقالهٔ supply and demand داده شده است… فقط دارم چند مثال بیشتر از آن می‌دهم.
-- amit-p11 amit_p11_263 — S1 no-verb — milkeyway نوشت: آیا ورود در RBD بعد از شکست را در نظر می‌گیری؟
-- amit-p11 amit_p11_275 — S2 english-left — zhao نوشت: سلام Amit، اشکالی نداری بگویی جلسهٔ معاملاتی‌ات هر روز چطور می‌گذرد، تو هم‌زمان این‌همه ابزار را زی
-- amit-p12 amit_p12_276 — S1 no-verb — سلام Amit، ممنون از پاسخت. جریان سفارش را روی چارتت چطور می‌خوانی؟ واقعاً دنبال چه چیزی می‌گردی. با احترام، pe
-- amit-p12 amit_p12_294 — S2 english-left — سلام Amit! فقط می‌خواستم برای پست‌های اخیرت تشکر کنم. خیلی کمکم کردند در انتخاب FTR‌های خوب و در فهمیدن نواحی 
-- amit-p13 amit_p13_305 — S1 no-verb — ببخشید معامله‌گران اگر نتوانستم جواب بدهم. این هفته مطالعهٔ آموزشی زیادی داشته‌ام.
-- amit-p14 amit_p14_345 — S1 no-verb — milkeyway نوشت: یک معاملهٔ باکس دیگر… سلام Amit. آیا این‌ها حمایت و مقاومت‌اند یا PAZ؟
-- amit-p14 amit_p14_346 — S1 no-verb — برای من این‌ها سطح‌های swap و همچنین سطح‌های S/R هستند که دنبال اینگافشان می‌گردم.
-- amit-p15 amit_p15_361 — S2 english-left — bulleyes نوشت: سلام Amit، یک سؤال دربارهٔ اینگاف مثل علامت‌گذاری‌شده در عکس پایین دارم. آیا فکر می‌کنی در این 
-- amit-p17 amit_p17_403 — S1 no-verb — ممنون Milkeyway که معاملاتت را می‌گذاری! از آن‌ها خیلی یاد می‌گیرم!!
-- amit-p18 amit_p18_429 — S2 english-left — milkeyway نوشت: انواع زیادی DP هست بر اساس موقعیتش. این یکی مثال DP است. قبلاً هم این نوع تصاویر را ذکر کرده‌ا
-- amit-p18 amit_p18_437 — S2 english-left — سلام Amit، این نگاه من به آن است. شورت دوم آن‌قدر obvious نبود برای من، اما فقط دیدم که Charles قبلاً تحلیلش ر
-- amit-p18 amit_p18_442 — S1 calque — نه بگذار هر تایم‌فرمی باشد… صرف‌نظر از تایم‌فریم آیا از نظر ساختاری DBR است؟ اگر بله. چرا؟ چیزی است که می‌خواه
-- amit-p18 amit_p18_446 — S2 english-left — هی رفیق، اگر اشکالی نداری می‌توانم ذهنت را بپرسم؟ price action اخیر UJ کمی مرا در معما انداخته. این چارت را با
-- amit-p19 amit_p19_451 — S1 no-verb — سلام. به‌خاطر درس‌هایم فعلاً از ترید و چارت‌ها دورم. بعد از امتحان‌های آوریل برمی‌گردم.
-- amit-p19 amit_p19_467 — S1 no-verb — مثل همیشه چارت‌های عالی، آمیت. این یکی را درست می‌خوانم؟
-- amit-p19 amit_p19_468 — S1 no-verb — scoobydoo نوشت: مثل همیشه چارت‌های عالی، آمیت. این یکی را درست می‌خوانم؟ دقیقاً درست می‌گویی Scoobydoobydoo
-- amit-p21 amit_p21_504 — S2 english-left — bobyv87 نوشت: ممنون Amit از پاسخت دربارهٔ سؤالم دربارهٔ نقطهٔ B در آن چارت. حالا، چند سؤال دیگر برایت دارم، اگ
-- amit-p5 amit_p5_108 — S2 fragment — Amit عزیز چند ماه پیش رفتم داخل ژورنال Kruger تا نظرم را دربارهٔ رویکرد تو به RTM بگویم. پست 499 ژورنال Kruger
-- amit-p5 amit_p5_109 — S2 fragment — in2forex نوشت: Amit عزیز چند ماه پیش رفتم داخل ژورنال Kruger تا نظرم را دربارهٔ رویکرد تو به RTM بگویم. پست 49
-- amit-p8 amit_p8_185 — S2 english-left — این خوانش قیمتم است. دنبال این چیزها می‌گردم. ورود در FTRها/FL‌ها. با همهٔ مشاهدات، باید دنبال حرکت‌های قوی مع
-- amit-p8 amit_p8_197 — S1 no-verb — سلام، milkeyway تبریک برای ارتقایت! P.S. چارت‌های عالی! ژورنال عالی!
-- amit-p9 amit_p9_216 — S1 no-verb — تبریک Amit. کاملاً شایسته. اشکالی نداری تحلیل دقیق‌تری از شورت اخیرت برای e/j بدهی. و چطور order follow را از 
-- amit-p9 amit_p9_218 — S1 no-verb — zhao نوشت: تبریک Amit. کاملاً شایسته. اشکالی نداری تحلیل دقیق‌تری از شورت اخیرت برای e/j بدهی. و چطور order fo
-- andrew-p3 andrew_p3_3 — S1 no-verb — [/quote]"معامله داخل یک FL" یعنی چه؟[/quote] سلام andrew، کمی تکلیف انجام بده و مقالهٔ FL را هر چند بار که می‌
-- andrew-p4 andrew_p4_13 — S1 no-verb — سؤال 1: می‌توانی یک مربع بزرگ دقیق با مثلث‌های کوچک زیاد بسازی؟ سؤال 2: می‌توانی یک مثلث بزرگ دقیق با مثلث‌های
-- andrew-p5 andrew_p5_104 — S2 fragment — دارم کارم را از اینجا شروع می‌کنم: «از کجا در HTF شروع کنم تا کندوکاو در LTF را آغاز کنم». همان‌طور که می‌دانی
-- aran-p1 aran_p1_6 — S1 no-verb — پیوست فایل:نام فایل: حجم فایل: 0 KB اسپرد پیوست فایل:نام فایل: حجم فایل: 0 KB
-- aran-p2 aran_p2_2 — S1 no-verb — ممنون IF برای فرصت دوم پیوست فایل:نام فایل: حجم فایل: 0 KB
-- aran-p2 aran_p2_3 — S1 no-verb — پیوست فایل:نام فایل: حجم فایل: 0 KB پیوست فایل:نام فایل: حجم فایل: 0 KB پیوست فایل:نام فایل: حجم فایل: 0 KB
-- aran-p2 aran_p2_14 — S1 no-verb — آخرین معاملهٔ روز پیوست فایل:نام فایل: حجم فایل: 0 KB
-- aran-p2 aran_p2_15 — S1 no-verb — پیوست فایل:نام فایل: حجم فایل: 0 KB پیوست فایل:نام فایل: حجم فایل: 0 KB
+- academylite2-p1 academylite2_p1_25 — S2 english-left — سلام IF و تیم و همه، بخش 2 را دیدم و راستش سؤالی برایم پیش آمده که می‌خواهم برای تأیید به شما مطرح کنم. چیزی ک
+- academylite2-p4 academylite2_p4_90 — S3 untranslated — readthemarket.com/index.php/en/forum/tra...or-pa?start=50#64050
+- academylite2-p4 academylite2_p4_100 — S2 english-left — موافقم HCDE، من هم گاهی برای پیدا کردن PA درست هنگام نزدیک شدن به PCP/LS/FTR‌مان سخت می‌گیرم و همه‌ی آن‌ها FL‌
+- alex-p20 alex_p20_496 — S2 english-left — سلام به معامله‌گرهای RTM! می‌خواهم تجربه‌ام را در سفر به FOREX به عنوان کسب‌وکار به اشتراک بگذارم. این یک بازی
+- alex-p35 alex_p35_854 — S1 calque — Kovalenko نوشت: اطلاعات کمکی من Alex، نگاه کن:) فکر می‌کنم یکی از نقاشی‌هایت به زودی روی GJ نقش بازی می‌کند =)
+- amit-p12 amit_p12_294 — S2 english-left — سلام Amit! فقط می‌خواستم برای پست‌های اخیرت تشکر کنم. خیلی کمکم کردند که FTRهای خوب را انتخاب کنم و دستم روی ن
+- amit-p18 amit_p18_442 — S1 calque — نه بگذار هر تایم‌فرمی باشد… صرف‌نظر از تایم‌فریم آیا از نظر ساختاری DBR است؟ اگر بله، چرا؟ این همان چیزی است ک
+- amit-p5 amit_p5_108 — S2 fragment — Amit عزیز چند ماه پیش سر از ژورنال Kruger درآوردم تا دربارهٔ رویکردت به RTM دلم را خالی کنم. پست 499 ژورنال Kr
+- amit-p5 amit_p5_109 — S2 fragment — in2forex نوشت: Amit عزیز چند ماه پیش سر از ژورنال Kruger درآوردم تا دربارهٔ رویکردت به RTM دلم را خالی کنم. پس
+- andrew-p5 andrew_p5_104 — S2 fragment — دارم کارم را از اینجا شروع می‌کنم: «از کجا در تایم‌فریم بالاتر شروع کنم تا کندوکاو در تایم‌فریم پایین‌تر را آغ
 - aran-p2 aran_p2_20 — S2 fragment — رفیق Aran، این هم پیشنهاد من. «از فراز دریاها و از ساحلی به ساحل دیگر تا جایی را که بیشتر از همه دوست دارم پید
 - aran-p2 aran_p2_22 — S2 fragment — staurum نوشت: رفیق Aran، این هم پیشنهاد من. «از فراز دریاها و از ساحلی به ساحل دیگر تا جایی را که بیشتر از همه
-- aran-p3 aran_p3_23 — S1 no-verb — ممنون بچه‌ها معاملهٔ NU پیوست فایل:نام فایل: حجم فایل: 0 KB
-- aran-p7 aran_p7_2 — S1 no-verb — فقط خیلی مراقب باش، ما در آشپزخانهٔ جهنمی AJ هستیم.
-- aran-p8 aran_p8_3 — S1 no-verb — سلام بر میزبانمان، آقای Aran، معامله‌گر واقعاً واقعاً خوبی با نهایت احترام،
-- art-p1 art_p1_2 — S2 english-left — سعی می‌کنم از low timeframes دور بمانم اما امروز Aussie مرا seduced کرد… اینجاست: AUDUSD در حال reaction قوی ب
-- art-p1 art_p1_3 — S2 english-left — پستی درباره flag‌ها… خیلی از آن‌ها هستند. حس می‌کنم فقط در هوا آویزان هستند. قیمت خیلی often به آن‌ها reaction
-- art-p1 art_p1_4 — S2 english-left, calque — ورود قشنگی، Art! در fact، آن dream entry من است. Art نوشت: "… There are so many of them. I feel like they are 
-- art-p1 art_p1_5 — S2 english-left — EURAUD long از demand. ورود بعد از اینکه روی H4 QM ساخت. همان زمان trade مربوط به AUDUSD دیروز trigger شد. تصو
-- art-p1 art_p1_6 — S2 english-left — OMG باید flag‌ها را یاد بگیرم، بعد یاد بگیرم quote کنم… دیروز در حال یادگیری بودم چطور attachment‌ها را اینجا 
-- art-p1 art_p1_9 — S2 english-left — Ifmyante نوشت: سلام Art journal قشنگ تا حالا خوشحالم که می‌بینم اولین trade من بعد از ماه‌ها توسط عضو جدیدی خو
-- art-p1 art_p1_12 — S2 english-left — Art، golden confirmation را از IF گرفتی! Trade قشنگی، Pal! Pucci، حدس می‌زنم با clear کردن آن M1 demand couple
-- art-p1 art_p1_15 — S3 untranslated, english-left — As simple as this IF؟
-- art-p1 art_p1_19 — S2 english-left — سلام Guys، ممنون به همه برای جواب‌های قشنگ، مخصوصاً IF. فکر می‌کردم دارم crazy می‌شوم *****This is just a note
-- art-p1 art_p1_20 — S2 english-left — IF، اگر غلط می‌گویم درست کن اما به خاطر می‌آورم گفتی یکی از most powerful tricks است که IT‌ا استفاده می‌کنند! 
-- art-p1 art_p1_23 — S2 english-left — CADJPY long entry تصویر H4: demand مربوط به M15 SL Update ببینیم کجا می‌رود… یا کجا نمی‌رود
-- art-p1 art_p1_25 — S2 english-left — پس این CADJPY آن‌قدر سریع حرکت نمی‌کند که آرزو می‌کنم. Quick Update: قیمت نتوانست high‌ها را consume کند که نش
-- art-p12 art_p12_279 — S1 no-verb — شورت NZDUSD. بعضی را بستم. تارگت آن کف‌های روی چارت.
-- art-p12 art_p12_281 — S1 no-verb — بعداً امروز جلسه FOMC، نرخ بهره FED و اخبار مهم NZD. پس دور می‌مانم
-- art-p12 art_p12_291 — S1 no-verb — شورت USDJPY با SL 4.2 پیپ. ورود روی 123.169، SL روی 123.211
-- art-p14 art_p14_326 — S2 english-left — پس یک نفر باید چیزهای نسبتاً زیادی روی چارت علامت بزند. پس این ابزار کوچک (indicator توسعه‌یافته) را گرفتم که 
-- art-p14 art_p14_327 — S1 no-verb — ممنون Art… همچنین موسیقی خیلی خوبی در background… Cheers،
-- art-p14 art_p14_330 — S2 english-left — امروز/فردا setup‌ی به سمت من نمی‌آید پس این UJ trade of the week برایم بوده. Entry: Trade: می‌خواستم با تارگت 
-- art-p14 art_p14_333 — S2 english-left — اینجا آپدیتی برای Extender indicator است. بعضی minor و major bugs fixed شد. Version 2.6 ضمیمه است. Art نوشت: S
-- art-p14 art_p14_334 — S2 english-left — سلام Art، ممنون برای indicator، آن tool خیلی مفیدی در toolbox است. مدتی بود دنبال indicator‌ی می‌گشتم که descr
-- art-p14 art_p14_337 — S2 english-left — فکر می‌کنم باید frequent‌تر در ژورنالم پست کنم. QM+RBD trade روی FTSE. TG1 را hit کرده. Trade Plan این است که 
-- art-p14 art_p14_338 — S2 english-left — این را از دست دادم. HL، HL، engulf+ FTR. قیمت برگشت. Reaction… mini engulf و به جنوب رفت. HTF: M1 Engulf و RBD
-- art-p14 art_p14_339 — S2 english-left — AUDUSD‌ی که نتوانستم معامله کنم. Conclusion کوچکی early Monday در end من: باید به TF‌های بالاتر switch کنم وگر
-- art-p14 art_p14_342 — S2 english-left — به عبارت دیگر، وقتی با چارت live روبه‌رو می‌شوی، به gameبرنامه‌ات stick نمی‌کنی؟ همین است؟ فقط یک psychologica
-- art-p14 art_p14_346 — S2 english-left — سلام Micka1، خیلی خوشحالم که بعد از دیدن پستم به lurking ادامه ندادی. پستت مرا به فکر انداخت و همین از قبل gre
-- art-p14 art_p14_347 — S2 english-left — دوباره شروع کردم به خواندن Trading in the Zone نوشتهٔ Douglas. چیز خوبیه. بار اول که چند سال پیش خواندم باهاش 
-- art-p14 art_p14_348 — S3 untranslated, english-left, no-verb — Art my friend، It's times like this that separate the losers from the winners… When you fall, get up and go ag
-- art-p14 art_p14_349 — S3 untranslated, english-left, no-verb — @Art… I went from 50 to 10/15 trades (sometimes 20 trades per month, it depends… ) Just by being very (extreme
-- art-p14 art_p14_350 — S2 english-left, no-verb — سلام gizzo، glad to see your encouragement bro in the moment of despair! It will work out! gizzo نوشت: Art my 
-- art-p2 art_p2_26 — S1 no-verb — یک معاملهٔ دیگر در جریان… عرضهٔ هفتگی + FO + CP + FTR = شورت نقره
-- art-p3 art_p3_63 — S1 no-verb — به‌روزرسانی CADJPY. پست اصلی و ورود اینجا: [url=http://http://readthemarket.com/index.php/forum/journals/2258-
+- art-p10 art_p10_239 — S1 calque — خیلی کلافه‌ام، چون این چیزها وقتی آدم بتواند در چارچوب مفاهیم RTM معامله کند خیلی ساده است. ذهنم همه‌چیز را بی
+- art-p14 art_p14_347 — S2 fragment — خواندن کتاب «معامله در منطقه» از Douglas را از سر گرفته‌ام. چیزهای خوبی دارد. بار اول که چند سال پیش خواندمش ب
 - art-p4 art_p4_96 — S2 english-left — معامله‌گری مرا با تک‌تک شیطان‌های درون سرم آشنا کرد و همچنان یکی‌یکی جدیدها را معرفی می‌کند… دیوانه‌کننده است 
-- art-p5 art_p5_101 — S2 english-left — AU short TG را misjudge کردم… 
-- art-p5 art_p5_102 — S2 english-left — EUR50 long trigger شد
-- art-p5 art_p5_105 — S2 english-left — Art نوشت: آخرین update مربوط به silver. engulf کوچکی بود… پس تصمیم گرفتم trade را ببندم بعد از اینکه خیلی نزدی
-- art-p5 art_p5_110 — S2 english-left — بگذار برایت clear کنم… Lots of good material در RTM هست. اگرچه کل education به many parts تقسیم شده تا دنبال ک
-- art-p5 art_p5_112 — S1 no-verb — EURO STOXX 50 Update… نمی‌توانستند اسم کوتاه‌تری بسازند… مثل EUR50 یا smith.
-- art-p5 art_p5_114 — S2 english-left, calque — Art نوشت: Dear Art، TG2 تو spot on بود. دفعه بعد لطفاً trading برنامه‌ات را follow کن. BR، Art سلام، Art چند س
-- art-p5 art_p5_115 — S2 english-left — به نظر compression‌ی روی Weekly است. با این حال هنوز نمی‌توانم figure out کنم چرا این H4 setup fail شد
-- art-p5 art_p5_117 — S2 english-left, calque — سلام و خوش آمدی، سؤال‌های خوب زیادی داری. با چارت weekly شروع کنیم… و جواب بده اگر معنا می‌دهد یا نه. پس قیمت 
-- art-p5 art_p5_118 — S2 english-left — نمی‌توانی H4 setup را figure out کنی چون سعی نمی‌کنی Weekly chart را figure out کنی. jacexinho نوشت: به نظر co
-- art-p5 art_p5_119 — S2 english-left, calque — Art نوشت: سلام و خوش آمدی، سؤال‌های خوب زیادی داری. با چارت weekly شروع کنیم… و جواب بده اگر معنا می‌دهد یا نه
+- art-p5 art_p5_110 — S2 english-left — بگذار برایت روشنش کنم... مطالب خوب زیادی در RTM هست. اما کل آموزش به بخش‌های زیادی تقسیم شده تا دنبال کردنش را
+- art-p5 art_p5_123 — S2 english-left — Art نوشت: روند فکر کردن خوبی است! امیدوارم بدت نیاید که این کار را فوق‌العاده آهسته انجام می‌دهم و اینجا دارم 
+- astrokillah-p15 astrokillah_p15_4 — S2 fragment — من همچنان معتقدم در هر حالتی بهترین کار انتظار برای تأیید PA است. وقتی از سفارش معلق استفاده می‌کنم، یا به این
+- benhur-p1 benhur_p1_12 — S2 english-left — harshrthakkar نوشت: قطعاً این کار را می‌کنم، ولی برای شروع باید ناحیه‌های عرضه و تقاضا را تشخیص بدهم… مقالهٔ m
+- capnp-p3 capnp_p3_58 — S2 english-left — اگر بخواهم مسیر و آموزش معامله‌گری‌ام را خلاصه کنم. بدون ترتیب اهمیت. 1. اطلاعات باکیفیت — ویدئوها و مقالات Sa
+- classroom-p1 classroom_p1_25 — S2 english-left — Ifmyante نوشت: وقتی یاد بگیرم چارت‌ها را مثل آن روی هم بیندازم، نشانت می‌دهم منظرم چیست :) می‌توانی از اندیکات
+- classroom-p12 classroom_p12_283 — S2 english-left — Harry نوشت: i thought you just got here, so take your time, read the Markepedia, do your homework, watch the v
+- classroom-p13 classroom_p13_316 — S2 english-left — سلام، اگر می‌خواهی دربارهٔ نواحی S/D یاد بگیری به تمرین‌های خانگی «Drop Base Rallies and Rally Base Drops» و «
+- classroom-p13 classroom_p13_318 — S2 english-left — kkb نوشت: سلام، اگر می‌خواهی دربارهٔ نواحی S/D یاد بگیری به تمرین‌های خانگی «Drop Base Rallies and Rally Base 
+- classroom-p15 classroom_p15_374 — S2 fragment — باشه همه، نمی‌خواهم خیلی هیجان‌زده شوم، اما فکر می‌کنم این ممکن است کمی معنا پیدا کند. صبر می‌کنم ببینم چه می‌
+- classroom-p16 classroom_p16_382 — S2 fragment — Hotochin نوشت: Ifmyante نوشت: tradingjedi نوشت: Ifmyante نوشت: پسر IF، کاش می‌دانستم آن PAZ‌ها را چگونه کشیدی.
+- classroom-p16 classroom_p16_391 — S2 fragment — IF، باهاهاها، حالا روشن شد! ممنون از پاسخ IF! می‌روم سراغ چند مثال دیگر و نگاه به چارت‌ها. وقتی تمام شد در ژور
+- classroom-p20 classroom_p20_488 — S2 english-left — خب بچه‌ها فقط یک درس مانده برای تدریس؛ درسی که همه‌چیز را در شیوه‌ای باورناکردنی ساده به هم گره می‌زند. شگفت‌ا
+- classroom-p20 classroom_p20_489 — S2 english-left, fragment — Ifmyante نوشت: خب بچه‌ها فقط یک درس مانده برای تدریس؛ درسی که همه‌چیز را در شیوه‌ای باورناکردنی ساده به هم گره
+- classroom-p20 classroom_p20_491 — S2 english-left — Ifmyante نوشت: خب بچه‌ها فقط یک درس مانده برای تدریس؛ درسی که همه‌چیز را در شیوه‌ای باورناقدانی ساده به هم گره
+- classroom-p25 classroom_p25_615 — S2 english-left — rcmacf نوشت: آیا دیوانه‌کننده نیست اگر فکر کنیم خبر ECB این را (جهش) به سمت عرضهٔ بالای سر هل می‌دهد؟ خب، وقتی
+- classroom-p28 classroom_p28_682 — S2 english-left — Forexgump نوشت: سلام به همه، در اولین تصویرم نوشتم «I have Bought here»، اما منظورم این بود که «I was Sell her
+- classroom-p28 classroom_p28_684 — S2 english-left — Ifmyante نوشت: Forexgump نوشت: سلام به همه، در اولین تصویرم نوشتم «I have Bought here»، اما منظورم این بود که 
+- classroom-p31 classroom_p31_769 — S2 english-left — Hey guys just wondering what the general consensus is here. Last night after seeing the heavy عرضه come in I s
+- classroom-p36 classroom_p36_897 — S2 english-left — یک سؤال رندوم برای همهٔ کاربران Forex Factory در روزهای اول Red، Emene، If… به نظرتان تردهای Price is Everythi
+- classroom-p37 classroom_p37_919 — S2 fragment — فقط فکر کردم چیزی را که دارم نگاهش می‌کنم پست کنم تا بقیه نظر بدهند. تصویر بزرگ روی پنل سمت چپ است. قیمت یک کف
+- classroom-p38 classroom_p38_929 — S2 english-left — می‌توانی دربارهٔ جملهٔ «It depends on this side» بیشتر توضیح دهی؟ منظورت این است که FTR چقدر پولبک می‌کند؟ پای
+- classroom-p38 classroom_p38_931 — S2 english-left — revivalfx نوشت: می‌توانی دربارهٔ جملهٔ «It depends on this side» بیشتر توضیح دهی؟ فکر می‌کنم «It depends on th
+- classroom-p43 classroom_p43_1052 — S2 english-left — 1. قیمت به کپ/base در اولین بار قوی واکنش نشان می‌دهد و اثراتش شروع به کم شدن می‌کند، برای همین FTB یعنی first
+- classroom-p44 classroom_p44_1097 — S2 english-left — first time back هر وقت است که قیمت اولین بار به «یک چیزی» برگردد، پس بله، قطعاً اولین بازگشت به ناحیهٔ کلی که 
+- classroom-p5 classroom_p5_116 — S2 english-left — 007 نوشت: OK این یکی به نظر می‌رسد کار می‌کند (روی دمو). eurgbp h1. ناحیهٔ عرضه به نظر می‌رسد کارش را کرده. و 
+- constantine-p1 constantine_p1_18 — S2 english-left — تحلیل من روی EURUSD. لطفاً از شلوغ کردن ژورنالم نترس، هرچه درباره‌اش فکر می‌کنی بنویس The template.tpl for MT5
+- dbrrbd-p10 dbrrbd_p10_248 — S2 english-left — Ifmyante Chief Cook and Bottle Washer ever find CathS نوشت: طنز ماجرا این است که سطح عرضه حدود 1790 دوام آورد:
+- dbrrbd-p14 dbrrbd_p14_342 — S2 english-left — نه چندان وقت پیش من هم مشکل مشابهی داشتم. قیمت قبل از باکس‌های من برمی‌گشت، یعنی فرصت‌های از دست رفته. تا وقتی
+- dbrrbd-p18 dbrrbd_p18_433 — S2 english-left — باشه ممنون… من هم این‌طور حس می‌کنم… اگر اشتباه می‌کنم اصلاحم کنید 1) آیا ناحیه‌های تقاضا یعنی drop-base-rally
+- dbrrbd-p19 dbrrbd_p19_459 — S1 calque — سلام Spongy، اول، برای فرصت این بحث ممنون؛ همیشه دارم یاد می‌گیرم و از تحلیل دقیق تو مطمئنم دارم چیزی یاد می‌گ
+- dbrrbd-p19 dbrrbd_p19_464 — S1 calque — Mettafort، توپ‌اندازی ایده‌ها و نظرات خوب است؛ همین‌طور است که آن عضلات ذهنی را کش می‌دهیم. امیدوارم خوانندگان
+- dbrrbd-p20 dbrrbd_p20_486 — S2 english-left — خیلی شبیه اینکه رفیق تمرین هم باشیم به نظر می‌رسد! بقیه باید بیرون زیر آفتاب باشند. چند چیز روی چارت علامت زدم
+- dbrrbd-p24 dbrrbd_p24_576 — S2 english-left — سلام به همه، من اینجا تازه‌کارم… لطفاً راهنمایی کنید. این تکلیف من دربارهٔ RBD است… و price action وقتی قیمت ا
+- dbrrbd-p24 dbrrbd_p24_577 — S2 english-left — سلام دوباره، این یک تکلیف دیگر است… لطفاً راهنمایی کنید AU تایم‌فریم H1 Uploaded with ImageShack.us
+- dbrrbd-p29 dbrrbd_p29_722 — S2 fragment — madwt نوشت: faridisham نوشت: ببخشید این ستاپ DBR یا RBD نیست. می‌خواهم بپرسم آیا این ستاپ RBR قوی است یا در را
+- dbrrbd-p33 dbrrbd_p33_804 — S2 fragment — milkeyway نوشت: Harry نوشت: milkeyway نوشت: سلام Harry. مشکل این است که حتی بعد از دیدن ویدئوها و خواندن مقاله
+- dbrrbd-p37 dbrrbd_p37_908 — S2 fragment — Aaron، می‌خواهی بگویی که خیز باید بزرگ‌تر از افت باشد، در دیاگرام اول، جایی که گفتی «زیاد خیزی نمی‌بینم که DBR
+- dbrrbd-p37 dbrrbd_p37_910 — S2 english-left — چرا بعضی تصاویر پست‌شدهٔ اخیر در مرورگر chrome من نمایش داده نمی‌شوند؟ گزارش «Attachment.jpg not found» داده ا
+- dbrrbd-p38 dbrrbd_p38_942 — S1 calque — تمرین 2 و 3. کمی کند پیش می‌رود، ولی باید بگویم این چیزها واقعاً جذاب‌اند. ببخشید که نمودارها یکدست نیستند، بر
+- dbrrbd-p4 dbrrbd_p4_98 — S1 calque — ببخشید، پیشرفتم کمی کند است. هفتهٔ گذشته را صرف خواندن چت‌روم PIE کردم (هنوز تمام نشده، الان صفحهٔ 114 هستم:D)
+- dbrrbd-p41 dbrrbd_p41_1010 — S2 fragment — harshrthakkar نوشت: سلام Bulbuli، می‌خواهم بدانم -1) چرا حس می‌کنی سطح زرد جواب می‌دهد؟ 2) من قطعاً اول به PA 
+- dbrrbd-p59 dbrrbd_p59_1452 — S2 fragment — salivan نوشت: سلام Enlightenme فقط چند یادداشت برایت. همیشه دنبال آن بیس‌هایی بگرد که قیمت در آن‌ها تصمیمی برا
+- dbrrbd-p59 dbrrbd_p59_1455 — S2 fragment — salivan نوشت: Enlightenme نوشت: salivan نوشت: سلام Enlightenme فقط چند یادداشت برایت. همیشه دنبال آن بیس‌هایی 
+- dbrrbd-p61 dbrrbd_p61_1516 — S2 english-left — سلام، این اولین بارم برای تکلیف Supply and Demand است چارت روزانه EURUSD RBD - مستطیل آبی DBR - مستطیل زرد
+- dbrrbd-p61 dbrrbd_p61_1519 — S2 english-left — ahmdhfz_92 نوشت: سلام، این اولین بارم برای تکلیف Supply and Demand است چارت روزانه EURUSD RBD - مستطیل آبی DBR
+- diamond-p9 diamond_p9_221 — S2 english-left — سلام linos، قبل از هر چیز خوش اومدی، امیدوارم بتونیم به هم کمک کنیم. بله حق با توئه، چیزی پشت قیمت پنهانه؛ پیش
+- doctorpatient-p15 doctorpatient_p15_373 — S2 fragment — هاها خوب بله، یا شاید بتوانی عنوان این تاپیک را عوض کنی به «جایی آن‌سوی رنگین‌کمان»! آخر هفتهٔ خوبی داشته باشی
+- doctorpatient-p19 doctorpatient_p19_454 — S1 calque — Mel، همهٔ معاملات تا جایی که ممکن باشد با در نظر گرفتن حداقل چارت 4 ساعته انجام می‌شوند. می‌خواهم در لحظهٔ باز
+- doctorpatient-p20 doctorpatient_p20_484 — S2 fragment — ممنون از جواب سریع Doc، خب فقط می‌خواستم جهت کلی این جفت را پیدا کنم. بر اساس M، W، D به من اطمینان بیشتری می‌
+- doctorpatient-p22 doctorpatient_p22_537 — S1 calque — Doctor نوشت: کمی کندل‌خوانی سبک برای همهٔ شما. بازی کلامی‌ها امروز زود آمده‌اند. اولین چارت، چارت ماهانه است؛ 
+- doctorpatient-p23 doctorpatient_p23_561 — S1 calque — Hotochin، 60 ساعت اولت چند سال چند برابر می‌شود تا این چیز «کلیک» کند. همه «فهم» نمی‌کنند. اما اگر صبرت را نگه
+- doctorpatient-p27 doctorpatient_p27_656 — S1 calque — سلام H، سخت است بخواهی روی نمودار 5 دقیقه‌ای سود یک روز را بیرون بکشی. منطق می‌گوید 5 دقیقه قبل از تایم‌فریم ر
+- doctorpatient-p27 doctorpatient_p27_657 — S1 calque — Doctor نوشت: سلام H، سخت است بخواهی روی نمودار 5 دقیقه‌ای سود یک روز را بیرون بکشی. منطق می‌گوید 5 دقیقه قبل ا
+- doctorpatient-p27 doctorpatient_p27_661 — S2 english-left — خواهش می‌کنم Mel. امیدوارم ادامهٔ آن سود فراوانی برای همه بیاورد. فعلاً فقط باید نگاه کنی که قیمت چطور دارد آر
+- doctorpatient-p5 doctorpatient_p5_104 — S2 fragment — ممنون guys، مطمئنم AG seniors عملکرد خیلی بهتری دارند، فقط لطفاً ترد Doctor را به‌هم نزنیم؛ اصلاً قصد من این ن
+- doctorpatient-p6 doctorpatient_p6_140 — S2 english-left — hi Doc! ممنون از پست‌هایت؛ خلاصه‌شدن آرام و با دقت روی چیزی که به اشتراک می‌گذاری خیلی تسکین‌دهنده است. سؤالی 
+- doctorpatient-p6 doctorpatient_p6_147 — S2 english-left — چند سؤال در PM و سراسر فروم‌ها پیش آمد و فکر کردم این‌ها را روی چند چارت جواب بدهم تا وضوح بیشتر شود. اینجا یک
+- doctorpatient-p7 doctorpatient_p7_162 — S2 english-left — hi Doc، ممنون از پست عالی. امروز طعمهٔ تکان امروز شدم (AU) و باید صادق باشم، این یکی واقعاً به من رسید. شاید ب
+- doctorpatient-p8 doctorpatient_p8_177 — S1 calque — کمی خواندن کندل برای همهٔ شما. بازی کلمات امروز زود آمد. چارت اول چارت ماهانه است؛ جفت مربوطه بی‌معناست و آن ر
+- doctorpatient-p8 doctorpatient_p8_189 — S2 english-left — اول، می‌خواهم یک تشکر بزرگ بگویم Doctor برای همهٔ پست‌های بینش‌مندت. می‌توانم حجم زمان را تصور کنم که صرف نوشت
+- drswing-p12 drswing_p12_281 — S2 fragment — حدس می‌زنم سؤالی که از من پرسیده می‌شود این است که از کجا دانستم روی BE بیرون بیایم و ضرر نگیرم. خب واضح است ک
+- drswing-p18 drswing_p18_447 — S2 fragment — با همهٔ استعدادهای تازه‌ای که در RTM پست می‌گذارند، الآن اینجا را جای خیلی خیلی هیجان‌انگیزی می‌یابم . این‌قدر
+- drswing-p19 drswing_p19_453 — S2 fragment — milkeyway نوشت: سلام Dr. Swing یا هر متخصص دیگر. لطفاً می‌توانید بگویید چرا قیمت به این عرضهٔ تازه احترام نگذا
+- drswing-p4 drswing_p4_76 — S2 fragment — واقعاً می‌خواستم امروز این معامله را بعد از اسپایک اینگالف به سمت پایین بگیرم، اما ترس از اسپایک‌های خبری رهای
+- drswing-p4 drswing_p4_77 — S2 fragment — DrSwing نوشت: واقعاً می‌خواستم امروز این معامله را بعد از اسپایک اینگالف به سمت پایین بگیرم، اما ترس از اسپایک
+- drswing-p4 drswing_p4_78 — S2 fragment — Hotochin نوشت: DrSwing نوشت: واقعاً می‌خواستم امروز این معامله را بعد از اسپایک اینگالف به سمت پایین بگیرم، ام
+- drswing-p4 drswing_p4_79 — S2 fragment — DrSwing نوشت: Hotochin نوشت: DrSwing نوشت: واقعاً می‌خواستم امروز این معامله را بعد از اسپایک اینگالف به سمت پ
+- drswing-p4 drswing_p4_80 — S2 fragment — DrSwing نوشت: واقعاً می‌خواستم امروز این معامله را بعد از اسپایک اینگالف به سمت پایین بگیرم، اما ترس از اسپایک
+- drswing-p8 drswing_p8_193 — S2 fragment — Hotochin نوشت: DrSwing نوشت: کسی برای این اسمی دارد؟ از وقت خوابم گذشته خیلی خیلی ممنون که همراهی کردید. ببخشی
+- drswing-p9 drswing_p9_222 — S2 fragment — خوب است که دوباره پست می‌کنی Dr و چه پست عالی‌ای هم
+- edges-p2 edges_p2_6 — S2 fragment — ممنون K که سر زدی، ایجاد بحث مهم است. من با تو مخالف نیستم و Sali واقعاً روی همان FL‌هایی تمرکز می‌کند که درست
+- edges-p4 edges_p4_19 — S2 english-left — PinkPanter نوشت: برایت موفقیت و معامله‌گری شاد آرزو می‌کنم! راستی… فقط کنجکاوم چند معامله‌گر پیدا شده که RTM ر
+- edges-p6 edges_p6_6 — S2 fragment — franc464 نوشت: سلام Edge، دیدم که نویسندهٔ مقالهٔ «سطح نادیده‌گرفته‌شده» در Markepedia هستی، پس فکر کردم می‌تو
+- einrikr-p1 einrikr_p1_2 — S2 fragment — این عکس از صفحه چیزهایی را نشان می‌دهد که با کمال بی‌شرمی از مقالهٔ اینگالف در بخش Markepedia دزدیده‌ام. به نظ
+- einrikr-p5 einrikr_p5_10 — S2 fragment — ممنون بابت این حرف‌های دلگرم‌کننده IF! فکر می‌کنم اعتماد به خود یکی از سخت‌ترین بخش‌های این کار است… با توجه ب
+- engulf-p8 engulf_p8_185 — S2 fragment — سلام DT، مدتی است ژورنالت را نگاه می‌کنم؛ فکر می‌کنم 2014 سال خوبی برایت خواهد بود. چند نظری دربارهٔ یکی از تر
+- engulf-p8 engulf_p8_197 — S2 fragment — سلام همه حدود یک هفته است این اینگالف‌ها را می‌خوانم. متوجه شدم خیلی از آدم‌ها اینجا FTR می‌گذارند ولی من هنوز
+- extremerrage-p4 extremerrage_p4_9 — S2 english-left — extremerrage نوشت: بله، ورودم بعد از CAP بود. چرا؟ چون روی نمودار 15 دقیقه استاپ‌ها فعال شدند، بعد روی 5 دقیقه
+- finddecision-p10 finddecision_p10_226 — S2 english-left — fxyogi نوشت: سلام، ممنون. این روش برایم کار نکرد. به نظر نمی‌رسید کسی در این سود کرده باشد. حتی به نظر می‌رسید
+- finddecision-p10 finddecision_p10_229 — S2 english-left — شروع تکلیفم روی Find the Decisions. فکر می‌کنم این تکلیف برای یادگیری‌ام ارزشمند خواهد بود. به‌جای شلوغ کردن ا
+- finddecision-p6 finddecision_p6_138 — S2 english-left — سلام به همه- مطمئن نیستم این از قبل مشخصه یا نه، ولی ویدئوی "S/D? S/R? It's all about Decisions" می‌گه private
+- finddecision-p6 finddecision_p6_139 — S2 english-left — mettafort نوشت: سلام به همه- مطمئن نیستم این از قبل مشخصه یا نه، ولی ویدئوی "S/D? S/R? It's all about Decision
+- finddecision-p9 finddecision_p9_225 — S2 fragment — fxyogi نوشت: سلام، ممنون. این روش برایم کار نکرد. به نظر نمی‌رسید کسی در این سود کرده باشد. حتی به نظر می‌رسید
+- fishing-p2 fishing_p2_30 — S2 fragment — امروز فقط می‌خواهم از همه شما تشکر کنم که این انجمن را به قشنگ‌ترین گوهرها تبدیل کرده‌اید! Ifmyante هرگز تو را
+- fishing-p9 fishing_p9_219 — S2 fragment — ببخشید که پست قدیمی را زنده می‌کنم، اما می‌خواستم بپرسم اگر می‌شود لینک اصلی یا ادامهٔ کامل نکتهٔ 8 این کوییز 
+- flaglimits-p14 flaglimits_p14_347 — S2 fragment — خیلی ممنون، DT1. آن یک چارت خیلی مفیدی است. FL محلی کوچکی که نشان دادی مرا هم به این واقعیت آگاه کرد که روی تا
+- flaglimits-p3 flaglimits_p3_66 — S2 fragment — Hotochin نوشت: extremerrage نوشت: چیزهای خوبی این‌جا هست، سؤالاتت را دوست دارم H نظر شخصی من این است که قیمت ب
+- flaglimits-p46 flaglimits_p46_1140 — S1 calque — سلام Enlightenme، اگر خوب فهمیده باشم جواب بله است. نمی‌دانم خط نقطه‌چین آبی‌ات LS یا RS مهمی در HTF است یا نه
+- flaglimits-p46 flaglimits_p46_1141 — S1 calque — corsica نوشت: سلام Enlightenme، اگر خوب فهمیده باشم جواب بله است. نمی‌دانم خط نقطه‌چین آبی‌ات LS یا RS مهمی در
+- flaglimits-p5 flaglimits_p5_107 — S2 english-left — Harry، معاملهٔ BBQ را دوست دارم. امروز صبح یک معاملهٔ «In the Shower» خوشایند روی Cable داشتم. چیزهای دیگری هم
+- flaglimits-p5 flaglimits_p5_108 — S2 english-left — rcmacf نوشت: Harry، معاملهٔ BBQ را دوست دارم. امروز صبح یک معاملهٔ «In the Shower» خوشایند روی Cable داشتم. چی
+- flaglimits-p5 flaglimits_p5_109 — S2 english-left — Harry نوشت: rcmacf نوشت: Harry، معاملهٔ BBQ را دوست دارم. امروز صبح یک معاملهٔ «In the Shower» خوشایند روی Cab
+- flaglimits-p50 flaglimits_p50_1232 — S2 fragment — «یورو فقط از اول ژانویهٔ 1999 به‌عنوان ارز معرفی شد. با این حال، اگر میانگین وزنی ارزهای قبلی را در نظر بگیریم
+- flaglimits-p50 flaglimits_p50_1240 — S2 english-left — دارم تمرین FL را شروع می‌کنم و آن را از "Find the DP" آسان‌تر می‌دانم؛ امیدوارم درست گرفته باشم.
+- frosty-p1 frosty_p1_6 — S2 english-left — با تکیه بر دانش محدودم از دو مفهوم پایه، CP و DBR/RBD، می‌خواهم یک بار ایدهٔ معاملاتی در USD/CAD H4 را پست کنم
+- frosty-p12 frosty_p12_12 — S2 english-left — Frosty، به نظر من، من هرگز استاپ‌لاس را در سطحی که تو انتخاب کردی نمی‌گذاشتم. چون به نظرم آن یک «سطح آبدار» اس
+- frosty-p4 frosty_p4_22 — S2 english-left — @برادر Linos: ممنون که مانترا را تأیید کردی، برادر. اگر برای تو جواب می‌دهد، باور دارم برای من هم می‌دهد. مورد
+- frosty-p7 frosty_p7_11 — S2 english-left — اگر کتاب روان‌شناسی دوست داری، می‌توانم کتاب Fast and Slow Thinking نوشتهٔ Daniel Kahneman را پیشنهاد کنم. موض
+- frosty-p7 frosty_p7_13 — S2 english-left — آن کتاب واقعاً در فهرست خواندنی‌های من است، اما الان هنوز مشغول تمام کردن کتاب دیگری هستم به نام Wealth Secret
+- frosty-p8 frosty_p8_8 — S2 english-left — نکتهٔ 30: نکتهٔ 31: نکتهٔ 32: نکتهٔ 33: نکتهٔ 34: نکتهٔ 35: 15 چارت بعدی فردا کامل می‌شود. همین حالا اینجا ساع
+- frosty-p8 frosty_p8_10 — S2 english-left — Frosty نوشت: نکتهٔ 30: نکتهٔ 32: نکتهٔ 33: نکتهٔ 34: نکتهٔ 35: 15 چارت بعدی فردا کامل می‌شود. همین حالا اینجا 
+- frosty-p8 frosty_p8_11 — S2 english-left — ادامهٔ تکلیف Find the Decisions. نکتهٔ 36: نکتهٔ 37: نکتهٔ 38: نکتهٔ 39: نکتهٔ 40:
+- frosty-p8 frosty_p8_13 — S2 english-left — نکتهٔ 46: نکتهٔ 47: نکتهٔ 48: نکتهٔ 49: نکتهٔ 50: تکلیف «find the decisions» تمام شد. به نظر می‌رسد این تمرین 
+- frosty-p9 frosty_p9_4 — S2 fragment — برادر Frosty، نمی‌توانم بفهمم در پرسش 1ات دقیقاً چه می‌پرسی. منظورت این است که: «تنها دلیلی که LTF FL (مستطیل 
+- frosty-p9 frosty_p9_9 — S2 fragment — بعدی FO است و اینکه چه چیزی آن‌ها را از اینگالف‌ها متمایز می‌کند markepedia مدخلی دربارهٔ این ندارد، اما باور 
+- frosty-p9 frosty_p9_18 — S1 calque — سلام به همه، یک حساب دمو جدید باز کردم تا مطالبی را که تا حالا از RTM یاد گرفته‌ام آزمایش کنم و یاد بگیرم. قبل
+- ftrpaz-p3 ftrpaz_p3_55 — S2 fragment — سلام Andy، خیلی خوشحالم که تحلیلم به تو کمک می‌کند، واقعاً؛ با این حال اگر 'مشاوره صحیح' نباشد احساس بدی خواهم
+- ftrpaz-p3 ftrpaz_p3_75 — S2 fragment — Kanzler نوشت: bulbuli، می‌دانم این جواب دیر است! برداشت من این است، با مشکی روی ms paint علامت خورده… قطعاً مش
+- fxeyes-p2 fxeyes_p2_22 — S1 calque — سلام Fxeyes، می‌خواستم قبل از پاسخ به پستت، دربارهٔ یادداشت‌هایت روی چارتم فکر کنم و واقعاً هضمشان کنم. خیلی م
+- fxeyes-p2 fxeyes_p2_23 — S1 calque — winnertrader نوشت: سلام Fxeyes، می‌خواستم قبل از پاسخ به پستت، دربارهٔ یادداشت‌هایت روی چارتم فکر کنم و واقعاً
+- fxeyes-p2 fxeyes_p2_24 — S1 calque — fxeyes نوشت: winnertrader نوشت: سلام Fxeyes، می‌خواستم قبل از پاسخ به پستت، دربارهٔ یادداشت‌هایت روی چارتم فکر
+- gembel-p18 gembel_p18_437 — S2 fragment — لعنت GU… خیلی سریع اتفاق افتاد zzz در واقع می‌توانستم کمی پیپ بگیرم… خیلی انتظار نزولی کشیدم… بینایی‌ام تار شد
+- gembel-p21 gembel_p21_507 — S1 calque — gembel نوشت: متأسفم، QM را نمی‌بینم. میشه بگی دقیقاً به کدام L، LH، LL، HH اشاره می‌کنی؟ ممنون. سلام bodo… من 
+- gembel-p22 gembel_p22_544 — S2 english-left — gembel نوشت: مقالهٔ قشنگی بود… نقل‌قول از ALPHA OMEGA، آیا درست است؟ AlphaOmega نوشت: "بعضی آدم‌ها اینجا در فه
+- gembel-p26 gembel_p26_650 — S2 fragment — سلام Gembel، متأسفم که این فضا را در ژورنالت می‌گیرم، چون با چند ژورنال دیگر در فروم همین کار را می‌کنم، چون ب
+- gembel-p27 gembel_p27_661 — S2 english-left — OMG… حساب‌های دمویم رو COUNTtess time منفجر کرد… دوباره دمو جدید... zzzzz رسماً از تقاضای CP PAZ متنفرم... خیل
+- gembel-p36 gembel_p36_897 — S2 english-left — OMG همهٔ معامله‌هام توی گذر به باز شدن LO wipe out شدن، تایمینگ این بار خوب نبود GBPNZD انباشت بعد شکست به شما
+- gembel-p45 gembel_p45_1129 — S1 calque — آپدیت GJ با 40 پیپ بسته شد… استرس کمتر، هنوز منتظر مصرف… و PB دور LO… NU کمی کند… 
+- hgblacksheep-p1 hgblacksheep_p1_5 — S2 fragment — خب، تهاجم را روی چارت قیمت چطور تفسیر می‌کنیم؟ چند عنصر پایه را بررسی می‌کنیم: (1) حجم (2) رنج (3) تلاش (4) رو
+- hgblacksheep-p1 hgblacksheep_p1_9 — S2 fragment — هی ببین کی اومد!!! خوشحالم که بین ما هستی HG، و نامی مناسب برای ژورنالت امیدوارم این ژورنال مدت زیادی ادامه پی
+- hgblacksheep-p13 hgblacksheep_p13_308 — S1 calque — سلام HG، یادم نیست بابت جواب سؤال قبلی‌ام تشکر کردم یا نه، پس ممنون! من از طریق Wyckoff و VSA به RTM رسیدم… هم
+- hgblacksheep-p5 hgblacksheep_p5_104 — S1 calque — akifusenet نوشت: سلام HiddenGap، در پست پایین از فیتیلهٔ پایین یک کندل hammer ناحیه‌ای کشیدی. آیا از این ناحیه
+- hgblacksheep-p5 hgblacksheep_p5_113 — S2 fragment — akifusenet نوشت: سلام HG، از توضیح دقیق Snapback ممنون. حالا می‌خواهم «THE QUESTION» را بپرسم:) فکر می‌کنم یک 
+- hgblacksheep-p6 hgblacksheep_p6_136 — S2 english-left — اصلاح اول برای من این است که سیگنال ورود تا وقتی حداقل یک tick/pip از الگو داخل یک Buying یا Selling Aggressio
+- hgblacksheep-p7 hgblacksheep_p7_161 — S2 english-left — akifusenet نوشت: در موقعیتی مثل پایین چه اتفاقی می‌افتد؟ #1 کندل شروع است که دارد - lower low - WRB تیره در 3 
+- hgblacksheep-p8 hgblacksheep_p8_194 — S2 english-left — این یکی از باز شدن N.Y. امروز است. باور دارم همهٔ قوانینمان را دنبال می‌کند؛ اگر اشتباه می‌کنم تصحیحم کن. اولی
+- homeoffinisher-p3 homeoffinisher_p3_55 — S2 fragment — kavya نوشت: بله، آقای بازار به من می‌گوید «این سطح مهم است؟
+- homeoffinisher-p5 homeoffinisher_p5_117 — S2 english-left — اگر سیگنال را بازیگر اصلی بازار بدهد (یک اینگالف به ناحیهٔ جدید)، آن‌گاه بعید است قیمت اکسترمم ناحیه‌ای را که 
+- homeoffinisher-p5 homeoffinisher_p5_124 — S2 fragment — ترندلاین‌ها — چطور ترندلاین‌ها بهترین ابزار ITs برای به دام انداختن معامله‌گرهای خرد هستند؟ ➡ اکثر (باید بگویم
+- hs-p1 hs_p1_2 — S1 calque — ستاپ معامله – با نگاه به گذشته: نمونهٔ خوبی از واکنش FTB در AUD/USD پیدا کردم که در 6/2/15 رخ داده بود. این مع
+- hs-p2 hs_p2_44 — S1 calque — H، اجازه بده با این پیش‌شرط بگویم. به‌نظر می‌رسد من خیلی متفاوت از RTM معامله می‌کنم (هرچه بیشتر به آنچه مردم 
+- hs-p21 hs_p21_522 — S1 calque — Hoeschec به نظر می‌رسد آن آخرین کندل هفته، قبل از بسته شدن بازار است؟ اساساً نقدینگی نیست، پس اسپردها پهن می‌ش
+- hs-p22 hs_p22_546 — S2 fragment — hoeschec نوشت: EUR-JPY این نمونهٔ اینگالفی است که خوب جواب داد — ولی تریدر از کجا می‌دانست قیمت قرار نیست تا س
+- hs-p23 hs_p23_572 — S2 fragment — hoeschec نوشت: Rakkain نوشت: بدون خبر، بدون مسئله، بدون هیچ‌چیز. فقط یک نمونهٔ ساده از سرقت بازار. می‌دانم، در
+- hs-p40 hs_p40_979 — S2 fragment — kutumbaba نوشت: سلام H، اجازه می‌دهی بپرسم، آیا از محتوای PAZ در تریدت استفاده می‌کنی؟ من قبلاً از این اصطلاح 
+- hs-p40 hs_p40_988 — S2 fragment — بازار یک داستان دارد، و بنیان این داستان جریان سفارش است، FL که همان‌طور که همیشه گفتم تراکنش واقعی سفارش‌هاست
+- hs-p47 hs_p47_1153 — S2 english-left — «مفهوم یافتن مبدأها» هنوز با این دست‌وپنجه نرم می‌کنم. دارم این www.readthemarket.com/index.php/en/forum...f-w
+- hs-p47 hs_p47_1154 — S2 english-left — staurum نوشت: «مفهوم یافتن مبدأها» هنوز با این دست‌وپنجه نرم می‌کنم. دارم این www.readthemarket.com/index.php/
+- hs-p47 hs_p47_1173 — S2 english-left — staurum نوشت: «مفهوم یافتن مبدأها» هنوز با این دست‌وپنجه نرم می‌کنم. دارم این www.readthemarket.com/index.php/
+- hs-p49 hs_p49_1216 — S2 fragment — Jurij نوشت: hoeschec نوشت: تازه پست JuriJ را در اتاق دیسکشن مرور کردم… شاید دارم مفهوم گیج‌کننده‌ای را که مدت‌
+- hs-p54 hs_p54_1327 — S2 fragment — تصویر دیگر… اگر هر FL Box یک اینگافل و یک فیک‌اوت داشته باشد، می‌توانیم بگوییم هر FL Box یک MPL هم دارد (برای 
+- hs-p57 hs_p57_1411 — S2 english-left — هم.... تو فقط من را هم کنجکاو می‌کنی. هاها... یعنی امیدوارم یک سینیور به این پاسخ بدهد. به نظرم FO است؛ به‌خاط
+- hs-p58 hs_p58_1432 — S2 fragment — «مبدأ پس از ساخته‌شدن S/D ایجاد می‌شود، اگر مبدأ یک FL باشد می‌تواند ناحیهٔ واقعی باشد، اما S/D واکنشی به S/D 
+- hs-p69 hs_p69_1710 — S1 calque — من مرتب این‌نوع PA را می‌بینم: قیمت بارها یک FL Box را اینگالف می‌کند و با این کار FL Box دیگری می‌سازد. آیا ا
+- hs-p69 hs_p69_1717 — S1 calque — hoeschec نوشت: من مرتب این‌نوع PA را می‌بینم: قیمت بارها یک FL Box را اینگالف می‌کند و با این کار FL Box دیگری
+- hs-p71 hs_p71_1772 — S2 fragment — hansma نوشت: عالی H. در همان معامله kink مربوط به M1 را داخل دایره پیدا کردم و وارد شدم - صفر Drawdown - آیا ت
+- hs-p71 hs_p71_1773 — S2 fragment — البته که ادامه می‌دهد وقتی دو ذهن مثل هم فکر می‌کنند من هیچ چیز نمی‌بینم که جلویش را بگیرد مخصوصاً با سه درایو
+- hs-p74 hs_p74_1830 — S1 calque — جالب بود که یک ژورنال/تاپیک/گروه روی RTM اضافه کنیم که اعضا در آن یک برنامهٔ معاملاتیِ تجاریِ سفارشیِ شخصی‌ساز
+- hs-p74 hs_p74_1832 — S1 calque — hoeschec نوشت: جالب بود که یک ژورنال/تاپیک/گروه روی RTM اضافه کنیم که اعضا در آن یک برنامهٔ معاملاتیِ تجاریِ س
+- hs-p84 hs_p84_2083 — S2 fragment — دارم روی راهی کار می‌کنم برای تشخیص فرصت‌های بالقوه وسط ستاپ با شناسایی کندل‌های تایم‌فریم بالاتر که دو FO تای
+- hs-p9 hs_p9_214 — S2 fragment — بله، فکر می‌کنم توضیح خوبی است. همیشه شانس خوبی بود که QM نزدیک‌تر FO کند با توجه به مجاورت نزدیک QM بزرگ‌تر ب
+- if-p10 if_p10_22 — S2 fragment — بخشی از یک پیام خصوصی دوست‌داشتنی که گرفتم — «یک سؤال داشتم، لطفاً. راهی هست که آدم پروفایل کسی را نگاه کند و 
+- if-p104 if_p104_12 — S1 calque — باشه، این را چطور توضیح می‌دهی. در بازار زیاد پیش می‌آید :) این را می‌دانم که اگر در بید بفروشی و SL را روی AS
+- if-p109 if_p109_3 — S2 fragment — «برای CAPS‌ها (RBD و DBR)، آیا باید سوئینگ‌های قبلی را اینگالف کنند؟ مثلاً در RBD کف سوئینگ قبلی و در DBR سقف 
+- if-p112 if_p112_5 — S1 calque — مگر از همه قبل از ثبت‌نام امضای قرارداد عدم افشا نگرفتی؟ واقعاً از آن‌هایی که دانش را از این جامعه بیرون می‌بر
+- if-p118 if_p118_25 — S2 fragment — منظورم معامله در لبه‌های ناحیه‌ای است که فلگ به‌طور طبیعی در آن شکل می‌گیرد، مثل بین SR و RS LSK و SR تقارن با
+- if-p132 if_p132_18 — S2 fragment — استاد IF، امیدوارم بدت نیاید اگر کمکم کنی یکی از بزرگ‌ترین سردرگمی‌هایم را حل کنم. اجازه بده نمودار GBPUSD را 
+- if-p132 if_p132_19 — S2 fragment — Astrokillah نوشت: (1) اگر در مقیاس روزانه معامله کنیم، آیا سیگنال اینگالف معتبری به سمت شمال داریم؟ (2) وقتی م
+- if-p138 if_p138_16 — S3 untranslated — www.readthemarket.com/index.php/en/forum...-if?start=1925#51118
+- if-p17 if_p17_15 — S1 calque — Ifmyante نوشت: مقاله اصلاً ویرایش لازم ندارد. RTM جامع‌ترین و بی‌مزخرف‌ترین دورهٔ ویکیِ ترید را دارد که تا حال
+- if-p18 if_p18_10 — S2 fragment — سلام Scipio من هنوز دیوانه‌وار کار می‌کنم تا محتوای دوره را بسازم، پس واقعاً هنوز فهرست مطالب مشخصی ندارم. ولی
+- if-p26 if_p26_13 — S2 fragment — خیلی وقت است که کوییز خودم را پست نکرده‌ام. موضوع جلسهٔ مدیریت امشب این است که چرا هنوز جوابش را نداده‌ام، پس 
+- if-p35 if_p35_2 — S2 fragment — انجام شد! «سال‌هاست معامله‌گر جویای راه هستم. بعد از آن همه سرخوردگی پیوسته با سیستم‌های ناپایدار PA، خوش‌شانس
+- if-p41 if_p41_20 — S1 calque — خیلی خب، این PA عالی است، Chang! پس نمی‌توانم مقاومت کنم! (این نوع بحث‌ها واقعاً هیجان‌زده‌ام می‌کند) مطمئنیم 
+- if-p41 if_p41_22 — S1 calque — antraxia نوشت: خیلی خب، این PA عالی است، Chang! پس نمی‌توانم مقاومت کنم! (این نوع بحث‌ها واقعاً هیجان‌زده‌ام م
+- if-p42 if_p42_14 — S2 fragment — سلام IF، می‌خواهم دربارهٔ این بپرسم. قیمت فلگ (1) را اینگالف می‌کند، FTR (2) را می‌سازد، بیشتر پایین می‌رود و 
+- if-p43 if_p43_7 — S1 calque — سلام Pedini، منظورت این‌طور است؟ بخش خاکستری اضافهٔ من است، از چیزی که در سمت چپ قرار دارد. اگر سطح سمت چپ FTR
+- if-p43 if_p43_20 — S2 fragment — این جواب را دوست داشتم: «وقتی بانک‌های مرکزی قول شفاهی می‌دهند که راهنمایی پیش‌رو بدهند تا سیاست‌هایشان حمایت 
 
 The machine ledger is `PROGRESS.json`; it holds per-page hashes and status.

@@ -34,10 +34,16 @@ for (const page of pages) {
   let batch;
   try { batch = JSON.parse(fs.readFileSync(file, 'utf8')); } catch (e) { console.log(page + ' | bad json'); bad++; continue; }
   for (const [word, en, good] of BAD) {
-    const hits = Object.entries(batch).filter(([, v]) => typeof v === 'string' && v.includes(word));
+    /* Word-initial match only: «زون» must not fire inside «روزافزون» or
+     * «ارزون», but «دیماندها» (banned stem + suffix) must still fire. */
+    const re = new RegExp('(?<![\\u0600-\\u06FF])' + word.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'g');
+    const hits = Object.entries(batch).filter(([, v]) => typeof v === 'string' && re.test(v));
+    re.lastIndex = 0;
     if (!hits.length) continue;
     bad++;
-    console.log(page + ' | «' + word + '» x' + hits.reduce((s, [, v]) => s + (v.split(word).length - 1), 0) +
+    let count = 0;
+    for (const [, v] of hits) { re.lastIndex = 0; count += (String(v).match(re) || []).length; }
+    console.log(page + ' | «' + word + '» x' + count +
       ' — use «' + good + '» for ' + en);
   }
 }

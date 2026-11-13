@@ -1,43 +1,129 @@
 {
- "name": "rtm-wave-7",
+ "wave": "rtm-wave-7",
+ "createdAt": "2026-11-13T06:02:46.910Z",
+ "source": "PROGRESS.json (audit-quality.js 2026-11-13)",
+ "pages": 96,
+ "postsNeeding": 400,
  "groups": {
-  "A": "aboutcompression-p15,aboutcompression-p24,academylite1-p4,alex-p10,quasimodo-p43,robbie-p1,smimon-p23,warren-p9",
-  "B": "3drive-p6,aboutcompression-p38,aboutcompression-p39,quasimodo-p24,quasimodo-p35,readingsession-p6,robbie-p10,warren-p5",
-  "C": "3drive-p9,aboutcompression-p37,aboutcompression-p45,quasimodo-p2,quasimodo-p39,quasimodo-p6,robbie-p9,supplydemand-p45",
-  "D": "aboutcompression-p14,aboutcompression-p32,aboutcompression-p8,quasimodo-p16,quasimodo-p4,quasimodo-p51,shadowpit-p4,supplydemand-p34"
- },
- "pages": [
-  "aboutcompression-p15",
-  "aboutcompression-p24",
-  "academylite1-p4",
-  "alex-p10",
-  "quasimodo-p43",
-  "robbie-p1",
-  "smimon-p23",
-  "warren-p9",
-  "3drive-p6",
-  "aboutcompression-p38",
-  "aboutcompression-p39",
-  "quasimodo-p24",
-  "quasimodo-p35",
-  "readingsession-p6",
-  "robbie-p10",
-  "warren-p5",
-  "3drive-p9",
-  "aboutcompression-p37",
-  "aboutcompression-p45",
-  "quasimodo-p2",
-  "quasimodo-p39",
-  "quasimodo-p6",
-  "robbie-p9",
-  "supplydemand-p45",
-  "aboutcompression-p14",
-  "aboutcompression-p32",
-  "aboutcompression-p8",
-  "quasimodo-p16",
-  "quasimodo-p4",
-  "quasimodo-p51",
-  "shadowpit-p4",
-  "supplydemand-p34"
- ]
+  "A": [
+   "warren-p6",
+   "classroom-p32",
+   "dbrrbd-p19",
+   "projectsagana-p18",
+   "gembel-p48",
+   "dbrrbd-p29",
+   "jurij-p11",
+   "aboutcompression-p8"
+  ],
+  "B": [
+   "robbie-p9",
+   "drswing-p4",
+   "dbrrbd-p26",
+   "pucci-p3",
+   "quasimodo-p20",
+   "doctorpatient-p27",
+   "jurij-p15",
+   "classroom-p20"
+  ],
+  "C": [
+   "frosty-p8",
+   "gembel-p27",
+   "diamond-p9",
+   "pucci-p5",
+   "alex-p35",
+   "finddecision-p4",
+   "michal238-p10",
+   "diamond-p4"
+  ],
+  "D": [
+   "warren-p8",
+   "hgblacksheep-p5",
+   "drswing-p18",
+   "quasimodo-p21",
+   "alex-p9",
+   "flaglimits-p5",
+   "projectsagana-p12",
+   "finddecision-p10"
+  ],
+  "E": [
+   "dbrrbd-p20",
+   "mm-p7",
+   "engulf-p10",
+   "readingsession-p7",
+   "dbrrbd-p57",
+   "frosty-p1",
+   "quasimodo-p22",
+   "flaglimits-p50"
+  ],
+  "F": [
+   "classroom-p45",
+   "warren-p9",
+   "finddecision-p6",
+   "smimon-p28",
+   "flaglimits-p40",
+   "frosty-p9",
+   "readingsession-p1",
+   "hs-p57"
+  ],
+  "G": [
+   "robbie-p8",
+   "drswing-p10",
+   "fxeyes-p2",
+   "sunnytrader-p6",
+   "3drive-p4",
+   "gembel-p35",
+   "readingsession-p3",
+   "ignoredlevel-p1"
+  ],
+  "H": [
+   "aran-p2",
+   "if-p45",
+   "gembel-p13",
+   "supplydemand-p18",
+   "aboutcompression-p1",
+   "hs-p61",
+   "scotty-p2",
+   "jiri-p1"
+  ],
+  "I": [
+   "fulljournal-p10",
+   "mukhcin-p1",
+   "gembel-p28",
+   "3drive-p6",
+   "aboutcompression-p16",
+   "hs-p75",
+   "smimon-p11",
+   "jiri-p3"
+  ],
+  "J": [
+   "cancan-p2",
+   "pg-p1",
+   "hs-p47",
+   "whenever-p6",
+   "classroom-p42",
+   "hs-p77",
+   "smimon-p13",
+   "jiri-p4"
+  ],
+  "K": [
+   "kruger-p14",
+   "academylite2-p4",
+   "hs-p60",
+   "alex-p33",
+   "dbrrbd-p24",
+   "if-p88",
+   "sniffing-p7",
+   "jiri-p7"
+  ],
+  "L": [
+   "aboutcompression-p33",
+   "classroom-p43",
+   "if-p44",
+   "benhur-p4",
+   "dbrrbd-p28",
+   "if-p93",
+   "sunnytrader-p11",
+   "kruger-p15"
+  ]
+ }
 }

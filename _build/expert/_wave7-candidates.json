@@ -1,0 +1,578 @@
+[
+ {
+  "page": "academylite2-p4",
+  "needs": 4,
+  "total": 25,
+  "severity": 3
+ },
+ {
+  "page": "if-p138",
+  "needs": 2,
+  "total": 25,
+  "severity": 3
+ },
+ {
+  "page": "supplydemand-p19",
+  "needs": 2,
+  "total": 25,
+  "severity": 3
+ },
+ {
+  "page": "if-p53",
+  "needs": 1,
+  "total": 25,
+  "severity": 3
+ },
+ {
+  "page": "salivan-p13",
+  "needs": 1,
+  "total": 25,
+  "severity": 3
+ },
+ {
+  "page": "warren-p6",
+  "needs": 15,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "robbie-p9",
+  "needs": 15,
+  "total": 23,
+  "severity": 2
+ },
+ {
+  "page": "frosty-p8",
+  "needs": 9,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "warren-p8",
+  "needs": 9,
+  "total": 24,
+  "severity": 2
+ },
+ {
+  "page": "dbrrbd-p20",
+  "needs": 7,
+  "total": 24,
+  "severity": 2
+ },
+ {
+  "page": "classroom-p45",
+  "needs": 6,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "robbie-p8",
+  "needs": 6,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "aran-p2",
+  "needs": 6,
+  "total": 23,
+  "severity": 2
+ },
+ {
+  "page": "fulljournal-p10",
+  "needs": 6,
+  "total": 23,
+  "severity": 2
+ },
+ {
+  "page": "cancan-p2",
+  "needs": 6,
+  "total": 21,
+  "severity": 2
+ },
+ {
+  "page": "kruger-p14",
+  "needs": 6,
+  "total": 17,
+  "severity": 2
+ },
+ {
+  "page": "aboutcompression-p33",
+  "needs": 5,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "classroom-p32",
+  "needs": 5,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "drswing-p4",
+  "needs": 5,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "gembel-p27",
+  "needs": 5,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "hgblacksheep-p5",
+  "needs": 5,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "mm-p7",
+  "needs": 5,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "warren-p9",
+  "needs": 5,
+  "total": 23,
+  "severity": 2
+ },
+ {
+  "page": "classroom-p43",
+  "needs": 4,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "dbrrbd-p19",
+  "needs": 4,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "dbrrbd-p26",
+  "needs": 4,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "diamond-p9",
+  "needs": 4,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "drswing-p18",
+  "needs": 4,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "engulf-p10",
+  "needs": 4,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "finddecision-p6",
+  "needs": 4,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "fxeyes-p2",
+  "needs": 4,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "gembel-p13",
+  "needs": 4,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "gembel-p28",
+  "needs": 4,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "hs-p47",
+  "needs": 4,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "hs-p60",
+  "needs": 4,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "if-p44",
+  "needs": 4,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "projectsagana-p18",
+  "needs": 4,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "pucci-p3",
+  "needs": 4,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "pucci-p5",
+  "needs": 4,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "quasimodo-p21",
+  "needs": 4,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "readingsession-p7",
+  "needs": 4,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "smimon-p28",
+  "needs": 4,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "sunnytrader-p6",
+  "needs": 4,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "supplydemand-p18",
+  "needs": 4,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "3drive-p6",
+  "needs": 4,
+  "total": 24,
+  "severity": 2
+ },
+ {
+  "page": "whenever-p6",
+  "needs": 4,
+  "total": 24,
+  "severity": 2
+ },
+ {
+  "page": "alex-p33",
+  "needs": 4,
+  "total": 23,
+  "severity": 2
+ },
+ {
+  "page": "3drive-p4",
+  "needs": 3,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "aboutcompression-p1",
+  "needs": 3,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "aboutcompression-p16",
+  "needs": 3,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "classroom-p42",
+  "needs": 3,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "dbrrbd-p24",
+  "needs": 3,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "dbrrbd-p28",
+  "needs": 3,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "dbrrbd-p29",
+  "needs": 3,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "doctorpatient-p27",
+  "needs": 3,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "finddecision-p4",
+  "needs": 3,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "flaglimits-p5",
+  "needs": 3,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "frosty-p1",
+  "needs": 3,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "frosty-p9",
+  "needs": 3,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "gembel-p35",
+  "needs": 3,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "hs-p61",
+  "needs": 3,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "hs-p75",
+  "needs": 3,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "hs-p77",
+  "needs": 3,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "if-p88",
+  "needs": 3,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "if-p93",
+  "needs": 3,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "jurij-p11",
+  "needs": 3,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "jurij-p15",
+  "needs": 3,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "michal238-p10",
+  "needs": 3,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "projectsagana-p12",
+  "needs": 3,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "quasimodo-p22",
+  "needs": 3,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "readingsession-p1",
+  "needs": 3,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "readingsession-p3",
+  "needs": 3,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "scotty-p2",
+  "needs": 3,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "smimon-p11",
+  "needs": 3,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "smimon-p13",
+  "needs": 3,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "sniffing-p7",
+  "needs": 3,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "sunnytrader-p11",
+  "needs": 3,
+  "total": 25,
+  "severity": 2
+ },
+ {
+  "page": "aboutcompression-p8",
+  "needs": 3,
+  "total": 24,
+  "severity": 2
+ },
+ {
+  "page": "classroom-p20",
+  "needs": 3,
+  "total": 24,
+  "severity": 2
+ },
+ {
+  "page": "diamond-p4",
+  "needs": 3,
+  "total": 24,
+  "severity": 2
+ },
+ {
+  "page": "finddecision-p10",
+  "needs": 3,
+  "total": 24,
+  "severity": 2
+ },
+ {
+  "page": "flaglimits-p50",
+  "needs": 3,
+  "total": 24,
+  "severity": 2
+ },
+ {
+  "page": "hs-p57",
+  "needs": 3,
+  "total": 24,
+  "severity": 2
+ },
+ {
+  "page": "ignoredlevel-p1",
+  "needs": 3,
+  "total": 24,
+  "severity": 2
+ },
+ {
+  "page": "jiri-p1",
+  "needs": 3,
+  "total": 24,
+  "severity": 2
+ },
+ {
+  "page": "jiri-p3",
+  "needs": 3,
+  "total": 24,
+  "severity": 2
+ },
+ {
+  "page": "jiri-p4",
+  "needs": 3,
+  "total": 24,
+  "severity": 2
+ },
+ {
+  "page": "jiri-p7",
+  "needs": 3,
+  "total": 24,
+  "severity": 2
+ },
+ {
+  "page": "kruger-p15",
+  "needs": 3,
+  "total": 24,
+  "severity": 2
+ },
+ {
+  "page": "projectsagana-p13",
+  "needs": 3,
+  "total": 24,
+  "severity": 2
+ },
+ {
+  "page": "readingsession-p2",
+  "needs": 3,
+  "total": 24,
+  "severity": 2
+ },
+ {
+  "page": "supplydemand-p41",
+  "needs": 3,
+  "total": 24,
+  "severity": 2
+ },
+ {
+  "page": "aboutcompression-p27",
+  "needs": 3,
+  "total": 23,
+  "severity": 2
+ },
+ {
+  "page": "aboutcompression-p5",
+  "needs": 3,
+  "total": 23,
+  "severity": 2
+ },
+ {
+  "page": "robbie-p10",
+  "needs": 3,
+  "total": 23,
+  "severity": 2
+ },
+ {
+  "page": "art-p5",
+  "needs": 3,
+  "total": 22,
+  "severity": 2
+ }
+]

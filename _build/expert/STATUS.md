@@ -1,16 +1,43 @@
 # Professional translation status
 
+## Audit classifier fixed — 2026-11-13
+
+`audit-quality.js` was over-reporting two classes, which inflated the quality
+queue to 2,200 posts / 800 pages and would have sent whole pages back for
+retranslation to chase noise:
+
+- **no-verb** used a fixed verb list that missed ordinary Persian forms
+  («می‌شوم», «می‌فروشیم», «داشته باشید», «می‌مانم», «ساخت»). A nominal Persian
+  sentence is also grammatical. It is now computed for information only and
+  never gates a page (1,414 hints, 0 defects).
+- **english-left** matched any single dictionary word, so handles («whiteout»),
+  jargon («high», «can-can»), URLs and pattern names were flagged. It now
+  requires a run of **three or more** Latin words containing a lowercase
+  English word — actual unfinished-translation residue.
+
+Honest backlog after the fix: **393 posts on 263 pages**
+(english-left 180, fragment 164, calque 50, untranslated 5, omission 1).
+Findings are written to `_build/expert/quality-findings.json`.
+
 ## Wave 5-6 published — 2026-11-13
 
 - Gate: `accepted 34354 | rejected 0`; bake kept 33,987 post bodies; build
-  ships 35,869 posts / 33,992 translated; QA is zero in every mechanical check
-  (only the 6 source-duplicate blocks).
+  ships 35,869 posts / 33,993 translated (SW `rtm-v81`); QA is zero in every
+  mechanical check (only the 6 source-duplicate blocks).
 - Published to GitHub Pages (artifact ~118 MB; plates stream through
   `https://financialmarket.page/uploads/general`, the bucket stays private).
-- Wave 6 started the same day: **96 pages in 12 groups A–L** (`_wave6.json`,
-  2,197 text posts), final-quality rewrite, six concurrent. Each page:
-  `work/<page>.json` → `drafts/<page>.txt` → `from-draft.js` →
-  `workflow.js --validate --page` → `_glossary-check.js`.
+  Commit `3608fef`, Pages run `43375849616`.
+- Wave 6: **96 pages in 12 groups A–L** (`_wave6.json`, 2,197 text posts),
+  final-quality rewrite, six concurrent. All twelve groups reported
+  `rejected 0` + `glossary clean`; every one of the 96 batch files was
+  rewritten the same day (0 stale). Each page: `work/<page>.json` →
+  `drafts/<page>.txt` → `from-draft.js` → `workflow.js --validate --page` →
+  `_glossary-check.js`.
+- Deep audit re-run after the wave (`audit-quality.js`): posts below the bar
+  **2,200 → 1,301** on **800 → 729 pages**. Classes left: no-verb 659,
+  english-left 441, fragment 164, calque 50, untranslated 5, omission 1.
+  Worst pages: robbie-p9 15/23, warren-p6 15/25, frosty-p8 9/25,
+  warren-p8 9/24. This is the queue for wave 7.
 
 ## Review checklist (live, 2026-11-12)
 

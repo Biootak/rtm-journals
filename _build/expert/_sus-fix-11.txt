@@ -1,0 +1,25 @@
+shadowpit-p2|6b62f90e|english-left|Price is everything
+shadowpit-p6|bd0503a8|english-left|Hungry for Success
+shadowpit-p6|5e623881|english-left|Hungry for Success
+shadowpit-p8|980840f7|english-left|Price is Everything ; Dropped Onions
+smimon-p11|8110812f|english-left|last   to high
+smimon-p11|59f7c63c|english-left|last   to high
+smimon-p11|2dc3734e|english-left|last   to high
+smimon-p12|6f0a64dc|english-left|history centre ; recalculate all timeframes ; Waiting for update
+smimon-p13|f73e7f83|english-left|history centre ; recalculate all timeframes ; Waiting for update
+smimon-p19|f098a60c|english-left|st flag after
+smimon-p24|872ebe78|english-left|small gap close
+smimon-p6|9d40dad5|english-left|Eng src of next
+sniffing-p13|4ca9f7ef|english-left|Trend Direction ; Highs and Lows
+sniffing-p6|b4224e96|fragment|Larry Harris
+staurum-p15|08b231ce|english-left|Tip from right
+sunnytrader-p10|c0dd410f|english-left|Eve and Eve
+sunnytrader-p10|19abf644|english-left|Eve and Eve
+sunnytrader-p11|d79a5e20|english-left|Bread and Butter
+sunnytrader-p11|21bb65b6|english-left|set and forget
+sunnytrader-p11|4d926518|english-left|price action ; set and forget
+sunnytrader-p6|69df57d9|english-left|Bread and Butter
+sunnytrader-p6|9f306156|english-left|Bread and butter
+sunnytrader-p9|c1cc4d7b|english-left|fuck the retail
+sunnytrader-p9|cbf0abc6|english-left|fuck the retail
+supplydemand-p14|6fac3a33|fragment|Sam Seiden ; Sam Seiden

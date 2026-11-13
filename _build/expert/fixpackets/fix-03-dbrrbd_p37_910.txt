@@ -1,0 +1,5 @@
+=== EN ===
+Why some of the pictures posted lately are not displayed in my chrome browser? Reported "Attachment.jpg not found".
+
+=== FA ===
+چرا بعضی تصاویر پست‌شدهٔ اخیر در مرورگر chrome من نمایش داده نمی‌شوند؟ گزارش «Attachment.jpg not found» داده است.

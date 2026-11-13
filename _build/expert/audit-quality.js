@@ -11,7 +11,11 @@
  *   fragment       paragraph ends on a connector, unbalanced quotes/brackets
  *   omission       Persian is far shorter than the English
  *   broken-word    Latin fragment inside a Persian word
- *   no-verb        the paragraph has no Persian verb at all
+ *
+ * `no-verb` is recorded as information only. A nominal Persian sentence is
+ * grammatical, and every form of a fixed verb list missed common ones
+ * («می‌شوم», «می‌فروشیم», «داشته باشید», «می‌مانم»), so it flags good Persian
+ * and never gates a page.
  *
  * Each post gets severity 0-3. The ledger records, per page, how many posts
  * are clean, need review, or are done, plus the exact hashes. A page is only
@@ -40,9 +44,10 @@ const paras = s => String(s || '').split(/\n{2,}/).filter(x => x.trim());
 const FA_LETTER = /[\u0621-\u063A\u0641-\u064A\u067E\u0686\u0698\u06A9\u06AF\u06CC]/;
 const FA_WORD = /[\u0621-\u063A\u0641-\u064A\u067E\u0686\u0698\u06A9\u06AF\u06CC]{2,}/;
 
-/* Ordinary English words that a finished Persian sentence never keeps. Trading
-   acronyms, tickers and handles are not in this list. */
-const EN = /\b(?:the|and|is|are|was|were|this|that|these|those|with|have|has|had|will|would|you|your|not|for|but|from|they|them|there|what|when|where|which|who|how|can|could|should|just|like|about|into|than|then|also|only|more|some|all|any|very|much|need|know|think|want|make|made|get|got|see|look|going|been|being|does|did|doing|because|after|before|over|under|again|still|even|well|good|bad|here|now|out|off|down|up|believe|suppose|obvious|obviously|actually|basically|exactly|anyway|maybe|really|pretty|quite|rather|perhaps|though|although|however|therefore|instead|unless|until|while|during|without|within|between|through|around|against|toward|towards|already|almost|always|never|sometimes|usually|often|soon|later|early|enough|another|other|same|different|first|last|next|new|old|big|small|long|short|high|low|right|wrong|true|false|sure|clear|simple|easy|hard|difficult|important|interesting|possible|impossible)\b/gi;
+/* Ordinary English words, matched case-insensitively one word at a time. The
+   archive legitimately keeps handles, tickers and pattern names in Latin, so a
+   single match is not a defect; only a run of English words is residue. */
+const EN = /\b(?:the|and|is|are|was|were|this|that|these|those|with|have|has|had|will|would|you|your|not|for|but|from|they|them|there|what|when|where|which|who|how|can|could|should|just|like|about|into|than|then|also|only|more|some|all|any|very|much|need|know|think|want|make|made|get|got|see|look|going|been|being|does|did|doing|because|after|before|over|under|again|still|even|well|good|bad|here|now|out|off|down|up|believe|suppose|obvious|obviously|actually|basically|exactly|anyway|maybe|really|pretty|quite|rather|perhaps|though|although|however|therefore|instead|unless|until|while|during|without|within|between|through|around|against|toward|towards|already|almost|always|never|sometimes|usually|often|soon|later|early|enough|another|other|same|different|first|last|next|new|old|big|small|long|short|high|low|right|wrong|true|false|sure|clear|simple|easy|hard|difficult|important|interesting|possible|impossible)\b/i;
 
 const CALQUES = [
   [/در\s+fact/gi, 'در واقع'],
@@ -61,12 +66,16 @@ const CALQUES = [
   [/واقعاً\s+می\s+تواند\s+بگوید/gi, 'واقعاً می‌تواند بگوید'],
 ];
 
-const VERB = /(?:است|بود|شد|کرد|دارد|دارند|داریم|دارم|دارید|می‌شود|می‌شوند|می‌کند|می‌کنند|می‌کنم|می‌کنیم|می‌کنید|می‌دهد|می‌دهند|می‌گیرد|می‌گیرند|می‌رود|می‌روند|می‌آید|می‌آیند|می‌بیند|می‌بینم|می‌بینید|می‌دانم|می‌داند|می‌دانیم|می‌فهمم|می‌فهمد|می‌خواهم|می‌خواهد|می‌خواهیم|می‌توانم|می‌تواند|می‌توانیم|می‌توانید|می‌گذارم|می‌گذارد|می‌گذارند|می‌ماند|می‌مانند|می‌افتد|می‌افتند|می‌زند|می‌زنند|می‌خورم|می‌خورد|می‌آورد|می‌برد|می‌رسد|می‌رسند|کرده|شده|بوده|دارا|باشد|باشند|باشیم|باشم|باید|نمی‌شود|نمی‌کند|نمی‌تواند|نمی‌توانم|نیست|نبود|ندارد|ندارند|نمی‌دانم|نمی‌فهمم|بگیر|بگیرد|بگذار|بگذارید|ببین|ببینید|برو|بیا|بمان|کن|کنید|کنم|کنیم|داد|گرفت|رفت|آمد|دید|گفت|زد|خورد|رسید|ماند|برد|آورد|یافت|فهمید|دانست)/;
+/* Verb detection for the informational no-verb note. The present-tense
+   «می/نمی» prefix is the one reliable signal in Persian script; the copulas and
+   auxiliaries cover nominal sentences. Never used as a gate. */
+const VERB = /(?:^|[\s،؛:.«»()\[\]\u200c])(?:می|نمی)[\u0621-\u06FF\u200c]{2,}|هست(?:م|ی|یم|ید|ند)?|نیست(?:م|ی|یم|ید|ند)?|(?:بود|شد|ساخت|کرد|داشت|دارد|دارم|داری|داریم|دارید|دارند|باشد|باشم|باشی|باشیم|باشید|باشند|باید|شدم|شدی|شدیم|شدید|شدند|کردم|کردی|کردیم|کردید|کردند|خواهد|خواهم|خواهیم|خواهید|خواهند)/;
 
 const STOP_END = /(?:^|\s)(?:و|که|در|به|از|با|برای|اگر|وقتی|چون|تا|یا|اما|ولی|پس|هم|روی|زیر|بین|بدون|مثل|مانند|طبق|مطابق)\s*$/;
 
 function auditPost(en, fa) {
   const issues = [];
+  const info = [];
   const enParas = paras(en);
   const faParas = paras(fa);
   const faText = faParas.join(' ');
@@ -78,10 +87,14 @@ function auditPost(en, fa) {
     issues.push('untranslated');
   }
 
-  // Proper names and pattern names stay capitalized in Persian ("Can Can",
-  // "Hotrod", "Diamond"); only an ordinary lowercase English word is residue.
-  const enWords = (faText.match(EN) || []).filter(w => w === w.toLowerCase());
-  if (enWords.length) issues.push('english-left');
+  // Handles, tickers and pattern names stay Latin all over the archive, so a
+  // single Latin word means nothing. What a finished translation never keeps is
+  // a run of ordinary English words; three in a row with a lowercase English
+  // word inside is residue from the source.
+  const latinRuns = faText.match(/(?:[A-Za-z][A-Za-z'’-]*[ \t]+){2,}[A-Za-z][A-Za-z'’-]*/g) || [];
+  const residue = latinRuns.some(run => run.split(/\s+/)
+    .some(w => w === w.toLowerCase() && EN.test(w)));
+  if (residue) issues.push('english-left');
 
   if (CALQUES.some(([re]) => re.test(faText))) issues.push('calque');
 
@@ -103,13 +116,14 @@ function auditPost(en, fa) {
   if (enChars > 80 && faChars < enChars * 0.3) issues.push('omission');
 
   const labelLike = p => p.trim().split(/\s+/).length <= 6 && !/[.!؟…]/.test(p);
-  if (!VERB.test(faText) && faChars > 40 && !faParas.every(labelLike)) issues.push('no-verb');
+  const noVerb = !VERB.test(faText) && faChars > 40 && !faParas.every(labelLike);
+  if (noVerb) info.push('no-verb');
 
   let severity = 0;
   if (issues.includes('untranslated') || issues.includes('missing')) severity = 3;
   else if (issues.includes('english-left') || issues.includes('omission') || issues.includes('fragment')) severity = 2;
   else if (issues.length) severity = 1;
-  return { issues, severity };
+  return { issues, severity, info };
 }
 
 const store = fs.existsSync(STORE_FILE) ? JSON.parse(fs.readFileSync(STORE_FILE, 'utf8')) : {};
@@ -126,6 +140,7 @@ const pages = {};
 const findings = [];
 let posts = 0, clean = 0, needs = 0;
 const byIssue = {};
+const byInfo = {};
 
 for (const file of fs.readdirSync(W).filter(f => f.endsWith('.json'))) {
   const page = file.replace(/\.json$/, '');
@@ -140,6 +155,7 @@ for (const file of fs.readdirSync(W).filter(f => f.endsWith('.json'))) {
     rec.total++;
     const r = auditPost(w.text, fa);
     for (const i of r.issues) byIssue[i] = (byIssue[i] || 0) + 1;
+    for (const i of r.info || []) byInfo[i] = (byInfo[i] || 0) + 1;
     if (r.severity === 0) { rec.clean++; clean++; }
     else {
       rec.needs++; needs++;
@@ -169,6 +185,8 @@ const worst = Object.entries(ledger.pages).filter(([, r]) => r.needs)
   .sort((a, b) => b[1].needs - a[1].needs);
 
 fs.writeFileSync(LEDGER, JSON.stringify(ledger, null, 1), 'utf8');
+fs.writeFileSync(path.join(__dirname, 'quality-findings.json'),
+  JSON.stringify(findings.filter(f => f.severity > 0), null, 1), 'utf8');
 const md = [
   '# Translation quality ledger',
   '',
@@ -186,6 +204,15 @@ const md = [
   '| issue | posts |',
   '|---|---|',
   ...Object.entries(byIssue).sort((a, b) => b[1] - a[1]).map(([k, v]) => `| ${k} | ${v} |`),
+  '',
+  '## Informational (not counted as defects)',
+  '',
+  'A nominal Persian sentence has no verb and is still correct, so this is a',
+  'reading hint for reviewers, never a gate.',
+  '',
+  '| hint | posts |',
+  '|---|---|',
+  ...Object.entries(byInfo).sort((a, b) => b[1] - a[1]).map(([k, v]) => `| ${k} | ${v} |`),
   '',
   '## Worst pages',
   '',

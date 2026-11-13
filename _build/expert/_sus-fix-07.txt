@@ -1,0 +1,11 @@
+if-p80|619b694e|english-left+fragment|forex factory ; Romancing the Price ; forex factory
+if-p80|c8c09aa0|english-left+fragment|Les Paul ; forex factory ; Romancing the Price
+if-p83|e60f9eb5|english-left|End your Brainwashing here
+if-p84|86002842|english-left+fragment|Read the Market Ltd ; Global Gateway ; Rue de la Perle
+if-p91|31ffd8ba|english-left|Wonko the Sane
+ignoredlevel-p1|82eb0e66|english-left|The figure in markepedia article about iCP and the example provided do not match.
+its-p1|f0723c70|english-left|Larry Harris ; Trading and Exchanges ; Market Microstructure for Practitioners.
+its-p1|67155731|english-left|Larry Harris ; Trading and Exchanges ; Market Microstructure for Practitioners.
+its-p2|0458a7a0|english-left|Trading and Exchanges ; reminiscences of a stock operator ; Jesse Livermore
+jc-p2|774e18a3|english-left|Can can ; can can ; can can
+jiri-p1|46e6a65b|english-left|Find the Decisions

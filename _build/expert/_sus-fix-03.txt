@@ -1,0 +1,15 @@
+dbrrbd-p29|5aecc461|fragment|decision point
+dbrrbd-p37|aa8aa569|english-left|Attachment.jpg not found
+dbrrbd-p61|1e189631|english-left|Supply and Demand
+dbrrbd-p61|4b21d258|english-left|Supply and Demand
+diamond-p9|1956293e|english-left|how to join ; price reading
+doctorpatient-p20|3089ca06|fragment|Trading in ; The Zone
+doctorpatient-p23|685430a0|calque|screen time ; real time ; price action
+doctorpatient-p27|f9f73ce8|calque|price action ; price action ; price action
+doctorpatient-p27|46dd2813|calque|price action ; price action ; price action
+doctorpatient-p27|9cf9c756|english-left|price action ; price action ; point and figure
+doctorpatient-p6|5a4e435f|english-left|hi Doc ; watch the price action
+doctorpatient-p6|5e98d345|english-left|high wave candle
+doctorpatient-p7|8a630c4f|english-left|hi Doc ; This is how a long trade must be taken
+doctorpatient-p8|4b5eb085|english-left|Another basic and simple fact to keep in mind is at any market open or close is ; if you are not in the market ; wait and allow it settle
+drswing-p19|d4c1e508|fragment|Dr. Swing
