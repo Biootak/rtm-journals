@@ -2919,6 +2919,16 @@ function setupViewer() {
     if (!document.fullscreenElement && box.classList.contains('lb-full')) box.classList.remove('lb-full');
     paintFullscreenButton(!!document.fullscreenElement || box.classList.contains('lb-full'));
   });
+  /* The phone's back button (and desktop Alt+←) pops the same-URL entry that
+     openViewer pushed. That gesture means "put the plate away", nothing more:
+     the page underneath never changed, so only the viewer closes. */
+  window.addEventListener('popstate', () => {
+    const lb = $('#lightbox');
+    if (lb && !lb.hidden) {
+      App.viewer.fromPop = true;
+      closeViewer();
+    }
+  });
   $('#lbOpenPost')?.addEventListener('click', openViewerPost);
   $('#lbImage')?.addEventListener('load', settleViewerImage);
   $('#lbImage')?.addEventListener('error', () => {
@@ -3007,6 +3017,18 @@ function openViewer(items, idx, journal) {
   lb.hidden = false;
   syncRail();
   renderViewer();
+  /* A plate opened over a page is not a route of its own, so without a
+     history entry the phone's back button used to leave the whole journal
+     instead of just closing the plate. Push a same-URL entry; the popstate
+     listener spends it on closing the viewer. Deep links (#/i/…) already are
+     routes and must not push a second one. */
+  App.viewer.fromPop = false;
+  if (!/^#\/i\//.test(location.hash)) {
+    App.viewer.pushed = true;
+    try { history.pushState({ rtmViewer: 1 }, ''); } catch { App.viewer.pushed = false; }
+  } else {
+    App.viewer.pushed = false;
+  }
   /* Focus the dialog itself, not its close button: on a phone the button's
      focus ring read as a selection and painted a blue halo over the plate. */
   lb.tabIndex = -1;
@@ -3026,6 +3048,14 @@ function closeViewer() {
   syncRail();
   const ret = App.viewer.returnFocus;
   if (ret && typeof ret.focus === 'function') ret.focus();
+  /* Undo the same-URL entry openViewer pushed — but only when this close is
+     the reader's own (button, Esc, backdrop). A popstate-initiated close has
+     already spent that entry, and a route-initiated close leaves it behind as
+     a harmless duplicate of the page the reader was on. */
+  const backOut = App.viewer.pushed && !App.viewer.fromPop;
+  App.viewer.pushed = false;
+  App.viewer.fromPop = false;
+  if (backOut) { try { history.back(); } catch {} }
 }
 
 function moveViewer(delta) {
