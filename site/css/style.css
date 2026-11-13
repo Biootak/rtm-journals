@@ -722,6 +722,13 @@ html[dir="rtl"] .anno-peek { border-radius:0 12px 12px 0; }
 .vt-zoom:hover { border-color:var(--accent-line); color:var(--accent-deep); }
 .pane-scroll { flex:1; min-height:0; overflow:auto; display:flex; padding:18px; direction:ltr; touch-action:none; overscroll-behavior:contain; scrollbar-width:thin; cursor:default; background:
   radial-gradient(circle at 50% 0%, rgba(255,255,255,.4), transparent 55%), var(--paper-sunk); }
+/* Chrome and Safari zoom the whole page when a pinch starts outside the plate
+   scroller — the toolbar, the foot and the notes sheet all qualify. Pinch is
+   the viewer's own gesture, so those surfaces opt out of it; the scrollable
+   panels keep pan-y so their lists still scroll under a thumb. */
+.viewer-toolbar, .pane-foot, .viewer-backdrop { touch-action:none; }
+.viewer .panel, .viewer .anno-panel, .viewer .sheet-panel, .anno-list { touch-action:pan-y; }
+.anno-zone-tools, .anno-zone-style { touch-action:pan-x; }
 html[data-lamp] .pane-scroll { background: radial-gradient(circle at 50% 0%, rgba(255,255,255,.05), transparent 55%), var(--paper-sunk); }
 .pane-scroll.can-pan { cursor:grab; }
 .pane-scroll.is-dragging { cursor:grabbing; user-select:none; }
@@ -779,7 +786,9 @@ html[data-lamp] .pane-scroll { background: radial-gradient(circle at 50% 0%, rgb
     padding:3px; border:1px solid var(--rule); border-radius:999px; background:var(--paper-raised);
   }
   .viewer-toolbar .vt-zoom { height:40px; }
-  .viewer-toolbar #lbZoomWidth, .viewer-toolbar #lbZoomActual { display:none; }
+  /* «پهنا» is the mode a phone actually needs for a wide chart — «Fit» shrinks
+     a 1200×300 plate to a 350×90 strip nobody can read. Only 1:1 stays folded. */
+  .viewer-toolbar #lbZoomActual { display:none; }
 }
 
 /* --------------------------------------------------------- annotation -- */
