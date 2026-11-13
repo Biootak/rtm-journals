@@ -2892,7 +2892,10 @@ function setupViewer() {
   });
   // A double-click is a request to see that corner properly: it zooms into the
   // point under the cursor, and a second double-click gives the whole plate back.
+  // Touch devices fire dblclick on a plain double-tap too — that is a scroll
+  // habit, not a zoom request, so coarse pointers are left to pinch.
   $('#lbImage')?.addEventListener('dblclick', (e) => {
+    if (window.matchMedia('(pointer:coarse)').matches) return;
     const z = App.viewer.zoom;
     if (z.scale > (z.fit || 1) * 1.02) applyFitZoom();
     else setZoom(clamp(Math.max(2, (z.fit || 1) * 2), 0.05, ZOOM_MAX_SCALE), { x: e.clientX, y: e.clientY });
