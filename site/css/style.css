@@ -560,6 +560,7 @@ span.pager-btn.is-disabled { opacity:.4; border-style:dashed; color:var(--ink-4)
   padding:24px 24px 20px; border-radius:var(--radius-lg); border:1px solid var(--rule);
   background:var(--paper-raised); box-shadow:var(--shadow-sm); scroll-margin-top: calc(var(--mast-h) + 20px);
   transition:box-shadow var(--tr), border-color var(--tr);
+  content-visibility:auto; contain-intrinsic-size:auto 460px;
 }
 .article:hover { box-shadow:var(--shadow-md); border-color:var(--rule-strong); }
 .article.is-target { animation:mark 2.6s ease both; }

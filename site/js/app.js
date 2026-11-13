@@ -1014,7 +1014,7 @@ function ensureAnnotate() {
   if (!annoPromise) {
     annoPromise = new Promise((resolve) => {
       const s = document.createElement('script');
-      s.src = 'js/annotate.js';
+      s.src = 'js/annotate.min.js';
       s.onload = () => resolve(!!window.Anno);
       s.onerror = () => resolve(false);
       document.head.appendChild(s);

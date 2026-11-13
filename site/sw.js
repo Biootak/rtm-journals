@@ -11,7 +11,7 @@
  *
  * Bump VERSION on every deploy; activate() drops every older cache.
  */
-const VERSION = 'rtm-v82';
+const VERSION = 'rtm-v83';
 const SHELL_CACHE = VERSION + '-shell';
 const DATA_CACHE = VERSION + '-data';
 const THUMB_CACHE = VERSION + '-thumb';
@@ -20,8 +20,8 @@ const FULL_CACHE = VERSION + '-full';
 const SHELL = [
   './',
   'index.html',
-  'css/style.css',
-  'js/app.js',
+  'css/style.min.css',
+  'js/app.min.js',
   'js/vendor/perfect-freehand.js',
   'data/index.js',
   'data/integrity.js',
@@ -52,7 +52,10 @@ self.addEventListener('fetch', event => {
   const url = new URL(req.url);
 
   if (req.mode === 'navigate') {
-    event.respondWith(networkFirst(req, SHELL_CACHE, INDEX_URL));
+    /* Pages deploys bump VERSION, which drops every older cache on activate,
+       so serving the cached shell while the network catches up cannot pin a
+       visitor to a stale build for longer than one update cycle. */
+    event.respondWith(staleWhileRevalidate(req, SHELL_CACHE));
     return;
   }
   /* Chart files may be served from an external bucket (RTM_ASSETS_BASE); the
