@@ -22,8 +22,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Fetch chart images (Release asset)
-        run: node scripts/fetch-assets.mjs
+      - name: Point images at the media proxy
+        run: |
+          sed -i "s#window.RTM_ASSETS_BASE = '';#window.RTM_ASSETS_BASE = 'https://financialmarket.page/uploads/general';#" site/index.html
+          grep -q "financialmarket.page/uploads/general" site/index.html
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:

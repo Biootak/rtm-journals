@@ -96,7 +96,7 @@
   --bg-blob-1: rgba(37,99,235,.10);
   --bg-blob-2: rgba(124,58,237,.08);
 }
-html[data-theme="lamp"] {
+html[data-theme="dark"] {
   color-scheme: dark;
   --paper: #0b1220;
   --paper-raised: #111a2e;
@@ -127,6 +127,103 @@ html[data-theme="lamp"] {
   --shadow-plate: 0 2px 12px rgba(0,0,0,.45);
   --bg-blob-1: rgba(59,130,246,.14); --bg-blob-2: rgba(167,139,250,.12);
 }
+
+/* ---------------------------------------------------------- reading lamp -- */
+/* The lamp is not a theme — it is a reading posture laid over either base.
+   Two warm casts (a dark room, a sepia page) plus the comforts a long session
+   asks for: calmer motion, softer pictures, and the chrome already gone via
+   .focus-mode. */
+html[data-lamp="dark"] {
+  color-scheme: dark;
+  --paper: #1a140f; --paper-raised: #221a12; --paper-sunk: #1e1710; --paper-warm: #2c2317;
+  --glass: rgba(26,20,15,.74); --glass-strong: rgba(26,20,15,.95);
+  --ink: #f3ead9; --ink-2: #d9cbb0; --ink-3: #b0a084; --ink-4: #85755c;
+  --rule: rgba(230,205,170,.16); --rule-soft: rgba(230,205,170,.10); --rule-strong: rgba(230,205,170,.26);
+  --accent: #e0a44e; --accent-deep: #f0c37c; --accent-2: #b06a45;
+  --accent-soft: rgba(224,164,78,.14); --accent-line: rgba(224,164,78,.40);
+  --quote: #8fb6dd; --quote-soft: rgba(143,182,221,.12); --quote-line: rgba(143,182,221,.45);
+  --ok: #86c98b; --warn: #e8b04b; --bad: #e0705f;
+  --ok-soft: rgba(134,201,139,.14); --warn-soft: rgba(232,176,75,.14); --bad-soft: rgba(224,112,95,.14);
+  --shadow-sm: 0 1px 2px rgba(0,0,0,.45);
+  --shadow-md: 0 8px 28px -8px rgba(0,0,0,.55);
+  --shadow-lift: 0 24px 64px -20px rgba(0,0,0,.75);
+  --shadow-plate: 0 2px 12px rgba(0,0,0,.5);
+  --bg-blob-1: rgba(224,164,78,.10); --bg-blob-2: rgba(176,106,69,.10);
+}
+html[data-lamp="sepia"] {
+  color-scheme: light;
+  --paper: #f4ecda; --paper-raised: #fbf6e9; --paper-sunk: #ecdfc2; --paper-warm: #e9dbbd;
+  --glass: rgba(243,233,210,.80); --glass-strong: rgba(250,243,227,.96);
+  --ink: #41351f; --ink-2: #5f5136; --ink-3: #7e6f50; --ink-4: #9b8b68;
+  --rule: rgba(96,74,42,.14); --rule-soft: rgba(96,74,42,.09); --rule-strong: rgba(96,74,42,.22);
+  --accent: #8f5f16; --accent-deep: #74490f; --accent-2: #9c5a30;
+  --accent-soft: rgba(143,95,22,.12); --accent-line: rgba(143,95,22,.38);
+  --quote: #7c4a2d; --quote-soft: rgba(124,74,45,.10); --quote-line: rgba(124,74,45,.40);
+  --ok: #41703a; --warn: #8f5f16; --bad: #a13c2e;
+  --ok-soft: rgba(65,112,58,.12); --warn-soft: rgba(143,95,22,.13); --bad-soft: rgba(161,60,46,.11);
+  --shadow-sm: 0 1px 2px rgba(96,74,42,.08), 0 2px 12px -4px rgba(96,74,42,.12);
+  --shadow-md: 0 6px 24px -8px rgba(96,74,42,.18), 0 12px 40px -16px rgba(96,74,42,.20);
+  --shadow-lift: 0 20px 60px -20px rgba(96,74,42,.38);
+  --shadow-plate: 0 2px 10px rgba(96,74,42,.10), 0 12px 32px -12px rgba(96,74,42,.20);
+  --bg-blob-1: rgba(143,95,22,.10); --bg-blob-2: rgba(156,90,48,.08);
+}
+html[data-lamp] { scroll-behavior: auto; }
+html[data-lamp] *, html[data-lamp] *::before, html[data-lamp] *::after {
+  animation-duration: .01ms !important; animation-iteration-count: 1 !important;
+  transition-duration: .01ms !important;
+}
+html[data-lamp] img { filter: sepia(.16) saturate(.86) contrast(.96); }
+html[data-lamp="sepia"] img { filter: sepia(.24) saturate(.90) contrast(.97); }
+/* Paper grain — one fixed tile of desaturated feTurbulence noise over the whole
+   reading surface, blended with overlay so it reads as paper fibre on both the
+   sepia page and the dark room. Chrome (masthead 90+, sheets, viewer) paints
+   above it and stays clean. */
+html[data-lamp] body::before {
+  content: ""; position: fixed; inset: 0; z-index: 1; pointer-events: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='180' height='180'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.8' numOctaves='3' stitchTiles='stitch'/%3E%3CfeColorMatrix type='saturate' values='0'/%3E%3C/filter%3E%3Crect width='180' height='180' filter='url(%23n)'/%3E%3C/svg%3E");
+  background-size: 180px 180px;
+  mix-blend-mode: overlay; opacity: .12;
+}
+/* On cream paper the fibres read as darker specks — multiply is the honest
+   blend. On the dark room the same tile lifts toward light dust instead. */
+html[data-lamp="sepia"] body::before { mix-blend-mode: multiply; opacity: .14; }
+html[data-lamp="dark"] body::before { mix-blend-mode: screen; opacity: .10; }
+/* A soft vignette keeps the eye near the text column instead of the glare at
+   the screen edges — the same trick a reading lamp throws on a desk. */
+html[data-lamp="sepia"] body::after {
+  content: ""; position: fixed; inset: 0; z-index: 1; pointer-events: none;
+  background: radial-gradient(115% 88% at 50% 42%, transparent 52%, rgba(96,70,38,.16) 100%);
+}
+html[data-lamp="dark"] body::after {
+  content: ""; position: fixed; inset: 0; z-index: 1; pointer-events: none;
+  background: radial-gradient(115% 88% at 50% 42%, transparent 50%, rgba(0,0,0,.24) 100%);
+}
+@media print, (forced-colors: active) { html[data-lamp] body::before, html[data-lamp] body::after { display: none; } }
+
+/* ----------------------------------------------------- reading progress -- */
+.idx-prog { display:block; height:3px; border-radius:2px; background:var(--rule); margin-top:5px; max-width:200px; overflow:hidden; }
+.idx-prog i { display:block; height:100%; background:var(--accent); border-radius:2px; }
+.prog-chip { display:inline-flex; align-items:center; gap:7px; }
+.prog-chip .prog-bar { display:inline-block; width:72px; height:4px; border-radius:2px; background:var(--rule); overflow:hidden; }
+.prog-chip .prog-bar i { display:block; height:100%; background:var(--accent); }
+/* Under the lamp the reading surfaces get a slightly heavier stroke — the
+   warm palette softens edges, and Persian reads better a touch bolder. */
+html[data-lamp] .article-text, html[data-lamp] .dual-fa, html[data-lamp] .paras-fa,
+html[data-lamp] .article-fa, html[data-lamp] .pair-fa { font-weight:550; }
+html[data-lamp] ::-webkit-scrollbar { width:10px; height:10px; }
+html[data-lamp] ::-webkit-scrollbar-thumb { background:var(--rule-strong); border-radius:8px; border:2px solid var(--paper); }
+html[data-lamp] { scrollbar-color:var(--rule-strong) var(--paper); scrollbar-width:thin; }
+
+/* ------------------------------------------------------- journal tools ---- */
+.journal-tools { display:flex; align-items:center; gap:10px; flex-wrap:wrap; margin-top:10px; }
+.journal-tools .text-action.is-on { color:var(--accent-deep); background:var(--accent-soft); }
+.jfilter { flex:1 1 180px; max-width:280px; min-height:36px; border:1px solid var(--rule); border-radius:999px; background:var(--paper-raised); color:var(--ink); font-size:13px; padding:0 14px; }
+.jfilter:focus { outline:0; border-color:var(--accent); box-shadow:0 0 0 3px var(--accent-soft); }
+/* Skim mode: the text is the page; plates, quotes and thread chatter step
+   aside so a fast pass reads like a newspaper column. */
+.skim-mode .plates, .skim-mode .post-inline-plates, .skim-mode .post-quote, .skim-mode .thread-line,
+.skim-mode .article-foot, .skim-mode .plate-gap { display:none !important; }
+.skim-mode .article { padding-block:14px; }
 /* --------------------------------------------------------------- dark default prefer */
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="paper"]) { color-scheme: dark; }
@@ -262,6 +359,29 @@ body.head-hidden .masthead { transform:translateY(-100%); }
 .colophon.rail-hidden > .index-rail { display:none; }
 body.focus-mode .colophon { grid-template-columns: minmax(0,1fr); }
 @media (min-width:1001px) { body.focus-mode .index-rail { display:none; } }
+/* focus mode = reading posture: the margin chrome (annotation rail, thread
+   lines, per-post action row) steps aside so only the text column remains */
+body.focus-mode .anno-rail,
+body.focus-mode .post-thread,
+body.focus-mode .thread-line,
+body.focus-mode .article-foot,
+body.focus-mode .article-permalink { display:none !important; }
+body.focus-mode .article-head { margin-bottom:8px; }
+body.focus-mode .article { padding-block:18px; }
+/* immersive: the reading column owns the viewport — masthead, search band and
+   footer recede; only a slim exit affordance stays reachable */
+body.focus-mode .search-band,
+body.focus-mode .colophon-foot,
+body.focus-mode .site-foot { display:none; }
+body.focus-mode .colophon { margin-inline:auto; padding-top:24px; }
+/* text stays at reading measure; plates and meta keep the full column so
+   charts are not squeezed into a narrow strip */
+body.focus-mode .article-text,
+body.focus-mode .article-fa { max-width:var(--measure); margin-inline:auto; }
+body.focus-mode .article-text { max-width:var(--measure); }
+body.focus-mode .plates { max-width:none; }
+body.focus-mode .view { padding-top:12px; }
+/* keep the masthead — it carries the focus button, the only visible exit */
 .index-rail {
   position:sticky; inset-block-start: calc(var(--mast-h) + 16px); display:flex; flex-direction:column; gap:20px;
   max-height: calc(100vh - var(--mast-h) - 28px); overflow:auto; scrollbar-width:thin;
@@ -447,11 +567,18 @@ span.pager-btn.is-disabled { opacity:.4; border-style:dashed; color:var(--ink-4)
 .article-head { display:flex; align-items:baseline; gap:10px; flex-wrap:wrap; margin-bottom:12px; }
 .article-num { font-family:var(--mo); font-size:12px; font-weight:700; color:#fff; background:var(--grad); border-radius:999px; padding:3px 10px; white-space:nowrap; }
 .article-author { font-size:14.5px; font-weight:800; }
+.article-rank {
+  display:inline-flex; align-items:center; gap:4px;
+  font-size:10.5px; font-weight:700; color:var(--ink-3);
+  border:1px solid color-mix(in oklab, var(--ink-3) 28%, transparent);
+  border-radius:999px; padding:1px 7px; white-space:nowrap;
+}
+.rank-badge { width:18px; height:18px; object-fit:contain; border-radius:3px; flex:none; }
 .article-date { font-family:var(--mo); font-size:11.5px; color:var(--ink-3); }
 .article-page { font-family:var(--mo); font-size:11.5px; color:var(--ink-4); }
 .article-permalink { font-size:11.5px; color:var(--ink-4); display:inline-flex; align-items:center; gap:5px; min-height:28px; padding:4px 8px; border-radius:8px; border:1px solid transparent; }
 .article-permalink:hover { color:var(--accent-deep); border-color:var(--rule); background:var(--paper); }
-.article-text { max-width:none; font-size:16px; line-height:2.05; text-align:justify; text-justify:inter-word; hyphens:none; }
+.article-text { max-width:none; font-size:var(--fs-read); line-height:2.05; text-align:justify; text-justify:inter-word; hyphens:none; }
 .article-text p { margin:0 0 10px; text-align:justify; text-justify:inter-word; }
 .article-text p:last-of-type { margin-bottom:0; }
 /* Quoted speech is amber — neither the blue accent nor paper — so it reads as
@@ -461,7 +588,7 @@ span.pager-btn.is-disabled { opacity:.4; border-style:dashed; color:var(--ink-4)
 .post-quote.is-nested { margin-inline-start:18px; border-inline-start-color:var(--quote); box-shadow:inset 0 0 0 1px var(--quote-line); background:color-mix(in srgb, var(--quote-soft) 70%, var(--paper-warm)); }
 .post-quote-head { display:block; font-size:12px; font-weight:800; color:var(--quote); margin-bottom:6px; }
 .post-quote-chain { display:inline-flex; margin-inline-start:8px; font-family:var(--mo); font-size:10.5px; color:var(--accent-deep); background:var(--paper-raised); border:1px solid var(--accent-line); border-radius:999px; padding:2px 8px; }
-.post-quote-body { display:block; font-size:15px; line-height:1.95; color:var(--ink-2); }
+.post-quote-body { display:block; font-size:var(--fs); line-height:1.95; color:var(--ink-2); }
 .post-quote-body.is-fa { margin-top:8px; padding-top:8px; border-top:1px dashed var(--quote-line); font-family:var(--fa); color:var(--ink); text-align:right; }
 /* language switch — a compact segmented control in the journal header */
 .lang-tabs { border:0; padding:3px; gap:2px; background:var(--paper-sunk); border-radius:10px; }
@@ -556,10 +683,10 @@ span.pager-btn.is-disabled { opacity:.4; border-style:dashed; color:var(--ink-4)
 /* dual view — original paragraph, Persian beneath it. Plain text: only quoted
    speech is boxed, so ordinary paragraphs no longer read as quotes. */
 .dual { display:flex; flex-direction:column; gap:14px; }
-.dual-en { font-family:var(--en); direction:ltr; text-align:left; font-size:15.5px; line-height:1.8; color:var(--ink-2); }
+.dual-en { font-family:var(--en); direction:ltr; text-align:left; font-size:var(--fs-gloss); line-height:1.8; color:var(--ink-2); }
 .dual-en p { margin:0 0 8px; }
 .dual-en p:last-child { margin-bottom:0; }
-.dual-fa { font-size:15px; line-height:2; color:var(--ink); text-align:justify; text-justify:inter-word; padding-inline-start:12px; border-inline-start:2px solid var(--rule-soft); }
+.dual-fa { font-size:var(--fs); line-height:2; color:var(--ink); text-align:justify; text-justify:inter-word; padding-inline-start:12px; border-inline-start:2px solid var(--rule-soft); }
 .dual-fa p { margin:0 0 8px; }
 .dual-fa p:last-child { margin-bottom:0; }
 .dual > .post-quote + .dual-en, .dual > .post-quote + .dual-fa { margin-top:2px; }
@@ -594,7 +721,7 @@ html[dir="rtl"] .anno-peek { border-radius:0 12px 12px 0; }
 .vt-zoom:hover { border-color:var(--accent-line); color:var(--accent-deep); }
 .pane-scroll { flex:1; min-height:0; overflow:auto; display:flex; padding:18px; direction:ltr; touch-action:none; overscroll-behavior:contain; scrollbar-width:thin; cursor:default; background:
   radial-gradient(circle at 50% 0%, rgba(255,255,255,.4), transparent 55%), var(--paper-sunk); }
-html[data-theme="lamp"] .pane-scroll { background: radial-gradient(circle at 50% 0%, rgba(255,255,255,.05), transparent 55%), var(--paper-sunk); }
+html[data-lamp] .pane-scroll { background: radial-gradient(circle at 50% 0%, rgba(255,255,255,.05), transparent 55%), var(--paper-sunk); }
 .pane-scroll.can-pan { cursor:grab; }
 .pane-scroll.is-dragging { cursor:grabbing; user-select:none; }
 .pane-scroll:not(.can-pan) .pane-stage img { cursor:zoom-in; }
@@ -622,6 +749,16 @@ html[data-theme="lamp"] .pane-scroll { background: radial-gradient(circle at 50%
 .tab.is-active { color:var(--accent-deep); font-weight:800; background:var(--accent-soft); }
 .tab.is-active::after { content:''; position:absolute; inset-inline:10px; inset-block-end:-1px; height:2.5px; border-radius:2px; background:var(--grad); }
 .detail-toolbar .tabs { border-bottom:0; padding:0; }
+@media (max-width:860px) {
+  /* tablet / small laptop: the five-column index row crowds — keep number,
+     name and the accent count; title and the rest fold away */
+  .index-row { grid-template-columns:26px minmax(0,1fr) auto; gap:10px; padding:14px 16px; }
+  .index-row .idx-title, .index-row .idx-cell:not(.is-accent) { display:none; }
+  .article { padding:18px 18px 16px; }
+  .article-head { gap:8px; }
+  .doc-head { padding:18px; }
+  .pager { padding:10px 12px; }
+}
 @media (max-width:760px) {
   .viewer-shell { grid-template-columns:minmax(0,1fr); grid-template-rows:minmax(0,1fr) auto; width:100%; }
   .pane { border-inline-end:0; border-block-end:1px solid var(--rule); }
@@ -1049,9 +1186,10 @@ html[dir="rtl"] .toast.is-on { transform:translate(50%,0); }
   .masthead-row { gap:10px; flex-wrap:wrap; padding-block:8px; }
   .stat-strip { display:none; }
   /* Four icons a thumb can reach (search, focus, the shelf, settings); the
-     command palette needs a keyboard, and the lamp has its own switch in the
-     settings sheet, so neither earns a slot in the phone bar. */
-  .masthead-tools #paletteBtn, .masthead-tools #themeBtn { display:none; }
+     command palette needs a keyboard, and the base theme lives in the settings
+     sheet, so neither earns a slot in the phone bar. The lamp stays: it is the
+     reading mode this bar exists for. */
+  .masthead-tools #paletteBtn, .masthead-tools #dayBtn { display:none; }
   body.is-reading .masthead-tools #searchToggle { display:inline-grid; }
   .search-kbd { display:none; }
   /* The band is not a permanent strip on a phone. The toggle opens it as a
@@ -1108,10 +1246,32 @@ html[dir="rtl"] .toast.is-on { transform:translate(50%,0); }
 
 /* print */
 @media print {
-  .masthead, .index-rail, .toolbar, .pager, .viewer, .sheet, .palette, .toast, .footer, .reading-bar, .article-foot, .plate-chip { display:none !important; }
+  .masthead, .index-rail, .toolbar, .pager, .viewer, .sheet, .palette, .toast, .footer, .reading-bar, .article-foot, .article-jump, .plate-chip { display:none !important; }
   body { background:#fff; color:#000; font-size:11.5pt; }
   .colophon { display:block; padding:0; }
   .article { page-break-inside:avoid; border:1px solid #999; border-radius:0; box-shadow:none; }
   .plate-frame { border-color:#999; box-shadow:none; }
   a[href]::after { content:''; }
 }
+/* ---------------------------------------------------------- responsive -- */
+/* Global guards so nothing can force a horizontal scroll on narrow screens. */
+img, svg, video, canvas { max-width:100%; height:auto; }
+pre, code, .mono, [dir="ltr"] { overflow-wrap:anywhere; }
+.article-text, .dual-en, .dual-fa, .article-fa { overflow-wrap:break-word; }
+.plates, .plate, figure.plate { max-width:100%; }
+.table-wrap, .notes-body, .index-table { max-width:100%; }
+@media (max-width:700px) {
+  .article-head { row-gap:6px; }
+  .article-num { padding:3px 8px; font-size:11px; }
+  .article-rank { font-size:11px; }
+  .detail-toolbar { padding:8px 10px; gap:6px; }
+  .detail-nav .pager-btn { max-width:100%; flex:1 1 auto; justify-content:center; }
+  .byline { font-size:12px; }
+  .result-aside { gap:8px; }
+}
+
+/* Plates kept inside the prose where the print placed them. The column
+   flex would otherwise read .plate's flex-basis as a height and stretch
+   every figure to ~560px. */
+.post-inline-plates { display:flex; flex-direction:column; gap:16px; margin:18px 0; }
+.post-inline-plates .plate { flex:none; max-width:100%; }

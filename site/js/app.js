@@ -14,10 +14,15 @@ const $$ = (sel, root = document) => Array.from(root.querySelectorAll(sel));
 const SETTINGS_KEY = 'rtm_archive_settings_v3';
 const BOOKMARKS_KEY = 'rtm_bookmarks_v1';
 const READING_KEY = 'rtm_reading_v1';
+const PROGRESS_KEY = 'rtm_progress_v1';
 
 const DEFAULT_SETTINGS = {
   fontSize: 15,            // the one reading-size token; every text surface derives from it
-  lamp: false,             // warm dark "reading lamp" instead of paper
+  theme: 'paper',          // paper | dark — the plain base theme, independent of the lamp
+  lamp: false,             // reading lamp: warm palette + focus + bigger text + calm motion
+  lampTone: 'dark',        // dark | sepia — which warm palette the lamp casts
+  lampAuto: false,         // lamp switches itself on during the night hours
+  skim: false,             // skim mode: text only, plates and quotes hidden
   focus: false,            // hide the chrome, keep the text
   sidebar: 'auto',         // auto | open | closed
   header: 'compact',       // compact | static
@@ -52,6 +57,10 @@ const App = {
   promises: {},
   bookmarks: loadBookmarks(),
   reading: loadReading(),
+  progress: loadProgress(),
+  unreadOnly: false,
+  journalFilter: '',
+  _readObserver: undefined,
 };
 
 /* ============================== utilities ============================== */
@@ -72,6 +81,42 @@ function esc(value) {
 function faNum(n) {
   if (n == null || Number.isNaN(Number(n))) return '—';
   try { return new Intl.NumberFormat('fa-IR').format(Number(n)); } catch { return String(n); }
+}
+
+const RANK_FA = {
+  'Master Trader': 'مستر تریدر',
+  'Expert Trader': 'اکسپرت تریدر',
+  'Senior Trader': 'سینیور تریدر',
+  'Associate Trader': 'آسوشیت تریدر',
+  'Trader': 'تریدر',
+  'Junior Trader': 'جونیور تریدر',
+  'Student': 'دانشجو',
+  'Newbie': 'تازه‌کار',
+  'Moderator': 'مدیر انجمن',
+  'Administrator': 'مدیر',
+  'Fresh Boarder': 'کاربر تازه',
+  'Junior Boarder': 'کاربر جونیور',
+  'Senior Boarder': 'کاربر سینیور',
+  'Expert Boarder': 'کاربر اکسپرت',
+  'Gold Boarder': 'کاربر طلایی',
+  'Platinum Boarder': 'کاربر پلاتینیوم',
+  'Boarder': 'کاربر انجمن',
+  'Guest': 'مهمان',
+};
+
+function rankLabel(rank) {
+  /* The archive shows the forum's own English title — «Master Trader»,
+     «Trader» — the way the author card printed it. */
+  return String(rank || '').trim();
+}
+
+/* The forum prints a small icon under each rank title; the archive keeps it
+   beside the Persian label so a Master Trader reads like the original card. */
+function rankBadgeHTML(rank) {
+  const key = String(rank || '').trim();
+  const b = ((App.index && App.index.rankBadges) || {})[key];
+  if (!b || !b.src) return '';
+  return `<img class="rank-badge" src="${esc(b.src)}" alt="" width="18" height="18" loading="lazy" decoding="async">`;
 }
 
 function norm(value) {
@@ -189,6 +234,30 @@ function journalById(id) {
 function journalName(id) {
   const j = journalById(id);
   return j ? j.name : id;
+}
+
+/* Chart files may be served by the FinancialMarket media proxy while the data
+ * stays same-origin. `RTM_ASSETS_BASE` is empty for the local build; the
+ * deployed index.html points it at `<domain>/uploads/general`. That route
+ * accepts one flat name under `general`, so plates and thumbnails get a type
+ * prefix and lose their directories. Rewriting once at ingestion keeps every
+ * <img>, lightbox and download link consistent. */
+function assetUrl(path) {
+  const p = String(path || '');
+  const base = String(window.RTM_ASSETS_BASE || '').replace(/\/+$/, '');
+  if (!base || /^https?:\/\//i.test(p)) return p;
+  const m = p.match(/^assets\/(images|thumbs)\/(.+)$/);
+  if (!m) return base + '/' + p.replace(/^\/+/, '');
+  const prefix = m[1] === 'images' ? 'rtm-img-' : 'rtm-thumb-';
+  return base + '/' + prefix + m[2].split('/').pop();
+}
+
+function rebaseImage(im) {
+  if (!im || typeof im !== 'object') return im;
+  for (const k of ['f', 't', 'asset', 'thumb']) {
+    if (im[k]) im[k] = assetUrl(im[k]);
+  }
+  return im;
 }
 
 function imageMap(journal) {
@@ -325,10 +394,14 @@ function loadSettings() {
       imageFit: ['fit', 'width', 'actual'],
       wheel: ['zoom', 'pan'],
       language: ['both', 'fa', 'en'],
+      theme: ['paper', 'dark'],
+      lampTone: ['dark', 'sepia'],
     })) {
       if (!allowed.includes(out[key])) out[key] = DEFAULT_SETTINGS[key];
     }
     out.lamp = !!out.lamp;
+    out.lampAuto = !!out.lampAuto;
+    out.skim = !!out.skim;
     out.focus = !!out.focus;
     return out;
   };
@@ -360,16 +433,38 @@ function saveSettings() {
   try { localStorage.setItem(SETTINGS_KEY, JSON.stringify(App.settings)); } catch {}
 }
 
+/* The lamp's effective state: the manual switch wins; otherwise the auto
+   schedule decides — on from 19:00 to 07:00 local, when cool screen light is
+   hardest on the eyes. */
+function lampOn() {
+  const s = App.settings;
+  if (s.lamp) return true;
+  if (!s.lampAuto) return false;
+  const h = new Date().getHours();
+  return h >= 19 || h < 7;
+}
+
 function applySettings() {
   const s = App.settings;
-  document.documentElement.dataset.theme = s.lamp ? 'lamp' : 'paper';
-  document.documentElement.style.setProperty('--fs', s.fontSize + 'px');
+  const lamp = lampOn();
+  const de = document.documentElement;
+  de.dataset.theme = s.theme === 'dark' ? 'dark' : 'paper';
+  if (lamp) de.dataset.lamp = s.lampTone; else delete de.dataset.lamp;
+  /* The lamp lends the text two more pixels — comfort, not a new setting. */
+  de.style.setProperty('--fs', clamp(s.fontSize + (lamp ? 2 : 0), 13, 26) + 'px');
   const themeBtn = $('#themeBtn');
   if (themeBtn) {
-    themeBtn.innerHTML = icon(s.lamp ? 'sun' : 'lamp');
-    themeBtn.title = s.lamp ? 'بازگشت به کاغذ' : 'چراغ مطالعه';
+    themeBtn.innerHTML = icon('lamp');
+    themeBtn.title = lamp ? 'خاموش‌کردن چراغ مطالعه' : 'چراغ مطالعه';
     themeBtn.setAttribute('aria-label', themeBtn.title);
-    themeBtn.classList.toggle('is-on', !!s.lamp);
+    themeBtn.classList.toggle('is-on', lamp);
+  }
+  const dayBtn = $('#dayBtn');
+  if (dayBtn) {
+    dayBtn.innerHTML = icon(s.theme === 'dark' ? 'sun' : 'moon');
+    dayBtn.title = s.theme === 'dark' ? 'تم روشن' : 'تم تیره';
+    dayBtn.setAttribute('aria-label', dayBtn.title);
+    dayBtn.classList.toggle('is-on', s.theme === 'dark');
   }
   const focusBtn = $('#focusBtn');
   if (focusBtn) {
@@ -385,7 +480,7 @@ function isRailLayout() {
 }
 
 function railHiddenOnDesktop() {
-  return !!App.settings.focus || App.settings.sidebar === 'closed';
+  return !!App.settings.focus || lampOn() || App.settings.sidebar === 'closed';
 }
 
 /* Header, rail and reading mode are chrome: they hand height back to the text
@@ -393,7 +488,8 @@ function railHiddenOnDesktop() {
 function applyChrome() {
   const s = App.settings;
   document.body.classList.toggle('head-static', s.header === 'static');
-  document.body.classList.toggle('focus-mode', !!s.focus);
+  document.body.classList.toggle('focus-mode', !!s.focus || lampOn());
+  document.body.classList.toggle('skim-mode', !!s.skim);
   if (s.header !== 'compact') document.body.classList.remove('head-compact');
   syncRail();
   setMastVar();
@@ -479,12 +575,16 @@ function syncSettingsControls() {
   seg('setWheel', 'wheel', 'wheel');
   seg('setHeader', 'header', 'header');
   seg('setSidebar', 'sidebar', 'sidebar');
+  seg('setTheme', 'theme', 'base');
+  seg('setLampTone', 'lampTone', 'lamptone');
   const range = $('#setFont');
   if (range) range.value = String(s.fontSize);
   const fv = $('#fontValue');
   if (fv) fv.textContent = faNum(s.fontSize);
   const check = (id, value) => { const el = $('#' + id); if (el) el.checked = !!value; };
   check('setLight', s.lamp);
+  check('setLampAuto', s.lampAuto);
+  check('setSkim', s.skim);
   syncLangTabs();
 }
 
@@ -558,16 +658,161 @@ function saveReading() {
   try { localStorage.setItem(READING_KEY, JSON.stringify(App.reading.slice(0, 10))); } catch {}
 }
 
+/* Per-journal read progress: which post ids the reader has actually seen.
+   Powers the percent chips on the index rows, the journal header and the
+   «کدام را تمام کرده‌ام» question at a glance. */
+function loadProgress() {
+  try {
+    const raw = JSON.parse(localStorage.getItem(PROGRESS_KEY) || '{}');
+    return raw && typeof raw === 'object' ? raw : {};
+  } catch { return {}; }
+}
+
+function saveProgress() {
+  try { localStorage.setItem(PROGRESS_KEY, JSON.stringify(App.progress)); } catch {}
+}
+
+function progressEntry(jid) {
+  let e = App.progress[jid];
+  if (!e || typeof e !== 'object') { e = { read: {}, last: null, updated: 0 }; App.progress[jid] = e; }
+  if (!e.read || typeof e.read !== 'object') e.read = {};
+  return e;
+}
+
+function progressStats(jid, total) {
+  const e = App.progress[jid];
+  const n = e && e.read ? Object.keys(e.read).length : 0;
+  const t = total || 0;
+  return { read: n, total: t, pct: t ? Math.min(100, Math.round((n / t) * 100)) : 0 };
+}
+
+function markPostRead(jid, pid) {
+  if (!jid || !pid) return;
+  const e = progressEntry(jid);
+  const fresh = !e.read[pid];
+  e.read[pid] = 1;
+  e.last = { pid, page: App.currentPage || 1 };
+  e.updated = Date.now();
+  saveProgress();
+  if (fresh) { bumpDaily(jid); paintJournalProg(); }
+}
+
+/* Today-at-a-glance: how many posts across how many journals today. */
+const DAILY_KEY = 'rtm_daily_v1';
+function bumpDaily(jid) {
+  try {
+    const day = new Date().toISOString().slice(0, 10);
+    const raw = JSON.parse(localStorage.getItem(DAILY_KEY) || '{}');
+    const d = raw[day] || (raw[day] = { posts: 0, journals: {} });
+    d.posts += 1;
+    d.journals[jid] = 1;
+    localStorage.setItem(DAILY_KEY, JSON.stringify(raw));
+  } catch {}
+}
+function dailyToday() {
+  try {
+    const day = new Date().toISOString().slice(0, 10);
+    const raw = JSON.parse(localStorage.getItem(DAILY_KEY) || '{}');
+    return raw[day] || null;
+  } catch { return null; }
+}
+
+/* Journals the reader starred for later — a lighter mark than a bookmark,
+   meant for «still reading this one». */
+const JM_KEY = 'rtm_journal_marks_v1';
+function loadJournalMarks() {
+  try { const r = JSON.parse(localStorage.getItem(JM_KEY) || '[]'); return Array.isArray(r) ? r : []; } catch { return []; }
+}
+App.journalMarks = loadJournalMarks();
+function saveJournalMarks() { try { localStorage.setItem(JM_KEY, JSON.stringify(App.journalMarks)); } catch {} }
+function isJournalMarked(jid) { return App.journalMarks.includes(jid); }
+function toggleJournalMark(jid) {
+  App.journalMarks = isJournalMarked(jid) ? App.journalMarks.filter(x => x !== jid) : [...App.journalMarks, jid];
+  saveJournalMarks();
+}
+
+function isPostRead(jid, pid) {
+  const e = App.progress[jid];
+  return !!(e && e.read && e.read[pid]);
+}
+
+function markPostUnread(jid, pid) {
+  const e = App.progress[jid];
+  if (e && e.read && e.read[pid]) {
+    delete e.read[pid];
+    saveProgress();
+    paintJournalProg();
+  }
+}
+
+/* The reader's own verdict beats the scroll heuristic in both directions:
+   mark read without scrolling, or undo a post the observer counted. */
+function togglePostRead(jid, pid) {
+  if (isPostRead(jid, pid)) { markPostUnread(jid, pid); return false; }
+  markPostRead(jid, pid);
+  return true;
+}
+
+function paintJournalProg() {
+  const j = App.currentJournal;
+  if (!j || App.currentView !== 'journal') return;
+  const el = $('#journalProg');
+  if (!el) return;
+  const s = progressStats(j.id, j.posts.length);
+  el.innerHTML = `<span class="prog-bar"><i style="width:${s.pct}%"></i></span> ${faNum(s.pct)}٪ خوانده‌شده`;
+}
+
+function syncPostReadBtn() {
+  const d = App.postDetail;
+  const btn = $('#postRead');
+  if (!btn || !d || !d.post || !d.journal) return;
+  const on = isPostRead(d.journal.id, d.post.id);
+  btn.setAttribute('aria-pressed', String(on));
+  btn.classList.toggle('is-on', on);
+  const sp = btn.querySelector('span');
+  if (sp) sp.textContent = on ? 'خوانده‌شده' : 'خوانده‌نشده';
+  const ic = btn.querySelector('svg use');
+  if (ic) ic.setAttribute('href', on ? '#i-check' : '#i-eye');
+}
+
+function estimateReadMinutes(post) {
+  if (!post) return 0;
+  const en = String(post.t || post.text || '').split(/\s+/).filter(Boolean).length;
+  const fa = String(post.fa || '').split(/\s+/).filter(Boolean).length;
+  const w = Math.max(en, Math.round(fa * 0.6));
+  return w ? Math.max(1, Math.round(w / 170)) : 0;
+}
+
+function ensureReadObserver() {
+  if (App._readObserver !== undefined) return;
+  if (!('IntersectionObserver' in window)) { App._readObserver = null; return; }
+  App._readObserver = new IntersectionObserver(entries => {
+    for (const e of entries) {
+      if (!e.isIntersecting) continue;
+      App._readObserver.unobserve(e.target);
+      markPostRead(e.target.dataset.jid, e.target.dataset.postId);
+    }
+  }, { threshold: 0.4 });
+}
+
+/* Viewing a journal page marks every post that scrolls meaningfully into view;
+   opening a post detail marks it directly. */
+function wireReadTracking(root) {
+  ensureReadObserver();
+  if (!App._readObserver) return;
+  $$('.article[data-post-id]', root).forEach(el => App._readObserver.observe(el));
+}
+
 function bookmarkKey(jid, pid) { return jid + '::' + pid; }
 
 function findBookmark(jid, pid) {
   return App.bookmarks.find(b => bookmarkKey(b.jid, b.pid) === bookmarkKey(jid, pid)) || null;
 }
 
-function recordReading(jid, page, pid, label) {
+function recordReading(jid, page, pid, label, author) {
   const key = bookmarkKey(jid, pid);
   App.reading = App.reading.filter(r => bookmarkKey(r.jid, r.pid) !== key);
-  App.reading.unshift({ jid, page, pid, label: label || '', ts: Date.now() });
+  App.reading.unshift({ jid, page, pid, label: label || '', author: author || '', ts: Date.now() });
   saveReading();
   renderReadingRail();
 }
@@ -622,14 +867,17 @@ function shelfHTML(items, withRemove = true) {
       <span class="shelf-j" dir="auto">${esc(journalName(b.jid))}</span>
       <bdi dir="auto">${esc(b.number || pidLabel({ id: b.pid }))}</bdi>
       <span class="muted">${esc(b.author || '')}</span>
-      ${withRemove ? `<button class="shelf-x" type="button" data-action="unbookmark" data-jid="${esc(b.jid)}" data-pid="${esc(b.pid)}" aria-label="برداشتن نشان" title="برداشتن نشان">${icon('close')}</button>` : ''}
+      ${withRemove ? `<button class="shelf-x" type="button" data-action="dismiss-reading" data-jid="${esc(b.jid)}" data-pid="${esc(b.pid)}" aria-label="حذف از ادامهٔ مطالعه" title="حذف از ادامهٔ مطالعه">${icon('close')}</button>` : ''}
     </a>`).join('');
 }
 
 function renderShelf() {
   const wrap = $('#shelfWrap');
   if (!wrap) return;
-  const list = App.bookmarks.slice(0, 10);
+  const list = App.reading.slice(0, 10).map(r => ({
+    jid: r.jid, pid: r.pid, page: r.page || 1,
+    number: r.label || '', author: r.author || '',
+  }));
   if (!list.length) {
     wrap.hidden = true;
     wrap.innerHTML = '';
@@ -639,9 +887,9 @@ function renderShelf() {
   wrap.innerHTML = `
     <div class="shelf-head">
       <h2>ادامهٔ مطالعه</h2>
-      <span class="shelf-note">برچسب‌هایی که در این مرورگر نشان کرده‌اید</span>
+      <span class="shelf-note">آخرین پست‌هایی که در این مرورگر باز کرده‌اید</span>
       <span class="dot-leader"></span>
-      <a class="text-action" href="#/saved">${icon('bookmark')} همه (${faNum(App.bookmarks.length)})</a>
+      <a class="text-action" href="#/all">همهٔ پست‌ها</a>
     </div>
     <div class="shelf-list" data-shelf>${shelfHTML(list)}</div>`;
 }
@@ -681,7 +929,9 @@ function renderReadingRail() {
     box.innerHTML = `<div class="rail-note" style="padding:8px 0">هنوز پستی نخوانده‌اید.</div>`;
     return;
   }
-  box.innerHTML = App.reading.slice(0, 8).map(r => `
+  const day = dailyToday();
+  const today = day ? `<div class="rail-note" style="padding:2px 0 10px">امروز: ${faNum(day.posts)} پست در ${faNum(Object.keys(day.journals || {}).length)} ژورنال</div>` : '';
+  box.innerHTML = today + App.reading.slice(0, 8).map(r => `
     <a class="toc-item" href="${postHref(r.jid, r.page || 1, r.pid)}">
       <span class="toc-num">${icon('clock')}</span>
       <span class="toc-name" dir="auto">${esc(r.label || pidLabel({ id: r.pid }))}</span>
@@ -755,6 +1005,29 @@ function journalPageUrl(id, page) {
   return 'data/journals/' + encodeURIComponent(id) + '/p' + page + '.json';
 }
 
+/* annotate.js is the heaviest script on the page and only the image viewer and
+   the notes view ever call into it, so it is fetched the first time one of
+   those opens instead of riding along on every visit. */
+let annoPromise = null;
+function ensureAnnotate() {
+  if (window.Anno) return Promise.resolve(true);
+  if (!annoPromise) {
+    annoPromise = new Promise((resolve) => {
+      const s = document.createElement('script');
+      s.src = 'js/annotate.js';
+      s.onload = () => resolve(!!window.Anno);
+      s.onerror = () => resolve(false);
+      document.head.appendChild(s);
+    }).then(ok => {
+      if (ok && window.Anno && window.Anno.attach) {
+        try { window.Anno.attach(); window.Anno.paintRailBadge(); } catch {}
+      }
+      return ok;
+    });
+  }
+  return annoPromise;
+}
+
 function journalImagesUrl(id) {
   return 'data/journals/' + encodeURIComponent(id) + '-images.json';
 }
@@ -787,7 +1060,7 @@ function mergeJournalPage(journal, page, chunk) {
   }
   const seen = new Set(journal.images.map(im => im.k));
   for (const im of (chunk.images || [])) {
-    if (!seen.has(im.k)) { seen.add(im.k); journal.images.push(im); }
+    if (!seen.has(im.k)) { seen.add(im.k); journal.images.push(rebaseImage(im)); }
   }
   journal.loadedPages.add(page);
   return journal;
@@ -826,7 +1099,7 @@ function ensureJournalImages(id) {
       loadJson(journalImagesUrl(id)).then(list => {
         const seen = new Set(journal.images.map(im => im.k));
         for (const im of (list || [])) {
-          if (!seen.has(im.k)) { seen.add(im.k); journal.images.push(im); }
+          if (!seen.has(im.k)) { seen.add(im.k); journal.images.push(rebaseImage(im)); }
         }
         journal.imagesLoaded = true;
         return journal;
@@ -1103,7 +1376,6 @@ function init() {
   renderShelf();
   setupEvents();
   setupViewer();
-  if (window.Anno) { Anno.attach(); Anno.paintRailBadge(); }
   setupNotesView();
   setupSettings();
   setupPostView();
@@ -1116,6 +1388,13 @@ function init() {
     setMastVar();
     restoreReadingPosition();
   });
+  /* The auto lamp flips at 19:00 and 07:00; re-check once a minute so a tab
+     left open overnight follows the clock without a reload. */
+  setInterval(() => {
+    const now = lampOn();
+    if (now !== App._lampWas) { App._lampWas = now; applySettings(); applyChrome(); }
+  }, 60000);
+  App._lampWas = lampOn();
 }
 
 function restoreReadingPosition() {
@@ -1129,8 +1408,25 @@ function restoreReadingPosition() {
    shards already read are served from disk, and the next deploy replaces the
    cache through the version in sw.js. A browser without service workers, or
    a copy opened from file://, simply keeps working online. */
+/* The worker's shell cache exists for repeat visits on the real host. On any
+   local address — localhost, loopback, a LAN IP, a dev tunnel name — it must
+   stay out of the way: a stale shell there reads as "my edits did nothing". */
+function isLocalAddress(hostname) {
+  const h = String(hostname || '').toLowerCase();
+  return h === 'localhost' || h.endsWith('.localhost') || h === '::1' || h === '[::1]'
+    || /^127\./.test(h)
+    || /^10\./.test(h) || /^192\.168\./.test(h) || /^172\.(1[6-9]|2\d|3[01])\./.test(h)
+    || h.endsWith('.local') || h.endsWith('.test') || h.endsWith('.invalid');
+}
+
 function registerServiceWorker() {
   if (!('serviceWorker' in navigator) || !/^https?:$/.test(location.protocol)) return;
+  if (isLocalAddress(location.hostname)) {
+    navigator.serviceWorker.getRegistrations()
+      .then(rs => rs.forEach(r => r.unregister()))
+      .catch(() => {});
+    return;
+  }
   navigator.serviceWorker.register('sw.js').catch(() => {});
 }
 
@@ -1149,7 +1445,9 @@ function renderStats() {
   setText('heroImages', faNum(s.uniqueImages ?? s.images ?? 0));
   setText('heroLines', faNum(translatedPosts));
   setText('heroPosts', faNum(s.posts ?? 0));
-  setText('journalCount', faNum(App.index.journals.length));
+  /* The rail list under this badge holds journals only — topics live in their
+     own view — so the count must not include them. */
+  setText('journalCount', faNum((App.index.journals || []).filter(j => !isTopic(j)).length));
   // The masthead headline counts the journals in words, so it follows the
   // build instead of a number frozen into the markup when the site was written.
   setText('mastCount', faNum(s.journals ?? App.index.journals.length));
@@ -1215,10 +1513,12 @@ function renderHome() {
   const journals = orderedJournals();
   grid.innerHTML = journals.map((j, i) => {
     const rank = priorityRank(j.id);
+    const ps = progressStats(j.id, j.posts);
+    const prog = ps.pct ? `<span class="idx-prog" title="${faNum(ps.read)} از ${faNum(ps.total)} پست خوانده شده"><i style="width:${ps.pct}%"></i></span>` : '';
     return `
     <a class="index-row${rank ? ' is-priority' : ''}" href="#/j/${encodeURIComponent(j.id)}/1">
       <span class="idx-num">${faNum(i + 1)}</span>
-      <span class="idx-name"><bdi dir="auto">${esc(j.name)}</bdi>${rank ? `<span class="idx-priority">اولویت ${faNum(rank)}</span>` : ''}</span>
+      <span class="idx-name"><bdi dir="auto">${esc(j.name)}</bdi>${rank ? `<span class="idx-priority">اولویت ${faNum(rank)}</span>` : ''}${prog}</span>
       <span class="idx-title"><bdi dir="auto">${esc(j.title || '')}</bdi></span>
       <span class="idx-cell"><b>${faNum(j.posts)}</b> پست</span>
       <span class="idx-cell is-accent"><b>${faNum(j.images)}</b> تصویر</span>
@@ -1257,17 +1557,19 @@ function openTopics() {
   const grid = $('#topicGrid');
   const topics = orderedTopics();
   if (grid) {
-    grid.innerHTML = topics.map((j, i) => `
+    grid.innerHTML = topics.map((j, i) => {
+      const ps = progressStats(j.id, j.posts);
+      const prog = ps.pct ? `<span class="idx-prog" title="${faNum(ps.read)} از ${faNum(ps.total)} پست خوانده شده"><i style="width:${ps.pct}%"></i></span>` : '';
+      return `
     <a class="index-row" href="#/j/${encodeURIComponent(j.id)}/1">
       <span class="idx-num">${faNum(i + 1)}</span>
-      <span class="idx-name"><bdi dir="auto">${esc(j.name)}</bdi></span>
+      <span class="idx-name"><bdi dir="auto">${esc(j.name)}</bdi>${prog}</span>
       <span class="idx-title"><bdi dir="auto">${esc(j.title || '')}</bdi></span>
       <span class="idx-cell"><b>${faNum(j.posts)}</b> پست</span>
       <span class="idx-cell is-accent"><b>${faNum(j.images)}</b> تصویر</span>
-    </a>`).join('');
+    </a>`;
+    }).join('');
   }
-  const count = $('#topicCount');
-  if (count) count.textContent = faNum(topics.length);
   const pages = topics.reduce((s, j) => s + (j.pages || 0), 0);
   const posts = topics.reduce((s, j) => s + (j.posts || 0), 0);
   const meta = $('#topicMeta');
@@ -1288,7 +1590,17 @@ function route() {
   const plateRoute = view === 'i' && !!(parts[1] && parts[3]);
   if (!plateRoute) closeViewer();
   if (document.body.classList.contains('search-open')) setSearchOpen(false);
-  if (view === 'home' || view === '') { showView('home'); syncActiveNav(); return; }
+  if (view === 'home' || view === '') {
+    showView('home');
+    /* Hash routing never reloads the page, so the shelf, the progress chips
+       and the recent rail would otherwise keep whatever they rendered at
+       boot — a post read a minute ago would be missing until F5. */
+    renderHome();
+    renderShelf();
+    renderReadingRail();
+    syncActiveNav();
+    return;
+  }
   if (view === 'j' && parts[1]) { openJournal(parts[1], num(parts[2]) || 1, null, null); return; }
   if (view === 'p' && parts[1] && parts[3]) { openPost(parts[1], num(parts[2]) || 1, parts[3]); return; }
   if (view === 'p' && parts[1]) { openJournal(parts[1], num(parts[2]) || 1, null, null); return; }
@@ -1445,13 +1757,78 @@ function renderJournalHeaderPlaceholder(meta) {
   $('#journalPagerBottom').innerHTML = '';
 }
 
+/* Reading aids on the journal page itself: unread-only filter, an in-journal
+   text filter, and a star for «still reading this». Injected once, rebound
+   per journal through App.currentJournal. */
+function injectJournalTools(journal) {
+  const sub = $('#journalSubtitle');
+  if (!sub) return;
+  if (!$('#journalTools')) {
+    sub.insertAdjacentHTML('afterend', `
+      <div class="journal-tools" id="journalTools">
+        <button class="text-action" id="unreadToggle" type="button" title="فقط پست‌هایی که هنوز نخوانده‌اید">فقط خوانده‌نشده‌ها</button>
+        <input class="jfilter" id="journalFilterInput" type="search" placeholder="فیلتر در همین ژورنال…" aria-label="فیلتر در همین ژورنال">
+        <button class="text-action" id="journalMark" type="button" title="نشان‌کردن ژورنال برای مرور بعدی">★ ژورنال</button>
+      </div>`);
+    const tools = $('#journalTools');
+    tools.addEventListener('click', (e) => {
+      const b = e.target.closest('button');
+      if (!b || !App.currentJournal) return;
+      if (b.id === 'unreadToggle') {
+        App.unreadOnly = !App.unreadOnly;
+        b.classList.toggle('is-on', App.unreadOnly);
+        b.textContent = App.unreadOnly ? 'همهٔ پست‌ها' : 'فقط خوانده‌نشده‌ها';
+        renderJournalPage();
+      } else if (b.id === 'journalMark') {
+        toggleJournalMark(App.currentJournal.id);
+        syncJournalMark();
+      }
+    });
+    tools.querySelector('#journalFilterInput').addEventListener('input', (e) => {
+      App.journalFilter = e.target.value;
+      renderJournalPage();
+    });
+  }
+  const inp = $('#journalFilterInput');
+  if (inp && inp.value !== App.journalFilter) inp.value = App.journalFilter || '';
+  const tog = $('#unreadToggle');
+  if (tog) { tog.classList.toggle('is-on', !!App.unreadOnly); tog.textContent = App.unreadOnly ? 'همهٔ پست‌ها' : 'فقط خوانده‌نشده‌ها'; }
+  syncJournalMark();
+}
+
+function syncJournalMark() {
+  const b = $('#journalMark');
+  if (!b || !App.currentJournal) return;
+  const on = isJournalMarked(App.currentJournal.id);
+  b.classList.toggle('is-on', on);
+  b.textContent = on ? '★ نشان‌شده' : '☆ ژورنال';
+  b.title = on ? 'برداشتن نشان از ژورنال' : 'نشان‌کردن ژورنال برای مرور بعدی';
+}
+
+/* The next post in journal order the reader has not seen yet — one tap
+   forward instead of scrolling to find it. */
+function appendNextUnread(journal, post) {
+  const nav = $('#postDetailNav');
+  if (!nav || !journal || !post) return;
+  const posts = journal.posts || [];
+  const i = posts.findIndex(p => p.id === post.id);
+  if (i < 0) return;
+  const next = posts.slice(i + 1).find(p => !isPostRead(journal.id, p.id));
+  if (!next) return;
+  const page = next.p ?? next.pageNum ?? 1;
+  nav.insertAdjacentHTML('beforeend',
+    `<a class="pager-btn" href="${postHref(journal.id, page, next.id)}">${icon('arrow-left')} پستِ خوانده‌نشدهٔ بعدی</a>`);
+}
+
 function renderJournalHeader(journal) {
   $('#journalTitle').innerHTML = `<bdi dir="auto">${esc(journal.name)}</bdi>`;
+  const ps = progressStats(journal.id, journal.posts.length);
   $('#journalSubtitle').innerHTML = [
     `${faNum(journal.pages)} صفحه`,
     `${faNum(journal.posts.length)} پست`,
     `${faNum(journal.imageCount ?? journal.images.length)} تصویر`,
     journal.title ? `<bdi dir="auto">${esc(journal.title)}</bdi>` : '',
+    `<span class="prog-chip" id="journalProg" title="پست‌های دیده‌شده"><span class="prog-bar"><i style="width:${ps.pct}%"></i></span> ${faNum(ps.pct)}٪ خوانده‌شده</span>`,
   ].filter(Boolean).join(' <span class="sep">·</span> ');
   const sel = $('#pageSelect');
   sel.innerHTML = Array.from({ length: journal.pages }, (_, i) => `<option value="${i + 1}">${faNum(i + 1)}</option>`).join('');
@@ -1459,6 +1836,7 @@ function renderJournalHeader(journal) {
   sel.onchange = () => go(`j/${encodeURIComponent(journal.id)}/${sel.value}`);
   $('#pageOf').innerHTML = `<b>${faNum(App.currentPage)}</b> از ${faNum(journal.pages)}`;
   wirePageButtons(journal);
+  injectJournalTools(journal);
   const original = $('#openOriginal');
   if (original) {
     const url = originalPageUrl(journal, App.currentPage);
@@ -1555,7 +1933,13 @@ function renderJournalPage() {
   const journal = App.currentJournal;
   if (!journal) return;
   const box = $('#journalPosts');
-  const posts = journal.posts.filter(p => (p.p ?? p.pageNum) === App.currentPage);
+  let posts = journal.posts.filter(p => (p.p ?? p.pageNum) === App.currentPage);
+  const q = (App.journalFilter || '').trim().toLowerCase();
+  if (q) posts = posts.filter(p =>
+    String(p.t || p.text || '').toLowerCase().includes(q) ||
+    String(p.fa || '').toLowerCase().includes(q) ||
+    String(p.a || p.author || '').toLowerCase().includes(q));
+  if (App.unreadOnly) posts = posts.filter(p => !isPostRead(journal.id, p.id));
   App.currentPagePosts = posts;
   const sel = $('#pageSelect');
   if (sel) sel.value = String(App.currentPage);
@@ -1570,6 +1954,7 @@ function renderJournalPage() {
   const map = imageMap(journal);
   box.innerHTML = posts.map(p => renderPostCard(p, journal, map)).join('');
   wirePlateImages(box);
+  wireReadTracking(box);
 }
 
 /* The ledger row is the article: a hairline, a number, a name, then text.
@@ -1581,40 +1966,68 @@ function renderPostCard(post, journal, map) {
   const pnum = post.p ?? post.pageNum ?? App.currentPage;
   const author = post.a || post.author || '—';
   const date = post.d || post.date || '';
+  const rank = post.r || post.rank || '';
   const number = post.n || post.number || pidLabel(post);
   const detailHref = postHref(journal.id, pnum, post.id);
   const saved = !!findBookmark(journal.id, post.id);
-  const plates = imgs.map(key => {
+  /* `ib` anchors a plate to the paragraph it follows, so a chart sitting
+     between two paragraphs stays between them instead of being swept into
+     the gallery under the whole post. Plates without an anchor keep the old
+     trailing gallery. */
+  const figures = new Map();
+  const seenKeys = new Set();
+  for (const key of imgs) {
+    if (seenKeys.has(key)) continue;
+    seenKeys.add(key);
     const im = map.get(key);
-    return im ? renderFigure(im, post) : '';
-  }).join('');
+    if (!im) continue;
+    const fig = renderFigure(im, post);
+    if (fig) figures.set(key, fig);
+  }
+  const anchors = new Map();
+  const anchored = new Set();
+  for (const [key, after] of Object.entries(post.ib || {})) {
+    if (!figures.has(key)) continue;
+    const at = Number(after);
+    if (!Number.isFinite(at) || at < 0) continue;
+    if (!anchors.has(at)) anchors.set(at, []);
+    anchors.get(at).push(figures.get(key));
+    anchored.add(key);
+  }
+  const plates = [];
+  for (const [key, fig] of figures) if (!anchored.has(key)) plates.push(fig);
   const gap = plateGapInfo(post, map);
-  const shown = new Set(imgs).size;
+  const shown = new Set(imgs.filter(k => { const im = map.get(k); return im && !isTinyPlate(im); })).size;
   const body = (() => {
-    if (!fa) return `<div class="article-text" data-post-text dir="auto" lang="en">${singleLangHTML(post, 'en')}</div>`;
+    if (!fa) return `<div class="article-text" data-post-text dir="auto" lang="en">${singleLangHTML(post, 'en', anchors)}</div>`;
     const mode = cardLanguage();
-    if (mode === 'fa') return `<div class="article-text" data-post-text dir="rtl" lang="fa">${singleLangHTML(post, 'fa')}</div>`;
-    if (mode === 'en') return `<div class="article-text" data-post-text dir="ltr" lang="en">${singleLangHTML(post, 'en')}</div>`;
+    if (mode === 'fa') return `<div class="article-text" data-post-text dir="rtl" lang="fa">${singleLangHTML(post, 'fa', anchors)}</div>`;
+    if (mode === 'en') return `<div class="article-text" data-post-text dir="ltr" lang="en">${singleLangHTML(post, 'en', anchors)}</div>`;
     /* Dual in the card itself — each paragraph, original above, Persian beneath. */
-    return `<div class="dual" data-post-text>${dualRowsHTML(post)}</div>`;
+    return `<div class="dual" data-post-text>${dualRowsHTML(post, anchors)}</div>`;
   })();
   return `<article class="article" id="post-${esc(post.id)}" data-post-id="${esc(post.id)}" data-jid="${esc(journal.id)}">
     <div class="article-head">
       <span class="article-num" dir="ltr">${esc(number)}</span>
       <span class="article-author" dir="auto">${esc(author)}</span>
+      ${rank ? `<span class="article-rank" dir="auto" title="${esc(rank)}">${rankBadgeHTML(rank)}${esc(rankLabel(rank))}</span>` : ''}
       ${date ? `<span class="article-date" dir="ltr">${esc(date)}</span>` : ''}
       <span class="article-page">ص ${faNum(pnum)}</span>
       ${shown || gap.n ? `<span class="article-page" title="${gap.n ? esc(faNum(gap.n) + ' تصویرِ دیگرِ این پست در آرشیو موجود نیست') : ''}">${icon('image')} ${faNum(shown)}${gap.n ? `<span class="page-gap">+${faNum(gap.n)}</span>` : ''}</span>` : ''}
       ${fa ? '<span class="tag is-gloss" title="متن فارسی این پست ترجمه شده است">' + icon('translate') + ' ترجمهٔ فارسی</span>' : ''}
       <span class="dot-leader"></span>
+      <a class="text-action article-jump" href="${detailHref}" title="پست کامل" aria-label="پست کامل">${icon('external')}</a>
       <button class="text-action${saved ? ' is-on' : ''}" type="button" data-action="bookmark" data-bookmark-btn
         data-jid="${esc(journal.id)}" data-pid="${esc(post.id)}" aria-pressed="${saved}"
         title="${saved ? 'برداشتن نشان' : 'نشان‌کردن این پست'}">${icon(saved ? 'bookmark-on' : 'bookmark')}</button>
       <button class="text-action" type="button" data-action="copy-post" title="کپی پیوند این پست">${icon('copy')}</button>
+      <button class="text-action${isPostRead(journal.id, post.id) ? ' is-on' : ''}" type="button" data-action="read-toggle"
+        data-jid="${esc(journal.id)}" data-pid="${esc(post.id)}" aria-pressed="${isPostRead(journal.id, post.id)}"
+        title="${isPostRead(journal.id, post.id) ? 'خوانده‌نشده علامت بزن' : 'خوانده‌شده علامت بزن'}">${icon(isPostRead(journal.id, post.id) ? 'check' : 'eye')}</button>
     </div>
     ${threadLine(post, journal)}
     ${body}
-    ${plates || gap.n ? `<div class="plates">${plates}${plateGapNotice(post, map)}</div>` : ''}
+    ${plates.length || gap.n ? `<div class="plates">${plates.join('')}${plateGapNotice(post, map)}</div>` : ''}
     <div class="article-foot">
       <a class="article-more link-end" href="${detailHref}">${imgs.length ? 'جزئیات پست و تصویرها' : 'پست کامل'} ${icon('arrow-left')}</a>
     </div>
@@ -1623,7 +2036,16 @@ function renderPostCard(post, journal, map) {
 
 /* A plate is the image unit. The frame keeps its aspect ratio before the bytes
    arrive, so the page never jumps under the reader. */
+/* Avatars, rank icons and smileys are card chrome, not plates — the forum
+   avatar is ~60px and would only ever render as a meaningless thumbnail. */
+function isTinyPlate(im) {
+  const w = (im && im.w) || 0;
+  const h = (im && im.h) || 0;
+  return !!(w && h && w <= 96 && h <= 96);
+}
+
 function renderFigure(im, post) {
+  if (isTinyPlate(im)) return '';
   const key = im.k;
   const full = im.f || im.asset || '';
   const thumb = im.t || im.thumb || full;
@@ -1746,7 +2168,11 @@ async function openPost(jid, page = 1, pid = '') {
     renderPostDetail();
     prefetchJournalPage(jid, App.currentPage + 1);
     prefetchJournalPage(jid, App.currentPage - 1);
-    recordReading(jid, App.currentPage, pid, post.n || pidLabel(post));
+    recordReading(jid, App.currentPage, pid, post.n || pidLabel(post), post.a || '');
+    markPostRead(jid, pid);
+    const mins = estimateReadMinutes(post);
+    const sub = $('#postSubtitle');
+    if (sub && mins) sub.insertAdjacentHTML('beforeend', ` <span class="sep">·</span> حدود ${faNum(mins)} دقیقه مطالعه`);
   } catch (e) {
     if (token !== App.journalToken) return;
     $('#postDetailText').innerHTML = errorState('پست بارگذاری نشد', e.message);
@@ -1763,6 +2189,7 @@ function renderPostDetail() {
   const imgs = Array.isArray(post.im) ? post.im : (post.images || []);
   const author = post.a || post.author || '—';
   const date = post.d || post.date || '';
+  const rank = post.r || post.rank || '';
   const number = post.n || post.number || pidLabel(post);
   const view = fa ? d.view : 'en';
   if (d.view !== view) d.view = view;
@@ -1772,12 +2199,12 @@ function renderPostDetail() {
   const gapEarly = post.gap ? Object.keys(post.gap).length : 0;
   $('#postSubtitle').innerHTML = [
     `<bdi dir="auto">${esc(author)}</bdi>`,
+    rank ? `<span class="article-rank" dir="auto" title="${esc(rank)}">${rankBadgeHTML(rank)}${esc(rankLabel(rank))}</span>` : '',
     date ? `<span dir="ltr">${esc(date)}</span>` : '',
     `صفحهٔ ${faNum(pnum)}`,
     (imgs.length || gapEarly) ? `${faNum(new Set(imgs).size)} تصویر${gapEarly ? ` <span class="gap-inline">(+${faNum(gapEarly)} در آرشیو نیست)</span>` : ''}` : '',
     fa ? `<span class="tag is-gloss">${icon('translate')} ترجمهٔ فارسی</span>`
        : `<span class="tag is-none">${icon('info')} ترجمهٔ فارسی موجود نیست</span>`,
-    post.m ? `<span class="mid-chip" dir="ltr" title="شمارهٔ این پیام در انجمنِ اصلی">msg&nbsp;${esc(String(post.m))}</span>` : '',
   ].filter(Boolean).join('<span class="sep">·</span>');
 
   $('#postBack').onclick = () => go(`j/${encodeURIComponent(journal.id)}/${pnum}`);
@@ -1800,9 +2227,40 @@ function renderPostDetail() {
     threadBox.hidden = !line;
   }
 
+  /* Some print posts interleave prose and charts. `ib` maps a plate to the
+     paragraph it follows, so the chart stays where the author put it instead
+     of being swept into a gallery below the whole post. */
+  const map = imageMap(journal);
+  const seen = new Set();
+  const figures = new Map();
+  for (const key of imgs) {
+    if (seen.has(key)) continue;
+    seen.add(key);
+    const im = map.get(key);
+    if (im) figures.set(key, renderDetailFigure(im, post));
+  }
+  const anchors = new Map();
+  const anchored = new Set();
+  for (const [key, after] of Object.entries(post.ib || {})) {
+    if (!figures.has(key)) continue;
+    const at = Number(after);
+    if (!Number.isFinite(at) || at < 0) continue;
+    if (!anchors.has(at)) anchors.set(at, []);
+    anchors.get(at).push(figures.get(key));
+    anchored.add(key);
+  }
+
+  /* Above 1100px the detail page is two columns: the prose and a sticky plate
+     column. A plate drawn inside the text would leave that column empty and
+     squeeze the prose into half the page, so there the plates move into the
+     column in the author's order; below the breakpoint they stay inline. */
+  const sideBySide = window.matchMedia('(min-width:1101px)').matches;
+  const inlineAnchors = sideBySide ? new Map() : anchors;
+
   const textBox = $('#postDetailText');
   textBox.dataset.view = view;
-  textBox.innerHTML = postTextHTML(post, text, fa, d);
+  textBox.innerHTML = postTextHTML(post, text, fa, d, inlineAnchors);
+  wirePlateImages(textBox);
   $$('#viewPost [data-post-tab]').forEach(t => {
     const on = t.dataset.postTab === view;
     t.classList.toggle('is-active', on);
@@ -1815,19 +2273,18 @@ function renderPostDetail() {
     t.title = impossible ? 'این پست ترجمهٔ فارسی ندارد' : '';
   });
 
-  const map = imageMap(journal);
-  const seen = new Set();
   const plates = [];
-  for (const key of imgs) {
-    if (seen.has(key)) continue;
-    seen.add(key);
-    const im = map.get(key);
-    if (!im) continue;
-    plates.push(renderDetailFigure(im, post));
+  if (sideBySide) {
+    for (const at of [...anchors.keys()].sort((a, b) => a - b)) plates.push(...anchors.get(at));
+  }
+  for (const [key, fig] of figures) {
+    if (!anchored.has(key)) plates.push(fig);
   }
   const gap = plateGapInfo(post, map);
-  if (!plates.length && !gap.n) {
+  if (!plates.length && !anchored.size && !gap.n) {
     $('#postDetailMedia').innerHTML = `<div class="footnote">${icon('image-off')}<span>تصویری ثبت نشده است.</span></div>`;
+  } else if (!plates.length && !gap.n) {
+    $('#postDetailMedia').innerHTML = '';
   } else {
     /* "no image was recorded" was the old wording whenever nothing resolved, and
      * it is wrong: the post did record plates, the bytes are what is missing. */
@@ -1837,18 +2294,20 @@ function renderPostDetail() {
   wirePlateImages($('#postDetailMedia'));
 
   renderPostDetailNav();
+  syncPostReadBtn();
+  appendNextUnread(journal, post);
 }
 
 /* The reading pane. Bilingual mode puts the English it was written in and the
    Persian under it in one ruled pair, so checking a sentence never costs a tab
    switch. "پاراگراف" keeps each language whole for continuous reading. */
-function postTextHTML(post, text, fa, d) {
+function postTextHTML(post, text, fa, d, anchors) {
   const view = d.view || 'both';
   const enBox = text
-    ? `<div class="paras-en" dir="ltr" lang="en">${singleLangHTML(post, 'en')}</div>`
+    ? `<div class="paras-en" dir="ltr" lang="en">${singleLangHTML(post, 'en', anchors)}</div>`
     : `<div class="footnote">${icon('info')}<span>متنی برای این پست ثبت نشده است.</span></div>`;
   const faBox = fa
-    ? `<div class="article-text" dir="rtl" lang="fa">${singleLangHTML(post, 'fa')}</div>`
+    ? `<div class="article-text" dir="rtl" lang="fa">${singleLangHTML(post, 'fa', anchors)}</div>`
     : '';
   const label = (kind) => `<div class="rule-head is-first"><h2>${kind === 'fa' ? 'ترجمهٔ فارسی' : kind === 'both' ? 'دوزبانه' : 'متن اصلی'}</h2></div>`;
 
@@ -1857,7 +2316,7 @@ function postTextHTML(post, text, fa, d) {
     return `${label('fa')}${faBox || `<div class="footnote">${icon('info')}<span>ترجمه‌ای برای این پست نیست.</span></div>`}`;
   }
   if (!fa) return `${label('en')}${enBox}`;
-  return `${label('both')}<div class="dual">${dualRowsHTML(post)}</div>`;
+  return `${label('both')}<div class="dual">${dualRowsHTML(post, anchors)}</div>`;
 }
 
 function paragraphsHTML(value) {
@@ -2031,23 +2490,46 @@ function quoteRowHTML(en, fa) {
   return quoteHTML(who, bodies, verb);
 }
 
-function dualRowsHTML(post) {
-  return pairPostParagraphs(post).map(({ en, fa }) => {
-    if ((en && en.who) || (fa && fa.who)) return quoteRowHTML(en, fa);
-    const out = [];
-    if (en) out.push(`<div class="dual-en" dir="ltr" lang="en"><p>${esc(en.text)}</p></div>`);
-    if (fa) out.push(`<div class="dual-fa" dir="rtl" lang="fa"><p>${esc(fa.text)}</p></div>`);
-    return out.join('');
-  }).join('');
+function anchorHTML(anchors, after) {
+  const figs = anchors && anchors.get(after);
+  return figs && figs.length ? `<div class="post-inline-plates">${figs.join('')}</div>` : '';
 }
 
-function singleLangHTML(post, lang) {
+/* Anchor indexes count source paragraphs; quote-head merging and the fa
+   regroup can leave the rendered model shorter, so an anchor past the last
+   row is flushed at the end rather than dropped with its plate. */
+function anchorTailHTML(anchors, count) {
+  if (!anchors || !anchors.size) return '';
+  let out = '';
+  for (const k of [...anchors.keys()].sort((a, b) => a - b)) {
+    if (k > count) out += anchorHTML(anchors, k);
+  }
+  return out;
+}
+
+function dualRowsHTML(post, anchors) {
+  const rows = pairPostParagraphs(post);
+  return anchorHTML(anchors, 0) + rows.map(({ en, fa }, i) => {
+    let body;
+    if ((en && en.who) || (fa && fa.who)) body = quoteRowHTML(en, fa);
+    else {
+      const out = [];
+      if (en) out.push(`<div class="dual-en" dir="ltr" lang="en"><p>${esc(en.text)}</p></div>`);
+      if (fa) out.push(`<div class="dual-fa" dir="rtl" lang="fa"><p>${esc(fa.text)}</p></div>`);
+      body = out.join('');
+    }
+    return body + anchorHTML(anchors, i + 1);
+  }).join('') + anchorTailHTML(anchors, rows.length);
+}
+
+function singleLangHTML(post, lang, anchors) {
   const en = paragraphModel(post.t || post.text || '');
   const models = lang === 'fa' ? faParagraphModels(post, en.length) : en;
-  return models.map(m => m.who
-    ? quoteHTML(m.who, [{ lang, text: m.body }], lang)
-    : `<p>${esc(m.text)}</p>`
-  ).join('');
+  return anchorHTML(anchors, 0) + models.map((m, i) =>
+    (m.who
+      ? quoteHTML(m.who, [{ lang, text: m.body }], lang)
+      : `<p>${esc(m.text)}</p>`) + anchorHTML(anchors, i + 1)
+  ).join('') + anchorTailHTML(anchors, models.length);
 }
 
 /* Split raw text into atomic blocks: forum paragraphs (\n\n) AND sentence
@@ -2209,6 +2691,7 @@ function quoteInline(block) {
 }
 
 function renderDetailFigure(im, post) {
+  if (isTinyPlate(im)) return '';
   const key = im.k;
   const full = im.f || im.asset || '';
   const thumb = im.t || im.thumb || full;
@@ -2295,7 +2778,7 @@ function openViewerForPostImage(key) {
     if (seen.has(k)) continue;
     seen.add(k);
     const im = map.get(k);
-    if (!im) continue;
+    if (!im || isTinyPlate(im)) continue;
     items.push({ ...im, pid: d.post.id, p: d.post.p ?? d.post.pageNum ?? d.page });
   }
   if (!items.length) return;
@@ -2337,6 +2820,15 @@ function setupPostView() {
   view.dataset.bound = '1';
   view.addEventListener('click', handlePostClick);
   view.addEventListener('keydown', plateKeyActivate);
+  /* Crossing the 1100px breakpoint changes where the plates live, so the open
+     post is rebuilt instead of being left with an empty second column. */
+  const wide = window.matchMedia('(min-width:1101px)');
+  const onWideChange = () => {
+    if (!App.postDetail || !view.classList.contains('is-active')) return;
+    renderPostDetail();
+  };
+  if (wide.addEventListener) wide.addEventListener('change', onWideChange);
+  else if (wide.addListener) wide.addListener(onWideChange);
   $('#postCopy')?.addEventListener('click', copyPostText);
   $('#postExport')?.addEventListener('click', exportPostMarkdown);
   $('#postBookmark')?.addEventListener('click', () => {
@@ -2348,6 +2840,27 @@ function setupPostView() {
   });
   $('#postFontMinus')?.addEventListener('click', () => setTextSize(-1));
   $('#postFontPlus')?.addEventListener('click', () => setTextSize(1));
+  $('#postSpeak')?.addEventListener('click', () => {
+    const d = App.postDetail;
+    if (!d || !d.post) return;
+    if (!('speechSynthesis' in window)) { showToast('خواندن با صدا در این مرورگر نیست'); return; }
+    if (window.speechSynthesis.speaking) { window.speechSynthesis.cancel(); return; }
+    const text = ((d.view === 'en' ? (d.post.t || d.post.text) : d.post.fa) || d.post.t || d.post.text || '')
+      .replace(/\s+/g, ' ').trim().slice(0, 4000);
+    if (!text) { showToast('متنی برای خواندن نیست'); return; }
+    const u = new SpeechSynthesisUtterance(text);
+    u.lang = d.view === 'en' ? 'en-US' : 'fa-IR';
+    u.rate = 0.95;
+    const v = speechSynthesis.getVoices().find(v => v.lang && v.lang.toLowerCase().startsWith(u.lang.slice(0, 2)));
+    if (v) u.voice = v;
+    speechSynthesis.speak(u);
+  });
+  $('#postRead')?.addEventListener('click', () => {
+    const d = App.postDetail;
+    if (!d || !d.post || !d.journal) return;
+    const on = togglePostRead(d.journal.id, d.post.id);
+    syncPostReadBtn();
+  });
   $$('#viewPost [data-post-tab]').forEach(tab => {
     tab.addEventListener('click', () => setPostView(tab.dataset.postTab, true));
   });
@@ -2371,9 +2884,11 @@ function setupViewer() {
   $('#lbZoomActual')?.addEventListener('click', () => setZoom(1));
   $('#lbFullscreen')?.addEventListener('click', toggleViewerFullscreen);
   $('#lbAnnotate')?.addEventListener('click', () => {
-    const on = window.Anno ? Anno.toggleAnno() : false;
-    const status = $('#lbStatus');
-    if (status) status.textContent = on ? 'حالت یادداشت روشن است — ابزاری را از نوار ابزار برگزینید' : 'حالت یادداشت خاموش شد';
+    ensureAnnotate().then(ok => {
+      const on = ok ? Anno.toggleAnno() : false;
+      const status = $('#lbStatus');
+      if (status) status.textContent = on ? 'حالت یادداشت روشن است — ابزاری را از نوار ابزار برگزینید' : 'حالت یادداشت خاموش شد';
+    });
   });
   // A double-click is a request to see that corner properly: it zooms into the
   // point under the cursor, and a second double-click gives the whole plate back.
@@ -2461,7 +2976,7 @@ function openViewerForImage(key, postId) {
   for (const post of App.currentPagePosts) {
     for (const k of (post.im || [])) {
       const im = map.get(k);
-      if (!im || seen.has(k)) continue;
+      if (!im || isTinyPlate(im) || seen.has(k)) continue;
       // One entry per unique plate: the same chart is often posted by several
       // people, and paging through duplicates looks like a broken viewer.
       seen.add(k);
@@ -2564,7 +3079,9 @@ function renderViewer() {
   }
   /* Marks are loaded for every plate, not only in note mode: the reader who
      wrote on a chart last week expects to see those notes the moment it opens. */
-  if (window.Anno) Anno.show(im.k, { ...im, jid: journal && journal.id }, journal);
+  ensureAnnotate().then(ok => {
+    if (ok) Anno.show(im.k, { ...im, jid: journal && journal.id }, journal);
+  });
 }
 
 function openViewerPost() {
@@ -3436,7 +3953,7 @@ function renderGallery() {
   for (const im of App.gallery.items) {
     if (seen.has(im.k)) continue;
     seen.add(im.k);
-    all.push(im);
+    if (!isTinyPlate(im)) all.push(im);
   }
   const list = all.slice(0, App.gallery.limit);
   $('#galleryCount').innerHTML = `${faNum(list.length)} از ${faNum(all.length)} تصویرِ یکتا در <bdi dir="auto">${esc(journal.name)}</bdi>`;
@@ -3484,7 +4001,9 @@ function openNotes(query) {
   syncActiveNav();
   const input = $('#notesFilter');
   if (input && query && input.value !== query) input.value = query;
-  if (window.Anno) Anno.renderNotesView(input ? input.value : '');
+  ensureAnnotate().then(ok => {
+    if (ok) Anno.renderNotesView(input ? input.value : '');
+  });
 }
 
 function setupNotesView() {
@@ -3584,6 +4103,35 @@ function handleJournalClick(e) {
       });
       break;
     }
+    case 'read-toggle': {
+      e.preventDefault();
+      const jid = action.dataset.jid || (journal && journal.id);
+      const pid = action.dataset.pid || postId;
+      if (!jid || !pid) break;
+      const on = togglePostRead(jid, pid);
+      action.classList.toggle('is-on', on);
+      action.setAttribute('aria-pressed', String(on));
+      action.title = on ? 'خوانده‌نشده علامت بزن' : 'خوانده‌شده علامت بزن';
+      const ic = action.querySelector('svg use');
+      if (ic) ic.setAttribute('href', on ? '#i-check' : '#i-eye');
+      break;
+    }
+    case 'dismiss-reading': {
+      e.preventDefault();
+      const jid = action.dataset.jid;
+      const pid = action.dataset.pid;
+      if (!jid || !pid) break;
+      const key = bookmarkKey(jid, pid);
+      const before = App.reading.length;
+      App.reading = App.reading.filter(r => bookmarkKey(r.jid, r.pid) !== key);
+      if (App.reading.length !== before) {
+        saveReading();
+        showToast('از ادامهٔ مطالعه حذف شد');
+      }
+      renderShelf();
+      renderReadingRail();
+      break;
+    }
     case 'unbookmark': {
       e.preventDefault();
       const jid = action.dataset.jid;
@@ -3618,7 +4166,17 @@ function handleJournalClick(e) {
 
 function toggleFocusMode() {
   updateSetting('focus', !App.settings.focus);
-  showToast(App.settings.focus ? 'حالت تمرکز روشن شد' : 'حالت تمرکز خاموش شد');
+  const on = !!App.settings.focus;
+  showToast(on ? 'حالت تمرکز روشن شد' : 'حالت تمرکز خاموش شد');
+  /* Real fullscreen when the browser allows it (the click is a user gesture);
+     failure is silent — the CSS immersive layout still applies. */
+  try {
+    if (on && !document.fullscreenElement) {
+      document.documentElement.requestFullscreen?.().catch(() => {});
+    } else if (!on && document.fullscreenElement) {
+      document.exitFullscreen?.().catch(() => {});
+    }
+  } catch (_) { /* fullscreen unavailable */ }
 }
 
 /* ============================== events ============================== */
@@ -3694,6 +4252,7 @@ function setupEvents() {
   $('#savedClear')?.addEventListener('click', clearBookmarks);
 
   $('#themeBtn')?.addEventListener('click', () => updateSetting('lamp', !App.settings.lamp));
+  $('#dayBtn')?.addEventListener('click', () => updateSetting('theme', App.settings.theme === 'dark' ? 'paper' : 'dark'));
   $('#settingsBtn')?.addEventListener('click', openSettings);
   $('#menuBtn')?.addEventListener('click', toggleRail);
   $('#sideBackdrop')?.addEventListener('click', () => { App.railOpen = false; syncRail(); });
@@ -3770,6 +4329,77 @@ function setupEvents() {
 
 /* ============================== settings events ============================== */
 
+/* Random discovery: pick a journal, a page inside it, then a post on that
+   page. The chunks it needs are the same ones a deep link would load. */
+async function goRandomPost() {
+  const js = orderedJournals().filter(j => (j.posts || 0) > 0 && (j.pages || 0) > 0);
+  if (!js.length) return;
+  for (let tries = 0; tries < 4; tries++) {
+    const j = js[Math.floor(Math.random() * js.length)];
+    const page = 1 + Math.floor(Math.random() * j.pages);
+    try {
+      const journal = await ensureJournal(j.id);
+      await ensureJournalPage(j.id, page);
+      const posts = (journal.posts || []).filter(p => (p.p ?? p.pageNum) === page);
+      if (!posts.length) continue;
+      const post = posts[Math.floor(Math.random() * posts.length)];
+      go(postHref(j.id, page, post.id));
+      return;
+    } catch { /* try another journal */ }
+  }
+  showToast('پستِ تصادفی پیدا نشد؛ دوباره تلاش کنید');
+}
+
+/* Personal backup: bookmarks, reading history, progress and settings in one
+   JSON file. Nothing leaves the machine — the file is the user's to keep. */
+function exportUserData() {
+  const data = {
+    v: 1,
+    exportedAt: new Date().toISOString(),
+    settings: App.settings,
+    bookmarks: App.bookmarks,
+    reading: App.reading,
+    progress: App.progress,
+  };
+  const blob = new Blob([JSON.stringify(data, null, 1)], { type: 'application/json' });
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = 'rtm-archive-data.json';
+  a.click();
+  setTimeout(() => URL.revokeObjectURL(a.href), 4000);
+  showToast('فایل پشتیبان دانلود شد');
+}
+
+async function importUserData(e) {
+  const f = e.target.files && e.target.files[0];
+  e.target.value = '';
+  if (!f) return;
+  try {
+    const data = JSON.parse(await f.text());
+    if (!data || typeof data !== 'object') throw new Error('bad');
+    if (Array.isArray(data.bookmarks)) { App.bookmarks = data.bookmarks.slice(0, 500); saveBookmarks(); }
+    if (Array.isArray(data.reading)) { App.reading = data.reading.slice(0, 50); saveReading(); }
+    if (data.progress && typeof data.progress === 'object') { App.progress = data.progress; saveProgress(); }
+    if (data.settings && typeof data.settings === 'object') {
+      App.settings = { ...DEFAULT_SETTINGS, ...data.settings };
+      App.settings.fontSize = clamp(Number(App.settings.fontSize) || 15, 13, 24);
+      App.settings.lamp = !!App.settings.lamp;
+      App.settings.lampAuto = !!App.settings.lampAuto;
+      App.settings.focus = !!App.settings.focus;
+      saveSettings();
+      applySettings();
+      applyChrome();
+    }
+    syncBookmarkButtons();
+    renderShelf();
+    renderReadingRail();
+    if (App.currentView === 'saved') renderSavedView();
+    showToast('پشتیبان با موفقیت وارد شد');
+  } catch {
+    showToast('فایل معتبر نیست یا خوانده نشد');
+  }
+}
+
 function setupSettings() {
   const drawer = $('#settingsDrawer');
   if (!drawer || drawer.dataset.bound) return;
@@ -3785,6 +4415,8 @@ function setupSettings() {
     ['setWheel', 'wheel', 'wheel'],
     ['setHeader', 'header', 'header'],
     ['setSidebar', 'sidebar', 'sidebar'],
+    ['setTheme', 'theme', 'base'],
+    ['setLampTone', 'lampTone', 'lamptone'],
   ];
   for (const [id, settingKey, dataKey] of segs) {
     const box = $('#' + id);
@@ -3802,12 +4434,17 @@ function setupSettings() {
       const v = clamp(parseInt(range.value, 10) || 15, 13, 24);
       App.settings.fontSize = v;
       $('#fontValue').textContent = faNum(v);
-      document.documentElement.style.setProperty('--fs', v + 'px');
+      document.documentElement.style.setProperty('--fs', (v + (lampOn() ? 2 : 0)) + 'px');
     });
     range.addEventListener('change', () => updateSetting('fontSize', App.settings.fontSize));
   }
   $('#setLight')?.addEventListener('change', (e) => updateSetting('lamp', e.target.checked));
+  $('#setLampAuto')?.addEventListener('change', (e) => updateSetting('lampAuto', e.target.checked));
+  $('#setSkim')?.addEventListener('change', (e) => updateSetting('skim', e.target.checked));
   $('#resetSettings')?.addEventListener('click', resetSettings);
+  $('#exportData')?.addEventListener('click', exportUserData);
+  $('#importData')?.addEventListener('click', () => $('#importFile')?.click());
+  $('#importFile')?.addEventListener('change', importUserData);
   syncSettingsControls();
 }
 
@@ -3819,7 +4456,9 @@ const PALETTE_COMMANDS = [
   { icon: 'grid', title: 'تابلوی تصاویر', sub: 'شبکه‌ای از بندانگشتی‌های هر دفتر', run: () => go('gallery') },
   { icon: 'bookmark', title: 'نشان‌شده‌ها', sub: 'فهرست مطالعهٔ نشان‌شده', run: () => go('saved') },
   { icon: 'search', title: 'جستجو در آرشیو', sub: 'متن پست‌ها و تصویرها', run: () => focusSearch() },
-  { icon: 'lamp', title: 'چراغ مطالعه', sub: 'تم گرم و تیره', toggle: 'lamp', run: () => updateSetting('lamp', !App.settings.lamp) },
+  { icon: 'lamp', title: 'چراغ مطالعه', sub: 'حالت مطالعهٔ راحت: تم گرم، متن بزرگ‌تر، حرکت کمتر', toggle: 'lamp', run: () => updateSetting('lamp', !App.settings.lamp) },
+  { icon: 'moon', title: 'تغییر تم', sub: 'کاغذ روشن یا تیره', run: () => updateSetting('theme', App.settings.theme === 'dark' ? 'paper' : 'dark') },
+  { icon: 'image', title: 'کشفِ تصادفی', sub: 'یک پستِ رندوم از آرشیو', run: () => { goRandomPost(); } },
   { icon: 'focus', title: 'حالت تمرکز', sub: 'کم کردن عناصر دور متن', toggle: 'focus', run: toggleFocusMode },
   { icon: 'settings', title: 'تنظیمات نمایش', sub: 'زبان، اندازهٔ نوشته، سرستون', run: openSettings },
   { icon: 'reset', title: 'بازگشت به پیش‌فرض‌ها', sub: 'پاک کردن تنظیمات این مرورگر', run: resetSettings },

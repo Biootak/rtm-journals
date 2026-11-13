@@ -11,7 +11,7 @@
  *
  * Bump VERSION on every deploy; activate() drops every older cache.
  */
-const VERSION = 'rtm-v14';
+const VERSION = 'rtm-v79';
 const SHELL_CACHE = VERSION + '-shell';
 const DATA_CACHE = VERSION + '-data';
 const THUMB_CACHE = VERSION + '-thumb';
@@ -22,7 +22,6 @@ const SHELL = [
   'index.html',
   'css/style.css',
   'js/app.js',
-  'js/annotate.js',
   'js/vendor/perfect-freehand.js',
   'data/index.js',
   'data/integrity.js',
@@ -51,12 +50,13 @@ self.addEventListener('fetch', event => {
   const req = event.request;
   if (req.method !== 'GET') return;
   const url = new URL(req.url);
-  if (url.origin !== self.location.origin) return;
 
   if (req.mode === 'navigate') {
     event.respondWith(networkFirst(req, SHELL_CACHE, INDEX_URL));
     return;
   }
+  /* Chart files may be served from an external bucket (RTM_ASSETS_BASE); the
+   * pathname is what matters, not the origin. */
   if (url.pathname.includes('/assets/thumbs/')) {
     event.respondWith(cacheFirst(req, THUMB_CACHE, 500));
     return;
@@ -65,6 +65,7 @@ self.addEventListener('fetch', event => {
     event.respondWith(cacheFirst(req, FULL_CACHE, 30));
     return;
   }
+  if (url.origin !== self.location.origin) return;
   if (url.pathname.includes('/assets/')) return; // fonts, icons: browser cache
   if (url.pathname.includes('/data/journals/') ||
       url.pathname.includes('/data/search/') ||
