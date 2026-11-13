@@ -1,0 +1,384 @@
+===== fakeouts-p1 : 25 posts =====
+--- fakeouts_p1_1 author=Tj hash=b079be91
+EN: Dear RTM Community,
+
+Appreciate your view on Fakeouts homework. The article on fakeouts is in the different source - hope that is fine with RTM.com
+
+Homework done on USOIL for 1M, 1W, 1D, 4h, 1h, 15m, 5m and 1m. Thanks in advance.
+FA: جامعهٔ عزیز RTM،
+
+از اینکه نظرتان را دربارهٔ تمرین فیک‌اوت‌ها بگویید سپاسگزارم. مقالهٔ فیک‌اوت‌ها در منبع دیگری است - امیدوارم از نظر RTM.com مشکلی نداشته باشد.
+
+تمرین روی USOIL برای 1M، 1W، 1D، 4h، 1h، 15m، 5m و 1m انجام شد. پیشاپیش ممنون.
+--- fakeouts_p1_2 author=Tj hash=a6d2a7a5
+EN: Just watched the video by If on fakeouts - amazing catching return points.
+FA: تازه ویدئوی If دربارهٔ فیک‌اوت‌ها را دیدم؛ شکار نقاط برگشت در آن شگفت‌انگیز است.
+--- fakeouts_p1_3 author=omidfxt hash=948e5d22
+EN: you are looking for a very important stuff with great significant! As a hint look for where Fake outs happened and where they reacted to? (sometimes you need to go down till M1 chart!) and what happened after them and where price went in future? looking for these questions will give you a lot of aha moments
+FA: موضوع بسیار مهمی را دنبال می‌کنی! به‌عنوان راهنمایی، بررسی کن که فیک‌اوت‌ها کجا اتفاق افتادند و به کجا واکنش نشان دادند؟ (گاهی باید تا چارت M1 پایین بروی!) بعد از آن‌ها چه اتفاقی افتاد و قیمت در ادامه به کجا رفت؟ جست‌وجوی پاسخ این سؤال‌ها باعث می‌شود خیلی از نکات ناگهان برایت روشن شوند.
+--- fakeouts_p1_4 author=Tj hash=a7dfa28b
+EN: Re-look into the fakeouts.
+
+Starting with 1M TF. The analysis goes down till 1D. LTF is not available for that one.
+
+First on 1M:
+
+That's how it looks on 1M:
+
+Zooming in into 1W:
+
+Zooming into 1D: at the place of the FO:
+
+History:
+FA: دوباره به فیک‌اوت‌ها نگاه می‌کنیم.
+
+شروع با تایم‌فریم 1M. تحلیل تا 1D پایین می‌رود. تایم‌فریم پایین‌تر برای آن در دسترس نیست.
+
+اول در 1M:
+
+در 1M این‌طور به نظر می‌رسد:
+
+زوم به داخل 1W:
+
+زوم به داخل 1D: در محل FO:
+
+تاریخچه:
+--- fakeouts_p1_5 author=Tj hash=32755f2e
+EN: The second FO on 1M:
+
+How it looks in 1M:
+
+How it looks in 1W at the FO place:
+
+Historical place for 1W:
+
+On daily: The place of FO:
+
+The history for Daily:
+
+LTF is not available for the historical place. thank you:)
+FA: دومین FO در 1M:
+
+در 1M چطور به نظر می‌رسد:
+
+در 1W در محل FO چطور به نظر می‌رسد:
+
+مکان تاریخی برای 1W:
+
+در چارت روزانه: محل FO:
+
+تاریخچه برای چارت روزانه:
+
+تایم‌فریم پایین‌تر برای مکان تاریخی در دسترس نیست. ممنون:)
+--- fakeouts_p1_6 author=Tj hash=d3fe7209
+EN: One more FO that has only LTF till 1D:
+
+In 1W:
+
+How it looks in 1D:
+FA: یک FO دیگر که فقط تا 1D تایم‌فریم پایین‌تر دارد:
+
+در 1W:
+
+در 1D چطور به نظر می‌رسد:
+--- fakeouts_p1_7 author=Tj hash=5ee2fdda
+EN: Other FO are expected to have much deeper analysis.
+
+Pictures below are expected to describe thought process to find where the price will reverse after FO from previous high/low.
+FA: انتظار می‌رود FO‌های دیگر تحلیل بسیار عمیق‌تری داشته باشند.
+
+تصاویر زیر قرار است روند فکر را برای یافتن اینکه قیمت پس از FO از سقف/کف قبلی کجا برمی‌گردد، توصیف کنند.
+--- fakeouts_p1_8 author=Tj hash=b554be00
+EN: Starting with the FO @1W:
+
+Starting with how it looks in 1W:
+
+1D chart at the place of the FO:
+
+History at 1D:
+
+Analysis where previous high reversed:
+
+At 4h chart:
+
+The decision where previous high is reversed is made in 5m TF:
+
+Going forward. Since the price action related to the previous high reversal is the most clearly seen in 4h TF, then the reversal for new FO will be searched in this TF. - more experienced traders, please correct if the statement is not right.
+
+Will be looking for FO reversal in the red zone of 4h TF:
+
+Narrowing FO reversal to 1h:
+
+Narrowing FO reversal to 15m:
+
+Narrowing FO reversal to 5m:
+
+Narrowing FO reversal to 1m. However, couldn't find proper zone in 1m for reversal. Here we are setting the touchtrade at 15m (just in case) and SL calculating 1:40 RR ratio from expected target. I understand that this is not the best way of identifying SL, maybe someone will advise better SL in this example with some explanation.
+
+And here is how the trade setup looks at 1D:
+FA: شروع با FO @1W:
+
+شروع با اینکه در 1W چطور به نظر می‌رسد:
+
+چارت 1D در محل FO:
+
+تاریخچه در 1D:
+
+تحلیل جایی که سقف قبلی برگشت:
+
+در چارت 4h:
+
+تصمیم اینکه سقف قبلی کجا برگشت، در تایم‌فریم 5m گرفته می‌شود:
+
+جلو می‌رویم. از آنجا که پرایس اکشن مربوط به برگشت سقف قبلی در تایم‌فریم 4h به‌وضوح دیده می‌شود، برگشت برای FO جدید در همین تایم‌فریم جست‌وجو خواهد شد. - معامله‌گران باتجربه‌تر، لطفاً اگر این جمله درست نیست اصلاح کنید.
+
+دنبال برگشت FO در ناحیهٔ قرمز تایم‌فریم 4h خواهیم گشت:
+
+محدود کردن برگشت FO به 1h:
+
+محدود کردن برگشت FO به 15m:
+
+محدود کردن برگشت FO به 5m:
+
+محدود کردن برگشت FO به 1m. با این حال، نتوانستم ناحیهٔ مناسبی در 1m برای برگشت پیدا کنم. اینجا تاچ‌ترید را در 15m تنظیم می‌کنیم (محض احتیاط) و استاپ‌لاس را با نسبت RR 1:40 از تارگت مورد انتظار محاسبه می‌کنیم. می‌دانم این بهترین راه شناسایی استاپ‌لاس نیست، شاید کسی در این مثال استاپ‌لاس بهتری با توضیح پیشنهاد دهد.
+
+و اینجا ستاپ معامله در 1D این‌طور به نظر می‌رسد:
+--- fakeouts_p1_9 author=Tj hash=faf0be61
+EN: Let's see what happened on the way up to the FO.
+
+Here are the clean FTRs at 1D and one clean FTR at 5m. other FTRs are consumed on the way down or buy Engulf consuming 1D FTR. Chart:
+
+Here is how price got back Engulfing the zones one after the other. Notice the last FTR with comments in blue. It reversed from signifficant zone and thus retraced heavily down. Chart:
+
+And here is the plase where the last Engulf reversed. It's a retrace (in 5m) of the Engulf of base of the previous high.
+FA: بیایید ببینیم در مسیر بالا رفتن به سمت FO چه اتفاقی افتاد.
+
+اینجا FTR‌های دست‌نخورده در 1D و یک FTR دست‌نخورده در 5m را می‌بینیم. بقیه FTR‌ها در مسیر نزول یا به‌وسیله اینگالفی که FTR در 1D را مصرف می‌کند، مصرف شده‌اند. چارت:
+
+اینجا قیمت چطور برگشت و ناحیه‌ها را یکی پس از دیگری اینگالف کرد. به آخرین FTR با توضیحات آبی توجه کنید. از ناحیهٔ مهمی برگشت و در نتیجه به‌شدت به پایین اصلاح کرد. چارت:
+
+و اینجا مکانی است که آخرین اینگالف برگشت. این یک اصلاح (در 5m) از اینگالفِ بیسِ سقف قبلی است.
+--- fakeouts_p1_10 author=Tj hash=f17f171e
+EN: I think i'm done with this FO above unless comments will come. Thank you for looking.
+FA: فکر می‌کنم کارم با این FO بالا تمام شده، مگر اینکه نظراتی برسد. ممنون که نگاه کردید.
+--- fakeouts_p1_11 author=Tj hash=a1fa4d91
+EN: Looking into the non-glued chart for the contract of the month - also looks quite logical with beutiful compression on the way up:
+FA: نگاهی به چارت غیرپیوستهٔ قرارداد همان ماه؛ این هم با فشردگی زیبایی که در مسیر صعود دارد، کاملاً منطقی به نظر می‌رسد:
+--- fakeouts_p1_12 author=Tj hash=6f67bbaf
+EN: And two months ahead looks even better - because, you would trade this contract to reach the target without changing on the way.
+
+On 1W:
+
+On 1D:
+FA: قرارداد مربوط به دو ماه بعد حتی بهتر به نظر می‌رسد؛ چون می‌توانی آن را تا رسیدن به تارگت معامله کنی، بی‌آنکه در میانهٔ راه مجبور به تعویض قرارداد شوی.
+
+در 1W:
+
+در 1D:
+--- fakeouts_p1_13 author=Tj hash=3347f5d8
+EN: Next FO on 1W. Either that one will have a deep move down after FO not clear yet. However, we will analyze it.
+
+The move occured after non-OPEC countries agreed to cut production through the weekends. Day opened with a big gap and reached its high in 15 minutes. Day closed as a great pin bar. Here is how it looks in 1W:
+
+It looks much beutiful in non-glued futures contract of last traded month:
+FA: FO بعدی در 1W. هنوز روشن نیست که پس از این FO حرکت نزولی عمیقی رخ خواهد داد یا نه. با این حال، آن را تحلیل خواهیم کرد.
+
+این حرکت پس از آن رخ داد که کشورهای غیرعضو OPEC در آخر هفته بر سر کاهش تولید توافق کردند. روز با گپ بزرگی باز شد و قیمت ظرف 15 دقیقه به سقف روز رسید. کندل روزانه به شکل یک پین‌بار عالی بسته شد. در 1W این‌طور به نظر می‌رسد:
+
+در چارت غیرپیوستهٔ قرارداد فیوچرز آخرین ماه معامله‌شده، خیلی زیباتر دیده می‌شود:
+--- fakeouts_p1_14 author=Tj hash=8050ecd1
+EN: analysis:
+
+Back to glued contracts chart. Zooming into 1D gives more insides of the move. it was not a simple FO. Indeed the move took up 3 items: 1. Closest previous high 2. FL @1D (marked by orange rectangle) 3. One of historical highs in 1W (black line)
+
+And there was no LL after supply level in 1D in both glued and non-glued contract charts. That tells us that another move up might come prior to going deep down. Here is 1D at the place of price action:
+
+Here is the history of this level:
+FA: تحلیل:
+
+برمی‌گردیم به چارت پیوستهٔ قراردادها. زوم کردن روی 1D جزئیات بیشتری از حرکت نشان می‌دهد. این یک FO ساده نبود. در واقع، حرکت از 3 مورد عبور کرد: 1. نزدیک‌ترین سقف قبلی 2. FL @1D (مشخص‌شده با مستطیل نارنجی) 3. یکی از سقف‌های تاریخی در 1W (خط مشکی)
+
+در هر دو چارت پیوسته و غیرپیوستهٔ قرارداد، پس از رسیدن به سطح عرضه در 1D هیچ LL شکل نگرفت. این نشان می‌دهد که ممکن است پیش از یک نزول عمیق، حرکت صعودی دیگری رخ دهد. این هم نمای 1D در محل پرایس اکشن:
+
+این هم تاریخچهٔ این سطح:
+--- fakeouts_p1_15 author=Tj hash=90342d91
+EN: Let's go through 3 items that the move took over.
+
+1. Taking over the closest high in 1D.
+
+It can be seen on 1D that previous high was taken earlier and price retraced prior to move up:
+
+It's a separate FO or it's an Engulf and reversal point analyzed below.
+
+Price reversed within the same FL at 1D as previous high:
+
+The price went to the next closest FTR at 4h:
+
+1h look:
+
+15m not much:
+
+Probably, the answer is at 5m. Reveresed from the next clean FL:
+
+And small RBD in 1m. Could i predict it????
+FA: بیایید 3 موردی را که حرکت گرفت مرور کنیم.
+
+1. گرفتن نزدیک‌ترین سقف در 1D.
+
+در 1D دیده می‌شود که سقف قبلی زودتر گرفته شده و قیمت پیش از حرکت به بالا اصلاح کرده است:
+
+این یا یک FO جداگانه است یا یک اینگالف؛ نقطهٔ برگشتش در ادامه تحلیل شده است.
+
+قیمت در همان FL در 1D برگشت که سقف قبلی در آن شکل گرفته بود:
+
+قیمت به نزدیک‌ترین FTR بعدی در 4h رفت:
+
+نمای 1h:
+
+15m چیز زیادی ندارد:
+
+احتمالاً پاسخ در 5m است. از FL تمیز بعدی برگشت:
+
+و RBD کوچک در 1m. آیا می‌توانستم پیش‌بینی‌اش کنم؟؟؟؟
+--- fakeouts_p1_16 author=Tj hash=29e6cb04
+EN: Level Consumption line explanation:
+FA: توضیح خط مصرف سطح:
+--- fakeouts_p1_17 author=Tj hash=96426cee
+EN: Analysis of the same move at non-glued contract of the last traded month.
+
+At 1D, it is not engulf or FO. It's rather reaction to a price cap (previous high):
+
+A base in 1h:
+
+Flag prior to drop from base in 15m:
+
+A Fakeout from the engulf and retrace of the base at 5m??:
+
+And 1m view:
+FA: تحلیل همان حرکت در چارت غیرپیوستهٔ قرارداد آخرین ماه معامله‌شده.
+
+در 1D، این اینگالف یا FO نیست. بلکه واکنش به یک سقف قیمت (سقف قبلی) است:
+
+یک بیس در 1h:
+
+Flag پیش از ریزش از بیس در 15m:
+
+یک فیک‌اوت از اینگالف و اصلاح بیس در 5m؟؟:
+
+و نمای 1m:
+--- fakeouts_p1_18 author=Tj hash=689acdf7
+EN: Dear Community,
+
+Which one you think worked out for this reversal? The chart of glued contracts in FX:USOIL (first analysis) or non-glued chart of the futures contract month (second analysys).
+
+Thank you.
+FA: جامعهٔ عزیز،
+
+به نظر شما کدام‌یک این برگشت را بهتر توضیح می‌دهد؟ چارت پیوستهٔ قراردادها در FX:USOIL (تحلیل اول) یا چارت غیرپیوستهٔ قرارداد ماهانهٔ فیوچرز (تحلیل دوم).
+
+ممنون.
+--- fakeouts_p1_19 author=staurum hash=146edf02
+EN: ok. fake-out: i'd like to share a note
+
+Pedini wrote: Hey guys, thanks so much for the questions, they are great. At the moment, it is obvious that EU is in a trading range, and there have been some fake moves on either side and trapping people trading the range. I would personally choose to stay out till it resolves itself.
+
+As for your questions, what I will do when I see an engulf is ask myself "does this engulf make sense?" By that I mean look at the history around where price engulfed. Did it engulf into a DP or a key level? Did it engulf into supply/demand. Also, look where the source of the engulf came from, was it coming from a HTF supply/demand level or has it failed yet to reach one? All these things should give you a heads up on a potential FO.
+
+For example, if price is engulfing south, but price has yet to come off a significant level of supply, it makes sense to see a FO to help push price to higher levels. Something that looks like it may be currently happening on EU.
+
+Anyway, I hope this gives some food for thought, it is past 2am, so excuse my lack of a detailed information/charts, I will try to find some example to post when I am well rested.
+
+Peds
+
+Points being: - An engulf must happen first and make sense (i.e. price engulfs a DP or keylevel, or "into" S/D) next: - The source of engulf. FO often happens when the source of engulf failed to reach the right zone (i.e. HTF S/D)
+
+Logic: engulf first, then FO. I haven't seen any engulf that comes after FO.
+FA: باشه. فیک‌اوت: می‌خواهم یک نکته به اشتراک بگذارم
+
+Pedini نوشت: سلام بچه‌ها، خیلی ممنون بابت سؤال‌ها، عالی هستند. در این لحظه روشن است که EU در یک محدودهٔ معاملاتی قرار دارد، و حرکت‌های جعلی در هر دو طرف بوده و افرادی را که در این محدوده معامله می‌کنند به دام انداخته است. من شخصاً ترجیح می‌دهم تا وقتی خودش تعیین تکلیف شود، بیرون بمانم.
+
+اما دربارهٔ سؤال‌هایت، کاری که وقتی یک اینگالف می‌بینم انجام می‌دهم این است که از خودم می‌پرسم «آیا این اینگالف منطقی است؟» منظورم این است که به تاریخچهٔ اطراف جایی که قیمت اینگالف کرد نگاه کن. آیا به داخل یک DP یا یک سطح کلیدی اینگالف کرد؟ آیا به داخل عرضه/تقاضا اینگالف کرد؟ همچنین، نگاه کن منبع اینگالف از کجا آمده، آیا از یک سطح عرضه/تقاضای تایم‌فریم بالاتر می‌آمد یا هنوز به یکی نرسیده بود؟ همهٔ این‌ها باید دربارهٔ یک FO بالقوه به تو هشدار بدهد.
+
+برای مثال، اگر قیمت در حال اینگالف به سمت پایین باشد، اما قیمت هنوز از یک سطح عرضهٔ مهم جدا نشده باشد، منطقی است که یک FO ببینی تا به هل دادن قیمت به سطوح بالاتر کمک کند. چیزی که به نظر می‌رسد ممکن است الان در EU در حال رخ دادن باشد.
+
+به هر حال، امیدوارم این‌ها مایهٔ فکر باشد، از ساعت 2 بامداد گذشته، پس کمبود اطلاعات/چارت‌های دقیق را ببخش، وقتی خوب استراحت کردم سعی می‌کنم مثالی پیدا کنم و پست کنم.
+
+Peds
+
+نکات این است: - یک اینگالف باید اول اتفاق بیفتد و منطقی باشد (یعنی قیمت یک DP یا سطح کلیدی را اینگالف کند، یا «به داخل» S/D) سپس: - منبع اینگالف. FO اغلب وقتی اتفاق می‌افتد که منبع اینگالف نتوانسته به ناحیهٔ درست برسد (یعنی S/D در تایم‌فریم بالاتر)
+
+منطق: اول اینگالف، سپس FO. هیچ اینگالفی ندیده‌ام که بعد از FO بیاید.
+--- fakeouts_p1_20 author=Tj hash=c0fcacb1
+EN: Staurum, thanks man! Let me digest it.
+FA: Staurum، ممنون رفیق! بگذار هضمش کنم.
+--- fakeouts_p1_21 author=Tj hash=9803733b
+EN: Looks like for now i don't have a wider picture of reversal zones. That's fine, will continue with the homework and plan. It will come.
+FA: به نظر می‌رسد فعلاً تصویر وسیع‌تری از نواحی برگشت ندارم. اشکالی ندارد، به تمرین و برنامه ادامه می‌دهم. به مرور پیدا می‌شود.
+--- fakeouts_p1_22 author=Tj hash=3f1cd087
+EN: Coming back to items 2 and 3 of this move. i assume that this is FO.
+
+1. Closest previous high 2. FL @1D (marked by orange rectangle) 3. One of historical highs in 1W (black line)
+
+Points 2 and 3 will be analyzed together in conjunction.
+
+Just to refresh, 1W chart:
+
+Two historical places will be analyzed here (marked by red circles below). Place for analysis 1 represents the history for the FL. And place for analysis 2 represents the history for one of 1W highs that we are focusing on - the S/R flip in 1d and 1w.
+FA: برمی‌گردیم به موارد 2 و 3 این حرکت. فرض می‌کنم این FO است.
+
+1. نزدیک‌ترین سقف قبلی 2. FL @1D (مشخص‌شده با مستطیل نارنجی) 3. یکی از سقف‌های تاریخی در 1W (خط مشکی)
+
+موارد 2 و 3 با هم و در ارتباط با یکدیگر تحلیل خواهند شد.
+
+فقط برای یادآوری، چارت 1W:
+
+دو مکان تاریخی اینجا تحلیل خواهند شد (با دایره‌های قرمز زیر مشخص شده‌اند). مکان تحلیل 1 تاریخچهٔ FL را نشان می‌دهد. و مکان تحلیل 2 تاریخچهٔ یکی از سقف‌های 1W را که روی آن تمرکز داریم نشان می‌دهد - تبدیل نقش S/R در 1d و 1w.
+--- fakeouts_p1_23 author=Tj hash=86fdad68
+EN: Starting with the place for analysis 1.
+
+Price reversed wityhin the closest FL at 4h:
+
+Closest RBD in 1h:
+
+Not very clean RBD in 15m. Maybe FO from previous clean RBD with 2 pips.:
+
+Some clarity in 5m:
+
+And here is the reversal place in 1m:
+FA: شروع با مکان تحلیل 1.
+
+قیمت در نزدیک‌ترین FL در 4h برگشت:
+
+نزدیک‌ترین RBD در 1h:
+
+RBD نه‌چندان تمیز در 15m. شاید FO به‌اندازهٔ 2 پیپ از RBD تمیز قبلی باشد:
+
+کمی وضوح در 5m:
+
+و اینجا مکان برگشت در 1m است:
+--- fakeouts_p1_24 author=Tj hash=c50c8b78
+EN: Coming to place for analysis 2.
+
+Reversed within the same RBD in 4h, 1h:
+
+More clarity starting from 15m:
+
+Similar in 5m:
+
+Reversal point in 1m:
+FA: می‌رسیم به مکان تحلیل 2.
+
+در همان RBD در 4h، 1h برگشت:
+
+وضوح بیشتر از 15m شروع می‌شود:
+
+مشابه در 5m:
+
+نقطهٔ برگشت در 1m:
+--- fakeouts_p1_25 author=Tj hash=5efbfd10
+EN: In the conclusion for this move.
+
+In the end of the day was it engulf or FO i don't distinguish yet, and if FO what is the target?
+FA: جمع‌بندی این حرکت.
+
+در نهایت هنوز تشخیص نداده‌ام که اینگالف بود یا FO؛ و اگر FO است، تارگت چیست؟

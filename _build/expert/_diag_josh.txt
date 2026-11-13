@@ -1,0 +1,347 @@
+### josh_p1_3 hash=278065a2b731e867efa1968bf6e186fe926b9306 | echo
+paras en/fa: 4/4 | echo bigram: "روی چارت"
+lex.audit: echo
+---FA---
+سلام Josh،
+
+شروع خوبی برای ژورنالت، و خوش آمدی. چند نظر روی چارت سومت گذاشتم، امیدوارم کمکی کند.
+
+همچنین روی چارت اولت نگاه کن، آیا می‌توانی تقاضای آزمون‌نشده‌ای در CP خودت در بالاترین نقطه ببینی؟ می‌دانم درست پیش رفت، اما چیزی است که باید از آن آگاه باشی.
+
+cheer
+---EN---
+Hi Josh,
+
+Nice start to your journal, and welcome. I have made a few comments on your 3rd chart, hope it helps some.
+
+Also looking on your 1st chart, can you see any untested demand in your CP at the very top? I know it worked out, but it is something that you need to be aware of.
+
+Cheers
+### josh_p10_234 hash=ca346e80b6fb8039c2d555efc09dc46a09bcec4b | paragraphs 3 / 2
+paras en/fa: 3/2 | echo bigram: ""
+lex.audit: 
+---FA---
+josh1125 نوشت: درست.. به یاد داشته باش If گفت flagها PAZ هستند و ما لبه‌ها را معامله می‌کنیم که همان FTRها هستند
+
+مرسی از تأیید، شروع می‌کند معنا پیدا کند اما او همچنین گفت که می‌توانی PAZ را وقتی ناحیهٔ فشرده است پیدا کنی و در موارد دیگر
+---EN---
+josh1125 wrote: Correct..Remember If stated that flags are PAZs and we trade the edges which are the FTRs
+
+thx for confirmation it starts to make sense but he also said that u can find
+
+PAZ when it's a compression zone and in other cases
+### josh_p10_246 hash=017cf9bc6d8a73f70bfd8de838ae3a00494166ad | echo
+paras en/fa: 1/1 | echo bigram: "سعی می‌کنم"
+lex.audit: echo
+---FA---
+دارم سعی می‌کنم درک خوبی از چیزها داشته باشم. LOTS کار گذاشته‌ام سعی می‌کنم این قطعه‌ها را کنار هم بگذارم. این چیزی است که از دیدگاه بلندمدت euraud می‌بینم.
+---EN---
+I'm trying to get a good grasp of things now. I've been putting in a ton of work trying to put these pieces together. This is what I'm seeing from the euraud long term view.
+### josh_p11_260 hash=950e951c8d662305c883793f1ff61d3698ca2211 | paragraphs 3 / 2
+paras en/fa: 3/2 | echo bigram: ""
+lex.audit: 
+---FA---
+خب آن کوتاه‌عمر بود... مطمئن نیستم چه شد. باور دارم ممکن است قربانی FO بدنام شده باشم. فکر می‌کردم خوانش درست بود. حدس می‌زنم فردا صبح این معامله را دوباره می‌بینم. اگر واقعاً این FO بود، باید بفهمم به چه سطحی تصمیم FO گرفت.
+
+josh1125 نوشت: واقعاً این اواخر چیزها را ساده نگه دارم معامله‌ام را یک پله بالاتر برده. ورود ساده در این معامله. PO را در سطح QM/MPL گذاشتم. فعال شد... بیا به مبدأش سوار شویم.
+---EN---
+Well that was short lived...Not sure what happened. I believe I may have fallen
+
+victim to the dreaded FO. I thought the read was correct. I guess I will look at this trade again in the morning. If indeed this was a FO, I must find out what level it decided to FO to.
+
+josh1125 wrote: Really keeping things simple lately has really kicked my trading up a notch. Simple entry on this trade. Set a PO at QM/MPL level. Triggered...Lets ride it to the origin.
+### josh_p14_332 hash=3fd4c356e2513ac4077174161e735682d7685067 | echo
+paras en/fa: 5/5 | echo bigram: "معنا پیدا"
+lex.audit: echo
+---FA---
+خوشحالم که توانستم کمک کنم.. بالاخره احساس می‌کنم درکم به جایی رسیده که می‌توانم الان به اندازه‌ای کمک کنم lol.. چارت تو کاملاً معنا پیدا می‌کند. نمی‌توانستی آن معامله را بهتر بازی کنی.
+
+full نوشت: سلام josh!!
+
+دیروز پستت در بخش quasimodo این معامله را به من داد... جزئیات در چارت
+
+امیدوارم معنا پیدا کند،
+
+با احترام
+---EN---
+I'm glad i could help..I finally feel like my understanding is getting to where I can finally be of some help now lol..Your chart makes perfect sense. You couldn't have played that trade any better.
+
+full wrote: Hi josh!!
+
+Yesterday.your post on the quasimodo section it gave me this trade...details in the chart
+
+I hope it make sense,
+
+best regards
+### josh_p15_366 hash=c695a46d5e0ff8e742da32508ba1bb7cc3641fbd | echo
+paras en/fa: 2/2 | echo bigram: "تایم‌فریم پایین"
+lex.audit: echo
+---FA---
+josh1125 نوشت: معاملهٔ آسان... FTR استفاده‌شده برای ورود روی تایم‌فریم پایین دیده می‌شود.
+
+....ورود خیلی خوبی Josh، این یک تقاضای نادیده‌گرفته‌شده در D1 است، و سیگنال‌های جالبی در تایم‌فریم پایین دارد.
+---EN---
+josh1125 wrote: Easy trade...FTR used for the entry is seen on LTF.
+
+....very nice entry Josh, it is an ignored demand in D1, and it has interesting signals in LTF.
+### josh_p17_407 hash=832f1a08771c6546794cd73c910edc653a19192e | echo
+paras en/fa: 2/2 | echo bigram: "دیدگاه روی"
+lex.audit: echo
+---FA---
+اینجا دیدگاه من روی eurgbp است.
+
+josh1125 نوشت: هی gembel... دیدگاه من روی این جفت این است که HTF دارد می‌گوید بفروش.. چارت‌های ماهانه و هفتگی هر دو FTR نزولی را رد کردند. الان در خانه نیستم اما بعداً یک چارت پست می‌کنم
+---EN---
+Here is my view on the eurgbp.
+
+josh1125 wrote: Hey gembel...my take on this pair is HTF is screaming sell..monthly and weekly charts both rejected bearish ftr. I'm not home at the moment but I'll post a chart later
+### josh_p17_412 hash=bbb3349a0572a95d6458595a8059727e90caf2a6 | paragraphs 8 / 7
+paras en/fa: 8/7 | echo bigram: "فکر می‌کنم"
+lex.audit: 
+---FA---
+benhur نوشت: تو فقط برای یک امکان برنامه ریزی کرده‌ای. اما می‌دانیم در واقعیت بازارها چیزهای دیگری هم می‌تواند اتفاق بیفتد. چه رویدادهایی احتمال بیشتری دارند که اتفاق بیفتند؟ کجا کم‌ریسک‌ترین قیمت ورود برایت خواهد بود. به آن‌ها فکر کن، در حالی که سیاست معاملاتی‌ات را می‌سازی.
+
+سلام Josh، پستت دربارهٔ چیزی است که خیلی جالب است، و نظر benhur هم مثل همیشه هشداردهنده است. مثل هر نظری پس از رویداد، پست من راه آسان یک تریدر است، اما فکر می‌کنم همه‌مان یاد گرفتیم، و هنوز هم یاد می‌گیریم (واقعاً امیدوارم...) از سمت‌های چپ چارت‌ها، پس پست benhur مرا به جست‌وجوی نقاط دقیق‌تر که نظرش می‌توانست از آن‌ها سرچ کند واداشت. چارت تو. به‌جای اینکه کاری که علامت زده بودی را بکندی
+
+قیمت برگشت به بالا، تا چیزی را بسازد که در اوایل زندگی معاملاتی‌مان double top کلاسیک برگشت نزولی می‌نامیدیم.
+
+پس به دنبال سیگنال‌های زود (چون باید همیشه وجود داشته باشند) این برگشت به بالا گشتم. فکر می‌کنم یکی را در M15
+
+و بیشتر در m1
+
+پیدا کردم.
+
+موافقی؟ امیدوارم benhur هم بخواهد یک پرتو نور دیگر بتاباند، دست‌کم برای رد/تأیید؛ خیلی ممنون برای فضایت، بهترین‌ها
+---EN---
+benhur wrote: You have made plan for only one possibility. But we know that in the reality of the markets many other things can happen. What events have more probability of happening? where would be your least risk-taking price to enter. Think of those, while you create your trading policy.
+
+Hi Josh, your post is about a stuff so interesting, as the comment by benhur
+
+mind-
+
+alerting as always. As any comment post-eventum, my post is the easy way of a trader by insight, but i think all of us we learned, and still are learning (really hope...) from the left sides of the charts, so the post of benhur pushed me to search the punctual spots his comment could be sourced. Your chart. Instead of doing what you marked up
+
+the price came back up, to create the thing we would have called in our early trading life a double top classic bearish reversal.
+
+So i looked for early signals (because they must exist as always ) of this coming back up. I think i've found one in M15
+
+and more in m1
+
+do you agree about it? hoping benhur also wants to release one more ray of light, at least to deny / to confirm many thanks for your space, all the best
+### josh_p17_413 hash=9fcb5a09295506f9e9f754007f3a2d849bdbc9a1 | paragraphs 7 / 8
+paras en/fa: 7/8 | echo bigram: "پست benhur"
+lex.audit: 
+---FA---
+تحلیل عالی. بله پست benhur واقعاً به قرارگرفتن چیزها در دیدگاه بهتری کمک کرد... و راستی.. همیشه این‌جا خوش آمدی
+
+althoufx نوشت:
+
+benhur نوشت: تو فقط برای یک امکان برنامه ریزی کرده‌ای. اما می‌دانیم در واقعیت بازارها چیزهای دیگری هم می‌تواند اتفاق بیفتد. چه رویدادهایی احتمال بیشتری دارند که اتفاق بیفتند؟ کجا کم‌ریسک‌ترین قیمت ورود برایت خواهد بود. به آن‌ها فکر کن، در حالی که سیاست معاملاتی‌ات را می‌سازی.
+
+سلام Josh، پستت دربارهٔ چیزی است که خیلی جالب است، و نظر benhur هم مثل همیشه هشداردهنده است. مثل هر نظری پس از رویداد، پست من راه آسان یک تریدر است، اما فکر می‌کنم همه‌مان یاد گرفتیم، و هنوز هم یاد می‌گیریم (واقعاً امیدوارم...) از سمت‌های چپ چارت‌ها، پس پست benhur مرا به جست‌وجوی نقاط دقیق‌تر که نظرش می‌توانست از آن‌ها سرچ کند واداشت. چارت تو. به‌جای اینکه کاری که علامت زده بودی را بکندی
+
+قیمت برگشت به بالا، تا چیزی را بسازد که در اوایل زندگی معاملاتی‌مان double top کلاسیک برگشت نزولی می‌نامیدیم. پس به دنبال سیگنال‌های زود (چون باید همیشه وجود داشته باشند) این برگشت به بالا گشتم. فکر می‌کنم یکی را در M15
+
+و بیشتر در m1
+
+پیدا کردم.
+
+موافقی؟ امیدوارم benhur هم بخواهد یک پرتو نور دیگر بتاباند، دست‌کم برای رد/تأیید؛ خیلی ممنون برای فضایت، بهترین‌ها
+---EN---
+Great analysis. Yes benhur's post really helped put things into a better perspective...and by the way..you're always welcome here
+
+althoufx wrote:
+
+benhur wrote: You have made plan for only one possibility. But we know that in the reality of the markets many other things can happen. What events have more probability of happening? where would be your least risk-taking price to enter. Think of those, while you create your trading policy.
+
+Hi Josh, your post is about a stu so interesting, as the comment by benhur mind-alerting as always. As any comment post-eventum, my post is the easy way of a trader by insight, but i think all of us we learned, and still are learning (really hope...) from the left sides of the charts, so the post of benhur pushed me to search the punctual spots his comment could be sourced. Your chart. Instead of doing what you marked up
+
+the price came back up, to create the thing we would have called in our early trading life a double top classic bearish reversal. So i looked for early signals (because they must exist as always ) of this coming back up. I think i've found one in M15
+
+and more in m1
+
+do you agree about it? hoping benhur also wants to release one more ray of light, at least to deny / to conrm many thanks for your space, all the best
+### josh_p17_422 hash=355d8816a42cecdfa8ab94af860be9af62fb6515 | paragraphs 6 / 5
+paras en/fa: 6/5 | echo bigram: ""
+lex.audit: 
+---FA---
+حدس می‌زنم او خیلی محافظه‌کار بود و برای تأیید منتظر شکست flag می‌ماند. اما حرف من را نپذیر، فقط حدس است.
+
+و مثل Bodostock گفت:
+
+Bodostock نوشت:
+
+althoufx نوشت: دیدگاه من این است که اولین لمس قبل از عرضهٔ واقعی یا مبدأ حرکت داخل FTR برگشت.
+
+تعویض به M1 به ما اجازه می‌دهد آن را واضح ببینیم.
+---EN---
+I'm guessing he was being ultra conservative and waiting for a break of the flag for confirmation. But don't take my word for it, just a guess.
+
+And like Bodostock said:
+
+Bodostock wrote:
+
+althoufx wrote: My view is that the first touch turned down before the real supply or the
+
+source of the move within the FTR.
+
+Switching to M1 will allow us to see that clearly.
+### josh_p18_450 hash=3126c84bdd7b921243a6313f3c28e402ee69155c | echo
+paras en/fa: 3/3 | echo bigram: "ترفندی بازی"
+lex.audit: echo
+---FA---
+خوشحالم که به خانه برگشتم..
+
+داشتم به usdcad نگاه می‌کردم، و این نظرات من است.
+
+واقعاً دارم تمرکز می‌کنم روی اینکه «کجا می‌توان ترفندی را بازی کرد که قبلاً ترفندی بازی شده بود» را ببینم همان‌طور که IF می‌گفت
+---EN---
+Happy to be back home..
+
+I've been looking at the usdcad, and here are my thoughts.
+
+Really focusing on looking to see "where a trick could be played where a trick was played before" as IF would say
+### josh_p4_77 hash=d9adac54f752e86beb4bf10fb9720cda51fdfea6 | paragraphs 4 / 3
+paras en/fa: 4/3 | echo bigram: ""
+lex.audit: 
+---FA---
+برای همهٔ کسانی که در این چند روز wondering بوده‌اند که کجا بودم، دو هفتهٔ گذشته با خانواده‌ام در تعطیلات بودم. الان برگشتم و برای عمل آماده‌ام. در تعطیلاتم، نمی‌توانستم از RTM دور بمانم. هیچ پستی ندادم، اما LOTS مطالعه کردم. مدتی را در چند ژورنال و در مقالات معاملاتی گذراندم. حالا وقتش است همه‌چیز را به عمل تبدیل کنم. این معامله را قبل از رفتن پست کردم، و امروز به زونم رسید. نتیجهٔ این معامله متأسفانه آن چیزی نبود که انتظار داشتم. سفارش معلقم را با 8 پیپ از دست دادم، چون PO را کمی بالاتر از جایی که برنامه‌ریزی کرده بودم قیمت برود بالا بردم. چرا این کار را کردم، نمی‌دانم
+
+josh1125 نوشت: این چیزی است که روی usdcad می‌بینم... فکر می‌کنم بهتر شدم... حدس می‌زنم تا وقتی این یکی پیش نرود نمی‌دانم
+
+..اگر اشتباه می‌کنم لطفاً آزادانه اصلاحم کنید.
+---EN---
+For everyone that's been wondering where I've been, I was on vacation with my family for the past two weeks. I'm back now and ready for action. On my vacation, I couldn't seem to stay away from RTM. I didn't do any posting, but I did a LOT of reading. I spent quite a bit of time in several journals, and in the trading articles. Now it's time to put everything into practice. I posted this trade before I left, and it reached my zone today. The outcome of this trade wasn't what I expected unfortunately. Missed my pending order by 8 pips, as I raised the PO a little higher than where I had planned price to go. Why did I do that, I don't know
+
+josh1125 wrote: This is what I'm seeing on usdcad...I think I'm getting better...I guess I won't know until this one plays out
+
+..Please feel free to correct me if
+
+I'm wrong.
+### josh_p5_103 hash=68d1bbd7b3548568c70a9b7286ed0c4677ea9ab2 | paragraphs 5 / 4
+paras en/fa: 5/4 | echo bigram: "josh1125 نوشت:"
+lex.audit: 
+---FA---
+تارگت زده شد!! بلهee!!!
+
+josh1125 نوشت: خب قیمت به اندازهٔ کافی پایین نیامد تا PO من فعال شود، اما قیمت QM خوبی داخل تقاضا داد. قیمت تا اینجا دقیقاً طبق برنامه رفتار می‌کند.
+
+ورود QM پنج‌دقیقه
+
+josh1125 نوشت: اوکی خانوادهٔ RTM بفرما. هنوز دارم کار می‌کنم تا آن لحظه را داشته باشم که همه‌چیز بالاخره کلیک کند. دارم سعی می‌کنم ذهنم را حول همه‌چیز بچرخانم بعد از اینکه چند بار دیگر از markepedia و ویدئوهای If گذشتم. زیر دیدگاه من روی چارت 4 ساعتهٔ GBPNZD است. باور دارم فرصت خرید خوبی می‌دهد. به PAZ بعدی شکسته شده، قیمت باید به FTR بعدی برود.
+---EN---
+Target Hit!! YesSSS!!!
+
+josh1125 wrote: Well price didn't get down far enough to trigger my PO, but price gave a nice QM inside demand. Price so far is behaving exactly as planned.
+
+Entry 5min QM
+
+josh1125 wrote: Ok RTM family here we go. Still working to have that moment in which everything finally clicks. I'm trying to wrap my head around everything after going back through the markepedia and If's videos many more times. Below is my take on the GBPNZD 4 hour chart. I believe it's giving a solid buy opportunity. It's broken into the next PAZ, price should
+
+head to the next FTR.
+### josh_p5_104 hash=48f4901dcde2f7a60a28301b508e74e0238796ce | echo
+paras en/fa: 3/3 | echo bigram: "نواحی عرضه"
+lex.audit: echo
+---FA---
+دارم واقعاً به این PAZها دل می‌دهم... این معاملهٔ دیگری است که روی Cadchf گرفتم... 4hour بعضی نواحی عرضه را نشان می‌دهد، اما HTF می‌گوید آن نواحی عرضه فقط ناهمواری‌های راه‌اند.
+
+Cadchf 4hour
+
+Cadchf Daily
+---EN---
+I am really falling in love with these PAZ... Here is another trade taken on Cadchf...4hour showing some supply areas, but HTF is saying those supply areas are just bumps in the road.
+
+Cadchf 4hour
+
+Cadchf Daily
+### josh_p5_115 hash=6e834163edd19de376b5f22d06572b0f7a96a988 | echo
+paras en/fa: 5/5 | echo bigram: "نواحی عرضه"
+lex.audit: echo
+---FA---
+آرام‌آرام به سمت تارگت حرکت می‌کنم. صبر در معاملهٔ تایم‌فریم‌های بالاتر کلید است.
+
+به‌روزرسانی:
+
+josh1125 نوشت: دارم واقعاً به این PAZها دل می‌دهم... این معاملهٔ دیگری است که روی Cadchf گرفتم... 4hour بعضی نواحی عرضه را نشان می‌دهد، اما HTF می‌گوید آن نواحی عرضه فقط ناهمواری‌های راه‌اند.
+
+Cadchf 4hour
+
+Cadchf Daily
+---EN---
+Slowly moving towards target. Patience is key here when trading the HTFs.
+
+Update:
+
+josh1125 wrote: I am really falling in love with these PAZ... Here is another trade taken on Cadchf...4hour showing some supply areas, but HTF is saying those supply areas are just bumps in the road.
+
+Cadchf 4hour
+
+Cadchf Daily
+### josh_p6_139 hash=e952a4b391618e04e2165f6c634850c383a697b4 | paragraphs 6 / 5
+paras en/fa: 6/5 | echo bigram: ""
+lex.audit: 
+---FA---
+پس چند هفتهٔ گذشته همهٔ چیزهای مرتبط با If را که می‌توانستم در دسترس بگیرم خواندم. از سایت RTM تا FF. حالا وقت رقصیدن است
+
+. Gbpjpy در دستور کار این هفته‌ام است. این تحلیل من است. لطفاً آزادانه نظر بدهید.
+
+Day
+
+4HR
+
+5min
+---EN---
+So I've spent the last few weeks reading everything If related I could get a hold of. From RTM site to FF. It is now time to rock and roll
+
+. The Gbpjpy is on my agenda this week. Here is my
+
+analysis. Please feel free to comment.
+
+Day
+
+4HR
+
+5min
+### josh_p6_140 hash=698adab7509fd1e6a7f44f5b8270d70fe9b968a6 | paragraphs 5 / 3
+paras en/fa: 5/3 | echo bigram: ""
+lex.audit: 
+---FA---
+سلام خانوادهٔ RTM‌ام
+
+...بیش از یک ماه در ژورنالم غایب بودم، اما نمی‌خواهم کسی فکر کند رها کرده‌ام. در واقع سهم کاملی از مطالعه‌ام را انجام داده‌ام.
+
+Lots مطالعه و خواندن کرده‌ام. حدود دو هفته پیش، به چیزی رسیدم که فکر می‌کنم معدن طلاست، و واقعاً معامله‌ام را متحول کرده. سخت بود wonder کنم چرا بعضی FLها کار می‌کنند و بعضی نه. می‌دانستم بعضی بهتر از بقیه هستند، اما نمی‌توانستم دقیقاً بفهمم چرا. بعد از خواندن ترد PAZ، دیدم Pedini چارتی گذاشته که چشم‌هایم را باز کرد، و واقعاً نحوهٔ دیدن چارت‌هایم را تغییر داد. امیدوارم این بتواند به دیگران همان‌قدر که به من کمک کرد کمک کند. این قطعاً یکی از بزرگ‌ترین لحظه‌های آهام بود.
+---EN---
+Hello my RTM family
+
+...I've been absent here in my journal for a little over a
+
+month, but I don't want anyone to think I have given up. I have actually been doing my fair share of studying.
+
+I have been doing a lot of reading and studying. About two
+
+weeks ago, I came across what I think is a goldmine, and it has really transformed my trading. I was having a hard time wondering why some FLs work and others didn't. I knew some were better than others, but I couldn't quite figure out why. Then after reading through the PAZ thread, I saw where Pedini posted a chart that has opened my eyes, and really changed the way I see the charts. I hope this can help others as much as it has helped me. This was definitely one of my biggest aha moments.
+### josh_p7_156 hash=5769f3ce2b7749b970c5b19b29163fee5c1f739c | paragraphs 3 / 2
+paras en/fa: 3/2 | echo bigram: ""
+lex.audit: 
+---FA---
+Smimon
+
+تحلیل بسیار خوبی از آنچه می‌بینم. من هم فکر می‌کنم شورت از FTR ما که از اینگاف در بالا ساخته شد ناحیهٔ خوبی برای شورت خواهد بود. احساس می‌کنم هر دو روی یک صفحه‌ایم.
+---EN---
+Smimon
+
+Very good analysis from what I can see. I too think a short from our FTR that was
+
+created from the engulf in the top will be a nice area to short from. I feel like we are both on the same page here.
+### josh_p9_221 hash=bee0d97b6b60487ad7a4110b3205387157c0cc4e | echo
+paras en/fa: 2/2 | echo bigram: "می‌کنم بالاخره"
+lex.audit: echo
+---FA---
+فقط سعی می‌کنم بالاخره چیزها را کنار هم بگذارم. احساس می‌کنم بالاخره می‌توانم بگویم این سفر الان تازه شروع شده
+
+dudu112 نوشت: تو الهام‌بخشی ادامه بده:D
+---EN---
+Just trying to finally put things together. Feels like I can finally say this journey is now just beginning
+
+dudu112 wrote: you are a inspiration keep them coming:D

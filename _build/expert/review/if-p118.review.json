@@ -1,0 +1,7 @@
+{
+ "if_p118_24": {
+  "issue": "structural flag/flags rendered as فلگ",
+  "why": "EN: \"trade inside a flag and not between the flags\" / FA: «داخل یک فلگ ... نه بین فلگ‌ها»",
+  "fix": "IF، یادم می‌آید جایی چیزی شبیه این گفتی: همیشه داخل یک FLAG معامله کن، نه بین FLAG‌ها. منظورت دقیقاً چیست؟ چون قیمت در هر مقیاسی، بالاخره درون یکی از این ساختارها قرار دارد."
+ }
+}

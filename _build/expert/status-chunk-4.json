@@ -1,0 +1,115 @@
+{
+ "warren": {
+  "pages": 302,
+  "checked": 233,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T01:33:58"
+ },
+ "ftrretest": {
+  "pages": 188,
+  "checked": 111,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T01:34:20"
+ },
+ "frosty": {
+  "pages": 352,
+  "checked": 510,
+  "missing": 5,
+  "examples": [
+   {
+    "file": "Frosty_s Igloo - Page 11 - RTM Community.pdf",
+    "page": 21,
+    "y": 84.4,
+    "text": "But, then the FTR/FL diagram really got me thinking about orders that"
+   },
+   {
+    "file": "Frosty_s Igloo - Page 13 - RTM Community.pdf",
+    "page": 20,
+    "y": 64.1,
+    "text": "you might be right in that matter."
+   },
+   {
+    "file": "Frosty_s Igloo - Page 13 - RTM Community.pdf",
+    "page": 21,
+    "y": 64.1,
+    "text": "profitability or anything approaching what is being taught here. There is"
+   },
+   {
+    "file": "Frosty_s Igloo - Page 13 - RTM Community.pdf",
+    "page": 21,
+    "y": 64.9,
+    "text": "profitability or anything approaching what is being taught here."
+   },
+   {
+    "file": "Frosty_s Igloo - Page 5 - RTM Community.pdf",
+    "page": 28,
+    "y": 64.1,
+    "text": "price will bounce, annihilation of"
+   }
+  ],
+  "testedAt": "2026-11-12T01:35:07"
+ },
+ "eurotrash": {
+  "pages": 464,
+  "checked": 47,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T01:35:14"
+ },
+ "art": {
+  "pages": 573,
+  "checked": 165,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T01:36:01"
+ },
+ "newjournal": {
+  "pages": 656,
+  "checked": 26,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T01:37:33"
+ },
+ "alex": {
+  "pages": 1057,
+  "checked": 216,
+  "missing": 3,
+  "examples": [
+   {
+    "file": "Alex`s journal - Page 14 - RTM Community.pdf",
+    "page": 8,
+    "y": 114.1,
+    "text": "Never ever give up. Think, do, try, achieve"
+   },
+   {
+    "file": "Alex`s journal - Page 20 - RTM Community.pdf",
+    "page": 27,
+    "y": 111.9,
+    "text": "\"...an engulfed flag is an engulfed flag...\" ( IF )"
+   },
+   {
+    "file": "Alex`s journal - Page 22 - RTM Community.pdf",
+    "page": 6,
+    "y": 100.6,
+    "text": "The future of price is already written in the past"
+   }
+  ],
+  "testedAt": "2026-11-12T01:38:38"
+ },
+ "aboutcompression": {
+  "pages": 1801,
+  "checked": 529,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T01:40:16"
+ },
+ "quasimodo": {
+  "pages": 1979,
+  "checked": 506,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T01:41:56"
+ }
+}

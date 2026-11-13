@@ -1,0 +1,203 @@
+##### hs_p26_626 hoeschec paras:6
+Continued:
+
+Moving on- let's assume the reason Salivan marked rectangle 1 was because it represented a swap zone, and Engulf B was the break of that swap zone.
+
+I labeled all of Salivan's rectangles by number for ease of reference. The only rectangle I added is labeled "X" and in neon green:
+
+It looks like Salivan marked rectangle # 3 to encompass the entire flag (the engulf of the swap zone and RT). I would have marked FTR X because it is the FTR that was formed after price engulfed the swap zone...he didn't mark this level and it ended up not being important in this trade. Clearly I am focused on the wrong zones...
+
+Price forms a flag (labeled as rectangle 4). This was drawn because price breaking the topside of rectangle 4 forms another engulf. Salivan labeled the engulf and RT as a complete flag # 5. It is Flag #5 that he labels as an area of interest when price returns. This is the area where price did indeed bounce when it returned a few days later.
+
+My question: what made this flag so reactive compared to the other FTR's and origins that exist in this chart? I need to think more about this to figure out what I am missing...
+---END---
+##### hs_p26_627 hoeschec paras:3
+Here is a close up of the last chart -
+
+Why not set a buy order in the green rectangle I drew? This area is an FTR and it also is the origin of the engulf of rectangle # 4. Why did price turn at rectangle # 5?
+
+Is it because price formed FTR 1 and FTR 1 was the origin of the important engulf of the major swap zone... Then, price engulfed FTR 1 (engulf c) in the opposite direction and formed FTR 2? Is that why the FTR that formed in the flag Salivan drew (rectangle 5) so reactive on price's FTB? This does seem to make sense... but I could be wrong. It's pretty confusing. Here is a chart to illustrate:
+---END---
+##### hs_p26_628 salivan paras:1
+if we have some thing important in price that must reacted but it ignored then opposite transaction of orders will be execute in future in form of FTR
+---END---
+##### hs_p26_629 salivan paras:2
+look at this piece of GOLD from IF, when our target(some thing important) reach for any ENG,then price make an other decision for break the target or respect it. that DP is where the opposite transaction of orders executed so we look for PA in that zone for trade.
+
+thanks IF regards Salivan
+---END---
+##### hs_p26_630 hoeschec paras:3
+salivan wrote: if we have some thing important in price that must reacted but it ignored then opposite transaction of orders will be execute in future in form of FTR
+
+Thanks for your help Salivan. Is this what you mean by price ignoring orders?
+
+Price ignored orders because price was creating a fakeout....
+---END---
+##### hs_p26_631 hoeschec paras:5
+I am still confused...but here is what I've come up with.
+
+Basically, I would focus on areas where price is likely to bounce. Zoom in to lower time frame charts and identify the flag that is holding price. Wait for an engulf of this flag, and resulting fakeout. Look for a supply/demand zone that if ignored in the process of the fakeout forming and look to this area when price returns. Here is a chart I made:
+
+In this example, would the sell order be placed in the red FTR or the blue rectangle that represents the location where supply was previously ignored?
+
+Sorry if this is a poorly written question- these concepts are difficult to put in to words....
+
+This is the setup Salivan took...I think this is what he means by an ignored supply zone - this is what happens when price forms a fakeout. I could be totally wrong though...
+---END---
+##### hs_p26_632 hoeschec paras:3
+I am now re creating Salivan's trade on the GBP-USD (refer to his journal "art of war" post #540 and #541)
+
+Here is a recreation of his chart:
+
+And here is my version of the chart, with my notes:
+---END---
+##### hs_p26_633 hoeschec paras:4
+Found a good example of a S/R flip zone:
+
+CAD-CHF
+
+Price forms a RBD: the rally/base portion of the PA forms a fakeout, price breaks the base/origin of the move up. The FTR that forms after the engulf of the Base is a good place to look for a short on price's FTB.
+
+Close Up:
+---END---
+##### hs_p26_634 hoeschec paras:1
+Here is a picture of my understanding so far-
+---END---
+##### hs_p26_635 althoufx paras:1
+Hello Hoeschec interesting matter the discussion here! just a little bit on another point: when to expect a FO. For example in USDCHF there could be a FO profitable for IT's, but LTF bounced already, i think many thanks for any comments
+---END---
+##### hs_p26_636 althoufx paras:3
+....sorry for frequent posting
+
+, again on FO
+
+i've found that spikes like this one (all EUR pairs) give information about next turn of the price in the same direction. So it's a FO, but the price often returns over there and goes ahead. many thanks for comments by anybody, all the best
+---END---
+##### hs_p26_637 hoeschec paras:2
+althoufx wrote: Hello Hoeschec interesting matter the discussion here! just a little bit on another point: when to expect a FO. For example in USDCHF there could be a FO profitable for IT's, but LTF bounced already, i think many thanks for any comments
+
+I noticed USD-CHF too - this is my current trade. I am holding it over the weekend.
+---END---
+##### hs_p26_638 hoeschec paras:4
+althoufx wrote:....sorry for frequent posting
+
+, again on FO
+
+i've found that spikes like this one (all EUR pairs) give information about next turn of the price in the same direction. So it's a FO, but the price often returns over there and goes ahead. many thanks for comments by anybody, all the best
+
+What will you be looking for when price returns to the area where the fakeout previously occurred? Are you looking for an engulf of the DP to Fakeout? Thanks
+---END---
+##### hs_p26_639 hoeschec paras:3
+Here is a Fakeout on USD/JPY:
+
+I see fake outs all the time, and really want to learn how to utilize them in trading...
+
+More fakeouts
+---END---
+##### hs_p26_640 hoeschec paras:4
+EUR-JPY:
+
+Here is my view on how to trade the Fakeout on E/J (as pointed out by althoufx in the posts above):
+
+I would have been looking for shorts when price returned to the origin of the engulf (the engulf followed the fakeout). What makes this a good opportunity is that the Fakeout and resulting engulf occurred at a swap zone.
+
+Here is a chart:
+---END---
+##### hs_p26_641 althoufx paras:8
+hoeschec wrote:
+
+althoufx wrote:....sorry for frequent posting
+
+, again on FO
+
+i've found that spikes like this one (all EUR pairs) give information about next turn of the price in the same direction. So it's a FO, but the price often returns over there and goes ahead. many thanks for comments by anybody, all the best
+
+What will you be looking for when price returns to the area where the fakeout previously occurred? Are you looking for an engulf of the DP to Fakeout? Thanks
+
+I meant that when we have such big spikes "countertrend" made quickly by news (ECB press conference) very often the price will turn soon to the direction of the spike, so we should rst take a Short, as from your chart
+
+then pay attention to
+
+LTF PA, ready to take a relevant Long because it could be imminent....It is a thing i noticed, it is not a rule....but in this case we have a previous EG Low, so the price should continue to drop for a while, no imminent turning up. many thanks!
+---END---
+##### hs_p26_642 hoeschec paras:7
+I re-watched IF's video on RBD at Supply and Decision points. I am going to do some homework to get better at finding decision points...I think I've been doing it wrong.
+
+Here is a good example I found on USD-JPY:
+
+STEP 1: Find a nice area of supply or demand (HTF)
+
+Zoom in and look at price as it formed the supply/demand zone. When did price break out of the flag that held this supply/demand?
+
+Watch what price does once it retraces from the original break out: If price is moving out of demand, be looking for a DBR. If price is moving out of supply, be looking for a RBD.
+
+The Base of the DBR is the decision to break out of the demand zone. This is the anticipated area for price to bonce when it returns. As you can see from this example, price turned right at this DP.
+
+I also see there is a QM level located within the DP in the Base of the DBR.
+---END---
+##### hs_p26_643 hoeschec paras:4
+New Example: USD-CAD
+
+Supply Zone found:
+
+Price breaks out of the flag and retraces to form a RBD.
+
+In this example, price returned to the Base (DP) rather quickly. The bounce was strong and price even bounced a total of three times at the same DP.
+---END---
+##### hs_p26_644 hoeschec paras:7
+Here is an example of one that didn't work out so well - why?
+
+Here is the supply zone:
+
+First: It is hard to determine which FL is actually holding price up, therefore it is hard to ID exactly where the engulf of the supply zone occurred. The cart below shows where I see the break occurring:
+
+Assuming I fond the right place where price broke the lows, there was a retrace and a RBD, but it isn't as well formed as the others. Still, it looks like the DP for price to break out of the supply zone.
+
+Price does not react to DP on RT. Failed setup-
+
+There will be situations where price does not bounce at these DP's - What I want to understand is why this failed, and find a way to filter trade setups to reduce the number of fails. In a situation where price does not respect the DP, it is essentially a engulf or fakeout, right? Also, there are stacked supply zones directly above the DP....looks like a good opportunity for a fakeout. In this case, it seems that PA formed an engulf. Price Retraced and continued moving up and forming new highs. Does anyone else see any obvious indications that this DP wasn't going to hold down price? Is there a way to avoid taking a loss on a setup like this? Thanks!
+
+Maybe I labeled the wrong FL for drawing my levels - See my chart below....
+---END---
+##### hs_p26_645 hoeschec paras:3
+AUD-USD - More practice
+
+Very nice (and clear to see) engulf with a RT. RBD is labeled on the chart below:
+
+Perfect reaction when price returns on its FTB:
+---END---
+##### hs_p26_646 hoeschec paras:3
+I am understanding DP's better, but I think there might be a connection between Dp's and MPL's.
+
+In a situation where we are expecting price to bounce at a previous DP, should we be prepared for price to FO to the extreme of the supply zone? Here is a chart to illustrate my question:
+
+If this picture is accurate, how do we anticipate a F/O to the MPL? Is there any PA that would give a hint as to price's intention?
+---END---
+##### hs_p26_647 hoeschec paras:2
+USD-NZD:
+
+More examples
+---END---
+##### hs_p26_648 hoeschec paras:6
+I just accidentally deleted my post...and it was a long one
+
+I see a possible trade for EUR-JPY that I will be looking closely at this coming week. Here are the charts, top down analysis.
+
+Daily - strong Supply zone with lots of momentum.
+
+4-Hour Chart:
+
+15 Minute chart - you can see the engulf, but the RT and DP is still hard to see. You can see that the area of the DP is also overlapped in an area where we would expect to see a reactive QM level... more confirmation that this is a critical area where ample short orders are likely to exist.
+
+Let's drop down to a 1-min chart: Here you can easily see the EG, and DP. I may set an entry order for this one....
+---END---
+##### hs_p26_649 hoeschec paras:3
+Post 648 Continued:
+
+Just because there are several indications that price will bounce at this level, I won't ignore PA as price winds its way back to this level on approach. I would like to see some compression forming. Also, if we get a nice RBD supply level forming in the coming days that sets up just below the DP/QM level, I would definitely expect a diamond to occur.
+
+If I was an IT I would make the move up to this level look highly bullish to entice breakout traders... I will be waiting...
+---END---
+##### hs_p26_650 salivan paras:1
+hiya hoeschec good investigation, you are so close, keep it up mate
+---END---

@@ -1,0 +1,8 @@
+{
+  "jurij_p4_11": {
+    "ok": false,
+    "issue": "persian/terminology",
+    "why": "EN «range/chop creates the LTF field» means range/choppy, directionless price action; FA transliterated «chop» as «چاپ» (Persian for “print”), so «رنج/چاپ» is unintelligible and contradicts the post’s own earlier rendering «شرایط پرنوسان».",
+    "fix": "فقط یک زمین بازی وجود دارد، همانی که ITها ساخته‌اند.\n\nمنظورم این است که «رنج/روند» یا شرایط «پرنوسان» دیگری وجود ندارد؛ فقط مقیاس درست وجود دارد.\n\nوقتی بازار روند دارد (چیزی در سمت چپ نیست)، ITها قیمت را در زمین بازی HTF می‌رانند؛ به همین شکل رنج/بی‌روند زمین LTF را می‌سازد.\n\nEU 5m (یادداشت اشتباهی که 15m نوشته، لطفاً نادیده بگیر)\n\nEU 1H"
+  }
+}

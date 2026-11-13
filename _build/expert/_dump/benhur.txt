@@ -1,0 +1,763 @@
+@@@ benhur benhur_p1_1 [benhur]
+EN: After being away from actual trading, then had to clean some rust... ⏎  ⏎ 1. Buy @ M5 SR Rejection = +14.8 ⏎  ⏎ 2. Sell @ M15 Fresh S = +10.5 ⏎  ⏎ 3. Buy @ M1 Established D = + 41.2
+FA: بعد از دور بودن از معاملهٔ واقعی، باید کمی زنگ‌زدگی را پاک می‌کردم... ⏎  ⏎ 1. خرید @ M5 SR Rejection = +14.8 ⏎  ⏎ 2. فروش @ M15 Fresh S = +10.5 ⏎  ⏎ 3. خرید @ M1 Established D = + 41.2
+
+@@@ benhur benhur_p1_2 [kaspopsicle]
+EN: Mmmm..such good post on scraping every last pip out of market through being flexible to tf trading. Thank you :)
+FA: هوممم.. چه پست خوبی دربارهٔ بیرون کشیدن آخرین پیپ از بازار با انعطاف در معامله در تایم‌فریم‌ها. ممنون :)
+
+@@@ benhur benhur_p1_3 [benhur]
+EN: Scalping Short of EU for 28.3pips
+FA: اسکالپ شورت EU برای 28.3 پیپ
+
+@@@ benhur benhur_p1_4 [benhur]
+EN: EU scalp short for 16.8pips
+FA: اسکالپ شورت EU برای 16.8 پیپ
+
+@@@ benhur benhur_p1_5 [benhur]
+EN: 2 little scalps on AU. ⏎  ⏎ I am not trying to show off with 4 pips trades... ⏎  ⏎ I post it just for the reading.
+FA: 2 اسکالپ کوچک روی AU. ⏎  ⏎ قصد ندارم با معامله‌های 4 پیپی خودنمایی کنم... ⏎  ⏎ فقط برای خواندن می‌گذارم.
+
+@@@ benhur benhur_p1_6 [benhur]
+EN: 3 Early bird trades around London Open ⏎  ⏎ on a crazy jumpy morning.
+FA: 3 معاملهٔ سحرخیزانه حدود باز شدن لندن ⏎  ⏎ در یک صبح دیوانهٔ پرجهش.
+
+@@@ benhur benhur_p1_7 [Piptin]
+EN: Nice charts Ben
+FA: چارت‌های خوبی Ben
+
+@@@ benhur benhur_p1_8 [benhur]
+EN: EU scalping Session ⏎  ⏎ A lot of work for extra 30pips - but i enjoyed it very much ⏎  ⏎ (got hit by an event's spike for -20pips )
+FA: جلسهٔ اسکالپ EU ⏎  ⏎ کلی کار برای 30 پیپ اضافه — ولی خیلی لذت بردم ⏎  ⏎ (با یک سوزن خبری 20 پیپ ضرر خوردم)
+
+@@@ benhur benhur_p1_9 [harshrthakkar]
+EN: Hi Benhur, ⏎  ⏎ Can yo please help me identifying excellent supply and demand levels.
+FA: سلام Benhur، ⏎  ⏎ می‌شود لطفاً در شناسایی سطوح عالی عرضه و تقاضا کمکم کنی.
+
+@@@ benhur benhur_p1_10 [benhur]
+EN: harshrthakkar wrote: Hi Benhur, ⏎  ⏎ Can yo please help me identifying excellent supply and demand levels. ⏎  ⏎ harshthakkar, ⏎  ⏎ thank u for considering me of teaching... but I am no master at anything yet. ⏎  ⏎ I strongly recommend u to read this article: ⏎  ⏎  www.readthemarket.com/index.php/educatio...-zones-levels-by-mel ⏎  ⏎ Then post your charts in the forum, here: ⏎  ⏎  www.readthemarket.com/index.php/forum/cl...rt-and-resistance-pa ⏎  ⏎ When u post your charts and questions, I promise u to replay my ideas. ⏎  ⏎ please do your studies so we may progress our learning together.
+FA: harshrthakkar نوشت: سلام Benhur، ⏎  ⏎ می‌شود لطفاً در شناسایی سطوح عالی عرضه و تقاضا کمکم کنی. ⏎  ⏎ harshthakkar، ⏎  ⏎ ممنون که مرا لایق آموزش می‌دانی... ولی من هنوز در هیچ چیزی استاد نیستم. ⏎  ⏎ جداً پیشنهاد می‌کنم این مقاله را بخوانی: ⏎  ⏎ www.readthemarket.com/index.php/educatio...-zones-levels-by-mel ⏎  ⏎ بعد چارت‌هایت را در فروم اینجا بگذار: ⏎  ⏎ www.readthemarket.com/index.php/forum/cl...rt-and-resistance-pa ⏎  ⏎ وقتی چارت‌ها و پرسش‌هایت را گذاشتی، قول می‌دهم ایده‌هایم را بگویم. ⏎  ⏎ لطفاً مطالعه‌ات را انجام بده تا با هم یادگیری‌مان را پیش ببریم.
+
+@@@ benhur benhur_p1_11 [harshrthakkar]
+EN: i will surely do that but to start with i need to spot demand and ⏎ supply zones...i tried following mels article and trading but found few ⏎ levels faile miserably....so need your help can you pleae suggst an easy ⏎  way to find real good levels in
+FA: قطعاً این کار را می‌کنم، ولی برای شروع باید ناحیه‌های عرضه و تقاضا را تشخیص بدهم... مقالهٔ mel را دنبال کردم و معامله کردم ولی چند سطح به‌شکل بدی شکست خوردند....پس کمک تو لازم است؛ می‌شود یک راه آسان برای پیدا کردن سطوح واقعاً خوب پیشنهاد بدهی
+
+@@@ benhur benhur_p1_12 [Alientrader]
+EN: harshrthakkar wrote: i will ⏎ surely do that but to start with i need to spot demand and supply ⏎ zones...i tried following mels article and trading but found few levels ⏎ faile miserably....so need your help can you pleae suggst an easy way to ⏎  find real good levels in ⏎  ⏎ There is no easy way. Many hours of looking at charts is the only path. ⏎  Read "price is everything" thread and I would also suggest "BS trading ⏎  with Kenneth Lee" over at FF.
+FA: harshrthakkar نوشت: قطعاً این کار را می‌کنم، ولی برای شروع باید ناحیه‌های عرضه و تقاضا را تشخیص بدهم... مقالهٔ mel را دنبال کردم و معامله کردم ولی چند سطح به‌شکل بدی شکست خوردند....پس کمک تو لازم است؛ می‌شود یک راه آسان برای پیدا کردن سطوح واقعاً خوب پیشنهاد بدهی ⏎  ⏎ راه آسانی وجود ندارد. تنها راه، ساعت‌ها نگاه کردن به چارت است. تاپیک «price is everything» را بخوان و پیشنهاد می‌کنم «BS trading with Kenneth Lee» را در FF هم ببینی.
+
+@@@ benhur benhur_p1_13 [benhur]
+EN: harshrthakkar wrote: i will ⏎ surely do that but to start with i need to spot demand and supply ⏎ zones...i tried following mels article and trading but found few levels ⏎ faile miserably....so need your help can you pleae suggst an easy way to ⏎  find real good levels in ⏎  ⏎ I Agree with Alientrader. ⏎  ⏎ i want you to acknowledge that having your zones is not the end of it. ⏎ Zones can produce reversals and they can also be broken. Once you master ⏎  defining your zones, you will need to analyze the past at the origin of ⏎  the zone, the approach to the zone, understand the price move and ⏎ dynamic, and then apply upon price action. ⏎  ⏎ So your journey is only start now, don't expect magical success just with having Zones.
+FA: harshrthakkar نوشت: قطعاً این کار را می‌کنم، ولی برای شروع باید ناحیه‌های عرضه و تقاضا را تشخیص بدهم... مقالهٔ mel را دنبال کردم و معامله کردم ولی چند سطح به‌شکل بدی شکست خوردند....پس کمک تو لازم است؛ می‌شود یک راه آسان برای پیدا کردن سطوح واقعاً خوب پیشنهاد بدهی ⏎  ⏎ با Alientrader موافقم. ⏎  ⏎ می‌خواهم بپذیری که داشتن ناحیه‌هایت پایان کار نیست. ناحیه‌ها می‌توانند برگشت بسازند و می‌توانند شکسته شوند. وقتی تعریف ناحیه‌هایت را استاد شدی، باید گذشته را در مبدأ ناحیه، نزدیک شدن به ناحیه، حرکت و دینامیک قیمت تحلیل کنی و بعد روی رفتار قیمت پیاده کنی. ⏎  ⏎ پس سفرت تازه شروع شده است؛ انتظار موفقیت جادویی فقط با داشتن ناحیه‌ها را نداشته باش.
+
+@@@ benhur benhur_p1_15 [Harry]
+EN: looks like Kruger found competition. ⏎  ⏎ nice trading Ben, keep it up
+FA: به‌نظر می‌رسد Kruger رقیب پیدا کرده. ⏎  ⏎ معامله‌گری خوب Ben، ادامه بده
+
+@@@ benhur benhur_p1_16 [benhur]
+EN: +57.4pips
+FA: +57.4 پیپ
+
+@@@ benhur benhur_p1_17 [benhur]
+EN: +33.6pips
+FA: +33.6 پیپ
+
+@@@ benhur benhur_p1_18 [benhur]
+EN: and last one for today ⏎  ⏎ +26.2pips
+FA: و آخرین معاملهٔ امروز ⏎  ⏎ +26.2 پیپ
+
+@@@ benhur benhur_p1_19 [benhur]
+EN: Today Action involved EU and EJ and a lot of frustration for being stopped out at BE. ⏎  ⏎ Little by little plus thrilling EJ short I managed to gain about 8%.
+FA: معاملهٔ امروز شامل EU و EJ و کلی آزردگی برای استاپ خوردن روی BE بود. ⏎  ⏎ کم‌کم و به‌اضافهٔ شورت هیجان‌انگیز EJ حدود 8% سود گرفتم.
+
+@@@ benhur benhur_p1_22 [beebolbod]
+EN: Excellent stuff m8.... good work.
+FA: کار عالی رفیق.... کار خوبی.
+
+@@@ benhur benhur_p1_23 [kruger]
+EN: beebolbod wrote: Excellent stuff m8.... good work. ⏎  ⏎ Really is ⏎  ⏎ Nice trades.
+FA: beebolbod نوشت: کار عالی رفیق.... کار خوبی. ⏎  ⏎ واقعاً همین‌طور است ⏎  ⏎ معامله‌های خوبی.
+
+@@@ benhur benhur_p1_25 [pete@rtm]
+EN: I hate spamming over dumb questions I may have ⏎  ⏎ FTR = First time retrace?
+FA: بدم می‌آید با سؤال‌های احمقانه‌ام اسپم کنم ⏎  ⏎ FTR = اولین برگشت؟
+
+@@@ benhur benhur_p2_1 [benhur]
+EN: pete@rtm wrote: I hate spamming over dumb questions I may have ⏎  ⏎ FTR = First time retrace? ⏎  ⏎ No Please do, That is why we post in public; to learn, teach and exchange knowledge and ideas.... ⏎  ⏎ FTR = Fail To Return ⏎  ⏎ FTB = Fail To break
+FA: pete@rtm نوشت: بدم می‌آید با سؤال‌های احمقانه‌ام اسپم کنم ⏎  ⏎ FTR = اولین برگشت؟ ⏎  ⏎ نه، خواهش می‌کنم بپرس؛ به همین دلیل در جمع پست می‌گذاریم: برای یاد گرفتن، یاد دادن و تبادل دانش و ایده‌ها.... ⏎  ⏎ FTR = ناکامی در برگشت ⏎  ⏎ FTB = ناکامی در شکستن
+
+@@@ benhur benhur_p2_2 [snebucA]
+EN: FYI: ⏎  ⏎  www.readthemarket.com/index.php/education/abbreviations1 ⏎  ⏎ FTB conflicts with First Time Back in this case..
+FA: برای اطلاعت: ⏎  ⏎ www.readthemarket.com/index.php/education/abbreviations1 ⏎  ⏎ در این حالت FTB با First Time Back تداخل دارد..
+
+@@@ benhur benhur_p2_3 [benhur]
+EN: snebucA wrote: FYI: ⏎  ⏎  www.readthemarket.com/index.php/education/abbreviations1 ⏎  ⏎ FTB conflicts with First Time Back in this case.. ⏎  ⏎ You are correct SnebucA ⏎  ⏎ I should find other abbreviation for fail to break...
+FA: snebucA نوشت: برای اطلاعت: ⏎  ⏎ www.readthemarket.com/index.php/education/abbreviations1 ⏎  ⏎ در این حالت FTB با First Time Back تداخل دارد.. ⏎  ⏎ درست می‌گویی SnebucA ⏎  ⏎ باید مخفف دیگری برای ناکامی در شکستن پیدا کنم...
+
+@@@ benhur benhur_p2_4 [benhur]
+EN: Some humble 24 pips with a Touch scalp on EU
+FA: چند پیپ 24 فروتنانه با یک اسکالپ لمسی روی EU
+
+@@@ benhur benhur_p2_5 [benhur]
+EN: I will start using my journal for posting some PA studies I conduct ⏎  ⏎ First one is FTR. Its a new term for me, and its application seems to be very strong on the first time back.
+FA: از ژورنالم برای گذاشتن چند مطالعهٔ PA که انجام می‌دهم استفاده می‌کنم ⏎  ⏎ اولی FTR است. واژهٔ تازه‌ای برای من است و کاربردش در اولین برگشت به‌نظر خیلی قوی است.
+
+@@@ benhur benhur_p2_11 [benhur]
+EN: +56 pips TP was freaking Accurate
+FA: +56 پیپ؛ تارگت به‌طرز دیوانه‌واری دقیق بود
+
+@@@ benhur benhur_p2_12 [benhur]
+EN: USDCAD still ongoing
+FA: USDCAD هنوز ادامه دارد
+
+@@@ benhur benhur_p2_13 [benhur]
+EN: +25 pips scalp for my brother's account
+FA: اسکالپ +25 پیپ برای حساب برادرم
+
+@@@ benhur benhur_p2_14 [benhur]
+EN: Just to be honest, I had to trust my plan to exit at better demand on the lower line. (few minutes after I closed it get there to the pip). could have bagged another 10p....
+FA: صادقانه بگویم، باید به برنامه‌ام اعتماد می‌کردم تا در تقاضای بهتر روی خط پایین‌تر خارج شوم. (چند دقیقه بعد از بستن، قیمت دقیقاً تا پیپ همان‌جا رفت). می‌توانستم 10 پیپ دیگر هم بگیرم....
+
+@@@ benhur benhur_p2_15 [benhur]
+EN: I think only NASA's path finder is slower then Loonie ⏎  ⏎ +75.5 Pips in 4 trading days
+FA: گمانم فقط path finder ناسا از Loonie کندتر است ⏎  ⏎ +75.5 پیپ در 4 روز معاملاتی
+
+@@@ benhur benhur_p2_16 [Ifmyante]
+EN: Pips is PIPS Baby!!!!!!!!
+FA: پیپ همان پیپ است عزیزم!!!!!!!!
+
+@@@ benhur benhur_p2_17 [snooptym]
+EN: Nice work and charts. Seems I can identify the supply and demand but get lost in between. Why do I make it so hard?
+FA: کار و چارت‌های خوبی. به‌نظر می‌توانم عرضه و تقاضا را تشخیص بدهم ولی در وسطش گم می‌شوم. چرا این‌قدر سختش می‌کنم؟
+
+@@@ benhur benhur_p2_18 [Technical]
+EN: benhur wrote: I think only NASA's path finder is slower then Loonie ⏎  ⏎ Yeah. ⏎  ⏎ I have been looking at EURNZD for a while now, talk about slow.
+FA: benhur نوشت: گمانم فقط path finder ناسا از Loonie کندتر است ⏎  ⏎ بله. ⏎  ⏎ مدتی است EURNZD را نگاه می‌کنم؛ حرف از کندی است.
+
+@@@ benhur benhur_p2_19 [benhur]
+EN: snooptym wrote: Nice work and charts. Seems I can identify the supply and demand but get lost in between. Why do I make it so hard? ⏎  ⏎ I see your work in your journal, you are on the right path; ⏎  ⏎ With practice you will get it at blinking eye. Just work on your chart practicing and you will be great after marking 100 each...
+FA: snooptym نوشت: کار و چارت‌های خوبی. به‌نظر می‌توانم عرضه و تقاضا را تشخیص بدهم ولی در وسطش گم می‌شوم. چرا این‌قدر سختش می‌کنم؟ ⏎  ⏎ کارت را در ژورنالت می‌بینم، در مسیر درستی هستی؛ ⏎  ⏎ با تمرین، در یک چشم به‌هم زدن می‌گیری‌اش. فقط روی چارت تمرین کن و بعد از علامت زدن 100 تای هر کدام، عالی می‌شوی...
+
+@@@ benhur benhur_p2_21 [benhur]
+EN: Morning fresh pips juice
+FA: آبِ پیپِ تازهٔ صبحگاهی
+
+@@@ benhur benhur_p2_22 [benhur]
+EN: 33.3 for brunch
+FA: 33.3 برای برانچ
+
+@@@ benhur benhur_p2_24 [kruger]
+EN: It's nice to join forces on EU front :) ⏎  ⏎ Good trading
+FA: خوب است که در جبههٔ EU نیروها را یکی می‌کنیم :) ⏎  ⏎ معامله‌گری خوب
+
+@@@ benhur benhur_p2_25 [benhur]
+EN: kruger wrote: It's nice to join forces on EU front :) ⏎  ⏎ Good trading ⏎  ⏎ Being in your team is a great honor :)
+FA: kruger نوشت: خوب است که در جبههٔ EU نیروها را یکی می‌کنیم :) ⏎  ⏎ معامله‌گری خوب ⏎  ⏎ بودن در تیم تو افتخار بزرگی است :)
+
+@@@ benhur benhur_p3_1 [Haydel]
+EN: Hey Ben, you are really Rocking . ⏎  ⏎ Congratulations.
+FA: سلام Ben، واقعاً می‌کوبی. ⏎  ⏎ تبریک.
+
+@@@ benhur benhur_p3_2 [benhur]
+EN: Haydel wrote: Hey Ben, you are really Rocking . ⏎  ⏎ Congratulations. ⏎  ⏎ Hola Haydel ⏎  ⏎ Great to see you in here!!!
+FA: Haydel نوشت: سلام Ben، واقعاً می‌کوبی. ⏎  ⏎ تبریک. ⏎  ⏎ هولا Haydel ⏎  ⏎ خیلی خوب است که تو را اینجا می‌بینم!!!
+
+@@@ benhur benhur_p3_4 [benhur]
+EN: Another 41 pips for the pot
+FA: 41 پیپ دیگر برای گنجینه
+
+@@@ benhur benhur_p3_5 [benhur]
+EN: On Daily UJ engulf Weekly Supply and compressed descending at QM levels. ⏎  ⏎ and then came BOJ to nail it fast and violent, Supplying me with 370 / 300 pips for two positions, adding over 70% to the account. ⏎  ⏎ Unfortunately that was for my demo account, as my psych is not ready yet for daily long term trades...
+FA: در تایم روزانه UJ عرضهٔ هفتگی را اینگالف کرد و در سطوح QM فشردهٔ نزولی ساخت. ⏎  ⏎ و بعد BOJ آمد تا سریع و خشن کار را تمام کند و 370 / 300 پیپ برای دو پوزیشن به من داد و بیش از 70% به حساب اضافه کرد. ⏎  ⏎ متأسفانه آن برای حساب دمو بود، چون روان‌ام هنوز برای معامله‌های بلندمدت روزانه آماده نیست...
+
+@@@ benhur benhur_p3_6 [benhur]
+EN: 2 trades for today ⏎  ⏎ Long to cover compression = 39.6pips ⏎  ⏎ and a short scalp taking me at BE+ 3...
+FA: 2 معامله برای امروز ⏎  ⏎ لانگ برای پوشش فشردگی = 39.6 پیپ ⏎  ⏎ و یک اسکالپ شورت که مرا در BE+ 3 بیرون آورد...
+
+@@@ benhur benhur_p3_7 [benhur]
+EN: So now I decided not to be greedy. ⏎  ⏎ Could make much more if I would let the trades role, exit only when PA tell me to - but no, I am no greedy... Arrrrrrrrg!@#
+FA: پس تصمیم گرفتم طمع نکنم. ⏎  ⏎ می‌توانستم خیلی بیشتر بگیرم اگر می‌گذاشتم معامله‌ها رول کنند و فقط وقتی PA می‌گوید خارج شوم — ولی نه، من طمع نمی‌کنم... آرررررر!@#
+
+@@@ benhur benhur_p3_9 [mettafort]
+EN: Hey Benhur- ⏎  ⏎ Thats a great trade! Did you short on the second white back where the red arrow starts, and then have to take drawdown? Were you expecting the area around that entry to be where price would simply turn and fall - the edge of that level effectively just above the RBD to its left? Is this area an QM too? ⏎  ⏎ MF
+FA: سلام Benhur- ⏎  ⏎ معاملهٔ عالی! در دومین برگشت سفید که فلش قرمز شروع می‌شود شورت گرفتی و بعد مجبور شدی دراودان تحمل کنی؟ انتظار داشتی ناحیهٔ اطراف آن ورود جایی باشد که قیمت فقط برمی‌گردد و می‌افتد — یعنی عملاً لبهٔ همان سطح، درست بالای RBD سمت چپش؟ این ناحیه هم QM است؟ ⏎  ⏎ MF
+
+@@@ benhur benhur_p3_10 [benhur]
+EN: Exactly MF!! ⏎  ⏎ I was given M1 confirmation and waited to touch trade on QM level. ⏎  ⏎ I had to suffer some DD, while price went to FO level, which was a better entry planning, but I am not that patient guy
+FA: دقیقاً MF!! ⏎  ⏎ تأیید M1 گرفتم و صبر کردم تا معاملهٔ لمسی روی سطح QM بزنم. ⏎  ⏎ باید کمی DD تحمل می‌کردم، چون قیمت به سطح FO رفت که برنامه‌ریزی ورود بهتری بود، ولی من آن آدم صبور نیستم
+
+@@@ benhur benhur_p3_11 [mettafort]
+EN: Thanks for explaining that Benhur, that was a nice very trade. ⏎  ⏎ MF
+FA: ممنون برای توضیح Benhur، آن یک معاملهٔ خیلی خوب بود. ⏎  ⏎ MF
+
+@@@ benhur benhur_p3_12 [benhur]
+EN: EJ Short, closed partial for 72 / 46 pips
+FA: شورت EJ، بخشی بسته شد برای 72 / 46 پیپ
+
+@@@ benhur benhur_p3_13 [benhur]
+EN: GBPCAD bounce scalp from QM level ⏎  ⏎ 73 pips - Half closed at failing to break supply + cp, half at BE
+FA: اسکالپ برگشت GBPCAD از سطح QM ⏎  ⏎ 73 پیپ — نصف در شکست ناکام عرضه + cp، نصف در BE
+
+@@@ benhur benhur_p3_14 [benhur]
+EN: A trade from Wednesday. I closed Partial at 218pips. The rest is free to go a little more ⏎  ⏎ reason why:
+FA: یک معامله از چهارشنبه. بخشی را در 218 پیپ بستم. بقیه آزاد است کمی بیشتر برود ⏎  ⏎ دلیلش:
+
+@@@ benhur benhur_p3_15 [Aaron]
+EN: Beautiful stuff BH!
+FA: چیز قشنگی BH!
+
+@@@ benhur benhur_p3_16 [benhur]
+EN: GJ update last portion closed at 244pips
+FA: آپدیت GJ، بخش آخر در 244 پیپ بسته شد
+
+@@@ benhur benhur_p3_17 [benhur]
+EN: USDCAD Long ⏎  ⏎ Closed Partial for approx 165pips ⏎  ⏎ Letting the rest run. ⏎  ⏎ From what it seem, chances Ucad might go for Weekly TF Target.
+FA: لانگ USDCAD ⏎  ⏎ بخشی بسته شد برای حدود 165 پیپ ⏎  ⏎ بقیه را می‌گذارم برود. ⏎  ⏎ از آنچه می‌بینم، احتمال دارد Ucad برای تارگت هفتگی برود.
+
+@@@ benhur benhur_p3_18 [benhur]
+EN: USDCHF Long ⏎  ⏎ Entry was nice, very soon after I had 30 pips to take. I wasn't even taking a partial close. ⏎  ⏎ then came fast retrace, i exited manually, banking only 10.2 pips.
+FA: لانگ USDCHF ⏎  ⏎ ورود خوب بود، خیلی زود 30 پیپ برای گرفتن داشتم. حتی بخشی هم نمی‌بستم. ⏎  ⏎ بعد برگشت سریع آمد، دستی خارج شدم و فقط 10.2 پیپ ذخیره کردم.
+
+@@@ benhur benhur_p3_19 [Aaron]
+EN: Hey man, ⏎  ⏎ Nice entry!!! Shame u did not stay in price carried on rallying... ⏎  ⏎ I am curious why you entered where you did, below is the daily and shows a clear support. ⏎  ⏎ Below is the 5 min, I have also highlighted a QM which I am sure you were aware of anyway, but would this not have given you confidence to stay in the trade? I am only speaking from hindsight mate and as you know it is 20/20. Did you enter purely because of the tails suggesting buying pressure? ⏎  ⏎ Cheer BH ⏎  ⏎ Aaron
+FA: سلام رفیق، ⏎  ⏎ ورود خوبی!!! حیف که نماندی؛ قیمت به رالی ادامه داد... ⏎  ⏎ کنجکاوم چرا همان‌جا که وارد شدی، پایین چارت روزانه است و یک حمایت واضح را نشان می‌دهد. ⏎  ⏎ پایین چارت 5 دقیقه است، یک QM را هم مشخص کردم که مطمئنم خودت هم می‌دانستی؛ ولی آیا این به تو اعتماد نمی‌داد که در معامله بمانی؟ من فقط از دید پس‌نگر حرف می‌زنم رفیق و می‌دانی که همیشه 20/20 است. فقط به‌خاطر دم‌هایی که فشار خرید را نشان می‌دادند وارد شدی؟ ⏎  ⏎ درود BH ⏎  ⏎ Aaron
+
+@@@ benhur benhur_p3_20 [benhur]
+EN: Hi Aaron. ⏎  ⏎ Thanks for stopping by my journal. ⏎  ⏎ The reason for entry was because of M15 QM . I tried to SAS (Scalp and See) with LTF TG in mind.
+FA: سلام Aaron. ⏎  ⏎ ممنون که به ژورنالم سر زدی. ⏎  ⏎ دلیل ورود، QM روی M15 بود. تلاش کردم SAS (اسکالپ و ببین) بزنم با TG روی LTF در ذهنم.
+
+@@@ benhur benhur_p3_21 [benhur]
+EN: Closed partial 2 of 3 on Ucad ⏎  ⏎ My plan for this trade was to rally to WK TG, but the ENG of FL signal me UCAD may reversing. ⏎  ⏎ I left a small portion, just for giving it a chance...
+FA: بخش دوم از 3 را روی Ucad بستم ⏎  ⏎ برنامه‌ام برای این معامله رالی تا TG هفتگی بود، ولی ENG شدن FL به من سیگنال داد UCAD ممکن است برگردد. ⏎  ⏎ بخش کوچکی گذاشتم، فقط برای اینکه شانسی داشته باشد...
+
+@@@ benhur benhur_p3_22 [benhur]
+EN: I am waiting to hunt short on NU ⏎  ⏎ My reasoning on charts: ⏎  ⏎ My levels of interest
+FA: منتظر شکار شورت روی NU هستم ⏎  ⏎ استدلال من روی چارت‌ها: ⏎  ⏎ سطوح مورد علاقهٔ من
+
+@@@ benhur benhur_p3_23 [rbnj0904]
+EN: Hi Benhur, ⏎  ⏎ Glad you posted the NU analysis in your journal :) , i had similar views in NU. Please check the image attached, hope my reasoning is right. ⏎  ⏎ Regards ⏎  ⏎ Narayan
+FA: سلام Benhur، ⏎  ⏎ خوشحالم که تحلیل NU را در ژورنالت گذاشتی :) من هم دید مشابهی در NU داشتم. لطفاً تصویر پیوست را ببین، امیدوارم استدلالم درست باشد. ⏎  ⏎ با احترام ⏎  ⏎ Narayan
+
+@@@ benhur benhur_p3_24 [benhur]
+EN: Narayan ⏎  ⏎ I like your analysis. ⏎  ⏎ But I wonder why weren't you trading according your analysis. You marked far better price for selling, regardless you TT sold at supply. ⏎  ⏎ It is good that you took that trade, but we know that IT seeking better prices inside the zones, you would better off bank your Touch trade. ⏎  ⏎ My opinion: Good Analysis - Play by it
+FA: Narayan ⏎  ⏎ تحلیلت را دوست دارم. ⏎  ⏎ ولی کنجکاوم چرا طبق تحلیلت معامله نکردی. قیمت خیلی بهتری برای فروش علامت زده بودی، با این حال TT در عرضه فروختی. ⏎  ⏎ خوب است که آن معامله را گرفتی، ولی می‌دانیم بازار داخل ناحیه‌ها دنبال قیمت‌های بهتر است؛ بهتر بود معاملهٔ لمسی‌ات را ذخیره می‌کردی. ⏎  ⏎ نظر من: تحلیل خوب — طبق آن بازی کن
+
+@@@ benhur benhur_p3_25 [rbnj0904]
+EN: Hi Benhur, ⏎  ⏎ Thanks for your comments, yes i guess i entered a bit early and decided to touch trade as i felt the red zone marked below looked like a nice FTR and could possibly try and turn the price down. ⏎  ⏎ Thanks again ⏎  ⏎ Narayan
+FA: سلام Benhur، ⏎  ⏎ ممنون برای کامنت‌هایت، بله حدس می‌زنم کمی زود وارد شدم و تصمیم گرفتم معاملهٔ لمسی بزنم چون ناحیهٔ قرمزی که پایین علامت زده‌ام شبیه FTR خوبی بود و می‌توانست قیمت را به پایین برگرداند. ⏎  ⏎ باز هم ممنون ⏎  ⏎ Narayan
+
+@@@ benhur benhur_p4_1 [benhur]
+EN: Had 100 pips, but let it stopped me out for 50
+FA: 100 پیپ داشتم، ولی گذاشتم 50 پیپ مرا استاپ کند
+
+@@@ benhur benhur_p4_2 [martinT]
+EN: Hello Gil ⏎  ⏎ could you share, if it is not protected by copyright the indicator the ⏎ add an alert and a price tag to the horizontal trendline you are using ? ⏎  ⏎ this one ⏎  ⏎ thank you
+FA: سلام Gil ⏎  ⏎ می‌شود اگر حق نشر ندارد، آن اندیکاتوری را که به خط روند افقی‌ات آلارم و برچسب قیمت اضافه می‌کند با ما به اشتراک بگذاری؟ ⏎  ⏎ همین یکی ⏎  ⏎ ممنون
+
+@@@ benhur benhur_p4_3 [benhur]
+EN: I should release it as soon as I'll have time to write a manual for it.
+FA: باید زودتر از این منتشرش کنم، هر وقت وقت داشتم راهنمایش را بنویسم.
+
+@@@ benhur benhur_p4_4 [benhur]
+EN: Two Yen trades before the weekend. ⏎  ⏎ Current EJ 46.2 pips ⏎  ⏎ Current GJ 69.2 pips
+FA: دو معاملهٔ ین قبل از آخر هفته. ⏎  ⏎ EJ فعلی 46.2 پیپ ⏎  ⏎ GJ فعلی 69.2 پیپ
+
+@@@ benhur benhur_p4_5 [dcabfx]
+EN: Nice trades Benhur. The drawdown the the GJ was really good. Great catch on that one. ⏎  ⏎ I'm in on the EJ as well. 6 pip DD. TP is at the base of the Pole ⏎ (139.700 approximately). The FTR that we can see on the 4HR held up ⏎ nicely on this presenting a QM level we both got into. Worked out ⏎ beautifully.
+FA: معامله‌های خوبی Benhur. دراودان GJ واقعاً خوب بود. گرفتن عالی روی آن یکی. ⏎  ⏎ من هم در EJ هستم. 6 پیپ DD. TP روی پایهٔ Pole است (تقریباً 139.700). FTR‌یی که در 4 ساعته می‌بینیم خوب ایستاد و یک سطح QM ساخت که هر دو واردش شدیم. زیبا از آب درآمد.
+
+@@@ benhur benhur_p4_6 [benhur]
+EN: Beautiful entry at the tip ⏎  ⏎ I was waiting for confirmation, so I got it a little lower: entered with CP with my favor.
+FA: ورود زیبایی در نوک ⏎  ⏎ منتظر تأیید بودم، پس کمی پایین‌تر گرفتم: با CP به نفع خودم وارد شدم.
+
+@@@ benhur benhur_p4_7 [Ifmyante]
+EN: Long overdue new star, brother :)
+FA: ستارهٔ تازهٔ دیررس، برادر :)
+
+@@@ benhur benhur_p4_8 [benhur]
+EN: Ifmyante wrote: Long overdue new star, brother :) ⏎  ⏎ Ohh My.... Thank you.
+FA: Ifmyante نوشت: ستارهٔ تازهٔ دیررس، برادر :) ⏎  ⏎ وای خدای من.... ممنون.
+
+@@@ benhur benhur_p4_9 [DharmaTrader]
+EN: Congrats! Very well deserved!
+FA: تبریک! کاملاً مستحق بودی!
+
+@@@ benhur benhur_p4_10 [dcabfx]
+EN: Nice! Long deserved pal. Looking through RTM and seeing all the ⏎ posts and your hard work, I think you've had this coming a long time ⏎ now. ⏎  ⏎ Congrats man!
+FA: عالی! مدتها مستحقش بودی رفیق. با نگاه به RTM و دیدن همهٔ پست‌ها و کار سختت، فکر می‌کنم خیلی وقت است این را می‌خواستی. ⏎  ⏎ تبریک مرد!
+
+@@@ benhur benhur_p4_11 [Oz]
+EN: Congrats benhur, ⏎  ⏎ there is much we can learn from you, ⏎  ⏎ great guy, ⏎  ⏎ great charts, ⏎  ⏎ very helpful. ⏎  ⏎ Thank YOU !
+FA: تبریک benhur، ⏎  ⏎ چیز زیادی هست که از تو یاد بگیریم، ⏎  ⏎ مرد عالی، ⏎  ⏎ چارت‌های عالی، ⏎  ⏎ خیلی کمک‌کننده. ⏎  ⏎ ممنون از تو !
+
+@@@ benhur benhur_p4_12 [Warren]
+EN: dcabfx wrote: Nice! Long ⏎ deserved pal. Looking through RTM and seeing all the posts and your ⏎ hard work, I think you've had this coming a long time now. ⏎  ⏎ Congrats man! ⏎  ⏎ I think Gill has been really busy behind the scenes, that is the bit that goes unnoticed ! ⏎  ⏎ You are part of a community that is changing peoples lives, in a world ⏎ that is tearing itself apart. I respect and commend you for your ⏎ efforts. this forum visually is only 25% of the work that is actually ⏎ done, i know you have been tiring over it for a longtime. ⏎  ⏎ I remember when we had our first chat with Emy on skype. MY you quizzed ⏎ me, nothing changed there, but what has , is you trading , i have seen ⏎ your growth.......where have you been hiding. ⏎  ⏎ From not so sure to very accurate. You deserve to be part of this journey , because you have silently helped built it. ⏎  ⏎ Please all, give this gentleman the recognition he deserves. ⏎  ⏎ Warren
+FA: dcabfx نوشت: عالی! مدتها مستحقش بودی رفیق. با نگاه به RTM و دیدن همهٔ پست‌ها و کار سختت، فکر می‌کنم خیلی وقت است این را می‌خواستی. ⏎  ⏎ تبریک مرد! ⏎  ⏎ فکر می‌کنم Gill پشت صحنه واقعاً مشغول بوده، همان بخشی که دیده نمی‌شود! ⏎  ⏎ تو بخشی از جامعه‌ای هستی که زندگی مردم را عوض می‌کند، در دنیایی که خودش را از هم می‌درد. تلاش‌هایت را احترام می‌گذارم و تحسین می‌کنم. این فروم ظاهراً فقط 25% از کاری است که واقعاً انجام می‌شود؛ می‌دانم مدت زیادی است رویش خسته شده‌ای. ⏎  ⏎ یادم می‌آید اولین چت‌مان با Emy در اسکایپ. وای چقدر از من سؤال پیچ کردی، آنجا چیزی عوض نشده، ولی چیزی که عوض شده معامله‌گری توست، رشدت را دیده‌ام.......کجا پنهان شده بودی. ⏎  ⏎ از نامطمئن به خیلی دقیق. مستحق اینکه بخشی از این سفر باشی، چون بی‌صدا در ساختنش کمک کرده‌ای. ⏎  ⏎ خواهش می‌کنم همه، به این آقا همان اندازه که مستحق است توجه کنید. ⏎  ⏎ Warren
+
+@@@ benhur benhur_p4_13 [Frxter]
+EN: Congratulations, mate! ⏎  ⏎ Salud!!!
+FA: تبریک رفیق! ⏎  ⏎ سلامتی!!!
+
+@@@ benhur benhur_p4_14 [mertch]
+EN: Great my friend, you deserve it. Félicitation!
+FA: عالی دوستم، مستحقش بودی. Félicitation!
+
+@@@ benhur benhur_p4_15 [Harry]
+EN: Warren wrote: this forum ⏎ visually is only 25% of the work that is actually done, i know you have ⏎ been tiring over it for a longtime. ⏎  ⏎ make that 2,5% and you are in. our tech team Gil & Martin are doing ⏎ an exceptional job at the forum, while they could have said "goodbye and ⏎  thank you for the fish" a loooong time ago. instead they maintain a ⏎ place where other people can learn to fish and teach some fishing too of ⏎  their own. ⏎  ⏎ fuckit, enough with the fish. congratulations for a much deserved shiny star my friend, cheers
+FA: Warren نوشت: این فروم ظاهراً فقط 25% از کاری است که واقعاً انجام می‌شود؛ می‌دانم مدت زیادی است رویش خسته شده‌ای. ⏎  ⏎ آن را 2,5% بگیر و درست می‌شوی. تیم فنی ما Gil و Martin کار استثنایی در فروم می‌کنند، در حالی که می‌توانستند خیلی وقت پیش بگویند «خداحافظ و ممنون برای ماهی». در عوض جایی را نگه می‌دارند که دیگران می‌توانند ماهی‌گیری یاد بگیرند و خودشان هم کمی ماهی‌گیری یاد بدهند. ⏎  ⏎ بی‌خیال، بس است با ماهی. تبریک برای یک ستارهٔ درخشان کاملاً مستحق رفیق، درود
+
+@@@ benhur benhur_p4_16 [Aaron]
+EN: Well done mate!!! A very well deserved promotion... ⏎  ⏎ Thank you for all you've done
+FA: کار خوبی کردی رفیق!!! یک ترفیع کاملاً مستحق... ⏎  ⏎ ممنون برای همهٔ کاری که کرده‌ای
+
+@@@ benhur benhur_p4_17 [harshrthakkar]
+EN: congrats Ben.
+FA: تبریک Ben.
+
+@@@ benhur benhur_p4_18 [—]
+EN: Very Nice. Congratulations ! Very Well deserved.
+FA: خیلی خوب. تبریک ! کاملاً مستحق بودی.
+
+@@@ benhur benhur_p4_19 [benhur]
+EN: Thank you everybody. I still have to digest this title, it doesn't come natural to me just yet. ⏎  ⏎ We are the greatest traders community, I am so proud being a part of us. ⏎  ⏎ Lets keep supporting each other's journey to prosperity and perfection. ⏎  ⏎ Thank you from the deep of my heart to all of you, ⏎  ⏎ Special Thanks for IF for being my life changer mentor, and for Martin for being my game changer buddy. ⏎  ⏎ Gil
+FA: ممنون از همه. هنوز باید این عنوان را هضم کنم، برایم هنوز طبیعی نیست. ⏎  ⏎ ما بهترین جامعهٔ معامله‌گران هستیم، خیلی افتخار می‌کنم بخشی از ماییم. ⏎  ⏎ بگذارید از سفر همدیگر به‌سوی رفاه و کمال حمایت کنیم. ⏎  ⏎ از ته قلبم از همهٔ شما ممنونم، ⏎  ⏎ تشکر ویژه از IF برای اینکه مربی تغییردهندهٔ زندگی من بود، و از Martin برای اینکه رفیق تغییردهندهٔ بازی من بود. ⏎  ⏎ Gil
+
+@@@ benhur benhur_p4_20 [DrSwing]
+EN: More than deserved Benhur ~^o^~ . A very sincere thank you for all your work here on RTM.
+FA: بیش از مستحق Benhur ~^o^~ . یک تشکر خیلی صمیمانه برای همهٔ کارت در RTM.
+
+@@@ benhur benhur_p4_21 [rcmacf]
+EN: Sweet. Thanks so much for your efforts, here. Priceless.
+FA: خوب است. خیلی ممنون برای تلاش‌هایت اینجا. بی‌بها.
+
+@@@ benhur benhur_p4_22 [rcmacf]
+EN: PS ⏎  ⏎ benhur wrote: Had 100 pips, but let it stopped me out for 50
+FA: پینوشت ⏎  ⏎ benhur نوشت: 100 پیپ داشتم، ولی گذاشتم 50 پیپ مرا استاپ کند
+
+@@@ benhur benhur_p4_23 [supersprouse]
+EN: Congratulations Benhur! Definitely long overdue!!
+FA: تبریک Benhur! قطعاً مدتها مستحقش بودی!!
+
+@@@ benhur benhur_p4_24 [benhur]
+EN: rcmacf wrote: PS ⏎  ⏎ You are absolutely Right!!! ⏎  ⏎ Being too much optimistic about my runners is one thing i struggle to concur.
+FA: rcmacf نوشت: پینوشت ⏎  ⏎ کاملاً حق با توست!!! ⏎  ⏎ زیاد خوش‌بین بودن دربارهٔ رانرهایم یکی از چیزهایی است که برای پذیرفتنش می‌جنگم.
+
+@@@ benhur benhur_p4_25 [in2forex]
+EN: A bit late to the party. ⏎  ⏎ Well deserved!!! ⏎  ⏎ Regards ⏎  ⏎ In2forex
+FA: کمی دیر به مهمانی رسیدم. ⏎  ⏎ کاملاً مستحق!!! ⏎  ⏎ با احترام ⏎  ⏎ In2forex
+
+@@@ benhur benhur_p5_1 [kruger]
+EN: Congratulations B.
+FA: تبریک B.
+
+@@@ benhur benhur_p5_2 [benhur]
+EN: Closed GJ and EJ at reaction on Support
+FA: GJ و EJ را در واکنش به حمایت بستم
+
+@@@ benhur benhur_p5_3 [fxtiger]
+EN: Hi, congratz Master B ......... ⏎  ⏎ Wanna ask you something, you said that Martin have changed your point of view of the market. ⏎  ⏎ So how did you look at the market before and after ? could you describe it. ⏎  ⏎ I still got lot of losses on my trades, perhaps I still haven't changed my point of view to the market. ⏎  ⏎ Thanks B.
+FA: سلام، تبریک استاد B ......... ⏎  ⏎ می‌خواهم چیزی از تو بپرسم؛ گفتی که Martin دیدگاهت را نسبت به بازار عوض کرده. ⏎  ⏎ خب، قبل و بعدش چطور به بازار نگاه می‌کردی؟ می‌توانی توصیفش کنی؟ ⏎  ⏎ من هنوز در معامله‌هایم ضررهای زیادی می‌خورم؛ شاید هنوز طرز نگاهم را به بازار تغییر نداده‌ام. ⏎  ⏎ ممنون B.
+
+@@@ benhur benhur_p5_4 [benhur]
+EN: Very good question tiger. ⏎  ⏎ Mainly 2 things made the change for me ⏎  ⏎ 1] Simplify the levels of interest analysis: meaning stick to one or two types of structures to define levels ⏎  ⏎ 2] take the most extreme levels of HTF ( H4 and up). with HTF reaction always provide some pips, to allow you lock into profit as quick, even if the trade do not turn to be a swing. ⏎  ⏎ The structures I use most is Quasimodo.
+FA: سؤال خیلی خوبی است tiger. ⏎  ⏎ عمدتاً 2 چیز این تغییر را برای من رقم زد ⏎  ⏎ 1] ساده کردن تحلیل سطوح مورد توجه: یعنی به یک یا دو نوع ساختار برای تعریف سطوح بچسب ⏎  ⏎ 2] شدیدترین سطوح تایم‌فریم بالاتر (H4 به بالا) را بگیر. واکنش در تایم‌فریم‌های بالاتر همیشه چند پیپ می‌دهد تا بتوانی سریع سود را قفل کنی، حتی اگر معامله به سوئینگ تبدیل نشود. ⏎  ⏎ ساختاری که بیشتر از همه استفاده می‌کنم Quasimodo است.
+
+@@@ benhur benhur_p5_5 [madwt]
+EN: Dang! ⏎  ⏎ Did not see your upgraded status until now! ⏎  ⏎ Wow... Awesome... Fantastic... Marvelous... Amazing... Etc.! ⏎  ⏎ Very, very deserving Gil.... ⏎  ⏎ Congratulations Bro! ⏎  ⏎ madwt
+FA: وای! ⏎  ⏎ تا حالا ارتقای وضعیتت را ندیده بودم! ⏎  ⏎ وای... عالی... فوق‌العاده... بی‌نظیر... حیرت‌انگیز... الی آخر! ⏎  ⏎ کاملاً، کاملاً مستحقش بودی Gil.... ⏎  ⏎ تبریک برادر! ⏎  ⏎ madwt
+
+@@@ benhur benhur_p5_6 [benhur]
+EN: Took a lot of patience before this NJ finally decides to dive.
+FA: کلی صبر لازم بود تا NJ بالاخره تصمیم بگیرد شیرجه بزند.
+
+@@@ benhur benhur_p5_7 [Aaron]
+EN: BH, ⏎  ⏎ You're trading is very impressive! Recently your trading has taken on a whole new level, well done!!!!!!
+FA: BH، ⏎  ⏎ معامله‌گری‌ات خیلی چشمگیر است! اخیراً معامله‌گری‌ات به سطح کاملاً تازه‌ای رسیده، آفرین!!!!!!
+
+@@@ benhur benhur_p5_8 [sylntthunder]
+EN: benhur wrote: Took a lot of patience before this NJ finally decides to dive. ⏎  ⏎ Allow me to analyze this trade and see if I'm on track with your thought pattern when you entered it. ⏎  ⏎ Weekly ⏎  ⏎ Daily ⏎  ⏎ 4hr ⏎  ⏎ 15min ⏎  ⏎ 1min QM Setup ⏎  ⏎ 1min Entry (Stop loss above pivot high. Forgot to add that to the annotation...) ⏎  ⏎ Targets ⏎  ⏎ See my ultimate problem is that it seems that I do good analysis on paper, but for some reason, I still have complete disasters in my live trading account. Like today I had about 4 losses in a row which really surprised both me and my account balance ... Sometimes I wonder if I'm a victim of over trading.. But I look forward to your response to my analysis of your trade. ⏎  ⏎ Thanks, ⏎  ⏎ SylntThunder
+FA: benhur نوشت: کلی صبر لازم بود تا NJ بالاخره تصمیم بگیرد شیرجه بزند. ⏎  ⏎ اجازه بده این معامله را تحلیل کنم و ببینم آیا با الگوی فکری‌ات در لحظهٔ ورود همسو هستم یا نه. ⏎  ⏎ هفتگی ⏎  ⏎ روزانه ⏎  ⏎ 4 ساعته ⏎  ⏎ 15 دقیقه ⏎  ⏎ ستاپ QM در 1 دقیقه ⏎  ⏎ ورود در 1 دقیقه (استاپ‌لاس بالای سقف پیوت. یادم رفت آن را در یادداشت بنویسم...) ⏎  ⏎ تارگت‌ها ⏎  ⏎ ببین، مشکل اصلی من این است که به نظر می‌رسد روی کاغذ تحلیل‌های خوبی می‌کنم، ولی به دلیلی در حساب معامله‌گری واقعی‌ام با فاجعه‌های تمام‌عیار روبه‌رو می‌شوم. مثلاً امروز حدود 4 ضرر پشت سر هم داشتم که واقعاً هم من و هم موجودی حسابم را شگفت‌زده کرد... گاهی به این فکر می‌کنم که قربانی بیش‌معامله‌گری هستم.. ولی منتظر پاسخ تو به تحلیلم از معامله‌ات هستم. ⏎  ⏎ ممنون، ⏎  ⏎ SylntThunder
+
+@@@ benhur benhur_p5_9 [benhur]
+EN: sylntthunder ⏎  ⏎ Yes you are absolutely on track with the HTF reasoning. ⏎  ⏎ The confirmation for the Weekly level to short, was the LTF Can Can / QM price action. ⏎  ⏎ I think we both have similar analysis, I care mostly about LTF confirmation of HTF levels. ⏎  ⏎ I dont think there is such thing of over trading, your enthusiasm for this profession will win eventually, and you will be benefited with the best job on earth only few can do. ⏎  ⏎ My break was when I started trading HTF levels with LTF confirmation. taking only most extreme levels has so many advantages. ⏎  ⏎ 1. first your risk is very low, and so the time it take for conviction of the trade success potential. ⏎  ⏎ 2. with the extremes, most of the time you have the privileged to profit from minor reactions. so your winning and gain experience is much greater. ⏎  ⏎ 3. at the extremes your psychology state is very comfortable. you dont sweat while trading, and you learn to just hate any minor drawdown. ⏎  ⏎ Hope it helps a little ⏎  ⏎ Keep on the trading enthusiasm. ⏎  ⏎ G
+FA: sylntthunder ⏎  ⏎ بله، در استدلال تایم‌فریم بالاتر کاملاً در مسیر درستی هستی. ⏎  ⏎ تأیید سطح هفتگی برای شورت، پرایس اکشن Can Can / QM در تایم‌فریم پایین‌تر بود. ⏎  ⏎ فکر می‌کنم تحلیل هر دوی ما شبیه هم است؛ من بیشتر به تأیید سطوح تایم‌فریم بالاتر در تایم‌فریم پایین‌تر اهمیت می‌دهم. ⏎  ⏎ به نظرم چیزی به اسم بیش‌معامله‌گری وجود ندارد؛ شور و اشتیاقت به این حرفه سرانجام برنده می‌شود و از بهترین شغل روی زمین بهره‌مند می‌شوی، شغلی که فقط عدهٔ اندکی می‌توانند انجامش دهند. ⏎  ⏎ نقطهٔ عطف من زمانی بود که شروع کردم در سطوح تایم‌فریم بالاتر با تأیید تایم‌فریم پایین‌تر معامله کنم. فقط شدیدترین سطوح را گرفتن مزایای بسیار زیادی دارد. ⏎  ⏎ 1. اول اینکه ریسکت خیلی پایین است و به همین نسبت، زمانی که برای باور پیدا کردن به پتانسیل موفقیت معامله لازم است هم کوتاه می‌شود. ⏎  ⏎ 2. در سطوح شدید، بیشتر وقت‌ها این امکان را داری که از واکنش‌های کوچک هم سود بگیری. بنابراین بردها و تجربه‌اندوزی‌ات بسیار بیشتر می‌شود. ⏎  ⏎ 3. در سطوح شدید، وضعیت روانی‌ات خیلی راحت است. هنگام معامله عرق نمی‌ریزی و یاد می‌گیری که کلاً از هر دراودان کوچکی متنفر باشی. ⏎  ⏎ امیدوارم کمی کمک کند ⏎  ⏎ شور معامله‌گری‌ات را حفظ کن. ⏎  ⏎ G
+
+@@@ benhur benhur_p5_10 [benhur]
+EN: Yesterday I missed out the USD strengthening events, I took my risk at continuation flag. ⏎  ⏎ While TG 1 didnt hit and price bounce off Support, I would hate to see 80 pips profit turn to be BE+2 pips, so I closed 1 partial at +45.6pips. ⏎  ⏎ The rest can work while I go play with my lovely joyful kids. Que sera sera...
+FA: دیروز رویدادهای تقویت دلار را از دست دادم و ریسکم را روی FL ادامه‌دهنده گرفتم. ⏎  ⏎ در حالی که TG 1 به هدفش نخورد و قیمت از حمایت برگشت، خوشم نمی‌آمد ببینم 80 پیپ سود به BE+2 پیپ تبدیل شود، پس یک بخش از پوزیشن را در +45.6 پیپ بستم. ⏎  ⏎ بقیه‌اش می‌تواند کار کند تا من بروم با بچه‌های شیرین و شادم بازی کنم. Que sera sera...
+
+@@@ benhur benhur_p5_11 [benhur]
+EN: HKDUSD horrible spread for the USDJPY identical twin.
+FA: HKDUSD اسپرد افتضاحی دارد، در حالی که دوقلوی همانند USDJPY است.
+
+@@@ benhur benhur_p5_12 [robin2win]
+EN: Hey Benhur :) ⏎  ⏎ I recently downloaded your multiple timefrime supply and demand indicator but I don't see the bars on your charts. Are u still using that? ⏎  ⏎ Cheers, ⏎  ⏎ Robin
+FA: سلام Benhur :) ⏎  ⏎ اخیراً اندیکاتور عرضه و تقاضای چندتایم‌فریمی‌ات را دانلود کردم، ولی میله‌هایش را روی چارت‌هایت نمی‌بینم. هنوز از آن استفاده می‌کنی؟ ⏎  ⏎ به سلامتی، ⏎  ⏎ Robin
+
+@@@ benhur benhur_p5_13 [benhur]
+EN: Hi Robin ⏎  ⏎ Currently I am not using it. not because of anything about the tool itself, rather just I can have now the big picture in my head without it. ⏎  ⏎ Using the tool and the coding process taught me a lot about price and MTF analysis. I recommend you work with it too. ⏎  ⏎ The tool itself provide you with the discipline and organization needed to concentrate all the information of MTF analysis. ⏎  ⏎ Gil
+FA: سلام Robin ⏎  ⏎ فعلاً از آن استفاده نمی‌کنم. نه به خاطر چیزی در خود ابزار، بلکه فقط چون حالا می‌توانم تصویر بزرگ را بدون آن در ذهنم نگه دارم. ⏎  ⏎ کار کردن با این ابزار و فرایند کدنویسی‌اش چیزهای زیادی دربارهٔ قیمت و تحلیل MTF به من آموخت. توصیه می‌کنم تو هم با آن کار کنی. ⏎  ⏎ خود ابزار آن نظم و سازماندهی را به تو می‌دهد که برای متمرکز کردن همهٔ اطلاعات تحلیل MTF لازم است. ⏎  ⏎ Gil
+
+@@@ benhur benhur_p5_14 [benhur]
+EN: I got this question in private message, I think it is better to reply it in public as I get similar questions:Hi Benhur, ⏎  ⏎ first, a very big thanks to your generous sharing of your charts and insights in the forum - your posts have been a real inspiration and eye-opener to a fledging trader like me. ⏎  ⏎ In particular, I think how you approach the market really makes sense - especially the part on LTF confirmation of HTF levels. If you don't mind, I have 2 questions: ⏎  ⏎ 1. You mentioned that the levels structure you use most is the QM. Does that mean that you start your analysis by looking for QM levels at significant H4/D1 swing highs or swing lows (which I assume are the extremes)? ⏎  ⏎ 2. As for LTF confirmation, are you referring to the LTF structure at the source of the HTF level or LTF entry set-up? Looking at your charts, you based your entry on some LTF entry set-ups when the price returns to the level, but do you also look at the LTF at the source of the HTF level to pinpoint the exact level? ⏎  ⏎ Basically I am scanning for QM levels of HTF. If the level itself is at extreme, I would be more comfortable to take it as is. ⏎  ⏎ There are more QM levels at Mid way of HTF - those offer scalp opportunities. ⏎  ⏎ LTF confirmation would be a newly forming QM structure occurring at logical HTF level and which is also explainable with LTF level at the origin of the HTF level i apply. LTF analysis of the origin provides the necessary resolution for better accuracy. TF are just price wrapped in arbitrary time period, while price is has a definite targets regardless of TF. Therefore MTF analysis is so much important for our work.
+FA: این سؤال را در پیام خصوصی دریافت کردم؛ فکر می‌کنم بهتر است عمومی پاسخش را بدهم، چون سؤال‌های مشابه هم زیاد می‌گیرم: سلام Benhur، ⏎  ⏎ اول از همه، خیلی خیلی ممنون که چارت‌ها و بینش‌هایت را این‌قدر سخاوتمندانه در فروم به اشتراک می‌گذاری — پست‌هایت برای معامله‌گر تازه‌کاری مثل من واقعاً الهام‌بخش و روشنگر بوده است. ⏎  ⏎ به‌طور خاص، فکر می‌کنم شیوه‌ات در برخورد با بازار واقعاً منطقی است — مخصوصاً بخش تأیید سطوح تایم‌فریم بالاتر در تایم‌فریم پایین‌تر. اگر اشکالی ندارد، 2 سؤال دارم: ⏎  ⏎ 1. گفتی ساختار سطوحی که بیشتر از همه استفاده می‌کنی QM است. یعنی تحلیلت را با جست‌وجوی سطوح QM در سقف‌ها یا کف‌های سوئینگ مهم H4/D1 شروع می‌کنی (که فرض می‌کنم همان سطوح شدید هستند)؟ ⏎  ⏎ 2. در مورد تأیید تایم‌فریم پایین‌تر، منظورت ساختار تایم‌فریم پایین‌تر در منشأ سطح تایم‌فریم بالاتر است یا ستاپ ورود در تایم‌فریم پایین‌تر؟ با نگاه به چارت‌هایت، ورودت را بر پایهٔ چند ستاپ ورود در تایم‌فریم پایین‌تر گذاشته‌ای وقتی قیمت به سطح برمی‌گردد، اما آیا تایم‌فریم پایین‌تر را در منشأ سطح تایم‌فریم بالاتر هم بررسی می‌کنی تا سطح دقیق را مشخص کنی؟ ⏎  ⏎ اساساً من دنبال سطوح QM در تایم‌فریم بالاتر می‌گردم. اگر خود سطح در ناحیهٔ شدید باشد، راحت‌ترم آن را همان‌طور که هست بگیرم. ⏎  ⏎ سطوح QM بیشتری در میانهٔ تایم‌فریم بالاتر وجود دارد — آن‌ها فرصت‌های اسکالپ می‌دهند. ⏎  ⏎ تأیید تایم‌فریم پایین‌تر یعنی ساختار QM تازه‌شکل‌گرفته‌ای که در سطح منطقی تایم‌فریم بالاتر رخ می‌دهد و با سطح تایم‌فریم پایین‌تر در منشأ سطح تایم‌فریم بالاتری که به کار می‌برم هم قابل توضیح است. تحلیل تایم‌فریم پایین‌تر از منشأ، دقت لازم برای صحت بیشتر را فراهم می‌کند. تایم‌فریم‌ها فقط قیمتی هستند که در بازه‌های زمانی دلبخواهی بسته‌بندی شده، در حالی که قیمت مستقل از تایم‌فریم تارگت‌های مشخصی دارد. به همین دلیل تحلیل MTF برای کار ما این‌قدر مهم است.
+
+@@@ benhur benhur_p5_15 [robin2win]
+EN: Hey benhur, ⏎  ⏎ Thanks for the reply to my question mate. Im trying it out right now it does seem to give a very broad perspective where we're at in the bigger pictures. Well done creating it :) ⏎  ⏎ Cheers
+FA: سلام benhur، ⏎  ⏎ ممنون از پاسخِ سوالم رفیق. همین حالا دارم امتحانش می‌کنم؛ به نظر می‌رسد دیدگاه خیلی گسترده‌ای می‌دهد از اینکه در تصویر بزرگ‌تر کجاییم. آفرین که ساختیش :) ⏎  ⏎ به سلامتی
+
+@@@ benhur benhur_p5_16 [benhur]
+EN: Exit AUDCHF for 138p
+FA: خروج از AUDCHF با 138 پیپ
+
+@@@ benhur benhur_p5_17 [Mike1]
+EN: That's a sexy trade, Benhur !
+FA: چه معاملهٔ جذابی، Benhur !
+
+@@@ benhur benhur_p5_18 [KGB]
+EN: Hi Benhur, ⏎  ⏎ I would like to ask you about your SL in this trade.Was above HH on this TF ? ⏎  ⏎ Thank you.
+FA: سلام Benhur، ⏎  ⏎ می‌خواستم دربارهٔ SL تو در این معامله بپرسم. بالای HH در این تایم‌فریم بود؟ ⏎  ⏎ ممنون.
+
+@@@ benhur benhur_p5_19 [benhur]
+EN: The conventional risk would be above the head of Quasimodo (HH). ⏎  ⏎ Sometimes when left shoulder is low, SL can be placed by lower PA.
+FA: ریسک متعارف بالای سر Quasimodo (HH) خواهد بود. ⏎  ⏎ گاهی وقتی شانهٔ چپ پایین است، SL را می‌توان بر اساس PA پایین‌تری گذاشت.
+
+@@@ benhur benhur_p5_20 [Miserly_One]
+EN: Awesome trade, Benhur!
+FA: معاملهٔ عالی‌ای بود، Benhur!
+
+@@@ benhur benhur_p5_21 [milkeyway]
+EN: Hi Benhur. I was drawing horizontal line at every turn and looking left. This this I saw 99% of the time at every turn. What is your comment on this ?
+FA: سلام Benhur. در هر چرخش یک خط افقی می‌کشیدم و به سمت چپ نگاه می‌کردم. این بار در همهٔ چرخش‌ها 99% مواقع همین را دیدم. نظرت دربارهٔ آن چیست؟
+
+@@@ benhur benhur_p5_22 [benhur]
+EN: Hi Milkeyway, ⏎  ⏎ Here is how I see things about your scenario. And YES, this is a very powerful scenario.
+FA: سلام Milkeyway، ⏎  ⏎ نگاه من به سناریوی تو این است. و بله، این سناریوی خیلی قدرتمندی است.
+
+@@@ benhur benhur_p5_23 [milkeyway]
+EN: benhur wrote: Hi Milkeyway, ⏎  ⏎ Here is how I see things about your scenario. And YES, this is a very powerful scenario. ⏎  ⏎  Warning: Spoiler! ⏎  ⏎  [ Click to expand ] ⏎  ⏎  [ Click to hide ] ⏎  ⏎ Agree. Here are some flip areas i noticed on GU.
+FA: benhur نوشت: سلام Milkeyway، ⏎  ⏎ نگاه من به سناریوی تو این است. و بله، این سناریوی خیلی قدرتمندی است. ⏎  ⏎ هشدار: اسپویلر! ⏎  ⏎ [ کلیک برای باز کردن ] ⏎  ⏎ [ کلیک برای بستن ] ⏎  ⏎ موافقم. این‌ها چند ناحیهٔ فلیپ است که در GU دیدم.
+
+@@@ benhur benhur_p5_24 [benhur]
+EN: beautiful work MW!!
+FA: کار قشنگی بود MW!!
+
+@@@ benhur benhur_p5_25 [harshrthakkar]
+EN: Hi Benhur ⏎  ⏎ Referring to you post # 122 marked in Red ie.point num 2,in which you said "lot of selling effort had to be put by sellers to break the level". ⏎  ⏎ I feel that his level will qualify only if it takes out few important lows as well.Am I right?
+FA: سلام Benhur ⏎  ⏎ با اشاره به پست شمارهٔ 122 تو که با رنگ قرمز مشخص شده، یعنی نکتهٔ شمارهٔ 2، که در آن گفتی «فروشندگان برای شکستن سطح باید تلاش فروش زیادی صرف می‌کردند». ⏎  ⏎ احساس می‌کنم این سطح فقط وقتی واجد شرایط می‌شود که چند کف مهم را هم از بین ببرد. درست می‌گویم؟
+
+@@@ benhur benhur_p6_1 [benhur]
+EN: harshrthakkar wrote: Hi Benhur ⏎  ⏎ Referring to you post # 122 marked in Red ie.point num 2,in which you ⏎ said "lot of selling effort had to be put by sellers to break the ⏎ level". ⏎  ⏎ I feel that his level will qualify only if it takes out few important lows as well.Am I right? ⏎  ⏎ Absolutely. (I think I mentioned it in #3)
+FA: harshrthakkar نوشت: سلام Benhur ⏎  ⏎ با اشاره به پست شمارهٔ 122 تو که با رنگ قرمز مشخص شده، یعنی نکتهٔ شمارهٔ 2، که در آن گفتی «فروشندگان برای شکستن سطح باید تلاش فروش زیادی صرف می‌کردند». ⏎  ⏎ احساس می‌کنم این سطح فقط وقتی واجد شرایط می‌شود که چند کف مهم را هم از بین ببرد. درست می‌گویم؟ ⏎  ⏎ کاملاً. (فکر می‌کنم در شمارهٔ 3 به آن اشاره کردم)
+
+@@@ benhur benhur_p6_2 [harshrthakkar]
+EN: Excellent,got it Ben,clearly explainex red horizontal line being taken out by downfall of price.Thank you
+FA: عالی، گرفتم Ben؛ اینکه خط افقی قرمز با نزول قیمت از میان می‌رود کاملاً روشن شد. ممنون
+
+@@@ benhur benhur_p6_3 [milkeyway]
+EN: Hi Gil. We look at FTR after engulf so why The engulf is displayed in REACTION instead of PAST ? Thanks.
+FA: سلام Gil. ما بعد از اینگالف به FTR نگاه می‌کنیم؛ پس چرا اینگالف در REACTION نمایش داده می‌شود و نه در PAST؟ ممنون.
+
+@@@ benhur benhur_p6_4 [benhur]
+EN: milkeyway wrote: Hi Gil. We look at FTR after engulf so why The engulf is displayed in REACTION instead of PAST ? Thanks. ⏎  ⏎ I suppose it matches both
+FA: milkeyway نوشت: سلام Gil. ما بعد از اینگالف به FTR نگاه می‌کنیم؛ پس چرا اینگالف در REACTION نمایش داده می‌شود و نه در PAST؟ ممنون. ⏎  ⏎ فکر می‌کنم با هر دو جور درمی‌آید
+
+@@@ benhur benhur_p6_5 [milkeyway]
+EN: Hi Benhur. ⏎  ⏎ I thought it is 3TB so sell orders may be consumed there and it will not ⏎  drop. But still it dropped. Could you please tell me why I was wrong ? ⏎  ⏎  readthemarket.com/index.php/forum/journa...ctice?start=75#33000
+FA: سلام Benhur. ⏎  ⏎ فکر می‌کردم 3TB است، پس ممکن است سفارش‌های فروش همان‌جا مصرف شوند و قیمت نیفتد. ولی با این حال افتاد. می‌شود بگویید چرا اشتباه می‌کردم؟ ⏎  ⏎ readthemarket.com/index.php/forum/journa...ctice?start=75#33000
+
+@@@ benhur benhur_p6_6 [strudl]
+EN: Hi MW and Benhur. ⏎  ⏎ Hope u don't mind me joining the discussion. Here is my take on it. Would love to hear from Benhur and others their view.
+FA: سلام MW و Benhur. ⏎  ⏎ امیدوارم از اینکه به بحث می‌پیوندم ناراحت نشوید. این نظر من است. دوست دارم نظر Benhur و بقیه را هم بشنوم.
+
+@@@ benhur benhur_p6_7 [Michal238]
+EN: Also there is very nice approach to this FO level visible on M1 chart.
+FA: همچنین رویکرد خیلی خوبی به این سطح FO وجود دارد که در چارت M1 دیده می‌شود.
+
+@@@ benhur benhur_p6_8 [Mike1]
+EN: I agree with strudl and Michal, good price analysis. Even though I ⏎ would've chosen the M1 PA approach if I had to trade this, that was good ⏎  level to TT with a small stop.
+FA: با strudl و Michal موافقم، تحلیل قیمت خوبی بود. با اینکه اگر خودم می‌خواستم این را معامله کنم رویکرد PA در M1 را انتخاب می‌کردم، آن سطح برای TT با یک استاپ کوچک خوب بود.
+
+@@@ benhur benhur_p6_9 [blackmovie]
+EN: strudl wrote: Hi MW and Benhur. ⏎  ⏎ Hope u don't mind me joining the discussion. Here is my take on it. Would love to hear from Benhur and others their view. ⏎  ⏎ Hey strudle, may I know what that rectangle represent?
+FA: strudl نوشت: سلام MW و Benhur. ⏎  ⏎ امیدوارم از اینکه به بحث می‌پیوندم ناراحت نشوید. این نظر من است. دوست دارم نظر Benhur و بقیه را هم بشنوم. ⏎  ⏎ سلام strudle، می‌شود بگویید آن مستطیل نشان‌دهندهٔ چیست؟
+
+@@@ benhur benhur_p6_10 [benhur]
+EN: Guyz, I have really nothing to add for what been answered here. ⏎  ⏎ Amit I am happy you bring up questions such as this.
+FA: رفقا، واقعاً چیزی برای اضافه کردن به جواب‌هایی که اینجا داده شده ندارم. ⏎  ⏎ Amit، خوشحالم که سؤال‌هایی از این دست مطرح می‌کنی.
+
+@@@ benhur benhur_p6_11 [benhur]
+EN: @ Black Movie: ⏎  ⏎ The Rectangle Strdl marked is a Flag Limit. ⏎  ⏎ It is very much recommended you be familiar with FL price action. ⏎  ⏎  readthemarket.com/index.php/flag-limits-dbd-rbr
+FA: @ Black Movie: ⏎  ⏎ مستطیلی که Strdl علامت زده، یک FL است. ⏎  ⏎ بسیار توصیه می‌شود که با پرایس اکشن FL آشنا باشی. ⏎  ⏎ readthemarket.com/index.php/flag-limits-dbd-rbr
+
+@@@ benhur benhur_p6_12 [xetrader]
+EN: hi Benhur, ⏎  ⏎ please suggest..
+FA: سلام Benhur، ⏎  ⏎ لطفاً راهنمایی کن..
+
+@@@ benhur benhur_p6_13 [milkeyway]
+EN: xetrader wrote: hi Benhur, ⏎  ⏎ please suggest.. ⏎  ⏎  Warning: Spoiler! ⏎  ⏎  [ Click to expand ] ⏎  ⏎  [ Click to hide ] ⏎  ⏎ See this analysis this may help you. If you are not a pro trader, I ⏎ recommend you to learn RTM on MT4 first. Even I am also practicing on ⏎ Demo. And as i said before, asking about buying and selling is not ⏎ helpful for learning. I don't think RTM is the site where we provide buy ⏎  and sell advice like signals. We teach, learn and help to learn ⏎ concepts here. So, you can ask any question regarding LEARNING CONCEPTS ⏎ if you couldn't understand it. You have to go through articles and focus ⏎  on LEARNING. ⏎  ⏎  readthemarket.com/index.php/forum/journa...tice?start=100#33077
+FA: xetrader نوشت: سلام Benhur، ⏎  ⏎ لطفاً راهنمایی کن.. ⏎  ⏎ هشدار: اسپویلر! ⏎  ⏎ [ کلیک برای باز کردن ] ⏎  ⏎ [ کلیک برای بستن ] ⏎  ⏎ این تحلیل را ببین، شاید کمکت کند. اگر معامله‌گر حرفه‌ای نیستی، توصیه می‌کنم اول RTM را روی MT4 یاد بگیری. حتی من هم روی Demo تمرین می‌کنم. و همان‌طور که قبلاً گفتم، پرسیدن دربارهٔ خرید و فروش برای یادگیری مفید نیست. فکر نمی‌کنم RTM جایی باشد که ما توصیهٔ خرید و فروش مثل سیگنال بدهیم. ما اینجا آموزش می‌دهیم، یاد می‌گیریم و به یادگیری مفاهیم کمک می‌کنیم. پس اگر مفهومی را متوجه نشدی، می‌توانی هر سؤالی دربارهٔ یادگیری مفاهیم بپرسی. باید مقاله‌ها را بخوانی و روی یادگیری تمرکز کنی. ⏎  ⏎ readthemarket.com/index.php/forum/journa...tice?start=100#33077
+
+@@@ benhur benhur_p6_14 [milkeyway]
+EN: Thanks Ben, Michal, Studl, Mike and Blackmovie. ⏎  ⏎ Ben, I honestly want to say that I think that I couldn't understand how to use Engulf for confirmation yet. I have to focus on FL and Engulf. I will start my study again on FL and Engulf.
+FA: ممنون Ben، Michal، Studl، Mike و Blackmovie. ⏎  ⏎ Ben، صادقانه می‌خواهم بگویم که فکر می‌کنم هنوز نفهمیده‌ام چطور از اینگالف برای تأیید استفاده کنم. باید روی FL و اینگالف تمرکز کنم. مطالعه‌ام را دوباره از FL و اینگالف شروع می‌کنم.
+
+@@@ benhur benhur_p6_15 [benhur]
+EN: xetrader wrote: hi Benhur, ⏎  ⏎ please suggest.. ⏎  ⏎ What was your analysis you based your entry?
+FA: xetrader نوشت: سلام Benhur، ⏎  ⏎ لطفاً راهنمایی کن.. ⏎  ⏎ تحلیلی که ورودت را بر آن بنا کردی چه بود؟
+
+@@@ benhur benhur_p6_16 [benhur]
+EN: milkeyway wrote: Thanks Ben, Michal, Studl, Mike and Blackmovie. ⏎  ⏎ Ben, I honestly want to say that I think that I couldn't understand how to use Engulf for confirmation yet. I have to focus on FL and Engulf. I will start my study again on FL and Engulf. ⏎  ⏎ Learn and practice FL. knowing which FL is significant is the break thru needed to understand proper engulf as confirmation. ⏎  ⏎ Remember the logic. If a significant level is swapped - it is a confirmation.
+FA: milkeyway نوشت: ممنون Ben، Michal، Studl، Mike و Blackmovie. ⏎  ⏎ Ben، صادقانه می‌خواهم بگویم که فکر می‌کنم هنوز نفهمیده‌ام چطور از اینگالف برای تأیید استفاده کنم. باید روی FL و اینگالف تمرکز کنم. مطالعه‌ام را دوباره از FL و اینگالف شروع می‌کنم. ⏎  ⏎ FL را یاد بگیر و تمرین کن. دانستن اینکه کدام FL معنادار است، همان پیشرفتی است که برای درک اینگالف درست به‌عنوان تأیید لازم است. ⏎  ⏎ منطقش را یادت باشد. اگر یک سطح معنادار سوآپ شود، آن تأیید است.
+
+@@@ benhur benhur_p6_17 [xetrader]
+EN: after seeing Engulfing candle
+FA: بعد از دیدن کندل اینگالفینگ
+
+@@@ benhur benhur_p6_18 [strudl]
+EN: xetrader wrote: after seeing Engulfing candle ⏎  ⏎ U have to forget about engulfing candle patern and look for zone engulf. ⏎  This was my biggest problem at the start. Understanding what engulf ⏎ actually means. Read the article about engulf and read the engulf forum ⏎ topic and u will get the feel what we are looking for.
+FA: xetrader نوشت: بعد از دیدن کندل اینگالفینگ ⏎  ⏎ باید از الگوی کندل اینگالفی دست بکشی و به دنبال اینگالف ناحیه باشی. این بزرگ‌ترین مشکل من در شروع کار بود؛ فهمیدن اینکه اینگالف واقعاً یعنی چه. مقالهٔ مربوط به اینگالف را بخوان و تاپیک اینگالف در فروم را هم بخوان تا حسّش دستت بیاید که دنبال چه هستیم.
+
+@@@ benhur benhur_p6_19 [benhur]
+EN: Xtrader. Take the word of strudl. ⏎  ⏎ Candles patterns are very misleading. a candle is price wrapped by a arbitrary time period. ⏎  ⏎ Always remember, that price has targets stations. your analysis should ⏎ look if price achieved a target or not. So it is more recommended to ⏎ that you analyse price and price zones, and not arbitrary candle shapes.
+FA: Xtrader. حرف strudl را قبول کن. ⏎  ⏎ الگوهای کندل خیلی گمراه‌کننده‌اند. کندل همان قیمتی است که در یک بازهٔ زمانی دلبخواهی بسته‌بندی شده. ⏎  ⏎ همیشه یادت باشد که قیمت ایستگاه‌های هدف دارد. تحلیلت باید بررسی کند که آیا قیمت به تارگت رسیده یا نه. پس بیشتر توصیه می‌شود که قیمت و نواحی قیمتی را تحلیل کنی، نه شکل کندل‌های دلبخواهی.
+
+@@@ benhur benhur_p6_20 [milkeyway]
+EN: xetrader wrote: after seeing Engulfing candle ⏎  ⏎ You need to see this video. Forget Candle patterns and focus on Price action.
+FA: xetrader نوشت: بعد از دیدن کندل اینگالفینگ ⏎  ⏎ باید این ویدئو را ببینی. الگوهای کندل را فراموش کن و روی پرایس اکشن تمرکز کن.
+
+@@@ benhur benhur_p6_21 [milkeyway]
+EN: benhur wrote: ⏎  ⏎ Learn and practice FL. knowing which FL is significant is the break thru needed to understand proper engulf as confirmation. ⏎  ⏎ Remember the logic. If a significant level is swapped - it is a confirmation. ⏎  ⏎ Thanks Ben. Do you mean the FL at swap level should get engulfed ?
+FA: benhur نوشت: ⏎  ⏎ FL را یاد بگیر و تمرین کن. دانستن اینکه کدام FL معنادار است، همان پیشرفتی است که برای درک اینگالف درست به‌عنوان تأیید لازم است. ⏎  ⏎ منطقش را یادت باشد. اگر سطحی مهم سوآپ شود، آن تأیید است. ⏎  ⏎ ممنون Ben. منظورت این است که FL در سطح سوآپ باید اینگالف شود؟
+
+@@@ benhur benhur_p6_22 [benhur]
+EN: No. I mean FL being Swapped (engulf).
+FA: نه. منظورم این است که FL خودش سوآپ شود (اینگالف).
+
+@@@ benhur benhur_p6_23 [benhur]
+EN: In this business you can be right many times but not smart enough to capitalize it. ⏎  ⏎ Here is a RIGHT BUT NOT SMART trade. ⏎  ⏎ While being right on a trade direction, and with very satisfying entry. I ⏎  was afraid this winner turn to a looser, I moved SL to BE+ level and ⏎ wend to sleep. ⏎  ⏎ Ignoring the fact that price has to do what price meant to do: and that is to take the best priced orders. ⏎  ⏎ Being RIGHT on direction is not enough, The SMART of this trade should have let me keep SL beyond PA level.
+FA: در این کار می‌توانی بارها درست بگویی، ولی آن‌قدر هوشمند نباشی که از آن بهره بگیری. ⏎  ⏎ این یک معاملهٔ درست ولی غیرهوشمندانه است. ⏎  ⏎ در حالی که در جهت معامله حق با من بود و ورود بسیار رضایت‌بخشی هم داشتم، می‌ترسیدم این برنده به بازنده تبدیل شود؛ SL را به سطح BE+ بردم و رفتم خوابیدم. ⏎  ⏎ و این واقعیت را نادیده گرفتم که قیمت باید کاری را بکند که قرار است بکند: یعنی بهترین سفارش‌های قیمت‌گذاری‌شده را بردارد. ⏎  ⏎ حق داشتن در جهت کافی نیست؛ هوشمندی این معامله باید باعث می‌شد SL را فراتر از سطح PA نگه دارم.
+
+@@@ benhur benhur_p6_24 [milkeyway]
+EN: benhur wrote: No. I mean FL being Swapped (engulf). ⏎  ⏎ Sorry I didn't understand. ⏎  ⏎ Do you mean if price wants to go lower. It should engulf FL B. ? FL A is not enough for engulf.
+FA: benhur نوشت: نه. منظورم این است که FL خودش سوآپ شود (اینگالف). ⏎  ⏎ ببخشید، متوجه نشدم. ⏎  ⏎ یعنی اگر قیمت بخواهد پایین‌تر برود، باید FL B را اینگالف کند؟ FL A برای اینگالف کافی نیست.
+
+@@@ benhur benhur_p6_25 [benhur]
+EN: B is preferred. please tell me why (according to your chart)
+FA: B ترجیح داده می‌شود. لطفاً بگو چرا (بر اساس چارت خودت)
+
+@@@ benhur benhur_p7_1 [in2forex]
+EN: Hi Benhur ⏎  ⏎ I'll give it a go. ⏎  ⏎ Because it is a flag limit i.e. at the SR flip. ⏎  ⏎ Regards ⏎  ⏎ in2forex
+FA: سلام Benhur ⏎  ⏎ بگذار امتحانش کنم. ⏎  ⏎ چون یک FL لیمیت است، یعنی درست روی SR flip قرار دارد. ⏎  ⏎ با احترام ⏎  ⏎ in2forex
+
+@@@ benhur benhur_p7_2 [benhur]
+EN: Thats two points for in2forex
+FA: این هم دو امتیاز برای in2forex.
+
+@@@ benhur benhur_p7_3 [milkeyway]
+EN: benhur wrote: B is preferred. please tell me why (according to your chart) ⏎  ⏎ Because it is at SR Flip. Agree with in2forex.
+FA: benhur نوشت: گزینهٔ B ترجیح دارد. لطفاً بگویید چرا (طبق چارت خودتان) ⏎  ⏎ چون روی SR Flip است. با in2forex موافقم.
+
+@@@ benhur benhur_p7_4 [milkeyway]
+EN: Tried to explain with some details about what i understand. Please tell me if anything is wrong. Thanks.
+FA: سعی کردم آنچه را که خودم می‌فهمم با کمی جزئیات توضیح بدهم. لطفاً بگویید اگر جایی اشتباه است. ممنون.
+
+@@@ benhur benhur_p7_5 [dcabfx]
+EN: Looks like the gears are turning for you mikeyway. Great illustration. ⏎  ⏎ To me, what you've mapped out is how you should follow price. You've shown relevant/important FL's which is the basis for setting the edges of your PA Zones and the engulfs to show intent to move through zones. ⏎  ⏎ And...it's all about the decisions. ⏎  ⏎ Good work!
+FA: mikeyway، انگار چرخ‌های ذهنت به راه افتاده. تصویرسازی عالی. ⏎  ⏎ از نظر من، آنچه ترسیم کرده‌ای همان روشی است که باید برای دنبال کردن قیمت به کار ببری. FL‌های مرتبط و مهم را نشان داده‌ای که مبنای تعیین لبه‌های نواحی PA تو است، و اینگالف‌ها را هم که قصد عبور از میان نواحی را نشان می‌دهند. ⏎  ⏎ و... همه‌چیز به تصمیم‌ها برمی‌گردد. ⏎  ⏎ کار خوبی کردی!
+
+@@@ benhur benhur_p7_6 [benhur]
+EN: milkeyway wrote: Tried to explain with some details about what i understand. Please tell me if anything is wrong. Thanks. ⏎  ⏎ Well done Amit. ⏎  ⏎ Here is how your chart is put to practice by Ifmyante:
+FA: milkeyway نوشت: سعی کردم آنچه را که خودم می‌فهمم با کمی جزئیات توضیح بدهم. لطفاً بگویید اگر جایی اشتباه است. ممنون. ⏎  ⏎ آفرین Amit. ⏎  ⏎ این هم نمونهٔ اجرای چارت تو در عمل، به دست Ifmyante:
+
+@@@ benhur benhur_p7_7 [milkeyway]
+EN: Thanks Benhur. Currently I am having problem with real charts. Drawing is easy for me. May be, I am drawing concepts correctly but when I look at real charts, it's becoming difficult to determine.
+FA: ممنون Benhur. این روزها با چارت‌های واقعی مشکل دارم. رسم کردن برایم آسان است. شاید مفاهیم را درست می‌کشم، ولی وقتی به یک چارت واقعی نگاه می‌کنم، تشخیص دادنش سخت می‌شود.
+
+@@@ benhur benhur_p7_8 [benhur]
+EN: Looking at your journal, I see you deal with chart beautiful. ⏎  ⏎ But I know what you mean... it take time to gain confidence and train the vision to see what we look for. ⏎  ⏎ I know you'll sort this very soon.
+FA: ژورنالت را که نگاه می‌کنم، می‌بینم چقدر زیبا با چارت کار می‌کنی. ⏎  ⏎ اما می‌دانم منظورت چیست... به دست آوردن اعتماد به نفس و تربیت چشم برای دیدن آنچه دنبالش هستیم زمان می‌برد. ⏎  ⏎ می‌دانم خیلی زود این را حل می‌کنی.
+
+@@@ benhur benhur_p7_9 [milkeyway]
+EN: benhur wrote: ⏎ milkeyway wrote: Thanks Ben, Michal, Studl, Mike and Blackmovie. ⏎  ⏎ Ben, I honestly want to say that I think that I couldn't understand how to use Engulf for confirmation yet. I have to focus on FL and Engulf. I will start my study again on FL and Engulf. ⏎  ⏎ Learn and practice FL. knowing which FL is significant is the break thru needed to understand proper engulf as confirmation. ⏎  ⏎ Remember the logic. If a significant level is swapped - it is a confirmation. ⏎  ⏎ I am considering SR flip level as a significant level. Is it correct ?
+FA: benhur نوشت: milkeyway نوشت: ممنون Ben، Michal، Studl، Mike و Blackmovie. ⏎  ⏎ Ben، صادقانه می‌خواهم بگویم که فکر می‌کنم هنوز نتوانسته‌ام بفهمم چطور از اینگالف برای تأیید استفاده کنم. باید روی FL و اینگالف تمرکز کنم. مطالعه‌ام را دوباره از FL و اینگالف شروع می‌کنم. ⏎  ⏎ FL را یاد بگیر و تمرین کن. دانستن اینکه کدام FL معنادار است، همان جهش لازم برای فهم درست اینگالف به‌عنوان تأیید است. ⏎  ⏎ منطق را به یاد داشته باش. اگر یک سطح معنادار جابه‌جا شود، این یک تأیید است. ⏎  ⏎ من سطح SR flip را سطحی مهم می‌شمارم. درست است؟
+
+@@@ benhur benhur_p7_10 [milkeyway]
+EN: benhur wrote: ⏎  ⏎ Well done Amit. ⏎  ⏎ Here is how your chart is put to practice by Ifmyante: ⏎  ⏎ I watched the video carefully again. I observed that IF uses compression as confirmation of consumption of orders. And then he exits his trades.
+FA: benhur نوشت: ⏎  ⏎ آفرین Amit. ⏎  ⏎ این هم نمونهٔ اجرای چارت تو در عمل توسط Ifmyante: ⏎  ⏎ ویدئو را دوباره با دقت تماشا کردم. دیدم که IF از فشردگی به‌عنوان تأیید مصرف سفارش‌ها استفاده می‌کند. و بعد از معاملاتش خارج می‌شود.
+
+@@@ benhur benhur_p7_11 [benhur]
+EN: milkeyway wrote: ⏎  ⏎ I watched the video carefully again. I observed that IF uses compression as confirmation of consumption of orders. And then he exits his trades. ⏎  ⏎ You don't want to be a buyer when demand is consumed against fresh Supply and vise verse.
+FA: milkeyway نوشت: ⏎  ⏎ ویدئو را دوباره با دقت تماشا کردم. دیدم که IF از فشردگی به‌عنوان تأیید مصرف سفارش‌ها استفاده می‌کند. و بعد معاملاتش را می‌بندد. ⏎  ⏎ وقتی تقاضا در برابر عرضهٔ تازه مصرف می‌شود، دیگر نمی‌خواهی خریدار باشی؛ و برعکسش هم صادق است.
+
+@@@ benhur benhur_p7_12 [milkeyway]
+EN: Hi benhur. ⏎  ⏎ This is an example of how I think about IT's activity. Please tell me this kind of analysis is wrong or right ? ⏎  ⏎ Thanks. ⏎  ⏎ They shorted there means they shorted at the top of the fake moves and due to which price engulfed the base of their moves.
+FA: سلام benhur. ⏎  ⏎ این نمونه‌ای است از اینکه من دربارهٔ فعالیت IT‌ها چطور فکر می‌کنم. لطفاً بگویید این نوع تحلیل غلط است یا درست؟ ⏎  ⏎ ممنون. ⏎  ⏎ اینکه آنجا فروش گرفتند یعنی در سقف حرکت‌های جعلی پوزیشن فروش باز کردند و همین باعث شد قیمت پایهٔ حرکت‌هایشان را اینگالف کند.
+
+@@@ benhur benhur_p7_13 [benhur]
+EN: Amit ⏎  ⏎ I like the allegory for a cat chasing the laser beem. whereas the cat represent the retailers and the laser is controlled by the IT. ⏎  ⏎ The chart you attached shows a similar. and I think your understanding of the event is very similar to mine (but i am just same level student of the market as you are). ⏎  ⏎ The IT's would send their orders to test the resistance they get at their levels. Often their big amounts need to be ordered over time so price will not just spring away, and so the could fill all their quota with the price they needed. ⏎  ⏎ To accomplish that, they will play around with the armatures, with creation of fakeouts, false break outs, short reactions at at hot prices (SD levels) and then turn direction against. Once these events happen, we know they are interested in that level.
+FA: Amit ⏎  ⏎ تشبیه گربه‌ای که دنبال نقطهٔ لیزر می‌دود را دوست دارم؛ گربه نمایندهٔ معامله‌گران خرد است و لیزر را IT کنترل می‌کند. ⏎  ⏎ چارتت هم چیز مشابهی را نشان می‌دهد و به نظرم درک تو از این رویداد خیلی نزدیک به درک من است (البته من هم مثل تو فقط یک دانش‌آموز هم‌سطح بازار هستم). ⏎  ⏎ IT‌ها سفارش‌هایشان را می‌فرستند تا مقاومتی را که در سطوح خودشان می‌بینند تست کنند. اغلب حجم‌های بزرگشان باید در طول زمان سفارش‌گذاری شود تا قیمت یک‌دفعه از جا نپرد و بتوانند کل سهمیه‌شان را با همان قیمتی که می‌خواستند پر کنند. ⏎  ⏎ برای رسیدن به این هدف، با آماتورها بازی می‌کنند — با ساختن فیک‌اوت‌ها، شکست‌های کاذب، واکنش‌های کوتاه در قیمت‌های داغ (سطوح SD) — و بعد جهت را برخلاف آن‌ها می‌چرخانند. وقتی این رویدادها رخ می‌دهد، می‌دانیم که آن‌ها به آن سطح علاقه دارند.
+
+@@@ benhur benhur_p7_14 [milkeyway]
+EN: benhur wrote: Amit ⏎  ⏎ I like the allegory for a cat chasing the laser beem. whereas the cat represent the retailers and the laser is controlled by the IT. ⏎  ⏎ The chart you attached shows a similar. and I think your understanding of the event is very similar to mine (but i am just same level student of the market as you are). ⏎  ⏎ The IT's would send their orders to test the resistance they get at their levels. Often their big amounts need to be ordered over time so price will not just spring away, and so the could fill all their quota with the price they needed. ⏎  ⏎ To accomplish that, they will play around with the armatures, with creation of fakeouts, false break outs, short reactions at at hot prices (SD levels) and then turn direction against. Once these events happen, we know they are interested in that level. ⏎  ⏎ Thanks. Right now I am analyzing every turn of swing and trying to guess how IT made Retailers fool.
+FA: benhur نوشت: Amit ⏎  ⏎ تشبیه گربه‌ای که دنبال نقطهٔ لیزر می‌دود را دوست دارم؛ گربه نمایندهٔ معامله‌گران خرد است و لیزر را IT کنترل می‌کند. ⏎  ⏎ چارتت هم چیز مشابهی را نشان می‌دهد و به نظرم درک تو از این رویداد خیلی نزدیک به درک من است (البته من هم مثل تو فقط یک دانش‌آموز هم‌سطح بازار هستم). ⏎  ⏎ IT‌ها سفارش‌هایشان را می‌فرستند تا مقاومتی را که در سطوح خودشان می‌بینند تست کنند. اغلب حجم‌های بزرگشان باید در طول زمان سفارش‌گذاری شود تا قیمت یک‌دفعه از جا نپرد و بتوانند کل سهمیه‌شان را با همان قیمتی که می‌خواستند پر کنند. ⏎  ⏎ برای رسیدن به این هدف، با آماتورها بازی می‌کنند — با ساختن فیک‌اوت‌ها، شکست‌های کاذب، واکنش‌های کوتاه در قیمت‌های داغ (سطوح SD) — و بعد جهت را برخلاف آن‌ها می‌چرخانند. وقتی این رویدادها رخ می‌دهد، می‌دانیم که آن‌ها به آن سطح علاقه دارند. ⏎  ⏎ ممنون. همین حالا دارم هر چرخش سوئینگ را تحلیل می‌کنم و سعی می‌کنم حدس بزنم IT چطور معامله‌گران خرد را فریب داده است.
+
+@@@ benhur benhur_p7_15 [benhur]
+EN: try to wear the IT hat. and play the simulation. ⏎  ⏎ you have all the money you need. ⏎  ⏎ your orders are actually cause price to move ⏎  ⏎ how would you play with these tools in your hands....
+FA: سعی کن خودت را جای IT بگذاری و آن شبیه‌سازی را انجام بدهی. ⏎  ⏎ هر پولی که لازم داری در اختیارت است. ⏎  ⏎ سفارش‌هایت در واقع همان چیزی هستند که قیمت را به حرکت درمی‌آورند ⏎  ⏎ با این ابزارها در دست، چطور بازی می‌کردی....
+
+@@@ benhur benhur_p7_16 [milkeyway]
+EN: benhur wrote: try to wear the IT hat. and play the simulation. ⏎  ⏎ you have all the money you need. ⏎  ⏎ your orders are actually cause price to move ⏎  ⏎ how would you play with these tools in your hands.... ⏎  ⏎ As an IT trader, I would know the psychology of Retail/Novice traders because I had gone through it in past. ⏎  ⏎ I will create fake moves and patterns to trap Retail traders. ⏎  ⏎ Fishing will be in my blood.
+FA: benhur نوشت: سعی کن خودت را جای IT بگذاری و آن شبیه‌سازی را انجام بدهی. ⏎  ⏎ هر پولی که لازم داری در اختیارت است. ⏎  ⏎ سفارش‌هایت در واقع همان چیزی هستند که قیمت را به حرکت درمی‌آورند ⏎  ⏎ با این ابزارها در دست، چطور بازی می‌کردی.... ⏎  ⏎ به‌عنوان یک معامله‌گر IT، روان‌شناسی معامله‌گران خرد و تازه‌کار را می‌دانم، چون خودم در گذشته این مسیر را طی کرده‌ام. ⏎  ⏎ حرکت‌ها و الگوهای جعلی می‌سازم تا این معامله‌گران را در تله بیندازم. ⏎  ⏎ ماهیگیری در خونم است.
+
+@@@ benhur benhur_p7_17 [benhur]
+EN: you would do it as long as you didnt satisfy your hunger. ⏎  ⏎ sometimes you would use fakeouts and traps, sometimes you would let them feel they are in control (because this is the best trap of all) ⏎  ⏎ Once you get all your quota filled, ⏎  ⏎ you would go for the next level. leaving the armatures dazed and confused.
+FA: تا زمانی که گرسنگی‌ات را برطرف نکرده‌ای، همین کار را می‌کنی. ⏎  ⏎ گاهی از فیک‌اوت‌ها و تله‌ها استفاده می‌کنی، گاهی می‌گذاری احساس کنند کنترل در دست خودشان است (چون این بهترین تله از همه است) ⏎  ⏎ وقتی کل سهمیه‌ات پر شد، ⏎  ⏎ سراغ سطح بعدی می‌روی و آماتورها را گیج و سرگردان رها می‌کنی.
+
+@@@ benhur benhur_p7_18 [milkeyway]
+EN: When I was a newbie and loosing money consistently my mom and dad was saying "why don't you do opposite of what you think?". In fact they don't know anything about trading but this is what IT do !
+FA: وقتی تازه‌کار بودم و مدام پول از دست می‌دادم، مادرم و پدرم می‌گفتند: «چرا عکس آنچه فکر می‌کنی را انجام نمی‌دهی؟» راستش آن‌ها هیچ چیزی از معامله‌گری نمی‌دانند، اما IT دقیقاً همین کار را می‌کند!
+
+@@@ benhur benhur_p7_19 [josh1125]
+EN: I apologize for writing in your journal without permission ...But isn't this the level we should only look to trade from? If often talks about trading from the edges. Would this be considered the level he talks about? ⏎  ⏎ benhur wrote: Hi Milkeyway, ⏎  ⏎ Here is how I see things about your scenario. And YES, this is a very powerful scenario.
+FA: بابت نوشتن در ژورنال شما بدون اجازه عذر می‌خواهم ... اما آیا این همان سطحی نیست که باید فقط از آن معامله کنیم؟ IF اغلب از معامله در لبه‌ها حرف می‌زند. آیا این همان سطحی است که او از آن می‌گوید؟ ⏎  ⏎ benhur نوشت: سلام Milkeyway، ⏎  ⏎ اینجا ببین که من دربارهٔ سناریوی تو چه فکری می‌کنم. و بله، این یک سناریوی بسیار قدرتمند است.
+
+@@@ benhur benhur_p7_20 [benhur]
+EN: The very edge is the that peak above point [1]. there you should look for the last untouched supply packet. ⏎  ⏎ That place if you can spot it correctly considered the most rewarding trade of all. with the lowest risk and shortest wait for yes/no confirmation. ⏎  ⏎ But you should practice lots of patience to let price get there as many packets beforehand are giving reactions and sometimes the reversal itself.
+FA: لبهٔ واقعی همان قلهٔ بالای نقطهٔ [1] است. آنجا باید آخرین بستهٔ عرضهٔ دست‌نخورده را پیدا کنی. ⏎  ⏎ آن نقطه، اگر درست تشخیصش بدهی، پربازده‌ترین معاملهٔ ممکن به حساب می‌آید؛ با کمترین ریسک و کوتاه‌ترین انتظار برای تأیید بله/خیر. ⏎  ⏎ اما باید صبر زیادی تمرین کنی تا بگذاری قیمت به آنجا برسد، چون بسته‌های زیادی پیش از آن واکنش می‌دهند و گاهی هم خودِ برگشت روند.
+
+@@@ benhur benhur_p7_21 [smimon]
+EN: Quick question for you pal - am I being overly optimistic in thinking it should be possible to spot the reason for every turn in the market? ⏎  ⏎ I understand that the goal is to focus on only the most significant levels, trade edges etc for high probability, and I'm making some great trades like this. But sometimes, I see what to all intents and purposes appears to be an important FTR get taken out and a PAZ entered, only for price to then turn from a seemingly random place, and no matter how much I try to apply RTM reasoning and methodology to it, it simply doesn't make sense why it turned from where it did. I then get "stuck" with incorrect directional bias, expecting a PAZ to complete, which never does (although sometimes in fairness I've seen an incomplete PAZ move get completed days or even weeks later). ⏎  ⏎ I put this down initially to inexperience, but I'm pretty confident in marking up the correct FLs on the charts now, and 9 times out of 10, even if I get something wrong, I understand why with hindsight. It's the 1 in 10 that's driving me nuts. ⏎  ⏎ Much of what I see that confuses me can be explained if you consider the DP to engulf a FL/FTR an important level in its own right, but I was under the impression that it was only FTRs and the engulfs thereof that mattered in the scheme of things (assuming of course the DP isn't an important FL/FTR itself). ⏎  ⏎ So two questions really - to clarify, is it only the FTR formed after an engulf, and not the DP to engulf that is important? And if so, why do we so often see big turning points take place from engulf DPs, when its corresponding FTR has been taken out? ⏎  ⏎ And also, are there just times you have to shrug your shoulders, and move on? Or is it possible to understand every move? ⏎  ⏎ All the best, thanks for any help.
+FA: یک سؤال سریع دارم رفیق — آیا خوش‌بینی بیش از حد است اگر فکر کنم باید ممکن باشد دلیل هر چرخش بازار را پیدا کرد؟ ⏎  ⏎ می‌دانم که هدف این است که فقط روی مهم‌ترین سطوح، لبه‌های معاملاتی و مانند این‌ها برای احتمال بالا تمرکز کنم، و من چند معاملهٔ عالی هم به همین روش انجام داده‌ام. اما گاهی می‌بینم چیزی که به تمام معنا FTR مهمی به نظر می‌رسد از میان برداشته می‌شود و یک PAZ وارد می‌شود، و بعد قیمت از جایی که ظاهراً تصادفی است برمی‌گردد؛ و هر چقدر هم استدلال و متدولوژی RTM را روی آن پیاده کنم، اصلاً منطقی نیست که چرا از آنجا برگشت. بعد با سوگیری جهتی نادرست «گیر» می‌کنم، انتظار دارم یک PAZ کامل شود و هیچ‌وقت کامل نمی‌شود (هرچند گاهی انصافاً دیده‌ام حرکت یک PAZ ناقص، چند روز یا حتی چند هفته بعد کامل شده است). ⏎  ⏎ در ابتدا این را گردن بی‌تجربگی می‌انداختم، اما حالا دیگر مطمئنم که FL‌های درست را روی چارت مشخص می‌کنم، و 9 بار از 10 بار هم حتی اگر چیزی را اشتباه بفهمم، با نگاه به گذشته دلیلش را می‌فهمم. آن 1 بار از 10 بار است که دیوانه‌ام می‌کند. ⏎  ⏎ بیشتر آنچه گیجم می‌کند این‌طور توضیح‌پذیر است که DP که FL/FTR را اینگالف کرده، خودش یک سطح مهم مستقل باشد؛ اما من این تصور را داشتم که فقط FTR‌ها و اینگالف‌هایشان در این طرح اهمیت دارند (البته با این فرض که خود DP یک FL/FTR مهم نباشد). ⏎  ⏎ پس واقعاً دو سؤال دارم — برای روشن شدن، آیا فقط FTR‌ی که بعد از یک اینگالف شکل می‌گیرد مهم است و نه DP‌ای که آن اینگالف را انجام داده؟ و اگر چنین است، چرا این‌قدر زیاد می‌بینیم نقاط برگشت بزرگ از DP‌های اینگالف‌کننده شکل می‌گیرند، در حالی که FTR متناظرش از میان برداشته شده است؟ ⏎  ⏎ و همچنین، آیا مواقعی هست که باید شانه بالا بیندازی و رد شوی؟ یا می‌شود هر حرکتی را فهمید؟ ⏎  ⏎ موفق باشی، ممنون از هر کمکی.
+
+@@@ benhur benhur_p7_22 [smimon]
+EN: Apologies for posting again, but a chart always helps in these situations. Here's a chart of recent action on the Dax, M30, which I've annotated to highlight my confusion. ⏎  ⏎ In this case, the DP to engulf was clearly a significant level in its own right, even though its corresponding FTR was engulfed. Things like this happening are the final thing that is preventing me from becoming highly consistent with my trading. ⏎  ⏎ I've dropped down to M1 to see if I could see anything - I marked on the origin of the move down at (1) that was a reaction to the seemingly important FL: ⏎  ⏎ And then zoomed into the area where the big bounce at 3 came from: ⏎  ⏎ I know it's good practice to take profit at the first reasonable target, it's just that when this sort of thing happens it seems to invalidate the FTR theory (to my mind at least - I may well be wrong!) and then makes me second guess taking entries, or whether I should hold a trade or not. ⏎  ⏎ At the moment I'm thinking I need to readjust my thinking - if we have a pole base which engulfed an important FL, and then a FTR which formed thereafter, I should only consider the "whole thing" engulfed if both the FTR and the pole base are taken out. If just the FTR is taken out, and not the pole base which contained the DP to engulf, then the zone is not dead. ⏎  ⏎ Cheers
+FA: ببخشید که دوباره پست می‌گذارم، اما در این موقعیت‌ها چارت همیشه کمک می‌کند. این چارت حرکت‌های اخیر Dax در تایم‌فریم M30 است که برای نشان دادن سردرگمی‌ام روی آن یادداشت گذاشته‌ام. ⏎  ⏎ در این مورد، DP‌ای که اینگالف را انجام داد، آشکارا به‌تنهایی یک سطح مهم بود، هرچند FTR متناظرش اینگالف شده بود. مواردی از این جنس، آخرین چیزی است که مانع می‌شود معامله‌گری‌ام به انسجام بالا برسد. ⏎  ⏎ به M1 پایین آمدم تا ببینم چیزی می‌بینم یا نه — مبدأ حرکت نزولی را در (1) علامت زدم که واکنشی به آن FL به‌ظاهر مهم بود: ⏎  ⏎ و بعد روی ناحیه‌ای زوم کردم که بازگشت بزرگ در 3 از آنجا آمد: ⏎  ⏎ می‌دانم که گرفتن سود در اولین تارگت معقول، روش درستی است؛ فقط موضوع این است که وقتی چنین چیزی پیش می‌آید، به نظر می‌رسد نظریهٔ FTR را باطل می‌کند (دست‌کم در ذهن من — و شاید هم اشتباه کنم!) و بعد باعث می‌شود در گرفتن ورودها دودل شوم، یا اینکه معامله‌ای را نگه دارم یا نه. ⏎  ⏎ الآن فکر می‌کنم باید طرز فکرم را اصلاح کنم — اگر یک پایهٔ Pole داریم که FL مهمی را اینگالف کرده و بعد از آن یک FTR شکل گرفته، باید فقط وقتی «کل ماجرا» را اینگالف‌شده بدانم که هم FTR و هم پایهٔ Pole از میان برداشته شوند. اگر فقط FTR از میان برداشته شود و پایهٔ Pole‌ای که DP اینگالف‌کننده را در خود داشت از میان نرود، آنگاه آن ناحیه نمرده است. ⏎  ⏎ با تشکر
+
+@@@ benhur benhur_p7_23 [benhur]
+EN: Hi Smimon, and thank you for posting in my journal!!! ⏎  ⏎ First you will have to excuse me I am not so used to name PA by names such as FTR DP etc... I simply trade HTF engulf with LTF confirmation. ⏎  ⏎ It is very reasonable to understand each and every move. Of course we wouldn't want to trade them all - as they may lack good probability and R ratio, but after it happen I can reason 99% of turns and bounces. ⏎  ⏎ I always use horizontal lines and drill up and down TF to provide explanations, and most of the time I see the amazing accuracy of the market. I learn with that process allot, and highly reccomand you add this continues learning into your routine. I am Trading with the Axiom every turn and bounce is explainable and accurate. ⏎  ⏎ Few years ago I did try to whipsaw the market, trade each leg up 'n down. So it is very much possible, but also very exhausting. It's really important you can do that for the skill as it deeply make you one with the market. But it is not the efficient way of trading.
+FA: سلام Smimon، و ممنون که در ژورنال من پست گذاشتی!!! ⏎  ⏎ اول باید عذرم را بپذیری، چون من به نامیدن PA با نام‌هایی مثل FTR، DP و از این قبیل عادت ندارم... من ساده فقط اینگالف تایم‌فریم بالاتر را با تأیید تایم‌فریم پایین‌تر معامله می‌کنم. ⏎  ⏎ فهمیدن تک‌تک حرکت‌ها کاملاً منطقی است. البته نمی‌خواهیم همهٔ آن‌ها را معامله کنیم — چون ممکن است احتمال و نسبت R خوبی نداشته باشند — اما بعد از وقوع، من می‌توانم 99% چرخش‌ها و بازگشت‌ها را استدلال کنم. ⏎  ⏎ من همیشه از خطوط افقی استفاده می‌کنم و تایم‌فریم را بالا و پایین می‌روم تا توضیح پیدا کنم، و بیشتر وقت‌ها دقت شگفت‌انگیز بازار را می‌بینم. با این فرایند خیلی یاد می‌گیرم و شدیداً توصیه می‌کنم این یادگیری مستمر را به روتینت اضافه کنی. من با این اصل معامله می‌کنم که هر چرخش و بازگشتی قابل توضیح و دقیق است. ⏎  ⏎ چند سال پیش واقعاً تلاش کردم هر نوسان بازار را بگیرم و هر موج بالا و پایین را معامله کنم. پس کاملاً ممکن است، اما خیلی هم فرساینده است. واقعاً مهم است که این کار را برای مهارت انجام بدهی، چون تو را عمیقاً یکی با بازار می‌کند. اما روش کارآمد معامله‌گری نیست.
+
+@@@ benhur benhur_p7_24 [smimon]
+EN: Thanks for getting back to me pal. This week has been a big learning experience, in the sense that I've realised that whilst FTRs and their engulfs are the most important thing to watch, it's all got to be in the context of reading the bigger picture correctly. You've also got to consider HTF SR lines, and flags that become flip zones. A LTF engulf of a bullish zone means little, if we've just engulfed a huge bearish one just before a retrace. ⏎  ⏎ I think I'm doing what you describe - trying to be on every single up and down move, and you're right - it is exhausting! But a necessary learning process. I've got a bit of an obsessive personality, so I'm determined to sit here until I understand the reason for everything I see before I go live with real cash, otherwise it's going to be a stressful experience. ⏎  ⏎ All the best
+FA: ممنون که جواب دادی رفیق. این هفته تجربهٔ یادگیری بزرگی بود، از این نظر که فهمیدم هرچند FTR‌ها و اینگالف‌هایشان مهم‌ترین چیزی هستند که باید زیر نظر داشت، همه‌اش باید در چارچوب خواندن درست تصویر بزرگ‌تر باشد. باید خطوط SR تایم‌فریم بالاتر و فلگ‌هایی را هم که به نواحی flip تبدیل می‌شوند در نظر بگیری. اینگالف یک ناحیهٔ صعودی در تایم‌فریم پایین‌تر معنای کمی دارد، اگر همین پیش از یک اصلاح، یک ناحیهٔ نزولی بزرگ را اینگالف کرده باشیم. ⏎  ⏎ فکر می‌کنم دارم همان کاری را می‌کنم که تو توصیفش می‌کنی — تلاش می‌کنم روی تک‌تک حرکت‌های بالا و پایین باشم، و حق با توست — واقعاً فرساینده است! اما یک فرایند یادگیری لازم است. کمی شخصیت وسواسی دارم، پس مصممم همین‌جا بنشینم تا دلیل هر چیزی را که می‌بینم بفهمم، قبل از اینکه با پول واقعی وارد بازار شوم؛ وگرنه تجربهٔ پراسترسی خواهد بود. ⏎  ⏎ موفق باشی
+
+@@@ benhur benhur_p7_25 [benhur]
+EN: Napoleon Once said: "Act now, Conditions will never be perfect!" ⏎  ⏎ I respect your drive for perfection, but try to consider adding live trading along your study, as learning should never end, and market consistently changes its behavior. ⏎  ⏎ Write yourself a bread & Butter trading plan with what you are good at. and continue experimenting aside. ⏎  ⏎ Experiencing the market with real money enhance your involvement and the sharpness of PA.
+FA: ناپلئون روزی گفت: «همین حالا عمل کن، شرایط هرگز کامل نخواهد شد!» ⏎  ⏎ برای کمال‌گرایی‌ات احترام قائلم، اما در نظر بگیر که معاملهٔ واقعی را هم در کنار مطالعه‌ات اضافه کنی، چون یادگیری هرگز نباید تمام شود و بازار مدام رفتارش را تغییر می‌دهد. ⏎  ⏎ برای خودت یک پلن معاملاتی ساده و کاربردی (bread & butter) بر اساس چیزی که در آن خوب هستی بنویس و در کنارش به آزمایش کردن ادامه بده. ⏎  ⏎ تجربهٔ بازار با پول واقعی، درگیری تو را بیشتر و دقت PA را تیزتر می‌کند.
+
+@@@ benhur benhur_p8_1 [ZeeDeveel]
+EN: Bump.
+FA: آپ.
+
+@@@ benhur benhur_p8_2 [benhur]
+EN: ZeeDeveel wrote: Bump. ⏎  ⏎ I see you are crushing on some people lately...
+FA: ZeeDeveel نوشت: آپ. ⏎  ⏎ می‌بینم این روزها به بعضی‌ها دل بسته‌ای...
+
+@@@ benhur benhur_p8_3 [ZeeDeveel]
+EN: benhur wrote: ⏎ ZeeDeveel wrote: Bump. ⏎  ⏎ I see you are crushing on some people lately... ⏎  ⏎ Haha, just think it's a shame to have these tomes of wisdom buried under dozens of quickly abandoned journeys. Kruger's and Doctor's were like 15 pages deep!
+FA: benhur نوشت: ZeeDeveel نوشت: آپ. ⏎  ⏎ می‌بینم این روزها به بعضی‌ها دل بسته‌ای... ⏎  ⏎ هاها، فقط فکر می‌کنم حیف است که این گنجینه‌های دانش زیر ده‌ها ژورنالِ زودرهاشده دفن شوند. ژورنال Kruger و Doctor حدود 15 صفحه عمق داشتند!
+
+@@@ benhur benhur_p8_4 [Al3cs]
+EN: benhur wrote: I should release it as soon as I'll have time to write a manual for it. ⏎  ⏎ Hi Gilben, ⏎  ⏎ just finished reading your journal. Nice and simple, straight to the point! ⏎  ⏎ I'm using some of your indicators too so what about this one? ⏎  ⏎ (EDIT: I'm referring to the alerter of this post: ⏎  readthemarket.com/index.php/forum/journa...urnal?start=75#29771 ⏎ )
+FA: benhur نوشت: همین که وقت کنم برایش یک راهنما بنویسم، منتشرش می‌کنم. ⏎  ⏎ سلام Gilben، ⏎  ⏎ همین حالا خواندن ژورنالت را تمام کردم. خوب و ساده، و مستقیم سر اصل مطلب! ⏎  ⏎ من هم از بعضی اندیکاتورهای تو استفاده می‌کنم؛ پس این یکی چطور؟ ⏎  ⏎ (ویرایش: منظورم آلرتر همین پست است: readthemarket.com/index.php/forum/journa...urnal?start=75#29771)
+
+@@@ benhur benhur_p8_5 [salivan]
+EN: hi Gilben, nice and clear journal , thank a ton for sharing your knowledge with us , hope you do well ⏎  ⏎ SALIVAN
+FA: سلام Gilben، ژورنال خوب و شفافی داری؛ برای به اشتراک گذاشتن دانشت با ما بی‌نهایت ممنونم، امیدوارم موفق باشی ⏎  ⏎ SALIVAN
+
+@@@ benhur benhur_p8_6 [Bodostock]
+EN: I was watching this movie " Benhur" last night. I was then thinking "how come this name sounds so familiar " and later did i realise that we have one at RTM!
+FA: دیشب داشتم این فیلم «Benhur» را تماشا می‌کردم. بعد با خودم فکر کردم «چطور است که این اسم این‌قدر آشنا به گوش می‌رسد» و بعداً فهمیدم که ما هم یکی در RTM داریم!
+
+@@@ benhur benhur_p8_7 [benhur]
+EN: Al3cs wrote: ⏎ benhur wrote: I should release it as soon as I'll have time to write a manual for it. ⏎  ⏎ Hi Gilben, ⏎  ⏎ just finished reading your journal. Nice and simple, straight to the point! ⏎  ⏎ I'm using some of your indicators too so what about this one? ⏎  ⏎ (EDIT: I'm referring to the alerter of this post: ⏎  readthemarket.com/index.php/forum/journa...urnal?start=75#29771 ⏎ ) ⏎  ⏎ I didn't realize people still are waiting for this. ⏎  ⏎ So here it goes the "Pimping My Line" ⏎  ⏎ * It change any trendline to horizontal line, ⏎  ⏎ * It pimp it with the timeframe and price tag labels ⏎  ⏎ * It hides lower timeframe lines when viewing high time frame. ⏎  ⏎ File Attachment:File Name: PimpingmyTrendline0.1.ex4 ⏎ File Size: 11 KB ⏎  ⏎ Enjoy
+FA: Al3cs نوشت: benhur نوشت: همین که وقت کنم برایش یک راهنما بنویسم، منتشرش می‌کنم. ⏎  ⏎ سلام Gilben، ⏎  ⏎ همین حالا خواندن ژورنالت را تمام کردم. خوب و ساده، و مستقیم سر اصل مطلب! ⏎  ⏎ من هم از بعضی اندیکاتورهای تو استفاده می‌کنم؛ پس این یکی چطور؟ ⏎  ⏎ (ویرایش: منظورم آلرتر همین پست است: readthemarket.com/index.php/forum/journa...urnal?start=75#29771) ⏎  ⏎ نمی‌دانستم مردم هنوز منتظر این هستند. ⏎  ⏎ بفرمایید، این هم «Pimping My Line» ⏎  ⏎ * هر خط روندی را به خط افقی تبدیل می‌کند، ⏎  ⏎ * آن را با برچسب‌های تایم‌فریم و قیمت آرایش می‌دهد ⏎  ⏎ * وقتی تایم‌فریم بالاتر را می‌بینید، خطوط تایم‌فریم پایین‌تر را پنهان می‌کند. ⏎  ⏎ پیوست فایل:نام فایل: PimpingmyTrendline0.1.ex4 ⏎ حجم فایل: 11 KB ⏎  ⏎ لذت ببرید
+
+@@@ benhur benhur_p8_8 [Al3cs]
+EN: Thank you gilben, ⏎  ⏎ but something isn't working well. Look at prices. ⏎  ⏎ Btw I was sure it was an alerter too. ⏎  ⏎ File Attachment:File Name: ⏎ File Size: 0 KB
+FA: ممنون gilben، ⏎  ⏎ اما یک چیزی درست کار نمی‌کند. به قیمت‌ها نگاه کن. ⏎  ⏎ راستی، من مطمئن بودم که آن هم یک آلرتر است. ⏎  ⏎ پیوست فایل:نام فایل: ⏎ حجم فایل: 0 KB
+
+@@@ benhur benhur_p8_9 [benhur]
+EN: The alert is another indicator - you can find it in the Indicators section. ⏎  ⏎ About the visual case you show, please just use it as is. Maybe in the future I will have the time to fix it.
+FA: آلرت یک اندیکاتور دیگر است — می‌توانی آن را در بخش اندیکاتورها پیدا کنی. ⏎  ⏎ دربارهٔ مورد ظاهری‌ای که نشان می‌دهی، لطفاً همین‌طور که هست استفاده کن. شاید در آینده وقت کنم درستش کنم.
+
+@@@ benhur benhur_p8_10 [ViTaLDRuG]
+EN: Hi Benhur, ⏎  ⏎ I have a question (well, few questions.. ) regarding DPs and FTR/FLs. Hope you don't mind me polluting your great journal.. :) Please consider the following example. ⏎  ⏎ This is a USDCAD chart. I watched IF's decision points video over and over again. He says in the video that, price goes from one decision point to another. In the below H1 chart.. I have marked a DP which decides price is too expensive and then decides to go down the SR flip. IF shows that the decision is made at the open of the candle. (at least that's what I saw in the video). ⏎  ⏎ 1. But how do we really say that the decision is made at the open of the candle? when we go to LTFs, candle is narrowed down we can exactly find the LTF candle which broke the level. So the DP will be the opening point of the LTF candle.. Still if we have more and more LTFs.. we can further go down and narrow down. So which DP is the correct DP which decides the price is too expensive and broke the S/R flip level? DP1, DP2 or DP3? ⏎  ⏎ 2. Other thing is, If price is reacting to a DP, why would we need FTRs, FLs? In the example, the DP is different from the FTR. Price can react to the FTR or DP. Do we put our pending orders at FTR and Stoplosses on DPs ( in this example)? ⏎  ⏎ 3. Are FLs, FTRs new decision points made after the previous decision took place? ( For example, DP1 decided that price is too expensive and broke down the SR flip level and then made the new DP2) ⏎  ⏎ Note: Price actually reacted to DP1. never reacted to the FTR.. I dont know why. ⏎  ⏎ Thanks in advance.
+FA: سلام Benhur، ⏎  ⏎ یک سؤال دارم (خب، چند سؤال..) دربارهٔ DP‌ها و FTR/FL‌ها. امیدوارم بدت نیاید که ژورنال عالی‌ات را آلوده می‌کنم.. :) لطفاً این نمونه را در نظر بگیر. ⏎  ⏎ این چارت USDCAD است. ویدئوی نقاط تصمیم IF را بارها و بارها تماشا کردم. او در ویدئو می‌گوید که قیمت از یک نقطهٔ تصمیم به نقطهٔ تصمیم دیگر می‌رود. در چارت H1 زیر.. من یک DP علامت زده‌ام که تصمیم می‌گیرد قیمت بیش از حد گران است و بعد تصمیم می‌گیرد که SR flip را به سمت پایین برود. IF نشان می‌دهد که تصمیم در باز شدن کندل گرفته می‌شود. (دست‌کم این چیزی است که من در ویدئو دیدم). ⏎  ⏎ 1. اما واقعاً چطور می‌گوییم که تصمیم در باز شدن کندل گرفته شده است؟ وقتی به تایم‌فریم‌های پایین‌تر می‌رویم، کندل باریک‌تر می‌شود و می‌توانیم دقیقاً همان کندل تایم‌فریم پایین‌تر را پیدا کنیم که سطح را شکسته است. پس DP نقطهٔ باز شدن کندل تایم‌فریم پایین‌تر خواهد بود.. هنوز هم اگر تایم‌فریم‌های پایین‌تر بیشتری داشته باشیم.. می‌توانیم باز هم پایین‌تر برویم و باریک‌تر کنیم. پس کدام DP همان DP درست است که تصمیم می‌گیرد قیمت بیش از حد گران است و سطح flip حمایت/مقاومت را می‌شکند؟ DP1، DP2 یا DP3؟ ⏎  ⏎ 2. نکتهٔ دیگر اینکه، اگر قیمت به یک DP واکنش می‌دهد، چرا به FTR‌ها و FL‌ها نیاز داریم؟ در این نمونه، DP با FTR متفاوت است. قیمت می‌تواند به FTR یا به DP واکنش بدهد. آیا سفارش‌های معلقمان را روی FTR می‌گذاریم و استاپ‌لاس‌ها را روی DP‌ها (در این نمونه)؟ ⏎  ⏎ 3. آیا FL‌ها و FTR‌ها نقاط تصمیم جدیدی هستند که بعد از وقوع تصمیم قبلی ساخته شده‌اند؟ (برای نمونه، DP1 تصمیم گرفت که قیمت بیش از حد گران است و سطح SR flip را به پایین شکست و بعد DP2 جدید را ساخت) ⏎  ⏎ نکته: قیمت واقعاً به DP1 واکنش داد. هیچ‌وقت به FTR واکنش نداد.. نمی‌دانم چرا. ⏎  ⏎ پیشاپیش ممنون.
+
+@@@ benhur benhur_p8_11 [benhur]
+EN: Hi VT ⏎  ⏎ The moment when things clicked for me in my studies was the moment I realized nothing in the market is technical. Instead I started looking for places where I could find unfilled orders. Today, when I look at the chart I am searching for the ultimate bouncing levels, then I consider if I want to trade these levels. ⏎  ⏎ At decision points there are unfilled orders and you can expect a bounce there. but be aware that a decision level is just the nearby barrier of a PAZ (price Action Zone). The further boundary of that PAZ can react too, because this is the first level that price was balanced with opposing orders, therefor just beyond it you can find unfilled orders. This is why you should consider FTR, FL, DP, CP, QM, DM - these all are variety of formations that unfold imbalanced order flow that you can use in your trading. ⏎  ⏎ To make things more complex, yes you should drill down forever if possible to really fine your level. You should always remember that time is no factor of the market, therefore time frame is just a random necessity to document price. The events of the markets are documented by price only. So our job is harder to extract the finest level to act upon. Yes is no that straight forward, And yes we should be very happy it is like that, only the busy miners get reach the precious rocks. ⏎  ⏎ To be more practical, do what I did for weeks during my initial learning phase; take two lines one for above price one for below market price. stare at one minute charts and place you lines where you know price will give a bounce. Do so for whole sessions with great patience and motivation to really see price in action. If you do so, come back and share with the RTM community your finding. I am sure there are going to be at least few priceless insights you take for life.
+FA: سلام VT ⏎  ⏎ لحظه‌ای که در مطالعاتم همه‌چیز برایم جا افتاد، لحظه‌ای بود که فهمیدم هیچ چیزی در بازار تکنیکال نیست. به‌جایش شروع کردم به جست‌وجوی جاهایی که می‌توانم سفارش‌های پرنشده را پیدا کنم. امروز وقتی به چارت نگاه می‌کنم، دنبال بهترین سطوح بازگشتی می‌گردم و بعد در نظر می‌گیرم که آیا می‌خواهم این سطوح را معامله کنم یا نه. ⏎  ⏎ در نقاط تصمیم سفارش‌های پرنشده وجود دارد و می‌توانی انتظار بازگشت در آنجا را داشته باشی. اما آگاه باش که سطح تصمیم فقط سد نزدیک یک PAZ (ناحیهٔ پرایس اکشن) است. مرز دورتر آن PAZ هم می‌تواند واکنش بدهد، چون این اولین سطحی است که قیمت در آن با سفارش‌های مخالف متعادل شده بود؛ بنابراین درست آن‌سویش می‌توانی سفارش‌های پرنشده پیدا کنی. به همین دلیل باید FTR، FL، DP، CP، QM، DM را در نظر بگیری — این‌ها همه گونه‌های مختلفی از الگوها هستند که جریان سفارش نامتعادل را باز می‌کنند و می‌توانی در معامله‌گری‌ات از آن‌ها استفاده کنی. ⏎  ⏎ برای پیچیده‌تر کردن ماجرا، بله باید اگر ممکن است تا بی‌نهایت پایین بروی تا سطحت را واقعاً ریز کنی. همیشه یادت باشد که زمان عاملی در بازار نیست؛ بنابراین تایم‌فریم فقط یک ضرورت تصادفی برای مستند کردن قیمت است. رویدادهای بازار فقط با قیمت مستند می‌شوند. پس کار ما سخت‌تر است تا ریزترین سطح را برای عمل کردن بیرون بکشیم. بله، اصلاً سرراست نیست، و بله باید خیلی خوشحال باشیم که این‌طور است؛ فقط معدن‌کارهای پرکار است که به سنگ‌های گران‌بها می‌رسند. ⏎  ⏎ برای اینکه عملی‌تر باشد، همان کاری را بکن که من هفته‌ها در مرحلهٔ ابتدایی یادگیری‌ام می‌کردم؛ دو خط بردار، یکی برای بالای قیمت و یکی برای زیر قیمت بازار. به چارت‌های یک‌دقیقه‌ای خیره شو و خطوطت را جایی بگذار که می‌دانی قیمت بازگشت خواهد کرد. این کار را برای کل سشن‌ها با صبر و انگیزهٔ زیاد انجام بده تا واقعاً قیمت را در عمل ببینی. اگر این کار را کردی، برگرد و یافته‌ات را با جامعهٔ RTM به اشتراک بگذار. مطمئنم دست‌کم چند بینش گران‌بها به دست می‌آوری که برای تمام عمر با تو می‌ماند.
+
+@@@ benhur benhur_p8_12 [ViTaLDRuG]
+EN: Thank you for your valuable time and descriptive explanation.. One more thing.. I am sorry What did you mean by " what you did for weeks"? Is that the decision point homework? I really didn't get what you have explained about what you did in your initial stage
+FA: ممنون از وقتی که گذاشتی و توضیح گویایت.. یک چیز دیگر.. ببخشید، منظورت از «کاری که هفته‌ها انجام دادی» چه بود؟ همان تکلیف نقاط تصمیم است؟ من واقعاً آنچه دربارهٔ کارهایت در مرحلهٔ اولیه توضیح دادی را نگرفتم
+
+@@@ benhur benhur_p8_13 [benhur]
+EN: I just watched 1 Minutes charts, while I placed my marks where I thought I should get a bouncing action. I did it for two weeks - just that, and I learned a lot about price anatomy like that.
+FA: فقط چارت‌های یک‌دقیقه‌ای را تماشا می‌کردم و همزمان علامت‌هایم را جایی می‌گذاشتم که فکر می‌کردم باید بازگشتی رخ بدهد. دو هفته این کار را کردم — فقط همین — و این‌طور چیزهای زیادی دربارهٔ آناتومی قیمت یاد گرفتم.
+
+@@@ benhur benhur_p8_14 [Kavya]
+EN: OMG ,Master is back
+FA: خدای من، استاد برگشته
+
+@@@ benhur benhur_p8_15 [micka1]
+EN: benhur wrote: Hi VT ⏎  ⏎ The moment when things clicked for me in my studies was the moment I realized nothing in the market is technical. Instead I started looking for places where I could find unfilled orders. ⏎  ⏎ But isn't it still part of "technical analysis" though ? (i.e. the study of price movement.) Even if it involves no indicators whatsoever...There's always a technic involved even if it's not a perfect science. It's something that you have to know about. To study etc...
+FA: benhur نوشت: سلام VT ⏎  ⏎ لحظه‌ای که در مطالعاتم همه‌چیز برایم جا افتاد، لحظه‌ای بود که فهمیدم هیچ چیزی در بازار تکنیکال نیست. به‌جایش شروع کردم به جست‌وجوی جاهایی که می‌توانم سفارش‌های پرنشده را پیدا کنم. ⏎  ⏎ اما آیا این هنوز بخشی از «تحلیل تکنیکال» نیست؟ (یعنی مطالعهٔ حرکت قیمت.) حتی اگر هیچ اندیکاتوری در آن دخیل نباشد... همیشه یک تکنیک در کار است، حتی اگر علم کاملی نباشد. چیزی است که باید درباره‌اش بدانی. باید مطالعه‌اش کنی و غیره...
+
+@@@ benhur benhur_p8_16 [benhur]
+EN: micka1 wrote: ⏎  ⏎ But isn't it still part of "technical analysis" though ? (i.e. the study of price movement.) Even if it involves no indicators whatsoever...There's always a technic involved even if it's not a perfect science. It's something that you have to know about. To study etc... ⏎  ⏎ Is reading a book is technical? In my approach the chart is the book, the candles are the letters and price levels are the story plot. Its all about reading the narrative of the market.
+FA: micka1 نوشت: ⏎  ⏎ اما آیا این هنوز بخشی از «تحلیل تکنیکال» نیست؟ (یعنی مطالعهٔ حرکت قیمت.) حتی اگر هیچ اندیکاتوری در آن دخیل نباشد... همیشه یک تکنیک در کار است، حتی اگر علم کاملی نباشد. چیزی است که باید درباره‌اش بدانی. باید مطالعه‌اش کنی و غیره... ⏎  ⏎ آیا کتاب خواندن تکنیکال است؟ در رویکرد من، چارت همان کتاب است، کندل‌ها حروف‌اند و سطوح قیمت خط داستان. همه‌اش دربارهٔ خواندن روایت بازار است.
+
+@@@ benhur benhur_p8_17 [benhur]
+EN: I got this question in my PM, I think it worth to post my reply in public. ⏎  ⏎ The question was related to my definition for Flag-Limits. as some of you know, I tend to breakdown everything to the OF arrays, by doing this I can assume where unfilled orders are located:Think of a Flag-Limit in terms of orderflow balance / imbalance. ⏎  ⏎ The flag area show us where there was balanced OF, while the pole (the approach or the break) is where we assume to find imbalance. ⏎  ⏎ We also assume that we can find unfilled orders where there was first (or last) imbalanced OF. ⏎  ⏎ This, in theory explains the FL under and above. ⏎  ⏎ The question wasWhen you said while the pole the approach or the break .. Do you mean the last H made inside a Flag before let's say price Engulfs down with LQ ? and by break you mean the Break of Support or Demand in the Flag ? also can't figure out exactly what do you mean by first or last Imbalanced ? ⏎  ⏎ Here is an image to explain how FO aligned around FL
+FA: این سؤال را در پیام خصوصی‌ام دریافت کردم و فکر می‌کنم ارزش دارد که پاسخم را عمومی منتشر کنم. ⏎  ⏎ سؤال مربوط به تعریف من از FL لیمیت‌ها بود. همان‌طور که بعضی‌هایتان می‌دانید، من همه چیز را به آرایه‌های OF تجزیه می‌کنم و با این کار می‌توانم حدس بزنم سفارش‌های پرنشده کجا قرار دارند: به یک FL لیمیت از منظر تعادل/عدم تعادل جریان سفارش فکر کنید. ⏎  ⏎ ناحیهٔ فلگ به ما نشان می‌دهد کجا OF متعادل بوده، در حالی که میله (نزدیک‌شدن یا شکست) جایی است که فرض می‌کنیم عدم تعادل را پیدا می‌کنیم. ⏎  ⏎ همچنین فرض می‌کنیم که می‌توانیم سفارش‌های پرنشده را جایی پیدا کنیم که اولین (یا آخرین) OF نامتعادل بوده است. ⏎  ⏎ این، در تئوری، FL‌های زیر و بالا را توضیح می‌دهد. ⏎  ⏎ سؤال این بود: وقتی گفتید «میله، یعنی نزدیک‌شدن یا شکست».. منظورت آخرین H ساخته‌شده داخل یک FL است، قبل از اینکه مثلاً قیمت با LQ به پایین اینگالف کند؟ و منظور از شکست، شکست حمایت یا تقاضا در FL است؟ همچنین دقیقاً نمی‌فهمم منظورت از اولین یا آخرین عدم تعادل چیست؟ ⏎  ⏎ این هم تصویری برای توضیح اینکه FO چطور حول FL چیده می‌شود
+
+@@@ benhur benhur_p8_18 [mertch]
+EN: This is a view you could give to flag limit, trade opportunitie, low risk / high reward
+FA: این هم دیدگاهی است که می‌توان به FL لیمیت نسبت داد؛ فرصت معاملاتی، ریسک کم / پاداش زیاد
+
+@@@ benhur benhur_p8_19 [ViTaLDRuG]
+EN: benhur wrote: Hi VT ⏎  ⏎ The moment when things clicked for me in my studies was the moment I realized nothing in the market is technical. Instead I started looking for places where I could find unfilled orders. Today, when I look at the chart I am searching for the ultimate bouncing levels, then I consider if I want to trade these levels. ⏎  ⏎ At decision points there are unfilled orders and you can expect a bounce there. but be aware that a decision level is just the nearby barrier of a PAZ (price Action Zone). The further boundary of that PAZ can react too, because this is the first level that price was balanced with opposing orders, therefor just beyond it you can find unfilled orders. This is why you should consider FTR, FL, DP, CP, QM, DM - these all are variety of formations that unfold imbalanced order flow that you can use in your trading. ⏎  ⏎ To make things more complex, yes you should drill down forever if possible to really fine your level. You should always remember that time is no factor of the market, therefore time frame is just a random necessity to document price. The events of the markets are documented by price only. So our job is harder to extract the finest level to act upon. Yes is no that straight forward, And yes we should be very happy it is like that, only the busy miners get reach the precious rocks. ⏎  ⏎ To be more practical, do what I did for weeks during my initial learning phase; take two lines one for above price one for below market price. stare at one minute charts and place you lines where you know price will give a bounce. Do so for whole sessions with great patience and motivation to really see price in action. If you do so, come back and share with the RTM community your finding. I am sure there are going to be at least few priceless insights you take for life. ⏎  ⏎ Hi Benhur, ⏎  ⏎ One doubt, ⏎  ⏎ You said "To be more practical, do what I did for weeks during my initial learning phase; take two lines one for above price one for below market price. stare at one minute charts and place you lines where you know price will give a bounce" ⏎  ⏎ Where do I place these two lines? Should I place them, where I think price will bounce? ⏎  ⏎ For example, I my last post in your journal ( ⏎  readthemarket.com/~readthe3/index.php/fo...rnal?start=175#54052 ⏎  ), Lower line should be in DP2 and upper line in DP1 ? assuming Price either should bounce at DP1 or DP2? ⏎  ⏎ I am sorry I am asking this again because I didnt get what you mean by " take two lines one for above price one for below market price" ⏎  ⏎ Thanks in advance!
+FA: benhur نوشت: سلام VT ⏎  ⏎ لحظه‌ای که در مطالعاتم همه‌چیز برایم جا افتاد، لحظه‌ای بود که فهمیدم هیچ چیزی در بازار تکنیکال نیست. به‌جایش شروع کردم به جست‌وجوی جاهایی که می‌توانم سفارش‌های پرنشده را پیدا کنم. امروز وقتی به چارت نگاه می‌کنم، دنبال بهترین سطوح بازگشتی می‌گردم و بعد در نظر می‌گیرم که آیا می‌خواهم این سطوح را معامله کنم یا نه. ⏎  ⏎ در نقاط تصمیم سفارش‌های پرنشده وجود دارد و می‌توانی انتظار بازگشت در آنجا را داشته باشی. اما آگاه باش که سطح تصمیم فقط سد نزدیک یک PAZ (ناحیهٔ پرایس اکشن) است. مرز دورتر آن PAZ هم می‌تواند واکنش بدهد، چون این اولین سطحی است که قیمت در آن با سفارش‌های مخالف متعادل شده بود؛ بنابراین درست آن‌سویش می‌توانی سفارش‌های پرنشده پیدا کنی. به همین دلیل باید FTR، FL، DP، CP، QM، DM را در نظر بگیری — این‌ها همه گونه‌های مختلفی از الگوها هستند که جریان سفارش نامتعادل را باز می‌کنند و می‌توانی در معامله‌گری‌ات از آن‌ها استفاده کنی. ⏎  ⏎ برای پیچیده‌تر کردن ماجرا، بله باید اگر ممکن است تا بی‌نهایت پایین بروی تا سطحت را واقعاً ریز کنی. همیشه یادت باشد که زمان عاملی در بازار نیست؛ بنابراین تایم‌فریم فقط یک ضرورت تصادفی برای مستند کردن قیمت است. رویدادهای بازار فقط با قیمت مستند می‌شوند. پس کار ما سخت‌تر است تا ریزترین سطح را برای عمل کردن بیرون بکشیم. بله، اصلاً سرراست نیست، و بله باید خیلی خوشحال باشیم که این‌طور است؛ فقط معدن‌کارهای پرکار است که به سنگ‌های گران‌بها می‌رسند. ⏎  ⏎ برای اینکه عملی‌تر باشد، همان کاری را بکن که من هفته‌ها در مرحلهٔ ابتدایی یادگیری‌ام می‌کردم؛ دو خط بردار، یکی برای بالای قیمت و یکی برای زیر قیمت بازار. به چارت‌های یک‌دقیقه‌ای خیره شو و خطوطت را جایی بگذار که می‌دانی قیمت بازگشت خواهد کرد. این کار را برای کل سشن‌ها با صبر و انگیزهٔ زیاد انجام بده تا واقعاً قیمت را در عمل ببینی. اگر این کار را کردی، برگرد و یافته‌ات را با جامعهٔ RTM به اشتراک بگذار. مطمئنم دست‌کم چند بینش گران‌بها به دست می‌آوری که برای تمام عمر با تو می‌ماند. ⏎  ⏎ سلام Benhur، ⏎  ⏎ یک ابهام دارم، ⏎  ⏎ گفتی «برای اینکه عملی‌تر باشد، همان کاری را بکن که من هفته‌ها در مرحلهٔ ابتدایی یادگیری‌ام می‌کردم؛ دو خط بردار، یکی برای بالای قیمت و یکی برای زیر قیمت بازار. به چارت‌های یک‌دقیقه‌ای خیره شو و خطوطت را جایی بگذار که می‌دانی قیمت بازگشت خواهد کرد» ⏎  ⏎ این دو خط را کجا بگذارم؟ باید جایی بگذارم که فکر می‌کنم قیمت بازگشت می‌کند؟ ⏎  ⏎ برای نمونه، در پست آخر من در ژورنالت (readthemarket.com/~readthe3/index.php/fo...rnal?start=175#54052)، خط پایین باید روی DP2 باشد و خط بالا روی DP1؟ با این فرض که قیمت یا باید در DP1 بازگشت کند یا در DP2؟ ⏎  ⏎ ببخشید که دوباره می‌پرسم، چون متوجه نشدم منظورت از «دو خط بردار، یکی برای بالای قیمت و یکی برای زیر قیمت بازار» چه بود ⏎  ⏎ پیشاپیش ممنون!
+
+@@@ benhur benhur_p8_20 [benhur]
+EN: ViTaLDRuG wrote: Where do I place these two lines? Should I place them, where I think price will bounce? ⏎  ⏎ In Simple: Yes. ⏎  ⏎ More Specific: The objective of this drill is to learn to predict bouncing levels, and to experience price moves. ⏎  ⏎ In General: Do only drill that make sense to you, and that are critical for your own learning. I invented this drill to myself, it may not suit to everyone.
+FA: ViTaLDRuG نوشت: این دو خط را کجا بگذارم؟ باید جایی بگذارم که فکر می‌کنم قیمت بازگشت می‌کند؟ ⏎  ⏎ به‌زبان ساده: بله. ⏎  ⏎ دقیق‌تر: هدف این تمرین یاد گرفتن پیش‌بینی سطوح بازگشتی و تجربه کردن حرکت‌های قیمت است. ⏎  ⏎ به‌طور کلی: فقط تمرین‌هایی را انجام بده که برایت منطقی‌اند و برای یادگیری خودت حیاتی هستند. من این تمرین را برای خودم ابداع کردم؛ شاید برای همه مناسب نباشد.
+
+@@@ benhur benhur_p8_21 [ViTaLDRuG]
+EN: Hi Benhur, ⏎  ⏎ I noticed that, if a FL is broken, and then if another FL is created which hold the price up or down (It will hold the price up or down opposite to the direction the previous FL hold) and then the second FL is broken, that breaking swing will always go to the decision point there it was decided to break the first FL. Noticed this almost every time. In case of a perfect Flag (which has a big pole up/down), if its FL is broken, the price should go to the start of the pole. Of course the start of that pole should break another FL on the way to create the current Flag' FL. ⏎  ⏎ benhur wrote: ⏎ ViTaLDRuG wrote: Where do I place these two lines? Should I place them, where I think price will bounce? ⏎  ⏎ In Simple: Yes. ⏎  ⏎ More Specific: The objective of this drill is to learn to predict bouncing levels, and to experience price moves. ⏎  ⏎ In General: Do only drill that make sense to you, and that are critical for your own learning. I invented this drill to myself, it may not suit to everyone.
+FA: سلام Benhur، ⏎  ⏎ متوجه شدم که اگر یک FL شکسته شود و بعد FL دیگری ساخته شود که قیمت را بالا یا پایین نگه دارد (قیمت را برخلاف جهتی که FL قبلی نگه داشته بود، بالا یا پایین نگه می‌دارد) و بعد آن FL دوم هم شکسته شود، آن موج شکست همیشه به نقطهٔ تصمیمی می‌رود که در آن تصمیم گرفته شد FL اول شکسته شود. تقریباً هر بار این را دیده‌ام. در مورد یک FL کامل (که میلهٔ بزرگی به بالا/پایین دارد)، اگر FL آن شکسته شود، قیمت باید به ابتدای میله برود. البته ابتدای آن میله باید در مسیر خود FL دیگری را بشکند تا FL فعلی ساخته شود. ⏎  ⏎ benhur نوشت: ViTaLDRuG نوشت: این دو خط را کجا بگذارم؟ باید جایی بگذارم که فکر می‌کنم قیمت بازگشت می‌کند؟ ⏎  ⏎ به‌زبان ساده: بله. ⏎  ⏎ دقیق‌تر: هدف این تمرین یاد گرفتن پیش‌بینی سطوح بازگشتی و تجربه کردن حرکت‌های قیمت است. ⏎  ⏎ به‌طور کلی: فقط تمرین‌هایی را انجام بده که برایت منطقی‌اند و برای یادگیری خودت حیاتی هستند. من این تمرین را برای خودم ابداع کردم؛ شاید برای همه مناسب نباشد.
+
+@@@ benhur benhur_p8_22 [benhur]
+EN: This is a wonderful insight. ⏎  ⏎ I would love to see some examples on chart.
+FA: این بینش فوق‌العاده‌ای است. ⏎  ⏎ خیلی دوست دارم چند نمونه روی چارت ببینم.
+
+@@@ benhur benhur_p8_23 [ViTaLDRuG]
+EN: benhur wrote: This is a wonderful insight. ⏎  ⏎ I would love to see some examples on chart. ⏎  ⏎ Will post as soon as possible.. I am still at office.
+FA: benhur نوشت: این بینش فوق‌العاده‌ای است. ⏎  ⏎ خیلی دوست دارم چند نمونه روی چارت ببینم. ⏎  ⏎ در اولین فرصت پست می‌کنم.. من هنوز در دفتر کارم هستم.
+
+@@@ benhur benhur_p8_24 [ViTaLDRuG]
+EN: Hi Benhur, ⏎  ⏎ This is what I said.. I am not sure if I am correct or not.. Most of the time, it happens. I have marked the FL pairs in the same colour
+FA: سلام Benhur، ⏎  ⏎ این همان چیزی است که گفتم.. مطمئن نیستم درست می‌گویم یا نه.. بیشتر وقت‌ها این اتفاق می‌افتد. جفت‌های FL را با یک رنگ علامت زده‌ام
+
+@@@ benhur benhur_p8_25 [benhur]
+EN: Brilliant. Actually this type of trading was one of my first Eureka moments. ⏎  ⏎ In simplified: The Base of rally that break the opposite level, is a high probability bounce level. ⏎  ⏎ I call it Effort vs Result. ⏎  ⏎ Great Stuff Vitali. Keep on! ()
+FA: درخشان. راستش این نوع معامله یکی از اولین لحظه‌های «یافتم» من بود. ⏎  ⏎ به‌زبان ساده: پایهٔ رالی‌ای که سطح مقابل را می‌شکند، یک سطح بازگشت با احتمال بالا است. ⏎  ⏎ من اسمش را می‌گذارم تلاش در برابر نتیجه. ⏎  ⏎ کار عالی Vitali. ادامه بده! ()
+
+@@@ benhur benhur_p9_1 [ViTaLDRuG]
+EN: benhur wrote: Brilliant. Actually this type of trading was one of my first Eureka moments. ⏎  ⏎ In simplified: The Base of rally that break the opposite level, is a high probability bounce level. ⏎  ⏎ I call it Effort vs Result. ⏎  ⏎ Great Stuff Vitali. Keep on! () ⏎  ⏎ Thank you Benhur..This is my first eureka moment, thanks to your drill.
+FA: benhur نوشت: درخشان. راستش این نوع معامله یکی از اولین لحظه‌های «یافتم» من بود. ⏎  ⏎ به زبان ساده: پایهٔ رالی‌ای که سطح مقابل را می‌شکند، یک سطح برگشت با احتمال بالا است. ⏎  ⏎ من اسمش را می‌گذارم تلاش در برابر نتیجه. ⏎  ⏎ کار عالی Vitali. ادامه بده! () ⏎  ⏎ ممنون Benhur.. این اولین لحظهٔ «یافتم» من است، به‌خاطر تمرین تو.
+
+@@@ benhur benhur_p9_2 [salivan]
+EN: i wrote some thing about your chart hope you don't mind ⏎  ⏎ this is how i see it . ⏎  ⏎ best regards ⏎  ⏎ Salivan
+FA: چند خط دربارهٔ چارتت نوشتم، امیدوارم بدت نیاید ⏎  ⏎ من این‌طور می‌بینمش. ⏎  ⏎ با احترام ⏎  ⏎ Salivan
+
+@@@ benhur benhur_p9_3 [ViTaLDRuG]
+EN: salivan wrote: i wrote some thing about your chart hope you don't mind ⏎  ⏎ this is how i see it . ⏎  ⏎ best regards ⏎  ⏎ Salivan ⏎  ⏎ Hi Salivan, ⏎  ⏎ I dont mind at all. Thank you for commenting on it. Please find my question in the image. ⏎  ⏎ Thanks a lot!
+FA: salivan نوشت: چند خط دربارهٔ چارتت نوشتم، امیدوارم بدت نیاید ⏎  ⏎ من این‌طور می‌بینمش. ⏎  ⏎ با احترام ⏎  ⏎ Salivan ⏎  ⏎ سلام Salivan، ⏎  ⏎ اصلاً بدم نیامد. ممنون که درباره‌اش نظر دادی. پرسشم را در تصویر ببین. ⏎  ⏎ خیلی ممنون!
+
+@@@ benhur benhur_p9_4 [salivan]
+EN: this is what i see here ⏎  ⏎ hope it helps ⏎  ⏎ regards ⏎  ⏎ Salivan
+FA: این چیزی است که من اینجا می‌بینم ⏎  ⏎ امیدوارم کمک کند ⏎  ⏎ با احترام ⏎  ⏎ Salivan

@@ -1,0 +1,550 @@
+=== if_p110_1 hash=cdca01415ddcd5e4f709e2907db0dc60ef86a0aa author=Ifmyante
+EN: Expecting Supply or Demand to work, just because they're there, is
+looking for serious trouble, and is contrary to everything I teach about
+ trading!
+
+Sure, PCP is a great place to look for a trade, but you need real PA to do so.
+
+I think I warned you yesterday about assuming that engulfing into a gap is PA, which is exactly what you did here.
+
+Also, on your M5 chart, your target seems arbitrarily drawn, and takes no account of the obvious left shoulders.
+
+I know you know all these things. Just give yourself time to let them all sink in.
+
+I feel you've lost a learning opportunity by asking me to show you what was wrong with your trades.
+
+I'm happy to answer your questions, but you'd be far better off by including your own hypotheses in your posts
+FA: انتظار داشتن اینکه عرضه یا تقاضا کار کند فقط به این دلیل که آنجاست، دعوت کردن دردسر جدی است و با هر چیزی که دربارهٔ معامله‌گری آموزش می‌دهم در تضاد است!
+
+درست است، PCP جای خوبی برای پیدا کردن معامله است، ولی برای این کار به PA واقعی نیاز داری.
+
+فکر می‌کنم دیروز هشدار دادم که اینگالف به داخل گپ را PA فرض نکنی، که دقیقاً همان کاری است که اینجا کردی.
+
+همچنین روی نمودار M5‌ات، تارگتت به نظر دلبخواه کشیده شده و شانه‌های چپ واضح را حساب نکرده.
+
+می‌دانم که همهٔ این‌ها را می‌دانی. فقط به خودت وقت بده تا همه‌شان جا بیفتند.
+
+حس می‌کنم با اینکه از من خواستی نشانت بدهم ایراد معامله‌هایت کجاست، یک فرصت یادگیری را از دست دادی.
+
+خوشحال می‌شوم به سؤال‌هایت جواب بدهم، ولی خیلی بهتر است که فرضیه‌های خودت را هم در پست‌هایت بیاوری
+=== if_p110_2 hash=1dd2892e79cba1d9a5e4f61065dad6be8778712e author=dengaima
+EN: Ifmyante wrote: Expecting Supply
+ or Demand to work, just because they're there, is looking for serious
+trouble, and is contrary to everything I teach about trading!
+
+Sure, PCP is a great place to look for a trade, but you need real PA to do so.
+
+I think I warned you yesterday about assuming that engulfing into a gap is PA, which is exactly what you did here.
+
+Also, on your M5 chart, your target seems arbitrarily drawn, and takes no account of the obvious left shoulders.
+
+I know you know all these things. Just give yourself time to let them all sink in.
+
+I feel you've lost a learning opportunity by asking me to show you what was wrong with your trades.
+
+I'm happy to answer your questions, but you'd be far better off by including your own hypotheses in your posts
+
+Excuse me, what is PCP?
+
+Anyway, I have explained why i drew M5 how you see it. I was trying to see M1...Information overload -.-
+
+I agree with your suggestion of trying to solve it myself, but I have a
+master, so I tend to want confirmation =). I admit, it is bad habit but I
+ guess it would be human nature of finding easier approach to solving
+problems. I will try to change my ways. Thank you very much for prompt
+answer
+
+Maybe I did come off wrong way of asking what I wanted to know. In
+reality, I have problem as I go lower timefram based on HTF Supplies, I
+wait for every Demand to be consumed before I consider trading, but then
+ if the demand is consumed and goes back to previous dp, then wouldn't
+it again have new Demand level? I guess I am overanalysing :/
+FA: Ifmyante نوشت: انتظار داشتن اینکه عرضه یا تقاضا کار کند فقط به این دلیل که آنجاست، دعوت کردن دردسر جدی است و با هر چیزی که دربارهٔ معامله‌گری آموزش می‌دهم در تضاد است!
+
+درست است، PCP جای خوبی برای پیدا کردن معامله است، ولی برای این کار به PA واقعی نیاز داری.
+
+فکر می‌کنم دیروز هشدار دادم که اینگالف به داخل گپ را PA فرض نکنی، که دقیقاً همان کاری است که اینجا کردی.
+
+همچنین روی نمودار M5‌ات، تارگتت به نظر دلبخواه کشیده شده و شانه‌های چپ واضح را حساب نکرده.
+
+می‌دانم که همهٔ این‌ها را می‌دانی. فقط به خودت وقت بده تا همه‌شان جا بیفتند.
+
+حس می‌کنم با اینکه از من خواستی نشانت بدهم ایراد معامله‌هایت کجاست، یک فرصت یادگیری را از دست دادی.
+
+خوشحال می‌شوم به سؤال‌هایت جواب بدهم، ولی خیلی بهتر است که فرضیه‌های خودت را هم در پست‌هایت بیاوری
+
+ببخشید، PCP چیست؟
+
+به هر حال، توضیح دادم چرا M5 را این‌طور که می‌بینی کشیدم. می‌خواستم M1 را ببینم...سرریز اطلاعات -.-
+
+با پیشنهادت برای اینکه خودم حلش کنم موافقم، ولی من یک استاد دارم، پس تمایل دارم تأیید بگیرم =). قبول دارم که عادت بدی است، ولی حدس می‌زنم طبیعت آدمی است که دنبال راه راحت‌تر برای حل مسئله باشد. سعی می‌کنم روشم را عوض کنم. خیلی ممنون از جواب سریعت
+
+شاید طرز پرسیدن چیزی که می‌خواستم بدانم اشتباه بود. در واقعیت، مشکل من این است که وقتی بر اساس عرضه‌های HTF به تایم‌فریم پایین‌تر می‌روم، صبر می‌کنم هر تقاضایی مصرف شود و بعد به معامله فکر کنم، ولی بعد اگر تقاضا مصرف شود و قیمت به dp قبلی برگردد، آیا دوباره سطح تقاضای تازه نخواهد داشت؟ فکر کنم زیادی تحلیلش می‌کنم :/
+=== if_p110_3 hash=eec140724a096bafe66ec919388f903bca9392c0 author=Ifmyante
+EN: My post really wasn't intended to chastise you, so I'm sorry if it seemed so.
+
+I've just been thinking an awful lot about the trader's mindset, and how it's probably more important than his knowledge base.
+
+To prepare yourself for trading professionally, you must, from the very
+beginning, train yourself to spot everything that stands in the way of
+price, and increase your understanding of how it will affect price once
+it gets there.
+
+It will always be you, and only you, who presses the button on your
+trades, and you'll have to be a master of critical thinking to do it
+well
+FA: پستم واقعاً قصدش سرزنش تو نبود، پس اگر این‌طور به نظر رسید عذر می‌خواهم.
+
+فقط این روزها زیاد به ذهنیت معامله‌گر فکر می‌کنم و اینکه احتمالاً از دانش او مهم‌تر است.
+
+برای آماده شدن جهت معامله‌گری حرفه‌ای، باید از همان ابتدا خودت را تربیت کنی که هر چیزی را که سر راه قیمت قرار می‌گیرد ببینی و درکت را از تأثیرش بر قیمت، وقتی به آنجا رسید، بیشتر کنی.
+
+همیشه تو و فقط تو هستی که دکمهٔ معامله‌هایت را می‌زنی، و برای انجام درستش باید در تفکر نقاد استاد باشی
+=== if_p110_4 hash=91e122ed6a4ff344c36eab2868cc7dd563a41df1 author=alirezat
+EN: dengaima wrote: Hello Ifmyante:D
+
+I am back with another question =)
+
+I noticed my explanations are not understandable therefore I went straight to draw a picture
+
+As IF said before that swap level cuts our CP PAZ(pole)
+FA: dengaima نوشت: سلام Ifmyante:D
+
+با یک سؤال دیگر برگشتم =)
+
+دیدم توضیح‌هایم قابل فهم نیست، پس مستقیم رفتم یک تصویر کشیدم
+
+همان‌طور که IF قبلاً گفت، سطح سوآپ PAZ (پل) را از CP ما قطع می‌کند
+=== if_p110_5 hash=acbb6a42a0f01c65002c8805af9e9000ad949fc5 author=Ifmyante
+EN: Yup. Basic stuff
+FA: بله. چیزهای پایه
+=== if_p110_6 hash=30f60cae69941b5c66d8e7242783271d09a0945d author=Ifmyante
+EN: Okay, so I've just been invited to another RTM trading room via skype.
+
+This happens quite often, and I'm glad to be included.
+
+These trading rooms are run by their members, of course, and access is by invitation only.
+
+If any of you would like access to any of these rooms, the way in is simple:
+
+Make yourself known here in RTM, in your journal while you're learning,
+and in the Trade Room thread once you're confident in your analysis.
+
+If you fit with the group in personality and skill, you may very well get an invite.
+
+Sure, you can all just group up with random members, but it may very
+well end up being the blind leading the blind, getting everybody
+confused on the wrong path.
+
+The groups I've seen are doing great work already, and are quite organised, so I'd suggest earning an invite to one of them.
+
+If you're already a respected trader here, beware of new groups inviting
+ you, as they may be looking for a leader to show them the way.
+
+The group should be as good a fit for you as you are for it. Then you'll have synergy
+FA: خب، الان به یک اتاق معاملاتی RTM دیگر در اسکایپ دعوت شدم.
+
+این اتفاق زیاد می‌افتد و خوشحالم که مرا هم حساب می‌کنند.
+
+این اتاق‌های معاملاتی طبعاً توسط اعضای خودشان اداره می‌شوند و دسترسی فقط با دعوت است.
+
+اگر کسی از شما دوست دارد به یکی از این اتاق‌ها دسترسی داشته باشد، راهش ساده است:
+
+خودت را اینجا در RTM مطرح کن، در ژورنالت در دوران یادگیری، و در تاپیک اتاق معاملات وقتی به تحلیلت اطمینان پیدا کردی.
+
+اگر از نظر شخصیت و مهارت با گروه جور باشی، خیلی هم ممکن است دعوت شوی.
+
+البته می‌توانید همه با اعضای تصادفی گروه تشکیل بدهید، ولی خیلی محتمل است که آخرش شود کور، کور را راهبر شدن و همه در مسیر غلط سردرگم شوند.
+
+گروه‌هایی که دیده‌ام همین حالا کارشان عالی است و منظم‌اند، پس پیشنهاد می‌کنم دعوت یکی از آن‌ها را به دست بیاوری.
+
+اگر خودت اینجا معامله‌گر محترمی هستی، مراقب گروه‌های تازه‌ای باش که دعوتت می‌کنند، چون ممکن است دنبال رهبری باشند که راه را نشانشان بدهد.
+
+گروه باید به همان اندازه برای تو مناسب باشد که تو برای آن. آن‌وقت است که هم‌افزایی پیدا می‌شود
+=== if_p110_7 hash=e58fd72ae2dbc2f3266cfc4c25bb6dd26bb073b4 author=bobyv87
+EN: I have bad experiences with these kind of groups. In the end they all
+will end their activity and eventually you'll find no posts in them,
+and everything will go quiet. Its just a matter of time, unfortunately. I
+ was a member myself into few groups and after a while i was the only
+one who still post charts in these groups. So, i guess is better to work
+ with only few members who put all their efforts into it. :)Ifmyante wrote: Okay, so I've just been invited to another RTM trading room via skype.
+
+This happens quite often, and I'm glad to be included.
+
+These trading rooms are run by their members, of course, and access is by invitation only.
+
+If any of you would like access to any of these rooms, the way in is simple:
+
+Make yourself known here in RTM, in your journal while you're learning,
+and in the Trade Room thread once you're confident in your analysis.
+
+If you fit with the group in personality and skill, you may very well get an invite.
+
+Sure, you can all just group up with random members, but it may very
+well end up being the blind leading the blind, getting everybody
+confused on the wrong path.
+
+The groups I've seen are doing great work already, and are quite organised, so I'd suggest earning an invite to one of them.
+
+If you're already a respected trader here, beware of new groups inviting
+ you, as they may be looking for a leader to show them the way.
+
+The group should be as good a fit for you as you are for it. Then you'll have synergy
+FA: با این نوع گروه‌ها تجربه‌های بدی دارم. آخرش همه فعالیتشان را تعطیل می‌کنند و کم‌کم هیچ پستی در آن‌ها پیدا نمی‌کنی و همه‌چیز ساکت می‌شود. متأسفانه فقط مسئلهٔ وقت است. خودم عضو چند گروه بودم و بعد از مدتی تنها کسی بودم که هنوز نمودار در آن‌ها پست می‌کرد. پس حدس می‌زنم بهتر است با تعداد کمی عضو که تمام تلاششان را می‌گذارند کار کنی. :) Ifmyante نوشت: خب، الان به یک اتاق معاملاتی RTM دیگر در اسکایپ دعوت شدم.
+
+این اتفاق زیاد می‌افتد و خوشحالم که مرا هم حساب می‌کنند.
+
+این اتاق‌های معاملاتی طبعاً توسط اعضای خودشان اداره می‌شوند و دسترسی فقط با دعوت است.
+
+اگر کسی از شما دوست دارد به یکی از این اتاق‌ها دسترسی داشته باشد، راهش ساده است:
+
+خودت را اینجا در RTM مطرح کن، در ژورنالت در دوران یادگیری، و در تاپیک اتاق معاملات وقتی به تحلیلت اطمینان پیدا کردی.
+
+اگر از نظر شخصیت و مهارت با گروه جور باشی، خیلی هم ممکن است دعوت شوی.
+
+البته می‌توانید همه با اعضای تصادفی گروه تشکیل بدهید، ولی خیلی محتمل است که آخرش شود کور، کور را راهبر شدن و همه در مسیر غلط سردرگم شوند.
+
+گروه‌هایی که دیده‌ام همین حالا کارشان عالی است و منظم‌اند، پس پیشنهاد می‌کنم دعوت یکی از آن‌ها را به دست بیاوری.
+
+اگر خودت اینجا معامله‌گر محترمی هستی، مراقب گروه‌های تازه‌ای باش که دعوتت می‌کنند، چون ممکن است دنبال رهبری باشند که راه را نشانشان بدهد.
+
+گروه باید به همان اندازه برای تو مناسب باشد که تو برای آن. آن‌وقت است که هم‌افزایی پیدا می‌شود
+=== if_p110_8 hash=418418fd192408d35b2101422973a093b896b5cf author=winnertrader
+EN: Sometimes I am distracted by the details, but I believe they are
+important. The chart below was intially posted by gslao and the blue
+marking is by corsica. Can you guys please help me understand? There is a
+ short uptrend at A (aka red FL) which is the only reason that B becomes
+ an important FL. Is this right? Therefore C on the right becomes an
+important FL as it engulfs B. Everything seems apparent on the current
+TF and seems no digging around in LTF is required.
+FA: بعضی وقت‌ها جزئیات حواسم را پرت می‌کنند، ولی به نظرم مهم‌اند. نمودار زیر ابتدا توسط gslao پست شد و علامت‌گذاری آبی کار corsica است. بچه‌ها می‌شود کمکم کنید بفهمم؟ در A (که همان FL قرمز است) یک روند صعودی کوتاه هست و تنها دلیل مهم شدن B هم همین است. درست است؟ پس C در سمت راست، چون B را اینگالف می‌کند، یک FL مهم می‌شود. همه‌چیز روی TF فعلی واضح به نظر می‌رسد و به نظر نمی‌رسد حفاری در LTF لازم باشد.
+=== if_p110_9 hash=cddb470d55111a92ff7870505aa5dd9e62ef83bc author=bobyv87
+EN: IF, could you please help me in this scenario? Is there a multi-scale thing? How do you manage to trade this situation?
+FA: IF، می‌شود لطفاً در این سناریو کمکم کنی؟ ماجرای چندمقیاسی است؟ این وضعیت را چطور مدیریت می‌کنی که بتوانی معامله کنی؟
+=== if_p110_10 hash=3deb951595b6cfe2efdc93671c1b5338de3221a8 author=Ifmyante
+EN: So you have PA up and you're asking where to sell.
+
+Price can now happily fake past any of the LTF LFLs, so the best place to consider selling is at the next UFL in this scale.
+
+However, if this is, say a Monthly or Weekly chart, you should be able to sell with H4 and down PA
+FA: پس PA صعودی داری و می‌پرسی کجا بفروشی.
+
+قیمت حالا راحت می‌تواند از هر LFL در LTF‌ها فیک بزند، پس بهترین جایی که می‌شود به فروش فکر کرد، UFL بعدی در همین مقیاس است.
+
+ولی اگر این نمودار مثلاً ماهانه یا هفتگی باشد، باید بتوانی با PA در H4 و پایین‌تر بفروشی
+=== if_p110_11 hash=f86f5cdd64dd7fc359b27347159971380f9ea0fc author=bobyv87
+EN: Sorry, i didn't make myself clear. Before price break A, it was
+reacting at B (and at the bigger FL A in the same time ). You have 2
+BSZ inside of it. Where should i put my SL in these cases, above B or
+above A? I think i wrote anyway that in the picture. Thank you!Ifmyante wrote: So you have PA up and you're asking where to sell.
+
+Price can now happily fake past any of the LTF LFLs, so the best place to consider selling is at the next UFL in this scale.
+
+However, if this is, say a Monthly or Weekly chart, you should be able to sell with H4 and down PA
+FA: ببخشید، منظورم را واضح نگفتم. قبل از اینکه قیمت A را بشکند، در B واکنش می‌داد (و هم‌زمان به FL بزرگ‌تر A هم). داخلش 2 BSZ داری. در این موارد SL را کجا بگذارم، بالای B یا بالای A؟ فکر می‌کنم به هر حال در تصویر نوشته‌ام. ممنون! Ifmyante نوشت: پس PA صعودی داری و می‌پرسی کجا بفروشی.
+
+قیمت حالا راحت می‌تواند از هر LFL در LTF‌ها فیک بزند، پس بهترین جایی که می‌شود به فروش فکر کرد، UFL بعدی در همین مقیاس است.
+
+ولی اگر این نمودار مثلاً ماهانه یا هفتگی باشد، باید بتوانی با PA در H4 و پایین‌تر بفروشی
+=== if_p110_12 hash=7271c7e150303908a897e417e9e0e88be4f8fa88 author=dengaima
+EN: bobyv87 wrote: Sorry, i didn't
+make myself clear. Before price break A, it was reacting at B (and at
+the bigger FL A in the same time ). You have 2 BSZ inside of it. Where
+should i put my SL in these cases, above B or above A? I think i wrote
+anyway that in the picture. Thank you!
+Ifmyante wrote: So you have PA up and you're asking where to sell.
+
+Price can now happily fake past any of the LTF LFLs, so the best place to consider selling is at the next UFL in this scale.
+
+However, if this is, say a Monthly or Weekly chart, you should be able to sell with H4 and down PA
+
+For me personally, I would want small SL and So above B for testing.
+Another trade would be at MPL if PA on LTF allows so. This is my
+personal preference.
+
+Fast result to know if I am wrong fast :D Maybe it's not the most
+efficient, and I am sure once I really learn how to read the price I
+will adjust it accordingly to the situations. But before shorting at B i
+ would want price to engulf FL formed at BSZ levels to have higher
+chance of short working out =)
+
+Dengaima
+FA: bobyv87 نوشت: ببخشید، منظورم را واضح نگفتم. قبل از اینکه قیمت A را بشکند، در B واکنش می‌داد (و هم‌زمان به FL بزرگ‌تر A هم). داخلش 2 BSZ داری. در این موارد SL را کجا بگذارم، بالای B یا بالای A؟ فکر می‌کنم به هر حال در تصویر نوشته‌ام. ممنون!
+Ifmyante نوشت: پس PA صعودی داری و می‌پرسی کجا بفروشی.
+
+قیمت حالا راحت می‌تواند از هر LFL در LTF‌ها فیک بزند، پس بهترین جایی که می‌شود به فروش فکر کرد، UFL بعدی در همین مقیاس است.
+
+ولی اگر این نمودار مثلاً ماهانه یا هفتگی باشد، باید بتوانی با PA در H4 و پایین‌تر بفروشی
+
+شخصاً SL کوچک می‌خواهم، پس برای آزمایش بالای B. معاملهٔ دیگر در MPL خواهد بود، اگر PA در LTF اجازه بدهد. این ترجیح شخصی من است.
+
+نتیجهٔ سریع تا زود بفهمم اشتباه می‌کنم :D شاید بهینه‌ترین روش نباشد و مطمئنم وقتی واقعاً خواندن قیمت را یاد بگیرم، آن را بر اساس موقعیت‌ها تنظیم می‌کنم. ولی قبل از فروش در B، دوست دارم قیمت FL تشکیل‌شده در سطوح BSZ را اینگالف کند تا شانس موفقیت معاملهٔ فروش بیشتر شود =)
+
+Dengaima
+=== if_p110_13 hash=3b755e8913e61af462312bcfc134054362f87424 author=Balzak
+EN: I think if we take a trade at QM in B, we can only expect to reach the
+ mini fl created after the break of the BSZ, and then watch how pa
+develops. I would put sl behind b if the ratio is at least 1 to that
+point.
+FA: به نظرم اگر در QM در B معامله بگیریم، فقط می‌توانیم انتظار رسیدن به mini fl ساخته‌شده بعد از شکست BSZ را داشته باشیم و بعد ببینیم PA چطور پیش می‌رود. من اگر نسبت حداقل 1 به آن نقطه بود، SL را پشت B می‌گذاشتم.
+=== if_p110_14 hash=4d2a697dea0212db9561f185a60c9c70c0775f8f author=PinkPanter
+EN: Hy all RTM members...
+
+I will post this links here, becouse it is best posibility for everyone to see it.
+
+In this videos you will find our competitors and their lifestyles and thinking about forex.
+
+Please take one hour and watch all four of them... They dont teach
+anything, but if you can read betwen the lines you will maybe understand
+ them what they are trying to say.
+
+IF sory to trash your journal with this post, but if this content of
+videos is true, then mybe we will have some more knowleadge about
+markets.
+
+In this videos i found the answer, why forex is moving in the same way
+all the time... becouse people do tricks and they dont have time to
+invent new tricks...
+
+This is what i get from this videos.. maybe you will find something else...
+FA: سلام به همهٔ اعضای RTM...
+
+این لینک‌ها را اینجا می‌گذارم، چون بهترین فرصت است که همه ببینند.
+
+در این ویدئوها رقبای ما و سبک زندگی و طرز فکرشان دربارهٔ فارکس را پیدا می‌کنید.
+
+لطفاً یک ساعت وقت بگذارید و هر چهارتا را ببینید... چیزی آموزش نمی‌دهند، ولی اگر بتوانید بین خطوط را بخوانید، شاید بفهمید چه می‌خواهند بگویند.
+
+IF شرمنده که ژورنالت را با این پست شلوغ می‌کنم، ولی اگر محتوای این ویدئوها راست باشد، شاید دانشمان دربارهٔ بازارها کمی بیشتر شود.
+
+در این ویدئوها جواب این را پیدا کردم که چرا فارکس همیشه یک‌جور حرکت می‌کند... چون آدم‌ها ترفند می‌زنند و وقت ندارند ترفند تازه اختراع کنند...
+
+این چیزی است که من از این ویدئوها گرفتم.. شاید شما چیز دیگری پیدا کنید...
+=== if_p110_15 hash=4e1bd7e6e03c76c88d8a73e4cf33f4852d08ab33 author=PinkPanter
+EN: In last video they say that there are only banks and few big
+institutions left in the game plus retail traders... There are not any
+more small ITs and hedge founds in the game left becouse of small
+volatility.. what are you think about that folks?
+FA: در ویدئوی آخر می‌گویند در بازی فقط بانک‌ها و چند مؤسسهٔ بزرگ به‌علاوهٔ خرده‌معامله‌گرها مانده‌اند... به خاطر نوسان کم، دیگر هیچ IT کوچک و صندوق پوششی در بازی نمانده.. شما چه فکر می‌کنید بچه‌ها؟
+=== if_p110_16 hash=0cbf486d87f85540957d32b7e604366d996c1a6e author=Atari
+EN: Pink Panther, do some digging deeper yourself and you find more
+answers than what has been said in the video. Just to give you an idea,
+ there are about 2 trillion traded in the spot market daily. And yes,
+only 2 handful of big banks control about 70% of the volume. But there
+are over 500 smaller banks, sovereigns, and hedge funds helping the big
+banks. We retailers make up 400 billion per day and our number is about
+ 20 millions.
+FA: Pink Panther، خودت کمی بیشتر حفاری کن، جواب‌های بیشتری از آنچه در ویدئو گفته شد پیدا می‌کنی. فقط برای اینکه تصوری داشته باشی، روزانه حدود 2 تریلیون در بازار نقدی معامله می‌شود. و بله، فقط 2 مشت بانک بزرگ حدود 70% حجم را کنترل می‌کنند. ولی بیش از 500 بانک کوچک‌تر، صندوق‌های دولتی و صندوق‌های پوششی به بانک‌های بزرگ کمک می‌کنند. ما خرده‌معامله‌گرها روزانه 400 میلیارد را می‌سازیم و تعدادمان حدود 20 میلیون است.
+=== if_p110_17 hash=9ff9db6cf5ed81c6005d6b949e0a13f87040b05c author=PinkPanter
+EN: i work in big company.... we have bilions of transactions in a year...
+ so at the end of the day we export all payments in file and send this
+file to the bank. the bank then executes this payments. So every company
+ doing the same and every bank is doing the same... so then must be an
+specific hour when price should bounce up or down everyday.
+
+the other BIG mistery is NEWS releases, who buys in that milisecond, so
+the price spike up directly into supply and reverses and goes in other
+direction than big news pole? if they know that price will bounce why
+they buy it??
+FA: من در یک شرکت بزرگ کار می‌کنم.... سالی میلیاردها تراکنش داریم... پس آخر روز همهٔ پرداخت‌ها را در یک فایل خروجی می‌گیریم و فایل را به بانک می‌فرستیم. بانک بعد آن پرداخت‌ها را اجرا می‌کند. پس هر شرکتی همین کار را می‌کند و هر بانکی هم همین کار را می‌کند... پس باید ساعتی مشخص باشد که قیمت هر روز بالا یا پایین بزند.
+
+معمای بزرگ دیگر، انتشار خبر است؛ چه کسی در آن میلی‌ثانیه می‌خرد که قیمت مستقیم به عرضه شوت می‌کند و برمی‌گردد و برخلاف قطب خبر بزرگ می‌رود؟ اگر می‌دانند قیمت برمی‌گردد، چرا می‌خرندش؟؟
+=== if_p110_18 hash=1abc27d4d1bba75ceab71f89d9af42dd3e364de7 author=dengaima
+EN: PinkPanter wrote: i work in big
+company.... we have bilions of transactions in a year... so at the end
+of the day we export all payments in file and send this file to the
+bank. the bank then executes this payments. So every company doing the
+same and every bank is doing the same... so then must be an specific
+hour when price should bounce up or down everyday.
+
+the other BIG mistery is NEWS releases, who buys in that milisecond, so
+the price spike up directly into supply and reverses and goes in other
+direction than big news pole? if they know that price will bounce why
+they buy it??
+
+In my opinion they knew people trading fundamentals go with news. Good news = buy and bad news is sell...
+
+Therefore they either take their profit before news or cancel their
+unexececuted orders or suffer small loss by buying. On top of this
+people buy because of good news. This all results in price suddenly
+spiking up. However what ITs do, is take all those orders and execute
+sell orders at the supply level to kill all those longs and they also
+take their long profit at the same zone. This results into massive move
+down after news release.
+
+My 0.01 cents :D
+
+Dengaima
+FA: PinkPanter نوشت: من در یک شرکت بزرگ کار می‌کنم.... سالی میلیاردها تراکنش داریم... پس آخر روز همهٔ پرداخت‌ها را در یک فایل خروجی می‌گیریم و فایل را به بانک می‌فرستیم. بانک بعد آن پرداخت‌ها را اجرا می‌کند. پس هر شرکتی همین کار را می‌کند و هر بانکی هم همین کار را می‌کند... پس باید ساعتی مشخص باشد که قیمت هر روز بالا یا پایین بزند.
+
+معمای بزرگ دیگر، انتشار خبر است؛ چه کسی در آن میلی‌ثانیه می‌خرد که قیمت مستقیم به عرضه شوت می‌کند و برمی‌گردد و برخلاف قطب خبر بزرگ می‌رود؟ اگر می‌دانند قیمت برمی‌گردد، چرا می‌خرندش؟؟
+
+به نظر من آن‌ها می‌دانند کسانی که بر اساس فاندامنتال معامله می‌کنند با خبر پیش می‌روند. خبر خوب = خرید و خبر بد = فروش...
+
+بنابراین یا قبل از خبر سودشان را برمی‌دارند، یا سفارش‌های اجرانشده‌شان را لغو می‌کنند، یا با خرید ضرر کوچکی را تحمل می‌کنند. روی این، آدم‌ها هم به خاطر خبر خوب می‌خرند. نتیجهٔ همهٔ این‌ها شوت ناگهانی قیمت به بالاست. ولی کاری که IT‌ها می‌کنند این است که همهٔ آن سفارش‌ها را برمی‌دارند و در سطح عرضه سفارش فروش اجرا می‌کنند تا همهٔ آن خریدهای باز را بکشند، و سود خرید خودشان را هم در همان ناحیه برمی‌دارند. نتیجه‌اش حرکت سنگین نزولی بعد از انتشار خبر است.
+
+0.01 سنت من :D
+
+Dengaima
+=== if_p110_19 hash=5e647dfca6abde6311a5b9e49da0b16bbf16676f author=Rinehart
+EN: PinkPanter wrote: the other BIG mistery is NEWS releases, who buys in that milisecond,
+ so the price spike up directly into supply and reverses and goes in
+other direction than big news pole? if they know that price will bounce
+why they buy it??
+
+PinkPanter, news releases works almost exactly the opposite way most
+people imagine. The big spikes that happen right before and during a
+news release are rarely caused by ITs dropping massive orders and then
+reversing their orders with even more massive orders the other way.
+What often happens is that some IT's (since ITs trade different time
+frames too) remove their orders from the market. This causes a vacuum
+of orderflow where price moves to find new equilibrium. When we are
+talking about a spike to supply, there was more demand than supply once
+IT pulled their orders. This allows the sharp move higher to strong
+supply or an area with lots of retail buy stops (because IT takes
+opposite of retail). Then price falls because of overwhelming supply.
+FA: PinkPanter نوشت: معمای بزرگ دیگر، انتشار خبر است؛ چه کسی در آن میلی‌ثانیه می‌خرد که قیمت مستقیم به عرضه شوت می‌کند و برمی‌گردد و برخلاف قطب خبر بزرگ می‌رود؟ اگر می‌دانند قیمت برمی‌گردد، چرا می‌خرندش؟؟
+
+PinkPanter، انتشار خبر تقریباً دقیقاً برعکس چیزی کار می‌کند که بیشتر آدم‌ها تصور می‌کنند. شوت‌های بزرگی که درست قبل و در جریان انتشار خبر رخ می‌دهد، به‌ندرت به این خاطر است که IT‌ها سفارش‌های سنگین را داخل بازار می‌ریزند و بعد با سفارش‌های سنگین‌تر جهت را برمی‌گردانند. چیزی که اغلب رخ می‌دهد این است که بعضی IT‌ها (چون آن‌ها هم در تایم‌فریم‌های مختلف معامله می‌کنند) سفارش‌هایشان را از بازار برمی‌دارند. این باعث خلأ در جریان سفارش می‌شود و قیمت برای پیدا کردن تعادل تازه حرکت می‌کند. وقتی از شوت به سمت عرضه حرف می‌زنیم، به محض اینکه IT سفارش‌هایش را کشید، تقاضا از عرضه بیشتر شد. همین اجازه می‌دهد حرکت تند به سمت عرضهٔ قوی یا ناحیه‌ای با استاپ‌های خرید زیاد خرده‌معامله‌گرها رخ بدهد (چون IT خلاف خرده‌معامله‌گر را می‌گیرد). بعد قیمت به خاطر عرضهٔ غالب می‌ریزد.
+=== if_p110_20 hash=97f741016cff56d748491a731863eff49ad0fa2e author=Edge
+EN: They know that many are seeking the next thing with trading. For years
+ they used plain old TA strategies to teach the masses. This was
+designed to create deep pools of liquidity in specific areas to fill
+their own orders. Some have cottoned onto this, so in recent times they
+have started campaigns focused on events over a specific time frame.
+Think "trade the US election", Trade Brexit, Trade the German Election".
+ Sure this has been around a while but the marketing campaigns
+surrounding this 'macro' trading style have really stepped up. So they
+are using these methods as well to get retailers thinking they are the
+next Gordon Gekko. At the end of the day its all about getting the
+retailer and smaller funds into positions to get their liquidity. This
+will never change.
+FA: می‌دانند که خیلی‌ها دنبال چیز بعدی در معامله‌گری می‌گردند. سال‌ها با استراتژی‌های ساده و قدیمی TA به توده‌ها آموزش دادند. این طراحی شده بود تا در ناحیه‌های مشخص، استخرهای عمیق نقدینگی بسازند و سفارش‌های خودشان را پر کنند. بعضی‌ها این را فهمیده‌اند، پس در زمان‌های اخیر کمپین‌هایی راه انداخته‌اند که روی رویدادها در یک بازهٔ زمانی مشخص تمرکز دارد. «انتخابات آمریکا را معامله کن»، «برگزیت را معامله کن»، «انتخابات آلمان را معامله کن». البته این چیزها مدتی است وجود دارد، ولی کمپین‌های تبلیغاتی دور این سبک معامله‌گری «ماکرو» واقعاً شدت گرفته‌اند. پس از این روش‌ها هم استفاده می‌کنند تا خرده‌معامله‌گرها فکر کنند گوردون گکو بعدی‌اند. آخر ماجرا همه‌اش این است که خرده‌معامله‌گر و صندوق‌های کوچک‌تر را وارد پوزیشن کنند تا نقدینگی‌شان را بگیرند. این هیچ‌وقت عوض نمی‌شود.
+=== if_p110_21 hash=718ef0ed3f6f59781b477d4cdc41ebe1d25d1cd2 author=Frosty
+EN: Regarding trades executed in mili/microseconds, I really recommend reading "Flash Boys" by Michael Lewis.
+
+It is a sick industry we are operating in with "legal" front-running done by the HFTs and banks colluding with them
+
+The book gives an awesome overview on how high-frequency traders (HFTs)
+make money and what some people are trying to do to create a fair-er
+market.
+
+Sorry Harry/administrators if typing names and titles of books aren't allowed.
+
+Please delete this post if that isn't allowed and I apologize for any breach in terms of use
+FA: دربارهٔ معامله‌هایی که در میلی‌ثانیه/میکروثانیه اجرا می‌شوند، واقعاً خواندن «Flash Boys» نوشتهٔ Michael Lewis را توصیه می‌کنم.
+
+صنعت بیماری است که در آن کار می‌کنیم، با فرانت‌رانینگ «قانونی» که HFT‌ها انجام می‌دهند و بانک‌هایی که با آن‌ها ساخت‌وپاز می‌کنند
+
+کتاب نمای کلی فوق‌العاده‌ای می‌دهد از اینکه معامله‌گران با بسامد بالا (HFT‌ها) چطور پول درمی‌آورند و بعضی‌ها می‌خواهند چه کنند تا بازار منصفانه‌تری بسازند.
+
+Harry/مدیرها شرمنده اگر نوشتن نام و عنوان کتاب مجاز نیست.
+
+اگر مجاز نیست لطفاً این پست را حذف کنید و از هر نقضی در شرایط استفاده عذر می‌خواهم
+=== if_p110_22 hash=4fd4e9ce1a28d20c1dfd6b31a50704562da6cd46 author=Edge
+EN: Frosty wrote: Regarding trades executed in mili/microseconds, I really recommend reading "Flash Boys" by Michael Lewis.
+
+It is a sick industry we are operating in with "legal" front-running done by the HFTs and banks colluding with them
+
+The book gives an awesome overview on how high-frequency traders (HFTs)
+make money and what some people are trying to do to create a fair-er
+market.
+
+Sorry Harry/administrators if typing names and titles of books aren't allowed.
+
+Please delete this post if that isn't allowed and I apologize for any breach in terms of use
+
+It is sick. Very true. Talking about front running and knowing where
+clients order blocks are. The big institutions not only fill large
+orders for clients etc, they have their own prop desks which front run.
+Think of a LSK or Lovely UFL/LFL where we know there are orders
+residing. When we get to it, they will often front run and issue new
+orders in where the QM level is. These orders are added after the
+initial order blocks are left behind from the original kink. This gives
+us our QM. If they want extra they will FO and Diamond up to the very
+last MPL of the true supply and demand. So quite often the QM is an
+example of front running or adding fresh orders into a level
+FA: Frosty نوشت: دربارهٔ معامله‌هایی که در میلی‌ثانیه/میکروثانیه اجرا می‌شوند، واقعاً خواندن «Flash Boys» نوشتهٔ Michael Lewis را توصیه می‌کنم.
+
+صنعت بیماری است که در آن کار می‌کنیم، با فرانت‌رانینگ «قانونی» که HFT‌ها انجام می‌دهند و بانک‌هایی که با آن‌ها ساخت‌وپاز می‌کنند
+
+کتاب نمای کلی فوق‌العاده‌ای می‌دهد از اینکه معامله‌گران با بسامد بالا (HFT‌ها) چطور پول درمی‌آورند و بعضی‌ها می‌خواهند چه کنند تا بازار منصفانه‌تری بسازند.
+
+Harry/مدیرها شرمنده اگر نوشتن نام و عنوان کتاب مجاز نیست.
+
+اگر مجاز نیست لطفاً این پست را حذف کنید و از هر نقضی در شرایط استفاده عذر می‌خواهم
+
+بیمار است. کاملاً درست. حرف از فرانت‌رانینگ است و دانستن اینکه بلوک‌های سفارش مشتری‌ها کجاست. مؤسسه‌های بزرگ نه‌فقط سفارش‌های بزرگ مشتری‌ها را پر می‌کنند، بلکه میزهای اختصاصی خودشان را دارند که فرانت‌ران می‌کنند. به یک LSK یا یک UFL/LFL دوست‌داشتنی فکر کن که می‌دانیم سفارش‌هایی آنجا نشسته‌اند. وقتی به آن می‌رسیم، اغلب فرانت‌ران می‌کنند و سفارش‌های تازه را همان‌جا که سطح QM است می‌گذارند. این سفارش‌ها بعد از اینکه بلوک‌های سفارش اولیه از کینک اصلی جا ماندند اضافه می‌شوند. همین QM ما را می‌دهد. اگر بیشتر بخواهند، FO می‌زنند و تا آخرین MPL عرضه و تقاضای واقعی دایموند می‌سازند. پس خیلی وقت‌ها QM نمونه‌ای از فرانت‌رانینگ یا اضافه کردن سفارش تازه به یک سطح است.
+=== if_p110_23 hash=4255558d65ff1262db6e82b336085453ab786635 author=Atari
+EN: Although our industry is full of manipulations by the ITs, I believe
+we all should not focus our attention on the matter. It is beyond your
+control currently and worrying and stressing about it would not make you
+ a better trader. You all have been given an edge that basically tells
+you where the ITs are trading (levels). As Edge pointed out, we have QM
+ and DM, that in itself is how the ITs are trading and communicating
+with each other. Don't get yourself boggle down with HFTs and wasting
+your energy in the wrong area. Focus your energy on mastering RTM.
+When you can master RTM, you know where the big guys are playing, when
+they are manipulating, and where likely they will take price to next.
+Once you have this down you just join them in their game without them
+knowing and steal away orders from them. You can basically predict the
+next move with high accuracy. That is the key. There are other older
+RTM members prior to the launch of the new websites that have a equity
+curve in a 70 degree angle and all he trades is the QM and DM. He does
+not concern himself with HFTs and what else out there that is not
+beneficial to his psychology and trading. All he does is focus his
+energy on trading the QM and DM when it appears. We here at RTM have an
+ edge like no one else out there. We have all the pieces of the puzzle
+of the market. Consider yourself fortunate to have found RTM while 95%
+of the retailers out there are still looking for the goose that lays the
+ golden egg. Therefore, I highly recommend everyone to focus their
+attention on becoming a master of RTM and don't get side tracked with
+the things that you cannot control.
+
+Frosty wrote: Regarding trades executed in mili/microseconds, I really recommend reading "Flash Boy" by Michael Lewis.
+
+It is a sick industry we are operating in with "legal" front-running done by the HFTs and banks colluding with them
+
+The book gives an awesome overview on how high-frequency traders (HFTs)
+make money and what some people are trying to do to create a fair-er
+market.
+
+Sorry Harry/administrators if typing names and titles of books aren't allowed.
+
+Please delete this post if that isn't allowed and I apologize for any breach in terms of use
+FA: با اینکه صنعت ما پر از دستکاری‌های IT‌هاست، فکر می‌کنم هیچ‌کداممان نباید تمرکزمان را روی این موضوع بگذاریم. الان از کنترل تو خارج است و نگرانی و استرس درباره‌اش تو را معامله‌گر بهتری نمی‌کند. به همهٔ شما لبهٔ برتری داده شده که اساساً می‌گوید IT‌ها کجا معامله می‌کنند (سطوح). همان‌طور که Edge اشاره کرد، ما QM و DM داریم و همین خودش روش معامله‌گری و ارتباط IT‌ها با یکدیگر است. خودت را با HFT‌ها درگیر نکن و انرژیت را در جای اشتباه هدر نده. انرژی‌ات را روی تسلط بر RTM بگذار. وقتی بر RTM مسلط شوی، می‌دانی آدم‌های بزرگ کجا بازی می‌کنند، کِی دستکاری می‌کنند و احتمالاً بعدی قیمت را کجا می‌برند. وقتی این را یاد بگیری، فقط بی‌آنکه بدانند وارد بازی آن‌ها می‌شوی و سفارش‌ها را از دستشان می‌دزدی. عملاً می‌توانی حرکت بعدی را با دقت بالا پیش‌بینی کنی. نکتهٔ کلیدی همین است. بعضی اعضای قدیمی‌تر RTM، پیش از راه‌اندازی وب‌سایت‌های جدید، منحنی سرمایه‌شان با زاویهٔ 70 درجه بالا می‌رود و همهٔ معامله‌اش QM و DM است. او خودش را درگیر HFT‌ها و هر چیز دیگری که به روان‌شناسی و معامله‌گری‌اش آسیب می‌زند نمی‌کند. تمام کارش این است که وقتی QM و DM ظاهر می‌شود، انرژی‌اش را روی معاملهٔ آن بگذارد. ما اینجا در RTM لبهٔ برتری داریم که هیچ‌کس بیرون ندارد. همهٔ تکه‌های پازل بازار را در اختیار داریم. خودت را خوش‌شانس بدان که RTM را پیدا کرده‌ای، در حالی که 95% خرده‌معامله‌گرهای بیرون هنوز دنبال غازی می‌گردند که تخم طلا می‌گذارد. پس شدیداً به همه توصیه می‌کنم تمرکزشان را روی استاد شدن در RTM بگذارند و با چیزهایی که کنترلشان دستشان نیست، منحرف نشوند.
+
+Frosty نوشت: دربارهٔ معامله‌هایی که در میلی‌ثانیه/میکروثانیه اجرا می‌شوند، واقعاً خواندن «Flash Boy» نوشتهٔ Michael Lewis را توصیه می‌کنم.
+
+صنعت بیماری است که در آن کار می‌کنیم، با فرانت‌رانینگ «قانونی» که HFT‌ها انجام می‌دهند و بانک‌هایی که با آن‌ها ساخت‌وپاز می‌کنند
+
+کتاب نمای کلی فوق‌العاده‌ای می‌دهد از اینکه معامله‌گران با بسامد بالا (HFT‌ها) چطور پول درمی‌آورند و بعضی‌ها می‌خواهند چه کنند تا بازار منصفانه‌تری بسازند.
+
+Harry/مدیرها شرمنده اگر نوشتن نام و عنوان کتاب مجاز نیست.
+
+اگر مجاز نیست لطفاً این پست را حذف کنید و از هر نقضی در شرایط استفاده عذر می‌خواهم
+=== if_p110_24 hash=957e5948ef1762c00662784ffacc971b6b0670f5 author=PinkPanter
+EN: gslao your words are balsam for our souls
+FA: gslao حرف‌هایت مرهم روح ماست
+=== if_p110_25 hash=de4a06c749256309d553510c807bafa26536e8ae author=Frosty
+EN: Hi Gslao,
+
+Thank you for reminding us what is important
+
+My intention wasn't to sidetrack anybody, lol. Just want to share a book
+ title that shows how manipulation is done, if reading is a hobby.
+
+Will do what you suggested us all to do brother. Consider that my last
+post in RTM about sick manipulations done by ITs, because we all know
+how nasty they operate anyways
+
+Thank you for your continued guidance
+FA: سلام Gslao،
+
+ممنون که یادمان انداختی چه چیزی مهم است
+
+قصدم منحرف کردن کسی نبود، خخخ. فقط می‌خواستم عنوان کتابی را به اشتراک بگذارم که نشان می‌دهد دستکاری چطور انجام می‌شود، اگر مطالعه سرگرمی‌ات باشد.
+
+هر چه گفتی انجام می‌دهم برادر. این را آخرین پستم در RTM دربارهٔ دستکاری‌های بیمارگونهٔ IT‌ها حساب کن، چون همه می‌دانیم به هر حال چطور کثیف بازی می‌کنند
+
+ممنون از راهنمایی همیشگی‌ات

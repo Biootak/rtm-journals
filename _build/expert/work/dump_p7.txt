@@ -1,0 +1,160 @@
+##### hs_p7_151 hoeschec paras:4
+I need to figure out the difference between a Flag and a Flag Limit and a FTR.
+
+I've always defined the difference between a Flag and a FTR is that a FTR is formed after price breaks an important S/R level (or opposing FTR). A flag is just an area of price indecision. The Flag Limit just defines the high and the low of the Flag..right?
+
+A flag can't form without price making a decision to break out. It's the 'breaking out' that forms the end of the flag. Keeping that in mind, would it be correct to say there is always an FTR when there is a Flag and there is never an FTR without a flag?
+
+I don't understand the difference between a Flag and a Flag Limit. To me, they are the same thing. The Flag is the area where price is indecisive, but it also includes the decision point for price to break out of the flag.
+---END---
+##### hs_p7_152 Kovalenko paras:2
+Hi I like Smimon`s photo, it helps you
+
+I like IF`s photo too much.
+---END---
+##### hs_p7_153 hoeschec paras:6
+Kovalenko, from looking at your diagram I can tell I have a misunderstanding about the flag vs. flag limit. Maybe this is part of the reason why I have a hard time with the PAZ. I will do some more digging today and try to better understand the difference. Last night I stumbled on Doctor's old Journal and I was amazed at the simplicity of his approach to trading. I know you also focus on simplicity, and I am wondering if the PAZ concept is necessary for someone to be a profitable trader.
+
+From what I saw on Doctor's journal, he doesn't use the PAZ. He even wrote the following as a response to someone who posted on his journal: " It is all plain Jane and in your face if you constantly refer to the big picture i.e higher time frame and then drop down for a closer view. I see too many people trying to conduct an of over analysis of what is very simple in reality. There are no banks or institutions that know what way price will break, they know as much as we do and its all right there on the charts. They look for the same things we do and their only edge, and it is a very slight edge, is the bigger players will have custom orders that tell them where their customers want to deal. In the overall picture this information has little validity because it can only be proven accurate after a move. Therefore historical price now becomes an asset to them and all other traders once they know where to look. This is what we do here in case the penny has not yet dropped." - Doctor in "The Doctor's Patients" Journal Post # 84.
+
+I have to be honest...reading this statement from a trader that had 'Elite' status here on RTM really negatively affects my confidence. This statement seems (at least to me) to be in direct contradiction with what lies at the very core of RTM's philosophy. Maybe I am internalizing Doctor's statement the wrong way, and I certainly mean no disrespect to anyone here on RTM as I really enjoy the privilege of reading and posting here, but this is tough to rationalize. It would be disingenuous of me to not at least admit I still have some doubts.
+
+At what point does over complication become a detriment to one's trading career? Or...am I just saying this as a way of making myself feel better that I can't understand a concept that many here have been able to comprehend?
+
+I don't know.
+
+.....back to the charts for more practice.
+---END---
+##### hs_p7_154 Kovalenko paras:1
+Concept is simple. look at chart, break >retrace>go to next level....
+---END---
+##### hs_p7_155 hoeschec paras:1
+GBP-USD H1
+---END---
+##### hs_p7_156 hoeschec paras:3
+GBP-USD H1
+
+Why didn't price return to the source of the engulf? Price pierces in to a PAZ, but no return occurs.
+
+Why did this not occur?
+---END---
+##### hs_p7_157 Kovalenko paras:1
+Adding Swap level on chart and Decision (DP) and you can see almost all picture.....almost l like to show a chart, it is better for understanding.
+---END---
+##### hs_p7_158 hoeschec paras:4
+Kovalenko wrote: Adding Swap level on chart and Decision (DP) and you can see almost all picture.....almost l like to show a chart, it is better for understanding.
+
+OK, I think I understand what you're saying.
+
+In a scenario where there is a valid engulf, I should look for any S/R flip level that may be in the way of price reaching the origin of the engulf. If there is a S/R flip zone in the way, price may bounce from that zone instead of fully returning to the origin of the engulf. Supply/demand zones that were ignored as price was forming the engulf should also be watched as price approaches the area on return.
+
+Thanks Kovalenko!!
+---END---
+##### hs_p7_159 hoeschec paras:2
+I've always wondered about proper ways to draw S/R Zones. Maybe this is a personal preference, but are S/R levels supposed to be drawn based on the extreme high/low of a candle (or group of candles), or are they supposed to be drawn based on the open/close of the candle (group of candles)?
+
+I've always drawn them as accurately as possible, by using a line that best represents as many candles as possible in the flip zone I am focused on. But sometimes there are several wicks that all end in the same area, and several candle open/closes that all end in the same area. Which ones are most accurate fore predicting when/where price will turn?
+---END---
+##### hs_p7_160 hoeschec paras:1
+Anybody short on EUR-USD?
+---END---
+##### hs_p7_162 hoeschec paras:2
+Kovalenko wrote:
+
+Great, thanks K. This helps clear it up for me!
+---END---
+##### hs_p7_163 hoeschec paras:2
+EUR/USD Short working out nicely after an engulf last week.
+
+Not sure where to place the first target. I have market 4 possible places. Trying to find the base of the pole...I'm guessing box 1 is the pole and therefore should be target 1. I'd place a second target at 4 though.
+---END---
+##### hs_p7_164 hoeschec paras:3
+Still scratching my head on USD/CAD. Looked like the nicest engulf setup I've seen in a while. This one is a mystery.
+
+Ideas?
+
+My only thought is the bad GDP figures last week took precedence over the prevailing PA setup, sentiment shifted, and this was just one of those times you have to take a loss.
+---END---
+##### hs_p7_165 Muffles paras:3
+Hi Hoeschec,
+
+Hope this clears it up.
+
+Cheers, Muffles
+---END---
+##### hs_p7_166 hoeschec paras:6
+Hey Muffles, thanks for the post.
+
+If the DP was not visible on the 1-minute chart, how would someone know it existed at that point? When this engulf originally occurred, I checked the HTF to see if there was an S/R level at the point where price touched at about 1.28642. The S/R I see based on the Daily chart is drawn on the chart below. Even when dropping down to the lowest time frame, this looked like an engulf in to an area with no orders (no mans land). It's hard to judge the move as a fakeout if price doesn't target a FTR/Flag etc... This one did not look like a F/O to me.
+
+This setup was everything I look for in a trade opportunity. Clearly, I was dead wrong. I am trying to go back and determine where my analysis went wrong to understand what I can do next time to avoid such a mistake. Usually my mistakes are obvious and I can make the necessary adjustment. Here, I am truly puzzled.
+
+Is there a way you could have seen (in real time) that the engulf had hit its target? Was there an indication that the primary target had been hit which could have kept me from taking a short at the origin of the engulf?
+
+To me, this just looks like a failed engulf. Is it possible that even the best setups can be thrown off because of fundamental economic news releases?
+
+I appreciate your time & posting!
+---END---
+##### hs_p7_167 Muffles paras:5
+No worries,
+
+Try checking the tick chart if possible to see the DP. You know it definitely exists as it broke the highs/supply. Don't forget that S/R doesn't always align perfectly as the DP is a kink which offsets it one way or another. IF explains this somewhere in a post, but I saved time and made a new screenshot instead of finding it.
+
+So the only way to see the DP exactly in real-time is to be looking at a tick chart. However if we cannot check it; as the screenshot shows we assume the whole thing is a DP to break the highs and price can turn anywhere within this kink, so basically we wouldn't trade it if we didn't have a tick chart as our R:R would be bad.
+
+In regards to economic news release, I believe its the other way around. The news helps price get to where SD is faster to help fill orders.
+
+Cheers, Muffles
+---END---
+##### hs_p7_168 hoeschec paras:8
+Thank you for the explanation. I don't use the tick charts, but I will try it out this week to get a feel for how to read them.
+
+I am still very new to these concepts and I don't have the level of understanding you do. I've read through your posts on IF's journal and you have a solid grasp on these concepts. I appreciate your help!
+
+My Problem:
+
+The idea of having to drop down to a tick chart to see a minuscule DP on a HTF setup like the USD-CAD seems really complicated to me. This is part of the reason I am struggling with some of these setups. Why would a tick chart DP have such a substantial effect on a HTF setup like this? The R:R for the USD/CAD (had I read price correctly) would have been 1:5 (Approx 50 pip stop and a 250 pip target). It is the kind of setup that would trick me every time!
+
+It seems to me in any engulf scenario, if one drops down to a small enough chart, there can be a reason for price turning which could be used as an excuse not to take a trade. It looks like price engulfed in to a clear PAZ:
+
+This past weekend, Kovalenko was kind enough to give me some pointers on drawing and trading the PAZ. Here is a chart I posted, and he signed off on as being accurate:
+
+If I were to apply the same concept you and I are discussing on the USD/CAD failed trade (regard the DP's that exist on the tick charts), I would have looked at this G/U trade as not worth taking (see the chart below with a red line signifying the potential DP when price broke the previous high). Couldn't we find this type of DP hangup in any engulf trade setup? How can we know which ones will work and which ones will fail?
+
+Many thanks Muffles!
+---END---
+##### hs_p7_169 Muffles paras:3
+I'm not quite sure how else I can explain it with my current understanding, hopefully IF will jump in here when he's free.
+
+But basically, its not about timeframes or the size of the DP which impacts on its significance. Rather on CAD there must have had been a big decision to break above those highs because there was clearly strong supply to hold price down there which lasted for weeks. In regards to your GBP trade, yes there probably is a small DP where your red line is whether it is on the tick chart/LTF; however do you believe its significant, was there strong supply present there to hold down that 'high'? Was there a big decision to break above that high/supply?
+
+Hope this helps, Muffles
+---END---
+##### hs_p7_170 hoeschec paras:3
+Hi Muffles,
+
+You've definitely spent more than a fair amount of time trying to help me! I am a slow learner and sometimes it's embarrassing to post on here because I'm so far behind the average RTM trader's ability. I definitely don't want to waste your time or IF's time on a question like this. Nobody else (as far as I know) on RTM is questioning that trade so obviously I'm getting hung up on something that can be addressed through more practice and more chart time.
+
+For now I'll just move on to more charts and I'll make a note to revisit this problem in a month or so when I have had more practice. Sometimes confusion clears itself up over time.
+---END---
+##### hs_p7_171 Kovalenko paras:1
+Hi No mistake about PAZ - my personal opininon. But the second PAz (U\C) - failed. We need to add some extra knowledge, not only PAZ. I like to have confrimations ( the first PAZ G\U - we had L to LL (confirmation) and then dropping, the second chart (U\C) - another story.
+---END---
+##### hs_p7_172 thetrendsfriend paras:1
+How do we know it is a real LL and not a FO into the DP below?
+---END---
+##### hs_p7_173 Kovalenko paras:1
+TTN, look at a chart, we had strong Dropping (RBD), then we had L to LL and then only CP, underline - CP (it`s important) How do you think, price has strong Drop, after only CP with L, LL.....price does not want higher. Agree? BTW - we had ENG, then retrace and dropping!
+---END---
+##### hs_p7_174 thetrendsfriend paras:1
+Thanks, I think I am getting the whole FO/Eng thing slowly
+---END---
+##### hs_p7_175 hoeschec paras:4
+Kovalenko wrote: Hi No mistake about PAZ - my personal opininon. But the second PAz (U\C) - failed. We need to add some extra knowledge, not only PAZ. I like to have confrimations ( the first PAZ G\U - we had L to LL (confirmation) and then dropping, the second chart (U\C) - another story.
+
+What really suckered me in to the USD/CAD short was the PAZ engulf, and the fact that a QM had formed above an area that had a strong S/R and a FTR. It seemingly had every confirmation I was looking for...but obviously I was wrong. I'm sure Muffles advice was accurate, I just get frustrated when I am following all of the rules and a trade setup like that fails anyway, when I can't grasp why.
+
+I noticed you made a specific comment about the GBP/USD setup which included an engulf (no QM) and you mentioned the fact that a L and LL was created in relative close proximity to one another without a swing high forming between them. Does this diagram illustrate your point (and if so, do you find these parabolic u shaped formations connecting a L/LL or a H/HH adds to the likelihood that an engulf in to a PAZ will setup a profitable trade opportunity? Do you like two consecutive HH or LL to prove that price really has broken in the same direction twice without momentum forming in the opposite direction (to confirm whether buyers or sellers are in control of price?).
+
+Here is a chart for reference:
+---END---

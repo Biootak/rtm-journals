@@ -1,0 +1,324 @@
+### shadowpit_p1_20 hash=0180cce95a4228f6830c186d053afccfb87e5c95 | no-persian
+paras en/fa: 3/3 | echo bigram: ""
+lex.audit: no-persian
+---FA---
+USDCAD Weekly
+
+USDCAD H4
+
+USDCAD M5
+---EN---
+USDCAD Weekly
+
+USDCAD H4
+
+USDCAD M5
+### shadowpit_p13_311 hash=3ddff6164495a138b1cacfa9b15a16aa44e17846 | numbers missing 100
+paras en/fa: 3/3 | echo bigram: ""
+lex.audit: 
+---FA---
+در ادامهٔ آن تحلیل GJ، باید از همهٔ گزینه‌هایی که برای معامله‌کردنش داری آگاه باشی. از پیدا‌کردن اینکه چه چیزی برایت کار می‌کند و اشتهای واقعی‌ات برای ریسک واقعاً چیست لذت ببر. برای یافتن آن ورود «کامل» چیزهای خیلی بیشتری هست. واقعاً تا کجا می‌توانی معامله‌ات را برای R:R بهینه نگه داری؟
+
+امیدوارم حالا ببینی که ساختن پیپ تقریباً هیچ معنایی ندارد، و مهم این است که اشتهای ریسک، پذیرش باخت‌ها و نوع اندازهٔ لاتی را که می‌توانی به هر معامله‌ای بدهی چطور مدیریت می‌کنی. به نمونه‌های بزرگ‌تر فکر کن (صدها معامله)، و رفتارهای معاملاتی‌ات را با چیزی که «راحت» می‌پوشی تنظیم و تعدیل کن.
+
+چند نفرتان دیسیپلین آهنین برای صدها معامله داشته و نتایج را تحلیل کرده‌اید؟ شرط می‌بندم فقط تعداد خیلی کمی از شما!
+---EN---
+Further to that GJ analysis, you should be aware of all the options you have on how to trade it. Have fun finding out what works for you and what your actual appetite to risk really is. There is so much more to finding that 'perfect' entry. How long can you really hold onto your trade for optimal R:R?
+
+Hopefully now you can see that making pips means almost jack shit, and its how you manage your appetite for risk, acceptance of losses, and what kind of lot size you're able to leverage into any given trade. Think larger sample sizes (100's of trades), and tweak and adjust your trading behaviours to what you feel 'comfortable' wearing.
+
+How many of you have had iron discipline for hundreds of trades and analysed the results? I bet only a very small handful of you!
+### shadowpit_p14_343 hash=6a0f0fac29a5f13379fc67ae56986515180d93b6 | echo
+paras en/fa: 2/2 | echo bigram: "روی HTF"
+lex.audit: echo
+---FA---
+Trader05 - در «Account History»ات هر معاملهٔ بسته‌شده‌ای را کلیک و روی چارت بکش.
+
+کامل - بستگی دارد برنامهٔ معاملاتی‌ات چه اجازه می‌دهد.. چارت M1/M5 - جایی بین 1.14632-1.14568 و روی HTF به نظر می‌رسد 1.14481 تارگت اول خوبی روی HTF است.
+---EN---
+Trader05 - In your 'Account History' click & drag any closed trade onto the chart.
+
+full - Depends on what your trading plan allows for..M1/M5 chart - somewhere between 1.14632-1.14568 and on the HTF 1.14481 looks like a good first target on the HTF.
+### shadowpit_p2_33 hash=c43e38e7e54d4c5505243309e80c8d9109371a84 | echo
+paras en/fa: 1/1 | echo bigram: "price action"
+lex.audit: echo
+---FA---
+NZDJPY در نگاه اول فکر کردم واو - این S/R خیلی تمیز به نظر می‌رسد. اما با بازرسی نزدیک‌تر چیز خاصی در price action تاریخی نیست که آن را تعریف کند. با واکنش فعلی هم price action قابل‌توجهی اتفاق نمی‌افتد. وقتی سشن آسیایی 10 ساعت دیگر شروع می‌شود چشمم را روی این یکی خواهم بود.
+---EN---
+NZDJPY At first glance I thought wow - this S/R looks very clean. But on closer inspection there is nothing particularly defining about the historic price action. There is also no decent price action happening with the current reaction either. I will keep my eye on this one when the Asian session begins in 10 hours time.
+### shadowpit_p4_98 hash=f51ffbe5124c6cd0a81f551493667b4204081bdc | paragraphs 2 / 1
+paras en/fa: 2/1 | echo bigram: ""
+lex.audit: 
+---FA---
+سلام Sp، ژورنال واقعاً خوبی است، ازش لذت می‌برم! من هم مسیر مشابهی تا RTM داشتم، پس می‌توانم با تایم‌لاین تو همدلی کنم.
+---EN---
+Hey Sp,
+
+Really nice journal, I'm enjoying it thoroughly! I had a similar path to RTM so I can relate to your timeline.
+### shadowpit_p4_99 hash=5013fa1a0e4d5d1bdadae1ee46a6c8778464c929 | paragraphs 2 / 1
+paras en/fa: 2/1 | echo bigram: ""
+lex.audit: 
+---FA---
+انگار خودم را خواندم. به من امید می‌دهی. رها نخواهم کرد. خیلی ممنون Shadow.
+---EN---
+Like I read myself. You are give me a hope. Will not give up.
+
+Thank you very much Shadow.
+### shadowpit_p5_102 hash=60394afd4b83ec00ede304fbaa500e0e41616d6a | paragraphs 2 / 1
+paras en/fa: 2/1 | echo bigram: ""
+lex.audit: 
+---FA---
+واقعاً از عملکردی که اینجا می‌بینم حسادت می‌کنم. تبریک ShadowPit، واقعاً شایسته‌اش بودی.
+---EN---
+I am definitely jealous by the performance I see here.
+
+Congratulations ShadowPit, you truly earned it
+### shadowpit_p5_103 hash=416f7cad508c146768d58d4aab5b3cca2bd32ac0 | paragraphs 4 / 1
+paras en/fa: 4/1 | echo bigram: ""
+lex.audit: 
+---FA---
+تبریک ShadowPit. امروز ستاره‌ات رنگ عوض کرد تا با توانایی‌ات هم‌خوانی داشته باشد. خیلی از معامله‌گران اینجا می‌توانند از ژورنالت بیاموزند. تبریک
+---EN---
+Congratulations ShadowPit
+
+Today your star change color to mach your ability.
+
+Many traders here can learn from your journal.
+
+Congratulations
+### shadowpit_p5_106 hash=4ecd18e0479757a240cdf3f3eda827636a497887 | paragraphs 2 / 1
+paras en/fa: 2/1 | echo bigram: ""
+lex.audit: 
+---FA---
+ژورنالت تا اینجا خودش مدرک یک معامله‌گر باتجربه است. تبریک ShadowPit!
+---EN---
+Your journal so far is a proof of an experienced trader. Congrats ShadowPit
+
+!
+### shadowpit_p5_107 hash=5190bd9772c45cba6d47f520e024baf627827af9 | paragraphs 2 / 1
+paras en/fa: 2/1 | echo bigram: ""
+lex.audit: 
+---FA---
+سلام رفیق، تبریک می‌گویم رفیق! شایسته‌اش بودی!
+---EN---
+Hi mate, my congratulations friend! you deserved it
+
+!
+### shadowpit_p5_108 hash=41bac74eea5d553727aacfaa8e6e0c8a168bc742 | paragraphs 2 / 1
+paras en/fa: 2/1 | echo bigram: ""
+lex.audit: 
+---FA---
+تبریک ShadowPit! کارهای فوق‌العاده‌ای است... تقریباً تمام ژورنالت را خوانده‌ام و در راه چیزهای زیادی یاد گرفته‌ام. واقعاً چیزهای بزرگی است! یک نشان نقرهٔ کاملاً شایسته
+---EN---
+Congratulations ShadowPit! Awesome stuff... I've nearly finished reading through your entire journal now, and learning so much along the way. Truly great stuff!
+
+A well deserved Silver Badge
+### shadowpit_p5_110 hash=0a062654cbf26aa56c1373545789b2b0513296f7 | paragraphs 3 / 1
+paras en/fa: 3/1 | echo bigram: ""
+lex.audit: 
+---FA---
+از حمایت بی‌دریغ همه‌تان ممنونم. افتخار بزرگی است که میان معامله‌گران این‌قدر وقف‌شده باشم. من همه‌روز هر روز اینجام، پست‌گذاشتن برایم لذت است و همیشه دنبال یادگیری بیشتر هستم. از آیندهٔ پیش رو هیجان‌زده‌ام! در آیندهٔ خیلی نزدیک می‌خواهم چند تحلیل ویدئویی آماده کنم، پس وقتی در چند هفتهٔ آینده از ستاپم راضی شدم، امیدوارم بتوانم به این جای فوق‌العاده حتی بیشتر برگردانم. cheer، SP
+---EN---
+Thank you all for your overwhelming support. It's a great privilege to be among such dedicated traders. I am on here all day everyday, it's a pleasure for me to post and I am always looking to learn more. I am excited about the future ahead! I would like to prepare some video analysis' in the very near future, so once I am satisfied with my setup in a couple of weeks I hope can give back even more to this wonderful place.
+
+Cheers,
+
+SP
+### shadowpit_p5_112 hash=dca88749096c7ab9cdb75187e9015e4e6652401d | paragraphs 3 / 1
+paras en/fa: 3/1 | echo bigram: ""
+lex.audit: 
+---FA---
+سلام ShadowPit. مدتی است ژورنال زیادی دنبال نمی‌کنم، اما حالا برای آخر هفته خواندنی دارم. تبریک برای ارتقا. با احترام In2forex
+---EN---
+Hi ShadowPit
+
+I haven't been following too many journals lately, but now I have some reading for the weekend. Congrats on the promotion.
+
+Regards In2forex
+### shadowpit_p5_123 hash=70c703ff3cabe6d91903b73188a0ad9cdee6af7a | paragraphs 5 / 4
+paras en/fa: 5/4 | echo bigram: ""
+lex.audit: 
+---FA---
+ShadowPit نوشت: EURCAD M5 این یک معاملهٔ ادامه‌دهنده از بالا است.
+
+هی Shadow Trader، فقط می‌خواستم بپرسم چه چیزی به تو این‌قدر اعتمادبه‌نفس داد که این شورت‌ها را با این‌همه تقاضای HTF در پایین و قیمتی که از هیچ عرضهٔ htf مشخصی (4hr یا بالاتر) پایین آمده، بگیری؟ من روی این یکی در FTR/FL چهارساعته لانگ ناموفق گرفتم با استاپ درست زیر flag limit و تارگتم روی عرضهٔ 4hr (عکس پایین). به نظر معامله‌ای کاملاً سرراست می‌رسید و نمی‌توانم بگویم هیچ منطقی در گرفتنش ایراد جدی داشت. فقط به نظر می‌رسد اگر همین شورت‌هایی که تو گرفتی را در این وضعیت روی جفت دیگری با این‌همه دردسر احتمالی در راه می‌گرفتم، حتماً سرم را روی سینی نقره‌ای می‌دادند. آیا این یکی از آن معامله‌های پرخاشگرانه بود که صرفاً بر اساس لبهٔ راست و تایمینگ بازار است؟؟
+
+4HR
+
+با تشکر SyT
+---EN---
+ShadowPit wrote: EURCAD M5 This is a continuation trade from above.
+
+Hey Shadow Trader,
+
+I just wanted to ask what gave you so much confidence to take these shorts with so much HTF demand below and Price falling from no clear htf supply (4hr or higher that is)? I took a failed long on this one at the 4hr ftr/ FL with the stop right below the flag limit and my target at the 4hr supply (picture below). It seemed like a pretty straight forward trade and I can't say any of my logic was too flawed in taking it. It just seems like if I would have taken this same shorts you did in this situation on a different pair with so much possible trouble ahead I would have gotten my ass handed to me on a silver platter. Was this one of those aggressive trades that is based purely off of the right edge and market timing??
+
+4HR
+
+Thanks SyT
+### shadowpit_p5_124 hash=08dc7861196ec523f0886a84c6dc47e9ff37036c | paragraphs 10 / 7
+paras en/fa: 10/7 | echo bigram: "تایم‌فریم پایین‌تر"
+lex.audit: 
+---FA---
+خوشحالم پرسیدی. چند بار دیده‌ای قیمت به چیزی واکنش نشان می‌دهد و می‌گویی 'وای کاش وقتی متوجهش شدم این را معامله کرده بودم'؟ راستش وقتی اجرا کردم زیاد فکر نکردم؛ یک ستاپ دیدم (فروش H1) و به تایم‌فریم پایین‌تر رفتم و با سفارش لیمیت مشارکت کردم، با دلایل بر اساس احتمال‌ها (محتمل‌تر در برابر کمتر محتمل) و امید ریاضی بالقوه (آیا جای دویدن هست!؟).
+
+حدس می‌زنم کمی به تفکر عمیق‌تر علاقه داری، پس بیایید سعی کنیم «بازش» کنیم تا ببینیم در آن لحظه چه چیزی ممکن بود فکر کنم. بیایید دلایل توجیهش را برجسته کنیم. چه دیدم؟ چه باکس‌هایی را در ذهن برای این ستاپ تیک زدم؟
+
+1. قیمت در حال تثبیت (رنج) است 2. در یک نقطهٔ «خوب» روی HTF تثبیت می‌شود 3. با یک شکست در جهت مورد انتظار و یک pole همراه 4. این pole کف یا سقف یک ناحیهٔ تثبیت‌شدهٔ دیگر را اینگالف می‌کند (یک FTR، یک FL، یک DBR، RBD و غیره) (نه در لحظهٔ ورود) 5. ورود در نوعی FL، FTR، DBD/RBR قرار می‌گیرد که نزدیک جایی که شکست ناحیهٔ تثبیت‌شده رخ داده شکل گرفته (یک retest)
+
+پس می‌توانیم خیلی سریع ارزیابی کنیم که 1، 3 و 5 را تیک زدم. نیازی به فکرکردن دوباره دربارهٔ ورود نیست. اما بیایید نگرانی‌های احتمالی‌ات را با چیزی که تازه ارائه دادم حل کنیم: ممکن است با معیار 2 بحث کنی که واکنش/قیمت در نقطهٔ خوبی نبوده چون واقعاً در ناحیهٔ عرضهٔ HTF معامله نشده، اما آیا اخیراً چارت هفتگی یا ماهانه‌ای نگاه کرده‌ای، قیمت کدام‌سو می‌رود؟ شاید این‌قدر هم کمک نکند، پس بیایید عملی باشیم... یک خط از 1.4250 بکش و روی روزانه نگاه کن... کمی زومش کن بیرون، بیایید سرِ 5-6 پیپ شاخ نسازیم، این یک نقطهٔ خوب برای شکل‌گرفتن PA تایم‌فریم پایین‌تر است، حمایت قبلی مقاومت می‌شود. من روی این حدس نزدم؛ قیمت قصدش را وقتی آمادهٔ حرکت بود سیگنال داد و من جایی برای تعریف ستاپ داشتم، با تعیین ریسک و جاهایی برای جست‌وجوی سود در انتظار PA آینده.
+
+که ما را به نگرانی دیگر تو می‌رساند... آن تقاضا در پایین. چرا قبل از جست‌وجوی ورود صبر نکردم تا معیار 4 اتفاق بیفتد؟ خوب، من پتانسیل سود (جای دویدن!) را قبل از اینکه ناحیهٔ بعدی را اینگالف کند، شناسایی کرده بودم و آخرین مومنتوم نزولی بود همان‌طور که H1 چاپ کرد.. باید یادت باشد که من استاپ خیلی کوچک 6 پیپ دارم و ناحیهٔ بالقوهٔ بعدی 24 پیپ فاصله دارد. 4:1 پتانسیل فوری. همان‌طور که حالا می‌دانیم، رفت و تا 100+ پیپ دوید؛ نمی‌دانستم این اتفاق می‌افتد اما در همان لحظه با دانستن پتانسیل موجود مشارکت کردم و با هر اینگالف یکی‌یکی با آن رفتار کردم.
+
+در مورد ستاپ لانگت، فکر می‌کنم معامله‌ای خیلی واکنشی یا بی‌اطلاع گرفته‌ای؛ به اطلاعات تازه‌ای که دقیقاً جلویت بود توجه کافی نداده‌ای — همین الان تقاضای H4 چاپ‌شدهٔ آخر را اینگالف کرد. نه ستاپ A+ تو... قیمت دارد داستانی به تو می‌گوید، از هر چیزی که به تو ارائه می‌دهد استفاده کن...
+
+می‌خواهم دربارهٔ چیز دیگری فکر کنی: احتمال‌ها... پذیرفتن باخت‌ها.... ریسک به ریوارد... وقتی معامله می‌کنی باید این‌ها را در پشت ذهنت داشته باشی. من از همان ورود پذیرفته بودم که ممکن است خیلی سریع با کندل M1 بعدی بیرون کشیده شوم؛ همیشه این احتمال هست، اما ادامه می‌دادم و اگر ستاپ‌های مشابهی می‌آمدند باز هم معامله می‌کردم، تا وقتی ستاپ کلان اولیه هنوز سالم بود، یا تا وقتی قیمت سقف بالاتری نمی‌ساخت یا من از تعداد تلاش‌هایم نمی‌گذشتم. خوشحال می‌شدم 4-5 معامله را با 6 پیپ برای یک شانس 4:1 فوری یا در این مورد 15:1 از دست بدهم. اما در واقعیت هرگز به این تعداد باخت روی یک ستاپ نمی‌رسد، چون تا باخت 2-3ام باید بدانم اشتباه کرده‌ام یا به این واقعیت بیدار شوم که در دیسیپلین ورود خیلی پایه‌ای شکست خورده‌ام! در حالی که بعضی معامله‌گران استاپ‌های 30+ پیپ را برای یک شانس می‌گیرند و چند ساعت عرق می‌ریزند تا یک 2:1 یا 3:1 تنبل بگیرند، و شاید دلیل کاملاً موجهی برای این کار داشته باشند، مثل اینکه در دسترس نیستند که دور معامله‌ها را بمانند.. اما فکر می‌کنم این راهی سخت و کند برای پول‌درآوردن است.
+---EN---
+I'm glad you asked.
+
+How many times have you watched price react to something and gone, 'oh boy I wish I traded that when I noticed it..'? To be honest I didn't think for too long when I executed, I saw a setup (H1 selling) and I dropped down to the LTF and participated with a limit order, with reasons based on probabilities (more likely vs less likely) and potential expectancy (is there room to run!?).
+
+I suspect you are a little interested in some deeper thought process, so let's try and 'unpack' what I might have thought in the moment.
+
+Let's highlight reasons to justify it. What did I see? What boxes did I mentally try and tick off for this setup?
+
+1. You have price consolidation (range) 2. It is consolidating in a 'good' spot on the HTF 3. With a break in the anticipated direction and an accompanying pole 4. This pole engulfs the bottom or top of another consolidated area (an FTR, a FL, a DBR, RBD, etc) (not at the time of entry.) 5. The entry is placed at some sort of FL, FTR, DBD/RBR that formed near where the break of the consolidated area happened (a retest)
+
+So we can very quickly assess that I ticked off 1, 3 & 5. There is no need to think twice about entry. But let's address your potential concerns with what I have just presented:
+
+You might argue that with criteria 2 that price/reaction wasn't at a good spot because it hadn't actually traded in the HTF supply zone, but have you looked at a weekly or a monthly chart lately, which way is price going? Maybe that doesn't help so much, so let's be practical... draw a line through 1.4250 and look at it on the daily...zoom it out a little, let's not split hairs about 5-6 pips, this is a GOOD spot for LTF PA to form, previous support becomes resistance. I didn't speculate on this, price signaled its intention when it was ready to go and I had a place to define a setup, with setting the risk and places to look for profit pending future PA.
+
+Which leads us onto your other concern...that demand below. Why didn't I wait for criteria 4 to happen before looking for entry? Well, I already spotted profit potential (room to run!) before it did engulf the next barrier, and the most recent momentum was down as the H1 printed.. You've got to remember I have a tiny 6 pip stop and the next potential barrier is 24 pips away. 4:1 instant potential. As we now know it went on to run to 100+ pips, I did not know that would happen but I participated in the moment knowing the potential that existed and I treated it one engulf at a time.
+
+As for your long setup, I think you took a very reactive trade or an ill informed one, you haven't given enough consideration to the new information right in-front of you, it just engulfed the last printed H4 demand. Not your A+ setup...Price is telling you a story, use everything it offers you...
+
+I want you to have a think about something else: Probabilities...Accepting loses....Risk Reward...You MUST have this in the back of your mind when you trade. I had accepted at entry that I could very quickly get taken out with the next M1 candle, there's always the chance of that happening, but I would have persevered and kept on trading similar setups if they came up, as long as the initial macro setup was still intact, or until price either made a higher high, or I have exceeded my attempts. I would gladly lose 4-5 trades at 6 pips for a shot at an immediate 4:1 or in this case 15:1. But in reality it's never going to get to that many loses on one setup, because by 2-3 losses I should know that I am wrong or wake up to the fact that I am failing some very basic entry discipline! Where as some traders will trade 30+ pip stops for one chance and sweat it out for a few hours to make a lazy 2:1 or 3:1, and they might have a perfectly legitimate reason to do so, such as not being around to baby sit trades..But I think that is a very hard and slow way to make money.
+### shadowpit_p5_125 hash=d4ff3d1fed7c2e3cbc0bb42da4eee6846b50e2d2 | echo
+paras en/fa: 4/4 | echo bigram: "تعجب می‌کنم"
+lex.audit: echo
+---FA---
+سلام Shadow!
+
+اول می‌خواهم بگویم از عملکردت تحت‌تأثیرم! هر روز دنبال می‌کنم و تعجب می‌کنم چطور می‌توانی!
+
+تحلیل عکس‌هایشان زیر تایم‌فریم H4 قیمت یک FO بالا ساخت، درسته؟ تعجب می‌کنم آیا راهی هست که بدانیم این اتفاق می‌افتد!
+
+ممنون!
+---EN---
+Hello Shadow!
+
+I would first like to say that I am impressed with your operations! I follow daily and am wondering how you can!
+
+Analyzing their pictures below the H4 TF price made a FO up, correct? I wonder if there is any way of knowing that it will happen!
+
+Thak you!
+### shadowpit_p6_127 hash=b66efeaf05fbb596d2e3e97f66c900996f64827b | paragraphs 9 / 7
+paras en/fa: 9/7 | echo bigram: "اطلاعات تازه‌ای"
+lex.audit: 
+---FA---
+ShadowPit نوشت: در مورد ستاپ لانگت، فکر می‌کنم معامله‌ای خیلی واکنشی یا بی‌اطلاع گرفته‌ای؛ به اطلاعات تازه‌ای که دقیقاً جلویت بود توجه کافی نداده‌ای — همین الان تقاضای H4 چاپ‌شدهٔ آخر را اینگالف کرد. نه ستاپ A+ تو... قیمت دارد داستانی به تو می‌گوید، از هر چیزی که به تو ارائه می‌دهد استفاده کن...
+
+Shadow Trader،
+
+تو کاملاً درست می‌گویی که به اطلاعات تازه‌ای که همین‌جا جلوی من اتفاق افتاد توجه کافی ندادم. سفارش لیمیت من بر اساس ناحیهٔ FTR چهارساعته‌ای بود که درست قبل از آخرین FTR چاپ شده بود و قبل از اینکه اینگالف آخرین FTR رخ دهد سر جایش بود. حالا در ذهنم فکر می‌کردم این قطعاً یک FO به FTR پایین‌تر است و هیچ راهی نیست که در این یکی اشتباه کرده باشم lol
+
+متوجه شده‌ام که این یک چیز رایج است که در پیشرفتم بازداریم می‌کند: معامله‌کردن چیزی که انتظار دارم در برابر چیزی که می‌بینم. تو کار فوق‌العاده‌ای در توازن انتظارهایت با واقعیت انجام می‌دهی. معاملهٔ دیگری که اهمیت معامله‌کردن چیزی که می‌بینی در برابر انتظارات را نشان می‌دهد، شورت بزرگی است که چند روز پیش روی EURUSD گرفتی. تو سفارشی لیمیت داشتی که «انتظار» داشتی پر شود، اما وقتی بازار واقعیت را به تو نشان داد که قیمت در لبهٔ راست و در ساعات بازار فعال زودتر از موعد در حال شکست بود، انتظاراتت را از پنجره بیرون انداختی و چیزی که دیدی را معامله کردی!
+
+تو ادامه می‌دهی به من نشان بدهی که معامله‌گری تعادلی ظریف میان انتظارات و واقعیت است. و حس «معامله به سمت راست» تو واقعاً پارادایم‌های من از بازار را دگرگون می‌کند و همین‌طور روز به روز من را در مسیر سودآوری پایدار قرار می‌دهد. معامله‌کردن در همین‌جا و همین الان چیزی است که عموماً به‌خاطر تحلیل/انتظارات کلانم نادیده گرفته‌ام...
+
+همچنین دربارهٔ R/R بالاتر معامله در تایم‌فریم‌های کوچک‌تر، در این یکی هم کاملاً با تو هستم و نتایجت نشان می‌دهد که می‌توانی روی تایم‌فریم‌های کوچک‌تر با استاپ‌های کوچک‌تر دقیقاً به‌اندازهٔ یک تریدر سوئینگ (که خودم را این‌طور می‌دانم) روی تایم‌فریم‌های پایین‌تر سودآور باشی — چیزی که قبلاً فکر نمی‌کردم چندان شدنی باشد. فقط باید از طریق تست آینده‌نگر مداوم اعتمادبه‌نفس خودم را روی تایم‌فریم‌های کوچک‌تر بسازم و خودم را یادآوری کنم که TRهای کوچک‌تر فقط فراکتال TRهای بزرگ‌ترند. آخرین اما نه کم‌اهمیت‌ترین، ژورنالت الهام‌بخش من شد تا یک «Universal Trade Plan» بسازم که بعد از مشخص‌شدن جزئیات و نقاشی‌ها احتمالاً در هفتهٔ آینده روی سایت می‌گذارم. شامل بیشتر، اگر نه همه، ستاپ‌های ممکنی است که می‌توان در روند صعودی، نزولی و برگشت انتظار و به کار برد. این راه من برای ساده‌کردن این موضوع تا جایی است که هر معامله‌ای بتواند در یک دستهٔ کلی جا بگیرد و همان‌طور که آن را توسعه می‌دهم، واقعاً کمک کرده چشمم را روی نقاط داغ متمرکز کنم.
+
+به هر حال، از غلوّ تقدیر و نظرات طولانی در فضای شخصی‌ات عذر می‌خواهم، اما فقط می‌خواستم بگویم ژورنالت به شکلی خاص با من ارتباط برقرار می‌کند و چشم‌هایم را به روی چند اصل خیلی محوری باز کرده که غفلت کرده بودم. با تشکر SyT
+---EN---
+ShadowPit wrote: As for your long setup, I think you took a very reactive trade or an ill informed one, you haven't given enough consideration to the new information right in-front of you, it just engulfed the last printed H4 demand. Not your A+ setup...Price is telling you a story, use everything it offers you...
+
+Shadow Trader,
+
+You are absolutely right when you say that I didn't give enough consideration to the new information that transpired right in front of me. My limit order was based off of the 4hr ftr zone that printed right before the last ftr and was in place before the engulf of the last FTR occurred. Now in my mind, I was thinking that this was surely a FO to the lower FTR and there was no way I was wrong about this one lol
+
+I've noticed that this is
+
+a common thing that hinders me in my progression, trading what I expect vs what I see. You do an excellent job of balancing your expectations with reality. Another trade that exemplifies the importance of trading what you see vs expectations is the huge short you took on the EURUSD some days ago. You had a limit order that you "expected" to get filled but when the market presented you with the reality that price was breaking down prematurely on the right edge during active market hours, you threw your expectations out the window and traded what you saw!
+
+You continue to show me that trading is a fine balance between your expectations and reality. And your 'trading to the right' sensibility is really turning my paradigms of the market around, thus getting me on the track to consistent profitability day by day. Trading the here and now is something I have generally overlooked in lou of my macro analysis/ expectations...
+
+Also as far as the higher RR of smaller TF trading, I am completely with you on this one also and your results show that you can be just as profitable on smaller TFs with smaller stops as a swing trader (what I consider myself to be) is on LTFs which is something I just didn't think was very plausible beforehand. I just have to build trust in myself on the smaller TFs through my continued forward testing and keep reminding myself that the smaller TRs are just a fractal of the larger ones. Last but not least, your journal has inspired me to create a "Universal Trade Plan" that I will be posting on the website in the next week of so after I get the details and drawings hashed out. It entails most, if not all, of the possible setups one could expect to see and utilize in an uptrend, downtrend, and reversal. It is my way of simplifying this to the point where each trade can fit into a general category and as I develop it, has really helped me concentrate my eye to the hot spots.
+
+Anyway, sorry for the brown nosing and drawn out comments in your personal space, but I just wanted to let you know that your journal clicks with me in a special way and has opened my eyes to some very pivotal principles that I have been neglecting.
+
+Thanks SyT
+### shadowpit_p7_165 hash=da36cf880133b47f3d6559228cb3352eb16e190a | echo
+paras en/fa: 6/6 | echo bigram: "FOMC AUDUSD"
+lex.audit: echo
+---FA---
+فرصت شورت قشنگ را از دست دادم
+
+اما در آینده
+
+فرصت‌های زیادی دیگر هم خواهد بود!
+
+AUDUSD H4 تحلیل پیش از FOMC
+
+AUDUSD H4 پس از FOMC
+
+AUDUSD M5 این یک اسکلپ کوچک است که چند روز پیش گرفتم، کاملاً به TG موردنظرم نرسید و خب FOMC باقی‌ماندهٔ لات را زود تمام کرد. در hindsight نباید این‌قدر تنبل می‌شدم و باید استاپ را هرچه قیمت بالاتر در منحنی پیش می‌رفت تنگ‌تر می‌کردم.
+---EN---
+I missed the lovely short opportunity
+
+But there will be plenty
+
+more in the future!
+
+AUDUSD H4 Pre-FOMC analysis
+
+AUDUSD H4 Post-FOMC
+
+AUDUSD M5 Here's a little scalp I took a couple of days ago, didn't quite get to the TG I desired and well FOMC made short work of the remaining lot. In hindsight I shouldn't have been so lazy, and should have tightened the stop up as price progressed higher in the curve.
+### shadowpit_p7_167 hash=e357e1cf9b87d76a1eac38e5ede8c4eb711ee6ad | echo
+paras en/fa: 4/4 | echo bigram: "HTF EURUSD"
+lex.audit: echo
+---FA---
+در سشن آخر EURUSD را اسکلپ کردم. یورو به سطوح تقاضای مناسب در همه‌جا رسید.
+
+EURUSD H4 چیزهای HTF
+
+EURUSD M30 چیزهای تایم‌فریم پایین‌تر داخل ناحیهٔ علاقهٔ HTF در H4
+
+EURUSD M15 ورود، سود جزئی و جهش خبر
+---EN---
+Scalped EURUSD last session. Euro arrived at decent demand levels across the board.
+
+EURUSD H4 HTF stuff
+
+EURUSD M30 LTF stuff within the area of interest in the H4 HTF
+
+EURUSD M15 Entry, partial profit and news spike
+### shadowpit_p9_203 hash=7d52cd7a47ad189a040541a52c48b07c100ea3b9 | echo
+paras en/fa: 3/3 | echo bigram: "AUDNZD M15..."
+lex.audit: echo
+---FA---
+AUDNZD H1/M5 ستاپ لانگ M5 در بستر ساعتی. با این حال، قیمت در HTF روند نزولی دارد و حرکت فعلی از عرضهٔ ساعتی پایین می‌آید.
+
+AUDNZD M15... و تصویر همچنان عوض می‌شود. خبر در 5 دقیقه.
+
+AUDNZD M15... خریداران کجاند؟ در پولبک M1 فروختم.
+---EN---
+AUDNZD H1/M5 M5 long setup in context of hourly. However, price is trending down in HTF and the current move is coming down from hourly supply.
+
+AUDNZD M15...and the picture keeps on changing. News in 5 minutes.
+
+AUDNZD M15...where are the buyers? Sold on M1 retrace.
+### shadowpit_p9_222 hash=fa3e04a595de9db7524d1fb2e6e60b8ee7d53d3a | echo
+paras en/fa: 1/1 | echo bigram: "فکر می‌کنم"
+lex.audit: echo
+---FA---
+Smimon، فکر می‌کنم SP فقط بازار را دنبال می‌کند (روش ساده). نیازی نیست FTRها، s/r و غیره و خیلی چیزهای مفید را علامت بزند. فقط دنبال بازار، فکر می‌کنم تو هم آماده‌ای - دنبال‌کردن بدون هیچ‌چیز.... امتحان کن، رفیق... و می‌بینی.
+---EN---
+Smimon, I think SP follows the market only (simple way). No need to mark FTR's, s/r and etc and many useful things. Only following the market, I think you are ready also -following without anything....try it, mate...and you see.
+### shadowpit_p9_225 hash=0cedefb12e46e54fcce4eed37b15a55e3a274d2e | latex
+paras en/fa: 1/1 | echo bigram: ""
+lex.audit: latex
+---FA---
+Smimon، امتحانش کن - بله، این آخرین تکه است. اما امتحان کن، امتحان و امتحان. به قدرتت باور داشته باش. وقتی چارت را باز می‌کنی می‌گویی - بله\no معامله - 5 ثانیه. حس eureka را داری.
+---EN---
+Smimon, try it - yeah, this is the last part. But try it, try and try. Believe your power. When you open chart, you say - yes\no trades - 5 sec. You feel eureka.

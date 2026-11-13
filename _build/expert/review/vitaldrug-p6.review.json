@@ -1,0 +1,8 @@
+{
+  "vitaldrug_p6_21": {
+    "ok": false,
+    "issue": "dropped sentence",
+    "why": "EN paragraph 3 is two sentences: \"I thought a lot about that and to be honest this is beyond my trading level right now. I sometimes noticed some of this setups and sometimes they are OK to trade and sometimes not.\" The Persian keeps only the first (\"خیلی درباره‌اش فکر کردم و راستش این الان فراتر از سطح معاملاتی من است.\") and drops the second sentence about sometimes seeing these setups and them sometimes being tradeable and sometimes not, so the following paragraph about continuation patterns loses its basis.",
+    "fix": "خیلی خب، فکر می‌کنم می‌فهمم چه می‌خواهی بکنی؛ می‌خواهی بفهمی کِی می‌توانی این iQM‌ها را معامله کنی و کِی نمی‌توانی. مثل «خب QM من کار نکرد، می‌توانم کمی بعدتر iQM را معامله کنم؟»\n\nدرست است؟\n\nخیلی درباره‌اش فکر کردم و راستش این الان فراتر از سطح معاملاتی من است. گاهی بعضی از این ستاپ‌ها را دیده‌ام؛ گاهی برای معامله خوب‌اند و گاهی نه.\n\nبه نظر من، معاملهٔ این الگوهای ادامه‌دهنده نیازمند درک خیلی زیادی از PAZ و مقیاس است، یعنی همان دو چیزِ بسیار پیچیده!\n\nیک ستاپ را یادم است که PAZ و در نتیجه تارگت‌های بعدی را کاملاً واضح می‌دیدم، و قیمت یک اصلاح بزرگ تا سطح IQM کرد و بعد تارگت بعدی را زد. اما راستش من در این ستاپ‌ها بارهای زیاد اشتباه هم کرده‌ام.\n\nتلاش برای استاد شدن در QM/DM هنوز چالش بزرگی برای من است، پس روی آن تمرکز می‌کنم..."
+  }
+}

@@ -1,0 +1,452 @@
+### staurum_p6_3
+EN: It's about half a year already since i registered with RTM. there is
+no words to express the gratitude feeling i feel. Looking back, oct 2015
+ was the journey beginning. I knew a little bit about technical analysis
+ as it was taught briefly inside a subject in my university study.
+Little did i know, that everything about it was just a joke.
+
+I still remember very very clearly, babypips.com and investopedia were
+my starting places. i was completely overwhelmed by all the
+subjects/materials, which i thought, i need to learn/master in order to
+be a profitable trader.
+
+I learned everything i could: steve nison's candlestick, basic elliot
+wave, stochastics by G. Lane, MACD plays by A. Elder, Bollinger band,
+RSI, Parabolic Sar by Wilder, Directional Index system by Wilder,
+chart/bar patterns (HnS, wedge, cup & handle, etc. u name it),
+trendlines, moving average lines, Keltner's channel, Average True Range
+channel, Fibonacci's sequence, Harmonic patterns, and so on and so on
+and so on. if someone ask anything about this, i'd be SO DAMNED HAPPY to
+ teach them and coach them for free so that they become professional in
+those areas. Gosh, the stupid phase of my life was just pretty much
+worse than wasted.
+
+Maybe i didnt finish learning all of them to combine them all into one
+trading system, but after exhaustion i pretty much concluded "they were
+all hits and misses".
+
+Then i bumped into a person who claimed to be a successful pro trader
+working for a bank for teenth of years trading commodities and forex.
+Well, i was so happy, i thought ok i found the one who can truly tell me
+ the truth about the market. then i was taken aback to the "stupid
+phase" of my life by being told by him that not all indicators can be
+used all the time in the market, indicators are used selectively
+depending on the market circumstance. i thought "are u for real?". my
+basic instinct was telling me "am i the stupid one here or is he? or is
+there something he is not telling me?" anyway, let's give this guy some
+benefit of my doubts.
+
+consultations were on and off depending on how our time matches each
+other. asking this guy a lot of questions and try to fit his words into
+the charts only to find that everything is basically said in hindsight.
+to consider these words, that i'm advised of, as wise words to the point
+ of my frustration and confusion :: "should've could've would've" and
+"maybe, if we 'r lucky, if indicator crosses, if signal shows up"; is
+worse than an understatement.
+
+everything is in hindsight that basically the move is explained because of the indicators. crazy fool, right?
+
+i spent 6-8 months studying what his systems are ought to bring.
+sometimes i'm given charts with so many charts. it's like a CCTV of 16
+screens, each screen basically has a chart with one indicator, and the
+others may have the chart with different set of indicators and some
+screens are just indicator screen.
+
+i'm advised to be able to trade and make good informed decisions,
+everything must be considered. (hang on, i thought not all indicators
+are to be used depending on different circumstances, albeit trending and
+ ranging). how the hell was i going to make informed decisions, if i
+couldnt decide first whether the market is trending or ranging. and then
+ he said "oh depends on the timeframe u r looking at", then i was lost
+(but now i'm found thanks to RTM lol).
+
+a few weeks later, his analysis is found at talkingcash.blogspot.com
+
+the whole site contained his analysis stories by (almost) daily. I
+started to dissect everything on the chart for almost 1 month.
+
+well let's take a look and carefully analyse the wordings:
+
+In the daily charts, the short term directional indicators came up short just as it coasted the overbought zone.
+
+of course it would, the price made it missed the overbought zone of the
+oscillators, let alone stochastics. there is no way stochastic will tell
+ the overboughtness before price moves.
+
+In fact, it has cut and turned back lower now around the 73% level now.
+
+ok, so now what? am i supposed to prepare to short? where to short? wait to cross 50% border down? i'm confused.
+
+So for now, gold will feel a little weighty until it weathers this out.
+
+what??!!??! so gold is going down, ok, but until what does weather out. i
+ dont understand. what are we waiting for to weather out? well i've not
+finished reading. let's move on.
+
+If we are lucky, it might gold just dribbling and holding around the
+1250’s level and once it is clear, puts it in a nice position to try
+higher after the horizon clears again.
+
+what does "lucky" mean? if 1250 hold, then we should buy there, shouldnt
+ we? but where is stoploss? oh hang on the "once it is clear" confuses
+me.
+
+what needs to be cleared? the 73% stochastic reading? or the 1250?
+
+which one is the horizon. *this guy is clearly in a la-la-land.*
+
+The medium term trending indicators are starting to look kinky with one of the arms having a distinct crook in it.
+
+i'm thinking, this could be the MACD lines, lol.. MACD can look kinky
+and has one arm crooked, OF COURSE, because price just whipsawed it. but
+ this sentence doesnt help anything to do with trading decision.
+
+Although it has not yet soured, it shows that weakness has crept in
+and if it is not corrected early on, the trend will decay over time.
+
+so weakness has crept in = the bullishness has decreased.
+
+here comes the stupid part:
+
+If it is not corrected, trend will decay over time ==> this implies,
+gold needs to breaks up, in order to continue the trend. isnt it a good
+time to catch breakout traders?
+
+another implication: if it is not corrected, it will go down. OF COURSE! even a 5-year-old can tell.
+
+For today, to be really pushing it, gold needs to be closing below
+1240 and very likely, the indicators would have cut lower by then.
+
+GREAT! there u go, so wait to close below 1240, and we start selling. is
+ this for real??? hahaha... i cant believe i was so naive to believe
+these words.
+
+The long term directional indicators continue to look perky and positive
+ at the moment and yesterday’s move hardly weighed down on it at all.
+
+Another la-la-land songs.
+
+However, staying too low is not good for it and could coerce it into
+cutting back into the channel and cancelling the newly confirmed, albeit
+ not completely set in stone trend.
+
+Really??????
+
+The momentum/volatility indicators are took a dip in the last session
+ and the early interest is evaporating as quickly as it condensed.
+
+so which one caused it? the momentum/volatility indicator? or the price? how do we prevent it? magic crystal balls?
+
+The positive bias have narrowed marginally and still some fight left
+and if the 1250 hold, we could see a mini recovery towards the end of
+the week.
+
+ah ok,.. everything clicks. so buy near 1250, but close the trade if
+price "closes" below 1240, so no stoploss, depending on the close below
+1240. but hang on, i thought price needs to break up first? so buy 1250
+or wait until 1263 breaks? i'm totally sold by now.
+
+Interim supports are at 1246.50, 1238 & 1234 with minor supports at 1239.30, 1228 & 1219.40.
+
+Interim resistances are at 1255.50, 1269.50 & 1289.50 with minor resistances are at 1268.30, 1277.30 & 1291.40.
+
+The daily/weekly trend changer points are at 1231.35/1287.75.
+
+Oh LOOK! scalping levels. very nice, but the whole analysis is based on the "dailies", meaning daily chart.
+
+u see, isnt indicators fantastic?!?!?
+
+Final rambling: thank Heaven i found what truly is the truth to read the market.
+
+This is not for education purpose. i'm just sitting down enjoying a
+traditional hot red-sugared ginger tea, on an almost torn apart
+30-year-old wooden chair waiting for the birds to fly pass and chirp,
+while waiting for the sun to set. Collecting thoughts is really good
+exercise to maintain sanity.
+
+Happy holiday, guys, from a country where one of its majestic governor
+is condemned for a crime others committed so he can be sentenced to a
+2-year prison life.
+FA: حدود نیم سال از ثبت‌نامم در RTM می‌گذرد. کلمه‌ای نیست که بتواند حس قدردانی‌ام را بیان کند. به عقب نگاه می‌کنم، اکتبر 2015 شروع سفر بود. کمی دربارهٔ تحلیل تکنیکال می‌دانستم، همان‌قدر که در یک درس در دوران دانشگاهم مختصر تدریس شده بود. چه می‌دانستم که همه‌اش فقط یک شوخی بود.
+
+خیلی خیلی واضح یادم است، babypips.com و investopedia نقطهٔ شروع من بودند. از این‌همه موضوع و مطالب کاملاً از پا افتاده بودم، چون فکر می‌کردم باید همه را یاد بگیرم و بر آن‌ها مسلط شوم تا معامله‌گر سوددهی بشوم.
+
+هر چیزی که می‌توانستم یاد گرفتم: کندل استیک استیو نیسون، موج‌شمارى سادهٔ الیوت، استوکاستیک‌ها از G. Lane و بازی‌های MACD از A. Elder، باند بولینگر و RSI و پارابولیک سار از Wilder و سیستم شاخص جهت‌دار از Wilder، الگوهای نمودار و کندل (از HnS و گُوه تا کاپ و هندل و غیره، هر چه بگویی)، خطوط روند، خطوط میانگین متحرک، کانال کلتنر، کانال میانگین دامنهٔ واقعی، دنبالهٔ فیبوناچی، الگوهای هارمونیک و همین‌طور ادامه و ادامه. اگر کسی چیزی دربارهٔ این‌ها بپرسد، آن‌قدر لعنتی خوشحال می‌شوم که مجانی به او یاد بدهم و مربی‌اش بشوم تا در آن حوزه‌ها حرفه‌ای شود. خدایا، مرحلهٔ احمقانهٔ زندگی من تقریباً بدتر از تلف‌شده بود.
+
+شاید یادگیری همه‌شان را برای ترکیب در یک سیستم معاملاتی تمام نکرده بودم، ولی پس از خستگی به این نتیجه رسیدم که «همه‌شان برد و باخت بودند».
+
+بعد به آدمی برخوردم که ادعا می‌کرد معامله‌گر حرفه‌ای موفقی است که سال‌های زیادی برای یک بانک در معاملهٔ کالا و فارکس کار می‌کند. خب، آن‌قدر خوشحال بودم که فکر کردم باشه، کسی را پیدا کردم که واقعاً می‌تواند حقیقت بازار را به من بگوید. بعد با گفتن این حرف به همان «مرحلهٔ احمقانهٔ» زندگی‌ام پرت شدم: نه همهٔ اندیکاتورها را می‌توان در همهٔ مواقع بازار استفاده کرد؛ اندیکاتورها بسته به شرایط بازار به‌صورت گزینشی استفاده می‌شوند. با خودم گفتم «واقعاً؟». غریزهٔ اولیه‌ام می‌گفت «احمق اینجا منم یا او؟ یا چیزی هست که به من نمی‌گوید؟» به هر حال، بیایید به این آدم کمی حق تردید بدهم.
+
+مشاوره‌ها بسته به اینکه وقت‌مان چطور هم‌خوان می‌شد، گاه و بیگاه بود. از این آدم کلی سؤال می‌پرسیدم و تلاش می‌کردم حرف‌هایش را با نمودارها جور کنم، ولی آخرش می‌دیدم همه‌چیز اساساً با نگاه به گذشته گفته می‌شود. اینکه این حرف‌هایی که به من توصیه می‌شود را حکیمانه بدانم، تا حد سرخوردگی و سردرگمی‌ام: «باید می‌شد، می‌توانست می‌شد، می‌شد» و «شاید اگر شانس بیاوریم، اگر اندیکاتور کراس کند، اگر سیگنالی ظاهر شود»؛ از یک کم‌گویی هم بدتر است.
+
+همه‌چیز با نگاه به گذشته است؛ اساساً حرکت را با اندیکاتورها توضیح می‌دهند. احمق دیوانه، نه؟
+
+6 تا 8 ماه صرف مطالعهٔ این کردم که سیستم‌های او قرار است چه چیزی به بار بیاورند. بعضی وقت‌ها نمودارهایی می‌دهد با این‌همه نمودار. مثل یک CCTV با 16 صفحه است؛ هر صفحه اساساً یک نمودار با یک اندیکاتور دارد، و بعضی صفحه‌های دیگر نموداری با مجموعهٔ اندیکاتورهای متفاوت دارند و بعضی صفحه‌ها فقط صفحهٔ اندیکاتورند.
+
+به من توصیه می‌شود که برای معامله کردن و گرفتن تصمیم‌های خوب و آگاهانه، همه‌چیز باید در نظر گرفته شود. (یک لحظه صبر کن، فکر می‌کردم بسته به شرایط مختلف، هرچند روندی یا رِنج، قرار نیست همهٔ اندیکاتورها استفاده شوند). چطور روی زمین می‌خواستم تصمیم آگاهانه بگیرم، وقتی اول نمی‌توانستم تصمیم بگیرم بازار روند است یا رِنج. و بعد گفت «آه، بستگی دارد به تایم‌فریمی که نگاه می‌کنی»، و بعد گم شدم (ولی حالا پیدا شده‌ام، به لطف RTM — هاها).
+
+چند هفته بعد، تحلیل‌هایش در talkingcash.blogspot.com پیدا شد.
+
+کل سایت داستان‌های تحلیل او را تقریباً روزانه داشت. تقریباً 1 ماه شروع کردم به کالبدشکافی همه‌چیز روی نمودار.
+
+خب، بیایید نگاهی بیندازیم و کلمه‌ها را با دقت تحلیل کنیم:
+
+«در نمودارهای روزانه، شاخص‌های جهت‌دار کوتاه‌مدت درست وقتی به ناحیهٔ اشباع خرید نزدیک می‌شد، کم آوردند.»
+
+معلوم است که کم می‌آوردند؛ قیمت کاری کرد که ناحیهٔ اشباع خرید اندیکاتورهای نوسانی را از دست بدهد، چه برسد به استوکاستیک. هیچ راهی نیست که استوکاستیک پیش از حرکت قیمت، اشباع خرید را خبر بدهد.
+
+«در واقع، حالا در حدود سطح 73% بریده و به پایین برگشته است.»
+
+باشه، حالا که چه؟ باید آمادهٔ پوزیشن فروش بشوم؟ کجا پوزیشن فروش بگیرم؟ منتظر بمانم تا مرز 50% را به پایین رد کند؟ گیج شده‌ام.
+
+«پس فعلاً طلا کمی سنگین خواهد بود تا از این وضعیت بیرون بیاید.»
+
+چی؟؟!!؟! پس طلا دارد پایین می‌رود، باشه، ولی تا کی باید بیرون بیاید. نمی‌فهمم. منتظر چه هستیم که بیرون بیاید؟ خب، خواندن را تمام نکرده‌ام. برویم جلو.
+
+«اگر شانس بیاوریم، طلا فقط می‌چکد و حوالی سطح 1250 نگه می‌دارد و وقتی روشن شد، در موقعیت خوبی قرار می‌گیرد تا بعد از باز شدن دوبارهٔ افق، بالاتر را امتحان کند.»
+
+«شانس» یعنی چه؟ اگر 1250 نگه دارد، پس باید همان‌جا بخریم، نه؟ ولی استاپ‌لاس کجاست؟ آه صبر کن، «وقتی روشن شد» گیجم می‌کند.
+
+چه چیزی باید روشن شود؟ عدد 73% استوکاستیک؟ یا 1250؟
+
+کدام‌یک افق است. *این آدم واضح است که در خیال‌آباد است.*
+
+«شاخص‌های روندی میان‌مدت دارند کج‌وکوله به نظر می‌رسند و یکی از شاخک‌هایشان یک خم مشخص برداشته است.»
+
+فکر می‌کنم این می‌تواند خطوط MACD باشد، هاها.. MACD می‌تواند کج‌وکوله به نظر برسد و یک شاخکش خمیده باشد، البته که می‌شود، چون قیمت همین حالا شلاقش زده. ولی این جمله به هیچ چیزی مربوط به تصمیم معاملاتی کمک نمی‌کند.
+
+«هرچند هنوز ترش نشده، نشان می‌دهد ضعفی خزیده است و اگر زود اصلاح نشود، روند به مرور زمان فرسوده می‌شود.»
+
+پس ضعف خزیده است = صعودیت کم شده است.
+
+اینجا بخش احمقانه‌اش می‌آید:
+
+«اگر اصلاح نشود، روند به مرور زمان فرسوده می‌شود ==> این یعنی طلا باید به بالا بشکند تا روند ادامه پیدا کند. مگر وقت خوبی برای گرفتن معامله‌گرهای شکست نیست؟»
+
+یک دلالت دیگر: اگر اصلاح نشود، پایین می‌رود. البته! حتی یک بچهٔ 5 ساله هم می‌تواند بگوید.
+
+«برای امروز، اگر بخواهیم واقعاً فشار بیاوریم، طلا باید زیر 1240 بسته شود و به احتمال خیلی زیاد، تا آن موقع اندیکاتورها پایین‌تر بریده‌اند.»
+
+عالی! بفرما، پس صبر کن زیر 1240 بسته شود و شروع کنیم به فروش. واقعاً؟؟؟ هاهاها... باور نمی‌کنم این‌قدر ساده‌لوح بودم که این حرف‌ها را باور می‌کردم.
+
+«شاخص‌های جهت‌دار بلندمدت در این لحظه سرحال و مثبت به نظر می‌رسند و حرکت دیروز تقریباً هیچ فشاری بر آن‌ها نگذاشت.»
+
+یک ترانهٔ دیگر از خیال‌آباد.
+
+«با این حال، ماندن در سطح بسیار پایین برایش خوب نیست و می‌تواند مجبورش کند به کانال برگردد و روند تازه تأییدشده — هرچند کاملاً قطعی نشده — را باطل کند.»
+
+واقعاً؟؟؟؟؟؟
+
+«اندیکاتورهای مومنتوم/نوسان جلسهٔ گذشته افت کردند و علاقهٔ اولیه همان‌قدر سریع که تقطیر شده بود، بخار می‌شود.»
+
+پس کدام‌یک باعثش شد؟ اندیکاتور مومنتوم/نوسان؟ یا قیمت؟ چطور جلویش را بگیریم؟ توپ‌های کریستالی جادویی؟
+
+«سوگیری مثبت حاشیه‌ای باریک‌تر شده و هنوز کمی توان جنگیدن دارد و اگر 1250 نگه دارد، می‌توانیم یک بازیابی کوچک تا انتهای هفته ببینیم.»
+
+آه باشه.... همه‌چیز جور شد. پس نزدیک 1250 بخر، ولی اگر قیمت زیر 1240 «بسته» شد معامله را ببند، پس استاپ‌لاس نداریم و به بسته شدن زیر 1240 تکیه می‌کنیم. ولی صبر کن، فکر می‌کردم قیمت اول باید به بالا بشکند؟ پس 1250 بخر یا منتظر بمان تا 1263 بشکند؟ تا الان کاملاً قانع شده‌ام.
+
+حمایت‌های موقت در 1246.50، 1238 و 1234 است، با حمایت‌های فرعی در 1239.30، 1228 و 1219.40.
+
+مقاومت‌های موقت در 1255.50، 1269.50 و 1289.50 است، با مقاومت‌های فرعی در 1268.30، 1277.30 و 1291.40.
+
+نقاط تغییر روند روزانه/هفتگی در 1231.35/1287.75 است.
+
+آه نگاه کن! سطوح اسکالپ. خیلی خوب، ولی کل تحلیل بر «روزانه‌ها» بنا شده، یعنی نمودار روزانه.
+
+می‌بینی؟ اندیکاتورها فوق‌العاده‌اند، نه؟!؟!؟
+
+پرگویی آخر: شکر خدا که پیدا کردم آنچه واقعاً حقیقتِ خواندن بازار است.
+
+این برای آموزش نیست. من فقط نشسته‌ام و از یک چای زنجبیلِ گرم و سنتی با شکر سرخ لذت می‌برم، روی یک صندلی چوبی 30 ساله که تقریباً از هم پاشیده، منتظر که پرنده‌ها رد شوند و چهچه بزنند، در حالی که منتظر غروب خورشیدم. جمع کردن فکرها واقعاً تمرین خوبی برای حفظ سلامت روان است.
+
+تعطیلات خوش، بچه‌ها، از کشوری که یکی از فرمانداران باشکوهش به جرمی که دیگران مرتکب شده‌اند محکوم شده تا بتوانند به 2 سال زندان محکومش کنند.
+
+### staurum_p6_7
+EN: [/i]
+FA: پایان ایتالیک
+
+### staurum_p6_8
+EN: to what do i owe the privilege... thanks, IF. i am keeping that zone marked for sure.
+
+today's update about daily plan; GBPAUD
+
+File Attachment:File Name:
+File Size: 0 KB
+FA: این افتخار را مدیون چه هستم... ممنون IF. آن ناحیه را قطعاً علامت‌خورده نگه می‌دارم.
+
+به‌روزرسانی امروز دربارهٔ پلن روزانه؛ GBPAUD
+
+پیوست فایل:نام فایل:
+حجم فایل: 0 KB
+
+### staurum_p6_9
+EN: sometimes, an advice from a totally random person who has no idea what we are doing can be a diamond in disguise.
+
+"....at some point in our life, there are just things we plant &
+water as if we don't need them now and we are happy to not reap anything
+ out of it, but they come to our harvest & rescue at an unpredicted
+time once we come back to it"
+
+IF once said in his webinar "when you feel like you really need it, you
+will lose it for sure because of the tremendous pressure".
+
+Point in case: trade as if we don't need the profit but we know the line of being right & wrong.
+FA: گاهی، نصیحتی از یک آدم کاملاً تصادفی که هیچ ایده‌ای ندارد ما چه کار می‌کنیم، می‌تواند الماسی در لباس مبدل باشد.
+
+«....در نقطه‌ای از زندگی‌مان، چیزهایی هست که می‌کاریم و آب می‌دهیم، انگار همین حالا به آن‌ها نیازی نداریم و خوشحالیم که چیزی از آن‌ها برداشت نمی‌کنیم، ولی در زمانی پیش‌بینی‌نشده، وقتی دوباره به سراغشان برمی‌گردیم، به دادمان می‌رسند و نجاتمان می‌دهند»
+
+IF یک بار در وبینارش گفت «وقتی حس می‌کنی واقعاً به آن نیاز داری، حتماً از دستش می‌دهی، به‌خاطر آن فشار عظیم».
+
+نکتهٔ اصلی: طوری معامله کن که انگار به سود نیازی نداری، ولی مرز درست و غلط بودن را می‌شناسی.
+
+### staurum_p6_10
+EN: bored & urged to trade
+FA: بی‌حوصله و تحت فشار برای معامله
+
+### staurum_p6_11
+EN: boredom & slack, take 2
+
+what happens when u just wing it without thinking.
+FA: بی‌حوصلگی و شلختگی، بخش 2
+
+وقتی بدون فکر کردن فقط می‌زنی و می‌روی چه می‌شود.
+
+### staurum_p6_12
+EN: File Attachment:File Name:
+File Size: 0 KB
+FA: پیوست فایل:نام فایل:
+حجم فایل: 0 KB
+
+### staurum_p6_13
+EN: checkpoint 21June2017 7:00pm
+
+MT4 demo run, -4.2% atm
+FA: ایست بازرسی 21June2017 7:00pm
+
+اجرای دموی MT4، در حال حاضر منفی 4.2%
+
+### staurum_p6_14
+EN: managing missed expectation
+FA: مدیریت انتظار برآورده‌نشده
+
+### staurum_p6_15
+EN: My goodness and I thought I was a 'bad shot' LOL. That looked like some awesome hunting man, I hope youll get them next time
+FA: خدای من، و من فکر می‌کردم «تیرانداز بدی» هستم LOL. شبیه شکار عالی بود مرد، امیدوارم دفعهٔ بعد بگیریشان
+
+### staurum_p6_16
+EN: asking for help here. i'm just so emotional on this one
+
+Linos: yes, it's amazing to have HTF levels in place and couldnt resist
+ourselves to watch PA unfolds in between. It's almost we can feel the
+hope & the fear played all around, but thankGod we learnt some great
+ stuffs. and YES, they were bad, bad, greedy shots for me.
+FA: اینجا کمک می‌خواهم. روی این یکی خیلی احساسی شده‌ام
+
+Linos: بله، شگفت‌انگیز است که سطوح HTF را سر جایشان داشته باشیم و نتوانیم جلوی خودمان را بگیریم که PA را در وسط نگاه کنیم. تقریباً می‌شود امید و ترس را حس کرد که همه‌جا بازی می‌شوند، ولی شکر خدا چیزهای عالی یاد گرفتیم. و بله، آن‌ها برای من تیرهای بد، بد و طمع‌کارانه بودند.
+
+### staurum_p6_17
+EN: Possibly a FO/LL for a coming QM ?
+FA: احتمالاً یک FO/LL برای یک QM در راه؟
+
+### staurum_p6_18
+EN: but which QM?
+FA: ولی کدام QM؟
+
+### staurum_p6_19
+EN: I can see this one. The RR is not fantastic I agree.
+FA: این یکی را می‌بینم. قبول دارم که RR فوق‌العاده نیست.
+
+### staurum_p6_20
+EN: i see... thanks Corsica,
+
+Due to poorer internet connection (dont know why), i cant access my dukascopy account.
+
+thank you so much, possibility of kink hidden in that candle, should allow whole candle used as a kink, to be prudent.
+
+that means, i did get diamond-ed.
+
+should've been careful next time, your buy limit is where i entried, and
+ stopped out. let's see if it is a kink, then some orders are left there
+ to be picked up.
+FA: می‌بینم... ممنون Corsica،
+
+به‌خاطر اتصال اینترنت ضعیف‌تر (نمی‌دانم چرا)، نمی‌توانم به حساب داکاسکپی‌ام دسترسی داشته باشم.
+
+خیلی ممنون؛ احتمال اینکه کینکی در آن کندل پنهان باشد، باید اجازه بدهد کل کندل به‌عنوان کینک استفاده شود، تا محتاط باشیم.
+
+یعنی دایموند شدم.
+
+باید دفعهٔ بعد مراقب باشم؛ سفارش لیمیت خرید تو همان‌جایی است که من وارد شدم و با استاپ‌لاس بیرون رفتم. ببینیم اگر کینک باشد، چند سفارش آنجا مانده که برداشته شوند.
+
+### staurum_p6_21
+EN: JF3 is internet hungry, where as JF is on a diet. helps me lots where I stay.
+FA: JF3 اینترنت‌خور است، در حالی که JF رژیم دارد. همان‌جا که هستم خیلی کمکم می‌کند.
+
+### staurum_p6_22
+EN: my emotion wants gold to go up, but RTM price reading told me otherwise File Attachment:File Name:
+File Size: 0 KB
+
+about an hour later, enough is enough
+
+File Attachment:File Name:
+File Size: 0 KB
+FA: احساسم می‌خواهد طلا بالا برود، ولی خوانش قیمت RTM چیز دیگری گفت. پیوست فایل:نام فایل:
+حجم فایل: 0 KB
+
+حدود یک ساعت بعد، دیگر بس است
+
+فایل پیوست:نام فایل:
+اندازه فایل: 0 KB
+
+### staurum_p6_23
+EN: Hi there bro Staurum, could this be you?
+
+	www.thisismoney.co.uk/money/markets/arti...gold-spiralling.html
+
+staurum wrote: my emotion wants gold to go up, but RTM price reading told me otherwise
+File Attachment:File Name:
+File Size: 0 KB
+
+about an hour later, enough is enough
+
+File Attachment:File Name:
+File Size: 0 KB
+FA: سلام داداش Staurum، این می‌تواند تو باشی؟
+
+	www.thisismoney.co.uk/money/markets/arti...gold-spiralling.html
+
+staurum نوشت: احساسم می‌خواهد طلا بالا برود، ولی خوانش قیمت RTM چیز دیگری گفت. پیوست فایل:نام فایل:
+حجم فایل: 0 KB
+
+حدود یک ساعت بعد، دیگر بس است
+
+فایل پیوست:نام فایل:
+اندازه فایل: 0 KB
+
+### staurum_p6_24
+EN: That's just beautiful!
+
+You saw that the level had been taken once, so took good profit and let the rest go.
+
+Just
+
+Beautiful
+FA: فقط زیباست!
+
+دیدی سطح یک بار گرفته شده بود، پس سود خوبی گرفتی و بقیه را رها کردی.
+
+فقط
+
+زیبا
+
+### staurum_p6_25
+EN: hi lv5758, no no.... i'm just a plankton in the ocean. lol.... woukd've been so nice if it were me though.
+
+Big Thanks, IF. that is the result of watching RTM 3 long videos and 2
+litecourse videos, for over 5 times each, i think. it got me really
+really dizzy hearing your voice over & over again. hahaha.... but i
+think the lesson needs to be repeatedly replayed. They always bring
+something new - i dont know why but they do.
+FA: سلام lv5758، نه نه.... من فقط یک پلانکتون در اقیانوس هستم. هاها.... ولی اگر من بودم چقدر خوب می‌شد.
+
+خیلی ممنون IF. این نتیجهٔ دیدن 3 ویدئوی بلند RTM و 2 ویدئوی دورهٔ سبک است، بیش از 5 بار هر کدام، فکر می‌کنم. شنیدن صدای تو بارها و بارها واقعاً گیجم کرده بود. هاهاها.... ولی فکر می‌کنم درس باید بارها تکرار شود. آن‌ها همیشه چیز تازه‌ای می‌آورند — نمی‌دانم چرا، ولی می‌آورند.

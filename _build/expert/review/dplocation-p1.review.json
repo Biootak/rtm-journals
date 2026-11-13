@@ -1,0 +1,11 @@
+{
+  "dplocation_p1_1": {"ok": true},
+  "dplocation_p1_2": {"issue": "Acronym preservation", "why": "The source's standalone CMIIW must remain Latin.", "fix": "به‌نظر من A سطح بهتری از B بود؛ اگر سمت چپ را ببینی، آنجا یک سطح SR هست (کینک؟ هنوز مطمئن نیستم بتوانم اسمش را کینک بگذارم).\n\nوقتی قیمت SR را می‌شکند و به سطح دیگری می‌رود، همیشه یک DP وجود دارد؛ ضمن اینکه فکر می‌کنم B اصلاً FL نیست.\n\nCMIIW"},
+  "dplocation_p1_3": {"ok": true},
+  "dplocation_p1_4": {"ok": true},
+  "dplocation_p1_5": {"ok": true},
+  "dplocation_p1_6": {"ok": true},
+  "dplocation_p1_7": {"ok": true},
+  "dplocation_p1_8": {"ok": true},
+  "dplocation_p1_9": {"ok": true}
+}

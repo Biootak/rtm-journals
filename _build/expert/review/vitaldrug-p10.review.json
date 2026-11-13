@@ -1,0 +1,8 @@
+{
+  "vitaldrug_p10_3": {
+    "ok": false,
+    "issue": "idiom calque (\"go for it\") plus ungrammatical opening",
+    "why": "EN \"I'm all in favour of finding a scenario...\" / \"Testing it is very simple, so go for it\" is rendered \"من کاملاً موافق یافتن سناریویی هستم که...\" (\"موافق یافتن\" is not Persian; needs \"با پیدا کردن ... موافقم\") and \"پس برو برایش\", a word-for-word calque of \"go for it\" that no Persian trader would write (natural: \"پس انجامش بده\").",
+    "fix": "من کاملاً با پیدا کردن سناریویی موافقم که پر شدن کامل دامنه تا MPL را وعده می‌دهد و همهٔ موانع سر راهش را می‌شکند.\n\nامتحان کردنش خیلی ساده است، پس انجامش بده."
+  }
+}

@@ -1,0 +1,380 @@
+===== dissection-p1 : 25 posts =====
+--- dissection_p1_51 author=Tirnanog hash=44a49b59
+EN: Compared to all the great posts here my view is not as advanced.
+
+I only trade what I understand and try to avoid analysing anything that may be mid range with the exception of figuring out where the retail and Break out traders are located in an attempt to trade where the stops are located.
+
+If I can see this info I'll trade if not I'll wait for the next one.
+
+A comment Gill made has always stuck in my head " Trade the Extreme" I'd imagine this is all part of looking at the bigger picture for an origin but my knowledge is limited so I may be wrong. The 1st chart is IF's chart with a few notes.
+FA: در مقایسه با همه پست‌های عالی اینجا، دیدگاه من چندان پیشرفته نیست.
+
+من فقط چیزی را معامله می‌کنم که می‌فهمم و سعی می‌کنم از تحلیل هر چیزی که ممکن است در میانه باشد پرهیز کنم، به‌جز تشخیص اینکه معامله‌گران خرد و بریک‌اوت کجا قرار دارند، تا بتوانم جایی معامله کنم که استاپ‌ها آنجا هستند.
+
+اگر بتوانم این اطلاعات را ببینم وارد معامله می‌شوم، اگر نه منتظر مورد بعدی می‌مانم.
+
+نظری که Gill داد همیشه در ذهنم مانده: "از اکستریم معامله کن". تصور می‌کنم این همه بخشی از نگاه به تصویر بزرگ‌تر برای یک مبدأ است، اما دانش من محدود است پس شاید اشتباه کنم. چارت 1، چارت IF است با چند یادداشت.
+--- dissection_p1_52 author=franc464 hash=e3f5dd7c
+EN: Hi Tirnanog, I completely agree with you. Trading from the extremes is key and it is also guarantee for max RR. At the same time I think that trying to figure out what's going on in every (or almost every) area of the chart is important as it gives you the confidence to take the trade at the extreme once price will get there and, even more important, tells you how to manage a trade once you're in it and price approaches the mid-range... We all know that there's 0 chaos in the market so, why not trying to figure out what's happening at every minute, or at every 10 seconds (see Jurij's journal
+
+).
+
+One more thing to think about: Extreme, in my view, is not necessary the very extreme area of the chart, it can be the extreme area of a PAZ that stands in the middle of your screen and so at first look might be considered as mid-range...but it's not.
+
+an example about this last point.
+FA: سلام Tirnanog، کاملاً با تو موافقم. معامله از اکستریم‌ها کلیدی است و تضمینی برای حداکثر RR هم هست. در عین حال فکر می‌کنم تلاش برای فهمیدن اینکه در هر ناحیه (یا تقریباً هر ناحیه) از چارت چه می‌گذرد مهم است، چون به تو اعتمادبه‌نفس می‌دهد که وقتی قیمت به آنجا رسید معامله را در اکستریم بگیری و مهم‌تر از آن، به تو می‌گوید وقتی داخل معامله هستی و قیمت به میانه نزدیک می‌شود چطور آن را مدیریت کنی... همه ما می‌دانیم که میزان آشوب در بازار 0 است، پس چرا تلاش نکنیم بفهمیم در هر دقیقه یا هر 10 ثانیه چه اتفاقی می‌افتد (به ژورنال Jurij نگاه کن
+
+).
+
+یک نکته دیگر برای فکر کردن: اکستریم، به نظر من، لزوماً همان ناحیه کاملاً انتهایی چارت نیست، می‌تواند ناحیه اکستریم یک PAZ باشد که وسط صفحه‌ات قرار دارد و بنابراین در نگاه اول ممکن است میانه در نظر گرفته شود... اما این‌طور نیست.
+
+مثالی درباره این نکته آخر.
+--- dissection_p1_53 author=Tirnanog hash=b2ded9f4
+EN: franc464 wrote: Hi Tirnanog, I completely agree with you. Trading from the extremes is key and it is also guarantee for max RR. At the same time I think that trying to figure out what's going on in every (or almost every) area of the chart is important as it gives you the confidence to take the trade at the extreme once price will get there and, even more important, tells you how to manage a trade once you're in it and price approaches the mid-range... We all know that there's 0 chaos in the market so, why not trying to figure out what's happening at every minute, or at every 10 seconds (see Jurij's journal ).
+
+One more thing to think about: Extreme, in my view, is not necessary the very extreme area of the chart, it can be the extreme area of a PAZ that stands in the middle of your screen and so at first look might be considered as mid-range...but it's not.
+
+an example about this last point.
+
+Hi franc464,
+
+Very Valid points, Thank you. I guess at my stage of understanding I am drawn to the extreme only as the risk reward is so important to help me while I learn.
+
+With the R:R on my last 6 trades it allows me to be wrong with the next 33 trades, I hope not to be wrong 33 times but the point is trading the extreme gives me the flexibility I need while I try to understand everything else.
+
+I do use the info in the middle to decide if the trade is worth taking but currently only as follows 1: Does the move take Retailer stops 2: Does the move give Break out traders false hope
+
+3: Are we at a set of clean orders - Pass this and I'm likely wrong. 4: Do we have PA or is this a TT. 5: If I'm going to trade, where is the 1st Target, likely to be somewhere in the middle
+
+The only other item I add is plotting scenarios for possible outcome.
+
+Looking back at the last chart I posted(gbp/cad)), this chart is nearly the same story again, this is the story that translates well for me but soon I hope to understand more. Thank you for helping. This tread will hopefully be the place that can bridge the gap in my understanding.
+FA: franc464 نوشت: سلام Tirnanog، کاملاً با تو موافقم. معامله از اکستریم‌ها کلیدی است و تضمینی برای حداکثر RR هم هست. در عین حال فکر می‌کنم تلاش برای فهمیدن اینکه در هر ناحیه (یا تقریباً هر ناحیه) از چارت چه می‌گذرد مهم است، چون به تو اعتمادبه‌نفس می‌دهد که وقتی قیمت به آنجا رسید معامله را در اکستریم بگیری و مهم‌تر از آن، به تو می‌گوید وقتی داخل معامله هستی و قیمت به میانه نزدیک می‌شود چطور آن را مدیریت کنی... همه ما می‌دانیم که میزان آشوب در بازار 0 است، پس چرا تلاش نکنیم بفهمیم در هر دقیقه یا هر 10 ثانیه چه اتفاقی می‌افتد (به ژورنال Jurij نگاه کن).
+
+یک نکته دیگر برای فکر کردن: اکستریم، به نظر من، لزوماً همان ناحیه کاملاً انتهایی چارت نیست، می‌تواند ناحیه اکستریم یک PAZ باشد که وسط صفحه‌ات قرار دارد و بنابراین در نگاه اول ممکن است میانه در نظر گرفته شود... اما این‌طور نیست.
+
+مثالی درباره این نکته آخر.
+
+سلام franc464،
+
+نکات بسیار معتبری هستند، ممنون. فکر می‌کنم در مرحله‌ای از درک که هستم فقط به اکستریم جذب می‌شوم، چون ریسک به ریوارد در حالی که یاد می‌گیرم بسیار مهم است و به من کمک می‌کند.
+
+با R:R روی 6 معامله آخرم، این اجازه را می‌دهد که در 33 معامله بعدی اشتباه کنم؛ امیدوارم 33 بار اشتباه نکنم اما نکته این است که معامله از اکستریم انعطافی را که نیاز دارم به من می‌دهد در حالی که سعی می‌کنم بقیه چیزها را بفهمم.
+
+من از اطلاعات میانه استفاده می‌کنم تا تصمیم بگیرم آیا معامله ارزش گرفتن دارد، اما فعلاً فقط به این شکل: 1: آیا حرکت استاپ‌های معامله‌گران خرد را می‌زند 2: آیا حرکت به معامله‌گران بریک‌اوت امید کاذب می‌دهد
+
+3: آیا به مجموعه‌ای از سفارش‌های دست‌نخورده رسیده‌ایم؟ اگر قیمت از آن‌ها عبور کند، احتمالاً اشتباه کرده‌ام. 4: آیا PA داریم یا این یک TT است؟ 5: اگر قرار است معامله کنم، تارگت 1 کجاست؟ احتمالاً جایی در میانه
+
+تنها مورد دیگری که اضافه می‌کنم ترسیم سناریوها برای نتیجه احتمالی است.
+
+با نگاهی به آخرین چارتی که منتشر کردم (gbp/cad)، این چارت تقریباً دوباره همان داستان است؛ این روایتی است که برای من به‌خوبی قابل درک است، اما امیدوارم به‌زودی بیشتر بفهمم. ممنون بابت کمک. امیدوارم این تاپیک جایی باشد که بتواند شکاف درک من را پر کند.
+--- dissection_p1_54 author=Jurij hash=1c3a1cf3
+EN: Tirnanog, if it works for you, then it's good Those extremes (RBD or DBR) are really a reaction to true supply/demand (FL), so if you apply this to every true supply/demand (FL) then it is an extreme even if it is literally in the middle of a price chart, Franc showed a nice example of this. You could try combining what you know about retailer traps (stops) and true S/D and see if it makes sense.
+
+OK I think we can move on, the discussion about origin is difficult to crack, but if anyone want still to comment on that, I'll be happy to hear. Anyway with more trade dissections we will find it out.
+
+Just as a reminder where to find master trades, other than the RTM site, consider also the facebook pagewhere many trades were posted and the RTM thread at FF...
+FA: Tirnanog، اگر برای تو جواب می‌دهد، پس خوب است. آن اکستریم‌ها (RBD یا DBR) در واقع واکنشی به عرضه/تقاضای واقعی (FL) هستند، پس اگر این را روی هر عرضه/تقاضای واقعی (FL) اعمال کنی، آن‌وقت یک اکستریم است حتی اگر دقیقاً وسط یک چارت قیمت باشد؛ Franc مثال خوبی از این نشان داد. می‌توانی تلاش کنی آنچه درباره تله‌های معامله‌گران خرد (استاپ‌ها) و S/D واقعی می‌دانی را ترکیب کنی و ببینی آیا منطقی است.
+
+خب، فکر می‌کنم می‌توانیم جلو برویم؛ بحث درباره مبدأ به‌سختی قابل حل است، اما اگر کسی هنوز بخواهد درباره‌اش نظر بدهد، خوشحال می‌شوم بشنوم. به هر حال با کالبدشکافی معاملات بیشتر، آن را کشف خواهیم کرد.
+
+فقط به‌عنوان یادآوری درباره اینکه معاملات مستر را کجا پیدا کنیم، علاوه بر سایت RTM، صفحه فیس‌بوک را هم در نظر بگیرید که معاملات زیادی آنجا منتشر شد و تاپیک RTM در FF...
+--- dissection_p1_55 author=omidfxt hash=499cc5ce
+EN: Hey guys Beautiful work here. I was busy and couldn't contribute in your recent discussions but read all of your posts.
+
+@Jurij beautiful charts as always I really liked your idea on Swap zones, as they have historic significant, can act well as targets too and most of the time we can find a beautiful FL around them too! By the way Jurij Please post the original charts from IF too. In this case anyone can write on them his idea too. Thank you
+
+i tried to work on some charts and post them here but each time i feel like there would be need to more details on them and lots of more chart! as it's a matter of scale sometime it would too complex to discuss just in a few chart
+
+Any way I agree with you to go on with dissecting more trades and discuss more concepts. In this case we can learn more about the Origins too as it is a little complicated!: )
+
+Regards
+FA: سلام بچه‌ها، کار زیبایی اینجا انجام شده. من سرم شلوغ بود و نتوانستم در بحث‌های اخیرتان مشارکت کنم اما همه پست‌هایتان را خواندم.
+
+@Jurij مثل همیشه چارت‌های زیبا. واقعاً از ایده‌ات درباره نواحی سواپ خوشم آمد، چون اهمیت تاریخی دارند، می‌توانند به‌خوبی به‌عنوان تارگت هم عمل کنند و بیشتر اوقات می‌توانیم یک FL زیبا هم اطرافشان پیدا کنیم! راستی Jurij لطفاً چارت‌های اصلی از IF را هم منتشر کن. در این صورت هر کسی می‌تواند ایده‌اش را روی آن‌ها هم بنویسد. ممنون
+
+من سعی کردم روی چند چارت کار کنم و آن‌ها را اینجا منتشر کنم اما هر بار احساس می‌کنم که به جزئیات بیشتر روی آن‌ها و چارت‌های خیلی بیشتری نیاز است! چون این یک مسئله مقیاس است، گاهی آن‌قدر پیچیده می‌شود که نتوان فقط در چند چارت درباره‌اش بحث کرد.
+
+به هر حال با تو موافقم که به کالبدشکافی معاملات بیشتر و بحث درباره مفاهیم بیشتر ادامه دهیم. در این صورت می‌توانیم درباره مبدأها هم بیشتر یاد بگیریم، چون کمی پیچیده است!: )
+
+ارادتمند
+--- dissection_p1_56 author=Jurij hash=a471d266
+EN: You're right Omid, sorry I did not think about posting them. I'll do it here, in case anyone wants still to comment on that...
+
+Next time I'll make sure to post clean charts to annotate.
+
+OK so if anyone wants to pick the next setup, go ahead, can't wait
+FA: حق با توست Omid، ببخشید که به فکر انتشارشان نبودم. اینجا انجامش می‌دهم، اگر کسی هنوز بخواهد درباره‌اش نظر بدهد...
+
+دفعه بعد حتماً چارت‌های تمیز برای حاشیه‌نویسی منتشر می‌کنم.
+
+خب، اگر کسی می‌خواهد ستاپ بعدی را انتخاب کند، شروع کند؛ بی‌صبرانه منتظرم
+--- dissection_p1_57 author=omidfxt hash=57f74ac1
+EN: Hey Guys
+
+This is another trade(scalping) from IF I tried to explain why he took his first trade and some more details And also tried to use the main guide in action too! *Price Reading Article* there is 2 more scalp in his chart. i would be really nice that some one else investigate them as another trade:)
+
+Lets see what happened:
+
+Any comments or additional notes are welcome
+FA: سلام بچه‌ها
+
+این یک معامله دیگر (اسکالپ) از IF است. سعی کردم توضیح دهم چرا اولین معامله‌اش را گرفت و چند جزئیات بیشتر. همچنین کوشیدم راهنمای اصلی را هم در عمل به کار ببرم! *مقاله خواندن قیمت* در چارت او 2 اسکالپ دیگر هم هست. واقعاً خوب می‌شد اگر کسی دیگر آن‌ها را به‌عنوان یک معامله جداگانه بررسی کند:)
+
+بیایید ببینیم چه اتفاقی افتاد:
+
+هر نظر یا یادداشت اضافی خوش‌آمد است
+--- dissection_p1_58 author=Jurij hash=16e711e3
+EN: Omid, I know it takes a lot of time to mark these charts up, so thanks for your good work
+
+Here's what I see (I also tried to look for clues regarding targets/origins):
+
+Any idea about some questions above?
+FA: Omid، می‌دانم علامت‌گذاری این چارت‌ها وقت زیادی می‌برد، پس ممنون بابت کار خوبت
+
+این چیزی است که می‌بینم (همچنین سعی کردم دنبال سرنخ‌هایی درباره تارگت‌ها/مبدأها بگردم):
+
+ایده‌ای درباره بعضی از سؤال‌های بالا داری؟
+--- dissection_p1_59 author=omidfxt hash=29df0dbd
+EN: Great explanations Jurij you are really the best in dissecting the charts and going through details. Thank you
+
+I think sometime closing a trade depends on the mood and our emotions! maybe sometimes your are tired and bored and don't have enough patient too wait and want to take some from the market and run away! that way maybe IF close some of his trade early! any way no Judgement as he himself explain about his targets in the previous posts
+
+I'm completely agree with you that he took his trade by LTF PA and this wasn't a touch trade. Thank you for mentioning that and sorry if i made confusion about it for others!
+
+here is just a few note about one of your question:
+
+Thank you again jurij for your brilliant work Keep it up bro
+FA: توضیحات عالی Jurij، تو واقعاً در کالبدشکافی چارت‌ها و بررسی جزئیات بهترین هستی. ممنون
+
+فکر می‌کنم گاهی بستن یک معامله به حال‌وهوا و احساسات ما بستگی دارد! شاید گاهی خسته و بی‌حوصله هستی و صبر کافی برای منتظر ماندن نداری و می‌خواهی چیزی از بازار بگیری و فرار کنی! این‌طوری شاید IF بعضی از معاملاتش را زود ببندد! به هر حال قضاوتی در کار نیست، چون خودش در پست‌های قبلی درباره تارگت‌هایش توضیح داده
+
+کاملاً با تو موافقم که او معامله‌اش را با PA در تایم‌فریم پایین‌تر گرفت و این یک معامله تاچ نبود. ممنون که به آن اشاره کردی و ببخشید اگر برای بقیه درباره‌اش ابهام ایجاد کردم!
+
+این فقط چند یادداشت درباره یکی از سؤال‌های توست:
+
+باز هم ممنون jurij بابت کار درخشان‌ات، همین‌طور ادامه بده داداش
+--- dissection_p1_60 author=omidfxt hash=e2169051
+EN: Hey Guys
+
+After dissecting Gold trade, i was reviewing IF's journal and just found his analysis about his trade i think it would be good to read his notes on this trade
+
+Let's see how he was looking at the chart. here you go:
+FA: سلام بچه‌ها
+
+بعد از کالبدشکافی معامله طلا، داشتم ژورنال IF را مرور می‌کردم و تازه تحلیلش درباره معامله‌اش را پیدا کردم. فکر می‌کنم خوب باشد یادداشت‌هایش درباره این معامله را بخوانیم
+
+بیایید ببینیم او چطور به چارت نگاه می‌کرد. بفرمایید:
+--- dissection_p1_61 author=franc464 hash=228dc977
+EN: Hello guys, sorry for not being part of this beautiful posts but have been busy last two days. Omid, Jurij, great posts and analysis. I will look deeper into the charts and place my view tomorrow, just too tired now..
+
+Before leaving just one note I will investigate and would also be happy to hear your view: How can IF decide between a trade into FO area in first short and a trade in FTR area on the second. How could he anticipate no FO was to come in the second short? Or maybe the SL on the second was still above FO area above the FTR? Will have a look in depth tomorrow. regards FranC
+FA: سلام بچه‌ها، ببخشید که بخشی از این پست‌های زیبا نبودم اما دو روز آخر سرم شلوغ بوده. Omid، Jurij، پست‌ها و تحلیل عالی. فردا عمیق‌تر به چارت‌ها نگاه می‌کنم و دیدگاهم را می‌نویسم، الان فقط خیلی خسته‌ام..
+
+قبل از رفتن فقط یک نکته که بررسی خواهم کرد و خوشحال می‌شوم دیدگاه شما را هم بشنوم: IF چطور تصمیم می‌گیرد در پوزیشن فروش اول در ناحیه FO وارد شود، اما در پوزیشن فروش دوم در ناحیه FTR؟ چطور توانست پیش‌بینی کند که در پوزیشن فروش دوم FO رخ نخواهد داد؟ یا شاید استاپ‌لاس معامله دوم باز هم بالای ناحیه FO قرار داشت که بالاتر از FTR بود؟ فردا عمیق‌تر نگاه خواهم کرد. ارادتمند FranC
+--- dissection_p1_62 author=omidfxt hash=4bf7f233
+EN: franc464 wrote: How can IF decide between a trade into FO area in first short and a trade in FTR area on the second. How could he anticipate no FO was to come in the second short? Or maybe the SL on the second was still above FO area above the FTR?
+
+Hey FranC
+
+I think maybe the reason could be this: Usually after a FL price hits the SR or a lower DP to create a S/D. In this way they can make a trap zone in future to fake out to the true S/D and provide their liquidity! And as it was a FO zone(trick zone), a strong push up and then failed to return, this features make it a good zone for take a trade. in this way the supply will be confirmed for future purposes! if you look at the chart they did it exactly and fake above it and then drop the price to the lower target! And the stop loss in this case was tight too
+
+Hope it make sense
+FA: franc464 نوشت: IF چطور تصمیم می‌گیرد در پوزیشن فروش اول در ناحیه FO وارد شود، اما در پوزیشن فروش دوم در ناحیه FTR؟ چطور توانست پیش‌بینی کند که در پوزیشن فروش دوم FO رخ نخواهد داد؟ یا شاید استاپ‌لاس معامله دوم باز هم بالای ناحیه FO قرار داشت که بالاتر از FTR بود؟
+
+سلام FranC
+
+فکر می‌کنم شاید دلیل این باشد: معمولاً بعد از یک FL، قیمت به SR یا یک DP پایین‌تر می‌خورد تا یک S/D بسازد. به این شکل آن‌ها می‌توانند در آینده یک ناحیه تله بسازند تا به سمت S/D واقعی فیک‌اوت کنند و نقدینگی‌شان را فراهم کنند! و از آنجا که یک ناحیه FO (ناحیه ترفند) بود، یک فشار قوی به بالا و سپس ناتوانی در بازگشت، این ویژگی‌ها آن را به ناحیه خوبی برای گرفتن معامله تبدیل می‌کند. به این شکل عرضه برای مقاصد آینده تأیید خواهد شد! اگر به چارت نگاه کنی آن‌ها دقیقاً همین کار را کردند و بالای آن فیک‌اوت کردند و سپس قیمت را به تارگت پایین‌تر انداختند! و استاپ‌لاس در این مورد هم تنگ بود
+
+امیدوارم منطقی باشد
+--- dissection_p1_63 author=Jurij hash=6233301b
+EN: omidfxt wrote: Hey Guys
+
+After dissecting Gold trade, i was reviewing IF's journal and just found his analysis about his trade i think it would be good to read his notes on this trade
+
+Yeah now it makes sense, about the exit and also the origin ("FTR - easy tg"), I think this is a big clue. "All demand spiked" is also interested, I think this means that the OF was consumed below so after his last entry price was free to drop to HTF tg without to much retraces or pauses. Thanks Omid for posting. Good thing that I did not remember this trade, and seeing some thoughts confirmed is really satisfying Anyway amazing trade, almost from top to bottom
+FA: omidfxt نوشت: سلام بچه‌ها
+
+بعد از کالبدشکافی معامله طلا، داشتم ژورنال IF را مرور می‌کردم و تازه تحلیلش درباره معامله‌اش را پیدا کردم. فکر می‌کنم خوب باشد یادداشت‌هایش درباره این معامله را بخوانیم
+
+بله، حالا هم خروج و هم مبدأ روشن شد ("FTR - تارگت آسان")؛ فکر می‌کنم این سرنخ مهمی است. "همه نواحی تقاضا با اسپایک زده شدند" هم جالب است؛ فکر می‌کنم یعنی OF در پایین مصرف شده بود، بنابراین بعد از آخرین ورودش، قیمت می‌توانست بدون اصلاح‌ها یا توقف‌های زیاد تا تارگت تایم‌فریم بالاتر ریزش کند. ممنون Omid بابت انتشار. خوب شد که این معامله را به خاطر نداشتم، و دیدن اینکه بعضی افکار تأیید می‌شوند واقعاً رضایت‌بخش است. به هر حال معامله شگفت‌انگیز، تقریباً از سقف تا کف
+--- dissection_p1_64 author=franc464 hash=840cdf4b
+EN: omidfxt wrote:
+
+franc464 wrote: How can IF decide between a trade into FO area in first short and a trade in FTR area on the second. How could he anticipate no FO was to come in the second short? Or maybe the SL on the second was still above FO area above the FTR?
+
+Hey FranC
+
+I think maybe the reason could be this: Usually after a FL price hits the SR or a lower DP to create a S/D. In this way they can make a trap zone in future to fake out to the true S/D and provide their liquidity! And as it was a FO zone(trick zone), a strong push up and then failed to return, this features make it a good zone for take a trade. in this way the supply will be conrmed for future purposes! if you look at the chart they did it exactly and fake above it and then drop the price to the lower target! And the stop loss in this case was tight too
+
+Hope it make sense
+
+Thanks Omid, but I'm not sure I can understand. Is what I draw in the chart what you mean? It is the second trade thanks FranC
+FA: omidfxt نوشت:
+
+franc464 نوشت: IF چطور تصمیم می‌گیرد در پوزیشن فروش اول در ناحیه FO وارد شود، اما در پوزیشن فروش دوم در ناحیه FTR؟ چطور توانست پیش‌بینی کند که در پوزیشن فروش دوم FO رخ نخواهد داد؟ یا شاید استاپ‌لاس معامله دوم باز هم بالای ناحیه FO قرار داشت که بالاتر از FTR بود؟
+
+سلام FranC
+
+فکر می‌کنم شاید دلیل این باشد: معمولاً بعد از یک FL، قیمت به SR یا یک DP پایین‌تر می‌خورد تا یک S/D بسازد. به این شکل آن‌ها می‌توانند در آینده یک ناحیه تله بسازند تا به سمت S/D واقعی فیک‌اوت کنند و نقدینگی‌شان را فراهم کنند! و از آنجا که یک ناحیه FO (ناحیه ترفند) بود، یک فشار قوی به بالا و سپس ناتوانی در بازگشت، این ویژگی‌ها آن را به ناحیه خوبی برای گرفتن معامله تبدیل می‌کند. به این شکل عرضه برای مقاصد آینده تأیید خواهد شد! اگر به چارت نگاه کنی آن‌ها دقیقاً همین کار را کردند و بالای آن فیک‌اوت کردند و سپس قیمت را به تارگت پایین‌تر انداختند! و استاپ‌لاس در این مورد هم تنگ بود
+
+امیدوارم منطقی باشد
+
+ممنون Omid، اما مطمئن نیستم که بتوانم بفهمم. آیا چیزی که در چارت کشیدم همان است که منظور توست؟ این معامله دوم است، ممنون FranC
+--- dissection_p1_65 author=omidfxt hash=640fdf02
+EN: franc464 wrote: Thanks Omid, but I'm not sure I can understand. Is what I draw in the chart what you mean? It is the second trade thanks FranC
+
+Hey FranC Sorry for the late reply
+
+Yes. as you can see and IF also mentioned it was a FO spike and somehow a trick zone. So it makes it a good zone for taking a trade
+FA: franc464 نوشت: ممنون Omid، اما مطمئن نیستم که بتوانم بفهمم. آیا چیزی که در چارت کشیدم همان است که منظور توست؟ این معامله دوم است، ممنون FranC
+
+سلام FranC، ببخشید بابت پاسخ دیر
+
+بله. همان‌طور که می‌بینی و IF هم اشاره کرد، این یک اسپایک FO بود و به‌نوعی یک ناحیه ترفند. پس آن را به ناحیه خوبی برای گرفتن معامله تبدیل می‌کند
+--- dissection_p1_66 author=omidfxt hash=948358d4
+EN: Hey Guys
+
+Here is another trade from IF on EURUSD i think it was a tough one and took a few hour to investigate it what was his reasons for taking the trade and also investigating a few possible targets there Let's see what happened there:
+
+Any comments and notes are welcome. we are here to learn together
+FA: سلام بچه‌ها
+
+این یک معامله دیگر از IF روی EURUSD است. فکر می‌کنم معامله سختی بود و چند ساعت طول کشید تا بفهمم دلایلش برای گرفتن معامله چه بود و همچنین چند تارگت احتمالی آنجا را بررسی کنم. بیایید ببینیم آنجا چه اتفاقی افتاد:
+
+هر نظر و یادداشتی خوش‌آمد است. ما اینجا هستیم تا با هم یاد بگیریم
+--- dissection_p1_67 author=Jurij hash=95d1777b
+EN: Omid very good
+
+Here some thoughts:
+
+It was really a good one and not too complicated. Tricks on approach to a past trick
+
+and with an eng signal that makes this even
+
+better...
+FA: Omid خیلی خوب
+
+این هم چند فکر:
+
+واقعاً معامله خوبی بود و خیلی هم پیچیده نبود. ترفندهایی در مسیر نزدیک‌شدن به یک ترفند گذشته
+
+و با یک سیگنال اینگالف که این را حتی
+
+بهتر می‌کند...
+--- dissection_p1_68 author=omidfxt hash=5a655455
+EN: Jurij wrote: It was really a good one and not too complicated. Tricks on approach to a past trick
+
+and with an eng signal that makes this even
+
+better...
+
+i'm agree with you that there were good confirmations PA as engulfed down for this trade. but still this kind of entries(TT if it was!) that the QM lvl is far away from the HH is still a little stressful for me! Any way beautiful trade: )
+FA: Jurij نوشت: واقعاً معامله خوبی بود و خیلی هم پیچیده نبود. ترفندهایی در مسیر نزدیک‌شدن به یک ترفند گذشته
+
+و با یک سیگنال اینگالف که این را حتی
+
+بهتر می‌کند...
+
+با تو موافقم که تأییدیه‌های PA خوبی برای این معامله وجود داشت، مثل اینگالف نزولی. اما هنوز این نوع ورودها (TT اگر بوده باشد!) که سطح QM از HH دور است، برای من کمی استرس‌زا است! به هر حال معامله زیبایی بود: )
+--- dissection_p1_69 author=etwanm hash=91bbb23f
+EN: Hi my dear friends and RTM members.I haven't read any of dissection room posts to see if Mr IFs charts have been disgussed or not?
+
+In the first picture it is clear that in a QM and in the specified lvl it is looked for a place to enter and a FTR is seen in the picture but why the entering place should be there?
+
+In this picture the box in the left can be completly understood( price engulfs and make a ftr and go to new zone) but l couldnt get the box in the right..it would be great if anyone can explatin the entering spot for me..Thanks
+FA: سلام دوستان عزیزم و اعضای RTM. من هیچ‌کدام از پست‌های اتاق کالبدشکافی را نخوانده‌ام تا ببینم آیا چارت‌های آقای IF بررسی شده‌اند یا نه؟
+
+در تصویر اول واضح است که در یک QM و در سطح مشخص‌شده دنبال جایی برای ورود می‌گردند و یک FTR در تصویر دیده می‌شود، اما چرا محل ورود باید آنجا باشد؟
+
+در این تصویر باکس سمت چپ کاملاً قابل درک است (قیمت اینگالف می‌کند و یک ftr می‌سازد و به ناحیه جدید می‌رود) اما باکس راست را نفهمیدم.. عالی می‌شد اگر کسی بتواند نقطه ورود را برایم توضیح دهد.. ممنون
+--- dissection_p1_70 author=Jurij hash=41cbfcaa
+EN: omidfxt wrote:
+
+Jurij wrote: It was really a good one and not too complicated. Tricks on approach to a past trick
+
+and with an eng signal that makes this
+
+even better...
+
+i'm agree with you that there were good conrmations PA as engulfed down for this trade. but still this kind of entries(TT if it was!) that the QM lvl is far away from the HH is still a little stressful for me! Any way beautiful trade: )
+
+Yes this is a big problem I've had (maybe still have) that after an eng price makes an extended FO... This happens when we chase an eng instead of focusing on the levels first. If you focus on the levels, in this case 4H, then there's no trouble:
+
+I hope this gives the idea of what I'm trying to say.
+FA: omidfxt نوشت:
+
+Jurij نوشت: واقعاً معامله خوبی بود و خیلی هم پیچیده نبود. ترفندهایی در مسیر نزدیک‌شدن به یک ترفند گذشته
+
+و با یک سیگنال اینگالف که این را
+
+حتی بهتر می‌کند...
+
+با تو موافقم که تأییدیه‌های PA خوبی برای این معامله وجود داشت، مثل اینگالف نزولی. اما هنوز این نوع ورودها (TT اگر بوده باشد!) که سطح QM از HH دور است، برای من کمی استرس‌زا است! به هر حال معامله زیبایی بود: )
+
+بله این مشکل بزرگی است که من داشته‌ام (شاید هنوز هم دارم) که بعد از یک اینگالف قیمت یک FO کشیده می‌سازد... این وقتی اتفاق می‌افتد که ما دنبال یک اینگالف می‌دویم به‌جای اینکه اول روی سطوح تمرکز کنیم. اگر روی سطوح تمرکز کنی، در این مورد 4H، آن‌وقت مشکلی نیست:
+
+امیدوارم این منظورم را رسانده باشد.
+--- dissection_p1_71 author=Jurij hash=e6f3fa56
+EN: etwanm wrote: [...]
+
+In this picture the box in the left can be completly understood( price engulfs and make a ftr and go to new zone) but l couldnt get the box in the right..it would be great if anyone can explatin the entering spot for me..Thanks
+
+Isn't it the setup we are discussing above. I think the entry was explained by Omid.
+FA: etwanm نوشت: [...]
+
+در این تصویر باکس سمت چپ کاملاً قابل درک است (قیمت اینگالف می‌کند و یک ftr می‌سازد و به ناحیه جدید می‌رود) اما باکس راست را نفهمیدم.. عالی می‌شد اگر کسی بتواند نقطه ورود را برایم توضیح دهد.. ممنون
+
+مگر این همان ستاپی نیست که بالا درباره‌اش بحث می‌کنیم. فکر می‌کنم ورود توسط Omid توضیح داده شد.
+--- dissection_p1_72 author=kurdfx hash=1ec723d0
+EN: Hi my dear friends and RTM members.I haven't read any of dissection room posts to see if Mr IFs charts have been disgussed or not?
+
+In the first picture it is clear that in a QM and in the specified lvl it is looked for a place to enter and a FTR is seen in the picture but why the entering place should be there?
+
+In this picture the box in the left can be completly understood but l couldnt get the box in the right..it would be great if anyone can explatin the entering spot for me..Thanks
+FA: سلام دوستان عزیزم و اعضای RTM. من هیچ‌کدام از پست‌های اتاق کالبدشکافی را نخوانده‌ام تا ببینم آیا چارت‌های آقای IF بررسی شده‌اند یا نه؟
+
+در تصویر اول واضح است که در یک QM و در سطح مشخص‌شده دنبال جایی برای ورود می‌گردند و یک FTR در تصویر دیده می‌شود، اما چرا محل ورود باید آنجا باشد؟
+
+در این تصویر باکس سمت چپ کاملاً قابل درک است اما باکس راست را نفهمیدم.. عالی می‌شد اگر کسی بتواند نقطه ورود را برایم توضیح دهد.. ممنون
+--- dissection_p1_73 author=omidfxt hash=ae60a903
+EN: etwanm wrote: Hi my dear friends and RTM members.I haven't read any of dissection room posts to see if Mr IFs charts have been disgussed or not?
+
+In the rst picture it is clear that in a QM and in the specied lvl it is looked for a place to enter and a FTR is seen in the picture but why the entering place should be there?
+
+In this picture the box in the left can be completly understood( price engulfs and make a ftr and go to new zone) but l couldnt get the box in the right..it would be great if anyone can explatin the entering spot for me..Thanks
+
+Hey etwanm
+
+Thank you for posting these beautiful charts from our previous dissecting. It's very nice to see what was IF himself seeing in the chart
+
+About your question as Jurij and i explain it in our charts it was a beautiful QM lvl and also it was an ignored zone. After the QM lvl got engulfed and another zone was created, price didn't respect it on return and ignored it and as it was merged with the QM lvl and the SR Flip, as IF said it makes it a great zone for looking for a reaction on return!
+FA: etwanm نوشت: سلام دوستان عزیزم و اعضای RTM. من هیچ‌کدام از پست‌های اتاق کالبدشکافی را نخوانده‌ام تا ببینم آیا چارت‌های آقای IF بررسی شده‌اند یا نه؟
+
+در تصویر اول واضح است که در یک QM و در سطح مشخص‌شده دنبال جایی برای ورود می‌گردند و یک FTR در تصویر دیده می‌شود، اما چرا محل ورود باید آنجا باشد؟
+
+در این تصویر باکس سمت چپ کاملاً قابل درک است (قیمت اینگالف می‌کند و یک ftr می‌سازد و به ناحیه جدید می‌رود) اما باکس راست را نفهمیدم.. عالی می‌شد اگر کسی بتواند نقطه ورود را برایم توضیح دهد.. ممنون
+
+سلام etwanm
+
+ممنون بابت انتشار این چارت‌های زیبا از کالبدشکافی قبلی‌مان. خیلی خوب است که ببینیم خود IF در چارت چه می‌دید
+
+درباره سؤال‌ات، همان‌طور که Jurij و من در چارت‌هایمان توضیح دادیم، این یک سطح QM زیبا بود و همچنین یک ناحیه نادیده‌گرفته‌شده بود. بعد از اینکه سطح QM اینگالف شد و ناحیه دیگری ایجاد شد، قیمت در بازگشت به آن احترام نگذاشت و نادیده‌اش گرفت و از آنجا که با سطح QM و SR Flip ادغام شده بود، همان‌طور که IF گفت، این ویژگی‌ها آن را به ناحیه‌ای عالی تبدیل می‌کنند که می‌توان در بازگشت قیمت به آن به‌دنبال واکنش بود!
+--- dissection_p1_74 author=kurdfx hash=8e051691
+EN: Thanks for all your help Mr omid
+FA: ممنون بابت تمام کمک‌هایتان آقای omid
+--- dissection_p1_75 author=omidfxt hash=7d807e65
+EN: kurdfx wrote: Thanks for all your help Mr omid
+
+Your welcome buddy
+
+I really can't explain it in any other way! and think it would be better to reread the recent posts again and if still couldn't find your answer maybe it's better to take a look back on QM lvls, trick zones, ignored zones...
+
+Regards
+FA: kurdfx نوشت: ممنون بابت تمام کمک‌هایتان آقای omid
+
+خواهش می‌کنم رفیق
+
+واقعاً نمی‌توانم به شکل دیگری توضیحش دهم! و فکر می‌کنم بهتر باشد پست‌های اخیر را دوباره بخوانی و اگر هنوز نتوانستی جوابت را پیدا کنی شاید بهتر است نگاهی به عقب به سطح‌های QM، نواحی ترفند، نواحی نادیده‌گرفته‌شده بیندازی...
+
+ارادتمند

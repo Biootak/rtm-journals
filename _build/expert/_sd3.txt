@@ -1,0 +1,466 @@
+===== supplydemand-p12.json | 933342de0ee4a875fea2166c61180ccbec28db7a | supplydemand_p12_279
+--- EN ---
+e/g m5 chart saw stacked zone above then one extreme one above that. demand looks good, but l just
+
+monitor my trades to make the most of it.. not to mention the befg l was eyeing offf.78468 poss TG
+
+edit: this worked nicely exited 2 at 78.20, some of one running still.
+--- FA (current) ---
+e/g چارت m5 ناحیهٔ انباشته را بالاتر دیدم و بعد یک extreme بالاتر از آن. demand خوب به نظر می‌رسد، ولی فقط
+
+معامله‌هایم را مانیتور می‌کنم تا بیشترین بهره را ببرم.. چه برسد به befg که به آن 0.78468 چشم دوخته بودم شاید TG باشد
+
+ویرایش: این خوب جواب داد، 2 را روی 78.20 خارج شد، مقداری از یکی هنوز در حال اجراست.
+
+===== supplydemand-p12.json | 4a8e9f02a4bed0bac588ed91de52180bfaf7efd0 | supplydemand_p12_286
+--- EN ---
+Not the best with marking charts up but it was the 2nd candle after the bullish engulfing which is after your pink box. Still trying to learn the terminology before I try and mark charts up and still learning this sup/dem stuff.So greatfull for all the good info from everyone.
+--- FA (current) ---
+در علامت‌زدن چارت‌ها بهترین نیستم ولی کندل دوم بعد از this گاو صعودی engulfing بود که بعد از کادر صورتی توست. هنوز دارم قبل از اینکه سعی کنم چارت‌ها را علامت بزنم اصطلاحات را یاد می‌گیرم و هنوز این موضوع sup/dem را یاد می‌گیرم. خیلی سپاسگزارم برای همهٔ اطلاعات خوب از همه.
+
+===== supplydemand-p12.json | aecb884888f905a270c9f3d149641366b2e0c4ca | supplydemand_p12_293
+--- EN ---
+Vickym wrote: Hi IF - a question completely un-related to the trade setups (hope you dont mind me asking here)
+
+How do you manage to have these many candles on your screen? Is it something to do with your screen resolution?
+
+Hope you don't mind me answering this. I remember thinking this a while ago, and a few people have already asked in forums. If i remember properly it came down to screen size. I could be wrong though:P There are a mighty lot of candles! I trade from my laptop, and If's charts nearly have twice as many!
+--- FA (current) ---
+Vickym نوشت: سلام IF - سؤالی کاملاً نامرتبط با ستاپ‌های معامله (امیدوارم اشکالی نداشته باشی که اینجا می‌پرسم)
+
+چطور مدیریت می‌کنی این‌قدر کندل روی صفحه‌ات داشته باشی؟ ربطی به رزولوشن صفحه‌ات دارد؟
+
+امیدوارم اشکالی نداشته باشی که جوابش را بدهم. یادم می‌آید خیلی وقت پیش به این فکر می‌کردم، و چند نفر در فروم‌ها همین سؤال را پرسیده‌اند. اگر درست یادم باشد به اندازهٔ صفحه برمی‌گشت. ممکن است اشتباه کنم ولی :P کندل‌های خیلی زیادی هست! من از لپ‌تاپ معامله می‌کنم، و چارت‌های If تقریباً دو برابر کندل دارند!
+
+===== supplydemand-p12.json | 845383aa2ac8e608addd44aa21e2793c38780b10 | supplydemand_p12_294
+--- EN ---
+Pedini wrote:
+
+Vickym wrote: Hi IF - a question completely un-related to the trade setups (hope you dont mind me asking here)
+
+How do you manage to have these many candles on your screen? Is it something to do with your screen resolution?
+
+Hope you don't mind me answering this. I remember thinking this a while ago, and a few people have already asked in forums. If i remember properly it came down to screen size. I could be wrong though:P There are a mighty lot of candles! I trade from my laptop, and If 's charts nearly have twice as many!
+
+When i grow up I'll buy a monitor just as big as IF's monitor
+
+On a more serious note, it is the aspect ratio. Widescreen monitors are what we need:)
+--- FA (current) ---
+Pedini نوشت:
+
+Vickym نوشت: سلام IF - سؤالی کاملاً نامرتبط با ستاپ‌های معامله (امیدوارم اشکالی نداشته باشی که اینجا می‌پرسم)
+
+چطور مدیریت می‌کنی این‌قدر کندل روی صفحه‌ات داشته باشی؟ ربطی به رزولوشن صفحه‌ات دارد؟
+
+امیدوارم اشکالی نداشته باشی که جوابش را بدهم. یادم می‌آید خیلی وقت پیش به این فکر می‌کردم، و چند نفر در فروم‌ها همین سؤال را پرسیده‌اند. اگر درست یادم باشد به اندازهٔ صفحه برمی‌گشت. ممکن است اشتباه کنم ولی :P کندل‌های خیلی زیادی هست! من از لپ‌تاپ معامله می‌کنم، و چارت‌های If تقریباً دو برابر کندل دارند!
+
+وقتی بزرگ شدم یک مانیتور دقیقاً به اندازهٔ مانیتور IF می‌خرم
+
+در مورد جدی‌تر، aspect نسبت است. مانیتورهای wide screen همان چیزی است که نیاز داریم :)
+
+===== supplydemand-p12.json | a92e41ee2a4cfdc27f8b57009355a5dad1f00ae6 | supplydemand_p12_295
+--- EN ---
+Vickym wrote: Hi IF - a question completely un-related to the trade setups (hope you dont mind me asking here)
+
+How do you manage to have these many candles on your screen? Is it something to do with your screen resolution?
+
+Believe it or not, I trade from a laptop. I have no idea why I have so many candles on my screen, but aspect ratio does sound right. I'm just glad I have them:)
+--- FA (current) ---
+Vickym نوشت: سلام IF - سؤالی کاملاً نامرتبط با ستاپ‌های معامله (امیدوارم اشکالی نداشته باشی که اینجا می‌پرسم)
+
+چطور مدیریت می‌کنی این‌قدر کندل روی صفحه‌ات داشته باشی؟ ربطی به رزولوشن صفحه‌ات دارد؟
+
+باور کنی یا نه، من از لپ‌تاپ معامله می‌کنم. نمی‌دانم چرا این‌قدر کندل روی صفحه‌ام هست، ولی aspect نسبت به نظر درست می‌رسد. فقط خوشحالم که دارم :)
+
+===== supplydemand-p12.json | cb3a32806bebdd9c4cf38e2564a2e8c581f1ba67 | supplydemand_p12_296
+--- EN ---
+Ifmyante wrote: Believe it or not, I trade from a laptop. I have no idea why I have so many candles on my screen, but aspect ratio does sound right. I'm just glad I have them:)
+
+The forex gods favour you, IF.
+
+Higher resolution than 1920x1080, IF?
+--- FA (current) ---
+Ifmyante نوشت: باور کنی یا نه، من از لپ‌تاپ معامله می‌کنم. نمی‌دانم چرا این‌قدر کندل روی صفحه‌ام هست، ولی aspect نسبت به نظر درست می‌رسد. فقط خوشحالم که دارم :)
+
+خدایان فارکس تو را دوست دارند، IF.
+
+رزولوشن بالاتر از 1920x1080، IF؟
+
+===== supplydemand-p12.json | 8a53b900f6184ef3599fdbc2ee6dad973862b46c | supplydemand_p12_297
+--- EN ---
+Ifmyante wrote: Believe it or not, I trade from a laptop. I have no idea why I have so many candles on my screen
+
+For windows7 right click on your desktop, choose screen resolution and check your display resolution.
+--- FA (current) ---
+Ifmyante نوشت: باور کنی یا نه، من از لپ‌تاپ معامله می‌کنم. نمی‌دانم چرا این‌قدر کندل روی صفحه‌ام هست
+
+برای windows7 روی دسکتاپ راست‌کلیک کن، screen resolution را انتخاب کن و رزولوشن نمایشی‌ات را چک کن.
+
+===== supplydemand-p12.json | fcd67af8a328d4c56ae5232c1aee7f8ac3f869c2 | supplydemand_p12_298
+--- EN ---
+Caught USD/CAD inside of weekly demand. It is also one of the levels If was mentioning in the featured posts a couple of days ago if I'm not mistaken. It looks compressed on the weekly and the momentum also favors it but I'd say caution is needed at around 0.9976 as that decision point is still untouched.
+
+PS: Apologies to Tyoon for stealing his template idea but it's the only black template that doesn't make my eyes bleed.
+--- FA (current) ---
+USD/CAD را داخل تقاضا هفتگی گرفتم. این هم یکی از سطوحی است که If چند روز پیش در پست‌های featured ذکر کرده بود اگر اشتباه نکنم. روی هفتگی فشرده به نظر می‌رسد و مومنتوم هم طرفش است ولی می‌گویم احتیاط در اطراف 0.9976 لازم است چون آن نقطهٔ تصمیم هنوز دست‌نخورده است.
+
+PS: از Tyoon برای دزدیدن ایدهٔ تمپلیت عذرخواهی می‌کنم ولی تنها تمپلیت مشکی است که چشم‌هایم را نمی‌سوزاند.
+
+flagged in file: 8
+===== supplydemand-p13.json | 0627d2c6f37c243042b82010c79513dceac2042d | supplydemand_p13_302
+--- EN ---
+turboguru wrote: Long GU entered right at close of candle.
+
+Edit: out all
+
+Hope I got it right please comment. Reason for entry was wicks consumed supply so entered on bullish engulf.
+--- FA (current) ---
+turboguru نوشت: لانگ GU درست در بسته شدن کندل وارد شد.
+
+ویرایش: همه را بیرون آوردم
+
+امیدوارم درست گرفته باشم لطفاً نظر بده. دلیل ورود این بود که سایه‌ها عرضه را مصرف کرده بودند پس روی this گاو صعودی engulfing وارد شدم.
+
+===== supplydemand-p13.json | 119a804aa582ac568a01824bd39de5cde5da951d | supplydemand_p13_307
+--- EN ---
+e/g M5 chart
+
+s/r flip entry, waited for QM to play out then seeing cp'd price flagging for hh's.
+
+trades still open waiting DP at current price zone to react..
+--- FA (current) ---
+e/g چارت M5
+
+ورود فلیپ S/R، منتظر ماندم تا QM بازی کند و بعد دیدم قیمت CP شده در حال flag برای hhهاست.
+
+معامله‌ها هنوز باز هستند منتظر واکنش DP در ناحیهٔ قیمت فعلی..
+
+===== supplydemand-p13.json | 523e8e21a63c3827341df03a600d0aff8d414d34 | supplydemand_p13_318
+--- EN ---
+Alto BE or not it doesnt matter you know, your broker will start execution from where price is when they open up on sunday data. if you want to lock profit, a hedge ("nedge" as cloggs names it) is a solution. anything else is a gamble.
+--- FA (current) ---
+Alto BE بودن یا نبودنش مهم نیست، بروکرت از جایی که قیمت هست وقتی Sunday data را باز می‌کنند اجرای آن را شروع می‌کند. اگر می‌خواهی سود را قفل کنی، یک hedge («nedge» همان‌طور که cloggs اسمش را گذاشته) یک راه‌حل است. هر چیز دیگری قمار است.
+
+===== supplydemand-p13.json | 30f748b75f0acd80e17a1b7bb50cc193da9944b4 | supplydemand_p13_319
+--- EN ---
+Harry wrote: Alto BE or not it doesnt matter you know, your broker will start execution from where price is when they open up on sunday data. if you want to lock profit, a hedge ("nedge" as cloggs names it) is a solution. anything else is a gamble.
+
+Harry mn!!!:)
+
+sure, thank you for your advice, that's why I said "bad MM". a bit heavy trade there, so wont do it again without proper MM strategy.
+
+Happy Weekend mate
+--- FA (current) ---
+Harry نوشت: Alto BE بودن یا نبودنش مهم نیست، بروکرت از جایی که قیمت هست وقتی Sunday data را باز می‌کنند اجرای آن را شروع می‌کند. اگر می‌خواهی سود را قفل کنی، یک hedge («nedge» همان‌طور که cloggs اسمش را گذاشته) یک راه‌حل است. هر چیز دیگری قمار است.
+
+Harry mn!!! :)
+
+حتماً، ممنون از توصیه‌ات، به همین دلیل گفتم «MM بد». آنجا معاملهٔ کمی سنگین بود، پس دیگر بدون استراتژی MM درست این کار را نمی‌کنم.
+
+آخر هفتهٔ خوش رفیق
+
+===== supplydemand-p13.json | b08f9ad37d73af330b922d33d079a71766d8dc9c | supplydemand_p13_320
+--- EN ---
+<brag start> Emene style demo trade, TL and supply. in M1 you will see 4 candles with shaven tops there. maybe closed early. i suck at trade management anyway. <brag end>
+--- FA (current) ---
+<brag شروع> معاملهٔ دموی Emene style، TL و عرضه. در M1 چهار کندل با سقف‌های تراشیده می‌بینی. شاید زود بسته شد. من به هر حال در مدیریت معامله بد هستم. <brag end>
+
+===== supplydemand-p13.json | 8b2488bf9280859e816f7385b10e32e67f366024 | supplydemand_p13_321
+--- EN ---
+Haha nicely done! Those ones are really cool indeed. And MM is maybe the hardest part of trading to learn, so don't be too hard on yourself. Now, EU offers awesome and clear support on higher TF so it can be a mark to close the rest of a trade if part of it has been closed earlier on.
+
+Harry wrote: <brag start> Emene style demo trade, TL and supply. in M1 you will see 4 candles with shaven tops there. maybe closed early. i suck at trade management anyway. <brag end>
+--- FA (current) ---
+هاها قشنگ انجام دادی! آن‌ها واقعاً باحال‌اند. و MM شاید سخت‌ترین بخش معامله‌گری برای یادگیری است، پس خودت را خیلی سخت نگیر. حالا، EU روی تایم‌فریم‌های بالاتر حمایت عالی و واضحی دارد پس می‌تواند نشانه‌ای برای بستن بقیهٔ معامله باشد اگر بخشی از آن قبلاً بسته شده باشد.
+
+Harry نوشت: <brag شروع> معاملهٔ دموی Emene style، TL و عرضه. در M1 چهار کندل با سقف‌های تراشیده می‌بینی. شاید زود بسته شد. من به هر حال در مدیریت معامله بد هستم. <brag end>
+
+===== supplydemand-p13.json | ed1b3f096f08832090773dbbd17a806a7da71850 | supplydemand_p13_323
+--- EN ---
+Haven't been posting for quite sometime... I now minimise my pairs to Gold and Euro due to my busy life...The post here is not to boast my winning trades. But to look at my emo entries which turns out to be losers or breakeven... Euro...I got the best price of sell 1.2576..Closed 2/3 of the trade and trailing the remaining...
+
+Gold....My first loss is due to tinking the QM sell base there...Instead it went higher and i had fear entering until i missed it.Then i entered at the pullback or retest of the broken support...Due to some fear, i took profits early.Followed by another loser until its too late when i start to see the potential RBD sell zone and entered short there... Trailing as usual as i have no time to babysit the trade...
+--- FA (current) ---
+مدت زیادی است که پست نکرده‌ام... حالا به‌خاطر زندگی شلوغم جفت‌هایم را به طلا و یورو محدود کرده‌ام... این پست اینجا برای فخر فروشی معامله‌های برنده‌ام نیست. بلکه برای نگاه به ورودهای عاطفی من است که به ضرر یا سر به سر تبدیل شدند... یورو... بهترین قیمت فروش را گرفتم 1.2576.. 2/3 معامله را بستم و بقیه را trailing می‌کنم...
+
+طلا.... اولین ضررم به‌خاطر فکر کردن به QM sell بیس آنجا بود... در عوض بالاتر رفت و من به خاطر ترس وارد نشدم تا وقتی از دست رفت. بعد در پولبک یا ریتست حمایت شکسته وارد شدم... به خاطر ترس، سودها را زود گرفتم. با یک بازندهٔ دیگر ادامه پیدا کرد تا وقتی خیلی دیر شد که ناحیهٔ sellzone RBD بالقوه را دیدم و آنجا شورت وارد شدم... trailing مثل همیشه چون وقت برای نگهبانی از معامله ندارم...
+
+===== supplydemand-p13.json | 59fd45ba07c3480988a454340ffaa3188d8f9c5b | supplydemand_p13_325
+--- EN ---
+You might wanna lock some profit slightly above this Support/Resistance flip. (At least stop @ BE)
+
+It Dropped and made a Base. Now it will continue to Drop or reverse and Rally. Search for IF's DBD, DBR.
+
+Protect what you have.
+
+Great entry btw
+--- FA (current) ---
+ممکن است بخواهی کمی بالای این حمایت/مقاومت فلیپ مقداری سود قفل کنی. (حداقل استاپ @ BE)
+
+افت کرد و یک بیس ساخت. حالا یا ادامه می‌دهد به پایین یا برگشت می‌زند و بالا می‌رود. دنبال DBD و DBRِ If بگرد.
+
+آنچه داری را محافظت کن.
+
+ورود عالی btw
+
+flagged in file: 8
+===== supplydemand-p14.json | f41a66fe9b6abeebb0d4313c288148cd0cfb86f6 | supplydemand_p14_330
+--- EN ---
+Hi If,
+
+Thanks for the quick reply.
+
+I've attached a current chart of USDCHF which was a long trade that I recently took. It's in the D1 timeframe but I believe that the same principles should still apply across the other timeframes.
+
+1. Demand level
+
+2. All bear candles into the level and then buy.
+
+3. Sam Seiden would often talk about the "path of least resistance" to the nearest opposing level. On that basis the opportunity here looked really good.
+
+4. SR flip zone established. In order to consider the SR flip zone once I had bought
+
+at the original demand level, horizontal line would need to "cut through" the red candles.
+
+If I had considered the SR flip when taking the trade then I could have considered taking profits at the white circle, which also forms a confluence with a 76.4 fib retrace.
+
+In the event I did makes pips but do feel that with a little more craft it would have been possible to take a lot more of what the market was offering.
+
+Hope this makes sense!
+--- FA (current) ---
+سلام If،
+
+از پاسخ سریع‌ات ممنون.
+
+یک چارت فعلی از USDCHF ضمیمه کردم که یک معاملهٔ لانگ بود که اخیراً گرفتم. این در تایم‌فریم D1 است ولی فکر می‌کنم همان اصول باید در تایم‌فریم‌های دیگر هم صدق کند.
+
+1. سطح تقاضا
+
+2. همهٔ کندل‌های نزولی تا سطح و سپس خرید.
+
+3. Sam Seiden اغلب دربارهٔ «مسیر کم‌مقاومت‌ترین» تا نزدیک‌ترین سطح مخالف صحبت می‌کرد. بر همین اساس فرصت اینجا واقعاً خوب به نظر می‌رسید.
+
+4. ناحیه فلیپ SR پس از خرید در سطح تقاضای اولیه
+
+ایجاد شد؛ برای اینکه ناحیه فلیپ SR را در نظر بگیرم، خط افقی باید «از روی» کندل‌های قرمز عبور می‌کرد.
+
+اگر هنگام گرفتن معامله ناحیه فلیپ SR را در نظر می‌گرفتم، می‌توانستم سود را در دایرهٔ سفید بگیرم که با فیبوناچی ریتریت 76.4 هم‌راستا می‌شود.
+
+در نهایت پیپ‌هایی گرفتم، ولی احساس می‌کنم با کمی دقت بیشتر می‌شد بخش بیشتری از چیزی که بازار ارائه می‌داد را برداشت.
+
+امیدوارم منطقی به نظر برسد!
+
+===== supplydemand-p14.json | eff99690d6dff64cc7e1750867bc5d3b34c8ea24 | supplydemand_p14_333
+--- EN ---
+Hi If,
+
+Once again, thanks for the reply.
+
+Yes, I see exactly what you're saying - and that price is currently range bound between the two historic points of supply and demand.
+
+There's not been one major epiphany in my trading journey, rather a series of small revelations. I think the latest, and certainly one that I'm writing into my rules relates to trading between the larger timeframes but taking profits (and re-entries) in the smaller along the way.
+
+** importantly stepping down the timeframes allows me to identify observable levels of supply or demand around the flip zones without cutting through the candles.
+
+Zones for the week are set and so I'll see how I go and perhaps post up some entries if, as and when they have triggered.
+
+Great webinar yesterady btw.
+
+Cheers,
+--- FA (current) ---
+سلام If،
+
+دوباره، از پاسخت ممنون.
+
+بله، دقیقاً می‌فهمم چه می‌گویی — و اینکه قیمت در حال حاضر بین دو نقطهٔ تاریخی عرضه و تقاضا در محدوده است.
+
+در مسیر معاملاتی‌ام یک کشف بزرگ نداشته‌ام، بلکه زنجیره‌ای از بینش‌های کوچک بوده. فکر می‌کنم آخرینِ آن — و قطعاً آن‌که دارم در قوانینم می‌نویسم — مربوط به معامله بین تایم‌فریم‌های بزرگ‌تر اما گرفتن سود (و ورود مجدد) در تایم‌فریم‌های کوچک‌تر در طول راه است.
+
+** مهم: پایین آمدن از تایم‌فریم‌ها به من اجازه می‌دهد سطوح قابل‌مشاهدهٔ عرضه یا تقاضا را در اطراف ناحیه‌های فلیپ، بدون عبور از روی کندل‌ها، مشخص کنم.
+
+ناحیه‌های هفته تعیین شده‌اند و می‌بینم چطور پیش می‌رود و شاید اگر و وقتی تریگر شدند چند ورود را پست کنم.
+
+وبینار دیروز هم عالی بود، به‌هرحال.
+
+موفق باشی،
+
+===== supplydemand-p14.json | 9a53abc20d211c9bc1b4504606d663701530b1e5 | supplydemand_p14_340
+--- EN ---
+You have a set of decisions to make -
+
+Do I commit to even more longs at the next demand? If price gets back up to the SR above, what would that do to my balance? If the demand breaks, when do I call the whole thing off, and what would that do to my balance? If and when price hits the SR above, can I hold longs, watching the possible reaction to it, hoping price will ultimately hit the source and get me all out in profit?
+
+This is a big day for you in trading - I don't envy you, but I hope you work out what's best for your account, and end up with the best possible result under the circumstances
+--- FA (current) ---
+چند تصمیم پیش رو داری —
+
+آیا در تقاضای بعدی هم لانگ‌های بیشتری می‌گیرم؟ اگر قیمت به SR بالایی برگردد چه بر سر موجودی‌ام می‌آورد؟ اگر تقاضا بشکند، کی همه‌چیز را کنسل می‌کنم و چه بر سر موجودی‌ام می‌آورد؟ اگر و وقتی قیمت به SR بالایی برسد، می‌توانم لانگ‌ها را نگه دارم و واکنش احتمالی به آن را تماشا کنم، با این امید که قیمت در نهایت به source برسد و همه‌چیز را با سود برایم ببندد؟
+
+امروز روز بزرگی برای تو در معامله است — حسادت نمی‌کنم، ولی امیدوارم بهترین را برای حسابت تشخیص بدهی و در شرایط موجود به بهترین نتیجهٔ ممکن برسی
+
+flagged in file: 3
+===== supplydemand-p15.json | 99f708202d5cd3f4f81c2ebfcea9aef6fdbd6bd6 | supplydemand_p15_364
+--- EN ---
+rokuhaato wrote: If price form a flag before reaching S or D area, what does it mean and how to deal with it?
+
+I am sorry if I am in the wrong thread to ask.
+
+When you see something that looks like a flag before a level, it is most likely consumption of that level. So if you see a buflag at supply it could be that the buyers are consuming the supply orders to break through.
+
+If you think of a level of supply and a level of demand (or support and resistance), price either consumes one level and rejects off of the other. So price can be consuming supply then rejecting off of demand. So, the way to deal with it is to find your levels and watch the PA interaction between them within the flag keeping the bigger picture in mind.
+--- FA (current) ---
+rokuhaato نوشت: اگر قیمت قبل از رسیدن به ناحیهٔ S یا D یک پرچم بسازد، یعنی چه و چطور باید با آن کنار آمد؟
+
+اگر در جای اشتباهی سؤال می‌پرسم ببخشید.
+
+وقتی چیزی شبیه پرچم را قبل از یک سطح می‌بینی، به احتمال زیاد مصرف آن سطح است. پس اگر یک پرچم خرید در عرضه ببینی ممکن است خریداران در حال مصرف سفارش‌های عرضه برای عبور باشند.
+
+اگر به یک سطح عرضه و یک سطح demand (یا حمایت و مقاومت) فکر کنی، قیمت یا یک سطح را مصرف می‌کند و از دیگری برمی‌گردد. پس قیمت می‌تواند عرضه را مصرف کند و بعد از demand برگردد. پس راه برخورد با آن این است که سطوح خود را پیدا کنی و تعامل PA بین آن‌ها را درون پرچم تماشا کنی، در حالی که تصویر بزرگ‌تر را در ذهن نگه می‌داری.
+
+flagged in file: 1
+===== supplydemand-p16.json | b7d946d29b5b0bbe4e6e5254dc769e6a6290706c | supplydemand_p16_389
+--- EN ---
+Yes, look at the chart below. The three first yellow candles are black. So bearish right? Not really. There are some buyers. You can tell by looking at the wicks. Doc explained that very well recently. It is strong buyers coming long into the market but progressively, otherwise price would shoot up and they would make less profits. Then you need to wait for some clear proof that bulls are really here before jumping the gun. The first green candle is a strong signal, you agree? Then, you can get in, and add to your winner if you see another confirmation of bulls' presence (second and third candles).
+
+I hope it helped.
+
+EDIT: Just so you know, and other readers too, we are not infallible: my first target was slightly higher and was not reached. The trades you saw yesterday all ended up at Break Even + a few after New York close.
+--- FA (current) ---
+بله، به چارت پایین نگاه کن. سه کندل زرد اول مشکی هستند. پس نزولی است، درست؟ نه واقعاً. خریدارانی هست. از روی فیتیله‌ها می‌شود فهمید. Doc اخیراً این را خیلی خوب توضیح داد. خریداران قوی به‌تدریج وارد بازار می‌شوند، وگرنه قیمت بالا می‌پرید و آن‌ها سود کمتری می‌کردند. بعد باید منتظر مدرک روشنی باشی که گاوها واقعاً اینجایند، قبل از اینکه زود شلیک کنی. اولین کندل سبز یک سیگنال قوی است، موافقی؟ بعد می‌توانی وارد شوی و اگر تأیید دیگری از حضور گاوها دیدی (کندل‌های دوم و سوم) به برنده‌ات اضافه کنی.
+
+امیدوارم کمک کرد.
+
+ویرایش: فقط تا خودت و خواننده‌های دیگر بدانید، ما معصوم نیستیم: تارگت اولم کمی بالاتر بود و زده نشد. معامله‌هایی که دیروز دیدی همه بعد از بسته‌شدن نیویورک به Break حتی + چند پیپ تمام شدند.
+
+===== supplydemand-p16.json | 73521ae0c997abaf68d70a88f92e03f20714cea2 | supplydemand_p16_397
+--- EN ---
+hi If, could you draw where your qm was? ive just spotted eu m5 qm which i wanted to buy actually. im not sure if you say about the same pattern... in fact didnt notice any other. look here: www.acegazette.com/en/community/ace-foru...ork-qm.html?start=25
+--- FA (current) ---
+سلام If، می‌توانی جایی که QM‌ات بود را رسم کنی؟ من تازه یک QM در M5 روی eu پیدا کردم که در واقع می‌خواستم بخرم. مطمئن نیستم منظورت همان پترن است... در واقع پترن دیگری ندیدم. اینجا نگاه کن: www.acegazette.com/en/community/ace-foru...ork-qm.html?start=25
+
+flagged in file: 2
+===== supplydemand-p17.json | bdbb97ef789b083a426e4fe0ee6a34a1342ad09d | supplydemand_p17_402
+--- EN ---
+yup =] now im afraid hit your "thank you" button If ^^
+--- FA (current) ---
+آره =] حالا می‌ترسم دکمهٔ «ممنون you» تو را بزنم ^^
+
+===== supplydemand-p17.json | 5af71b698f414636993980b69dd693920d7140be | supplydemand_p17_403
+--- EN ---
+THat is unbelieveable trading IF. Never even seen that QM had given up on the shorts bigtime.... Lesson learned... I love this place!!
+--- FA (current) ---
+این معامله‌گری باورنکردنی است IF. حتی ندیده بودم آن QM روی شورت‌ها کاملاً تسلیم شده.... درس آموختم... این جا را عاشقم!!
+
+===== supplydemand-p17.json | 90cb919d6be0ad5d59298ae9f3d655f4aef3a808 | supplydemand_p17_407
+--- EN ---
+Nice one Emene
+
+Help me out here please and give me a thank you
+
+I'm stuck on the number of the beast
+
+I'll send you cupcakes
+--- FA (current) ---
+عالی بود Emene
+
+لطفاً اینجا به من کمک کن و یک ممنون you به من بده
+
+من روی عدد beast گیر کرده‌ام
+
+برای تو کاپ‌کیک می‌فرستم
+
+===== supplydemand-p17.json | a57227c516cb50279bf672e3ecba7eb20fd04760 | supplydemand_p17_408
+--- EN ---
+Ah. Someone thanked me ~^o^~
+
+Curse gone:)
+--- FA (current) ---
+آه. کسی به من ممنون you داد ~^o^~
+
+نفرین رفت:)
+
+===== supplydemand-p17.json | 31ca4f3bf5ed359f6335d60f34e385545fb00df8 | supplydemand_p17_411
+--- EN ---
+Ifmyante wrote: Was happy to take 17:1 on that May very well go lower, but that's a good RR run for me
+
+That's a really beautiful trade If! You're a pip machine
+--- FA (current) ---
+Ifmyante نوشت: از اینکه 17:1 گرفتم خوشحال بودم؛ ممکن است خیلی پایین‌تر برود، ولی برای من یک ران RR خوبی بود
+
+چه معاملهٔ زیبایی است If! تو یک ماشین پیپی
+
+===== supplydemand-p17.json | 1fcb76083a3dd3dfe4ce7d896f6251eb6cc46b2a | supplydemand_p17_413
+--- EN ---
+Ifmyante wrote: See EU H1 for QM level
+
+Puff...that's trading
+
+If ~^o^~ If ~^o^~ If ~^o^~
+--- FA (current) ---
+Ifmyante نوشت: برای دیدن سطح QM روی H1 در EU نگاه کن
+
+فوف... این همان معامله‌گری است
+
+If ~^o^~ If ~^o^~ If ~^o^~
+
+===== supplydemand-p17.json | 90ccfaa5e18cfed1ffd3b1c56c46894771a514fb | supplydemand_p17_418
+--- EN ---
+Hello Pippendale,
+
+This is where experience and screen time come into play. You see, we have this little very cordial debate going on between Ifmyante and me about engulfings. He talks about engulfings for zones, I use pure engulfing candles. My only "must" to be valid is that the candle following the engulf is in the same direction, ie. a bear candle after a bear engulfing. there is not much i can tell you, it just works. Too often to be a fluke.
+
+Try to train your eye and dont hesitate to ask questions. For me, they are the best supply and demand zones.
+
+PS: Went to play squash at lunch time, got taken at break even.
+--- FA (current) ---
+سلام Pippendale،
+
+اینجا تجربه و زمان روی صفحه وارد عمل می‌شود. ببین، یک بحث خیلی دوستانهٔ کوچکی بین Ifmyante و من دربارهٔ اینگالف‌ها در جریان است. او دربارهٔ اینگالف‌ها برای ناحیه‌ها صحبت می‌کند، من از کندل‌های خالص اینگالف استفاده می‌کنم. تنها «باید» من برای معتبر بودن این است که کندل بعد از اینگالف در همان جهت باشد، یعنی یک کندل نزولی بعد از یک اینگالف نزولی. چیز زیادی نمی‌توانم به تو بگویم، فقط جواب می‌دهد. آن‌قدر زیاد که شانس نباشد.
+
+سعی کن چشمت را تمرین بدهی و در پرسیدن سؤال تردید نکن. برای من، این‌ها بهترین ناحیه‌های عرضه و تقاضا هستند.
+
+پ.ن: ظهر رفتم اسکواش بازی کنم، در Break حتی برداشته شدم.
+
+===== supplydemand-p17.json | 705efa0a0f56543d605a70a3d378019d3b2df7fe | supplydemand_p17_423
+--- EN ---
+Hello again,
+
+I wanted to show you a precise and concrete example of what I meant.
+
+Look at this gold chart. Price dropped, retraced, and look where it turned down again, and why...
+
+This, my friend, is an engulfing. OK, this is not a large amazing candle, but it has engulfed, and the next one is down too. Good enough for me and at least a scalp. You can think, man, this could retrace a lot more. True, a lot more people would think so. But you need to know where and what to look for. And now, you know!
+
+Hope this helps.
+
+Have a great week end.
+
+Emene wrote: Hello Pippendale,
+
+This is where experience and screen time come into play. You see, we have this little very cordial debate going on between Ifmyante and me about engulfings. He talks about engulfings for zones, I use pure engulfing candles. My only "must" to be valid is that the candle following the engulf is in the same direction, ie. a bear candle after a bear engulfing. there is not much i can tell you, it just works. Too often to be a fluke.
+
+Try to train your eye and dont hesitate to ask questions. For me, they are the best supply and demand zones.
+
+PS: Went to play squash at lunch time, got taken at break even.
+--- FA (current) ---
+سلام دوباره،
+
+می‌خواستم یک مثال دقیق و مشخص از منظرم به تو نشان بدهم.
+
+به این چارت طلا نگاه کن. قیمت افت کرد، پول‌بک زد، و ببین کجا دوباره برگردد و چرا...
+
+این، دوست من، یک اینگالف است. باشه، این یک کندل بزرگ و شگفت‌انگیز نیست، ولی اینگالف کرده و کندل بعدی هم پایین است. برای من کافی است و دست‌کم یک اسکلپ. ممکن است فکر کنی، مرد، این می‌تواند خیلی بیشتر پول‌بک بزند. درست است، آدم‌های بیشتری این‌طور فکر می‌کنند. ولی باید بدانی کجا و چه چیزی را باید دنبال کنی. و حالا می‌دانی!
+
+امیدوارم کمک کرد.
+
+آخر هفتهٔ خوبی داشته باش.
+
+Emene نوشت: سلام Pippendale،
+
+اینجا تجربه و زمان روی صفحه وارد عمل می‌شود. ببین، یک بحث خیلی دوستانهٔ کوچکی بین Ifmyante و من دربارهٔ اینگالف‌ها در جریان است. او دربارهٔ اینگالف‌ها برای ناحیه‌ها صحبت می‌کند، من از کندل‌های خالص اینگالف استفاده می‌کنم. تنها «باید» من برای معتبر بودن این است که کندل بعد از اینگالف در همان جهت باشد، یعنی یک کندل نزولی بعد از یک اینگالف نزولی. چیز زیادی نمی‌توانم به تو بگویم، فقط جواب می‌دهد. آن‌قدر زیاد که شانس نباشد.
+
+سعی کن چشمت را تمرین بدهی و در پرسیدن سؤال تردید نکن. برای من، این‌ها بهترین ناحیه‌های عرضه و تقاضا هستند.
+
+پ.ن: ظهر رفتم اسکواش بازی کنم، در Break حتی برداشته شدم.
+
+flagged in file: 8

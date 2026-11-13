@@ -1,0 +1,528 @@
+### lespaul_p13_1
+EN: Andyfx wrote: Hi Aero! I'm trying to understand how you draw the PAZs, but still is not very clear sometimes.
+
+Isn't the PAZ the space between 2 FTR (or FL)? Or there are some other type of PAZ?
+
+@LP Can't wait to hear what you discovered =)
+
+Andy, a couple of months ago I studies PAZs extensively... However, I
+have not been able to incorporate them in my trading yet...
+
+but, from what I have learned I can tell that:
+
+1 Compression is a PAZ
+
+2 Stacked demand / supply area in itself is a PAZ
+
+3 space between FTRs is a PAZ
+
+4 space between 2 PAZ's is a PAZ
+
+LP
+FA: Andyfx نوشت: سلام Aero! دارم می‌فهمم PAZ‌ها را چطور می‌کشی، ولی بعضی وقت‌ها هنوز خیلی روشن نیست.
+
+آیا PAZ همان فاصلهٔ بین 2 FTR (یا FL) نیست؟ یا نوع دیگری از PAZ هم داریم؟
+
+@LP نمی‌توانم صبر کنم بشنوم چه چیزی کشف کردی =)
+
+Andy، چند ماه پیش PAZ‌ها را مفصل مطالعه کردم... ولی هنوز نتوانسته‌ام در معامله‌گری‌ام به کارشان ببندم...
+
+ولی از آنچه یاد گرفته‌ام می‌توانم بگویم که:
+
+1 فشرده‌سازی خودش یک PAZ است
+
+2 ناحیهٔ تقاضا/عرضهٔ انباشته هم به‌تنهایی PAZ شمرده می‌شود
+
+3 فاصلهٔ میان دو FTR هم PAZ محسوب می‌شود
+
+4 فاصلهٔ بین دو PAZ هم در همین مقوله می‌گنجد
+
+LP
+
+### lespaul_p13_2
+EN: Hi Les
+
+would you mind showing on chart what is NOT a PAZ.
+
+thanks
+
+Castus
+FA: سلام Les
+
+می‌شود روی نمودار نشان بدهی چه چیزی PAZ نیست؟
+
+ممنون
+
+Castus
+
+### lespaul_p13_3
+EN: Castus wrote: Hi Les
+
+would you mind showing on chart what is NOT a PAZ.
+
+thanks
+
+Castus
+
+According to my current understanding price is always within a PAZ...
+but I may be wrong. As I said, I don't use that in my trading, I would
+definitely need more education on it......
+
+LP
+FA: Castus نوشت: سلام Les
+
+می‌شود روی نمودار نشان بدهی چه چیزی PAZ نیست؟
+
+ممنون
+
+Castus
+
+بر اساس درک فعلی‌ام، قیمت همیشه داخل یک PAZ است... ولی ممکن است اشتباه کنم. همان‌طور که گفتم، در معامله‌گری‌ام از آن استفاده نمی‌کنم و قطعاً باید بیشتر رویش آموزش ببینم......
+
+LP
+
+### lespaul_p13_4
+EN: So my personal EURECA moment is something which has been repeated here
+ many times by IF and other kind teachers. I am 100% sure that all of
+you have heard this and many of you have already incorporated this basic
+ truth in your trading. I finaly realised this only after countless
+hours spent with Forex Tester. I asked myself a question:
+
+How is it, George, that you can rock in Forex TEster (see my fancy PL
+curve in one of above posts) but you rather suck in live trading?
+
+And the Almighty gave me the answer: It is because in Forex Tester you need to wait for the ideal setup only a couple of minutes but in real life you often have to wait a couple of days...
+ (I am sure that you are aware of the function in FT that you can FAST
+FORWARD the market, so for example one week in H4 TF lasts only a couple
+ of minutes).
+
+In real life I am very impatient (I have been working on this issue of
+mine for a couple of years now and must admit that I have made a
+substantial progress, but still, I am far from ideal state), so I hardly
+ ever wait for a proper setup...
+
+SO, the answer to my personal struggle is: ALWAYS WAIT FOR THE PRICE ACTION TO SHOW YOU THE WAY (universal RTM rule),
+
+and ALWAYS WAIT FOR YOUR SWEET FTR!!!!! (my personal extremely englightening rule)
+
+I hope I haven't disappointed you very much - I know it's nothing new, but for me it is a huge leap forward....
+
+Les_Paul
+FA: خب، لحظهٔ یورکای شخصی من همان چیزی است که IF و دیگر استادان مهربان بارها اینجا تکرارش کرده‌اند. 100% مطمئنم همه‌تان این را شنیده‌اید و بسیاری‌تان این حقیقت ساده را از قبل در معامله‌گری‌تان به کار گرفته‌اید. من خودم فقط بعد از ساعت‌های بی‌شمار با فارکس تستر به آن رسیدم. از خودم یک سؤال پرسیدم:
+
+George، چطور می‌شود که در فارکس تستر می‌درخشی (منحنی شیک PL من را در یکی از پست‌های بالا ببین) ولی در معاملهٔ واقعی بیشتر می‌لنگی؟
+
+و خداوند جواب را به من داد: چون در فارکس تستر فقط باید چند دقیقه منتظر ستاپ ایده‌آل بمانی، ولی در زندگی واقعی اغلب باید چند روز صبر کنی... (مطمئنم با آن قابلیت FT آشنا هستی که می‌توانی بازار را جلو ببری؛ مثلاً یک هفته در تایم‌فریم H4 فقط چند دقیقه طول می‌کشد).
+
+در زندگی واقعی خیلی بی‌حوصله‌ام (چند سال است روی این مشکل خودم کار می‌کنم و باید بپذیرم پیشرفت چشمگیری کرده‌ام، ولی هنوز از حالت ایده‌آل دورم)، پس تقریباً هیچ‌وقت منتظر ستاپ درست نمی‌مانم...
+
+پس جواب کشمکش شخصی من این است: همیشه صبر کن تا پرایس اکشن راه را نشانت بدهد (قاعدهٔ جهان‌شمول RTM)،
+
+و همیشه منتظر FTR شیرین خودت بمان!!!!! (قاعدهٔ فوق‌العاده روشن‌کنندهٔ شخصی من)
+
+امیدوارم زیاد ناامیدت نکرده باشم — می‌دانم چیز تازه‌ای نیست، ولی برای من جهش بزرگی به جلوست....
+
+Les_Paul
+
+### lespaul_p13_5
+EN: Hi LP,
+
+I am very grateful for you sharing your EUREKA moment, and I can relate
+to the impatient part, I believe this will be my killer in live trading.
+ I am sure you know I too have the forex tester, and yes it is a
+fantastic tool, but teaches one nothing about patience
+
+LP, just a quick question regarding your chart, I understand the FTR
+concept, but would you have not gone short at the DP if price had
+reached it after the engulf of the low as per your drawing? This is
+purely curiosty, so any answer would be most appreciated.
+
+DT
+FA: سلام LP،
+
+خیلی ممنون که لحظهٔ یورکای‌ات را با ما به اشتراک گذاشتی. با بخش بی‌حوصلگی‌اش کاملاً هم‌حسام؛ فکر می‌کنم این همان چیزی باشد که در معاملهٔ واقعی نابودم می‌کند. مطمئنم می‌دانی من هم فارکس تستر دارم، و بله ابزار فوق‌العاده‌ای است، ولی هیچ چیزی دربارهٔ صبر یاد نمی‌دهد
+
+LP، فقط یک سؤال سریع دربارهٔ نمودارت: مفهوم FTR را می‌فهمم، ولی اگر قیمت بعد از اینگالف کف، طبق رسم تو به DP می‌رسید، آنجا پوزیشن فروش نمی‌گرفتی؟ این فقط کنجکاوی است، پس هر جوابی بدهی خیلی ممنون می‌شوم.
+
+DT
+
+### lespaul_p13_6
+EN: Daft trader 1 wrote: Hi LP,
+
+I am very grateful for you sharing your EUREKA moment, and I can relate
+to the impatient part, I believe this will be my killer in live trading.
+ I am sure you know I too have the forex tester, and yes it is a
+fantastic tool, but teaches one nothing about impatience
+
+LP, just a quick question regarding your chart, I understand the FTR
+concept, but would you have not gone short at the DP if price had
+reached it after the engulf of the low as per your drawing? This is
+purely curiosty, so any answer would be most appreciated.
+
+DT
+
+Hi DT, you're question is absolutely legitimate... but I have decided to
+ stick to my sweet FTR rule. The reason is in the picture.
+FA: Daft trader 1 نوشت: سلام LP،
+
+خیلی ممنون که لحظهٔ یورکای‌ات را با ما به اشتراک گذاشتی. با بخش بی‌حوصلگی‌اش کاملاً هم‌حسام؛ فکر می‌کنم این همان چیزی باشد که در معاملهٔ واقعی نابودم می‌کند. مطمئنم می‌دانی من هم فارکس تستر دارم، و بله ابزار فوق‌العاده‌ای است، ولی هیچ چیزی دربارهٔ صبر یاد نمی‌دهد
+
+LP، فقط یک سؤال سریع دربارهٔ نمودارت: مفهوم FTR را می‌فهمم، ولی اگر قیمت بعد از اینگالف کف، طبق رسم تو به DP می‌رسید، آنجا پوزیشن فروش نمی‌گرفتی؟ این فقط کنجکاوی است، پس هر جوابی بدهی خیلی ممنون می‌شوم.
+
+DT
+
+سلام DT، سؤالت کاملاً بجاست... ولی تصمیم گرفته‌ام به قاعدهٔ FTR شیرین خودم پایبند بمانم. دلیلش در تصویر است.
+
+### lespaul_p13_7
+EN: Hi LP
+
+Thanks for the quick reply, when I was doing my engulf homework, I saw
+that happen quite a few times too, and even though there was no money on
+ the line, frustration kicked in! I really like your thinking buddy with
+ the 'sweet FTR', has given me a lot to think about.
+
+Thanks
+
+DT
+FA: سلام LP
+
+ممنون از جواب سریعت. وقتی مشغول تمرین اینگالف بودم، دیدم این چند بار هم پیش می‌آید و با اینکه هیچ پولی در میان نبود، کلافگی سراغم آمد! رفیق، طرز فکرت با آن «FTR شیرین» را واقعاً دوست دارم؛ چیزهای زیادی برای فکر کردن به من داد.
+
+ممنون
+
+DT
+
+### lespaul_p13_8
+EN: Daft trader 1 wrote: Hi LP
+
+Thanks for the quick reply, when I was doing my engulf homework, I saw
+that happen quite a few times too, and even though there was no money on
+ the line, frustration kicked in! I really like your thinking buddy with
+ the 'sweet FTR', has given me a lot to think about.
+
+Thanks
+
+DT
+
+thanks for your Q have noticed this in my findings as well. Thankyou LP. slowly building my trade plan
+FA: Daft trader 1 نوشت: سلام LP
+
+ممنون از جواب سریعت. وقتی مشغول تمرین اینگالف بودم، دیدم این چند بار هم پیش می‌آید و با اینکه هیچ پولی در میان نبود، کلافگی سراغم آمد! رفیق، طرز فکرت با آن «FTR شیرین» را واقعاً دوست دارم؛ چیزهای زیادی برای فکر کردن به من داد.
+
+ممنون
+
+DT
+
+ممنون از سؤالت، من هم در یافته‌هایم این را دیده‌ام. ممنون LP. آرام‌آرام پلن معاملاتی‌ام را می‌سازم.
+
+### lespaul_p13_9
+EN: LP, so you wait for an engulf and a pullback to previous FTR? I do
+this when is possible (Engulf, pullback, and and entry at the origin of
+the engulf), but many times the retrecement isn't enough deep into
+previous FTR and doesn't reach the SD pocket at the top of previous FTR
+(sometimes price bounce at SR flip/FL or at a minor SD pocket in the
+middle of the previous leg) not giving a clear entry point with tight
+stop loss above previous FTR and nice RR. Do you look for a specific
+point for the entry?
+
+(hope that what I said makes sense to you)
+FA: LP، پس تو منتظر یک اینگالف و پولبک به FTR قبلی می‌مانی؟ من هر وقت ممکن باشد این کار را می‌کنم (اینگالف، پولبک و ورود در مبدأ اینگالف)، ولی خیلی وقت‌ها اصلاح به‌قدر کافی در FTR قبلی عمیق نمی‌شود و به جیب SD بالای FTR قبلی نمی‌رسد (گاهی قیمت به SR فلیپ‌شده/FL یا به یک جیب SD کوچک در میانهٔ موج قبلی واکنش می‌دهد) و همین ورود روشنی با استاپ‌لاس تنگ بالای FTR قبلی و RR خوب نمی‌دهد. تو دنبال نقطهٔ مشخصی برای ورود می‌گردی؟
+
+(امیدوارم حرفم برایت منطقی باشد)
+
+### lespaul_p13_10
+EN: LP,
+
+I have posted a chart which will go in the QM section, but I saw one of
+the FTRs you mentioned today, well I think I did, see what you think and
+ let me know.
+
+P.S ignore the QM, just the yellow FTR, below is a HTF demand zone, cheers
+
+DT
+FA: LP،
+
+نموداری گذاشته‌ام که در بخش QM می‌رود، ولی امروز یکی از FTR‌هایی را که گفتی دیدم، خب فکر می‌کنم دیدم؛ تو نگاه کن و بگو نظرت چیست.
+
+پ.ن: QM را نادیده بگیر، فقط FTR زرد؛ پایینش یک ناحیهٔ تقاضای HTF است، مرسی
+
+DT
+
+### lespaul_p13_11
+EN: Daft trader 1 wrote: LP,
+
+I have posted a chart which will go in the QM section, but I saw one of
+the FTRs you mentioned today, well I think I did, see what you think and
+ let me know.
+
+P.S ignore the QM, just the yellow FTR, below is a HTF demand zone, cheers
+
+DT
+
+Dear DT, in my opinion you are absolutely right! But there's even a lower sweet FTR (the one right below the yellow FTR)
+FA: Daft trader 1 نوشت: LP،
+
+نموداری گذاشته‌ام که در بخش QM می‌رود، ولی امروز یکی از FTR‌هایی را که گفتی دیدم، خب فکر می‌کنم دیدم؛ تو نگاه کن و بگو نظرت چیست.
+
+پ.ن: QM را نادیده بگیر، فقط FTR زرد؛ پایینش یک ناحیهٔ تقاضای HTF است، مرسی
+
+DT
+
+DT عزیز، به نظر من کاملاً حق داری! ولی یک FTR شیرین حتی پایین‌تر هم هست (همان یکی که دقیقاً زیر FTR زرد است)
+
+### lespaul_p13_12
+EN: Hey DT and Les,
+
+Marks are on the chart! Good job to both of you and thanks for the help..
+
+H
+FA: سلام DT و Les،
+
+علامت‌ها روی نمودار هست! هر دوی شما خوب کار کردید و ممنون از کمکتان..
+
+H
+
+### lespaul_p13_13
+EN: to Hotochin: EXACTLY, mate
+
+today, I missed a great short setup on GBPUSD
+FA: خطاب به Hotochin: دقیقاً، رفیق
+
+امروز یک ستاپ فروش عالی روی GBPUSD را از دست دادم
+
+### lespaul_p13_14
+EN: LP, Textbook stuff eh! :)
+FA: LP، چیزهای کتابی، نه! :)
+
+### lespaul_p13_15
+EN: another instance of my beloved setup:
+
+LP
+FA: نمونهٔ دیگری از ستاپ محبوبم:
+
+LP
+
+### lespaul_p13_16
+EN: Hi LP,
+
+Thanks for the example, and please do continue to post more as I am sure a lot of us including me benefit greatly from it.
+
+I have a few questions if you would be so kind as to answer :)
+
+I have used my own charts, I will begin with the Daily TF. The yellow
+rectangle is your FTR (2) just for clarity. I first noticed the SR level
+ which proved quite beneficial as price reacted quite a few times as
+support (shown with the red arrows), I have marked where I believe there
+ to be a daily TF FTR in blue (the lowest zone) bearing all this in mind
+ I will now move to the 4hr TF.
+
+My question is: was your FTR based off of the Daily FTR? We can see how
+close it came but did infact fail to return. I can see where price
+engulfed the yellow FTR above, and then came back and went long off of
+the DP, then we had you r sweet FTR, is this correct? Another thing I am
+ curious about is how you have marked your green FTR, I am not saying it
+ is wrong buddy, I am just curious as to why you marked it that way, I
+have marked it on my chart as I would have done.
+
+I do hope you understand my post as I do sometimes go on and not realise others may not follow what I am thinking.
+
+DT
+FA: سلام LP،
+
+ممنون از نمونه، و لطفاً باز هم بگذار، چون مطمئنم خیلی‌ها از جمله خودم از آن کلی سود می‌بریم.
+
+چند سؤال دارم، اگر لطف کنی و جواب بدهی :)
+
+از نمودارهای خودم استفاده کرده‌ام و با تایم‌فریم روزانه شروع می‌کنم. مستطیل زرد، فقط برای روشنی، همان FTR تو است (2). اول سطح SR را دیدم که خیلی به کار آمد، چون قیمت چند بار به‌عنوان حمایت به آن واکنش داد (با فلش‌های قرمز نشان داده شده)؛ جایی را هم که فکر می‌کنم FTR تایم‌فریم روزانه است با آبی علامت زده‌ام (پایین‌ترین ناحیه). با در نظر گرفتن همهٔ این‌ها، حالا می‌روم سراغ تایم‌فریم 4 ساعته.
+
+سؤالم این است: FTR تو بر اساس FTR روزانه بود؟ می‌بینیم چقدر نزدیک آمد ولی در واقع نتوانست برگردد. می‌بینم کجا قیمت FTR زرد بالا را اینگالف کرد، بعد برگشت و از DP خرید کرد، و بعد هم FTR شیرین تو آمد؛ درست است؟ چیز دیگری که کنجکاوم این است که FTR سبزت را چطور علامت زده‌ای. نمی‌گویم اشتباه است رفیق، فقط کنجکاوم چرا این‌طور علامتش زده‌ای؛ من روی نمودار خودم همان‌طور علامتش زده‌ام که خودم می‌کردم.
+
+امیدوارم پستم را بفهمی، چون گاهی زیاد حرف می‌زنم و متوجه نمی‌شوم که شاید دیگران دنبال فکرهایم نیایند.
+
+DT
+
+### lespaul_p13_17
+EN: Dear DT1! Thanks for your interest in what I do. First, a couple of things I want to say.
+
+By no means I consider myself expert. I am just an eager student (who
+happens to be here for a longer time then many others) and I like
+sharing my progress with others in my journal. It is not the Classroom, I
+ might be wrong in anything. So please take it with a lot of scepticism
+
+Now, to our last example on CHFJPY. I will show you my thought process
+based on H4 chart. Because the important price action cannot be displaed
+ in one screeshot, I have divided it in three segments. They are shown
+in the first picture:
+
+Now the individual H4 segments, it's everything about engulfing and FTR.
+ In the last screen I have also tried to explain why my FTR's are so
+wide.
+
+Please, feel free to criticise, I will be happy for any additional
+question as they force me think and look at it from a different point of
+ view.
+
+Les_Paul
+FA: DT1 عزیز! ممنون که به کارم علاقه داری. اول چند چیز می‌خواهم بگویم.
+
+من به‌هیچ‌وجه خودم را متخصص نمی‌دانم. فقط شاگردی مشتاقم (که تصادفاً بیشتر از خیلی‌های دیگر اینجا بوده) و دوست دارم پیشرفتم را در ژورنالم با دیگران به اشتراک بگذارم. اینجا کلاس درس نیست و ممکن است در هر چیزی اشتباه باشم. پس لطفاً با شک و تردید زیاد نگاهش کن.
+
+حالا برویم سراغ آخرین نمونه‌مان روی CHFJPY. روند فکرم را بر اساس نمودار H4 نشانت می‌دهم. چون پرایس اکشن مهم در یک اسکرین‌شات جا نمی‌شود، آن را به سه بخش تقسیم کرده‌ام. این سه بخش در تصویر اول نشان داده شده‌اند:
+
+حالا بخش‌های جداگانهٔ H4؛ همه‌چیز دربارهٔ اینگالف و FTR است. در اسکرین آخر هم تلاش کرده‌ام توضیح بدهم چرا FTR‌های من این‌قدر پهن‌اند.
+
+لطفاً راحت انتقاد کن؛ از هر سؤال اضافه‌ای هم خوشحال می‌شوم، چون مجبورم می‌کند فکر کنم و از زاویهٔ دیگری به آن نگاه کنم.
+
+Les_Paul
+
+### lespaul_p13_18
+EN: Les_Paul wrote: another instance of my beloved setup:
+
+LP
+
+It turned to the pip on the top of the green box, and there is a perfect reason why
+FA: Les_Paul نوشت: نمونهٔ دیگری از ستاپ محبوبم:
+
+LP
+
+تا خودِ پیپ روی سقف باکس سبز چرخید، و دلیلی کامل برایش هست
+
+### lespaul_p13_19
+EN: Pedini wrote:
+Les_Paul wrote: another instance of my beloved setup:
+
+LP
+
+It turned to the pip on the top of the green box, and there is a perfect reason why
+
+hmmmm, gonna dig for answer...;-) Thank you
+FA: Pedini نوشت:
+Les_Paul نوشت: نمونهٔ دیگری از ستاپ محبوبم:
+
+LP
+
+تا خودِ پیپ روی سقف باکس سبز چرخید، و دلیلی کامل برایش هست
+
+هوممم، باید دنبال جوابش بگردم... ;-) ممنون
+
+### lespaul_p13_20
+EN: Pedini wrote: It turned to the pip on the top of the green box, and there is a perfect reason why
+
+Hi ya Peds..
+
+Sorry you lost me on this comment ....are you saying price has come back to the base of the source of the move from the compression up also an FTR?
+
+Cheers,
+
+Adrian
+FA: Pedini نوشت: تا خودِ پیپ روی سقف باکس سبز چرخید، و دلیلی کامل برایش هست
+
+سلام Peds..
+
+ببخش، با این کامنت گمم کردی.... منظورت این است که قیمت به پایهٔ منبع حرکت صعودی از فشرده‌سازی برگشته که آن هم یک FTR است؟
+
+مرسی،
+
+Adrian
+
+### lespaul_p13_21
+EN: Ramjet wrote:
+Pedini wrote: It turned to the pip on the top of the green box, and there is a perfect reason why
+
+Hi ya Peds..
+
+Sorry you lost me on this comment ....are you saying price has come back to the base of the source of the move from the compression up also an FTR?
+
+Cheers,
+
+Adrian
+
+Hi this is Peds' answer...
+FA: Ramjet نوشت:
+Pedini نوشت: تا خودِ پیپ روی سقف باکس سبز چرخید، و دلیلی کامل برایش هست
+
+سلام Peds..
+
+ببخش، با این کامنت گمم کردی.... منظورت این است که قیمت به پایهٔ منبع حرکت صعودی از فشرده‌سازی برگشته که آن هم یک FTR است؟
+
+مرسی،
+
+Adrian
+
+سلام، این جواب Peds است...
+
+### lespaul_p13_22
+EN: Les_Paul wrote:
+Ramjet wrote:
+Pedini wrote: It turned to the pip on the top of the green box, and there is a perfect reason why
+
+Hi ya Peds..
+
+Sorry you lost me on this comment ....are you saying price has come back to the base of the source of the move from the compression up also an FTR?
+
+Cheers,
+
+Adrian
+
+Hi this is Peds' answer...
+
+ahhh cool, got it!..thanks LP
+FA: Les_Paul نوشت:
+Ramjet نوشت:
+Pedini نوشت: تا خودِ پیپ روی سقف باکس سبز چرخید، و دلیلی کامل برایش هست
+
+سلام Peds..
+
+ببخش، با این کامنت گمم کردی.... منظورت این است که قیمت به پایهٔ منبع حرکت صعودی از فشرده‌سازی برگشته که آن هم یک FTR است؟
+
+مرسی،
+
+Adrian
+
+سلام، این جواب Peds است...
+
+آهان، عالی، گرفتم!.. ممنون LP
+
+### lespaul_p13_23
+EN: Thank you LP for such a detailed response, it makes total sense why you draw your FTR zones like this.
+
+DT
+FA: ممنون LP از این جواب مفصل؛ کاملاً منطقی است که چرا ناحیه‌های FTR را این‌طور می‌کشی.
+
+DT
+
+### lespaul_p13_24
+EN: What a journey you're on LP!!!!
+
+I can see with every chart you draw and every explanation you make, that you are becoming a master price reader!
+
+Keep up the amazing work, and don't be frustrated in those times when
+your trading doesn't reflect your understanding; you're well on your way
+ to unconscious competence, the mark of the master
+FA: LP، چه مسیری داری می‌روی!!!!
+
+با هر نموداری که می‌کشی و هر توضیحی که می‌دهی می‌بینم که داری استاد خواندن قیمت می‌شوی!
+
+این کار شگفت‌انگیز را ادامه بده و در آن زمان‌هایی که معامله‌گری‌ات درکَت را نشان نمی‌دهد ناامید نشو؛ تو کاملاً در مسیر شایستگی ناخودآگاه هستی، همان نشانهٔ استاد
+
+### lespaul_p13_25
+EN: Ifmyante wrote: What a journey you're on LP!!!!
+
+I can see with every chart you draw and every explanation you make, that you are becoming a master price reader!
+
+Keep up the amazing work, and don't be frustrated in those times when
+your trading doesn't reflect your understanding; you're well on your way
+ to unconscious competence, the mark of the master
+
+Thank you If, this is a huge encouragement for me!
+
+Les_Paul
+FA: Ifmyante نوشت: LP، چه مسیری داری می‌روی!!!!
+
+با هر نموداری که می‌کشی و هر توضیحی که می‌دهی می‌بینم که داری استاد خواندن قیمت می‌شوی!
+
+این کار شگفت‌انگیز را ادامه بده و در آن زمان‌هایی که معامله‌گری‌ات درکَت را نشان نمی‌دهد ناامید نشو؛ تو کاملاً در مسیر شایستگی ناخودآگاه هستی، همان نشانهٔ استاد
+
+ممنون If، این برای من تشویق بزرگی است!
+
+Les_Paul

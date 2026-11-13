@@ -1,0 +1,450 @@
+### dbrrbd_p15_351 hash=b563538d93e937d3e0fcbce45769d96f4ace34e1
+EN>>
+Hello, outapips. I know you didn't ask for my opinion but I thought I'd share the way I would do my analysis and planning with a fellow aussie using strictly demand and supply concepts. Again, I must stress that is not the only way to conduct the analysis. I am sure many competent traders in AG would do it differently.
+
+outapips wrote: Analysis of EURJPY
+
+The daily chart shows EURJPY has been bullish and has reacted to a nice level at 104.60 and is currently retracing.
+
+Have you thought about why price reacted to where it did? I believe it reacted at that price because of untested supply from the weekly chart. History shows us that D/S levels are bound to be tested some point in time.
+
+But, why exactly at 104.60? The weekly supply zone is approximately 125 pips wide. If we examine the 4H chart, we'll find a nice RBD.
+
+And where might the current move to the downside react to? I would strongly consider the demand zone where weekly, daily and 4H demand zones intersect. (pink box: weekly demand; yellow box: daily demand; green box: 4H demand)
+
+Now this is just a comment on your 5min chart analysis. The demand level that you refer to was still fresh (I say 'was' because at the time of writing this level has been overtaken). Demand level 1 was, in my opinion, even stronger.
+
+I hope this helps! Cheers
+FA>>
+سلام outapips. می‌دانم که نظر من را نخواستی، اما گفتم شاید بد نباشد روشی را که خودم تحلیل و برنامه‌ریزی‌ام را با آن انجام می‌دهم با یک هموطن استرالیایی در میان بگذارم، آن هم دقیقاً بر پایه مفاهیم عرضه و تقاضا. باز هم تأکید می‌کنم که این تنها راه انجام تحلیل نیست. مطمئنم بسیاری از معامله‌گران توانمند در AG طور دیگری انجامش می‌دهند.
+
+outapips نوشت: تحلیل EURJPY
+
+چارت روزانه نشان می‌دهد EURJPY صعودی بوده و به سطح خوبی در 104.60 واکنش نشان داده و الان در حال اصلاح است.
+
+فکر کرده‌ای چرا قیمت به همان جایی که واکنش داد، واکنش نشان داد؟ به نظرم به این دلیل به آن قیمت واکنش داد که عرضه تست‌نشده‌ای از چارت هفتگی وجود داشت. تاریخ به ما نشان می‌دهد که سطوح عرضه/تقاضا دیر یا زود تست می‌شوند.
+
+اما چرا دقیقاً 104.60؟ ناحیه عرضه هفتگی حدود 125 پیپ عرض دارد. اگر چارت 4H را بررسی کنیم، یک RBD خوب پیدا می‌کنیم.
+
+و حرکت نزولی فعلی ممکن است به کجا واکنش نشان دهد؟ من جدی به ناحیه تقاضایی فکر می‌کنم که نواحی تقاضای هفتگی، روزانه و 4H در آن تلاقی می‌کنند. (کادر صورتی: تقاضای هفتگی؛ کادر زرد: تقاضای روزانه؛ کادر سبز: تقاضای 4H)
+
+این دیگر فقط یک کامنت روی تحلیل چارت 5 دقیقه‌ای توست. سطح تقاضایی که به آن اشاره کردی هنوز تازه بود (می‌گویم «بود» چون در زمان نوشتن این متن، این سطح گرفته شده است). سطح تقاضای 1 به نظر من حتی قوی‌تر بود.
+
+امیدوارم کمک کند! موفق باشی
+
+### dbrrbd_p15_352 hash=0f773b66bc443b5835d319af13997af6ed335d46
+EN>>
+ttfreitas wrote: And where might the current move to the downside react to? I would strongly consider the demand zone where weekly, daily and 4H demand zones intersect. (pink box: weekly demand; yellow box: daily demand; green box: 4H demand)
+
+Naturally, there are other possible levels that price could react to before it reaches the one I pointed out. Identify them and follow price action closely when price reaches those levels. Please consider that HTF levels are always more meaningful than lower time frame ones.
+FA>>
+ttfreitas نوشت: و حرکت نزولی فعلی ممکن است به کجا واکنش نشان دهد؟ من جدی به ناحیه تقاضایی فکر می‌کنم که نواحی تقاضای هفتگی، روزانه و 4H در آن تلاقی می‌کنند. (کادر صورتی: تقاضای هفتگی؛ کادر زرد: تقاضای روزانه؛ کادر سبز: تقاضای 4H)
+
+طبیعتاً سطوح ممکن دیگری هم هست که قیمت پیش از رسیدن به سطحی که اشاره کردم به آن‌ها واکنش نشان دهد. آن‌ها را پیدا کنید و وقتی قیمت به آن سطوح رسید، پرایس اکشن را از نزدیک دنبال کنید. لطفاً در نظر بگیرید که سطوح HTF همیشه معنادارتر از سطوح تایم‌فریم پایین‌تر هستند.
+
+### dbrrbd_p15_353 hash=b2e253b3a13990d878b2c1466391c9b56e70c568
+EN>>
+Hi ttfreitas,
+
+I am here to learn so welcome anyone and everyone that is able to join in.
+
+I will go over what you have posted and appreciate you clear explanation on the charts.
+FA>>
+سلام ttfreitas،
+
+من آمده‌ام اینجا یاد بگیرم، پس هر کسی که بتواند همراه شود خوش‌آمد است.
+
+پستت را مرور می‌کنم و از توضیح شفافت روی چارت‌ها ممنونم.
+
+### dbrrbd_p15_354 hash=85ec5d8d996bdc5585db4458bf0ea3d7b9b15d71
+EN>>
+Hi Mel,
+
+Thanks for your comments. I value your feedback on my homework.
+
+Your observation is correct. When price forms a cluster above demand it is indication that the level will be breached. When price forms a cluster below supply it is indication that the level will be breached. When this happens it is usually the base in a rally-base-rally or drop-base-drop that breaches the level.
+
+Is it probably the best indication as to whether a level will fail. I have not been through all the threads, but I have not seen this pointed out yet (I am sure it is, I just have not seen it).
+
+In addition, if demand is breach and you get a base directly under the demand, then the breach of the demand may be a false break and price may reverse and run back up trapping the sellers. If supply is breached and you get a base directly above the supply, then the breach of the supply may be a false break and price may reverse and run back down trapping the buyers. I have not seen that mentioned here yet either, though I am sure it's mentioned somewhere.
+
+It does not always happen. When it does, there is usually a reason on the left (like in the case).Best when the break is into clear space.
+FA>>
+سلام Mel،
+
+ممنون از کامنت‌هایت. برای بازخوردت روی تمرینم ارزش قائلم.
+
+مشاهده‌ات درست است. وقتی قیمت بالای تقاضا خوشه می‌سازد، نشانه این است که آن سطح شکسته خواهد شد. وقتی قیمت زیر عرضه خوشه می‌سازد، نشانه این است که آن سطح شکسته خواهد شد. وقتی این اتفاق می‌افتد، معمولاً همان بیس در یک رالی-بیس-رالی یا دراپ-بیس-دراپ است که سطح را می‌شکند.
+
+احتمالاً بهترین نشانه برای اینکه یک سطح شکست می‌خورد یا نه همین است. همه تاپیک‌ها را نخوانده‌ام، اما ندیده‌ام کسی به این نکته اشاره کرده باشد (مطمئنم شده، فقط من ندیده‌ام).
+
+علاوه بر این، اگر تقاضا شکسته شود و درست زیر تقاضا یک بیس تشکیل شود، شکست تقاضا ممکن است شکست جعلی باشد و قیمت برگردد و دوباره بالا برود و فروشنده‌ها را گیر بیندازد. اگر عرضه شکسته شود و درست بالای عرضه یک بیس تشکیل شود، شکست عرضه ممکن است شکست جعلی باشد و قیمت برگردد و پایین برود و خریدارها را گیر بیندازد. این را هم اینجا ندیده‌ام، هرچند مطمئنم جایی گفته شده.
+
+همیشه این‌طور نمی‌شود. وقتی می‌شود، معمولاً دلیلی در سمت چپ چارت وجود دارد (مثل همین مورد). بهترین حالت وقتی است که شکست به فضای خالی باشد.
+
+### dbrrbd_p15_355 hash=0d5c8564887143f65094ce21d2195be032ad3735
+EN>>
+Hi Outapips and Madwt,
+
+Ok, so here I was refering to the tests in itself so that you could see what happens when an area gets broken. Also I wanted you to see the difference between a real fresh supply/demand and the reaction/test that happens at a supply or demand area.
+
+Outapips, I marked a few things on your chart. You are right to say that a demand or supply area will remain one as long as it doesen't get broken.
+
+Do a little research on Fresh demand and supply zones and you'll be amazed to see what you'll discover. At least, it was for me a true revelation when I discovered it...
+
+Feel free to ask if you still have questions guys. Best, Mel
+FA>>
+سلام Outapips و Madwt،
+
+خب، من اینجا داشتم به خود تست‌ها اشاره می‌کردم تا ببینید وقتی یک ناحیه شکسته می‌شود چه اتفاقی می‌افتد. همچنین می‌خواستم تفاوت بین عرضه/تقاضای تازه واقعی و واکنش/تستی را که در یک ناحیه عرضه یا تقاضا رخ می‌دهد ببینید.
+
+Outapips، چند چیز روی چارتت علامت زدم. درست می‌گویی که یک ناحیه تقاضا یا عرضه تا وقتی شکسته نشود، همان ناحیه می‌ماند.
+
+کمی درباره نواحی تقاضا و عرضه تازه تحقیق کن و شگفت‌زده می‌شوی از چیزی که کشف می‌کنی. حداقل برای من کشف آن یک مکاشفه واقعی بود...
+
+بچه‌ها اگر هنوز سؤالی دارید راحت بپرسید. بهترین‌ها، Mel
+
+### dbrrbd_p15_356 hash=dda377210017a8fe3cf33270b045a972bac3e815
+EN>>
+Hi Mel,
+
+Thanks for your time.
+
+I have two questions in the picture below, in orange.
+
+Regarding "Fresh" supply/demand, I am assuming you are referring to the Fresh supply/demand providing the best opportunity for a strong reaction? If you meant something else, can you be more elaborate?
+FA>>
+سلام Mel،
+
+ممنون از وقتی که گذاشتی.
+
+دو سؤال در تصویر زیر دارم، با رنگ نارنجی.
+
+درباره عرضه/تقاضای «تازه»، حدس می‌زنم منظورت این است که عرضه/تقاضای تازه بهترین فرصت را برای یک واکنش قوی فراهم می‌کند؟ اگر منظور دیگری داری، می‌توانی بیشتر توضیح بدهی؟
+
+### dbrrbd_p15_357 hash=38e92e15383eb6aa9423db29660aaf8aa6442b4d
+EN>>
+@mel wrote: Do a little research on Fresh demand and supply zones and you'll be amazed to see what you'll discover. At least, it was for me a true revelation when I discovered it...
+
+Thanks for detailed notes on the chart.
+
+I'm heading back to the charts now to see if I can get a handle of the "fresh" zones.
+FA>>
+@mel نوشت: کمی درباره نواحی تقاضا و عرضه تازه تحقیق کن و شگفت‌زده می‌شوی از چیزی که کشف می‌کنی. حداقل برای من کشف آن یک مکاشفه واقعی بود...
+
+ممنون از یادداشت‌های دقیق روی چارت.
+
+الان دارم برمی‌گردم سر چارت‌ها تا ببینم می‌توانم نواحی «تازه» را دستم بیاورم.
+
+### dbrrbd_p15_358 hash=30a4d5a1d0abc5f29332660940aab669398dd4f5
+EN>>
+Madwt,
+
+When I say fresh, I mean fresh untested supply or demand.
+
+Let me ask you this... Go look at the charts, (let's take & 30 min or 1h chart to make it easy) and find mutliple fresh supply and demand zones, no test of supply or demand but true fresh zones... Can you do it?
+FA>>
+Madwt،
+
+وقتی می‌گویم تازه، منظورم عرضه یا تقاضایی است که هنوز تست نشده.
+
+بگذار این‌طور بپرسم... برو چارت‌ها را نگاه کن (برای سادگی یک چارت 30 دقیقه‌ای یا 1 ساعته بردار) و چند ناحیه عرضه و تقاضای تازه پیدا کن؛ بدون هیچ تستی، نواحی واقعاً دست‌نخورده... می‌توانی؟
+
+### dbrrbd_p15_359 hash=1fb145d624329efae5b23bf3acc4693e7034df38
+EN>>
+Thanks for your instruction. Please keep it coming.
+
+1hr and 15min.
+FA>>
+ممنون از راهنمایی‌ات. لطفاً ادامه بده.
+
+تایم‌فریم 1 ساعته و 15 دقیقه‌ای.
+
+### dbrrbd_p15_360 hash=176b8a68bbad9666207ef35f14be2485ca79c072
+EN>>
+Madwt,
+
+The first one that you have marked as "too cheap" indeed looks like a fresh zone but all the other ones are not fresh... Keep on searching, you almost there...
+FA>>
+Madwt،
+
+اولی که آن را «خیلی ارزان» علامت زده‌ای واقعاً شبیه یک ناحیه تازه است، اما بقیه تازه نیستند... به جست‌وجو ادامه بده، تقریباً رسیده‌ای...
+
+### dbrrbd_p15_361 hash=2184d9ce65149cf0fe88ec4d80a7d4d47cd3d79a
+EN>>
+@If - oops, Thank you for RBD #3 pointing that out If! I was thinking that leaving the LTF supply zone there on the daily would be better since price hit that extreme then came down from there. I guess i should just focus on the zones on the individual time frame then "X-ray" down to the LTF to find the other zones? And have individual time frame zones on their own charts.
+
+@snebuca - I guess that homework will be on the next on my list once i'm feeling confident with the two that I'm currently doing
+FA>>
+@If — آخ، ممنون If که به آن RBD #3 اشاره کردی! فکر می‌کردم نگه داشتن ناحیهٔ عرضهٔ LTF روی چارت روزانه بهتر باشد، چون قیمت به آن حد نهایی خورد و بعد از همان‌جا پایین آمد. حدس می‌زنم بهتر است فقط روی نواحی هر تایم‌فریم تمرکز کنم و بعد با نگاهی «رادیوگرافی» به LTF بروم تا نواحی دیگر را پیدا کنم؟ و نواحی هر تایم‌فریم را روی چارت خودش داشته باشم.
+
+@snebuca — حدس می‌زنم آن تکلیف بعدی در فهرست من باشد، وقتی با این دو موردی که الان مشغولشان هستم احساس اطمینان کنم
+
+### dbrrbd_p15_362 hash=2031c6fc96174d29cf66967c1a9f254c6e9a6c4c
+EN>>
+Going to LTF inside
+
+we will say a 4h zone can lower your risk or with the same risk be able to reach your 3:1 target sooner.
+
+The charts below show a 4h zone. Then using a 15m to help narrow down the turning point. Technically you could go to a 1m chart. This can work well but as your zone shrinks the likelihood of price hitting it again also shrinks. I have had pending orders miss by 1/10th of a pip.
+
+So sometimes what I will do is get an idea how far price can move for my profit margin. we will say 100 pips. So for a 3:1 R:R I can only risk 33pips. So I have to get the zone smaller. What if you can get this down to a 15 pip risk with the same 100 pip reward. 6:1 R:R.
+
+So getting your zones tightened by going to the smaller time frame can be helpful.
+
+I used to trade with 4 charts of each currency pair. Daily, 4h, 1h, 15m, each marked with zones. Some people may be able to do this for me it was an exercise in futility. Could not keep track of it all. Miss high time frame info while looking at the lower. So to fix this, I now trade with two charts for each. #1 Monthly, weekly, Daily #2 4h, 1h, 15m
+
+Then zones are laid out.
+
+Well I sure got wordy. Forgive me
+
+Understanding these zones and how to shrink them to increase your profit margin to me is an important aspect of trading profitably. I get kind of excited about it.
+
+Hope this is some help. I guess it shows a little of how I see the charts
+FA>>
+رفتن به داخل LTF
+
+فرض کنیم یک ناحیه 4 ساعته می‌تواند ریسکت را کم کند یا با همان ریسک، زودتر به تارگت 3:1 برسی.
+
+چارت‌های زیر یک ناحیه 4 ساعته را نشان می‌دهند. بعد با یک 15 دقیقه‌ای نقطه چرخش را باریک‌تر می‌کنیم. از نظر تکنیکال می‌توانی به چارت 1 دقیقه‌ای هم بروی. این می‌تواند خوب کار کند، اما هرچه ناحیه‌ات کوچک‌تر شود، احتمال اینکه قیمت دوباره به آن برسد هم کمتر می‌شود. من سفارش‌های معلقی داشته‌ام که یک‌دهم پیپ فاصله داشتند و پر نشدند.
+
+پس گاهی کاری که می‌کنم این است که بفهمم قیمت تا کجا می‌تواند برای حاشیه سودم حرکت کند. فرض کنیم 100 پیپ. پس برای R:R برابر 3:1 فقط می‌توانم 33 پیپ ریسک کنم. بنابراین باید ناحیه را کوچک‌تر کنم. حالا اگر بتوانی همین را به ریسک 15 پیپ با همان پاداش 100 پیپ برسانی، R:R می‌شود 6:1.
+
+پس تنگ‌تر کردن نواحی با رفتن به تایم‌فریم کوچک‌تر می‌تواند کمک‌کننده باشد.
+
+قبلاً با 4 چارت از هر جفت‌ارز معامله می‌کردم: روزانه، 4 ساعته، 1 ساعته، 15 دقیقه، هر کدام با نواحی مشخص. بعضی‌ها ممکن است بتوانند این کار را بکنند، اما برای من تمرینی بیهوده بود. نمی‌توانستم همه را پیگیری کنم. وقتی چارت پایین‌تر را نگاه می‌کنی، اطلاعات تایم‌فریم بالا را از دست می‌دهی. پس برای حل این مشکل، الان با دو چارت برای هر جفت‌ارز کار می‌کنم: #1 ماهانه، هفتگی، روزانه #2 4 ساعته، 1 ساعته، 15 دقیقه
+
+بعد نواحی چیده می‌شوند.
+
+خب، حسابی پرحرف شدم. من را ببخش
+
+فهمیدن این نواحی و اینکه چطور آن‌ها را کوچک کنی تا حاشیه سودت بیشتر شود، به نظر من بخش مهمی از معامله‌گری سودده است. واقعاً ذوق می‌کنم.
+
+امیدوارم کمی کمک کند. حدس می‌زنم کمی نشان می‌دهد چطور چارت‌ها را می‌بینم
+
+### dbrrbd_p15_363 hash=881ac3c49dd0fe5f5822af91a960bf47cdd67ca6
+EN>>
+Hi Mel, hopefully I get your point. Chart below.
+
+In saying this, it is little relative to the scope you are looking at, otherwise the only real fresh supply and demand levels would be the historic high and low. Awaiting your comment.... Thanks for your instruction.
+FA>>
+سلام Mel، امیدوارم منظورت را گرفته باشم. چارت زیر.
+
+با این حال، این نسبت به محدوده‌ای که داری نگاه می‌کنی خیلی کوچک است، وگرنه تنها سطوح واقعاً تازه عرضه و تقاضا همان سقف و کف تاریخی می‌شد. منتظر کامنتت هستم.... ممنون از راهنمایی‌ات.
+
+### dbrrbd_p15_364 hash=1da30ba0c48b77f37f98c9d4ad03d16f476051ab
+EN>>
+Example. See post 6.
+FA>>
+مثال. پست 6 را ببینید.
+
+### dbrrbd_p15_365 hash=152192699162f4ae95dd376f50d4a1975bf909a7
+EN>>
+Hi madwt,
+
+This is my take on how new demand/supply levels are created.
+
+Fresh zone are created from an old zone of the opposing type. By that I mean, what was old demand can become fresh supply when price creates a flip zone.
+
+On the chart posted lets assume for the purpose of this example that the left hand side of the chart is a price flip zone which means it was previous supply.
+
+When price broke thru at (1) it cleared out all the supply so only demand was left at that level. We don't know how strong this is (although how price went thru the level and how far it travelled gives us a clue). There was an initial retest of this level a few bars later which showed there was still plenty of demand.
+
+Price came back again at (2) and this is now considered old demand but it was still good enough to hold price again.
+
+At point (3) there was a little reaction up consuming the remaining buy orders and so demand was all used up and price fell thru creating a new supply zone at that level. Price moved well below the level quite strongly so we can determine this is a good level to short next time back.
+
+Point (4) is the first time back to the new supply level so a good place to short. That level is now considered to be old supply.
+
+We don't know if a level will hold or how many times a level will hold so we look to the chart for clues.
+
+Hope this explanation is clear enough to follow.
+FA>>
+سلام madwt،
+
+این برداشت من از نحوه ساخته شدن سطوح جدید تقاضا/عرضه است.
+
+ناحیه تازه از یک ناحیه قدیمی از نوع مخالف ساخته می‌شود. منظورم این است که تقاضای قدیمی می‌تواند وقتی قیمت یک ناحیه فلیپ می‌سازد به عرضه تازه تبدیل شود.
+
+روی چارت پست‌شده، برای این مثال فرض کنیم سمت چپ چارت یک ناحیه فلیپ قیمت است، یعنی قبلاً عرضه بوده.
+
+وقتی قیمت در (1) شکست، همه عرضه را پاک کرد و فقط تقاضا در آن سطح ماند. نمی‌دانیم این تقاضا چقدر قوی است (هرچند نحوه عبور قیمت از سطح و مسافتی که طی کرد سرنخ می‌دهد). چند کندل بعد یک تست اولیه از این سطح انجام شد که نشان داد هنوز تقاضای زیادی وجود دارد.
+
+قیمت دوباره در (2) برگشت و این حالا تقاضای قدیمی حساب می‌شود، اما هنوز به‌قدری خوب بود که دوباره قیمت را نگه دارد.
+
+در نقطه (3) یک واکنش کوچک صعودی رخ داد که سفارش‌های خرید باقی‌مانده را مصرف کرد و تقاضا کاملاً تمام شد و قیمت پایین رفت و در آن سطح یک ناحیه عرضه جدید ساخت. قیمت خیلی قوی زیر سطح رفت، پس می‌توانیم نتیجه بگیریم که این سطح برای شورت بعدی سطح خوبی است.
+
+نقطه (4) اولین بازگشت به سطح عرضه جدید است، پس جای خوبی برای شورت. آن سطح حالا عرضه قدیمی حساب می‌شود.
+
+نمی‌دانیم یک سطح نگه می‌دارد یا نه و چند بار نگه می‌دارد، پس دنبال سرنخ در چارت می‌گردیم.
+
+امیدوارم این توضیح به‌قدری روشن باشد که بتوانی دنبالش کنی.
+
+### dbrrbd_p15_366 hash=e7b6254866dc1032fd6c75a7ca95238ad848089f
+EN>>
+Outapips This is what I wanted you to see!
+
+Madwt, I saw that you marked s/d on what actually was a retest of the initial s/d zone. You marked highs or lows. Keep in mind that we want to see a base and then a break of the base, take the RBR, DBD as examples.
+
+I remember the time when I first learned about supply and demand... Everyone was talking about fresh zones, so I went to the charts in order to find some zones and everytime I found what I thaught was fresh supply or demand, I saw that it was only a retest of a previous zone... Got lots of headaches from it lol But then I found "broken and engulfed supply and demand, what is also called a swap. This is when I realized that fresh supply can only exists if the demand was cleared and vice versa for demand. Look at it this way... There is a supply zone and then there is a decision to break the supply, so supply is gone and there is only demand left, so now we have fresh demand as long as it doesen't get tested...
+
+I hope that this makes sence.. Mel
+FA>>
+Outapips، این همان چیزی است که می‌خواستم ببینی!
+
+Madwt، دیدم که s/d را روی چیزی علامت زدی که در واقع تست دوباره ناحیه s/d اولیه بود. سقف‌ها یا کف‌ها را علامت زده بودی. یادت باشد که ما می‌خواهیم یک بیس ببینیم و بعد شکست آن بیس؛ RBR و DBD را به‌عنوان مثال در نظر بگیر.
+
+یادم می‌آید وقتی اول درباره عرضه و تقاضا یاد می‌گرفتم... همه از نواحی تازه حرف می‌زدند، پس رفتم سر چارت‌ها تا چند ناحیه پیدا کنم و هر بار که فکر می‌کردم عرضه یا تقاضای تازه پیدا کرده‌ام، می‌دیدم فقط تست دوباره یک ناحیه قبلی است... کلی سردرد گرفتم lol اما بعد «عرضه و تقاضای شکسته و اینگالف‌شده» را پیدا کردم که به آن سوآپ هم می‌گویند. آن‌جا بود که فهمیدم عرضه تازه فقط وقتی می‌تواند وجود داشته باشد که تقاضا پاک شده باشد و برعکسش برای تقاضا. این‌طور نگاه کن... یک ناحیه عرضه هست و بعد تصمیمی برای شکستن عرضه گرفته می‌شود، پس عرضه رفته و فقط تقاضا مانده، پس حالا تا وقتی تست نشود تقاضای تازه داریم...
+
+امیدوارم منطقی باشد.. Mel
+
+### dbrrbd_p15_367 hash=a077300c8f584b69c86600c3af85e559fc6f0a59
+EN>>
+Outapips. Mel.
+
+Regarding flip zones, I use these. They are good. I did not realise that is what you was referring to as "fresh" supply and demand. It makes complete sense.
+
+Thank you.
+FA>>
+Outapips. Mel.
+
+درباره نواحی فلیپ، من از این‌ها استفاده می‌کنم. خوب هستند. متوجه نشده بودم منظورت از عرضه و تقاضای «تازه» همین است. کاملاً منطقی است.
+
+ممنون.
+
+### dbrrbd_p15_368 hash=aa5568ff8f6677824ea829c0e4cf20bf7280c548
+EN>>
+@Rufus That's a very interesting and profitable way to trade the market. It always helps to have more opinions, Having the Charts there explains alot too. After all a picture is worth a thousand words we are out at navigating in the seas
+
+I can see that the advantages are 1) Lower Risk 2) Higher profits
+
+and the disadvantages is that 1) prices may not reach till that tight zone or missed it by a few pips. 2) You need to be more patient
+
+Will you cancel off the trade if lets say prices got to the H4 zone but did not reach the Tight LTF zone and went south since it will be considered as the price has taken out the orders there or if it misses your zone by 1/10th of a pip? I think I would.
+FA>>
+@Rufus این روش بسیار جالب و سودآوری برای معامله در بازار است. همیشه داشتن نظرهای بیشتر کمک می‌کند؛ داشتن چارت هم آنجا خیلی چیزها را توضیح می‌دهد. آخر یک تصویر ارزش هزار کلمه را دارد، وقتی در دریاها در حال مسیریابی هستیم
+
+می‌بینم که مزایا عبارت‌اند از 1) ریسک کمتر 2) سود بیشتر
+
+و معایبش این است که 1) قیمت ممکن است تا آن ناحیهٔ تنگ نرسد یا با چند پیپ آن را از دست بدهد. 2) باید صبورتر باشی
+
+اگر فرض کنیم قیمت به ناحیهٔ H4 برسد اما به آن ناحیهٔ تنگ LTF نرسد و به سمت پایین برود، معامله را لغو می‌کنی؟ چون این حالت به عنوان اینکه قیمت سفارش‌های آنجا را برداشته در نظر گرفته می‌شود؛ یا اگر 1/10 پیپ از ناحیه‌ات فاصله بگیرد؟ من فکر می‌کنم لغو می‌کنم.
+
+### dbrrbd_p15_369 hash=1f6d522bbea5f3cb7bc593fe86b87ff3bbaa6fbd
+EN>>
+Lustruce wrote: @Rufus That's a very interesting and profitable way to trade the market. It always helps to have more opinions, Having the Charts there explains alot too. After all a picture is worth a thousand words
+
+In this case, Charts! It
+
+is like our Map & Compasses when we are out at navigating in the seas
+
+I can see that the advantages are 1) Lower Risk 2) Higher profits
+
+and the disadvantages is that 1) prices may not reach till that tight zone or missed it by a few pips. 2) You need to be more patient
+
+Will you cancel off the trade if lets say prices got to the H4 zone but did not reach the Tight LTF zone and went south since it will be considered as the price has taken out the orders there or if it misses your zone by 1/10th of a pip? I think I would.
+
+You are exactly right. Sometimes a retest will be successful but with those I personally like to see them happen and get confirmation before entering. Keep in mind this was my pending order way of thinking.
+FA>>
+Lustruce نوشت: @Rufus این روش بسیار جالب و سودآوری برای معامله در بازار است. همیشه داشتن نظرهای بیشتر کمک می‌کند؛ داشتن چارت هم آنجا خیلی چیزها را توضیح می‌دهد. آخر یک تصویر ارزش هزار کلمه را دارد
+
+در این حالت، چارت‌ها! این
+
+مثل نقشه و قطب‌نمای ماست وقتی در دریاها در حال مسیریابی هستیم
+
+می‌بینم که مزایا عبارت‌اند از 1) ریسک کمتر 2) سود بیشتر
+
+و معایبش این است که 1) قیمت ممکن است تا آن ناحیهٔ تنگ نرسد یا با چند پیپ آن را از دست بدهد. 2) باید صبورتر باشی
+
+اگر فرض کنیم قیمت به ناحیهٔ H4 برسد اما به آن ناحیهٔ تنگ LTF نرسد و به سمت پایین برود، معامله را لغو می‌کنی؟ چون این حالت به عنوان اینکه قیمت سفارش‌های آنجا را برداشته در نظر گرفته می‌شود؛ یا اگر 1/10 پیپ از ناحیه‌ات فاصله بگیرد؟ من فکر می‌کنم لغو می‌کنم.
+
+کاملاً درست می‌گویی. گاهی یک ریتست موفق می‌شود، اما در مورد آن‌ها من شخصاً دوست دارم ببینم اتفاق می‌افتند و پیش از ورود تأیید بگیرم. یادت باشد که این طرز فکر سفارش معلق من بود.
+
+### dbrrbd_p15_370 hash=71dfcc0ecb15983b50917d56a6b0bb96ff6881d3
+EN>>
+Hi Faldot
+
+I have no idea why this thread has slipped my attention so far
+
+I'll look deeper into it first chance I get
+
+Best
+
+If
+FA>>
+سلام Faldot
+
+هیچ ایده‌ای ندارم چرا این تاپیک تا حالا از چشمم افتاده
+
+اولین فرصتی که پیدا کنم عمیق‌تر نگاهش می‌کنم
+
+بهترین‌ها
+
+If
+
+### dbrrbd_p15_371 hash=9a08b734e4940a088ca96bb8a24d7dd07564ba9f
+EN>>
+This is all good work Faldot
+
+Re your last chart though, please do a DBR/RBD study on it in D1
+FA>>
+این کار همه‌اش خوب است Faldot
+
+اما درباره چارت آخری‌ات، لطفاً روی آن در D1 یک مطالعه DBR/RBD انجام بده
+
+### dbrrbd_p15_372 hash=4a1c8096a2aa27b3789b06dc40f86799c0fe2450
+EN>>
+Ifmyante wrote: This is all good work Faldot
+
+Re your last chart though, please do a DBR/RBD study on it in D1
+
+Hi If..
+
+thanks alot for stop by and review my homework.. i will work more harder...:)
+
+regards
+FA>>
+Ifmyante نوشت: این کار همه‌اش خوب است Faldot
+
+اما درباره چارت آخری‌ات، لطفاً روی آن در D1 یک مطالعه DBR/RBD انجام بده
+
+سلام If..
+
+خیلی ممنون که سر زدی و تمرینم را بررسی کردی.. بیشتر تلاش می‌کنم... :)
+
+با احترام
+
+### dbrrbd_p15_373 hash=58ae97256cd376953a0769a901305f76e29553b9
+EN>>
+Ifmyante wrote: This is all good work Faldot
+
+Re your last chart though, please do a DBR/RBD study on it in D1
+
+Hi If,,
+
+my observe on D1... please advice..
+FA>>
+Ifmyante نوشت: این کار همه‌اش خوب است Faldot
+
+اما درباره چارت آخری‌ات، لطفاً روی آن در D1 یک مطالعه DBR/RBD انجام بده
+
+سلام If،،
+
+مشاهده‌ام در D1... لطفاً راهنمایی کن..
+
+### dbrrbd_p15_374 hash=2389d2280e1737e31157a834ff7fb5c071b914dd
+EN>>
+My first attempt on RBD and DBR. my.jetscreenshot.com/demo/20121111-piae-175kb
+FA>>
+اولین تلاش من روی RBD و DBR. my.jetscreenshot.com/demo/20121111-piae-175kb
+
+### dbrrbd_p15_375 hash=604573cf71bc4a3dd360bc0ab55192279b5b7c8a
+EN>>
+Hi Mamba, good job. You might want to add the reactions. The first DBR you identified caused the reaction in demand,(lower right).
+
+Don't forget DBDs and RBRs.
+FA>>
+سلام Mamba، کار خوبی است. شاید بخواهی واکنش‌ها را هم اضافه کنی. اولین DBR که شناسایی کردی همان واکنش در تقاضا را ایجاد کرد، (پایین سمت راست).
+
+DBDها و RBRها را فراموش نکن.
+

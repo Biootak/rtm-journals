@@ -1,0 +1,8 @@
+{
+  "luska_p9_201": {"ok": true},
+  "luska_p9_202": {"issue": "Literal textbook idiom", "why": "Textbook describes an exemplary setup, not supply and demand belonging to a textbook.", "fix": "یک نمونهٔ دیگر از عرضه و تقاضای کاملاً مطابق اصول در AudUsd\n\nخروج من 0.6929"},
+  "luska_p9_203": {"ok": true},
+  "luska_p9_204": {"ok": true},
+  "luska_p9_205": {"issue": "Untranslated idiom and unsupported trend direction", "why": "Monday Blues is a mood idiom, not a named trading strategy. The hedge buy counters the sell trade; the source does not explicitly say it counters the trend. Preserve triggered as activation, not filling.", "fix": "معاملهٔ هج خرید در حال‌وهوای بی‌حوصلگی دوشنبه روی Eur/Usd....خرید در جهت مخالف معاملهٔ فروش و بعداً اضافه‌کردن فروش‌های بیشتر....\n\nببخشید بچه‌ها، من معمولاً با Galaxy S5 خودم معامله می‌کنم. برای همین به‌روزرسانی تحلیل‌هایم سخت است چون همیشه در حرکت هستم. تا جایی که بتوانم سعی می‌کنم معامله‌هایم را بگذارم. بعضی از معامله‌هایی که قبلاً گذاشتم فعال شده‌اند. بعضی نه."},
+  "luska_p9_206": {"issue": "Timeframe and approach direction", "why": "Daily and Monthly identify chart timeframes; compression approaches monthly demand rather than simply occurring every day.", "fix": "فشردگی در تایم‌فریم روزانه به‌سمت تقاضای تایم‌فریم ماهانه در Eur/Usd"}
+}

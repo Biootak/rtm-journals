@@ -1,0 +1,192 @@
+=== if_p113_1 hash=fbe19ccd009f02843ef08b4d01cad84f55e36858 author=Ifmyante
+EN: Okay, another test from the trading room:
+
+What do you think are the words deleted from the text?
+FA: باشد، یک آزمون دیگر از اتاق معاملاتی:
+
+به نظرتان چه کلماتی از متن حذف شده‌اند؟
+=== if_p113_2 hash=e6330807713b2031c56ec044352faf995baf0cc8 author=zee
+EN: I guess what you mean is that the whole engulfing M1 candle should be
+marked as a kink and not the "lows" after the break. Stops below the
+lows can be taken ( and they were ).
+
+Edit: and then the text could be like "... a bear trap for retailers under the lows"
+FA: حدس می‌زنم منظورت این است که کل کندل اینگالف‌کنندهٔ M1 باید به‌عنوان پیچش علامت‌گذاری شود، نه «کف‌های» بعد از شکست. استاپ‌های زیر کف‌ها را می‌توان برداشت (و برداشتند).
+
+ویرایش: و بعد متن می‌تواند چنین باشد: «... یک تلهٔ خرسی برای خرده‌معامله‌گرها زیر کف‌ها»
+=== if_p113_3 hash=43f5d057a77a23cd501ac1597669c57c5af0d5ec author=Ifmyante
+EN: Yup, and it's already hit a very easy and predictable 4R
+
+Now, I'm not asking you to predict the future here, but to put yourself
+in the mind of the retailer, and also into that of the IT, who's already
+ in the mind of the retailer.
+
+What's the significance of this move and how can the IT profit from it?
+FA: بله، و همین حالا یک 4R خیلی راحت و قابل پیش‌بینی را زده است.
+
+حالا، من اینجا از شما نمی‌خواهم آینده را پیش‌بینی کنید، بلکه می‌خواهم خودتان را جای خرده‌معامله‌گر بگذارید، و همچنین جای IT، که خودش از پیش در ذهن خرده‌معامله‌گر است.
+
+این حرکت چه معنایی دارد و IT چطور می‌تواند از آن سود ببرد؟
+=== if_p113_4 hash=0af7531c1036260ba331d05f36d8dbddfbb09863 author=Enkim
+EN: The word that is missing is FO, isnt it? ITs made nice kink, made a
+bounce from it, but true kink is lower and they fake their move out
+there. Just my opinion :) enkim
+
+(edited : importance is IMHO in the general thinking about RS. Retails
+see nice rs bounce, put SL uder it, and after ITs move price below the
+line , they think it is broken - and think the price will then drop.
+Same as we think it is engulf if we dont dig for true kink into LTF )
+FA: کلمهٔ گم‌شده FO است، نه؟ IT‌ها یک پیچش قشنگ ساختند، از آن برگشت گرفتند، ولی پیچش واقعی پایین‌تر است و آنجا حرکتشان را فیک‌اوت می‌کنند. فقط نظر من است :) enkim
+
+(ویرایش: به گمانم اهمیتش در طرز فکر کلی دربارهٔ RS است. خرده‌معامله‌گرها یک برگشت قشنگ از RS می‌بینند، زیرش SL می‌گذارند، و وقتی IT‌ها قیمت را زیر خط می‌برند، فکر می‌کنند شکسته شده — و بعد فکر می‌کنند قیمت می‌ریزد. همان‌طور که ما فکر می‌کنیم اینگالف است اگر پیچش واقعی را در LTF نکاویم)
+=== if_p113_5 hash=d4777e517cdd95caa3e97d532f7a0fa680ed9b1c author=bestgmx
+EN: as consider to solve the puzzle it could be same trap as you mention earlier how ITs play with retailer !?
+FA: برای حل این معما، شاید همان تله‌ای باشد که قبلاً اشاره کردی، همان‌طور که IT‌ها با خرده‌معامله‌گر بازی می‌کنند !؟
+=== if_p113_6 hash=19b0c54044f8663fb667e5c0d2a479333b44e4ee author=bobyv87
+EN: Enkim wrote: The word that is
+missing is FO, isnt it? ITs made nice kink, made a bounce from it, but
+true kink is lower and they fake their move out there. Just my opinion
+:) enkim
+
+(edited : importance is IMHO in the general thinking about RS. Retails
+see nice rs bounce, put SL uder it, and after ITs move price below the
+line , they think it is broken - and think the price will then drop.
+Same as we think it is engulf if we dont dig for true kink into LTF )
+
+No,
+ the kink wasn't there and the answer is not the kink of the SR, but
+instead i think is the kink of IQM. However, i think this was a very
+middle zone, isn't it, IF?
+
+I verified tick charts on this and tthe MPL of the SR kink was already
+taken out even in T1 chart. Instead of this, i think this was the IQM
+which i'm talking about. Question, in case like that, should you try to
+look for fresh orders inside IQM KINK, or you just TT the mouth of it
+with SL beneath it?
+FA: Enkim نوشت: کلمهٔ گم‌شده FO است، نه؟ IT‌ها یک پیچش قشنگ ساختند، از آن برگشت گرفتند، ولی پیچش واقعی پایین‌تر است و آنجا حرکتشان را فیک‌اوت می‌کنند. فقط نظر من است :) enkim
+
+(ویرایش: به گمانم اهمیتش در طرز فکر کلی دربارهٔ RS است. خرده‌معامله‌گرها یک برگشت قشنگ از RS می‌بینند، زیرش SL می‌گذارند، و وقتی IT‌ها قیمت را زیر خط می‌برند، فکر می‌کنند شکسته شده — و بعد فکر می‌کنند قیمت می‌ریزد. همان‌طور که ما فکر می‌کنیم اینگالف است اگر پیچش واقعی را در LTF نکاویم)
+
+نه، پیچش آنجا نبود و جواب، پیچش SR نیست؛ به نظرم پیچش IQM است. با این حال، فکر می‌کنم این یک ناحیه خیلی وسطی بود، نه IF؟
+
+نمودارهای تیک را روی این بررسی کردم و MPL پیچش SR حتی در نمودار T1 هم قبلاً برداشته شده بود. در عوض، به نظرم این همان IQM بود که ازش حرف می‌زنم. سؤال: در چنین حالتی باید دنبال سفارش‌های تازه داخل پیچش IQM بگردی، یا فقط دهانه‌اش را با SL زیرش TT کنی؟
+=== if_p113_7 hash=d90967a03ec5f95a3b83514b180b00cf7aef752d author=Enkim
+EN: Hi bobyv87
+ , i didnt look at charts, i was answering according to IFs posts only
+:) Your thoughs are thoughs of RTM member. Ordinary retailer dont have a
+ clue about iQM and other stuff. They just see nice RS level, in here
+represeted by that nice high, and they usually wait for break and trade
+the pullback, put SL below last low and thats it .. some of them may
+trade break of this RS, some bounce. IMO part of this RS trader group
+will wait for price to go back to this newly created swap level and
+trade there too (and they pu SL below first pullback). So why not to
+take theirs stops and do small trade north before going south? Just my
+opinion :) Best wishes enkim!
+FA: سلام bobyv87، من به نمودارها نگاه نکردم، فقط بر اساس پست‌های IF جواب می‌دادم :) فکرهای تو فکرهای یک عضو RTM است. خرده‌معامله‌گر معمولی هیچ سرنخی از iQM و چیزهای دیگر ندارد. آن‌ها فقط یک سطح RS قشنگ می‌بینند، که اینجا با آن سقف قشنگ نشان داده شده، و معمولاً منتظر شکست می‌مانند و پولبک را معامله می‌کنند، SL را زیر آخرین کف می‌گذارند و تمام.. بعضی‌شان شاید شکست این RS را معامله کنند، بعضی برگشتش را. به نظر من بخشی از این گروه معامله‌گر RS منتظر می‌مانند قیمت به همین سطح سوآپ تازه‌ساخته برگردد و آنجا هم وارد شوند (و SL را زیر اولین پولبک می‌گذارند). پس چرا استاپ‌هایشان را برنداریم و پیش از رفتن به جنوب، یک معاملهٔ کوچک به شمال نزنیم؟ فقط نظر من :) بهترین آرزوها، enkim!
+=== if_p113_8 hash=cec78fc5354f73c31ed4d73469d792acb03b4dff author=PinkPanter
+EN: BUY in red zone.. maybe wait for PA or TT with SL below red zone?
+
+- upper red line have kink on 5 min
+
+- TG for trade is 0.8200
+FA: خرید در ناحیه قرمز.. شاید صبر برای PA یا TT با SL زیر ناحیه قرمز؟
+
+- خط قرمز بالایی در 5 دقیقه پیچش دارد
+
+- TG این معامله 0.8200 است
+=== if_p113_9 hash=c3689ddf9a36e59d158812bc1510fa16b9d7fadb author=Mukhcin
+EN: i would better wait for PA.
+FA: بهتر است منتظر PA بمانم.
+=== if_p113_10 hash=bb314aa6de742d9aad0e2fc06a1832fdedc6db88 author=Ifmyante
+EN: This is also good for catching the candlestick traders
+FA: این برای گرفتن تریدرهای کندلی هم خوب است
+=== if_p113_11 hash=e5b9610379684de497b3ca23609619af338719cf author=PinkPanter
+EN: they will sell right into my BUY?
+
+see my picture above
+FA: می‌خواهند دقیقاً روی خرید من بفروشند؟
+
+تصویر بالایم را ببین
+=== if_p113_12 hash=79d22745627cde2019c0b2f4bd807e6c40fd079d author=Ifmyante
+EN: Yup.
+
+Now, it's not written in stone what they'll do here, because there are a few forces at play
+FA: بله.
+
+حالا، اینکه اینجا دقیقاً چه خواهند کرد قطعی نیست، چون چند نیرو در کار است.
+=== if_p113_13 hash=6f48f85d985fb46fa7e2e39ded3d228afb67d1ff author=staurum
+EN: hi IF, i have a question
+FA: سلام IF، یک سؤال دارم
+=== if_p113_14 hash=ea7217e98959b3e65cea64f23b2eeac91a4b8936 author=Ifmyante
+EN: After posting, I wondered would people get the wrong idea, and imagine
+ it was between C and D, so I'm glad you asked! It's C and E
+
+You may very well be right about FE, because XF is the larger kink. However,C is in play until it no longer is
+FA: بعد از اینکه پست کردم، فکر کردم نکند مردم برداشت اشتباه کنند و خیال کنند بین C و D است، پس خوشحالم که پرسیدی! C و E است.
+
+دربارهٔ FE ممکن است کاملاً حق با تو باشد، چون XF پیچش بزرگ‌تر است. با این حال، C تا وقتی دیگر در بازی نباشد، در بازی است.
+=== if_p113_15 hash=ac9cd643ac187f95f52faa6f0c7cf14c74161832 author=HCDE
+EN: Hi guys,
+
+Do we agree that C is a little bit "lower scale"?
+
+I mean on that scale i don't really see what it is, however when zooming down it becomes quite clear.
+FA: سلام بچه‌ها،
+
+موافقید که C کمی «مقیاس پایین‌تر» است؟
+
+یعنی در آن مقیاس واقعاً نمی‌بینم چیست، ولی وقتی زوم می‌کنی پایین، کاملاً روشن می‌شود.
+=== if_p113_17 hash=0778ac361a137458cf426591f054cd899c3a3842 author=Ifmyante
+EN: In fact, a symmetry lover might even see the breaking of C as a potentially big deal
+
+(Just a quick observation. Not a trade call!)
+FA: در واقع، یک عاشق تقارن حتی ممکن است شکستن C را موضوعی بالقوه بزرگ ببیند.
+
+(فقط یک مشاهدهٔ سریع. نه یک توصیهٔ معاملاتی!)
+=== if_p113_18 hash=a488e4a163d19d3ff568631d2040d0d5361eba41 author=Kavya
+EN: Yup, then it might move to origin of South? Breaking of E(FL) will
+still have hurdle for price and to advance to North price have to fall
+back to E's SR after testing of upper FL or CAPS?
+
+Am I right?
+FA: بله، بعد ممکن است به مبدأ جنوب حرکت کند؟ شکستن E(FL) هم هنوز سد راه قیمت است و برای پیشروی به شمال، قیمت باید بعد از تست FL بالایی یا CAPS، به SR مربوط به E برگردد؟
+
+درست می‌گویم؟
+=== if_p113_19 hash=bc79860cd4f6c35f1a0a7884e1702c41585411f7 author=Ifmyante
+EN: That went completely over my head
+FA: این کاملاً از کله‌ام بالاتر رفت
+=== if_p113_20 hash=639cb87e48b69ce03bda14847755d89b441b1ca9 author=Kavya
+EN: I have problem - - 1) I think too much & 2) I act before knowing
+full thing. same happened here. but later I understood while having
+close look to chart. Thanks
+FA: مشکل من این است — 1) زیادی فکر می‌کنم و 2) پیش از دانستن کل ماجرا دست به کار می‌شوم. اینجا هم همین شد. ولی بعد که دقیق به نمودار نگاه کردم فهمیدم. ممنون
+=== if_p113_21 hash=5d57564cc77e9668e64fb69d4705ca81d53ae57e author=Ifmyante
+EN: I plead guilty to the exact same charges
+FA: من هم به دقیقاً همین اتهام‌ها اقرار می‌کنم
+=== if_p113_22 hash=585d5abbcd22f95f9554885c0d958bd08b177173 author=Atari
+EN: Andrew, I don't know of any substitute for FXTop. FxTop is still my
+best source. But I only use the data as guidance level and not to the
+pip precision.
+
+andrew519 wrote: any substitute of fxtop?
+FA: Andrew، من جانشینی برای FXTop نمی‌شناسم. FxTop هنوز بهترین منبع من است. ولی من از داده‌هایش فقط به‌عنوان سطح راهنما استفاده می‌کنم، نه با دقت پیپ.
+
+andrew519 نوشت: جانشینی برای fxtop سراغ داری؟
+=== if_p113_23 hash=f938299cee0bb2eacb6267cd25471518df04682a author=PinkPanter
+EN: i was just researching PAZ and started using extender
+
+everything is OK except one detail is in my way... i dont know how to explain this litle engulf i marked it up
+FA: تازه داشتم PAZ را بررسی می‌کردم و شروع کردم به استفاده از ابزار امتداد.
+
+همه‌چیز خوب است، جز یک جزئیات که جلوی راهم است... نمی‌دانم این اینگالف کوچک را چطور توضیح بدهم؛ علامتش زده‌ام.
+=== if_p113_25 hash=2bcf032df54c7ffda9ccbf574949d89f396aac0b author=PinkPanter
+EN: IF tnx for quick reply
+
+OK i will zoom in... which SL would you set?
+
+BTW i still dont know what circled engulf on H1 means... can you explain please?
+FA: IF ممنون از جواب سریع.
+
+باشد، زوم می‌کنم... تو چه SL می‌گذاشتی؟
+
+راستی، هنوز نمی‌دانم آن اینگالف دایره‌شده در H1 چه معنایی دارد... می‌شود لطفاً توضیح بدهی؟

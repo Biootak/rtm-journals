@@ -1,0 +1,958 @@
+### moneydeep_p1_1
+EN: First I would like to start with a very heartfelt thanks to IF for RTM and even more to Salivan who showed me the way. and his posts really fast tracked my learning. "There is zero chaos in the Market" FOF is the Key.
+
+I have been here around 3 months and after going through marketpedia I
+started reading the various Journals starting with IF's and Salivan's.
+All the answers have been provided by Salivan and looking at it now I
+understand but even a month ago I would read his words and would still
+not get it. I then took a small holiday and came back and started
+studying the charts again and I have to agree with him when he says
+screen time is key. Now When I look at a blank chart unfilled orders pop
+ out like sore thums.
+
+I would read Salivan's posts then go to traders gym and trade. (Trade
+interceptor is basically a free version of forex tester. You can log in
+to Traders gym in there and trade the historical data. It has upto 5
+years worth hourly charts and 20 years or so of daily history data) I
+would draw FL and see where price would react.
+
+As salivan says there are so many FL in the chart but what makes one
+bounce price and another not is FOF. What we need to find is where the
+IT still has orders left and the level hasn't been hit yet on the way
+up. And a FL will still have orders until the mpl has been hit to the
+pip. If not then the IT want lower/higher prices. Study ORFL those are
+very important and are always good for a bounce. I will not get more
+into this as it is all there in Salivan's posts. I would suggest you
+study that.
+
+I guess what I am trying to say is even after being taught the basics
+once you start looking at the charts and think what the IT want thats
+when things will become much more clear. And as IF and Salivan have
+both constantly reiterated, look from the higher time frame down.
+
+Where is the nearest monthly demand FL and monthly supply FL targets?
+
+Based on current price what are IT doing buying or selling to the target?
+
+Drill down to weekly and repeat
+
+Down to daiy and repeat
+
+Down to hourly repeat
+
+Now you will start seeing eg. IT are accumulating on monthly FL and the
+most recent supply FL has been engulfed so now you know the next target
+FL. You now drill down lower and you find the FTR in the DP of an hourly
+ swing which in turn is a monthly FL and now you have a potential 5 pip
+risk trade with a 500-700 pip monthly FL target.
+
+All the tools needed are here in RTM. There are various ways to trade RTM but what stuck with me was FOF. Thanks again Salivan.
+
+I have been busy with a full time job but I am very satisfied with what I have learnt and can hopefully start trading soon.
+
+I would like to share a chart which should fast track your learning.
+
+FIND THE DP OF THE BREAK This is just scratching the surface but when you dig deeper things should start becoming more clear.
+FA: نخست می‌خواهم با صمیمانه‌ترین سپاس از IF برای RTM و بیش از آن از Salivan که راه را به من نشان داد آغاز کنم. پست‌های او واقعاً یادگیری‌ام را چند پله جلو انداخت. «هیچ آشفتگی‌ای در بازار وجود ندارد»؛ FOF کلید ماجراست.
+
+حدود 3 ماه است که اینجا هستم و پس از مرور marketpedia، خواندن ژورنال‌های مختلف را از ژورنال IF و Salivan شروع کردم. همهٔ پاسخ‌ها را Salivan داده است و حالا که نگاه می‌کنم می‌فهمم؛ اما حتی یک ماه پیش هم کلماتش را می‌خواندم و باز درنمی‌یافتم. بعد تعطیلات کوتاهی رفتم و برگشتم و دوباره شروع کردم به مطالعهٔ نمودارها، و باید قبول کنم وقتی می‌گوید زمانِ پای نمودار نشستن کلید ماجراست، درست می‌گوید. حالا وقتی به یک نمودار خالی نگاه می‌کنم، سفارش‌های پرنشده مثل روز روشن توی چشم می‌زنند.
+
+پست‌های Salivan را می‌خواندم و بعد می‌رفتم سراغ traders gym و معامله می‌کردم. (Trade interceptor در واقع نسخهٔ رایگان forex tester است. از داخل آن می‌توانید به Traders gym وارد شوید و روی داده‌های تاریخی معامله کنید. تا 5 سال نمودار ساعتی و حدود 20 سال دادهٔ تاریخی روزانه دارد.) FL می‌کشیدم و می‌دیدم قیمت کجا واکنش نشان می‌دهد.
+
+همان‌طور که Salivan می‌گوید، FL‌های زیادی در نمودار هست، اما آنچه یکی را باعث بازگشت قیمت می‌کند و دیگری را نه، FOF است. چیزی که باید پیدا کنیم این است که کجا IT هنوز سفارش دارد و سطح در مسیر صعود هنوز لمس نشده است. و یک FL تا وقتی MPL آن مو به مو پر نشده، هنوز سفارش دارد. اگر نه، پس IT قیمت‌های پایین‌تر/بالاتر را می‌خواهد. ORFL را مطالعه کنید؛ این‌ها بسیار مهم‌اند و همیشه برای یک بازگشت خوب جواب می‌دهند. بیشتر از این واردش نمی‌شوم، چون همه‌اش در پست‌های Salivan هست. پیشنهاد می‌کنم آن را مطالعه کنید.
+
+حدس می‌زنم حرفم این است که حتی پس از آموزش مقدمات، وقتی شروع می‌کنید به نگاه کردن به نمودارها و فکر کردن به اینکه IT چه می‌خواهد، آن‌وقت است که همه‌چیز بسیار روشن‌تر می‌شود. و همان‌طور که IF و Salivan هر دو بارها تأکید کرده‌اند، از تایم‌فریم بالاتر رو به پایین نگاه کنید.
+
+نزدیک‌ترین FL تقاضای ماهانه و تارگت‌های FL عرضهٔ ماهانه کجاست؟
+
+بر اساس قیمت فعلی، IT برای رسیدن به تارگت در حال خرید است یا فروش؟
+
+تا تایم‌فریم هفتگی پایین بروید و همین را تکرار کنید
+
+تا روزانه پایین بروید و تکرار کنید
+
+تا ساعتی پایین بروید و تکرار کنید
+
+حالا کم‌کم می‌بینید مثلاً IT روی FL ماهانه در حال انباشت است و آخرین FL عرضه اینگالف شده، پس حالا تارگت بعدی را می‌شناسید: FL بعدی. سپس پایین‌تر می‌روید و FTR را در DP یک سوئینگ ساعتی پیدا می‌کنید که خودش یک FL ماهانه است، و حالا معامله‌ای بالقوه با ریسک 5 پیپ و تارگت FL ماهانهٔ 500-700 پیپ دارید.
+
+همهٔ ابزارهای لازم همین‌جا در RTM هست. راه‌های مختلفی برای معامله با RTM وجود دارد، اما آنچه در ذهنم ماند FOF بود. باز هم ممنون Salivan.
+
+درگیر یک شغل تمام‌وقت بوده‌ام، اما از آنچه یاد گرفته‌ام بسیار راضی‌ام و امیدوارم به‌زودی بتوانم معامله را شروع کنم.
+
+می‌خواهم نموداری را به اشتراک بگذارم که باید یادگیری شما را جلو بیندازد.
+
+نقطهٔ تصمیم شکست را پیدا کنید. این تازه اول کار است، اما وقتی عمیق‌تر کاوش کنید، همه‌چیز روشن‌تر می‌شود.
+
+### moneydeep_p1_2
+EN: Hi MD - I would encourage you to read the journals from all the Master
+ Traders when you get a chance. Each of them has a unique approach to
+analyzing the markets. And why not, you've paid for the privilege of
+reading them, right? Then, choose the approach that fits you and you're
+off and running. Good luck and remember, get the process correct and the
+ profits will take care of themselves. Bill
+FA: سلام MD؛ پیشنهاد می‌کنم هر وقت فرصت پیدا کردی ژورنال‌های همهٔ استادمعامله‌گران را بخوانی. هر کدام‌شان رویکرد یکتایی برای تحلیل بازار دارند. و چرا نه؟ تو برای خواندنشان پول پرداخته‌ای، مگر نه؟ بعد، رویکردی را انتخاب کن که به تو می‌خورد و راه بیفت. موفق باشی و یادت باشد: فرایند را درست انجام بده، سودها خودشان کار خودشان را می‌کنند. Bill
+
+### moneydeep_p1_3
+EN: moneydeep wrote: First I would
+like to start with a very heartfelt thanks to IF for RTM and even more
+to Salivan who showed me the way. and his posts really fast tracked my learning. "There is zero chaos in the Market" FOF is the Key.
+
+I have been here around 3 months and after going through marketpedia I
+started reading the various Journals starting with IF's and Salivan's.
+All the answers have been provided by Salivan and looking at it now I
+understand but even a month ago I would read his words and would still
+not get it. I then took a small holiday and came back and started
+studying the charts again and I have to agree with him when he says
+screen time is key. Now When I look at a blank chart unfilled orders pop
+ out like sore thums.
+
+I would read Salivan's posts then go to traders gym and trade. (Trade
+interceptor is basically a free version of forex tester. You can log in
+to Traders gym in there and trade the historical data. It has upto 5
+years worth hourly charts and 20 years or so of daily history data) I
+would draw FL and see where price would react.
+
+As salivan says there are so many FL in the chart but what makes one
+bounce price and another not is FOF. What we need to find is where the
+IT still has orders left and the level hasn't been hit yet on the way
+up. And a FL will still have orders until the mpl has been hit to the
+pip. If not then the IT want lower/higher prices. Study ORFL those are
+very important and are always good for a bounce. I will not get more
+into this as it is all there in Salivan's posts. I would suggest you
+study that.
+
+I guess what I am trying to say is even after being taught the basics
+once you start looking at the charts and think what the IT want thats
+when things will become much more clear. And as IF and Salivan have
+both constantly reiterated, look from the higher time frame down.
+
+Where is the nearest monthly demand FL and monthly supply FL targets?
+
+Based on current price what are IT doing buying or selling to the target?
+
+Drill down to weekly and repeat
+
+Down to daiy and repeat
+
+Down to hourly repeat
+
+Now you will start seeing eg. IT are accumulating on monthly FL and the
+most recent supply FL has been engulfed so now you know the next target
+FL. You now drill down lower and you find the FTR in the DP of an hourly
+ swing which in turn is a monthly FL and now you have a potential 5 pip
+risk trade with a 500-700 pip monthly FL target.
+
+All the tools needed are here in RTM. There are various ways to trade RTM but what stuck with me was FOF. Thanks again Salivan.
+
+I have been busy with a full time job but I am very satisfied with what I have learnt and can hopefully start trading soon.
+
+I would like to share a chart which should fast track your learning.
+
+FIND THE DP OF THE BREAK This is just scratching the surface but when you dig deeper things should start becoming more clear.
+
+Do you have a real example on real chart as the way you analyze with
+FOF? I never really understood what he meant by FOF even though read
+many times. Maybe my english is inadequate, thats why I cannot grasp
+what Salivan tries to explain in FOF and ORFL. I hope someone can
+simplify what he means by those. What i saw from FOF is where he looks
+for swap levels from HTF to LTF.
+
+What I am doing now is look for FL beyond FL. Once FL has been used, it
+will be perfect for Fakeout. as long as the setting is there.
+
+Dengaima
+FA: moneydeep نوشت: نخست می‌خواهم با صمیمانه‌ترین سپاس از IF برای RTM و بیش از آن از Salivan که راه را به من نشان داد آغاز کنم. پست‌های او واقعاً یادگیری‌ام را چند پله جلو انداخت. «هیچ آشفتگی‌ای در بازار وجود ندارد»؛ FOF کلید ماجراست.
+
+حدود 3 ماه است که اینجا هستم و پس از مرور marketpedia، خواندن ژورنال‌های مختلف را از ژورنال IF و Salivan شروع کردم. همهٔ پاسخ‌ها را Salivan داده است و حالا که نگاه می‌کنم می‌فهمم؛ اما حتی یک ماه پیش هم کلماتش را می‌خواندم و باز درنمی‌یافتم. بعد تعطیلات کوتاهی رفتم و برگشتم و دوباره شروع کردم به مطالعهٔ نمودارها، و باید قبول کنم وقتی می‌گوید زمانِ پای نمودار نشستن کلید ماجراست، درست می‌گوید. حالا وقتی به یک نمودار خالی نگاه می‌کنم، سفارش‌های پرنشده مثل روز روشن توی چشم می‌زنند.
+
+پست‌های Salivan را می‌خواندم و بعد می‌رفتم سراغ traders gym و معامله می‌کردم. (Trade interceptor در واقع نسخهٔ رایگان forex tester است. از داخل آن می‌توانید به Traders gym وارد شوید و روی داده‌های تاریخی معامله کنید. تا 5 سال نمودار ساعتی و حدود 20 سال دادهٔ تاریخی روزانه دارد.) FL می‌کشیدم و می‌دیدم قیمت کجا واکنش نشان می‌دهد.
+
+همان‌طور که Salivan می‌گوید، FL‌های زیادی در نمودار هست، اما آنچه یکی را باعث بازگشت قیمت می‌کند و دیگری را نه، FOF است. چیزی که باید پیدا کنیم این است که کجا IT هنوز سفارش دارد و سطح در مسیر صعود هنوز لمس نشده است. و یک FL تا وقتی MPL آن مو به مو پر نشده، هنوز سفارش دارد. اگر نه، پس IT قیمت‌های پایین‌تر/بالاتر را می‌خواهد. ORFL را مطالعه کنید؛ این‌ها بسیار مهم‌اند و همیشه برای یک بازگشت خوب جواب می‌دهند. بیشتر از این واردش نمی‌شوم، چون همه‌اش در پست‌های Salivan هست. پیشنهاد می‌کنم آن را مطالعه کنید.
+
+حدس می‌زنم حرفم این است که حتی پس از آموزش مقدمات، وقتی شروع می‌کنید به نگاه کردن به نمودارها و فکر کردن به اینکه IT چه می‌خواهد، آن‌وقت است که همه‌چیز بسیار روشن‌تر می‌شود. و همان‌طور که IF و Salivan هر دو بارها تأکید کرده‌اند، از تایم‌فریم بالاتر رو به پایین نگاه کنید.
+
+نزدیک‌ترین FL تقاضای ماهانه و تارگت‌های FL عرضهٔ ماهانه کجاست؟
+
+بر اساس قیمت فعلی، IT برای رسیدن به تارگت در حال خرید است یا فروش؟
+
+تا تایم‌فریم هفتگی پایین بروید و همین را تکرار کنید
+
+تا روزانه پایین بروید و تکرار کنید
+
+تا ساعتی پایین بروید و تکرار کنید
+
+حالا کم‌کم می‌بینید مثلاً IT روی FL ماهانه در حال انباشت است و آخرین FL عرضه اینگالف شده، پس حالا تارگت بعدی را می‌شناسید: FL بعدی. سپس پایین‌تر می‌روید و FTR را در DP یک سوئینگ ساعتی پیدا می‌کنید که خودش یک FL ماهانه است، و حالا معامله‌ای بالقوه با ریسک 5 پیپ و تارگت FL ماهانهٔ 500-700 پیپ دارید.
+
+همهٔ ابزارهای لازم همین‌جا در RTM هست. راه‌های مختلفی برای معامله با RTM وجود دارد، اما آنچه در ذهنم ماند FOF بود. باز هم ممنون Salivan.
+
+درگیر یک شغل تمام‌وقت بوده‌ام، اما از آنچه یاد گرفته‌ام بسیار راضی‌ام و امیدوارم به‌زودی بتوانم معامله را شروع کنم.
+
+می‌خواهم نموداری را به اشتراک بگذارم که باید یادگیری شما را جلو بیندازد.
+
+نقطهٔ تصمیم شکست را پیدا کنید. این تازه اول کار است، اما وقتی عمیق‌تر کاوش کنید، همه‌چیز روشن‌تر می‌شود.
+
+آیا مثال واقعی روی نمودار واقعی دارید، همان‌طور که با FOF تحلیل می‌کنید؟ من هرگز واقعاً نفهمیدم منظورش از FOF چیست، هرچند بارها خواندم. شاید انگلیسی‌ام کافی نیست و برای همین نمی‌توانم چیزی را که Salivan در FOF و ORFL توضیح می‌دهد بگیرم. امیدوارم کسی بتواند منظور او از این دو را ساده کند. آنچه من از FOF دیدم این است که او سطوح سوآپ را از تایم‌فریم بالاتر تا پایین‌تر جست‌وجو می‌کند.
+
+کاری که الان می‌کنم این است که FL را فراتر از FL جست‌وجو کنم. وقتی یک FL مصرف شد، برای فیک‌اوت عالی می‌شود، تا وقتی که شرایطش برقرار باشد.
+
+Dengaima
+
+### moneydeep_p1_4
+EN: I will try with an example. How to keep it simple and look for Low
+risk High reward trades. Basics of order flow is understanding where
+there are orders still left in the market which haven't been filled.
+More advanced is starting from the HTF to find monthly/yearly targets of
+ IT and then understanding how they are accumulating to reach these
+targets on lower timeframes.
+FA: با یک مثال امتحان می‌کنم. چگونه ساده نگهش داریم و دنبال معاملات کم‌ریسک با پاداش بالا باشیم. پایهٔ جریان سفارش این است که بفهمیم کجا هنوز سفارش‌هایی در بازار مانده‌اند که پر نشده‌اند. سطح پیشرفته‌ترش این است که از تایم‌فریم بالاتر شروع کنیم تا تارگت‌های ماهانه/سالانهٔ IT را پیدا کنیم و بعد بفهمیم چطور در تایم‌فریم‌های پایین‌تر برای رسیدن به این تارگت‌ها انباشت می‌کنند.
+
+### moneydeep_p1_5
+EN: billmac3 wrote: Hi MD - I would
+encourage you to read the journals from all the Master Traders when you
+get a chance. Each of them has a unique approach to analyzing the
+markets. And why not, you've paid for the privilege of reading them,
+right? Then, choose the approach that fits you and you're off and
+running. Good luck and remember, get the process correct and the profits
+ will take care of themselves. Bill
+
+I am in no way a master nor do I claim to be. I have a long way to go
+and my first post just reflects that I am very happy that I have made it
+ so far. After almost 10 years of trading on and off searching for the
+holy grail and trying to understand the market and failing I have
+finally seen the light thanks to RTM.
+
+My plan for the next few months is to demo trade as I have had a bad
+experience previously managing my emotions, keeping in mind that I will
+take only the best setups and I am confident in the fact that:
+
+The more screen time I get the easier it will be to see the setups. My
+journey has been long and arduous but I have a great feeling that I am
+at the end of the tunnel and can see the light just beyond.
+
+Thanks everyone here for this great community. I will try my best to
+share what I have learnt so far and hopefully fast track other people's
+learning.
+FA: billmac3 نوشت: سلام MD؛ پیشنهاد می‌کنم هر وقت فرصت پیدا کردی ژورنال‌های همهٔ استادمعامله‌گران را بخوانی. هر کدام‌شان رویکرد یکتایی برای تحلیل بازار دارند. و چرا نه؟ تو برای خواندنشان پول پرداخته‌ای، مگر نه؟ بعد، رویکردی را انتخاب کن که به تو می‌خورد و راه بیفت. موفق باشی و یادت باشد: فرایند را درست انجام بده، سودها خودشان کار خودشان را می‌کنند. Bill
+
+من به هیچ وجه استاد نیستم و ادعایش را هم ندارم. راه زیادی پیش رو دارم و نخستین پستم فقط نشان می‌دهد از اینکه تا اینجا رسیده‌ام بسیار خوشحالم. بعد از تقریباً 10 سال معاملهٔ گاه‌به‌گاه، جست‌وجوی جام مقدس و تلاش برای فهمیدن بازار که همه‌اش ناکام ماند، سرانجام به لطف RTM نور را دیدم.
+
+پلن من برای چند ماه آینده معامله در حساب دمو است، چون قبلاً در مدیریت احساساتم تجربهٔ بدی داشتم؛ با این ذهنیت که فقط بهترین ستاپ‌ها را می‌گیرم و مطمئنم که:
+
+هرچه زمان بیشتری پای نمودار بگذرانم، دیدن ستاپ‌ها آسان‌تر می‌شود. مسیر من طولانی و پرزحمت بوده، اما حس خوبی دارم که به انتهای تونل رسیده‌ام و نور را همین نزدیکی‌ها می‌بینم.
+
+از همهٔ شما برای این جامعهٔ عالی ممنونم. نهایت تلاشم را می‌کنم آنچه تا حالا یاد گرفته‌ام به اشتراک بگذارم و امیدوارم یادگیری دیگران را جلو بیندازم.
+
+### moneydeep_p1_6
+EN: It seems you have your head screwed on right
+
+At last you've found your way out of the herd, and have come to the one place where you can see the market for what it is.
+
+Use what was in the past used against you, and this long journey will have all been worth it.
+
+Only take the trades that scream at you. This will not limit you in any
+way. Doing so will give you the clear mind you'll need to hear the
+screams of opportunities you never knew existed.
+
+I'm glad you're here at last. All of you
+FA: پیداست که عقلت سر جای خودش است
+
+بالاخره راهت را از گله جدا کردی و به همان یک جایی آمدی که می‌توانی بازار را آن‌طور که هست ببینی.
+
+از آنچه در گذشته علیه‌ات به کار می‌رفت استفاده کن، تا این سفر طولانی تمامش ارزشش را داشته باشد.
+
+فقط معاملاتی را بگیر که سرت فریاد می‌زنند. این به هیچ شکلی محدودت نمی‌کند. انجام این کار ذهن روشنی به تو می‌دهد که برای شنیدن فریاد فرصت‌هایی که هرگز نمی‌دانستی وجود دارند، لازمش داری.
+
+خوشحالم که بالاخره اینجایی. همه‌تان
+
+### moneydeep_p1_7
+EN: Haven't been trading much since I am very busy with a full time job.
+
+Had 2 PO but my 2nd entry didn't trigger.
+
+Taking some off at these levels.
+FA: از آنجا که با یک شغل تمام‌وقت خیلی درگیرم، زیاد معامله نکرده‌ام.
+
+2 PO داشتم اما ورود دومم تریگر نشد.
+
+در این سطوح بخشی را برمی‌دارم.
+
+### moneydeep_p1_8
+EN: Frustrating, but kinda fun, too. Right?
+FA: کمی آزاردهنده است، اما به نوعی جالب هم هست. نه؟
+
+### moneydeep_p1_9
+EN: Got some trading done this week despite my workload. After 4 months in
+ RTM and lots of chart hours and studying carefully Salivan's posts I
+finally understand something. This image speaks volumes.
+
+This picture by Salivan really helped me understanding how price moves
+in terms of order flow really helped me break the barrier.
+
+One thing which Salivan mentioned which really struck me is the fact
+that there are so many places with unfilled orders which IT may decide
+to respect or not but the highest probability ones are where it will be
+areas where the amount of money it took them to bring price to that
+level it won't be worth it if they don't reload there.
+
+Once you start to see the right MPL's you can't unsee them. Thank you RTM, Thank you Salivan, Thank you IF.
+
+60R+ trade but my entry didnt trigger by 0.4 pips. Atleast one of them triggered so still 14R but god
+
+AUDUSD trade. Love these low risk high reward trades
+FA: با وجود حجم کارم، این هفته کمی معامله انجام دادم. بعد از 4 ماه در RTM و ساعت‌های زیاد پای نمودار و مطالعهٔ دقیق پست‌های Salivan، بالاخره چیزی را فهمیدم. این تصویر حرف‌های زیادی برای گفتن دارد.
+
+این تصویر Salivan در فهم اینکه قیمت بر اساس جریان سفارش چگونه حرکت می‌کند واقعاً کمکم کرد و مانع را شکست.
+
+نکته‌ای که Salivan گفت و واقعاً به دلم نشست این است که جاهای زیادی با سفارش‌های پرنشده وجود دارد که IT ممکن است آنها را رعایت کند یا نه؛ اما بالاترین احتمال مال جاهایی است که اگر آنجا دوباره سفارش نچینند، پولی که برای آوردن قیمت به آن سطح خرج کرده‌اند هدر می‌رود.
+
+وقتی MPL‌های درست را ببینید، دیگر نمی‌توانید نبینیدشان. ممنون RTM، ممنون Salivan، ممنون IF.
+
+معاملهٔ 60R+ اما ورودم با 0.4 پیپ تریگر نشد. دست‌کم یکی از آنها تریگر شد پس هنوز 14R است، اما خدایا
+
+معاملهٔ AUDUSD. عاشق این معاملات کم‌ریسک با پاداش بالا هستم
+
+### moneydeep_p1_10
+EN: Nice trading MD!
+
+I’m in that AU one too!
+FA: معاملهٔ خوبی بود MD!
+
+من هم توی همان معاملهٔ AU هستم!
+
+### moneydeep_p1_11
+EN: Hi bro MD and Einrikr,
+
+Sorry for polluting your journal, but since I'm still lost in choosing the best LS to trade and their targets (and scale ),
+
+If you both don't mind, I would like to understand your thought process on analyzing and entering the trades you both took.
+
+To respect your time, here is what I thought from reverse engineering from your trades.
+
+Any corrections, guidance, and hints would be greatly appreciated Thanks in advance!
+
+MD's EUR/JPY trade
+
+MD's and Einrikr's AUD/USD Trade
+FA: سلام برادر MD و Einrikr،
+
+ببخشید که ژورنالتان را شلوغ می‌کنم، اما چون هنوز در انتخاب بهترین LS برای معامله و تارگت‌هایش (و مقیاسش) سردرگمام،
+
+اگر هر دویتان مشکلی ندارید، می‌خواهم روند فکرتان را در تحلیل و ورود به معاملاتی که هر دو گرفتید بفهمم.
+
+برای اینکه وقتتان را تلف نکنم، این چیزی است که از مهندسی معکوس معاملاتتان برداشت کردم.
+
+هر اصلاح، راهنمایی و اشاره‌ای بسیار ارزشمند خواهد بود. پیشاپیش ممنون!
+
+معاملهٔ EUR/JPY از MD
+
+معاملهٔ AUD/USD از MD و Einrikr
+
+### moneydeep_p1_12
+EN: Bro Frosty, on EURJPY, I think you were not looking at the same scale as MD. Their scale were H1 and M15.
+FA: برادر Frosty، در EURJPY فکر می‌کنم تو به همان مقیاسی که MD نگاه می‌کرد نگاه نمی‌کردی. مقیاس آن‌ها H1 و M15 بود.
+
+### moneydeep_p1_13
+EN: On AU, you've nailed it Frost.
+
+For me, the ENG into the CP was the sign to trade down. Furthermore,
+I've been trading AU or the last week, with good results. I like the
+pair. I traded it up, stepped out too soon unfortunately, but it hit the
+ FL I was aiming for and price went down.
+
+I expect it to fill the whole range between the UFL it hit and LFL I
+traded up from. Possibly even break the LFL. The MPL has already been
+hit, price didn't touch it but went right into the MPL so my prediction
+is that it'll break it. I'll watch PA around that zone and decide by
+then wether I'm staying in or not.
+
+As with my last trade, I've taken out a part to cover SL and take some profit, so it's downwards stress free.
+
+For more on AU, check Daniel Hu's topic, and specifically the post that IF made recently.
+FA: در AU کاملاً درست زدی Frost.
+
+برای من، ENG به داخل CP نشانهٔ معامله در جهت نزول بود. علاوه بر این، یک هفته است که AU معامله می‌کنم و نتایج خوبی گرفته‌ام. این جفت‌ارز را دوست دارم. آن را در جهت صعود معامله کردم، متأسفانه خیلی زود بیرون آمدم، اما به FL که هدفم بود رسید و قیمت پایین آمد.
+
+انتظار دارم کل محدودهٔ بین UFL که لمس کرد و LFL که از آن در جهت صعود وارد شدم را پر کند. حتی ممکن است LFL را بشکند. MPL قبلاً لمس شده، قیمت به آن برخورد نکرد اما مستقیم به داخل MPL رفت، پس پیش‌بینی‌ام این است که آن را می‌شکند. PA اطراف آن ناحیه را زیر نظر می‌گیرم و آن موقع تصمیم می‌گیرم که بمانم یا نه.
+
+مثل معاملهٔ قبلی‌ام، بخشی را بیرون کشیده‌ام تا SL را پوشش دهد و کمی سود بگیرد، پس مسیر نزولی بدون استرس است.
+
+برای اطلاعات بیشتر دربارهٔ AU، تاپیک Daniel Hu را ببین، و مشخصاً پستی که IF اخیراً گذاشته.
+
+### moneydeep_p1_14
+EN: Frosty feel free to post here. We are all here to learn.
+
+What you are looking at is exactly what I was looking at but on a 1 hr
+chart. you will see the same thing you have shown on the daily.
+
+I have understood MPL but unfortunately I don't have much experience
+with LS kinks. That and setting proper targets willl be my next study. I
+ try look for orders at MPL where price has dropped and made some PA
+from.
+
+Here's the AU
+
+Right now I still struggle with targets a lot. I need to remember that a
+ 1hr mpl entry should have a 1 hr target and not look into higher
+timeframes for larger targets. That can be with the secondary position.
+FA: Frosty راحت باش، اینجا پست بگذار. ما همه اینجا هستیم که یاد بگیریم.
+
+آنچه تو نگاه می‌کنی دقیقاً همان چیزی است که من نگاه می‌کردم، اما روی نمودار 1 ساعته. همان چیزی را خواهی دید که روی روزانه نشان دادی.
+
+MPL را فهمیده‌ام اما متأسفانه با خم‌های LS تجربهٔ زیادی ندارم. آن و تعیین تارگت‌های درست، مطالعهٔ بعدی من خواهد بود. تلاش می‌کنم سفارش‌ها را در MPL جست‌وجو کنم، جایی که قیمت افت کرده و از آنجا کمی PA ساخته است.
+
+این هم AU
+
+فعلاً هنوز با تارگت‌ها زیاد دست‌وپنجه نرم می‌کنم. باید یادم بماند که ورود روی MPL 1 ساعته باید تارگت 1 ساعته داشته باشد و برای تارگت‌های بزرگ‌تر به تایم‌فریم‌های بالاتر نگاه نکنم. آن کار می‌تواند با پوزیشن دوم انجام شود.
+
+### moneydeep_p1_15
+EN: Thank you bro AK, Einrikr, and MD for the guidance!
+
+Its good to see that I'm seeing the same things you all do
+
+@bro MD: I still don't get how you place your entries there inside the
+fat kink you drew. I understand that it would bounce inside that kink,
+but your entries are still a question for me
+ (I'm trying to find M1 data and lower for this area, since
+pepperstone's one only goes to 19th of Nov 2017. I'm guessing the answer
+ is in the even LTF from M5?)
+
+EDIT: Found it after endless scrolling (Dukascopy is actually blocked by
+ my service provider and I would need VPN software to unblock it. I used
+ Oanda's web platform, but it seems they don't have the "go to date"
+function). Any suggestions on any other easily accessible, complete LTF
+history would also be nice
+
+I've read this in bro Einrikr's journal: When price hits MPL, it's bound to break it on subsequent returns.
+
+I think in bro Sali's terms, this would translate to: there is no FOF left inside the kink if MPL is hit? So there flag would be considered "used-up" and ITs would break it the next time around?
+
+Thank you all
+FA: ممنون برادر AK، Einrikr و MD برای راهنمایی!
+
+خوب است که می‌بینم همان چیزهایی را می‌بینم که شما همه می‌بینید
+
+@برادر MD: هنوز نفهمیدم چطور ورودهایت را آن داخل خم چاقی که کشیدی گذاشتی. می‌فهمم که قیمت داخل آن خم بازگشت می‌کند، اما ورودهایت هنوز برای من سؤال است (دارم دادهٔ M1 و پایین‌تر را برای این ناحیه پیدا می‌کنم، چون دادهٔ pepperstone فقط تا 19 نوامبر 2017 می‌رود. حدس می‌زنم جواب در همان تایم‌فریم پایین‌تر از M5 باشد؟)
+
+ویرایش: بعد از اسکرول بی‌پایان پیدایش کردم (Dukascopy در واقع توسط سرویس‌دهندهٔ اینترنتم بلاک شده و برای باز کردنش به نرم‌افزار VPN نیاز دارم. از پلتفرم وب Oanda استفاده کردم، اما به نظر می‌رسد تابع «برو به تاریخ» را ندارند). هر پیشنهادی دربارهٔ یک تاریخچهٔ کامل LTF در دسترس دیگر هم خوب است
+
+این را در ژورنال برادر Einrikr خواندم: وقتی قیمت به MPL می‌رسد، در بازگشت‌های بعدی حتماً آن را می‌شکند.
+
+فکر می‌کنم به زبان برادر Sali این می‌شود: اگر MPL لمس شده باشد، دیگر هیچ FOF‌ای داخل خم باقی نمانده؟ پس FL آن‌ها «مصرف‌شده» حساب می‌شود و ITs بار بعد آن را می‌شکنند؟
+
+ممنون از همه
+
+### moneydeep_p1_16
+EN: I would like to post these quotes of IF which I have copied from
+Salivan's journal. I looked at them recently and realised I understand a
+ lot of things which IF is saying which I didn't understand when I
+started RTM. I know that I will understand more of it when I read it
+again a month later. Hope this helps some of you too.
+
+• If the signal is given by the market mover (an engulf into a new
+zone), then price is very unlikely to break the extreme of the zone it
+just came from. So, if you have the patience to wait at the last
+remaining set of unfilled orders in the origin, you can be almost
+certain that that price will be respected.
+
+• There is absolute order in the market. Nothing at all there happens by
+ chance. That's why it's so easy to read what's going to happen next.
+There are rules which are strictly followed; so much so you'd imagine
+it's all run by algorithms, up to the moment when the signal is decided
+upon, and straight away thereafter. There is zero chaos in the market.
+It's elegantly designed; a beauty to behold.
+
+• Fakeouts are extremely easy to predict. Most SD traders still look
+directly left, which is the big shortcoming of Supply/Demand trading.
+It's further left again we should be looking.
+
+• Say price is coming up to a supply. The only way we can be sure that
+supply will hold price down is if that supply has already visited the
+extreme set of orders in the flag limit to its left. If the supply fell
+short of that, we can anticipate a FO to those extreme orders. Extremely
+ simple stuff.
+
+• We always look to what S or D are reactions to, rather than just S or D themselves.
+
+• Look for tricks being played on approach to a place where a trick was played, and you'll find where price will turn.
+
+• If you can look beyond S/D, you'll see that the Flag Limit is the only
+ true place to look for PA for a trade. Trade these levels and you're
+taking gambling out of your method.
+
+• All we can ever hope for is a bounce at these levels, unless we are
+certain that this level is the deepest possible point of retrace after a
+ previous engulf. Without that, we must watch PA as it develops, both
+before and during the trade. Set and Forget trades can only be taken
+once the signal is given and the target is clear.
+
+• Being patient is absolutely vital for making giant trades. We must
+wait for the very best possible places before we enter; the places where
+ you'd expect great PA to react.
+
+• If you're around to watch the PA unfold, it's rare your stop should
+get hit. Price will so very often retrace enough for you to get out
+without a loss. That's why I wait for the very best price to TT - it
+tends to keep me in the black.
+
+• I'm not even a part time trader now, so I miss nearly every piece of
+action there is. If I ever open the charts and see a trade opp right in
+front of me, I take it. However, I usually get between 10R and 25R per
+trade. If I lose, it's usually no more than the spread and commission.
+There are between 5 and 20 such confirmed trades available every day.
+
+• First of all, we need to understand that time has no place in any read
+ of the market. The only way to be completely sure of where a FL is, is
+to be there when the break occurs, and mark the highs and lows as they
+occur. Within a minute they can be obscured by a candle, but we'll know
+exactly where they are. If we're not there to watch and mark, we must
+use the full candle as a FL.
+
+• If we've had an engulf and are getting in on a RT, we must always be
+ready for a diamond to occur, especially if price hasn't yet hit MPL of
+the zone the original bounce was a reaction to. So, if we're not going
+to be around to watch PA, our stop must be beyond the original FL.
+
+• Funny you should say that, as I teach to always and only trade within a
+ flag. Sometimes the flag will already have developed, and sometimes the
+ flag is to be made while you're in the trade. Either way, always trade
+within a flag.
+
+• Attune yourself to what the buggers are doing, and don't let them fool
+ you. Just know they've got orders to fill at a level, watch them fill
+some on approach (CP), see the momentum, and watch them come back to
+fill more orders 'til they've had their fill.
+
+• This perhaps should be the first thing that anybody ever reads
+regarding trading: We're always looking for signs of what the big guys
+are doing at significant areas, and if we don't see what they're doing,
+there's no trade. So, on approach, if we see the big guys trying to hide
+ their orders in the market, we see compression, and can feel pretty
+sure of their intentions - to get in as many orders as they can before
+the turn If we don't see this, we can be pretty sure that it won't just
+turn immediately, as there usually won't be enough orders against them
+to fill all the orders they must fill. This is why we wait for an
+engulf. This shows their intention to reverse price. Then we watch them
+trying to hide their orders in the market on a retrace, ready to take
+price to the origin of the move.
+
+• When we see decent CP coming into the base of a pole, we are very
+often safe to touch trade the base. The safest thing to do however is to
+ await the first engulf into the cp zone as confirmation.
+
+• Very often a zone will break strongly and price will retrace but fail
+to retouch it. This is still the FTR - the confirmation of a new trend
+(do a study of how price reacts and how far it goes after hitting this
+spot). So an FTR can be first time back, but doesn't need to be.
+
+• During holidays, volume in the market is often greatly diminished.
+This would lead some to imagine that price hardly moves. But. Say
+someone decided to put a truckload of orders into the market. If there's
+ nobody else in the market to oppose these orders, price can do nothing
+but shoot away. So remember. Low Volume can = High Volatility.
+
+• Until now I have been so unfocused on the charts that my exits have
+been very sloppy. My trade plan now has a couple of variables, but
+essentially I'll let price travel back to the other edge of the last PAZ
+ in the TF I'm trading. If it engulfs, I'll exit on a RT or a break of
+the next LTF FL. If it rejects, I'll let the trade run and await exit
+PA.
+
+• It's all about getting into the mind of the market makers and trading as they do. Nothing special.
+
+• Most of my analysis comes in after the trade is entered. Before taking
+ the trade, I do as you said - simple - it's really easy to find pockets
+ of orders which will bounce price, and if they happen to be at great
+htf levels, even better - there's the highest chance of them giving
+maximum pips. What I do certainly looks like touch trading - picking
+tops and bottoms, but what you said belies that. These are not tops and
+bottoms, but retraces to the best price to re enter. Once I'm in though,
+ I'm never guaranteed massive returns - sure price will bounce where I
+enter, but I'm never complacent until I've seen the engulf. In fact, I'm
+ never really complacent at all. If PA tells me to get out, I must get
+out!
+
+• Many might misconstrue us as pattern recognition traders - we're not.
+Certainly while learning we look for recurring patterns in the market.
+But once we understand them, what becomes most important is WHY the ITs
+made them. It's paramount to understand that it's not enough for the ITs
+ to simply move price. They must also get massive amounts of orders
+filled in order to make maximum gains. They must also refrain from
+giving other ITs false signals, which could ultimately cause chaos for
+everybody. Think of these things as you study, and you'll be able to get
+ into the mind of the market mover.
+
+• Here are just a few targets for price, and the QM level is a big one.
+Certainly we need to get PA for entry before or once it's hit. If it
+breaks, then the same level can have the opposite effect on return.
+
+• Once price engulfs a level, all that's important is how far it
+retraces before hitting its target. While the pockets of orders remain
+in this RT, it remains strong. If price totally compresses (picking up
+all orders) forward from the tip of the RT, then we will look primarily
+for the orders at the entrance to said CP.
+
+• To the ITs, candle closes don't mean a damned thing, so please don't use them in your own analysis.
+
+• A line is not the answer. Certainly, you may draw a line, but you must
+ then go into the LTF to find a DBR/RBD on the right side of the LL/HH
+swing which covers that line. That RBD/DBR will be your box. You can
+scalp from each of these, knowing that it may only be a scalp. If you're
+ simply setting a PO, then you must set your stop beyond the FL the
+HH/LL is a reaction to.
+
+• The usable engulf is the one which hasn't hit its target. Every engulf
+ has a very specific target. Apply that statement to your charts and
+eventually you'll see what I mean.
+
+• Being only a sporadic trader (I really couldn't sit and watch the
+charts all day anymore!), I tend to open the charts from time to time
+and ask myself what's coming up in the next few minutes for me to take.
+If I'm lucky, I'll open the charts when we're at an HTF level. If not,
+I'll gladly take whatever high R M1 or whatever is there for the
+picking. 30 pips with a 3 pip stop is exactly the same as 150 pips with a
+ 15. If there's nothing decent to take, I shut the charts.
+
+• If I were asked where to trade, in one word, I'd say: Stops
+
+• I'm way too disorganised to use limit orders! I just open the charts
+from time to time, and if I see the ITs scaring the retailers into
+closing good trades at a good level, I enter. I'll take off some of the
+position at the first target, so if my stop gets taken I can profit
+overall, then watch PA level by level. If price doesn't get into a big
+zone quickly, I'll usually get bored and go flat, having made enough to
+cover my next week's expenses. If I were truly meticulous, I'd treat my
+exits the same as my entries, and trade up and down all day, but trading
+ is usually way down on my to-do list.
+
+• Certainly there's an awful lot to learn here. But if I were to
+summarise what I think is most important, I'd say look to an engulf into
+ free space that hasn't yet hit the origin (tg). Very often it will
+retrace deeply before advancing to the origin. Learn to spot these, and
+you'll be better equipped than most other traders out there.
+
+• Price moves from PAZ to PAZ. The clear target for any trade after an
+engulf is the other end of the PAZ in that TF. If you zoom out to HTFs,
+you may find the TG is even further, but if not, stick to the TF you're
+in.
+
+• I just want to warn you though that watching candles is an absolute
+waste of time. It distracts you from reading the story of price. The
+chart is a page, and a candle is a word. A word in itself has little
+meaning; it can be taken out of context. Sure, a sentence can be very
+powerful, as can a group of candles. But to get a real sense of the
+story, we need to view it all as a whole - be aware of how this
+paragraph relates to one many chapters back, and get a sense of where
+the story will lead in the future.
+
+• In essence, we know that if price engulfs South, it wants to move down to the last engulf North.
+
+• We want to read the story of price, and believe me, price has a story!
+ You'll need to go further left to get your analysis right. Yes, you've
+marked levels well, but what are those levels a reaction to? Without
+knowing this, you're just gambling. So, look left, read the story, and
+be better equipped to predict what'll come next.
+
+• Ask yourself "Why did price shoot up from there?" You'll answer
+"Because someone wanted to buy a lorryload, but there was nobody willing
+ to sell at that price, so price shot up to find sellers." The next
+question you'll ask yourself is "Will he have left orders to buy again
+at that price?" The answer is usually "yes". Next question is "will
+price reverse from there?" The answer is, "Well, it may well bounce form
+ there, but we won't know if it'll reverse until an engulf tells us it's
+ reversed"
+
+• Of course, the extremes in one TF can be midrange in another TF, which
+ is why it's vital to manage your adds in the lower TF until they break
+into HTF trades.
+
+• Okay! One giant clue: If something which should have been important got ignored, then it will be given great import on return.
+
+• Personally, I love to dissect the HTF zone, in LTF, and look for a DBR
+ or RBD within it, where price had broken out of a box and failed to get
+ back in.
+
+• Whipsaw engulfing - a fakeout followed by a quick return breaking the last zone. It's great PA.
+
+• An excellent Supply or Demand zone is one where the future has already
+ been written. Having done some study of the markets, we know that once
+we have an engulf of a zone, price will want to go to the origin. So we
+look to where the trend change was confirmed - FTR.
+
+• You must study the zone which is being reacted to just as much as the reaction itself.
+
+• Just consider the manipulation of hope and fear at turning points, and you'll have a very valuable eureka moment.
+
+• When you begin to see the symmetry in the market, you're making one of the final steps in reading and predicting it.
+
+• High R is High R, and these trades happen with great frequency. I
+applaud this easy way of making good money. If you're at the MPL of an
+HTF level, however, think about taking enough at LTF tg1 to cover the
+HTF stop, and letting the trade run.
+
+• A bit of simple advice, to avoid overtrading and impulse trading: Draw
+ up the most important looking zones, and look for trades only there.
+
+• We absolutely must have an hard stop, always. But if we don't have an
+engulf before entry, we don't put it directly above the high or below
+the low, where all the retail stops lie. Instead, we find a lovely LTF
+RBD/DBR just beyond, and put it on the other side of that, so that we
+have the best chance to get out at BE or in big profit from the usual
+RT.
+
+• There's no indication that a demand has been respected until the source above has been engulfed.
+FA: می‌خواهم این نقل‌قول‌های IF را که از ژورنال Salivan کپی کرده‌ام اینجا بگذارم. اخیراً نگاهشان کردم و فهمیدم خیلی از چیزهایی را که IF می‌گوید درک می‌کنم؛ چیزهایی که وقتی RTM را شروع کردم نمی‌فهمیدم. می‌دانم یک ماه دیگر که دوباره بخوانمشان بیشترشان را می‌فهمم. امیدوارم برای بعضی از شما هم مفید باشد.
+
+• اگر سیگنال را market mover بدهد (یک اینگالف به ناحیه‌ای جدید)، آن‌گاه بسیار بعید است که قیمت دورترین نقطهٔ ناحیه‌ای را که تازه از آن آمده بشکند. پس اگر حوصلهٔ صبر کردن در آخرین دستهٔ باقی‌مانده از سفارش‌های پرنشده در مبدأ را داشته باشید، تقریباً می‌توانید مطمئن باشید که آن قیمت رعایت می‌شود.
+
+• نظم مطلق در بازار حاکم است. هیچ چیزی آنجا تصادفی رخ نمی‌دهد. برای همین است که خواندن آنچه در ادامه رخ می‌دهد این‌قدر آسان است. قواعدی هست که سخت رعایت می‌شوند؛ تا حدی که خیال می‌کنید همه‌چیز تا لحظهٔ تصمیم‌گیری روی سیگنال و دقیقاً بعد از آن، با الگوریتم‌ها اداره می‌شود. هیچ آشفتگی‌ای در بازار نیست. طراحی ظریفی دارد؛ دیدنی است.
+
+• فیک‌اوت‌ها پیش‌بینی کردنشان به‌شدت آسان است. بیشتر معامله‌گران SD هنوز فقط به چپِ نزدیک نگاه می‌کنند، که همین ایراد بزرگ معامله با عرضه/تقاضا است. ما باید باز هم عقب‌تر، به چپ نگاه کنیم.
+
+• فرض کنید قیمت به یک عرضه می‌رسد. تنها راهی که مطمئن شویم آن عرضه قیمت را پایین نگه می‌دارد این است که آن عرضه قبلاً به دورترین دستهٔ سفارش‌ها در FL سمت چپش رسیده باشد. اگر عرضه به آن نرسیده باشد، می‌توانیم انتظار یک FO به آن سفارش‌های انتهایی را داشته باشیم. مسئلهٔ خیلی ساده‌ای است.
+
+• ما همیشه به چیزی نگاه می‌کنیم که S یا D واکنشی به آن است، نه صرفاً خودِ S یا D.
+
+• دنبال ترفندهایی بگردید که هنگام نزدیک شدن به جایی بازی می‌شود که قبلاً در آن ترفندی بازی شده بود، و جای چرخش قیمت را پیدا می‌کنید.
+
+• اگر بتوانید فراتر از S/D را ببینید، خواهید دید که FL تنها جای واقعی برای جست‌وجوی PA برای یک معامله است. با این سطوح معامله کنید و قمار را از روشتان بیرون می‌برید.
+
+• تنها چیزی که می‌توانیم امیدش را داشته باشیم یک بازگشت در این سطوح است، مگر اینکه مطمئن باشیم این سطح عمیق‌ترین نقطهٔ ممکن اصلاح پس از یک اینگالف قبلی است. بدون آن، باید PA را همان‌طور که شکل می‌گیرد، هم پیش از معامله و هم در جریان آن زیر نظر بگیریم. معاملات Set and Forget را فقط زمانی می‌توان گرفت که سیگنال داده شده و تارگت روشن است.
+
+• صبور بودن برای ساختن معاملات غول‌آسا کاملاً حیاتی است. باید منتظر بهترین مکان‌های ممکن بمانیم تا وارد شویم؛ جاهایی که انتظار دارید PA خوب در آن‌ها واکنش نشان دهد.
+
+• اگر آنجا باشید که شکل‌گرفتن PA را ببینید، به‌ندرت پیش می‌آید که استاپتان بخورد. قیمت خیلی وقت‌ها به‌قدری اصلاح می‌کند که بدون ضرر بیرون بیایید. برای همین منتظر بهترین قیمت ممکن برای TT می‌مانم؛ این کار معمولاً من را در محدودهٔ سود نگه می‌دارد.
+
+• من حتی الان معامله‌گر پاره‌وقت هم نیستم، بنابراین تقریباً همهٔ حرکات را از دست می‌دهم. اگر گاهی نمودارها را باز کنم و فرصت معامله‌ای را دقیقاً جلوی خودم ببینم، آن را می‌گیرم. با این حال، معمولاً بین 10R و 25R از هر معامله می‌گیرم. اگر ببازم، معمولاً بیشتر از اسپرد و کمیسیون نیست. روزی بین 5 تا 20 معاملهٔ تأییدشده از این دست در دسترس است.
+
+• پیش از هر چیز باید بفهمیم که زمان در هیچ خوانشی از بازار جایی ندارد. تنها راه اینکه کاملاً مطمئن شویم یک FL کجاست این است که هنگام وقوع شکست آنجا باشیم و سقف‌ها و کف‌ها را همان موقع علامت بزنیم. در عرض یک دقیقه ممکن است با یک کندل پوشیده شوند، اما ما دقیقاً می‌دانیم کجا هستند. اگر آنجا نباشیم که ببینیم و علامت بزنیم، باید کل کندل را به‌عنوان FL در نظر بگیریم.
+
+• اگر اینگالفی داشته‌ایم و در یک RT وارد می‌شویم، باید همیشه آمادهٔ شکل‌گیری یک الماس باشیم، خصوصاً اگر قیمت هنوز به MPL ناحیه‌ای که بازگشت اولیه واکنشی به آن بود نرسیده. پس اگر قرار نیست آنجا باشیم که PA را ببینیم، استاپمان باید آن‌سوی FL اولیه باشد.
+
+• خنده‌دار است که این را می‌گویید، چون من آموزش می‌دهم که همیشه و فقط داخل یک FL معامله کنید. گاهی FL از قبل شکل گرفته و گاهی FL باید وقتی در معامله هستید ساخته شود. هر طور که باشد، همیشه داخل یک FL معامله کنید.
+
+• خودت را با کار آن حیله‌گرها هماهنگ کن و نگذار گولت بزنند. فقط بدان که در یک سطح سفارش‌هایی برای پر کردن دارند؛ ببین هنگام نزدیک شدن، بخشی را پر می‌کنند (CP)، مومنتوم را ببین، و ببین چطور برمی‌گردند تا سفارش‌های بیشتری پر کنند تا سیر شوند.
+
+• این شاید باید اولین چیزی باشد که هر کسی دربارهٔ معامله می‌خواند: ما همیشه دنبال نشانه‌هایی از کارهایی هستیم که بزرگان در نواحی مهم انجام می‌دهند، و اگر آنچه می‌کنند را نبینیم، معامله‌ای در کار نیست. پس هنگام نزدیک شدن، اگر ببینیم بزرگان تلاش می‌کنند سفارش‌هایشان را در بازار پنهان کنند، انقباض می‌بینیم و می‌توانیم از نیتشان کاملاً مطمئن باشیم: وارد کردن هرچه بیشتر سفارش پیش از چرخش. اگر این را نبینیم، می‌توانیم مطمئن باشیم که قیمت به‌سادگی فوراً نمی‌چرخد، چون معمولاً سفارش کافی مقابلشان نیست که همهٔ سفارش‌هایی را که باید پر کنند پر کند. برای همین منتظر یک اینگالف می‌مانیم. این نیتشان برای برگرداندن قیمت را نشان می‌دهد. بعد می‌بینیم که در یک اصلاح تلاش می‌کنند سفارش‌هایشان را در بازار پنهان کنند، آماده برای بردن قیمت به مبدأ حرکت.
+
+• وقتی CP قابل‌قبولی به پایهٔ یک Pole می‌رسد، اغلب امن است که پایه را تاچ‌ترید کنیم. اما امن‌ترین کار این است که منتظر اولین اینگالف به ناحیهٔ CP به‌عنوان تأیید بمانیم.
+
+• خیلی وقت‌ها یک ناحیه به‌شدت شکسته می‌شود و قیمت اصلاح می‌کند اما موفق نمی‌شود دوباره آن را لمس کند. این هم همان FTR است؛ تأیید یک روند جدید (مطالعه‌ای کنید دربارهٔ اینکه قیمت پس از برخورد به این نقطه چگونه واکنش می‌دهد و تا کجا می‌رود). پس FTR می‌تواند اولین بازگشت باشد، اما لازم نیست حتماً باشد.
+
+• در تعطیلات، حجم بازار غالباً خیلی کم می‌شود. این باعث می‌شود بعضی‌ها تصور کنند قیمت به‌سختی حرکت می‌کند. اما. فرض کنید کسی تصمیم بگیرد یک بارکش سفارش را وارد بازار کند. اگر کسی در بازار نباشد که مقابل این سفارش‌ها بایستد، قیمت کاری نمی‌تواند بکند جز اینکه شلیک شود. پس یادتان باشد. حجم کم می‌تواند یعنی نوسان بالا.
+
+• تا حالا آن‌قدر روی نمودارها بی‌تمرکز بوده‌ام که خروج‌هایم خیلی شلخته بوده. پلن معاملاتی‌ام حالا چند متغیر دارد، اما اساساً می‌گذارم قیمت به لبهٔ دیگر آخرین PAZ در تایم‌فریمی که در آن معامله می‌کنم برگردد. اگر اینگالف کند، روی یک RT یا شکست FL بعدی در تایم‌فریم پایین‌تر خارج می‌شوم. اگر رد شود، می‌گذارم معامله ادامه پیدا کند و منتظر PA خروج می‌مانم.
+
+• همه‌اش دربارهٔ رفتن به ذهن بازارسازها و معامله کردن مثل آن‌هاست. چیز خاصی نیست.
+
+• بیشتر تحلیل من بعد از ورود به معامله انجام می‌شود. پیش از گرفتن معامله، همان کاری را می‌کنم که گفتی؛ ساده است: پیدا کردن جیب‌های سفارشی که قیمت را بازمی‌گردانند واقعاً آسان است، و اگر تصادفاً روی سطوح خوب تایم‌فریم بالاتر باشند، بهتر هم هست؛ بیشترین شانس برای گرفتن حداکثر پیپ همان‌جاست. کاری که می‌کنم قطعاً شبیه تاچ‌تریدینگ است؛ سقف و کف چیدن، اما حرفی که زدی خلاف این را می‌گوید. این‌ها سقف و کف نیستند، بلکه اصلاح به بهترین قیمت برای ورود دوباره‌اند. با این حال وقتی داخل شدم، هرگز بازدهی عظیم تضمین‌شده ندارم؛ مطمئناً قیمت جایی که وارد شدم بازگشت می‌کند، اما تا اینگالف را نبینم هرگز خیالم راحت نیست. در واقع اصلاً هیچ‌وقت واقعاً خیالم راحت نیست. اگر PA بگوید بیرون برو، باید بیرون بروم!
+
+• خیلی‌ها ممکن است ما را معامله‌گران الگوشناس بپندارند؛ ما این‌طور نیستیم. البته در مرحلهٔ یادگیری دنبال الگوهای تکرارشونده در بازار می‌گردیم. اما وقتی آن‌ها را فهمیدیم، مهم‌ترین چیز این می‌شود که چرا ITها آن‌ها را ساخته‌اند. درک این نکته حیاتی است که صرفاً حرکت دادن قیمت برای ITها کافی نیست. آن‌ها باید حجم عظیمی از سفارش‌ها را هم پر کنند تا حداکثر سود را ببرند. همچنین باید از دادن سیگنال‌های کاذب به دیگر ITها پرهیز کنند، سیگنال‌هایی که می‌تواند در نهایت برای همه آشفتگی ایجاد کند. هنگام مطالعه به این چیزها فکر کنید تا بتوانید به ذهن market mover راه پیدا کنید.
+
+• این‌ها فقط چند تارگت برای قیمت است، و سطح QM یکی از مهم‌ترین‌هاست. قطعاً برای ورود به PA نیاز داریم، چه پیش از لمس آن و چه همان موقع. اگر بشکند، همان سطح می‌تواند در بازگشت اثر معکوس داشته باشد.
+
+• وقتی قیمت سطحی را اینگالف می‌کند، تنها چیز مهم این است که پیش از رسیدن به تارگتش چقدر اصلاح می‌کند. تا وقتی جیب‌های سفارش در این RT باقی‌اند، این RT قوی می‌ماند. اگر قیمت از نوک RT به جلو کاملاً فشرده شود (همهٔ سفارش‌ها را جمع کند)، آنگاه عمدتاً دنبال سفارش‌های ورودی همان CP می‌گردیم.
+
+• برای ITها، بسته شدن کندل‌ها هیچ اهمیتی ندارد، پس لطفاً در تحلیل خودتان از آن‌ها استفاده نکنید.
+
+• یک خط جواب نیست. قطعاً می‌توانید یک خط بکشید، اما بعد باید به تایم‌فریم پایین‌تر بروید و یک DBR/RBD در سمت راست سوئینگ LL/HH که آن خط را پوشش می‌دهد پیدا کنید. همان RBD/DBR باکس شما خواهد بود. می‌توانید از هر کدام از این‌ها اسکالپ کنید، با این آگاهی که ممکن است فقط یک اسکالپ باشد. اگر صرفاً یک PO می‌گذارید، باید استاپتان را آن‌سوی FLی بگذارید که HH/LL واکنشی به آن است.
+
+• اینگالف قابل استفاده آن است که به تارگتش نرسیده. هر اینگالف تارگت بسیار مشخصی دارد. این جمله را روی نمودارهایتان پیاده کنید و در نهایت می‌فهمید منظورم چیست.
+
+• چون فقط معامله‌گر گاه‌به‌گاه هستم (واقعاً دیگر نمی‌توانم تمام روز بنشینم و به نمودار نگاه کنم!)، هر چند وقت یک بار نمودارها را باز می‌کنم و از خودم می‌پرسم در چند دقیقهٔ آینده چه چیزی برای گرفتن پیش می‌آید. اگر شانس بیاورم، وقتی در یک سطح تایم‌فریم بالاتر هستیم نمودارها را باز می‌کنم. اگر نه، با کمال میل هر R بالایی در M1 یا هر چیز دیگری که برای چیدن باشد را می‌گیرم. 30 پیپ با استاپ 3 پیپ دقیقاً همان 150 پیپ با استاپ 15 پیپ است. اگر چیز آبرومندی برای گرفتن نباشد، نمودارها را می‌بندم.
+
+• اگر از من بپرسند کجا معامله کنم، در یک کلمه می‌گویم: استاپ‌ها
+
+• من برای استفاده از سفارش‌های لیمیت بیش از حد بی‌نظمم! فقط هر چند وقت یک بار نمودارها را باز می‌کنم و اگر ببینم ITها معامله‌گران خرد را می‌ترسانند تا معاملات خوب را در یک سطح خوب ببندند، وارد می‌شوم. در تارگت اول بخشی از پوزیشن را برمی‌دارم، تا اگر استاپم خورد در مجموع سود کرده باشم، بعد PA را سطح به سطح زیر نظر می‌گیرم. اگر قیمت سریع وارد ناحیهٔ بزرگی نشود، معمولاً حوصله‌ام سر می‌رود و فلت می‌شوم، چون به‌قدر کافی درآورده‌ام که هزینه‌های هفتهٔ بعدم را پوشش دهد. اگر واقعاً موشکاف بودم، خروج‌هایم را مثل ورودهایم می‌دیدم و تمام روز بالا و پایین معامله می‌کردم، اما معامله معمولاً خیلی پایین فهرست کارهای من است.
+
+• قطعاً اینجا چیزهای زیادی برای یادگیری هست. اما اگر بخواهم مهم‌ترین چیزی که فکر می‌کنم را خلاصه کنم، می‌گویم دنبال اینگالفی به فضای آزاد بگردید که هنوز به مبدأ (تارگت) نرسیده. خیلی وقت‌ها پیش از رفتن به مبدأ اصلاح عمیقی می‌کند. یاد بگیرید این‌ها را تشخیص دهید تا از بیشتر معامله‌گران دیگر بهتر مسلح باشید.
+
+• قیمت از PAZ به PAZ حرکت می‌کند. تارگت روشن هر معامله بعد از یک اینگالف، سر دیگر PAZ در همان تایم‌فریم است. اگر به تایم‌فریم‌های بالاتر زوم کنید، ممکن است ببینید تارگت حتی دورتر است، اما اگر نبود، به همان تایم‌فریمی که در آن هستید بچسبید.
+
+• فقط می‌خواهم هشدار بدهم که نگاه کردن به کندل‌ها مطلقاً اتلاف وقت است. حواستان را از خواندن داستان قیمت پرت می‌کند. نمودار یک صفحه است و کندل یک کلمه. یک کلمه به‌تنهایی معنای کمی دارد؛ می‌توان از بافت بیرونش کشید. البته یک جمله می‌تواند بسیار قدرتمند باشد، همان‌طور که گروهی از کندل‌ها می‌توانند. اما برای درک واقعی داستان باید همه را یکجا ببینیم؛ آگاه باشیم که این پاراگراف چه نسبتی با یکی از چند فصل قبل دارد و حس کنیم داستان در آینده به کجا می‌رود.
+
+• در اصل می‌دانیم که اگر قیمت به سمت جنوب اینگالف کند، می‌خواهد تا آخرین اینگالف شمالی پایین بیاید.
+
+• می‌خواهیم داستان قیمت را بخوانیم و باور کن، قیمت داستان دارد! برای اینکه تحلیلت درست دربیاید باید بیشتر به چپ بروی. بله، سطوح را خوب علامت زده‌ای، اما این سطوح واکنشی به چه هستند؟ بدون دانستن این، فقط قمار می‌کنی. پس به چپ نگاه کن، داستان را بخوان تا برای پیش‌بینی آنچه در ادامه می‌آید بهتر مسلح باشی.
+
+• از خودت بپرس «چرا قیمت از آنجا شلیک کرد بالا؟» جواب می‌دهی «چون یک نفر می‌خواست یک بارکش بخرد، اما هیچ‌کس حاضر نبود در آن قیمت بفروشد، پس قیمت بالا شلیک کرد تا فروشنده پیدا کند.» سؤال بعدی که از خودت می‌پرسی این است: «آیا او سفارش‌های خرید برای دوباره در آن قیمت باقی گذاشته؟» جواب معمولاً «بله» است. سؤال بعدی این است: «آیا قیمت از آنجا برمی‌گردد؟» جواب این است: «خب، ممکن است از آنجا بازگشت کند، اما تا اینگالفی نگوید برگشته، نمی‌دانیم که برگشته یا نه.»
+
+• البته، نقاط انتهایی یک تایم‌فریم می‌تواند در تایم‌فریم دیگری وسط محدوده باشد؛ برای همین مدیریت اضافه‌کردن‌هایتان در تایم‌فریم پایین‌تر حیاتی است تا وقتی که به معاملات تایم‌فریم بالاتر تبدیل شوند.
+
+• باشه! یک سرنخ بزرگ: اگر چیزی که باید مهم می‌بود نادیده گرفته شد، در بازگشت اهمیت زیادی به آن داده می‌شود.
+
+• شخصاً دوست دارم ناحیهٔ تایم‌فریم بالاتر را در تایم‌فریم پایین‌تر کالبدشکافی کنم و دنبال DBR یا RBD داخلش بگردم، جایی که قیمت از یک باکس بیرون شکسته و موفق نشده دوباره به داخلش برگردد.
+
+• اینگالف شلاقی؛ یک فیک‌اوت که بعد از آن بازگشتی سریع می‌آید و آخرین ناحیه را می‌شکند. PA عالی‌ای است.
+
+• یک ناحیهٔ عرضه یا تقاضای عالی ناحیه‌ای است که آینده‌اش از قبل نوشته شده. با کمی مطالعهٔ بازارها می‌دانیم که وقتی اینگالف یک ناحیه را داریم، قیمت می‌خواهد به مبدأ برود. پس به جایی نگاه می‌کنیم که تغییر روند تأیید شد؛ FTR.
+
+• باید ناحیه‌ای را که به آن واکنش نشان داده می‌شود، به همان اندازهٔ خودِ واکنش مطالعه کنید.
+
+• فقط دستکاری امید و ترس را در نقاط چرخش در نظر بگیر و لحظهٔ یوریکای بسیار ارزشمندی خواهی داشت.
+
+• وقتی شروع کنی به دیدن تقارن در بازار، داری یکی از آخرین قدم‌ها را در خواندن و پیش‌بینی آن برمی‌داری.
+
+• R بالا همان R بالا است و این معاملات با بسامد زیادی رخ می‌دهند. به این راه سادهٔ پول درآوردن آفرین می‌گویم. اما اگر روی MPL یک سطح تایم‌فریم بالاتر هستید، به این فکر کنید که به‌قدر کافی در تارگت اول تایم‌فریم پایین‌تر بردارید تا استاپ تایم‌فریم بالاتر پوشش داده شود، و بگذارید معامله ادامه پیدا کند.
+
+• یک توصیهٔ سادهٔ کوچک برای پرهیز از اورتریدینگ و معاملهٔ تکانشی: نواحی‌ای که مهم‌ترین به نظر می‌رسند را رسم کنید و فقط همان‌جا دنبال معامله بگردید.
+
+• ما مطلقاً باید همیشه یک استاپ محکم داشته باشیم. اما اگر پیش از ورود اینگالف نداریم، آن را دقیقاً بالای سقف یا زیر کف نمی‌گذاریم، جایی که همهٔ استاپ‌های خرد جمع شده‌اند. در عوض، یک RBD/DBR دلپذیر در تایم‌فریم پایین‌تر کمی آن‌سوتر پیدا می‌کنیم و استاپ را آن‌سوی آن می‌گذاریم، تا بهترین شانس را برای بیرون آمدن در BE یا با سود بزرگ از RT معمول داشته باشیم.
+
+• تا وقتی منبع بالایی اینگالف نشده، هیچ نشانه‌ای از رعایت شدن یک تقاضا وجود ندارد.
+
+### moneydeep_p1_17
+EN: Managed to catch this one. Still trying to get my analysis in stone.
+
+EG.
+
+Step 1, step 2, Step 3
+
+and only trade setups based on this
+FA: این یکی را توانستم بگیرم. هنوز دارم تلاش می‌کنم تحلیلم را محکم و قطعی کنم.
+
+مثلاً.
+
+قدم‌های 1، 2 و 3
+
+و فقط بر همین اساس ستاپ‌ها را معامله کن
+
+### moneydeep_p1_18
+EN: Hi again, bro MD
+
+Since you've been deeply assimilating lots of knowledge that you
+obtained from master Sali's journal, if it is not too much to ask, I
+would love to get your confirmations and/or corrections on some of the
+things that I thought I already knew but might not be correct.
+
+Below are what I think I understood up until now.
+
+I'd be happy to hear your comments on these, if you have the spare time and will, of course.
+
+Thank you in advance brother! Sorry for asking too much in a post
+FA: سلام دوباره برادر MD
+
+چون عمیقاً در حال جذب دانش زیادی هستی که از ژورنال استاد Sali به دست آورده‌ای، اگر خواستنش زیاد نباشد، خیلی دوست دارم تأییدها و/یا اصلاح‌هایت را دربارهٔ بعضی چیزها بگیرم که فکر می‌کردم می‌دانم اما ممکن است درست نباشند.
+
+در زیر چیزی است که فکر می‌کنم تا حالا فهمیده‌ام.
+
+خوشحال می‌شوم نظرت را درباره‌شان بشنوم، اگر وقت و میلش را داشته باشی، البته.
+
+از قبل ممنون برادر! ببخش که در یک پست زیادی سؤال می‌پرسم
+
+### moneydeep_p1_19
+EN: I am still learning but I try to see where unfilled orders remain
+
+Salivan mentions in his Flag concept. Who is in control bull or bear..
+
+Hopefully this helps.
+FA: من هنوز در حال یادگیری‌ام اما تلاش می‌کنم ببینم کجا سفارش‌های پرنشده باقی مانده‌اند
+
+Salivan در مفهوم FL خودش به آن اشاره می‌کند. چه کسی کنترل را در دست دارد، گاو یا خرس..
+
+امیدوارم کمک کند.
+
+### moneydeep_p1_20
+EN: I wanted to get back to the first chart FIND THE DP OF THE BREAK
+ which I started my journal with and I didn't want to share initially
+because I was testing the theory but I can now see it's valid so I would
+ like to elaborate. I remember when I was younger I used to be very
+charitable and always share what I had but as I got older I got selfish
+somehow. I do share but not as much as I remember when I was younger
+always sharing anything I had with my friends. In sharing this I hope I
+can help others see the light and increase me wanting to share with
+others more in the true spirit of RTM.
+
+We can see so many LS and so many kinks and so many FL on the chart but
+do they all have unfilled orders? Salivan's FOF concepts got me thinking
+ and here is something which I think everyone could easily use. To be
+able to trade we need to think like the IT and we can see their
+footprint is left on the chart. Salivan has shown order flow is the key
+but how to see this in the charts? There are many ways but today I would
+ like to share a simple method almost mechanical which will have you
+taking trades in no time. Once you see this and understand why they are
+made you can then trade very easily. I have seen many people who get
+into analysis paralysis and get stuck and get disheartened. I hope this
+can help some of you.
+
+We need to remember the IT need to fill large orders and they cannot do
+this in one go so they must hold price. We come to know this as BSZ but
+what I would like to show you today is not how to trade beyond the stops
+ in the bsz but to trade the DP of of the BSZ or the decision which the
+IT made to break the BSZ.
+
+Since we can assume BSZ has been created for IT to hunt stops so there
+must be a decision point where the IT say ok now we have filled lots of
+orders lets go. They break the BSZ and thus hit stops and fill more of
+their orders. Now we know a key factor footprint which the IT have left
+on the chart. Their DP to hit the BSZ and take stops. We can then safely
+ assume there are some orders still left on the FTB to this DP.
+
+You can find this on any scale. Just keep your targets to that scale.
+
+PS: Salivan did mention that it was very easy for him to read the
+markets before the election then things changed. I wouldn't be surprised
+ if eventually the IT change their way and we have to research hours and
+ hours again to find the key. But one thing is for certain. FOF will
+always be the key. Learn to read the chart not as boxes and heads and
+shoulders but as a breathing organism which moves and is attracted to
+orders which are in the market. Find where the orders are and you will
+find a trade.
+
+Thanks RTM
+
+Thanks Salivan
+
+Thanks IF
+FA: می‌خواستم برگردم به اولین نمودارم، «نقطهٔ تصمیم شکست را پیدا کنید»، که ژورنالم را با آن شروع کردم و اول نمی‌خواستم به اشتراکش بگذارم چون داشتم تئوری را امتحان می‌کردم؛ اما حالا می‌بینم درست است، پس می‌خواهم بیشتر بازش کنم. یادم می‌آید وقتی جوان‌تر بودم خیلی بخشنده بودم و همیشه آنچه داشتم را شریک می‌شدم، اما هرچه بزرگ‌تر شدم به نوعی خودخواه شدم. شریک می‌شوم، اما نه به‌اندازه‌ای که یادم می‌آید در جوانی هر چیزی که داشتم را با دوستانم شریک می‌شدم. با به اشتراک گذاشتن این، امیدوارم بتوانم به دیگران کمک کنم نور را ببینند و میل من به شریک شدن با دیگران را در روح واقعی RTM بیشتر کنم.
+
+ما LS‌های زیادی و خم‌های زیادی و FL‌های زیادی روی نمودار می‌بینیم، اما آیا همه‌شان سفارش پرنشده دارند؟ مفاهیم FOF از Salivan من را به فکر انداخت و این چیزی است که فکر می‌کنم هر کسی به‌آسانی می‌تواند استفاده کند. برای اینکه بتوانیم معامله کنیم باید مثل IT فکر کنیم و می‌توانیم ردپایشان را روی نمودار ببینیم. Salivan نشان داده که جریان سفارش کلید است، اما چطور این را در نمودارها ببینیم؟ راه‌های زیادی هست، اما امروز می‌خواهم روشی ساده و تقریباً مکانیکی را شریک شوم که در کوتاه‌ترین زمان شما را به معامله می‌رساند. وقتی این را ببینید و بفهمید چرا ساخته می‌شوند، آن‌گاه خیلی راحت می‌توانید معامله کنید. دیده‌ام بسیاری از مردم دچار فلج تحلیلی می‌شوند و گیر می‌کنند و دلسرد می‌شوند. امیدوارم این به بعضی از شما کمک کند.
+
+باید یادمان باشد IT باید سفارش‌های بزرگ را پر کند و نمی‌تواند این کار را یک‌جا انجام دهد، پس باید قیمت را نگه دارد. ما این را BSZ می‌شناسیم، اما آنچه امروز می‌خواهم نشان دهم این نیست که چطور فراتر از استاپ‌ها در BSZ معامله کنیم، بلکه معاملهٔ DP همان BSZ است؛ یعنی تصمیمی که IT برای شکستن BSZ گرفت.
+
+از آنجا که می‌توان فرض کرد BSZ ساخته شده تا IT استاپ شکار کند، پس باید یک نقطهٔ تصمیم وجود داشته باشد که IT در آن بگوید خوب، حالا سفارش‌های زیادی پر کردیم، بزنیم برویم. آن‌ها BSZ را می‌شکنند و این‌طور استاپ‌ها را می‌زنند و سفارش‌های بیشتری پر می‌کنند. حالا ما یک ردپای کلیدی را می‌شناسیم که IT روی نمودار گذاشته: DP آن‌ها برای زدن BSZ و گرفتن استاپ‌ها. بعد می‌توانیم با خیال راحت فرض کنیم که هنوز چند سفارش روی FTB تا این DP باقی مانده است.
+
+این را در هر مقیاسی می‌توانید پیدا کنید. فقط تارگت‌هایتان را در همان مقیاس نگه دارید.
+
+پینوشت: Salivan اشاره کرد که خواندن بازارها پیش از انتخابات برایش خیلی آسان بود و بعد چیزها عوض شد. تعجب نمی‌کنم اگر در نهایت IT روشش را عوض کند و ما مجبور شویم ساعت‌ها و ساعت‌ها دوباره تحقیق کنیم تا کلید را پیدا کنیم. اما یک چیز قطعی است. FOF همیشه کلید خواهد بود. یاد بگیرید نمودار را نه به شکل باکس‌ها و سر و شانه‌ها، بلکه مثل یک موجود زندهٔ نفس‌کش ببینید که حرکت می‌کند و به سفارش‌هایی که در بازار هستند کشیده می‌شود. جای سفارش‌ها را پیدا کنید و معامله را پیدا کرده‌اید.
+
+ممنون RTM
+
+ممنون Salivan
+
+ممنون IF
+
+### moneydeep_p1_21
+EN: I just realised I've been using crap data. My broker tickmill shows me
+ data for eurgbp on 30 jan 5 in chart making a new high where everywhere
+ else I see it never made a new high.
+
+Can someone please recommend a good broker so I can at least get accurate data.
+FA: تازه فهمیدم داشتم از دادهٔ بی‌ارزش استفاده می‌کردم. بروکر tickmill من دادهٔ eurgbp را در تاریخ 30 ژانویهٔ 5 روی نمودار طوری نشان می‌دهد که یک سقف تازه می‌سازد، در حالی که هر جای دیگر می‌بینم هرگز بالاتر از سقف پیشین نرفته.
+
+کسی می‌تواند یک بروکر خوب معرفی کند تا دست‌کم دادهٔ دقیق داشته باشم.
+
+### moneydeep_p1_22
+EN: FXCM
+FA: FXCM
+
+### moneydeep_p1_23
+EN: This is also tickmill... Are you on demo server?
+FA: این هم tickmill است... روی سرور دمو هستی؟
+
+### moneydeep_p1_24
+EN: zee wrote: This is also tickmill... Are you on demo server?
+
+Yes. so i guess thats why it's off.
+
+I'll use my live acc to chart then. Thanks.
+FA: zee نوشت: این هم tickmill است... روی سرور دمو هستی؟
+
+بله. پس حدس می‌زنم برای همین خراب است.
+
+پس برای نمودار از حساب لایو خودم استفاده می‌کنم. ممنون.
+
+### moneydeep_p1_25
+EN: You can and should download historical data from MetaQuotes for your
+pairs and then refresh for each time frame. It is a pain in the butt
+but it is a necessary evil.
+FA: می‌توانید و باید دادهٔ تاریخی جفت‌ارزهایتان را از MetaQuotes دریافت کنید و بعد هر تایم‌فریم را رفرش کنید. دردسر دارد اما شری لازم است.

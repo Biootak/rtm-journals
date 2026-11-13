@@ -1,0 +1,59 @@
+{
+ "generatedAt": "2026-11-07T15:27:55.276Z",
+ "remainingPages": 96,
+ "remainingPosts": 2018,
+ "remainingChars": 679495,
+ "wavePages": 6,
+ "wavePosts": 136,
+ "waveChars": 131303,
+ "groups": [
+  {
+   "agent": 1,
+   "pages": [
+    "moneydeep-p1"
+   ],
+   "posts": 25,
+   "chars": 31142
+  },
+  {
+   "agent": 2,
+   "pages": [
+    "fxeyes-p3"
+   ],
+   "posts": 24,
+   "chars": 22345
+  },
+  {
+   "agent": 3,
+   "pages": [
+    "andrew-p1"
+   ],
+   "posts": 25,
+   "chars": 20478
+  },
+  {
+   "agent": 4,
+   "pages": [
+    "mel-p1"
+   ],
+   "posts": 25,
+   "chars": 19826
+  },
+  {
+   "agent": 5,
+   "pages": [
+    "edges-p1"
+   ],
+   "posts": 25,
+   "chars": 18785
+  },
+  {
+   "agent": 6,
+   "pages": [
+    "michal238-p3"
+   ],
+   "posts": 12,
+   "chars": 18727
+  }
+ ]
+}

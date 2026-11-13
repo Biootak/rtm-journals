@@ -1,0 +1,7 @@
+{
+  "mukhcin_p6_20": {
+    "issue": "Engulf relationship reversed in the FL chain sentence",
+    "why": "EN says \"FL-C engulfed FL-B\" (C engulfs B), but FA says \"بعد FL-C را FL-B اینگالف می‌کند\" which means B engulfs C — subject/object swapped, breaking the FL-A/FL-B/FL-C chain logic the rest of the post depends on.",
+    "fix": "Mukhcin نوشت: اسکالپ کوچک دیروز؟@_@؟\n\nسلام Mukhcin،\n\nخواندن ژورنالت لذت‌بخش بود. این معاملهٔ EURUSD که گرفتی چشمم را گرفت، امیدوارم اشکالی نداشته باشد چند سؤال بپرسم؟\n\nاهمیت دو خط نقطه‌چین (با برچسب 1 و 2) پایین چیست؟\n\nاین چارت را نگاه کردم، و در تایم‌فریم H1 این را دیدم: FL-A را FL-B اینگالف می‌کند، بعد FL-B را FL-C اینگالف می‌کند.\n\nبعد در چارت 15 دقیقه، می‌بینم FL-E بعد از اینگالف کردن FL-C ساخته می‌شود.\n\nبخشی که نتوانستم بفهمم این است: چه چیزی FL-E را مهم می‌کند؟ چون FL-C را اینگالف کرده؟ اما آن‌وقت چه چیزی C را مهم می‌کند؟\n\nخیلی ممنون برای وقتت.\n\nAK"
+  }
+}

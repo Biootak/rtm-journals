@@ -1,0 +1,8 @@
+{
+  "salivan_p12_9": {
+    "ok": false,
+    "issue": "signature shortened",
+    "why": "EN closes with the signature \"SALIVAN\"; FA writes \"SALIV\", truncating the handle/signature.",
+    "fix": "ممنون دوستم Jurij\n\nاین هم نگاه من در چارت تو، دوستش دارم. ادامه بده رفیق\n\nبا احترام\n\nSALIVAN"
+  }
+}

@@ -1,0 +1,999 @@
+{
+ "generatedAt": "2026-11-07T16:17:21.017Z",
+ "batchFiles": 330,
+ "workFiles": 425,
+ "postsCovered": 7890,
+ "batchKeys": 7877,
+ "emptyTranslations": 0,
+ "extraHashes": 0,
+ "paragraphMismatches": 0,
+ "latinOnlyPostsKeptAsSource": 10,
+ "missingPagesCount": 95,
+ "missingPages": [
+  "andrew-p1",
+  "andrew-p2",
+  "andrew-p3",
+  "andrew-p4",
+  "aran-p1",
+  "aran-p2",
+  "aran-p3",
+  "aran-p4",
+  "aran-p5",
+  "aran-p6",
+  "aran-p7",
+  "aran-p8",
+  "benhur-p1",
+  "benhur-p2",
+  "benhur-p3",
+  "benhur-p4",
+  "benhur-p5",
+  "benhur-p6",
+  "benhur-p7",
+  "benhur-p8",
+  "benhur-p9",
+  "edges-p1",
+  "edges-p2",
+  "edges-p3",
+  "edges-p4",
+  "edges-p5",
+  "edges-p6",
+  "edges-p7",
+  "edges-p8",
+  "einrikr-p1",
+  "einrikr-p2",
+  "einrikr-p3",
+  "einrikr-p4",
+  "einrikr-p5",
+  "einrikr-p6",
+  "fxeyes-p1",
+  "fxeyes-p2",
+  "fxeyes-p3",
+  "fxeyes-p4",
+  "fxeyes-p5",
+  "if-p1",
+  "linos-p1",
+  "linos-p2",
+  "linos-p3",
+  "linos-p4",
+  "linos-p5",
+  "linos-p6",
+  "linos-p7",
+  "linos-p8",
+  "linos-p9",
+  "mel-p1",
+  "mel-p2",
+  "mel-p3",
+  "mel-p4",
+  "mel-p5",
+  "mel-p6",
+  "mel-p7",
+  "michal238-p1",
+  "michal238-p10",
+  "michal238-p11",
+  "michal238-p2",
+  "michal238-p3",
+  "michal238-p4",
+  "michal238-p5",
+  "michal238-p6",
+  "michal238-p7",
+  "michal238-p8",
+  "michal238-p9",
+  "moneydeep-p1",
+  "moneydeep-p2",
+  "moneydeep-p3",
+  "mukhcin-p1",
+  "mukhcin-p2",
+  "mukhcin-p3",
+  "mukhcin-p4",
+  "mukhcin-p5",
+  "mukhcin-p6",
+  "mukhcin-p7",
+  "mukhcin-p8",
+  "mukhcin-p9",
+  "rinehart-p1",
+  "rinehart-p10",
+  "rinehart-p11",
+  "rinehart-p12",
+  "rinehart-p13",
+  "rinehart-p2",
+  "rinehart-p3",
+  "rinehart-p4",
+  "rinehart-p5",
+  "rinehart-p6",
+  "rinehart-p7",
+  "rinehart-p8",
+  "rinehart-p9",
+  "vitaldrug-p10",
+  "vitaldrug-p9"
+ ],
+ "batchOnlyPages": [],
+ "stage4": [
+  {
+   "page": "jurij-p1",
+   "excluded": true,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "jurij-p2",
+   "excluded": true,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "jurij-p3",
+   "excluded": true,
+   "status": "OK",
+   "posts": 21,
+   "keys": 21,
+   "distinctHashes": 21,
+   "issues": []
+  },
+  {
+   "page": "jurij-p4",
+   "excluded": true,
+   "status": "OK",
+   "posts": 18,
+   "keys": 18,
+   "distinctHashes": 18,
+   "issues": []
+  },
+  {
+   "page": "jurij-p5",
+   "excluded": true,
+   "status": "OK",
+   "posts": 24,
+   "keys": 24,
+   "distinctHashes": 24,
+   "issues": []
+  },
+  {
+   "page": "jurij-p6",
+   "excluded": true,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "jurij-p7",
+   "excluded": true,
+   "status": "OK",
+   "posts": 24,
+   "keys": 24,
+   "distinctHashes": 24,
+   "issues": []
+  },
+  {
+   "page": "jurij-p8",
+   "excluded": true,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "jurij-p9",
+   "excluded": true,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "jurij-p10",
+   "excluded": true,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "jurij-p11",
+   "excluded": true,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "jurij-p12",
+   "excluded": true,
+   "status": "OK",
+   "posts": 24,
+   "keys": 24,
+   "distinctHashes": 24,
+   "issues": []
+  },
+  {
+   "page": "jurij-p13",
+   "excluded": true,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "jurij-p14",
+   "excluded": true,
+   "status": "OK",
+   "posts": 24,
+   "keys": 24,
+   "distinctHashes": 24,
+   "issues": []
+  },
+  {
+   "page": "staurum-p8",
+   "excluded": false,
+   "status": "OK",
+   "posts": 24,
+   "keys": 24,
+   "distinctHashes": 24,
+   "issues": []
+  },
+  {
+   "page": "staurum-p9",
+   "excluded": false,
+   "status": "OK",
+   "posts": 24,
+   "keys": 24,
+   "distinctHashes": 24,
+   "issues": []
+  },
+  {
+   "page": "staurum-p10",
+   "excluded": false,
+   "status": "OK",
+   "posts": 24,
+   "keys": 24,
+   "distinctHashes": 24,
+   "issues": []
+  },
+  {
+   "page": "staurum-p11",
+   "excluded": false,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "staurum-p12",
+   "excluded": false,
+   "status": "OK",
+   "posts": 23,
+   "keys": 23,
+   "distinctHashes": 23,
+   "issues": []
+  },
+  {
+   "page": "staurum-p13",
+   "excluded": false,
+   "status": "OK",
+   "posts": 24,
+   "keys": 24,
+   "distinctHashes": 24,
+   "issues": []
+  },
+  {
+   "page": "staurum-p14",
+   "excluded": false,
+   "status": "OK",
+   "posts": 24,
+   "keys": 24,
+   "distinctHashes": 24,
+   "issues": []
+  },
+  {
+   "page": "staurum-p15",
+   "excluded": false,
+   "status": "OK",
+   "posts": 24,
+   "keys": 24,
+   "distinctHashes": 24,
+   "issues": []
+  },
+  {
+   "page": "staurum-p16",
+   "excluded": false,
+   "status": "OK",
+   "posts": 24,
+   "keys": 24,
+   "distinctHashes": 24,
+   "issues": []
+  },
+  {
+   "page": "staurum-p17",
+   "excluded": false,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "staurum-p18",
+   "excluded": false,
+   "status": "OK",
+   "posts": 24,
+   "keys": 24,
+   "distinctHashes": 24,
+   "issues": []
+  },
+  {
+   "page": "staurum-p19",
+   "excluded": false,
+   "status": "OK",
+   "posts": 4,
+   "keys": 4,
+   "distinctHashes": 4,
+   "issues": []
+  },
+  {
+   "page": "lespaul-p8",
+   "excluded": false,
+   "status": "OK",
+   "posts": 24,
+   "keys": 24,
+   "distinctHashes": 24,
+   "issues": []
+  },
+  {
+   "page": "lespaul-p9",
+   "excluded": false,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "lespaul-p10",
+   "excluded": false,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "lespaul-p11",
+   "excluded": false,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "lespaul-p12",
+   "excluded": false,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "lespaul-p13",
+   "excluded": false,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "lespaul-p14",
+   "excluded": false,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "lespaul-p15",
+   "excluded": false,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "lespaul-p16",
+   "excluded": false,
+   "status": "OK",
+   "posts": 24,
+   "keys": 24,
+   "distinctHashes": 24,
+   "issues": []
+  },
+  {
+   "page": "lespaul-p17",
+   "excluded": false,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "lespaul-p18",
+   "excluded": false,
+   "status": "OK",
+   "posts": 14,
+   "keys": 14,
+   "distinctHashes": 14,
+   "issues": []
+  },
+  {
+   "page": "fulljournal-p1",
+   "excluded": false,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "fulljournal-p2",
+   "excluded": false,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "fulljournal-p3",
+   "excluded": false,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "fulljournal-p4",
+   "excluded": false,
+   "status": "OK",
+   "posts": 23,
+   "keys": 23,
+   "distinctHashes": 23,
+   "issues": []
+  },
+  {
+   "page": "fulljournal-p5",
+   "excluded": false,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "fulljournal-p6",
+   "excluded": false,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "fulljournal-p7",
+   "excluded": false,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "fulljournal-p8",
+   "excluded": false,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "fulljournal-p9",
+   "excluded": false,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "fulljournal-p10",
+   "excluded": false,
+   "status": "OK",
+   "posts": 23,
+   "keys": 23,
+   "distinctHashes": 23,
+   "issues": []
+  },
+  {
+   "page": "fulljournal-p11",
+   "excluded": false,
+   "status": "OK",
+   "posts": 14,
+   "keys": 14,
+   "distinctHashes": 14,
+   "issues": []
+  },
+  {
+   "page": "extremerrage-p1",
+   "excluded": false,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "extremerrage-p2",
+   "excluded": false,
+   "status": "OK",
+   "posts": 24,
+   "keys": 24,
+   "distinctHashes": 24,
+   "issues": []
+  },
+  {
+   "page": "extremerrage-p3",
+   "excluded": false,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "extremerrage-p4",
+   "excluded": false,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "extremerrage-p5",
+   "excluded": false,
+   "status": "OK",
+   "posts": 25,
+   "keys": 24,
+   "distinctHashes": 24,
+   "issues": []
+  },
+  {
+   "page": "extremerrage-p6",
+   "excluded": false,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "extremerrage-p7",
+   "excluded": false,
+   "status": "OK",
+   "posts": 25,
+   "keys": 24,
+   "distinctHashes": 24,
+   "issues": []
+  },
+  {
+   "page": "extremerrage-p8",
+   "excluded": false,
+   "status": "OK",
+   "posts": 24,
+   "keys": 24,
+   "distinctHashes": 24,
+   "issues": []
+  },
+  {
+   "page": "extremerrage-p9",
+   "excluded": false,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "extremerrage-p10",
+   "excluded": false,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "extremerrage-p11",
+   "excluded": false,
+   "status": "OK",
+   "posts": 9,
+   "keys": 9,
+   "distinctHashes": 9,
+   "issues": []
+  },
+  {
+   "page": "astrokillah-p8",
+   "excluded": false,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "astrokillah-p9",
+   "excluded": false,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "astrokillah-p10",
+   "excluded": false,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "astrokillah-p11",
+   "excluded": false,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "astrokillah-p12",
+   "excluded": false,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "astrokillah-p13",
+   "excluded": false,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "astrokillah-p14",
+   "excluded": false,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "astrokillah-p15",
+   "excluded": false,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "astrokillah-p16",
+   "excluded": false,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "astrokillah-p17",
+   "excluded": false,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "omidfx-p1",
+   "excluded": true,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "omidfx-p2",
+   "excluded": true,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "omidfx-p3",
+   "excluded": true,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "omidfx-p4",
+   "excluded": true,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "omidfx-p5",
+   "excluded": true,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "omidfx-p6",
+   "excluded": true,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "omidfx-p7",
+   "excluded": true,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "omidfx-p8",
+   "excluded": true,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "omidfx-p9",
+   "excluded": true,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "omidfx-p10",
+   "excluded": true,
+   "status": "OK",
+   "posts": 23,
+   "keys": 23,
+   "distinctHashes": 23,
+   "issues": []
+  },
+  {
+   "page": "vitaldrug-p1",
+   "excluded": true,
+   "status": "OK",
+   "posts": 24,
+   "keys": 24,
+   "distinctHashes": 24,
+   "issues": []
+  },
+  {
+   "page": "vitaldrug-p2",
+   "excluded": true,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "vitaldrug-p3",
+   "excluded": true,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "vitaldrug-p4",
+   "excluded": true,
+   "status": "OK",
+   "posts": 24,
+   "keys": 24,
+   "distinctHashes": 24,
+   "issues": []
+  },
+  {
+   "page": "vitaldrug-p5",
+   "excluded": true,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "vitaldrug-p6",
+   "excluded": true,
+   "status": "OK",
+   "posts": 24,
+   "keys": 24,
+   "distinctHashes": 24,
+   "issues": []
+  },
+  {
+   "page": "vitaldrug-p7",
+   "excluded": true,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  },
+  {
+   "page": "vitaldrug-p8",
+   "excluded": true,
+   "status": "OK",
+   "posts": 25,
+   "keys": 25,
+   "distinctHashes": 25,
+   "issues": []
+  }
+ ],
+ "anomalies": [
+  {
+   "page": "extremerrage-p5",
+   "type": "SHARED_HASH_VALUE",
+   "id": "extremerrage_p5_25",
+   "detail": "same as extremerrage_p5_24"
+  },
+  {
+   "page": "extremerrage-p7",
+   "type": "LATIN_ONLY_SAME_AS_SOURCE",
+   "id": "extremerrage_p7_16",
+   "detail": "\"fiber\""
+  },
+  {
+   "page": "if-p108",
+   "type": "SHARED_HASH_VALUE",
+   "id": "if_p108_24",
+   "detail": "same as if_p108_23"
+  },
+  {
+   "page": "if-p127",
+   "type": "SHARED_HASH_VALUE",
+   "id": "if_p127_24",
+   "detail": "same as if_p127_23"
+  },
+  {
+   "page": "if-p131",
+   "type": "LATIN_ONLY_SAME_AS_SOURCE",
+   "id": "if_p131_4",
+   "detail": "\"Hugo\""
+  },
+  {
+   "page": "if-p68",
+   "type": "LATIN_ONLY_SAME_AS_SOURCE",
+   "id": "if_p68_9",
+   "detail": "\"..\""
+  },
+  {
+   "page": "if-p9",
+   "type": "SHARED_HASH_VALUE",
+   "id": "if_p9_17",
+   "detail": "same as if_p9_16"
+  },
+  {
+   "page": "if-p96",
+   "type": "SHARED_HASH_VALUE",
+   "id": "if_p96_21",
+   "detail": "same as if_p96_20"
+  },
+  {
+   "page": "jurij-p1",
+   "type": "LATIN_ONLY_SAME_AS_SOURCE",
+   "id": "jurij_p1_7",
+   "detail": "\"EURJPY 30m\""
+  },
+  {
+   "page": "jurij-p14",
+   "type": "LATIN_ONLY_SAME_AS_SOURCE",
+   "id": "jurij_p14_8",
+   "detail": "\"AUDUSD\""
+  },
+  {
+   "page": "jurij-p7",
+   "type": "LATIN_ONLY_SAME_AS_SOURCE",
+   "id": "jurij_p7_17",
+   "detail": "\"EURGBP 1H/30m SPAZ\""
+  },
+  {
+   "page": "pedini-p9",
+   "type": "SHARED_HASH_VALUE",
+   "id": "pedini_p9_7",
+   "detail": "same as pedini_p9_6"
+  },
+  {
+   "page": "salivan-p10",
+   "type": "SHARED_HASH_VALUE",
+   "id": "salivan_p10_7",
+   "detail": "same as salivan_p10_6"
+  },
+  {
+   "page": "salivan-p13",
+   "type": "LATIN_ONLY_SAME_AS_SOURCE",
+   "id": "salivan_p13_12",
+   "detail": "\"GOLD\""
+  },
+  {
+   "page": "salivan-p15",
+   "type": "LATIN_ONLY_SAME_AS_SOURCE",
+   "id": "salivan_p15_22",
+   "detail": "\"QM\""
+  },
+  {
+   "page": "salivan-p4",
+   "type": "LATIN_ONLY_SAME_AS_SOURCE",
+   "id": "salivan_p4_6",
+   "detail": "\"SALIVAN\""
+  },
+  {
+   "page": "vitaldrug-p2",
+   "type": "LATIN_ONLY_SAME_AS_SOURCE",
+   "id": "vitaldrug_p2_7",
+   "detail": "\":(\""
+  }
+ ]
+}

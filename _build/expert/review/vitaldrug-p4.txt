@@ -1,0 +1,334 @@
+### vitaldrug_p4_1
+EN: thank you Jurij
+FA: ممنون Jurij
+
+### vitaldrug_p4_2
+EN: Thank you Jurij. What is that software you used to get 10 sec data? in MT4 the smallest possible TF is 1 min.
+
+Jurij wrote:
+ViTaLDRuG wrote: [...]
+
+There is another question I have. After looking at your last chart, I am
+ confused how you have marked your light blue color FL. How did you draw
+ that? I cannot see clear key level to the left. Did you simply marked
+as it hold the price up?
+
+Not salivan, but this could be the reason for the light blue FL
+
+Hope this helps
+
+cya
+FA: ممنون Jurij. آن نرم‌افزاری که با آن داده‌های 10 ثانیه‌ای می‌گرفتی چیست؟ در MT4 کوچک‌ترین تایم‌فریم ممکن 1 دقیقه است.
+
+Jurij نوشت:
+ViTaLDRuG نوشت: [...]
+
+یک سؤال دیگر هم دارم. بعد از دیدن آخرین چارتت، گیج شده‌ام که آن FL آبی روشن را چطور علامت زده‌ای. آن را چگونه رسم کردی؟ هیچ سطح کلیدی مشخصی در سمت چپ نمی‌بینم. فقط به این دلیل که قیمت را بالا نگه داشته، علامت زده‌ای؟
+
+من salivan نیستم، اما این می‌تواند دلیل آن FL آبی روشن باشد
+
+امیدوارم کمک‌کننده باشد
+
+بعداً می‌بینمت
+
+### vitaldrug_p4_3
+EN: ViTaLDRuG, it is a website, check out this
+	dedicated thread
+FA: ViTaLDRuG، یک وب‌سایت است، این تاپیک اختصاصی را ببین
+
+### vitaldrug_p4_4
+EN: AUDCAD trade.
+
+HTF
+
+LTF
+
+The trade.
+
+What could have been done better
+FA: معاملهٔ AUDCAD.
+
+تایم‌فریم بالاتر
+
+تایم‌فریم پایین‌تر
+
+خودِ معامله.
+
+چه کاری می‌شد بهتر انجام داد
+
+### vitaldrug_p4_5
+EN: Hey ViTaLDRuG
+
+Nice to see you again after a while
+
+Beautiful trade as always
+
+Just want to ask a question about your entries. why After closing the
+First one you entered your second one right where was your first target?
+
+If you use two entries at the same lvl you can close one at your first
+target and your second one still will be at the top and you will be
+protected from further loss and more drawdown! Because as you know price
+ can come back to your entry to hit more stop losses or even a FO!
+
+Regards
+FA: سلام ViTaLDRuG
+
+خوشحالم بعد از مدتی دوباره می‌بینمت
+
+مثل همیشه معاملهٔ زیبایی بود
+
+فقط می‌خواهم سؤالی دربارهٔ ورودهایت بپرسم. چرا بعد از بستن ورود اول، ورود دومت را دقیقاً همان‌جایی زدی که تارگت اولت بود؟
+
+اگر دو ورود در یک سطح داشته باشی، می‌توانی یکی را در تارگت اول ببندی و دومی همچنان بالای سرت بماند و از ضرر بیشتر و دراودان اضافی محافظت شوی! چون همان‌طور که می‌دانی قیمت می‌تواند به ورودت برگردد تا استاپ‌لاس‌های بیشتری یا حتی یک FO را بزند!
+
+با احترام
+
+### vitaldrug_p4_6
+EN: Hey Omid,
+
+This is my demo account. This is how I do it. Lets say my lot size is
+2X. lets say my SL risks 20 dollars. I close X lots when I have gained
+more than 20 or 25 dollars and let the other X lot to run further. Even
+if I hit the SL I will be in profit with 5 dollars.
+
+I didn't manually open the second trade. I only closed half of the
+order. Then MT4 automatically opens another order where i closed the
+half with the remaining lot size and with the same SL. That's how the
+MT4 works when half of the order is closed. I am not sure If I answered
+your query.
+FA: سلام Omid،
+
+این حساب دموی من است. من این‌طور انجامش می‌دهم. فرض کن حجم لات من 2X است. فرض کن استاپ‌لاس من 20 دلار ریسک دارد. وقتی بیش از 20 یا 25 دلار سود کرده‌ام، X لات را می‌بندم و می‌گذارم آن X لات دیگر جلوتر برود. حتی اگر استاپ‌لاس بخورد، با 5 دلار در سود خواهم بود.
+
+من معاملهٔ دوم را دستی باز نکردم. فقط نصف سفارش را بستم. بعد MT4 به‌طور خودکار سفارش دیگری همان‌جا که نصف را بستم، با حجم لات باقی‌مانده و با همان استاپ‌لاس باز می‌کند. وقتی نصف سفارش بسته می‌شود، MT4 همین‌طور کار می‌کند. مطمئن نیستم که به سؤالت جواب داده باشم.
+
+### vitaldrug_p4_7
+EN: ViTaLDRuG wrote: Hey Omid,
+
+This is my demo account. This is how I do it. Lets say my lot size is
+2X. lets say my SL risks 20 dollars. I close X lots when I have gained
+more than 20 or 25 dollars and let the other X lot to run further. Even
+if I hit the SL I will be in profit with 5 dollars.
+
+I didn't manually open the second trade. I only closed half of the
+order. Then MT4 automatically opens another order where i closed the
+half with the remaining lot size and with the same SL. That's how the
+MT4 works when half of the order is closed. I am not sure If I answered
+your query.
+
+Nice MM.
+
+I use the same when I am not sure about an entry.
+
+Once it hits your first tp &covers SL ,it's like a stress free entry :D
+FA: ViTaLDRuG نوشت: سلام Omid،
+
+این حساب دموی من است. من این‌طور انجامش می‌دهم. فرض کن حجم لات من 2X است. فرض کن استاپ‌لاس من 20 دلار ریسک دارد. وقتی بیش از 20 یا 25 دلار سود کرده‌ام، X لات را می‌بندم و می‌گذارم آن X لات دیگر جلوتر برود. حتی اگر استاپ‌لاس بخورد، با 5 دلار در سود خواهم بود.
+
+من معاملهٔ دوم را دستی باز نکردم. فقط نصف سفارش را بستم. بعد MT4 به‌طور خودکار سفارش دیگری همان‌جا که نصف را بستم، با حجم لات باقی‌مانده و با همان استاپ‌لاس باز می‌کند. وقتی نصف سفارش بسته می‌شود، MT4 همین‌طور کار می‌کند. مطمئن نیستم که به سؤالت جواب داده باشم.
+
+مدیریت سرمایهٔ قشنگی است.
+
+وقتی از یک ورود مطمئن نیستم، من هم همین کار را می‌کنم.
+
+وقتی تارگت اول را بزند و استاپ‌لاس را پوشش دهد، مثل یک ورود بدون استرس است :D
+
+### vitaldrug_p4_8
+EN: Oh very good
+
+As my broker doesn't have the same features i have to use two or more separate entry for my trades
+FA: آه، خیلی خوب
+
+چون بروکر من این قابلیت‌ها را ندارد، مجبورم برای معاملاتم از دو یا چند ورود جداگانه استفاده کنم
+
+### vitaldrug_p4_9
+EN: omidfxt wrote: Oh very good
+
+As my broker doesn't have the same features i have to use two or more separate entry for my trades
+
+What platform do you use ?
+
+MetaTrader and cTrader have this option.
+FA: omidfxt نوشت: آه، خیلی خوب
+
+چون بروکر من این قابلیت‌ها را ندارد، مجبورم برای معاملاتم از دو یا چند ورود جداگانه استفاده کنم
+
+از چه پلتفرمی استفاده می‌کنی؟
+
+MetaTrader و cTrader این گزینه را دارند.
+
+### vitaldrug_p4_10
+EN: timos wrote:
+omidfxt wrote: Oh very good
+
+As my broker doesn't have the same features i have to use two or more separate entry for my trades
+
+What platform do you use ?
+
+MetaTrader and cTrader have this option.
+
+Hey timos
+
+I don't want to pollute ViTaLDRuG's journal
+
+So let's use private message
+
+Thank you
+FA: timos نوشت:
+omidfxt نوشت: آه، خیلی خوب
+
+چون بروکر من این قابلیت‌ها را ندارد، مجبورم برای معاملاتم از دو یا چند ورود جداگانه استفاده کنم
+
+از چه پلتفرمی استفاده می‌کنی؟
+
+MetaTrader و cTrader این گزینه را دارند.
+
+سلام timos
+
+نمی‌خواهم ژورنال ViTaLDRuG را شلوغ کنم
+
+پس بیا از پیام خصوصی استفاده کنیم
+
+ممنون
+
+### vitaldrug_p4_11
+EN: Come on man!.. post it anywhere you want.. Others should know if they dont know
+FA: بیخیال مرد!.. هرجا دلت می‌خواهد پستش کن.. اگر بقیه نمی‌دانند، باید بدانند
+
+### vitaldrug_p4_12
+EN: USDJPY trades..
+
+HTF
+
+LTF
+FA: معاملات USDJPY..
+
+تایم‌فریم بالاتر
+
+تایم‌فریم پایین‌تر
+
+### vitaldrug_p4_14
+EN: Thank you Staurum! I never looked at it in that way. Thank you again.
+FA: ممنون Staurum! من هرگز از آن زاویه به آن نگاه نکرده بودم. دوباره ممنون.
+
+### vitaldrug_p4_15
+EN: You'r very much welcome, sir. Maybe zoom out to Daily/Weekly, there s
+an explanation of why the strong rejection. I just happened to peek and
+post it
+	readthemarket.com/index.php/en/forum/jou...gging?start=25#57444
+
+:)
+FA: خیلی هم خواهش می‌کنم، قربان. شاید یک زوم‌اوت به تایم‌فریم روزانه/هفتگی بزنی؛ آنجا توضیحی برای آن ریجکشن قوی هست. من فقط تصادفی نگاه کردم و آن را پست کردم
+	readthemarket.com/index.php/en/forum/jou...gging?start=25#57444
+
+:)
+
+### vitaldrug_p4_16
+EN: Missed the entry by 2 pips..
+FA: ورود را با 2 پیپ از دست دادم..
+
+### vitaldrug_p4_17
+EN: lol.... the master missed it too. :p (
+	readthemarket.com/index.php/en/forum/jou...urnal?start=75#57725
+)
+FA: هه.... استاد هم از دستش داد. :p (
+	readthemarket.com/index.php/en/forum/jou...urnal?start=75#57725
+)
+
+### vitaldrug_p4_18
+EN: Hmm.. I dont understand why he has chosen that "L" there..
+FA: هوم.. نمی‌فهمم چرا آن "L" را آنجا انتخاب کرده..
+
+### vitaldrug_p4_19
+EN: Isnt it so obvious?
+
+In a supply zone, we have H -> L -> FO (Higher High) -> then LL, next to short is QM level
+FA: مگر آن‌قدر واضح نیست؟
+
+در یک ناحیهٔ عرضه، H -> L -> FO (سقف بالاتر) -> و بعد LL داریم، و کنار شورت، سطح QM است
+
+### vitaldrug_p4_20
+EN: Yes. right. But why the low at 1.05060 and not the low at 1.05000? I considered 1.05000 for the "L" level
+FA: بله، درست است. اما چرا کف 1.05060 و نه کف 1.05000؟ من 1.05000 را برای سطح "L" در نظر گرفتم
+
+### vitaldrug_p4_21
+EN: ViTaLDRuG wrote: Missed the entry by 2 pips..
+
+hello ViTaLDRuG
+
+well done bro.how & why you put your Buy in there?
+FA: ViTaLDRuG نوشت: ورود را با 2 پیپ از دست دادم..
+
+سلام ViTaLDRuG
+
+آفرین برادر. چطور و چرا خریدت را آنجا گذاشتی؟
+
+### vitaldrug_p4_22
+EN: Hey aliforex,
+
+It was a QM level which goes back to 2015.03.16.
+FA: سلام aliforex،
+
+یک سطح QM بود که به 2015.03.16 برمی‌گردد.
+
+### vitaldrug_p4_23
+EN: ViTaLDRuG wrote: Hey aliforex,
+
+It was a QM level which goes back to 2015.03.16.
+
+Thank you for answering, but i cannot underestand why you do not look for entry in second zone?
+
+that demand area you mark it is important ? why?
+
+thank you
+FA: ViTaLDRuG نوشت: سلام aliforex،
+
+یک سطح QM بود که به 2015.03.16 برمی‌گردد.
+
+ممنون که جواب دادی، اما نمی‌فهمم چرا دنبال ورود در ناحیهٔ دوم نمی‌گردی؟
+
+آن ناحیهٔ تقاضایی که علامت زده‌ای مهم است؟ چرا؟
+
+متشکرم
+
+### vitaldrug_p4_24
+EN: Very important question aliforex!
+
+I was going to post the reason about the trick. But since you ask about it, I thought of posting a complete answer.
+
+There were three webinars by IF recently. The first webinar actually was about this type of trick.
+
+The IT creates a strong support and makes us retailers think that it is
+the lowest possible the price can go and it will hold in future
+
+Please refer to below two images
+
+Correction : 7. Once the price hit the support level, the uptrend
+starts. Retailers will definitely think that the price is not going
+further down. (For RTMers, this may be CP)
+FA: سؤال بسیار مهمی است aliforex!
+
+قرار بود دلیل مربوط به آن ترفند را پست کنم. اما چون تو درباره‌اش پرسیدی، گفتم جواب کاملی بنویسم.
+
+اخیراً سه وبینار از IF برگزار شد. وبینار اول در واقع دربارهٔ همین نوع ترفند بود.
+
+IT یک حمایت قوی می‌سازد و ما خرده‌تریدرها را به این باور می‌رساند که این پایین‌ترین جایی است که قیمت می‌تواند برود و در آینده هم دوام می‌آورد
+
+لطفاً به دو تصویر زیر نگاه کن
+
+اصلاحیه: 7. وقتی قیمت به سطح حمایت می‌رسد، روند صعودی
+شروع می‌شود. خرده‌تریدرها قطعاً فکر می‌کنند که قیمت پایین‌تر
+نخواهد رفت. (برای RTMers، این می‌تواند CP باشد)
+
+### vitaldrug_p4_25
+EN: Thank you my bro for your answer .
+
+and can i access to this webinar? those are privet or public?
+
+best regards
+FA: برادر، ممنون از جوابت.
+
+و من می‌توانم به این وبینار دسترسی داشته باشم؟ خصوصی هستند یا عمومی؟
+
+با بهترین احترام

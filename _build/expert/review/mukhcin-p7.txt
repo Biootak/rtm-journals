@@ -1,0 +1,262 @@
+### mukhcin_p7_1
+EN: something is going wrong this week:cry: my broker don't want me enter the market...or i am doing something wrong...
+FA: این هفته یک چیزی دارد اشتباه پیش می‌رود:cry: انگار بروکر من نمی‌خواهد بگذارد وارد بازار شوم... یا شاید من دارم کاری را اشتباه انجام می‌دهم...
+
+### mukhcin_p7_4
+EN: Oh man, you should have stayed on and watched it. I got in when it
+tested that low for the second time, it was a beautiful QM! (see my
+journal)Mukhcin wrote: something is going wrong this week:cry: my broker don't want me enter the market...or i am doing something wrong...
+FA: ای بابا، باید می‌ماندی و تماشایش می‌کردی. من وقتی برای بار دوم آن کف را تست کرد، وارد شدم؛ یک QM زیبا بود! (ژورنال من را ببین)Mukhcin نوشت: این هفته یک چیزی دارد اشتباه پیش می‌رود:cry: انگار بروکر من نمی‌خواهد بگذارد وارد بازار شوم... یا شاید من دارم کاری را اشتباه انجام می‌دهم...
+
+### mukhcin_p7_5
+EN: i'll become crazy some day with this broker!!!
+FA: یک روز با این بروکر دیوانه می‌شوم!!!
+
+### mukhcin_p7_6
+EN: Do you have fixed spread or changing?
+
+My broker(and also data at f.eg tradingview) didn't have that spike down at all
+
+i'm pasting ask and bid(and details in this small windows - price on the only spike i have)
+FA: اسپردت ثابت است یا متغیر؟
+
+بروکر من (و همچنین داده‌های مثلاً tradingview) اصلاً آن اسپایک به پایین را نداشت
+
+دارم ask و bid را می‌گذارم (و جزئیات در این پنجره‌های کوچک — قیمت روی تنها اسپایکی که دارم)
+
+### mukhcin_p7_7
+EN: Ysbail wrote: Do you have fixed spread or changing?
+
+My broker(and also data at f.eg tradingview) didn't have that spike down at all
+
+i'm pasting ask and bid(and details in this small windows - price on the only spike i have)
+
+my broker has changing spreads, what makes me angry that he changes
+spreads when you have order in right places...look at that zone, price
+made at least 3 RR move in some 20 minutes. maybe it's time to change
+broker...Oanda is a rubbish...
+
+PS. Thanks Y for showing a spike which shouldn't be there))) and welcome
+FA: Ysbail نوشت: اسپردت ثابت است یا متغیر؟
+
+بروکر من (و همچنین داده‌های مثلاً tradingview) اصلاً آن اسپایک به پایین را نداشت
+
+دارم ask و bid را می‌گذارم (و جزئیات در این پنجره‌های کوچک — قیمت روی تنها اسپایکی که دارم)
+
+بروکر من اسپرد متغیر دارد، و چیزی که عصبانی‌ام می‌کند این است که وقتی سفارشت را در جای درست گذاشته‌ای، اسپرد را تغییر می‌دهد... آن ناحیه را نگاه کن، قیمت در حدود 20 دقیقه دست‌کم 3 RR حرکت کرد. شاید وقت تغییر بروکر باشد... Oanda که آشغال است...
+
+پ.ن. ممنون Y که اسپایکی را نشان دادی که نباید آنجا می‌بود))) و خوش آمدی
+
+### mukhcin_p7_8
+EN: Hey man, did this trade of yours got triggered?
+
+Mukhcin wrote:
+
+I was looking at the same pair, I have decided to place my PO a little
+higher because I saw a kink that lines up with more interesting history.
+ I am sure you saw that kink too. I was wondering if you could teach me
+why you have decided to trade lower (at point 1 in my diagram below), do
+ you have PO at point 2 also?
+
+Thanks man!
+
+AK
+FA: سلام رفیق، این معامله‌ات فعال شد؟
+
+Mukhcin نوشت:
+
+من هم همان جفت‌ارز را نگاه می‌کردم، تصمیم گرفتم سفارش معلقم را کمی بالاتر بگذارم چون کینکی دیدم که با تاریخچهٔ جالب‌تری هم‌راستا است. مطمئنم تو هم آن کینک را دیدی. کنجکاوم بدانم چرا تصمیم گرفتی پایین‌تر معامله کنی (نقطهٔ 1 در نمودار زیر)؛ آیا در نقطهٔ 2 هم سفارش معلق داری؟
+
+ممنون رفیق!
+
+AK
+
+### mukhcin_p7_9
+EN: Astrokillah wrote: Hey man, did this trade of yours got triggered?
+
+Mukhcin wrote:
+
+I was looking at the same pair, I have decided to place my PO a little
+higher because I saw a kink that lines up with more interesting history.
+ I am sure you saw that kink too. I was wondering if you could teach me
+why you have decided to trade lower (at point 1 in my diagram below), do
+ you have PO at point 2 also?
+
+yeah, it got triggered, half closed at tg1, rest is still open...trying to improve my patience, waiting tg2.
+
+i marked the zone higher, but do not have orders there yet...
+
+thanks
+FA: Astrokillah نوشت: سلام رفیق، این معامله‌ات فعال شد؟
+
+Mukhcin نوشت:
+
+من هم همان جفت‌ارز را نگاه می‌کردم، تصمیم گرفتم سفارش معلقم را کمی بالاتر بگذارم چون کینکی دیدم که با تاریخچهٔ جالب‌تری هم‌راستا است. مطمئنم تو هم آن کینک را دیدی. کنجکاوم بدانم چرا تصمیم گرفتی پایین‌تر معامله کنی (نقطهٔ 1 در نمودار زیر)؛ آیا در نقطهٔ 2 هم سفارش معلق داری؟
+
+بله، فعال شد، نصف در tg1 بسته شد، بقیه هنوز باز است... دارم تلاش می‌کنم صبرم را بیشتر کنم و منتظر tg2 هستم.
+
+ناحیهٔ بالاتر را علامت زده‌ام، ولی هنوز سفارشی آنجا ندارم...
+
+ممنون
+
+### mukhcin_p7_10
+EN: thank Mukhcin, I think I am seeing a future Master at work.. you have
+just showed me that I need pay attention to details.. this 1-min chart
+below is beautiful and it's no wonder why you placed this trade.
+
+Mukhcin wrote: yeah, it got triggered, half closed at tg1, rest is still open...trying to improve my patience, waiting tg2.
+
+i marked the zone higher, but do not have orders there yet...
+
+thanks
+FA: ممنون Mukhcin، فکر می‌کنم دارم یک استاد آینده را در حال کار می‌بینم.. همین حالا نشانم دادی که باید به جزئیات توجه کنم.. این چارت 1-دقیقه‌ای زیر زیباست و جای تعجب نیست که چرا این معامله را گذاشتی.
+
+Mukhcin نوشت: بله، فعال شد، نصف در tg1 بسته شد، بقیه هنوز باز است... دارم تلاش می‌کنم صبرم را بیشتر کنم و منتظر tg2 هستم.
+
+ناحیهٔ بالاتر را علامت زده‌ام، ولی هنوز سفارشی آنجا ندارم...
+
+ممنون
+
+### mukhcin_p7_11
+EN: Astrokillah wrote: thank
+Mukhcin, I think I am seeing a future Master at work.. you have just
+showed me that I need pay attention to details.. this 1-min chart below
+is beautiful and it's no wonder why you placed this trade.
+
+Mukhcin wrote: yeah, it got triggered, half closed at tg1, rest is still open...trying to improve my patience, waiting tg2.
+
+i marked the zone higher, but do not have orders there yet...
+
+thanks
+
+Thanks A. i have much to
+learn yet,but i think i have first step to consistency...Thanks to IF
+and masters,i am getting confidence in my trades. IF says TRADE THE
+EXTREMES. Master Sali has FOF theory. this FOF is the same with TRADE
+THE EXTREMES in my opinion. last two weeks i don't have SL hit problem, i
+ have a problem of not triggering pending orders...that's awesome.i
+believe that everybody who spends much time with RTM, is destined to be
+profitable.
+
+thanks RTM
+FA: Astrokillah نوشت: ممنون Mukhcin، فکر می‌کنم دارم یک استاد آینده را در حال کار می‌بینم.. همین حالا نشانم دادی که باید به جزئیات توجه کنم.. این چارت 1-دقیقه‌ای زیر زیباست و جای تعجب نیست که چرا این معامله را گذاشتی.
+
+Mukhcin نوشت: بله، فعال شد، نصف در tg1 بسته شد، بقیه هنوز باز است... دارم تلاش می‌کنم صبرم را بیشتر کنم و منتظر tg2 هستم.
+
+ناحیهٔ بالاتر را علامت زده‌ام، ولی هنوز سفارشی آنجا ندارم...
+
+ممنون
+
+ممنون A. هنوز چیزهای زیادی برای یاد گرفتن دارم، ولی فکر می‌کنم اولین قدم به سمت ثبات را برداشته‌ام... به لطف IF و استادها، در معامله‌هایم اعتماد به نفس پیدا می‌کنم. IF می‌گوید در نقاط انتهایی معامله کن (TRADE THE EXTREMES). استاد Sali نظریهٔ FOF را دارد. به‌نظر من این FOF همان TRADE THE EXTREMES است. دو هفتهٔ گذشته دیگر مشکل خوردن استاپ‌لاس ندارم؛ مشکل من فعال نشدن سفارش‌های معلق است... و این فوق‌العاده است. باور دارم هر کسی که وقت زیادی را با RTM بگذراند، سرنوشتش این است که سودده شود.
+
+ممنون RTM
+
+### mukhcin_p7_12
+EN: target 1 taken. rest is stress free...
+FA: تارگت 1 گرفته شد. بقیه بدون استرس...
+
+### mukhcin_p7_13
+EN: end of the week. nice weekends to everyone?@_@?
+FA: پایان هفته. آخر هفتهٔ خوبی داشته باشید همه؟@_@؟
+
+### mukhcin_p7_14
+EN: Oh nice! I was waiting at 1.1662 but it didn't reach that low!
+
+Mukhcin wrote: end of the week. nice weekends to everyone?@_@?
+FA: چه خوب! من روی 1.1662 منتظر بودم ولی قیمت تا آن پایین نرسید!
+
+Mukhcin نوشت: پایان هفته. آخر هفتهٔ خوبی داشته باشید همه؟@_@؟
+
+### mukhcin_p7_15
+EN: started reading Sali's journal 4th time...every time i get something new...thanks Sali for sharing your knowledge...
+FA: برای بار چهارم شروع کردم ژورنال Sali را بخوانم... هر بار چیز تازه‌ای دستم می‌آید... ممنون Sali که دانشت را به اشتراک می‌گذاری...
+
+### mukhcin_p7_16
+EN: closed 2nd half of the trade...
+FA: نیمهٔ دوم معامله را بستم...
+
+### mukhcin_p7_17
+EN: That's just lovely
+
+For anybody wondering why the trade lines aren't the normal colour: I
+wondered about that too, but there's an indicator there which colours
+lines differently depending upon which timeframe is open when they're
+applied
+FA: این واقعاً دلنشین است
+
+برای هر کسی که تعجب کرده چرا خطوط معامله رنگ معمول را ندارند: من هم دربارهٔ آن فکر کردم، ولی آنجا یک اندیکاتور هست که بسته به اینکه هنگام اعمال، کدام تایم‌فریم باز باشد، خطوط را با رنگ متفاوت نشان می‌دهد
+
+### mukhcin_p7_18
+EN: Thanks IF for stopping by. for all my success i owe you, masters and
+other RTM members. thanks a lot to everyone contributing to this
+community by commenting, critiquing, asking and answering. every
+question, every answer to questions is a gold mine.
+
+had a question about my watchlist from Pinkpanter. don't want to pollute
+ IF's journal, so will answer here. all majors, almost all xxx/jpy pairs
+ and eur/xxx pairs excluding eur/nzd. from gbp pairs i have only gbp/jpy
+ and gbp/usd. all other pairs excluded because of the weekend spreads.
+it makes you cry when you have brilliant PO with some 10 pip SL, but
+because spreads widen up to 60, your SL taken immediately...
+FA: ممنون IF که سر زدی. تمام موفقیت‌ام را مدیون تو، استادها و دیگر اعضای RTM هستم. از همه کسانی که با کامنت گذاشتن، نقد کردن، پرسیدن و جواب دادن در این جامعه سهیم‌اند خیلی ممنونم. هر سؤال و هر جوابی به سؤال‌ها یک معدن طلاست.
+
+Pinkpanter دربارهٔ واچ‌لیستم سؤالی پرسیده بود. نمی‌خواهم ژورنال IF را آلوده کنم، پس اینجا جواب می‌دهم. همهٔ جفت‌ارزهای اصلی، تقریباً همهٔ جفت‌های xxx/jpy و جفت‌های eur/xxx به‌جز eur/nzd. از جفت‌های gbp فقط gbp/jpy و gbp/usd را دارم. بقیهٔ جفت‌ها به‌خاطر اسپردهای آخر هفته حذف شده‌اند. وقتی یک سفارش معلق درخشان با استاپ‌لاس حدود 10 پیپ داری، ولی اسپرد تا 60 باز می‌شود و استاپ‌لاس‌ات همان لحظه می‌خورد، حالت به گریه می‌افتد...
+
+### mukhcin_p7_19
+EN: I will update my watch list and change broker...
+
+BTW, i was trading with FT3 and i doscover nice trade setup... But i have some questions...
+
+Please put your decorations on chart as well :=)
+FA: لیست واچ‌لیستم را به‌روز می‌کنم و بروکر را عوض می‌کنم...
+
+راستی، با FT3 معامله می‌کردم و یک ستاپ خوب کشف کردم... ولی چند سؤال دارم...
+
+لطفاً تزئین‌هایت را هم روی چارت بگذار :=)
+
+### mukhcin_p7_20
+EN: Ever heard of a diamond?!
+FA: تا حالا اسم الماس به گوشت خورده؟!
+
+### mukhcin_p7_21
+EN: i was so much in decisoins, FL limits... last month i was researching
+mostly decisions... now i have to work on reactions and approach also
+
+here is corrected one... i think this is what you think about it..
+FA: من خیلی درگیر تصمیم‌ها و لیمیت‌های FL بودم... ماه گذشته بیشتر روی تصمیم‌ها تحقیق می‌کردم... حالا باید روی واکنش‌ها و رویکرد هم کار کنم
+
+این نسخهٔ اصلاح‌شده است... فکر می‌کنم منظورت همین است..
+
+### mukhcin_p7_22
+EN: i may be wrong, because i am not the expert yet) from what i've
+learned so far, i would have 2 buys...i would be glad if someone
+corrects me.
+FA: شاید اشتباه کنم، چون هنوز متخصص نیستم) بر اساس آنچه تا حالا یاد گرفته‌ام، من 2 خرید می‌داشتم... خوشحال می‌شوم کسی اصلاحم کند.
+
+### mukhcin_p7_23
+EN: ok... i was not clear enough so you watch this like this already hapened..
+
+please look again at picture.. i corected it
+FA: باشه... من به‌اندازهٔ کافی واضح نبودم، برای همین این را طوری نگاه کردی که انگار همین حالا اتفاق افتاده..
+
+لطفاً دوباره به تصویر نگاه کن.. اصلاحش کردم
+
+### mukhcin_p7_24
+EN: PinkPanter wrote: ok... i was not clear enough so you watch this like this already hapened..
+
+please look again at picture.. i corected it
+
+Thanks Pinkpanter. i drew if then scenario, wish someone will show if i am doing wrong...
+FA: PinkPanter نوشت: باشه... من به‌اندازهٔ کافی واضح نبودم، برای همین این را طوری نگاه کردی که انگار همین حالا اتفاق افتاده..
+
+لطفاً دوباره به تصویر نگاه کن.. اصلاحش کردم
+
+ممنون Pinkpanter. سناریوی اگر-آنگاه را رسم کردم، ای کاش کسی نشانم بدهد آیا اشتباه می‌کنم...
+
+### mukhcin_p7_25
+EN: Does that chart really supply all the information one needs to find the trade on retrace?
+
+If we want to predict the future movements of a pinball, we'll need to see the full table
+FA: آیا آن چارت واقعاً همهٔ اطلاعاتی را می‌دهد که برای پیدا کردن معامله در بازگشت لازم است؟
+
+اگر بخواهیم حرکات آیندهٔ یک پین‌بال را پیش‌بینی کنیم، باید کل میز را ببینیم

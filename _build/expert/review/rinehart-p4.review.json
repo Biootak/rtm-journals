@@ -1,0 +1,8 @@
+{
+  "rinehart_p4_1": {
+    "ok": false,
+    "issue": "broken clause + 'threads' mistranslated",
+    "why": "Final Persian paragraph opens an incomplete sentence: EN \"I love it when I have the same trades planned as other traders on here.\" is rendered as \"عاشق اینم که همان معامله‌هایی را برنامه‌ریزی کرده‌ام که معامله‌گران دیگر اینجا.\" — the clause stops at \"اینجا\" with no predicate, so the comparison (\"as other traders here have\") is dropped and the sentence dangles. Also the first paragraph turns \"great to see charts in other threads\" into \"عالی است چارت‌های تردهای دیگر را ببینیم\" — \"ترد\" reads as \"trade\", not forum thread.",
+    "fix": "Mukhcin نوشت: داری ذهنم را می‌خوانی!!! ذهن‌خوان هستی یا چی؟؟)) من همان چارت را با همان جمله‌ها روی mt4 دارم)))) عالی است که چارت‌ها را در تاپیک‌های دیگر ببینم، حتی قبل از انتشارشان))) حالا ببینیم بعدش چه می‌شود...\n\nهاهاها Mukhcin!\n\nعاشق اینم که همان معامله‌هایی را برنامه‌ریزی کرده‌ام که معامله‌گران دیگر اینجا برنامه‌ریزی کرده‌اند. این به من می‌گوید که دارم مطلب را یاد می‌گیرم و همان چیزها را می‌بینم. دربارهٔ همان جمله‌ها هم، این دیگر عجیب است!"
+  }
+}

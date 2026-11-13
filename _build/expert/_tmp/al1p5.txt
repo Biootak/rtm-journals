@@ -1,0 +1,242 @@
+
+##### [0] academylite1_p5_102 | staurum | 115bc26f305335067bf73fdc1cdedcb2a59dc338
+--- EN ---
+QM top to RS flip
+--- FA ---
+برگشت نقش QM از سقف به RS
+
+##### [1] academylite1_p5_103 | HCDE | 7f5fab24dcca345c5a705f69392d8ebed4febd1c
+--- EN ---
+Hi everyone. I'm still working on some theory stuff about RTMA PART1 and i'm a bit stuck on some part so i submit some sketchs to you to have your advices on that subject. This is about price behavior inside targets and the clue it gives us on the future:
+
+Thanks for your lights!
+--- FA ---
+سلام به همه. من هنوز دارم روی چند مسئلهٔ تئوری دربارهٔ RTMA PART1 کار می‌کنم و یه جاهایی گیر کرده‌ام، برای همین چند تا اسکچ برایتان می‌فرستم تا نظرتان را دربارهٔ این موضوع بدونم. موضوع دربارهٔ رفتار قیمت داخل تارگت‌ها و سرنخی است که دربارهٔ آینده به ما می‌دهد:
+
+ممنون که روشنم می‌کنید!
+
+##### [2] academylite1_p5_104 | Ifmyante | 3543632f2dd3e0fc90086e4abef2b17a23ef0dbf
+--- EN ---
+First, we must dissect the kink, and mark all the clean orders in it. Then we watch the approach for distinct stop hunts into these levels. We can trade each and any of them, taking profits to cover trips to the next sets of clean orders.
+
+Say our first minor set of clean orders breaks. Price will, sooner or later get to the next one. It could first retrace for ten pips, or ten thousand. But it will get there. So, essentially, our minor level hasn't turned price.
+
+Can you think of a way to manage a trade taken at a kink which broke, allowing for no loss and the possibility of a giant retrace?
+--- FA ---
+اول باید پیچش را کالبدشکافی کنیم و همهٔ سفارش‌های تمیز داخلش را علامت بزنیم. بعد ورود قیمت را می‌پاییم تا شکارهای حد ضرر مشخصی را در این سطوح ببینیم. می‌توانیم هر یک از آن‌ها را معامله کنیم و با گرفتن سود، رفتن به مجموعه‌های بعدی سفارش‌های تمیز را پوشش دهیم.
+
+فرض کن اولین مجموعهٔ فرعی سفارش‌های تمیز ما می‌شکند. قیمت دیر یا زود به مجموعهٔ بعدی می‌رسد. ممکن است اول ده پیپ اصلاح کند، یا ده هزار پیپ. اما به آنجا می‌رسد. یعنی در عمل، سطح فرعی ما قیمت را برنگردانده است.
+
+می‌توانی راهی به ذهنت برسانی برای مدیریت معامله‌ای که روی پیچشی گرفته شده که شکسته است، طوری که نه ضرری متحمل شویم و نه امکان یک اصلاح غول‌آسا را از دست بدهیم؟
+
+##### [3] academylite1_p5_105 | staurum | ee713352287d95c58f171cb1e49ee836b8cfabc8
+--- EN ---
+put the stoploss one kink beyond?
+--- FA ---
+استاپ‌لاس را یک پیچش آن‌طرف‌تر بگذاریم؟
+
+##### [4] academylite1_p5_106 | Ifmyante | e4c1099967a3e2c3955c5b89544f953c35718926
+--- EN ---
+Come on. Work that brain a bit harder
+
+It can take it!
+--- FA ---
+بیا دیگه. یه‌کم بیشتر مغزت را به کار بنداز
+
+مغزت کشش دارد!
+
+##### [5] academylite1_p5_107 | bobyv87 | 02c5ed95c411689efedbfb7b2b7993dad2902f15
+--- EN ---
+You can put a safe SL beyond the next kink, but you then dont need to wait for your stop to be taken. Once the price break your kink, you can exit once price return to your MPL of the kink kink(as quick as possible). But then, with this in mind you have to look for the very MPL in your kinks. Ok, this can be very risky sometimes because if price have momentum it can take your SL. If you want to risk more, why not adding multiple positions at each of the kinks with the SL beyond the higher kink?
+
+Ifmyante wrote: Come on. Work that brain a bit harder
+
+It can take it!
+--- FA ---
+می‌توانی یک استاپ‌لاس امن آن‌طرف پیچش بعدی بگذاری، ولی آن‌وقت لازم نیست منتظر بمانی استاپت بخورد. همین‌که قیمت پیچشت را بشکند، می‌توانی وقتی قیمت به MPL همان پیچش برگشت خارج شوی (هر چه سریع‌تر). ولی با این حساب باید دقیقاً همان MPL را در پیچش‌هایت پیدا کنی. خب، این گاهی خیلی ریسکی می‌شود، چون اگر قیمت شتاب داشته باشد می‌تواند استاپ‌لاس را بزند. اگر می‌خواهی ریسک بیشتری بکنی، چرا در هر یک از پیچش‌ها چند موقعیت اضافه نکنی و استاپ‌لاس را آن‌طرف پیچش بالاتر نگذاری؟
+
+Ifmyante نوشت: بیا دیگه. یه‌کم بیشتر مغزت را به کار بنداز
+
+مغزت کشش دارد!
+
+##### [6] academylite1_p5_108 | HCDE | 51f6026f360c90ed3fe6658a985b0cb67a0a05b0
+--- EN ---
+Ifmyante wrote: Say our first minor set of clean orders breaks. Price will, sooner or later get to the next one. It could first retrace for ten pips, or ten thousand. But it will get there. So, essentially, our minor level hasn't turned price.
+
+Hi. No computer at hand so my answer capacities are limited, i'll make a proper answer asap but the above sentence intrigates me. If i understand it well, if a bounce (even a very big bounce) comes from space (ie. Breaks a fl and doesnt reach next one), you don't consider that price has turned? It sounds strange to me that very big moves can be originated from nothing. Or maybe its about scales? Like you consider the bigger TF kink bounced price but in lower scale price is in space? Sorry for not being able to chart and be clearer than that
+--- FA ---
+Ifmyante نوشت: فرض کن اولین مجموعهٔ فرعی سفارش‌های تمیز ما می‌شکند. قیمت دیر یا زود به مجموعهٔ بعدی می‌رسد. ممکن است اول ده پیپ اصلاح کند، یا ده هزار پیپ. اما به آنجا می‌رسد. یعنی در عمل، سطح فرعی ما قیمت را برنگردانده است.
+
+سلام. دسترسی به کامپیوتر ندارم و بنابراین توان پاسخگوییم محدود است؛ در اولین فرصت جواب درست‌وحسابی می‌دهم، ولی این جمله ذهنم را درگیر کرده. اگر درست فهمیده باشم، اگر یک بازگشت (حتی یک بازگشت خیلی بزرگ) از فضای خالی بیاید (یعنی FL را بشکند و به بعدی نرسد)، تو قبول نداری که قیمت برگشته؟ برایم عجیب است که حرکت‌های خیلی بزرگ از هیچ شروع شوند. یا شاید بحث مقیاس‌هاست؟ یعنی پیچش تایم‌چارچوب بالاتر را باعث بازگشت قیمت می‌دانی، ولی در مقیاس پایین‌تر قیمت در فضاست؟ ببخشید که نمی‌توانم چارت بگذارم و واضح‌تر توضیح بدهم
+
+##### [7] academylite1_p5_109 | HCDE | 0268ab8a7107677bdaa2a1701273d19db2de0e48
+--- EN ---
+Ifmyante wrote: Can you think of a way to manage a trade taken at a kink which broke, allowing for no loss and the possibility of a giant retrace?
+
+I'm thinking about this question since some days. Since we say in RTMA LITE PART 1 that we only take trades if price is at a FL and set SL just beyond that FL, and since we said in that very thread that a FL = kink, if i take a trade at a kink, my SL would be just beyond the kink. So if the kinks breaks, i get stopped. I might get out with no arm if it first reached a target, but it doesn't allow me a giant retrace.
+
+So the anwser for my personnal case is no, I can't figure out a way to have the both requirements.
+
+And i have a feeling that, as always, it is about SCALES. As the scale issue is eluded in Markepedia, i'm trying to find my answers in the Salivan's researches as he has a different methodology which seems more focused on scales. But to be honest, up to now, mixing the two point of view brings mainly confusion for me.
+--- FA ---
+Ifmyante نوشت: می‌توانی راهی به ذهنت برسانی برای مدیریت معامله‌ای که روی پیچشی گرفته شده که شکسته است، طوری که نه ضرری متحمل شویم و نه امکان یک اصلاح غول‌آسا را از دست بدهیم؟
+
+چند روز است دربارهٔ این سؤال فکر می‌کنم. چون در RTMA LITE PART 1 می‌گوییم فقط وقتی معامله می‌کنیم که قیمت روی یک FL باشد و استاپ‌لاس را درست آن‌طرف آن FL می‌گذاریم، و چون در همان تاپیک گفتیم FL = پیچش، اگر روی یک پیچش معامله بگیرم، استاپ‌لاسم درست آن‌طرف پیچش خواهد بود. پس اگر پیچش بشکند، استاپ می‌خورم. ممکن است بی‌ضرر خارج شوم اگر اول به یک تارگت رسیده باشد، ولی این یک اصلاح غول‌آسا را برایم ممکن نمی‌کند.
+
+پس جواب برای مورد شخصی من «نه» است؛ نمی‌توانم راهی پیدا کنم که هر دو شرط را داشته باشد.
+
+و حس می‌کنم مثل همیشه بحث SCALES است. چون مسئلهٔ مقیاس در Markepedia نادیده گرفته شده، دارم جواب‌هایم را در پژوهش‌های Salivan می‌جویم، چون او روش‌شناسی متفاوتی دارد که ظاهراً بیشتر روی مقیاس‌ها متمرکز است. ولی صادقانه، تا الان ترکیب این دو دیدگاه بیشتر برایم سردرگمی می‌آورد.
+
+##### [8] academylite1_p5_110 | corsica | 87a6ab93881d56e88834fa274ee0e4fef6ef82c1
+--- EN ---
+Hello everybody. I have a question about this QM on GJ. For me the HH has hit something so the QM should not have worked but it did (see charts). How can we decide if the level hit is important or not? Many thanks
+--- FA ---
+سلام به همه. یک سؤال دربارهٔ این QM روی GJ دارم. به نظر من HH به چیزی برخورد کرده، پس QM نباید کار می‌کرد، ولی کرد (چارت‌ها را ببینید). چطور می‌توانیم تصمیم بگیریم که برخورد سطح مهم است یا نه؟ خیلی ممنون
+
+##### [9] academylite1_p5_112 | corsica | 910f8603c3e31aad8781563cb9cc52ca511b7f63
+--- EN ---
+Thank you Staurum makes perfect sense. Very helpful
+--- FA ---
+ممنون Staurum، کاملاً منطقی است. خیلی کمک کرد
+
+##### [10] academylite1_p5_113 | Ifmyante | 7b0e877dd597f999c7a562d9191061b5220097cf
+--- EN ---
+This is not a comment on the charts above, but on an assumption made around them:
+
+The fact that an engulf has hit its target does not in any way imply that after an RT to the MPL price should not then break the tg zone and advance.
+
+It simply means that we have no confirmed, definite PA for a trade
+--- FA ---
+این دربارهٔ چارت‌های بالا نیست، بلکه دربارهٔ فرضی است که دور و برشان ساخته شده:
+
+اینکه یک اینگالف به تارگت رسیده، به‌هیچ‌وجه به این معنا نیست که بعد از یک RT به MPL، قیمت نباید ناحیهٔ تارگت را بشکند و ادامه دهد.
+
+فقط یعنی ما PA تأییدشده و قطعی برای معامله نداریم
+
+##### [11] academylite1_p5_114 | staurum | 25bcd408e98b7f0573c272c6165b1a993e01422e
+--- EN ---
+english is definitely not my first language, so if i am to interpret: (pls dont laugh because it's simple stupid, hehehe...)
+
+a. If an engulf has hit its tg, then after a RT to the MPL price may break the tg zone and advance.
+
+or
+
+b. if an engulf has hit its tg, then after RT to the MPL price may NOT necessarily break the tg zone, let alone advance.
+
+in my mind, the sentence "no confirmed PA" fits point b, but not point a.
+
+Thank you in advance
+--- FA ---
+انگلیسی قطعاً زبان اول من نیست، پس اگر بخواهم تفسیر کنم: (لطفاً نخندید چون ساده‌لوحانه است، هههه… )
+
+الف. اگر یک اینگالف به تارگتش رسیده باشد، بعد از یک RT به MPL ممکن است قیمت ناحیهٔ تارگت را بشکند و بالا برود.
+
+یا
+
+ب. اگر یک اینگالف به تارگتش رسیده باشد، بعد از RT به MPL قیمت لزوماً ناحیهٔ تارگت را نمی‌شکند، چه برسد به اینکه بالا برود.
+
+به نظر من، جملهٔ «PA تأییدشده نداریم» با مورد ب جور است، نه با مورد الف.
+
+پیشاپیش ممنون
+
+##### [12] academylite1_p5_115 | Edge | 90d9505a7ac74abfe8d21528ea2babcf4c94c598
+--- EN ---
+Hey Staurum. Your English is Great!
+
+I just think of it like this, if price is coming back from a met TG, we dont know if it will move into the next zone. So without space (ie: a unmet target) there is no PA. So with that in mind we go through the scales and find the Fls and LSK's that price can play ping pong between and if we get an engulf into the next zone after a reaction to our FL or LSK, we have our PA:)
+--- FA ---
+سلام Staurum. انگلیسی‌ات عالی است!
+
+من این‌طور به آن نگاه می‌کنم: اگر قیمت از یک TG برآورده‌شده برمی‌گردد، نمی‌دانیم آیا به ناحیهٔ بعدی می‌رود یا نه. پس بدون فضای خالی (یعنی یک تارگت برآورده‌نشده) PA وجود ندارد. با این حساب، مقیاس‌ها را می‌گردیم و FL‌ها و LSK‌هایی را پیدا می‌کنیم که قیمت می‌تواند بینشان پینگ‌پونگ کند، و اگر بعد از واکنش به FL یا LSK ما یک اینگالف به ناحیهٔ بعدی بگیریم، PA ما همان است :)
+
+##### [13] academylite1_p5_116 | staurum | 8d4250c3a4325bcec661c439055ff3f1cc45c281
+--- EN ---
+ah i see, so it's point b, then. =D
+
+So without space, there is no PA. However, there may be PA in lower scale, in which we find FLs and LSKs that price can play pingong between. If there is space, we better stay the scale and wait for PA entry at RT, best at MPL.
+
+Applying it to GJ above interpreted by Corsica. assumption: there is no EG (or even if there is EG, but it hit its TG), then a RT to MPL at bottom should not have been taken. Unless we r expecting a space to be filled in lower scale within.
+--- FA ---
+آهان، فهمیدم؛ پس مورد ب است. =D
+
+پس بدون فضای خالی، PA نیست. اما ممکن است در مقیاس پایین‌تر PA باشد، جایی که FL‌ها و LSK‌هایی پیدا می‌کنیم که قیمت بینشان پینگ‌پونگ می‌کند. اگر فضای خالی هست، بهتر است در همان مقیاس بمانیم و منتظر ورود PA در RT باشیم، بهترین حالت در MPL.
+
+با اعمالش روی همان GJ بالا که Corsica تفسیرش کرد: فرض این است که EG وجود ندارد (یا حتی اگر EG هست، تارگتش را زده)، در این صورت یک RT به MPL در کف نباید گرفته می‌شد. مگر اینکه انتظار داشته باشیم در همین حین فضایی در مقیاس پایین‌تر پر شود.
+
+##### [14] academylite1_p5_117 | Edge | 313a11cee16ba2f779ae8e262997af55a7ee5e20
+--- EN ---
+S,
+
+You Said: "So without space, there is no PA. However, there may be PA in lower scale, in which we find FLs and LSKs that price can play pingong between. If there is space, we better stay the scale and wait for PA entry at RT, best at MPL."
+
+Without Space there is no USABLE PA. Staurum, the fact you are thinking like this is awesome!
+--- FA ---
+S،
+
+گفتی: «پس بدون فضای خالی، PA نیست. اما ممکن است در مقیاس پایین‌تر PA باشد، جایی که FL‌ها و LSK‌هایی پیدا می‌کنیم که قیمت بینشان پینگ‌پونگ می‌کند. اگر فضایی هست، بهتر است در همان مقیاس بمانیم و منتظر ورود PA در RT باشیم، بهترین حالت در MPL.»
+
+وقتی فضای خالی نباشد، PA قابل استفاده وجود ندارد. Staurum، اینکه داری این‌طور فکر می‌کنی فوق‌العاده است!
+
+##### [15] academylite1_p5_118 | corsica | 94df6876cda90e07826857bfd1c1ddc5057eef16
+--- EN ---
+I had a day off today and I saw this. All in all I took 80 pips but the very important thing is you really must be precise when you draw things. I wasn't sure whether my UFL was right (it wasn't) and I stressed out zooming in and out at the worst moment when this should have been a relaxed, more professional way of applying IF's teaching.
+--- FA ---
+امروز مرخصی داشتم و این را دیدم. در مجموع 80 پیپ گرفتم، ولی نکتهٔ خیلی مهم این است که وقتی چیزی را رسم می‌کنی باید واقعاً دقیق باشی. مطمئن نبودم UFL من درست است (نبود) و در بدترین لحظه با زوم کردن و بیرون آمدن استرس گرفتم، در حالی که این باید راهی آرام‌تر و حرفه‌ای‌تر برای به کار بستن آموزه‌های IF می‌بود.
+
+##### [16] academylite1_p5_120 | staurum | 44b84d084945a6d2273b26c47a008b344c03c695
+--- EN ---
+HCDE wrote: I thought i got a QM / DM but no, it's like these moves were just made to make RTMers believe that it was going down and fake us out! Now price is dropping heavily. Don't know what i did wrong with that one, comments very much appreciated
+
+Hi HCDE,
+
+let me respond to your chart here. hopefully it helps.
+--- FA ---
+HCDE نوشت: فکر کردم QM / DM گرفته‌ام، ولی نه؛ انگار این حرکت‌ها فقط ساخته شده‌اند تا کاربران RTM را باور کنند که قیمت دارد پایین می‌رود و ما را فریب دهند! حالا قیمت به‌شدت در حال ریزش است. نمی‌دانم کجای کار را اشتباه کردم، از نظرات خیلی ممنون می‌شوم
+
+سلام HCDE،
+
+بگذار همین‌جا به چارتت جواب بدهم. امیدوارم کمک کند.
+
+##### [17] academylite1_p5_121 | HCDE | f1c90d0248b21d6adf81c0e7127d81b1771a0c3a
+--- EN ---
+Hi Staurum, Thanks for the answer, i obviously missed that question about being an engulf or a reaction... Thanks, that's an important thing i have to process to do it better. But i don't understand why you say the spikes downard are obvious PA. To me they are both reactions to a LS level...
+--- FA ---
+سلام Staurum، ممنون از جوابت. واضحاً آن نکته دربارهٔ اینکه اینگالف است یا واکنش را از دست داده بودم… ممنون، این نکتهٔ مهمی است که باید هضمش کنم تا بهتر عمل کنم. ولی نمی‌فهمم چرا می‌گویی جهش‌های رو به پایین PA واضح‌اند. به نظر من هر دو واکنش به یک سطح LS هستند… 
+
+##### [18] academylite1_p5_122 | staurum | ba4e328b9362a52e8976b10f7fd84cf8ad3e7af6
+--- EN ---
+hmm... yes and no. in this range seen on this chart, of course it is, but think about the LS level FL you're referring to, where do you think the TG is? and has its reaction fulfilled its purpose? it it has, then i wouldn't like it so much, compared to the opposite FL that faces this blue box.
+--- FA ---
+هومم… هم بله هم نه. در این رنجی که در این چارت می‌بینی، البته که همین‌طور است، ولی به FL سطح LS که به آن اشاره می‌کنی فکر کن؛ به نظرت TG کجاست؟ و آیا واکنشش هدفش را برآورده کرده؟ اگر کرده باشد، آن‌وقت آن را چندان دوست نمی‌دارم، در مقایسه با FL مخالفی که روبه‌روی این جعبهٔ آبی است.
+
+##### [19] academylite1_p5_123 | HCDE | 6e346d83696e0eb57458ffb42f016760bf3f0a74
+--- EN ---
+This is what i see, i'm not sure i understand what you think. I agree that TG might be further but on that scale i see no reason to think otherwise
+--- FA ---
+این چیزی است که من می‌بینم؛ مطمئن نیستم منظورت را درست فهمیده باشم. قبول دارم که TG ممکن است دورتر باشد، ولی در آن مقیاس دلیلی برای فکر کردن به غیر از این نمی‌بینم
+
+##### [20] academylite1_p5_125 | Wes | 47a8c3d3df2b722bcc30289cbd9941f8a9816f14
+--- EN ---
+Hi guys,
+
+I've been rewatching the video again and something got my attention but can't get my head around it.
+
+If said that there's pretty much a universal rule in the markets. If we get PA, price is going to go to our next FL before it can break the FL we're reacting to. (As illustrated in the diagram below - Price will hit B before it can break A.)
+
+Somewhat later in the video IF talks about disqualifications of QM setups, specifically about when price first engulfs the FL. In the diagram price has broken the LFL - so that gives us PA to the downside (the next LFL). Seems logical to me, no questions about that. What's confusing me is what IF said afterwards. He said because we've made PA in one direction, then price is quite happy to FO past the UFL and that price is not obliged to hit our target here.
+
+What is confusing me here is that I don't understand on which FL I should be basing my short trade on - remember, we've had PA to the downside (price hasn't it its target yet.) I would've imagined that I should be shorting the UFL, but apparently price is allowed to FO past the UFL.
+
+Anybody who could tell me where my thinking is off?
+--- FA ---
+سلام بچه‌ها،
+
+دارم ویدئو را دوباره می‌بینم و چیزی توجهم را جلب کرده که نمی‌توانم از سرش در بیایم.
+
+IF می‌گوید تقریباً یک قاعدهٔ جهانی در بازارها وجود دارد. اگر PA بگیریم، قیمت قبل از اینکه بتواند FL‌ی را که به آن واکنش داده‌ایم بشکند، به FL بعدی ما می‌رود. (همان‌طور که در نمودار زیر نشان داده شده — قیمت قبل از شکستن A به B می‌رسد.)
+
+کمی بعدتر در ویدئو، IF دربارهٔ رد صلاحیت ستاپ‌های QM صحبت می‌کند، به‌طور خاص دربارهٔ زمانی که قیمت اول FL را اینگالف می‌کند. در نمودار قیمت LFL را شکسته — پس این به ما PA به سمت پایین می‌دهد (LFL بعدی). برای من منطقی است و سؤالی در این مورد ندارم. چیزی که گیجم کرده حرف بعدی IF است. گفت چون PA در یک جهت ساخته‌ایم، قیمت خیلی راحت از UFL هم FO می‌کند و اینجا ملزم به زدن تارگت ما نیست.
+
+چیزی که گیجم کرده این است که نمی‌فهمم شورت خودم را باید بر مبنای کدام FL بگیرم — یادت باشد، ما PA به سمت پایین داشته‌ایم (قیمت هنوز به تارگتش نرسیده). تصور می‌کردم باید UFL را شورت کنم، ولی ظاهراً قیمت اجازه دارد از UFL هم FO کند.
+
+کسی می‌تواند بگوید کجای فکرم اشتباه است؟

@@ -1,0 +1,8 @@
+{
+  "if_p104_18": {
+    "ok": false,
+    "issue": "implied flag misnamed as FL",
+    "why": "EN «6 it could be a Kink of implied flag if price wouldn’t break FL 5 at point 2» distinguishes an implied Flag from the FL it is measured against. FA says «کینک یک FL ضمنی» — an implied FL — so the Flag structure is renamed into the very FL the sentence already contrasts it with.",
+    "fix": "ممنون Staurum برای نظرت. بعد از اینکه کمی بیشتر نگاه کردم، فکر می‌کنم 6 می‌توانست کینک یک Flag ضمنی باشد، اگر قیمت در نقطه 2 FL 5 را نمی‌شکست. پس اساساً 2 فقط واکنشی به چیزی مهم است، ولی اگر در LTF نگاه کنیم می‌توانیم بگوییم 4 واکنشی به یک FL در مقیاس پایین‌تر است که بین 4 و 5 شکل گرفته. بعد از آن فکر می‌کنم 6 چیزی در سطح LTF است، پس قیمت در 6 واکنش داد و به یک مقیاس بالاتر اینگالف کرد. اگر یک FL در H1 داشته باشی، قیمت به آن واکنش می‌دهد و بعد از آن به FL روزانه اینگالف می‌کند؛ آن‌وقت قیمت می‌تواند تا FL روزانه بعدی برگردد و همه FL‌های LTF را در مسیر بالا نادیده بگیرد. staurum نوشت:\n\nفقط نظر شخصی‌ام. شاید خیلی هم اشتباه باشد."
+  }
+}

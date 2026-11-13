@@ -1,0 +1,581 @@
+===== fxeyes-p2 : 25 posts =====
+--- fxeyes_p2_1 author=Ifmyante hash=cb20e08b
+EN: Okay, you've learned a part of the necessary lesson from that. But there's more
+
+Please redraw your zone/zones
+FA: خوب، بخشی از درس لازم را از آن گرفتی. اما بیشتر از این هم هست
+
+لطفاً zone یا zone‌های خودت را دوباره رسم کن
+--- fxeyes_p2_2 author=fxeyes hash=0cbf03bf
+EN: Ifmyante wrote: Okay, you've learned a part of the necessary lesson from that. But there's more
+
+Please redraw your zone/zones
+
+Thank you for pointing it out! I just realized my understanding of
+kinks is below par, i'm having a hard time drawing this shoulder kink.
+I'm looking through the videos and journals and still confused. I see a
+ few ways to interpret the kink, perhaps you can offer some insight?
+FA: Ifmyante نوشت: خوب، بخشی از درس لازم را از آن گرفتی. اما بیشتر از این هم هست
+
+لطفاً zone یا zone‌های خودت را دوباره رسم کن
+
+ممنون که به آن اشاره کردی! تازه فهمیدم که درکم از kink کمتر از حد لازم است و رسم این shoulder kink برایم سخت شده. دارم ویدئوها و ژورنال‌ها را مرور می‌کنم و هنوز گیجم. چند برداشت مختلف از این kink به ذهنم می‌رسد؛ شاید بتوانی نکته‌ای بگویی؟
+--- fxeyes_p2_3 author=Ifmyante hash=6b4924d8
+EN: In words:
+
+Draw the line from the LS.
+
+Go to the right hand side of the swing high/low.
+
+Find where price, coming from the H/L, broke the line.
+
+Draw LSK from the deepest retrace after the break, back to the furthest advance before the retrace.
+
+Should there be smaller kinks in LTF on the right edge of this kink,
+mark them too, as clean orders here are what allow us to get to the pip
+entries, right at the LS price.
+
+Lots of words, I know, but try to apply them literally to a couple of
+charts, noting all the steps, and you will never forget the technique
+FA: به زبان کلمات:
+
+خط را از LS بکش.
+
+به سمت راست swing high/low برو.
+
+پیدا کن که قیمت، در بازگشت از H/L، کجا خط را شکست.
+
+LSK را از عمیق‌ترین بازگشت بعد از شکست، تا دورترین پیشروی قبل از آن بازگشت رسم کن.
+
+اگر روی لبهٔ راست این kink، kink‌های کوچک‌تری در LTF وجود داشته باشد، آن‌ها را هم علامت بزن؛ چون سفارش‌های تمیز در همین‌جاست که به ما اجازه می‌دهد به ورودهای دقیق تا پیپ، درست روی قیمت LS برسیم.
+
+می‌دانم، کلمات زیاد است؛ اما سعی کن آن‌ها را عیناً روی یکی دو چارت پیاده کنی و همهٔ مراحل را یادداشت کنی، آن وقت این تکنیک را هرگز فراموش نخواهی کرد.
+--- fxeyes_p2_4 author=fxeyes hash=fe504ad3
+EN: Ifmyante wrote: In words:
+
+Draw the line from the LS.
+
+Go to the right hand side of the swing high/low.
+
+Find where price, coming from the H/L, broke the line.
+
+Draw LSK from the deepest retrace after the break, back to the furthest advance before the retrace.
+
+Should there be smaller kinks in LTF on the right edge of this kink,
+mark them too, as clean orders here are what allow us to get to the pip
+entries, right at the LS price.
+
+Lots of words, I know, but try to apply them literally to a couple of
+charts, noting all the steps, and you will never forget the technique
+
+Thanks! Thats what I kinda thought. Assuming I understood what I just
+read, the kink would be this (black rectangle, ignore the comment for
+the green box)?
+FA: Ifmyante نوشت: به زبان کلمات:
+
+خط را از LS بکش.
+
+به سمت راست swing high/low برو.
+
+پیدا کن که قیمت، در بازگشت از H/L، کجا خط را شکست.
+
+LSK را از عمیق‌ترین بازگشت بعد از شکست، تا دورترین پیشروی قبل از آن بازگشت رسم کن.
+
+اگر روی لبهٔ راست این kink، kink‌های کوچک‌تری در LTF وجود داشته باشد، آن‌ها را هم علامت بزن؛ چون سفارش‌های تمیز در همین‌جاست که به ما اجازه می‌دهد به ورودهای دقیق تا پیپ، درست روی قیمت LS برسیم.
+
+می‌دانم، کلمات زیاد است؛ اما سعی کن آن‌ها را عیناً روی یکی دو چارت پیاده کنی و همهٔ مراحل را یادداشت کنی، آن وقت این تکنیک را هرگز فراموش نخواهی کرد.
+
+ممنون! تقریباً همین را حدس می‌زدم. با این فرض که آنچه خواندم را درست فهمیده باشم، kink این می‌شود (مستطیل مشکی؛ توضیح مربوط به کادر سبز را نادیده بگیر)؟
+--- fxeyes_p2_5 author=winnertrader hash=81dcb24c
+EN: FXeyes,
+
+I really enjoyed reading through your journal. Can you pls explain how
+you went about placing the lines in the chart (the ones you labeled
+within parentheses as H1, H4 and so forth). If these are basic
+Support-Resistance lines, would you share how you pinpoint them. I have
+been in the habit of moving them around depending on which side of the
+chart my eyes tend to rest on, which isn't so great when you are trying
+to find levels to trade from.
+
+I think your charts are really great. Do keep going! I am sure you will be very successful.
+
+P.S. Would you be able to increase the resolution on your charts. I have
+ been looking for a way to do that with my own and haven't found a way. I
+ am technically challenged :)
+FA: FXeyes،
+
+از خواندن ژورنالت واقعاً لذت بردم. می‌توانی لطفاً توضیح بدهی خطوط چارت را چطور رسم کردی (همان‌هایی که داخل پرانتز با H1، H4 و غیره برچسب زده‌ای)؟ اگر این‌ها خطوط سادهٔ حمایت-مقاومت هستند، می‌شود بگویی چطور آن‌ها را دقیق مشخص می‌کنی؟ من عادت داشته‌ام خطوط را جابه‌جا کنم بسته به اینکه چشمم روی کدام سمت چارت می‌افتد، و این وقتی می‌خواهی سطوحی برای معامله پیدا کنی چندان خوب نیست.
+
+به نظرم چارت‌هایت واقعاً عالی‌اند. ادامه بده! مطمئنم خیلی موفق می‌شوی.
+
+پینوشت: می‌توانی رزولوشن چارت‌هایت را بالا ببری؟ من دنبال راهی برای همین کار با چارت‌های خودم بوده‌ام و راهی پیدا نکرده‌ام. از نظر فنی زیاد وارد نیستم :)
+--- fxeyes_p2_6 author=fxeyes hash=352026de
+EN: winnertrader wrote: FXeyes,
+
+I really enjoyed reading through your journal. Can you pls explain how
+you went about placing the lines in the chart (the ones you labeled
+within parentheses as H1, H4 and so forth). If these are basic
+Support-Resistance lines, would you share how you pinpoint them. I have
+been in the habit of moving them around depending on which side of the
+chart my eyes tend to rest on, which isn't so great when you are trying
+to find levels to trade from.
+
+I think your charts are really great. Do keep going! I am sure you will be very successful.
+
+P.S. Would you be able to increase the resolution on your charts. I have
+ been looking for a way to do that with my own and haven't found a way. I
+ am technically challenged :)
+
+Thanks for the kind words winnertrader. I pretty much just did what was
+ explained in the 2nd RTM Lite video, and other s/r lines that look
+important:
+
+1. The top and bottom of FLs that broke something significant, and PCP, CM break (as explained in the video). Monthly to H4.
+
+2. A price area where there are multiple touches (the best seems to be
+the one that reacted from both the top and bottom). The more touches
+the better.
+
+3. In the more immediate term, if i'm expecting price to move a certain
+way (for example, price poled down, and then retracing up), i'd look
+left for any levels that looked 'interesting' for a potential s/r flip.
+
+Kinda hard to explain how to pinpoint them at this point, i'm still
+learning. Sometimes its just a 'feeling' based on past experience. It
+can get really messy, and I don't use all the lines. But if a line
+happen to line up with an LS, FL, CM, or some other price structure,
+i'll zoom out to see if the line is likely to be relevant.
+FA: winnertrader نوشت: FXeyes،
+
+از خواندن ژورنالت واقعاً لذت بردم. می‌توانی لطفاً توضیح بدهی خطوط چارت را چطور رسم کردی (همان‌هایی که داخل پرانتز با H1، H4 و غیره برچسب زده‌ای)؟ اگر این‌ها خطوط سادهٔ حمایت-مقاومت هستند، می‌شود بگویی چطور آن‌ها را دقیق مشخص می‌کنی؟ من عادت داشته‌ام خطوط را جابه‌جا کنم بسته به اینکه چشمم روی کدام سمت چارت می‌افتد، و این وقتی می‌خواهی سطوحی برای معامله پیدا کنی چندان خوب نیست.
+
+به نظرم چارت‌هایت واقعاً عالی‌اند. ادامه بده! مطمئنم خیلی موفق می‌شوی.
+
+پینوشت: می‌توانی رزولوشن چارت‌هایت را بالا ببری؟ من دنبال راهی برای همین کار با چارت‌های خودم بوده‌ام و راهی پیدا نکرده‌ام. از نظر فنی زیاد وارد نیستم :)
+
+ممنون بابت لطفی که داری winnertrader. تقریباً همان کاری را کردم که در ویدئوی دوم RTM Lite توضیح داده شده، به‌علاوهٔ چند خط حمایت/مقاومت دیگر که مهم به نظر می‌رسند:
+
+1. سقف و کف FL‌هایی که چیز مهمی را شکسته‌اند، و شکست PCP، CM (همان‌طور که در ویدئو توضیح داده شده). از ماهانه تا H4.
+
+2. ناحیه‌ای از قیمت که چند بار لمس شده است (بهترینش ظاهراً همانی است که هم از بالا و هم از پایین واکنش داده). هر چه لمس‌ها بیشتر، بهتر.
+
+3. در کوتاه‌مدت‌تر، اگر انتظار داشته باشم قیمت به شکلی خاص حرکت کند (مثلاً قیمت به پایین pole کرده و بعد در حال بازگشت به بالاست)، سمت چپ را برای هر سطحی که برای یک flip احتمالی حمایت/مقاومت «جالب» به نظر برسد می‌گردم.
+
+در این مرحله توضیح دادن اینکه چطور آن‌ها را دقیق پیدا می‌کنم تا حدی سخت است؛ من هنوز در حال یادگیری‌ام. گاهی فقط یک «حس» بر اساس تجربهٔ گذشته است. می‌تواند واقعاً شلوغ شود و من از همهٔ خطوط استفاده نمی‌کنم. اما اگر خطی تصادفاً با یک LS، FL، CM یا ساختار قیمتی دیگری هم‌راستا شود، zoom out می‌کنم تا ببینم آن خط احتمالاً مرتبط است یا نه.
+--- fxeyes_p2_7 author=fxeyes hash=77e299c6
+EN: Took it a little easy after the New Year, only to find I missed a
+couple great trades. That immedaitely put me in a weird state of mind
+and got me anxious. Have to practice getting rid of that habit.
+
+First trade, price hit mpl in the HTF going up (trade I missed). Price
+looks like its gaining momentum going up, poled up breaking the FL into
+space, so expecting another move up into the OOM. Got too anxious and
+went long in a non-significant FL without approach PA. If i'd wait just
+ a little bit longer....
+
+EURUSD straight forward trade. Price coming down from a HTF MPL.
+Continuation engulf down (there was a bit of space), retraced back to
+the MPL of a fresh QM level. First target at the RS kink, final target
+when price was starting to go against me.
+FA: بعد از سال نو کمی کار را سبک گرفتم، و در عوض دیدم دو معاملهٔ عالی را از دست داده‌ام. همین بلافاصله حالم را عجیب کرد و مضطربم کرد. باید تمرین کنم این عادت را از سرم بیرون کنم.
+
+معاملهٔ اول: قیمت در حال صعود در HTF به mpl خورد (همان معامله‌ای که از دست دادم). به نظر می‌رسد قیمت در صعود شتاب می‌گیرد، به بالا pole کرده و FL را به داخل فضای خالی شکسته، پس انتظار یک حرکت صعودی دیگر به سمت OOM را دارم. بیش از حد مضطرب شدم و در یک FL بی‌اهمیت، بدون PA‌ی نزدیک‌شونده، خرید کردم. اگر فقط کمی بیشتر صبر می‌کردم....
+
+EURUSD یک معاملهٔ سرراست. قیمت از یک MPL در HTF پایین می‌آید. اینگالف ادامه‌دهنده به پایین (کمی فضای خالی هم بود)، بعد بازگشت به MPL یک سطح QM تازه. تارگت اول روی RS kink، تارگت نهایی وقتی قیمت داشت علیه من حرکت می‌کرد.
+--- fxeyes_p2_8 author=fxeyes hash=dff01d0f
+EN: Another missed trade. This is one of my favorite trades, what i would
+ consider a 'well structured' qm. Although it didn't quite engulf into
+space, it's structure still makes it very enticing to me.
+
+You can see it's near a H4 level. Price engulfed down with some
+authority, then retraced back up, right into the qm level + cm. In the
+m1 you'll be able to see a small ls lining up with the qm. On approach,
+ price plays a little trick, moving into DM zone before moving down.
+Since it didn't quite engulf into space, I'd take a conservative tg1 at
+the end of the cm, and final tg somewhere around that base Fl.
+FA: یک معاملهٔ از دست‌رفتهٔ دیگر. این یکی از معامله‌های محبوب من است؛ چیزی که آن را یک QM «خوش‌ساخت» می‌دانم. هرچند دقیقاً به داخل فضای خالی اینگالف نکرد، ساختارش هنوز برای من بسیار جذاب است.
+
+می‌بینی که نزدیک یک سطح H4 است. قیمت با اقتدار به پایین اینگالف کرد، بعد به بالا بازگشت، درست به سطح qm + cm. در m1 می‌توانی یک ls کوچک ببینی که با qm هم‌راستاست. در نزدیک شدن، قیمت یک ترفند کوچک می‌زند و قبل از حرکت به پایین وارد DM zone می‌شود. چون دقیقاً به فضای خالی اینگالف نکرد، یک tg1 محافظه‌کارانه در انتهای cm می‌گیرم و tg نهایی جایی حدود همان Fl پایه.
+--- fxeyes_p2_9 author=ViTaLDRuG hash=0cbadbb1
+EN: Hi there,
+
+I would like to give a small suggestion :)
+
+When we draw left shoulder kinks, it is always better to draw the whole
+kink in that scale, not just a part of it. Then you can clearly see
+which point first reacted to the kink and then decide if it is a QM or a
+ DM. The trick you marked actually reacted to the original LS kink if
+you carefully see. Then engulfed into compression. Then retraced back up
+ and came down.
+FA: سلام،
+
+می‌خواهم یک پیشنهاد کوچک بدهم :)
+
+وقتی left shoulder kink رسم می‌کنیم، همیشه بهتر است کل kink را در همان تایم‌فریم رسم کنیم، نه فقط بخشی از آن. آن وقت می‌توانی به‌وضوح ببینی کدام نقطه اول به kink واکنش داد و بعد تصمیم بگیری که QM است یا DM. آن trick که علامت زدی، اگر دقیق نگاه کنی، در واقع به همان LS kink اصلی واکنش داد. بعد به داخل فشرده‌سازی اینگالف کرد. بعد به بالا بازگشت و پایین آمد.
+--- fxeyes_p2_10 author=fxeyes hash=8dea853b
+EN: ViTaLDRuG wrote: Hi there,
+
+I would like to give a small suggestion :)
+
+When we draw left shoulder kinks, it is always better to draw the whole
+kink in that scale, not just a part of it. Then you can clearly see
+which point first reacted to the kink and then decide if it is a QM or a
+ DM. The trick you marked actually reacted to the original LS kink if
+you carefully see. Then engulfed into compression. Then retraced back up
+ and came down.
+
+Ah thanks for the reminder. I have a tendency to shrink my zones,
+instead of drawing additional zones, when I'm looking for best entry
+price.
+FA: ViTaLDRuG نوشت: سلام،
+
+می‌خواهم یک پیشنهاد کوچک بدهم :)
+
+وقتی left shoulder kink رسم می‌کنیم، همیشه بهتر است کل kink را در همان تایم‌فریم رسم کنیم، نه فقط بخشی از آن. آن وقت می‌توانی به‌وضوح ببینی کدام نقطه اول به kink واکنش داد و بعد تصمیم بگیری که QM است یا DM. آن trick که علامت زدی، اگر دقیق نگاه کنی، در واقع به همان LS kink اصلی واکنش داد. بعد به داخل فشرده‌سازی اینگالف کرد. بعد به بالا بازگشت و پایین آمد.
+
+آه، ممنون بابت یادآوری. وقتی دنبال بهترین قیمت ورود هستم، تمایل دارم zone‌هایم را کوچک‌تر کنم، به‌جای اینکه zone‌های بیشتری رسم کنم.
+--- fxeyes_p2_11 author=fxeyes hash=673cf5ca
+EN: winnertrader wrote: FXeyes,
+
+I really enjoyed reading through your journal. Can you pls explain how
+you went about placing the lines in the chart (the ones you labeled
+within parentheses as H1, H4 and so forth). If these are basic
+Support-Resistance lines, would you share how you pinpoint them. I have
+been in the habit of moving them around depending on which side of the
+chart my eyes tend to rest on, which isn't so great when you are trying
+to find levels to trade from.
+
+I think your charts are really great. Do keep going! I am sure you will be very successful.
+
+P.S. Would you be able to increase the resolution on your charts. I have
+ been looking for a way to do that with my own and haven't found a way. I
+ am technically challenged :)
+
+I've been thinking more about how I draw S/R since your PM. Like I
+mentioned, there is alot of subjectivity with which lines to draw, how
+many to draw, etc... which is why it's hard to give exact instructions.
+ You can even hear it from IF in one of the videos, where he loads other
+ person's template and says that there are more lines than he'd have
+drawn. Here's an example of how I looked for S/R that wasn't taught in
+the videos. I don't know if this is "valid", but it works for me.
+Again the point being this isn't an exact science (at least to me).
+Everyone seems to have their own little techniques.
+FA: winnertrader نوشت: FXeyes،
+
+از خواندن ژورنالت واقعاً لذت بردم. می‌توانی لطفاً توضیح بدهی خطوط چارت را چطور رسم کردی (همان‌هایی که داخل پرانتز با H1، H4 و غیره برچسب زده‌ای)؟ اگر این‌ها خطوط سادهٔ حمایت-مقاومت هستند، می‌شود بگویی چطور آن‌ها را دقیق مشخص می‌کنی؟ من عادت داشته‌ام خطوط را جابه‌جا کنم بسته به اینکه چشمم روی کدام سمت چارت می‌افتد، و این وقتی می‌خواهی سطوحی برای معامله پیدا کنی چندان خوب نیست.
+
+به نظرم چارت‌هایت واقعاً عالی‌اند. ادامه بده! مطمئنم خیلی موفق می‌شوی.
+
+پینوشت: می‌توانی رزولوشن چارت‌هایت را بالا ببری؟ من دنبال راهی برای همین کار با چارت‌های خودم بوده‌ام و راهی پیدا نکرده‌ام. از نظر فنی زیاد وارد نیستم :)
+
+از زمان پیام خصوصی‌ات بیشتر به این فکر کرده‌ام که چطور حمایت/مقاومت رسم می‌کنم. همان‌طور که گفتم، در اینکه کدام خطوط را رسم کنی، چندتا رسم کنی و از این قبیل، ذهنیت شخصی زیادی وجود دارد... و به همین دلیل است که دادن دستورالعمل دقیق سخت است. حتی می‌توانی این را از IF در یکی از ویدئوها بشنوی، جایی که تمپلیت شخص دیگری را باز می‌کند و می‌گوید خطوطش بیشتر از چیزی است که خودش رسم می‌کرد. این هم نمونه‌ای از اینکه من چطور دنبال حمایت/مقاومت گشتم، چیزی که در ویدئوها آموزش داده نشده. نمی‌دانم این «معتبر» است یا نه، اما برای من کار می‌کند. باز هم نکته‌ای که می‌خواهم بگویم این است که این یک علم دقیق نیست (حداقل برای من). ظاهراً هر کسی تکنیک کوچک خودش را دارد.
+--- fxeyes_p2_12 author=winnertrader hash=39cbecf0
+EN: Thanks for the chart Fxeyes. On the same chart can you go on the
+weekly and tell me why u drew your LS lines as such? Also having trouble
+ an H4. Trying to reverse engineer it.
+
+On XAUUSD and AUDUSD Weekly charts, there are multiple back and forth
+moves that typically leave me wondering which one to mark up LS from.
+
+Thanks for helping me learn.
+FA: ممنون بابت چارت Fxeyes. روی همان چارت می‌توانی بروی روی هفتگی و بگویی چرا خطوط LS را این‌طور رسم کردی؟ در H4 هم مشکل دارم. دارم سعی می‌کنم مهندسی معکوسش کنم.
+
+روی چارت‌های هفتگی XAUUSD و AUDUSD، حرکات رفت و برگشتی متعددی هست که معمولاً مرا سرگردان می‌کند که LS را از کدامشان علامت بزنم.
+
+ممنون که کمک می‌کنی یاد بگیرم.
+--- fxeyes_p2_13 author=fxeyes hash=3c548aa2
+EN: winnertrader wrote: Thanks for
+the chart Fxeyes. On the same chart can you go on the weekly and tell me
+ why u drew your LS lines as such? Also having trouble an H4. Trying to
+reverse engineer it.
+
+On XAUUSD and AUDUSD Weekly charts, there are multiple back and forth
+moves that typically leave me wondering which one to mark up LS from.
+
+Thanks for helping me learn.
+
+well, here's an updated chart. why dont you tell me why you think i drew the lines the way i did?
+FA: winnertrader نوشت: ممنون بابت چارت Fxeyes. روی همان چارت می‌توانی بروی روی هفتگی و بگویی چرا خطوط LS را این‌طور رسم کردی؟ در H4 هم مشکل دارم. دارم سعی می‌کنم مهندسی معکوسش کنم.
+
+روی چارت‌های هفتگی XAUUSD و AUDUSD، حرکات رفت و برگشتی متعددی هست که معمولاً مرا سرگردان می‌کند که LS را از کدامشان علامت بزنم.
+
+ممنون که کمک می‌کنی یاد بگیرم.
+
+خب، این هم یک چارت به‌روزشده. چرا خودت نمی‌گویی به نظرت من چرا خطوط را این‌طور رسم کردم؟
+--- fxeyes_p2_14 author=fxeyes hash=50af04d3
+EN: I really have to work on being better prepared for trades:
+
+1. Be aware, focused, and actively waiting for news events.
+
+2. Paying attention to ONLY the pairs that are near a zone.
+
+3. Practice putting PO for some zones (I've missed on a lot of these spiked entries)
+
+Here's a lovely trade that played out exactly as planned. Price was
+starting to compress into the LS, looked like price was getting ready to
+ turn. News event occurs, other pairs starts spiking and I lose focus
+on the trade. PO would have been perfect here as it aligned with news.
+ Need to work on my preparation. Now looking for a QM .
+FA: واقعاً باید روی آماده‌تر بودن برای معامله‌ها کار کنم:
+
+1. هشیار و متمرکز باشم و فعالانه منتظر رویدادهای خبری بمانم.
+
+2. توجه فقط به جفت‌ارزهایی که نزدیک یک zone هستند.
+
+3. تمرین گذاشتن PO برای بعضی zone‌ها (خیلی از این ورودهای spike‌شده را از دست داده‌ام)
+
+این هم یک معاملهٔ دلچسب که دقیقاً همان‌طور که برنامه داشتم پیش رفت. قیمت داشت به داخل LS فشرده می‌شد و به نظر می‌رسید آمادهٔ چرخش است. رویداد خبری رخ می‌دهد، جفت‌ارزهای دیگر شروع به spike می‌کنند و تمرکزم را روی معامله از دست می‌دهم. PO اینجا کامل می‌بود، چون با خبر هم‌راستا شده بود. باید روی آماده‌سازی‌ام کار کنم. حالا دنبال یک QM هستم.
+--- fxeyes_p2_15 author=fxeyes hash=5d476a19
+EN: Applied 2/3 of the things i needed to work on, looks like i'll get a
+nice trade out of it. Confidence in entering PO still an issue
+FA: 2/3 کارهایی که باید رویشان کار می‌کردم را اعمال کردم و به نظر می‌رسد یک معاملهٔ خوب از آن دربیاورم. اعتماد به گذاشتن PO هنوز مشکل است.
+--- fxeyes_p2_16 author=winnertrader hash=519de58a
+EN: Would you comment on my LS lines? It's wonderful to have a platform to
+ discuss all these concepts and doubts that arise from trying to explore
+ them.
+FA: می‌شود دربارهٔ خطوط LS من نظر بدهی؟ داشتن یک پلتفرم برای بحث دربارهٔ همهٔ این مفاهیم و تردیدهایی که از کوشش برای بررسی‌شان پیش می‌آید، فوق‌العاده است.
+--- fxeyes_p2_17 author=fxeyes hash=98a00f74
+EN: winnertrader wrote: Would you
+comment on my LS lines? It's wonderful to have a platform to discuss all
+ these concepts and doubts that arise from trying to explore them.
+
+Sooo many lines on XAUUSD. A couple of notes on the chart. Also, draw
+the beginning of the s/r line at the exact bar it is starting from. I
+can't read xauusd chart. Try again with those notes.
+FA: winnertrader نوشت: می‌شود دربارهٔ خطوط LS من نظر بدهی؟ داشتن یک پلتفرم برای بحث دربارهٔ همهٔ این مفاهیم و تردیدهایی که از کوشش برای بررسی‌شان پیش می‌آید، فوق‌العاده است.
+
+چه خط‌های زیادی روی XAUUSD. چند یادداشت روی چارت گذاشته‌ام. همچنین، ابتدای خط حمایت/مقاومت را روی همان کندلی بکش که از آن شروع می‌شود. من نمی‌توانم چارت xauusd را بخوانم. با آن یادداشت‌ها دوباره امتحان کن.
+--- fxeyes_p2_18 author=fxeyes hash=5e7ba4a7
+EN: Update from previous trade. I ended up getting stopped out for BE,
+but i was struggling to decide what to do, as I always do at the end of
+the week. Should I 'believe' the PA i see during non active times? In
+this case, the end of the week and beginning of the week. At the end of
+ the friday session, i see price sort of compressing down, but not
+breaking the opposite mpl. So i'm thinking, is this actual compression
+since it's the end of the trading week? Then the same question at the
+start of the week, should i 'believe' this engulf or let PA develop a
+bit more? Based on the PA, i should have closed my trade for some
+profit, and waited for the next engulf to see where price wants to go.
+
+Then price gets into true supply, an area I did not draw. Looking closer, I completely missed an LS on the H1!
+
+Digging deeper, price reacted to it's kink, to the pip. Need more practice to start seeing these LS kinks as second nature
+FA: به‌روزرسانی معاملهٔ قبلی. در نهایت با BE استاپ خوردم، اما برای تصمیم‌گیری درگیر بودم، همان‌طور که همیشه آخر هفته برایم پیش می‌آید. آیا باید PA‌ای را که در زمان‌های غیرفعال می‌بینم «باور» کنم؟ در این مورد، پایان هفته و آغاز هفته. در پایان سشن جمعه، می‌بینم قیمت دارد تا حدی به پایین فشرده می‌شود، اما mpl مقابل را نمی‌شکند. پس فکر می‌کنم، آیا این فشرده‌سازی واقعی است چون پایان هفتهٔ معاملاتی است؟ بعد همان سؤال در آغاز هفته: آیا این اینگالف را «باور» کنم یا بگذارم PA کمی بیشتر شکل بگیرد؟ بر اساس PA، باید معاملم را با کمی سود می‌بستم و منتظر اینگالف بعدی می‌ماندم تا ببینم قیمت کجا می‌خواهد برود.
+
+بعد قیمت وارد عرضهٔ واقعی می‌شود، ناحیه‌ای که من رسم نکرده بودم. با نگاه دقیق‌تر، یک LS روی H1 را کاملاً از دست دادم!
+
+با کندوکاو بیشتر: قیمت به kink آن واکنش داد، دقیق تا پیپ. باید بیشتر تمرین کنم تا این LS kink‌ها برایم مثل نفس کشیدن شود.
+--- fxeyes_p2_19 author=winnertrader hash=a548dd83
+EN: Hi Fxeyes,
+
+Here's my updated XAUUSD. Also how does one go about this - ' Also, draw
+ the beginning of the s/r line at the exact bar it is starting from'.
+
+Thanks!
+FA: سلام Fxeyes،
+
+این هم XAUUSD به‌روزشدهٔ من. همچنین چطور باید این کار را انجام داد - «همچنین، ابتدای خط حمایت/مقاومت را روی همان کندلی بکش که از آن شروع می‌شود».
+
+ممنون!
+--- fxeyes_p2_20 author=fxeyes hash=07c28948
+EN: winnertrader wrote: Hi Fxeyes,
+
+Here's my updated XAUUSD. Also how does one go about this - ' Also, draw
+ the beginning of the s/r line at the exact bar it is starting from'.
+
+Thanks!
+
+Hey that looks really good! So from here I'm sure you'll be able to
+find more lines if you really want to, but the downside is it'll clutter
+ your chart more. Subjectivity creeps in. So now how do you
+incorporate rectangles with these lines? When should you draw a
+rectangle and when should you draw a line? Watch the video again and
+apply that to your next chart.
+FA: winnertrader نوشت: سلام Fxeyes،
+
+این هم XAUUSD به‌روزشدهٔ من. همچنین چطور باید این کار را انجام داد - «همچنین، ابتدای خط حمایت/مقاومت را روی همان کندلی بکش که از آن شروع می‌شود».
+
+ممنون!
+
+هی، این واقعاً خوب به نظر می‌رسد! پس از اینجا مطمئنم اگر واقعاً بخواهی می‌توانی خطوط بیشتری پیدا کنی، اما عیبش این است که چارتت شلوغ‌تر می‌شود. ذهنیت شخصی هم کم‌کم وارد می‌شود. خب، حالا چطور مستطیل‌ها را با این خطوط ترکیب می‌کنی؟ کِی باید مستطیل رسم کنی و کِی خط؟ دوباره ویدئو را ببین و آن را روی چارت بعدی‌ات پیاده کن.
+--- fxeyes_p2_21 author=fxeyes hash=6286a4e0
+EN: winnertrader wrote: Hi Fxeyes,
+
+Here's my updated XAUUSD. Also how does one go about this - ' Also, draw
+ the beginning of the s/r line at the exact bar it is starting from'.
+
+Thanks!
+
+It's kind of amazing to see these LS kinks work. But it's also
+confusing right? Sometimes it reacts when you expect it to, sometimes
+it doesn't. That's another area where further study is needed to refine
+ how you draw your s/r lines.
+FA: winnertrader نوشت: سلام Fxeyes،
+
+این هم XAUUSD به‌روزشدهٔ من. همچنین چطور باید این کار را انجام داد - «همچنین، ابتدای خط حمایت/مقاومت را روی همان کندلی بکش که از آن شروع می‌شود».
+
+ممنون!
+
+دیدن اینکه این LS kink‌ها کار می‌کنند تا حدی شگفت‌انگیز است. اما گیج‌کننده هم هست، نه؟ گاهی همان‌طور که انتظار داری واکنش می‌دهد، گاهی نه. این هم حوزهٔ دیگری است که مطالعهٔ بیشتر می‌خواهد تا رسم خطوط حمایت/مقاومتت را دقیق‌تر کنی.
+--- fxeyes_p2_22 author=winnertrader hash=11e2bc7c
+EN: Hi Fxeyes,
+
+I wanted to think about and really digest your notes on my chart before
+replying to your post. Thanks so much for the enlightening discussion.
+
+I had been wondering about why LS lines were working so well for me at
+the start and stopped to continue working. Of course, it's not the
+concept itself but it was the fact that I was getting OCD about the
+lines. The thing you said about price having to cross the line before it
+ can become valid really switched on something for me.
+
+I think I would redraw lines on XAUUSD to reflect more recent highs and
+lows. I find that SR lines drawn all the way across the chart get way
+too non-specific for me. From whatever little success I had with LS
+concepts, I learned that it can really really pinpoint entries. It was
+this fact that left me sleepless for nights on end, how could I just
+lose it when I had it for 2 whole weeks?! I kept drawing and redrawing
+lines like a maniac.
+
+So the blue lines in the chart below were the most recent LS lines and
+got activated because price crossed them on the way down. Below the blue
+ lines, you would have to use red lines from previous highs and lows as
+the recent ones are not yet valid. Am I right about this? Probably way
+obvious stuff for you, but for me, I am a bit slow I guess.
+FA: سلام Fxeyes،
+
+می‌خواستم قبل از پاسخ به پستت، دربارهٔ یادداشت‌هایت روی چارتم فکر کنم و واقعاً هضمشان کنم. خیلی ممنون بابت این بحث روشنگر.
+
+مدت‌ها فکر می‌کردم چرا خطوط LS در ابتدا این‌قدر خوب برایم کار می‌کردند و بعد از کار افتادند. البته، مسئله خود مفهوم نیست، بلکه این بود که داشت وسواس (OCD) روی خطوط پیدا می‌کردم. آن حرفی که زدی، دربارهٔ اینکه قیمت باید خط را رد کند تا خط معتبر شود، واقعاً چیزی را در ذهنم روشن کرد.
+
+فکر می‌کنم خطوط XAUUSD را دوباره رسم کنم تا سقف‌ها و کف‌های تازه‌تر را نشان دهد. برای من، خطوط SR‌ی که تا انتهای چارت کشیده می‌شوند بیش از حد غیردقیق می‌شوند. از هر موفقیت کوچکی که با مفاهیم LS داشتم، یاد گرفتم که این مفاهیم واقعاً می‌توانند ورودها را دقیق مشخص کنند. همین موضوع شب‌های پیاپی خواب را از من گرفته بود؛ چطور ممکن است چیزی که 2 هفتهٔ تمام داشتم را از دست بدهم؟! مدام مثل یک دیوانه خط رسم می‌کردم و دوباره رسم می‌کردم.
+
+پس خطوط آبی در چارت زیر، تازه‌ترین خطوط LS بودند و فعال شدند چون قیمت در مسیر نزول از آن‌ها گذشت. زیر خطوط آبی، باید از خطوط قرمز سقف‌ها و کف‌های قبلی استفاده کنی، چون خطوط اخیر هنوز معتبر نیستند. آیا درست فهمیده‌ام؟ احتمالاً برای تو کاملاً واضح است، اما من ظاهراً کمی کند هستم.
+--- fxeyes_p2_23 author=fxeyes hash=ae7cfc29
+EN: winnertrader wrote: Hi Fxeyes,
+
+I wanted to think about and really digest your notes on my chart before
+replying to your post. Thanks so much for the enlightening discussion.
+
+I had been wondering about why LS lines were working so well for me at
+the start and stopped to continue working. Of course, it's not the
+concept itself but it was the fact that I was getting OCD about the
+lines. The thing you said about price having to cross the line before it
+ can become valid really switched on something for me.
+
+I think I would redraw lines on XAUUSD to reflect more recent highs and
+lows. I find that SR lines drawn all the way across the chart get way
+too non-specific for me. From whatever little success I had with LS
+concepts, I learned that it can really really pinpoint entries. It was
+this fact that left me sleepless for nights on end, how could I just
+lose it when I had it for 2 whole weeks?! I kept drawing and redrawing
+lines like a maniac.
+
+So the blue lines in the chart below were the most recent LS lines and
+got activated because price crossed them on the way down. Below the blue
+ lines, you would have to use red lines from previous highs and lows as
+the recent ones are not yet valid. Am I right about this? Probably way
+obvious stuff for you, but for me, I am a bit slow I guess.
+
+We might be having a hard time understanding each other because we have
+different trading methodologies. I'm not primarily looking at these
+lines for kinks to trade; I try to look at price as a whole, and use
+s/r, ls, rs, kinks, etc.. as factors for areas of entry. I have a lot
+of lines on my chart but i naturally ignore a lot of em (and I'm
+reconsidering how/when to draw them), so whether i draw a line
+'correctly' is less important.
+
+Maybe you should simplify things for now and just look for upcoming LS
+(MPLs), using rectangles. Then you can look for a kink at the inner
+line of the rectangle.
+
+Oh one more note, you picked a chart that is pretty congested, which makes it harder to pick apart for learning purposes.
+FA: winnertrader نوشت: سلام Fxeyes،
+
+می‌خواستم قبل از پاسخ به پستت، دربارهٔ یادداشت‌هایت روی چارتم فکر کنم و واقعاً هضمشان کنم. خیلی ممنون بابت این بحث روشنگر.
+
+مدت‌ها فکر می‌کردم چرا خطوط LS در ابتدا این‌قدر خوب برایم کار می‌کردند و بعد از کار افتادند. البته، مسئله خود مفهوم نیست، بلکه این بود که داشت وسواس (OCD) روی خطوط پیدا می‌کردم. آن حرفی که زدی، دربارهٔ اینکه قیمت باید خط را رد کند تا خط معتبر شود، واقعاً چیزی را در ذهنم روشن کرد.
+
+فکر می‌کنم خطوط XAUUSD را دوباره رسم کنم تا سقف‌ها و کف‌های تازه‌تر را نشان دهد. برای من، خطوط SR‌ی که تا انتهای چارت کشیده می‌شوند بیش از حد غیردقیق می‌شوند. از هر موفقیت کوچکی که با مفاهیم LS داشتم، یاد گرفتم که این مفاهیم واقعاً می‌توانند ورودها را دقیق مشخص کنند. همین موضوع شب‌های پیاپی خواب را از من گرفته بود؛ چطور ممکن است چیزی که 2 هفتهٔ تمام داشتم را از دست بدهم؟! مدام مثل یک دیوانه خط رسم می‌کردم و دوباره رسم می‌کردم.
+
+پس خطوط آبی در چارت زیر، تازه‌ترین خطوط LS بودند و فعال شدند چون قیمت در مسیر نزول از آن‌ها گذشت. زیر خطوط آبی، باید از خطوط قرمز سقف‌ها و کف‌های قبلی استفاده کنی، چون خطوط اخیر هنوز معتبر نیستند. آیا درست فهمیده‌ام؟ احتمالاً برای تو کاملاً واضح است، اما من ظاهراً کمی کند هستم.
+
+شاید فهمیدن هم برایمان سخت شده چون روش‌های معاملاتی مختلفی داریم. من در درجهٔ اول به این خطوط نگاه نمی‌کنم تا kink برای معامله پیدا کنم؛ سعی می‌کنم قیمت را به‌عنوان یک کل ببینم و از حمایت/مقاومت، ls، rs، kink و غیره به‌عنوان عواملی برای ناحیه‌های ورود استفاده کنم. من روی چارتم خطوط زیادی دارم اما طبیعتاً خیلی از آن‌ها را نادیده می‌گیرم (و دارم دوباره فکر می‌کنم که کِی و چطور رسمشان کنم)، پس اینکه خطی را «درست» رسم کرده‌ام یا نه اهمیت کمتری دارد.
+
+شاید بهتر باشد فعلاً همه‌چیز را ساده کنی و فقط با استفاده از مستطیل‌ها دنبال LS‌های پیشرو (MPL‌ها) بگردی. بعد می‌توانی دنبال kink روی خط داخلی مستطیل بگردی.
+
+آه، یک نکتهٔ دیگر: تو چارتی انتخاب کردی که نسبتاً پرتراکم است، و همین جدا کردن اجزایش را برای یادگیری سخت‌تر می‌کند.
+--- fxeyes_p2_24 author=fxeyes hash=bd5716b9
+EN: fxeyes wrote:
+winnertrader wrote: Hi Fxeyes,
+
+I wanted to think about and really digest your notes on my chart before
+replying to your post. Thanks so much for the enlightening discussion.
+
+I had been wondering about why LS lines were working so well for me at
+the start and stopped to continue working. Of course, it's not the
+concept itself but it was the fact that I was getting OCD about the
+lines. The thing you said about price having to cross the line before it
+ can become valid really switched on something for me.
+
+I think I would redraw lines on XAUUSD to reflect more recent highs and
+lows. I find that SR lines drawn all the way across the chart get way
+too non-specific for me. From whatever little success I had with LS
+concepts, I learned that it can really really pinpoint entries. It was
+this fact that left me sleepless for nights on end, how could I just
+lose it when I had it for 2 whole weeks?! I kept drawing and redrawing
+lines like a maniac.
+
+So the blue lines in the chart below were the most recent LS lines and
+got activated because price crossed them on the way down. Below the blue
+ lines, you would have to use red lines from previous highs and lows as
+the recent ones are not yet valid. Am I right about this? Probably way
+obvious stuff for you, but for me, I am a bit slow I guess.
+
+We might be having a hard time understanding each other because we have
+different trading methodologies. I'm not primarily looking at these
+lines for kinks to trade; I try to look at price as a whole, and use
+s/r, ls, rs, kinks, etc.. as factors for areas of entry. I have a lot
+of lines on my chart but i naturally ignore a lot of em (and I'm
+reconsidering how/when to draw them), so whether i draw a line
+'correctly' is less important.
+
+Maybe you should simplify things for now and just look for upcoming LS
+(MPLs), using rectangles. Then you can look for a kink at the inner
+line of the rectangle.
+
+Oh one more note, you picked a chart that is pretty congested, which makes it harder to pick apart for learning purposes.
+
+Here's an example of a recent trade idea. Notice how the s/r lines
+don't come into play until later in my read. And notice how it's only
+one factor in my decision making. So that's just one way I use lines,
+and you can see why i don't make such a big deal about drawing the right
+ lines (which makes it hard for me to give you a good answer).
+Sometimes price sets itself up so that the lines are more obvious, which
+ makes me more inclined to predraw the lines. Its harder to draw the
+lines in congestion. Maybe there are others on here that know how to do
+ it more 'properly' ??
+FA: fxeyes نوشت:
+winnertrader نوشت: سلام Fxeyes،
+
+می‌خواستم قبل از پاسخ به پستت، دربارهٔ یادداشت‌هایت روی چارتم فکر کنم و واقعاً هضمشان کنم. خیلی ممنون بابت این بحث روشنگر.
+
+مدت‌ها فکر می‌کردم چرا خطوط LS در ابتدا این‌قدر خوب برایم کار می‌کردند و بعد از کار افتادند. البته، مسئله خود مفهوم نیست، بلکه این بود که داشت وسواس (OCD) روی خطوط پیدا می‌کردم. آن حرفی که زدی، دربارهٔ اینکه قیمت باید خط را رد کند تا خط معتبر شود، واقعاً چیزی را در ذهنم روشن کرد.
+
+فکر می‌کنم خطوط XAUUSD را دوباره رسم کنم تا سقف‌ها و کف‌های تازه‌تر را نشان دهد. برای من، خطوط SR‌ی که تا انتهای چارت کشیده می‌شوند بیش از حد غیردقیق می‌شوند. از هر موفقیت کوچکی که با مفاهیم LS داشتم، یاد گرفتم که این مفاهیم واقعاً می‌توانند ورودها را دقیق مشخص کنند. همین موضوع شب‌های پیاپی خواب را از من گرفته بود؛ چطور ممکن است چیزی که 2 هفتهٔ تمام داشتم را از دست بدهم؟! مدام مثل یک دیوانه خط رسم می‌کردم و دوباره رسم می‌کردم.
+
+پس خطوط آبی در چارت زیر، تازه‌ترین خطوط LS بودند و فعال شدند چون قیمت در مسیر نزول از آن‌ها گذشت. زیر خطوط آبی، باید از خطوط قرمز سقف‌ها و کف‌های قبلی استفاده کنی، چون خطوط اخیر هنوز معتبر نیستند. آیا درست فهمیده‌ام؟ احتمالاً برای تو کاملاً واضح است، اما من ظاهراً کمی کند هستم.
+
+شاید فهمیدن هم برایمان سخت شده چون روش‌های معاملاتی مختلفی داریم. من در درجهٔ اول به این خطوط نگاه نمی‌کنم تا kink برای معامله پیدا کنم؛ سعی می‌کنم قیمت را به‌عنوان یک کل ببینم و از حمایت/مقاومت، ls، rs، kink و غیره به‌عنوان عواملی برای ناحیه‌های ورود استفاده کنم. من روی چارتم خطوط زیادی دارم اما طبیعتاً خیلی از آن‌ها را نادیده می‌گیرم (و دارم دوباره فکر می‌کنم که کِی و چطور رسمشان کنم)، پس اینکه خطی را «درست» رسم کرده‌ام یا نه اهمیت کمتری دارد.
+
+شاید بهتر باشد فعلاً همه‌چیز را ساده کنی و فقط با استفاده از مستطیل‌ها دنبال LS‌های پیشرو (MPL‌ها) بگردی. بعد می‌توانی دنبال kink روی خط داخلی مستطیل بگردی.
+
+آه، یک نکتهٔ دیگر: تو چارتی انتخاب کردی که نسبتاً پرتراکم است، و همین جدا کردن اجزایش را برای یادگیری سخت‌تر می‌کند.
+
+این هم نمونه‌ای از یک ایدهٔ معاملاتی اخیر. توجه کن که خطوط حمایت/مقاومت تا مراحل بعدی خوانشم وارد بازی نمی‌شوند. و توجه کن که فقط یکی از عوامل تصمیم‌گیری من است. پس این فقط یکی از راه‌های استفادهٔ من از خطوط است، و می‌بینی که چرا این‌قدر برای رسم درست خطوط سخت‌گیری نمی‌کنم (که همین باعث می‌شود نتوانم جواب خوبی به تو بدهم). گاهی قیمت خودش را طوری می‌چیند که خطوط واضح‌تر باشند و همین مرا بیشتر به رسم از پیشِ خطوط متمایل می‌کند. رسم خطوط در تراکم سخت‌تر است. شاید اینجا آدم‌های دیگری باشند که بدانند چطور این کار را «اصولی‌تر» انجام دهند؟؟
+--- fxeyes_p2_25 author=fxeyes hash=6d82aeed
+EN: straight forward LS trade. Price engulfed the last high but didn't
+break zone. Price also came down pretty strongly and didn't have a
+strong reaction when zone was hit. Less confident it will make it to
+the final target, will let PA take me out.
+FA: یک معاملهٔ LS سرراست. قیمت آخرین سقف را اینگالف کرد اما zone را نشکست. قیمت همچنین نسبتاً قوی پایین آمد و وقتی zone لمس شد واکنش قوی نداشت. اطمینانم کمتر است که به تارگت نهایی برسد؛ می‌گذارم PA مرا بیرون ببرد.

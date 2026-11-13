@@ -1,0 +1,8 @@
+{
+  "salivan_p10_18": {
+    "ok": false,
+    "issue": "label added to bare ticker",
+    "why": "EN post is the bare ticker \"GJ\" with nothing else; FA renders it as \"GJ (پوند/ین)\", appending a Persian gloss the source does not contain.",
+    "fix": "GJ"
+  }
+}

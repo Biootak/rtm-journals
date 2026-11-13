@@ -1,0 +1,648 @@
+### edges_p2_1
+EN: 1. The Big Picture (Identifying the Behaviour)
+
+Well,first thing I like to do is to open the chart and have a look at
+the highest scale. I do this in a informal sense. It helps me get in
+tune with the market. Its not a mandatory step, but I find it helps
+lubricate the cogs which turn inside my skull. I have a look to see what
+ type of program they are running. This is simple. Its just looking at
+the past to see where they have accumulated, marked up, distributed,
+marked down. NOT THE WYCKOFF WAY. Many S/D traders love these
+terms. I actually regret labelling them as the stages. In a simpler form
+ its just ping pong between FLs.
+
+We can see how they stack orders create highs and lows to FO past to get
+ the BO traders and stops. This creates a big pool of liquidity for
+them. How they move into a CP program swapping orders out and
+positioning themselves which creates the liquidity spikes through a
+vacuum of sorts. I have drawn up a chart below. Not every area is tagged
+ but you get the idea. ***N.B - I do not actually mark the chart at this
+ stage, this is only for demonstration purposes***
+FA: 1. تصویر بزرگ (شناسایی رفتار)
+
+خب، اولین کاری که دوست دارم بکنم این است که چارت را باز کنم و نگاهی به بالاترین مقیاس بیندازم. این کار را به‌شکلی غیررسمی انجام می‌دهم. کمکم می‌کند با بازار هماهنگ شوم. گام اجباری‌ای نیست، اما می‌بینم که کمک می‌کند چرخ‌دنده‌های داخل کله‌ام روغن‌کاری شوند. نگاهی می‌اندازم تا ببینم چه نوع برنامه‌ای را اجرا می‌کنند. ساده است. فقط نگاه کردن به گذشته است تا ببینم کجا انباشته کرده‌اند، بالا برده‌اند، توزیع کرده‌اند، پایین آورده‌اند. نه به روش وایکاف. بسیاری از معامله‌گران S/D عاشق این اصطلاح‌ها هستند. راستش پشیمانم که آنها را مرحله نامیدم. به شکلی ساده‌تر، فقط پینگ‌پنگ میان FL‌هاست.
+
+می‌توانیم ببینیم چطور سفارش‌ها را روی هم می‌چینند، سقف و کف می‌سازند تا از گذشته FO کنند و معامله‌گران BO و استاپ‌ها را بگیرند. این استخر بزرگی از نقدینگی برایشان می‌سازد. چطور وارد یک برنامهٔ CP می‌شوند، سفارش‌ها را جایگزین می‌کنند و خودشان را پوزیشن می‌دهند، که از طریق نوعی خلأ، اسپایک‌های نقدینگی را می‌سازد. چارتی در پایین کشیده‌ام. همهٔ نواحی برچسب ندارند اما منظور را می‌گیرید. ***توجه - من در این مرحله واقعاً چارت را علامت نمی‌زنم، این فقط برای نمایش است***
+
+### edges_p2_2
+EN: 2. Marking the DPs surrounding the PAZ’s which define the I.T order blocks
+
+DPs are everywhere but we are best placed breaking them up into PAZ’s.
+Everything I have read on RTM and over at the Academy and studied on a
+chart suggests to me In its most simplest form that:
+
+Price is either in space (an expanding Flag), Body of established
+Flag OR its at the limit (FL). An Engulf means nothing if its returning
+from an opposing FL.
+
+Once we can master this and scale, I don’t think QMs DMs Can Cans etc
+matter as they fall into place by the very nature of the before
+mentioned statement.
+
+Of course this all goes out the window if we do not correctly identify the FLs and Flags.
+
+Other members here may notice that I tend to focus on areas which may
+not be significant. Keep in mind I am marking it as possible
+Conservative TG’s. I will not necessary look at it as a place to enter
+or wait for further PA.
+
+I follow these as a guideline. There may be times when I adjust the
+rules. If we remain consistent in how we mark it up, it should all even
+out in the end:
+
+-	Mark All Highs/Lows/SR (The ones I see, some of us see things differently)
+
+-	LS’s and Ignored LS’s
+
+-	Break into and Post Compression (**N.B pre compression MPL is marked as TG only**)
+
+-	CP must make a HH/LL than the last set of preceding orders.
+
+-	Only the opposite swing point at the break in and out of CP can be used as S/R or L/S
+
+-	Price must break the associated (FL) of the before mentioned areas. If not I don’t mark it up (more on this later)
+
+-	Associated FTR has to have met an opposing TG before it’s a FL &
+The barrier must have been in opposite direction (direction dictated by
+EG’s)
+
+Now I am in two minds regarding stacked zones. I know it can often be
+used as a less aggressive form of Compression BUT in my opinion clean
+orders can still reside between the stacked zones, so I treat them like
+one of the before mentioned categories.
+
+Please see below chart.
+
+I think I will come back tomorrow and finish off how I see the FLs. Hope
+ I am not straying too far away from what I’m trying to achieve with
+this plan. More reflection tomorrow
+FA: 2. علامت‌گذاری DP‌های اطراف PAZ‌ها که بلاک‌های سفارش IT را تعریف می‌کنند
+
+DP‌ها همه‌جا هستند، اما بهتر است آنها را در قالب PAZ‌ها تقسیم کنیم. هر چیزی که دربارهٔ RTM خوانده‌ام و در آکادمی گذرانده‌ام و روی چارت بررسی کرده‌ام، به ساده‌ترین شکل به من می‌گوید که:
+
+قیمت یا در فضاست (یک FLAG در حال گسترش)، یا در بدنهٔ یک FLAG تثبیت‌شده، یا در حد (FL). اینگالف اگر از یک FL مقابل بازمی‌گردد، معنایی ندارد.
+
+وقتی بتوانیم بر این و بر مقیاس مسلط شویم، فکر نمی‌کنم QM‌ها، DM‌ها، کانکان‌ها و مانند این‌ها اهمیتی داشته باشند، چون به اقتضای همان جملهٔ پیش‌گفته سر جای خود قرار می‌گیرند.
+
+البته اگر FL‌ها و FLAG‌ها را درست شناسایی نکنیم، همهٔ این‌ها به باد می‌رود.
+
+اعضای دیگر اینجا ممکن است متوجه شوند که من بیشتر روی نواحی‌ای تمرکز می‌کنم که شاید مهم نباشند. یادتان باشد آنها را به‌عنوان تارگت‌های احتمالی محافظه‌کارانه علامت می‌زنم. لزوماً آن را جای ورود نمی‌دانم یا جایی که باید منتظر PA بیشتر بمانم.
+
+اینها را به‌عنوان راهنما رعایت می‌کنم. ممکن است وقت‌هایی قواعد را تنظیم کنم. اگر در شیوهٔ علامت‌گذاری یک‌دست بمانیم، در پایان همه‌چیز باید سر به سر شود:
+
+- علامت‌گذاری همهٔ سقف‌ها/کف‌ها/SR (آنهایی که من می‌بینم؛ بعضی از ما چیزها را متفاوت می‌بینیم)
+
+- LS‌ها و LS‌های نادیده‌گرفته‌شده
+
+- شکست به داخل فشردگی و پس از آن (**توجه: MPL پیش از فشردگی فقط به‌عنوان تارگت علامت زده می‌شود**)
+
+- CP باید نسبت به آخرین مجموعهٔ سفارش‌های پیش از خود HH/LL بسازد.
+
+- فقط نقطهٔ سوئینگ مقابل در شکست به داخل و خارج CP می‌تواند به‌عنوان S/R یا L/S استفاده شود
+
+- قیمت باید FL مرتبط با نواحی پیش‌گفته را بشکند. اگر نشکند علامتش نمی‌زنم (بیشتر در این باره بعداً)
+
+- FTR مرتبط باید پیش از آنکه FL باشد، یک تارگت مقابل را محقق کرده باشد و مانع باید در جهت مخالف بوده باشد (جهت را EG‌ها تعیین می‌کنند)
+
+حالا دربارهٔ نواحی روی‌هم‌چیده دو دلم. می‌دانم که اغلب می‌توان از آن به‌عنوان شکل کم‌تهاجمی‌تری از فشردگی استفاده کرد، اما به نظر من سفارش‌های تمیز هنوز می‌توانند میان این نواحی بمانند، پس با آنها مثل یکی از دسته‌های پیش‌گفته برخورد می‌کنم.
+
+لطفاً چارت پایین را ببینید.
+
+فکر می‌کنم فردا برگردم و دیدم نسبت به FL‌ها را تمام کنم. امیدوارم از آنچه با این طرح دنبالش هستم خیلی دور نیفتاده باشم. فردا بازنگری بیشتری
+
+### edges_p2_3
+EN: Gotta love the free and cheap education out there.
+
+Just had another trader (outside of RTM) tell me the only way to trade
+is with momentum and ERC's and never catch a falling dagger.
+
+I was going to try and explain that you need to question this. Of course
+ the ITs want us trading the trend and buy after the move has happened,
+so they can reload or offload. Also, ERC does not always mean strength
+or weakness markets will rocket or drop depending on liquidity which in
+turn is the cause and effect for volatility.
+
+Then I decided to just remain quiet. What others call education we know is propaganda.
+
+I must remember that regardless If I am right or he is, its still his opinion and he is entitled to it.
+FA: باید عاشق این آموزش‌های مجانی و ارزانی بود که همه‌جا ریخته.
+
+همین حالا معامله‌گر دیگری (بیرون از RTM) به من گفت تنها راه معامله با مومنتوم و ERC‌هاست و هرگز نباید خنجر در حال افتادن را گرفت.
+
+می‌خواستم تلاش کنم توضیح دهم که باید در این باره پرسش کرد. البته IT‌ها می‌خواهند ما در جهت روند معامله کنیم و بعد از اینکه حرکت رخ داد بخریم، تا خودشان دوباره بار کنند یا خالی کنند. همچنین ERC همیشه به‌معنای قدرت یا ضعف نیست؛ بازارها بسته به نقدینگی موشک می‌شوند یا سقوط می‌کنند، و نقدینگی خودش علت و معلول نوسان است.
+
+بعد تصمیم گرفتم فقط ساکت بمانم. چیزی که دیگران آموزش می‌نامند، ما می‌دانیم که پروپاگاندا است.
+
+باید یادم باشد که چه من درست باشم چه او، این هنوز نظر اوست و حق دارد آن را داشته باشد.
+
+### edges_p2_4
+EN: The question is: does he makes consistant money with that!?
+
+I follow some traders in my country and i used to play a game watching
+their trades: As they explain it, I try to transcript it into RTM
+concepts. And I often see that they actually, with time and experience,
+transformed the usual propaganda in something more like RTM concepts,
+but they don't even know it!
+FA: سؤال این است: آیا او با این روش پول باثبات درمی‌آورد!؟
+
+من بعضی معامله‌گران کشور خودم را دنبال می‌کنم و قبلاً بازی‌ای می‌کردم: وقتی معاملاتشان را توضیح می‌دهند، سعی می‌کنم آن را به مفاهیم RTM برگردانم. و اغلب می‌بینم که آنها در واقع با گذشت زمان و تجربه، همان پروپاگاندای معمول را به چیزی نزدیک‌تر به RTM تبدیل کرده‌اند، بی‌آنکه خودشان بدانند!
+
+### edges_p2_5
+EN: Edge wrote: 2. Marking the DPs surrounding the PAZ’s which define the I.T order blocks
+
+DPs are everywhere but we are best placed breaking them up into PAZ’s.
+Everything I have read on RTM and over at the Academy and studied on a
+chart suggests to me In its most simplest form that:
+
+Price is either in space (an expanding Flag), Body of established
+Flag OR its at the limit (FL). An Engulf means nothing if its returning
+from an opposing FL.
+
+Once we can master this and scale, I don’t think QMs DMs Can Cans etc
+matter as they fall into place by the very nature of the before
+mentioned statement.
+
+Of course this all goes out the window if we do not correctly identify the FLs and Flags.
+
+Other members here may notice that I tend to focus on areas which may
+not be significant. Keep in mind I am marking it as possible
+Conservative TG’s. I will not necessary look at it as a place to enter
+or wait for further PA.
+
+I follow these as a guideline. There may be times when I adjust the
+rules. If we remain consistent in how we mark it up, it should all even
+out in the end:
+
+-	Mark All Highs/Lows/SR (The ones I see, some of us see things differently)
+
+-	LS’s and Ignored LS’s
+
+-	Break into and Post Compression (**N.B pre compression MPL is marked as TG only**)
+
+-	CP must make a HH/LL than the last set of preceding orders.
+
+-	Only the opposite swing point at the break in and out of CP can be used as S/R or L/S
+
+-	Price must break the associated (FL) of the before mentioned areas. If not I don’t mark it up (more on this later)
+
+-	Associated FTR has to have met an opposing TG before it’s a FL &
+The barrier must have been in opposite direction (direction dictated by
+EG’s)
+
+Now I am in two minds regarding stacked zones. I know it can often be
+used as a less aggressive form of Compression BUT in my opinion clean
+orders can still reside between the stacked zones, so I treat them like
+one of the before mentioned categories.
+
+Please see below chart.
+
+I think I will come back tomorrow and finish off how I see the FLs. Hope
+ I am not straying too far away from what I’m trying to achieve with
+this plan. More reflection tomorrow
+
+Marking all Highs and Lows and all SRs in my view is just misguiding or
+complicating our analysis. instead look for those SRs which created due
+to penetration into FLs. Master Sali said that too. and I atlast so late able to understand what he actually said
+FA: Edge نوشت: 2. علامت‌گذاری DP‌های اطراف PAZ‌ها که بلاک‌های سفارش IT را تعریف می‌کنند
+
+DP‌ها همه‌جا هستند، اما بهتر است آنها را در قالب PAZ‌ها تقسیم کنیم. هر چیزی که دربارهٔ RTM خوانده‌ام و در آکادمی گذرانده‌ام و روی چارت بررسی کرده‌ام، به ساده‌ترین شکل به من می‌گوید که:
+
+قیمت یا در فضاست (یک FLAG در حال گسترش)، یا در بدنهٔ یک FLAG تثبیت‌شده، یا در حد (FL). اینگالف اگر از یک FL مقابل بازمی‌گردد، معنایی ندارد.
+
+وقتی بتوانیم بر این و بر مقیاس مسلط شویم، فکر نمی‌کنم QM‌ها، DM‌ها، کانکان‌ها و مانند این‌ها اهمیتی داشته باشند، چون به اقتضای همان جملهٔ پیش‌گفته سر جای خود قرار می‌گیرند.
+
+البته اگر FL‌ها و FLAG‌ها را درست شناسایی نکنیم، همهٔ این‌ها به باد می‌رود.
+
+اعضای دیگر اینجا ممکن است متوجه شوند که من بیشتر روی نواحی‌ای تمرکز می‌کنم که شاید مهم نباشند. یادتان باشد آنها را به‌عنوان تارگت‌های احتمالی محافظه‌کارانه علامت می‌زنم. لزوماً آن را جای ورود نمی‌دانم یا جایی که باید منتظر PA بیشتر بمانم.
+
+اینها را به‌عنوان راهنما رعایت می‌کنم. ممکن است وقت‌هایی قواعد را تنظیم کنم. اگر در شیوهٔ علامت‌گذاری یک‌دست بمانیم، در پایان همه‌چیز باید سر به سر شود:
+
+- علامت‌گذاری همهٔ سقف‌ها/کف‌ها/SR (آنهایی که من می‌بینم؛ بعضی از ما چیزها را متفاوت می‌بینیم)
+
+- LS‌ها و LS‌های نادیده‌گرفته‌شده
+
+- شکست به داخل فشردگی و پس از آن (**توجه: MPL پیش از فشردگی فقط به‌عنوان تارگت علامت زده می‌شود**)
+
+- CP باید نسبت به آخرین مجموعهٔ سفارش‌های پیش از خود HH/LL بسازد.
+
+- فقط نقطهٔ سوئینگ مقابل در شکست به داخل و خارج CP می‌تواند به‌عنوان S/R یا L/S استفاده شود
+
+- قیمت باید FL مرتبط با نواحی پیش‌گفته را بشکند. اگر نشکند علامتش نمی‌زنم (بیشتر در این باره بعداً)
+
+- FTR مرتبط باید پیش از آنکه FL باشد، یک تارگت مقابل را محقق کرده باشد و مانع باید در جهت مخالف بوده باشد (جهت را EG‌ها تعیین می‌کنند)
+
+حالا دربارهٔ نواحی روی‌هم‌چیده دو دلم. می‌دانم که اغلب می‌توان از آن به‌عنوان شکل کم‌تهاجمی‌تری از فشردگی استفاده کرد، اما به نظر من سفارش‌های تمیز هنوز می‌توانند میان این نواحی بمانند، پس با آنها مثل یکی از دسته‌های پیش‌گفته برخورد می‌کنم.
+
+لطفاً چارت پایین را ببینید.
+
+فکر می‌کنم فردا برگردم و دیدم نسبت به FL‌ها را تمام کنم. امیدوارم از آنچه با این طرح دنبالش هستم خیلی دور نیفتاده باشم. فردا بازنگری بیشتری
+
+به نظر من علامت‌گذاری همهٔ سقف‌ها و کف‌ها و همهٔ SR‌ها فقط گمراه‌کننده است یا تحلیل ما را پیچیده می‌کند. به‌جایش دنبال آن SR‌هایی بگرد که در اثر نفوذ به FL‌ها ایجاد شده‌اند. استاد Sali هم همین را گفت. و من دست‌آخر، این‌قدر دیر، توانستم بفهمم او واقعاً چه می‌گفت
+
+### edges_p2_6
+EN: Thanks K for stopping by, it's important to spark discussion. I do not
+ disagree with you and Sali indeed focuses on the FL,s you correctly
+pointed out
+
+For me though, it's not over complicating it what the purpose of it is
+to assist with my own risk appetite. Meaning that those levels are only
+drawn for conservative tg 1s. Not entries. If they have removed an
+opposing area, they may turn price (unless they are formed betweenthe
+established ufl, lfl)
+
+I would only take entries on the fls similar to what you mentioned but also be conscious of tgs .
+
+I have had many discussions with salivan about his style and he is
+amazing trader and person. For me, but we are all different. For example
+ the ORFL concept which is brilliant is not for me when it comes to tgs.
+
+In summary I try to mark everything I see in that if scale. And even in
+the same scale there will be different grades of areas. But, I triage
+this by only leaning on the best for entries and still using
+questionable weaker areas for TG.
+
+Finally, because I do it this way I don't find a need to use lower scale
+ barriers and their kinks to lean on. If it's visible on the mthly,
+weekly or daily there the ones I like, especially if it's a tiny FL kink
+ that is invisible that meets my other requirements.
+
+The only thing I disagree with you on is that
+
+I do not believe it's misguided at all. If it is I apologise but after
+years of going through this material I finally realisedwe need to
+personalise it to our own traits
+
+Thanks again for your input.
+FA: ممنون K که سر زدی، ایجاد بحث مهم است. من با تو مخالف نیستم و Sali واقعاً روی همان FL‌هایی تمرکز می‌کند که درست اشاره کردی
+
+اما برای من، این کار پیچیده‌کردن بی‌دلیل نیست؛ هدفش کمک به اشتهای ریسک خودم است. یعنی آن سطوح فقط برای تارگت‌های محافظه‌کارانهٔ دستهٔ 1 رسم می‌شوند. نه برای ورود. اگر ناحیه‌ای مقابل را حذف کرده باشند، ممکن است قیمت را برگردانند (مگر اینکه میان UFL و LFL تثبیت‌شده شکل گرفته باشند)
+
+من فقط روی FL‌هایی مشابه آنچه گفتی ورود می‌گیرم، اما به تارگت‌ها هم آگاه هستم.
+
+بحث‌های زیادی با salivan دربارهٔ سبکش داشته‌ام و او معامله‌گر و آدم فوق‌العاده‌ای است. برای من، اما همه ما متفاوتیم. مثلاً مفهوم ORFL که درخشان است، وقتی پای تارگت‌ها به میان می‌آید برای من نیست.
+
+خلاصه اینکه سعی می‌کنم همه‌چیز را در آن مقیاس تایم‌فریمی علامت بزنم. و حتی در یک مقیاس، نواحی درجه‌بندی‌های مختلفی دارند. اما این را با تکیه فقط بر بهترین‌ها برای ورود و همچنان استفاده از نواحی ضعیف‌تر و محل تردید برای تارگت، اولویت‌بندی می‌کنم.
+
+آخرش، چون این‌طور کار می‌کنم، نیازی نمی‌بینم به موانع مقیاس پایین‌تر و کینک‌هایشان تکیه کنم. اگر روی ماهانه، هفتگی یا روزانه دیده شود، همان‌ها هستند که دوست دارم، به‌ویژه اگر کینک FL ریزی باشد که نامرئی است و سایر شرط‌هایم را برآورده می‌کند.
+
+تنها چیزی که با تو در آن مخالفم این است که
+
+اصلاً باور نمی‌کنم گمراه‌کننده باشد. اگر باشد عذر می‌خواهم، اما بعد از سال‌ها کار روی این مطالب بالاخره فهمیدم که باید آن را با ویژگی‌های خودمان شخصی‌سازی کنیم
+
+باز هم ممنون از نظرت.
+
+### edges_p2_7
+EN: I have decided to step away from posting how I analyse and see the
+market. I had the best intentions on sharing what works for me. However,
+ It has been suggested by one trader that I am 'misguiding'. I am fine
+with critiques and love discussions about the market with differing
+views.
+
+For instance over at RTMA We would all often engage in great
+discussions over at the academy and have differing opinions but we never
+ made such assertions about the motives of how we trade.
+
+Perhaps its just a cultural thing or a language barrier, but its led me
+to realize that I should only post upcoming trades in my journal and not
+ how I analyse the market. I am still eager to have discussions here and
+ in other threads, where I may stay active but I think I will keep my
+thoughts on how I conduct analysis to myself in the meantime.
+
+I dont want to leave RTM and I have recently had discussions with IF and
+ Harry to offer assistance in from a point of view more aligned to my
+day job specialties. Which may also provide some respite away from my
+journal. Whatever happens does so for a reason
+
+Peace Out All.
+
+Clint
+FA: تصمیم گرفته‌ام از پست کردن درباره اینکه چطور تحلیل می‌کنم و بازار را چطور می‌بینم کنار بکشم. نیت من از سهیم شدن در آنچه برایم کار می‌کند بهترین بود. با این حال، یکی از معامله‌گران گفته است که من «گمراه‌کننده»ام. با نقد راحتم و عاشق بحث دربارهٔ بازار با دیدگاه‌های متفاوت هستم.
+
+مثلاً در آکادمی RTM ما همه اغلب در بحث‌های خوبی شرکت می‌کردیم و دیدگاه‌های متفاوتی داشتیم، اما هرگز چنین ادعاهایی دربارهٔ انگیزهٔ شیوهٔ معامله‌گری‌مان مطرح نمی‌کردیم.
+
+شاید فقط یک مسئلهٔ فرهنگی یا سد زبان باشد، اما باعث شد بفهمم که باید در ژورنالم فقط معاملات پیشِ رو را پست کنم، نه شیوهٔ تحلیلم از بازار را. هنوز مشتاق بحث اینجا و در تاپیک‌های دیگر هستم، جایی که ممکن است فعال بمانم، اما فکر می‌کنم فعلاً نظرم درباره اینکه تحلیل را چطور انجام می‌دهم برای خودم نگه می‌دارم.
+
+نمی‌خواهم RTM را ترک کنم و اخیراً با IF و Harry صحبت‌هایی داشته‌ام تا از دیدگاهی که بیشتر با تخصص‌های شغلی روزانه‌ام همسو است کمک ارائه کنم. این ممکن است کمی هم مرا از ژورنالم دور کند و استراحتی باشد. هر چه پیش بیاید حکمتی دارد
+
+خدانگهدار همه.
+
+Clint
+
+### edges_p2_8
+EN: Now i'm afraid my last post in Art-of-War journal can be "misguiding" too.
+
+For me, your journal and shared posts are very helpful.
+
+Best of luck, bro
+FA: حالا می‌ترسم آخرین پستم در ژورنال Art-of-War هم «گمراه‌کننده» باشد.
+
+برای من، ژورنال و پست‌های به‌اشتراک‌گذاشتهٔ تو خیلی کمک‌کننده‌اند.
+
+موفق باشی برادر
+
+### edges_p2_9
+EN: Thanks S, I enjoy reading your posts. You are doing a great job my
+friend. I will still post but keep it to discussions already in motion
+as opposed to my own trading steps and methodology, which is based on
+RTM.
+FA: ممنون S، از خواندن پست‌هایت لذت می‌برم. داری کار بزرگی می‌کنی دوست من. همچنان پست می‌کنم اما آن را محدود به بحث‌هایی می‌کنم که از قبل در جریان‌اند، نه گام‌ها و متدولوژی معاملهٔ خودم که بر RTM استوار است.
+
+### edges_p2_10
+EN: Nothing misguiding at all to me. RTM is about posting what's you
+reasoning about trades, that's what is interesting, it would be a great
+loss to lose your comments on RTM.
+FA: برای من اصلاً گمراه‌کننده نیست. RTM درباره به اشتراک گذاشتن استدلالت دربارهٔ معاملات است، همین جالب است؛ از دست دادن نظراتت در RTM ضرر بزرگی خواهد بود.
+
+### edges_p2_11
+EN: Thanks HCDE. The RTM community is my home. I have been having a bad
+few days and may have read t much into things. One of the pitfalls of
+over analysing.
+
+I do think however my goal of trading the fund in the future needs to be
+ my focus. Recent discussions with people who I consider to be amazing
+here have confirmed that as well.
+FA: ممنون HCDE. جامعهٔ RTM خانهٔ من است. چند روز بدی را گذرانده بودم و شاید زیادی چیزها را به خود گرفتم. یکی از دام‌های بیش از حد تحلیل کردن.
+
+اما فکر می‌کنم هدفم برای معاملهٔ صندوق در آینده باید تمرکز من باشد. بحث‌های اخیر با افرادی که اینجا فوق‌العاده می‌دانمشان هم همین را تأیید کرد.
+
+### edges_p2_12
+EN: It can be frustrating when R is just not quite right and it misses by 1
+pip for enrty and goes and works out. I have no regrets about not
+pulling the trigger and staying on the sidelines for this one
+FA: می‌تواند آزاردهنده باشد وقتی R دقیقاً درست نیست و 1 پیپ از ورود فاصله می‌گیرد و بعد جواب می‌دهد. از اینکه ماشه را نکشیدم و از این یکی کنار ماندم پشیمان نیستم
+
+### edges_p2_13
+EN: Unlucky with AJ trade mate, I do love how you stick to the plan.
+
+With respect to some thinking that you have been 'misguiding' here, I
+really hope you do continue to post your thought processes and ideas.
+It's not only (obviously) helpful for you, in putting ideas down on
+paper, but for people like me who read your journal with great interest,
+ and absolutely love reading the ideas and musings of others in RTM.
+
+This is the whole point of each of our journals, to record our journey
+of learning and trading, I'd hate for that dialogue to disappear from
+the forum.
+
+I think the comment (read literally): "Marking all Highs and Lows and
+all SRs in my view is just misguiding or complicating our analysis."
+Was referring to misguiding the analysis of an individual chart, i.e
+creating an over complicated chart which saturates focus from important
+areas, rather than your posts about your thoughts and processes being
+misguiding. But I won't try to speculate further there, the real point
+is that many others find your posts incredibly helpful and thought
+provoking,
+
+If you would like specific examples how your posts and journal have helped me, just a couple among many spring to mind:
+
+1) I would not have not grasped FL validation concepts as quickly (FL is an FL once it has reached it's opposing FL TG etc.)
+
+2) Identify areas of interest on the chart that pertain to I.T price
+movements and finding the traps based around the decision points in the
+market.
+
+I would really hate for you to feel oppressed in expressing yourself
+here in your own space, and I for one would be sad if the great posts
+here stopped :)
+FA: تو با معاملهٔ AJ بدشانسی آوردی رفیق، اما واقعاً دوست دارم که به طرح پایبند می‌مانی.
+
+دربارهٔ اینکه بعضی فکر می‌کنند تو اینجا «گمراه‌کننده» بوده‌ای، واقعاً امیدوارم به پست کردن فرایندهای فکری و ایده‌هایت ادامه بدهی. این نه فقط (که پیداست) برای خودت در به کاغذ آوردن ایده‌ها مفید است، بلکه برای کسانی مثل من که ژورنالت را با علاقهٔ زیاد می‌خوانند و از خواندن ایده‌ها و تأملات دیگران در RTM لذت می‌برند.
+
+تمام هدف ژورنال هر یک از ما همین است: ثبت سفر یادگیری و معامله‌گری‌مان. بدم می‌آید که این گفت‌وگو از انجمن محو شود.
+
+فکر می‌کنم آن کامنت (اگر تحت‌اللفظی خوانده شود): "علامت‌گذاری همهٔ سقف‌ها و کف‌ها و همهٔ SR‌ها به نظر من فقط گمراه‌کننده است یا تحلیل ما را پیچیده می‌کند." به گمراه کردن تحلیل یک چارت مشخص اشاره داشت، یعنی ساختن چارتی بیش از حد پیچیده که تمرکز را از نواحی مهم می‌گیرد، نه اینکه پست‌های تو دربارهٔ افکار و فرایندهایت گمراه‌کننده باشند. اما نمی‌خواهم بیشتر از این حدس بزنم؛ نکتهٔ اصلی این است که بسیاری دیگر پست‌هایت را فوق‌العاده مفید و تأمل‌برانگیز می‌دانند،
+
+اگر نمونه‌های مشخصی می‌خواهی از اینکه پست‌ها و ژورنالت چطور به من کمک کرده‌اند، فقط چند نمونه از میان خیلی‌ها به ذهنم می‌رسد:
+
+1) مفاهیم اعتبارسنجی FL را این‌قدر سریع درک نمی‌کردم (FL وقتی FL است که به تارگت FL مقابلش رسیده باشد و غیره.)
+
+2) شناسایی نواحی مورد توجه روی چارت که به حرکات قیمت IT مربوط‌اند و یافتن تله‌ها بر پایهٔ نقاط تصمیم در بازار.
+
+واقعاً بدم می‌آید که اینجا در فضای خودت در بیان خودت تحت فشار احساس کنی، و من خودم اگر پست‌های عالی اینجا متوقف شود غمگین می‌شوم :)
+
+### edges_p2_14
+EN: moogroo wrote: Unlucky with AJ trade mate, I do love how you stick to the plan.
+
+With respect to some thinking that you have been 'misguiding' here, I
+really hope you do continue to post your thought processes and ideas.
+It's not only (obviously) helpful for you, in putting ideas down on
+paper, but for people like me who read your journal with great interest,
+ and absolutely love reading the ideas and musings of others in RTM.
+
+This is the whole point of each of our journals, to record our journey
+of learning and trading, I'd hate for that dialogue to disappear from
+the forum.
+
+I think the comment (read literally): "Marking all Highs and Lows and
+all SRs in my view is just misguiding or complicating our analysis."
+Was referring to misguiding the analysis of an individual chart, i.e
+creating an over complicated chart which saturates focus from important
+areas, rather your posts about your thoughts and processes being
+misguiding. But I won't try to speculate further there, the real point
+is that many others find your posts incredibly helpful and thought
+provoking,
+
+If you would like specific examples how your posts and journal have helped me, just a couple among many spring to mind:
+
+1) I would not have not grasped FL validation concepts as quickly (FL is an FL once it has reached it's opposing FL TG etc.)
+
+2) Identify areas of interest on the chart that pertain to I.T price
+movements and finding the traps based around the decision points in the
+market.
+
+I would really hate for you to feel oppressed in expressing yourself
+here in your own space, and I for one would be sad if the great posts
+here stopped :)
+
+I will +1 this.
+
+Your posts on FL's definitely helped me realise why some worked better
+than others, simply because as you stated the target of the FL hadn't
+been filled. Such a simple concept but i guess that this has been missed
+ by many.
+
+I will also miss your great posts, as they clearly put the point across and joined the dots.
+
+I fully respect your decision not to continue in the manner of which you
+ started, and I wish you the best of luck in achieving your targets.
+
+G
+FA: moogroo نوشت: تو با معاملهٔ AJ بدشانسی آوردی رفیق، اما واقعاً دوست دارم که به طرح پایبند می‌مانی.
+
+دربارهٔ اینکه بعضی فکر می‌کنند تو اینجا «گمراه‌کننده» بوده‌ای، واقعاً امیدوارم به پست کردن فرایندهای فکری و ایده‌هایت ادامه بدهی. این نه فقط (که پیداست) برای خودت در به کاغذ آوردن ایده‌ها مفید است، بلکه برای کسانی مثل من که ژورنالت را با علاقهٔ زیاد می‌خوانند و از خواندن ایده‌ها و تأملات دیگران در RTM لذت می‌برند.
+
+تمام هدف ژورنال هر یک از ما همین است: ثبت سفر یادگیری و معامله‌گری‌مان. بدم می‌آید که این گفت‌وگو از انجمن محو شود.
+
+فکر می‌کنم آن کامنت (اگر تحت‌اللفظی خوانده شود): "علامت‌گذاری همهٔ سقف‌ها و کف‌ها و همهٔ SR‌ها به نظر من فقط گمراه‌کننده است یا تحلیل ما را پیچیده می‌کند." به گمراه کردن تحلیل یک چارت مشخص اشاره داشت، یعنی ساختن چارتی بیش از حد پیچیده که تمرکز را از نواحی مهم می‌گیرد، نه اینکه پست‌های تو دربارهٔ افکار و فرایندهایت گمراه‌کننده باشند. اما نمی‌خواهم بیشتر از این حدس بزنم؛ نکتهٔ اصلی این است که بسیاری دیگر پست‌هایت را فوق‌العاده مفید و تأمل‌برانگیز می‌دانند،
+
+اگر نمونه‌های مشخصی می‌خواهی از اینکه پست‌ها و ژورنالت چطور به من کمک کرده‌اند، فقط چند نمونه از میان خیلی‌ها به ذهنم می‌رسد:
+
+1) مفاهیم اعتبارسنجی FL را این‌قدر سریع درک نمی‌کردم (FL وقتی FL است که به تارگت FL مقابلش رسیده باشد و غیره.)
+
+2) شناسایی نواحی مورد توجه روی چارت که به حرکات قیمت IT مربوط‌اند و یافتن تله‌ها بر پایهٔ نقاط تصمیم در بازار.
+
+واقعاً بدم می‌آید که اینجا در فضای خودت در بیان خودت تحت فشار احساس کنی، و من خودم اگر پست‌های عالی اینجا متوقف شود غمگین می‌شوم :)
+
+من هم +1 می‌کنم.
+
+پست‌هایت درباره FL‌ها قطعاً کمکم کرد بفهمم چرا بعضی بهتر از بقیه کار می‌کنند؛ فقط به این دلیل که، همان‌طور که گفتی، تارگت FL پر نشده بود. مفهومی این‌قدر ساده، اما حدس می‌زنم خیلی‌ها از آن غافل مانده‌اند.
+
+من هم پست‌های عالیت را از دست خواهم داد، چون نکته را روشن بیان می‌کردند و نقطه‌ها را به هم وصل می‌کردند.
+
+تصمیمت را برای ادامه ندادن به همان شیوه‌ای که شروع کردی کاملاً محترم می‌شمارم و برای رسیدن به اهدافت بهترین‌ها را آرزو می‌کنم.
+
+G
+
+### edges_p2_15
+EN: Thanks Guys, That member was only offering his view. I was a bit
+tender that day. Upon reflection, I know what he was saying and even
+though I disagree it came from a good place. without tone or body
+language we often interpret written communication based on our own
+psychological state of mind. With verbal tone, inflections and body
+language the intent is often easier defined.
+
+I enjoy reading your posts as well guys. But our own journals are
+places where we can share our ideas and learn from our mistakes. My
+interpretations may be heavily flawed and at least for me,
+thoughts/processes are adapting on a regular basis.
+
+Cheers :)
+
+Thanks guys
+FA: ممنون بچه‌ها، آن عضو فقط دیدگاهش را می‌گفت. آن روز کمی حساس بودم. با بازنگری، می‌دانم منظورش چه بود و با اینکه مخالفم، از جای خوبی می‌آمد. بدون لحن یا زبان بدن، ما اغلب ارتباط نوشتاری را بر اساس وضعیت روانی خودمان تفسیر می‌کنیم. با لحن کلامی، زیر و بم صدا و زبان بدن، نیت اغلب راحت‌تر مشخص می‌شود.
+
+من هم از خواندن پست‌های شما لذت می‌برم بچه‌ها. اما ژورنال خودمان جایی است که می‌توانیم ایده‌هایمان را به اشتراک بگذاریم و از اشتباهاتمان یاد بگیریم. تفسیرهای من ممکن است پر از ایراد باشند و دست‌کم برای من، افکار و فرایندها مرتب در حال تطبیق‌اند.
+
+سلامتی :)
+
+ممنون بچه‌ها
+
+### edges_p2_16
+EN: Moogroo Said: "If you would like specific examples how your posts and journal have helped me, just a couple among many spring to mind:
+
+1) I would not have not grasped FL validation concepts as quickly (FL is an FL once it has reached it's opposing FL TG etc.)
+
+2) Identify areas of interest on the chart that pertain to I.T price
+movements and finding the traps based around the decision points in the
+market."
+
+Thanks my man, but I learnt that from RTMA, IF. I am just taking how I
+see it and writing it in a way that helps me understand. Please always
+go back to the source ie: "IF/H/M or other teachers and their written
+word in marketpedia, as my take on it could just be a bastardization.
+
+I do appreciate your kind words
+FA: Moogroo گفت: "اگر نمونه‌های مشخصی می‌خواهی از اینکه پست‌ها و ژورنالت چطور به من کمک کرده‌اند، فقط چند نمونه از میان خیلی‌ها به ذهنم می‌رسد:
+
+1) مفاهیم اعتبارسنجی FL را این‌قدر سریع درک نمی‌کردم (FL وقتی FL است که به تارگت FL مقابلش رسیده باشد و غیره.)
+
+2) شناسایی نواحی مورد توجه روی چارت که به حرکات قیمت IT مربوط‌اند و یافتن تله‌ها بر پایهٔ نقاط تصمیم در بازار."
+
+ممنون رفیق، اما من این را از آکادمی RTM و IF یاد گرفتم. من فقط آن‌طور که می‌بینمش برمی‌دارم و به شکلی می‌نویسم که کمکم کند بفهمم. لطفاً همیشه به منبع برگرد، یعنی: "IF/H/M یا معلمان دیگر و کلام نوشته‌شده‌شان در marketpedia"، چون برداشت من از آن ممکن است فقط یک تحریف باشد.
+
+واقعاً از حرف‌های مهربانت ممنونم
+
+### edges_p2_17
+EN: watching and waiting
+FA: در حال نگاه کردن و منتظر ماندن
+
+### edges_p2_18
+EN: Thanks for your insight
+FA: ممنون از بینش‌ات
+
+### edges_p2_19
+EN: I sometimes go back to this diagram I drew when I need to reset my
+mind. Basically price is either at the limits or in a flag body that has
+ completed or expanding:
+
+Example of one of my IF/ THEN scenario analysis for next week. Doing this across multiple pairs. No exotics though.
+FA: بعضی وقت‌ها وقتی نیاز دارم ذهنم را ریست کنم، به این نموداری که کشیده‌ام برمی‌گردم. اساساً قیمت یا در حدهاست یا در بدنهٔ FLAG‌ی که کامل شده یا در حال گسترش است:
+
+نمونه‌ای از یکی از تحلیل‌های سناریوی IF/THEN من برای هفتهٔ آینده. این کار را روی چند جفت‌ارز انجام می‌دهم. البته نه روی اگزوتیک‌ها.
+
+### edges_p2_20
+EN: Cont
+FA: ادامه
+
+### edges_p2_21
+EN: Another Area of Interest (AoI) is the lower dark green area. The
+Larger FL is showing some reactions to the nested orders. Each FL
+contains several pockets of orders as ITs get an average fill in an
+acceptable range. I will wait for PA if I am around and If lower dark
+green FL is hit.
+FA: ناحیهٔ مورد توجه (AoI) دیگر، ناحیهٔ سبز تیرهٔ پایین‌تر است. FL بزرگ‌تر کمی واکنش به سفارش‌های تودرتو نشان می‌دهد. هر FL چند جیب از سفارش‌ها را در خود دارد، چون IT‌ها در یک محدودهٔ قابل قبول میانگین پر شدن می‌گیرند. اگر آنجا باشم و FL سبز تیرهٔ پایین‌تر زده شود، منتظر PA می‌مانم.
+
+### edges_p2_22
+EN: Hey Edge,
+
+What about the MPL of that larger FL? (marked it in a black rectangle below)
+FA: سلام Edge،
+
+MPL آن FL بزرگ‌تر چه؟ (در مستطیل سیاه پایین علامتش زده‌ام)
+
+### edges_p2_23
+EN: Yep, that would be nice to hit that and have some PA as well :)
+FA: آره، خوب می‌شود که آن را بزنیم و کمی PA هم داشته باشیم :)
+
+### edges_p2_24
+EN: Hi Edge and Vitaldrug,
+
+Hope you don't mind me discussing with you guys.
+
+What do you mean by nested orders in the statement The Larger FL is showing some reactions to the nested orders?
+
+I have looked into the UJ trade and this is what I have found.
+
+Green rectangle in Edge's large FL. Blue rectangle is Vitaldrug's MPL. White line is where price bounced.
+
+Looking into the past(please refer to the chart below), I have found
+that Vitaldrug's MPL seems to be a reaction to box 3 and maybe the
+reason why it didn't hold. I believe there was some form of compression
+in box2 and box3. Being a compression, the beginning and end of the
+compression must contain strong orders. For box3, orders have been
+completely consumed when price fully touched the zone and formed
+Vitadrulg's MPL. Therefore, price could only have bounced at the other
+end of the compression not fully consumed which is box2. Hope I didn't
+misunderstand your statement Edge ->Edge wrote: Yes, unless the MPL is spiked its not pure CP. Often what is marked as CP is only stacked zones.
+
+Based on this picture below, did I correctly mark the MPL (violet or pink rectangle on my chart above)?Rakkain wrote: You'll find what you need to know from this picture by IF,
+
+And his webinar in this
+	post
+. We love cp, but often it's a bit tricky
+
+Please correct me if I am wrong. :)
+FA: سلام Edge و Vitaldrug،
+
+امیدوارم بدت نیاد که با شما بحث می‌کنم.
+
+منظورت از سفارش‌های تودرتو در این جمله چیست: FL بزرگ‌تر کمی واکنش به سفارش‌های تودرتو نشان می‌دهد؟
+
+معاملهٔ UJ را بررسی کردم و این چیزی است که پیدا کردم.
+
+مستطیل سبز در FL بزرگ Edge. مستطیل آبی MPLِ Vitaldrug است. خط سفید جایی است که قیمت برگشت.
+
+با نگاه به گذشته (لطفاً به چارت پایین مراجعه کن)، دیده‌ام که MPLِ Vitaldrug ظاهراً واکنشی به باکس 3 است و شاید دلیل اینکه نگه نداشت هم همین باشد. باور دارم که در باکس 2 و باکس 3 نوعی فشردگی بوده. فشردگی که باشد، ابتدا و انتهای آن باید سفارش‌های قوی داشته باشد. در باکس 3، وقتی قیمت کاملاً ناحیه را لمس کرد و MPLِ Vitaldrug را ساخت، سفارش‌ها کاملاً مصرف شده بودند. بنابراین قیمت فقط می‌توانست در انتهای دیگر فشردگی که کاملاً مصرف نشده بود، یعنی باکس 2، برگردد. امیدوارم حرفت را بد نفهمیده باشم Edge ->Edge نوشت: بله، مگر اینکه MPL اسپایک شده باشد، وگرنه CP خالص نیست. اغلب آنچه CP علامت زده می‌شود فقط نواحی روی‌هم‌چیده است.
+
+بر اساس این تصویر پایین، آیا MPL را درست علامت زدم (مستطیل بنفش یا صورتی روی چارت بالای من)؟ Rakkain نوشت: آنچه لازم است بدانی را از این تصویر IF پیدا می‌کنی،
+
+و وبینارش در این پست. ما CP را دوست داریم، اما اغلب کمی سخت است
+
+اگر اشتباه می‌کنم لطفاً تصحیحم کن. :)
+
+### edges_p2_25
+EN: Hey EM, Sorry I should have been descriptive. I was not looking at the
+ MPL but rather the lower green in my chart example. This was due to
+higher scale confluence and a inner kink. We did have a reaction at that
+ level. If I was around at the time I would have looked for PA. The MPL
+was also another option as Vital pointed out, again we would need clean
+orders and PA.
+
+As for nested areas, I was talking about smaller scale even or the
+reaction on the first bounce at my first green level which lines up with
+ the ignored LS at the bigger FL. In conclusion it was just areas of
+interest that needed either PA in this scale or lower which may have
+required me going to the tick charts
+FA: سلام EM، ببخشید باید توضیح بیشتری می‌دادم. من به MPL نگاه نمی‌کردم، بلکه به سبز پایین‌تر در نمونه چارتم. این به دلیل همگرایی مقیاس بالاتر و یک کینک داخلی بود. واقعاً در آن سطح واکنش داشتیم. اگر آن موقع آنجا بودم دنبال PA می‌گشتم. MPL هم همان‌طور که Vital اشاره کرد گزینهٔ دیگری بود؛ باز هم به سفارش‌های تمیز و PA نیاز داشتیم.
+
+دربارهٔ نواحی تودرتو، منظورم مقیاس کوچک‌تر یا حتی واکنش در اولین برگشت در سطح سبز اولم بود که با LS نادیده‌گرفته‌شده در FL بزرگ‌تر هم‌تراز است. در نتیجه فقط نواحی مورد توجهی بودند که به PA در این مقیاس یا پایین‌تر نیاز داشتند، که شاید لازم می‌شد سراغ چارت‌های تیک بروم

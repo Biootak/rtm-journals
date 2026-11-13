@@ -1,0 +1,6 @@
+{
+ "ftrpaz_p4_91": {
+  "issue": "mistranslated term: \"the fail point\" rendered as نقطهٔ شکست (reads as break point); source means the point where the flag failed",
+  "fix": "اینجاست که شفاف‌سازی خیلی کمک می‌کند. آیا اکسترمم آخرین flag را معامله می‌کنیم، همان نقطه‌ای که در تصویری که گذاشتم شکست خورد، یا رویکرد دیگری هم هست؟"
+ }
+}

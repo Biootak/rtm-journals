@@ -1,0 +1,724 @@
+### staurum_p4_1
+EN: Thank you Staurum. What charting platform or broker you are using
+that allows you to drill down to the 10 second chart? MT4 only goes
+down to M1 and so does Tradingview. . Thanks.
+FA: ممنون Staurum. از چه پلتفرم چارتینگ یا بروکری استفاده می‌کنی که اجازه می‌دهد تا نمودار 10 ثانیه‌ای پایین بروی؟ MT4 فقط تا M1 پایین می‌آید و تریدینگ‌ویو هم همین‌طور. . ممنون.
+
+### staurum_p4_2
+EN: Platform: JForex
+
+Broker: Dukascopy Bank
+
+you can use the web charting platform too. Jurij, etwanm, theBeard, and some others use them a lot.
+FA: پلتفرم معاملاتی من: JForex
+
+بروکر: Dukascopy Bank
+
+از پلتفرم چارتینگ تحت وب آن‌ها هم می‌توانی استفاده کنی. Jurij و etwanm و theBeard و چند نفر دیگر از بچه‌های فروم هم زیاد از همین پلتفرم‌ها استفاده می‌کنند.
+
+### staurum_p4_3
+EN: Thanks again Staurum.
+FA: ممنون دوباره Staurum.
+
+### staurum_p4_4
+EN: Staurum, I tried downloading data from Duka once but found that it
+would time out if I tried to download a lot of data at once. Is this
+your experience too?
+FA: Staurum، یک بار تلاش کردم دیتا را از داکا بگیرم، ولی دیدم اگر بخواهم یک‌جا حجم زیادی دیتا دریافت کنم، تایم‌اوت می‌خورد. تو هم همین تجربه را داشته‌ای؟
+
+### staurum_p4_5
+EN: Dont bother downloading data. just use their web-based platform, or
+even better use their JForex java platform. You can request a demo, but
+when later contacted by their account manager, you can request that the
+14-day period limitation be removed so you can demo as long as you want.
+ just like what i did
+FA: خودت را با دریافت دیتا خسته نکن. فقط از پلتفرم تحت وب‌شان استفاده کن، یا حتی بهتر، از پلتفرم جاوای JForex. می‌توانی حساب دمو درخواست کنی، ولی بعد که مدیر حسابشان با تو تماس گرفت، می‌توانی بخواهی محدودیت 14 روزه برداشته شود تا هرقدر خواستی دمو بمانی. همان کاری که خودم کردم.
+
+### staurum_p4_6
+EN: The only proper trade i've ever taken this year. Mission: repeat this 200x.
+FA: تنها معاملهٔ درست‌وحسابی که امسال گرفته‌ام. مأموریت: این را 200 بار تکرار کنم.
+
+### staurum_p4_8
+EN: A night on a weekend. Lots of pondering upon concepts and philosophies of what is behind RTM ideas.
+
+What sparked this is Alecs' post (
+	readthemarket.com/index.php/en/forum/hom...its?start=1075#61075
+) about Sali's post regarding Order Flow (
+	readthemarket.com/index.php/en/forum/jou...-war?start=925#60487
+). Thank you so much Alecs.
+
+A further addition to it is an ebook recommended by a co-RTMer (Ahmad
+Hassan) - refer attached [hmm.... attachment is too big, who wants it
+can PM and the ebook can be emailed]. This is so connected to our SnD
+markepedia article (
+	readthemarket.com/index.php/en/178-engli...tm/498-supply-demend
+). Maybe for others they could say "I thought it's obvious". well.. not
+so much for me. Sometimes, my brain just cant reach that far believe it
+or not. lol... so yes, so often I ask for a much clearer understanding
+that sometimes I might have rubbed some people the wrong way. Well,
+perhaps lots of other people are like that too
+
+Next, what IF so often said that pops up a light bulb in my head is that
+ "The ITs are talking to each other via the charts" and "They just can't
+ hide their orders".
+
+After pondering on these readings, a basic belief now sticks into my
+head that "the Retailers (RETS, mm.... let's use term "RATS" for a
+moment,
+ ) are/must/should/need-to-be/shall-be manipulated in their trading
+"Educations/Trainings/Doctrines" so that the the ITs (Banks especially)
+can LIVE/SURVIVE/PROSPER/Command&Conquer.
+
+It seems to me that their threats are: as time moves forward, more
+people will get more educated (just like us here). and it is quite
+obvious and noticeable that lots of people dig more and more into how to
+ trade successfully, including digging deeper into SnD trading. Back
+then, maybe RATS are still very plain and simple to be slaughtered. Now,
+ the RATs are into trend trading, SnD trading, S/R trading, fibonacci
+trading, Elliottwave trading, Astronomy-based trading, indicators-based
+trading, or even various combinations of them.
+
+Therefore, ITs must think harder than before. In order to win the war,
+they must think how the current RATS think, i.e. think about all those
+types of traders. Exactly like what SunTzu taught (refer
+	www.artofwarquotes.com/
+). In principle, art of war is art of deception. It is interesting if
+the quotes in that blog are applied to trading the markets and the
+weapons are the orders. ITs need to level up their deception skills.
+What i personally need to learn towards is to think how ITs need to
+deceive the RATS. A complete comprehension on a matter might require
+lots and lots of explanations, discussions, arguments, considerations,
+etc. to grasp it well. Words on a piece paper might not suffice, let
+alone a piece of chart. Perhaps then, IF's simple charts are not so
+simple at all. His (and others masters') charts just have too many
+things to think about, talk about, explain about, elaborate around,
+evaluate on, and so on and so on. I wonder if it is even possible to
+explain in a chart how one think the ITs thought of process when they
+are setting up traps and in the process of deceiving the RATs.
+Thankfully, IF has done a few webinars. Just imagine if those simple
+charts in the webinars are covered with explanations, it is not even
+possible to properly see a rectangle.
+
+Before this thought is wrapped up. My mental target should be just like what IF said
+
+1. "think about price, not just read about it" = think about orders
+instead of not only techniques of structuring the markets in zones.
+
+2. "A better target: Feel more at home in the market every day"
+
+Listening to
+
+ while reading and making notes, plus a hot, bitter thick latte on a
+quiet weekend night to wrap up the week is just so relieving.
+
+Night night,
+FA: شبی در آخر هفته. کلی تفکر دربارهٔ مفاهیم و فلسفهٔ پشت ایده‌های RTM.
+
+چیزی که جرقه‌اش را زد پست Alecs است (
+	readthemarket.com/index.php/en/forum/hom...its?start=1075#61075
+) دربارهٔ پست Sali در مورد جریان سفارش (
+	readthemarket.com/index.php/en/forum/jou...-war?start=925#60487
+). خیلی ممنون Alecs.
+
+یک اضافهٔ دیگر هم دارد: کتاب الکترونیکی‌ای که یکی از هم‌RTM‌ها (Ahmad Hassan) پیشنهاد داد — رجوع به پیوست (هوم.... پیوست خیلی بزرگ است؛ هر کس بخواهد، پیام خصوصی بدهد تا کتاب الکترونیکی برایش ایمیل شود). این خیلی به مقالهٔ SnD ما در مارک‌پدیا مربوط است (
+	readthemarket.com/index.php/en/178-engli...tm/498-supply-demend
+). شاید دیگران بگویند «فکر می‌کردم واضح است». خب.. برای من که این‌قدر واضح نیست، باور کن یا نکن. هاها... پس بله، خیلی وقت‌ها درخواست فهم خیلی روشن‌تری می‌کنم و ممکن است بعضی وقت‌ها بعضی‌ها را با این کار رنجانده باشم. خب، شاید خیلی‌های دیگر هم همین‌طور باشند
+
+بعد، چیزی که IF این‌قدر تکرار کرده و در ذهنم لامپ روشن می‌کند این است که «ITها از طریق نمودارها با هم حرف می‌زنند» و «آن‌ها فقط نمی‌توانند سفارش‌هایشان را پنهان کنند».
+
+بعد از فکر کردن روی این نوشته‌ها، حالا یک باور پایه در ذهنم جا خوش کرده: معامله‌گرهای خرد (RET‌ها، مم.... بگذارید برای لحظه‌ای اصطلاح «RAT» را به کار ببرم) در «آموزش‌ها/تمرین‌ها/دکترین‌های» معاملاتی‌شان باید دستکاری شوند تا ITها (به‌خصوص بانک‌ها) بتوانند زندگی/بقا/شکوفایی/فرماندهی و تسخیر داشته باشند.
+
+به نظر من تهدیدشان این است: با گذشت زمان، آدم‌های بیشتری آموزش می‌بینند (درست مثل ما اینجا). و کاملاً واضح و محسوس است که خیلی‌ها بیشتر و بیشتر در این که چطور موفق معامله کنند کندوکاو می‌کنند، از جمله عمیق‌تر شدن در معاملهٔ SnD. آن موقع، شاید RAT‌ها هنوز آن‌قدر ساده و راحت بودند که سلاخی شوند. حالا RAT‌ها وارد معاملهٔ روند، معاملهٔ SnD و معاملهٔ S/R، معاملهٔ فیبوناچی، معاملهٔ امواج الیوت، معاملهٔ مبتنی بر نجوم، معاملهٔ مبتنی بر اندیکاتور، یا حتی ترکیب‌های مختلفی از این‌ها شده‌اند.
+
+بنابراین ITها باید سخت‌تر از قبل فکر کنند. برای بردن جنگ، باید فکر کنند که RAT‌های فعلی چطور فکر می‌کنند؛ یعنی دربارهٔ همهٔ این انواع معامله‌گر فکر کنند. دقیقاً همان چیزی که سون‌تزو آموخت (رجوع کنید به
+	www.artofwarquotes.com/
+). در اصل، هنر جنگ هنر فریب است. جالب است اگر جمله‌های آن وبلاگ را به معامله در بازارها تعمیم بدهیم و سلاح‌ها همان سفارش‌ها باشند. ITها باید مهارت‌های فریب خودشان را ارتقا بدهند. چیزی که شخصاً باید به سمتش یاد بگیرم این است که فکر کنم ITها چطور باید RAT‌ها را فریب بدهند. درک کامل یک موضوع ممکن است توضیح‌ها، بحث‌ها، استدلال‌ها، ملاحظه‌ها و غیرهٔ بسیار زیادی بخواهد تا خوب جا بیفتد. کلمه‌های روی یک تکه کاغذ ممکن است کافی نباشد، چه برسد به یک تکه نمودار. شاید آن‌وقت نمودارهای سادهٔ IF اصلاً ساده نباشند. نمودارهای او (و دیگر استادها) فقط چیزهای زیادی دارند که باید درباره‌شان فکر کرد، حرف زد، توضیح داد، شرح و بسط داد، ارزیابی کرد و همین‌طور تا بی‌نهایت. تعجب می‌کنم اصلاً ممکن باشد در یک نمودار توضیح داد که آدم فکر می‌کند ITها هنگام چیدن تله‌ها و در فرایند فریب دادن RAT‌ها چطور فکر می‌کنند. خوشبختانه IF چند وبینار برگزار کرده. فقط تصور کن اگر آن نمودارهای ساده در وبینارها با توضیحات پوشانده شوند، دیگر حتی نمی‌شود یک مستطیل را درست دید.
+
+پیش از آنکه این فکر را جمع کنم: هدف ذهنی من باید همان چیزی باشد که IF گفت
+
+1. «دربارهٔ قیمت فکر کن، نه فقط دربارهٔ آن بخوان» = به جای فقط تکنیک‌های ساختاردهی بازار در قالب ناحیه‌ها، دربارهٔ سفارش‌ها فکر کن.
+
+2. «تارگت بهتر: هر روز بیشتر در بازار احساس خانه بودن کن»
+
+گوش دادن به
+
+همزمان با خواندن و یادداشت‌برداری، به‌همراه یک لاتهٔ گرم و تلخ و غلیظ در یک شب آرام آخر هفته برای جمع‌بندی هفته، واقعاً آرامش‌بخش است.
+
+شب بخیر،
+
+### staurum_p4_9
+EN: Some good thoughts there
+FA: فکرهای خوبی آنجا بود
+
+### staurum_p4_10
+EN: vendetta against this one here continues.
+
+seems like price is trying to break into a big flag. let's see. there is MPL zone not picked up. it should be attractive enough
+FA: دشمنی با این یکی ادامه دارد.
+
+به نظر می‌رسد قیمت می‌خواهد به یک پرچم بزرگ بشکند. ببینیم. یک ناحیهٔ MPL هست که برداشته نشده. باید به‌اندازهٔ کافی جذاب باشد
+
+### staurum_p4_11
+EN: Ok Vendetta continues: episode March 2017
+
+the Biggest Scammed Instrument:
+
+File Attachment:File Name:
+File Size: 0 KB
+
+File Attachment:File Name:
+File Size: 0 KB
+
+File Attachment:File Name:
+File Size: 0 KB
+FA: خب، دشمنی ادامه دارد: قسمت مارس 2017
+
+بزرگ‌ترین ابزار کلاهبرداری‌شده:
+
+پیوست فایل:نام فایل:
+حجم فایل: 0 KB
+
+فایل پیوست:نام فایل:
+اندازه فایل: 0 KB
+
+ضمیمه:نام فایل، حجم 0 KB
+
+### staurum_p4_12
+EN: staurum wrote: Ok Vendetta continues: episode March 2017
+
+the Biggest Scammed Instrument:
+
+File Attachment:File Name:
+File Size: 0 KB
+
+File Attachment:File Name:
+File Size: 0 KB
+
+File Attachment:File Name:
+File Size: 0 KB
+
+I see the next master trader here :)
+FA: staurum نوشت: خب، دشمنی ادامه دارد: قسمت مارس 2017
+
+بزرگ‌ترین ابزار کلاهبرداری‌شده:
+
+پیوست فایل:نام فایل:
+حجم فایل: 0 KB
+
+فایل پیوست:نام فایل:
+اندازه فایل: 0 KB
+
+ضمیمه:نام فایل، حجم 0 KB
+
+استاد معامله‌گر بعدی را همین‌جا می‌بینم :)
+
+### staurum_p4_13
+EN: USDCHF
+
+File Attachment:File Name:
+File Size: 0 KB
+
+mm... suddenly a notification just popped up telling me that my buy limit order has been hit.
+
+Looking at the chart, i'm pretty much confused as i have no idea why i put the order there in the first place. ..... SL not hit so far... so i'm monitoring it for survival only. suggestions very much welcome
+FA: USDCHF
+
+پیوست فایل:نام فایل:
+حجم فایل: 0 KB
+
+مم... یکو ناگهان اعلانی باز شد و گفت سفارش لیمیت خریدم فعال شده.
+
+به نمودار نگاه می‌کنم و حسابی گیجم، چون هیچ ایده‌ای ندارم که اصلاً چرا سفارش را آنجا گذاشته بودم. ..... تا حالا SL نخورده... پس فقط از نظر زنده ماندن زیر نظرش دارم. پیشنهادها خیلی خوش‌آمد است
+
+### staurum_p4_14
+EN: If you get into a trade by accident or not by design, then it is
+highly recommended to get out. Learn to take the loss and not repeat it
+ again. That is what I do now. In the past, I did not and end up
+losing more. It also clears your psychology for other trades that will
+provide better reward. Otherwise, you just get stressed about it and
+will not see other opportunities that provides better reward and higher
+reward.
+FA: اگر تصادفی یا بدون طرح و نقشه وارد معامله‌ای شوی، قویاً توصیه می‌شود که بیرون بیایی. یاد بگیر ضرر را بپذیری و دیگر تکرارش نکنی. الان کار من همین است. قبلاً این کار را نمی‌کردم و آخرش بیشتر ضرر می‌کردم. این کار ذهنت را هم برای معامله‌های دیگری که ریوارد بهتری می‌دهند آزاد می‌کند. وگرنه فقط استرس می‌گیری و فرصت‌های دیگری را که پاداش بهتر و بیشتری دارند نمی‌بینی.
+
+### staurum_p4_15
+EN: I thought i've seen this somewhere. well it turned out i was almost right (if it turns out so later).
+
+File Attachment:File Name:
+File Size: 0 KB
+
+File Attachment:File Name:
+File Size: 0 KB
+FA: فکر می‌کردم این را جایی دیده‌ام. خب، معلوم شد تقریباً حق داشتم (اگر بعداً معلوم شود که هست).
+
+پیوست فایل:نام فایل:
+حجم فایل: 0 KB
+
+فایل پیوست:نام فایل:
+اندازه فایل: 0 KB
+
+### staurum_p4_16
+EN: Checkpoint:
+
+USDCHF - managed to get out in a small profit.
+
+The rest are here.
+
+File Attachment:File Name:
+File Size: 0 KB
+
+File Attachment:File Name:
+File Size: 0 KB
+
+File Attachment:File Name:
+File Size: 0 KB
+
+File Attachment:File Name:
+File Size: 0 KB
+
+File Attachment:File Name:
+File Size: 0 KB
+FA: ایست بازرسی:
+
+USDCHF - توانستم با سود کوچکی بیرون بیایم.
+
+بقیه اینجا هستند.
+
+پیوست فایل:نام فایل:
+حجم فایل: 0 KB
+
+فایل پیوست:نام فایل:
+اندازه فایل: 0 KB
+
+ضمیمه:نام فایل، حجم 0 KB
+
+فایل ضمیمه:نام پرونده:
+اندازه پرونده: 0 KB
+
+پیوست: 0 KB
+
+### staurum_p4_17
+EN: Here is the module for the QM/DM course:
+
+File Attachment:File Name:
+File Size: 0 KB
+
+So the points that are still missing for me:
+
+Breaking down the Higher Timeframe levels to trade in the Lower Timeframes
+
+Trading-mindfulness
+
+Need to rewatch videos over and over again.
+
+While thinking about video, a thought just popped up saying that this lite course should really be a part of the bigger Mind
+
+So i dig more to the Full RTM Syllabus.
+
+File Attachment:File Name:
+File Size: 0 KB
+
+While looking at this, my mind kept wondering around my bedroom ceiling,
+ why IF is setting up the course like that, why IF needs to chat about
+price movement and candles. Isn't it much simpler just to go straight
+into Real PA parts?
+
+well maybe Price movement and candles could be the place where RTM
+concept all started. In the lite course videos, IF clearly mention that
+we are not looking for patterns. Instead, we look for stops. Hence, the
+reasons why we need to first understand how candlers, patterners,
+fibo-ers, or even SnD-ers are all subjected to IT's trap before looking
+deeper. Dont we notice that it's very difficult to think how all of
+these traders think? not just that, we need to see and think what the
+ITs are doing in order to spoil these traders and let them profiting for
+ a while, just to catch their stops later and bring back their account
+back to square one again, or even better prey on their hopes and fears
+then trap them altogether. What's harder is being a true RTM who knows
+how both sides think and pick the IT's side to trade along.
+
+The next part is real PA, in which ITs rules are dissembled (just imho,
+btw). And the three parts are structured in order of their importance.
+
+so in RealPA1: S/R goes first, and then comes POLE&FLAG. Very
+interesting to think about why these are put up first in the puzzles.
+
+RealPA2: Define Cont. Eng. and then Rev.Eng + Where to look for it. It's
+ a bit odd why the part "+where to look for it" is only added to
+Rev.Eng, but not to Cont.Eng also. Nevertheless, a light bulb just pops
+up. [ie. let the market do the work and follow it, so no guesswork is
+needed.]
+
+And then FL concept is next in line. So there is engulf, then FL (not
+the otherway around, which would make no sense anyway). there is a part
+missing between Eng and FL. To my simple mind, before FL, there must be
+FTR first. (side note: having watched some of IF's youtube videos, i
+noticed that some of the zones i thought to be FL is mentioned "FTR" by
+IF. This issue has been answered thanks to recent discussion in IF's
+journal).
+
+RealPA3: IF/THEN scenario analysis --> to me, it's perhaps all about connecting S/R, POLE&FLAG, Engulf, FL all together.
+
+Then comes the "different sized FL, and how they interact. --> my
+brain ticked a lil while and wondered if there is Different Sized FL,
+then there must be different sized S/R hence different sized
+POLE&FLAG. mm.... the webinar18April2015 just answered it. A big
+clue there: where the targets are.
+
+MultiTF-FL-Compass: should be no other than different scales and different sized PAZs.
+
+MPL: such a big topic which has been covered so many times everywhere.
+this could be where actually QM/DM originates from. The wonderful thing
+about it is that MPL is located in the implied FL so we know where to
+look for the last sets of orders and anticipate DM after a QM.
+
+Next is very interesting:
+
+Flag Completion
+
+the module says "flag completion and evaluate how price can move in
+order to complete a yet to be completed flag" --> i need to sleep on
+this to think what this means in its essence, but the title itself is
+very intriguing.
+
+the last piece: Absolute essentials of PA --> no idea yet. will leave
+ this to the last after the prior pieces are clear enough for my mind to
+ chew.
+
+Talking about Chewing, i think
+	readthemarket.com/index.php/en/178-engli...tm/492-price-reading
+ will be the manual to drive the vehicle above.
+
+2:20pm on a Friday, time for a late brunch.
+FA: این هم ماژول دورهٔ QM/DM:
+
+پیوست فایل:نام فایل:
+حجم فایل: 0 KB
+
+پس نکاتی که هنوز برای من جا نیفتاده:
+
+شکستن سطوح تایم‌فریم بالاتر برای معامله در تایم‌فریم‌های پایین‌تر
+
+ذهن‌آگاهی معاملاتی
+
+باید ویدئوها را بارها و بارها دوباره ببینم.
+
+وقتی به ویدئو فکر می‌کردم، فکری به ذهنم رسید که این دورهٔ سبک باید واقعاً بخشی از «ذهن» بزرگ‌تر باشد
+
+پس بیشتر در برنامهٔ کامل RTM کندوکاو کردم.
+
+پیوست فایل:نام فایل:
+حجم فایل: 0 KB
+
+وقتی به این نگاه می‌کردم، ذهنم مدام دور سقف اتاق خوابم می‌چرخید: چرا IF دوره را این‌طور چیده، چرا IF لازم است دربارهٔ حرکت قیمت و کندل‌ها حرف بزند. آیا خیلی ساده‌تر نیست که مستقیم برویم سر بخش‌های واقعی PA؟
+
+خب شاید حرکت قیمت و کندل‌ها همان جایی باشد که مفهوم RTM از آن شروع شد. در ویدئوهای دورهٔ سبک، IF واضح می‌گوید که ما دنبال الگو نیستیم. در عوض، دنبال استاپ‌ها هستیم. از همین رو لازم است اول بفهمیم چطور کندل‌بازها، الگوبازها، فیبوناچی‌بازها یا حتی SnD‌بازها همه تسلیم تلهٔ IT می‌شوند، و بعد عمیق‌تر نگاه کنیم. مگر متوجه نمی‌شویم که فکر کردن به اینکه همهٔ این معامله‌گرها چطور فکر می‌کنند چقدر سخت است؟ نه فقط این، باید ببینیم و فکر کنیم ITها چه می‌کنند تا این معامله‌گرها را خراب کنند و مدتی سود ببرند، فقط برای اینکه بعداً استاپ‌هایشان را بگیرند و حسابشان را دوباره به خانهٔ اول برگردانند، یا حتی بهتر، روی امیدها و ترس‌هایشان شکار کنند و همه‌شان را با هم به تله بیندازند. سخت‌تر از همه، یک RTM واقعی باشی است؛ کسی که فکر هر دو طرف را می‌داند و طرف IT را برای معامله انتخاب می‌کند.
+
+بخش بعدی PA واقعی است که در آن قواعد ITها بازشکافته می‌شود (راستش فقط به نظر من، حالا). و آن سه بخش به ترتیب اهمیتشان مرتب شده‌اند.
+
+پس در RealPA1: اول S/R می‌آید و بعد میله و پرچم. خیلی جالب است که فکر کنیم چرا این‌ها اول پازل گذاشته شده‌اند.
+
+RealPA2: تعریف اینگالف ادامه‌دهنده و بعد اینگالف برگشتی + کجا دنبالش بگردیم. کمی عجیب است که بخش «+کجا دنبالش بگردیم» فقط به اینگالف برگشتی اضافه شده و به اینگالف ادامه‌دهنده نه. با این حال یک لامپ روشن می‌شود. (یعنی بگذار بازار کارش را بکند و از آن پیروی کن، پس هیچ حدس و گمانی لازم نیست.)
+
+و بعد نوبت مفهوم FL است. پس اینگالف هست، بعد FL (نه برعکس، که آن‌طور هیچ منطقی نداشت). یک بخش بین Eng و FL جا افتاده است. به ذهن سادهٔ من، پیش از FL باید اول FTR بیاید. (یک نکتهٔ حاشیه‌ای: بعد از دیدن چند ویدئوی یوتیوب IF، متوجه شدم بعضی از ناحیه‌هایی که فکر می‌کردم FL هستند، IF آن‌ها را «FTR» می‌نامد. این مسئله به لطف بحث‌های اخیر در ژورنال IF جواب داده شد).
+
+RealPA3: تحلیل سناریوی اگر/آنگاه --> به نظر من احتمالاً همه‌اش دربارهٔ وصل کردن S/R، میله و پرچم، اینگالف، و FL به هم است.
+
+بعدش «FLهای با اندازه‌های مختلف و اینکه چطور با هم تعامل می‌کنند» می‌آید. --> مغزم کمی تیک زد و به این فکر افتاد که اگر FLهای با اندازه‌های مختلف هست، پس حتماً S/Rهای اندازه‌مختلف هم هست، و بنابراین میله و پرچم‌های اندازه‌مختلف. مم.... وبینار 18April2015 همین را جواب داد. یک سرنخ بزرگ آنجا: تارگت‌ها کجا هستند.
+
+قطب‌نمای FL در چند تایم‌فریم: باید چیزی جز مقیاس‌های مختلف و PAZ‌های اندازه‌مختلف نباشد.
+
+MPL: موضوعی این‌قدر بزرگ که هر جا بارها پوشش داده شده. شاید واقعاً QM/DM از همین‌جا سرچشمه گرفته باشد. نکتهٔ شگفت‌انگیزش این است که MPL داخل FL ضمنی قرار دارد، پس می‌دانیم آخرین دسته سفارش‌ها را کجا پیدا کنیم و بعد از QM انتظار DM داشته باشیم.
+
+بعدی خیلی جالب است:
+
+تکمیل پرچم
+
+ماژول می‌گوید «تکمیل پرچم و ارزیابی اینکه قیمت چطور می‌تواند حرکت کند تا پرچمی را که هنوز تکمیل نشده کامل کند» --> باید روی این بخوابم تا بفهمم در ذاتش چه معنایی دارد، ولی خود عنوان خیلی وسوسه‌انگیز است.
+
+آخرین قطعه: ضروریات مطلق PA --> هنوز هیچ ایده‌ای ندارم. این را می‌گذارم برای آخر، بعد از اینکه قطعه‌های قبلی برای جویدن ذهنم به‌قدر کافی روشن شدند.
+
+حرف از جویدن شد، فکر می‌کنم
+	readthemarket.com/index.php/en/178-engli...tm/492-price-reading
+ کتاب راهنمای راندن این وسیلهٔ بالایی باشد.
+
+2:20pm یک جمعه، وقت یک برانچ دیر.
+
+### staurum_p4_18
+EN: Weekend should be the best time to re-catch some lost coffee time and
+re-pay sleep debts. Unfortunately, having watched lite course video no.1
+ and also youtube video
+
+"simple way to know where price will bounce", plus having read a post about MPL that i did (
+	readthemarket.com/index.php/en/forum/hom...gnment-dbr-rbd#60256
+), something just kept me awake and wondering despite my attempt to switch off and sleep.
+
+"STOPS" is the X-Factor. This is the IT's "it" factor after all.
+
+Salivan posted many charts in which he drew some silly cartoons
+representing IT's face, and he would ask about how the ITs want to play
+--the game--.
+
+So, really, i could've spent a good time away from the charts enjoying
+some nice cookies wife just made with all kids jumping all over and
+hanging on like monkeys distracting me from whatever it is i'm tryin' to
+ do. Nevertheless, curiosity just easily took over, felt like an
+addiction to the mind, and is extremely hard to drift away once it's
+taking its toll into thoughts.
+
+Googling everything i could find about "stops hunting", "catching stop
+losses", "retailer's stoplosses", "Market maker's tricks", etc. etc.
+etc. There are just so many articles about all of them, but i choose to
+keep these just because of personal preference:
+
+	www.dukascopy.com/fxcomm/fx-article-cont...&action=read&id=3329
+
+	www.dukascopy.com/fxcomm/fx-article-cont...&action=read&id=3346
+
+There is one particular paragraph that i'm interested in. it's as follows:
+
+"The learning path for most traders is to study charts, patterns,
+indicators, and attach meaning to these patterns. This is nothing more
+than a deception. Traders are driven to stare on the charts and their
+patterns or are convinced to purchase highly sophisticated softwares and
+ programs that are convenient and comfortable but never proven to profit
+ consistently. This learning paths are designed and promoted by market
+makers for the sole benefit of their business. There is nothing wrong
+with reading charts and indicators as long as they contribute to
+everyone's success in the long run. But it seems that more than 90% of
+traders end up losing a lot of money over several years."
+
+ABSOLUTELY CORRECT. Why? Because it pretty much summed up what i've been
+ through over these last 13-14months, if i'm not mistaken, up until i
+came to know and find RTM (not just its name, but the meaning of its
+name) existed. Hopping here and there just to find what works, what
+doesnot work, what is hit and misses, etc. etc. Well, sadly, even after
+sometime learning RTM, i was still looking for patterns and attached
+meaning to patterns, for example looking for QM or DM or CP patter, only
+ to find later that because of my incomplete knowledge of RTM then i'm
+just still in the "deception slump".
+
+So much that i'm trying to learn from so many great people, i'm also
+finding people who is trying to learn from me. and thanks to RTM's
+suggestion, it's indeed the best way of learning. how do we know? just
+imagine how we were in their shoes, or how we are going to be in other
+people's shoes. learning from the more experienced and teaching the less
+ experienced is actually having mentors on both side of the evils. it
+ended up forcing us into reflecting our own mind and soul against
+others, but reacting back to us.
+
+Even though RTM here contains a lot of puzzles, the learners (including
+me, still) just can't easily break away from poisonous bad habits, i.e.
+"study charts, patterns, indicators, and attach meaning to these
+patterns". We will sometimes be fooled into thinking,
+
+*ok here is break, FTR, then there is CP approach, good, let's put a
+pending limit order there and put stops behind the FTR; without even
+thinking who is going to hunt these stops.
+
+*ok i see a high, higher high, and lower low, that's it. QM!! ok...
+let's put pending order here put stops on HH. at least i would get a
+bounce or a scalp, ok i'll exit here and/or move stops if reach there.
+All i need is just a few bounces everyday so i can watch my account
+grow. I don't need anything else in RTM because reading is a hassle and i
+ dont have time for that. lol... the reality is whether or not, without
+complete understanding of RTM, we have good reasons for somebody else
+NOT to hunt these stops.
+
+I mean everyone, incl. me, after watching lite course videos recently
+uploaded, will be all over the place trying to look for "left shoulders"
+ and "QM" levels. if that so, we are not so much different from those
+trolls learning QM MASTER CLASS from a person who didn't even complete
+RTM years back.
+
+Well, we could argue, "no we know about FL and a place where to look FL
+zone". Really? how on earth can we understand FL without going through
+the homeworks and also the other masters' journals, including IF's
+journal. IF's journal especially contains lots of charts that, if we
+realise, often force us to find the "other" zones in order to grasp
+fully what he taught. It's just impossible to understand "Price Reading"
+ without going though hardwork and out-of-count hours of messing around
+with charts. Disclaimer: "All of these do NOT apply to the genius, which
+ certainly i'm not one of."
+
+*ok i find this good RBD/DBR and based on my homeworks so far, i can
+spot which one is good RBD/DBR and which one is not, i'm sure this is a
+good one, let's put a pending order here and stops just behind RBD/DBR;
+without even thinking or doing the other homeworks about FL to even know
+ whether or not those RBD/DBR is reacting to the right place.
+
+*ok i find this FL is very well hidden and it's at a good place on S/R,
+so should be good, so let's put a pending order there because my winning
+ trades proved good on these set-ups; without even waiting for PA
+confirmation, or worse, trying to be like the master traders or IF.
+
+There are just countless, countless mistakes that we could have repeated
+ even after we have studied RTM materials. why? because we will get
+distracted with so many techniques and technical operations (as i called
+ it), that we always forgot that the main focus, ideally, should be to
+trade along with ITs. where is the place? answer: "STOPS". It's not
+finished yet. Many times over and over, when explaining a chart or price
+ movement, IF would not only simply walk us through the technicals, but
+more importantly also, he explained and told the stories behind the
+reasons, which are pretty much roamed around "Retailers' psychology".
+
+Had a good talk yesterday in church with a very old friend. he was
+working in one of the financial institutions back in Aust as a
+constultant to a group of programmers tasked to design algorithms by the
+ company's trading department. We both recognised that market makers /
+the "biggies" as we call it are just very cunning and evil in driving
+market into corners where stops and traps are actually being "pooled" at
+ times.
+
+It's almost like a recent youtube video that just stole my interest for a little while:
+
+It basically told how dolphins are very smart in working together as a
+group to corner their preys into a corner so that they can ALL have a
+feast TOGETHER. The preys can't easily get away because the dolphins
+(the big money) are the one herding the trend & direction. Of
+course, not all preys will get "EATEN UP", because dolphins also have
+limited stomach. well at least, they ARE FULL AND SATISFIED already.
+
+Sunday lunch time. a good "Mie Goreng" awaits.
+FA: آخر هفته باید بهترین زمان برای جبران کمی از وقت قهوهٔ از دست رفته و پس دادن بدهی‌های خواب باشد. متأسفانه، بعد از دیدن ویدئوی شمارهٔ 1 دورهٔ سبک و همچنین ویدئوی یوتیوب
+
+«راهی ساده برای فهمیدن اینکه قیمت کجا برمی‌گردد»، و علاوه بر آن خواندن پستی دربارهٔ MPL که خودم نوشتم (
+	readthemarket.com/index.php/en/forum/hom...gnment-dbr-rbd#60256
+)، چیزی مدام بیدارم نگه داشت و به فکر واداشت، با وجود تلاشم برای خاموش کردن ذهن و خوابیدن.
+
+«استاپ‌ها» همان فاکتور ایکس است. آخرش این همان فاکتور «آن» ITهاست.
+
+Salivan نمودارهای زیادی گذاشت که در آن‌ها کارتون‌های مسخره‌ای از چهرهٔ IT می‌کشید و می‌پرسید ITها می‌خواهند --این بازی-- را چطور بازی کنند.
+
+پس واقعاً می‌توانستم وقت خوبی را دور از نمودارها بگذرانم و از شیرینی‌های خوشمزه‌ای که زنم تازه پخته بود لذت ببرم، در حالی که بچه‌ها بالا و پایین می‌پریدند و مثل میمون به من آویزان می‌شدند و از هر کاری که می‌خواستم بکنم حواسم را پرت می‌کردند. با این حال، کنجکاوی به‌سادگی چیره شد، شبیه اعتیاد به ذهن بود، و وقتی دارد خراجش را از فکرها می‌گیرد، خیلی سخت می‌شود از آن دور شد.
+
+هر چیزی که می‌توانستم دربارهٔ «شکار استاپ»، «گرفتن استاپ‌لاس‌ها»، «استاپ‌لاس‌های معامله‌گرهای خرد»، «ترفندهای مارکت‌میکر» و غیره و غیره و غیره در گوگل جست‌وجو کردم. مقاله‌های بی‌شماری دربارهٔ همهٔ این‌ها هست، ولی من این‌ها را فقط به دلیل ترجیح شخصی نگه می‌دارم:
+
+	www.dukascopy.com/fxcomm/fx-article-cont...&action=read&id=3329
+
+	www.dukascopy.com/fxcomm/fx-article-cont...&action=read&id=3346
+
+یک پاراگراف خاص هست که به آن علاقه دارم. این است:
+
+«مسیر یادگیری بیشتر معامله‌گرها مطالعهٔ نمودارها، الگوها، اندیکاتورها و چسباندن معنا به این الگوهاست. این چیزی جز یک فریب نیست. معامله‌گرها را وادار می‌کنند به نمودارها و الگوهایشان خیره شوند، یا قانع می‌شوند که نرم‌افزارها و برنامه‌های بسیار پیچیده و پیشرفته‌ای بخرند که راحت و آسوده‌اند ولی هرگز ثابت نکرده‌اند که می‌توانند سود پیوسته بدهند. این مسیرهای یادگیری را مارکت‌میکرها طراحی و ترویج می‌کنند، تنها به سود کسب‌وکار خودشان. خواندن نمودار و اندیکاتور اشکالی ندارد، تا وقتی که در بلندمدت به موفقیت همه کمک کند. ولی به نظر می‌رسد بیش از 90% معامله‌گرها در طول چند سال پول زیادی را از دست می‌دهند.»
+
+کاملاً درست. چرا؟ چون تقریباً همان چیزی را خلاصه می‌کند که این 13-14 ماه گذشته از سر گذرانده‌ام، اگر اشتباه نکنم، تا وقتی که فهمیدم RTM وجود دارد (نه فقط اسمش، بلکه معنای اسمش). این‌ور و آن‌ور پریدن فقط برای پیدا کردن اینکه چه چیزی کار می‌کند، چه چیزی کار نمی‌کند، چه چیزی برد است و چه چیزی باخت، و غیره. خب، متأسفانه حتی بعد از مدتی یادگیری مطالب RTM هنوز دنبال الگوها می‌گشتم و به الگوها معنا می‌چسباندم، مثلاً دنبال الگوی QM یا DM یا CP می‌گشتم، تا بعداً بفهمم که به‌خاطر دانش ناقصم از مطالب RTM هنوز در همان «سراشیبی فریب» هستم.
+
+همان‌قدر که می‌خواهم از خیلی آدم‌های بزرگ یاد بگیرم، آدم‌هایی هم پیدا می‌کنم که می‌خواهند از من یاد بگیرند. و به لطف پیشنهاد RTM این واقعاً بهترین روش یادگیری است. از کجا می‌دانیم؟ فقط تصور کن ما در کفش آن‌ها بودیم، یا قرار است در کفش دیگران باشیم. یاد گرفتن از باتجربه‌ترها و آموزش دادن به کم‌تجربه‌ترها در واقع یعنی داشتن مربی در دو طرف ماجرا. آخرش ما را وادار می‌کند ذهن و روح خودمان را در برابر دیگران بازتاب بدهیم، ولی بازتابش به خودمان برگردد.
+
+با اینکه RTM اینجا پر از معماست، یادگیرنده‌ها (از جمله خودم، هنوز) به‌سادگی نمی‌توانند از عادت‌های بدِ سمی جدا شوند، یعنی همان «نمودار، الگو و اندیکاتور مطالعه کن و به این الگوها معنا بچسبان». بعضی وقت‌ها فریب این فکر را می‌خوریم که،
+
+*خب اینجا شکست است، بعد FTR و بعد نزدیک‌شدن CP، خوب است، بگذار یک سفارش لیمیت معلق آنجا بگذارم و استاپ‌ها را پشت FTR بگذارم؛ بدون اینکه حتی فکر کنم چه کسی این استاپ‌ها را شکار خواهد کرد.
+
+*خب یک سقف، سقف بالاتر و کف پایین‌تر می‌بینم، تمام. QM!! باشه... بگذار سفارش معلق را اینجا بگذارم و استاپ را روی HH بگذارم. دست‌کم یک برگشت یا اسکالپ می‌گیرم، باشه اینجا خارج می‌شوم و/یا اگر رسید استاپ را جابه‌جا می‌کنم. تنها چیزی که لازم دارم هر روز چند برگشت است تا ببینم حسابم رشد می‌کند. به هیچ چیز دیگری در RTM نیاز ندارم چون خواندن دردسر است و وقتش را ندارم. هاها... واقعیت این است که چه بخواهیم چه نه، بدون فهم کامل RTM دلیلی نداریم که یک نفر دیگر این استاپ‌ها را شکار نکند.
+
+منظورم همه است، از جمله خودم: بعد از دیدن ویدئوهای دورهٔ سبک که تازه آپلود شده‌اند، همه‌جا دنبال سطوح «شانهٔ چپ» و «QM» خواهیم گشت. اگر این‌طور باشد، ما با آن ترول‌هایی که از کسی که خودش سال‌ها پیش RTM را کامل نکرده کلاس استادی QM یاد می‌گیرند، چندان تفاوتی نداریم.
+
+خب، می‌توانیم بگوییم «نه، ما FL و جای ناحیهٔ FL را می‌دانیم». واقعاً؟ چطور می‌توانیم FL را بفهمیم بدون گذراندن تکالیف و همچنین ژورنال‌های استادهای دیگر، از جمله ژورنال IF. ژورنال IF مخصوصاً پر از نمودارهایی است که اگر توجه کنیم، ما را وادار می‌کنند ناحیه‌های «دیگر» را پیدا کنیم تا کاملاً بفهمیم چه چیزی درس داده. فهمیدن «خوانش قیمت» بدون کار سخت و ساعت‌های بی‌شمار ور رفتن با نمودار غیرممکن است. سلب مسئولیت: «هیچ‌کدام از این‌ها به نوابغ صدق نمی‌کند، که قطعاً من یکی از آن‌ها نیستم.»
+
+*خب این RBD/DBR خوب را پیدا می‌کنم و بر اساس تکالیفی که تا حالا انجام داده‌ام، می‌توانم تشخیص بدهم کدام RBD/DBR خوب است و کدام نیست، مطمئنم این یکی خوب است، بگذار یک سفارش معلق اینجا بگذارم و استاپ را درست پشت RBD/DBR قرار بدهم؛ بدون اینکه حتی فکر کنم یا تکالیف دیگر دربارهٔ FL را انجام بدهم تا بدانم آن RBD/DBR به جای درست واکنش می‌دهد یا نه.
+
+*خب این FL خیلی خوب پنهان شده و در جای خوبی روی S/R است، پس باید خوب باشد، پس بگذار یک سفارش معلق آنجا بگذارم چون معامله‌های برنده‌ام روی این ستاپ‌ها جواب داده؛ بدون اینکه حتی منتظر تأیید PA بمانم، یا بدتر، تلاش کنم مثل استادها یا IF باشم.
+
+اشتباه‌های بی‌شمار بی‌شماری هست که می‌توانستیم تکرار کنیم، حتی بعد از مطالعهٔ مطالب RTM. چرا؟ چون با این‌همه تکنیک و عملیات تکنیکال (آن‌طور که خودم اسمش را گذاشته‌ام) حواسمان پرت می‌شود و همیشه فراموش می‌کنیم که تمرکز اصلی، در حالت ایده‌آل، باید معامله در جهت ITها باشد. آن نقطه کجاست؟ جواب: «استاپ‌ها». تمام نشده. بارها و بارها، IF در توضیح یک نمودار یا حرکت قیمت، فقط ما را از تکنیکال‌ها عبور نمی‌دهد، بلکه مهم‌تر از آن، دلیل‌های پشت ماجرا را هم توضیح می‌دهد و قصه‌شان را می‌گوید، که تقریباً همه‌اش حول «روان‌شناسی معامله‌گرهای خرد» می‌چرخد.
+
+دیروز در کلیسا با یک دوست خیلی قدیمی صحبت خوبی داشتم. او در یکی از مؤسسات مالی در استرالیا کار می‌کرد، به‌عنوان مشاور گروهی از برنامه‌نویس‌ها که وظیفه‌شان طراحی الگوریتم‌ها برای دپارتمان معاملات شرکت بود. هر دو تشخیص دادیم که مارکت‌میکرها / همان «بزرگ‌ها» که ما صدایشان می‌زنیم، در هدایت بازار به گوشه‌هایی که استاپ‌ها و تله‌ها بعضی وقت‌ها واقعاً «جمع» می‌شوند، خیلی حیله‌گر و شیطانی هستند.
+
+تقریباً شبیه یک ویدئوی یوتیوب اخیر است که برای مدتی کوتاه علاقه‌ام را دزدید:
+
+خلاصه‌اش می‌گفت دلفین‌ها چقدر باهوش‌اند که به‌صورت گروهی همکاری می‌کنند تا شکارشان را به گوشه‌ای برانند تا همه با هم بتوانند جشن بگیرند. شکارها به‌سادگی نمی‌توانند فرار کنند، چون دلفین‌ها (پول بزرگ) کسانی هستند که روند و جهت را گله‌می‌کنند. البته همهٔ شکارها «خورده» نمی‌شوند، چون دلفین‌ها هم شکم محدودی دارند. خب، دست‌کم آن‌ها الان سیر و راضی‌اند.
+
+ظهر یکشنبه. یک «می گورنگ» خوب در انتظار است.
+
+### staurum_p4_19
+EN: Real eye opener isnt it. The whole flag completion process and expansion of a flag is quite interesting
+FA: واقعاً چشم را باز می‌کند، نه؟ کل فرایند تکمیل پرچم و گسترش یک پرچم واقعاً جالب است
+
+### staurum_p4_20
+EN: 6Mar'17, checkpoint
+
+File Attachment:File Name:
+File Size: 0 KB
+
+File Attachment:File Name:
+File Size: 0 KB
+
+File Attachment:File Name:
+File Size: 0 KB
+
+File Attachment:File Name:
+File Size: 0 KB
+
+File Attachment:File Name:
+File Size: 0 KB
+
+File Attachment:File Name:
+File Size: 0 KB
+FA: 6Mar'17، ایست بازرسی
+
+پیوست فایل:نام فایل:
+حجم فایل: 0 KB
+
+فایل پیوست:نام فایل:
+اندازه فایل: 0 KB
+
+ضمیمه:نام فایل، حجم 0 KB
+
+فایل ضمیمه:نام پرونده:
+اندازه پرونده: 0 KB
+
+پیوست: 0 KB
+
+ضمیمه شده: 0 KB
+
+### staurum_p4_21
+EN: EU: wrong attachment.
+
+Correct one now attached.
+
+Checkpoint 12:32am 7Mar17
+
+File Attachment:File Name:
+File Size: 0 KB
+FA: EU: پیوست اشتباه بود.
+
+پیوست درست حالا وصل شد.
+
+ایست بازرسی 12:32am 7Mar17
+
+پیوست فایل:نام فایل:
+حجم فایل: 0 KB
+
+### staurum_p4_22
+EN: Checkpoint Fri10Mar17 (20hours countdown to NFP) 00:58am.
+FA: ایست بازرسی جمعه 10Mar17 (20 ساعت تا NFP) 00:58am.
+
+### staurum_p4_23
+EN: File Attachment:File Name:
+File Size: 0 KB
+ File Attachment:File Name:
+File Size: 0 KB
+
+Basic stuffs that i need to understand first.
+FA: پیوست فایل:نام فایل:
+حجم فایل: 0 KB
+ فایل پیوست:نام فایل:
+اندازه فایل: 0 KB
+
+چیزهای پایه‌ای که اول باید بفهمم.
+
+### staurum_p4_24
+EN: Why don't you make try and mark only FL which holding price up or down and look for how price retrace after engulf of those.
+FA: چرا تلاش نمی‌کنی فقط FLهایی را علامت بزنی که قیمت را بالا یا پایین نگه داشته‌اند و بعد ببینی قیمت پس از اینگالف آن‌ها چطور اصلاح می‌کند.
+
+### staurum_p4_25
+EN: Personal notes on QM from webinar ..... what a mess.
+
+File Attachment:File Name:
+File Size: 0 KB
+ File Attachment:File Name:
+File Size: 0 KB
+FA: یادداشت‌های شخصی دربارهٔ QM از وبینار ..... چه آش شله‌قلمکاری.
+
+پیوست فایل:نام فایل:
+حجم فایل: 0 KB
+ فایل پیوست:نام فایل:
+اندازه فایل: 0 KB

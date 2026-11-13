@@ -1,0 +1,17 @@
+{
+ "fulljournal_p6_7": {
+  "issue": "FL rendered as فلگ",
+  "why": "EN uses the structural FL: \"There is a FL MPL at 1270-1271 ... battle between two flags\", but FA writes «یک MPL فلگ روی 1270-1271 ... نبردی بین دو فلگ».",
+  "fix": "اگر اشتباه نکنم یک MPL از FL روی 1270-1271 هست. همین حالا می‌توانم نبردی بین دو FL ببینم.\n\nامیدوارم فلش قرمز حد طناب‌کشی باشد.\n\nراستی، از پست‌هایت خیلی یاد گرفتم."
+ },
+ "fulljournal_p6_8": {
+  "issue": "FL rendered as فلگ (quoted post)",
+  "why": "Quoted EN text: \"There is a FL MPL at 1270-1271 ... battle between two flags\"; FA: «یک MPL فلگ روی 1270-1271 ... نبردی بین دو فلگ».",
+  "fix": "staurum نوشت: اگر اشتباه نکنم یک MPL از FL روی 1270-1271 هست. همین حالا می‌توانم نبردی بین دو FL ببینم.\n\nامیدوارم فلش قرمز حد طناب‌کشی باشد.\n\nراستی، از پست‌هایت خیلی یاد گرفتم.\n\nواقعاً خوشحالم که این را می‌شنوم"
+ },
+ "fulljournal_p6_13": {
+  "issue": "FL rendered as فلگ",
+  "why": "EN: \"entry on MPL of FL (diamond also)\"; FA: «ورود روی MPL فلگ (الماس هم بود)».",
+  "fix": "سلام، معامله Cad Chf را بستم: ورود روی MPL از FL (الماس هم بود)\n\nfull"
+ }
+}

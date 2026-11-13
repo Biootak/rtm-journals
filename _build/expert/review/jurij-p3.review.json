@@ -1,0 +1,18 @@
+{
+ "jurij_p3_13": {
+  "ok": false,
+  "issue": "terminology kept Latin where possible",
+  "why": "The source is a heading list of structural RTM terms (Poles, flags, flag limits, pole bases). The initial fix kept every word Latin, which the pipeline rejects as untranslated English; keep the listed terms recognisable while the line itself reads Persian.",
+  "fix": "میله‌ها، فلگ‌ها، FL‌ها، بیس میله‌ها...\n\nحالا معنا پیدا می‌کند"
+ },
+ "jurij_p3_21": {
+  "issue": "Flag rendered as «فلگ»",
+  "why": "EN: \"GBPAUD 30m Flag break setup with a lovely diamond\" — FA: «ستاپ شکست فلگ GBPAUD 30m»; Flag is the structural term and stays FL.",
+  "fix": "ستاپ شکست FL در GBPAUD 30m با یک الماس دوست‌داشتنی"
+ },
+ "jurij_p3_22": {
+  "issue": "the structure named «فلگ‌لیمیت» (forbidden rendering of FL limit)",
+  "why": "EN: \"the flag limit is actually right under where you marked FTR\" / FA: «اما فلگ‌لیمیت درست زیر»",
+  "fix": "سلام Jurij، ببخش که مزاحم ژورنالت می‌شوم، امیدوارم مشکلی نداشته باشی.\n\nفقط چون می‌خواهم دیدگاهت را دربارهٔ ستاپ دیروز AUDUSD بهتر بدانم؛ همان‌طور که از FL دیروز با 200 پیپ رشد خوبی کرد. پستت را پایین آورده‌ام:\n\nآن‌طور که فهمیدم تو از آن رد می‌شدی، چون اینگالف (که تنها یکی را در نظر داری: اینگالف شمالی FTR‌ی که علامت زدی) روی DBD به تارگتش رسیده بود. درست می‌گویم؟\n\nKanzler دربارهٔ این‌که FL همان FTR تو نیست چنین می‌گوید: «...اما FL درست زیر همان‌جایی است که FTR را علامت زدی؛ کمی قیمت را سرکوب می‌کند. هر دو DBD هستند..»، بعد FL شکسته شد و BO سیگنال خرید شد.\n\nاما من هنوز آن BO را نمی‌بینم؛ تا این‌جا فقط یک بریک‌اوت متوجه می‌شوم و آن هم بریک‌اوت شمالی FTR تو است. به‌علاوه این BO باید جنوبی می‌بود\n\nاین هم پست من که عملاً مثل پست توست:\n\nاما ستاپ واقعاً خوب جواب داد و هنوز هم می‌دهد. شاید تو و Kanzler از یک بریک‌اوت حرف می‌زنید؟\n\nخیلی ممنون و بهترین درودها!!"
+ }
+}

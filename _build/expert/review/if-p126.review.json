@@ -1,0 +1,22 @@
+{
+ "if_p126_22": {
+  "issue": "Flag break rendered as شکست فلگ",
+  "why": "EN[1] «RS break-in isn't nearly as significant as Flag break» -> FA[1] «شکست RS به‌اندازهٔ شکست فلگ اهمیت ندارد».",
+  "fix": "شکست RS به‌اندازهٔ شکست FL اهمیت ندارد"
+ },
+ "if_p126_23": {
+  "issue": "Flag break / a flag rendered as فلگ",
+  "why": "EN[1] «Flag break» -> FA[1] «شکست فلگ»; EN[2] «Engulf of the lower bound of a flag» -> FA[2] «اینگالف مرز پایین فلگ», although the same two paragraphs already write FL.",
+  "fix": "Ifmyante نوشت: شکست RS به‌اندازهٔ شکست FL اهمیت ندارد\n\nیعنی اگر بالاترین FL تصویرت باشد، فقط در LTF. آن‌وقت اینگالف مرز پایین FL PA واقعی برای LTF خواهد بود\n\nمی‌خواهم بگویم هر FL خودش FL دارد، فقط در LTF‌ها، و این FL‌ها به نوبهٔ خود FL دارند. و ENG هر کدامشان در LTF‌ها مهم است و می‌خواهم از آن استفاده کنم، ولی می‌فهمم که اینگالف FL فقط در LTF‌ها مهم است؛ می‌خواستم یاد بگیرم چطور از HTF‌ها برای تعیین مهم‌ترین ناحیه‌ها استفاده کنم. اول فکر می‌کردم که ENG قیمت FL به سمت مبدأ حرکت (OOM) هدف‌گیری شده، ولی حالا در سرم آشوب واقعی است، چون قیمت الزاماً به آنجا نمی‌رود (به OOM). خدای من، نمی‌توانم این را فقط به انگلیسی بگویم. نمی‌توانم درست در کلمه بگنجانم که کسی بفهمد. اگر نفهمیدی منظورم چه بود بگو. کسی را پیدا می‌کنم که بتواند همهٔ اینها را ترجمه کند.\n\nممنون"
+ },
+ "if_p126_24": {
+  "issue": "Flag break rendered as شکست فلگ",
+  "why": "EN[1] «Ifmyante wrote: RS break-in isn't nearly as significant as Flag break» -> FA[1] «Ifmyante نوشت: شکست RS به‌اندازهٔ شکست فلگ اهمیت ندارد»; FA[2] of the same post writes FL.",
+  "fix": "Ifmyante نوشت: شکست RS به‌اندازهٔ شکست FL اهمیت ندارد\n\nآن نمودار گوهری است. چه کسی دوست دارد هر tg را در رسم IF بر پایهٔ آنچه اینجا آموزش داده می‌شود علامت بزند. با فکر کردن به lsk، fl، کینک‌های نادیده‌گرفته‌شده و غیره.\nباور کن، بهترین راه یادگیری است"
+ },
+ "if_p126_25": {
+  "issue": "Flag break rendered as شکست فلگ",
+  "why": "EN[1] «Ifmyante wrote: … as significant as Flag break» -> FA[1] «Ifmyante نوشت: شکست RS به‌اندازهٔ شکست فلگ اهمیت ندارد»; FA[2] of the same post writes «FLAG»/«FL».",
+  "fix": "Ifmyante نوشت: شکست RS به‌اندازهٔ شکست FL اهمیت ندارد\n\nاین FLAG در واقع یک FL در مقیاس بالاتر نیست؟\n\nهمچنین اولین شکستِ برگشتی به داخل، همان چیزی نیست که در ویدیوی Lite دربارهٔ QM درس داده شد؟\n\nDengaima"
+ }
+}

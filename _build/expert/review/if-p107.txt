@@ -1,0 +1,399 @@
+### if_p107_1
+EN: Ifmyante wrote:
+
+Even if the engulf reached its target in between?
+FA: Ifmyante نوشت:
+
+حتی اگر اینگالف در این بین به تارگتش رسیده باشد؟
+
+### if_p107_2
+EN: Ok, I will try too.
+
+I see the symmetry as floors of a building where the price goes from one
+ to another. Imagine that the price is a ball. A ball may bounce upward
+on the floor or down on the ceiling of a floor. But this ball also has
+the ability to cross the floor or ceiling if given circumstances.
+
+The rule is that the ball will only bounce (if it does) on the floor or
+ceiling of the floor where it is at the moment (not in the space between
+ them wich is the floor itself), and if it crosses for example the
+ceiling and goes upstairs, the inertia will take it to the roof of that
+new floor (target). Then it could bounce there or cross that roof at
+first touch and move to the next floor. That is, if the price comes from
+ below, the ceiling of new floor to which it accedes will be the target
+
+Let's see the chart:
+
+The price (ball) reaches the roof of the first floor and does not
+bounce, it crosses. We have left the first floor behind and we are
+already on the second floor. What happens here? The price begins to
+rebound on the roof and the floor several times until finally it crosses
+ the ceiling and goes to the third floor. The price has already left the
+ second floor and will not be able to cross it back until it reaches the
+ roof of the third floor (target).What do we have on the second floor? A
+ FLAG. Which are its limits? The floor and ceiling of the second floor.
+Floors and ceilings are FLs and can be FTRs, S/R, etc, too. I supose
+that at he left the ceilings and floors are respected, too.
+
+What happens on the third floor? Reaches the ceiling and directly
+crosses (line 3) to the fourth floor, so it must go to the ceilong of
+that new floor (target). What happens on the fourth floor? The ball
+(price) bounces a couple of times on ceiling and floor and crosses the
+floor returning to the floor below (third floor).
+
+As I said before, the price can only bounce off the floor and ceiling.
+As it comes from the ceiling, where could it bounce? On the floor, which
+ is in turn the second floor ceiling.
+
+And so on.
+
+So what conclusion can we draw from this symmetry?
+
+The price will always bounce off the ceiling or floor and not anywhere
+else inside the floor. Therefore, WE ONLY MUST PLAN THE TRADES AT FLOOR
+OR CEILING OF THE FLOOR IN WHICH WE FIND US. OR WHAT IS THE SAME, IN THE
+ FLs, FTR, etc.
+
+The engulf of one floor with a Flag inside will shoe us intentions to continue in the direction of the engulf.
+
+In the future, this structure of floors will be respected and the
+importance of each floor depend on what you have in the past on that
+floor
+
+PD: It is possible that everything I have said is nothing but nonsense.
+And i know that my english sometimes sucks, sorry for that.
+FA: باشه، من هم امتحان می‌کنم.
+
+تقارن را مثل طبقه‌های یک ساختمان می‌بینم که قیمت از یکی به دیگری می‌رود. تصور کن قیمت یک توپ است. توپ می‌تواند روی کف طبقه به بالا بپرد یا از سقف طبقه به پایین. ولی همین توپ اگر شرایطش فراهم باشد، می‌تواند از کف یا سقف هم عبور کند.
+
+قاعده این است که توپ (اگر بپرد) فقط روی کف یا سقف همان طبقه‌ای می‌پرد که در آن لحظه در آن است (نه در فضای بین‌شان که همان خودِ طبقه است)، و اگر مثلاً از سقف عبور کند و برود بالا، اینرسی آن را به بام آن طبقهٔ جدید می‌برد (تارگت). بعد می‌تواند همان‌جا بپرد یا در اولین برخورد از آن بام عبور کند و به طبقهٔ بعد برود. یعنی اگر قیمت از پایین بیاید، سقف طبقهٔ جدیدی که به آن وارد می‌شود، همان تارگت است
+
+بگذارید نمودار را ببینیم:
+
+قیمت (توپ) به بام طبقهٔ اول می‌رسد و نمی‌پرد، عبور می‌کند. طبقهٔ اول را پشت سر گذاشته‌ایم و الان در طبقهٔ دوم هستیم. اینجا چه می‌شود؟ قیمت چند بار روی بام و کف بازمی‌گردد تا در نهایت از سقف عبور می‌کند و به طبقهٔ سوم می‌رود. قیمت طبقهٔ دوم را ترک کرده و تا به بام طبقهٔ سوم نرسد (تارگت) نمی‌تواند به آن برگردد. در طبقهٔ دوم چه داریم؟ یک پرچم. محدوده‌اش کجاست؟ کف و سقف طبقهٔ دوم. کف‌ها و سقف‌ها FL هستند و می‌توانند FTR، S/R و غیره هم باشند. گمان می‌کنم در سمت چپ هم سقف‌ها و کف‌ها رعایت می‌شوند.
+
+در طبقهٔ سوم چه می‌شود؟ به سقف می‌رسد و مستقیم عبور می‌کند (خط 3) به طبقهٔ چهارم، پس باید به سقف آن طبقهٔ جدید برود (تارگت). در طبقهٔ چهارم چه می‌شود؟ توپ (قیمت) چند بار روی سقف و کف می‌پرد و از کف عبور می‌کند و به طبقهٔ پایین‌تر (طبقهٔ سوم) برمی‌گردد.
+
+همان‌طور که گفتم، قیمت فقط می‌تواند از کف و سقف بپرد. حالا که از سقف آمده، کجا می‌تواند بپرد؟ روی کف، که خودش سقف طبقهٔ دوم است.
+
+و همین‌طور ادامه.
+
+پس از این تقارن چه نتیجه‌ای می‌توانیم بگیریم؟
+
+قیمت همیشه از سقف یا کف می‌پرد و نه هیچ جای دیگر داخل طبقه. بنابراین، ما فقط باید معاملات را در کف یا سقف طبقه‌ای که در آن هستیم برنامه‌ریزی کنیم. یا همان، در FL‌ها، FTR و غیره.
+
+اینگالف یک طبقه که پرچمی درونش دارد، نیت ادامه در جهت آن اینگالف را نشانمان می‌دهد.
+
+در آینده این ساختار طبقه‌ها رعایت می‌شود و اهمیت هر طبقه بستگی دارد به آنچه در گذشته در آن طبقه داشته‌ای
+
+پینوشت: ممکن است هر چه گفتم جز مزخرف نباشد. و می‌دانم انگلیسی‌ام بعضی وقت‌ها افتضاح است، ببخشید.
+
+### if_p107_3
+EN: QUESTION: What scale is this? These grids are representation of
+flags/indecision area which happen in a chart, of how price moves from
+one flag to another, obviously the flags do vary in sizes, and how these
+ flags are linked together through poles. The edges of these grids could
+ have kinks/DP which is where we take trades. But is this drawing a 1
+min chart or Weekly chart because on both TF we can draw these grids.
+Like Edge said on how this shows how price is structured in a chart
+through boxes/grids, but on which scale are viewing this.
+
+CONCLUSION: Price is a fractal therefore that's why the question of scales is irrelevant
+FA: سؤال: این چه مقیاسی است؟ این گریدها نمایش پرچم‌ها یا ناحیه‌های تردید هستند که در یک نمودار رخ می‌دهند، از اینکه قیمت چطور از یک پرچم به پرچم دیگر می‌رود — واضح است که پرچم‌ها اندازه‌های متفاوت دارند — و چطور این پرچم‌ها از طریق پل‌ها به هم وصل می‌شوند. لبه‌های این گریدها می‌تواند کینک یا DP داشته باشد، که همان‌جاست که معامله می‌گیریم. ولی این رسم مربوط به نمودار 1 دقیقه‌ای است یا نمودار هفتگی، چون روی هر دو تایم‌فریم می‌توانیم این گریدها را بکشیم. همان‌طور که Edge گفت، این نشان می‌دهد قیمت در یک نمودار چطور از طریق باکس‌ها و گریدها ساختار می‌گیرد، ولی در کدام مقیاس این را می‌بینیم.
+
+نتیجه: قیمت فراکتال است، پس سؤال مقیاس بی‌ربط است
+
+### if_p107_4
+EN: I can see this scenario but i'm not sure about where the symmetry is.
+FA: این سناریو را می‌بینم، ولی مطمئن نیستم تقارن کجاست.
+
+### if_p107_5
+EN: Price moves in "boxes" Where it once drawn a Flag it then draws a
+pole, and vice versa (it's not in the same sequence every time due to
+the fact that price will move in the most painful way for the retailers)
+ and it happens over and over again, and they don't align to the pip
+because of the offset of the way FL are created from the engulf of the
+previous ones. well...this would be my the answer to what symmetry is
+FA: قیمت در «باکس‌ها» حرکت می‌کند. هر جا یک پرچم کشیده، بعدش یک پل می‌کشد و برعکس (ترتیب همیشه یکسان نیست، چون قیمت به دردناک‌ترین شکل برای معامله‌گران خرد حرکت می‌کند) و این بارها و بارها تکرار می‌شود، و مو به مو هم‌تراز نیستند، چون FL‌ها با یک جابه‌جایی از اینگالف قبلی‌ها ساخته می‌شوند. خوب... این می‌شد جواب من به اینکه تقارن چیست
+
+### if_p107_6
+EN: If we think in terms of flags and poles as the DNA then we must find
+where the important decisions are. Symmetry just becomes a gorgeous
+byproduct
+FA: اگر به پرچم‌ها و پل‌ها مثل DNA فکر کنیم، آن‌وقت باید بفهمیم تصمیم‌های مهم کجا هستند. تقارن خودش به یک محصول جنبی زیبا تبدیل می‌شود
+
+### if_p107_7
+EN: Do you mean something like this ?
+FA: منظورت چیزی شبیه این است؟
+
+### if_p107_8
+EN: Lupy wrote: Price moves in
+"boxes" Where it once drawn a Flag it then draws a pole, and vice versa
+(it's not in the same sequence every time due to the fact that price
+will move in the most painful way for the retailers) and it happens over
+ and over again, and they don't align to the pip because of the offset
+of the way FL are created from the engulf of the previous ones.
+well...this would be my the answer to what symmetry is
+
+Aaaaaaand there we have it!
+
+Question and answer in one!!!
+
+Question: If price moves through an array of rectangles, why can't we just draw permanent horizontals and trade from them?
+
+Answer: Because the rectangles shift to align with the kinks, the flag limits which form on the break into the next rectangle!
+
+Remember. There are two different types of IT. The left shoulder trader, and the FL trader. Both are in control
+FA: Lupy نوشت: قیمت در «باکس‌ها» حرکت می‌کند. هر جا یک پرچم کشیده، بعدش یک پل می‌کشد و برعکس (ترتیب همیشه یکسان نیست، چون قیمت به دردناک‌ترین شکل برای معامله‌گران خرد حرکت می‌کند) و این بارها و بارها تکرار می‌شود، و مو به مو هم‌تراز نیستند، چون FL‌ها با یک جابه‌جایی از اینگالف قبلی‌ها ساخته می‌شوند. خوب... این می‌شد جواب من به اینکه تقارن چیست
+
+ووووووو اینجاست که داریمش!
+
+سؤال و جواب در یکی!!!
+
+سؤال: اگر قیمت در میان آرایه‌ای از مستطیل‌ها حرکت می‌کند، چرا نمی‌توانیم فقط خط‌های افقی دائمی بکشیم و از آن‌ها معامله کنیم؟
+
+جواب: چون مستطیل‌ها جابه‌جا می‌شوند تا با کینک‌ها هم‌تراز شوند، آن هم با حدود پرچمی که هنگام شکست به مستطیل بعدی شکل می‌گیرد!
+
+یادت باشد. دو نوع متفاوت IT داریم. معامله‌گر شانه چپ، و معامله‌گر FL. هر دو در کنترل‌اند
+
+### if_p107_9
+EN: For those who are waiting for these lessons in markepedia, I can only
+say exercises like this will actually help grasp concepts a lot quicker
+as opposed to reading words on a page or watching a video (although,
+these are still important methods) :)
+FA: برای کسانی که منتظر این درس‌ها در markepedia هستند، فقط می‌توانم بگویم تمرین‌هایی مثل این واقعاً کمک می‌کنند مفاهیم خیلی سریع‌تر جا بیفتند، در مقایسه با خواندن واژه‌ها روی یک صفحه یا دیدن ویدئو (البته آن‌ها هم روش‌های مهمی‌اند) :)
+
+### if_p107_10
+EN: IF, there i tried to see big picture and the small one. What do you think? :)
+FA: IF، اینجا سعی کردم تصویر بزرگ و تصویر کوچک را ببینم. چه فکری می‌کنی؟ :)
+
+### if_p107_11
+EN: Ifmyante wrote:
+Lupy
+ wrote: Price moves in "boxes" Where it once drawn a Flag it then draws a
+ pole, and vice versa (it's not in the same sequence every time due to
+the fact that price will move in the most painful way for the retailers)
+ and it happens over and over again, and they don't align to the pip
+because of the offset of the way FL are created from the engulf of the
+previous ones. well...this would be my the answer to what symmetry is
+
+Aaaaaaand there we have it!
+
+Question and answer in one!!!
+
+Question: If price moves through an array of rectangles, why can't we just draw permanent horizontals and trade from them?
+
+Answer: Because the rectangles shift to align with the kinks, the flag limits which form on the break into the next rectangle!
+
+Remember. There are two different types of IT. The left shoulder trader, and the FL trader. Both are in control
+
+I spent some days trying to apply it to real charts, and so far i don't understand what you mean by that.
+
+First of all, i don't understand the question: I do see rectangles in my
+ charts, but i don't see any array. I see that you can draw some lines
+and that price changes his behavior after passing through some of them.
+But sometimes it doesn't. I also see that if you draw a line on every
+possible low / high which broke something, on every scale, then you have
+ so much lines that you don't even see price anymore.
+
+So if charts doesn't look like an array, why make that hypothesis and base the answer on that? I'm must be missing something!
+
+About the answer: sometimes the rectangles are stacked on top of each
+other, and the kinks from their highs and lows are multiple and are
+bigger than the rectangle itself, so i don't understand how do you
+incorporate that in your trading?
+
+I agree that it can help to post-rationnalize some of the price moves,
+but i don't see any ways to use that kind of theorical knowledge
+properly in live trading.
+
+Thanks for your answer, i'm completely lost in the desert here...
+FA: Ifmyante نوشت: Lupy نوشت: قیمت در «باکس‌ها» حرکت می‌کند. هر جا یک پرچم کشیده، بعدش یک پل می‌کشد و برعکس (ترتیب همیشه یکسان نیست، چون قیمت به دردناک‌ترین شکل برای معامله‌گران خرد حرکت می‌کند) و این بارها و بارها تکرار می‌شود، و مو به مو هم‌تراز نیستند، چون FL‌ها با یک جابه‌جایی از اینگالف قبلی‌ها ساخته می‌شوند. خوب... این می‌شد جواب من به اینکه تقارن چیست
+
+ووووووو اینجاست که داریمش!
+
+سؤال و جواب در یکی!!!
+
+سؤال: اگر قیمت در میان آرایه‌ای از مستطیل‌ها حرکت می‌کند، چرا نمی‌توانیم فقط خط‌های افقی دائمی بکشیم و از آن‌ها معامله کنیم؟
+
+جواب: چون مستطیل‌ها جابه‌جا می‌شوند تا با کینک‌ها هم‌تراز شوند، آن هم با حدود پرچمی که هنگام شکست به مستطیل بعدی شکل می‌گیرد!
+
+یادت باشد. دو نوع متفاوت IT داریم. معامله‌گر شانه چپ، و معامله‌گر FL. هر دو در کنترل‌اند
+
+چند روز سعی کردم این را روی نمودارهای واقعی پیاده کنم و تا اینجا نمی‌فهمم منظورت چیست.
+
+اول از همه، سؤال را نمی‌فهمم: در نمودارهایم مستطیل می‌بینم، ولی هیچ آرایه‌ای نمی‌بینم. می‌بینم که می‌توانی چند خط بکشی و قیمت بعد از عبور از بعضی‌هایشان رفتارش را عوض می‌کند. ولی بعضی وقت‌ها عوض نمی‌کند. همچنین می‌بینم اگر روی هر کف یا سقف ممکنی که چیزی را شکسته، در هر مقیاسی، خط بکشی، آن‌قدر خط زیاد می‌شود که دیگر قیمت را هم نمی‌بینی.
+
+پس اگر نمودارها شبیه آرایه نیستند، چرا چنین فرضی می‌کنی و جواب را بر آن بنا می‌کنی؟ حتماً چیزی را از دست داده‌ام!
+
+دربارهٔ جواب: بعضی وقت‌ها مستطیل‌ها روی هم چیده می‌شوند و کینک‌های سقف و کفشان چندتاست و از خود مستطیل بزرگ‌تر است، پس نمی‌فهمم چطور این را در معامله‌گری‌ات جا می‌دهی؟
+
+قبول دارم که می‌تواند به پس‌عقلانی‌کردن بعضی حرکت‌های قیمت کمک کند، ولی هیچ راهی برای استفادهٔ درست از این نوع دانش نظری در معامله زنده نمی‌بینم.
+
+ممنون از جوابت، من اینجا کاملاً در بیابان گم شده‌ام...
+
+### if_p107_12
+EN: H, Its all good brother. RTM is best consumed like a piece of meat
+marinating and slow cooked breaking down the fibres so it becomes moist
+and succulent (for my vegan friends here, apply the analogy to tofu).
+Dont rush the experience
+
+In its simplest form the market is flags and poles (this includes
+implied flags). Its the interactions of the edges we need to watch. Also
+ remember that a CP area is treated as a pole. Within this blueprint of
+price we have lines everywhere and the interconnections between flags
+and poles which are the kinks.
+
+BUT....... not all these are tradable. We do need to be aware of where
+they are for purposes of scale and TGs when in a trade. But We need to
+think about which kinks are the best to trade.
+FA: H، همه چیز خوب است برادر. RTM را بهتر است مثل تکه گوشتی مصرف کنی که در سس می‌ماند و آرام می‌پزد تا رشته‌هایش باز شود و نرم و لذیذ شود (برای دوستان وگانم اینجا، قیاس را روی توفو پیاده کنید). تجربه را عجله نکن
+
+در ساده‌ترین شکلش، بازار پرچم‌ها و پل‌هاست (شامل پرچم‌های ضمنی). تعامل لبه‌هاست که باید زیر نظر بگیریم. یادت باشد ناحیه CP هم مثل یک پل رفتار می‌شود. داخل این نقشهٔ قیمت همه‌جا خط داریم و پیوندهای میان پرچم‌ها و پل‌ها که همان کینک‌ها هستند.
+
+ولی....... همهٔ این‌ها قابل معامله نیستند. باید بدانیم کجایند تا در معامله، برای مقیاس و TG ازشان استفاده کنیم. ولی باید فکر کنیم کدام کینک‌ها بهترین برای معامله‌اند.
+
+### if_p107_13
+EN: Have you watched Peter Davies webinar on order flow? He uses the floors and ceilings analogy too.
+
+Manu wrote: Ok, I will try too.
+
+I see the symmetry as floors of a building where the price goes from one
+ to another. Imagine that the price is a ball. A ball may bounce upward
+on the floor or down on the ceiling of a floor. But this ball also has
+the ability to cross the floor or ceiling if given circumstances.
+
+The rule is that the ball will only bounce (if it does) on the floor or
+ceiling of the floor where it is at the moment (not in the space between
+ them wich is the floor itself), and if it crosses for example the
+ceiling and goes upstairs, the inertia will take it to the roof of that
+new floor (target). Then it could bounce there or cross that roof at
+first touch and move to the next floor. That is, if the price comes from
+ below, the ceiling of new floor to which it accedes will be the target
+
+Let's see the chart:
+
+The price (ball) reaches the roof of the first floor and does not
+bounce, it crosses. We have left the first floor behind and we are
+already on the second floor. What happens here? The price begins to
+rebound on the roof and the floor several times until finally it crosses
+ the ceiling and goes to the third floor. The price has already left the
+ second floor and will not be able to cross it back until it reaches the
+ roof of the third floor (target).What do we have on the second floor? A
+ FLAG. Which are its limits? The floor and ceiling of the second floor.
+Floors and ceilings are FLs and can be FTRs, S/R, etc, too. I supose
+that at he left the ceilings and floors are respected, too.
+
+What happens on the third floor? Reaches the ceiling and directly
+crosses (line 3) to the fourth floor, so it must go to the ceilong of
+that new floor (target). What happens on the fourth floor? The ball
+(price) bounces a couple of times on ceiling and floor and crosses the
+floor returning to the floor below (third floor).
+
+As I said before, the price can only bounce off the floor and ceiling.
+As it comes from the ceiling, where could it bounce? On the floor, which
+ is in turn the second floor ceiling.
+
+And so on.
+
+So what conclusion can we draw from this symmetry?
+
+The price will always bounce off the ceiling or floor and not anywhere
+else inside the floor. Therefore, WE ONLY MUST PLAN THE TRADES AT FLOOR
+OR CEILING OF THE FLOOR IN WHICH WE FIND US. OR WHAT IS THE SAME, IN THE
+ FLs, FTR, etc.
+
+The engulf of one floor with a Flag inside will shoe us intentions to continue in the direction of the engulf.
+
+In the future, this structure of floors will be respected and the
+importance of each floor depend on what you have in the past on that
+floor
+
+PD: It is possible that everything I have said is nothing but nonsense.
+And i know that my english sometimes sucks, sorry for that.
+FA: وبینار Peter Davies درباره جریان سفارش را دیده‌اید؟ او هم از قیاس کف و سقف استفاده می‌کند.
+
+Manu نوشت: باشه، من هم امتحان می‌کنم.
+
+تقارن را مثل طبقه‌های یک ساختمان می‌بینم که قیمت از یکی به دیگری می‌رود. تصور کن قیمت یک توپ است. توپ می‌تواند روی کف طبقه به بالا بپرد یا از سقف طبقه به پایین. ولی همین توپ اگر شرایطش فراهم باشد، می‌تواند از کف یا سقف هم عبور کند.
+
+قاعده این است که توپ (اگر بپرد) فقط روی کف یا سقف همان طبقه‌ای می‌پرد که در آن لحظه در آن است (نه در فضای بین‌شان که همان خودِ طبقه است)، و اگر مثلاً از سقف عبور کند و برود بالا، اینرسی آن را به بام آن طبقهٔ جدید می‌برد (تارگت). بعد می‌تواند همان‌جا بپرد یا در اولین برخورد از آن بام عبور کند و به طبقهٔ بعد برود. یعنی اگر قیمت از پایین بیاید، سقف طبقهٔ جدیدی که به آن وارد می‌شود، همان تارگت است
+
+بگذارید نمودار را ببینیم:
+
+قیمت (توپ) به بام طبقهٔ اول می‌رسد و نمی‌پرد، عبور می‌کند. طبقهٔ اول را پشت سر گذاشته‌ایم و الان در طبقهٔ دوم هستیم. اینجا چه می‌شود؟ قیمت چند بار روی بام و کف بازمی‌گردد تا در نهایت از سقف عبور می‌کند و به طبقهٔ سوم می‌رود. قیمت طبقهٔ دوم را ترک کرده و تا به بام طبقهٔ سوم نرسد (تارگت) نمی‌تواند به آن برگردد. در طبقهٔ دوم چه داریم؟ یک پرچم. محدوده‌اش کجاست؟ کف و سقف طبقهٔ دوم. کف‌ها و سقف‌ها FL هستند و می‌توانند FTR، S/R و غیره هم باشند. گمان می‌کنم در سمت چپ هم سقف‌ها و کف‌ها رعایت می‌شوند.
+
+در طبقهٔ سوم چه می‌شود؟ به سقف می‌رسد و مستقیم عبور می‌کند (خط 3) به طبقهٔ چهارم، پس باید به سقف آن طبقهٔ جدید برود (تارگت). در طبقهٔ چهارم چه می‌شود؟ توپ (قیمت) چند بار روی سقف و کف می‌پرد و از کف عبور می‌کند و به طبقهٔ پایین‌تر (طبقهٔ سوم) برمی‌گردد.
+
+همان‌طور که گفتم، قیمت فقط می‌تواند از کف و سقف بپرد. حالا که از سقف آمده، کجا می‌تواند بپرد؟ روی کف، که خودش سقف طبقهٔ دوم است.
+
+و همین‌طور ادامه.
+
+پس از این تقارن چه نتیجه‌ای می‌توانیم بگیریم؟
+
+قیمت همیشه از سقف یا کف می‌پرد و نه هیچ جای دیگر داخل طبقه. بنابراین، ما فقط باید معاملات را در کف یا سقف طبقه‌ای که در آن هستیم برنامه‌ریزی کنیم. یا همان، در FL‌ها، FTR و غیره.
+
+اینگالف یک طبقه که پرچمی درونش دارد، نیت ادامه در جهت آن اینگالف را نشانمان می‌دهد.
+
+در آینده این ساختار طبقه‌ها رعایت می‌شود و اهمیت هر طبقه بستگی دارد به آنچه در گذشته در آن طبقه داشته‌ای
+
+پینوشت: ممکن است هر چه گفتم جز مزخرف نباشد. و می‌دانم انگلیسی‌ام بعضی وقت‌ها افتضاح است، ببخشید.
+
+### if_p107_14
+EN: Hi, Thebeard
+
+I do not know if he is the author but I read something similar somewhere
+ that I do not remember a few years ago and I thought It could have a
+relationship
+FA: سلام Thebeard
+
+نمی‌دانم او نویسنده‌اش است یا نه، ولی چند سال پیش جایی چیزی مشابه خواندم که یادم نیست کجا بود و فکر کردم می‌تواند ربط داشته باشد
+
+### if_p107_15
+EN: Yeah it's a great analogy.
+FA: بله، قیاس عالی‌ای است.
+
+### if_p107_16
+EN: Questioning a potential trade zone
+FA: زیر سؤال بردن یک ناحیهٔ معاملاتی بالقوه
+
+### if_p107_17
+EN: Who has another potential area of interest they'd like looked at?
+FA: کی ناحیهٔ بالقوهٔ جالب دیگری دارد که دوست دارد نگاهش کنیم؟
+
+### if_p107_18
+EN: Whilst talking about BSZ. Just took this tiny scalp 1R. my tick was
+not loading so couldn't see for sure if the orders were clean at the mpl
+ or if candle retraced prior to leaving zone. But was happy to place
+order due to 2DT and approach
+FA: حالا که صحبت BSZ است. همین الان این اسکالپ کوچک را با 1R گرفتم. تیک من لود نمی‌شد، پس نمی‌توانستم مطمئن ببینم سفارش‌ها در MPL تمیز بودند یا کندل قبل از ترک ناحیه اصلاح کرده. ولی از دادن سفارش خوشحال بودم، به خاطر 2DT و رویکرد
+
+### if_p107_19
+EN: Clear BSZ. Clean orders beyond. Strong push past R. Lovely!
+FA: BSZ واضح. سفارش‌های تمیز آن‌طرفش. هل دادن قوی از R عبور کرد. عالی!
+
+### if_p107_20
+EN: question with gold
+
+my take on EJ re BSZ
+FA: سؤال با طلا
+
+برداشت من از EJ درباره BSZ
+
+### if_p107_22
+EN: Question about clean orders - need some help from you guys
+FA: سؤال درباره سفارش‌های تمیز — از شما بچه‌ها کمک می‌خواهم
+
+### if_p107_23
+EN: What do you think "clean orders" should be defined?
+FA: به نظرت «سفارش‌های تمیز» را چطور باید تعریف کرد؟
+
+### if_p107_24
+EN: I would think of an area where price has not retraced to yet.
+FA: به نظرم ناحیه‌ای که قیمت هنوز به آن اصلاح نکرده.
+
+### if_p107_25
+EN: I tend to think like Hansma but I must admit that " clean orders "
+is quite a vague notion for me. Sometimes you see a MPL bouncing back
+price 10 times. Has this to do with the TG ?
+FA: من هم مثل Hansma فکر می‌کنم، ولی باید اعتراف کنم که «سفارش‌های تمیز» برایم مفهومی مبهم است. بعضی وقت‌ها می‌بینی یک MPL قیمت را 10 بار برمی‌گرداند. آیا این به TG ربط دارد؟

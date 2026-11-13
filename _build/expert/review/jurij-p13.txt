@@ -1,0 +1,397 @@
+### jurij_p13_1
+EN: USDCHF
+
+30m
+
+Taking 1/2 off...
+
+Daily
+
+This is what caught my attention:
+
+5m chart before
+
+Daily chart before
+FA: USDCHF
+
+تایم‌فریم 30 دقیقه
+
+نصف پوزیشن را بستم...
+
+روزانه
+
+این چیزی است که توجه من را جلب کرد:
+
+چارت 5 دقیقه، قبل
+
+چارت روزانه، قبل
+
+### jurij_p13_2
+EN: Good job I already closed mine probably too soon by the looks of it :)
+FA: کارت درسته، من مال خودم را بستم؛ البته با این وضعیت ظاهراً خیلی زودتر از موعد :)
+
+### jurij_p13_3
+EN: That was a good entry. The 1m chart showed an engulf signal and you entered on retrace
+
+That's why sometimes waiting for LTF confirmation gives better RR and maybe it is also safer.
+FA: ورود خوبی بود. چارت 1 دقیقه سیگنال اینگولف نشان می‌داد و تو روی پولبک وارد شدی
+
+به همین دلیل است که گاهی صبر کردن برای تأیید در LTF، RR بهتری می‌دهد و شاید امن‌تر هم باشد.
+
+### jurij_p13_4
+EN: Yes, patience is a must in this business. Also the news helped the move, we got some news today will see what happens :)
+FA: بله، در این کار صبر حرف اول را می‌زند. ضمناً اخبار هم به حرکت کمک کرد؛ امروز چند خبر داشتیم، ببینیم چه می‌شود :)
+
+### jurij_p13_5
+EN: I try to answer at IF's clue ... Maybe a BASE was ignored ... and that base was also a CP on SUPPLY.
+
+So if CP is engulfed and supply too, sellers can't hold short position: at the return they close bad positions and start to buy
+FA: سعی می‌کنم به سرنخ IF جواب بدهم... شاید یک BASE نادیده گرفته شده... و آن بیس هم روی SUPPLY یک CP بوده.
+
+پس اگر CP اینگولف شود و عرضه هم همین‌طور، فروشنده‌ها نمی‌توانند پوزیشن شورت را نگه دارند: در بازگشت، پوزیشن‌های بدشان را می‌بندند و شروع به خرید می‌کنند.
+
+### jurij_p13_6
+EN: USDCHF
+
+LTF PA
+
+TP is just final one, I think it won't run very much so I'll watch PA closely.
+
+Mrgerry wrote: I try to answer at IF's clue ... Maybe a BASE was ignored ... and that base was also a CP on SUPPLY.
+
+So if CP is engulfed and supply too, sellers can't hold short position: at the return they close bad positions and start to buy
+
+Yes that flag is also an FTR and on its break price created a new FL which was not engulfed.
+FA: USDCHF
+
+PA در LTF
+
+TP فقط همان تارگت آخر است؛ فکر می‌کنم زیاد دور نمی‌رود، پس PA را دقیق زیر نظر می‌گیرم.
+
+Mrgerry نوشت: سعی می‌کنم به سرنخ IF جواب بدهم... شاید یک BASE نادیده گرفته شده... و آن بیس هم روی SUPPLY یک CP بوده.
+
+پس اگر CP اینگولف شود و عرضه هم همین‌طور، فروشنده‌ها نمی‌توانند پوزیشن شورت را نگه دارند: در بازگشت، پوزیشن‌های بدشان را می‌بندند و شروع به خرید می‌کنند.
+
+بله، آن فلگ هم یک FTR است و هنگام شکستش، قیمت یک FL جدید ساخت که اینگولف نشد.
+
+### jurij_p13_7
+EN: USDCHF closed
+
+5m exit PA
+FA: USDCHF بسته شد
+
+خروج بر اساس PA در 5 دقیقه
+
+### jurij_p13_8
+EN: And a loss on EU, failed QM
+
+mid range trading
+FA: و یک ضرر روی EU، QM ناموفق
+
+معامله در میانه رنج
+
+### jurij_p13_9
+EN: EURUSD 5m risk free now (trade from nice FL, see 30m chart to the far left)
+
+LTF PA
+FA: EURUSD در 5 دقیقه الان بدون ریسک است (ورود از یک FL خوب، چارت 30 دقیقه را در منتهی‌الیه سمت چپ ببین)
+
+PA در LTF
+
+### jurij_p13_10
+EN: Jurij,
+
+How do you define midrange trading
+FA: Jurij،
+
+معامله در میانه رنج را چگونه تعریف می‌کنی؟
+
+### jurij_p13_11
+EN: Hi josh
+
+in the specific case of that EU setup, I consider the following level mid range trading.
+
+2TB on that level wasn't a good idea.
+
+PAZ edges are higher probability.
+FA: سلام جاش
+
+در مورد خاص آن ستاپ EU، سطح زیر را معامله در میانه رنج می‌دانم.
+
+2TB روی آن سطح ایده خوبی نبود.
+
+لبه‌های PAZ احتمال بالاتری دارند.
+
+### jurij_p13_12
+EN: Hi Jurij, Josh
+
+There was bearish info on that chart, i think, earlier than those flags and also in those flags
+
+Jurij wrote: Hi josh
+
+in the specific case of that EU setup, I consider the following level mid range trading.
+
+from this Higher Time Frame
+
+from your HTF FL seen in LTF
+
+from the last FL in LTF
+
+... it is very hard to consider everytime LTF details, like those ones,
+before deciding a trade...nice entries wait only seconds, no time for
+thinking, it would be too late..
+
+thank you, all the best
+FA: سلام Jurij و Josh
+
+به نظرم روی آن چارت اطلاعات نزولی وجود داشت، هم پیش از آن فلگ‌ها و هم داخل خودشان
+
+Jurij نوشت: سلام جاش
+
+در مورد خاص آن ستاپ EU، سطح زیر را معامله در میانه رنج می‌دانم.
+
+از این تایم‌فریم بالاتر
+
+از FL تایم‌فریم بالای تو که در LTF دیده می‌شود
+
+از آخرین FL در LTF
+
+‌... در نظر گرفتن همیشگی جزئیات LTF، مثل همین‌ها، پیش از تصمیم به معامله خیلی سخت است... ورودهای خوب فقط چند ثانیه صبر می‌کنند، وقتی برای فکر کردن نیست، دیر می‌شود..
+
+ممنون، موفق باشی
+
+### jurij_p13_13
+EN: Starting the week with some mistakes
+
+USDCAD
+
+Exit without reason
+
+EURGBP
+
+missed to close 1/2 at tg1, luckily price gave me another chance, also because it did engulf lower.
+FA: شروع هفته با چند اشتباه
+
+USDCAD
+
+خروج بی‌دلیل
+
+EURGBP
+
+بستن نصف پوزیشن در tg1 را از دست دادم؛ خوشبختانه قیمت فرصت دیگری داد، چون پایین‌تر را هم اینگولف کرد.
+
+### jurij_p13_14
+EN: althoufx wrote: Hi Jurij, Josh
+
+There was bearish info on that chart, i think, earlier than those flags and also in those flags
+
+Jurij wrote: Hi josh
+
+in the specific case of that EU setup, I consider the following level mid range trading.
+
+from this Higher Time Frame
+
+from your HTF FL seen in LTF
+
+from the last FL in LTF
+
+... it is very hard to consider everytime LTF details, like those ones,
+before deciding a trade...nice entries wait only seconds, no time for
+thinking, it would be too late..
+
+thank you, all the best
+
+yes it did hit a nice R/S, but be careful with that hint, since the signal was already deployed:
+FA: althoufx نوشت: سلام Jurij و Josh
+
+به نظرم روی آن چارت اطلاعات نزولی وجود داشت، هم پیش از آن فلگ‌ها و هم داخل خودشان
+
+Jurij نوشت: سلام جاش
+
+در مورد خاص آن ستاپ EU، سطح زیر را معامله در میانه رنج می‌دانم.
+
+از این تایم‌فریم بالاتر
+
+از FL تایم‌فریم بالای تو که در LTF دیده می‌شود
+
+از آخرین FL در LTF
+
+‌... در نظر گرفتن همیشگی جزئیات LTF، مثل همین‌ها، پیش از تصمیم به معامله خیلی سخت است... ورودهای خوب فقط چند ثانیه صبر می‌کنند، وقتی برای فکر کردن نیست، دیر می‌شود..
+
+ممنون، موفق باشی
+
+بله، به یک R/S خوب خورد، اما با این اشاره احتیاط کن، چون سیگنال از قبل صادر شده بود:
+
+### jurij_p13_15
+EN: Hi Jurij
+
+I've seen in your EURGBP you got a trade noticing a FO (DM) . That FO is
+ very significant for lovely further potential trade, very soon, at the
+extreme.
+
+In GBPJPY also there is one more (..of course, GBP both pairs...) I
+think to be a FO by DM...obviously very significant for ...etc etc....
+
+do you agree this one to be a DM ?
+
+many thanks
+FA: سلام Jurij
+
+در EURGBP تو دیدم که با توجه به یک FO (DM) معامله گرفتی. آن FO برای یک معامله بالقوه‌ی دلپذیر دیگر، خیلی زود و در انتهای حرکت، بسیار معنادار است.
+
+در GBPJPY هم یکی دیگر هست (...البته هر دو جفت‌ارز پوند...) که فکر می‌کنم FO از نوع DM است... که طبیعتاً برای... و غیره و غیره... خیلی معنادار است.
+
+تأیید می‌کنی که این یکی DM است؟
+
+خیلی ممنون
+
+### jurij_p13_16
+EN: althoufx wrote: Hi Jurij
+
+In GBPJPY also there is one more (..of course, GBP both pairs...) I
+think to be a FO by DM...obviously very significant for ...etc etc....
+
+do you agree this one to be a DM ?
+
+many thanks
+
+This is how I would draw it, so yes it is a FO and DM
+FA: althoufx نوشت: سلام Jurij
+
+در GBPJPY هم یکی دیگر هست (...البته هر دو جفت‌ارز پوند...) که فکر می‌کنم FO از نوع DM است... که طبیعتاً برای... و غیره و غیره... خیلی معنادار است.
+
+تأیید می‌کنی که این یکی DM است؟
+
+خیلی ممنون
+
+من این را این‌طور رسم می‌کنم، پس بله، هم FO است و هم DM.
+
+### jurij_p13_17
+EN: Jurij wrote: Starting the week with some mistakes
+
+EURGBP
+
+missed to close 1/2 at tg1, luckily price gave me another chance, also because it did engulf lower.
+
+nope, 2nd half was stopped out, still ~1R
+
+looks like a failed engulf
+FA: Jurij نوشت: شروع هفته با چند اشتباه
+
+EURGBP
+
+بستن نصف پوزیشن در tg1 را از دست دادم؛ خوشبختانه قیمت فرصت دیگری داد، چون پایین‌تر را هم اینگولف کرد.
+
+نه، نیمه دوم هم استاپ خورد، با این حال حدود 1R
+
+به نظر یک اینگولف ناموفق است
+
+### jurij_p13_18
+EN: XAUUSD
+
+1h
+
+15m
+FA: XAUUSD
+
+تایم‌فریم 1 ساعته
+
+تایم‌فریم 15 دقیقه
+
+### jurij_p13_19
+EN: XAUUSD closed
+
+15m
+
+1m exit PA
+FA: XAUUSD بسته شد
+
+تایم‌فریم 15 دقیقه
+
+خروج بر اساس PA در 1 دقیقه
+
+### jurij_p13_20
+EN: Ahh this sucks
+
+Price did then continue up from that FL, just without me
+FA: آه، این خیلی بد است
+
+قیمت بعد از آن FL واقعاً به بالا ادامه داد، فقط بدون من
+
+### jurij_p13_21
+EN: Just a scalp while testing a new broker account
+FA: فقط یک اسکالپ، در حین تست یک حساب کارگزاری جدید
+
+### jurij_p13_22
+EN: Hi Jurij
+
+EURGBP gives several failed setup recently, or at least setup not respected yet.
+
+i remember your Diamond bearish, and there are Engulfs low that seem to
+be forgotten. It would mean also the reversal could be next
+however...maybe.
+
+So while looking many sleeping bearish setup, there are no signals the Price will make them awake...
+FA: سلام Jurij
+
+EURGBP اخیراً چند ستاپ ناموفق داده، یا حداقل ستاپ‌هایی که هنوز محترم شمرده نشده‌اند.
+
+آن دیاموند نزولی‌ات را یادم است، و اینگولف‌های کف هم هستند که به نظر فراموش شده‌اند. این یعنی برگشت روند هم می‌تواند در پیش باشد، هرچند... شاید.
+
+پس در حالی که ستاپ‌های نزولی خواب‌آلود زیادی را می‌بینیم، هیچ نشانه‌ای نیست که قیمت بخواهد بیدارشان کند...
+
+### jurij_p13_23
+EN: althoufx, I was expecting a turn on EURGBP too... Even took a loss on 4H TF...
+
+Don't know what was wrong on the engulfs on 30m TF.
+
+While on 4H chart there was no obvious FL eng, but I traded it based on CP and CPAZ eng...
+FA: althoufx، من هم روی EURGBP انتظار چرخش داشتم... حتی روی تایم‌فریم 4 ساعته ضرر کردم...
+
+نمی‌دانم ایراد اینگولف‌های تایم‌فریم 30 دقیقه چه بود.
+
+در چارت 4 ساعته هیچ اینگولف واضحی روی FL نبود، اما بر اساس اینگولف CP و CPAZ وارد شدم...
+
+### jurij_p13_24
+EN: EURGBP the very High Time Frame can give explaination, from a long ago,
+
+Ok Weekly signal prevails on LTF , we know, but bearish signals LTF has been given sooo early !
+
+....and by the truth the Rally could have even a bit more room up
+
+...... just right now this level seems to be so glorious (it's a FL)
+
+all the best
+FA: EURGBP، تایم‌فریم خیلی بالاتر می‌تواند توضیح دهد، از خیلی وقت پیش،
+
+باشد، می‌دانیم که سیگنال هفتگی بر LTF حاکم است، اما سیگنال‌های نزولی در LTF خیلی زود داده شده‌اند!
+
+‌....و راستش رالی می‌تواند حتی کمی فضای بیشتری برای بالا رفتن داشته باشد
+
+‌...... همین الان این سطح خیلی باشکوه به نظر می‌رسد (یک FL است)
+
+موفق باشی
+
+### jurij_p13_25
+EN: Jurij wrote: althoufx, I was expecting a turn on EURGBP too... Even took a loss on 4H TF...
+
+Don't know what was wrong on the engulfs on 30m TF.
+
+While on 4H chart there was no obvious FL eng, but I traded it based on CP and CPAZ eng...
+
+about EG....
+
+here my thought..
+
+CMIIW
+FA: Jurij نوشت: althoufx، من هم روی EURGBP انتظار چرخش داشتم... حتی روی تایم‌فریم 4 ساعته ضرر کردم...
+
+نمی‌دانم ایراد اینگولف‌های تایم‌فریم 30 دقیقه چه بود.
+
+در چارت 4 ساعته هیچ اینگولف واضحی روی FL نبود، اما بر اساس اینگولف CP و CPAZ وارد شدم...
+
+درباره EG....
+
+نظر من این است..
+
+اگر اشتباه می‌گویم تصحیح کنید

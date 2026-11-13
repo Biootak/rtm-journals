@@ -1,0 +1,180 @@
+===== cancan-p1 : 25 posts =====
+--- cancan_p1_1 author=mansorsapari hash=168380f8
+EN: Hi again ALL I just finish reading teh CAN CAN setups...But I cannot find the thread for this setup..So why not if I start it here...
+FA: سلام دوباره به همه؛ تازه خواندن ستاپ‌های CAN CAN را تمام کردم...اما تاپیک این ستاپ را پیدا نمی‌کنم..پس چرا همین‌جا شروعش نکنم...
+--- cancan_p1_2 author=mansorsapari hash=70b9586e
+EN: This is from Markepedia..
+
+The CanCan
+
+Very often price will move into, or even better, break out of a zone with strong momentum, creating a pole.
+
+Usually a pole will have a flag on top, gathering orders for price to avance.
+
+But if the flag breaks back into the pole, this is a significant turn in value.
+
+A CanCan can often occur at such an event.
+
+Price moves hard, flags briefly, and moves back quickly with a Liquidity Spike. This liquidity spike will mean there may very well be orders left to be filled at the edge of the flag, so you'll very often see compression back towards it, with extra orders being hidden, so that when price hits the cap, it can shoot back through the compression and on to the base of the pole.
+
+Homework:
+
+Find and describe at least 20 cancans throughout history. Any pair, any timeframe
+FA: این از Markepedia است..
+
+CanCan
+
+خیلی وقت‌ها قیمت با مومنتوم قوی به درون یک ناحیه حرکت می‌کند، یا حتی بهتر، از آن به بیرون می‌شکند و یک میله می‌سازد.
+
+معمولاً بالای میله یک FLAG شکل می‌گیرد که سفارش‌ها را برای پیشروی قیمت جمع می‌کند.
+
+اما اگر FLAG بشکند و قیمت به درون میله برگردد، این چرخش مهمی در ارزش است.
+
+یک CanCan اغلب می‌تواند در چنین رویدادی رخ دهد.
+
+قیمت با قدرت حرکت می‌کند، برای مدت کوتاهی یک FLAG تشکیل می‌دهد و با یک اسپایک نقدینگی به‌سرعت برمی‌گردد. این اسپایک نقدینگی یعنی به‌احتمال زیاد سفارش‌هایی در لبهٔ FLAG باقی مانده‌اند که هنوز پر نشده‌اند؛ بنابراین خیلی وقت‌ها حرکت فشردهٔ قیمت به سمت آن را می‌بینید، در حالی که سفارش‌های اضافی پنهان می‌شوند، تا وقتی قیمت به کپ می‌رسد، بتواند با شتاب از میان این فشردگی برگردد و تا پایهٔ میله پیش برود.
+
+تکلیف:
+
+دست‌کم 20 CanCan در طول تاریخ پیدا کنید و توصیف کنید. هر جفت‌ارزی، هر تایم‌فریمی
+--- cancan_p1_3 author=mansorsapari hash=1069f392
+EN: deleted for double post..sorry
+
+Homework:
+
+Find and describe at least 20 cancans throughout history. Any pair, any timeframe
+FA: به‌خاطر پست تکراری حذف شد..ببخشید
+
+تکلیف:
+
+دست‌کم 20 CanCan در طول تاریخ پیدا کنید و توصیف کنید. هر جفت‌ارزی، هر تایم‌فریمی
+--- cancan_p1_4 author=mansorsapari hash=24308200
+EN: Can can Assignment No1
+
+Pair: AU TF: M15 Date: 17072013
+FA: تکلیف Can can شمارهٔ 1
+
+جفت‌ارز: AU تایم‌فریم: M15 تاریخ: 17072013
+--- cancan_p1_5 author=mansorsapari hash=f32ec02a
+EN: CanCan Assignment No 2
+
+Pair: EurUsd TF: H1 Date: 07032013
+FA: تکلیف CanCan شمارهٔ 2
+
+جفت‌ارز: EurUsd تایم‌فریم: H1 تاریخ: 07032013
+--- cancan_p1_6 author=mansorsapari hash=7ee758aa
+EN: CanCan Assignment # 3
+
+Pair: EurUsd TF: H1 Date: 27022013
+FA: تکلیف CanCan شمارهٔ 3
+
+جفت‌ارز: EurUsd تایم‌فریم: H1 تاریخ: 27022013
+--- cancan_p1_7 author=mansorsapari hash=46a0b784
+EN: CanCan assignment # 4
+
+Pair: UsdChf TF: H1 Date: 09072013
+FA: تکلیف CanCan شمارهٔ 4
+
+جفت‌ارز: UsdChf تایم‌فریم: H1 تاریخ: 09072013
+--- cancan_p1_8 author=mansorsapari hash=ee654332
+EN: CanCan Assignment # 5
+
+Pair: UsdChf TF: H1 Date: 27032013
+FA: تکلیف CanCan شمارهٔ 5
+
+جفت‌ارز: UsdChf تایم‌فریم: H1 تاریخ: 27032013
+--- cancan_p1_9 author=Harry hash=193de284
+EN: good work populating this thread with examples its a really nice setup to trade when it happens
+FA: کار خوبی کردی که این تاپیک را با مثال‌ها پر کردی؛ وقتی اتفاق می‌افتد واقعاً ستاپ خوبی برای معامله است.
+--- cancan_p1_10 author=mansorsapari hash=2d56bca2
+EN: 5 done..15 to go
+
+Doing the homework is really good for me..I will do do again and again..by doing it repeatedly it will automatically ACTIVATE my subconcious mind and when the setup happens in the future I will automatically know it..AHA..moments and I will make an ENTRY with confidence...cheers
+FA: 5 تا انجام شد..15 تا مانده
+
+انجام تکلیف واقعاً برایم خوب است..بارها و بارها انجامش می‌دهم..با تکرار آن، ذهن ناخودآگاهم به‌طور خودکار فعال می‌شود و وقتی در آینده ستاپ رخ دهد، خودبه‌خود می‌شناسمش..لحظه‌های آها..و با اعتمادبه‌نفس وارد معامله می‌شوم...به سلامتی
+--- cancan_p1_11 author=mansorsapari hash=92baf62c
+EN: CanCan Assignment # 6
+
+Pair: UsdChf TF: H1 Date: 04012013
+FA: تکلیف CanCan شمارهٔ 6
+
+جفت‌ارز: UsdChf تایم‌فریم: H1 تاریخ: 04012013
+--- cancan_p1_12 author=MudarHM hash=ded87488
+EN: That Was Today Every thing went as planned
+
+It was almost perfect trade, Thanks for IF, Harry & every body in this community.
+FA: این مال امروز بود؛ همه‌چیز طبق برنامه پیش رفت
+
+تقریباً یک معاملهٔ بی‌نقص بود. ممنون از IF، Harry و همهٔ اعضای این انجمن.
+--- cancan_p1_13 author=in2forex hash=5079ceed
+EN: Hi All
+
+I already posted some Can Can homework in my journal, but this looks like the correct place to put my future work.
+
+A Can Can and QM.
+FA: سلام به همه
+
+قبلاً چند تکلیف Can Can را در ژورنالم گذاشته بودم، اما به نظر می‌رسد اینجا جای درست کارهای آیندهٔ من است.
+
+یک Can Can و QM.
+--- cancan_p1_14 author=in2forex hash=ab2bb1f4
+EN: Here is a Can Can that formed within the QM setup.
+
+PS: Just looking at it again it isn't great CP there is some untested demand in it, oh well.
+FA: این هم یک Can Can که درون ستاپ QM شکل گرفت.
+
+پ.ن: همین حالا دوباره نگاهش کردم؛ CP چندان خوبی نیست، مقداری تقاضای تست‌نشده در آن هست، خب چه می‌شود کرد.
+--- cancan_p1_15 author=in2forex hash=243f2dcc
+EN: Some more Can Can homework.
+FA: چند تکلیف Can Can دیگر.
+--- cancan_p1_16 author=in2forex hash=a990ff13
+EN: More Homework
+FA: تکلیف بیشتر
+--- cancan_p1_17 author=in2forex hash=077be519
+EN: Another chart
+FA: یک چارت دیگر
+--- cancan_p1_18 author=in2forex hash=9414e410
+EN: Another one
+
+Chart 1 = Can Can formation
+
+Chart 2 = Zoomed out the Can Can forms part of the FO bringing the QM into play.
+FA: یکی دیگر
+
+چارت 1 = شکل‌گیری Can Can
+
+چارت 2 = در نمای بزرگ‌تر، Can Can بخشی از FO را تشکیل می‌دهد که QM را وارد بازی می‌کند.
+--- cancan_p1_19 author=in2forex hash=3062acb7
+EN: Next Can Can example
+
+Please comment if any of these are wrong or bad examples.
+FA: مثال بعدی Can Can
+
+اگر هرکدام از این‌ها اشتباه یا مثال بدی است، لطفاً نظر بدهید.
+--- cancan_p1_20 author=in2forex hash=36319d38
+EN: Another Can Can example.
+
+This also shows a great FO zone, price returns Fakes Out, drops and then compresses up to the neckline of the Can Can which is also the FO level. The arc like path of PA is something I remember from the original FO article.
+FA: یک مثال Can Can دیگر.
+
+اینجا یک ناحیهٔ FO عالی هم دیده می‌شود؛ قیمت برمی‌گردد، فیک‌اوت می‌کند، می‌ریزد و بعد به سمت بالا تا خط گردن Can Can فشرده می‌شود، که همان سطح FO هم هست. مسیر کمانی‌شکل PA چیزی است که از مقالهٔ اصلی FO به یاد دارم.
+--- cancan_p1_21 author=in2forex hash=5bc16d00
+EN: Still continuing my Can can home work,
+FA: هنوز دارم به تکلیف Can can خودم ادامه می‌دهم،
+--- cancan_p1_22 author=MudarHM hash=8f95035d
+EN: HI DEARS,
+
+3 IN ONE SHOT
+FA: سلام عزیزان،
+
+3 تا در یک حرکت
+--- cancan_p1_23 author=projectsagana hash=a7a52dad
+EN: My 1st Can Can Homework
+FA: تکلیف Can Can شمارهٔ 1 من
+--- cancan_p1_24 author=projectsagana hash=1d9d643b
+EN: 2nd Can Can
+FA: Can Can شمارهٔ 2
+--- cancan_p1_25 author=projectsagana hash=abed248b
+EN: My 3rd Can Can
+FA: Can Can شمارهٔ 3 من

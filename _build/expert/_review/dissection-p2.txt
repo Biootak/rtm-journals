@@ -1,0 +1,259 @@
+===== dissection-p2 : 18 posts =====
+--- dissection_p2_76 author=Jurij hash=e3d8dbeb
+EN: Good to see what IF was thinking about it. Looks like the main reason for the trade was the trick inside the FTR and the PAZ. Did the engulf play a role in this trade? Would be interesting to know
+
+Anyone interested in dissecting the way IF draws those distinct PAZ boxes?
+
+I know what a PAZ is, but I'm not sure if I'm using it properly. I don't know how this box was drawn, any idea?
+FA: خوب است که ببینیم IF درباره‌اش چه فکر می‌کرد. به نظر می‌رسد دلیل اصلی معامله، ترفند داخل FTR و PAZ بود. آیا اینگالف در این معامله نقشی داشت؟ دانستنش جالب خواهد بود
+
+کسی علاقه‌مند است روشی را که IF آن باکس‌های متمایز PAZ را می‌کشد کالبدشکافی کند؟
+
+من می‌دانم PAZ چیست، اما مطمئن نیستم که درست از آن استفاده می‌کنم. نمی‌دانم این باکس چطور کشیده شد، ایده‌ای هست؟
+--- dissection_p2_77 author=Cevsmile hash=d267c764
+EN: ew.. i didnt know about this thread..
+
+let me read it first.
+FA: اِه.. نمی‌دانستم این تاپیک وجود دارد..
+
+بگذارید اول آن را بخوانم.
+--- dissection_p2_78 author=omidfxt hash=d2e77db6
+EN: Hey Jurij
+
+As you know PAZ are used for the space between two FLs and also CP PAZs are another kind of PAZ that their edges are important for us we know that when price enters a PAZ it can travel to the other edge of it depends no the situations
+
+I don't if I'm correct on this or not, but just what i think about it:
+FA: سلام Jurij
+
+همان‌طور که می‌دانی PAZ‌ها برای فضای بین دو FL استفاده می‌شوند و همچنین PAZ‌های CP نوع دیگری از PAZ هستند که لبه‌هایشان برای ما مهم است. می‌دانیم وقتی قیمت وارد یک PAZ می‌شود می‌تواند تا لبه دیگر آن سفر کند، بستگی به شرایط دارد
+
+نمی‌دانم در این مورد درست می‌گویم یا نه، اما این فقط چیزی است که درباره‌اش فکر می‌کنم:
+--- dissection_p2_79 author=Cevsmile hash=ccb9aae2
+EN: BTW, before i post "disect" things, look at EURGBP, very nice example..
+FA: راستی، قبل از اینکه مطالب "کالبدشکافی" را بفرستم، به EURGBP نگاه کنید؛ مثال بسیار خوبی است..
+--- dissection_p2_80 author=corsica hash=5c8330ca
+EN: My take on your question about why the price went up cheers
+FA: نظر من درباره سؤالتان که چرا قیمت بالا رفت؛ ارادتمند
+--- dissection_p2_83 author=etwanm hash=366cbf07
+EN: are you have any comment about exit points?
+FA: آیا نظری درباره نقاط خروج دارید؟
+--- dissection_p2_84 author=omidfxt hash=85b3ef05
+EN: Hey etwanm
+
+Here is my view on it:
+
+hope it make sense
+FA: سلام etwanm
+
+این نظر من درباره آن است:
+
+امیدوارم منطقی باشد
+--- dissection_p2_85 author=omidfxt hash=69157fa3
+EN: OMG! we dissected this trade at the first page of this thread!!
+
+I think i'm more tired than you @etwanm as you mentioned in your first chart and it's time to rest
+
+please check your answers about the targets in the previous posts and charts and if you couldn't find the answer let us know to investigate it together
+FA: خدای من! ما این معامله را در صفحه اول همین تاپیک کالبدشکافی کردیم!!
+
+@etwanm، با توجه به چیزی که درباره خستگی‌ات در اولین چارتت گفتی، فکر می‌کنم حتی از تو هم خسته‌ترم؛ وقت استراحت است
+
+لطفاً پاسخ سؤال‌هایت درباره تارگت‌ها را در پست‌ها و چارت‌های قبلی جست‌وجو کن و اگر جواب را پیدا نکردی، به ما بگو تا با هم بررسی‌اش کنیم
+--- dissection_p2_86 author=etwanm hash=812f304e
+EN: thanks for efforts and reply. take it easy
+
+:silly:
+
+:silly:
+FA: ممنون بابت زحمات و پاسخ. سخت نگیر
+
+:silly:
+
+:silly:
+--- dissection_p2_90 author=etwanm hash=34edc596
+EN: sell again
+FA: دوباره فروش
+--- dissection_p2_93 author=hoeschec hash=65ce8e33
+EN: Jurij pointed me this direction last night, and I am going to take a stab at dissecting IF's E/J trade (JuriJ started this E/J trade analysis back on post # 7 of this journal. I apologize in advance if I am repeating analysis that has already been posted...I wanted to try this without looking at the answers
+
+As anyone who reads my journal knows, I tend to post a lot of charts, in step-by-step order. I do this because it is the only way I can keep it straight in my head.
+
+This analysis only covers the "past" analysis for IF's E/J trade and focuses on finding out why he chose this area to trade. I have a total of 12 charts, so it will take two posts.
+
+I start with drawing FL Boxes on the Daily chart. The next chart will show a detailed view of the area labeled "A":
+
+I notice a break up followed by a break down. This looks like an obvious trick.
+
+The next step is determining which is a FO and which is an engulf. To do this, I ask "What did the breakout @ # 1 react to on the left"? Here is a HTF chart showing the focus area on the left.
+
+The chart below is a close-up of the reaction area. As you can see, the breakout in # 1 is a FO to the MPL of this zone. I think this is highly significant. I think it is this FO to a HTF MPL that allows us to focus on the area below this FO or "trick" when price returns.
+
+If # 1 is a FO, #2 is an engulf
+
+The next step is to find the DP to FO, and ID the area where FOF is created when price engulfs the DP to FO. The area in the green circle is where I will zoom in.
+FA: Jurij دیشب من را به این سمت هدایت کرد، و می‌خواهم تلاشی برای کالبدشکافی معامله IF روی E/J بکنم (JuriJ تحلیل این معامله E/J را در پست # 7 این ژورنال شروع کرده بود. پیشاپیش عذرخواهی می‌کنم اگر تحلیلی را تکرار می‌کنم که قبلاً منتشر شده... می‌خواستم این را بدون نگاه کردن به جواب‌ها امتحان کنم
+
+همان‌طور که هر کسی ژورنال من را می‌خواند می‌داند، من معمولاً چارت‌های زیادی را به‌ترتیب گام‌به‌گام منتشر می‌کنم. این کار را می‌کنم چون تنها راهی است که می‌توانم آن را در ذهنم مرتب نگه دارم.
+
+این تحلیل فقط تحلیل "گذشته" برای معامله IF روی E/J را پوشش می‌دهد و روی یافتن اینکه چرا او این ناحیه را برای معامله انتخاب کرد تمرکز دارد. من در مجموع 12 چارت دارم، پس دو پست طول می‌کشد.
+
+من با کشیدن باکس‌های FL روی چارت روزانه شروع می‌کنم. چارت بعدی نمای جزئی از ناحیه‌ای را نشان می‌دهد که با "A" برچسب خورده:
+
+من یک شکست به بالا و به‌دنبال آن یک شکست به پایین می‌بینم. این شبیه یک ترفند واضح است.
+
+قدم بعدی تعیین این است که کدام یک FO است و کدام یک اینگالف. برای این کار می‌پرسم "بریک‌اوت @ # 1 به چه چیزی در سمت چپ واکنش نشان داد"؟ این یک چارت تایم‌فریم بالاتر است که ناحیه مورد تمرکز در سمت چپ را نشان می‌دهد.
+
+چارت زیر نمای نزدیک از ناحیه واکنش است. همان‌طور که می‌بینید، بریک‌اوت در # 1 یک FO به MPL این ناحیه است. فکر می‌کنم این بسیار مهم است. فکر می‌کنم همین FO به یک MPL در تایم‌فریم بالاتر است که به ما اجازه می‌دهد وقتی قیمت برمی‌گردد روی ناحیه زیر این FO یا "ترفند" تمرکز کنیم.
+
+اگر # 1 یک FO است، #2 یک اینگالف است
+
+قدم بعدی یافتن DP منتهی به FO و شناسایی ناحیه‌ای است که با اینگالف شدن آن DP توسط قیمت، FOF در آن ایجاد می‌شود. ناحیه داخل دایره سبز جایی است که من روی آن زوم می‌کنم.
+--- dissection_p2_94 author=hoeschec hash=a2802996
+EN: (Continued from post above)
+
+Here is the DP to FO and the EG of the DP to FO. This is newly created FOF.
+
+On the next chart I zoom in to a 1-min chart too look at the FOF zone in detail. I am looking for more tricks being played so I can refine my potential entry. You can see, the FL Box that contains the FOF also has a similar 'trick' being played...a breakout up followed by a breakout down. Just like before, I will determine which is a FO and which is an engulf.
+
+The breakout to the upside (labeled as # 3) looks to be a FO which is very close to the MPL of a tiny engulf that first created the flag box (it broke the demand zone in the swap zone above). Once again, there is a FO (trick) occurring in a MPL zone followed by an engulf.
+
+This FO to an MPL gives additional confidence to look for a trade at or below this level. But first, like before, I need to identify the DP to FO and the EG of the DP to FO: Once again, I am looking for a more defined area of FOF. The chart below identifies this new FOF:
+
+So at this point, we have two tricks being played, and a clear zone with FOF that also corresponds nicely with the HTF QM level. Next step is to look at what FOF is left over in this area (look to see if it has already been spiked/consumed). We can see that it has been spiked...twice.
+
+We know this is the right location, and since the best FOF has already been consumed, I will look to the next (closest) level where fresh orders exist. I will look for the nearest swap zone.
+
+The new swap zone (located just below spike # 1 and spike # 2 is shown with a red FL Box. This is a perfect location for FOF, and it is still located at the HTF QM.
+
+And the final chart shows a bird's eye view of this tiny FOF zone, located exactly at a HTF QM, formed after two tricks were played.
+
+Thank you to everyone who is taking part in this dissection room. It is very helpful. I will do some additional practice on analyzing the approach, as I know this is incredibly important to executing master level trades.
+FA: (ادامه از پست بالا)
+
+اینجا DP منتهی به FO و EG آن DP را می‌بینیم. این همان FOF تازه‌ایجادشده است.
+
+در چارت بعدی روی یک چارت 1 دقیقه‌ای زوم می‌کنم تا ناحیه FOF را با جزئیات ببینم. دنبال ترفندهای بیشتری می‌گردم تا بتوانم محدوده ورود احتمالی‌ام را دقیق‌تر کنم. می‌بینید که در باکس FL حاوی FOF هم 'ترفند' مشابهی رخ می‌دهد... یک بریک‌اوت به بالا و به‌دنبال آن یک بریک‌اوت به پایین. درست مثل قبل، تعیین می‌کنم کدام یک FO است و کدام یک اینگالف.
+
+به نظر می‌رسد بریک‌اوت به سمت بالا (با برچسب # 3) یک FO باشد که بسیار نزدیک به MPL یک اینگالف کوچک است؛ همان اینگالفی که در ابتدا باکس flag را ایجاد کرد (ناحیه تقاضا را در ناحیه سواپ بالایی شکست). باز هم یک FO (ترفند) در ناحیه MPL رخ می‌دهد و به‌دنبال آن یک اینگالف.
+
+این FO به MPL به من اطمینان بیشتری می‌دهد تا در این سطح یا پایین‌تر از آن به‌دنبال معامله باشم. اما ابتدا، مثل قبل، باید DP منتهی به FO و EG آن DP را شناسایی کنم: باز هم به‌دنبال محدوده دقیق‌تری از FOF هستم. چارت زیر این FOF جدید را مشخص می‌کند:
+
+پس تا اینجا دو ترفند رخ داده و ناحیه مشخصی حاوی FOF داریم که با سطح QM در تایم‌فریم بالاتر نیز به‌خوبی منطبق است. قدم بعدی بررسی FOF باقی‌مانده در این ناحیه است (ببینیم آیا قبلاً با اسپایک زده یا مصرف شده است). می‌بینیم که با اسپایک زده شده... دو بار.
+
+می‌دانیم که این محل درست است و چون بهترین FOF قبلاً مصرف شده، به سطح بعدی (نزدیک‌ترین سطح) که سفارش‌های تازه دارد نگاه می‌کنم. به‌دنبال نزدیک‌ترین ناحیه سواپ می‌گردم.
+
+ناحیه سواپ جدید (که درست زیر اسپایک # 1 و اسپایک # 2 قرار دارد) با یک باکس FL قرمز نشان داده شده است. این محل برای FOF عالی است و همچنان در سطح QM تایم‌فریم بالاتر قرار دارد.
+
+چارت آخر نمایی کلی از این ناحیه کوچک FOF را نشان می‌دهد که دقیقاً در سطح QM تایم‌فریم بالاتر قرار دارد و پس از وقوع دو ترفند شکل گرفته است.
+
+از همه کسانی که در این اتاق کالبدشکافی مشارکت می‌کنند ممنونم. این کار بسیار مفید است. تحلیل نحوه نزدیک‌شدن قیمت را بیشتر تمرین خواهم کرد، چون می‌دانم برای اجرای معاملات در سطح مستر فوق‌العاده مهم است.
+--- dissection_p2_95 author=hoeschec hash=0b3c780b
+EN: What really stands out to me after dissecting this trade is the concept of price playing 'tricks' in the past. 'Tricks' is really just another way to say fakeout, right?
+
+And we don't want just any fakeout...they happen all the time. We want FO's that occur to the MPL, with a resulting engulf to the opposite side so we know which way price is likely to go (in the direction of the engulf) and we know where price is not likely to FO (back to the MPL, once a FO has already occurred here).
+
+These tricks help us to "zero in" on the important zone of FOF that is likely to react when price returns. The tricks are like road maps that tell us where price has already gone...
+
+Isn't the ultimate goal to find the last available area of FOF within the scope and scale of our trade? Knowing where that last pocket of liquidity exists tells us where price is likely to go before turning..... If we know where price will be attracted (like a magnet to the last pocket of FOF that hasn't been consumed) we know exactly where to enter the market with the least amount of DD.
+
+...And as far as a QM goes...Salivan once wrote he only trades QM's that occur in the right place. Does he mean QM's that have a HH/LL that FO to the MPL? This is the only way to avoid getting stopped out by a Diamond, right?
+
+Am I on the right track conceptually
+
+:?
+FA: چیزی که بعد از کالبدشکافی این معامله واقعاً برایم برجسته است، مفهوم اجرای 'ترفندها' توسط قیمت در گذشته است. 'ترفندها' در واقع فقط روش دیگری برای گفتن فیک‌اوت است، درست می‌گویم؟
+
+ما به‌دنبال هر فیک‌اوتی نیستیم... فیک‌اوت همیشه رخ می‌دهد. FO‌هایی را می‌خواهیم که تا MPL پیش می‌روند و در ادامه به اینگالف در جهت مخالف منجر می‌شوند، تا بدانیم قیمت احتمالاً به کدام سمت می‌رود (در جهت اینگالف) و احتمالاً کجا FO نخواهد کرد (بازگشت به MPL، وقتی قبلاً یک FO در آنجا رخ داده است).
+
+این ترفندها به ما کمک می‌کنند روی ناحیه مهم FOF "دقیق تمرکز کنیم" که احتمالاً وقتی قیمت برمی‌گردد واکنش نشان دهد. ترفندها مثل نقشه راهی هستند که به ما می‌گویند قیمت قبلاً کجا رفته...
+
+آیا هدف نهایی یافتن آخرین ناحیه موجود FOF در محدوده و مقیاس معامله‌مان نیست؟ دانستن اینکه آخرین جیب نقدینگی کجا وجود دارد به ما می‌گوید قیمت احتمالاً قبل از چرخش کجا می‌رود..... اگر بدانیم قیمت به کجا جذب می‌شود (مثل آهنربا به آخرین جیب FOF که مصرف نشده) دقیقاً می‌دانیم کجا با کمترین مقدار DD وارد بازار شویم.
+
+...و تا آنجا که به QM مربوط می‌شود... Salivan یک‌بار نوشت که او فقط QM‌هایی را معامله می‌کند که در مکان درست رخ می‌دهند. آیا منظورش QM‌هایی است که HH/LL آن‌ها به MPL، FO می‌کند؟ این تنها راه جلوگیری از استاپ‌خوردن توسط یک Diamond است، درست می‌گویم؟
+
+آیا از نظر مفهومی در مسیر درستی هستم
+
+:?
+--- dissection_p2_96 author=Jurij hash=5b63eb64
+EN: Hi H, great addition to our first dissection, good thinking about orders
+
+hoeschec wrote:...And as far as a QM goes...Salivan once wrote he only trades QM's that occur in the right place. Does he mean QM's that have a HH/LL that FO to the MPL? This is the only way to avoid getting stopped out by a Diamond, right?
+
+Am I on the right track conceptually
+
+:?
+
+Yes you're right from my point of view, well done. About QM, it's like IF said many times, we can only expect a level to hold, example for a QM, if the orders on the MPL were filled otherwise a FO can always occur, so then in this example a diamond.
+FA: سلام H، مطلبت تکمیل‌کننده بسیار خوبی برای اولین کالبدشکافی‌مان بود؛ درباره سفارش‌ها خوب فکر کرده‌ای
+
+hoeschec نوشت: ...و تا آنجا که به QM مربوط می‌شود... Salivan یک‌بار نوشت که او فقط QM‌هایی را معامله می‌کند که در مکان درست رخ می‌دهند. آیا منظورش QM‌هایی است که HH/LL آن‌ها به MPL، FO می‌کند؟ این تنها راه جلوگیری از استاپ‌خوردن توسط یک Diamond است، درست می‌گویم؟
+
+آیا از نظر مفهومی در مسیر درستی هستم
+
+:?
+
+بله، از دید من درست می‌گویی، آفرین. درباره QM، همان‌طور که IF بارها گفته، فقط وقتی می‌توانیم انتظار داشته باشیم یک سطح، مثلاً سطح QM، در برابر قیمت دوام بیاورد که سفارش‌های روی MPL پر شده باشند؛ وگرنه همیشه احتمال وقوع FO وجود دارد که در این مثال به شکل diamond خواهد بود.
+--- dissection_p2_97 author=staurum hash=4227a1f1
+EN: IF, EU12Jul12
+
+Here is how i see it simply.
+
+Lesson learnt: If we want to test a supply zone (that has been tested/spiked, but not engulfed/broken yet), is to find an entry at DP (origin of the move) to break Supply before/below the supply we want to test/target.
+FA: IF, EU12Jul12
+
+این‌طور است که من آن را به‌سادگی می‌بینم.
+
+درسی که گرفتم: اگر هدفمان تست یک ناحیه عرضه باشد (ناحیه‌ای که تست شده یا با اسپایک زده شده، اما هنوز اینگالف یا شکسته نشده است)، باید نقطه ورودی در DP (مبدأ حرکت) منتهی به شکست عرضه پیدا کنیم؛ آن عرضه، پیش از/پایین‌تر از ناحیه عرضه‌ای قرار دارد که می‌خواهیم تست کنیم یا تارگت قرار دهیم.
+--- dissection_p2_98 author=staurum hash=2c43f6c0
+EN: IF, Crudeoil, 2Jul12
+
+Here is HTF outlook view of the chart.
+
+And how i reinterpret. still got a question, but will save it for the future.
+FA: IF, Crudeoil, 2Jul12
+
+این نمای کلی تایم‌فریم بالاتر از چارت است.
+
+و اینکه چطور آن را بازتفسیر می‌کنم. هنوز یک سؤال دارم، اما آن را برای آینده نگه می‌دارم.
+--- dissection_p2_99 author=staurum hash=bb787e85
+EN: readthemarket.com/index.php/en/forum/jou...3-if?start=200#18592
+
+Ifmyante wrote: Hi Harsh. we love to trade the ftr on return
+
+Probable PE on Loon, but my mind is off the job
+
+Let's see the HTF zones on the daily.
+
+Now this is my understanding in H4 zones.
+FA: readthemarket.com/index.php/en/forum/jou...3-if?start=200#18592
+
+Ifmyante نوشت: سلام Harsh. ما عاشق معامله روی FTR در بازگشت هستیم
+
+احتمالاً PE روی Loon، اما حواسم به کار نیست
+
+بیایید نواحی تایم‌فریم بالاتر را در تایم‌فریم روزانه ببینیم.
+
+حالا این درک من از نواحی H4 است.
+--- dissection_p2_100 author=staurum hash=6c9f234b
+EN: tinkerbelle wrote:
+
+Ifmyante wrote: An easy 40 something % on the account overnight
+
+love this chart
+
+8ù
+
+here is how i look at the HTF zone for this trade
+
+And this is my logic for the trade: LTF Zone structures, approach and reaction.
+FA: tinkerbelle نوشت:
+
+Ifmyante نوشت: به‌راحتی 40 و چند % سود روی حساب، در یک شب
+
+عاشق این چارتم
+
+8ù
+
+برای این معامله، محدوده تایم‌فریم بالاتر را این‌طور می‌بینم
+
+و این منطق من برای معامله است: ساختارهای ناحیه در تایم‌فریم پایین‌تر، نحوه نزدیک‌شدن و واکنش.

@@ -1,0 +1,376 @@
+### pedini_p9_1
+EN: Wow that's nice.
+
+But always remember to make sure you are 100% confident in your own
+analysis before you pull the trigger. Everyone has there own reasons to
+enter and exit a trade, so be careful
+FA: وای چه خوب.
+
+ولی همیشه یادت باشد قبل از اینکه ماشه را بکشی مطمئن شوی 100% به تحلیل خودت باور داری. هر کسی دلایل خودش را برای ورود و خروج به معامله دارد، پس مواظب باش
+
+### pedini_p9_2
+EN: Hey L,
+
+I have a question about your last post I pasted below. I understand what
+ CP is, but the stacked zones I want to make sure I understand. So in
+your PAZ below you are saying that price broke into it and retraced to 1
+ and then went back to supply. Are you saying that price would do the
+same for points 2 and 3? Basically price would bounce from one end to
+the other. The difference between this and CP is that with CP, price
+will plow right through the zone as all the demand would be gone. The
+only other question I have is how did you know to draw the upper zone
+where you did? Is it because price did not make a higher high?
+
+Thanks,
+
+H
+FA: سلام L،
+
+دربارهٔ آخرین پستی که پایین گذاشتم سؤالی دارم. می‌فهمم CP چیست، ولی می‌خواهم مطمئن شوم نواحی انباشته را درست فهمیده‌ام. پس در PAZ پایین داری می‌گویی قیمت به آن شکست و به 1 برگشت و بعد دوباره به عرضه رفت. منظورت این است که قیمت با نقطه‌های 2 و 3 هم همین کار را می‌کند؟ یعنی قیمت از یک سر به سر دیگر می‌پرد. تفاوت این با CP این است که در CP قیمت مستقیم از ناحیه رد می‌شود چون تمام تقاضا از بین رفته. تنها سؤال دیگرم این است که از کجا فهمیدی ناحیهٔ بالا را کجا بکشی؟ به این خاطر است که قیمت سقف بالاتری نساخت؟
+
+ممنون،
+
+H
+
+### pedini_p9_3
+EN: Hey Hoto.
+
+Your points 1, 2 and 3 are all part of the stacked demand. In general
+when price gets into stacked demand, it normally wants to go through it
+to the top or bottom level, in this case the bottom level. It is not the
+ same as compression as compression takes out remaining orders while
+stacked demand still have orders hiding away. But if you think about it
+logically it will be more profitable to get to the cheapest or most
+expensive level to trade from...
+
+...you can see from base 1 that price takes off and comes back to
+re-test the base, these orders have now been filled and it is this point
+ I want to see broken to get into the stacked demand below. This happens
+ as you can see at the circle, and the entry is simply a supply/QM
+level.
+
+You can see now that price returned to the last base in the stacked demand, which is also a flip zone and took off very nicely.
+
+I hope this answers both your queries!
+
+Peds
+FA: سلام Hoto.
+
+نقطه‌های 1، 2 و 3 تو همه بخشی از تقاضای انباشته هستند. به‌طور کلی وقتی قیمت وارد تقاضای انباشته می‌شود، معمولاً می‌خواهد تا سطح بالا یا پایین آن برود، در این حالت سطح پایین. این مثل فشردگی نیست، چون فشردگی سفارش‌های باقی‌مانده را از بین می‌برد در حالی که تقاضای انباشته هنوز سفارش‌هایی دارد که پنهان مانده‌اند. ولی اگر منطقی فکر کنی، رسیدن به ارزان‌ترین یا گران‌ترین سطح برای معامله سود بیشتری دارد...
+
+...از بیس 1 می‌بینی که قیمت راه می‌افتد و برمی‌گردد بیس را دوباره تست کند، این سفارش‌ها حالا پر شده‌اند و همین نقطه است که می‌خواهم شکسته شدنش را ببینم تا وارد تقاضای انباشتهٔ پایین‌تر شوم. این اتفاق همان‌طور که در دایره می‌بینی رخ می‌دهد، و ورود به‌سادگی یک سطح عرضه/QM است.
+
+حالا می‌بینی که قیمت به آخرین بیس در تقاضای انباشته برگشت، که آن هم یک ناحیهٔ فلیپ است و خیلی خوب راه افتاد.
+
+امیدوارم این جواب هر دو سؤالت باشد!
+
+Peds
+
+### pedini_p9_4
+EN: Pedini wrote: Hey Hoto.
+
+Your points 1, 2 and 3 are all part of the stacked demand. In general
+when price gets into stacked demand, it normally wants to go through it
+to the top or bottom level, in this case the bottom level. It is not the
+ same as compression as compression takes out remaining orders while
+stacked demand still have orders hiding away. But if you think about it
+logically it will be more profitable to get to the cheapest or most
+expensive level to trade from...
+
+...you can see from base 1 that price takes off and comes back to
+re-test the base, these orders have now been filled and it is this point
+ I want to see broken to get into the stacked demand below. This happens
+ as you can see at the circle, and the entry is simply a supply/QM
+level.
+
+You can see now that price returned to the last base in the stacked demand, which is also a flip zone and took off very nicely.
+
+I hope this answers both your queries!
+
+Peds
+
+Yeah it does help. So really PAZ's are just periods of consolidation
+that are either CP or stacked orders. If there is a large pole, than
+that is a PAZ by itself. So its almost like you look at the blocks of
+price in between the LQ spikes, right? I have attached a chart below as
+an example. The blue rectangles are all PAZ's. From here you would look
+inside of them to see if there is CP or stacked orders. I marked the
+zones with what I think they are. So what do you do with the areas in
+between the zones I marked?
+
+Thanks,
+
+H
+FA: Pedini نوشت: سلام Hoto.
+
+نقطه‌های 1، 2 و 3 تو همه بخشی از تقاضای انباشته هستند. به‌طور کلی وقتی قیمت وارد تقاضای انباشته می‌شود، معمولاً می‌خواهد تا سطح بالا یا پایین آن برود، در این حالت سطح پایین. این مثل فشردگی نیست، چون فشردگی سفارش‌های باقی‌مانده را از بین می‌برد در حالی که تقاضای انباشته هنوز سفارش‌هایی دارد که پنهان مانده‌اند. ولی اگر منطقی فکر کنی، رسیدن به ارزان‌ترین یا گران‌ترین سطح برای معامله سود بیشتری دارد...
+
+...از بیس 1 می‌بینی که قیمت راه می‌افتد و برمی‌گردد بیس را دوباره تست کند، این سفارش‌ها حالا پر شده‌اند و همین نقطه است که می‌خواهم شکسته شدنش را ببینم تا وارد تقاضای انباشتهٔ پایین‌تر شوم. این اتفاق همان‌طور که در دایره می‌بینی رخ می‌دهد، و ورود به‌سادگی یک سطح عرضه/QM است.
+
+حالا می‌بینی که قیمت به آخرین بیس در تقاضای انباشته برگشت، که آن هم یک ناحیهٔ فلیپ است و خیلی خوب راه افتاد.
+
+امیدوارم این جواب هر دو سؤالت باشد!
+
+Peds
+
+بله کمک کرد. پس واقعاً PAZها فقط دوره‌های تثبیت هستند که یا CP‌اند یا سفارش‌های انباشته. اگر یک میلهٔ بزرگ باشد، آن خودش یک PAZ است. پس تقریباً مثل این است که به بلوک‌های قیمت بین اسپایک‌های LQ نگاه می‌کنی، درست است؟ یک نمودار به‌عنوان مثال پایین پیوست کردم. مستطیل‌های آبی همه PAZ هستند. از اینجا باید داخلشان را نگاه کنی تا ببینی CP هست یا سفارش‌های انباشته. ناحیه‌ها را با آنچه فکر می‌کنم هستند علامت زدم. پس با ناحیه‌های بین ناحیه‌هایی که علامت زدم چه می‌کنی؟
+
+ممنون،
+
+H
+
+### pedini_p9_5
+EN: Hey man,
+
+I have added into your charts how I would draw the PAZ's. I havn't got
+much to say about the areas in between other than they look like poles
+after reacting to ftr or PAZ levels.
+
+Peds
+FA: سلام رفیق،
+
+روی نمودارهایت کشیده‌ام که خودم PAZها را چطور می‌کشم. دربارهٔ ناحیه‌های بینشان چیز زیادی ندارم بگویم جز اینکه بعد از واکنش به سطوح FTR یا PAZ شبیه میله به نظر می‌رسند.
+
+Peds
+
+### pedini_p9_6
+EN: I'm quite afraid my girlfriend is going to start looking like a PAZ, I'm seeing them everywhere!
+FA: می‌ترسم دوست‌دخترم کم‌کم شبیه PAZ شود، همه‌جا آن‌ها را می‌بینم!
+
+### pedini_p9_7
+EN: I'm quite afraid my girlfriend is going to start looking like a PAZ, I'm seeing them everywhere!
+FA: می‌ترسم دوست‌دخترم کم‌کم شبیه PAZ شود، همه‌جا آن‌ها را می‌بینم!
+
+### pedini_p9_8
+EN: The weekend is the best time to go over your charts without the noise of an active market.
+
+These are the type of things I look for.
+
+Peds
+FA: آخر هفته بهترین وقت برای مرور نمودارها بدون شلوغی یک بازار فعال است.
+
+این‌ها از آن چیزهایی است که دنبالشان می‌گردم.
+
+Peds
+
+### pedini_p9_9
+EN: Pedini wrote: Hey man,
+
+I have added into your charts how I would draw the PAZ's. I havn't got
+much to say about the areas in between other than they look like poles
+after reacting to ftr or PAZ levels.
+
+Peds
+
+Hey Peds,
+
+Alright, I will admit this is a challenging time for me mentally. I have
+ been looking at your boxes you marked on my chart. I think I figured
+out how you marked some PAZ's, but then there are others I can't figure
+out. Can you help me see how you marked them? The one that confuses me
+the most is the one in the middle of my chart at the top just above the
+12:00 time. It looks like you only marked 1 candle.
+
+Thanks,
+
+H
+FA: Pedini نوشت: سلام رفیق،
+
+روی نمودارهایت کشیده‌ام که خودم PAZها را چطور می‌کشم. دربارهٔ ناحیه‌های بینشان چیز زیادی ندارم بگویم جز اینکه بعد از واکنش به سطوح FTR یا PAZ شبیه میله به نظر می‌رسند.
+
+Peds
+
+سلام Peds،
+
+بسیار خوب، اعتراف می‌کنم این برای من از نظر ذهنی زمان چالشی است. داشتم مستطیل‌هایی را که روی نمودارم علامت زده بودی نگاه می‌کردم. فکر می‌کنم فهمیدم بعضی PAZها را چطور علامت زدی، ولی بعضی دیگر را نمی‌فهمم. می‌توانی کمکم کنی ببینم چطور علامتشان زدی؟ آن که بیشتر از همه گیجم می‌کند، آن یکی در وسط نمودارم بالای ساعت 12:00 است. به نظر می‌رسد فقط 1 کندل را علامت زده‌ای.
+
+ممنون،
+
+H
+
+### pedini_p9_10
+EN: The major ones I look for are areas of compression, I have been taught
+ to look for distinct areas of price action. What I do personally is
+make sure in those areas of price action, there are not major levels of
+flip zones. I want to be confident that price is going to go through
+smoothly (after a retrace of course).
+
+I've re-added the chart, hopefully the unclear levels are a little clearer to you now.
+FA: آن‌هایی که مهم‌اند ناحیه‌های فشردگی هستند، یاد گرفته‌ام دنبال ناحیه‌های مشخصی از پرایس اکشن بگردم. کاری که خودم می‌کنم این است که مطمئن شوم در آن ناحیه‌های پرایس اکشن، سطح مهمی از فلیپ زون وجود ندارد. می‌خواهم مطمئن باشم قیمت روان از آن عبور می‌کند (البته بعد از یک پولبک).
+
+نمودار را دوباره اضافه کردم، امیدوارم سطوح نامشخص حالا کمی برایت واضح‌تر شده باشد.
+
+### pedini_p9_11
+EN: Pedini wrote: The major ones I
+look for are areas of compression, I have been taught to look for
+distinct areas of price action. What I do personally is make sure in
+those areas of price action, there are not major levels of flip zones. I
+ want to be confident that price is going to go through smoothly (after a
+ retrace of course).
+
+I've re-added the chart, hopefully the unclear levels are a little clearer to you now.
+
+Thanks Peds! I am going to work with this tomorrow and post a chart with
+ another go at marking the levels. Clearly I just need to work with CP
+some more. I clearly saw that some of your zones were CP, but others I
+could not see. I am surprised to see that you changed time frames to
+look at the one level though.
+
+Thanks again,
+
+H
+FA: Pedini نوشت: آن‌هایی که مهم‌اند ناحیه‌های فشردگی هستند، یاد گرفته‌ام دنبال ناحیه‌های مشخصی از پرایس اکشن بگردم. کاری که خودم می‌کنم این است که مطمئن شوم در آن ناحیه‌های پرایس اکشن، سطح مهمی از فلیپ زون وجود ندارد. می‌خواهم مطمئن باشم قیمت روان از آن عبور می‌کند (البته بعد از یک پولبک).
+
+نمودار را دوباره اضافه کردم، امیدوارم سطوح نامشخص حالا کمی برایت واضح‌تر شده باشد.
+
+ممنون Peds! فردا با این کار می‌کنم و یک نمودار با تلاش دوباره برای علامت‌زدن سطوح می‌گذارم. واضح است که فقط باید بیشتر با CP کار کنم. کاملاً دیدم که بعضی از ناحیه‌هایت CP بودند، ولی بعضی دیگر را نمی‌توانستم ببینم. تعجب می‌کنم که برای دیدن آن یک سطح، تایم‌فریم را عوض کردی.
+
+باز هم ممنون،
+
+H
+
+### pedini_p9_12
+EN: I looked for this entry after the nice FO on H4. My target came really close, but I was well asleep when that happened!
+FA: دنبال این ورود بعد از FO خوب روی H4 گشتم. هدفم خیلی نزدیک شد، ولی آن موقع حسابی خواب بودم!
+
+### pedini_p9_13
+EN: very nice trade Peds, ~^o^~ , YOU THE MAN!!!!
+FA: معاملهٔ خیلی خوبی بود Peds، ~^o^~ ، تو مرد این کاری!!!!
+
+### pedini_p9_14
+EN: Bravo,,, nice catch Peds.... :)
+FA: Bravo,,, گرفتن خوبی بود Peds.... :)
+
+### pedini_p9_15
+EN: We all have losers. It's knowing when we have a loser and cutting the
+trade that is most important. Don't just hope the trade will go in your
+direction, if it doesn't go to your analysis, get out and look for
+another opportunity.
+FA: همه‌مان معاملات بازنده داریم. مهم‌ترین چیز این است که بدانیم بازنده شده‌ایم و معامله را ببندیم. فقط امیدوار نباش که معامله به نفع تو پیش برود، اگر برخلاف تحلیلت رفت، بیرون بیا و دنبال فرصت دیگری بگرد.
+
+### pedini_p9_16
+EN: Hey Pedini I'm a fan of yours. Thanks for all that you show, its a
+huge help. Recently you have shown a lot on PAZ, and have helped my
+understanding tremendously, but I am still a little fuzzy. Here is a
+chart trying to show my fuzziness.
+
+When price is compressing it creates little levels on the way up or
+down. Its easy to draw your PAZ from the start of CP, but as in this
+case, the other side could just keep being adjusted upward as price
+forms new levels. At what point do you say THIS is the one level?
+FA: سلام Pedini، من از طرفدارهای تو هستم. ممنون برای همه‌چیز که نشان می‌دهی، کمک بزرگی است. اخیراً دربارهٔ PAZ خیلی نشان داده‌ای و فهم من را خیلی بهتر کرده، ولی هنوز کمی گیجم. این نمودار تلاشی است که گیجی‌ام را نشان دهد.
+
+وقتی قیمت فشرده می‌شود، در مسیر بالا یا پایین سطوح کوچکی می‌سازد. کشیدن PAZ از شروع CP آسان است، ولی مثل این حالت، طرف دیگر ممکن است هر بار بالاتر تنظیم شود وقتی قیمت سطوح تازه می‌سازد. از کجا می‌گویی همین یک سطح است؟
+
+### pedini_p9_17
+EN: Shit yeh Hotrod!
+
+I love that you are getting something out of my thread it really
+encourages me to keep active. Here is a marked up chart for the
+compression PAZ. Remember there are plenty of types of PAZ's to work
+with and compression is just a part of it.
+
+See my arrow, there is still demand here, for us to break into the zone,
+ we need to break through the last demand, then we can look for an
+entry. Essentially we want to be sure that the compression is going to
+work.
+
+Hope this is of help!
+
+Peds
+FA: آره دیگه Hotrod!
+
+خیلی دوست دارم که از تاپیکم چیزی گیرت می‌آید، واقعاً تشویقم می‌کند که فعال بمانم. این هم نمودار علامت‌گذاری‌شده برای PAZ فشردگی. یادت باشد انواع زیادی PAZ برای کار کردن وجود دارد و فشردگی فقط بخشی از آن است.
+
+فلش من را ببین، اینجا هنوز تقاضا هست، برای اینکه به ناحیه بشکنیم باید آخرین تقاضا را بشکنیم، بعد می‌توانیم دنبال ورود بگردیم. در واقع می‌خواهیم مطمئن باشیم که فشردگی جواب می‌دهد.
+
+امیدوارم مفید باشد!
+
+Peds
+
+### pedini_p9_18
+EN: Ahhhh....sweet sweet eureka comes yet again...Thank you!
+
+So yes PAZ is any price action or price structure on the chart that
+shows all opposing levels on the chart have been taken out at some
+point, and price should cut right through to the last untouched level.
+Compression is the simplest to understand because the last sentence is
+all compression is about. But PAZ could take on an infinite number of
+looks as long as it shows the remaining orders in all opposing levels
+have been filled.
+
+But the PAZ can never include the most recent level because you would
+not expect price to just cut right through it. So you mark all the
+violated levels up to the most recent, then when the most recent gets
+violated it shows that the buyers/sellers are no longer interested in
+holding price up/down. Thats when you enter on what ever reaction that
+most recent level caused.
+
+Here are 3 charts showing what I got from you. Thank you so much!
+FA: آهان.... اورکای شیرین شیرین باز هم رسید... ممنون!
+
+پس بله PAZ هر پرایس اکشن یا ساختار قیمتی روی نمودار است که نشان دهد همهٔ سطوح مخالف روی نمودار در نقطه‌ای از بین رفته‌اند، و قیمت باید مستقیم تا آخرین سطح دست‌نخورده رد شود. فشردگی ساده‌ترین برای فهمیدن است چون جملهٔ آخر تمام ماجرای فشردگی است. ولی PAZ می‌تواند بی‌نهایت شکل بگیرد تا وقتی نشان دهد سفارش‌های باقی‌مانده در همهٔ سطوح مخالف پر شده‌اند.
+
+ولی PAZ هیچ‌وقت نمی‌تواند آخرین سطح را شامل شود چون انتظار نداری قیمت مستقیم از آن رد شود. پس همهٔ سطوح نقض‌شده را تا جدیدترین علامت می‌زنی، بعد وقتی جدیدترین نقض شد نشان می‌دهد خریداران/فروشندگان دیگر علاقه‌ای به نگه‌داشتن قیمت بالا/پایین ندارند. آن‌وقت روی هر واکنشی که آن سطح جدید ایجاد کرد وارد می‌شوی.
+
+این هم 3 نمودار که نشان می‌دهد از تو چه گرفتم. خیلی ممنون!
+
+### pedini_p9_19
+EN: Hope you don't mind, but I made another chart trying my hand at the PAZ's on the recent move up on E/U. How did I do?
+FA: امیدوارم ناراحت نشوی، ولی یک نمودار دیگر هم ساختم و روی حرکت اخیر صعودی E/U دستی به PAZها زدم. چطور بود؟
+
+### pedini_p9_20
+EN: Looks pretty good. If you are just drawing compression PAZ's on the H4, this is how I would draw them.
+FA: خیلی خوب به نظر می‌رسد. اگر فقط PAZهای فشردگی را روی H4 می‌کشی، من این‌طور می‌کشمشان.
+
+### pedini_p9_21
+EN: May I ask why you don't include poles? Is it because there could be ignored levels to the left?
+FA: می‌توانم بپرسم چرا میله‌ها را شامل نمی‌کنی؟ به این خاطر است که ممکن است سطوح نادیده‌گرفته‌شده‌ای در سمت چپ باشد؟
+
+### pedini_p9_22
+EN: I don't include the poles because the end of the PAZs usually act as
+flag limits which we know can hold up price. I have edited my previous
+post to show you.
+FA: میله‌ها را شامل نمی‌کنم چون انتهای PAZها معمولاً نقش محدودهٔ FL را دارد که می‌دانیم می‌تواند قیمت را نگه دارد. پست قبلی‌ام را ویرایش کردم تا نشانت بدهم.
+
+### pedini_p9_23
+EN: Pedini wrote: I don't include
+the poles because the end of the PAZs usually act as flag limits which
+we know can hold up price. I have edited my previous post to show you.
+
+Ahhh...
+
+A eureka moment followed by a duh moment.
+
+Thank you Pedini. When I first had my eureka moment about engulfing
+showing the way price wants to go, I read someone's reply that said to
+check out your journal. So I did and have benefitted greatly in
+understanding how to take advantage of this fact. Your charts are
+simple and give me something to strive towards. I have posted some
+charts around the forum and I tend to get very detailed and wordy, which
+ effects the way I approach trades and also plants seeds for doubt.
+Your examples have just the right info and that is what I am going to
+shoot for.
+FA: Pedini نوشت: میله‌ها را شامل نمی‌کنم چون انتهای PAZها معمولاً نقش محدودهٔ FL را دارد که می‌دانیم می‌تواند قیمت را نگه دارد. پست قبلی‌ام را ویرایش کردم تا نشانت بدهم.
+
+آهان...
+
+یک لحظهٔ اورکا و بعدش یک لحظهٔ «خب معلومه».
+
+ممنون Pedini. وقتی اولین بار لحظهٔ اورکایم را دربارهٔ اینکه اینگالف نشان می‌دهد قیمت کجا می‌خواهد برود داشتم، جواب کسی را خواندم که می‌گفت ژورنالت را ببین. پس دیدم و در فهم اینکه چطور از این واقعیت استفاده کنم خیلی سود بردم. نمودارهایت ساده‌اند و چیزی به من می‌دهند که برایش تلاش کنم. چند نمودار در فروم گذاشته‌ام و معمولاً خیلی مفصل و پرحرف می‌شوم، که روی رویکردم به معاملات اثر می‌گذارد و بذر شک هم می‌کارد. مثال‌های تو دقیقاً اطلاعات لازم را دارند و من هم می‌خواهم همین را هدف بگیرم.
+
+### pedini_p9_25
+EN: Hello, Pedini
+
+You have an amazing grasp of PAZs!
+
+Have you ever thought of writing an article about PAZ for Markepedia?
+
+Keep posting your PAZ trades, mate, they are gold!
+FA: سلام، Pedini
+
+درک فوق‌العاده‌ای از PAZها داری!
+
+هیچ‌وقت فکر کرده‌ای مقاله‌ای دربارهٔ PAZ برای Markepedia بنویسی؟
+
+رفیق، باز هم معاملات PAZت را بگذار، طلا هستند!

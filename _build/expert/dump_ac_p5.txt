@@ -1,0 +1,246 @@
+### aboutcompression_p5_126 hash=3c2cfea4acdbd997baa500dbe1ac4b42b1cd1161
+EN>>
+Hello, Mel The server is telling me my attachments are too big. Can you please let me know how to post small-sized charts (small in terms of bytes). Thanks in advance!
+FA>>
+سلام Mel، سرور می‌گوید پیوست‌هایم زیادی بزرگ‌اند. می‌شود لطفاً بگویید چطور چارت‌های کوچک (کوچک از نظر بایت) بگذارم؟ پیشاپیش ممنون!
+
+### aboutcompression_p5_127 hash=fe3196ef951b9cfe016b977f4dd9f631fd538cf6
+EN>>
+Hi ttfreitas,
+
+attachments can't be higher than 150KB, and, if you use other extension than jpg, can't be wider than 1500px.
+FA>>
+سلام ttfreitas،
+
+پیوست‌ها نباید از 150KB بزرگ‌تر باشند، و اگر پسوندی غیر از jpg استفاده می‌کنی، عرضشان نباید بیشتر از 1500px باشد.
+
+### aboutcompression_p5_128 hash=0bb06155d9f10f32a4f8bdd70d838399749f4ba5
+EN>>
+Hi tt,
+
+I had the same issue, last time I wanted to post a chart. What I did was this: -save the chart as I normally would on my desktop -Then opened "Paint" -Opened the saved chart from there -And finally saved it as a JPEG picture and it finally worked for me this way
+
+Mel
+FA>>
+سلام tt،
+
+من هم دفعهٔ قبل که می‌خواستم چارت بگذارم همین مشکل را داشتم. کاری که کردم این بود: -چارت را مثل همیشه روی دسکتاپم ذخیره کردم -بعد «Paint» را باز کردم -فایل ذخیره‌شده را از همان‌جا گشودم -و در آخر به‌صورت JPEG ذخیره‌اش کردم و بالاخره این‌طوری جواب داد
+
+Mel
+
+### aboutcompression_p5_131 hash=a307e2ed197a40944443ac8bbb3b591a1ce92850
+EN>>
+Hi tt,
+
+Nice charts,I have marked some stuff on your charts. Cheers, Mel
+FA>>
+سلام tt،
+
+چارت‌های قشنگی هستند، روی چارت‌هایت چند چیز علامت زده‌ام. شاد باش، Mel
+
+### aboutcompression_p5_132 hash=585f44f154f9c2c0f9cda2e515e9cbff41fb7c3a
+EN>>
+Here goes another compression in the AUD/JPY 4H TF.
+FA>>
+یک فشرده‌سازی دیگر، این بار در AUD/JPY تایم‌فریم 4H.
+
+### aboutcompression_p5_133 hash=84dac6b85ecf00e49aa72f2a32f6492a9e1972af
+EN>>
+Hi tt,
+
+Yes, I see some cp going on on your highlighted area, however there some other cp on your charts. Can you point it out? Mel
+FA>>
+سلام tt،
+
+بله، در ناحیهٔ هایلایت‌شده‌ات کمی cp می‌بینم، اما روی چارت‌هایت cpهای دیگری هم هست. می‌توانی نشانش بدهی؟ Mel
+
+### aboutcompression_p5_134 hash=224625841472b037a78d30744b06903355cdd196
+EN>>
+Thanks for your replies, Mel. The CP area that you refer to...could it be the area inside the circle? Cheers
+FA>>
+ممنون از جواب‌هایت Mel. آن ناحیهٔ CP که می‌گویی... منظورت می‌تواند ناحیهٔ داخل دایره باشد؟ شاد باش
+
+### aboutcompression_p5_135 hash=f0c237032d6bc990abbb362c2914a6a7dcc10b39
+EN>>
+Here is another CP zone identified. The first chart corresponds to the 30M TF of the AUDUSD. Correct me if I'm wrong but I believe price needs to retest the green zone before taking off. Which it did, by the way, highlighted by the blue ellipse. Would that be a correct assessment?
+
+The second chart is the just the corresponding 4H chart indicating that the demand zone rests on the highest price level in 3 months.
+FA>>
+این هم یک ناحیهٔ CP دیگر که شناسایی کردم. چارت اول مربوط به تایم‌فریم 30M جفت‌ارز AUDUSD است. اگر اشتباه می‌کنم اصلاحم کن، اما فکر می‌کنم قیمت باید قبل از پرواز، ناحیهٔ سبز را ریتست کند. که اتفاقاً همین کار را هم کرد، با بیضی آبی هایلایت شده. این ارزیابی درست است؟
+
+چارت دوم فقط چارت 4H متناظر است که نشان می‌دهد ناحیهٔ تقاضا روی بالاترین سطح قیمت در 3 ماه گذشته قرار گرفته.
+
+### aboutcompression_p5_136 hash=6ef90cd5487c058c06b336ead21a18b845ed9eb3
+EN>>
+ttfreitas wrote: Thanks for your replies, Mel. The CP area that you refer to...could it be the area inside the circle? Cheers
+
+TT,
+
+Yes, I have marked some things on the chart here... Look for compression at specific points. Decision point, supply/demand areas. Have a nice day, Mel
+FA>>
+ttfreitas نوشت: ممنون از جواب‌هایت Mel. آن ناحیهٔ CP که می‌گویی... منظورت می‌تواند ناحیهٔ داخل دایره باشد؟ شاد باش
+
+TT،
+
+بله، روی چارت اینجا چند چیز علامت زده‌ام... دنبال فشرده‌سازی در نقاط مشخص بگرد. نقطهٔ تصمیم، نواحی عرضه/تقاضا. روز خوبی داشته باشی، Mel
+
+### aboutcompression_p5_137 hash=5581cdcdd1b3fb84901f7cb1758596556149f5d4
+EN>>
+Thanks, Mel! With respect to the comment that you made about price compressing to the upside before reaching Demand: why does that indicate that price will brake through demand?
+
+In regards to the chart below, it's the USDCAD daily. There seems to be a few Demand and supply zones plus a few compression areas but it's a bit confusing. Do you mind helping me out analysing this chart? Thanks in advance!
+FA>>
+ممنون Mel! دربارهٔ آن حرفی که زدی، اینکه قیمت قبل از رسیدن به تقاضا به سمت بالا فشرده می‌شود: چرا این نشان می‌دهد که قیمت تقاضا را می‌شکند؟
+
+دربارهٔ چارت زیر، چارت روزانهٔ USDCAD است. به نظر می‌رسد چند ناحیهٔ تقاضا و عرضه به‌علاوهٔ چند فشرده‌سازی هست، اما کمی گیج‌کننده است. می‌شود در تحلیل این چارت کمکم کنی؟ پیشاپیش ممنون!
+
+### aboutcompression_p5_138 hash=1de7d6398597a0d9c515051ac6908653d30b1ac7
+EN>>
+I split the daily chart in two because the file was too big. I hope it doesn't hinder your analysis. Cheers:cheer:
+FA>>
+چارت روزانه را به دو تکه تقسیم کردم چون فایل خیلی بزرگ بود. امیدوارم مزاحم تحلیلت نشود. شاد باش:cheer:
+
+### aboutcompression_p5_139 hash=1da91b2fcd9cb50b3205df9e3cd15d2b483f9562
+EN>>
+ttfreitas wrote: Thanks, Mel! With respect to the comment that you made about price compressing to the upside before reaching Demand: why does that indicate that price will brake through demand?
+
+TT,
+
+Here, price did bounce from the demand level, but in wich fashion? It bounced up in a compressed way. Since we also had a previous demand level that got broken (see chart), you know that you have a decison that have been made there.
+
+In other words, we have a demand level but also a previous decision point that had been made right above it. Since price traded up to the decision point in a compressed way, we can expect that it will bounce back down from this decision point. If it bounce back down like it did, you also have to take into consideration the fact that the demand (that I pointed out) isn't fresh anymore... We can not know 100% that there are no buy orders left there anymore, untill this demand breaks to the downside.
+
+Now, fresh demand and supply zones is another topic,I believe it's up to each trader to decide for him/herself wether he/she wants to trade every possible unfresh zones or not.
+
+Does that makes sence to you?
+FA>>
+ttfreitas نوشت: ممنون Mel! دربارهٔ آن حرفی که زدی، اینکه قیمت قبل از رسیدن به تقاضا به سمت بالا فشرده می‌شود: چرا این نشان می‌دهد که قیمت تقاضا را می‌شکند؟
+
+TT،
+
+اینجا، قیمت از سطح تقاضا برگشت، اما به چه شکلی؟ به شکلی فشرده بالا رفت. چون یک سطح تقاضای قبلی هم داشتیم که شکسته شد (چارت را ببین)، می‌دانی که آنجا یک تصمیم گرفته شده است.
+
+به عبارت دیگر، یک سطح تقاضا داریم، اما یک نقطهٔ تصمیم قبلی هم داریم که درست بالای آن گرفته شده. چون قیمت به شکل فشرده تا نقطهٔ تصمیم بالا رفت، می‌توانیم انتظار داشته باشیم که از همین نقطهٔ تصمیم دوباره به پایین برگردد. اگر مثل قبل به پایین برگشت، باید این را هم در نظر بگیری که تقاضایی که اشاره کردم دیگر تازه نیست... تا وقتی این تقاضا به سمت پایین نشکند، نمی‌توانیم با اطمینان 100% بدانیم که دیگر هیچ سفارش خریدی آنجا نمانده.
+
+حالا، نواحی عرضه و تقاضای تازه بحث دیگری است، فکر می‌کنم هر تریدر باید خودش تصمیم بگیرد که می‌خواهد روی هر ناحیهٔ غیرتازهٔ ممکن ترید کند یا نه.
+
+این برایت منطقی است؟
+
+### aboutcompression_p5_140 hash=f6211fb32e6e8748836d5e7a848507f32073c0a8
+EN>>
+ttfreitas wrote: Thanks, Mel! Do you mind helping me out analysing this chart? Thanks in advance!
+
+Here you go TT...
+FA>>
+ttfreitas نوشت: ممنون Mel! می‌شود در تحلیل این چارت کمکم کنی؟ پیشاپیش ممنون!
+
+بفرما TT...
+
+### aboutcompression_p5_141 hash=9b165baff1841265e80b7d6319c5c248ce06a97a
+EN>>
+First of all thanks for the analysis, can I ask you when you write This= Taken out, do you mean taking out the previous Supply/Demand level? Thank in advance!!
+FA>>
+اول از همه ممنون از تحلیل، می‌توانم بپرسم وقتی می‌نویسی This= Taken out، منظورت برداشتن سطح قبلی عرضه/تقاضاست؟ پیشاپیش ممنون!!
+
+### aboutcompression_p5_142 hash=a94ff80211838bcb1641c4a3a9c789e36b26b28f
+EN>>
+Acts 28 wrote: First of all thanks for the analysis, can I ask you when you write This= Taken out, do you mean taking out the previous Supply/Demand level? Thank in advance!!
+
+yes, is what she mean; in the picture above taking out = price fill the supply orders left at the prevoious SP zone. take a look here
+FA>>
+Acts 28 نوشت: اول از همه ممنون از تحلیل، می‌توانم بپرسم وقتی می‌نویسی This= Taken out، منظورت برداشتن سطح قبلی عرضه/تقاضاست؟ پیشاپیش ممنون!!
+
+بله، منظورش همین است؛ در تصویر بالا taking out یعنی قیمت سفارش‌های عرضه‌ای را که در ناحیهٔ SP قبلی مانده‌اند پر می‌کند. اینجا را ببین
+
+### aboutcompression_p5_143 hash=1bed925afbe5e3cfe803e75e6bbaf24d4bca45b4
+EN>>
+Thank you for your reply and help!
+FA>>
+ممنون از جواب و کمکت!
+
+### aboutcompression_p5_144 hash=797de63023610eedcf9b4a623643ce7e0d0778b9
+EN>>
+whiteout wrote:
+
+Acts 28 wrote: First of all thanks for the analysis, can I ask you when you write This= Taken out, do you mean taking out the previous Supply/Demand level? Thank in advance!!
+
+yes, is what she mean; in the picture above taking out = price ll the supply orders left at the prevoious SP zone. take a look here
+
+Sorry Acts,
+
+I am just back home, couldn't answer earlier. White is right, this is what I meant.
+
+Thanks Witheout for your answer.
+
+Mel
+FA>>
+whiteout نوشت:
+
+Acts 28 نوشت: اول از همه ممنون از تحلیل، می‌توانم بپرسم وقتی می‌نویسی This= Taken out، منظورت برداشتن سطح قبلی عرضه/تقاضاست؟ پیشاپیش ممنون!!
+
+بله، منظورش همین است؛ در تصویر بالا taking out یعنی قیمت سفارش‌های عرضه‌ای را که در ناحیهٔ SP قبلی مانده‌اند پر می‌کند. اینجا را ببین
+
+ببخش Acts،
+
+تازه به خانه رسیدم، زودتر نمی‌توانستم جواب بدهم. White درست می‌گوید، منظورم همین بود.
+
+ممنون Witheout از جوابت.
+
+Mel
+
+### aboutcompression_p5_145 hash=7dc7118926c08a6220635e2959b4761df3dc66af
+EN>>
+That's ok Mel, thank you for the analysis!
+FA>>
+اشکالی ندارد Mel، ممنون از تحلیل!
+
+### aboutcompression_p5_146 hash=281dfe910feeec2025f66fb3e6cc3a557d47d2a1
+EN>>
+I've tried to identify some compression on some charts. I've also annotated these charts, showing the supply/demand zones as well as the compression, as well as the turning points and maybe potential target zones.
+
+I think my analysis is half baked, but feel free to comment.
+
+Regards, spring
+FA>>
+سعی کرده‌ام روی چند چارت فشرده‌سازی پیدا کنم. چارت‌ها را هم یادداشت‌گذاری کرده‌ام و نواحی عرضه/تقاضا و همچنین فشرده‌سازی، و نقاط برگشت و شاید نواحی تارگت بالقوه را نشان داده‌ام.
+
+فکر می‌کنم تحلیلم نصفه‌نیمه است، اما راحت نظرت را بگو.
+
+ارادتمند، spring
+
+### aboutcompression_p5_147 hash=090cd8138bacab0d03091182d0d781dd9bf67cfd
+EN>>
+Once again, I've added some annotated charts showing supply/demand, turning points, some indecision candles and potential target zones.
+
+As i'm new to this, my interpretation might be wayyy of course.... but feel free to point me in the right direction.
+
+Best Regards, spring
+FA>>
+یک بار دیگر چند چارت یادداشت‌گذاری‌شده گذاشتم که عرضه/تقاضا، نقاط برگشت، چند کندل بلاتصمیم و نواحی تارگت بالقوه را نشان می‌دهد.
+
+چون تازه‌کارم، تفسیرم ممکن است خیلی خیلی بیراه باشد.... اما راحت راهنمایی‌ام کن که کدام طرف درست است.
+
+با بهترین احترام، spring
+
+### aboutcompression_p5_148 hash=e416a6e6b9a7e3872367c23b2bd2b7422b7b27e4
+EN>>
+Hi Spring, welcome on board. Ok, let's start from the last. GBPCHF, considering the blue triangle, why you think is CP? Demand is taken out for you? When?
+FA>>
+سلام Spring، خوش آمدی. باشد، از آخری شروع کنیم. GBPCHF، با توجه به مثلث آبی، چرا فکر می‌کنی CP است؟ تقاضا برایت برداشته شده؟ کِی؟
+
+### aboutcompression_p5_149 hash=38f72fa456989397d0876096932324b617a89f52
+EN>>
+Scribed was out for maintenance going to sleep now Thanks
+FA>>
+Scribed برای تعمیرات از دسترس خارج بود. الان می‌روم بخوابم. ممنون
+
+### aboutcompression_p5_150 hash=7b2cd69f4f26a489b7c1963ffcaeca9d211611d6
+EN>>
+The zones marked as compression are shown. I have another chart I am working on and will submit later this week. I am set to take trade at zone that has been tested once? with a modest take profit.
+
+Compression
+FA>>
+نواحی‌ای که به‌عنوان فشرده‌سازی علامت زده شده‌اند، نشان داده شده‌اند. یک چارت دیگر هم دارم که رویش کار می‌کنم و اواخر همین هفته می‌گذارم. آماده‌ام که روی ناحیه‌ای ترید بگیرم که یک بار تست شده؟ با یک تارگت معقول.
+
+فشرده‌سازی
+

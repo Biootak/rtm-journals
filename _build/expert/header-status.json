@@ -1,0 +1,679 @@
+{
+ "dplocation": {
+  "pages": 7,
+  "checked": 0,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T02:17:48"
+ },
+ "maxpain": {
+  "pages": 10,
+  "checked": 5,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T02:17:49"
+ },
+ "enquiry": {
+  "pages": 19,
+  "checked": 0,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T02:17:51"
+ },
+ "rinehartfl": {
+  "pages": 21,
+  "checked": 4,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T02:36:04"
+ },
+ "bill": {
+  "pages": 21,
+  "checked": 10,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T02:17:57"
+ },
+ "sdcleared": {
+  "pages": 24,
+  "checked": 14,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T02:17:58"
+ },
+ "jc": {
+  "pages": 25,
+  "checked": 6,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T02:18:00"
+ },
+ "knowledgeismoney": {
+  "pages": 31,
+  "checked": 12,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T02:18:02"
+ },
+ "fakeouts": {
+  "pages": 37,
+  "checked": 14,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T02:18:03"
+ },
+ "cppaz": {
+  "pages": 42,
+  "checked": 12,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T02:18:05"
+ },
+ "pg": {
+  "pages": 61,
+  "checked": 10,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T02:18:05"
+ },
+ "cancan": {
+  "pages": 39,
+  "checked": 6,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T02:18:07"
+ },
+ "flaglimitshydra": {
+  "pages": 39,
+  "checked": 2,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T02:18:08"
+ },
+ "ignoredlevel": {
+  "pages": 55,
+  "checked": 54,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T02:18:12"
+ },
+ "its": {
+  "pages": 70,
+  "checked": 161,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T02:18:13"
+ },
+ "academylite2": {
+  "pages": 72,
+  "checked": 103,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T01:25:42"
+ },
+ "ftrpaz": {
+  "pages": 77,
+  "checked": 56,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T01:25:46"
+ },
+ "bsz": {
+  "pages": 80,
+  "checked": 18,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T01:26:19"
+ },
+ "whynotwork": {
+  "pages": 82,
+  "checked": 65,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T01:26:32"
+ },
+ "dissection": {
+  "pages": 231,
+  "checked": 28,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T01:26:45"
+ },
+ "academylite1": {
+  "pages": 91,
+  "checked": 53,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T01:27:03"
+ },
+ "capnp": {
+  "pages": 188,
+  "checked": 130,
+  "missing": 1,
+  "examples": [
+   {
+    "file": "Cap_n P_s - S_D Momo and Pointy Places - Page 5 - RTM Community.pdf",
+    "page": 35,
+    "y": 93.9,
+    "text": "Cap'n P's - S&D Momo and Pointy Places"
+   }
+  ],
+  "testedAt": "2026-11-12T02:18:32"
+ },
+ "constantine": {
+  "pages": 146,
+  "checked": 123,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T01:27:23"
+ },
+ "dbrrbd": {
+  "pages": 2409,
+  "checked": 798,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T02:25:22"
+ },
+ "scotty": {
+  "pages": 280,
+  "checked": 54,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T01:31:08"
+ },
+ "whenever": {
+  "pages": 287,
+  "checked": 153,
+  "missing": 1,
+  "examples": [
+   {
+    "file": "Whenever Journal - Page 1 - RTM Community.pdf",
+    "page": 6,
+    "y": 111.9,
+    "text": "\"...an engulfed flag is an engulfed flag...\" ( IF )"
+   }
+  ],
+  "testedAt": "2026-11-12T01:31:12"
+ },
+ "pucci": {
+  "pages": 354,
+  "checked": 200,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T01:31:30"
+ },
+ "paz": {
+  "pages": 147,
+  "checked": 141,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T01:31:37"
+ },
+ "luska": {
+  "pages": 287,
+  "checked": 66,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T01:31:55"
+ },
+ "homeoffinisher": {
+  "pages": 351,
+  "checked": 39,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T01:32:15"
+ },
+ "diamond": {
+  "pages": 369,
+  "checked": 104,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T01:32:37"
+ },
+ "robbie": {
+  "pages": 385,
+  "checked": 188,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T01:32:45"
+ },
+ "michal238": {
+  "pages": 392,
+  "checked": 95,
+  "missing": 1,
+  "examples": [
+   {
+    "file": "Michal_s Journal - Page 10 - RTM Community.pdf",
+    "page": 10,
+    "y": 111.9,
+    "text": "\"...an engulfed flag is an engulfed flag...\" ( IF )"
+   }
+  ],
+  "testedAt": "2026-11-12T01:33:19"
+ },
+ "fishing": {
+  "pages": 354,
+  "checked": 113,
+  "missing": 2,
+  "examples": [
+   {
+    "file": "Fishing in the Moneyriver - A neverending story - Page 10 - RTM Community.pdf",
+    "page": 7,
+    "y": 111.9,
+    "text": "\"...an engulfed flag is an engulfed flag...\" ( IF )"
+   },
+   {
+    "file": "Fishing in the Moneyriver - A neverending story - Page 3 - RTM Community.pdf",
+    "page": 35,
+    "y": 89.4,
+    "text": "Fishing in the Moneyriver - A neverending story"
+   }
+  ],
+  "testedAt": "2026-11-12T01:34:10"
+ },
+ "finddecision": {
+  "pages": 313,
+  "checked": 148,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T01:35:06"
+ },
+ "mertch": {
+  "pages": 417,
+  "checked": 156,
+  "missing": 1,
+  "examples": [
+   {
+    "file": "Mertch journal - Page 7 - RTM Community.pdf",
+    "page": 28,
+    "y": 100.6,
+    "text": "The future of price is already written in the past"
+   }
+  ],
+  "testedAt": "2026-11-12T01:36:23"
+ },
+ "shadowpit": {
+  "pages": 569,
+  "checked": 318,
+  "missing": 1,
+  "examples": [
+   {
+    "file": "ShadowPit - Page 9 - RTM Community.pdf",
+    "page": 19,
+    "y": 111.9,
+    "text": "\"...an engulfed flag is an engulfed flag...\" ( IF )"
+   }
+  ],
+  "testedAt": "2026-11-12T01:36:32"
+ },
+ "drswing": {
+  "pages": 655,
+  "checked": 345,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T01:37:13"
+ },
+ "josh": {
+  "pages": 855,
+  "checked": 245,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T01:37:53"
+ },
+ "jurij": {
+  "pages": 1183,
+  "checked": 264,
+  "missing": 1,
+  "examples": [
+   {
+    "file": "Jurij_s Corner - Page 19 - RTM Community.pdf",
+    "page": 56,
+    "y": 100.6,
+    "text": "The future of price is already written in the past"
+   }
+  ],
+  "testedAt": "2026-11-12T01:40:03"
+ },
+ "3drive": {
+  "pages": 393,
+  "checked": 52,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T01:34:21"
+ },
+ "engulf": {
+  "pages": 286,
+  "checked": 233,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T01:34:41"
+ },
+ "jiri": {
+  "pages": 349,
+  "checked": 143,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T02:18:45"
+ },
+ "sunnytrader": {
+  "pages": 526,
+  "checked": 195,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T01:35:25"
+ },
+ "mm": {
+  "pages": 587,
+  "checked": 166,
+  "missing": 1,
+  "examples": [
+   {
+    "file": "MM_s Journal - Page 1 - RTM Community.pdf",
+    "page": 8,
+    "y": 107.4,
+    "text": "-If your going through hell, keep going-"
+   }
+  ],
+  "testedAt": "2026-11-12T02:19:50"
+ },
+ "amit": {
+  "pages": 732,
+  "checked": 185,
+  "missing": 1,
+  "examples": [
+   {
+    "file": "Amit_s Journal and Trading Practice - Page 17 - RTM Community.pdf",
+    "page": 33,
+    "y": 81.9,
+    "text": "Amit's Journal and Trading Practice"
+   }
+  ],
+  "testedAt": "2026-11-12T01:36:38"
+ },
+ "smimon": {
+  "pages": 1210,
+  "checked": 966,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T01:37:53"
+ },
+ "doctorpatient": {
+  "pages": 1130,
+  "checked": 1337,
+  "missing": 1,
+  "examples": [
+   {
+    "file": "The Doctor_s patients - Page 31 - RTM Community.pdf",
+    "page": 4,
+    "y": 100.6,
+    "text": "catshare.net/FDUdJuzjKbPr9UbI/The Doctor_noteRTM6.1.pdf"
+   }
+  ],
+  "testedAt": "2026-11-12T01:38:27"
+ },
+ "gembel": {
+  "pages": 2027,
+  "checked": 279,
+  "missing": 1,
+  "examples": [
+   {
+    "file": "gembel journal trading - Page 31 - RTM Community.pdf",
+    "page": 12,
+    "y": 100.6,
+    "text": "The future of price is already written in the past"
+   }
+  ],
+  "testedAt": "2026-11-12T01:41:03"
+ },
+ "readingsession": {
+  "pages": 287,
+  "checked": 173,
+  "missing": 11,
+  "examples": [
+   {
+    "file": "Reading a Session - Page 1 - RTM Community.pdf",
+    "page": 3,
+    "y": 104.6,
+    "text": "Price moves down during EU session, and is stopped by demand level"
+   },
+   {
+    "file": "Reading a Session - Page 1 - RTM Community.pdf",
+    "page": 4,
+    "y": 71.6,
+    "text": "retracement, and respects the broken trendline."
+   },
+   {
+    "file": "Reading a Session - Page 1 - RTM Community.pdf",
+    "page": 12,
+    "y": 73.9,
+    "text": "looks like i have to make it more confusing next time :P"
+   },
+   {
+    "file": "Reading a Session - Page 1 - RTM Community.pdf",
+    "page": 12,
+    "y": 74.6,
+    "text": "looks like i have to make it more confusing next time"
+   },
+   {
+    "file": "Reading a Session - Page 1 - RTM Community.pdf",
+    "page": 12,
+    "y": 94.1,
+    "text": "thanks a lot L_P cant wait for yours too"
+   },
+   {
+    "file": "Reading a Session - Page 1 - RTM Community.pdf",
+    "page": 13,
+    "y": 64.1,
+    "text": "anyway, great and nice job, but - bastard mode on"
+   },
+   {
+    "file": "Reading a Session - Page 1 - RTM Community.pdf",
+    "page": 13,
+    "y": 64.1,
+    "text": "nice job, but - bastard mode on"
+   },
+   {
+    "file": "Reading a Session - Page 1 - RTM Community.pdf",
+    "page": 13,
+    "y": 84.4,
+    "text": "even a QM somewhere ?-bastard mode off -."
+   },
+   {
+    "file": "Reading a Session - Page 1 - RTM Community.pdf",
+    "page": 13,
+    "y": 104.6,
+    "text": "and, question for you, me and other, [wonna your opinion, is not an exam, i"
+   },
+   {
+    "file": "Reading a Session - Page 1 - RTM Community.pdf",
+    "page": 19,
+    "y": 61.1,
+    "text": "You should read/watch charts of the day section"
+   },
+   {
+    "file": "Reading a Session - Page 1 - RTM Community.pdf",
+    "page": 19,
+    "y": 81.4,
+    "text": "Ken and Emene (probalby) spotted it before ."
+   }
+  ],
+  "testedAt": "2026-11-12T01:34:38"
+ },
+ "in2forex": {
+  "pages": 350,
+  "checked": 169,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T02:36:06"
+ },
+ "hgblacksheep": {
+  "pages": 518,
+  "checked": 379,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T01:35:09"
+ },
+ "projectsagana": {
+  "pages": 584,
+  "checked": 430,
+  "missing": 1,
+  "examples": [
+   {
+    "file": "Project Sagana Progress - Page 18 - RTM Community.pdf",
+    "page": 16,
+    "y": 114.1,
+    "text": "Never ever give up. Think, do, try, achieve"
+   }
+  ],
+  "testedAt": "2026-11-12T01:35:21"
+ },
+ "kruger": {
+  "pages": 661,
+  "checked": 150,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T02:20:13"
+ },
+ "classroom": {
+  "pages": 1694,
+  "checked": 1074,
+  "missing": 2,
+  "examples": [
+   {
+    "file": "The Classroom - Page 41 - RTM Community.pdf",
+    "page": 10,
+    "y": 62.4,
+    "text": "File Name: soybean_2013-02-12.tpl"
+   },
+   {
+    "file": "The Classroom - Page 42 - RTM Community.pdf",
+    "page": 5,
+    "y": 111.9,
+    "text": "\"...an engulfed flag is an engulfed flag...\" ( IF )"
+   }
+  ],
+  "testedAt": "2026-11-12T01:37:03"
+ },
+ "flaglimits": {
+  "pages": 1094,
+  "checked": 632,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T02:21:34"
+ },
+ "supplydemand": {
+  "pages": 2006,
+  "checked": 681,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T02:22:26"
+ },
+ "warren": {
+  "pages": 302,
+  "checked": 233,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T01:33:58"
+ },
+ "ftrretest": {
+  "pages": 188,
+  "checked": 111,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T01:34:20"
+ },
+ "frosty": {
+  "pages": 352,
+  "checked": 510,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T02:19:18"
+ },
+ "eurotrash": {
+  "pages": 464,
+  "checked": 47,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T01:35:14"
+ },
+ "art": {
+  "pages": 573,
+  "checked": 165,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T01:36:01"
+ },
+ "newjournal": {
+  "pages": 656,
+  "checked": 26,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T01:37:33"
+ },
+ "alex": {
+  "pages": 1057,
+  "checked": 216,
+  "missing": 3,
+  "examples": [
+   {
+    "file": "Alex`s journal - Page 14 - RTM Community.pdf",
+    "page": 8,
+    "y": 114.1,
+    "text": "Never ever give up. Think, do, try, achieve"
+   },
+   {
+    "file": "Alex`s journal - Page 20 - RTM Community.pdf",
+    "page": 27,
+    "y": 111.9,
+    "text": "\"...an engulfed flag is an engulfed flag...\" ( IF )"
+   },
+   {
+    "file": "Alex`s journal - Page 22 - RTM Community.pdf",
+    "page": 6,
+    "y": 100.6,
+    "text": "The future of price is already written in the past"
+   }
+  ],
+  "testedAt": "2026-11-12T01:38:38"
+ },
+ "aboutcompression": {
+  "pages": 1801,
+  "checked": 529,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T01:40:16"
+ },
+ "quasimodo": {
+  "pages": 1979,
+  "checked": 506,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T01:41:56"
+ },
+ "hs": {
+  "pages": 2844,
+  "checked": 1509,
+  "missing": 3,
+  "examples": [
+   {
+    "file": "H_s Trading Journal - Page 16 - RTM Community.pdf",
+    "page": 13,
+    "y": 100.6,
+    "text": "The future of price is already written in the past"
+   },
+   {
+    "file": "H_s Trading Journal - Page 37 - RTM Community.pdf",
+    "page": 7,
+    "y": 94.6,
+    "text": "other people also said thanks."
+   },
+   {
+    "file": "H_s Trading Journal - Page 54 - RTM Community.pdf",
+    "page": 4,
+    "y": 93.9,
+    "text": "with an expert before assuming this is all true"
+   }
+  ],
+  "testedAt": "2026-11-12T01:50:41"
+ }
+}

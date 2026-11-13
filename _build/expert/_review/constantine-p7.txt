@@ -1,0 +1,97 @@
+===== constantine-p7 : 20 posts =====
+--- constantine_p7_151 author=dkd11 hash=bd9b935b
+EN: Here again an example for the first situation.
+FA: اینجا دوباره یک مثال برای حالت اول.
+--- constantine_p7_152 author=dkd11 hash=24d4cc2c
+EN: I am assured that I cannot be understood. More precisely to understand my English I will try not to tell many words. Only charts
+FA: یقین دارم که فهمیده نمی‌شوم. دقیق‌تر بگویم، برای اینکه انگلیسی‌ام فهمیده شود سعی می‌کنم کلمات زیادی نگویم. فقط چارت.
+--- constantine_p7_155 author=einrikr hash=ddec19f5
+EN: Hi Constantine,
+
+I'm not sure if I'm understanding your charts correctly, but an iLSK is not ignored when simply not touched. It's ignored if price has sailed right through it.
+FA: سلام Constantine،
+
+مطمئن نیستم چارت‌هایت را درست می‌فهمم یا نه، اما iLSK فقط با لمس‌نشدن، نادیده‌گرفته‌شده محسوب نمی‌شود؛ وقتی نادیده‌گرفته‌شده است که قیمت کاملاً از آن عبور کرده باشد.
+--- constantine_p7_156 author=dkd11 hash=151ae65e
+EN: I see many possibilities. It is a lot of traps. I do not know, whether probably all it to connect and make algorithm to which needs to adhere... Question to masters and to mr. IF. Whether you have a leaf near your computer where you find an action template at a certain situation? I think that was not present. To trade it is necessary to understand words which are spoken by the market. But nevertheless, I hope that I can finish this "a leaf with instruction". Very much I hope
+FA: احتمالات زیادی می‌بینم. تله‌های زیادی هست. نمی‌دانم، شاید باید همه را به هم وصل کرد و الگوریتمی ساخت که باید به آن پایبند بود... سؤالی از استادها و آقای IF. آیا کنار کامپیوترتان یک برگه دارید که در موقعیت خاصی، قالب عمل را از آن پیدا کنید؟ فکر می‌کنم چنین چیزی وجود نداشت. برای معامله‌گری باید کلماتی را فهمید که بازار می‌گوید. اما با این حال، امیدوارم بتوانم این «برگهٔ دستورالعمل» را تمام کنم. خیلی امیدوارم
+--- constantine_p7_157 author=dkd11 hash=672de3a2
+EN: einrikr wrote: Hi Constantine,
+
+I'm not sure if I'm understanding your charts correctly, but an iLSK is not ignored when simply not touched. It's ignored if price has sailed right through it.
+
+Hey einrikr That you have noted are is reaction on iLSK
+
+Wonder, "When this has been generated iLSK?" And then you will understand that I mean. The answer is on a picture below. And still, I am possible not correctly I understand the name, but, I will try to explain that means for me ignored. Ignored is when the price has created a break then the price hit to TG and has not returned back. (Probably she tried to return, is possible it at all did not want to come back, that is possible that still, but the main thing that the price has not returned) so I understand it Though probably it is clean LSK. Or that that another. I cannot tell it. But I like that I see and understand. Probably I will be corrected by Masters and I hope for it that I would not confuse other associates
+FA: einrikr نوشت: سلام Constantine،
+
+مطمئن نیستم چارت‌هایت را درست می‌فهمم یا نه، اما iLSK فقط با لمس‌نشدن، نادیده‌گرفته‌شده محسوب نمی‌شود؛ وقتی نادیده‌گرفته‌شده است که قیمت کاملاً از آن عبور کرده باشد.
+
+هی einrikr، آنچه اشاره کردی، واکنش روی iLSK است.
+
+فکر کن «این iLSK چه زمانی ساخته شد؟» و بعد می‌فهمی منظورم چیست. جواب در تصویر پایین است. و باز، شاید نامش را درست نفهمیده باشم، اما سعی می‌کنم توضیح دهم «نادیده‌گرفته‌شده» برای من چه معنایی دارد. نادیده‌گرفته‌شده یعنی وقتی قیمت یک شکست ساخته، بعد به TG خورده و برنگشته است. (احتمالاً خواسته برگردد، ممکن است اصلاً نمی‌خواسته برگردد، این هم ممکن است، اما مهم این است که قیمت برنگشته) من این‌طور می‌فهممش. هرچند شاید LSK تمیزی باشد. یا چیز دیگری. نمی‌توانم بگویم. اما دوست دارم که می‌بینم و می‌فهمم. احتمالاً استادها اصلاحم می‌کنند و امیدوارم که دیگران را گیج نکنم
+--- constantine_p7_158 author=dkd11 hash=372ba093
+EN: I am not assured of the analysis, but, time will tell the right answer
+
+Edit: I was inattentive, there below there is one more Clean LSK
+FA: از این تحلیل مطمئن نیستم، اما زمان جواب درست را می‌گوید
+
+ویرایش: بی‌دقت بودم، پایین‌تر یک Clean LSK دیگر هم هست
+--- constantine_p7_159 author=dkd11 hash=357c9c5f
+EN: Formation of such scenario became interesting to me. (Black box) It everywhere. Everyone FTB has FL and RSK. But how to trade FTB??? I long looked at charts and have found that searched. Or I simply have thought up all what to console myself
+FA: شکل‌گیری چنین سناریویی برایم جالب شد. (جعبهٔ سیاه) همه‌جا هست. هر FTBی FL و RSK دارد. اما FTB را چطور معامله کنیم؟؟؟ مدت زیادی چارت‌ها را نگاه کردم و آنچه می‌خواستم را پیدا کردم. یا شاید فقط همه‌اش را از خودم درآورده‌ام تا خودم را دلداری بدهم
+--- constantine_p7_160 author=dkd11 hash=ce468015
+EN: dkd11 wrote: Formation of such scenario became interesting to me. (Black box) It everywhere. Everyone FTB has FL and RSK. But how to trade FTB??? I long looked at charts and have found that searched. Or I simply have thought up all what to console myself
+
+I have just understood that I have drawn Quasimodo.
+FA: dkd11 نوشت: شکل‌گیری چنین سناریویی برایم جالب شد. (جعبهٔ سیاه) همه‌جا هست. هر FTBی FL و RSK دارد. اما FTB را چطور معامله کنیم؟؟؟ مدت زیادی چارت‌ها را نگاه کردم و آنچه می‌خواستم را پیدا کردم. یا شاید فقط همه‌اش را از خودم درآورده‌ام تا خودم را دلداری بدهم
+
+تازه فهمیدم که Quasimodo کشیده‌ام.
+--- constantine_p7_161 author=dkd11 hash=72bb9fe7
+EN: My opinion. Any comments please
+FA: نظر من. لطفاً هر نظری دارید بگویید
+--- constantine_p7_162 author=dkd11 hash=8642aef2
+EN: Probably I am not right. Because here the price reacts on FL of LSK (FO)
+
+I will observe of this situation.
+FA: شاید درست نگویم. چون اینجا قیمت به FL از LSK واکنش می‌دهد (FO)
+
+این وضعیت را زیر نظر می‌گیرم.
+--- constantine_p7_164 author=dkd11 hash=f813ae9a
+EN: I all need to work. Trade FO zone
+FA: من باید کار کنم. معامله در ناحیهٔ FO
+--- constantine_p7_166 author=Rinehart hash=937d9636
+EN: Nicely done
+FA: خوب انجام شد
+--- constantine_p7_168 author=dkd11 hash=232afac3
+EN: I long thought over concept Engulf. It has one sense, updating Max or Min. However, it not all. I thought that Engulf happens important and not important, but I was mistaken. Any engulf is considered important. It is connected by what price Engulf. Therefore there are different methods at Engulf. I will try to show it on charts and a picture And as, everyone Clean LSK can become FL for another RSK. It is represented on 3 picture.
+FA: مدت زیادی دربارهٔ مفهوم اینگالف فکر کردم. یک معنی دارد: به‌روزرسانی Max یا Min. اما فقط این نیست. فکر می‌کردم اینگالف مهم و غیرمهم داریم، اما اشتباه می‌کردم. هر اینگالفی مهم حساب می‌شود. به این بستگی دارد که قیمت چه چیزی را اینگالف کرده. به همین دلیل روش‌های مختلفی برای اینگالف هست. سعی می‌کنم روی چارت‌ها و یک تصویر نشانش دهم. و همچنین، هر Clean LSK می‌تواند FL برای یک RSK دیگر شود. در تصویر 3 نشان داده شده.
+--- constantine_p7_169 author=dkd11 hash=833ca8cc
+EN: I do not understand. Recently I saw each turn of the price and could explain it... And now I feel an amoeba which is not able to think
+FA: نمی‌فهمم. اخیراً هر چرخش قیمت را می‌دیدم و می‌توانستم توضیحش بدهم... و حالا مثل آمیبی هستم که نمی‌تواند فکر کند
+--- constantine_p7_170 author=moneydeep hash=9270a94a
+EN: dkd11 wrote: I do not understand. Recently I saw each turn of the price and could explain it... And now I feel an amoeba which is not able to think
+
+OMG i feel the same way. One day I could see everything now i'ts all a jumble. I need to write stuff down lol.
+FA: dkd11 نوشت: نمی‌فهمم. اخیراً هر چرخش قیمت را می‌دیدم و می‌توانستم توضیحش بدهم... و حالا مثل آمیبی هستم که نمی‌تواند فکر کند
+
+خدای من، من هم همین حس را دارم. یک روز همه‌چیز را می‌دیدم، حالا همه‌اش قاطی شده. باید چیزها را بنویسم lol.
+--- constantine_p7_171 author=HCDE hash=eccaa6f9
+EN: Same here...There are some IT technics that are out of our league it seems. The most frustrating thing being the fact that every engulf i see very rarely give me 1R to first TG, it's always like 0.85, 0.9 or something like that. It's like ITs know what we try to trade and make it either worthless for us or trick us with fake PA...
+FA: من هم همین‌طور... به نظر می‌رسد چند تکنیک IT از سطح ما خارج است. آزاردهنده‌ترین چیز این است که هر اینگالفی که می‌بینم به‌ندرت 1R تا اولین TG می‌دهد؛ همیشه چیزی مثل 0.85، 0.9 یا از این قبیل است. انگار ITها می‌دانند ما چه چیزی را می‌خواهیم معامله کنیم و یا آن را برایمان بی‌ارزش می‌کنند یا با PA جعلی فریبمان می‌دهند...
+--- constantine_p7_172 author=corsica hash=958708d4
+EN: same here, it's been a hard day's night But i don't think the rules have changed, we simply read the "greedy way".
+FA: من هم همین‌طور، شبِ روزِ سختی بود. اما فکر نمی‌کنم قوانین عوض شده باشند؛ ما فقط آن را «به‌شکل طمع‌کارانه» می‌خوانیم.
+--- constantine_p7_173 author=dkd11 hash=fcc469ca
+EN: I have read a theme "Price Reading" once again. I am not assured that I am right, but it works on stories
+FA: موضوع «Price Reading» را یک‌بار دیگر خواندم. مطمئن نیستم درست باشم، اما با داستان‌ها جور درمی‌آید
+--- constantine_p7_174 author=dkd11 hash=94496b94
+EN: I have an assumption where the price will go. What will tell?
+
+[/u]
+FA: حدسی دارم که قیمت کجا می‌رود. چه می‌گوید؟
+
+[/u]
+--- constantine_p7_175 author=dkd11 hash=ecc53e36
+EN: All is very simple..... When you look history =)
+FA: همه‌چیز خیلی ساده است..... وقتی به تاریخ نگاه کنی =)

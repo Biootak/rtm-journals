@@ -1,0 +1,10 @@
+##### art_p1_2 7
+Order triggered. Approach was compressed. Some negative US news hit the wires.... but let's leave news for the analysts after the fact. Been waiting half a day for this.... 2 big cups of coffee.... got edgy. It took quite a while for price to drop. We'll see if it works out or not.
+##### art_p1_4 1
+Art wrote: "... There are so many of them. I feel like they are just hanging in the air. Price very often reacts to them... like today on AUDUSD. It is challenging so far to trade these..." --- It so true! I always wondered about this kind of trade, just haven't taken it for exactly the reason you described below. I feel that it happens in very strong momentum uptrends. At least I have seen it frequently enough in AMZN. Thought about just buying at the limit and place a stop 2ATR of the TF beyond, but never got around to well define the HTF scenarios that allow it to happen. Once defined, take 50 of these charts and do the expectancy calculation to see if it works --- of course this is the robot way, not RTM way.
+##### art_p1_5 4
+4. SL was placed not optimal. As in previous posts mentioned am too carefull with flags. So Entry could have been at QM + flag + SR. SL could have been just below RBR... its a classic flag trade as per RTM material. SL could have been 2.3x smaller so R:R on this trade could have been much better.
+##### art_p1_9 6
+I would have thought that the engulf of the FL low at 0.80700 in yellow would have been enough evidence that we may be going lower. I consider the red line (that is the same as the one in your chart) the demand that drove price into engulfing the top white line at 0.80756. Could you be so kind as to explain it to me so that I may get a better understanding?
+##### art_p1_10 1
+I hope ART will not mind if I allow me in his Journal to try giving my point of view on your Question, Pucci ( I am a passionate follower of your great Journal too BTW ), with the only purpose to may be corrected, amended, revised if I am wrong. As this would be something more to learn for me too.

@@ -1,0 +1,8 @@
+{
+  "if_p108_14": {
+    "ok": false,
+    "issue": "افزودن بند ساختگی (padding)",
+    "why": "منبع فقط «Thx Edge, IF and gslao for the last analysis, this is very instructive.» و «This is my take at the quizz.» است؛ ترجمه دو بند از خودش اضافه کرده: «و از آن چیزهای زیادی یاد گرفتم» و «سعی کردم آنچه تا حالا یاد گرفته‌ام را در آن پیاده کنم».",
+    "fix": "سلام،\n\nممنون Edge، IF و gslao برای تحلیل آخر؛ برای من خیلی آموزنده است.\n\nاین هم برداشت من از این آزمون."
+  }
+}

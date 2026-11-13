@@ -1,0 +1,8 @@
+{
+  "salivan_p17_25": {
+    "ok": false,
+    "issue": "broken clause / wrong person",
+    "why": "EN closes with \"i just did not have the confidence to short on retrace and ended up with great regrets!\" (first person: I ended up with regrets). FA ends \"... اعتماد نداشتم در برگشت فروش بگیرم و آخرش با حسرت زیاد ماند.\" — the verb «ماند» is third person singular and has no subject, so the clause no longer says the writer ended up with regrets; it reads as if something else «remained with regret».",
+    "fix": "سلام بچه‌ها\n\nدیروز روز بدی داشتم.\n\nنمودار UJ - این دیروز هنگام خبر BOJ رخ داد،\n\nکسی ایده‌ای دارد که قیمت به چه چیزی واکنش می‌داد و چرا این قیمت حتی در مقیاس بالاتر هم این‌قدر نقطهٔ چرخش مهمی بود؟\n\nحتی روی نمودار M1 هم نتوانستم چیزی بفهمم. باز هم منتظر بودم قیمت به ناحیه‌های قرمزی برسد که قبلاً علامت زده بودم. اما ظاهراً این ناحیه‌های قرمز جایی نیستند که IT‌ها به آن علاقه دارند!\n\nدر واقع بر اساس همین برخورد می‌توانستم از حرکت نزولی لذت ببرم. اما چون مطمئن نبودم چرا قیمت به آن خط قرمز واکنش می‌دهد و چرا آن خط این‌قدر مهم است، اعتماد نداشتم در برگشت فروش بگیرم و آخرش حسرت زیادی خوردم!\n\nامیدوارم از شما بشنوم!\n\nممنون"
+  }
+}

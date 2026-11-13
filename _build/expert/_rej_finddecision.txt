@@ -1,0 +1,256 @@
+===== finddecision-p10.json finddecision_p10_230 | english-left
+--- EN ---
+hi all heres the start of my find a desicion homework would like to get ur fidback if that s the correct way to do it, and ofc on my charts as well
+
+thx AG
+--- FA ---
+سلام به همه اینجا شروع تحقیق پیدا کردن decision‌م است. می‌خواهم feedback بگیرم اگر روش درستی برای انجامش است، و course روی چارت‌هایم
+
+thx AG
+
+===== finddecision-p10.json finddecision_p10_243 | no-persian
+--- EN ---
+Point 6
+--- FA ---
+Point 6
+
+===== finddecision-p10.json finddecision_p10_244 | no-persian
+--- EN ---
+Point 7
+--- FA ---
+Point 7
+
+===== finddecision-p10.json finddecision_p10_245 | no-persian
+--- EN ---
+Point 8
+--- FA ---
+Point 8
+
+===== finddecision-p10.json finddecision_p10_247 | echo
+--- EN ---
+Point 10
+
+First picture show some history of the level.
+
+Second chart shows the point.
+--- FA ---
+Point 10
+
+تصویر اول کمی تاریخچه مربوط به سطح را نشان می‌دهد.
+
+چارت دوم point را نشان می‌دهد.
+
+===== finddecision-p4.json finddecision_p4_79 | no-persian
+--- EN ---
+Decision point #7
+--- FA ---
+Decision point #7
+
+===== finddecision-p5.json finddecision_p5_121 | english-left
+--- EN ---
+Im excited what happens at Cable
+
+The estimated 1,6000 DEMAND level (S/R flip) reacted pretty decent with a shot up 30 pips
+
+Well see if this holds and we continue the uptrend tomorrow
+--- FA ---
+exited هستم چه اتفاقی روی Cable می‌افتد
+
+سطح 1,6000 DEMAND تخمینی (S/R flip) با یک shot up 30 پیپ reaction نسبتاً decently داد
+
+خواهیم دید آیا این نگه می‌دارد و فردا روند صعودی را ادامه می‌دهیم
+
+===== finddecision-p5.json finddecision_p5_125 | echo
+--- EN ---
+So turning point 1 was a reaction to a supply level clearly seen on this m15 chart. Seems to be a QM on the final tap and exit of the supply level. Sorry didn't mark it up enough.
+
+...
+
+Find the
+--- FA ---
+پس turning point 1 واکنشی به عرضه سطح بود که روی این چارت m15 واضح دیده می‌شود. به نظر QM روی final tap و خروج مربوط به عرضه سطح است. ببخشید mark up کافی نکردم.
+
+...
+
+Find the
+
+===== finddecision-p6.json finddecision_p6_134 | paragraphs 7 / 6
+--- EN ---
+Hotochin, for the loonie feedback;
+
+The FTR of area B on the 240m is right above the letter B but on the 5m it’s the lower cluster where you can see the engulf of previous highs followed by a small pullback, and you can see on the 240m when price came back to the key level at B it spiked it and closed above the key level.
+
+Area C has been engulfed so you need to find a DP around area G.
+
+Area D is not a key level and on the 60m your middle horizontal line is a S/R flip level on the same TF.
+
+For area E on the 240m is also an S/R flip or a minor key level.
+
+The rest is looking fine and to clear one thing, key level and S/R Flip is the same concept but for me key level comes from a HTF and supposed to be a significant level.
+
+Cheers,
+--- FA ---
+Hotochin، دربارهٔ بازخورد لوونی؛
+
+FTR ناحیهٔ B روی 240m درست بالای حرف B است اما روی 5m همان خوشهٔ پایین است که می‌توانی اینگالی از سقف‌های قبلی را ببینی که با یک برگشت کوچک دنبال شده، و روی 240m می‌توانی ببینی وقتی قیمت به سطح کلیدی B برگشت آن را spike کرد و بالای سطح کلیدی بسته شد.
+
+ناحیهٔ C اینگالی شده پس باید یک DP دور ناحیهٔ G پیدا کنی.
+
+ناحیهٔ D سطح کلیدی نیست و روی 60m خط افقی میانی تو یک سطح S/R flip روی همان TF است.
+
+برای ناحیهٔ E روی 240m هم یک S/R flip یا یک سطح کلیدی جزئی است.
+
+بقیه خوب به نظر می‌رسد و برای شفاف‌تر شدن یک چیز، سطح کلیدی و S/R Flip همان مفهوم‌اند
+
+===== finddecision-p6.json finddecision_p6_147 | rambling
+--- EN ---
+Kanzler wrote: I probably completely botched this but here's my try at it. A lot of the turns in the weekly chart could be explained by weekly structures, but some of them needed LTF to explain it. Earlier was easiest to decipher, later on I ran into some areas I couldn't quite understand.
+
+Kanzler its a good first try. i think it would benefit you to try to look again at these points where you didnt see any significance in the turn. below i have my thoughts on 2 of them, your 15 and 16
+--- FA ---
+Kanzler نوشت: احتمالاً کاملاً این را خراب کرده‌ام اما این تلاش من است. Lots of چرخش‌ها در چارت هفتگی را می‌شود با ساختارهای هفتگی توضیح داد، اما بعضی از آن‌ها برای توضیح به LTF نیاز داشتند. اوایل رمزگشایی آسان‌تر بود؛ بعدتر به نواحی‌ای خوردم که نتوانستم کاملاً بفهمم.
+
+تصویر بزرگ هفتگی، با توضیحات و درج‌هایی که لازم می‌دانستم:
+
+1) قیمت به مرزهای بالایی یک ناحیهٔ فشردگی می‌رسد و برمی‌گردد. بعد قیمت تصمیم می‌گیرد به داخل فشردگی بشکند و از میان S/R flip رد می‌شود.
+
+2) قیمت شروع به برخورد به تقاضای پایین می‌کند و بین تقاضا و S/R flip برمی‌گردد. بعد قیمت تصمیم می‌گیرد تقاضا را بشکند، با ناحیهٔ تصمیم مهمی که در زیر مشخص شده.
+
+3) این کف را واقعاً نمی‌فهمم. در سمت چپ ناحیه‌ای از تقاضای استفاده‌شده هست اما حرکت خروج از آن از اول خیلی چشمگیر نبود پس شاید یکی از آن چرخش‌های news-driven است؟
+
+4) قیمت تا نقطهٔ تصمیم مشخص‌شده در چارت #2 رالی می‌کند و برمی‌گردد و سفارش‌های باقی‌مانده را مصرف می‌کند. بعد قیمت قبل از ادامهٔ صعود تقاضای هفتگی تازه می‌سازد.
+
+5) قیمت از نقطهٔ تصمیم ما برمی‌گردد تا فشردگی را اینگالی کند و درست زیر آن عرضهٔ هفتگی می‌سازد.
+
+6) برگشت از تقاضا.
+
+7) رد شدن موقت قیمت از عرضه. بعد قیمت از میان عرضه بالا می‌رود. هیچ نقطهٔ تصمیم خاصی متوجه نشدم که بگوید «این عرضه تمام شده!»، پس شاید کسی بتواند در این مورد کمکم کند.
+
+8 و 9) عرضه تبدیل به تقاضا می‌شود، قیمت عرضهٔ نادیده‌گرفته‌شدهٔ ما را دوباره تست می‌کند و به سمت عرضهٔ تازه در 9 بالاتر می‌رود.
+
+ناحیهٔ تثبیت بزرگ را بهتر است روی چارت‌های روزانه با چند cap روی قیمت که شکل می‌گیرند توضیح داد. سرانجام قیمت می‌شکند و تقاضا می‌سازد و با رالی FTR (?) را در 10 می‌سازد.
+
+10) جایی در فیتیلهٔ سمت چپ نقطهٔ تصمیم ما برای شکست تقاضای روزانه و پایین‌تر رفتن است؛ وقتی قیمت به اینجا برمی‌گردد، می‌افتد. بعد از ناموفق ماندن در بازگشت به ناحیهٔ رفتار قیمت قبلی‌مان، یک سطح عرضهٔ قشنگ اینجا می‌ماند.
+
+11) قیمت تقاضا را نادیده می‌گیرد و تصمیم می‌گیرد پایین‌تر برود.
+
+12) قیمت از عرضه‌ای برمی‌گردد که با برگشت در 6 مصرف نشده بود.
+
+13) قیمت به نقطهٔ تصمیم در 11 برمی‌گردد و می‌افتد.
+
+14) برگشت از تقاضای دوم‌بار لمس‌شده که از 8 مارس سرچشمه می‌گیرد.
+
+15) کف سوئینگ قبل از شکست کف سوئینگ قبلی می‌چرخد اما نقطهٔ دقیق حرکتش به نظر هیچ معنایی ندارد.
+
+16) دربارهٔ این هم مطمئن نیستم. قیمت به نظر وسط حرکتی است که دقیقاً همان‌جا می‌چرخد.
+
+17) قیمت از پایهٔ پرچم ما برمی‌گردد و تقاضا می‌سازد.
+
+18) واقعاً PA خاصی در سمت چپ نیست که برگشت در اینجا را پیشنهاد بدهد.
+
+19 و 21) برگشت از تقاضای ساخته‌شده در 17.
+
+20) قیمت از تصمیم پایین‌تر رفتن پیدا‌شده روی چارت‌های H4 برمی‌گردد.
+
+Kanzler اول try خوبی است. فکر می‌کنم به تو benefit می‌دهد که دوباره به این pointهایی که significanceی در turn ندیدی نگاه کنی. پایین thoughtsم روی 2 تا از آن‌ها هستند، 15 و 16 تو
+
+===== finddecision-p6.json finddecision_p6_150 | no-persian
+--- EN ---
+PAST
+
+APPROACH & REACTION
+--- FA ---
+PAST
+
+APPROACH & REACTION
+
+===== finddecision-p8.json finddecision_p8_176 | no-persian
+--- EN ---
+Point 6
+--- FA ---
+Point 6
+
+===== finddecision-p8.json finddecision_p8_177 | no-persian
+--- EN ---
+Point 7
+--- FA ---
+Point 7
+
+===== finddecision-p8.json finddecision_p8_178 | no-persian
+--- EN ---
+Point 8
+--- FA ---
+Point 8
+
+===== finddecision-p8.json finddecision_p8_179 | no-persian
+--- EN ---
+Point 9
+--- FA ---
+Point 9
+
+===== finddecision-p8.json finddecision_p8_180 | no-persian
+--- EN ---
+Point 10
+--- FA ---
+Point 10
+
+===== finddecision-p8.json finddecision_p8_181 | no-persian
+--- EN ---
+Point 11
+--- FA ---
+Point 11
+
+===== finddecision-p8.json finddecision_p8_182 | no-persian
+--- EN ---
+Point 12
+--- FA ---
+Point 12
+
+===== finddecision-p8.json finddecision_p8_183 | no-persian
+--- EN ---
+Point 13
+--- FA ---
+Point 13
+
+===== finddecision-p8.json finddecision_p8_184 | no-persian
+--- EN ---
+Point 14
+--- FA ---
+Point 14
+
+===== finddecision-p8.json finddecision_p8_185 | no-persian
+--- EN ---
+Point 15
+--- FA ---
+Point 15
+
+===== finddecision-p8.json finddecision_p8_186 | no-persian
+--- EN ---
+Point 16
+--- FA ---
+Point 16
+
+===== finddecision-p8.json finddecision_p8_187 | no-persian
+--- EN ---
+Point 17
+--- FA ---
+Point 17
+
+===== finddecision-p8.json finddecision_p8_188 | no-persian
+--- EN ---
+Point 18
+--- FA ---
+Point 18
+
+===== finddecision-p8.json finddecision_p8_189 | no-persian
+--- EN ---
+Point 19
+--- FA ---
+Point 19
+
+===== finddecision-p8.json finddecision_p8_190 | no-persian
+--- EN ---
+Point 20
+--- FA ---
+Point 20
+

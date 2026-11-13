@@ -1,0 +1,705 @@
+### astrokillah_p11_1
+EN: Hi PinkPanter,
+
+I only trade when I can babysit my position. Forex is designed to take
+stops, I am not a superman like Master Traders here that can pin-pint
+exact entry with 1 pip stop loss. I have given up trying to do that.
+
+I normally trade when there is no red news. I'm a scalper, so when price
+ ranges, it will either get to my TP or if it overshoot my 'mental
+stop', it will always retrace and let me get out with some minor profit.
+ And I like to enter a trade when I see existence of multiple barriers
+behind my stop loss. Because I know even when my stop is hit, price will
+ get to the next barrier and bounce back towards my entry, allowing me
+to get out with minor loss. And more often than not, I split my
+positions. So if my full risk is 5 lots, I will split them into 2x2.5
+lots, I would enter with 2.5 lot first, if it goes into drawdown, I will
+ add the other 2.5 at the next barrier. Most of the time, price would
+bounce back towards my entry. This kind of trading can get ugly (so a
+hard stop is required beyond the second position), but 90% of the time
+it gives amazing return.
+
+On one of my diagram above, I mentioned 'contrarian', this is crucial in
+ my trading, it's about knowing where price wants to go (I call this
+'juicy' level). Most of the time we focus so much on entry, but
+contrarian is target-oriented, I can enter a trade without the best
+entry, with a bigger stop loss than I normally use, but I feel good
+about it, because I am 99% sure that price would get to where I think it
+ will go. So before I take a trade, I need to ask myself, where is the
+juiciest level I see on the chart? And where is a logical place for IT
+to take stops before they go towards their target. If I see a juicy
+level above current price, I would never short. Likewise, I will never
+long if there is a juicy level below.
+
+Lots of words, not sure if it helps. I guess what has really made a
+difference in my trading is when I put my heart and soul into
+understanding price movement on 1-min chart.
+
+PinkPanter wrote: Astrokillah if you are trading on live account then you are really good!!!
+
+BTW i have one question...
+
+i saw that you dont put SL when you set LIMIT orders...
+
+so how do you react when your position is triggered?
+
+do you get alert that position is opened? and then you watch price... if
+ it is FO then Great for you and if it is BO then you try to close
+loosing position on BE?
+FA: سلام PinkPanter،
+
+تنها وقتی معامله می‌کنم که بتوانم بالای سر پوزیشنم بمانم. فارکس طوری طراحی شده که استاپ‌ها را بزند؛ من ابرقهرمان نیستم مثل استادمعامله‌گرهای این‌جا که ورود دقیق را با استاپ 1 پیپی مشخص می‌کنند. از تلاش برای این کار دست کشیده‌ام.
+
+من معمولاً وقتی خبر قرمز نیست معامله می‌کنم. اسکالپرم، پس وقتی قیمت رنج می‌زند، یا به تارگتم می‌رسد یا اگر از «استاپ ذهنی» من عبور کند، همیشه برمی‌گردد و می‌گذارد با سود کوچکی بیرون بیایم. و دوست دارم وقتی چند سد پشت استاپ‌لاسم می‌بینم وارد معامله شوم. چون می‌دانم حتی وقتی استاپم زده شود، قیمت به سد بعدی می‌رسد و به سمت ورودم برمی‌گردد و می‌گذارد با ضرر کوچک بیرون بیایم. و بیشتر وقت‌ها پوزیشنم را تقسیم می‌کنم. پس اگر ریسک کامل من 5 لات باشد، آن را به 2×2.5 لات تقسیم می‌کنم؛ اول با 2.5 لات وارد می‌شوم، اگر به دراودان رفت، 2.5 لات دیگر را در سد بعدی اضافه می‌کنم. بیشتر وقت‌ها قیمت به سمت ورودم برمی‌گردد. این نوع معامله می‌تواند زشت شود (پس استاپ سخت بیرون پوزیشن دوم لازم است)، ولی 90% مواقع بازده شگفت‌انگیزی می‌دهد.
+
+در یکی از نمودارهای بالا از «خلاف‌جریان» حرف زدم؛ این در معامله‌گری من حیاتی است و دربارهٔ دانستن این است که قیمت کجا می‌خواهد برود (من به آن سطح «آبدار» می‌گویم). بیشتر وقت‌ها ما آن‌قدر روی ورود تمرکز می‌کنیم، ولی نگاه خلاف‌جریان تارگت‌محور است؛ می‌توانم بدون بهترین ورود وارد معامله شوم، با استاپ‌لاسی بزرگ‌تر از معمول، ولی از آن احساس خوبی دارم، چون 99% مطمئنم قیمت به جایی که فکر می‌کنم می‌رود می‌رسد. پس پیش از گرفتن معامله باید از خودم بپرسم، آبدارترین سطحی که در چارت می‌بینم کجاست؟ و جای منطقی برای اینکه IT‌ها پیش از رفتن به سمت تارگتشان استاپ بگیرند کجاست؟ اگر بالای قیمت فعلی سطح آبدار ببینم، هرگز فروش نمی‌زنم. همین‌طور اگر زیر قیمت سطح آبدار باشد، هرگز خرید نمی‌زنم.
+
+حرف زیاد بود، مطمئن نیستم کمک کند. حدس من این است که چیزی که واقعاً در معامله‌گری‌ام تفاوت ساخت، وقتی بود که با دل و جان شروع کردم به فهمیدن حرکت قیمت روی چارت 1 دقیقه.
+
+PinkPanter نوشت: Astrokillah اگر با حساب لایو معامله می‌کنی، واقعاً خوب هستی!!!
+
+راستی یک سؤال دارم...
+
+دیدم که وقتی سفارش لیمیت می‌گذاری، استاپ‌لاس نمی‌گذاری...
+
+پس وقتی پوزیشنت فعال می‌شود چه کار می‌کنی؟
+
+هشدار بازشدن پوزیشن را می‌گیری؟ و بعد قیمت را زیر نظر می‌گیری... اگر FO باشد که عالی است و اگر BO باشد سعی می‌کنی پوزیشن ضررده را روی BE ببندی؟
+
+### astrokillah_p11_2
+EN: Thank you so much for showing me your notes. Everything in there I
+understand, but my brain was buzzing when your notes said trade into the level (as they were magnets). My mind is acting like I have never heard this before (but I can almost be certain IF and other has said this before).
+
+You have changed my approach to looking at set-ups. I'm really excited
+again to get started with this golden nugget, I maybe back polluting
+your thread again
+
+Thanks again.
+FA: خیلی ممنون که یادداشت‌هایت را نشانم دادی. همه‌چیز در آن‌ها را می‌فهمم، ولی وقتی یادداشت‌هایت گفت به سمت سطح معامله کن (چون مثل آهنربا هستند)، مغزم سوت کشید. ذهنم طوری رفتار می‌کند که انگار هرگز این را نشنیده بودم (ولی تقریباً مطمئنم IF و دیگران قبلاً این را گفته‌اند).
+
+نگاهم به ستاپ‌ها را عوض کردی. برای شروع با این نکتهٔ طلایی دوباره واقعاً هیجان‌زده‌ام؛ شاید دوباره برگردم و تاپیکت را شلوغ کنم.
+
+باز هم ممنون.
+
+### astrokillah_p11_3
+EN: sorry.. MadMoney, that 'contrarian' is not RTM teaching.. sorry for
+confusing. It's my personal notes.. I should have filtered that part
+out!
+
+I haven't yet lost a single trade when I traded contrarian, but yes, I
+had to endure some drawdown but I knew that it's just market playing
+with my emotion.. scroll back a few posts, you would see I posted a
+GBPCAD example, that's contrarian, that's a juicy level that I know
+price has to hit... and it did.
+FA: ببخشید.. MadMoney، آن «خلاف‌جریان» تعلیم RTM نیست.. ببخشید که گیجت کردم. این یادداشت شخصی من است.. باید آن بخش را حذف می‌کردم!
+
+هر وقت خلاف‌جریان معامله کردم، حتی یک معامله را نباخته‌ام؛ ولی بله، مجبور شدم کمی دراودان تحمل کنم، چون می‌دانستم این فقط بازار است که با احساساتم بازی می‌کند.. چند پست عقب‌تر برو، می‌بینی مثالی از GBPCAD گذاشتم؛ آن خلاف‌جریان بود، سطحی آبدار که می‌دانستم قیمت باید بزند... و زد.
+
+### astrokillah_p11_4
+EN: Don't be sorry, I will still be experimenting.
+
+Thanks for clearing that up.
+FA: لازم نیست عذرخواهی کنی، من باز هم آزمایش می‌کنم.
+
+ممنون که روشنش کردی.
+
+### astrokillah_p11_5
+EN: This simple trade scalp pushed me over +40% for the month.
+
+I saw FL-B being engulfed, so I shorted, perhaps a little bit early but
+at that time, I was only looking for a few pips to reach my goal.
+
+Then price reversed just before my target zone, and put me into drawdown later.
+
+I saw an LSK above (purple line with arrow) and I planned a short but it
+ didn't get triggered, nevertheless, price eventually dropped towards my
+ TP.
+
+Patience is a virtue... what more can I say? Thank you RTM, thank you Master IF!
+FA: این اسکالپ ساده مرا در این ماه از +40% عبور داد.
+
+دیدم FL-B اینگالف می‌شود، پس فروش زدم؛ شاید کمی زود، ولی آن موقع فقط چند پیپ می‌خواستم تا به هدفم برسم.
+
+بعد قیمت درست پیش از ناحیهٔ تارگتم برگشت و کمی بعد مرا به دراودان برد.
+
+بالاتر یک LSK دیدم (خط بنفش با فلش) و فروش را برنامه‌ریزی کردم، ولی فعال نشد؛ با این حال قیمت در نهایت به سمت تارگتم ریخت.
+
+صبر فضیلت است... چه بیشتر می‌توانم بگویم؟ ممنون RTM، ممنون استاد IF!
+
+### astrokillah_p11_6
+EN: i admit that you have steel balls and iron heart, that you withstand such pressure!
+
+opening 5 lots and be so much in drawdown...
+
+you have really everything in right place in your head!!!
+FA: اعتراف می‌کنم که جسارت فولادی و قلب آهنین داری که چنین فشاری را تحمل می‌کنی!
+
+بازکردن 5 لات و این‌قدر در دراودان بودن...
+
+واقعاً همه‌چیز در سرت سر جای خودش است!!!
+
+### astrokillah_p11_7
+EN: Astrokillah wrote: This simple trade scalp pushed me over +40% for the month.
+
+I saw FL-B being engulfed, so I shorted, perhaps a little bit early but
+at that time, I was only looking for a few pips to reach my goal.
+
+Then price reversed just before my target zone, and put me into drawdown later.
+
+I saw an LSK above (purple line with arrow) and I planned a short but it
+ didn't get triggered, nevertheless, price eventually dropped towards my
+ TP.
+
+Patience is a virtue... what more can I say? Thank you RTM, thank you Master IF!
+
+Holy shit :D That drawdown is on same level as Ifmyante's. Great trading :D
+
+Dengaima
+FA: Astrokillah نوشت: این اسکالپ ساده مرا در این ماه از +40% عبور داد.
+
+دیدم FL-B اینگالف می‌شود، پس فروش زدم؛ شاید کمی زود، ولی آن موقع فقط چند پیپ می‌خواستم تا به هدفم برسم.
+
+بعد قیمت درست پیش از ناحیهٔ تارگتم برگشت و کمی بعد مرا به دراودان برد.
+
+بالاتر یک LSK دیدم (خط بنفش با فلش) و فروش را برنامه‌ریزی کردم، ولی فعال نشد؛ با این حال قیمت در نهایت به سمت تارگتم ریخت.
+
+صبر فضیلت است... چه بیشتر می‌توانم بگویم؟ ممنون RTM، ممنون استاد IF!
+
+لعنتی :D آن دراودان هم‌سطح دراودان Ifmyante است. معاملهٔ عالی :D
+
+Dengaima
+
+### astrokillah_p11_8
+EN: Dangamia,
+
+You've just jinxed me!
+ After you posted this message, I got into some immediate trouble, and
+suffered the biggest drawdown of the month. But then, I kept my cool,
+and slowly worked back my losses. As of today, my account is up +52% for
+ the month of January.
+
+Thank you RTM!!
+FA: Dangamia،
+
+همین حالا چشم‌زخم زدی! بعد از اینکه این پیام را گذاشتی، فوراً به دردسر افتادم و بزرگ‌ترین دراودان ماه را تجربه کردم. ولی خونسردیم را حفظ کردم و آهسته ضررهایم را برگرداندم. تا امروز، حسابم در ماه January با +52% رشد است.
+
+ممنون RTM!!
+
+### astrokillah_p11_9
+EN: Considering the drawdown stats of retail fund managements out there, 3% drawdown is relatively "negligible" if you ask me
+
+Show this to an assets management company and I'm quite sure they'll invest all of their clients' money to you.
+
+Thanks for showing us all that it CAN be done
+FA: با توجه به آمار دراودان صندوق‌های مدیریت سرمایهٔ خرده در بازار، اگر از من بپرسی 3% دراودان نسبتاً «ناچیز» است.
+
+این را به یک شرکت مدیریت دارایی نشان بده؛ تقریباً مطمئنم همهٔ پول مشتریانشان را به تو می‌سپارند.
+
+ممنون که به همه نشان دادی این کار شدنی است
+
+### astrokillah_p11_10
+EN: Bro Frosty, far from it.. I would only apply for a job when I can
+catch those high RR trade consistently.. right now I am still relying on
+ SCALP.. it's a marathon.. I don't like it
+
+Today I closed a few more scalps.. pushing account up to +55.2% for the
+month. I shall now trade very mini lot size.. there's no reason to take
+any more risk.. tomorrow a new month shall begin..
+
+Frosty wrote: Considering the
+drawdown stats of retail fund managements out there, 3% drawdown is
+relatively "negligible" if you ask me
+
+Show this to an assets management company and I'm quite sure they'll invest all of their clients' money to you.
+
+Thanks for showing us all that it CAN be done
+FA: برادر Frosty، اصلاً این‌طور نیست.. من فقط وقتی برای چنین کاری درخواست می‌دهم که بتوانم آن معامله‌های RR بالا را پیوسته بگیرم.. الان هنوز به اسکالپ تکیه دارم.. ماراتن است.. دوستش ندارم
+
+امروز چند اسکالپ دیگر بستم.. حساب را در این ماه به +55.2% رساندم. از این به بعد با حجم لات خیلی کوچک معامله می‌کنم.. دلیلی برای ریسک بیشتر نیست.. فردا ماه جدید شروع می‌شود..
+
+Frosty نوشت: با توجه به آمار دراودان صندوق‌های مدیریت سرمایهٔ خرده در بازار، اگر از من بپرسی 3% دراودان نسبتاً «ناچیز» است.
+
+این را به یک شرکت مدیریت دارایی نشان بده؛ تقریباً مطمئنم همهٔ پول مشتریانشان را به تو می‌سپارند.
+
+ممنون که به همه نشان دادی این کار شدنی است
+
+### astrokillah_p11_11
+EN: This is going to be a long post, as I have received several pm asking
+ me how do I scalp, I thought I owe a lot to this community so I am
+going to use this opportunity to give it back. Scalping is not hard, but
+ it requires more screen hours per day. There are several rules I
+follow:
+
+Rule#1: NO RED NEWS
+
+Rule#2: Understand how Pro Money work.
+
+With regards to Rule#2, there is one paragraph, taken from "The Doctor's Patients" journal, that I hang on my wall:
+
+Remember, for prices to rise they must first fall, why? Unless Pro
+Money can get you stopped out, trading in the wrong direction, they will
+ not have enough profit margin to start the move and make it pay.
+
+I am going to use a scalp on GBPJPY as an example. Looking at the Weekly
+ chart, it shows that we are now at a critical area where heavy tricks
+were played in the past. I have no idea what price is going to do, so
+entering and holding a trade hoping for 50RR is out of the question for
+me.
+
+But scalping is always available.. and is available 24/7. So I look at what price is doing on H4:
+
+Two things to point out:
+
+1) Note the messy area inside red circle. Conventional SD theory says
+this is a low quality demand zone, because it's not clean, too many
+candles. Well to me, this is utterly nonsense, because I often see such
+messy zone acting as very strong support/resistance area. It's very
+difficult for price to break such zone.
+
+2) Look at how price bounced from the tip of that zone, this is classic
+Pro Money at work, they used RED NEWS to drop the price hard, real hard,
+ and made everyone think that the time has come, it's finally turning,
+and they sold into the trap set up by Pro Money.
+
+So looking at how price has been moving since it hit that blue
+horizontal line, it broke higher high, and now is taking a breather,
+that begs the question: do you think Pro-Money are done? Pro-Money
+were already up there at 156.44 level, why did they drove price down and
+ then drove it back up to the same level?
+
+Next up is 5 min chart, just before I took a scalp. Looking at this, I made up my mind, I'm going to scalp long:
+
+Then I look at 1-min chart and what I see:
+
+The first thing that gave me confidence about taking a long is that
+price has broken into CPAZ. This is actually one of the most powerful
+concept introduced by Master IF: When a PCP is broken, price would
+travel to the end of the CPAZ. So I smelled blood. The question is,
+where do I entered? I saw price making a very nice ascending TL, I
+remember Doctor's words of wisdom:"Price has to fall before it can rise". So naturally I set my BUY limit order below that dubious TL, and my TP just below the tip of the CPAZ.
+
+And here were the outcome. Not sure if you can see the blue dotted line and the arrows, so I marked my entry/exit manually.
+
+This little scalp pushed me over +62%:
+
+At the moment, price is back to ranging again, it even went lower than
+my exit point, so if I hold this trade hoping for bigger RR, I would
+have gotten nothing out of it. Do I think Pro Money are done? No, I
+don't know.. doesn't look like it. I would follow Doctor's medicine:
+
+A safer way to trade is to wait a few days after the daily/weekly
+turn has established a new direction because people have spent a life
+time of fortune trying to pick tops and bottoms.
+
+Until that happens, I shall happily remain in scalping mode.
+FA: این پست طولانی خواهد بود؛ چون چند پیام خصوصی گرفتم که می‌پرسند چطور اسکالپ می‌کنم، فکر کردم به این جامعه خیلی مدیونم، پس از این فرصت استفاده می‌کنم تا دینم را ادا کنم. اسکالپ سخت نیست، ولی ساعت‌های بیشتری پشت صفحه می‌خواهد. چند قاعده دارم که رعایت می‌کنم:
+
+قاعدهٔ 1: خبر قرمز ممنوع
+
+قاعدهٔ 2: بفهم که پول حرفه‌ای چطور کار می‌کند.
+
+دربارهٔ قاعدهٔ 2، یک پاراگراف از ژورنال «The Doctor's Patients» هست که به دیوارم زده‌ام:
+
+یادت باشد، برای اینکه قیمت‌ها بالا بروند اول باید پایین بیایند؛ چرا؟ چون پول حرفه‌ای تا وقتی نتواند تو را در جهت اشتباه با استاپ بیرون کند، حاشیهٔ سود کافی ندارد که حرکت را شروع کند و به سود برساند.
+
+می‌خواهم یک اسکالپ روی GBPJPY را مثال بزنم. با نگاهی به چارت هفتگی، می‌بینیم الان در ناحیه‌ای حیاتی هستیم که در گذشته ترفندهای سنگینی در آن اجرا شده. هیچ ایده‌ای ندارم قیمت چه خواهد کرد، پس وارد شدن و نگه‌داشتن معامله به امید 50RR برای من منتفی است.
+
+ولی اسکالپ همیشه در دسترس است.. و 24/7 در دسترس است. پس می‌بینم قیمت روی H4 چه می‌کند:
+
+دو نکته را باید بگویم:
+
+1) ناحیهٔ به‌هم‌ریخته داخل دایرهٔ قرمز را ببین. تئوری متعارف SD می‌گوید این یک ناحیهٔ تقاضای بی‌کیفیت است، چون تمیز نیست و کندل‌های زیادی دارد. خوب، برای من این کاملاً بی‌معنی است، چون بارها دیده‌ام چنین ناحیهٔ به‌هم‌ریخته‌ای نقش ناحیهٔ حمایت/مقاومت خیلی قوی را بازی می‌کند. شکستن چنین ناحیه‌ای برای قیمت خیلی سخت است.
+
+2) ببین قیمت چطور از نوک آن ناحیه برگشت؛ این پول حرفه‌ای در عمل است، کلاسیک. با خبر قرمز قیمت را محکم، واقعاً محکم پایین آوردند و همه را به این باور رساندند که وقتش رسیده و بالاخره بازار برمی‌گردد، و بعد به تلهٔ چیده‌شدهٔ پول حرفه‌ای فروختند.
+
+پس با نگاهی به حرکت قیمت از زمانی که آن خط افقی آبی را زد، سقف بالاتر را شکست و الان دارد نفس تازه می‌کند؛ این سؤال پیش می‌آید: فکر می‌کنی کار پول حرفه‌ای تمام شده؟ پول حرفه‌ای از قبل آن بالا در سطح 156.44 بود؛ چرا قیمت را پایین آوردند و بعد دوباره به همان سطح بالا بردند؟
+
+بعدی چارت 5 دقیقه است، درست پیش از اینکه اسکالپ بگیرم. با نگاه به این، تصمیمم را گرفتم: می‌خواهم اسکالپ خرید بزنم:
+
+بعد چارت 1 دقیقه را نگاه کردم و این را دیدم:
+
+اولین چیزی که برای گرفتن پوزیشن خرید به من اطمینان داد این بود که قیمت به CPAZ شکسته است. این در واقع یکی از قدرتمندترین مفاهیمی است که استاد IF معرفی کرد: وقتی PCP شکسته می‌شود، قیمت تا انتهای CPAZ می‌رود. پس بوی خون حس کردم. سؤال این است، کجا وارد شوم؟ دیدم قیمت یک TL صعودی خیلی قشنگ می‌سازد؛ حرف حکیمانهٔ Doctor یادم آمد: «قیمت باید پایین بیاید تا بتواند بالا برود». پس طبیعتاً سفارش لیمیت خریدم را زیر آن TL مشکوک گذاشتم و تارگتم را درست زیر نوک CPAZ.
+
+و نتیجه این شد. مطمئن نیستم خط نقطه‌چین آبی و فلش‌ها را ببینی، پس ورود/خروج را دستی علامت زدم.
+
+این اسکالپ کوچک مرا از +62% عبور داد:
+
+در حال حاضر، قیمت دوباره به رنج برگشته و حتی پایین‌تر از نقطهٔ خروج من رفته؛ پس اگر این معامله را به امید RR بیشتر نگه می‌داشتم، چیزی از آن نصیبم نمی‌شد. فکر می‌کنم کار پول حرفه‌ای تمام شده؟ نه، نمی‌دانم.. این‌طور به نظر نمی‌رسد. من داروی Doctor را دنبال می‌کنم:
+
+راه مطمئن‌تر برای معامله این است که بعد از اینکه چرخش روزانه/هفتگی جهت جدیدی ساخت، چند روز صبر کنی، چون آدم‌ها عمری ثروت صرف کرده‌اند تا سقف و کف را حدس بزنند.
+
+تا آن موقع، با خوشحالی در حالت اسکالپ می‌مانم.
+
+### astrokillah_p11_12
+EN: This week has been good to me. Caught several big trades and I am near
+ doubling my account. First was this USDCAD long that gave me 7R:
+
+And now I totally regretted not holding it
+
+But that's beside the point, now, I have learned to be contented.. not
+letting missed opportunity affect my emotion, it's more important to me
+to finish each day on a positive balance than aiming for high RR.
+
+There is one aspect of trading that still haunt me, and it is to do with
+ determining which flag is going to hold or fail, I have often observed
+the following:
+
+The above is a diagram when price is trending up, the same applies when
+price is trending down. What I often noticed was, as price is trending
+up, it tends to create staircase of flags along the way, it would then
+hit a historical zone (a supply level to the left) and dropped towards
+the flags. Sometimes, it would bounce at the first flag (A), but more
+often than not, it would break the first flag but bounce from the second
+ flag (B). I have been a victim of this many times in the past, because
+each time, when I saw the first flag getting engulfed, I thought ok,
+seems like it's ready to change direction, so I went short, but then
+price gets to the next flag and rallied up strongly. So I have
+recently made some adjustment to my trading plan, if I decide to touch
+trade, I would enter a smaller lot size at the first flag, if it fails, I
+ would enter a larger lot size at the second flag. If both flags fail,
+then I would surrender and exit both trades.
+
+The second big trade was taken on GBPJPY, at the First Engulf
+
+How it looked in 5-min chart:
+
+Account up +95% (47.5k out of 50k capital) since January 2.
+Nevertheless, I have made several mistakes along the way, resulting in
+bigger drawdown.
+FA: این هفته به من خوش گذشت. چند معاملهٔ بزرگ گرفتم و نزدیک است حسابم را دو برابر کنم. اولی این خرید USDCAD بود که 7R داد:
+
+و حالا کاملاً پشیمانم که نگهش نداشتم
+
+ولی این حرف اصلی نیست؛ حالا یاد گرفته‌ام قانع باشم.. نگذارم فرصت ازدست‌رفته روی احساسم اثر بگذارد؛ برای من تمام‌کردن هر روز با موجودی مثبت مهم‌تر از هدف‌گذاری روی RR بالا است.
+
+یک جنبه از معامله‌گری هست که هنوز آزارم می‌دهد و به تشخیص اینکه کدام پرچم نگه می‌دارد و کدام می‌شکند مربوط است. بارها این را دیده‌ام:
+
+نمودار بالا زمانی است که قیمت روند صعودی دارد؛ وقتی روند نزولی است هم همین‌طور است. چیزی که بارها متوجه شده‌ام این بود که وقتی قیمت در روند صعودی است، معمولاً در مسیر یک پلکان از پرچم‌ها می‌سازد، بعد به یک ناحیهٔ تاریخی می‌رسد (سطح عرضه‌ای در سمت چپ) و به سمت پرچم‌ها سقوط می‌کند. بعضی وقت‌ها در پرچم اول (A) برمی‌گردد، ولی بیشتر وقت‌ها پرچم اول را می‌شکند و از پرچم دوم (B) برمی‌گردد. من در گذشته بارها قربانی این ماجرا شده‌ام، چون هر بار وقتی می‌دیدم پرچم اول اینگالف می‌شود، فکر می‌کردم خب، انگار آماده است جهت را عوض کند، پس فروش می‌زدم، ولی بعد قیمت به پرچم بعدی می‌رسید و قوی بالا می‌رفت. پس اخیراً در پلن معاملاتی‌ام کمی تغییر داده‌ام: اگر تصمیم بگیرم معامله کنم، در پرچم اول با حجم لات کوچک‌تر وارد می‌شوم؛ اگر شکست خورد، در پرچم دوم با حجم بزرگ‌تر وارد می‌شوم. اگر هر دو پرچم شکست بخورند، تسلیم می‌شوم و از هر دو معامله خارج می‌شوم.
+
+معاملهٔ بزرگ دوم روی GBPJPY و در اولین اینگالف گرفته شد
+
+در چارت 5 دقیقه این‌طور بود:
+
+حساب از 2 January با +95% رشد (47.5k از 50k سرمایه). با این حال، در مسیر چند اشتباه کرده‌ام که دراودان بزرگ‌تری ساخته.
+
+### astrokillah_p11_13
+EN: Further to my previous post, I would like to seek opinion/help from everyone on the aspect that still haunt me.
+
+See this following GBPJPY recent price action, it has shaken my faith (a
+ little) in using engulf as valid PA to trade The thing is, we have a
+UFL that had held price down, and then I saw an engulf south into CPAZ,
+but price still reversed and broke the UFL, so I am scratching my head a
+ little.
+
+We look closer within the red circle area:
+
+So as price rallying up, it created a CPAZ and FL-A. Price hit UFL, this
+ is the 3rd test (as you can see from first chart above). Nevertheless,
+price dropped and engulfed FL-A, it reached PCP and bounced upwards, if
+you pay attention, at Point 2, price hit the LSK to the pip and dropped
+back down, engulfed PCP at Point 3.
+
+Hence following the Principle of Engulf, when price went back up towards
+ the UFL, it would be a valid short setup and we must put our stop loss
+above the UFL.
+
+But as you can see, the trade failed.
+
+Does anyone see anything difference from what I saw? Was it a valid short or not?
+
+Thank you very much for all that are helping out!
+FA: در ادامهٔ پست قبلی‌ام، می‌خواهم دربارهٔ آن جنبه‌ای که هنوز آزارم می‌دهد از همه نظر/کمک بگیرم.
+
+این حرکت قیمت اخیر GBPJPY را ببین؛ کمی ایمانم را به استفاده از اینگالف به‌عنوان PA معتبر برای معامله لرزانده. ماجرا این است که یک UFL داریم که قیمت را پایین نگه داشته بود، و بعد اینگالفی به سمت پایین و داخل CPAZ دیدم، ولی قیمت باز هم برگشت و UFL را شکست، پس کمی سرم را می‌خارانم.
+
+بیایید داخل ناحیهٔ دایرهٔ قرمز را نزدیک‌تر ببینیم:
+
+پس وقتی قیمت بالا می‌رفت، یک CPAZ و FL-A ساخت. قیمت به UFL خورد؛ این سومین تست است (همان‌طور که در چارت اول بالا می‌بینی). با این حال، قیمت افتاد و FL-A را اینگالف کرد، به PCP رسید و به بالا برگشت؛ اگر دقت کنی، در نقطهٔ 2 قیمت دقیقاً تا پیپ به LSK خورد و برگشت پایین و در نقطهٔ 3 PCP را اینگالف کرد.
+
+بنابراین طبق اصل اینگالف، وقتی قیمت دوباره به سمت UFL برگشت، باید یک ستاپ فروش معتبر باشد و باید استاپ‌لاسمان را بالای UFL بگذاریم.
+
+ولی همان‌طور که می‌بینی، معامله شکست خورد.
+
+کسی چیزی متفاوت از آنچه من دیدم می‌بیند؟ آیا این فروش معتبر بود یا نه؟
+
+خیلی ممنون از همه که کمک می‌کنند!
+
+### astrokillah_p11_14
+EN: In my eyes, we've hit our target, plain and simple
+FA: از نظر من، به تارگتمان رسیده‌ایم؛ ساده و روشن.
+
+### astrokillah_p11_15
+EN: Thank you Master IF for dropping by! Your help is deeply appreciated!
+
+I am on fire today, I finally doubled my account, it took 27 trading days (since January 2, 2018)
+
+If I close all my trade right now, my account would be up almost +110%,
+still holding USDCAD long trade, I figure this can go a long way.
+
+Thank you RTM!!!
+FA: ممنون استاد IF که سر زدی! کمک تو را عمیقاً قدر می‌دانم!
+
+امروز در اوج هستم؛ بالاخره حسابم را دو برابر کردم، 27 روز معاملاتی طول کشید (از 2 January 2018).
+
+اگر همین حالا همهٔ معامله‌هایم را ببندم، حسابم تقریباً +110% رشد کرده؛ هنوز معاملهٔ خرید USDCAD را دارم و فکر می‌کنم راه زیادی دارد.
+
+ممنون RTM!!!
+
+### astrokillah_p11_16
+EN: That is badass AK!!!! Your account growth is a thing of beauty but really the best part is your very, very low drawdown!
+
+I want to give you a piece of advice although at this point you have
+become the mentor and I'm going to be asking you questions, lol.
+
+You are on fire right now (the last few months actually). At some point
+ in the future, the market will change it's personality, e.g. moving
+from consolidating markets to trending markets, low volatility to high
+volatility, etc. Sometimes when this happens a trader who was in tune
+with the market suddenly falls out of sync. You go from a high batting
+average to struggling. Often when this happens the trader will trying
+to study harder, analyze their losing trades, make tweaks and changes,
+trying to get back to killing it in the market. This is actually very
+dangerous and counter productive. If one is not careful they can lose
+sight of what was making them very successful especially once the market
+ goes back to behaving in a way that suits the trader.
+
+What I recommend is you go back through your last 50 trades and analyze
+them right now while you are still "seeing" the market. Write down what
+ type of trades you took, what type of SL placement, how did you manage
+the trades (partial profit at TG1, full profit at TG2). Because this
+information will be invaluable one day when you fall out of sync with
+the market.
+FA: این عالیه AK!!!! رشد حسابت دیدنی است، ولی راستش بهترین بخشش دراودان خیلی خیلی کمت است!
+
+می‌خواهم یک نصیحت به تو بکنم، هرچند در این مرحله تو استاد شده‌ای و قرار است من از تو سؤال بپرسم، ههه.
+
+الان در اوج هستی (راستش چند ماه گذشته هم همین‌طور). یک زمانی در آینده، بازار شخصیتش را عوض می‌کند، مثلاً از بازارهای تثبیتی به بازارهای رونددار، از نوسان کم به نوسان بالا و غیره. گاهی وقتی این اتفاق می‌افتد، معامله‌گری که با بازار هم‌آهنگ بود ناگهان از ریتم می‌افتد. از میانگین موفقیت بالا به تقلا می‌رسی. بیشتر وقت‌ها در چنین حالتی معامله‌گر سعی می‌کند سخت‌تر مطالعه کند، معامله‌های بازنده‌اش را تحلیل کند، تغییرات کوچک بدهد و تلاش کند به اوج قبلی در بازار برگردد. این در واقع خیلی خطرناک و ضدبازده است. اگر آدم حواست نباشد، ممکن است از چیزی که او را خیلی موفق کرده بود غافل شود، مخصوصاً وقتی بازار دوباره طوری رفتار کند که به سبک آن معامله‌گر بخواند.
+
+پیشنهاد من این است که 50 معاملهٔ آخرت را مرور کنی و همین حالا، وقتی هنوز بازار را «می‌بینی»، تحلیلشان کنی. بنویس چه نوع معامله‌هایی گرفتی، استاپ‌لاس را چطور گذاشتی و معامله‌ها را چطور مدیریت کردی (سود جزئی در TG1، سود کامل در TG2). چون این اطلاعات روزی که از ریتم بازار بیرون بیفتی، بسیار ارزشمند خواهد بود.
+
+### astrokillah_p11_17
+EN: Hi IF, why would not you consider that part as a CP? Orders are consumed there too.Ifmyante wrote: In my eyes, we've hit our target, plain and simple
+FA: سلام IF، چرا آن بخش را CP در نظر نمی‌گیری؟ سفارش‌ها آنجا هم مصرف می‌شوند.Ifmyante نوشت: از نظر من، به تارگتمان رسیده‌ایم؛ ساده و روشن.
+
+### astrokillah_p11_18
+EN: I've always tended to look for pieces, or parcels, of PA. To me, visually, that piece of PA started at the high after that
+FA: من همیشه به دنبال تکه‌ها یا بسته‌هایی از PA بوده‌ام. از نظر بصری، آن تکه از PA از سقفی که بعد از آن آمد شروع می‌شد.
+
+### astrokillah_p11_19
+EN: Thank you so much Rinehart! I wish that I could trade as elegant as you, that's actually my main motivation since joining RTM!
+
+I see your setups - they're of high quality, set and forget type, and I
+wish I could do the same, but at the moment I'm too nervous to do set
+and forget, I need to babysit my trades. Scalping is really not that
+difficult but you need a lot of time, it's a marathon, if you see my
+curve, the growth is gentle, no big up or big down, because each trade I
+ only gain a little, and lose a little.
+
+Today is another big day for me.. somehow, I find myself able to trade
+with less stress knowing that I have already doubled my account so
+basically I'm trading with my profit. GBP spiked up big time during red
+news, and I waited patiently for them to hit H4 supply, and then I
+watched on LTF for weaknesses, I smelled blood when I saw sign of profit
+ taking by Pro-Money. I shorted the hell out of them.
+
+Account up +158% since January 2
+
+Mucho Gracias RTM!!!
+
+Rinehart wrote: That is badass
+AK!!!! Your account growth is a thing of beauty but really the best
+part is your very, very low drawdown!
+
+I want to give you a piece of advice although at this point you have
+become the mentor and I'm going to be asking you questions, lol.
+
+You are on fire right now (the last few months actually). At some point
+ in the future, the market will change it's personality, e.g. moving
+from consolidating markets to trending markets, low volatility to high
+volatility, etc. Sometimes when this happens a trader who was in tune
+with the market suddenly falls out of sync. You go from a high batting
+average to struggling. Often when this happens the trader will trying
+to study harder, analyze their losing trades, make tweaks and changes,
+trying to get back to killing it in the market. This is actually very
+dangerous and counter productive. If one is not careful they can lose
+sight of what was making them very successful especially once the market
+ goes back to behaving in a way that suits the trader.
+
+What I recommend is you go back through your last 50 trades and analyze
+them right now while you are still "seeing" the market. Write down what
+ type of trades you took, what type of SL placement, how did you manage
+the trades (partial profit at TG1, full profit at TG2). Because this
+information will be invaluable one day when you fall out of sync with
+the market.
+FA: خیلی ممنون Rinehart! آرزو می‌کنم می‌توانستم به زیبایی تو معامله کنم؛ این از زمان پیوستن به RTM انگیزهٔ اصلی من است!
+
+ستاپ‌هایت را می‌بینم؛ کیفیتشان بالاست، از نوع «بگذار و برو»، و آرزو می‌کنم می‌توانستم همین کار را بکنم، ولی الان برای «بگذار و برو» زیادی عصبی‌ام و باید بالای سر معامله‌هایم بمانم. اسکالپ واقعاً آن‌قدر سخت نیست، ولی وقت زیادی می‌خواهد؛ ماراتن است. اگر منحنی‌ام را ببینی، رشد آرام است، نه پرش بزرگ بالا و نه سقوط بزرگ، چون از هر معامله فقط کمی می‌گیرم و کمی می‌دهم.
+
+امروز هم روز بزرگی برای من است.. یک‌جوری با استرس کمتری معامله می‌کنم، چون می‌دانم حسابم را قبلاً دو برابر کرده‌ام و اساساً با سودم معامله می‌کنم. GBP در جریان خبر قرمز جهش بزرگی زد و من با صبر منتظر ماندم به عرضهٔ H4 برسد، بعد روی LTF ضعف‌ها را زیر نظر گرفتم؛ وقتی نشانهٔ سودگیری پول حرفه‌ای را دیدم، بوی خون حس کردم. با تمام قوا فروش زدم.
+
+حساب از 2 January با +158% رشد
+
+خیلی ممنون RTM!!!
+
+Rinehart نوشت: این عالیه AK!!!! رشد حسابت دیدنی است، ولی راستش بهترین بخشش دراودان خیلی خیلی کمت است!
+
+می‌خواهم یک نصیحت به تو بکنم، هرچند در این مرحله تو استاد شده‌ای و قرار است من از تو سؤال بپرسم، ههه.
+
+الان در اوج هستی (راستش چند ماه گذشته هم همین‌طور). یک زمانی در آینده، بازار شخصیتش را عوض می‌کند، مثلاً از بازارهای تثبیتی به بازارهای رونددار، از نوسان کم به نوسان بالا و غیره. گاهی وقتی این اتفاق می‌افتد، معامله‌گری که با بازار هم‌آهنگ بود ناگهان از ریتم می‌افتد. از میانگین موفقیت بالا به تقلا می‌رسی. بیشتر وقت‌ها در چنین حالتی معامله‌گر سعی می‌کند سخت‌تر مطالعه کند، معامله‌های بازنده‌اش را تحلیل کند، تغییرات کوچک بدهد و تلاش کند به اوج قبلی در بازار برگردد. این در واقع خیلی خطرناک و ضدبازده است. اگر آدم حواست نباشد، ممکن است از چیزی که او را خیلی موفق کرده بود غافل شود، مخصوصاً وقتی بازار دوباره طوری رفتار کند که به سبک آن معامله‌گر بخواند.
+
+پیشنهاد من این است که 50 معاملهٔ آخرت را مرور کنی و همین حالا، وقتی هنوز بازار را «می‌بینی»، تحلیلشان کنی. بنویس چه نوع معامله‌هایی گرفتی، استاپ‌لاس را چطور گذاشتی و معامله‌ها را چطور مدیریت کردی (سود جزئی در TG1، سود کامل در TG2). چون این اطلاعات روزی که از ریتم بازار بیرون بیفتی، بسیار ارزشمند خواهد بود.
+
+### astrokillah_p11_20
+EN: There is a saying, "the grass is always greener on the other side." I
+ wish I was able to be awake during the Euro Open and didn't have work
+meetings during the US Open so I could take better entries with a
+tighter SL! I have no doubt I would trade more like you if my full time
+ job and time zone didn't interfere.
+
+Keep doing exactly what you are doing! You can worrry about set and
+forget in a couple of years once you are loaded and trading while on
+vacation!
+FA: یک ضرب‌المثل هست: «چمن همسایه همیشه سبزتر است.» آرزو می‌کنم می‌توانستم موقع بازشدن بازار اروپا بیدار باشم و در بازشدن آمریکا جلسهٔ کاری نداشتم تا با استاپ‌لاس تنگ‌تر ورودهای بهتری بگیرم! شکی ندارم اگر شغل تمام‌وقتم و منطقهٔ زمانی‌ام دخالت نمی‌کرد، بیشتر شبیه تو معامله می‌کردم.
+
+دقیقاً همان کاری که می‌کنی را ادامه بده! نگرانی «بگذار و برو» را بگذار برای چند سال بعد، وقتی پولدار شدی و در تعطیلات معامله می‌کنی!
+
+### astrokillah_p11_21
+EN: Here are 2 charts to drive my point home.
+FA: این هم دو چارت که حرفم را ثابت کند.
+
+### astrokillah_p11_22
+EN: Thank you Rinehart, I could never thank you enough for your help.
+Since I joined this community, you have always been watching over my
+shoulder!
+
+I managed to tripled my account, took 33 trading days (since January 2).
+
+From the equity curve, you can see that I'm a scalper, and honestly, I'm
+ not proud of it, because I much prefer to set and forget. I have tried
+catching big RR trades but with limited success so far and my impatient
+steered me towards the easy path - scalping. So I am determined to fix
+this. I am going to stop scalping for a month and only focusing on
+taking quality trades: LSK, SRK, First Engulf, First Kink.
+
+Scalping on 1 min may not be for everyone, but it's actually not as
+daunting as most people wants you to believe. The most important thing
+is to make sure that you have HTF zone in control. And by HTF zone I
+mean H4 and above. Start your analysis from Monthly, Weekly, Daily and
+H4. Make sure you know where the key levels are. For example, price is
+dropping fast, and it eventually hit H4 demand, watch on LTF what price
+is doing, when you see bullish engulfing candles, followed by price
+making higher-low, higher-low - that's bullish signs. But more
+importantly, look at big picture, price do not travel in straight line,
+even though the overall picture is bearish, price loves to retrace
+upward to shake out weaker hands, look to see if there's a juicy H4
+supply above where ITs can use to take stops before dropping the price
+majorly again. When all the above conditions are met, now you pay
+attention to LTF supplies, these are supplies created when price was
+dropping hard, and when you see price engulfing north of a LTF supply,
+it's giving you a sign that it's ready to move towards the next LTF
+supply. Wait for price to retrace, take long entry at LTF demand,
+target next LTF supply.
+
+Sorry, it's too much words, It's time for me to fix my addiction to
+scalping. Probably I should stop trading live, go back to demo again and
+ only trade set and forget.
+FA: ممنون Rinehart، هرگز نمی‌توانم برای کمکت به‌اندازهٔ کافی تشکر کنم. از وقتی به این جامعه پیوستم، همیشه بالای شانه‌ام مراقبم بوده‌ای!
+
+توانستم حسابم را سه برابر کنم؛ 33 روز معاملاتی طول کشید (از 2 January).
+
+از منحنی اکوییتی می‌بینی که اسکالپرم و راستش به آن افتخار نمی‌کنم، چون «بگذار و برو» را خیلی بیشتر دوست دارم. تلاش کرده‌ام معامله‌های RR بالا بگیرم، ولی تا حالا موفقیت محدودی داشته‌ام و بی‌صبری‌ام مرا به مسیر آسان هل داده: اسکالپ. پس مصمم شده‌ام این را درست کنم. یک ماه اسکالپ را کنار می‌گذارم و فقط روی معامله‌های باکیفیت تمرکز می‌کنم: LSK، SRK، اولین اینگالف، اولین کینک.
+
+اسکالپ روی 1 دقیقه شاید برای همه نباشد، ولی واقعاً آن‌قدر هم که بیشتر مردم می‌خواهند باور کنی ترسناک نیست. مهم‌ترین چیز این است که مطمئن شوی ناحیهٔ HTF را در کنترل داری. و منظور من از ناحیهٔ HTF، H4 و بالاتر است. تحلیلت را از Monthly، Weekly، Daily و H4 شروع کن. مطمئن شو می‌دانی سطوح کلیدی کجا هستند. مثلاً قیمت تند دارد می‌ریزد و در نهایت به تقاضای H4 می‌رسد؛ روی LTF ببین قیمت چه می‌کند؛ وقتی کندل‌های اینگالف صعودی می‌بینی و بعد از آن قیمت کف بالاتر، کف بالاتر می‌سازد، این‌ها نشانه‌های صعودی‌اند. ولی مهم‌تر از آن، تصویر بزرگ را ببین؛ قیمت در خط مستقیم حرکت نمی‌کند، حتی وقتی تصویر کلی نزولی است، قیمت عاشق اصلاح صعودی است تا دست‌های ضعیف را تکان بدهد؛ ببین بالاتر عرضهٔ آبدار H4 هست که IT‌ها بتوانند از آن برای گرفتن استاپ استفاده کنند و بعد قیمت را دوباره به‌شدت پایین بیاورند. وقتی همهٔ این شرایط مهیا شد، حالا به عرضه‌های LTF توجه کن؛ این‌ها عرضه‌هایی هستند که وقتی قیمت تند می‌ریخت ساخته شدند و وقتی می‌بینی قیمت عرضهٔ LTF را به سمت شمال اینگالف می‌کند، نشانه می‌دهد آماده است به سمت عرضهٔ LTF بعدی برود. صبر کن قیمت اصلاح کند، در تقاضای LTF ورود خرید بگیر و عرضهٔ LTF بعدی را تارگت بگذار.
+
+ببخشید، حرف زیاد شد. وقتش است اعتیادم به اسکالپ را درمان کنم. احتمالاً باید معامله با حساب لایو را کنار بگذارم، به دمو برگردم و فقط «بگذار و برو» معامله کنم.
+
+### astrokillah_p11_23
+EN: Wow that is awesome performance brother!
+
+Just a few days and you have gone from double to tripling the account
+
+Since you're definitely the guy to ask about scalping, would you mind to share how you manage positions?
+
+i.e. how to determine your lot sizes, do you divide entries, do you use
+market orders / limit orders, do you place SL immediately along with
+your entry, etc.
+
+I tried scalping for about 3 days previously and decided it wasn't for
+me due to the inability to calculate lot sizes fast enough
+
+I'm struggling to fight the OCD tendency about getting lot sizes right
+(within 0.5% risk per trade of account balance) if trading on LTF.
+
+I have a lot size calculator, but still, the market is faster than me typing the number in
+
+So currently, its HTF from me and the lowest I'm going is H1.
+
+If you don't mind, I would like to learn from you regarding the above.
+
+Also I want to thank you for your well presented questions around RTM. They really answered lots of missing details imho
+
+Thank you brother!
+FA: وای، عملکردت فوق‌العاده است برادر!
+
+فقط چند روز و از دو برابر کردن به سه برابر کردن حساب رسیدی.
+
+چون تو قطعاً کسی هستی که باید دربارهٔ اسکالپ از او پرسید، می‌شود بگویی پوزیشن‌ها را چطور مدیریت می‌کنی؟
+
+یعنی چطور حجم لات را تعیین می‌کنی، ورودها را تقسیم می‌کنی یا نه، از سفارش مارکت / لیمیت استفاده می‌کنی، استاپ‌لاس را همان لحظه با ورود می‌گذاری و غیره.
+
+قبلاً حدود 3 روز اسکالپ را امتحان کردم و تصمیم گرفتم برای من نیست، چون نمی‌توانستم به‌اندازهٔ کافی سریع حجم لات را حساب کنم.
+
+برای غلبه بر وسواس دقیق‌بودن حجم لات (در چارچوب ریسک 0.5% از موجودی حساب در هر معامله) در معامله روی LTF تقلا می‌کنم.
+
+ماشین‌حساب حجم لات دارم، ولی با این حال بازار از تایپ‌کردن عدد توسط من سریع‌تر است.
+
+پس فعلاً کار من HTF است و پایین‌ترین تایم‌فریمی که می‌روم H1 است.
+
+اگر اشکالی نداری، دوست دارم دربارهٔ موارد بالا از تو یاد بگیرم.
+
+همچنین می‌خواهم برای سؤال‌های خوبت دربارهٔ RTM تشکر کنم. به نظر من واقعاً جزئیات گمشدهٔ زیادی را جواب دادند.
+
+ممنون برادر!
+
+### astrokillah_p11_24
+EN: Frosty, scalping needs fast decision making, so you have no time to
+calculate your lot size! Also, you need to make sure that there is NO
+RED NEWS. I cannot emphasize this enough. NO RED NEWS, NO RED NEWS.
+
+I use a fixed lot size when I scalp.. between 1 lots to 5 lots to start,
+ depending on how confident I was on the particular setup. I can even go
+ 20 lots if I am 200% sure that the target is going to be hit.
+
+Throw RR out of the window. When I scalped, I look for the absolute
+amount of money, so it's how many dollars am I getting out of each
+scalp, and it's not about RR. Sometimes I would take profit for $100
+(if I see my scalp is going nowhere after sometimes but I'm still in
+profit). Scalping is best when price is ranging.
+
+I said I 'started' with 1 lots (to 5 lots), because I would double up my
+ position in case my first zone fail. Refer to the diagram I posted on
+post #262. If my first zone fail, I would enter again the lower demand
+zone with 2 x first position size. And I would exit both trades when
+price return to my first entry. You have to have the discipline to get
+out when both zones fail..
+FA: Frosty، اسکالپ تصمیم‌گیری سریع می‌خواهد، پس وقتی برای حساب‌کردن حجم لات نداری! همچنین باید مطمئن شوی خبر قرمز وجود ندارد. نمی‌توانم به‌اندازهٔ کافی روی این تأکید کنم. بدون خبر قرمز، بدون خبر قرمز.
+
+وقتی اسکالپ می‌کنم از حجم لات ثابت استفاده می‌کنم.. برای شروع بین 1 لات تا 5 لات، بسته به اینکه چقدر به ستاپ خاص مطمئن بوده‌ام. حتی می‌توانم تا 20 لات بروم، اگر 200% مطمئن باشم تارگت زده می‌شود.
+
+RR را از پنجره بیرون بینداز. وقتی اسکالپ می‌کنم، به مقدار مطلق پول نگاه می‌کنم؛ یعنی از هر اسکالپ چند دلار می‌گیرم و ربطی به RR ندارد. بعضی وقت‌ها با 100 دلار سود خارج می‌شوم (اگر ببینم اسکالپم بعد از مدتی جایی نمی‌رود ولی هنوز در سودم). اسکالپ وقتی قیمت رنج می‌زند بهترین است.
+
+گفتم با 1 لات (تا 5 لات) «شروع می‌کنم»، چون در صورت شکست ناحیهٔ اول، پوزیشنم را دو برابر می‌کنم. به نموداری که در پست #262 گذاشتم نگاه کن. اگر ناحیهٔ اولم شکست بخورد، دوباره در ناحیهٔ تقاضای پایین‌تر با 2 برابر حجم پوزیشن اول وارد می‌شوم. و وقتی قیمت به ورود اولم برگشت، از هر دو معامله خارج می‌شوم. باید نظم داشته باشی که وقتی هر دو ناحیه شکست خوردند بیرون بیایی..
+
+### astrokillah_p11_25
+EN: Sorry I forgot to mention that I use manual entry when I scalped.
+Unless my first position is in drawdown because my first zone fails,
+then I might place limit order at the next zone.
+
+Cheers
+
+AK
+FA: ببخشید، یادم رفت بگویم وقتی اسکالپ می‌کنم دستی وارد می‌شوم. مگر اینکه پوزیشن اولم به دلیل شکست ناحیهٔ اول در دراودان باشد که آن‌وقت ممکن است در ناحیهٔ بعدی سفارش لیمیت بگذارم.
+
+به سلامت
+
+AK

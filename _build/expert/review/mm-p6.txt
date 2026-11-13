@@ -1,0 +1,151 @@
+### mm_p6_1
+EN: USDCHF
+FA: USDCHF
+
+### mm_p6_2
+EN: USDCAD
+FA: USDCAD
+
+### mm_p6_3
+EN: EURJPY
+FA: EURJPY
+
+### mm_p6_4
+EN: EURJPY closed
+FA: EURJPY بسته شد
+
+### mm_p6_5
+EN: USDCAD closed
+FA: USDCAD بسته شد
+
+### mm_p6_6
+EN: USDCHF closed
+FA: USDCHF بسته شد
+
+### mm_p6_7
+EN: My opinion if you don't mind.
+FA: اگر اشکالی ندارد، نظر من این است.
+
+### mm_p6_8
+EN: Practice session 1
+FA: جلسه تمرین 1
+
+### mm_p6_9
+EN: Practice session 2
+FA: جلسه تمرین 2
+
+### mm_p6_10
+EN: Note to self and others
+FA: یادداشتی برای خودم و دیگران
+
+### mm_p6_11
+EN: EURUSD
+FA: EURUSD
+
+### mm_p6_12
+EN: GBPUSD
+FA: GBPUSD
+
+### mm_p6_13
+EN: USDCAD
+FA: USDCAD
+
+### mm_p6_14
+EN: GBPUSD
+FA: GBPUSD
+
+### mm_p6_15
+EN: AUDUSD
+FA: AUDUSD
+
+### mm_p6_16
+EN: Madmoney wrote: AUDUSD hai mate.. just for another POV big pictures LTF
+FA: Madmoney نوشت: AUDUSD. سلام رفیق.. فقط برای یک زاویه دید دیگر، تصویر کلی در تایم‌فریم پایین‌تر.
+
+### mm_p6_17
+EN: Hi Gembel, thanks for your POV.
+
+This is my POV (H4 style).
+
+gembel wrote: Madmoney wrote: AUDUSD hai mate.. just for another POV big pictures LTF
+FA: سلام Gembel، ممنون از دیدگاهت.
+
+این هم برداشت من است (به سبک H4).
+
+gembel نوشت: Madmoney نوشت: AUDUSD. سلام رفیق.. فقط برای یک زاویه دید دیگر، تصویر کلی در تایم‌فریم پایین‌تر.
+
+### mm_p6_18
+EN: AUDUSD update
+FA: به‌روزرسانی AUDUSD
+
+### mm_p6_19
+EN: Madmoney wrote: GBPUSD GBPUSD update Stops moved, gonna let the trade run to TG or let it take me out.
+FA: Madmoney نوشت: GBPUSD — به‌روزرسانی GBPUSD. استاپ‌ها را جابه‌جا کردم؛ می‌گذارم معامله تا TG پیش برود یا اینکه مرا بیرون بیاورد.
+
+### mm_p6_20
+EN: EURJPY (last trade of the week)
+FA: EURJPY (آخرین معامله هفته)
+
+### mm_p6_21
+EN: Madmoney wrote: AUDUSD update This one was quite predictable
+FA: Madmoney نوشت: AUDUSD به‌روزرسانی. این یکی کاملاً قابل پیش‌بینی بود.
+
+### mm_p6_22
+EN: Madmoney wrote: Madmoney wrote: AUDUSD update This one was quite predictable nice trade on AU i currently went long on AU...
+
+stack orders, weekly FO or consumption to go lower?? times will tell
+FA: Madmoney نوشت: Madmoney نوشت: AUDUSD به‌روزرسانی. این یکی کاملاً قابل پیش‌بینی بود. معامله خوبی روی AU بود؛ من همین حالا روی AU پوزیشن خرید گرفته‌ام...
+
+سفارش‌ها را پلهای چیده‌ام؛ FO هفتگی یا مصرف برای رفتن به پایین‌تر؟؟ زمان نشان می‌دهد.
+
+### mm_p6_23
+EN: Hi madmoney, nice journal and nice way to train and to improve skills! i hope you don't mind for this space i'm taking in your journal, this one is alive and updated while many others are"drying" (everybody busy, we know),so for any question ( i'm still studying this powerful RTM and beginning to practice),no chances effectiveto get attention by masters, associated, elites and so on. So just few questions, that i'm really thanking you and anybody else will answer to 1) in your trades i saw often you would consider a "wide" SL Maybe you enter without SL, to set it later, when the price starts to follow your plan?
+
+2) I pose this question because i see always, really always, the price reacts immediately against my entry, just temporary (....it means many pips minus, and fear.....), then it comes later to my plan. So if i set a tightSL at the entry it will be taken, always. It means just wrong entry? by the way entering without SL allows really to save money.... 3) The IT (institutions, pro-money, market-makers...) somehow know demo entries and react to them differently? or just they don't care at all about entries (real or demo) and just go their ways?
+
+Thanks a lot, all the best!
+FA: سلام madmoney، ژورنال خوبی داری و روش خوبی برای تمرین و بهتر کردن مهارت‌هاست! امیدوارم از فضایی که در ژورنال تو اشغال می‌کنم ناراحت نشوی؛ این ژورنال زنده و به‌روز است، در حالی که خیلی‌های دیگر دارند «خشک می‌شوند» (همه درگیرند، که می‌دانیم). پس برای هر سؤالی (من هنوز در حال مطالعه این RTM قدرتمند هستم و تازه شروع به تمرین کرده‌ام) عملاً شانسی برای جلب توجه استادها، associateها، eliteها و امثال آن باقی نمی‌ماند. پس فقط چند پرسش، که واقعاً از تو و از هر کس دیگری که پاسخ بدهد ممنونم: 1) در معاملاتت دیدم که اغلب SL «پهن» را در نظر می‌گیری. شاید بدون SL وارد می‌شوی و بعداً، وقتی قیمت شروع به حرکت طبق پلنت کرد، آن را می‌گذاری؟
+
+2) این سؤال را می‌پرسم چون همیشه می‌بینم — واقعاً همیشه — که قیمت بلافاصله برخلاف ورود من واکنش نشان می‌دهد، فقط به‌طور موقت (....یعنی چند پیپ منفی، و ترس.....)، و بعداً به سمت پلن من می‌آید. پس اگر هنگام ورود SL تنگ بگذارم، حتماً زده می‌شود. یعنی ورودم اشتباه بوده؟ راستی، ورود بدون SL واقعاً اجازه می‌دهد پول ذخیره کنی.... 3) آیا ITها (نهادهای مالی، پول حرفه‌ای، بازارسازها...) به نحوی ورودهای دمو را می‌دانند و به آن‌ها طور دیگری واکنش می‌دهند؟ یا اصلاً به ورودها (واقعی یا دمو) اهمیتی نمی‌دهند و کار خودشان را می‌کنند؟
+
+خیلی ممنون، بهترین‌ها را برایت آرزو می‌کنم!
+
+### mm_p6_24
+EN: althoufx wrote: Hi madmoney, nice journal and nice way to train and to improve skills!
+
+i hope you don't mind for this space i'm taking in your journal, this one is alive and updated while many others are"drying" (everybody busy, we know),so for any question ( i'm still studying this powerful RTM and beginning to practice),no chances effectiveto get attention by masters, associated, elites and so on.
+
+So just few questions, that i'm really thanking you and anybody else will answer to 1) in your trades i saw often you would consider a "wide" SL Maybe you enter without SL, to set it later, when the price starts to follow your plan?
+
+2) I pose this question because i see always, really always, the price reacts immediately against my entry, just temporary (....it means many pips minus, and fear.....), then it comes later to my plan. So if i set a tightSL at the entry it will be taken, always. It means just wrong entry? by the way entering without SL allows really to save money.... 3) The IT (institutions, pro-money, market-makers...) somehow know demo entries and react to them differently? or just they don't care at all about entries (real or demo) and just go their ways?
+
+Thanks a lot, all the best!
+
+Hi althoufx, I am no expert, but I'll answer regarding my process.
+
+My SL is either mental or done by my hidden SL EA (that is why you do not see it on my chart).
+
+With this website the golden nuggets are in pieces and it should be studied as such, master every piece and then move onto the next, for example I'm trying to master always being on the right side of the market (nothing else), after that I am going to perfect my entries.
+
+Wrap your head around these pictures and you'll see consistency.
+FA: althoufx نوشت: سلام madmoney، ژورنال خوبی داری و روش خوبی برای تمرین و بهتر کردن مهارت‌هاست!
+
+امیدوارم از فضایی که در ژورنال تو اشغال می‌کنم ناراحت نشوی؛ این ژورنال زنده و به‌روز است، در حالی که خیلی‌های دیگر دارند «خشک می‌شوند» (همه درگیرند، که می‌دانیم). پس برای هر سؤالی (من هنوز در حال مطالعه این RTM قدرتمند هستم و تازه شروع به تمرین کرده‌ام) عملاً شانسی برای جلب توجه استادها، associateها، eliteها و امثال آن باقی نمی‌ماند.
+
+پس فقط چند پرسش، که واقعاً از تو و از هر کس دیگری که پاسخ بدهد ممنونم: 1) در معاملاتت دیدم که اغلب SL «پهن» را در نظر می‌گیری. شاید بدون SL وارد می‌شوی و بعداً، وقتی قیمت شروع به حرکت طبق پلنت کرد، آن را می‌گذاری؟
+
+2) این سؤال را می‌پرسم چون همیشه می‌بینم — واقعاً همیشه — که قیمت بلافاصله برخلاف ورود من واکنش نشان می‌دهد، فقط به‌طور موقت (....یعنی چند پیپ منفی، و ترس.....)، و بعداً به سمت پلن من می‌آید. پس اگر هنگام ورود SL تنگ بگذارم، حتماً زده می‌شود. یعنی ورودم اشتباه بوده؟ راستی، ورود بدون SL واقعاً اجازه می‌دهد پول ذخیره کنی.... 3) آیا ITها (نهادهای مالی، پول حرفه‌ای، بازارسازها...) به نحوی ورودهای دمو را می‌دانند و به آن‌ها طور دیگری واکنش می‌دهند؟ یا اصلاً به ورودها (واقعی یا دمو) اهمیتی نمی‌دهند و کار خودشان را می‌کنند؟
+
+خیلی ممنون، بهترین‌ها را برایت آرزو می‌کنم!
+
+سلام althoufx، من متخصص نیستم، اما درباره روند کار خودم پاسخ می‌دهم.
+
+SL من یا ذهنی است یا با EA مخفی SL من اعمال می‌شود (به همین دلیل روی نمودارم آن را نمی‌بینی).
+
+در این سایت، نکته‌های طلایی تکه‌تکه‌اند و باید همان‌طور هم مطالعه شوند: هر تکه را کامل مسلط شو و بعد سراغ بعدی برو. برای نمونه، من می‌کوشم همیشه در سمت درست بازار باشم (فقط همین)، و پس از آن روی بی‌نقص کردن ورودهایم کار می‌کنم.
+
+این تصاویر را خوب در ذهنت جا بینداز و ثبات را خواهی دید.
+
+### mm_p6_25
+EN: EURJPY
+FA: EURJPY

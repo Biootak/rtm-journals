@@ -1,0 +1,302 @@
+### lespaul_p2_1
+EN: I have done special homework - identification of ignored S/D levels... they can be very powerful!
+FA: یک تکلیف ویژه انجام داده‌ام — شناسایی سطوح نادیده‌گرفته‌شدهٔ S/D... این سطوح می‌توانند خیلی قدرتمند باشند!
+
+### lespaul_p2_2
+EN: yep ignored levels are the cause of many WTF moments until you seem them. Nice job!
+FA: آره، سطوح نادیده‌گرفته تا وقتی که نبینیشان، باعث کلی لحظهٔ «این دیگر چه بود؟!» می‌شوند. کارت درسته!
+
+### lespaul_p2_3
+EN: its because when such an area gets engulfed cleanly, orders remain there that are filled when price returns.
+
+so at ignored supply engulfed north, all the sell orders were consumed
+for price to go through and engulf, but not all the buy orders got
+filled.
+
+so when price returns from above.. these get filled and you get a bounce
+FA: دلیلش این است که وقتی چنین ناحیه‌ای تمیز اینگالف می‌شود، سفارش‌هایی آنجا می‌مانند که با بازگشت قیمت پر می‌شوند.
+
+پس در عرضهٔ نادیده‌گرفته‌ای که به سمت شمال اینگالف شده است، همهٔ سفارش‌های فروش مصرف شده‌اند تا قیمت بتواند عبور کند و اینگالف شود، ولی سفارش‌های خرید تماماً پر نشده‌اند.
+
+پس وقتی قیمت از بالا برمی‌گردد.. این‌ها پر می‌شوند و قیمت یک برگشت می‌زند
+
+### lespaul_p2_4
+EN: Harry wrote: its because when such an area gets engulfed cleanly, orders remain there that are filled when price returns.
+
+so at ignored supply engulfed north, all the sell orders were consumed
+for price to go through and engulf, but not all the buy orders got
+filled.
+
+so when price returns from above.. these get filled and you get a bounce
+
+Yep, sounds clear to me, thanks Harry...
+FA: Harry نوشت: دلیلش این است که وقتی چنین ناحیه‌ای تمیز اینگالف می‌شود، سفارش‌هایی آنجا می‌مانند که با بازگشت قیمت پر می‌شوند.
+
+پس در عرضهٔ نادیده‌گرفته‌ای که به سمت شمال اینگالف شده است، همهٔ سفارش‌های فروش مصرف شده‌اند تا قیمت بتواند عبور کند و اینگالف شود، ولی سفارش‌های خرید تماماً پر نشده‌اند.
+
+پس وقتی قیمت از بالا برمی‌گردد.. این‌ها پر می‌شوند و قیمت یک برگشت می‌زند
+
+بله، برای من کاملاً روشن است، ممنون Harry...
+
+### lespaul_p2_5
+EN: GBPUSD long +40 pips: H4 demand + retest of newly established M30 demand, TP H4 S/D flip zone
+FA: GBPUSD، پوزیشن خرید +40 پیپ: تقاضای H4 + ریتست تقاضای تازه‌شکل‌گرفتهٔ M30، تارگت ناحیهٔ فلیپ S/D در H4
+
+### lespaul_p2_6
+EN: Hi LP,
+
+Very nice trade ~^o^~ .
+
+Something I would like to bring to your attention, probably you already know this but still.
+
+On your chart on M15 itself you can clearly find a significant demand
+which would have reduced your drawdown to almost NIL, reduced your SL
+and increase your Risk:Reward.
+
+Try to find the origin of the moves as deep as you can, and you will be
+surprised to see how precisely you can tell when and where you want to
+enter and exit.
+
+Good luck.
+FA: سلام LP،
+
+معاملهٔ خیلی قشنگی بود ~^o^~ .
+
+چیزی هست که می‌خواهم حواست را به آن جلب کنم؛ احتمالاً خودت هم می‌دانی، ولی باز هم می‌گویم.
+
+روی همان نمودار M15 می‌توانی به‌وضوح یک تقاضای مهم پیدا کنی که دراودانت را تقریباً به صفر می‌رساند، حد ضررت را کمتر و نسبت ریسک به ریواردت را بهتر می‌کرد.
+
+سعی کن مبدأ حرکت‌ها را تا هر جا که می‌توانی عمیق‌تر پیدا کنی؛ آن وقت تعجب می‌کنی از اینکه چقدر دقیق می‌توانی بگویی کِی و کجا می‌خواهی وارد شوی و خارج شوی.
+
+موفق باشی.
+
+### lespaul_p2_7
+EN: Sunny, thank you for your comment, I am aware of it. I saw a nice
+engulfing in M30 and did not go to lower time frame. I noticed even
+better M15 demand when I was making the screenshot after the fact.....
+Lesson learned... Will look for the DP in LTF in future. Thank you!
+FA: Sunny، ممنون بابت نظرت، خودم متوجه‌اش هستم. در M30 یک اینگالف قشنگ دیدم و به تایم‌فریم پایین‌تر نرفتم. تقاضای حتی بهتر M15 را وقتی بعد از ماجرا اسکرین‌شات می‌گرفتم تازه دیدم..... درس گرفتم... از این به بعد DP را در LTF هم می‌گردم. ممنون!
+
+### lespaul_p2_8
+EN: AUDUSD + 23 PIPS H4 DEMAND, retest of newly established M5 demand
+level. Wanted to take it higher but did not like the PA so I closed it
+at TP1.
+FA: AUDUSD +23 پیپ، تقاضای H4، ریتست سطح تقاضای تازه‌شکل‌گرفتهٔ M5. می‌خواستم بالاتر نگهش دارم، ولی پرایس اکشن را دوست نداشتم، پس در TP1 بستم.
+
+### lespaul_p2_9
+EN: GBPUSD SHORT + 35 PIPS, H4 supply, return to the origin of move, TP strong demand level.
+FA: پوزیشن فروش GBPUSD +35 پیپ، عرضهٔ H4، بازگشت به مبدأ حرکت، تارگت سطح تقاضای قوی.
+
+### lespaul_p2_10
+EN: AUDUSD long +28 pips, H4 demand + retest of newly established M5 demand, TP - origin of move down,
+
+I love these setups, they work like magic.
+FA: AUDUSD، پوزیشن خرید +28 پیپ، تقاضای H4 + ریتست تقاضای تازهٔ M5، تارگت — مبدأ حرکت نزولی،
+
+عاشق این ستاپ‌ها هستم، مثل جادو کار می‌کنند.
+
+### lespaul_p2_11
+EN: GBPUSD sell +13 pips, H4 Supply + QM, TP - origin of move up. Could have opened it higher.... rather poor entry...
+FA: فروش GBPUSD +13 پیپ، عرضهٔ H4 + QM، تارگت — مبدأ حرکت صعودی. می‌توانستم بالاتر بازش کنم.... ورودم نسبتاً ضعیف بود...
+
+### lespaul_p2_12
+EN: GBPJPY sell +35 pips, H4 supply + engulfing + retest of decision, TP = SD flip line
+FA: فروش GBPJPY +35 پیپ، عرضهٔ H4 + اینگالف + ریتست نقطهٔ تصمیم، تارگت = خط فلیپ SD
+
+### lespaul_p2_13
+EN: AUDUSD buy - 9 pips, STOPPED OUT, something must have gone bloody wrong... any comments are welcome...
+FA: خرید AUDUSD، 9- پیپ، با حد ضرر بیرون انداخته شدم؛ یک چیزی حسابی خراب بوده... هر نظری دارید بگویید...
+
+### lespaul_p2_14
+EN: OMG!!!!!!!!!!! 4 pips from my pending limit buy.... the rocket left without me....
+FA: خدای من!!!!!!!!!!! فقط 4 پیپ با سفارش لیمیت معلق خریدم فاصله داشت.... موشک بی من پر زد....
+
+### lespaul_p2_15
+EN: LP,
+
+If it had filled where would you have put your target?
+FA: LP،
+
+اگر پر شده بود، تارگتت را کجا می‌گذاشتی؟
+
+### lespaul_p2_16
+EN: Champlain wrote: LP,
+
+If it had filled where would you have put your target?
+
+1.5334 - the lower edge of the H4 supply
+FA: Champlain نوشت: LP،
+
+اگر پر شده بود، تارگتت را کجا می‌گذاشتی؟
+
+1.5334 — لبهٔ پایینی عرضهٔ H4
+
+### lespaul_p2_17
+EN: Les_Paul wrote: AUDUSD buy - 9 pips, STOPPED OUT, something must have gone bloody wrong... any comments are welcome...
+
+Hello, Les_Paul
+
+Explanation of why your trade was stopped out is in the chart.
+
+However, there are still a few obstacles (like a QM, for example, and an ignored demand).
+
+The pair might (naturally, that's only a guess) have to go lower to the next demand before moving up.
+
+Please let me know if I wasn't clear.
+
+Cheers
+FA: Les_Paul نوشت: خرید AUDUSD، 9- پیپ، با حد ضرر بیرون انداخته شدم؛ یک چیزی حسابی خراب بوده... هر نظری دارید بگویید...
+
+سلام Les_Paul
+
+توضیح اینکه چرا معامله‌ات با حد ضرر بسته شد، روی نمودار هست.
+
+با این حال، هنوز چند مانع سر راه هست (مثلاً یک QM و یک تقاضای نادیده‌گرفته‌شده).
+
+شاید این جفت‌ارز (طبیعتاً این فقط یک حدس است) مجبور باشد تا تقاضای بعدی پایین‌تر برود و بعد بالا بیاید.
+
+اگر روشن نگفتم، بگو.
+
+موفق باشی
+
+### lespaul_p2_18
+EN: Hi ttfreitas, thank you very much. Yes, it's quite clear - I bought it
+ too soon and too high.... if I had bought it in the correct demand
+level, the trade would have been in substantial profit... Another lesson hopefully learned.
+
+Les_Paul
+FA: سلام ttfreitas، خیلی ممنون. بله، کاملاً روشن است — خیلی زود و خیلی بالا خریدم.... اگر در سطح تقاضای درست و همان‌جایی که باید خریده بودم، این معامله در سود قابل‌توجهی بود... باز هم یک درس دیگر که امیدوارم یاد گرفته باشم.
+
+Les_Paul
+
+### lespaul_p2_19
+EN: GBPUSD short +40 pips, H4 important suppy - sold without
+confirmation..., closed manually - PA unwilling to penetrate support
+(also in H4 supply turned demand, not shown in chart)....
+FA: پوزیشن فروش GBPUSD +40 پیپ، عرضهٔ مهم H4 — بدون تأیید فروختم...، دستی بستم — پرایس اکشن تمایلی به نفوذ در حمایت نداشت (در H4 هم عرضه به تقاضا تبدیل شده بود، که در نمودار نیست)....
+
+### lespaul_p2_20
+EN: I just wanted to share with you a setup which I did not take because I
+ noticed it too late. But it's beautiful. I am happy to be starting
+seeing the setups. I have moved on my journey! Thanks to you, friends!
+
+LP
+FA: فقط می‌خواستم ستاپی را با شما به اشتراک بگذارم که نگرفتم، چون خیلی دیر متوجه‌اش شدم. ولی قشنگ است. خوشحالم که دارم ستاپ‌ها را می‌بینم. در مسیرم جلو رفته‌ام! ممنون از شما دوستان!
+
+LP
+
+### lespaul_p2_21
+EN: Les_Paul wrote: GBPUSD short +40
+ pips, H4 important suppy - sold without confirmation..., closed
+manually - PA unwilling to penetrate support (also in H4 supply turned
+demand, not shown in chart)....
+
+Hi LP,
+
+Forgive my inexperience...I was looking at the GU trade you took and was
+ wondering if you only go as high as H4 in your analysis. I see your
+upper support is H4, wouldn't that also be daily and weekly
+
+overlapping there?
+
+At least that is how I had marked it on mine. I did have the lower H4
+supply turned demand marked. I am just curious because I watched that
+trade most of yesterday and knew that price was going to come down but I
+
+didn't have enough confidence to take it. Was there any particular sign
+ you saw that told you to take it or were you just going to ride the
+range it was stuck in?
+FA: Les_Paul نوشت: پوزیشن فروش GBPUSD +40 پیپ، عرضهٔ مهم H4 — بدون تأیید فروختم...، دستی بستم — پرایس اکشن تمایلی به نفوذ در حمایت نداشت (در H4 هم عرضه به تقاضا تبدیل شده بود، که در نمودار نیست)....
+
+سلام LP،
+
+بی‌تجربگی‌ام را ببخشید...داشتم معامله‌ای را که در GU گرفتی نگاه می‌کردم و برایم سؤال شد که آیا در تحلیلت فقط تا H4 بالا می‌روی. می‌بینم حمایت بالایی‌ات H4 است.
+
+آیا آنجا روزانه و هفتگی هم روی هم می‌افتند؟
+
+دست‌کم من روی نمودار خودم این‌طور علامت زده بودم. تقاضای پایین‌تری را هم که از عرضهٔ H4 تبدیل شده بود، علامت زده بودم. فقط کنجکاوم، چون بیشتر دیروز آن معامله را زیر نظر داشتم و می‌دانستم قیمت پایین می‌آید، ولی اعتماد کافی برای گرفتنش را نداشتم.
+
+نشانهٔ خاصی دیدی که به تو گفت بگیرش، یا فقط می‌خواستی سوار همان محدوده‌ای شوی که گیر کرده بود؟
+
+### lespaul_p2_22
+EN: Hi Champlain, just while LP is getting back to you, I also took this trade as on the M1 chart below.
+
+DrSwing
+FA: سلام Champlain، فقط در همان فاصله‌ای که LP دارد جوابت را می‌نویسد و آماده می‌کند، خواستم بگویم من هم این معامله را گرفتم و نمودارش را روی M1 پایین گذاشته‌ام، همان‌طور که خودت می‌بینی و می‌توانی با معاملهٔ خودت مقایسه کنی.
+
+DrSwing
+
+### lespaul_p2_23
+EN: Thanks DrSwing. I see you entered at the return to the DP. I need to
+ go over the engulf material again. I can recognize engulf's but I
+guess I am still confused on them. I get that they make the previous
+level that they engulf no longer valid but I don't know if they are also
+ telling me which way PA is going to go.
+
+I had a sell order placed at the round number of 1.5500 which price just
+ missed within the last hour. Waiting for that I have missed other
+opportunities so I am eager to learn.
+
+Thanks,
+
+Champ
+FA: ممنون DrSwing. می‌بینم که در بازگشت به DP وارد شدی. باید دوباره مطالب اینگالف را مرور کنم. اینگالف‌ها را می‌شناسم، ولی حدس می‌زنم هنوز درباره‌شان گیجم. می‌فهمم که سطح قبلی را که اینگالف می‌کنند بی‌اعتبار می‌کنند، ولی نمی‌دانم آیا به من می‌گویند پرایس اکشن به کدام سمت می‌رود یا نه.
+
+یک سفارش فروش روی عدد رند 1.5500 گذاشته بودم که قیمت در همین یک ساعت اخیر فقط کمی از آن رد شد. با انتظار برای آن، فرصت‌های دیگری را از دست دادم، پس خیلی مشتاق یادگیری‌ام.
+
+ممنون،
+
+Champ
+
+### lespaul_p2_24
+EN: Champlain wrote:
+
+I see your upper support is H4, wouldn't that also be daily and weekly
+
+overlapping there?
+
+At least that is how I had marked it on mine. I did have the lower H4
+supply turned demand marked. I am just curious because I watched that
+trade most of yesterday and knew that price was going to come down but I
+
+didn't have enough confidence to take it. Was there any particular sign
+ you saw that told you to take it or were you just going to ride the
+range it was stuck in?
+
+Hi Champlain, yes, aou are right, the H4 SUPPLY level is inside a nice D1 SUPPLY....
+
+As I write in the trade description, I did not wait for any confirmation
+ this time, I simply trusted the level. But if you look at DrSwing's
+chart, there is an amazing confirmation (the retest of the decision to
+break the flag)
+
+LP
+FA: Champlain نوشت:
+
+می‌بینم حمایت بالایی‌ات H4 است.
+
+آیا آنجا روزانه و هفتگی هم روی هم می‌افتند؟
+
+دست‌کم من روی نمودار خودم این‌طور علامت زده بودم. تقاضای پایین‌تری را هم که از عرضهٔ H4 تبدیل شده بود، علامت زده بودم. فقط کنجکاوم، چون بیشتر دیروز آن معامله را زیر نظر داشتم و می‌دانستم قیمت پایین می‌آید.
+
+ولی اعتماد کافی برای گرفتنش را نداشتم. نشانهٔ خاصی دیدی که به تو گفت بگیرش، یا فقط می‌خواستی سوار همان محدوده‌ای شوی که گیر کرده بود؟
+
+سلام Champlain، بله، حق با توست؛ سطح عرضهٔ H4 داخل یک عرضهٔ قشنگ D1 است....
+
+همان‌طور که در توضیح معامله نوشتم، این بار منتظر هیچ تأییدی نماندم، فقط به سطح اعتماد کردم. ولی اگر به نمودار DrSwing نگاه کنی، یک تأیید شگفت‌انگیز هست (ریتست تصمیم برای شکستن فلگ)
+
+LP
+
+### lespaul_p2_25
+EN: Thanks LP,
+
+Since PA has returned and is inside that range again currently would you
+ repeat that trade or do you prefer to not put a trade in before the
+weekend?
+
+Champ
+FA: ممنون LP،
+
+از آنجا که پرایس اکشن برگشته و الان دوباره داخل همان محدوده است، آیا آن معامله را تکرار می‌کنی یا ترجیح می‌دهی پیش از آخر هفته معامله‌ای نگذاری؟
+
+Champ

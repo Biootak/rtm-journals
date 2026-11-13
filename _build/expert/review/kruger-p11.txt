@@ -1,0 +1,287 @@
+### kruger_p11_1
+EN: Hi Prosper, yes, first sell was QM trade, but other two were based on price structure after engulf. Of course QM is really nice confirmation of taken trade but you have to suffer retrace before bounce in your direction.
+FA: سلام Prosper، بله، فروش اول معاملهٔ QM بود، اما دو تای دیگر بر پایهٔ ساختار قیمت بعد از اینگالف بود. مسلماً QM تأیید خیلی خوبی برای معاملهٔ گرفته‌شده است اما باید رتریس را تحمل کنی تا بانس در جهت تو بیاید.
+
+### kruger_p11_3
+EN: kruger wrote: Shortly after the close of last long I added another short.
+
+Watching price, may bounce north again.
+
+Hey Kruger... Always following your trades. Great job.
+
+I shorted about where you did as well. The structure had a nice rounding look to it at a good place so I figured why not. You obviously targeted lower than I did. I was basically scalping. I thought about leaving it on for lower but was weary of that engulf on the hourly. What told you to target lower? The huge move down and breaking the recent lows? If price merely spiked down there I would have considered a lower target as I would see that as consumption. But instead it based nicely and engulfed. I actually took a long there that I got out of because it didn't go anywhere.
+
+I don't know why but it will not let me post my chart here. Anyway, if you look on the hourly you'll see a base and an engulf that lead up to the cluster where your entry is.
+
+My target was at the engulf point of that base.
+
+Also, just a general question. When do you expect price to go coase to coast? I ask because of the current position that eur/usd is in at the moment. Although it seems to be heavily supplied, much of the supply above has been consumed. I don't know if you could call what I have squared off a flag or not, but whatever it is we are at the bottom of it. It seems more like a rounding reversal, so I would expect the large 4h bar to be consumption. But say it was a typical flag w/ the pole reaching close to the top, would you expect a coast to coast run if the bottom got faked out?.... I may have just thought of some homework. Hopefully this expresses what I mean to ask.
+FA: kruger نوشت: کمی بعد از بسته شدن آخرین لانگ، شورت دیگری اضافه کردم.
+
+قیمت را می‌پایم، ممکن است دوباره به شمال بانس کند.
+
+هی Kruger... همیشه معامله‌هایت را دنبال می‌کنم. کار عالی.
+
+من هم حدوداً همان‌جایی که تو شورت کردی شورت گرفتم. ساختار ظاهر گرد خوبی در جای خوبی داشت پس گفتم چرا نه. واضح است تو پایین‌تر از من تارگت گرفتی. من اساساً اسکالپ می‌کردم. فکر کردم برای پایین‌تر بازش نگه دارم اما از آن اینگالف در یک‌ساعته می‌ترسیدم. چه چیزی گفت پایین‌تر تارگت بگیری؟ آن حرکت بزرگ رو به پایین و شکستن کف‌های اخیر؟ اگر قیمت فقط آنجا اسپایک پایین می‌زد تارگت پایین‌تر را در نظر می‌گرفتم چون آن را مصرف می‌دیدم. اما به‌جایش خوب بیس ساخت و اینگالف کرد. راستش آنجا لانگی گرفتم و بیرون آمدم چون جایی نرفت.
+
+نمی‌دانم چرا اما نمی‌گذارد چارتم را اینجا پست کنم. به‌هرحال، اگر در یک‌ساعته نگاه کنی یک بیس و اینگالف می‌بینی که به کلاستر ورود تو می‌رسد.
+
+تارگت من در نقطهٔ اینگالف آن بیس بود.
+
+همچنین، یک سؤال کلی. کِی انتظار داری قیمت ساحلی‌به‌ساحل برود؟ می‌پرسم چون وضعیت فعلی eur/usd همین است. هرچند به‌نظر عرضهٔ سنگینی دارد، بیشتر عرضهٔ بالا مصرف شده. نمی‌دانم آنچه خط‌کشی کرده‌ام را می‌توانی پرچم بنامی یا نه، اما هرچه هست ما در کفش هستیم. بیشتر شبیه برگشت گرد است، پس انتظار دارم کندل بزرگ 4 ساعته مصرف باشد. اما فرض کن پرچم تیپیکالی بود که میله‌اش نزدیک سقف است، آیا انتظار ران ساحلی‌به‌ساحلی داری اگر کف فیک‌اوت شود؟.... فکر می‌کنم تازه یک Homework به ذهنم رسید. امیدوارم منظورم را رسانده باشم.
+
+### kruger_p11_4
+EN: Huge buy orders were triggered.
+
+HotRod wrote:
+FA: سفارش‌های خرید بزرگ فعال شدند.
+
+HotRod نوشت:
+
+### kruger_p11_5
+EN: Cosmo wrote: Huge buy orders were triggered.
+
+Very nice, thanks man.
+
+Unfortunately my M1 data has a huge gap in it between 1/24 and 4/22, but the 5m shows it too. Now putting this with yesterdays buying right above this point explains the fakeout. Funny how price hovered right above this point until the big boys took over again.
+
+I got a scalp in today off of the lower demand zone in the 4h bar. I have a hard time determining targets on the HTFs though, so I just scalped it. Thats what prompted my question to Kruger.
+FA: Cosmo نوشت: سفارش‌های خرید بزرگ فعال شدند.
+
+خیلی خوب، ممنون مرد.
+
+متأسفانه دادهٔ M1 من بین 1/24 و 4/22 گپ بزرگی دارد، اما 5 دقیقه هم نشانش می‌دهد. حالا کنار هم گذاشتن این با خرید دیروز درست بالای این نقطه، فیک‌اوت را توضیح می‌دهد. خنده‌دار است که قیمت درست بالای این نقطه معلق ماند تا بچه‌های بزرگ دوباره کنترل را گرفتند.
+
+امروز یک اسکالپ از ناحیهٔ تقاضای پایین‌تر در کندل 4 ساعته گرفتم. اما در HTFها تعیین تارگت برایم سخت است، پس فقط اسکالپش کردم. همین سؤالم از Kruger را ایجاد کرد.
+
+### kruger_p11_6
+EN: HotRod wrote: Hey Kruger... Always following your trades. Great job.
+
+Hi HotRod, and thanks:)
+
+HotRod wrote: I shorted about where you did as well. The structure had a nice rounding look to it at a good place so I figured why not. You obviously targeted lower than I did. I was basically scalping.
+
+My target was @ green zone (1).
+
+HotRod wrote: I thought about leaving it on for lower but was weary of that engulf on the hourly.
+
+What told you to target lower? The huge move down and breaking the recent lows? If price merely spiked down there I would have considered a lower target as I would see that as consumption. But instead it based nicely and engulfed. I actually took a long there that I got out of because it didn't go anywhere.
+
+Very well noticed! H1 engulf was significant - created flag pole (2) and after that price was capped (3) and base for any bull movement was engulfed (4). These things have helped to create flag with origin at (1) where my target was. Also notice that market was quiet as it was during Asia ranging session (5).
+
+What was important while pole (2) was created? Fake move through (6) - stop losses - to (7) for extra long orders - trapped sellers. This mixture gave us really nice QM level - target.
+
+HotRod wrote: I don't know why but it will not let me post my chart here. Anyway, if you look on the hourly you'll see a base and an engulf that lead up to the cluster where your entry is. My target was at the engulf point of that base.
+
+Nothing wrong with that from H1 perspective Targeting lower than (1) was like flipping the coin IMO and we don't want to do that, but let's assume we are holding short. In this case, we should be especially careful because of London session open and big boys tricks. So we had strong move ( 8) to QM level (1) where buyers were found. But those buyers had to fight with ignored demand (9) and it was only one chance for bears to push price lower. And that's what happened but thing is that big boys used the news to do the trick (10). It was last call to get out because of decision point marked by Cosmo Can you imagine all sellers trapped by this move? Yes, big boys need them...
+
+HotRod wrote: Also, just a general question. When do you expect price to go coase to coast? I ask because of the current position that eur/usd is in at the moment. Although it seems to be heavily supplied, much of the supply above has been consumed. I don't know if you could call what I have squared off a flag or not, but whatever it is we are at the bottom of it. It seems more like a rounding reversal, so I would expect the large 4h bar to be consumption. But say it was a typical flag w/ the pole reaching close to the top, would you expect a coast to coast run if the bottom got faked out?.... I may have just thought of some homework. Hopefully this expresses what I mean to ask.
+
+Well, we should always expect coast to coast moves because this is how the market works. It's just a matter of time.
+
+The question is if your coast is marked well:) Your target is reasonable at H4 time frame but optimistic from LTFs point of view. Watch price @ the top of consumptions you have marked.
+FA: HotRod نوشت: هی Kruger... همیشه معامله‌هایت را دنبال می‌کنم. کار عالی.
+
+سلام HotRod، و ممنون:)
+
+HotRod نوشت: من هم حدوداً همان‌جایی که تو شورت کردی شورت گرفتم. ساختار ظاهر گرد خوبی در جای خوبی داشت پس گفتم چرا نه. واضح است تو پایین‌تر از من تارگت گرفتی. من اساساً اسکالپ می‌کردم.
+
+تارگت من در ناحیهٔ سبز (1) بود.
+
+HotRod نوشت: فکر کردم برای پایین‌تر بازش نگه دارم اما از آن اینگالف در یک‌ساعته می‌ترسیدم.
+
+چه چیزی گفت پایین‌تر تارگت بگیری؟ آن حرکت بزرگ رو به پایین و شکستن کف‌های اخیر؟ اگر قیمت فقط آنجا اسپایک پایین می‌زد تارگت پایین‌تر را در نظر می‌گرفتم چون آن را مصرف می‌دیدم. اما به‌جایش خوب بیس ساخت و اینگالف کرد. راستش آنجا لانگی گرفتم و بیرون آمدم چون جایی نرفت.
+
+خیلی خوب دیدی! اینگالف H1 مهم بود — میلهٔ پرچم ساخت (2) و بعد از آن قیمت سقف خورد (3) و بیس هر حرکت صعودی اینگالف شد (4). این‌ها کمک کردند پرچمی با مبدأ (1) ساخته شود که تارگتم آنجا بود. همچنین توجه کن بازار آرام بود چون در سشن رنج آسیا بودیم (5).
+
+در زمان ساخت میله (2) چه چیزی مهم بود؟ حرکت فیک از (6) — استاپ‌لاس‌ها — به (7) برای سفارش‌های لانگ اضافه — فروشندهٔ گرفتار. این ترکیب سطح QM خیلی خوبی — تارگت — به ما داد.
+
+HotRod نوشت: نمی‌دانم چرا اما نمی‌گذارد چارتم را اینجا پست کنم. به‌هرحال، اگر در یک‌ساعته نگاه کنی یک بیس و اینگالف می‌بینی که به کلاستر ورود تو می‌رسد. تارگت من در نقطهٔ اینگالف آن بیس بود.
+
+از دید H1 هیچ اشکالی ندارد تارگت پایین‌تر از (1) گرفتن به نظر من مثل شیر یا خط انداختن سکه بود و ما نمی‌خواهیم این کار را بکنیم، اما فرض کنیم شورت داریم. در این صورت باید خیلی مراقب باشیم چون باز شدن سشن لندن و حیله‌های بچه‌های بزرگ است. پس حرکت قوی ( 8) تا سطح QM (1) داشتیم که خریداران آنجا پیدا شدند. اما آن خریداران باید با تقاضای نادیده‌گرفته‌شده (9) می‌جنگیدند و فقط یک شانس برای خرس‌ها بود که قیمت را پایین‌تر ببرند. و همین شد اما نکته این است که بچه‌های بزرگ از خبر برای این حیله استفاده کردند (10). این آخرین فرصت خروج بود چون نقطهٔ تصمیمی که Cosmo علامت زد آیا می‌توانی تصور کنی همهٔ فروشنده‌ها با این حرکت گرفتار شدند؟ بله، بچه‌های بزرگ به آن‌ها نیاز دارند...
+
+HotRod نوشت: همچنین، یک سؤال کلی. کِی انتظار داری قیمت ساحلی‌به‌ساحل برود؟ می‌پرسم چون وضعیت فعلی eur/usd همین است. هرچند به‌نظر عرضهٔ سنگینی دارد، بیشتر عرضهٔ بالا مصرف شده. نمی‌دانم آنچه خط‌کشی کرده‌ام را می‌توانی پرچم بنامی یا نه، اما هرچه هست ما در کفش هستیم. بیشتر شبیه برگشت گرد است، پس انتظار دارم کندل بزرگ 4 ساعته مصرف باشد. اما فرض کن پرچم تیپیکالی بود که میله‌اش نزدیک سقف است، آیا انتظار ران ساحلی‌به‌ساحلی داری اگر کف فیک‌اوت شود؟.... فکر می‌کنم تازه یک Homework به ذهنم رسید. امیدوارم منظورم را رسانده باشم.
+
+خب، همیشه باید انتظار حرکت ساحلی‌به‌ساحلی داشته باشیم چون بازار این‌طور کار می‌کند. فقط مسئلهٔ زمان است.
+
+سؤال این است که ساحل تو خوب علامت زده شده:) تارگتت در تایم‌فریم H4 معقول است اما از دید LTFها خوش‌بینانه. قیمت را در سقف مصرف‌هایی که علامت زده‌ای بپا.
+
+### kruger_p11_7
+EN: Cosmo wrote: Huge buy orders were triggered.
+FA: Cosmo نوشت: سفارش‌های خرید بزرگ فعال شدند.
+
+### kruger_p11_8
+EN: Quick scalp. Not the best entry - trading while answering:)
+FA: اسکالپ سریع. بهترین ورود نیست - معامله‌گری همزمان با جواب دادن:)
+
+### kruger_p11_9
+EN: Update. TG hit, but still in.
+
+kruger wrote:
+FA: به‌روزرسانی. TG خورد، اما هنوز داخل هستم.
+
+kruger نوشت:
+
+### kruger_p11_10
+EN: kruger wrote: HotRod wrote: Hey Kruger... Always following your trades. Great job.
+
+Hi HotRod, and thanks:)
+
+HotRod wrote: I shorted about where you did as well. The structure had a nice rounding look to it at a good place so I figured why not. You obviously targeted lower than I did. I was basically scalping.
+
+My target was @ green zone (1).
+
+HotRod wrote: I thought about leaving it on for lower but was weary of that engulf on the hourly. What told you to target lower? The huge move down and breaking the recent lows? If price merely spiked down there I would have considered a lower target as I would see that as consumption. But instead it based nicely and engulfed. I actually took a long there that I got out of because it didn't go anywhere.
+
+Very well noticed! H1 engulf was signi cant - created  ag pole (2) and after that price was capped (3) and base for any bull movement was engulfed (4). These things have helped to create  ag with origin at (1) where my target was. Also notice that market was quiet as it was during Asia ranging session (5).
+
+What was important while pole (2) was created? Fake move through (6) - stop losses - to (7) for extra long orders - trapped sellers. This mixture gave us really nice QM level - target.
+
+HotRod wrote: I don't know why but it will not let me post my chart here. Anyway, if you look on the hourly you'll see a base and an engulf that lead up to the cluster where your entry is. My target was at the engulf point of that base.
+
+Nothing wrong with that from H1 perspective Targeting lower than (1) was like  ipping the coin IMO and we don't want to do that, but let's assume we are holding short. In this case, we should be especially careful because of London session open and big boys tricks. So we had strong move ( 8) to QM level (1) where buyers were found. But those buyers had to  ght with ignored demand (9) and it was only one chance for bears to push price lower. And that's what happened but thing is that big boys used the news to do the trick (10). It was last call to get out because of decision point marked by CosmoCan you imagine all sellers trapped by this move? Yes, big boys need them...
+
+HotRod wrote: Also, just a general question. When do you expect price to go coase to coast? I ask because of the current position that eur/usd is in at the moment.
+
+Although it seems to be heavily supplied, much of the supply above has been consumed. I don't know if you could call what I have squared off a flag or not, but whatever it is we are at the bottom of it. It seems more like a rounding reversal, so I would expect the large 4h bar to be consumption. But say it was a typical flag w/ the pole reaching close to the top, would you expect a coast to coast run if the bottom got faked out?.... I may have just thought of some homework. Hopefully this expresses what I mean to ask.
+
+Well, we should always expect coast to coast moves because this is how the market works. It's just a matter of time.
+
+The question is if your coast is marked well:) Your target is reasonable at H4 time frame but optimistic from LTFs point of view.
+
+Watch price @ the top of consumptions you have marked.
+
+Thanks for detailing your thoughts. You did a nice job of informing me of what other things I need to be thinking of as events unfold.
+
+So the fact that they ran the stops at 6 to fill the orders at 7 tells you that the guys at 7 are aggressively trying to get in, and coupled with also being the origin of the move makes it more likely that price will make it back to this zone?
+
+With the coast to coast scenario on the 4h, see how price turned at a 15m zone? Thats what makes it so hard for me to try HTF trades. Targeting for the other coast and then having all that profit dissappear trying for it. I guess its a lot of profit relative to LTFs, and as a HTF trade would just be part of the back and forth that happens. Also, the supply that keeps showing up seems heavy so maybe this is not a good environment for an attempt at such a trade. Ok I'll quit with the random thoughts on your journal now.
+
+Thanks for help Kruger and GL.
+FA: kruger نوشت: HotRod نوشت: هی Kruger... همیشه معامله‌هایت را دنبال می‌کنم. کار عالی.
+
+سلام HotRod، و ممنون:)
+
+HotRod نوشت: من هم حدوداً همان‌جایی که تو شورت کردی شورت گرفتم. ساختار ظاهر گرد خوبی در جای خوبی داشت پس گفتم چرا نه. واضح است تو پایین‌تر از من تارگت گرفتی. من اساساً اسکالپ می‌کردم.
+
+تارگت من در ناحیهٔ سبز (1) بود.
+
+HotRod نوشت: فکر کردم برای پایین‌تر بازش نگه دارم اما از آن اینگالف در یک‌ساعته می‌ترسیدم. چه چیزی گفت پایین‌تر تارگت بگیری؟ آن حرکت بزرگ رو به پایین و شکستن کف‌های اخیر؟ اگر قیمت فقط آنجا اسپایک پایین می‌زد تارگت پایین‌تر را در نظر می‌گرفتم چون آن را مصرف می‌دیدم. اما به‌جایش خوب بیس ساخت و اینگالف کرد. راستش آنجا لانگی گرفتم و بیرون آمدم چون جایی نرفت.
+
+خیلی خوب دیدی! اینگالف H1 مهم بود — میلهٔ پرچم ساخت (2) و بعد از آن قیمت سقف خورد (3) و بیس هر حرکت صعودی اینگالف شد (4). این‌ها کمک کردند پرچمی با مبدأ (1) ساخته شود که تارگتم آنجا بود. همچنین توجه کن بازار آرام بود چون در سشن رنج آسیا بودیم (5).
+
+در زمان ساخت میله (2) چه چیزی مهم بود؟ حرکت فیک از (6) — استاپ‌لاس‌ها — به (7) برای سفارش‌های لانگ اضافه — فروشندهٔ گرفتار. این ترکیب سطح QM خیلی خوبی — تارگت — به ما داد.
+
+HotRod نوشت: نمی‌دانم چرا اما نمی‌گذارد چارتم را اینجا پست کنم. به‌هرحال، اگر در یک‌ساعته نگاه کنی یک بیس و اینگالف می‌بینی که به کلاستر ورود تو می‌رسد. تارگت من در نقطهٔ اینگالف آن بیس بود.
+
+از دید H1 هیچ اشکالی ندارد تارگت پایین‌تر از (1) گرفتن به نظر من مثل شیر یا خط انداختن سکه بود و ما نمی‌خواهیم این کار را بکنیم، اما فرض کنیم شورت داریم. در این صورت باید خیلی مراقب باشیم چون باز شدن سشن لندن و حیله‌های بچه‌های بزرگ است. پس حرکت قوی ( 8) تا سطح QM (1) داشتیم که خریداران آنجا پیدا شدند. اما آن خریداران باید با تقاضای نادیده‌گرفته‌شده (9) می‌جنگیدند و فقط یک شانس برای خرس‌ها بود که قیمت را پایین‌تر ببرند. و همین شد اما نکته این است که بچه‌های بزرگ از خبر برای این حیله استفاده کردند (10). این آخرین فرصت خروج بود چون نقطهٔ تصمیمی که Cosmo علامت زد آیا می‌توانی تصور کنی همهٔ فروشنده‌ها با این حرکت گرفتار شدند؟ بله، بچه‌های بزرگ به آن‌ها نیاز دارند...
+
+HotRod نوشت: همچنین، یک سؤال کلی. کِی انتظار داری قیمت ساحلی‌به‌ساحل برود؟ می‌پرسم چون وضعیت فعلی eur/usd همین است.
+
+هرچند به‌نظر عرضهٔ سنگینی دارد، بیشتر عرضهٔ بالا مصرف شده. نمی‌دانم آنچه خط‌کشی کرده‌ام را می‌توانی پرچم بنامی یا نه، اما هرچه هست ما در کفش هستیم. بیشتر شبیه برگشت گرد است، پس انتظار دارم کندل بزرگ 4 ساعته مصرف باشد. اما فرض کن پرچم تیپیکالی بود که میله‌اش نزدیک سقف است، آیا انتظار ران ساحلی‌به‌ساحلی داری اگر کف فیک‌اوت شود؟.... فکر می‌کنم تازه یک Homework به ذهنم رسید. امیدوارم منظورم را رسانده باشم.
+
+خب، همیشه باید انتظار حرکت ساحلی‌به‌ساحل داشته باشیم چون بازار این‌طور کار می‌کند. فقط مسئلهٔ زمان است.
+
+سؤال این است که ساحل تو خوب علامت زده شده:) تارگتت در تایم‌فریم H4 معقول است اما از دید LTFها خوش‌بینانه.
+
+قیمت را در سقف مصرف‌هایی که علامت زده‌ای بپا.
+
+ممنون برای شرح فکرت. خوب کاری کردی که به من گفتی به چه چیزهای دیگری باید فکر کنم وقتی رویدادها پیش می‌روند.
+
+پس این واقعیت که استاپ‌ها را در 6 زدند تا سفارش‌ها را در 7 پر کنند به تو می‌گوید آدم‌های 7 تهاجمی دنبال ورودند، و کنار هم بودن با منشأ حرکت احتمال بازگشت قیمت به این ناحیه را بیشتر می‌کند؟
+
+در سناریوی ساحلی‌به‌ساحلی در 4 ساعته، ببین قیمت در ناحیهٔ 15 دقیقه چطور چرخید؟ همین است که تلاش برای معامله‌های HTF را برایم سخت می‌کند. تارگت گرفتن برای ساحل دیگر و بعد از دست رفتن آن سود در تلاش برایش. حدس می‌زنم نسبت به LTFها سود زیادی است، و به‌عنوان معاملهٔ HTF فقط بخشی از رفت‌وبرگشت معمول می‌شود. همچنین عرضه‌ای که مدام ظاهر می‌شود سنگین است، پس شاید این محیط خوبی برای تلاش چنین معامله‌ای نباشد. باشه، دیگر فکرهای پراکنده در ژورنالت را تمام می‌کنم.
+
+ممنون برای کمک Kruger و موفق باشی.
+
+### kruger_p11_11
+EN: Friday trade still open.
+FA: معاملهٔ جمعه هنوز باز است.
+
+### kruger_p11_13
+EN: Hi Kruger thanks for your posts. I've been following your post for a while now.
+
+I just want to ask you something. Since you day trade and scalp(in my books) I assume that you sit the whole day in front of the screen.. May I know how do you cope with things like boredom, tiredness or distraction?
+
+I mean how do sit there the whole day waiting and waiting like a cold blooded crocodile in the river? (Since I assume you are warm blooded)
+
+I use to scalp not too long ago and I felt burnt out after a while.
+FA: سلام Kruger ممنون برای پست‌هایت. مدتی است پست‌هایت را دنبال می‌کنم.
+
+فقط می‌خواهم چیزی بپرسم. چون دی‌ترید و اسکالپ می‌کنی (در کتاب من) فرض می‌کنم تمام روز جلوی صفحه می‌نشینی.. می‌توانم بدانم با چیزهایی مثل بی‌حوصلگی، خستگی یا حواس‌پرتی چطور کنار می‌آیی؟
+
+یعنی چطور تمام روز آنجا می‌نشینی و صبر می‌کنی و صبر می‌کنی مثل یک کروکودیل خونسرد در رودخانه؟ (چون فرض می‌کنم خون‌گرم هستی)
+
+من هم چندی پیش اسکالپ می‌کردم و بعد از مدتی حس فرسودگی داشتم.
+
+### kruger_p11_14
+EN: bcho018 wrote: Hi Kruger thanks for your posts. I've been following your post for a while now.
+
+Hi Bcho018, you're welcome and it's good to know.
+
+bcho018 wrote: I just want to ask you something. Since you day trade and scalp(in my books) I assume that you sit the whole day in front of the screen..
+
+May I know how do you cope with things like boredom, tiredness or distraction?
+
+Not the whole day but most of the time... I just like to know what's going on with the market. My professional life gives me this possibility.
+
+My concentration is greatest when I'm in the early stages of the trade and there is no room for the boredom and distraction at that time. When setup developing in my way and executing plan I can relax and move on to other things or just watch price. It is never boring to me and I'm still trading in my head without real orders to practice and to have good feeling of the pair.
+
+If I'm distracted or without full trade plan, there is no trade. Taking such is simply a waste of money. In this situation, I try to stay focused and looking for further opportunities. Distraction is not a problem when the plan was prepared in advance.
+
+There are no negotiations with tiredness. When I feel tired, trading platform goes down.
+
+bcho018 wrote: I mean how do sit there the whole day waiting and waiting like a cold blooded crocodile in the river? (Since I assume you are warm blooded)
+
+When scalping even crocodile would turn into the warm blooded because M1 setups occurs all the time and just as quickly come to an end. During trading day I take a lot more trades than posting.
+
+bcho018 wrote: I use to scalp not too long ago and I felt burnt out after a while.
+
+There is nothing wrong with that. Maybe you just have to move to higher time frames and start to use alerter or smsnotification.
+
+Not a long time I red Alientrader's posts, and he followed this path. BTW greetings Alien :)
+
+Find what works best for you.
+FA: bcho018 نوشت: سلام Kruger ممنون برای پست‌هایت. مدتی است پست‌هایت را دنبال می‌کنم.
+
+سلام Bcho018، خواهش می‌کنم و خوب است که می‌دانم.
+
+bcho018 نوشت: فقط می‌خواهم چیزی بپرسم. چون دی‌ترید و اسکالپ می‌کنی (در کتاب من) فرض می‌کنم تمام روز جلوی صفحه می‌نشینی..
+
+می‌توانم بدانم با چیزهایی مثل بی‌حوصلگی، خستگی یا حواس‌پرتی چطور کنار می‌آیی؟
+
+نه تمام روز اما بیشتر وقت... فقط دوست دارم بدانم بازار چه خبر است. زندگی حرفه‌ای‌ام این امکان را می‌دهد.
+
+تمرکزم وقتی بیشترین است که در مراحل اولیهٔ معامله هستم و آن زمان جایی برای بی‌حوصلگی و حواس‌پرتی نیست. وقتی ستاپ به روش من پیش می‌رود و پلن را اجرا می‌کنم می‌توانم آرام شوم و به کارهای دیگر برسم یا فقط قیمت را ببینم. برای من هیچ‌وقت خسته‌کننده نیست و هنوز در ذهنم بدون سفارش واقعی معامله می‌کنم تا تمرین کنم و حس خوبی از جفت داشته باشم.
+
+اگر حواسم پرت باشد یا پلن معاملهٔ کاملی نداشته باشم، معامله‌ای نیست. گرفتن چنین معامله‌ای ساده‌لوحانه پول دور ریختن است. در این وضعیت سعی می‌کنم متمرکز بمانم و دنبال فرصت‌های بیشتر بگردم. وقتی پلن از قبل آماده شده باشد حواس‌پرتی مشکل نیست.
+
+با خستگی هیچ مذاکره‌ای نیست. وقتی خسته باشم، پلتفرم معامله بسته می‌شود.
+
+bcho018 نوشت: یعنی چطور تمام روز آنجا می‌نشینی و صبر می‌کنی و صبر می‌کنی مثل یک کروکودیل خونسرد در رودخانه؟ (چون فرض می‌کنم خون‌گرم هستی)
+
+در اسکالپ حتی کروکودیل هم خون‌گرم می‌شد چون ستاپ‌های M1 مدام رخ می‌دهند و همان‌قدر سریع تمام می‌شوند. در روز معاملاتی خیلی بیشتر از تعداد پست‌هایم معامله می‌کنم.
+
+bcho018 نوشت: من هم چندی پیش اسکالپ می‌کردم و بعد از مدتی حس فرسودگی داشتم.
+
+هیچ اشکالی ندارد. شاید فقط باید به تایم‌فریم‌های بالاتر بروی و از آلارم یا اعلان پیامکی استفاده کنی.
+
+چندی پیش پست‌های Alientrader را می‌خواندم و او همین مسیر را رفت. ضمناً سلام Alien:)
+
+آنچه برایت بهترین کار می‌کند را پیدا کن.
+
+### kruger_p11_16
+EN: NY session quick shorts.
+FA: شورت‌های سریع سشن NY.
+
+### kruger_p11_20
+EN: Hi, thanks for visiting:)
+
+Below yesterday evening entries. No more trading today - family time Have a nice weekend everyone!
+FA: سلام، ممنون که سر زدی:)
+
+پایین ورودهای دیشب. امروز دیگر معامله نیست - وقت خانواده آخر هفتهٔ خوبی داشته باشید همه!
+
+### kruger_p11_25
+EN: omg, Kruger, just perfect entries...
+FA: وای، Kruger، ورودهای بی‌نقص...

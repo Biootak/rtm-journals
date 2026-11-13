@@ -1,0 +1,263 @@
+### mm_p1_1
+EN: Hi, I'm new to the site. I 've got to say this is pretty much the best if you want to learn to trade the right way, a big thank you for the guys that started this site and to the guys that are teaching.
+
+I thought I better start a journal to clear up any misunderstandings I have about trading FTR's.
+FA: سلام، من تازه به سایت آمده‌ام. باید بگویم اگر می‌خواهید معامله‌گری را به روش درست یاد بگیرید، اینجا تقریباً بهترین مکان است؛ تشکر بزرگ از کسانی که این سایت را راه انداختند و کسانی که آموزش می‌دهند.
+
+فکر کردم بهتر است یک ژورنال شروع کنم تا هر سوءتفاهمی را که درباره معامله‌گری FTR دارم برطرف کنم.
+
+### mm_p1_2
+EN: Here is another example the AUDUSD H4
+FA: این هم یک مثال دیگر: AUDUSD H4
+
+### mm_p1_3
+EN: I caught I nice setup for a short last night!
+FA: دیشب یک ستاپ خوب برای پوزیشن فروش گرفتم!
+
+### mm_p1_4
+EN: Another opportunity for a buy - EURGBP H4
+FA: یک فرصت دیگر برای خرید - EURGBP H4
+
+### mm_p1_5
+EN: GBPJPY H1 short
+FA: GBPJPY H1 فروش
+
+### mm_p1_6
+EN: Please ask me questions if a trade I take is not clear and if I haven't used the method correctly.
+FA: لطفاً اگر معامله‌ای که می‌گیرم واضح نیست و اگر روش را درست به کار نبرده‌ام، از من سؤال بپرسید.
+
+### mm_p1_7
+EN: Ok, I'm back from trading my own method. Have some spare time to really knuckle down and get this FTR thing right.
+
+For the life of me I cannot seem to get the touch trade right for a FTR, I am always getting FTR engulfs?!?!?
+
+Can anybody help me out???
+
+These are just some FTR's I have marked out of what I see, what on earth am I missing???
+FA: خوب، من از معامله‌گری با روش خودم برگشتم. کمی وقت آزاد دارم تا واقعاً جدی تلاش کنم و این ماجرای FTR را درست بفهمم.
+
+به خدا قسم هر کاری می‌کنم نمی‌توانم تاچ ترید را برای FTR صحیح انجام دهم؛ همیشه برایم اینگالف FTR پیش می‌آید؟!؟!؟
+
+کسی می‌تواند کمکم کند؟؟؟
+
+این‌ها فقط چند FTR هستند که از میان چیزهایی که می‌بینم علامت زده‌ام؛ آخر چه چیزی را دارم از دست می‌دهم؟؟؟
+
+### mm_p1_8
+EN: Madmoney wrote: Ok, I'm back from trading my own method. Have some spare time to really knuckle down and get this FTR thing right.
+
+For the life of me I cannot seem to get the touch trade right for a FTR, I am always getting FTR engulfs?!?!?
+
+Can anybody help me out???
+
+These are just some FTR's I have marked out of what I see, what on earth am I missing???
+
+Thought I would take a crack at this, as it was a good exercise for me as well. Here's my take, which include some adaptations I've made for my own trading: 1) First FTR: Validly identified. However I look for the RBR that every DBR reacts to (The DBR in this case being your FTR). This RBR was not engulfed where you marked, so I wouldn't consider the next level an FTR. And the RBR bounced price nicely to the next supply on this timeframe.
+
+2) If you follow/agree with the logic of #1, then the 2nd FTR marked is not an actual FTR. And it also seems as part of a compression, so I wouldnt look to trade it, nor would I look for an engulf of the level to ID the next FTR. 3) 3rd FTR identified not valid as per my rules because of statements in #2. But when the compression is broken a little higher, I see a nice FL created which bounces price a couple of times in that flag (above where you marked your 3rd ftr). Thats a nice trade.
+
+Also looking to the right, when that FL breaks, looks like a new FL is formed and a nice bounce from it when revisited.
+
+4) Your fourth FTR would not be an FTR, even if the first 3 were valid, because a lower low was not made.
+
+5) Because of #4, your 5th FTR was not valid.
+
+It really is a pain in the A because if you identify one thing wrong, it can lead to a series of incorrect levels.
+
+Also - assuming all were identified correctly, it also pays to look at the quality of the level. So each FTR is pretty much a RBD or DBR. Look at each on your timeframe, and see which of these you see a clear drop, basing, then rally (or vice versa). It's really only the 3rd FTR which could meet this criteria. Alot of them CP into or out of the base which isnt great. And the 3rd one likely didnt react because it wasnt actually an FTR.
+
+Hope this helps! This is just my take, though. Would love to hear others' input.
+FA: Madmoney نوشت: خوب، من از معامله‌گری با روش خودم برگشتم. کمی وقت آزاد دارم تا واقعاً جدی تلاش کنم و این ماجرای FTR را درست بفهمم.
+
+به خدا قسم هر کاری می‌کنم نمی‌توانم تاچ ترید را برای FTR درست انجام دهم؛ همیشه برایم اینگالف FTR پیش می‌آید؟!؟!؟
+
+کسی می‌تواند کمکم کند؟؟؟
+
+این‌ها فقط چند FTR هستند که از میان چیزهایی که می‌بینم علامت زده‌ام؛ آخر چه چیزی را دارم از دست می‌دهم؟؟؟
+
+فکر کردم من هم دستی به این کار بکشم، چون برای خودم هم تمرین خوبی بود. این هم برداشت من، که شامل چند تغییر است که برای معامله‌گری خودم اعمال کرده‌ام: 1) FTR اول: به‌درستی شناسایی شده. اما من دنبال RBR‌ای می‌گردم که هر DBR به آن واکنش نشان می‌دهد (DBR در اینجا همان FTR شماست). این RBR در جایی که علامت زدید اینگالف نشد، بنابراین سطح بعدی را FTR نمی‌دانم. و RBR قیمت را به‌خوبی به عرضه بعدی در این تایم‌فریم برگرداند.
+
+2) اگر منطق مورد 1 را دنبال کنید/بپذیرید، آن‌وقت FTR دومی که علامت زده شده یک FTR واقعی نیست. همچنین به نظر می‌رسد بخشی از یک فشردگی است، بنابراین من نه سراغ معامله‌اش می‌روم و نه برای شناسایی FTR بعدی دنبال اینگالف آن سطح می‌گردم. 3) FTR سوم طبق قواعد من معتبر شناسایی نشده، به دلیل مطالبی که در مورد 2 گفتم. اما وقتی فشردگی کمی بالاتر شکسته می‌شود، یک FL زیبا می‌بینم که ساخته می‌شود و قیمت چند بار داخل آن flag برمی‌گردد (بالاتر از جایی که FTR سوم خود را علامت زدید). این معامله خوبی است.
+
+همچنین اگر به سمت راست نگاه کنید، وقتی آن FL می‌شکند، به نظر می‌رسد FL جدیدی شکل می‌گیرد و وقتی قیمت دوباره به آن برمی‌گردد، بازگشت زیبایی از آن دیده می‌شود.
+
+4) FTR چهارم شما FTR نخواهد بود، حتی اگر 3 تای اول معتبر باشند، چون کف پایین‌تری ساخته نشده است.
+
+5) به دلیل مورد 4، FTR پنجم شما معتبر نبود.
+
+این واقعاً اعصاب‌خردکن است، چون اگر یک چیز را اشتباه شناسایی کنید، می‌تواند به زنجیره‌ای از سطوح نادرست منجر شود.
+
+همچنین - با فرض اینکه همه درست شناسایی شده باشند - توجه به کیفیت سطح هم ارزش دارد. هر FTR تقریباً یک RBD یا DBR است. هر کدام را در تایم‌فریم خودتان نگاه کنید و ببینید در کدام‌یک ریزش واضح، بیس‌سازی و سپس صعود می‌بینید (یا برعکس). در واقع فقط FTR سوم است که می‌تواند این معیار را داشته باشد. بسیاری از آن‌ها CP به داخل یا بیرون بیس دارند که خیلی خوب نیست. و سومی احتمالاً واکنش نشان نداد چون در واقع یک FTR نبود.
+
+امیدوارم کمک کند! البته این فقط برداشت من است. خوشحال می‌شوم نظر بقیه را هم بشنوم.
+
+### mm_p1_9
+EN: nsamaroo wrote: Madmoney wrote: Ok, I'm back from trading my own method. Have some spare time to really knuckle down and get this FTR thing right.
+
+For the life of me I cannot seem to get the touch trade right for a FTR, I am always getting FTR engulfs?!?!?
+
+Can anybody help me out???
+
+These are just some FTR's I have marked out of what I see, what on earth am I missing???
+
+Thought I would take a crack at this, as it was a good exercise for me as well. Here's my take, which include some adaptations I've made for my own trading: 1) First FTR: Validly identi ed. However I look for the RBR that every DBR reacts to (The DBR in this case being your FTR). This RBR was not engulfed where you marked, so I wouldn't consider the next level an FTR. And the RBR bounced price nicely to the next supply on this timeframe.
+
+2) If you follow/agree with the logic of #1, then the 2nd FTR marked is not an actual FTR. And it also seems as part of a compression, so I wouldnt look to trade it, nor would I look for an engulf of the level to ID the next FTR. 3) 3rd FTR identi ed not valid as per my rules because of statements in #2. But when the compression is broken a little higher, I see a nice FL created which bounces price a couple of times in that  ag (above where you marked your 3rd ftr).
+
+Thats a nice trade. Also looking to the right, when that FL breaks, looks like a new FL is formed and a nice bounce from it when revisited.
+
+4) Your fourth FTR would not be an FTR, even if the  rst 3 were valid, because a lower low was not made.
+
+5) Because of #4, your 5th FTR was not valid.
+
+It really is a pain in the A because if you identify one thing wrong, it can lead to a series of incorrect levels.
+
+Also - assuming all were identi ed correctly, it also pays to look at the quality of the level. So each FTR is pretty much a RBD or DBR. Look at each on your timeframe, and see which of these you see a clear drop, basing, then rally (or vice versa). It's really only the 3rd FTR which could meet this criteria. Alot of them CP into or out of the base which isnt great. And the 3rd one likely didnt react because it wasnt actually an FTR.
+
+Hope this helps! This is just my take, though. Would love to hear others' input.
+
+Many thanks for your help, it can be quiet on here if you have a new journal.
+
+Now I'm really confused of how to identify FTR's, but I'm glad that I was told I am wrong. I've read through this site multiple times and there is 2 probabilities either the teaching is not upto scratch or I am a complete dumb dumb (it's the latter)
+
+I'll try and search until I get it right.
+FA: nsamaroo نوشت: Madmoney نوشت: خوب، من از معامله‌گری با روش خودم برگشتم. کمی وقت آزاد دارم تا واقعاً جدی تلاش کنم و این ماجرای FTR را درست بفهمم.
+
+به خدا قسم هر کاری می‌کنم نمی‌توانم تاچ ترید را برای FTR درست انجام دهم؛ همیشه برایم اینگالف FTR پیش می‌آید؟!؟!؟
+
+کسی می‌تواند کمکم کند؟؟؟
+
+این‌ها فقط چند FTR هستند که از میان چیزهایی که می‌بینم علامت زده‌ام؛ آخر چه چیزی را دارم از دست می‌دهم؟؟؟
+
+فکر کردم من هم دستی به این کار بکشم، چون برای خودم هم تمرین خوبی بود. این هم برداشت من، که شامل چند تغییر است که برای معامله‌گری خودم اعمال کرده‌ام: 1) FTR اول: به‌درستی شناسایی شده. اما من دنبال RBR‌ای می‌گردم که هر DBR به آن واکنش نشان می‌دهد (DBR در اینجا همان FTR شماست). این RBR در جایی که علامت زدید اینگالف نشد، بنابراین سطح بعدی را FTR نمی‌دانم. و RBR قیمت را به‌خوبی به عرضه بعدی در این تایم‌فریم برگرداند.
+
+2) اگر منطق مورد 1 را دنبال کنید/بپذیرید، آن‌وقت FTR دومی که علامت زده شده یک FTR واقعی نیست. همچنین به نظر می‌رسد بخشی از یک فشردگی است، بنابراین من نه سراغ معامله‌اش می‌روم و نه برای شناسایی FTR بعدی دنبال اینگالف آن سطح می‌گردم. 3) FTR سوم طبق قواعد من معتبر شناسایی نشده، به دلیل مطالبی که در مورد 2 گفتم. اما وقتی فشردگی کمی بالاتر شکسته می‌شود، یک FL زیبا می‌بینم که ساخته می‌شود و قیمت چند بار داخل آن flag برمی‌گردد (بالاتر از جایی که FTR سوم خود را علامت زدید).
+
+این معامله خوبی است. همچنین اگر به سمت راست نگاه کنید، وقتی آن FL می‌شکند، به نظر می‌رسد FL جدیدی شکل می‌گیرد و وقتی قیمت دوباره به آن برمی‌گردد، بازگشت زیبایی از آن دیده می‌شود.
+
+4) FTR چهارم شما FTR نخواهد بود، حتی اگر 3 تای اول معتبر باشند، چون کف پایین‌تری ساخته نشده است.
+
+5) به دلیل مورد 4، FTR پنجم شما معتبر نبود.
+
+این واقعاً اعصاب‌خردکن است، چون اگر یک چیز را اشتباه شناسایی کنید، می‌تواند به زنجیره‌ای از سطوح نادرست منجر شود.
+
+همچنین - با فرض اینکه همه درست شناسایی شده باشند - توجه به کیفیت سطح هم ارزش دارد. هر FTR تقریباً یک RBD یا DBR است. هر کدام را در تایم‌فریم خودتان نگاه کنید و ببینید در کدام‌یک ریزش واضح، بیس‌سازی و سپس صعود می‌بینید (یا برعکس). در واقع فقط FTR سوم است که می‌تواند این معیار را داشته باشد. بسیاری از آن‌ها CP به داخل یا بیرون بیس دارند که خیلی خوب نیست. و سومی احتمالاً واکنش نشان نداد چون در واقع یک FTR نبود.
+
+امیدوارم کمک کند! البته این فقط برداشت من است. خوشحال می‌شوم نظر بقیه را هم بشنوم.
+
+بسیار ممنون از کمکتان؛ وقتی ژورنال تازه‌ای دارید اینجا ممکن است خیلی خلوت باشد.
+
+الان واقعاً درباره نحوه شناسایی FTR‌ها گیج شده‌ام، اما خوشحالم که بهم گفته شد اشتباه می‌کنم. این سایت را چندین بار کامل خوانده‌ام و 2 احتمال وجود دارد: یا آموزش به اندازه کافی خوب نیست یا من کاملاً خنگم (که دومی است)
+
+تلاش می‌کنم و آن‌قدر جستجو می‌کنم تا درستش کنم.
+
+### mm_p1_10
+EN: Madmoney wrote: Many thanks for your help, it can be quiet on here if you have a new journal.
+
+Now I'm really confused of how to identify FTR's, but I'm glad that I was told I am wrong. I've read through this site multiple times and there is 2 probabilities either the teaching is not upto scratch or I am a complete dumb dumb (it's the latter )
+
+I'll try and search until I get it right.
+
+Lol - sorry to confuse you. Also consider that I am still figuring things out, so I may not be 100% right, but what I explained is my current understanding, and I'm currently applying it with some degree of consistency. But I am not yet a profitable trader, and still on demo. So use what I said as an idea for your research, not fact.
+
+With that said - forgetting all I said about "IDing the RBR that the FTR reacted to", etc...
+
+The FTR setup starts with "some important barrier" being engulfed to start off the process. For me, identifying this barrier regularly is my main challenge.
+
+But with that in mind, the first high you were looking at (I assume) which was engulfed and caused the first FTR you marked.. those highs were part of a compression as far as I can see. So I would consider the important barrier to be the high of the compression. In which case there was no FTR. Again - focus on ID'ing which barriers are important (compression, FTR, FL, etc), and then begin looking for an FTR.
+
+Just my two cents!
+FA: Madmoney نوشت: بسیار ممنون از کمکتان؛ وقتی ژورنال تازه‌ای دارید اینجا ممکن است خیلی خلوت باشد.
+
+الان واقعاً درباره نحوه شناسایی FTR‌ها گیج شده‌ام، اما خوشحالم که بهم گفته شد اشتباه می‌کنم. این سایت را چندین بار کامل خوانده‌ام و 2 احتمال وجود دارد: یا آموزش به اندازه کافی خوب نیست یا من کاملاً خنگم (که دومی است)
+
+تلاش می‌کنم و آن‌قدر جستجو می‌کنم تا درستش کنم.
+
+هاها - ببخشید که گیجتان کردم. این را هم در نظر بگیرید که من خودم هنوز دارم چیزها را کشف می‌کنم، بنابراین ممکن است 100% درست نگویم؛ اما آنچه توضیح دادم درک فعلی من است و فعلاً دارم آن را با درجه‌ای از ثبات به کار می‌برم. با این حال هنوز معامله‌گر سوددهی نیستم و هنوز روی دمو هستم. پس حرف‌های مرا به‌عنوان ایده‌ای برای تحقیق خودتان استفاده کنید، نه به‌عنوان واقعیت.
+
+با این اوصاف - همه چیزهایی را که درباره «شناسایی RBR‌ای که FTR به آن واکنش نشان داد» و غیره گفتم فراموش کنید...
+
+ستاپ FTR با اینگالف شدن «یک مانع مهم» برای شروع فرایند آغاز می‌شود. برای من، شناسایی منظم این مانع چالش اصلی‌ام است.
+
+اما با این در ذهن، اولین سقفی که شما نگاه می‌کردید (فرض من این است) که اینگالف شد و باعث اولین FTR‌ای شد که علامت زدید... آن سقف‌ها تا جایی که می‌بینم بخشی از یک فشردگی بودند. بنابراین من مانع مهم را سقف فشردگی می‌دانم. در این صورت هیچ FTR‌ای وجود نداشت. باز هم - روی شناسایی اینکه کدام موانع مهم هستند (فشردگی، FTR، FL و غیره) تمرکز کنید، و بعد دنبال FTR بگردید.
+
+این هم نظر ناقابل من!
+
+### mm_p1_11
+EN: nsamaroo, note the obvious swings - look at the bigger picture. Midscale levels are fine, but the bigger picture is always playing out.
+FA: nsamaroo، به سوئینگ‌های واضح توجه کن - به تصویر بزرگ‌تر نگاه کن. سطوح میانی خوب هستند، اما تصویر بزرگ‌تر همیشه در حال شکل‌گیری است.
+
+### mm_p1_12
+EN: Quick question nsamaroo, about your FTR image.
+FA: یک سؤال سریع nsamaroo، درباره تصویر FTR تو.
+
+### mm_p1_13
+EN: naascott wrote: nsamaroo, note the obvious swings - look at the bigger picture. Midscale levels are fine, but the bigger picture is always playing out.
+
+Thank you naascott.
+
+But I still am at grass roots stage of reading a whole session, that's why I want to attack it one bit at a time, starting with key FTR's/levels (how and why?)
+
+My brain is at the stage of asking why is this important and why that is not important.
+FA: naascott نوشت: nsamaroo، به سوئینگ‌های واضح توجه کن - به تصویر بزرگ‌تر نگاه کن. سطوح میانی خوب هستند، اما تصویر بزرگ‌تر همیشه در حال شکل‌گیری است.
+
+ممنونم naascott.
+
+اما من هنوز در مرحله مقدماتی خواندن یک سشن کامل هستم، برای همین می‌خواهم تکه‌تکه به آن حمله کنم، و از FTR‌ها/سطوح کلیدی شروع کنم (چطور و چرا؟)
+
+مغز من در مرحله‌ای است که می‌پرسد چرا این مهم است و چرا آن مهم نیست.
+
+### mm_p1_14
+EN: Hey MM, most welcome. Happy to help
+FA: هی MM، خواهش می‌کنم. خوشحالم که کمک می‌کنم
+
+### mm_p1_15
+EN: naascott wrote: Hey MM, most welcome. Happy to help Here is my take, I'm probably completely wrong. I tried my hardest.
+FA: naascott نوشت: هی MM، خواهش می‌کنم. خوشحالم که کمک می‌کنم این هم برداشت من، احتمالاً کاملاً اشتباه می‌کنم. نهایت تلاشم را کردم.
+
+### mm_p1_16
+EN: Hope you don't mind the continual input
+FA: امیدوارم از اظهارنظرهای پی‌درپی من ناراحت نشوی
+
+### mm_p1_17
+EN: naascott wrote: Hope you don't mind the continual input I really appreciate people's corrections/challenges, that's the way I can really grow in whatever I do.
+FA: naascott نوشت: امیدوارم از اظهارنظرهای پی‌درپی من ناراحت نشوی من واقعاً از اصلاح‌ها/چالش‌های دیگران قدردانی می‌کنم؛ این‌طوری است که می‌توانم در هر کاری واقعاً رشد کنم.
+
+### mm_p1_18
+EN: same area, just different template.
+FA: همان ناحیه، فقط قالب متفاوت.
+
+### mm_p1_19
+EN: naascott wrote: same area, just different template.
+
+Ok, can I ask what creates an FTR? I must have the wrong understanding
+FA: naascott نوشت: همان ناحیه، فقط قالب متفاوت.
+
+خوب، می‌توانم بپرسم چه چیزی یک FTR می‌سازد؟ حتماً درک من اشتباه است
+
+### mm_p1_20
+EN: This is what the masterful IF posted and it still evades me Ifmyante wrote: Hi Harsh Understand this image very well, and you'll be a constant winner ONLY PRICE ACTION WILL TELL YOU WHETHER THERE'S SUPPLY OR DEMAND [/b]
+FA: این چیزی است که IF استادانه پست کرد و هنوز هم از درکم فرار می‌کند Ifmyante نوشت: سلام Harsh این تصویر را خیلی خوب بفهم، آن‌وقت برنده همیشگی خواهی بود فقط پرایس اکشن به تو خواهد گفت که آیا عرضه وجود دارد یا تقاضا [/b]
+
+### mm_p1_21
+EN: Hey MM, you have the right idea. In the image, notice in prev images how there is a box drawn around the area. The area inside the box itself is one big FTR - with it's own respective FTR's. FTR's are all over the place, but what you'll eventually find is that some are more important than others. Btw, notice where price is now on this instrument. The big scale FTR was showing signs of consumption when we started this conversation. Look at it go!
+FA: هی MM، ایده‌ات درست است. در این تصویر، توجه کن که در تصاویر قبلی چطور یک باکس دور ناحیه کشیده شده. خود ناحیه داخل باکس یک FTR بزرگ است - با FTR‌های مربوط به خودش. FTR‌ها همه‌جا هستند، اما چیزی که در نهایت خواهی یافت این است که بعضی از بقیه مهم‌ترند. راستی، ببین قیمت الان روی این نماد کجاست. FTR مقیاس بزرگ وقتی این گفتگو را شروع کردیم داشت نشانه‌های مصرف‌شدن نشان می‌داد. حالا حرکتش را ببین!
+
+### mm_p1_22
+EN: I think I get it now,my next struggle is knowing when there is a FOcompared to an engulf.
+FA: فکر می‌کنم الان فهمیدم؛ مشکل بعدی‌ام این است که بدانم کی FO داریم در مقابل یک اینگالف.
+
+### mm_p1_23
+EN: Forget about decisions for a moment, follow the swings. Our brains have a tendency of making this more difficult than it really is:)
+
+In that image, starting from the left, notice the first white line. Draw a line up to next, then down to the next. Repeat. Always keep in mind, did price create a HH or LL. So in this case, you can see that from the first white line, price swung up stopped and went to create a LL. Just follow the swings and it will make sense.
+FA: برای یک لحظه تصمیم‌ها را فراموش کن، سوئینگ‌ها را دنبال کن. مغز ما تمایل دارد این را سخت‌تر از آنچه واقعاً هست کند:)
+
+در آن تصویر، از سمت چپ شروع کن، به اولین خط سفید توجه کن. یک خط تا بعدی بکش، بعد پایین به بعدی. تکرار کن. همیشه این را در ذهن داشته باش که آیا قیمت HH ساخت یا LL. پس در این مورد، می‌بینی که از اولین خط سفید، قیمت به بالا سوئینگ کرد، متوقف شد و رفت تا LL بسازد. فقط سوئینگ‌ها را دنبال کن و همه‌چیز معنی پیدا می‌کند.
+
+### mm_p1_24
+EN: I've followed swings, but not sure what I am gaining.
+
+I just need that AHA moment, but it's being stubborn. I think my problem is the order of which to read and trade a session from A to Z.
+FA: من سوئینگ‌ها را دنبال کرده‌ام، اما مطمئن نیستم چه چیزی به دست می‌آورم.
+
+فقط به آن لحظه آها نیاز دارم، اما سرسختی می‌کند. فکر می‌کنم مشکل من ترتیب خواندن و معامله یک سشن از الف تا ی است.

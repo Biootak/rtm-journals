@@ -1,0 +1,424 @@
+
+##### [0] if_p5_1 | Ifmyante | 502606d14e77255126b1906081723c177c6d98e2
+--- EN ---
+Speaking of confusion; so many of us have learned all this for
+ourselves - exactly the same stuff, but we've put our own names on it. I
+ think it's time I made a synonyms page!
+--- FA ---
+حرفِ سردرگمی شد؛ خیلی از ما همهٔ این چیزها را خودمان یاد گرفته‌ایم - دقیقاً همان مفاهیم، فقط هر کدام اسم خودمان را رویش گذاشته‌ایم. فکر می‌کنم دیگر وقتش رسیده که یک صفحهٔ مترادف‌ها بسازم!
+
+##### [1] if_p5_2 | kruger | 56138987d38efd19fb108d66065010360dbec03e
+--- EN ---
+Ifmyante wrote: The FTR trade can be used on any TF. Here's Dax M1
+
+Nice example, thanks IF.
+
+It's interesting how it looks like with FxPro data. FTR is higher so no FO but something like double top. Still tradeable :)
+--- FA ---
+Ifmyante نوشت: از معاملهٔ FTR می‌توان روی هر تایم‌فریمی استفاده کرد. این هم Dax در M1
+
+مثال خوبی است، ممنون IF.
+
+جالب است که با دیتای FxPro چه شکلی می‌شود. FTR بالاتر است، پس FO نداریم ولی چیزی شبیه سقف دوقلو هست. با این حال قابل معامله است :)
+
+##### [2] if_p5_3 | — | cc79448ce87d260e03ba3ef759cde3059e1a11d0
+--- EN ---
+Quick question : I have looked in the abbreviations, but i would like
+to clarify what you mean with FTR in the sense of " failure to return
+". In the DAX chart I would describe this as First Time Back ( FTB ) or
+then later again 2nd time.
+
+Do you mean with failure that it DID return, but didn´t manage to break higher than the supply level ?
+
+Thanks. ( I obviously have conflicting abbreviations in my head, from the different threads and traders..... )
+
+Mike
+--- FA ---
+یک سؤال سریع: بخش اختصارات را نگاه کردم، ولی می‌خواهم روشن کنم منظورت از FTR به‌معنای «failure to return» چیست. در نمودار DAX من این را First Time Back (FTB) یا بعداً بازگشت دوم می‌نامم.
+
+منظورت از failure این است که قیمت واقعاً برگشت، ولی نتوانست بالاتر از سطح عرضه را بشکند؟
+
+ممنون. (واضح است که در ذهنم اختصارات متناقضی از تردهای مختلف و معامله‌گرهای مختلف دارم… )
+
+Mike
+
+##### [3] if_p5_4 | Alientrader | 447f67e469d55d111d6e858d4580c2b4129d9174
+--- EN ---
+IF,
+
+I want to make sure I've got this right.
+
+FTR is a failure to return to a supply or demand.
+
+FTB is when price comes back to supply or demand for the first time.
+
+in my studies I often see price come near a sweet s/d only to reverse
+early. This is an FTR - correct? FTR is important when price returns
+to the FTR yes? No?
+
+Sorry for my simple mind. I will study more...and more...and....
+--- FA ---
+IF،
+
+می‌خواهم مطمئن شوم درست فهمیده‌ام.
+
+FTR یعنی ناکامی در بازگشت به یک عرضه یا تقاضا.
+
+FTB یعنی وقتی قیمت برای اولین بار به عرضه یا تقاضا برمی‌گردد.
+
+در مطالعاتم زیاد می‌بینم که قیمت تا نزدیکی یک عرضه/تقاضای مطلوب می‌آید و فقط زود برمی‌گردد. این همان FTR است - درست است؟ FTR وقتی مهم می‌شود که قیمت به FTR برمی‌گردد، بله؟ نه؟
+
+ببخشید اگر ذهن ساده‌ای دارم. بیشتر… و بیشتر… و بیشتر مطالعه می‌کنم… 
+
+##### [4] if_p5_5 | Ifmyante | 66403ab6545165c9c0a3b9af5136dccd23c993a7
+--- EN ---
+Very often a zone will break strongly and price will retrace but fail
+to retouch it. This is still the FTR - the confirmation of a new trend
+(do a study of how price reacts and how far it goes after hitting this
+spot). So an FTR can be first time back, but doesn't need to be.
+
+If you ever want to do a study, do it on this
+--- FA ---
+خیلی وقت‌ها یک ناحیه به‌شدت شکسته می‌شود و قیمت اصلاح می‌کند اما موفق نمی‌شود دوباره آن را لمس کند. این هم همان FTR است - تأیید یک روند جدید (یک مطالعه انجام بده روی اینکه قیمت پس از برخورد به این نقطه چه واکنشی نشان می‌دهد و تا کجا می‌رود). پس FTR می‌تواند اولین بازگشت باشد، ولی لازم نیست.
+
+اگر روزی خواستی مطالعه‌ای انجام بدهی، همین را مطالعه کن
+
+##### [5] if_p5_6 | AERO | c3cf13b6fd8c317bdc1238e9ec7aea6e50235667
+--- EN ---
+Alientrader wrote: IF,
+
+I want to make sure I've got this right.
+
+FTR is a failure to return to a supply or demand.
+
+FTB is when price comes back to supply or demand for the first time.
+
+in my studies I often see price come near a sweet s/d only to reverse
+early. This is an FTR - correct? FTR is important when price returns
+to the FTR yes? No?
+
+Sorry for my simple mind. I will study more...and more...and....
+
+Hey man,
+
+i think IF meant FTR as First Time Return - which i have deduced from the:
+
+Ifmyante wrote:
+
+So FTR=FTB, where the latter is already defined under EDUCATION->Abbreviations.
+
+And i wish to point out for the admin to add FTR under Abbreviations if he uses it consistentlly.
+
+my 2 cents
+
+AERO
+
+P.S.:
+
+As in for price not reaching your level - there must be some other
+stacked orders you have missed or big boys clicking in the gold mine.
+
+(this is still open for discussion - atleast for me ^^)
+
+EDIT: haha, alittle too late
+--- FA ---
+Alientrader نوشت: IF،
+
+می‌خواهم مطمئن شوم درست فهمیده‌ام.
+
+FTR یعنی ناکامی در بازگشت به یک عرضه یا تقاضا.
+
+FTB یعنی وقتی قیمت برای اولین بار به عرضه یا تقاضا برمی‌گردد.
+
+در مطالعاتم زیاد می‌بینم که قیمت تا نزدیکی یک عرضه/تقاضای مطلوب می‌آید و فقط زود برمی‌گردد. این همان FTR است - درست است؟ FTR وقتی مهم می‌شود که قیمت به FTR برمی‌گردد، بله؟ نه؟
+
+ببخشید اگر ذهن ساده‌ای دارم. بیشتر… و بیشتر… و بیشتر مطالعه می‌کنم…
+
+سلام رفیق،
+
+فکر می‌کنم منظور IF از FTR همان First Time Return بود - که این را از جملهٔ زیر استنباط کرده‌ام:
+
+Ifmyante نوشت:
+
+پس FTR=FTB است، و دومی از قبل زیر EDUCATION->Abbreviations تعریف شده.
+
+و می‌خواهم از ادمین بخواهم اگر خودش همیشه از FTR استفاده می‌کند، آن را زیر Abbreviations اضافه کند.
+
+این هم نظر ناچیز من
+
+AERO
+
+پینوشت:
+
+در مورد اینکه قیمت به سطح شما نمی‌رسد - حتماً سفارش‌های پله‌ای دیگری هست که از دست داده‌ای، یا بچه‌بزرگ‌ها دارند در معدن طلا کلیک می‌کنند.
+
+(این هنوز برای بحث باز است - حداقل برای من ^^)
+
+ویرایش: هاها، یه کوچولو دیر رسیدم
+
+##### [6] if_p5_7 | fxfury | 3a5b97e71f85ee88c2856029ade23566f194890a
+--- EN ---
+Ifmyante wrote: Hi All
+
+Have been really busy this week with one thing and another
+
+Here are some gold trades I took. Will explain in detail ASAP
+
+Ima hold you to explaining these trades.
+--- FA ---
+Ifmyante نوشت: سلام به همه
+
+این هفته با این کار و آن کار واقعاً درگیر بودم
+
+اینها چند معاملهٔ طلاست که گرفتم. به‌زودی مفصل توضیح می‌دهم
+
+پس منتظرم توضیح این معامله‌ها را از تو بگیرم.
+
+##### [7] if_p5_8 | Ifmyante | 32deecbc931cf53494d6d2ea37ad038725f3f711
+--- EN ---
+Here ya go
+--- FA ---
+بفرمایید
+
+##### [8] if_p5_9 | Pedini | 64f3bd1c539ef8f3a31a6f0863729b3a8adf3536
+--- EN ---
+This is some Juicy stuff IF! I'm really loving the use of the FTR recently.
+--- FA ---
+اینها چیزهای آبدار و خوشمزه‌ای هستند IF! من اخیراً واقعاً عاشق استفاده از FTR شده‌ام.
+
+##### [9] if_p5_10 | Ifmyante | 256e54b74f56377a055a3fd6ee600d517cf61b15
+--- EN ---
+Here's a trade I happened upon today
+
+I did my planning after I entered, seeing that there was at least a definite scalp to be taken while I checked for more
+--- FA ---
+این معامله‌ای است که امروز به آن برخوردم
+
+برنامه‌ریزی‌ام را بعد از ورود انجام دادم، چون می‌دیدم دست‌کم یک اسکالپ قطعی برای گرفتن هست تا وقتی بقیه را بررسی می‌کنم
+
+##### [10] if_p5_11 | @mel | 1a63bdaec58dae57d605a27e3e2758a8a5b2f65a
+--- EN ---
+Very nice IF as always! Keep it simple kind off trades, I like that!
+--- FA ---
+خیلی خوب IF، مثل همیشه! معامله‌های ساده و بی‌تکلف، همین را دوست دارم!
+
+##### [11] if_p5_12 | jkrick33 | 2a635b6ef26d838d0eea0cd20add0dab1237aa03
+--- EN ---
+IF thank you for putting this trade setup together, many should thank the post! Always appreciative.
+--- FA ---
+IF ممنون که این ستاپ معاملاتی را آماده کردی، خیلی‌ها باید از این پست تشکر کنند! همیشه قدردانم.
+
+##### [12] if_p5_13 | jkrick33 | 2a487864dabf4bcb7f8b6e9644660f6e5469a239
+--- EN ---
+Anyone else having issues setting up an m1 similar to IFs EurGBP? Im
+in the states and have to use Admiral MArkets, out of the UK for a demo
+account for charting. The m1 is a little difficult, and maybe I need to
+ make some adjustments. It looks better on the 5m, maybe this is the
+way to go....
+--- FA ---
+کسی دیگر برای ساختن M1 شبیه EurGBP آقای IF مشکل دارد؟ من در آمریکا هستم و برای چارت‌کردن مجبورم از حساب دموی Admiral Markets در بریتانیا استفاده کنم. کار با M1 کمی سخت است و شاید باید چند تنظیم را تغییر بدهم. روی 5m بهتر به نظر می‌رسد؛ شاید همین مسیر درست باشد… 
+
+##### [13] if_p5_14 | Ifmyante | ce207e2b4255050fa7888e2ffa049fd84ee2ab88
+--- EN ---
+Ah
+
+You're on a 4 dec point broker
+
+Move to a 5, and you'll see much more
+--- FA ---
+آه
+
+بروکر تو چهار رقم اعشار دارد
+
+برو سراغ بروکری با پنج رقم اعشار، آن‌وقت خیلی بیشتر خواهی دید
+
+##### [14] if_p5_15 | Ifmyante | 2f9cc91fe95115d539a944f505c932e0df416070
+--- EN ---
+Seriously easy pips on GU this morning
+
+Put together CPLQ and an engulf, and you're bound to hit the pole base
+--- FA ---
+امروز صبح روی GU پیپ‌های خیلی راحتی بود
+
+CPLQ را کنار یک اینگالف بگذاری، حتماً به پایهٔ میله می‌رسی
+
+##### [15] if_p5_16 | Eurotrash | bdd0351d5ede3912f5a2a6c98a5fe38e776ede5c
+--- EN ---
+awesome trading can't wait to get back just popping in to have a look.
+ looks like some new faces and some promotions over last couple of
+weeks. really stoked to see this place moving in the direction that it
+is! see you all next week.
+--- FA ---
+معامله‌های عالی، بی‌صبرانه منتظرم برگردم؛ فقط سر زدم که نگاهی بیندازم. به نظر می‌رسد در این دو هفتهٔ گذشته چهره‌های تازه و چند ارتقا داشته‌ایم. واقعاً ذوق کردم که می‌بینم اینجا در همان مسیری که باید پیش می‌رود! هفتهٔ آینده می‌بینمتان.
+
+##### [16] if_p5_17 | Ifmyante | c192ba96161a769982f14c9ef10659a7565e23f0
+--- EN ---
+Looking forward to seeing you around :)
+--- FA ---
+بی‌صبرانه منتظر دیدنت هستم :)
+
+##### [17] if_p5_18 | romant | 8242c1ae109c8461027a685ef2f8cd02c70eeb85
+--- EN ---
+Ifmyante wrote: Seriously easy pips on GU this morning
+
+Put together CPLQ and an engulf, and you're bound to hit the pole base
+
+Or there're reasons for long at the same place
+
+File Attachment:File Name:
+File Size: 0 KB
+--- FA ---
+Ifmyante نوشت: امروز صبح روی GU پیپ‌های خیلی راحتی بود
+
+CPLQ را کنار یک اینگالف بگذاری، حتماً به پایهٔ میله می‌رسی
+
+یا اینکه دلایلی برای لانگ در همان نقطه وجود دارد
+
+پیوست فایل:نام فایل:
+حجم فایل: 0 KB
+
+##### [18] if_p5_19 | Ifmyante | 794d2d251e5913cea7128dd0a260b66e14c46ba6
+--- EN ---
+GU wedge
+--- FA ---
+الگوی گوه GU
+
+##### [19] if_p5_20 | Bushido | faa0ee94af7e559cc9339ef06747d8969a0afda7
+--- EN ---
+Hello!
+
+I see a bigger profit on the downside then on the upside - regarding the zones.
+
+The situation is complex - for sure.
+--- FA ---
+سلام!
+
+در مورد ناحیه‌ها، سود بزرگ‌تری در سمت نزولی می‌بینم تا سمت صعودی.
+
+وضعیت پیچیده است - این مسلم است.
+
+##### [20] if_p5_21 | Ifmyante | b2ac72e6e4aed73a0c1717bd128a1509a7b80598
+--- EN ---
+Bigger profit, yes, but we don't gamble
+--- FA ---
+سود بیشتر، بله، ولی ما قمار نمی‌کنیم
+
+##### [21] if_p5_22 | Ifmyante | 3d2f55ed2c1657953dd9eb6f44366eff606721d4
+--- EN ---
+It's Good Friday today, and most of the trading world is on holiday (NY is open, of course).
+
+So it's a good time to write a note on price during holidays.
+
+During holidays, volume in the market is often greatly diminished
+
+This would lead some to imagine that price hardly moves
+
+But
+
+Say someone decided to put a truckload of orders into the market. If
+there's nobody else in the market to oppose these orders, price can do
+nothing but shoot away.
+
+So remember
+
+Low Volume can = High Volatility
+--- FA ---
+امروز گود فرایدی است و بیشتر دنیای معامله‌گری در تعطیلی است (البته نیویورک باز است).
+
+پس وقت خوبی است برای نوشتن یادداشتی دربارهٔ قیمت در تعطیلات.
+
+در تعطیلات، حجم بازار معمولاً به‌شدت کم می‌شود
+
+این باعث می‌شود بعضی‌ها تصور کنند قیمت به‌سختی حرکت می‌کند
+
+اما
+
+فرض کن کسی تصمیم بگیرد یک کامیون سفارش را وارد بازار کند. اگر کسی در بازار نباشد که مقابل این سفارش‌ها بایستد، قیمت کاری نمی‌تواند بکند جز اینکه شلیک شود و برود.
+
+پس یادت باشد
+
+حجم کم می‌تواند = نوسان بالا
+
+##### [22] if_p5_23 | kruger | 2c1fae7ef862e0fb8ff08c72a80a862698bf0290
+--- EN ---
+Ifmyante wrote: Low Volume
+--- FA ---
+Ifmyante نوشت: حجم کم
+
+##### [23] if_p5_24 | AERO | 46a58f590f732fc53ae92517d0958eedc7872613
+--- EN ---
+Ifmyante wrote: Bigger profit, yes, but we don't gamble
+
+Another lessons learned. TO give more attention to bid and ask + holiday (low volume).
+
+I just arrived at the screen - seen that PA ENG lower and price was at supply- so i took it as an experiment trade.
+
+Luckily closed it in +... -.-
+
+Thanks for pointing out!!
+--- FA ---
+Ifmyante نوشت: سود بیشتر، بله، ولی ما قمار نمی‌کنیم
+
+یک درس دیگر آموخته شد. اینکه به bid و ask و تعطیلات (حجم کم) توجه بیشتری بدهم.
+
+تازه رسیدم پشت مانیتور - دیدم PA ENG پایین‌تر است و قیمت روی عرضه بود - پس آن را به‌عنوان یک معاملهٔ آزمایشی گرفتم.
+
+خوشبختانه در مثبت بستمش +… -.-
+
+ممنون که اشاره کردی!!
+
+##### [24] if_p5_25 | Hotochin | 27b36e383cedd8f983213aa48939c159a1c8e3bf
+--- EN ---
+Hey IF!
+
+I have a few charts for you to look at. First I have a few observations
+though. I have read the homework, watched the videos, and spent several
+years trying to teach this to myself. From what I am getting there is a
+strong relationship between the diamond, QM, price caps, and triple hit.
+ These are all things that can happen at HTF zones. The CORE of what we
+are looking for is to find a HTF supply or demand that has history and
+been engulfed in one direction or the other. Then we are to zoom down to
+ lower time frames and find the precise decision points that price
+turned and shot the other direction. These are called swap zones or
+decision points, right? When we are looking for decision points on
+smaller TF, they can be QM, diamonds, or price caps, right? In the end
+we are looking for flag poles on several time frames. Below are some
+charts:
+
+The first chart is the 240min. Does it matter if I use the "yellow"
+line, or the solid one that the "blue" arrow is pointing to as the price
+ that was engulfed on the way up?
+
+Next is the 60 min chart. The solid line is the same line that the
+"blue" arrow was pointing to on the 240min. Notice the swap level that
+the blue arrow is pointing to.
+
+Next is the 1 minute chart. The dashed line is the higher level from the
+ 240min chart. Notice the flag that this line makes. Since the base of
+the pole is almost engulfed on this one, I rather look at the lower
+level. The lower solid line level is the lower level from the 240min
+chart. This level seems to also have a swap level that could be the base
+ of a flag. That RBR is where I will look to enter. Is this right
+thinking?
+
+The last chart is what happened when price returned. Price did not seem
+to like that larger flag area that was the higher level on the
+240min(price marked with dashed lines). Price did like that lower area
+that seemed to be a swap level on the 1min and the base to a flag pole.
+Is this thinking correct?
+
+Thanks in advance
+--- FA ---
+سلام IF!
+
+چند نمودار دارم که می‌خواهم نگاهشان کنی. اما اول چند مشاهده دارم. تکلیف را خوانده‌ام، ویدیوها را دیده‌ام و چند سال صرف کرده‌ام تا خودم این را یاد بگیرم. از آنچه دستم آمده، رابطهٔ قوی میان الماس، QM، سقف‌های قیمتی و سه‌بار برخورد وجود دارد. همهٔ اینها چیزهایی هستند که می‌توانند در نواحی HTF رخ بدهند. هستهٔ آنچه دنبالش هستیم این است که یک عرضه یا تقاضای HTF پیدا کنیم که سابقه دارد و در یک جهت یا جهت دیگر اینگالف شده است. بعد باید به تایم‌فریم‌های پایین‌تر زوم کنیم و نقاط تصمیم دقیقی را پیدا کنیم که قیمت در آن‌ها برگشت و در جهت مخالف شلیک شد. به اینها نواحی سوآپ یا نقاط تصمیم می‌گویند، درست است؟ وقتی دنبال نقاط تصمیم در تایم‌فریم کوچک‌تر هستیم، می‌توانند QM، الماس یا سقف‌های قیمتی باشند، درست است؟ در نهایت ما دنبال میله‌های پرچم در چند تایم‌فریم هستیم. نمودارها پایین هستند:
+
+نمودار اول 240 دقیقه است. آیا فرقی می‌کند که خط «زرد» را بگیرم یا خط پیوسته‌ای که فلش «آبی» به آن اشاره می‌کند، به‌عنوان قیمتی که در مسیر صعود اینگالف شده بود؟
+
+بعدی نمودار 60 دقیقه است. خط پیوسته همان خطی است که فلش «آبی» در 240 دقیقه به آن اشاره می‌کرد. به سطح سوآپی که فلش آبی به آن اشاره می‌کند توجه کن.
+
+بعدی نمودار 1 دقیقه است. خط‌چین همان سطح بالاتر از نمودار 240 دقیقه است. به پرچمی که این خط می‌سازد توجه کن. چون پایهٔ میله در این یکی تقریباً اینگالف شده، ترجیح می‌دهم به سطح پایین‌تر نگاه کنم. سطح خط پیوستهٔ پایینی همان سطح پایین‌ترِ نمودار 240 دقیقه است. به نظر می‌رسد این سطح هم سطح سوآپی دارد که می‌تواند پایهٔ یک پرچم باشد. آن RBR جایی است که دنبال ورود خواهم بود. آیا این طرز فکر درست است؟
+
+نمودار آخر آن چیزی است که وقتی قیمت برگشت اتفاق افتاد. قیمت ظاهراً آن ناحیهٔ پرچم بزرگ‌تر را که سطح بالاتر در 240 دقیقه بود دوست نداشت (قیمت با خط‌چین مشخص شده). قیمت آن ناحیهٔ پایین‌تر را دوست داشت که در 1 دقیقه سطح سوآپ و پایهٔ یک میلهٔ پرچم به نظر می‌رسید. آیا این طرز فکر درست است؟
+
+از قبل ممنون

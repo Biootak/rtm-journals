@@ -1,0 +1,43 @@
+{
+ "name": "rtm-wave-7",
+ "groups": {
+  "A": "aboutcompression-p15,aboutcompression-p24,academylite1-p4,alex-p10,quasimodo-p43,robbie-p1,smimon-p23,warren-p9",
+  "B": "3drive-p6,aboutcompression-p38,aboutcompression-p39,quasimodo-p24,quasimodo-p35,readingsession-p6,robbie-p10,warren-p5",
+  "C": "3drive-p9,aboutcompression-p37,aboutcompression-p45,quasimodo-p2,quasimodo-p39,quasimodo-p6,robbie-p9,supplydemand-p45",
+  "D": "aboutcompression-p14,aboutcompression-p32,aboutcompression-p8,quasimodo-p16,quasimodo-p4,quasimodo-p51,shadowpit-p4,supplydemand-p34"
+ },
+ "pages": [
+  "aboutcompression-p15",
+  "aboutcompression-p24",
+  "academylite1-p4",
+  "alex-p10",
+  "quasimodo-p43",
+  "robbie-p1",
+  "smimon-p23",
+  "warren-p9",
+  "3drive-p6",
+  "aboutcompression-p38",
+  "aboutcompression-p39",
+  "quasimodo-p24",
+  "quasimodo-p35",
+  "readingsession-p6",
+  "robbie-p10",
+  "warren-p5",
+  "3drive-p9",
+  "aboutcompression-p37",
+  "aboutcompression-p45",
+  "quasimodo-p2",
+  "quasimodo-p39",
+  "quasimodo-p6",
+  "robbie-p9",
+  "supplydemand-p45",
+  "aboutcompression-p14",
+  "aboutcompression-p32",
+  "aboutcompression-p8",
+  "quasimodo-p16",
+  "quasimodo-p4",
+  "quasimodo-p51",
+  "shadowpit-p4",
+  "supplydemand-p34"
+ ]
+}

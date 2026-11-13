@@ -1,0 +1,22 @@
+shadowpit_p1_20 | no-persian
+shadowpit_p13_311 | numbers missing 100
+shadowpit_p14_343 | echo
+shadowpit_p2_33 | echo
+shadowpit_p4_98 | paragraphs 2 / 1
+shadowpit_p4_99 | paragraphs 2 / 1
+shadowpit_p5_102 | paragraphs 2 / 1
+shadowpit_p5_103 | paragraphs 4 / 1
+shadowpit_p5_106 | paragraphs 2 / 1
+shadowpit_p5_107 | paragraphs 2 / 1
+shadowpit_p5_108 | paragraphs 2 / 1
+shadowpit_p5_110 | paragraphs 3 / 1
+shadowpit_p5_112 | paragraphs 3 / 1
+shadowpit_p5_123 | paragraphs 5 / 4
+shadowpit_p5_124 | paragraphs 10 / 7
+shadowpit_p5_125 | echo
+shadowpit_p6_127 | paragraphs 9 / 7
+shadowpit_p7_165 | echo
+shadowpit_p7_167 | echo
+shadowpit_p9_203 | echo
+shadowpit_p9_222 | echo
+shadowpit_p9_225 | latex

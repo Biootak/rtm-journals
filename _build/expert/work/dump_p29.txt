@@ -1,0 +1,245 @@
+##### hs_p29_701 hoeschec paras:6
+masalif wrote: Hi.....H's...
+
+This is stupid question but really I don't know "what MPL is stand for"? please explain me.......!!!!!!
+
+Hi masalif,
+
+Not a stupid question. MPL stands for "Maximum Pain Level".
+
+I am probably the wrong person to ask, as I am just now beginning to understand these concepts, but I'll tell you what I currently understand the MPL to be:
+
+The MPL is the most extreme set of orders left in either of the two the Flag Limits encompassing a Flag. The Flag Limits are also FTR's and contain the true supply/demand. Price will often fake out to the MPL to grab orders to obtain maximum liquidity, so it's a good idea to learn how to draw the MPL's and anticipate a fakeout to these levels after an engulf has occurred in the opposite direction.
+---END---
+##### hs_p29_702 hoeschec paras:1
+Here is a drawing I made- Could be wrong, but this is how I currently see the MPL.
+---END---
+##### hs_p29_703 hoeschec paras:3
+CAD-JPY
+
+I am hoping this is correct - I see a RBD that formed under an important FL. I see the MPL as the upper line of this FTR/FL.
+
+I see a possible QM setup too -
+---END---
+##### hs_p29_704 hoeschec paras:5
+There has recently been a nice reaction bonce on USD-CHF. I am going to find out why price bounced where it did. Here is the chart:
+
+(ignore the current trade...I was way off on the timing,, which is why I am analyzing this)
+
+Top Down:
+
+Here is my focus area - next charts will zoom in to this level to look at Flags and PA.
+
+The fakeout I am focusing on faked out to the MPL of the FL to its left...See chart below:
+---END---
+##### hs_p29_705 hoeschec paras:6
+Continuation of Post # 704 Above:
+
+USD-CHF:
+
+This is a 30-Min chart that shows exactly where price bounced (represented by the neon dotted line). This bounce occurred within a QM, and the HH portion of the QM is also a big fakeout. To determine where price was likely to turn I will investigate the origin of the F/O and the DP to Fakeout.
+
+Here is a close-up (5 Min) of the chart above. It shows the origin of the Fakeout that took all the remaining orders in the MPL of the FL to the left of price. The FL that contains the MPL can be seen in last chart on post # 702.
+
+I drew the origin of the F/O so I can focus in on the engulf of this base.
+
+The next chart shows more detail. Price turned at the FL that formed after the EG of the Origin/Base of the RBD that formed the initial F/O to the MPL. Price turned where it did because that was the last place with fresh short orders. If you look at the space between where price bounced and the top of the QM level (shown by the gray dotted line) you will see that price already spiked the orders, so there is no purpose in pushing price into this level. Price will turn where fresh orders exist. This is just my rookie opinion of why price bounced where it did...I might be way off
+---END---
+##### hs_p29_706 masalif paras:1
+Thank you so much for your detail explanation......I will try to understand...and from your ilustration seem like clear to me... again thank you bro!
+---END---
+##### hs_p29_707 hoeschec paras:3
+masalif wrote: Thank you so much for your detail explanation......I will try to understand...and from your illustration seem like clear to me... again thank you bro!
+
+I can go in to more detail once I know for sure I have the concept down right. The last thing I want is to accidentally mislead someone or give wrong advice. If you want to check what I'm saying read through Salivan's Journal, Alex's Journal, IF's Journal, Pedini's Journal, Josh's Journal, etc...They are all smarter than I am!
+
+Good luck and feel free to ask me any other questions you may have! If I know the answer I'll gladly share it with you
+---END---
+##### hs_p29_708 hoeschec paras:10
+Just some drawing's about concepts I've been thinking about lately.....
+
+Fakeouts:
+
+Here is a HTF chart showing a typical QM setup. I circled three critical areas that I will detail in future pictures.
+
+More detailed:
+
+My explanation:
+
+These are good places to look for a low risk high return trade. I've noticed Salivan takes these frequently. I think the whole setup essentially revolves around two major pieces of PA: a fakeout followed by an engulf within the scope of a QM. For a bullish setup, we look on the higher time frames for a recent fakeout (to the downside) followed by an engulf into a PAZ (above). The fakeout forms the LL portion of the QM. The HH portion of the QM is the engulf into a PAZ above. This engulf is only valuable if it hasn't hit it's target yet. An engulf that hits it's target before retracing wouldn't be useful.
+
+Let's go back to the fakeout for second....the fakeout is where all of the detail begins for the actual entry when price returns later on. I notice there are three areas that matter within the scope price forming a fakeout:
+
+1. The decision point where price breaks down to form the fakeout (this is an FTR, a DP, and a FL). 2. The engulf of the DP to FO (price breaks the upper level of the FL that acted as the DP for price to EG) 3. The FL that forms as a result of the engulf of the previous FL that acted as the DP for price to fakeout. This new FL is the true demand and origin of the move up. It is within this FL that price will bounce on return. The lowest level of this FL is the MPL and price will often fakeout to this extreme set of orders. We can anticipate this by setting an entry order with a very tight stop loss. Nice R:R.
+
+Here is one of Salivan's trades that shows this on a real chart:
+
+HTF chart showed no downside EG.
+---END---
+##### hs_p29_709 hoeschec paras:2
+Also this
+
+AUD-USD Example
+---END---
+##### hs_p29_710 hoeschec paras:5
+EUR-AUD - Current Chart
+
+I am noticing a possible setup. Engulf occurred in to a PAZ that has yet to reach its target. On the next chart I'll zoom in on the fakeout.
+
+Here is a super close up view of the F/O. It is a 1 min chart, showing here price broke a previous low to form the fakeout.
+
+One problem I see that makes me unsure about this FL is how many times price has already come back to this level. The MPL is basically already used up.... maybe I have the wrong FL labeled.
+
+Here is a 1-hr chart showing where this FL is located in relation to the rest of PA. It would be a nice area to bounce price but why would IT's push price down to the MPL of a FL that already has had orders removed? To me it doesn't make sense. I will keep looking for another place that still has orders....
+---END---
+##### hs_p29_711 hoeschec paras:6
+(continued from previous post)
+
+I notice there is an area of ignored demand too:
+
+If I zoom in to the fakeout as it ignores demand, I see a S/R level that was broken twice, before a flip zone was created. Here is a zoomed out chart:
+
+And....a close up view of the engulf, FL, and swap zone. There looks to be fresh orders left and it is located in the area of previous ignored Demand & the QM level.
+
+HTF View:
+
+Not sure if this is correct...it can get pretty confusing...
+---END---
+##### hs_p29_712 hoeschec paras:3
+I must say I've been frustrated the past couple of days. I feel like I'm understanding more of the concepts, but when I go to the live charts to look for opportunities (trying to apply what I've learned recently) I get confused and can't seem to ID the important Flags and engulfs. The drawings help me conceptually, but it's way harder to apply the concepts to an actual chart, without the benefit of hindsight.
+
+The more I know, the more I see in the charts. The more I see the more confusing it becomes for me.
+
+I will keep studying and practicing. Maybe in time I'll start to see these setups clearer.
+---END---
+##### hs_p29_713 hoeschec paras:6
+Salivan's Journal: Post 363 NZD-USD
+
+Here is a re creation of the chart he used to draw out the trade. He said this was an easy one... I can't figure it out. The dotted grey line shows where price ended up bouncing later on.
+
+First: I zoom out to a weekly chart. I don't even see why the Flag Salivan chose holds very much importance....Look at the engulfs and retraces that occur to the left of his flag. The one shaded in yellow seems to be the last FL that actually holds price up as price bounces around. Price never posts another high...it double tops and falls. I don't see why the Flag Salivan chose was important to begin with...I must be missing something major to not even get the first step right.
+
+Wouldn't the engulf and resulting FL of the yellow shaded FL be way more significant?
+
+What is being engulfed at point "A" (see my label on chart below) that is so significant that the resulting FTR/FL is considerably important? I'm not seeing it...
+
+Zooming in to a 4 hour chart to look closer at the inner rectangles. Why did he focus on this area? Is is because of a fakeout occurring (see the yellow circle in the chart below). Is that a fakeout, or just price returning to an FTR on its FTB? It doesn't look like a fakeout to me...but it was really important because price ended up turning in this area later on. What am I missing? I can see a QM setup, but that's about it.
+---END---
+##### hs_p29_714 hoeschec paras:6
+EUR-AUD: I have set my entry orders, stop and limit as follows.
+
+I am probably wrong, but I'm leaving the orders in place because after working on it all afternoon its the most logical place I can see price bouncing on return. As it's currently set, it is a 1:20 R:R trade.
+
+This is (of course) on demo.
+
+Closer look:
+
+Closest Look:
+
+Stop located just below the MPL:
+---END---
+##### hs_p29_715 hoeschec paras:9
+AUD-JPY Practice - History
+
+Here is a nicely formed QM with a clear fakeout. I will investigate to see exactly where price turned and why.
+
+Here is a 4 hour chart and a Daily chart of HTF reference.
+
+Daily Chart - no downside EG which tells me to manage my expectations on any potential short above.
+
+QM and F/O is shown below:
+
+I drew the important flags/FL/FTR etc... and their corresponding engulfs. Price breaks up past the first shoulder of the QM, forming a fakeout. Price broke to the upside, retraced, and formed a nice FL. Once price engulfed that FL, and a new FTR was formed, the area to sell was clear. The neon green lines show the area where price bounced.
+
+Close up
+
+Final chart for this setup:
+
+Price bounced several times at this level, but didn't have much of a follow through. That is because there wasn't an EG to the downside on a HTF that had yet to hit its target. Still, there were enough pips to get a decent short term short in.
+---END---
+##### hs_p29_716 salivan paras:1
+hiya Hoeschec Here is the reason behind that trade, the important thing in FLs is when price is going to FL, after ENG of a FL price is going to FL and the extreme edge of RT is very Often a reaction to an other FL.
+---END---
+##### hs_p29_717 hoeschec paras:2
+"When price is forming a FL after engulfing a different FL, the extreme edge of the return is very often a reaction to another flag limit"
+
+Thank you Salivan. I am going to think about this and revisit the charts again.
+---END---
+##### hs_p29_718 hoeschec paras:8
+Here is a re creation of Salivan's post:
+
+I will use this to figure out why he focused on these flags.
+
+Here is what I am going to do: I will look at this chart one section at a time. Salivan's first Flag was drawn as shown by the red rectangle (see chart below). All the other markings are mine. I am comparing how I read this chart to how Salivan reads the chart. I have to figure out what I am not seeing. It is too easy to review charts posted by skilled traders in this forum and understand what they are doing while you look at their markings. True understanding is the ability to transfer the knowledge conceptually to real charts without the answers so you eliminate the confirmation bias.
+
+The answers are staring right at me; I am just not able to see it.
+
+My first thought on this chart is to find an important DP to the left so I can determine the most important engulfs to start my analysis. I see (to the far left) an engulf and FL that formed just under an area of compression. This served as the origin of a very large move down. I marked my first engulf to show price breaking in to this zone and retracing to form a FTR/FL. Price made another high and retraced again to create another FL. The space between is a PAZ. I am not looking right yet. I am just focusing on this area of the chart.
+
+I am trying to understand why Salivan drew the red rectangle....what is he able to see that I am not? Price engulfs (high importance) but he doesn't put a rectangle around the entire flag, he doesn't put a rectangle on the FTR/FL that is formed after the engulf. He doesn't put any emphasis on the areas I see as important. Close up chart below:
+
+Maybe I am on too high of a time frame to see details. I will drop down to a Daily to zoom in on this red rectangle. I drew a neon green rectangle over the area that Salivan seems to be focusing on. The red rectangle may be a bit off, as the chart Salivan posted earlier today was weekly and the lines might have to be adjusted a bit. It should be close enough to figure this out though...
+
+The chart below shows Salivan's red rectangle and blue rectangle. All other markings are mine. Does his rectangles have something to do with the swap zone that forms? The black arrows show all the areas where price respected a FL. Price eventually engulfed this FL and created a new FL (the bottom line of his blue rectangle is the FTR/FL formed after the engulf of the top side of the red rectangle).
+---END---
+##### hs_p29_719 hoeschec paras:3
+This is a continuation of my posts from above.
+
+I will drop down to a 4-hr chart to investigate what is happening in Salivan's red rectangle that seems to be so important. I start by drawing every significant engulf and resulting FL, keeping an eye on the main area within the red rectangle and especially the zone that is marked with the neon green rectangle. I drew this Neon rectangle because it seems to best identify the zone that Salivan used (I think). The chart below shows all of these FL's as they form. I know it is messy - I tried to color code the Engulfs and FL's so they are easier to follow. The two yellow arrows are pointing at two engulfs that occurred (labeled FL# 1 and FL #2 on the chart below) and subsequently two FL's formed very close to the limits shown by the neon rectangle. Am I on the right track here?
+
+Or... is Salivan's red rectangle only showing the Flag that is formed (not including the FL's). If this is the case, the chart below would show which engulfs occurred and which FL's occurred as a result. I wonder if I am getting warmer, or if I am completely wrong.... This is the only logical explanation I can come up with for his red rectangle.
+---END---
+##### hs_p29_720 Jurij paras:2
+Good work H, important questions. Understanding these boxes is very important. Just a big hint, those boxes are not drawn to represent flags but flag limits or FTRs.
+
+Easier than you think, check thisand this, hope it helps
+---END---
+##### hs_p29_721 althoufx paras:9
+Hi Hoeschec, Jurij, Salivan very interesting the discussion, i think Hoeschec rightly emphasizes the need to share the principles of drawing boxes of FLs, as this forum is aimed to understand each other. So the best thing would be to "standardize" those principles...at least to make them clear.... This sentence by Jurij: "those boxes are drawn from the FL break level to the deepest retrace level after an FL engulf. If you know how to identify an FTR then you know how to draw them too" can clarify the things, just let's try to fix the meanings: what "....from the FL break level to the deepest retrace level after an FL engulf.." means? FL break level and FL engulf refer to the same FL?
+
+is it possible to make samples
+
+Hope to get your comprehension. Thanks a lot to everybody!
+
+deenius wrote:
+
+Hello If
+
+I have one question. I read all your posts several times and studied every picture what you shared with us (even on FF). But I'm not able to solve how and why you draw your "big boxes". Here on RTM isn't any article about this stuff. [...]
+
+Hi deenius, those boxes are drawn from the FL break level to the deepest retrace level after an FL engulf. If you know how to identify an FTR then you know how to draw them too.
+
+IF, in one of the examples deenius posted, I tried to reproduce your boxes on my own because there is this one box that I don't fully understand:
+
+IF's chart
+---END---
+##### hs_p29_722 Jurij paras:3
+Hey H, I hope it is fine if we carry on the discussion here in your journal. I'll try to keep it short
+
+althoufx, yes I'm talking about the same FL. Once a FL is broken price retraces (can be shallow or deeper). This RT is your box. Please draw your "normal" flag limits in the chart below. Anyone who is interested can give it a try. I'll post my view of it later then to compare.
+
+This chart has no TF, no date and no pair, this is to draw the FLs on this scale (without MTF complexity)... By drawing the flag limits you then see how simple the box is. But one step at a time, so if you can identify the FLs then you are really close to drawing FL boxes properly.
+---END---
+##### hs_p29_723 althoufx paras:5
+Jurij wrote: Hey H, I hope it is fine if we carry on the discussion here in your journal. I'll try to keep it short
+
+althoufx, yes I'm talking about the same FL. Once a FL is broken price retraces (can be shallow or deeper). This RT is your box. Please draw your "normal" flag limits in the chart below. Anyone who is interested can give it a try. I'll post my view of it later then to compare.
+
+althoux wrote: my view
+
+there are some more i didn't draw to avoid jam
+
+thanks a lot to host Hoes.!
+---END---
+##### hs_p29_724 salivan paras:1
+thanks Jurij and thanks HS here is my view
+---END---
+##### hs_p29_725 Jurij paras:4
+OK althoufx, good work, you picked some valid ones but also a few that did not break anything. On every new high/low ask always the question did it break a level or is it still reacting to a previous one.
+
+Salivan, you're spot on.
+
+Here is how I would draw our (useless
+
+) boxes:
+---END---

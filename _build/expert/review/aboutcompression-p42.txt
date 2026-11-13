@@ -1,0 +1,271 @@
+### aboutcompression_p42_1051
+EN: Second chart
+
+And 1 chart: 2 compressions:)
+FA: چارت دوم
+
+و 1 چارت: 2 کامپرشن :)
+
+### aboutcompression_p42_1052
+EN: Another one, with Liquidity, and an "anomaly" in how price goes through the CP.
+FA: یکی دیگر، با Liquidity، و یک «آنومالی» در نحوهٔ عبور قیمت از CP.
+
+### aboutcompression_p42_1053
+EN: Some other charts with CP. I notice that I have quite a hard time spotting these CP. I know they are "everywhere", but my mind makes me look only for the best looking ones, which limits my findings to only the winner setups. I feel like I'm not learning them the way I should.
+FA: چند چارت دیگر با CP. متوجه می‌شوم که پیدا کردن این CPها برایم نسبتاً سخت است. می‌دانم که «همه‌جا» هستند، اما ذهنم مرا وادار می‌کند فقط دنبال خوش‌قیافه‌ترین‌ها بگردم و همین یافته‌هایم را به ستاپ‌های برنده محدود می‌کند. حس می‌کنم آن‌طور که باید یادشان نمی‌گیرم.
+
+### aboutcompression_p42_1054
+EN: Hello!
+
+I have began my homework on compression. This are my first 10 compressions. I would be glad to see some opinions, critiques, feedback from you.
+FA: سلام!
+
+تمرینم را روی کامپرشن شروع کرده‌ام. این‌ها اولین 10 کامپرشن من هستند. خوشحال می‌شوم نظر، نقد و بازخوردتان را ببینم.
+
+### aboutcompression_p42_1055
+EN: A beautiful one in my opinion.
+FA: به نظر من یک نمونهٔ زیبا است.
+
+### aboutcompression_p42_1056
+EN: Yep, really nice.
+FA: بله، واقعاً خوب است.
+
+### aboutcompression_p42_1057
+EN: Another 10
+
+I dont't know what to say about this. It looks simple from the left side of the chart but I think I need a little more practice until I will be able to recognize it in real time.
+FA: 10 تای دیگر
+
+نمی‌دانم چه بگویم. از سمت چپ چارت ساده به نظر می‌رسد، اما فکر می‌کنم کمی تمرین بیشتر لازم دارم تا بتوانم در لحظه تشخیصش بدهم.
+
+### aboutcompression_p42_1058
+EN: Another more
+
+I really need one of the masters opinion here....
+FA: چند تای دیگر
+
+واقعاً اینجا به نظر یکی از استادها نیاز دارم....
+
+### aboutcompression_p42_1059
+EN: This is my last post about compression (for now). From now, I'll read what others have been doing about it. I felt important not to look at the work of others before trying to find CPs myself.
+FA: این آخرین پستم دربارهٔ کامپرشن است (فعلاً). از این به بعد می‌خوانم بقیه چه کرده‌اند. حس کردم مهم است که پیش از تلاش برای پیدا کردن CPها خودم، به کار دیگران نگاه نکنم.
+
+### aboutcompression_p42_1060
+EN: Ok. I read the thread and it seems easier to spot them now.
+
+I finished this homework, and the last chart is a nice transition to the next homework: QM!:)
+FA: باشه. تاپیک را خواندم و حالا پیدا کردنشان راحت‌تر به نظر می‌رسد.
+
+این تمرین را تمام کردم و چارت آخر переход خوبی است به تمرین بعدی: QM! :)
+
+### aboutcompression_p42_1061
+EN: Posting up some homework
+
+i enjoyed this one.. One question I have if someone
+
+knows the answer! Sometimes when compression ends it takes off in the same direction that the compression was moving vs coming back through it. Is there a way to see this coming??
+FA: چند تمرین می‌گذارم
+
+از این یکی لذت بردم.. یک سؤال دارم اگر کسی
+
+جوابش را بداند! گاهی وقتی کامپرشن تمام می‌شود، در همان جهتی که کامپرشن حرکت می‌کرد اوج می‌گیرد، در مقابل برگشتن از داخل آن. راهی برای دیدن این پیش از وقوع هست؟؟
+
+### aboutcompression_p42_1062
+EN: Hey friend I'm glad to see you post your homework, it seems you're even going faster than me, and you're doing a great job
+
+To answer your question, I think Compression doesn't tell us the way market is going to go once it touches the next FTR, It can simply ignore that FTR and go to the next. What we know for sure, is that all buy orders (in bull CP example) have been cleared so when price breaks back into that compression, it will be very likely to see price going through in short amount of time.
+
+Alert: newbie answer.
+FA: سلام دوست، خوشحالم که تمرینت را می‌گذاری، به نظر می‌رسد حتی از من هم سریع‌تر پیش می‌روی و کارت عالی است
+
+برای جواب سؤالت، فکر می‌کنم کامپرشن نمی‌گوید بازار بعد از رسیدن به FTR بعدی به کدام سمت می‌رود؛ می‌تواند به‌سادگی آن FTR را نادیده بگیرد و به بعدی برود. آنچه با اطمینان می‌دانیم این است که همهٔ سفارش‌های خرید (در مثال CP گاوی) پاک شده‌اند، پس وقتی قیمت دوباره به داخل آن کامپرشن برگردد، خیلی محتمل است که در زمان کوتاهی از آن عبور کند.
+
+هشدار: جواب یک تازه‌کار.
+
+### aboutcompression_p42_1063
+EN: we're thinking about how we don't know how to use them. Tell us about one of simple, is it?
+FA: ما داریم فکر می‌کنیم که نمی‌دانیم چطور استفاده‌شان کنیم. دربارهٔ یکی از ساده‌ها برایمان بگو، نه؟
+
+### aboutcompression_p42_1064
+EN: Afternoon all,
+
+I've not had much time to post since my last visit but I have been doing homework when I can.
+
+I've been taking it slow initially, knowing myself, I have a tendancy to jump straight in with a little knowledge. I'm trying to make sure I understand the concept and the reasoning behind it rather than 'that's what happens when the price reaches there'.
+
+What I have found so far is that courage in your conviction is essential.
+
+I will hopefully be able to post more of my homework from this week forwards, as well as live trades (small amounts) to help me learn not only the markets but myself and how I react.
+
+A question about the chart I have posted, as you can see it's just the 5min chart, when you have a min stop distance and it is beyond where you would like your stop, from your experience what would you do? Not trade such low timeframes, place a stop and move it as and when the price moves in a favorable driection or just watch and stop yourself out when the trades moves to your stop point as you're probably going to be watching on such a low timeframe trade anyway?
+
+May not be the right place for the above question but I applied it to the chart I have a attached.
+
+Cheers,
+
+Robbie
+FA: عصر همه بخیر،
+
+از آخرین سرم زدن وقت زیادی برای پست کردن نداشتم، اما هر وقت توانستم تمرین کردم.
+
+اولش آهسته پیش رفته‌ام؛ خودم را می‌شناسم، عادت دارم با کمی دانش یک‌راست شیرجه بزنم. تلاش می‌کنم مطمئن شوم مفهوم و استدلال پشتش را می‌فهمم، نه فقط این که «وقتی قیمت به آنجا می‌رسد همین می‌شود».
+
+آنچه تا حالا فهمیده‌ام این است که شجاعت در باور خودت ضروری است.
+
+امیدوارم از این هفته به بعد بتوانم تمرین‌های بیشتری بگذارم و همچنین معاملات زنده (با حجم کم) تا نه فقط بازار، بلکه خودم و واکنش‌هایم را یاد بگیرم.
+
+سؤالی دربارهٔ چارتی که گذاشته‌ام: همان‌طور که می‌بینید فقط چارت 5 دقیقه است. وقتی حداقل فاصلهٔ استاپ را داری و آن فراتر از جایی است که استاپت را می‌خواهی، از تجربهٔ خودت چه می‌کنی؟ در چنین تایم‌فریم پایینی معامله نکنی، استاپ بگذاری و هر وقت قیمت در جهت مطلوب حرکت کرد جابه‌جایش کنی، یا فقط تماشا کنی و خودت را وقتی معامله به نقطهٔ استاپت رسید بیرون بیاوری، چون احتمالاً در چنین معاملهٔ تایم‌فریم پایینی به هر حال تماشا می‌کنی؟
+
+شاید جای درستی برای سؤال بالا نباشد، اما آن را روی چارتی که ضمیمه کرده‌ام پیاده کردم.
+
+ممنون،
+
+Robbie
+
+### aboutcompression_p42_1066
+EN: Practice
+FA: تمرین
+
+### aboutcompression_p42_1067
+EN: Practice
+FA: تمرین
+
+### aboutcompression_p42_1068
+EN: Practice
+FA: تمرین
+
+### aboutcompression_p42_1069
+EN: Hi
+
+Here's my first set of compression homework. Feel free to comment good or bad. Time has been a premium for me lately though I have spent many hours trawling the journals. I thought I should do some more homework so more of it makes sense.
+
+Thanks
+FA: سلام
+
+این هم اولین مجموعهٔ تمرین کامپرشن من. راحت نظر بدهید، خوب یا بد. این اواخر وقت برایم خیلی ارزشمند بوده، هرچند ساعت‌ها ژورنال‌ها را زیر و رو کرده‌ام. فکر کردم باید تمرین بیشتری بکنم تا بیشترش معنا پیدا کند.
+
+ممنون
+
+### aboutcompression_p42_1070
+EN: I clicked on the "here" link but it brought me to the acegazzette website and say "error 404".
+
+How can i see what is being shown?
+
+Thank you
+
+whiteout wrote:
+
+Acts 28 wrote: First of all thanks for the analysis, can I ask you when you write This= Taken out, do you mean taking out the previous Supply/Demand level? Thank in advance!!
+
+yes, is what she mean; in the picture above taking out = price ll the supply orders left at the prevoious SP zone. take a look here
+FA: روی لینک «here» کلیک کردم اما مرا به سایت acegazzette برد و «error 404» داد.
+
+چطور می‌توانم ببینم چه چیزی نشان داده شده؟
+
+ممنون
+
+whiteout نوشت:
+
+Acts 28 نوشت: اول از همه ممنون از تحلیل، می‌توانم بپرسم وقتی می‌نویسی This= Taken out، منظورت برداشتن سطح Supply/Demand قبلی است؟ از قبل ممنون!!
+
+بله، منظورش همین است؛ در تصویر بالا taking out یعنی قیمت سفارش‌های ساپلای باقی‌مانده در زون SP قبلی را پر می‌کند. یک نگاه به اینجا بینداز
+
+### aboutcompression_p42_1071
+EN: As much as I know Acegazette is completely transformed for something else. don't know if this link should work any more.
+FA: تا آنجا که می‌دانم Acegazette کاملاً به چیز دیگری تبدیل شده. نمی‌دانم این لینک دیگر باید کار کند یا نه.
+
+### aboutcompression_p42_1072
+EN: Ifmyante wrote: Yes, once price got below the highest clean demand, it was free to run through the CP zone to the next clean Demand
+
+My english ain't that good.
+
+Don't really understand this statement.
+
+"price got below the highest clean demand" - Thought that demand is always at the bottom, what does it mean by highest?
+
+Can someone post a chart to show the meaning of the above statement?
+
+Thank you.
+
+Regards
+FA: Ifmyante نوشت: بله، وقتی قیمت به زیر بالاترین تقاضای تمیز رسید، آزاد بود که از زون CP تا تقاضای تمیز بعدی بدود
+
+انگلیسی‌ام آن‌قدر خوب نیست.
+
+این جمله را واقعاً نمی‌فهمم.
+
+«قیمت به زیر بالاترین تقاضای تمیز رسید» — فکر می‌کردم تقاضا همیشه در پایین است، «بالاترین» یعنی چه؟
+
+کسی می‌تواند چارتی بگذارد تا معنای جملهٔ بالا را نشان دهد؟
+
+ممنون.
+
+با احترام
+
+### aboutcompression_p42_1073
+EN: Hey there Bod,
+
+I do believe IF was answering this post here readthemarket.com/index.php/forum/homewo...sion?limitstart=0#45
+
+The image in the post, reveals this
+FA: سلام Bod،
+
+فکر می‌کنم IF جواب همین پست را می‌داد: readthemarket.com/index.php/forum/homewo...sion?limitstart=0#45
+
+تصویر داخل پست این را نشان می‌دهد
+
+### aboutcompression_p42_1074
+EN: Hi naascott,
+
+Thanks for posting the chart.
+
+That area highlighted by you - isn't it a RBD decision point / supply zone?
+
+I have read in couple of postings where members mentioned about clean demand and supply or fresh demand and supply.
+
+How do we read the chart to know what is clean and fresh?
+
+Is there any thread that talk about this topic?
+
+For example how is it that the area you highlighted is considered "clean"?
+
+Thank you
+
+naascott wrote: Hey there Bod,
+
+I do believe IF was answering this post here readthemarket.com/index.php/forum/homewo...sion?limitstart=0#45
+
+The image in the post, reveals this
+FA: سلام naascott،
+
+ممنون از گذاشتن چارت.
+
+آن ناحیه‌ای که علامت زدی — آیا نقطهٔ تصمیم RBD / زون ساپلای نیست؟
+
+در چند پست خوانده‌ام که اعضا از تقاضا و عرضهٔ تمیز یا تقاضا و عرضهٔ تازه حرف زده‌اند.
+
+چطور چارت را بخوانیم تا بفهمیم چه چیزی تمیز و تازه است؟
+
+تاپیکی هست که دربارهٔ این موضوع حرف بزند؟
+
+مثلاً چطور می‌شود که ناحیه‌ای که علامت زدی «تمیز» حساب می‌شود؟
+
+ممنون
+
+naascott نوشت: سلام Bod،
+
+فکر می‌کنم IF جواب همین پست را می‌داد: readthemarket.com/index.php/forum/homewo...sion?limitstart=0#45
+
+تصویر داخل پست این را نشان می‌دهد
+
+### aboutcompression_p42_1075
+EN: Hello Bodostock,
+
+I didn't highlight those areas. Apparently, the fella who posted the image had done so. Taking a close look on a lower time frame in this area, it appears (at least to me) that the highest clean demand was actually above that area. I am still learning as you, and I just posted what seemed to be obvious. Always good to get another opinion, too.:)
+
+P.S. MT4 may not let you view history this far back below the m15. For this reason, I used Forex tester
+FA: سلام Bodostock،
+
+من آن ناحیه‌ها را علامت نزدم. ظاهراً خود شخصی که تصویر را گذاشته این کار را کرده بود. با نگاه نزدیک به تایم‌فریم پایین‌تر در این ناحیه، به نظر می‌رسد (دست‌کم به من) که بالاترین تقاضای تمیز در واقع بالای آن ناحیه بوده. من هم مثل تو در حال یادگیری‌ام و فقط چیزی را گذاشتم که واضح به نظر می‌رسید. همیشه خوب است نظر دیگری را هم بشنوی.:)
+
+پینوشت: MT4 ممکن است اجازه ندهد تاریخچه را در تایم‌فریم‌های زیر m15 تا این اندازه عقب ببینی. به همین دلیل از Forex tester استفاده کردم

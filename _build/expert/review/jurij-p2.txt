@@ -1,0 +1,534 @@
+### jurij_p2_1
+EN: My EU trade ended up at B.E. but what a great lesson.
+
+First the charts
+
+As you can see price stopped at the first opposing FL of that scale (good for 1st profit tg).
+
+Then the pivot low 30m FL base, was not a good point for the full reversal.
+
+Reasons:
+
+1. the base was a pivot low, which means a reaction to a previous base,
+in this case a 30m FTR (which itself is the top of a small CP)
+
+2. the sharp arrival and departure makes this more a stop hunt/fake out
+than a full reversal, also because most reversals have larger tops with
+QM/diamond levels
+
+3.this low (where my entry was) and the pivot low can be used by ITs for
+ future tricks (FO), whereas that small 30m FTR looks absolutely not
+interesting to retail traders
+
+4. the better entry can be seen on chart #2 after the new 1m engulf
+signal either at the 1m quasimodo level or at the origin of the engulf,
+with the stop below the ftr base,
+
+I started to doubt about the validity of that engulf, but in the end price reached the target FL above.
+
+The question remains as how far price can retrace before meeting it's original target after an engulf
+FA: معاملهٔ EU من سر به سر بسته شد، اما چه درس بزرگی.
+
+اول نمودارها
+
+همان‌طور که می‌بینید قیمت روی اولین FL مخالف در آن مقیاس متوقف شد (برای تارگت سود اول خوب بود).
+
+بعد آن بیس FL پیوت‌لو 30m، نقطهٔ خوبی برای برگشت کامل نبود.
+
+دلایل:
+
+1. بیس یک پیوت‌لو بود، یعنی واکنشی به یک بیس قبلی، در این مورد یک FTR 30m (که خودش سقف یک CP کوچک است)
+
+2. رسیدن و رفتن تند، این را بیشتر شبیه شکار استاپ/فیک‌اوت می‌کند تا برگشت کامل؛ به‌خصوص که بیشتر برگشت‌ها سقف‌های بزرگ‌تری با سطوح QM/الماس دارند
+
+3. این کف (همان‌جا که ورودم بود) و پیوت‌لو می‌توانند توسط IT برای ترفندهای آینده (FO) استفاده شوند، در حالی که آن FTR کوچک 30m برای معامله‌گران خرد هیچ جذابیتی ندارد
+
+4. ورود بهتر روی نمودار #2 بعد از سیگنال اینگالف جدید 1m دیده می‌شود، یا روی سطح کوازیمودوی 1m یا روی مبدأ اینگالف، با استاپ‌لاس زیر بیس FTR،
+
+کم‌کم به معتبر بودن آن اینگالف شک کردم، اما در نهایت قیمت به FL هدف بالای آن رسید.
+
+پرسش باقی می‌ماند: بعد از یک اینگالف، قیمت چقدر می‌تواند اصلاح کند تا به تارگت اصلی خودش برسد؟
+
+### jurij_p2_2
+EN: Today's EU session
+
+Wanted to trade the first engulf signal with a retracement back to the
+FO level (larger QM level) but it went straight up to the traget.
+
+The good thing is that I drew in the 5m FL base where the play happened before price reached it.
+
+I take away the following simple lesson for today:
+
+It is really important to always draw FLs/FTRs (one above and one below)
+ ahead of price in each different scale (TF), because when the tricks
+happen you can spot them in real time and act accordingly.
+FA: سشن EU امروز
+
+می‌خواستم اولین سیگنال اینگالف را با اصلاح به سطح FO (سطح QM بزرگ‌تر) معامله کنم، اما قیمت مستقیم رفت بالا تا تارگت.
+
+نکتهٔ خوب این بود که بیس FL 5m را، همان‌جا که بازی رخ داد، قبل از رسیدن قیمت رسم کرده بودم.
+
+درس سادهٔ امروز من این است:
+
+واقعاً مهم است که همیشه FLها و FTRها (یکی بالا و یکی پایین) را در هر مقیاس (TF) جلوتر از قیمت رسم کنی، چون وقتی ترفندها رخ می‌دهند می‌توانی در لحظه ببینی‌شان و همان‌طور عمل کنی.
+
+### jurij_p2_3
+EN: EU 1m london session
+
+Reasons
+
+Was not great from a R:R standpoint but still a valid setup
+
+EDIT: the red engulfed FL box is a bit misplaced, the higher red border should be a bit lower...
+
+UJ 1m BE lol
+
+Don't try to outsmart the ITs
+
+Some observation: After looking at some FTRs/FLs over the charts while
+trying to understand which one are higher odds, I think I found that
+some are more important than others and that those can reverse or at
+least let price bounce, especially if the target was not reached yet.
+FA: EU 1m سشن لندن
+
+دلایل
+
+از نظر R:R عالی نبود، اما هنوز ستاپ معتبری بود
+
+ویرایش: باکس FL قرمزی که اینگالف شده کمی جابه‌جا رسم شده؛ مرز قرمز بالایی باید کمی پایین‌تر باشد...
+
+UJ 1m سر به سر، خنده‌دار
+
+سعی نکن از ITها باهوش‌تر باشی
+
+یک مشاهده: بعد از نگاه کردن به چند FTR/FL روی نمودارها و تلاش برای فهمیدن این‌که کدام‌یک شانس بیشتری دارد، فکر می‌کنم فهمیدم بعضی‌ها از بقیه مهم‌ترند و همان‌ها می‌توانند قیمت را برگردانند یا دست‌کم باعث بازگشت قیمت شوند، مخصوصاً اگر تارگت هنوز پر نشده باشد.
+
+### jurij_p2_4
+EN: Not bad mate. You see simple way - no channels, medians, nothing ...IF
+ is right , only clear chart and of course a bit knowledge , and we see everything. Good luck, good stuff here.
+FA: بد نیست رفیق. راه ساده‌ای را می‌بینی؛ بدون کانال، بدون میانه، هیچ‌چیز... حق با IF است: فقط نمودار تمیز و البته کمی دانش، و همه‌چیز را می‌بینیم. موفق باشی، مطالب خوبی این‌جاست.
+
+### jurij_p2_5
+EN: Thanks kovalenko, I really appreciate it.
+
+My trades from friday:
+
+EU 1m loser
+
+UJ 1m B.E. trade, this one hurted.
+
+Have to evaluate if moving the SL to B.E. is a good thing or if it is
+better to split the position in target 1 and 2 to pay for a possible
+stop out (IF style).
+
+NU 5m, entry should have been a bit higher in the red rectangle.
+
+My original entry was there because I wasn't sure which FTR/FL price
+wanted to bounce from. It bounced from the higher one (stacked levels).
+
+Closed before original target because of the WE and I had to leave.
+
+EJ 1m
+
+again closed earlier for the same reason and 4,4R was good enough to me
+
+BTW I'm having serious doubts about FLs and engulfs. Many gaps to fill yet
+FA: ممنون kovalenko، واقعاً قدرش را می‌دانم.
+
+معاملات جمعهٔ من:
+
+EU 1m، بازنده
+
+معاملهٔ UJ 1m سر به سر؛ این یکی درد داشت.
+
+باید بسنجم جابه‌جا کردن استاپ‌لاس به سر به سر کار درستی است یا بهتر است پوزیشن را بین تارگت 1 و 2 تقسیم کنم تا هزینهٔ یک استاپ‌خوردگی احتمالی جبران شود (سبک IF).
+
+NU 5m؛ ورود باید کمی بالاتر، داخل مستطیل قرمز می‌بود.
+
+ورود اولیه‌ام آن‌جا بود چون مطمئن نبودم قیمت از کدام FTR/FL می‌خواهد برگردد. از بالایی برگشت (سطوح روی‌هم‌انباشته).
+
+قبل از تارگت اصلی بستم، چون آخر هفته بود و باید می‌رفتم.
+
+EJ 1m
+
+دوباره به همان دلیل زودتر بستم و 4,4R برایم کافی بود
+
+راستی، شک جدی دربارهٔ FLها و اینگالف‌ها دارم. هنوز شکاف‌های زیادی برای پر کردن هست
+
+### jurij_p2_6
+EN: Today's LO session
+
+EU 1m
+
+EU 5m
+
+Was watching this GU 5m level which worked out but was not sure, reasons on the chart
+
+I think it still worked because it broke the previous low, although it was not important one (in my view)
+
+Had some fails too, charts coming up soon
+FA: سشن LO امروز
+
+EU 1m
+
+EU 5m
+
+این سطح GU 5m را زیر نظر داشتم؛ جواب داد اما مطمئن نبودم، دلایل روی نمودار
+
+فکر می‌کنم باز هم کار کرد چون کف قبلی را شکست، هرچند (به نظر من) کف مهمی نبود
+
+شکست هم داشتم؛ نمودارهایش را زودتر می‌گذارم
+
+### jurij_p2_7
+EN: EURJPY 5m fail
+
+Can't find the reason for the failure
+
+Any comment or suggestion is always welcome, from everyone
+FA: شکست EURJPY 5m
+
+دلیل شکست را پیدا نمی‌کنم
+
+از نظر و پیشنهاد هر کسی همیشه استقبال می‌کنم
+
+### jurij_p2_8
+EN: GU 5m still in this one
+FA: GU 5m، هنوز داخلش هستم
+
+### jurij_p2_9
+EN: CADJPY 5m fail
+
+OK this is where I have serious doubts about engulfs, sometime they stop
+ in the middle on insignificant LTF levels. I see no reason why price
+would stop there. Any idea?
+
+The only reason I see was that we were in 4H supply zone, so better sell there.
+
+Is that enough to make an engulf fail?
+FA: شکست CADJPY 5m
+
+باشه، این‌جاست که دربارهٔ اینگالف‌ها شک جدی دارم؛ بعضی وقت‌ها وسط راه روی سطوح بی‌اهمیت LTF متوقف می‌شوند. هیچ دلیلی نمی‌بینم که قیمت آن‌جا بایستد. نظری دارید؟
+
+تنها دلیلی که می‌بینم این بود که در ناحیهٔ عرضهٔ 4H بودیم، پس بهتر بود آن‌جا فروش کنیم.
+
+آیا این برای شکست یک اینگالف کافی است؟
+
+### jurij_p2_10
+EN: Analysitis paralysitis .. READ: Analysis paralysis.
+
+Price is bouncing from fresh H4 supply (you marked it correctly, well done) to next H4 demand.
+
+Then Price does what it does 24 a day 5 days a week.... f#€% with
+traders. So... Price moves, hits supply, forms a DP, DP breaks the HLs
+sequence and we get LL. Hence DP is confirmed and we are good to trade
+this thing lower. Then price reacts to FL... makes a bounce (money to be
+ made there as well). It is not enough then price moves higher to test
+the DP... does not reach it at 1st attempt. Poor fellows short it.. put
+stops above. Then Big fellows decide it is great place to get filled.
+They push it up.. hunt stops.. hit DP. Then this thing moves lower.
+
+All this drama happens in the big picture: From H4 supply to H4 demand (or lower... haven't checked).
+
+So basically you were buying where everyone was selling. Now you know.
+Promise you will not do it again, make a poster, a mantra etc. Focus on
+the next setup and don't let last loss to mess with you since it has
+nothing to do with the next setup.
+
+Have a great evening.
+
+Art.
+FA: آنالیزیت پارالیزیت .. یعنی: فلج تحلیل.
+
+قیمت از عرضهٔ تازهٔ H4 (درست علامت زده بودی، آفرین) به سمت تقاضای بعدی H4 در حرکت است.
+
+بعد قیمت همان کاری را می‌کند که روزی 24 بار، 5 روز هفته انجام می‌دهد... اعصاب معامله‌گران را خرد می‌کند. پس... قیمت حرکت می‌کند، به عرضه می‌خورد، یک DP می‌سازد؛ DP توالی HL را می‌شکند و LL می‌گیریم. بنابراین DP تأیید می‌شود و می‌توانیم این چیز را به سمت پایین معامله کنیم. بعد قیمت به FL واکنش می‌دهد... یک بازگشت می‌زند (آن‌جا هم پول هست). کافی نیست، پس قیمت بالاتر می‌رود تا DP را تست کند... در تلاش اول به آن نمی‌رسد. بیچاره‌ها فروش می‌کنند.. استاپ‌ها را بالا می‌گذارند. بعد بزرگان تصمیم می‌گیرند جای خوبی برای پر کردن سفارش‌هایشان است. قیمت را بالا می‌برند.. استاپ‌ها را شکار می‌کنند.. به DP می‌خورند. بعد این چیز پایین می‌رود.
+
+کل این نمایش در تصویر بزرگ رخ می‌دهد: از عرضهٔ H4 به تقاضای H4 (یا پایین‌تر... چک نکرده‌ام).
+
+پس اساساً آن‌جا خریدی که همه می‌فروختند. حالا می‌دانی. قول بده دیگر این کار را نکنی؛ یک پوستر بساز، یک ورد، هر چه. روی ستاپ بعدی تمرکز کن و نگذار ضرر قبلی حواست را پرت کند، چون هیچ ربطی به ستاپ بعدی ندارد.
+
+شب خوبی داشته باشی.
+
+Art.
+
+### jurij_p2_11
+EN: Jurij wrote: GU 5m still in this one
+
+Stopped out. I keep seeing engulfs where there isn't. But the FL was
+broken so theory says prie should travel to the other end of the PAZ.
+FA: Jurij نوشت: GU 5m، هنوز داخلش هستم
+
+استاپ خوردم. مدام اینگالف‌هایی می‌بینم که وجود ندارند. اما FL شکسته شد، پس طبق تئوری قیمت باید به انتهای دیگر PAZ سفر کند.
+
+### jurij_p2_12
+EN: Art, thanks for your input.
+
+Sadly I can't see how this was a decision point. On the 1m chart there
+are small pockets (DBD) just above and below that point, those also
+broke other 1m levels, but the one you marked did not break anything
+singificant, so why this one then?
+
+My understanding is that price travels from PAZ to PAZ where FTR/FL are the limits of those zones.
+
+I guess, I have to research those decision points a bit more.
+FA: Art، ممنون از نظرت.
+
+متأسفانه نمی‌بینم چطور این یک نقطهٔ تصمیم بود. روی نمودار 1m، دقیقاً بالا و پایین آن نقطه جیب‌های کوچکی (DBD) هست؛ آن‌ها هم سطوح دیگر 1m را شکستند، اما آن یکی که تو علامت زدی چیز مهمی را نشکست. پس چرا آن یکی؟
+
+درک من این است که قیمت از PAZ به PAZ سفر می‌کند و FTR/FL حدهای این ناحیه‌ها هستند.
+
+حدس می‌زنم باید روی این نقاط تصمیم کمی بیشتر تحقیق کنم.
+
+### jurij_p2_13
+EN: EURJPY 30m still in progress
+
+EDIT: stopped out
+FA: EURJPY 30m، هنوز در جریان است
+
+ویرایش: استاپ خوردم
+
+### jurij_p2_14
+EN: Hmmm... There are many DBD there but only 1 important. DP can be after
+ it engulfed something but ir can also be THE REASON that smth got
+engulfed.
+
+Anyway, another chart.... if this does not ring a bell then it is too early.
+FA: هومم... آن‌جا DBDهای زیادی هست، اما فقط یکی مهم است. DP می‌تواند بعد از اینگالف کردن چیزی بیاید، اما می‌تواند خودش دلیل اینگالف شدن چیزی هم باشد.
+
+به‌هرحال، یک نمودار دیگر.... اگر این هم جرقه‌ای در ذهنت نزد، پس هنوز خیلی زود است.
+
+### jurij_p2_15
+EN: Yes your chart is absolutely clear and I can follow it. I understand
+that a DP can also happen just before a break, but in this case it was
+neither a break before or after. For me that high you consider important
+ seems a reaction to the higher red FL which is more important.
+
+Here is what I mean:
+
+There is a very small DBD just before the break of the lower blue FL, but it got engulfed too.
+
+Now looking at the 1H chart, price went up
+
+What if it was an engulf but price wanted to retrace deep to the next important FL, as it did in the 1H chart?
+
+But I don't think this is what happened, because the engulf was on a smaller scale.
+FA: بله، نمودارت کاملاً روشن است و می‌توانم دنبالش کنم. می‌فهمم که DP می‌تواند درست قبل از یک شکست هم رخ دهد، اما در این مورد نه قبلش شکستی بود و نه بعدش. برای من آن سقفی که مهم می‌دانی، واکنشی به FL قرمز بالاتر به نظر می‌رسد که مهم‌تر است.
+
+منظورم این است:
+
+دقیقاً قبل از شکست FL آبی پایینی یک DBD خیلی کوچک هست، اما آن هم اینگالف شد.
+
+حالا به نمودار 1H نگاه کن؛ قیمت رفت بالا
+
+چه می‌شود اگر یک اینگالف بود، اما قیمت می‌خواست عمیق اصلاح کند تا به FL مهم بعدی برسد، همان‌طور که در نمودار 1H کرد؟
+
+اما فکر نمی‌کنم این اتفاق افتاده باشد، چون اینگالف در مقیاس کوچک‌تری بود.
+
+### jurij_p2_16
+EN: Everything is on the last M1 chart I posted. You trying to disprove it
+ rather than trying to understand kills my good intentions here.
+
+Once more, all you need is on the M1 chart, in case you decide to understand it.
+
+Cheers,
+
+Art
+FA: همه‌چیز روی آخرین نمودار M1 که گذاشتم هست. این‌که به‌جای فهمیدن، می‌خواهی ردش کنی، حسن نیت من را این‌جا می‌کُشد.
+
+یک بار دیگر: هر چه لازم داری روی نمودار M1 است، اگر تصمیم بگیری آن را بفهمی.
+
+به سلامتی،
+
+Art
+
+### jurij_p2_17
+EN: Sorry my friend. It was not my intention.
+
+I'm thankful for your view and your time.
+FA: ببخش دوستم. قصد بدی نداشتم.
+
+از دیدگاه و وقتی که گذاشتی سپاسگزارم.
+
+### jurij_p2_18
+EN: I have to correct my previous understanding of the FTR and FL.
+
+In one of the first post I wrote that for me a FL is a FTR of a previous FTR (something like an important FTR).
+
+Then I had a lot of trouble because of the markepedia FL page which
+shows FLs before a zone break (ie. FL without FTR). I would call those
+decision points rather than FLs.
+
+But now it is clear to me that there is no FL without FTR.
+
+And to clear that confusion, here is now my newest understanding.
+
+As I already wrote this in the classroom thread few days ago:
+
+The FTR is a structure that forms only AFTER a break of a level/zone.
+
+The FTR can become a FL when price bounces from it, hence the name (it limits the flag).
+
+The flag limit is just a property of the FTR.
+
+Here a drawing from IF posted on FF
+FA: باید درک قبلی‌ام از FTR و FL را تصحیح کنم.
+
+در یکی از پست‌های اول نوشتم که برای من FL همان FTR یک FTR قبلی است (چیزی مثل یک FTR مهم).
+
+بعد به‌خاطر صفحهٔ FL در مارک‌پدیا خیلی دردسر پیدا کردم، چون FLها را قبل از شکست یک ناحیه نشان می‌دهد (یعنی FL بدون FTR). من آن‌ها را بیشتر نقطهٔ تصمیم می‌نامیدم تا FL.
+
+اما حالا برایم روشن است که FL بدون FTR وجود ندارد.
+
+و برای رفع آن سردرگمی، این هم درک تازه‌ترم.
+
+همان‌طور که چند روز پیش در تاپیک کلاس درس نوشتم:
+
+FTR ساختاری است که تنها بعد از شکست یک سطح/ناحیه شکل می‌گیرد.
+
+FTR وقتی قیمت از آن بازگشت می‌کند می‌تواند FL شود؛ اسمش هم از همین می‌آید (فلگ را محدود می‌کند).
+
+فلگ‌لیمیت فقط یک ویژگی FTR است.
+
+این هم یک رسم از IF که در FF منتشر شده
+
+### jurij_p2_19
+EN: Jurij wrote: I have to correct my previous understanding of the FTR and FL.
+
+In one of the first post I wrote that for me a FL is a FTR of a previous FTR (something like an important FTR).
+
+Then I had a lot of trouble because of the markepedia FL page which
+shows FLs before a zone break (ie. FL without FTR). I would call those
+decision points rather than FLs.
+
+But now it is clear to me that there is no FL without FTR.
+
+And to clear that confusion, here is now my newest understanding.
+
+As I already wrote this in the classroom thread few days ago:
+
+The FTR is a structure that forms only AFTER a break of a level/zone.
+
+The FTR can become a FL when price bounces from it, hence the name (it limits the flag).
+
+The flag limit is just a property of the FTR.
+
+Here a chart from IF posted on FF
+
+Well yes a FL is the very extreme or the very Limit of a Flag beyond
+which price just can't go hence it kinda Limits the price beyond that.
+And basically all FLs are formed because of FTR, because price just
+can't return to the old price action zone thus again limiting price upto
+ a certain level. But thanks for bringing up this crucial concept for
+clarification of all in here, and also for referring to that diagram by
+IF. It says all.
+FA: Jurij نوشت: باید درک قبلی‌ام از FTR و FL را تصحیح کنم.
+
+در یکی از پست‌های اول نوشتم که برای من FL همان FTR یک FTR قبلی است (چیزی مثل یک FTR مهم).
+
+بعد به‌خاطر صفحهٔ FL در مارک‌پدیا خیلی دردسر پیدا کردم، چون FLها را قبل از شکست یک ناحیه نشان می‌دهد (یعنی FL بدون FTR). من آن‌ها را بیشتر نقطهٔ تصمیم می‌نامیدم تا FL.
+
+اما حالا برایم روشن است که FL بدون FTR وجود ندارد.
+
+و برای رفع آن سردرگمی، این هم درک تازه‌ترم.
+
+همان‌طور که چند روز پیش در تاپیک کلاس درس نوشتم:
+
+FTR ساختاری است که تنها بعد از شکست یک سطح/ناحیه شکل می‌گیرد.
+
+FTR وقتی قیمت از آن بازگشت می‌کند می‌تواند FL شود؛ اسمش هم از همین می‌آید (فلگ را محدود می‌کند).
+
+فلگ‌لیمیت فقط یک ویژگی FTR است.
+
+این هم یک نمودار از IF که در FF منتشر شده
+
+خب بله، FL همان اکسترمم یا همان حد نهایی یک فلگ است که قیمت اصلاً نمی‌تواند از آن رد شود؛ پس به نوعی قیمت را فراتر از آن محدود می‌کند. و اساساً همهٔ FLها به‌خاطر FTR شکل می‌گیرند، چون قیمت نمی‌تواند به ناحیهٔ پرایس اکشن قبلی برگردد و این‌طور دوباره قیمت را تا یک سطح معین محدود می‌کند. اما ممنون که این مفهوم حیاتی را برای روشن شدن ذهن همهٔ ما این‌جا مطرح کردی، و هم برای ارجاع به آن نمودار IF. همه‌چیز را می‌گوید.
+
+### jurij_p2_20
+EN: Have been digging deeply in the FTR concept lately.
+
+By looking at IF's charts posted over on facebook or on his journal you can learn a great deal about FTR tuning.
+
+This is how a 10R, 20R, 30R or even 60R trade is possible.
+
+Here only 2 examples how this works. Won't post any more of these because the basic principle is the same.
+
+EURAUD
+
+GBPUSD
+
+I'm still working on it though, because sometimes I see 2 possible
+candidates. What I do in such situation is to trade them both.
+
+Touch trading these is nice but the next step is to integrate this with the other puzzle pieces to increase the hit rate.
+
+Other than that, still a lot of work to do on engulfs
+FA: اخیراً خیلی عمیق روی مفهوم FTR کار کرده‌ام.
+
+با نگاه به نمودارهای IF در فیسبوک یا ژورنالش می‌توانی چیزهای زیادی دربارهٔ ریزتنظیم FTR یاد بگیری.
+
+این‌طور است که یک معاملهٔ 10R، 20R، 30R یا حتی 60R ممکن می‌شود.
+
+این‌جا فقط 2 نمونه از این‌که چطور کار می‌کند. بیشتر از این نمی‌گذارم، چون اصل پایه یکی است.
+
+EURAUD
+
+GBPUSD
+
+با این حال هنوز رویش کار می‌کنم، چون گاهی 2 کاندیدای ممکن می‌بینم. کاری که در چنین موقعیتی می‌کنم این است که هر دو را معامله می‌کنم.
+
+تاچ‌ترید کردن این‌ها خوب است، اما قدم بعدی ترکیب این با بقیهٔ قطعات پازل برای بالا بردن نرخ برد است.
+
+جز این، هنوز روی اینگالف‌ها کار زیادی مانده
+
+### jurij_p2_21
+EN: And of course sometimes stupid errors happen too.
+
+EDIT: maybe this is a bit more clear, the 1m chart of the break zone and fake bounces to the upside
+
+Look once, then again and again before a trade
+FA: و البته گاهی خطاهای احمقانه هم پیش می‌آید.
+
+ویرایش: شاید این کمی روشن‌تر باشد؛ نمودار 1m ناحیهٔ شکست و بازگشت‌های جعلی به سمت بالا
+
+قبل از معامله یک بار نگاه کن، بعد دوباره و دوباره
+
+### jurij_p2_22
+EN: Touch traded this FTR with LTF tuning for the entry, unfortunately had to close it early for the weekend
+FA: این FTR را با ریزتنظیم LTF برای ورود تاچ‌ترید کردم؛ متأسفانه به‌خاطر آخر هفته مجبور شدم زودتر ببندمش.
+
+### jurij_p2_23
+EN: Engulfs have most of the time specific targets
+FA: اینگالف‌ها بیشتر وقت‌ها تارگت‌های مشخصی دارند
+
+### jurij_p2_24
+EN: EURCHF 1m
+
+AUDJPY 1m
+
+The first short attempt was stopped out because I was too cheap on the
+SL. Once I realised the terrible mistake, I jumped in on the pin
+rejecting the extreme of the FTR.
+
+This happened because the initial risk reward ratio wasn't that good,
+instead of placing my limit order on a favorable place, such as at the
+fake out or where the R:R becomes acceptable, I started to mess with my
+SL. Lesson learned
+FA: EURCHF 1m
+
+AUDJPY 1m
+
+اولین تلاش فروش استاپ خورد، چون روی استاپ‌لاس خیلی خست به خرج دادم. وقتی فهمیدم چه اشتباه بدی کردم، روی پینی که اکسترمم FTR را رد می‌کرد پریدم داخل.
+
+این اتفاق افتاد چون نسبت ریسک به ریوارد اولیه آن‌قدر خوب نبود؛ به‌جای این‌که سفارش لیمیت را در جای بهتری بگذارم، مثلاً روی فیک‌اوت یا جایی که R:R قابل‌قبول می‌شود، شروع کردم به دستکاری استاپ‌لاسم. درس گرفتم
+
+### jurij_p2_25
+EN: USDCHF 1m engulf that failed
+
+actually the first circled engulf did work out...
+
+Not sure if the second circle was still an engulf.
+FA: اینگالف USDCHF 1m که شکست خورد
+
+راستش اولین اینگالف دایره‌شده کار کرد...
+
+مطمئن نیستم دایرهٔ دوم هم هنوز اینگالف بود.

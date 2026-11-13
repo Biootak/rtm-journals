@@ -1,0 +1,8 @@
+{
+  "salivan_p29_17": {
+    "ok": false,
+    "issue": "terminology (RTM term Pole translated)",
+    "why": "EN: «there is a good location for them to short at the origin of the big pole starting at 108.8». اصطلاح ساختاری Pole در RTM به «میله» برگردانده شده («مبدأ آن میلهٔ بزرگ»)؛ در حالی که Pole نام یک ساختار است و در این ژورنال لاتین می‌ماند («میله» در فارسی معنای رایج دیگری هم دارد).",
+    "fix": "این چیزها پیش می‌آید برادر.. من هم آن نمودار را مثل تو خواندم.. و در RT وارد شدم. ولی استاپ‌لاس خورد؛ مبدأ آن Pole بزرگ که از 108.8 شروع می‌شود جای خوبی برای فروش آنهاست."
+  }
+}

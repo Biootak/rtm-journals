@@ -1,0 +1,100 @@
+  classroom_p11_256 | paragraphs 7 / 6
+  classroom_p11_263 | paragraphs 4 / 3
+  classroom_p11_265 | echo
+  classroom_p13_303 | paragraphs 7 / 6
+  classroom_p13_315 | echo
+  classroom_p13_321 | echo
+  classroom_p13_324 | echo
+  classroom_p14_331 | echo
+  classroom_p18_437 | echo
+  classroom_p18_439 | echo
+  classroom_p18_440 | echo
+  classroom_p21_510 | echo
+  classroom_p23_564 | echo
+  classroom_p25_621 | no-persian
+  classroom_p26_631 | echo
+  classroom_p3_75 | echo
+  classroom_p30_732 | echo
+  classroom_p31_755 | no-persian
+  classroom_p31_759 | no-persian
+  classroom_p31_762 | no-persian
+  classroom_p33_822 | echo
+  classroom_p34_840 | echo
+  classroom_p38_941 | echo
+  classroom_p39_967 | rambling
+  classroom_p39_973 | echo
+  classroom_p39_975 | echo
+  classroom_p4_81 | echo
+  classroom_p40_987 | echo
+  classroom_p48_1177 | numbers missing 1000
+  classroom_p5_101 | echo
+  classroom_p8_199 | echo
+  hs_p10_238 | echo
+  hs_p11_251 | echo
+  hs_p11_269 | echo
+  hs_p12_300 | echo
+  hs_p15_366 | echo
+  hs_p16_385 | echo
+  hs_p19_463 | echo
+  hs_p19_474 | echo
+  hs_p22_537 | paragraphs 4 / 3
+  hs_p22_541 | echo
+  hs_p22_547 | paragraphs 6 / 5
+  hs_p28_697 | numbers missing 100%
+  hs_p3_59 | echo
+  hs_p33_814 | numbers missing 100%
+  hs_p33_815 | echo
+  hs_p33_822 | echo
+  hs_p34_831 | echo
+  hs_p34_848 | echo
+  hs_p36_883 | echo
+  hs_p36_896 | echo
+  hs_p36_898 | echo
+  hs_p37_909 | echo
+  hs_p38_939 | echo
+  hs_p39_956 | echo
+  hs_p41_1022 | echo
+  hs_p41_1025 | paragraphs 6 / 5
+  hs_p42_1033 | echo
+  hs_p43_1052 | echo
+  hs_p44_1076 | echo
+  hs_p44_1085 | echo
+  hs_p45_1110 | echo
+  hs_p46_1130 | paragraphs 17 / 21
+  hs_p46_1134 | paragraphs 13 / 12
+  hs_p46_1145 | echo
+  hs_p47_1163 | echo
+  hs_p47_1168 | echo
+  hs_p48_1181 | echo
+  hs_p49_1223 | echo
+  hs_p52_1290 | echo
+  hs_p60_1480 | echo
+  hs_p61_1512 | echo
+  hs_p61_1514 | paragraphs 4 / 3
+  hs_p62_1530 | echo
+  hs_p62_1537 | paragraphs 9 / 10
+  hs_p65_1612 | echo
+  hs_p65_1622 | paragraphs 8 / 9
+  hs_p65_1623 | paragraphs 10 / 5
+  hs_p69_1708 | paragraphs 14 / 12
+  hs_p69_1711 | paragraphs 26 / 24
+  hs_p7_173 | echo
+  hs_p71_1753 | paragraphs 6 / 5
+  hs_p71_1771 | paragraphs 4 / 3
+  hs_p71_1772 | paragraphs 7 / 6
+  hs_p73_1805 | paragraphs 2 / 1
+  hs_p73_1815 | paragraphs 4 / 1
+  hs_p73_1821 | paragraphs 2 / 1
+  hs_p74_1826 | numbers missing 100%
+  hs_p75_1869 | echo
+  hs_p76_1900 | paragraphs 4 / 1
+  hs_p8_176 | echo
+  hs_p8_177 | echo
+  hs_p8_191 | echo
+  hs_p80_1976 | echo
+  hs_p81_2008 | echo
+  hs_p81_2009 | echo
+  hs_p84_2081 | echo
+  hs_p86_2136 | echo
+  hs_p89_2216 | echo
+  hs_p90_2248 | echo

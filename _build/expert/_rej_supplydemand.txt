@@ -1,0 +1,500 @@
+===== supplydemand-p10.json supplydemand_p10_230 | echo
+--- EN ---
+pippendale wrote: The site seems to be getting very quiet. Are people posting in some forum that I havent access to or is it just a slow week?
+
+Just a slow week, for various reasons. Things will pick back up very soon.
+--- FA ---
+pippendale نوشت: به نظر می‌رسد سایت خیلی خلوت شده. آیا مردم در فرومی پست می‌کنند که من دسترسی ندارم یا فقط یک هفتهٔ کند است؟
+
+فقط یک هفتهٔ کند، به دلایل مختلف. کارها خیلی زود دوباره بالا می‌گیرند.
+
+===== supplydemand-p12.json supplydemand_p12_279 | numbers missing 78468
+--- EN ---
+e/g m5 chart saw stacked zone above then one extreme one above that. demand looks good, but l just
+
+monitor my trades to make the most of it.. not to mention the befg l was eyeing offf.78468 poss TG
+
+edit: this worked nicely exited 2 at 78.20, some of one running still.
+--- FA ---
+e/g چارت m5 ناحیهٔ انباشته را بالاتر دیدم و بعد یک اکستریم بالاتر از آن. تقاضا خوب به نظر می‌رسد، ولی فقط
+
+معامله‌هایم را مانیتور می‌کنم تا بیشترین بهره را ببرم.. چه برسد به BEFL که به 0.78468 چشم دوخته بودم شاید TG باشد
+
+ویرایش: این خوب جواب داد، 2 را روی 78.20 بستم، مقداری از یکی هنوز در حال اجراست.
+
+===== supplydemand-p12.json supplydemand_p12_296 | paragraphs 3 / 1
+--- EN ---
+Ifmyante wrote: Believe it or not, I trade from a laptop. I have no idea why I have so many candles on my screen, but aspect ratio does sound right. I'm just glad I have them:)
+
+The forex gods favour you, IF.
+
+Higher resolution than 1920x1080, IF?
+--- FA ---
+Ifmyante نوشت: باور کنی یا نه، من از لپ‌تاپ معامله می‌کنم. نمی‌دانم چرا این‌قدر کندل روی صفحه‌ام هست، ولی نسبت تصویر به نظر درست می‌رسد. فقط خوشحالم که دارم :)
+
+===== supplydemand-p14.json supplydemand_p14_326 | numbers missing 15110
+--- EN ---
+Thanks mitchworth,took it to BE after post took exit @15110 looked there could be strong demand @15100 UC not as happy with entry for some reason not complaining at the moment.
+--- FA ---
+ممنون mitchworth، بعد از این‌که پست من خارج شد تا BE رفت و به نظر می‌رسید در @15100 تقاضای قوی وجود دارد؛ UC، به‌دلیلی از ورودم راضی نیستم ولی فعلاً شکایتی ندارم.
+
+===== supplydemand-p14.json supplydemand_p14_341 | echo
+--- EN ---
+These are the levels I am currently watching on EU. I wanted to go long at the bottom 1H demand, but missed the entry. I may enter a long trade if and when EU crosses the SR flip zone and provides a retest entry
+--- FA ---
+این سطح‌هایی است که الان روی EU تماشا می‌کنم. می‌خواستم در تقاضای 1H پایین لانگ بگیرم ولی ورود را از دست دادم. اگر و وقتی EU از ناحیه فلیپ SR عبور کند و ورود ری‌تست بدهد، شاید معاملهٔ لانگ بگیرم
+
+===== supplydemand-p14.json supplydemand_p14_346 | echo
+--- EN ---
+Hi Ashkan Well,
+
+trading M15 itself would mean getting in and out at each M15 level, and being satisfied with the results
+
+If, however, you see an M15 zone deep inside an HTF zone, and you felt like trading it for a runner, you would then be trading the HTF, entering on the M15, and managing the trade on the HTF.
+
+I hope this helped
+--- FA ---
+سلام Ashkan خوب،
+
+معامله روی خود M15 یعنی در هر سطح M15 وارد و خارج شوی و با نتایج راضی باشی
+
+اما اگر یک ناحیه M15 را عمیق داخل یک ناحیه HTF ببینی و احساس کنی می‌خواهی آن را برای یک رانر معامله کنی، در آن صورت داری HTF را معامله می‌کنی، روی M15 وارد می‌شوی و معامله را روی HTF مدیریت می‌کنی.
+
+امیدوارم این کمک کرد
+
+===== supplydemand-p24.json supplydemand_p24_580 | echo
+--- EN ---
+Sorry for any confusion. I trade off ltf. I only refer to HTF for direction., patterns in the bigger picture... This method gives me a more accurate entry on ltf.
+
+So, were you posing a question to see what response you got....or have you learned something?.
+
+i hope you have learned something.:)
+--- FA ---
+ببخشید برای هرگونه ابهام. من روی ltf معامله می‌کنم. فقط برای جهت به HTF ارجاع می‌دهم، پترن‌ها در تصویر بزرگ‌تر... این روش به من ورود دقیق‌تری روی ltf می‌دهد.
+
+پس، آیا سؤالی می‌پرسی تا ببینی چه پاسخی می‌گیری.... یا چیزهایی یاد گرفته‌ای؟
+
+امیدوارم چیزی یاد گرفته باشی:)
+
+===== supplydemand-p25.json supplydemand_p25_604 | echo
+--- EN ---
+If......
+
+I followed you again. I hope you're alright with this
+
+I have never truly committed. Between PIE, RTP, AG, and now here. Never contributing as much as I have learned. I learned a lot about myself, as well, in 2012 and its time for me to be the person I want to be.
+
+Looking forward to the engagement and the wonderful intent of this endeavor.
+
+I am down for any tf, any pair, if that is okay with you.
+--- FA ---
+If......
+
+دوباره تو را دنبال کردم. امیدوارم با این اوکی باشی
+
+من هرگز واقعاً commit نشده بودم. بین PIE، RTP، AG، و حالا اینجا. هرگز به‌اندازه‌ای که یاد گرفتم مشارکت نکردم. در 2012 چیزهای زیادی دربارهٔ خودم هم یاد گرفتم و وقت است که شخصی باشم که می‌خواهم باشم.
+
+منتظر مشارکت و قصد زیبای این تلاش هستم.
+
+برای هر تایم‌فریم، هر جفتی، اگر با تو اوکی باشد، حاضرم.
+
+===== supplydemand-p25.json supplydemand_p25_615 | echo
+--- EN ---
+EU H4 view. After breaking south from the flag and disrespecting the resistance line price looks to have formed dbd supply area that was tested at Fridays's close. Seems price likely to continue move down to demand as shown. Just my quite humble analysis
+
+and looking for comments.
+--- FA ---
+نمای EU در H4. بعد از شکست به جنوب از پرچم و بی‌احترامی به خط مقاومت، قیمت به نظر می‌رسد ناحیهٔ عرضه dbd ساخته که در بسته‌شدن جمعه تست شد. به نظر می‌رسد قیمت احتمالاً به حرکت به سمت تقاضا ادامه دهد همان‌طور که نشان داده شده. فقط تحلیل خیلی فروتنانهٔ من
+
+و در انتظار کامنت‌ها.
+
+===== supplydemand-p26.json supplydemand_p26_635 | echo
+--- EN ---
+Ifmyante wrote: I'd like to spend an hour or two here getting us organised, assigning pairs to whomever's around, so I hope there are lots of you here to take part.
+
+If, I am ready. would like to be considered for any: E/U A/U E/A G/U
+
+Do you think HTF candle closes due to different chart-broker will be a concern?
+--- FA ---
+Ifmyante نوشت: دوست دارم یک یا دو ساعت اینجا صرف کنیم تا خودمان را سازماندهی کنیم و جفت‌ها را به هرکس که اینجاست بسپاریم، پس امیدوارم خیلی‌هایتان اینجا باشید تا شرکت کنید.
+
+If، آماده‌ام. دوست دارم برای هرکدام در نظر گرفته شوم: E/U A/U E/A G/U
+
+فکر می‌کنی بسته‌شدن‌های کندل HTF به دلیل چارت-بروکرهای متفاوت نگران‌کننده خواهد بود؟
+
+===== supplydemand-p27.json supplydemand_p27_664 | echo
+--- EN ---
+danandsueco wrote:. Due to my unfortunate time zone, I place my over night trades on the 15min. Hope that helps. Obvisously using PA as everything at supply & demand levels.
+
+Man, I know how ya feel. Looks like you live on PST time zone. I live on that time zone as well. Quite the challenge to follow overnight trades.
+--- FA ---
+danandsueco نوشت:. به دلیل منطقهٔ زمانی بدشانسم، معامله‌های شبانه‌ام را روی 15min می‌گذارم. امیدوارم کمک کند. البته استفاده از PA به‌عنوان همه‌چیز در سطوح عرضه & تقاضا.
+
+مرد، می‌دانم چه حسی داری. به نظر می‌رسد تو روی منطقهٔ زمانی PST زندگی می‌کنی. من هم روی آن منطقهٔ زمانی هستم. دنبال کردن معامله‌های شبانه چالش بزرگی است.
+
+===== supplydemand-p28.json supplydemand_p28_681 | echo
+--- EN ---
+WTI Crude Oil H1 QM @ Major Daily Level
+
+We are at a Daily level with a lot of history...
+
+As seen on the H1 chart, we have the makings of a QM. The 93.30 level has been significant lately and marks the top of the "H" in the QM. This is a good level to watch for a short, depending on PA of course.
+--- FA ---
+نفت خام WTI در H1، QM @ سطح روزانه بزرگ
+
+ما در یک سطح روزانه با تاریخچهٔ زیادی هستیم...
+
+همان‌طور که در چارت H1 دیده می‌شود، مواد خام QM را داریم. سطح 93.30 اخیراً قابل‌توجه بوده و بالای "H" در QM را علامت می‌زند. این سطح خوبی برای تماشا کردن شورت است، البته بسته به PA.
+
+===== supplydemand-p28.json supplydemand_p28_686 | echo
+--- EN ---
+DharmaTrader wrote: We are approaching the Gold H4 S/R Flip area again...
+
+Now price is sitting at the S/R flip but another look at D1 and we can clearly see a LQ gap that needs to get filled (pointed at with yellow arrow) and another s/r flip level aligned with the D1 supply, same goes for the H1 chart. So I'll look for a PA confirmation before entry.
+--- FA ---
+DharmaTrader نوشت: دوباره داریم به ناحیهٔ فلیپ S/R طلا در H4 نزدیک می‌شویم...
+
+الان قیمت دارد روی فلیپ S/R می‌نشیند ولی نگاه دیگری به D1 بینداز و می‌توانیم یک LQ gap واضح ببینیم که باید پر شود (با فلش زرد نشان داده شده) و یک سطح فلیپ S/R دیگر هم‌راستا با عرضه روزانه، همین‌طور برای چارت H1. پس قبل از ورود به دنبال تأیید PA می‌گردم.
+
+===== supplydemand-p28.json supplydemand_p28_693 | numbers missing 5950
+--- EN ---
+Alientrader wrote: Hey BOD. I focus mostly on EU too. Looking forward to your analysis. This is how I see GU. Broke demand. Demand below looks CP'd. What do you think?
+
+My picture looks largely the same as yours. The D at around.5950 ish is uncompressed so that will be a bounce there (providing we make it.... god i hope so ). Under that is CP'd fo' sho'. The way it's falling i see lots of DBD on the way down which should provide us with lots of ideas how to play the bounces as and when they come.
+
+But i think it will go even lower than that eventually... lets see how this weeks candle ends up....who knows, we could end up with a D1 bull pin right now (tho i seriously doubt that) so lets roll with the punches.
+
+For now the fight for 1.6 continues.....the doors have been smashed in but there are plenty of defenders in there!
+--- FA ---
+Alientrader نوشت: هی BOD. من هم بیشتر روی EU تمرکز می‌کنم. منتظر تحلیل تو هستم. GU را این‌طور می‌بینم. تقاضا را شکست. تقاضای پایین‌تر به نظر CP شده. نظرت چیست؟
+
+تصویر من تقریباً همان تصویر تو است. D حدود 1.5950 فشرده نشده پس آنجا یک برگشت خواهد بود (به شرطی که برسیم.... خدایا امیدوارم). زیر آن قطعاً CP شده. به راهی که دارد می‌افتد، DBDهای زیادی در مسیر نزول می‌بینم که باید ایده‌های زیادی برای بازی کردن برگشت‌ها به ما بدهند هر وقت که بیایند.
+
+ولی فکر می‌کنم بالاخره حتی پایین‌تر از آن هم می‌رود... ببینیم کندل این هفته چطور تمام می‌شود.... کی می‌داند، ممکن است الان یک pin گاو در D1 داشته باشیم (اگرچه جدی شک دارم) پس با مشت‌هایش پیش می‌رویم.
+
+فعلاً جنگ برای 1.6 ادامه دارد..... درها را درهم‌شکسته‌اند ولی مدافعان زیادی داخلش هستند!
+
+===== supplydemand-p30.json supplydemand_p30_733 | echo
+--- EN ---
+danandsueco wrote: EU long scalp. S/R flip on chart as well. Zones and R/R defined.
+
+Long sclap closed. GU rejcting top range, EU may follow.
+--- FA ---
+danandsueco نوشت: اسکلپ لانگ EU. فلیپ S/R هم روی چارت. ناحیه‌ها و R/R تعریف‌شده.
+
+اسکلپ لانگ بسته شد. GU دارد سقف رنج را ریجکت می‌کند، EU ممکن است دنبال کند.
+
+===== supplydemand-p30.json supplydemand_p30_735 | echo
+--- EN ---
+Marek wrote:
+
+Ifmyante wrote: What's beyond that supply? What's it a reaction to?
+
+Is right? or you mean something else? Thanks danandsueco
+
+i think IF asks what is to the left of your marked supply on the daily chart. (in post 728) that supply was created by reacting to something else on further left
+--- FA ---
+Marek نوشت:
+
+Ifmyante نوشت: آن‌ورِ آن عرضه چیست؟ واکنشی به چیست؟
+
+درست است؟ یا منظورت چیز دیگری است؟ ممنون danandsueco
+
+فکر می‌کنم IF می‌پرسد سمت چپ عرضه علامت‌زده‌ات روی چارت روزانه چیست. (در پست 728) آن عرضه با واکنش به چیز دیگری در سمت چپ‌تر ساخته شده بود
+
+===== supplydemand-p30.json supplydemand_p30_743 | echo
+--- EN ---
+BUND FUTURES.
+
+Last week we had a break below support. A retest from below and move south. We've now come back to the origin of the move, into Supply Zone. Approach is not too bad on 4hrs but I don't see any CP on the way into supply. I already traded this last week on 1hrs, will see if get any PA confirmation on LTF for a possible move down
+--- FA ---
+BUND آینده‌ها.
+
+هفتهٔ پیش یک شکست زیر حمایت داشتیم. یک ری‌تست از پایین و حرکت به جنوب. الان به مبدأ حرکت برگشته‌ایم، به داخل ناحیهٔ عرضه. رویکرد روی 4hrs بد نیست ولی هیچ CPای در مسیر به عرضه نمی‌بینم. این را هفتهٔ پیش روی 1hrs معامله کردم، می‌بینم آیا روی LTF تأیید PA برای حرکت احتمالی به پایین می‌گیرم یا نه
+
+===== supplydemand-p30.json supplydemand_p30_745 | echo
+--- EN ---
+hornet wrote: BUND FUTURES.
+
+Last week we had a break below support. A retest from below and move south. We've now come back to the origin of the move, into Supply Zone. Approach is not too bad on 4hrs but I don't see any CP on the way into supply. I already traded this last week on 1hrs, will see if get any PA confirmation on LTF for a possible move down
+
+Sold after a bearish engulfing on 1hr
+--- FA ---
+hornet نوشت: BUND آینده‌ها.
+
+هفتهٔ پیش یک شکست زیر حمایت داشتیم. یک ری‌تست از پایین و حرکت به جنوب. الان به مبدأ حرکت برگشته‌ایم، به داخل ناحیهٔ عرضه. رویکرد روی 4hrs بد نیست ولی هیچ CPای در مسیر به عرضه نمی‌بینم. این را هفتهٔ پیش روی 1hrs معامله کردم، می‌بینم آیا روی LTF تأیید PA برای حرکت احتمالی به پایین می‌گیرم یا نه
+
+بعد از یک اینگالف نزولی روی 1hr فروختم
+
+===== supplydemand-p31.json supplydemand_p31_758 | echo
+--- EN ---
+FX.Sniffer wrote: Great work danandsueco and many thanks for your participation, hoping others will join in soon.:)>-
+
+That's a huge compliment coming from you. Thanks FX.Sniffer. I didn't realize we had moved to the next page. I hope to see others join to. Feeling alone here!!
+--- FA ---
+FX.Sniffer نوشت: کار عالی danandsueco و تشکرهای زیاد برای مشارکتت، امیدوارم دیگران هم زود بپیوندند.:)>-
+
+این یک تعریف بزرگ از طرف توست. ممنون FX.Sniffer. نفهمیده بودم که به صفحهٔ بعد رفته‌ایم. امیدوارم دیگران هم بپیوندند. اینجا احساس تنهایی می‌کنم!!
+
+===== supplydemand-p31.json supplydemand_p31_760 | echo
+--- EN ---
+Correlating trade on EURJPY coming up. UJ looks like an inverted RS forming. EU looks ready to drop south. Charts to follow. All intraday, wait for PA, then trade it.
+--- FA ---
+معاملهٔ هم‌بسته روی EURJPY در راه است. UJ به نظر RS معکوس در حال شکل‌گیری است. EU به نظر آمادهٔ افت به جنوب است. چارت‌ها در راه. همه درون‌روزی، منتظر PA بمان، بعد معامله‌اش کن.
+
+===== supplydemand-p31.json supplydemand_p31_764 | echo
+--- EN ---
+danandsueco wrote: Correlating trade on EURJPY coming up. UJ looks like an inverted RS forming. EU looks ready to drop south. Charts to follow. All intraday, wait for PA, then trade it.
+
+If pairs react accordingly, EJ to pop south out of pennant.
+--- FA ---
+danandsueco نوشت: معاملهٔ هم‌بسته روی EURJPY در راه است. UJ به نظر RS معکوس در حال شکل‌گیری است. EU به نظر آمادهٔ افت به جنوب است. چارت‌ها در راه. همه درون‌روزی، منتظر PA بمان، بعد معامله‌اش کن.
+
+اگر جفت‌ها متناسب واکنش نشان دهند، EJ از پیرامید به جنوب بیرون می‌پرد.
+
+===== supplydemand-p32.json supplydemand_p32_781 | echo
+--- EN ---
+Eurotrash wrote: Am I reading this right?
+
+Eurotrash, here is how I see it...
+
+My only concern that price is above a key level, as you can see in below HTF charts
+
+Daily Chart
+
+Daily chart zoomed in
+
+On M30 there are stacked zones of supply, the lower one is most probably consumed, the higher one is where I would consider selling depending on approach and PA.
+--- FA ---
+Eurotrash نوشت: آیا درست می‌خوانم؟
+
+Eurotrash، این‌طور می‌بینمش...
+
+تنها نگرانی‌ام این است که قیمت بالای یک سطح کلیدی است، همان‌طور که در چارت‌های HTF پایین می‌بینی
+
+چارت روزانه
+
+چارت روزانه زوم‌شده
+
+روی M30 ناحیه‌های انباشته‌ای از عرضه هست، پایین‌تر احتمالاً مصرف شده، بالایی جایی است که با توجه به رویکرد و PA فروش را در نظر می‌گیرم.
+
+===== supplydemand-p35.json supplydemand_p35_856 | numbers missing 100%
+--- EN ---
+danandsueco wrote: Well said Warren. I'll be waiting for more of your charts. And I'm sure we all abide by the golden rule as delivered by a great trader:
+
+"Chart not chats"
+
+Lol okay I will bite, just dont want to give the 100% certainty sound cause I cannot know for sure but the midline looks like the best place.
+
+Alot of positiong this week and well tomorrow is friday.
+
+Alot of work to create that demand in the midzone, but if price were to not respect it the next place is alot further down
+--- FA ---
+danandsueco نوشت: خوب گفتی Warren. منتظر چارت‌های بیشترت هستم. و مطمئنم همه از قانون طلایی که یک معامله‌گر بزرگ بیان کرد پیروی می‌کنیم:
+
+«چارت‌ها نه چت»
+
+خندیدم باشه می‌پذیرم، فقط نمی‌خواهم صد در صد قطعیت به نظر برساند چون نمی‌توانم مطمئن باشم ولی midline بهترین جا به نظر می‌رسد.
+
+پوزیشن‌های زیادی این هفته و خب فردا جمعه است.
+
+کار زیادی برای ساختن آن تقاضا در midzone، ولی اگر قیمت به آن احترام نگذارد جای بعدی خیلی پایین‌تر است
+
+===== supplydemand-p35.json supplydemand_p35_858 | echo
+--- EN ---
+danandsueco wrote: @ Les_Paul I'm a fan of PRS, but I won't hold that against you. Just kidding. Missed opportunities happen all the time. Great thing about forex is that it continues to provide more everyday. Just curious, if your level was coming up, why didn't your placea limit order?
+
+Hi Danandsueco,
+
+I am not comfortable with placing limits orders yet.... I am learning to observe the PA at the levels.... Unfortunately, I still suck at it...
+
+LP
+--- FA ---
+danandsueco نوشت: @ Les_Paul من طرفدار PRS هستم، ولی این را به حسابت نمی‌آورم. فقط شوخی می‌کنم. فرصت‌های از دست‌رفته همهٔ وقت‌ها اتفاق می‌افتند. چیز عالی فارکس این است که هر روز فرصت‌های بیشتری می‌دهد. فقط کنجکاو بودم، اگر سطحت در راه بود چرا سفارش لیمیت نگذاشتی؟
+
+سلام Danandsueco،
+
+هنوز در قرار دادن سفارش لیمیت راحت نیستم.... دارم یاد می‌گیرم PA را در سطوح تماشا کنم.... متأسفانه هنوز در آن بد هستم...
+
+LP
+
+===== supplydemand-p35.json supplydemand_p35_867 | echo
+--- EN ---
+can not post a chart,. will post charts later
+
+Still in Eur/usd.
+
+See it print new high 1.3450 ish,
+
+prepared for it to Pull back. watched it crush 15min demand and drop to RBR. nice quick push off 1.34129 where buyers were.
+
+It can be painful giving unrealised profit back, but is there a bigger picture. The market is always trying to show us,where it intends to go. But do we bother to take notice
+--- FA ---
+نمی‌توانم چارت پست کنم،. بعداً چارت می‌گذارم
+
+هنوز در Eur/usd هستم.
+
+دیدم سقف جدید ~1.3450 را چاپ کرد,
+
+برای پول‌بک آماده بودم. دیدم تقاضای 15min را له کرد و به RBR رسید. هل سریع قشنگی از 1.34129 جایی که خریداران بودند.
+
+پس دادن سود تحقق‌نیافته می‌تواند دردناک باشد، ولی آیا تصویر بزرگ‌تری هست؟ بازار همیشه سعی می‌کند به ما نشان دهد کجا می‌خواهد برود. ولی آیا ما زحمت می‌دهیم توجه کنیم
+
+===== supplydemand-p35.json supplydemand_p35_873 | echo
+--- EN ---
+I'm thinking a move to at least this level is very possible. There are some confluence of fib ratios and demand from previous 4h. I also like the rejection from the level and the 4h Bullish candle. Even though i don't want to open any positons going into the weekend i think where the buy limit is set would be a nice entry. Any feedback would be appreciated.
+--- FA ---
+فکر می‌کنم حرکت به حداقل این سطح خیلی ممکن است. هم‌راستایی‌هایی از نسبت‌های فیب و تقاضای 4h قبلی هست. همچنین ریجکشن از سطح و کندل صعودی 4h را دوست دارم. اگرچه نمی‌خواهم پوزیشنی برای آخر هفته باز کنم فکر می‌کنم جایی که خرید لیمیت گذاشته شده ورود قشنگی است. هر فیدبکی قدردانی می‌شود.
+
+===== supplydemand-p38.json supplydemand_p38_942 | echo
+--- EN ---
+Swissy just closed with 4hr engulfing on my feed under key level
+
+usdx looking to tank after bearish PA on my feed with its own close under demand.
+--- FA ---
+Swissy تازه با اینگالف 4hr روی فیدم زیر سطح کلیدی بسته شد
+
+usdx به نظر دارد بعد از PA نزولی روی فیدم با بسته‌شدن خودش زیر تقاضا فرو می‌ریزد.
+
+===== supplydemand-p41.json supplydemand_p41_1003 | echo
+--- EN ---
+My previous post on EJ still stands, but it's now looking like we may need to fuel a further run up by seeking Demand a little lower down ( my theory of course - i could be totally wrong:) ).
+
+here is what I'm on the lookout for:
+
+EDIT: Looks like EJ was keen to find that lower demand sooner, rather than later - so the above is null and void for now:)
+--- FA ---
+پست قبلی‌ام دربارهٔ EJ همچنان پابرجاست، اما الان به نظر می‌رسد شاید لازم باشد برای سوخت‌رسانی به یک حرکت صعودی بیشتر، تقاضا را کمی پایین‌تر جست‌وجو کنیم (البته این تئوری من است — ممکن است کاملاً اشتباه باشم:)).
+
+اینجا چیزی است که دنبالش هستم:
+
+ویرایش: به نظر می‌رسد EJ مایل بوده زودتر به آن تقاضا پایین‌تر برسد تا دیرتر — پس موارد بالا فعلاً باطل است:)
+
+===== supplydemand-p41.json supplydemand_p41_1015 | echo
+--- EN ---
+I don't understand what you exactly mean HR but RBD meand Rally Base Drop, so if there is no drop than it's simply isn't a RBD.
+
+A strong move away with momentum out of a fresh base is in most of the case very nice. But you don't have to take my word for it. Look at you chart and try to find the very best ones, you'll understand why some work and why other don't.
+
+Mel
+--- FA ---
+دقیقاً منظورت را نمی‌فهمم HR اما RBD یعنی Rally بیس Drop، پس اگر drop نباشد ساده است که RBD نیست.
+
+یک حرکت قوی با مومنتوم به بیرون از یک بیس تازه در بیشتر موارد خیلی خوب است. اما لازم نیست حرف مرا قبول کنی. به چارتت نگاه کن و سعی کن بهترین‌ها را پیدا کنی، می‌فهمی چرا بعضی‌ها کار می‌کنند و چرا بعضی‌ها نه.
+
+Mel
+
+===== supplydemand-p42.json supplydemand_p42_1039 | echo
+--- EN ---
+Hi IF & All, A few zones i've marked on EJ - particularly interested to know if I've got the FTR zone(s) marked correctly.
+--- FA ---
+سلام IF و همه، چند ناحیه روی EJ علامت زده‌ام — به‌خصوص می‌خواهم بدانم آیا ناحیه‌های FTR را درست علامت زده‌ام یا نه.
+
+===== supplydemand-p45.json supplydemand_p45_1112 | echo
+--- EN ---
+Good evening all. When drawing my zones at times I have doubts as to if I am doing it correctly. Take the example below of the weekly usdchf. Now my guess is that number 2 is correct - reason being that it is the first bar after the the drive upwards. Is this correct? Thanks for any help. heath
+--- FA ---
+عصر بخیر به همه. وقتی ناحیه‌هایم را می‌کشم گاهی شک دارم که آیا درست انجام می‌دهم یا نه. مثال پایین را از usdchf هفتگی بگیر. حدسم این است که شماره 2 درست است — دلیلش این است که اولین کندل بعد از ران به بالا است. آیا این درست است؟ برای هر کمکی ممنون. heath
+
+===== supplydemand-p48.json supplydemand_p48_1176 | echo
+--- EN ---
+Here should be a good trade for a touch trade. We are at a main level on the daily and price capped very nicely to push price down to the engulf of the low. There is some CP on the way up on the 5 min chart, but that should bring price right to my entry. I would look to touch trade and not wait for a FTR on the 5min.
+--- FA ---
+اینجا باید یک معاملهٔ خوب برای touch معامله باشد. ما روی یک سطح اصلی در روزانه هستیم و قیمت خیلی خوب cap شد تا قیمت را به اینگالف کف پایین ببرد. مقداری CP در مسیر بالا روی چارت 5min هست، اما آن باید قیمت را دقیقاً به ورود من برساند. touch معامله را نگاه می‌کنم و منتظر FTR روی 5min نمی‌مانم.
+
+===== supplydemand-p48.json supplydemand_p48_1178 | echo
+--- EN ---
+I see a demand level here but I also see a big red candle that has engulfed the bull candle. Would longs still be considered here anyway?
+--- FA ---
+اینجا یک سطح تقاضا می‌بینم اما یک کندل قرمز بزرگ هم می‌بینم که کندل صعودی را اینگالف کرده. آیا لانگ‌ها با این حال هنوز قابل‌قبول هستند؟
+
+===== supplydemand-p49.json supplydemand_p49_1216 | echo
+--- EN ---
+My thought process on the AUDUSD bull. 1. Price had just taken out whatever stops there were under a weekly pivot 2. Price chopped around and formed a tradeable buy scalp on M5/M15 within a historic H4 demand 3. Risk set. Watched price, and got the engulf confirmation to hold on. Reward set at Friday close.
+--- FA ---
+فرآیند فکری‌ام روی لانگ AUDUSD. 1. قیمت تازه هر استاپی که زیر یک پیوت هفتگی بود را گرفته بود 2. قیمت دور خودش چرخید و یک اسکالپ خرید قابل معامله روی M5/M15 داخل یک تقاضا تاریخی در H4 ساخت 3. ریسک تنظیم شد. قیمت را نگاه کردم و اینگالف تأییدیه برای نگه داشتن را گرفتم. ریوارد روی بستن جمعه تنظیم شد.
+
+===== supplydemand-p51.json supplydemand_p51_1252 | echo
+--- EN ---
+I am watching how FTR will play out IF we get there which is my first edge and then I will look at second edge for sell which you point it out IF lowest(closest) demand that time will give me some profit margin.
+--- FA ---
+دارم نگاه می‌کنم FTR چطور پیش می‌رود اگر به آنجا برسیم که اولین لبه من است و بعد لبه دوم برای فروش را نگاه می‌کنم که IF اشاره‌اش کردی، تقاضا پایین‌ترین (نزدیک‌ترین) آن موقع به من کمی حاشیهٔ سود می‌دهد.
+
+===== supplydemand-p54.json supplydemand_p54_1332 | numbers missing 1311,4
+--- EN ---
+Hi Aaron, Im referring to post #1311,4th diagram,where you have found decision point on the LTF.Cn I know on what grounds you chose that,was it cos its Rally-Base-Rally.
+--- FA ---
+سلام Aaron، منظرم پست #1311 است، چهارمین دیاگرام، جایی که تصمیم نکته را روی LTF پیدا کردی. می‌توانم بدانم بر چه اساسی آن را انتخاب کردی، آیا چون RBR-Base-Rally بود؟
+
+===== supplydemand-p56.json supplydemand_p56_1379 | latex
+--- EN ---
+Good morning to all! I put my thoughts into practice about the nzd\usd chart, my supply and demand zones and the theoretical operability are correct? (theoretical because i don't have took this trade)
+--- FA ---
+صبح بخیر به همه! افکارم را دربارهٔ نمودار NZD\usd، زون‌های عرضه و تقاضا و قابلیت عملیاتی نظری‌ام به کار بردم؛ آیا درست است؟ (نظری چون این معامله را نگرفته‌ام)
+
+===== supplydemand-p57.json supplydemand_p57_1423 | echo
+--- EN ---
+mohsin360 wrote: here is new charting
+
+Sorry to say but I believe you bought too early again.
+
+This is what I believe it will do before coming back to Demand. However, you should see another test to the this Demand on Weekly level before Buy
+--- FA ---
+mohsin360 نوشت: اینجا چارتینگ جدید
+
+متأسفانه می‌گویم ولی فکر کنم دوباره زود خریدی کردی.
+
+فکر کنم این کار را می‌کند قبل از اینکه برگردد به تقاضا. با این حال، باید یک تست دیگر روی این تقاضا در سطح هفتگی ببینی قبل از خرید
+
+===== supplydemand-p7.json supplydemand_p7_161 | echo
+--- EN ---
+@Harry:
+
+Yes, spotted the QM on the M5 also, first try I got stopped out, second try on the higher TF, I got in. Stop to BE+1.
+--- FA ---
+@Harry:
+
+بله، QM را روی تایم‌فریم M5 هم دیدم، تلاش اول استاپ شدم، تلاش دوم روی تایم‌فریم بالاتر وارد شدم. استاپ به BE+1.
+
+===== supplydemand-p7.json supplydemand_p7_168 | echo
+--- EN ---
+M30 QM formed on AJ. I got in on a limit i set a while ago so it may have already gone but i sense a return to the LH demand is worth watching out for.
+
+EDIT:- added H4 reason for limit....
+--- FA ---
+QMِ تایم‌فریم M30 روی AJ شکل گرفت. من با یک سفارش معلق که مدتی پیش گذاشته بودم وارد شدم، پس شاید قبلاً رفته باشد ولی حس می‌کنم بازگشت به تقاضای LH ارزش تماشا دارد.
+
+ویرایش:- دلیل H4 برای سفارش معلق اضافه شد....
+
+===== supplydemand-p7.json supplydemand_p7_170 | echo
+--- EN ---
+beebolbod wrote: M30 QM formed on AJ. I got in on a limit i set a while ago so it may have already gone but i sense a return to the LH demand is worth watching out for.
+
+EDIT:- added H4 reason for limit....
+
+perfect touch on AJ bod
+
+some cable trades
+--- FA ---
+beebolbod نوشت: QMِ تایم‌فریم M30 روی AJ شکل گرفت. من با یک سفارش معلق که مدتی پیش گذاشته بودم وارد شدم، پس شاید قبلاً رفته باشد ولی حس می‌کنم بازگشت به تقاضای LH ارزش تماشا دارد.
+
+ویرایش:- دلیل H4 برای سفارش معلق اضافه شد....
+
+لمس بی‌نقص روی AJ bod
+
+چند معاملهٔ پوند
+
+===== supplydemand-p9.json supplydemand_p9_208 | echo
+--- EN ---
+minimalmonk wrote: and what about this gap? any ideas how it can behave? in my first entry (few posts ago) i thought it will be gap filling. its possible now?
+
+/i have little experience in forex but i found usually gap are filled on this market.
+
+Zone above is tested so if zone will not hold gap close is likely. If zone holds it will fall through CP.
+--- FA ---
+minimalmonk نوشت: و این گپ چه؟ ایده‌ای دارید چطور می‌تواند رفتار کند؟ در اولین ورودم (چند پست پیش) فکر کردم پر شدن گپ خواهد بود. حالا ممکن است؟
+
+/تجربهٔ کمی در فارکس دارم ولی می‌فهمم گپ‌ها معمولاً در این بازار پر می‌شوند.
+
+ناحیهٔ بالایی تست شده، پس اگر ناحیه نگه ندارد بسته شدن گپ محتمل است. اگر ناحیه نگه دارد از طریق CP پایین می‌آید.
+

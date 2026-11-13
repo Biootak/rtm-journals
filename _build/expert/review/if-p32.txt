@@ -1,0 +1,259 @@
+### if_p32_1
+EN: I was stopped out of an trade that I took yesterday, the setup looked
+very good, I've applied everything I've learned here to this setup, but
+the bastard stopped me out. Do you see any flaws in my setup, or is it
+just one of those trades that just didn't work out.
+FA: دیروز معامله‌ای گرفتم و با حد ضرر بیرون انداخته شدم؛ ستاپ خیلی خوب به نظر می‌رسید، هر چه اینجا یاد گرفته‌ام روی این ستاپ پیاده کردم، ولی آن حرام‌زاده مرا بیرون انداخت. نقصی در ستاپم می‌بینی، یا فقط یکی از آن معامله‌هایی است که جور درنیامد.
+
+### if_p32_2
+EN: Hi IF.
+
+I am currently practicing reading seasons on my mt4. But whenever swing
+ends and takes turn, I wonder why i will take that trade or why I didn't
+ take that trade. So, is it necessary to enter trade every turn of every
+ end of the swing ? I hope not. It may not necessary to trade each
+swing.
+FA: سلام IF.
+
+الان دارم خواندن سشن‌ها را روی MT4 تمرین می‌کنم. ولی هر وقت سوئینگ تمام می‌شود و می‌چرخد، فکر می‌کنم چرا باید آن معامله را بگیرم یا چرا نگرفتم. پس آیا لازم است در هر چرخش و هر انتهای سوئینگ وارد معامله شویم؟ امیدوارم نه. شاید لازم نباشد هر سوئینگ را معامله کنیم.
+
+### if_p32_3
+EN: xmzhang wrote: I was stopped out
+ of an trade that I took yesterday, the setup looked very good, I've
+applied everything I've learned here to this setup, but the bastard
+stopped me out. Do you see any flaws in my setup, or is it just one of
+those trades that just didn't work out.
+
+Hiya
+
+A QM must always be treated as a possible Diamond in the making, meaning
+ that stops must be not just beyond the high/low, but beyond the FL the
+H/L is a reaction to.
+
+Also, you have your QM marked in an area of Supply. Is that supply itself a reaction to a FL? This question also is vital
+FA: xmzhang نوشت: دیروز معامله‌ای گرفتم و با حد ضرر بیرون انداخته شدم؛ ستاپ خیلی خوب به نظر می‌رسید، هر چه اینجا یاد گرفته‌ام روی این ستاپ پیاده کردم، ولی آن حرام‌زاده مرا بیرون انداخت. نقصی در ستاپم می‌بینی، یا فقط یکی از آن معامله‌هایی است که جور درنیامد.
+
+سلام
+
+QM را همیشه باید مثل یک دایموند بالقوه دید؛ یعنی استاپ نباید فقط آن‌سوی سقف یا کف باشد، بلکه باید آن‌سوی FL‌ای باشد که آن سقف یا کف واکنش به آن است.
+
+همچنین QM‌ات را در یک ناحیهٔ عرضه علامت زده‌ای. آیا خود آن عرضه واکنش به یک FL است؟ این سؤال هم حیاتی است
+
+### if_p32_4
+EN: milkeyway wrote: Hi IF.
+
+I am currently practicing reading seasons on my mt4. But whenever swing
+ends and takes turn, I wonder why i will take that trade or why I didn't
+ take that trade. So, is it necessary to enter trade every turn of every
+ end of the swing ? I hope not. It may not necessary to trade each
+swing.
+
+If price reaches its target and then engulfs back in, a reversal has
+occurred - price will now have a target within the pole that took it to
+where it turned, so why not trade it back to that TG? If it's not the
+ultimate target which has been hit (PA in an HTF has told you that it
+has further to go), and you only like to trade the big moves in the
+HTFs, then there's no need to take the definite pips on offer here, as
+it obviously isn't part of your trade plan
+FA: milkeyway نوشت: سلام IF.
+
+الان دارم خواندن سشن‌ها را روی MT4 تمرین می‌کنم. ولی هر وقت سوئینگ تمام می‌شود و می‌چرخد، فکر می‌کنم چرا باید آن معامله را بگیرم یا چرا نگرفتم. پس آیا لازم است در هر چرخش و هر انتهای سوئینگ معامله بگیریم؟ امیدوارم نه. شاید لازم نباشد هر سوئینگ را معامله کنیم.
+
+اگر قیمت به تارگت برسد و بعد دوباره به داخل انگولف کند، برگشتی رخ داده — قیمت الان تارگتی داخل همان میله‌ای دارد که آن را به جایی که چرخید برده بود؛ پس چرا به سمت همان TG معامله‌اش نکنیم؟ اگر تارگتی که خورده، تارگت نهایی نبوده باشد (PA در یک HTF به تو گفته که راه بیشتری دارد)، و تو فقط حرکت‌های بزرگ HTF را معامله می‌کنی، پس نیازی نیست آن پیپ‌های قطعی اینجا را بگیری، چون واضح است بخشی از پلن معاملاتی‌ات نیست
+
+### if_p32_5
+EN: Hi, If,
+
+I was just reading a comment by that rishi guy concerning Pedini's myfxbook log.
+
+I saw yours before you deleted it.
+
+You clearly want to keep it a secret so I wont mention the outcome but it's why I'll always keep coming back.
+FA: سلام، If،
+
+همین حالا داشتم نظری از آن بچهٔ rishi را دربارهٔ لاگ myfxbook پدینی می‌خواندم.
+
+مال تو را هم قبل از این‌که پاکش کنی دیده بودم.
+
+واضح است که می‌خواهی مخفی بماند، پس نتیجه‌اش را نمی‌گویم، ولی دلیلش این است که من همیشه برمی‌گردم.
+
+### if_p32_6
+EN: By the way, I wouldn't have deleted it if it was mine.
+
+I'd have framed it.
+FA: راستی، اگر مال من بود پاکش نمی‌کردم.
+
+قابش می‌گرفتم و می‌زدم به دیوار.
+
+### if_p32_7
+EN: Thanks Oedipus
+FA: ممنون Oedipus
+
+### if_p32_8
+EN: My results, however, are being eclipsed by others around me nowadays. I'm now the lightweight
+
+I'll get over my "dead jealous of the jammy gits" phase soon I hope!
+FA: ولی این روزها نتایج من زیر سایهٔ دیگران اطرافم رفته است. حالا من سبک‌وزنم
+
+امیدوارم زود از فاز «حسابی به این خوش‌شانس‌ها حسودی می‌کنم» بیرون بیایم!
+
+### if_p32_9
+EN: I wish I'd saved it.
+
+I do remember your equity curve was a vertical line reaching for the heavens.
+FA: ای کاش ذخیره‌اش کرده بودم.
+
+یادم است که منحنی اکوییتی‌ات یک خط عمودی بود که به آسمان می‌رسید.
+
+### if_p32_10
+EN: Hello If,
+
+In the
+	Price Reading article
+, would you help me understand what you meant by the following:
+
+In the "Past" section, you wrote: "Did price originally react to the RS
+of a Flag Limit? It can fakeout to true SD of the FL." I don't
+understand the question, so I don't have a guess about it.
+
+And in the "Present" section, you wrote: "Has price tested the last flag
+ on approach? (good sign)". Do you mean what I've marked on the chart
+below?
+
+Thank you very much!
+FA: سلام If،
+
+در مقالهٔ خواندن قیمت، می‌شود کمکم کنی بفهمم منظورت از این‌ها چه بود:
+
+در بخش «گذشته» نوشته‌ای: «آیا قیمت در ابتدا به RS یک FL واکنش داد؟ می‌تواند به SD واقعی FL فیک‌اوت کند.» من این سؤال را نمی‌فهمم، پس حدسی هم درباره‌اش ندارم.
+
+و در بخش «حاضر» این جمله را داری: «آیا هنگام نزدیک شدن، آخرین پرچم تست شده است؟ (نشانهٔ خوب)». منظورت همان چیزی است که در نمودار زیر علامت زده‌ام؟
+
+خیلی ممنون!
+
+### if_p32_11
+EN: I've been really busy staring at the marble lately (Michelangelo
+historians will know what I mean :) ). Let me take a read and see if I
+can answer you :)
+FA: این اواخر واقعاً مشغول خیره شدن به سنگ مرمر بوده‌ام (تاریخ‌دانان Michelangelo می‌دانند منظورم چیست :) ). بگذار بخوانم و ببینم می‌توانم جوابت را بدهم :)
+
+### if_p32_13
+EN: Also, remember to check for anything above FL2 in case there is
+trapped demand lurking above the obvious stop loss levels. Today, this
+happened on the ES (S&P500 Futures). It fooled me good (demo).
+
+Hopefully my paint stick diagram is readable.
+
+GJ
+FA: همچنین یادت باشد هر چیزی بالای FL2 را هم بررسی کنی، شاید تقاضای گرفتاری بالای سطوح واضح حد ضرر کمین کرده باشد. امروز این اتفاق روی ES (فیوچرز S&P500) افتاد. حسابی گولم زد (دمو).
+
+امیدوارم نمودار دست‌کشیده‌ام خوانا باشد.
+
+GJ
+
+### if_p32_14
+EN: Look a bit more closely, and you'll see it's exactly the same setup
+FA: کمی دقیق‌تر نگاه کن، می‌بینی که دقیقاً همان ستاپ است
+
+### if_p32_15
+EN: Looking more closely, what I see is that yes, the setup was nearly
+identical. And thank you for the extra prodding. I went back and looked
+at the overnight session. Overnight, price engulfed FL2 by 2 points (not
+ shown in my diagram) .. that SHOULD have been my clue to look for a
+turning point above FL2. Something else to add to the utility belt for
+next time.
+
+GJ
+FA: با نگاه دقیق‌تر، می‌بینم که بله، ستاپ تقریباً یکسان بود. و ممنون برای این تلنگر اضافه. برگشتم و سشن یک‌شبه را نگاه کردم. در طول شب، قیمت FL2 را 2 نقطه انگولف کرد (در نمودارم نشان داده نشده) .. این باید سرنخی می‌شد برای این‌که دنبال نقطهٔ چرخش بالای FL2 بگردم. یک چیز دیگر برای افزودن به کمربند ابزار دفعهٔ بعد.
+
+GJ
+
+### if_p32_16
+EN: If is right. Once I understand this picture I see it everytime in the
+chart...The Big Trader/IT really screw the retail trader. No
+wonder...but now thanks to IF I can read their intention and maybe I can
+ enter the market with IT entry point. Thank you IF
+FA: IF درست می‌گوید. وقتی این تصویر را فهمیدم، هر بار آن را در نمودار می‌بینم...معامله‌گر بزرگ یا IT واقعاً معامله‌گر خرد را سرکیسه می‌کند. عجیب نیست...ولی حالا به لطف IF می‌توانم نیتشان را بخوانم و شاید بتوانم با نقطهٔ ورود IT وارد بازار شوم. ممنون IF
+
+### if_p32_17
+EN: Hey If, simply out of curiosity, have you ever looked back at
+historical charts say from 100 years ago and seen if the market was
+working the exact same way back then? It would be interesting to know
+how long these shenanigans have been going on. I wonder if computers,
+high frequency trading etc have forced the ITs to shift their tactics
+throughout the ages. I've taken a peek myself but don't quite "get it"
+yet so can't really conclude anything. Just wondering about your
+thoughts on the topic.
+FA: سلام If، فقط از روی کنجکاوی، تا حالا به نمودارهای تاریخی مثلاً 100 سال پیش نگاه کرده‌ای تا ببینی بازار آن موقع هم دقیقاً همین‌طور کار می‌کرد؟ جالب است بدانیم این بازی‌ها از کی شروع شده‌اند. کنجکاوم بدانم کامپیوترها و معامله‌گری با فرکانس بالا و این چیزها، ITها را مجبور کرده‌اند تاکتیک‌هایشان را در طول زمان عوض کنند یا نه. خودم نگاهی انداخته‌ام ولی هنوز کاملاً «نگرفته‌ام»، پس نمی‌توانم نتیجه‌ای بگیرم. فقط می‌خواستم نظرت را دربارهٔ این موضوع بدانم.
+
+### if_p32_18
+EN: Jambowlyai - Here is a chart from S&P500 from 2000 - the last major market top (not 100 years I know).
+
+I see some familiar price structures. I did not mark them all. I think
+that the answer is likely yes. But I don't know how you would use this
+info to make you a better trader. In other words, apart from an
+intellectual discussion, how does knowing how the ITs behave a
+generation ago help you today? Just thinking out loud.
+
+GJ
+FA: Jambowlyai - این نمودار S&P500 از سال 2000 است — آخرین سقف بزرگ بازار (می‌دانم 100 سال نیست).
+
+ساختارهای قیمتی آشنایی می‌بینم. همه‌شان را علامت نزدم. فکر می‌کنم جواب احتمالاً بله است. ولی نمی‌دانم از این اطلاعات چطور استفاده می‌کنی تا معامله‌گر بهتری بشوی. به عبارت دیگر، جدا از یک بحث فکری، دانستن این‌که ITها یک نسل پیش چطور رفتار می‌کردند امروز چه کمکی به تو می‌کند؟ فقط دارم بلندبلند فکر می‌کنم.
+
+GJ
+
+### if_p32_19
+EN: It is purely just a curiosity, intellectual discussion thing. Won't help trading a bit as far as I can see.
+
+The answer would lead to different thoughts, none of which would have any benefit for trading either.
+
+Okay, now back to saturating my brain with charts and fakeouts and ftrs
+and engulfs in the hopes of forcing a breakthrough. Then maybe I can
+answer my own question.
+FA: این کاملاً کنجکاوی و بحث فکری است. تا آنجا که می‌بینم یک ذره هم به معامله‌گری کمک نمی‌کند.
+
+جواب هر چه باشد به فکرهای متفاوتی می‌رسد که هیچ‌کدام هم برای معامله‌گری فایده‌ای ندارند.
+
+باشه، حالا برگردم به اشباع کردن مغزم با نمودارها و فیک‌اوت‌ها و FTRها و انگولف‌ها، به امید این‌که یک پیشرفت را زورکی بیرون بکشم. بعد شاید بتوانم جواب سؤال خودم را بدهم.
+
+### if_p32_20
+EN: I only go back as far as the 1950s. It was all just the same back then however.
+
+Computers are simply making their jobs easier, yet no different
+FA: من فقط تا دههٔ 1950 عقب می‌روم. ولی آن موقع هم همه‌چیز دقیقاً همین‌طور بود.
+
+کامپیوترها فقط کارشان را راحت‌تر می‌کنند، ولی هیچ تفاوتی نیست
+
+### if_p32_21
+EN: I got this somewhere but still I would like to answer for that.
+FA: این را از جایی گیر آورده‌ام، ولی باز هم دوست دارم جوابش را بدهم.
+
+### if_p32_22
+EN: Milkeyway, I've edited over the graphic you uploaded. Here's just my
+two cents. I think part of it was the QM level. Someone please correct
+me if I'm wrong, I'd like to learn from any mistakes.
+FA: Milkeyway، روی تصویری که آپلود کردی ویرایش زدم. این هم نظر ناچیز من. فکر می‌کنم بخشی از آن سطح QM بود. اگر اشتباه می‌گویم کسی اصلاحم کند، می‌خواهم از اشتباه‌ها یاد بگیرم.
+
+### if_p32_23
+EN: Hi IF.
+
+What if Origin of the move gets engulfed.
+
+Thanks.
+FA: سلام IF.
+
+اگر مبدأ حرکت انگولف شود چه؟
+
+ممنون.
+
+### if_p32_24
+EN: IF, per your request I am leaving a reminder that there is a question for you to answer
+FA: IF، به درخواست خودت یادآوری می‌گذارم که سؤالی هست که باید جوابش را بدهی
+
+### if_p32_25
+EN: Ah yes!
+
+A bit of dental work has me knocked out at the moment, but this high on my to-do list once I get my brain back
+FA: آه بله!
+
+کمی کار دندان‌پزشکی فعلاً از پا انداخته‌ام، ولی وقتی مغزم برگشت این بالای فهرست کارهای من است

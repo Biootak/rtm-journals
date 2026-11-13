@@ -1,0 +1,131 @@
+##### hs_p27_651 salivan paras:2
+a hint in of your your chart:
+
+reagrds Salivan
+---END---
+##### hs_p27_652 hoeschec paras:2
+salivan wrote: hiya hoeschec good investigation, you are so close, keep it up mate
+
+Thanks so much Salivan!
+---END---
+##### hs_p27_653 hoeschec paras:3
+salivan wrote: a hint in of your your chart:
+
+reagrds Salivan
+
+Zooming in to a 1 min chart I see a decision point - price reacted perfectly to it!
+---END---
+##### hs_p27_654 hoeschec paras:9
+One question I still have on EUR-JPY:
+
+Thanks to Salivan I can now see why price reacted exactly where it did ( see my post # 651 for a chart). Here is what I am still having a hard time with: what was significant about the DP Salivan found (labeled # 1 on my chart)? The DP that I labeled #2 on the chart looks like a more important decision point, yet price blew right through it. Not every DP reacts this way....what am I missing in my analysis? Thanks
+
+Here is a chart to illustrate my question:
+
+I feel like I'm getting really close to having a breakthrough moment, but I'm missing some pieces. Not all DP's react...even ones that occur at S/R swap levels. Often times they fail. Does this have to do with the MPL? I understand the FTR PAZ, but the other types of PAZ still confuse me and the MPL is also something I don't completely understand.
+
+It has been written many times in the RTM forums that IT's want the best possible price..Conceptually this makes sense...if I want to sell I am looking for the highest possible price to do so in order to maximize my return. Assuming I am an IT looking to short, I want to sell at the highest price possible (This is the MPL). If I am looking at a chart, there are dozens of places where I could turn price...and there will always be a supply zone or DP or FTR that exists at a price higher than current price. So when RTM traders say IT's want the best possible price, they are talking about a price level that is best within the context of the current trade setup...not necessarily the best price (hypothetically speaking, you could wait forever for price to keep climbing before shorting. There is always another level higher up).
+
+Does this question make any sense?I am not very good at describing these concepts using words. Maybe this picture will help:
+
+Here is an example: EUR-USD
+
+This level looks pretty good - it followed a fakeout and subsequent engulf. It acted at the origin of a major down move. Price blew through it and instead turned at a supply level higher up. What makes this supply more important than the original flag located below it? How could I have avoided this loss while trading live?
+
+Here are a couple of charts:
+---END---
+##### hs_p27_655 salivan paras:1
+hiya again hoeschec it's about order flow of the market not about diagrams, IF told us that price goes from DP to DP, price goes from PAZ to PAZ, price goes from FL to FL. so that we trade in these places therefore DP=FL and bear in mind above FL we have a PAZ and below it we have an other PAZ. i can not go to more details as i should save IF's effort and sweat in all these years, but always look for FLs. they are the best place in the world to grab some more orders and fill bucket load orders against retailers. and take a look at last 200 post in my journal, i am sure you can find it.also follow IF, he was so kind to decode ITs mind and share it with us. follow him and you will get to a new stage of price reading article.
+---END---
+##### hs_p27_656 salivan paras:1
+and bear in mind we can not find FLs if they don't tell us" hey man come on, i am here".and always they tell
+---END---
+##### hs_p27_657 hoeschec paras:2
+salivan wrote: hiya again hoeschec it's about order flow of the market not about diagrams, IF told us that price goes from DP to DP, price goes from PAZ to PAZ, price goes from FL to FL. so that we trade in these places therefore DP=FL and bear in mind above FL we have a PAZ and below it we have an other PAZ. i can not go to more details as i should save IF's effort and sweat in all these years, but always look for FLs. they are the best place in the world to grab some more orders and fill bucket load orders against retailers. and take a look at last 200 post in my journal, i am sure you can find it.also follow IF, he was so kind to decode ITs mind and share it with us. follow him and you will get to a new stage of price reading article.
+
+Thanks Salivan. I am going to spend some time looking closer at this. I will start by re examining the marketpedia info and looking at your journal. Thanks for your help!
+---END---
+##### hs_p27_658 hoeschec paras:3
+Some questions I will be researching in the coming days:
+
+1. Difference between Flag and flag limits 2. PAZ 3. Decision Points 4. MPL
+
+I will start by re reading the Marketpedia and doing dome homework. I feel the answer to my ongoing questions lies within understanding how all 4 of these concepts work together.
+---END---
+##### hs_p27_659 hoeschec paras:2
+Is this correct? Example is EUR-AUD:
+
+I marked the flag, and the flag limits located within the flag. There is an important decision point located at the beginning of the Flag and at the end of the flag. Price will have to engulf one of these two flag limits before moving on.
+---END---
+##### hs_p27_660 salivan paras:1
+WELL DONE
+---END---
+##### hs_p27_661 hoeschec paras:1
+I think I've misunderstood flags this whole time.... Previously, I would have drawn two flags at this area...wrong
+---END---
+##### hs_p27_662 salivan paras:1
+you did it correct, a Flag can contain a lot of Flag in different lower TF.
+---END---
+##### hs_p27_663 hoeschec paras:4
+salivan wrote: you did it correct, a Flag can contain a lot of Flag in different lower TF.
+
+Like this? Here is EUR-AUD on a 15M time frame. I found two more flags within the larger (4-HR) time frame. These Flags also have two flag limits (a two DP's) each.
+
+Hmmm...this is getting interesting... I really appreciate your help!
+
+I also see this:
+---END---
+##### hs_p27_665 hoeschec paras:2
+So many Flags once you are programmed to look for them!
+
+I noticed this about the engulfs too - Now I have to connect how engulfing/F/O fits in with these flags
+---END---
+##### hs_p27_666 salivan paras:1
+the only important ENG is engulf of FL not any thing else
+---END---
+##### hs_p27_667 hoeschec paras:2
+I think I found another FL (Orange rectangle)
+
+It seems that every time price makes a new high/low a flag is formed.
+---END---
+##### hs_p27_668 salivan paras:1
+Look left it will tell you if that rectangle is FL or not
+---END---
+##### hs_p27_669 Jurij paras:4
+hoeschec wrote: Is this correct? Example is EUR-AUD:
+
+I marked the flag, and the flag limits located within the flag. There is an important decision point located at the beginning of the Flag and at the end of the flag. Price will have to engulf one of these two flag limits before moving on.
+
+Hi H, you got the lower flag limits right, but always look left to see the real upper FL. For price to start flagging it needs a lower limit and a higher limit. The lower limit is easy, for the higher we need history. This is a great drawing from kovalenko I think (not sure though, don't remember exactly where I picked it up)
+
+Once one of the 2 limits finally break, we have real PA.
+---END---
+##### hs_p27_670 hoeschec paras:2
+salivan wrote: Look left it will tell you if that rectangle is FL or not
+
+Here is a 4-HR chart with the orange rectangle extended to see past reactions at this level...on markepedia it says a flag is formed when a base of a pole or S/R is engulfed. I see a big supply zone (RBD) where price bounced previously. Not seeing how that affects the orange flag. I am missing something...I'll keep practicing
+---END---
+##### hs_p27_672 Jurij paras:1
+BTW that's why we try to trade only at the flag edges
+---END---
+##### hs_p27_673 hoeschec paras:3
+Jurij wrote: BTW that's why we try to trade only at the flag edges
+
+Hi Jurij - Thanks for stopping by to help!
+
+I am staring at your charts, but I still can't see the reason why all the other flags Salivan drew were legitimate, but the orange one I drew is not. There was a new high being made (engulfing the previous high), RT, and another high. I didn't look left when drawing the other flags, yet they are correct.
+---END---
+##### hs_p27_674 Jurij paras:2
+hoeschec wrote: I still can't see the reason why all the other flags Salivan drew were legitimate, but the orange one I drew is not. There was a new high being made (engulfing the previous high), RT, and another high. I didn't look left when drawing the other flags, yet they are correct.
+
+mate, never said it was wrong, in fact it is a valid flag (different scale)
+---END---
+##### hs_p27_675 hoeschec paras:4
+Jurij wrote:
+
+hoeschec wrote: I still can't see the reason why all the other flags Salivan drew were legitimate, but the orange one I drew is not. There was a new high being made (engulfing the previous high), RT, and another high. I didn't look left when drawing the other flags, yet they are correct.
+
+mate, never said it was wrong, in fact it is a valid ag (dierent scale)
+
+got it
+---END---

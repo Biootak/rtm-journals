@@ -1,0 +1,12 @@
+{
+  "kruger_p9_12": {
+    "ok": false,
+    "issue": "Idiom \"Good going\" (a congratulation) rendered as the imperative \"پیش برو\" (\"keep going\"), turning praise into a command; the Persian is nonsensical.",
+    "fix": "خوب پیش می‌روی Kruger، ارتقا مبارک /"
+  },
+  "kruger_p9_20": {
+    "ok": false,
+    "issue": "\"counter short\" (a short against the move) rendered as \"شورت پادملایم\" (\"anti-mild short\"), a meaningless phrase; the trading meaning is lost.",
+    "fix": "ستاپی که Warren پست کرده بود را از دست دادم، پس یک شورت کانتر خوب گرفتم."
+  }
+}

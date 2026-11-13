@@ -1,0 +1,33 @@
+===== in2forex-p1 : 8 posts =====
+--- in2forex_p1_2 author=mettafort hash=fcb83355
+EN: dM&desktop_uri=%2Fwatch%3Fv%3Dov9kH54Z-dM
+
+Abbreviations Tips and Tools
+FA: dM&desktop_uri=%2Fwatch%3Fv%3Dov9kH54Z-dM
+
+اختصارات، نکته‌ها و ابزارها
+--- in2forex_p1_6 author=in2forex hash=a90e7135
+EN: A note before you begin
+FA: یک نکته پیش از شروع
+--- in2forex_p1_7 author=in2forex hash=27726303
+EN: Tips and Tools
+FA: نکته‌ها و ابزارها
+--- in2forex_p1_8 author=in2forex hash=a90e7135
+EN: A note before you begin
+FA: یک نکته پیش از شروع
+--- in2forex_p1_15 author=in2forex hash=c95d857b
+EN: Abbreviations Tips and Tools
+FA: اختصارات، نکته‌ها و ابزارها
+--- in2forex_p1_19 author=in2forex hash=a90e7135
+EN: A note before you begin
+FA: یک نکته پیش از شروع
+--- in2forex_p1_20 author=in2forex hash=a90e7135
+EN: A note before you begin
+FA: یک نکته پیش از شروع
+--- in2forex_p1_21 author=in2forex hash=0cc36c87
+EN: PO Sell Triggered on EU
+
+Tips and Tools
+FA: سفارش معلق فروش روی EU فعال شد
+
+نکته‌ها و ابزارها

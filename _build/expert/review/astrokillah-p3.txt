@@ -1,0 +1,707 @@
+### astrokillah_p3_1
+EN: S&P500 E-mini Futures
+
+No...!!! What a miss!!!
+
+Had this order there since this morning..
+FA: فیوچرز S&P500 E-mini
+
+نه...!!! چه از دست دادنی!!!
+
+این سفارش از امروز صبح آن‌جا بود..
+
+### astrokillah_p3_2
+EN: Good day to all traders! First trade of the day, what else? Another QM
+ setup. I am not as confident as the rest of the Grand Masters here, so I
+ had a bigger stop loss (20 pips), I didn't know if ITs would fake out
+to previous swing low.
+
+It's very near my TP, right now around +8R...
+
+Before I took this trade, I wasn't sure if price had already hit a TG, see explanation below:
+
+Going into LTF to look at the big bearish candle:
+
+Didn't see price hitting any kink, but it lined up with the swing low
+(pink circle). Again, this is a question I keep asking myself over and
+over again, what's considered a TG? Too often QM worked even when a TG
+is hit.
+
+UPDATE: I am an impatient person, decided to take profit at +8R... need to go feed my Husky!
+FA: روز خوبی داشته باشید معامله‌گران! اولین معاملهٔ روز، چه چیز دیگری؟ یک ستاپ QM دیگر. من به‌اندازهٔ بقیهٔ استادان بزرگ این‌جا اعتماد ندارم، پس استاپ‌لاس بزرگ‌تری گذاشتم (20 پیپ)؛ نمی‌دانستم ITها به کف سوئینگ قبلی فیک‌اوت می‌کنند یا نه.
+
+خیلی نزدیک TP من است، الان حدود +8R...
+
+قبل از گرفتن این معامله، مطمئن نبودم قیمت قبلاً به یک TG رسیده یا نه؛ توضیح پایین را ببینید:
+
+رفتن به تایم‌فریم پایین برای نگاه به آن کندل نزولی بزرگ:
+
+ندیدم قیمت به کینکی برسد، ولی با کف سوئینگ هم‌راستا بود (دایرهٔ صورتی). باز هم، این سؤالی است که بارها و بارها از خودم می‌پرسم: چه چیزی TG حساب می‌شود؟ خیلی وقت‌ها QM حتی وقتی TG خورده بود هم کار کرد.
+
+به‌روزرسانی: آدم بی‌حوصله‌ای هستم، تصمیم گرفتم در +8R سود بگیرم... باید بروم به هاسکی‌ام غذا بدهم!
+
+### astrokillah_p3_3
+EN: Hi Astrokillah!
+
+Did you notice that your last trades are PO and wasn't triggered?? They are still "limit" on the screenshot you posted!
+FA: سلام Astrokillah!
+
+متوجه نشدی که معامله‌های آخرت PO هستند و فعال نشده‌اند؟؟ در اسکرین‌شوتی که گذاشتی هنوز «لیمیت» هستند!
+
+### astrokillah_p3_4
+EN: hi HCDE,
+
+Sorry for the confusion! I actually do not use MT4 to trade, my broker
+is interactive brokers and I use their web interface to enter my trade.
+But Interactive Broker is the WORST platform to analyze charts. I chose
+them because of the low spread and low commission.
+
+So I do all my analysis on MT4, and then I manually enter the trade in
+Interactive Brokers web interface. After that I don't even want to look
+at the platform any more!
+
+The chart I posted here are only for illustration purpose, I find it
+much faster to do analysis on MT4, it doesn't reflect the actual trade
+that I took on my live brokers.
+
+Merci Monsieur!
+
+AK
+FA: سلام HCDE،
+
+ببخشید بابت سردرگمی! من در واقع با MT4 معامله نمی‌کنم؛ بروکرم Interactive Brokers است و با رابط وبشان معامله‌ام را وارد می‌کنم. اما Interactive Broker بدترین پلتفرم برای تحلیل نمودار است. به‌خاطر اسپرد و کمیسیون پایین آن‌ها را انتخاب کردم.
+
+پس همهٔ تحلیل‌هایم را در MT4 انجام می‌دهم و بعد معامله را دستی در رابط وب Interactive Brokers وارد می‌کنم. بعد از آن دیگر حتی دلم نمی‌خواهد به پلتفرم نگاه کنم!
+
+نمودارهایی که این‌جا می‌گذارم فقط برای نشان دادن است؛ تحلیل در MT4 برایم خیلی سریع‌تر است. این نمودارها معاملهٔ واقعی‌ای را که روی بروکر زنده‌ام گرفته‌ام نشان نمی‌دهد.
+
+مرسی موسیو!
+
+AK
+
+### astrokillah_p3_5
+EN: This is some really good work!
+
+You'll learn more about stop placement as you go, so I'm very happy with your work for now
+FA: این کار واقعاً خوب است!
+
+هر چه جلوتر بروی دربارهٔ جای‌گذاری استاپ بیشتر یاد می‌گیری، پس فعلاً از کارت خیلی راضی‌ام
+
+### astrokillah_p3_6
+EN: Astrokillah wrote: But
+Interactive Broker is the WORST platform to analyze charts. I chose them
+ because of the low spread and low commission.
+
+What about historical data? How far can you go back in m1 chart and tick chart?
+
+I know that IB repacks the data feed every 0.3 seconds so you don't have
+ true unfiltered realtime data but this should not be a problem if you
+don't scalp in lowest TFs
+FA: Astrokillah نوشت: اما Interactive Broker بدترین پلتفرم برای تحلیل نمودار است. به‌خاطر اسپرد و کمیسیون پایین آن‌ها را انتخاب کردم.
+
+دیتای تاریخی چطور؟ در نمودار m1 و نمودار تیک تا کجا می‌توانی عقب بروی؟
+
+می‌دانم IB فید داده را هر 0.3 ثانیه بازبسته‌بندی می‌کند، پس دیتای بلادرنگ واقعی و فیلترنشده نداری؛ اما اگر در پایین‌ترین تایم‌فریم‌ها اسکالپ نمی‌کنی این نباید مشکلی باشد
+
+### astrokillah_p3_7
+EN: Ho my god yes their platform is awful for charting, probably the worst i ever saw
+FA: خدای من، بله پلتفرمشان برای چارت‌کشی افتضاح است، احتمالاً بدترین چیزی که تا حالا دیده‌ام
+
+### astrokillah_p3_8
+EN: I have an Interactive Broker's account as well. Their web-based
+charting package is the worst! I also hate the way they tally your
+account balance since it is always changing unless you spend more fees
+to go back to your base currency.
+
+That said, their spreads are extremely tight (0.5 - 1 pip for majors +
+commissions) and the lack of bullshit spread widening and unreasonable
+slippage around news announcements is where they really shine.
+
+Once I get more confident in using tighter and tighter SL on MPL trades
+on LTF, I do believe Interactive Brokers will be an asset.
+FA: من هم حساب Interactive Broker دارم. بستهٔ چارت‌کشی وبشان بدترین است! از این‌که بالانس حسابت را چطور حساب می‌کنند هم بدم می‌آید، چون همیشه در حال تغییر است مگر این‌که کارمزد بیشتری بدهی تا به ارز پایه‌ات برگردی.
+
+با این حال، اسپردهایشان فوق‌العاده تنگ است (0.5 تا 1 پیپ برای جفت‌ارزهای اصلی به‌علاوهٔ کمیسیون) و جایی که واقعاً می‌درخشند همان‌جاست: نه خبری از باز شدن مسخرهٔ اسپرد و اسلیپیج غیرمنطقی حول اخبار است.
+
+وقتی اعتماد به نفسم بیشتر شود که در معاملات MPL روی تایم‌فریم پایین استاپ‌لاس تنگ‌تر و تنگ‌تری بگذارم، مطمئنم Interactive Brokers یک سرمایه خواهد بود.
+
+### astrokillah_p3_9
+EN: Hey Bro, thanks for stopping by, historical data is another
+headache!!! I called IB, I said I am trading 1-min chart, I want 1-min
+data for as far back as possible. They said, no way, you can only have
+500 bars on your chart maximum! I asked them can I pay more for data,
+they said sorry, no such package available!
+
+So at the moment, I opened a demo account with FXDD on MT4, they have
+the most historical data vs other brokers, you can download and import
+1-min data all the way back to 2005 from their website.
+
+Al3cs wrote:
+Astrokillah
+ wrote: But Interactive Broker is the WORST platform to analyze charts. I
+ chose them because of the low spread and low commission.
+
+What about historical data? How far can you go back in m1 chart and tick chart?
+
+I know that IB repacks the data feed every 0.3 seconds so you don't have
+ true unfiltered realtime data but this should not be a problem if you
+don't scalp in lowest TFs
+FA: سلام رفیق، ممنون که سر زدی؛ دیتای تاریخی هم یک دردسر دیگر است!!! با IB تماس گرفتم، گفتم دارم با نمودار 1 دقیقه معامله می‌کنم و دیتای 1 دقیقه تا قدیمی‌ترین زمان ممکن را می‌خواهم. گفتند عمراً، حداکثر می‌توانی 500 کندل روی نمودارت داشته باشی! پرسیدم می‌توانم برای دیتا پول بیشتری بدهم؟ گفتند متأسفیم، چنین بسته‌ای موجود نیست!
+
+پس فعلاً یک حساب دمو با FXDD روی MT4 باز کرده‌ام؛ دیتای تاریخیشان از بقیهٔ بروکرها بیشتر است و می‌توانی دیتای 1 دقیقه را تا 2005 از وب‌سایتشان دانلود و وارد کنی.
+
+Al3cs نوشت:
+Astrokillah نوشت: اما Interactive Broker بدترین پلتفرم برای تحلیل نمودار است. به‌خاطر اسپرد و کمیسیون پایین آن‌ها را انتخاب کردم.
+
+دیتای تاریخی چطور؟ در نمودار m1 و نمودار تیک تا کجا می‌توانی عقب بروی؟
+
+می‌دانم IB فید داده را هر 0.3 ثانیه بازبسته‌بندی می‌کند، پس دیتای بلادرنگ واقعی و فیلترنشده نداری؛ اما اگر در پایین‌ترین تایم‌فریم‌ها اسکالپ نمی‌کنی این نباید مشکلی باشد
+
+### astrokillah_p3_10
+EN: AK,
+
+there's also an alternative for historical M1 data which is Dukascopy.
+
+You may already know it, but eventually this is the link to their free charting.
+
+	www.dukascopy.com/swiss/it/marketwatch/charts/
+
+I use FxPro and to fine tune with their levels the difference is usually less than 1 pip
+FA: AK،
+
+یک جایگزین دیگر هم برای دیتای تاریخی M1 هست: Dukascopy.
+
+شاید قبلاً بدانی، ولی در نهایت این لینک چارت‌کشی رایگانشان است.
+
+	www.dukascopy.com/swiss/it/marketwatch/charts/
+
+من از FxPro استفاده می‌کنم و برای تنظیم دقیق سطوحشان، اختلاف معمولاً کمتر از 1 پیپ است
+
+### astrokillah_p3_11
+EN: Astrokillah wrote: Good day to all traders! First trade of the day, what else? Another QM setup.
+
+Before I took this trade, I wasn't sure if price had already hit a TG, see explanation below:
+
+AK, here are a few charts trying to explain
+(my understanding) of how targets for FLs work. But also how the ENG of
+ an important FL, gives us PA (signal to look for a trade) and opens up
+the next FL on that scale // timeframe.
+FA: Astrokillah نوشت: روز خوبی داشته باشید معامله‌گران! اولین معاملهٔ روز، چه چیز دیگری؟ یک ستاپ QM دیگر.
+
+قبل از گرفتن این معامله، مطمئن نبودم قیمت قبلاً به یک TG رسیده یا نه؛ توضیح پایین را ببینید:
+
+AK، این چند نمودار تلاشی است برای توضیح (درک خودم از) این‌که تارگت‌های FLها چطور کار می‌کنند. و همچنین این‌که اینگالف یک FL مهم چطور به ما PA (سیگنال برای جست‌وجوی معامله) می‌دهد و FL بعدی را در همان مقیاس // تایم‌فریم باز می‌کند.
+
+### astrokillah_p3_12
+EN: Master IF! Thanks so much for the encouragement! ... I am working
+hard... working hard... ain't gonna call it quit, until I can crack the
+code... actually now that you have introduce theblue.community, it has
+made me rethink about the purpose of my life.. trading is just a means
+to the end, but what's the end??!!?
+
+Ifmyante wrote: This is some really good work!
+
+You'll learn more about stop placement as you go, so I'm very happy with your work for now
+FA: استاد IF! خیلی ممنون بابت دلگرمی! ... دارم زحمت می‌کشم... دارم سخت کار می‌کنم... تا نتوانم رمز را بشکنم، بی‌خیال نمی‌شوم... راستش حالا که theblue.community را معرفی کردی، دوباره به هدف زندگی‌ام فکر کرده‌ام.. معامله‌گری فقط وسیله است، ولی هدف چیست؟!!؟
+
+Ifmyante نوشت: این کار واقعاً خوب است!
+
+هر چه جلوتر بروی دربارهٔ جای‌گذاری استاپ بیشتر یاد می‌گیری، پس فعلاً از کارت خیلی راضی‌ام
+
+### astrokillah_p3_13
+EN: Oh yes bro! ha, actually I was looking at my account balance, and
+wondering why on earth it keeps changing every day... I have been with
+IB for almost 12 years and I have never been bothered to ask! Until 3
+weeks ago, I finally picked up the phone and call them only then I realized I have been paying interests on currency that I have not traded for a long time. Crazy..
+
+Rinehart wrote: I have an
+Interactive Broker's account as well. Their web-based charting package
+is the worst! I also hate the way they tally your account balance since
+ it is always changing unless you spend more fees to go back to your
+base currency.
+
+That said, their spreads are extremely tight (0.5 - 1 pip for majors +
+commissions) and the lack of bullshit spread widening and unreasonable
+slippage around news announcements is where they really shine.
+
+Once I get more confident in using tighter and tighter SL on MPL trades
+on LTF, I do believe Interactive Brokers will be an asset.
+FA: آه بله رفیق! ها، راستش داشتم بالانس حسابم را نگاه می‌کردم و تعجب می‌کردم چرا هر روز تغییر می‌کند... تقریباً 12 سال است با IB هستم و هرگز به خودم زحمت نداده‌ام بپرسم! تا 3 هفته پیش که بالاخره تلفن را برداشتم و بهشان زنگ زدم؛ تازه فهمیدم تمام این مدت روی ارزی بهره می‌پرداختم که مدت‌ها با آن معامله نکرده‌ام. دیوانه‌کننده..
+
+Rinehart نوشت: من هم حساب Interactive Broker دارم. بستهٔ چارت‌کشی وبشان بدترین است! از این‌که بالانس حسابت را چطور حساب می‌کنند هم بدم می‌آید، چون همیشه در حال تغییر است مگر این‌که کارمزد بیشتری بدهی تا به ارز پایه‌ات برگردی.
+
+با این حال، اسپردهایشان فوق‌العاده تنگ است (0.5 تا 1 پیپ برای جفت‌ارزهای اصلی به‌علاوهٔ کمیسیون) و جایی که واقعاً می‌درخشند همان‌جاست: نه خبری از باز شدن مسخرهٔ اسپرد و اسلیپیج غیرمنطقی حول اخبار است.
+
+وقتی اعتماد به نفسم بیشتر شود که در معاملات MPL روی تایم‌فریم پایین استاپ‌لاس تنگ‌تر و تنگ‌تری بگذارم، مطمئنم Interactive Brokers یک سرمایه خواهد بود.
+
+### astrokillah_p3_14
+EN: Rinehart, I can't thank you enough for this!! EYE-OPENING!!!!!! Now let me read it 10 more times... I am not that smart.. Rinehart
+ wrote: AK, here are a few charts trying to explain (my understanding)
+of how targets for FLs work. But also how the ENG of an important FL,
+gives us PA (signal to look for a trade) and opens up the next FL on
+that scale // timeframe.[/b][/color]
+FA: Rinehart، نمی‌دانم چطور از تو بابت این تشکر کنم!! ذهنم باز شد!!!!!! حالا بگذار 10 بار دیگر بخوانمش... من آن‌قدر باهوش نیستم.. Rinehart نوشت: AK، این چند نمودار تلاشی است برای توضیح (درک خودم از) این‌که تارگت‌های FLها چطور کار می‌کنند. و همچنین این‌که اینگالف یک FL مهم چطور به ما PA (سیگنال برای جست‌وجوی معامله) می‌دهد و FL بعدی را در همان مقیاس // تایم‌فریم باز می‌کند.
+
+### astrokillah_p3_15
+EN: Your charts are truly interesting Rinehart.
+
+I don't understand what lesson you take from: do you think that price is
+ certain to go to the MP you talk about before breaking blue zone?
+FA: نمودارهایت واقعاً جالب‌اند Rinehart.
+
+نمی‌فهمم چه درسی از این می‌گیری: فکر می‌کنی قیمت حتماً قبل از شکستن ناحیهٔ آبی به آن MP که گفتی می‌رسد؟
+
+### astrokillah_p3_16
+EN: I will admit that ideally price would have just slightly ENG the Lower
+ FL on EURCAD and not gone as high as it did. If that was the case, I
+would easily say YES. I would 100% expect price to reach the UFL before
+ breaking the FL way below. On this chart, there are still clean orders
+ remaining above where price has reached. They are visible from the 1hr
+ chart down so I would again say yes. I do think price will visit those
+ orders before breaking the big FL below.
+
+However things don't always go perfect everytime. So if I had taken
+AK's trade, I would have my target up at the MPL I marked but I would
+take some profit along the way.
+
+I also take lots of value from this diagram.
+FA: اعتراف می‌کنم که در حالت ایده‌آل، قیمت فقط کمی FL پایینی را روی EURCAD اینگالف می‌کرد و تا این اندازه بالا نمی‌رفت. اگر این‌طور بود، راحت می‌گفتم بله. 100 درصد انتظار داشتم قیمت قبل از شکستن FL بسیار پایین‌تر به UFL برسد. در این نمودار، هنوز سفارش‌های تمیزی بالای جایی که قیمت رسیده باقی مانده‌اند. از نمودار 1 ساعته به پایین دیده می‌شوند، پس باز هم می‌گویم بله. فکر می‌کنم قیمت قبل از شکستن FL بزرگ پایینی به دیدن آن سفارش‌ها می‌رود.
+
+اما همه‌چیز همیشه بی‌نقص پیش نمی‌رود. پس اگر معاملهٔ AK را گرفته بودم، تارگتم همان MPL علامت‌گذاری‌شده بود، ولی در مسیر بخشی از سود را می‌گرفتم.
+
+از این نمودار هم کلی ارزش می‌گیرم.
+
+### astrokillah_p3_18
+EN: I am going to stop trading for a while until I can figure out how to
+draw FL correctly and use FL to plan my trade. I am going to use the
+following rules of drawing FL, i.e. combining the classical RTM
+definition and also what's proposed by Salivan.
+
+The classical definition calls for a TG to be hit before we can draw FL,
+ however, at times, there is no TG in sight, that's when Salivan's
+definition comes in handy. I will also include DP in my chart, because
+at this moment, I have not been able to figure out how to use FL to
+explain all the price movement, so if someone could point to me how to
+do without DP, I would be extremely grateful.
+
+First up is the EURCAD chart, the objective is to draw FLs from Monthly
+down to H1 so I can use the charts to plan a trade. I start with an
+FXTOP chart from 1953 to 1986:
+
+Point 1: Price established a range between the two outer green horizontal lines
+
+Point 2: The upper horizontal line was engulfed, so a signal from ITs that they want price higher.
+
+Point 3: Deepest retracement. I can't really see why price turned at
+point 3, not at this scale. I was hoping that price bounced from FL-A,
+so I could explain the bounce using the concept of FL but unfortunately
+this didn't happen.
+
+Point 4: Price got near the upper limit of broken range, flagged, and
+then rallied strongly, making ATH (All Time High). I drew a rectangle
+-B, is this a DP or a FL? By definition, B looked more like a DP. It is
+not easy for price to make ATH, so B has to be a very strong and
+important level. After price left Point 4, we could draw an FL from
+Point 2 to Point 3 (orange rectangle), but this is a huge FL, it's
+probably too big to be useful?
+
+Point 5: Price returned to B and bounced.
+
+Point 6: Price engulfed previous high, so RTM theory says, if price ever
+ return to B again, that will be a safe location to go long.
+
+Point 7: RTM theory is proven right, B indeed held and turned price again.
+
+Point 8: Price broke ATH again, I drew rectangle C around a big kink,
+but because it has not held price, according to our definition, this is
+an FTR.
+
+Point 9: Another 'kink was created, and it held price, so D is an FL
+
+Point 10: E is a DP that engulfed FL-D
+
+Point 11: F is an FL that engulfed FL-C
+
+Point 12: G is an FL that engulfed B
+
+Point 13: H is an FL that engulfed A.
+
+That's all I have until 1986, there are lots of small kinks, but they
+didn't seem to have broken any important levels on this time scale, so I
+ don't know what to make of them.
+
+Any feedback/correction, is greatly appreciated.
+
+AK
+FA: مدتی معامله را متوقف می‌کنم تا بفهمم چطور FL را درست رسم کنم و از آن برای پلن معامله‌ام استفاده کنم. از این قواعد رسم FL استفاده می‌کنم، یعنی ترکیب تعریف کلاسیک RTM و چیزی که Salivan پیشنهاد کرده.
+
+تعریف کلاسیک می‌گوید قبل از رسم FL باید یک TG خورده باشد؛ اما گاهی هیچ TG‌ای در دید نیست و آن‌وقت تعریف Salivan به کار می‌آید. DP را هم در نمودارم می‌آورم، چون در این لحظه نتوانسته‌ام بفهمم چطور با FL تمام حرکات قیمت را توضیح بدهم؛ پس اگر کسی بتواند نشانم دهد چطور بدون DP این کار را بکنم، بی‌نهایت ممنون می‌شوم.
+
+اول نمودار EURCAD است؛ هدف رسم FLها از ماهانه تا H1 است تا بتوانم با نمودارها پلن معامله بچینم. با نمودار FXTOP از 1953 تا 1986 شروع می‌کنم:
+
+نقطهٔ 1: قیمت بین دو خط افقی سبز بیرونی یک محدوده ساخت
+
+نقطهٔ 2: خط افقی بالایی اینگالف شد، یعنی سیگنالی از ITها که قیمت بالاتر را می‌خواهند.
+
+نقطهٔ 3: عمیق‌ترین اصلاح. در این مقیاس واقعاً نمی‌بینم چرا قیمت در نقطهٔ 3 چرخید. امیدوار بودم قیمت از FL-A بازگشت کند تا بتوانم آن بازگشت را با مفهوم FL توضیح دهم، ولی متأسفانه این‌طور نشد.
+
+نقطهٔ 4: قیمت به سقف محدودهٔ شکسته‌شده نزدیک شد، فلگ زد و بعد قوی رشد کرد و ATH (بالاترین سقف تاریخی) ساخت. مستطیل B را رسم کردم؛ این DP است یا FL؟ طبق تعریف، B بیشتر شبیه DP بود. ساختن ATH برای قیمت آسان نیست، پس B باید سطحی خیلی قوی و مهم باشد. بعد از این‌که قیمت نقطهٔ 4 را ترک کرد، می‌توانستیم از نقطهٔ 2 تا نقطهٔ 3 یک FL رسم کنیم (مستطیل نارنجی)، ولی این FL عظیمی است؛ احتمالاً برای استفاده خیلی بزرگ است؟
+
+نقطهٔ 5: قیمت به B برگشت و بازگشت کرد.
+
+نقطهٔ 6: قیمت سقف قبلی را اینگالف کرد، پس نظریهٔ RTM می‌گوید اگر قیمت دوباره به B برگردد، آن‌جا محل امنی برای خرید است.
+
+نقطهٔ 7: نظریهٔ RTM درست از آب درآمد؛ B واقعاً نگه داشت و دوباره قیمت را چرخاند.
+
+نقطهٔ 8: قیمت دوباره ATH را شکست. مستطیل C را دور یک کینک بزرگ رسم کردم، ولی چون قیمت را نگه نداشته، طبق تعریف ما این یک FTR است.
+
+نقطهٔ 9: کینک دیگری ساخته شد و قیمت را نگه داشت، پس D یک FL است
+
+نقطهٔ 10: E یک DP است که FL-D را اینگالف کرد
+
+نقطهٔ 11: F یک FL است که FL-C را اینگالف کرد
+
+نقطهٔ 12: G یک FL است که B را اینگالف کرد
+
+نقطهٔ 13: H یک FL است که A را اینگالف کرد.
+
+این تمام چیزی است که تا 1986 دارم؛ کینک‌های کوچک زیادی هست، ولی به نظر نمی‌رسید در این مقیاس زمانی هیچ سطح مهمی را شکسته باشند، پس نمی‌دانم با آن‌ها چه کنم.
+
+هر بازخورد یا تصحیحی صمیمانه قدردانی می‌شود.
+
+AK
+
+### astrokillah_p3_19
+EN: Hi AK.
+
+Are you sure Salivan said that an FL does not need to hit its target
+before it can be considered one? Because that's really not what I
+understood from his journal. Would you please quote him on this? Thanks!
+FA: سلام AK.
+
+مطمئنی Salivan گفت FL لازم نیست قبل از این‌که FL حساب شود به تارگتش برسد؟ چون برداشت من از ژورنالش اصلاً این نبود. می‌شود لطفاً حرفش را نقل کنی؟ ممنون!
+
+### astrokillah_p3_20
+EN: Hi Zee,
+
+Thanks for popping by. Can you please read these posts and then explain
+to me your understanding of what's the properly rules of drawing FL?
+
+Below is a post from Stauraum, #963
+
+	www.readthemarket.com/index.php/en/forum...art-of-war?start=962
+
+And then on this following reply from Salivan, post #966
+
+	readthemarket.com/index.php/en/forum/jou...art-of-war?start=965
+
+He posted the chart below, and I have highlighted the white rectangle which he considered an FL.
+
+And he wrote this: "I respect what Harry says about FL concept .he
+consider that LOW as a SR and i consider the FTR that held price up"
+
+So to him, FL = FTR that held price up. He didn't mention about the need
+ to hit a TG, and if you look at that FL in the picture above, has it
+hit any target? Perhaps it had, because we do not know what's the to the
+ left of the chart.
+
+So, as I have mentioned in various posts, the struggle I have with
+drawing FL is, sometimes, there are just no target in sight, especially
+when price is making all time high or all time low. Also, the rule
+explicitly says we can only draw an FL when it hits another FL? what
+about when price hit a cap? A RBD/DBR that held price? A DP? Can we
+consider these as valid targets? And I have also read EDGE wrote that DP
+ are wrong way of reading the market, it's all about FL, but I am not
+able to understand how FL can explain the frequent price bounce at DPs.
+
+THANKS
+
+AKzee wrote: Hi AK.
+
+Are you sure Salivan said that an FL does not need to hit its target
+before it can be considered one? Because that's really not what I
+understood from his journal. Would you please quote him on this? Thanks!
+FA: سلام Zee جان،
+
+ممنون که سر زدی. می‌شود لطفاً این پست‌ها را بخوانی و بعد برداشتت را از قواعد درست رسم FL برایم توضیح بدهی؟
+
+پایین یک پست از Stauraum است، شمارهٔ 963
+
+	www.readthemarket.com/index.php/en/forum...art-of-war?start=962
+
+و بعد در این پاسخ Salivan (پست شمارهٔ 966)
+
+	readthemarket.com/index.php/en/forum/jou...art-of-war?start=965
+
+او نمودار پایین را گذاشت و من مستطیل سفید را که او FL می‌دانست برجسته کرده‌ام.
+
+و این را نوشت: «به آنچه Harry دربارهٔ مفهوم FL می‌گوید احترام می‌گذارم؛ او آن کف را SR می‌داند و من همان FTR را که قیمت را بالا نگه داشت»
+
+پس از نظر او، FL همان FTR است که قیمت را بالا نگه داشته. او به نیاز به خوردن TG اشاره‌ای نکرد و اگر به آن FL در تصویر بالا نگاه کنی، آیا به تارگتی رسیده؟ شاید رسیده باشد، چون نمی‌دانیم سمت چپ نمودار چه خبر است.
+
+پس همان‌طور که در پست‌های مختلف گفته‌ام، کشمکش من با رسم FL این است که گاهی هیچ تارگتی در دید نیست، مخصوصاً وقتی قیمت بالاترین سقف تاریخی یا کف تاریخی می‌سازد. همچنین قاعده صراحتاً می‌گوید فقط وقتی می‌توانیم FL رسم کنیم که به FL دیگری برسد؟ اگر قیمت به یک سقف قیمتی برسد چه؟ یک RBD/DBR که قیمت را نگه داشته؟ یک DP؟ آیا این‌ها را می‌توان تارگت معتبر دانست؟ و خوانده‌ام که EDGE نوشته DPها روش اشتباه خواندن بازارند و همه‌چیز FL است، ولی نمی‌فهمم FL چطور می‌تواند بازگشت‌های مکرر قیمت در DPها را توضیح دهد.
+
+ممنون
+
+zee نوشت: سلام AK.
+
+مطمئنی Salivan گفت FL لازم نیست قبل از این‌که FL حساب شود به تارگتش برسد؟ چون برداشت من از ژورنالش اصلاً این نبود. می‌شود لطفاً حرفش را نقل کنی؟ ممنون!
+
+### astrokillah_p3_21
+EN: Hi AK,
+
+Please bear in mind that when i made that post i had a less
+understanding about flag limits then than i do now. However, the answers
+ to your confusion are also in that post and Salivan's answer. Master
+Sali answered it perfectly. It is right there in front of us, to be
+honest.
+
+"....So to him, FL = FTR that held price up. He didn't mention about the need to hit a TG...."
+
+Not mentioning about the need to hit a TG does not mean there is no need
+ to hit TG, so you gotta be careful with your logic deduction. I've read
+ a few recent posts of yours. I wish i could help you, but it seems and
+fells to me that you may want every answer to every question in one
+ready-made plate. Having said that, I really really wish and hope i am
+so dead wrong.
+
+Also, seeking confirmation to our findings will not help as much as
+proving them on our own by having as much as screentime and charting
+practices as possible. Believe me, 2017 RTM has already structured its
+materials way, way too organised compared to previous years (you can ask
+ pre-2016 members, I'm so certain they'll agree), but nothing can
+replace hardwork and patience after all and this is worth repeating in
+our head. Just in my opinion, most of the new members here are learning
+way too fast and too well that i'm a bit envy I mean it in a big compliment too
+
+And IF has been very, very, VERY accommodating.
+
+So, please, my only suggestion is read as much and as detailed as you
+can, also analyse as thoroughly as you can. So far, for me, all, i mean
+ALL, the answers on "How To Read The Market" are in this website
+already. Just because we haven't found it, doesn't mean it's not there.
+ Salivan's journal is one great, great journal to explore, there are so
+many amazing puzzles he left there for us to find. We just need to stay
+patient while have childlike curiosity & humility.
+
+I wish you all the best of luck, and i know most members here are just
+like you, possessing a great enthusiasm to beat the hell out of the
+market.
+FA: سلام AK،
+
+لطفاً در نظر داشته باش که وقتی آن پست را نوشتم، درکم از حدهای فلگ کمتر از الان بود. با این حال، پاسخ سردرگمی‌های تو هم در همان پست و پاسخ Salivan هست. استاد سالی کاملاً جوابش را داد. راستش همان‌جا جلوی چشممان است.
+
+«....پس از نظر او، FL همان FTR است که قیمت را بالا نگه داشته. او به نیاز به خوردن TG اشاره‌ای نکرد....»
+
+اشاره نکردن به نیاز به خوردن TG به این معنا نیست که نیازی به خوردن TG نیست، پس در استنتاج منطقی‌ات دقت کن. چند پست اخیرت را خوانده‌ام. ای کاش می‌توانستم کمکت کنم، ولی به نظرم می‌رسد و حس می‌کنم تو می‌خواهی جواب هر سؤال را در یک بشقاب آماده تحویل بگیری. با این حال، واقعاً واقعاً امیدوارم و آرزو می‌کنم که سخت در اشتباه باشم.
+
+همچنین، تأیید گرفتن از یافته‌هایمان به‌اندازهٔ اثباتشان به دست خودمان کمک نمی‌کند؛ آن هم با هر چه بیشتر زمان پشت صفحه و تمرین چارت‌کشی. باور کن، RTM 2017 مطالبش را در مقایسه با سال‌های قبل خیلی خیلی منظم‌تر ساختار داده (می‌توانی از اعضای قبل از 2016 بپرسی، مطمئنم موافقند)، ولی هیچ‌چیز جای سخت‌کوشی و صبر را نمی‌گیرد و این ارزش تکرار در ذهن را دارد. فقط به نظر من، بیشتر اعضای تازه این‌جا خیلی سریع و خیلی خوب یاد می‌گیرند که کمی حسادت می‌کنم؛ البته این را به‌عنوان یک تعریف بزرگ می‌گویم.
+
+و IF خیلی خیلی خیلی همراهی کرده.
+
+پس لطفاً، تنها پیشنهادم این است که هر چه بیشتر و با جزئیات بخوان و هر چه می‌توانی دقیق تحلیل کن. تا اینجا، برای من همه، یعنی همهٔ پاسخ‌های «چطور بازار را بخوانیم» همین حالا در این سایت هست. صرفاً چون پیدایش نکرده‌ایم، معنا ندارد که وجود ندارد. ژورنال Salivan یک ژورنال عالی و عالی برای کاویدن است؛ پازل‌های شگفت‌انگیز زیادی در آن برای پیدا کردن گذاشته. فقط باید صبور بمانیم و کنجکاوی و فروتنی کودکانه داشته باشیم.
+
+برای همه‌تان بهترین شانس را آرزو می‌کنم و می‌دانم بیشتر اعضای این‌جا هم مثل تو هستند و شور و شوق فراوانی برای به‌درد‌آوردن بازار دارند.
+
+### astrokillah_p3_22
+EN: "Believe me, 2017 RTM has already structured its materials way, way
+ too organised compared to previous years (you can ask pre-2016 members,
+ I'm so certain they'll agree)"
+
+I agree with Staurum. I came the first time in 2016 and left late that
+year. Came back just recently and took me a couple of weeks to
+understand what LSK was...
+
+I'm joking, what he says is the truth, info are more clear and a huuuuge
+ value from the 2 webinars by IF. To me they were eye-opening. My
+suggestion, in addition to what Staurum correctly stated, look at those
+webinars at least 10 times!!
+FA: «باور کن، RTM 2017 مطالبش را در مقایسه با سال‌های قبل خیلی خیلی منظم‌تر ساختار داده (می‌توانی از اعضای قبل از 2016 بپرسی، مطمئنم موافقند)»
+
+من با Staurum موافقم. اولین بار در 2016 آمدم و اواخر همان سال رفتم. تازه برگشتم و چند هفته طول کشید تا بفهمم LSK چیست...
+
+شوخی می‌کنم؛ حرفش حقیقت است، اطلاعات شفاف‌تر شده و دو وبینار IF ارزش خیلی خیلی زیادی دارند. برای من چشم‌باز‌کن بودند. پیشنهاد من، علاوه بر آنچه Staurum درست گفت، این است: آن وبینارها را دست‌کم 10 بار نگاه کنید!!
+
+### astrokillah_p3_23
+EN: staurum wrote: Hi AK,
+
+Please bear in mind that when i made that post i had a less
+understanding about flag limits then than i do now. However, the answers
+ to your confusion are also in that post and Salivan's answer. Master
+Sali answered it perfectly. It is right there in front of us, to be
+honest.
+
+"....So to him, FL = FTR that held price up. He didn't mention about the need to hit a TG...."
+
+Not mentioning about the need to hit a TG does not mean there is no need
+ to hit TG, so you gotta be careful with your logic deduction. I've read
+ a few recent posts of yours. I wish i could help you, but it seems and
+fells to me that you may want every answer to every question in one
+ready-made plate. Having said that, I really really wish and hope i am
+so dead wrong.
+
+Also, seeking confirmation to our findings will not help as much as
+proving them on our own by having as much as screentime and charting
+practices as possible. Believe me, 2017 RTM has already structured its
+materials way, way too organised compared to previous years (you can ask
+ pre-2016 members, I'm so certain they'll agree), but nothing can
+replace hardwork and patience after all and this is worth repeating in
+our head. Just in my opinion, most of the new members here are learning
+way too fast and too well that i'm a bit envy I mean it in a big compliment too
+
+And IF has been very, very, VERY accommodating.
+
+So, please, my only suggestion is read as much and as detailed as you
+can, also analyse as thoroughly as you can. So far, for me, all, i mean
+ALL, the answers on "How To Read The Market" are in this website
+already. Just because we haven't found it, doesn't mean it's not there.
+ Salivan's journal is one great, great journal to explore, there are so
+many amazing puzzles he left there for us to find. We just need to stay
+patient while have childlike curiosity & humility.
+
+I wish you all the best of luck, and i know most members here are just
+like you, possessing a great enthusiasm to beat the hell out of the
+market.
+
+Lol strautum, I also feel september new members are learning the
+materials like a rocket and I am slow like a snail xD I am still stuck
+in confusion, but I learned many new things from your last few posts,
+thanks a lot brother. Regardless, I am me, and AK is AK. He has his
+briliant brain and I have my mushed brain. It may take me years before I
+ can reach the level where you (Strautum) are at this point, but I am
+not in hurry. We all are individuals and have different environments.
+
+Just remember this, being doctor takes 20+ years from Primary school to
+High school then university. Then afterwards have to specialize into
+some field. RTM has provided a really good opportunity that very few
+stumble upon in their life. Even if I spend 5 years to figure out the
+puzzle and everyday try to be better than yesterday. In my honest
+opinion it's worth it.
+
+At times it is really frustrating, such as the point you see others
+getting it faster than you and have awesome trades or you seem be
+confused by overanalyzing. Well, just have grit your teeth and keep
+going.
+
+Sorry, this post was something I wanted to say out :D. It's a post for me and everyone else in same situation as me.
+
+Dengaima
+FA: staurum نوشت: سلام AK،
+
+لطفاً در نظر داشته باش که وقتی آن پست را نوشتم، درکم از حدهای فلگ کمتر از الان بود. با این حال، پاسخ سردرگمی‌های تو هم در همان پست و پاسخ Salivan هست. استاد سالی کاملاً جوابش را داد. راستش همان‌جا جلوی چشممان است.
+
+«....پس از نظر او، FL همان FTR است که قیمت را بالا نگه داشته. او به نیاز به خوردن TG اشاره‌ای نکرد....»
+
+اشاره نکردن به نیاز به خوردن TG به این معنا نیست که نیازی به خوردن TG نیست، پس در استنتاج منطقی‌ات دقت کن. چند پست اخیرت را خوانده‌ام. ای کاش می‌توانستم کمکت کنم، ولی به نظرم می‌رسد و حس می‌کنم تو می‌خواهی جواب هر سؤال را در یک بشقاب آماده تحویل بگیری. با این حال، واقعاً واقعاً امیدوارم و آرزو می‌کنم که سخت در اشتباه باشم.
+
+همچنین، تأیید گرفتن از یافته‌هایمان به‌اندازهٔ اثباتشان به دست خودمان کمک نمی‌کند؛ آن هم با هر چه بیشتر زمان پشت صفحه و تمرین چارت‌کشی. باور کن، RTM 2017 مطالبش را در مقایسه با سال‌های قبل خیلی خیلی منظم‌تر ساختار داده (می‌توانی از اعضای قبل از 2016 بپرسی، مطمئنم موافقند)، ولی هیچ‌چیز جای سخت‌کوشی و صبر را نمی‌گیرد و این ارزش تکرار در ذهن را دارد. فقط به نظر من، بیشتر اعضای تازه این‌جا خیلی سریع و خیلی خوب یاد می‌گیرند که کمی حسادت می‌کنم؛ البته این را به‌عنوان یک تعریف بزرگ می‌گویم.
+
+و IF خیلی خیلی خیلی همراهی کرده.
+
+پس لطفاً، تنها پیشنهادم این است که هر چه بیشتر و با جزئیات بخوان و هر چه می‌توانی دقیق تحلیل کن. تا اینجا، برای من همه، یعنی همهٔ پاسخ‌های «چطور بازار را بخوانیم» همین حالا در این سایت هست. صرفاً چون پیدایش نکرده‌ایم، معنا ندارد که وجود ندارد. ژورنال Salivan یک ژورنال عالی و عالی برای کاویدن است؛ پازل‌های شگفت‌انگیز زیادی در آن برای پیدا کردن گذاشته. فقط باید صبور بمانیم و کنجکاوی و فروتنی کودکانه داشته باشیم.
+
+برای همه‌تان بهترین شانس را آرزو می‌کنم و می‌دانم بیشتر اعضای این‌جا هم مثل تو هستند و شور و شوق فراوانی برای به‌درد‌آوردن بازار دارند.
+
+هاها strautum، من هم حس می‌کنم اعضای تازهٔ September مطالب را مثل موشک یاد می‌گیرند و من مثل حلزون کندم xD هنوز در سردرگمی گیر کرده‌ام، ولی از چند پست آخرت چیزهای تازهٔ زیادی یاد گرفتم، خیلی ممنون برادر. با این حال، من من هستم و AK هم AK. او مغز درخشان خودش را دارد و من مغز له‌شدهٔ خودم را. شاید سال‌ها طول بکشد تا به سطحی برسم که تو (Strautum) الان در آن هستی، ولی عجله‌ای ندارم. ما همه انسان‌های متفاوتی با محیط‌های متفاوتیم.
+
+فقط این را یادت باشد، دکتر شدن از دبستان تا دبیرستان و بعد دانشگاه بیش از 20 سال طول می‌کشد. بعد از آن هم باید در یک رشته تخصص بگیری. RTM فرصت واقعاً خوبی فراهم کرده که خیلی کم پیش می‌آید کسی در زندگی به آن برسد. حتی اگر 5 سال صرف فهمیدن این پازل کنم و هر روز تلاش کنم از دیروز بهتر باشم، به نظر صادقانه‌ام ارزشش را دارد.
+
+گاهی واقعاً کلافه‌کننده است، مثل وقتی که می‌بینی دیگران سریع‌تر از تو می‌فهمند و معامله‌های عالی دارند، یا وقتی به نظر می‌رسد از زیادی تحلیل کردن گیج شده‌ای. خب، دندان‌هایت را روی هم بگذار و ادامه بده.
+
+ببخشید، این پست چیزی بود که دلم می‌خواست بگویم :D. پستی است برای خودم و همهٔ کسانی که در وضعیت من هستند.
+
+Dengaima
+
+### astrokillah_p3_24
+EN: Hello Master Staurum, I respect your achievement, you're a Master
+Trader now. You have figured everything out. I have read a few of your
+posts in response to my confusion. I hope I am wrong, I think you really
+ enjoy watching us suffering and enduring the pain of trying to sort out
+ the confusions caused by conflicting ideas shared on this forum.
+
+Seriously, you are a nice guy, I have seen how generous you were in
+helping people around. You took a lot of effort, in the long posts that
+you wrote, telling me that my understanding of the rules is wrong (but I
+ hope you would tell me why I was wrong). You have repeatedly said that
+ I shouldn't expect spoon-feeding, that I should go study more charts
+and figure things out myself. Your message is well-received loud and
+clear. I don't blame you man, because you have absolutely no obligation
+ to share of your hard earned knowledge. Plus every trader trades
+differently, because we are all different human beings. I thank you for
+ your encouragement. I understand that RTM is not a place where one
+expects everything to be presented on a silver-platter. I actually never
+ expect that. I just do not think asking questions == asking for silver
+platter, especially the questions that I asked, nobody seemed to have
+answers to them. When I read Hoeschec's journal, I could imagine the
+ordeals he went through.
+
+But it's all good, human are born with a brain to create, to discover,
+to innovate. I love looking at candlesticks, I don't care how much money
+ I am making in Forex, I have hit my 3 months target in two weeks since
+ I started trading QM on LTF (THANK YOU RTM!!). If money is what I am
+after, I would have stopped posting here, because I can make money even
+without doing Forex. I am a Mathematician and an Engineer by background,
+ hence my tendency is to get everything right. And I shouldn't apologize
+ for being too precise. When something is not said, I have to assume
+that it's not there. My objective in learning Forex is to crack it. RTM
+had showed me the way - even though it's not a path that is nicely paved
+ and luxuriously decorated, I will, eventually, figure things out to
+complete the missing pieces, I have a different philosophy in life, when
+ I know something, I will share.
+
+Thank you very much and I wish you the best.
+
+AK
+
+staurum wrote: Hi AK,
+
+"....So to him, FL = FTR that held price up. He didn't mention about the need to hit a TG...."
+
+Not mentioning about the need to hit a TG does not mean there is no need
+ to hit TG, so you gotta be careful with your logic deduction. I've read
+ a few recent posts of yours. I wish i could help you, but it seems and
+fells to me that you may want every answer to every question in one
+ready-made plate. Having said that, I really really wish and hope i am
+so dead wrong.
+
+/
+FA: سلام استاد Staurum، به دستاوردت احترام می‌گذارم؛ الان یک معامله‌گر استاد هستی. همه‌چیز را فهمیده‌ای. چند پست از تو را در پاسخ به سردرگمی‌ام خوانده‌ام. امیدوارم اشتباه کنم، ولی فکر می‌کنم واقعاً از دیدن عذاب کشیدن ما و تحمل این درد که سر و کله بزنیم با سردرگمی‌های ناشی از ایده‌های متناقضی که در این فروم گفته می‌شود لذت می‌بری.
+
+جدی می‌گویم، آدم خوبی هستی؛ دیده‌ام چقدر در کمک به اطرافیان دست‌ودل‌باز بودی. در پست‌های طولانی‌ای که نوشتی کلی زحمت کشیدی و به من گفتی درکم از قواعد غلط است (ولی امیدوار بودم بگویی چرا غلط است). مکرر گفتی که نباید انتظار غذای آماده داشته باشم و باید نمودارهای بیشتری مطالعه کنم و خودم سر در بیاورم. پیامت را بلند و واضح شنیدم. تو را سرزنش نمی‌کنم، چون هیچ الزامی نداری دانش سخت‌به‌دست‌آمده‌ات را به اشتراک بگذاری. علاوه بر این، هر معامله‌گری متفاوت معامله می‌کند، چون ما همه انسان‌های متفاوتی هستیم. از دلگرمی‌ات ممنونم. می‌فهمم RTM جایی نیست که کسی انتظار داشته باشد همه‌چیز روی سینی نقره تحویلش بدهند. من واقعاً هرگز چنین انتظاری نداشتم. فقط فکر نمی‌کنم سؤال پرسیدن == درخواست سینی نقره باشد، مخصوصاً سؤال‌هایی که پرسیدم و به نظر می‌رسید هیچ‌کس جوابشان را ندارد. وقتی ژورنال Hoeschec را خواندم، می‌توانستم سختی‌هایی را که از سر گذرانده تصور کنم.
+
+اما همه‌چیز خوب است؛ انسان با مغزی برای آفریدن، کشف کردن و نوآوری به دنیا می‌آید. من عاشق نگاه کردن به کندل‌ها هستم، برایم مهم نیست در فارکس چقدر پول درمی‌آورم؛ از وقتی معاملهٔ QM در تایم‌فریم پایین را شروع کردم، در دو هفته به تارگت سه‌ماهه‌ام رسیدم (ممنون RTM!!). اگر دنبال پول بودم، همین‌جا پست گذاشتن را متوقف می‌کردم، چون می‌توانم بدون فارکس هم پول دربیاورم. پیشینه‌ام ریاضیات و مهندسی است، پس گرایشم به درست انجام دادن همه‌چیز است. و نباید برای دقیق بودن بیش از حد عذرخواهی کنم. وقتی چیزی گفته نمی‌شود، باید فرض کنم وجود ندارد. هدف من از یادگیری فارکس شکستن رمزش است. RTM راه را نشانم داده - هرچند مسیری نیست که خوب سنگ‌فرش و لوکس تزئین شده باشد، در نهایت تکه‌های گمشده را پیدا می‌کنم؛ فلسفهٔ زندگی‌ام متفاوت است: وقتی چیزی را می‌دانم، به اشتراک می‌گذارم.
+
+خیلی ممنون و برایت بهترین‌ها را آرزو می‌کنم.
+
+AK
+
+staurum نوشت: سلام AK،
+
+«....پس از نظر او، FL همان FTR است که قیمت را بالا نگه داشته. او به نیاز به خوردن TG اشاره‌ای نکرد....»
+
+اشاره نکردن به نیاز به خوردن TG به این معنا نیست که نیازی به خوردن TG نیست، پس در استنتاج منطقی‌ات دقت کن. چند پست اخیرت را خوانده‌ام. ای کاش می‌توانستم کمکت کنم، ولی به نظرم می‌رسد و حس می‌کنم تو می‌خواهی جواب هر سؤال را در یک بشقاب آماده تحویل بگیری. با این حال، واقعاً واقعاً امیدوارم و آرزو می‌کنم که سخت در اشتباه باشم.
+
+/
+
+### astrokillah_p3_25
+EN: GBPUSD
+
+I wasn't ready to trade today, I was out drinking with friends, then my
+phone rang, a friend called, asking me to look at GBPUSD. I looked at
+the chart through my small cellphone, I saw something that's too good to
+ miss. Basically, it's a QM structure, but what makes it even more
+attractive is a swing low that's perfect for a FO and stop run move by
+the ITs.
+
+The trade was triggered, and TP (~8R) was hit some 40 mins later.
+Master IF was right! Just learn QM, and do it well, it's all you need,
+to be consistently profitable.
+
+To all fellow traders, très bon weekend à tous !
+FA: GBPUSD
+
+امروز آمادهٔ معامله نبودم؛ با دوستان بیرون بودم و نوشیدنی می‌خوردیم که تلفنم زنگ خورد، دوستی زنگ زد و گفت GBPUSD را نگاه کنم. از گوشی کوچکم نمودار را دیدم و چیزی دیدم که از دست دادنش خیلی حیف بود. اساساً یک ساختار QM است، ولی چیزی که جذاب‌ترش می‌کند یک کف سوئینگ است که برای یک حرکت FO و استاپ‌ران توسط ITها بی‌نقص است.
+
+معامله فعال شد و حدود 40 دقیقه بعد TP (حدود 8R) خورد. استاد IF درست گفته بود! فقط QM را یاد بگیر و خوب انجامش بده؛ همین برای سوددهی مداوم کافی است.
+
+به همهٔ همکاران معامله‌گر: آخر هفتهٔ خیلی خوبی داشته باشید!

@@ -1,0 +1,128 @@
+##### hs_p19_451 glory305 paras:3
+wrong time trade.closed the sell trade
+
+bought eurusd.I wait AUDUSD week ftr.
+
+i wait QM EURAUD like your chart
+---END---
+##### hs_p19_453 Whenever paras:2
+" Whenever- is this the FTR you are talking about (red rectangle)? Thanks! "
+
+Yep!
+---END---
+##### hs_p19_454 hoeschec paras:1
+Not trading today because of the US Holiday. Not enough liquidity in the market.
+---END---
+##### hs_p19_455 glory305 paras:1
+patience and work hard
+---END---
+##### hs_p19_456 hoeschec paras:4
+I may have to take a break from trading for a time due to a personal issue I am dealing with (nothing related to trading). It could be a day, it could be week, it could be a few months. I can't be sure.
+
+Thank you to everyone here who has helped me so much these past months. You guys are awesome.
+
+Hopefully I'll be back soon.
+
+-H
+---END---
+##### hs_p19_457 Rdk123 paras:2
+Stay safe mate. Take care.
+
+Robbie
+---END---
+##### hs_p19_458 hoeschec paras:4
+It has been a painfully long year, but I am back.
+
+It is nice to see that RTM is doing well. I plan on posting again on a semi-regular basis as I get re-acquainted with the market.
+
+This chart looks interesting. I will look for a reaction here once price returns.
+
+Same chart, more detail:
+---END---
+##### hs_p19_459 hoeschec paras:1
+Here is a nice trading opportunity from a couple of months ago.
+---END---
+##### hs_p19_460 omidfxt paras:1
+hey hoeschec welcome back again to RTM community good start hoeschec
+---END---
+##### hs_p19_461 hoeschec paras:4
+I am looking at E/U 1HR and here is what I am seeing...
+
+If price engulfs the orange line to the downside, I would be looking for a short with a TG near the S/R flip & Flag. The compression on approach to the supply zone makes me think price might move down again before collecting Buys and moving upwards.
+
+I can't help but notice what looks to be an engulf to the upside however, and so I am also anticipating the possibility that price will break to the upside. For now, I am waiting to see what happens.
+
+Here is the entry order with my entry, stop, and limit. Approx 1:7 RR (Since tomorrow is NFP I am only setting this on a demo for practice)
+---END---
+##### hs_p19_462 hoeschec paras:3
+USD-CHF 1-HR Chart:
+
+I am looking at a engulf coupled with some hesitation. I am waiting for price to EG the orange line for an indication that price will move upwards towards the origin of the EG. Might make for a nice short opportunity.
+
+Here is a 15M chart that gives a little more detail. The origin of the engulf looks like it has strong supply - nice cap with momentum.
+---END---
+##### hs_p19_463 hoeschec paras:2
+USD -JPY 4-HR
+
+I am watching this pair for a strong bullish close above the Daily S/R level, coupled with a pin up retest. Looks like there might be some room to move up to fresh supply. So far there haven't been enough buyers to push price convincingly past this S/R Level...
+---END---
+##### hs_p19_464 hoeschec paras:1
+EUR-USD
+---END---
+##### hs_p19_465 hoeschec paras:1
+Just some practice....
+---END---
+##### hs_p19_466 hoeschec paras:2
+I've noticed these S/R flips are great places to trade on FTB to the FTR -
+
+EUR-USD 4HR
+---END---
+##### hs_p19_467 hoeschec paras:1
+More 4HR EUR-USD
+---END---
+##### hs_p19_468 hoeschec paras:2
+EUR-USD 4-HR
+
+Here is an example when price blew right through the demand on its FTB to the FTR that formed after price broke a S/R Flip. From the look of the chart, it seems like this was probably a news event that caused the spike to occur.
+---END---
+##### hs_p19_469 hoeschec paras:2
+USD-JPY
+
+Limit would have been set at base of the pole. The stop would have been pretty tight. Nice R:R on this one...
+---END---
+##### hs_p19_470 hoeschec paras:2
+U-J 1-Min Chart:
+
+Same concept, although I'd refer to the higher time frames first to make sure I am trading in the right direction.
+---END---
+##### hs_p19_471 hoeschec paras:2
+USD- CAD 15M
+
+I've noticed that an engulf of an original FTR to the left that forms an opposing FTR (at a S/R Flip) ends up reacting when price returns on its first time back. It is kind of hard to explain in words, so here is an example I just found:
+---END---
+##### hs_p19_472 hoeschec paras:2
+Here is a live trade I just took (demo). Not sure if this will follow through, but it looks interesting.
+
+AUD-CAD M5:
+---END---
+##### hs_p19_473 hoeschec paras:5
+Here is a question I've been thinking about lately:
+
+When it comes to supply/demand areas, where are the actual orders located? Here is a chart that illustrates my question:
+
+Do I draw the demand box to include the upper wick area or the candle close?
+
+Anyone have an opinion on this? Thanks!
+
+Here is what looks to be the decision point for price as it moved up originally, on a 15 minute chart. Would this be where the substantial orders are located?
+---END---
+##### hs_p19_474 hoeschec paras:2
+EUR-JPY Analysis:
+
+I want to go long on this, as price is forming at a historical S/R level, but I think price could drop again into the demand zone for more buy orders. I included a 15M chart and a 1 Min chart to identify all the minor S/R levels and associated supply/demand levels. Here is what I've come up with:
+---END---
+##### hs_p19_475 hoeschec paras:2
+Eur-Aud
+
+Watching this area... I'm not sure, but I think the long wicks are indicating sells are accumulating @ S/R flip area.
+---END---

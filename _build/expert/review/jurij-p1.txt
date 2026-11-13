@@ -1,0 +1,635 @@
+### jurij_p1_1
+EN: Hello everyone,
+
+what a beatiful place you have built here.
+
+I'm deeply thankful and honored to be given this opportunity to learn from the very best traders around.
+
+Took me a long time to find my way here. I started trading around 3
+years ago as a price action trader (market structure, candle PA like pin
+ bars. etc...) then immersed in the world of S/D trading (Sam Seiden)
+where I gained a new understanding of the market.
+
+But there was (or better still is) always a missing piece to truly
+understand the market. Sure, winning 38% of the times while trading S/D
+zones (TP 3R) let's you gain some pips but it is still a pain when you
+get the so often losing streak of 5-9 trades.
+
+I always knew that there was somewhere a better place to learn the mechanics of the markets,
+
+something that describes and show how everything works, in all time
+frames and where B.S. like "noise" is a fancy word for incompetence
+
+I don't believe in self-limits.
+
+Your perception becomes your reality.
+
+If you can think it, then you can achieve it.
+
+How often do you hear, predicting the market is not possible.
+
+Let alone the "it's all random" talk.
+
+This will be my small corner where I'll share my thoughts, understandings, doubts, progress and of course trades.
+
+Please feel always free to post any question, suggestion and criticism.
+
+Learning and teaching is only possible through quality feedback.
+
+Cya
+
+Jurij
+FA: سلام به همه،
+
+چه جای زیبایی این‌جا ساخته‌اید.
+
+از این‌که این فرصت را پیدا کرده‌ام تا از بهترین معامله‌گران دور و برم یاد بگیرم، صمیمانه سپاسگزار و مفتخرم.
+
+زمان زیادی طول کشید تا راهم را به این‌جا پیدا کنم. حدود 3 سال پیش به‌عنوان یک معامله‌گر پرایس اکشن شروع کردم (ساختار بازار، PA کندلی مثل پین‌بارها و غیره...) و بعد غرق در دنیای معامله‌گری S/D (سام سایدن) شدم و آن‌جا درک تازه‌ای از بازار به دست آوردم.
+
+اما همیشه یک قطعهٔ گم‌شده برای درک واقعی بازار وجود داشت (یا بهتر است بگویم هنوز هم وجود دارد). درست است که با معامله در ناحیه‌های S/D و برد در 38% موارد (تارگت 3R) چند پیپی سود می‌کنی، اما وقتی آن رشته‌باخت همیشگی 5 تا 9 معامله‌ای پیش می‌آید، هنوز آزاردهنده است.
+
+همیشه می‌دانستم جایی بهتر برای یاد گرفتن مکانیک بازارها وجود دارد،
+
+چیزی که توضیح می‌دهد و نشان می‌دهد همه‌چیز چطور کار می‌کند، در تمام تایم‌فریم‌ها، و جایی که چرندیاتی مثل «نویز» واژه‌ای فانتزی برای بی‌کفایتی است.
+
+من به محدودیت‌های خودساخته باور ندارم.
+
+ادراک تو، واقعیت تو می‌شود.
+
+اگر بتوانی تصورش کنی، می‌توانی به آن برسی.
+
+چند وقت یک‌بار می‌شنوی که پیش‌بینی بازار ممکن نیست؟
+
+دیگر بماند که همه‌اش می‌گویند «همه‌چیز تصادفی است».
+
+این گوشهٔ کوچک من خواهد بود که در آن افکار، درک‌ها، تردیدها، پیشرفت و البته معاملاتم را به اشتراک می‌گذارم.
+
+لطفاً همیشه راحت باش و هر پرسش، پیشنهاد و انتقادی را مطرح کن.
+
+یادگیری و آموزش فقط با بازخورد باکیفیت ممکن است.
+
+فعلاً
+
+Jurij
+
+### jurij_p1_2
+EN: Welcome Jurij
+
+It seems you're already ready to unlearn the lies and guesses that litter the internet, which is an excellent start!
+
+S/D gives an edge, sure, but I want you to be able to spot the zones which are specifically created to fail.
+
+It becomes easy with time
+FA: خوش آمدی Jurij
+
+به نظر می‌رسد همین حالا آماده‌ای دروغ‌ها و حدس‌هایی را که اینترنت پرشان کرده از سرت بیرون کنی؛ این شروع عالی‌ای است!
+
+S/D مطمئناً یک مزیت می‌دهد، اما می‌خواهم بتوانی ناحیه‌هایی را که مخصوص شکست خوردن ساخته شده‌اند تشخیص بدهی.
+
+با گذشت زمان آسان می‌شود.
+
+### jurij_p1_3
+EN: Thanks IF.
+
+Yes, which level is going to hold, the only trading question that matters.
+
+The journey for me to answer that question starts here and from the basics.
+
+So let's begin
+
+Disclaimer for this and all future posts: the following contents come
+ from my own understanding of the original teachings by IF and other
+members, so always be aware that I could be totally wrong and that each
+unit of knowledge is subject to my own interpretation, filtering and may
+ not reflect the original concepts as intended by IF
+
+Caps on price
+
+Every S/D trader knows them in and out, yet the best, strongest and perfect looking ones still fail.
+
+I can conclude from my own experience that the shape of the base and
+departure strength from a level have only limited influence on the
+overall outcome.
+
+What really matters, as RTM teaches, is the context.
+
+But before I get into that. There are some important clues that I
+consider to determine the quality of the base, I'm sure someone else
+here at RTM pointed them out.
+
+An interesting fact is that many traders think that consolidation (bases
+ in RBD/RBD/RBR/DBD) means low activity (volume) and that momentum bars
+happen due to high volume. Sure, sometimes this is right, but most of
+the time momentum bars (liquidity gaps) are thin market moves (low
+volume) because price has to move in one direction once the last
+unfilled order is filled and ready to move to the next liquidity zone
+(base), where enough opposing orders get filled to stop price for some
+time, until again the balance gets broken one way or the other.
+
+This is also the reason why price bounces from those bases, because of unfilled orders left over from the last battle.
+
+S/D traders say that those orders at the bases are left there for undefined time, even for years.
+
+But it was a real revelation to me what RTM teaches about targets (PAZ).
+
+Another common reason for RBD/DBR failures is also explained by RTM.
+
+Just by knowing this and the above, we should be able to filter out many losses.
+
+Now to what really matters, the context where caps happen.
+
+Target 1 was there because of the past history:
+
+I see that in the last part I'm already ahead with FTRs, engulfs and targets.
+
+I will try to get in those in my next series of posts.
+
+And it is also clear from the above, that one concept taken in isolation
+ (in this case price caps) is not enough to decipher price.
+FA: ممنون IF.
+
+بله، کدام سطح قرار است نگه دارد؛ تنها پرسش معاملاتی‌ای که اهمیت دارد.
+
+مسیر من برای پاسخ دادن به آن پرسش، از همین‌جا و از پایه‌ها شروع می‌شود.
+
+پس شروع کنیم
+
+سلب مسئولیت برای این پست و همهٔ پست‌های بعدی: مطالب زیر از درک خودم از آموزه‌های اصلی IF و دیگر اعضا می‌آید، پس همیشه در نظر داشته باشید که ممکن است کاملاً اشتباه باشم و هر واحد دانش در معرض تفسیر و فیلتر خودم است و ممکن است مفاهیم اصلی را آن‌طور که IF قصد داشته بازتاب ندهد.
+
+کپ‌های قیمت
+
+هر معامله‌گر S/D آن‌ها را از بر است، اما بهترین، قوی‌ترین و بی‌نقص‌ترینشان هم شکست می‌خورند.
+
+از تجربهٔ خودم می‌توانم نتیجه بگیرم که شکل بیس و قدرت خروج از یک سطح، تأثیر محدودی بر نتیجهٔ کلی دارند.
+
+آن‌چه واقعاً اهمیت دارد، همان‌طور که RTM می‌آموزد، کانتکست است.
+
+اما قبل از ورود به آن بحث، چند نشانهٔ مهم هست که برای تعیین کیفیت بیس در نظر می‌گیرم؛ مطمئنم کس دیگری در RTM هم به آن‌ها اشاره کرده است.
+
+یک نکتهٔ جالب این است که بسیاری از معامله‌گران فکر می‌کنند تثبیت (بیس‌ها در RBD/RBD/RBR/DBD) یعنی فعالیت (حجم) کم، و کندل‌های مومنتوم به‌خاطر حجم بالا شکل می‌گیرند. درست است، گاهی این‌طور است، اما بیشتر مواقع کندل‌های مومنتوم (شکاف‌های نقدینگی) حرکت‌های نازک بازار (حجم کم) هستند؛ چون قیمت باید در یک جهت حرکت کند، به‌محض این‌که آخرین سفارش پرنشده پر شد و آماده بود تا به ناحیهٔ نقدینگی (بیس) بعدی برود، جایی که سفارش‌های مخالف کافی پر می‌شوند تا قیمت را مدتی متوقف کنند، تا این‌که دوباره توازن به یک سمت شکسته شود.
+
+این هم دلیل آن است که قیمت از آن بیس‌ها بازگشت می‌کند؛ به‌خاطر سفارش‌های پرنشده‌ای که از نبرد آخر باقی مانده‌اند.
+
+معامله‌گران S/D می‌گویند آن سفارش‌های روی بیس‌ها برای زمانی نامعلوم، حتی سال‌ها، همان‌جا رها می‌شوند.
+
+اما چیزی که RTM دربارهٔ تارگت‌ها (PAZ) می‌آموزد، برای من یک مکاشفهٔ واقعی بود.
+
+دلیل رایج دیگر شکست RBD/DBR هم در RTM توضیح داده شده است.
+
+فقط با دانستن این و مطالب بالا باید بتوانیم بسیاری از ضررها را فیلتر کنیم.
+
+حالا برسیم به آن‌چه واقعاً مهم است: کانتکستی که کپ‌ها در آن رخ می‌دهند.
+
+تارگت 1 به دلیل تاریخچهٔ گذشته آن‌جا بود:
+
+می‌بینم در بخش آخر، با FTRها، اینگالف‌ها و تارگت‌ها جلوتر هستم.
+
+در مجموعهٔ پست‌های بعدی سعی می‌کنم به آن‌ها هم بپردازم.
+
+و از مطالب بالا این هم روشن است که یک مفهوم به‌تنهایی (در این مورد کپ‌های قیمت) برای رمزگشایی قیمت کافی نیست.
+
+### jurij_p1_4
+EN: The more I immerse in the concepts (FTR, FL, engulf, PAZ) the more doubts arise.
+
+There are moments where clearity emerges when I see them working
+together, then everything makes sense and I feel relieved, but then the
+next chart I open or after some hours, when I try to start again, all is
+ gone, again, only confusion is left.
+
+So I will continue to post my units of understanding to cement what I know.
+
+And hopefully in case something is wrong there's at least a chance that someone might point it out.
+
+FTR/FL
+
+The FTR is where everything begins. In my opinion, the most crucial part of the puzzle.
+
+The following charts explain how I see it
+
+The FTR/FL is a delimiter of two distinct zones.
+
+Price travels from one zone limit to the next one (intent of price).
+
+True FTR vs fake FTR
+
+another example
+FA: هرچه بیشتر در مفاهیم (FTR، FL، اینگالف، PAZ) غرق می‌شوم، تردیدها بیشتر می‌شوند.
+
+لحظه‌هایی هست که وقتی می‌بینم این مفاهیم با هم کار می‌کنند، شفافیت پدیدار می‌شود؛ آن‌وقت همه‌چیز معنا پیدا می‌کند و آرام می‌شوم. اما بعد، با نمودار بعدی که باز می‌کنم یا چند ساعت بعد که می‌خواهم دوباره شروع کنم، همه‌چیز رفته است و باز فقط سردرگمی می‌ماند.
+
+پس به انتشار واحدهای درکم ادامه می‌دهم تا آن‌چه می‌دانم را تثبیت کنم.
+
+و امیدوارم اگر جایی اشتباه بود، دست‌کم شانسی باشد که کسی به آن اشاره کند.
+
+FTR/FL
+
+FTR جایی است که همه‌چیز شروع می‌شود. به نظر من، حیاتی‌ترین قطعهٔ پازل.
+
+نمودارهای زیر نشان می‌دهد آن را چطور می‌بینم
+
+FTR/FL مرز دو ناحیهٔ متمایز است.
+
+قیمت از یک حد ناحیه تا حد بعدی سفر می‌کند (نیّت قیمت).
+
+FTR واقعی در برابر FTR جعلی
+
+یک نمونهٔ دیگر
+
+### jurij_p1_5
+EN: EURJPY 1H
+
+And we are at weekly demand
+
+If we had a true engulf (confirmation) then I would set up a limit buy order at the QM level.
+
+Instead I'll watch what price does on the 1min/5min TF once it gets there.
+FA: EURJPY 1H
+
+و ما روی تقاضای هفتگی هستیم
+
+اگر یک اینگالف واقعی (تأیید) داشتیم، آن‌وقت یک سفارش لیمیت خرید روی سطح QM می‌گذاشتم.
+
+به‌جایش، وقتی قیمت به آن‌جا رسید می‌بینم روی تایم‌فریم 1min/5min چه می‌کند.
+
+### jurij_p1_6
+EN: Thought this was a nice setup, but failed, must have overlooked something
+FA: فکر می‌کردم ستاپ خوبی است، اما شکست خورد؛ حتماً چیزی را از نظر انداخته‌ام.
+
+### jurij_p1_7
+EN: EURJPY 30m
+FA: EURJPY 30m
+
+### jurij_p1_8
+EN: Jurij wrote: Thought this was a nice setup, but failed, must have overlooked something
+
+Zoom out just a bit and the beauty of that trick will stare you in the face!
+
+Understanding it is to have taken the leap into a new phase of your understanding.
+
+It's not a big leap, but it's a bloody important one
+FA: Jurij نوشت: فکر می‌کردم ستاپ خوبی است، اما شکست خورد؛ حتماً چیزی را از نظر انداخته‌ام.
+
+کمی زوم را دور کن تا زیبایی آن ترفند به چشمتان بزند!
+
+فهمیدنش یعنی پرش به فاز تازه‌ای از درکتان.
+
+پرش بزرگی نیست، اما لعنتی مهم است.
+
+### jurij_p1_9
+EN: Okay! One giant clue:
+
+If something which should have been important got ignored, then it will be given great import on return
+FA: باشه! یک سرنخ غول‌آسا:
+
+اگر چیزی که باید مهم می‌بود نادیده گرفته شود، در بازگشت اهمیت زیادی به آن داده می‌شود.
+
+### jurij_p1_10
+EN: IF, thanks to your comment I took another look from a different angle
+
+I was too focused on the exact FTR point that broke the S/R level that I didn't see the context.
+
+You know, not seeing the forest for the trees...
+
+So this is the old and simple view why the USDCAD setup failed
+
+Now the more technical and precise FTR/FL approach
+
+There was no engulf.
+
+Thank you IF, I hope this is what you meant.
+FA: IF، به‌خاطر نظرت از زاویهٔ دیگری نگاه دوباره‌ای انداختم
+
+آن‌قدر روی همان نقطهٔ دقیق FTR که سطح S/R را شکسته بود متمرکز بودم که کانتکست را ندیدم.
+
+می‌دانی، همان حکایت ندیدن جنگل به‌خاطر درخت‌ها...
+
+این هم دیدگاه قدیمی و سادهٔ این‌که چرا ستاپ USDCAD شکست خورد
+
+حالا رویکرد فنی‌تر و دقیق‌تر FTR/FL
+
+هیچ اینگالفی نبود.
+
+ممنون IF، امیدوارم منظورت همین بوده باشد.
+
+### jurij_p1_11
+EN: Nope.
+
+But with time you'll see it happen all over the place, understand it, and be able to profit from it.
+FA: نه.
+
+اما با گذشت زمان می‌بینی همه‌جا رخ می‌دهد، آن را می‌فهمی و می‌توانی از آن سود بگیری.
+
+### jurij_p1_12
+EN: OK, I think this is what you wanted me to see
+
+Continuation Diamond:
+FA: باشه، فکر می‌کنم این همان چیزی است که می‌خواستی ببینم
+
+الماس ادامه‌دهنده:
+
+### jurij_p1_13
+EN: Watching this
+
+EURAUD 4H/30m
+
+Will be interesting to see if that FL will hold for a possible 5th touch.
+FA: این را زیر نظر دارم
+
+EURAUD 4H/30m
+
+جالب خواهد بود ببینیم آن FL برای یک لمس پنجم احتمالی نگه می‌دارد یا نه.
+
+### jurij_p1_14
+EN: IT mind games
+
+left side
+
+As IF said, they play with your emotions like greed and fear.
+
+My lesson from this, if a move looks too clean for a reversal (no tricks) then the move is unlikely finished.
+
+Just had a small aha moment and a very little insight on how the IT play the game.
+
+Will explore this further.
+FA: بازی‌های ذهنی IT
+
+سمت چپ
+
+همان‌طور که IF گفت، آن‌ها با احساسات شما مثل طمع و ترس بازی می‌کنند.
+
+درس من از این ماجرا: اگر حرکتی برای یک برگشت خیلی تمیز به نظر برسد (بدون ترفند)، احتمالاً آن حرکت تمام نشده است.
+
+همین حالا یک لحظهٔ آها کوچک و بینشی خیلی کوچک دربارهٔ این‌که IT چطور بازی را می‌چیند پیدا کردم.
+
+بیشتر روی این کار می‌کنم.
+
+### jurij_p1_15
+EN: Jurij wrote: Watching this
+
+EURAUD 4H/30m
+
+[...]
+
+Will be interesting to see if that FL will hold for a possible 5th touch.
+
+EURAUD 30m
+
+entered 2 position the first on 30m and the second one on 1m near price cap.
+
+AUDUSD 30m
+
+will post later some charts explaining my thinking for both setups
+FA: Jurij نوشت: این را زیر نظر دارم
+
+EURAUD 4H/30m
+
+[...]
+
+جالب خواهد بود ببینیم آن FL برای یک لمس پنجم احتمالی نگه می‌دارد یا نه.
+
+EURAUD 30m
+
+دو پوزیشن گرفتم؛ اولی روی 30m و دومی روی 1m نزدیک کپ قیمت.
+
+AUDUSD 30m
+
+بعداً چند نمودار می‌گذارم که استدلال پشت هر دو ستاپ را توضیح می‌دهد.
+
+### jurij_p1_16
+EN: Ifmyante wrote: Okay! One giant clue:
+
+If something which should have been important got ignored, then it will be given great import on return
+
+Hey IF, is this what you meant?
+
+First I thought it was an engulf too, but after your clue I came up with
+ this. One bigger scale lvl which was ignored fine tuned with a smaller
+scale lvl which was ignored too.
+FA: Ifmyante نوشت: باشه! یک سرنخ غول‌آسا:
+
+اگر چیزی که باید مهم می‌بود نادیده گرفته شود، در بازگشت اهمیت زیادی به آن داده می‌شود.
+
+سلام IF، منظورت این بود؟
+
+اول فکر کردم این هم یک اینگالف است، اما بعد از سرنخ تو به این رسیدم: یک سطح با مقیاس بزرگ‌تر که نادیده ماند، ریزتنظیم‌شده با سطحی کوچک‌تر که آن هم از قلم افتاد.
+
+### jurij_p1_17
+EN: Keyador, your chart is essentially the same I posted as first answer to IF's comments.
+
+So your are right, there was no engulf.
+
+To the clue question, I think it applies to the ignored supply inside the diamond (top).
+FA: Keyador، نمودارت اساساً همانی است که من به‌عنوان اولین پاسخ به کامنت‌های IF گذاشتم.
+
+پس حق با توست، هیچ اینگالفی نبود.
+
+دربارهٔ آن سرنخ، فکر می‌کنم به عرضهٔ نادیده‌گرفته‌شده داخل الماس (بالا) مربوط است.
+
+### jurij_p1_18
+EN: Jurij wrote: Keyador, your chart is essentially the same I posted as first answer to IF's comments.
+
+So your are right, there was no engulf.
+
+To the clue question, I think it applies to the ignored supply inside the diamond (top).
+
+Hey Jurij,
+
+Both of my boxes are a trick that is played (IF explains this in his
+last webinar), because there was a trick this level becomes important.
+So I think what IF meant with his clue is when a trick is played and
+ignored it becomes important on return.
+
+I hope you get what I mean
+FA: Jurij نوشت: Keyador، نمودارت اساساً همانی است که من به‌عنوان اولین پاسخ به کامنت‌های IF گذاشتم.
+
+پس حق با توست، هیچ اینگالفی نبود.
+
+دربارهٔ آن سرنخ، فکر می‌کنم به عرضهٔ نادیده‌گرفته‌شده داخل الماس (بالا) مربوط است.
+
+سلام Jurij،
+
+هر دو باکسی که کشیدم یک ترفند است که اجرا می‌شود (IF این را در وبینار آخرش توضیح می‌دهد)؛ چون یک ترفند اجرا شده، این سطح مهم می‌شود. پس فکر می‌کنم منظور IF از سرنخش این است که وقتی ترفندی اجرا و نادیده گرفته می‌شود، هنگام بازگشت اهمیت پیدا می‌کند.
+
+امیدوارم منظور من را گرفته باشی
+
+### jurij_p1_19
+EN: Jurij wrote: AUDUSD 30m
+
+will post later some charts explaining my thinking for both setups
+
+entry was a market order once I saw the diamond forming with the 4H
+demand level below still intact and price returning in the zone with a
+beautiful pin. confirmation was the engulf of the FTR/FL.
+
+stop below 4H demand.
+FA: Jurij نوشت: AUDUSD 30m
+
+بعداً چند نمودار می‌گذارم که استدلال پشت هر دو ستاپ را توضیح می‌دهد.
+
+وقتی دیدم الماس در حال شکل‌گیری است، سطح تقاضای 4H زیر آن همچنان دست‌نخورده است و قیمت با یک پین زیبا به ناحیه برمی‌گردد، با سفارش مارکت وارد شدم. تأیید هم اینگالف FTR/FL بود.
+
+استاپ‌لاس زیر تقاضای 4H.
+
+### jurij_p1_20
+EN: Jurij wrote: Watching this
+
+EURAUD 4H/30m
+
+Will be interesting to see if that FL will hold for a possible 5th touch.
+
+1st entry was limit sell at the QM level.
+
+after the QM failed, I saw the possible diamond and 2nd entry was at a 1min FTR near the price cap (extreme).
+
+What gave me confidence in seeing the cap hold was the high number of faked out highs and the failed QM + diamond,
+
+you can almost feel the pain of the shorts, so there was a good chance that the ITs played enough tricks.
+
+TP of the 1min setup hit, 4.2R (of course only micro lots, the better demo )
+FA: Jurij نوشت: این را زیر نظر دارم
+
+EURAUD 4H/30m
+
+جالب خواهد بود ببینیم آن FL برای یک لمس پنجم احتمالی نگه می‌دارد یا نه.
+
+ورود اول یک سفارش لیمیت فروش روی سطح QM بود.
+
+بعد از شکست QM، الماس احتمالی را دیدم و ورود دوم روی یک FTR یک‌دقیقه‌ای نزدیک کپ قیمت (اکسترمم) بود.
+
+چیزی که به من اطمینان داد کپ نگه می‌دارد، تعداد زیاد سقف‌های فیک‌شده و QM شکست‌خورده + الماس بود،
+
+تقریباً درد پوزیشن‌های فروش را حس می‌کنی، پس احتمال خوبی بود که IT ترفندهای کافی را بازی کرده باشد.
+
+تارگت ستاپ یک‌دقیقه‌ای خورد، 4.2R (البته فقط میکرو لات، دموی بهتر)
+
+### jurij_p1_21
+EN: EURJPY 1min study
+
+(please see bottom for high resolution images)
+
+FL boxes
+
+Still not sure on the reason for using FL boxes instead of marking only the FL base.
+
+Something still missing
+
+FL S/D bases
+
+Only important FL (engulfs)
+
+How retail traders see and act
+
+ITs
+
+Incorporating psychology of traders has given me a singificant boost in understanding a little bit more.
+
+As IF wrote somewhere, that if he had to describe his trading style in one word: stops
+
+EDIT: something with the image resolution is wrong, some engulfs are not visible and some lows cut off, here
+	is a link
+ for high res images
+FA: بررسی EURJPY 1min
+
+(برای تصاویر با کیفیت بالا، پایین را ببینید)
+
+باکس‌های FL
+
+هنوز دلیل استفاده از باکس‌های FL به‌جای علامت‌گذاری فقط بیس FL را نمی‌دانم.
+
+چیزی هنوز جا افتاده است
+
+بیس‌های S/D در FL
+
+فقط FLهای مهم (اینگالف‌ها)
+
+نگاه و رفتار معامله‌گران خرد
+
+ITها
+
+گنجاندن روان‌شناسی معامله‌گران کمک بزرگی کرد تا کمی بیشتر بفهمم.
+
+همان‌طور که IF جایی نوشته، اگر می‌خواست سبک معاملاتی‌اش را با یک کلمه توصیف کند: استاپ‌ها
+
+ویرایش: یک چیزی با رزولوشن تصویر مشکل دارد؛ بعضی اینگالف‌ها دیده نمی‌شوند و بعضی کف‌ها بریده شده‌اند. این‌جا یک لینک برای تصاویر با کیفیت بالاست
+
+### jurij_p1_22
+EN: EURUSD 5min
+
+personally i'm interested in scenario #2, let's see how this plays out
+FA: EURUSD 5min
+
+شخصاً به سناریو #2 علاقه دارم، ببینیم چه پیش می‌آید
+
+### jurij_p1_23
+EN: Jurij wrote: EURUSD 5min
+
+personally i'm interested in scenario #2, let's see how this plays out
+
+I'm in, right from the pins. But to be honest I'm not so sure if this
+was a quality setup because that 30m flag was a bit in the middle of
+nowhere.
+FA: Jurij نوشت: EURUSD 5min
+
+شخصاً به سناریو #2 علاقه دارم، ببینیم چه پیش می‌آید
+
+من از همان پین‌ها وارد شدم. اما راستش مطمئن نیستم ستاپ باکیفیتی بود، چون آن فلگ 30m کمی وسط هیچ‌کجا بود.
+
+### jurij_p1_24
+EN: Hey Jurij,
+
+In my opinion it is an acceptable setup, it is not the best setup but
+still good enough to trade. It is kinda in the middle so I would take
+some profit early on.
+
+Here is an example of a setup I traded friday which was in my opinion one of the best setup there is:
+
+At an extreme:
+
+And this happens at the extreme:
+
+A setup like this is as close as you can get to a sure thing.
+
+Note: I closed my position because I dont like to hold trades over the weekend
+FA: سلام Jurij،
+
+به نظر من ستاپ قابل‌قبولی است؛ بهترین ستاپ نیست، اما هنوز به‌اندازهٔ کافی برای معامله خوب است. چون تقریباً وسط است، کمی سود را زودتر می‌گرفتم.
+
+این نمونه‌ای از ستاپی است که جمعه معامله کردم و به نظر من یکی از بهترین ستاپ‌های ممکن بود:
+
+روی یک اکسترمم:
+
+و این روی اکسترمم رخ می‌دهد:
+
+ستاپی مثل این، نزدیک‌ترین چیز به یک معاملهٔ قطعی است.
+
+یادداشت: پوزیشنم را بستم چون دوست ندارم معامله را آخر هفته نگه دارم
+
+### jurij_p1_25
+EN: Valid points. Also agree that those you showed are better setups.
+
+What made me took it was the manipulation of retailers and the engulf signal.
+
+The m30 flag limit is not good but I think it can do it's job.
+
+My plan when I set up the limit buy order was to take profit at the engulf high, so that would be about 6,4R if it works out.
+
+I tend to not change the plan once I'm in the trade, because if you do
+it once, then you get fooled by your mind and emotions in the next ones.
+
+Worst that can happen now is a B.E. exit
+
+Thanks for your input.
+FA: نکات درستی بود. قبول دارم که آن‌هایی که نشان دادی ستاپ‌های بهتری هستند.
+
+چیزی که مرا به گرفتنش ترغیب کرد، دستکاری معامله‌گران خرد و سیگنال اینگالف بود.
+
+فلگ‌لیمیت m30 خوب نیست، اما فکر می‌کنم می‌تواند کارش را بکند.
+
+پلانم وقتی سفارش لیمیت خرید را گذاشتم این بود که روی سقف اینگالف سود بگیرم، که اگر درست پیش برود حدود 6,4R می‌شود.
+
+معمولاً وقتی داخل معامله هستم پلان را عوض نمی‌کنم، چون اگر یک‌بار این کار را بکنی، در معامله‌های بعدی ذهن و احساساتت گولت می‌زنند.
+
+بدترین چیزی که حالا می‌تواند رخ دهد، خروج سر به سر است
+
+ممنون از نظرت.

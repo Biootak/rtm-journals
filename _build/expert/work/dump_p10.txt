@@ -1,0 +1,177 @@
+##### hs_p10_226 hoeschec paras:7
+Art & Robbie, thanks for your pointers! I definitely have a lot to study.
+
+What is challenging me the most lately, is the complexity of trying to look left for all the possible engulfs, fake outs, CP zones, PAZ, etc.. This is especially true when it comes to the different time frames. There is always going to be an engulf or fakeout or a critical zone to the left that will contradict a trade opportunity (at least this is my humble opinion). Sometimes it seems this market reading is very subjective... traders see what they want to see.
+
+But then again, maybe this is just a sign of my inexperience...I really don't know.
+
+I know its best to trade in the direction of the HTF trend, but if I'm looking for a dozen pips at a particular zone, after an engulf, with a QM setup, on a 1 min chart, does it really matter what the 4-HR or Daily chart says? I'm not convinced that it does. I think going to a time frame that is too far from the time frame you are executing trades over complicates everything. There are dozens of FTRs, engulfs, F/O, PAZ, DBR, RBD, Base/pole/flags, etc... all within each fractal time frame. It's like those Russian nesting dolls!
+
+My best 'autopsy' explanation for why AUD/USD didn't work out today, and why the E/J trade did work last week: with E/J, there were important S/R levels at play in the lower time frames. Specifically, I saw two important S/R zones. The DBD I traded was the source/origin of a break of an important S/R level. Price broke the level and created a new low (a substantial new low). That follow through must indicate the source is strong and may be an area price will bounce on its FTB. When price returned to this source FL, price reacted on the 1-min chart by engulfing and forming a QM. There is also a S/R level located just above the top limit of the FL that formed the DBD which adds another barrier for price to hesitate. The QM was well formed and the engulf was strong. The target was clear, and I took the trade at a good time during London & NY session where liquidity was strong. The AUD/USD trade didn't have as strong of a setup and the engulf that occurred may have already hit its target.
+
+That is my best explanation for what happened. I could definitely be wrong, but I am trying to keep it simple and logical.
+
+Here is my chart of the E/J
+---END---
+##### hs_p10_227 hoeschec paras:1
+Waiting to see if NZD-USD can break S/R and flip to support.
+---END---
+##### hs_p10_228 hoeschec paras:4
+I've been reading through Doc's old Journal and have been finding some real gold nuggets. Here is an old NZD-USD trade in September of 2012 he discussed. I've gone back to mark up the charts gain for practice.
+
+NZD-USD reacting to a demand level on the 4-HR chart: 4 Hour candle closes strong, showing support for this level.
+
+Drop down to a 30-min chart to see more details. A strong S/R flip zone is forming. Price is testing this resistance level. Trader is awaiting a break of this S/R and will buy on a re-test of the breakout decision point.
+
+Price breaks through S/R, and closes above the old DP to the Left. Target as shown. So simple, so inspiring!
+---END---
+##### hs_p10_229 hoeschec paras:1
+USD-CAD just closed out near S/R.
+---END---
+##### hs_p10_230 Art paras:11
+Hi H,
+
+Well yes, there are multiple engulfs, DPs, etc using multiple timeframes. That's where screen time comes in
+
+Another thing, don't try to collect huge puzzle in 1 attempt. I.e. if you are studying engulfs then start with swing low and swing high engulfs. Forget the PAZ, CP, FL etc. Focus on 1 thing and learn it. There are definitely setups only with key ingredient -engulf of swing extreme (it applied to any RTM concept).
+
+EJ trade was taken not too low. it was taken higher in HTF. Then your setups was very strong. Your targets were scalp level. So it worked out very fine since you traded within market conditions and within what price was doing. AUDUSD was a forced trade IMO.
+
+Nonetheless, every trader needs to finds his/her own style. If you like scalps... good for you. Just take them in good locations.
+
+Regarding HTF... HTF concept is relative IMO. I.e. If you are taking a trade on M30/H1 then HTF could be H4 and Daily. If you take a scalp on M1... not sure the Daily is so relevant. At least not at this stage. IF looks at everything from what I see therefore he gets great entries... but it's better to learn this stuff than trying to do what he does
+
+On the last note, give yourself a break. Literally, don't look at charts. I can give you some studies but in short it boils down to this:
+
+- Overload Brain (lots of new info, you are doing HM, market analysis etc) - Short Release (break from trading, so everything could fall into the right places in your mind. If you won't it does not matter matter how much you work - you will not be able to use the learned stuff in efficient way) - Amazing High. (That's when everything makes sense. All the concepts you studies just makes sense and you seem them everywhere.) - Recovery (the is crucial. Post-High you might feel depressed, like nothing makes sense, etc. That's natural way the brain deals with highs. You need a longer break so your brain regroups, chemistry is adjusted etc. In these stages usually I can't even look at charts... felt bad about it for years. But since finding this stuff out my learning curve improved).
+
+Then you will feel ready again and start new cycle. That is the formula for great performance, mental or physical;-)
+
+Best, Art
+
+P.S. sorry for the spelling. Am rushing a bit.
+---END---
+##### hs_p10_231 hoeschec paras:1
+Really appreciate the advice Art! It reminds me to focus on what I do know and become sufficient before attempting the more advanced concepts. I understand a lot of the concepts separately, but its putting everything together that still gets me confused. You are totally right about screen time and taking breaks!
+---END---
+##### hs_p10_232 hoeschec paras:1
+E/U quick trade this morning on price forming QM while entering supply.
+---END---
+##### hs_p10_233 hoeschec paras:1
+E/J short at supply zone, near S/R flip/ I had an entry order a little higher at the source of the engulf, but I've noticed lately price isn't hitting its usual targets and instead seem to be reacting off of S/R levels.
+---END---
+##### hs_p10_234 hoeschec paras:1
+Is this an example of an engulf that hit its target immediately, without a retrace?
+---END---
+##### hs_p10_235 Kovalenko paras:1
+Hi, it is not Engulf.
+---END---
+##### hs_p10_236 hoeschec paras:4
+Kovalenko wrote: Hi, it is not Engulf.
+
+Yes, thanks for pointing me in the right direction. The area I thought was an engulf was just a reaction of the flag below. Breaking that low didn't signify anything important.
+
+I am still having a hard time drawing flags properly. The FTR's are my favorite to draw because they are easy to see: dins a S/R level, wait for price to break the S/R, retrace, and continue on in the direction of the break.
+
+With flags, I don't know where to start looking for them. I need to find an original flag and then use that as a starting point to determine which flags are important.
+---END---
+##### hs_p10_237 hoeschec paras:1
+Just closed my USD-CAD trade from yesterday.
+---END---
+##### hs_p10_238 hoeschec paras:2
+Deciding whether to short U/J. I'd be more comfortable getting in if price retraced further up towards the origin of EG. AT this point, the stop would be pretty high. That said, price just recently react off of an S/R level so it might be a good spot to get in.
+
+30-Min chart actually does show a Origin at S/R. Maybe this is the DP where price will react.
+---END---
+##### hs_p10_239 Art paras:4
+Hi H,
+
+Just checking in
+
+Had same thing marked. Price did not touch my QM and then had to be away from computer so did not take the trade. But here's my chart. SL could have been just above last HH or higher DP (blue lines).
+
+Cheers
+---END---
+##### hs_p10_240 hoeschec paras:2
+Thanks Art
+
+It's nice to know I am at least finding the right locations on the chart to take trades!
+---END---
+##### hs_p10_241 hoeschec paras:1
+It looks like possible orders are getting taken out to clear the way for a push up towards the HTF QM level. I might bail on this short and set an order a little higher up. The HTF QM looks really strong to me....
+---END---
+##### hs_p10_242 hoeschec paras:2
+I have closed my original short position.
+
+Below is a 4HR chart with three pending limit orders.
+---END---
+##### hs_p10_243 hoeschec paras:4
+Anyone else see this setup on EUR/USD Weekly? I'm a little late to the party but looks like price is going to drop to at least the S/R after the EG.
+
+Eurozone GDP & CPI Figures being released Friday... If news comes out bearish for EU maybe that will act as a catalyst for a major drop of the pair. I suppose strong USD news could also drop the pair over the next 12 hours.
+
+Weekly:
+
+Hourly
+---END---
+##### hs_p10_244 hoeschec paras:4
+Sometimes I wonder if there are wealthy, successful, independent traders who simply trade the first return to an FTR that formed after a break of a significant S/R flip level. No engulfs, no PAZ, no complicated price patterns..just a simple emotionless trade with a tight stop that gets repeated over and over.
+
+They could open two positions on the FTB to the FTR. Close out the first position when price reaches the next S/R or opposing FTR. Move the second position to break even and let the remaining lots run. The stop could be placed above the upper/lower limit of the FTR or just above the S/R. They could choose the setups where the FTR is relatively close to the broken S/R level, and they could wait for price to retrace far enough in to the FTR that their stop could be very small.
+
+Sure, there would be failed trades, but with the right MM and consistent approach, the winnings would far outweigh the losses. In some cases, I'll bet the second position would run for days,, weeks, or months depending on the significance of the S/R level.
+
+Could there be profitable traders who keep their strategy this simple... trading 100+ lots at a time during highly liquid sessions? It is pretty exciting to think about!
+---END---
+##### hs_p10_245 hoeschec paras:1
+Example:
+---END---
+##### hs_p10_246 hoeschec paras:2
+Practicing Simplicity
+
+E/J H4
+---END---
+##### hs_p10_247 hoeschec paras:2
+Top Down Analysis of E/A:
+
+Monthly:
+---END---
+##### hs_p10_248 hoeschec paras:2
+Watching USD-CAD for a push up into the Daily FTR, near an important S/R Flip.
+
+Here is the top down:
+---END---
+##### hs_p10_249 Art paras:2
+Hi H,
+
+Was reading your EURAUD analysis with great interest. I have few things regarding daily chart. Wicks don't mean weak buyers. Try to avoid looking into candles and wick themselves... because sometimes wick means rejection and sometimes consumption. on this chart it looks like consumption to me. chart:
+---END---
+##### hs_p10_250 hoeschec paras:14
+Hi Art!
+
+Thanks for the info. That very well may be an engulf that I missed. I have been ignoring the individual candles for the past few months as well, after reading similar advice from other RTM journals that the candles aren't as important as understanding the zones (flags, FTR's, PAZ etc...) and the engulfs or F/O that occur at these levels.
+
+So far, the engulf/PAZ concepts are not working out for me so I have wandered a bit off course to the Doc's Journal
+
+Here's my reasoning:
+
+I know it may not be popular to admit this here, but I am beginning to question the engulf being defined as a 'secret signal' that the institutional funds use to hint at future price directional. Of course, I say this as a humble trader who is really in the beginning stages of understanding how to trade, so I am totally open to the possibility that I am dead wrong. I mean absolutely no disrespect to anyone here, as every time I get someone to post on my Journal, I am both excited and honored.
+
+There is something very refreshing about the Doc's Journal that keeps me intrigued. He states that there are no secret signals and nobody knows where price is going to move. His strategy is simply based on S/R flip zones and watching price to find areas where professional money is at work..actively accumulating positions.
+
+What you see on my Journal lately is a feeble attempt at applying his lessons.
+
+Doc's philosophy is relatively straightforward and he takes the time to post step by step charts (Weekly through LTF) showing how he reads the charts and why he takes trades when he does. There are no secrets to his philosophy or ambiguity (like sometimes I find in the mainstream RTM PAZ concepts) and it is this complete (and repeated) process really helps me train my eye to see the important areas.
+
+In come cases, I have been pleasantly surprised to notice some overlapping in how the Doc and IF view the market. What IF sees as an engulf, is described by Doc as being analogous to a ice fisherman 'testing' the ice to make sure it is thick enough to support his weight. It is 'testing' that often results in the long wicked candles, and is done to test how the market will respond. A similar type of testing is the fakeout, and it manifests in a similar way...for example (at least this is how I am understanding it) Professional money wants to move the market up, but wants to see how many bears/bulls are left in the market before doing so. I like Doc's philosophy because it offers a logical reason instead of a belief that there is a secret engulf signal for no other purposes than communicating with the institutions. I can't see a logical reason for the RTM's definition of an engulf other than it is a signal. I need to understand the logical reasons why something happens if I am going to understand how and why to trade it.
+
+The more I study, the more I think there are so many players in the market it's impossible to think there are secret signals being given. Too many different banks, governments, funds, private high net worth clients, etc... to know for sure. There are big players clashing on the open market...there has to be, right? After all, the retailers don't posses enough capital to make it worth the institutional banker's while to trick. Retailers make up a minuscule part of the market. I think even the big dogs win and lose sometimes.
+
+I agree that candlestick patterns are worthless (and the Doc touches on this many times in his Journal).It isn't so much the candle patterns (doji, evening star, etc...) as what the HTF candles are telling you about the order flow of pro money at these critical S/R levels. I am trying to think like a pro money trader "where can I enter the market at the least risk for the highest return, and who am I buying/selling to?" & "When I exit the trade, who am I going to be buying/selling to?".
+
+I must conclude this posting with a disclaimer that I am only a few dozen pages in to Doc's huge journal and I may very well be making a fool of myself by mis-interpreting Doc's strategy. I am such a beginner that I feel inadequate posting on here, because there are so many traders here on RTM (You, IF, RDK, Alex, Milkeyway,PTP etc...) that seem to understand these concepts and log amazing trades with consistency. Nobody can deny IF's abilities are super human and his zero draw down trades are honestly one of the most incredible things I have ever seen. The freedom one could achieve with his ability is endless
+
+For me....I am still drowning a bit, and trying to find a life jacket to keep me afloat!
+
+Thank you for your continued guidance and help Art!
+---END---

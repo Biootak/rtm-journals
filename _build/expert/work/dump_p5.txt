@@ -1,0 +1,163 @@
+##### hs_p5_101 hoeschec paras:2
+Here is AUD/NZD:
+
+I am finding good engulfs for practice.
+---END---
+##### hs_p5_102 hoeschec paras:1
+Another great EUR-USD trade opportunity
+---END---
+##### hs_p5_103 hoeschec paras:4
+OK, here is a question I've come across many times before:
+
+Which of the following rectangles (red, green,. or blue) represents the origin of the up move that breaks the S/R level?
+
+Anyone know?
+
+I would guess the origin is the blue rectangle, but I think a good argument could be made that it is the red rectangle...
+---END---
+##### hs_p5_104 hoeschec paras:3
+Here is a setup that looked good, but there was a F/O that I would not have expected if I was live trading. I can't figure out why price blew through the origin. Since the files are large, I have included the full chart zoomed out along with three separate charts that show the close up view of price action.
+
+The trade setup ended up working well- price dropped off as expected and hit its target. What was unexpected, was price faking out above the origin of the important engulf. Is there a way I could have predicted this occurrence?
+
+Could the reason for the F/O be to catch the extreme orders on the RBD to the left of the RBD that the origin of the engulf is reacting to? See chart below... this is my only possible explanation for why this happened. If I am correct in my thinking, is this something we always need to be aware of when trading an engulf like this? Should we always be looking for the extreme set of orders in the FTR/Supply.Demand level to the left of the RBD or DBR for a possible fakeout?
+---END---
+##### hs_p5_105 hoeschec paras:5
+After thinking more about this fakeout, I remember my writings back on Post #3 when I said:
+
+"IF’s trades often occur at levels where he experiences very little (if any) drawdown. After breaking down some of those amazing trades I notice many times he is able to predict in advance and place a PO at the exact area where price turns.
+
+I could be wrong, but it seems like he knows where the fakeouts will occur by looking left of the engulf to see what the RBD/ DBR (supply/demand) is reacting to (usually an important FTR) and determining whether there are any extreme orders left to fill in that FTR. If so, price will likely FO to a specific decision point within this FTR. That is why he often drop down to a 5 minute or 1 minute chart to plot his entry….he is looking for the most accurate decision point."
+
+Is there a connection to that statement and my last trading example on Post #104?
+
+Hmmm....
+---END---
+##### hs_p5_106 thetrendsfriend paras:1
+Hey, those are stacked zones. The first one ist the origin of the engulf and the second one is the higher RBD to the left. I've already experienced myself. Many times price will fake out to the zone that is directly above or below the zone you want to trade.. Watch it! You will see this often! For me there are three possible actions: 1) Leave it be 2) If you really want to get in: Entry at first and Sl behind second zone. Problem: R:R gets worse 3) Anticipate the Fakout, entry and Sl at second zone. If price hits your PO, great! If not, nevermind. I like to use the last one, R:R is better and if I can't get in, then I look for another setup. We don't have to chase them In the last post in my journal I had the same problem ( only with stacked supply). I will enter lower then the origin so I don't get faked out... Regards!
+---END---
+##### hs_p5_107 harshrthakkar paras:1
+Hi hoeschec, Just me view referring to #105 of yours with regard area marked "extreme orders" this is the area of true supply some thing like shown in the diagram under -
+---END---
+##### hs_p5_108 harshrthakkar paras:1
+Hi hoeschec, Just me view referring to #105 of yours with regard area marked "extreme orders" this is the area of true supply some thing like shown in the diagram under -
+---END---
+##### hs_p5_109 hoeschec paras:6
+Thanks Harsh and TTF - The true supply makes sense, and I think it is the same idea as price moving to collect remaining orders.
+
+Here is my dilemma: the area where price faked out on Post # 104 is also a failed QM. So would we identify this as a diamond formation as well? If so, there following would all be true about this example, right?
+
+1. It was a F/O to true supply/extreme orders 2. Diamond Formation 3. Stacked orders zone
+
+If all three of these are true, how can we possible trade without leaving a stop loss way too high above the entry order? That decimates the R:R. TTF had a good idea of placing a P/O in the extreme of the stacked order zone and wait for price to F/O. That's a good idea, but it seems like a lot of phenomenal trades could be missed. Is there any other way we might be able to predict this diamond formation?
+
+And last question: what defines a stacked order? Is there a rule of thumb for identifying stacked orders (such as how far the orders are from each other, how many are in a specified area etc...?) Because if you look hard enough there are always going to be supply/demand zones above/below your entries. is the determination of whether they are 'stacked' simply depended on how close they are to your entry?
+
+Thanks for your inputs everyone!
+---END---
+##### hs_p5_110 thetrendsfriend paras:4
+About your first question: Of course you would miss the trade, but if it triggers your stop is safer and the R:R is better. Believe me, especially when you play the M5 or M15 and you watch 10 Pairs, there are so many setups, you won't know which to take...
+
+About second question: First of all, thanks! You made me think about it!
+
+For me, they are stacked zones when they are so close, that (in this case) I can't say if the second RBD already removed some supply of the first and higher RBD.
+
+Hope this helps:)
+---END---
+##### hs_p5_111 hoeschec paras:2
+Thanks TTF
+
+I have lost a lot of $ through the years because of those stacked zones! You make a good point about just waiting for the right setup with the right R:R.There is no shortage of trade opportunities.
+---END---
+##### hs_p5_112 hoeschec paras:5
+Here is a chart I just marked up USD-CAD. This was a failed setup.
+
+Lately I have had a lot of help from RTM traders and my understanding has taken a major step forward. It never occurred to me that the best engulf is an engulf of an FTR that previously engulfed an important zone.
+
+My next question: suppose there is a perfect setup occurring (like the USD/CAD example below...I drew a red arrow pointing to the area where I saw an engulf of an important FTR). If I was trading this chart live, I would be preparing to take a short once price moved back to the origin of the engulf. Only in this example, price blows right through the origin of the engulf and goes on to make major new highs. In this case, I would assume what was labeled as an 'engulf' of the 'important FTR' was really a F/O.
+
+Would you agree this was the reason for the failed USD/CAD setup?
+
+Here is a close-up
+---END---
+##### hs_p5_113 hoeschec paras:2
+A quick observation about stacked zones: I think the difference between stacked zones and compression is stacked zones have valid orders untouched by price on FTB. Compression is basically stacked zones which have already been taken out (consumed) by price revisiting the levels.
+
+At least I think that's correct...
+---END---
+##### hs_p5_114 harshrthakkar paras:1
+hi hoeschec - my understnding of stacked zone is simple...its nothing but 1 ftr/rbd/dbr above the other....as far as the po is concerned largely the ITs will prefer taking the extreme end of the PAZ meaning the extrme ends ftr thus creating FO.This helps them in getting tgeh best prices available.....hence its generally said "dont diddle in the middle"
+---END---
+##### hs_p5_115 hoeschec paras:1
+Thanks harsh!
+---END---
+##### hs_p5_116 hoeschec paras:2
+This is a chart I found on IF's journal right before the Swiss disaster earlier this year (post # 1057). I think it was the product of a conversation between Pedini and CharlesPips. It is a nice illustration of my recent understandings of the engulf.
+
+Many of my failed trades this year may have been a result of not understanding the core concept behind this drawing.
+---END---
+##### hs_p5_117 hoeschec paras:9
+The following are drawings I made to illustrate some additional questions I have:
+
+Example 1:
+
+In this example, a Flag limit has broke an S/R level but there isn't a retrace after the break to form a FTR. Is this Flag still relevant and important? I would say yes, because the decision point within the flag is the origin of price breaking the S/R level. Would a future engulf of this Flag be as important as an engulf of an FTR?
+
+Example 2:
+
+Like in example 1, the decision point within the flag exists and it represents the origin of price breaking the S/R. Then, a FTR forms and eventually price visits the FTR on its FTB. Since the FTR retraced back into the flag limit however, is the FTR also the FTB to the original Flag Limit? In this example, does the DP within the flag limit hold more significance with regard to a future engulf, or does the FTR hold more significance with regard to a future engulf?
+
+Example 3:
+
+I see this occur quite often. A flag breaks through a S/R level and price technically forms an FTR, but price doesn't take off for long. It quickly retraces back to the original flag after posting a brief new high/new low (which is required for an FTR to be valid). In this case, would the weak FTR formed hold more significance with regard to a future engulf, or does the original flag (which hold the original decision point to break the S/R level) be more significant with regard to a future engulf?
+
+Here is an engulf setup, which is valid:
+
+Is the following diagram also valid? In this example, there is only a Flag limit (no FTR formed after the break of the S/R level). There is only a small hiccup DBD that occurs after the break. Is the engulf scenario still valid and can it be traded in the same way?
+---END---
+##### hs_p5_118 hoeschec paras:1
+Nice example GBP-USD
+---END---
+##### hs_p5_119 hoeschec paras:2
+Nice HTF E/J setup
+
+~ 1:5 R:R
+---END---
+##### hs_p5_120 hoeschec paras:3
+Currently watching E/J for a possible engulf and QM setup. I am watching for price to engulf the blue rectangle representing the important engulf. This location is also near a flip level and would satisfy the 'engulf' portion of the QM Setup. Clearly defined target. This one looks really interesting....
+
+What do you think?
+
+Key levels are shown:
+---END---
+##### hs_p5_121 harshrthakkar paras:1
+Hi hoeschec, In my opinion all your diagrms are rightly depicted in # 117 except the 1st.FTR becomes valid only after it breaks an important SR.Not before that.
+---END---
+##### hs_p5_122 hoeschec paras:3
+Not a big fan of Monday trading, but I took this quick scalp when price returned to a FTR formed after a S/R break. Took profit at the opposing minor S/R level.
+
+USD/JPY - 30 Min
+
+USD/JPY - 5 Min
+---END---
+##### hs_p5_123 hoeschec paras:1
+Trying to figure out why this failed...sure looks like an engulf, but obviously it was a fakeout.
+---END---
+##### hs_p5_124 Ptpatrader paras:2
+H dont get caught out by these setups. You have to take into consideration the context. Engulf or no, price dropped into a really nice SR level. If price moves *between* levels, then price just dropped from supply and hit the floor of the current level. You need to be watching price to flag and give signs of weakness at SR for a sign that it wants to come down into the lower zone. Instead you get a beautiful long setup...the short trade was complete at this level, and if you wanted to see if it broke down some more, you needed to be ready to close. Look at the HTF, you should see if you zoom out why taking the long was worth the trade.
+
+Just my 2 cents.
+---END---
+##### hs_p5_125 hoeschec paras:6
+Hi PTP,
+
+What do you think of this diagram? (I found it over on IF's journal, and I think CharliePips created it)
+
+It appears (from RTM philosophy) that when an FTR the breaks a significant S/R level occurs and is itself engulfed, a new FTR is formed which is highly important. When price reacts to this highly important FTR it often originates a trade able engulf (not always though, and sometimes it is a fakeout).
+
+They say that all of this needs to occur at a major S/R flip level.
+
+I have found some really nice examples of this working, and to some degree i seems to coincide with your previous advice of focusing first on S/R levels to look for reactions. Have you found that this is a good price action setup, or have you found it doesn't work well?
+
+Many thanks!
+---END---

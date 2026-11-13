@@ -1,0 +1,502 @@
+### dbrrbd_p1_1 hash=338e20a36d154c59ba3070495a02d53c8163beaf
+EN>>
+This is the basis of most of my and every other S/D trader's trades, therefore I've seen it as too elementary to teach. But really it's the most important thing I ever found in trading, so it would be remiss of me to omit it.
+
+Homework:
+
+If you haven't done this before, I want you to find not 20 setups this time, but 200 of them, in every tf and on every pair. It's not that difficult - there are a multitude of them on every chart.
+
+I want you to even find examples in the middle of ranges - totally unimportant levels, and see what happened when price returned - believe me, knowing where they are can turn a losing trade into a winner
+
+Enjoy
+FA>>
+این پایهٔ بیشتر معامله‌های من و هر معامله‌گر عرضه/تقاضای دیگری است، برای همین آن را برای آموزش بیش از حد ابتدایی می‌دیدم. اما واقعاً مهم‌ترین چیزی است که در معامله‌گری پیدا کرده‌ام، پس اگر آن را نگویم کوتاهی کرده‌ام.
+
+تمرین:
+
+اگر قبلاً این کار را نکرده‌اید، این بار از شما نمی‌خواهم 20 ستاپ پیدا کنید؛ 200 ستاپ می‌خواهم، در هر تایم‌فریم و روی هر جفت‌ارز. آن‌قدر سخت نیست — روی هر چارتی انبوهی از آن‌ها هست.
+
+حتی می‌خواهم نمونه‌هایی در میانهٔ رنج‌ها پیدا کنید — سطوح کاملاً بی‌اهمیت — و ببینید وقتی قیمت برگشت چه شد؛ باور کنید دانستن جای آن‌ها می‌تواند یک معاملهٔ بازنده را به برنده تبدیل کند
+
+خوش بگذرد
+
+### dbrrbd_p1_2 hash=85fd841acd9e1d33dad187d00c1feca9fc94d443
+EN>>
+Hi everybody, im a newbie on s&d path. im here because i want to learn from others, so feel free to make some annotations about my charts. B)
+FA>>
+سلام به همه، من در مسیر عرضه و تقاضا تازه‌کارم. اینجا هستم چون می‌خواهم از بقیه یاد بگیرم، پس راحت روی چارت‌هایم یادداشت بگذارید. B)
+
+### dbrrbd_p1_3 hash=6844f150bdf4bd9824b9bbe2ca7b0d72ac756f9d
+EN>>
+PART 2
+FA>>
+بخش 2
+
+### dbrrbd_p1_4 hash=f39a4bc3cc0335f124a553921044a1612df6871f
+EN>>
+Hi MM
+
+I'm really happy to see your enthusiasm
+
+What I want in the homework though is for you to find RBDs and DBRs and show what happened when price returned to them
+
+Here's a tiny example
+
+Best
+
+If
+FA>>
+سلام MM
+
+از دیدن شوقت واقعاً خوشحالم
+
+اما چیزی که در تمرین می‌خواهم این است که RBD و DBR پیدا کنی و نشان دهی وقتی قیمت به آن‌ها برگشت چه شد
+
+این یک نمونهٔ کوچک است
+
+بهترین‌ها
+
+If
+
+### dbrrbd_p1_5 hash=352b840347baefc34a7b17848ca37e33ebf9b292
+EN>>
+got it IF. ill find them all =] but now...where the heck are QMs...am i blind? =]
+FA>>
+گرفتم IF. همه‌شان را پیدا می‌کنم =] ولی حالا... QM‌ها کجای این دنیا هستند... من کورم؟ =]
+
+### dbrrbd_p1_6 hash=89d421a880971e48682390fd9015cb5dc30b1eba
+EN>>
+minimalmonk wrote: got it IF. ill find them all =] but now...where the heck are QMs...am i blind? =]
+
+Well it's a treadh for rbd and dbr that's why you can't find it.
+
+Joking apart, yessss it's abosolutly normal. few time ago spent hours to find them. now i'll spot easly everyday on every time frame. fxsniffer has posted one in formation on h1 gpdusd right 5 min ago, check it on your chart. and there are others. take your time and do homework.
+
+ps: may i suggest you to post 1-2-3 chart at time? ok rbd and dbr are easyy but whit more complex thinghs maybe is more useful and productive take one chart at time and discuss about it.
+FA>>
+minimalmonk نوشت: گرفتم IF. همه‌شان را پیدا می‌کنم =] ولی حالا... QM‌ها کجای این دنیا هستند... من کورم؟ =]
+
+خب این تاپیک برای rbd و dbr است، برای همین پیدایشان نمی‌کنی.
+
+شوخی را کنار بگذاریم، بله، کاملاً طبیعی است. چندی پیش ساعت‌ها وقت گذاشتم تا پیدایشان کنم. حالا هر روز و در هر تایم‌فریمی به‌راحتی می‌بینمشان. fxsniffer پنج دقیقه پیش یکی در حال شکل‌گیری روی h1 جفت gpdusd گذاشته، روی چارتت ببین. موارد دیگر هم هست. وقت بگذار و تمرین را انجام بده.
+
+پ.ن: می‌توانم پیشنهاد کنم هر بار 1-2-3 چارت بگذاری؟ باشه، rbd و dbr آسان‌اند اما با چیزهای پیچیده‌تر شاید مفیدتر و سازنده‌تر باشد هر بار یک چارت بگذاری و درباره‌اش بحث کنی.
+
+### dbrrbd_p1_7 hash=a87a0489311248c7f9ab4814ed611e511cc5b67b
+EN>>
+heh =] ok. ill do it like that. in case QM, from what i see, my tempo could be one screenshot a day =]]
+FA>>
+هه =] باشه. همین‌طور می‌کنم. در مورد QM، از آنچه می‌بینم، سرعتم می‌تواند روزی یک اسکرین‌شات باشد =]]
+
+### dbrrbd_p1_8 hash=42394869cacc7f9f12340f1a3824905a0f63da03
+EN>>
+Hi Guys,
+
+Excellent site you have here!
+
+Very new to PA trade setups and heres one I am currently in on demo.
+
+Would appreciate any critique.
+
+Cheers all,
+FA>>
+سلام به همه،
+
+چه سایت عالی‌ای دارید!
+
+در ستاپ‌های معاملاتی PA خیلی تازه‌کارم و این یکی از مواردی است که همین حالا روی حساب دمو در آن هستم.
+
+از هر نقدی سپاسگزارم.
+
+موفق باشید،
+
+### dbrrbd_p1_9 hash=2dcb6ab31c8c3ffeb6ec06f333ce603ad434bc83
+EN>>
+Good work, Doubletop
+
+Here are some more
+FA>>
+کار خوبی بود، Doubletop
+
+چند نمونهٔ دیگر
+
+### dbrrbd_p1_10 hash=f6016ff37fd2a29f49c1a598acfaf096e700bc5e
+EN>>
+Thanks for your reply ifmyante its much appreciated.
+
+All very simple when there pointed out!
+
+Can I please ask re entry points "when and where" as I presume the stops are place at the base of the formation?
+
+Best regards,
+
+DT
+FA>>
+ممنون از جوابت ifmyante، خیلی قدردانی می‌کنم.
+
+وقتی نشانشان می‌دهند همه‌چیز خیلی ساده است!
+
+می‌توانم دربارهٔ نقاط ورود بپرسم «کِی و کجا»؟ چون گمانم استاپ‌ها پایهٔ الگو گذاشته می‌شوند؟
+
+با احترام،
+
+DT
+
+### dbrrbd_p1_11 hash=e4c6baf2ced1e60feccf5d087dc3cee4eb6c90dc
+EN>>
+made something less enigmatic then before=] there are some compressions and other things. i thought, why dont use it all at once B)
+
+IF, its better now? do you accept things like this?
+FA>>
+چیزی کمتر معماگونه از قبل ساختم =] چند فشرده‌سازی و چیزهای دیگر هم هست. فکر کردم چرا همه را یک‌جا به کار نبرم B)
+
+IF، حالا بهتر است؟ چنین چیزهایی را قبول می‌کنی؟
+
+### dbrrbd_p1_12 hash=0fe7b9d2e8cc4fb120b7dd5bf95c3cfff266f49d
+EN>>
+More practise required me thinks!
+
+Still not over confident with this but its starting to make more sense
+
+Cheers,
+
+DT.
+FA>>
+فکر می‌کنم تمرین بیشتری لازم دارم!
+
+هنوز به این کار مطمئن نیستم اما کم‌کم منطقی‌تر می‌شود
+
+درود،
+
+DT.
+
+### dbrrbd_p1_13 hash=e104805bdce9b3c62c5227fce18ad48242e22368
+EN>>
+This is quite a bit better.
+
+Did you notice how if one is ignored, it can stop price from coming back through again?
+FA>>
+این خیلی بهتر است.
+
+دقت کردی اگر یکی نادیده گرفته شود، می‌تواند جلوی برگشت دوبارهٔ قیمت را بگیرد؟
+
+### dbrrbd_p1_14 hash=62fce091360daf757e4cee1d3db66b7a9978e727
+EN>>
+doubletop wrote: Thanks for your reply ifmyante its much appreciated.
+
+All very simple when there pointed out!
+
+Can I please ask re entry points "when and where" as I presume the stops are place at the base of the formation?
+
+Best regards,
+
+DT
+
+Entry points will become very obvious to you once you've done enough homework, so keep up the good work, and we can talk about that later
+FA>>
+doubletop نوشت: ممنون از جوابت ifmyante، خیلی قدردانی می‌کنم.
+
+وقتی نشانشان می‌دهند همه‌چیز خیلی ساده است!
+
+می‌توانم دربارهٔ نقاط ورود بپرسم «کِی و کجا»؟ چون گمانم استاپ‌ها پایهٔ الگو گذاشته می‌شوند؟
+
+با احترام،
+
+DT
+
+محل ورود وقتی تمرین کافی کرده باشی برایت کاملاً واضح می‌شود، پس کار خوبت را ادامه بده، بعداً می‌توانیم دربارهٔ آن حرف بزنیم
+
+### dbrrbd_p1_15 hash=7a14fe98245704aead4d6f6948a79085b4875cc3
+EN>>
+doubletop wrote: More practise required me thinks!
+
+Still not over confident with this but its starting to make more sense
+
+Cheers,
+
+DT.
+
+That's good work.
+
+I'd advise you to bring your boxes further to the right - this will help you notice what happened after particular bases got ignored
+FA>>
+doubletop نوشت: فکر می‌کنم تمرین بیشتری لازم دارم!
+
+هنوز به این کار مطمئن نیستم اما کم‌کم منطقی‌تر می‌شود
+
+درود،
+
+DT.
+
+کار خوبی است.
+
+پیشنهاد می‌کنم جعبه‌هایت را بیشتر به سمت راست ببری — این کمکت می‌کند ببینی بعد از نادیده گرفته شدن پایه‌های خاص چه اتفاقی افتاد
+
+### dbrrbd_p1_16 hash=0b53ae6f7dc66fbf1274df9154e13ca66ab0963d
+EN>>
+Ifmyante wrote:
+
+doubletop wrote: More practise required me thinks!
+
+Still not over confident with this but its starting to make more sense
+
+Cheers,
+
+DT.
+
+That's good work.
+
+I'd advise you to bring your boxes further to the right - this will help you notice what happened after particular bases got ignored
+
+Good evening Sir!
+
+No worries re entry points practising onwards and upwards.
+
+DT.
+FA>>
+Ifmyante نوشت:
+
+doubletop نوشت: فکر می‌کنم تمرین بیشتری لازم است!
+
+هنوز به این کار اطمینان کامل ندارم، اما کم‌کم منطقی‌تر می‌شود
+
+موفق باشی،
+
+DT.
+
+کار خوبی است.
+
+توصیه می‌کنم کادرهایت را بیشتر به سمت راست ببری؛ این کمک می‌کند ببینی بعد از نادیده گرفته شدن بعضی پایه‌ها چه اتفاقی افتاده است
+
+شب بخیر سرورم!
+
+نگران نقطه‌های ورود نباش؛ تمرین را ادامه بده و بالاتر برو.
+
+DT.
+
+### dbrrbd_p1_17 hash=d672c6b96d4f90c90aa16f43b4d13ef5a5a185ad
+EN>>
+Ifmyante wrote:
+
+doubletop wrote: More practise required me thinks!
+
+Still not over confident with this but its starting to make more sense
+
+Cheers,
+
+DT.
+
+That's good work.
+
+I'd advise you to bring your boxes further to the right - this will help you notice what happened after particular bases got ignored
+
+Thanks again for your reply, greatly appreciated.
+
+Any future posts and I will extend.
+
+DT
+FA>>
+Ifmyante نوشت:
+
+doubletop نوشت: فکر می‌کنم تمرین بیشتری لازم است!
+
+هنوز به این کار اطمینان کامل ندارم، اما کم‌کم منطقی‌تر می‌شود
+
+موفق باشی،
+
+DT.
+
+کار خوبی است.
+
+توصیه می‌کنم کادرهایت را بیشتر به سمت راست ببری؛ این کمک می‌کند ببینی بعد از نادیده گرفته شدن بعضی پایه‌ها چه اتفاقی افتاده است
+
+باز هم ممنون از پاسخت، واقعاً ارزشمند بود.
+
+هر پست بعدی هم که بگذارم، گسترشش می‌دهم.
+
+DT
+
+### dbrrbd_p1_18 hash=08db720073752276a40608d480b8418a239ba00c
+EN>>
+yes it happened here. i remember that i've read on PIE or PIE chat something about this. eg. demand just slice supply zone. movement up is quick and strong and some orders in movement direction remain unfilled, so resistance become support till next time. is the truth in it?
+FA>>
+بله اینجا اتفاق افتاد. یادم هست روی PIE یا چت PIE چیزی دربارهٔ این خوانده بودم. مثلاً تقاضا فقط ناحیهٔ عرضه را تکه‌تکه می‌کند. حرکت به بالا سریع و قوی است و بعضی سفارش‌ها در جهت حرکت پرنشده می‌مانند، پس مقاومت تا دفعهٔ بعد به حمایت تبدیل می‌شود. حقیقتی در آن هست؟
+
+### dbrrbd_p1_19 hash=87fba0f10f62123daa67ab04664e297dfb529195
+EN>>
+When looks messy, go on LTF Looks how different are the same messy on m30, and i have designed the zone approximately [becouse you have to do precisely:cheer: ]. Still a mess? Go on m15, then down.
+FA>>
+وقتی شلوغ به نظر می‌رسد، برو روی LTF. ببین همان شلوغی روی m30 چقدر متفاوت است، و من ناحیه را تقریبی رسم کرده‌ام [چون باید دقیق انجام دهی :cheer: ]. هنوز شلوغ است؟ برو m15، بعد پایین‌تر.
+
+### dbrrbd_p1_20 hash=c4a17a729698223dde6740bbdfb60348560730dd
+EN>>
+Evening whiteout,
+
+Thank you for taking the time to reply.
+
+Seems so simple and obvious when you point it out!
+
+Cheers,
+
+DT.
+
+PS my tight euro trade was stopped out.
+FA>>
+شب بخیر whiteout،
+
+ممنون که وقت گذاشتی و جواب دادی.
+
+وقتی اشاره می‌کنی خیلی ساده و واضح به نظر می‌رسد!
+
+درود،
+
+DT.
+
+پ.ن: معاملهٔ تنگ یورو من استاپ شد.
+
+### dbrrbd_p1_21 hash=334bca6e47d867e5d028c0bb7df41851964d58ea
+EN>>
+doubletop wrote: Evening whiteout,
+
+Thank you for taking the time to reply.
+
+Seems so simple and obvious when you point it out!
+
+Cheers,
+
+DT.
+
+PS my tight euro trade was stopped out.
+
+Saw in eur/usd treadh. but you have pulled the trigger "only" because the rbd&dbr on that chart?
+FA>>
+doubletop نوشت: شب بخیر whiteout،
+
+ممنون که وقت گذاشتی و جواب دادی.
+
+وقتی اشاره می‌کنی خیلی ساده و واضح به نظر می‌رسد!
+
+درود،
+
+DT.
+
+پ.ن: معاملهٔ تنگ یورو من استاپ شد.
+
+در تاپیک eur/usd دیدم. اما ماشه را «فقط» به‌خاطر rbd و dbr آن چارت کشیدی؟
+
+### dbrrbd_p1_22 hash=334bca6e47d867e5d028c0bb7df41851964d58ea
+EN>>
+doubletop wrote: Evening whiteout,
+
+Thank you for taking the time to reply.
+
+Seems so simple and obvious when you point it out!
+
+Cheers,
+
+DT.
+
+PS my tight euro trade was stopped out.
+
+Saw in eur/usd treadh. but you have pulled the trigger "only" because the rbd&dbr on that chart?
+FA>>
+doubletop نوشت: شب بخیر whiteout،
+
+ممنون که وقت گذاشتی و جواب دادی.
+
+وقتی اشاره می‌کنی خیلی ساده و واضح به نظر می‌رسد!
+
+درود،
+
+DT.
+
+پ.ن: معاملهٔ تنگ یورو من استاپ شد.
+
+در تاپیک eur/usd دیدم. اما ماشه را «فقط» به‌خاطر rbd و dbr آن چارت کشیدی؟
+
+### dbrrbd_p1_23 hash=514f2b23fba9aecb954e16d226d949112c89e8be
+EN>>
+Good morning whiteout,
+
+Sorry for the late reply, just logged on today.
+
+Yes I did pull the trigger based on rbd&dbr, I am trying to figure out what I did wrong?
+
+Cheers,
+
+DT.
+FA>>
+صبح بخیر whiteout،
+
+ببخش دیر جواب دادم، همین امروز آنلاین شدم.
+
+بله، ماشه را بر پایهٔ rbd و dbr کشیدم؛ می‌کوشم بفهمم کجا را اشتباه کردم؟
+
+درود،
+
+DT.
+
+### dbrrbd_p1_24 hash=5ac271ee9220f6dd1fb9b132035ce70070543bf6
+EN>>
+morning dt
+
+..take your time, we are all busy, we reply when we can, no need to sorry.:)
+
+about that trade..read this, is from ifmyante
+
+So here's what we look for on the charts:
+
+General: HTF. Know where price is coming from and going to, and the PA past and present in all the TFs, from the Monthly down.
+
+Specific: At the zones you want to trade, look to
+
+Past. study the zone in all TFs, down to M1 ask yourself Where were the decisions made? Clean S/D? Mark these lines. No clean S/D? -compressed zone Did price really shoot away form the zone, or did it cp away? Did the zone itself react at the right place? Look beyond the zone further into the past. See what it reacted to. Was there a better S/D nearby that price wants to visit? This explains many fakeouts.
+
+Present. Approach. How is price returning to the zone? Where's the nearest flag in the TF you want to trade? This is your tg1 in this TF. Flags in the LTFs? What does PA tell you? Has price tested the last flag on approach? (good sign) Has price compressed into the zone in this TF or LTFs? (good sign) Is there big news on the way? Has there just been big news?
+
+Reaction In LTF, does price react violently to the first decision point? Does it quickly engulf the nearest S/D? (good sign) Does price simply CP away? Maybe it wants to go to the next decision point If the first decision point breaks, watch the signs on approach to the next, and, of course, reaction.
+
+Chew this over for now. Apply it to your chart history. Apply it to as many failed setups as successful ones. Millions of them if possible! Capture and file them all. This will help make it instinctive
+
+so basically rbd and dbr are just one of the things the you have to watch, is like a puzzle, rbd/dbr is one piece, you need others to make the puzzle. That's why we do homeworks, to master all this things togheter and read the price. keep whit homework
+FA>>
+صبح بخیر dt
+
+.. وقت بگذار، همه ما مشغولیم، هر وقت بتوانیم جواب می‌دهیم، لازم نیست عذرخواهی کنی.:)
+
+دربارهٔ آن معامله.. این را بخوان، از ifmyante است
+
+پس آنچه روی چارت‌ها دنبالش هستیم این است:
+
+کلی: HTF. بدان قیمت از کجا می‌آید و به کجا می‌رود، و PA گذشته و حال را در همهٔ تایم‌فریم‌ها، از ماهانه به پایین.
+
+خاص: در نواحی‌ای که می‌خواهی معامله کنی، ببین
+
+گذشته. ناحیه را در همهٔ تایم‌فریم‌ها تا M1 بررسی کن و از خودت بپرس تصمیم‌ها کجا گرفته شدند؟ عرضه/تقاضای تمیز؟ این خطوط را علامت بزن. عرضه/تقاضای تمیز نداری؟ — ناحیهٔ فشرده. آیا قیمت واقعاً از ناحیه شلیک کرد یا CP شد؟ آیا خود ناحیه در جای درست واکنش داد؟ فراتر از ناحیه، دورتر در گذشته نگاه کن. ببین به چه چیزی واکنش داد. آیا عرضه/تقاضای بهتری نزدیک بود که قیمت بخواهد سر بزند؟ این بسیاری از فیک‌اوت‌ها را توضیح می‌دهد.
+
+حال. نزدیک‌شدن. قیمت چگونه به ناحیه برمی‌گردد؟ نزدیک‌ترین فلگ در تایم‌فریمی که می‌خواهی معامله کنی کجاست؟ این tg1 تو در این تایم‌فریم است. فلگ‌ها در LTFها؟ PA چه می‌گوید؟ آیا قیمت در مسیر نزدیک‌شدن آخرین فلگ را تست کرده؟ (نشانهٔ خوب) آیا قیمت در این تایم‌فریم یا LTFها به ناحیه فشرده شده؟ (نشانهٔ خوب) آیا خبر مهمی در راه است؟ آیا همین حالا خبر مهمی بوده؟
+
+واکنش. در LTF، آیا قیمت به اولین نقطهٔ تصمیم واکنشی شدید می‌دهد؟ آیا به‌سرعت نزدیک‌ترین عرضه/تقاضا را اینگالف می‌کند؟ (نشانهٔ خوب) آیا قیمت فقط CP می‌شود؟ شاید بخواهد به نقطهٔ تصمیم بعدی برود. اگر اولین نقطهٔ تصمیم شکست، نشانه‌های نزدیک‌شدن به بعدی را ببین و البته واکنش.
+
+فعلاً این را بجَو. روی تاریخ چارتت پیاده کن. روی هر تعداد ستاپ شکست‌خورده که موفق — میلیون‌ها اگر ممکن است! همه را ثبت و بایگانی کن. این کمک می‌کند غریزی شود
+
+پس در کل rbd و dbr فقط یکی از چیزهایی است که باید ببینی، مثل یک پازل است، rbd/dbr یک قطعه است، قطعه‌های دیگر لازم داری تا پازل کامل شود. برای همین تمرین می‌کنیم تا همهٔ این‌ها را با هم مسلط شویم و قیمت را بخوانیم. با تمرین ادامه بده
+
+### dbrrbd_p1_25 hash=076a676d90d48e0a015616fa82aee344d5febc44
+EN>>
+Thanks whiteout,
+
+Really appreciate your post thanks.
+
+Think I will refrain for now from posting until I have this commited to my tiny brain!
+
+DT.
+FA>>
+ممنون whiteout،
+
+واقعاً از پستت ممنونم.
+
+فکر می‌کنم فعلاً از پست گذاشتن دست نگه دارم تا این را در مغز کوچکم جا بیندازم!
+
+DT.
+

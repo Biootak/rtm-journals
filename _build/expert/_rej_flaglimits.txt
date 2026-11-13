@@ -1,0 +1,394 @@
+===== flaglimits-p1.json flaglimits_p1_7 | echo
+--- EN ---
+I'd certainly draw accumulation and distribution a bit differently to those diagrams. There's a glaringly obvious discrepancy in the originals.
+
+I wonder does anyone agree, and I wonder if they see the same edit which should be made?
+--- FA ---
+قطعاً accumulation و distribution را کمی متفاوت از آن دیاگرام‌ها می‌کشیدم. یک ناسازگاری کاملاً آشکار در اصل‌ها هست.
+
+عجب می‌کنم آیا کسی موافق است، و عجب می‌کنم آیا همان ویرایشی را می‌بینند که باید انجام شود؟
+
+===== flaglimits-p10.json flaglimits_p10_231 | echo
+--- EN ---
+Apprenti wrote: First try on FL. I don't know if it's a correct one, but I thought I spotted one. I think it's a FL that bounced price on subsequent returns.
+
+Note to myself: When doing my FL homework use more recent data because I don't have very much history on the lower timeftrames. (I couldn't check this FL in LTF.)
+
+i think you got this, i marked a few other in this chart
+--- FA ---
+Apprenti نوشت: اولین تلاش در FL. نمی‌دانم درست است یا نه، اما فکر کردم یکی را دیدم. فکر می‌کنم FLی است که قیمت را در بازگشت‌های بعدی برگشت داده.
+
+یادداشت برای خودم: وقتی تمرین FL می‌کنم از دادهٔ جدیدتر استفاده کنم چون در تایم‌فریم‌های پایین‌تر تاریخچهٔ زیادی ندارم. (نتوانستم این FL را در تایم‌فریم پایین‌تر چک کنم.)
+
+فکر می‌کنم گرفتی، چند مورد دیگر هم در این چارت علامت زدم
+
+===== flaglimits-p12.json flaglimits_p12_292 | echo
+--- EN ---
+Pucci,
+
+Just a quick example of what I believe to be local FLs, I thought it may help.
+
+Of course, you can still go down into much lower time frames such as the 15/5/1 min charts to find local FLs
+
+Good luck
+--- FA ---
+Pucci،
+
+فقط یک مثال سریع از چیزی که فکر می‌کنم FLهای محلی هستند، فکر کردم شاید کمک کند.
+
+البته، هنوز می‌توانی به تایم‌فریم‌های خیلی پایین‌تر مثل چارت‌های 15/5/1 دقیقه‌ای بروی تا FLهای محلی پیدا کنی
+
+موفق باشی
+
+===== flaglimits-p13.json flaglimits_p13_311 | echo
+--- EN ---
+Nice PA Hoto
+
+The FTB at the FTR you marked on first chart didn't give the PA for a short opportinity (like QM or engulf), because the FL marked with blue rectangle (second and third chart) held price, then price broke north and came back to that yellow FL-DP.
+
+Here 2 failed FL of today
+--- FA ---
+P.A قشنگ Hoto
+
+FTBای که روی FTR روی چارت اول علامت زدی P.Aای برای یک فرصت شورت نداد (مثل QM یا اینگالف)، چون FLای که با مستطیل آبی علامت زدی (چارت‌های دوم و سوم) قیمت را نگه داشت، بعد قیمت به شمال شکست و به همان FL-DP زرد برگشت.
+
+اینجا 2 FL ناموفق امروز
+
+===== flaglimits-p15.json flaglimits_p15_374 | echo
+--- EN ---
+Hi,
+
+I don't know how should be called but I call all area FL/FTR or sell zone.Price break and engulf last S/R then RT and move lower with CP.Which all mean to me I need to map the whole zone as a potential sell zone when price RT to this zone till get engulf. Only my view.
+--- FA ---
+سلام،
+
+نمی‌دانم باید چه نامیده شود اما من همهٔ ناحیه را FL/FTR یا ناحیهٔ فروش می‌نامم. قیمت آخرین S/R را می‌شکند و اینگالف می‌کند بعد RT و با CP پایین می‌رود. که همه برای من به این معناست که باید کل ناحیه را به‌عنوان ناحیهٔ فروش بالقوه وقتی قیمت RT به این ناحیه برمی‌گردد تا اینگالف شود map کنم. فقط دیدگاه من.
+
+===== flaglimits-p16.json flaglimits_p16_387 | latex
+--- EN ---
+hi aaron, and tyvm for ur comments on every chart i post, really appreciate that
+
+i have one important question, actually from the first chart i posted.
+
+ill take for example the marked area at the aud\jpy chart
+
+on the marked area at the buttom of the chart, its engulf the LTF SR, stops, shoot up, comes back and shoot again.
+
+did i miss something in my analysis? fwiw, to me it looks symilar to the 2nd and the 3rd example in the first post. is it correct or im way off?
+
+thx again ag
+--- FA ---
+سلام aaron، و خیلی خیلی ممنون برای کامنت‌هایت روی هر چارتی که می‌گذارم، واقعاً قدردانی می‌کنم
+
+یک سؤال مهم دارم، در واقع از اولین چارتی که گذاشتم.
+
+مثال ناحیهٔ علامت‌گذاری‌شده روی چارت aud\jpy را می‌گیرم
+
+روی ناحیهٔ علامت‌گذاری‌شده در پایین چارت، SR تایم‌فریم پایین را اینگالف می‌کند، استاپها، بالا شلیک می‌کند، برمی‌گردد و دوباره شلیک می‌کند.
+
+آیا چیزی را در تحلیل من جا انداختم؟ برای اطلاع، به نظرم شبیه مثال 2 و 3 در پست اول است. آیا درست است یا خیلی دور هستم؟
+
+دوباره ممنون ag
+
+===== flaglimits-p2.json flaglimits_p2_34 | echo
+--- EN ---
+Oedipus wrote: I think you're exactly right and if I've drawn the box on gold right it's been definitely engulfed.
+
+When I say engulfed I mean the whole area would have to be engulfed. Above, the lower limit was just engulfed. What I mean would be if price went up through that entire box. Then you would say the flag was engulfed.
+--- FA ---
+Oedipus نوشت: فکر می‌کنم کاملاً درست می‌گویی و اگر باکس را روی طلا درست کشیده باشم، قطعاً اینگالف شده است.
+
+وقتی می‌گویم اینگالف، منظرم این است که کل ناحیه باید اینگالف شود. در بالا، فقط لیمیت پایین اینگالف شد. منظوری که دارم این است که قیمت از کل آن باکس بالا برود. آن‌وقت می‌توانی بگویی پرچم اینگالف شده است.
+
+===== flaglimits-p2.json flaglimits_p2_37 | echo
+--- EN ---
+Oedipus wrote: You're not the only one Hotochin. And seeing as we are loading you up with work, Harry
+
+I would be
+
+EXTREMELY grateful if you could start us off on a HW thread about caps on price. Whenever you have time, thanks in advance.
+
+caps on price fall under the RBD and DBR, thread is already here readthemarket.com/index.php/forum/homewo...and-rally-base-drops
+--- FA ---
+Oedipus نوشت: تو تنها کسی نیستی که این‌طور است Hotochin. و چون داریم کاری بهت می‌دهیم، Harry،
+
+من
+
+فوق‌العاده سپاسگزار خواهم بود اگر بتونی برای ما با یک ترد تمرین دربارهٔ سقف‌های قیمتی شروع کنی. هر وقت وقت داشتی، از قبل ممنون.
+
+سقف‌های قیمتی زیر مجموعهٔ RBD و DBR قرار می‌گیرند، تردش همین‌جا هست: readthemarket.com/index.php/forum/homewo...and-rally-base-drops
+
+===== flaglimits-p20.json flaglimits_p20_482 | echo
+--- EN ---
+piphop as Aaron said that looks good
+
+Added some comments to your
+
+chart last night but then got distracted and forgot to post it. Just thinking out loud here on the chart.
+--- FA ---
+piphop همان‌طور که Aaron گفت خوب به نظر می‌رسد
+
+چند کامنت روی چارت تو
+
+دیشب گذاشتم اما بعد حواسم پرت شد و فراموش کردم بگذارمش. فقط دارم روی چارت با صدای بلند فکر می‌کنم.
+
+===== flaglimits-p24.json flaglimits_p24_579 | echo
+--- EN ---
+Hi I try put some my thoughts on charts.Not sure if there are right.It is only learning post so pls.take it in that way.
+
+Thanks. Chart-1
+
+Chart-2
+
+Chart-3
+--- FA ---
+سلام، سعی کردم بعضی از نظراتم را روی نمودارها بگذارم. مطمئن نیستم درست باشند. این فقط یک پست یادگیری است، پس لطفاً همین‌طور در نظر بگیریدش.
+
+ممنون. نمودار 1
+
+نمودار 2
+
+نمودار 3
+
+===== flaglimits-p25.json flaglimits_p25_606 | echo
+--- EN ---
+Could use an opinion on this - engulfed or is the minute data not fine enough to know? Price dropped like a rock back to the origin of the move up...so keeping a close eye on that for a break farther north today but iffy on whether or not this was truly engulfed or not.
+--- FA ---
+نظری دربارهٔ این می‌خواهم - engulf شده یا داده‌های دقیقه‌ای آن‌قدر دقیق نیست که بفهمیم؟ قیمت مثل سنگ به مبدأ حرکت صعودی برگشت... پس امروز چشم دقیقاً روی آن برای شکست بیشتر به سمت شمال دارم، اما دربارهٔ اینکه واقعاً engulf شده یا نه مطمئن نیستم.
+
+===== flaglimits-p25.json flaglimits_p25_618 | latex
+--- EN ---
+Hi everybody, i'm a beginner about this method, and i try to understand the actual sitation of aud\usd cross... TF weekly I want to know if my thought is correct, any feedback is welcome.
+--- FA ---
+سلام به همه، دربارهٔ این متد تازه‌کار هستم و سعی می‌کنم وضعیت فعلی کراس aud\usd را بفهمم... تایم‌فریم هفتگی. می‌خواهم بدانم فکرم درست است یا نه، هر بازخوردی خوشایند است.
+
+===== flaglimits-p25.json flaglimits_p25_620 | latex
+--- EN ---
+alegargano wrote: Hi everybody, i'm a beginner about this method, and i try to understand the actual sitation of aud\usd cross... TF weekly I want to know if my thought is correct, any feedback is welcome.
+
+Hi Alegargano Made some comments on your chart.
+
+I2F
+--- FA ---
+alegargano نوشت: سلام به همه، دربارهٔ این متد تازه‌کار هستم و سعی می‌کنم وضعیت فعلی کراس aud\usd را بفهمم... تایم‌فریم هفتگی. می‌خواهم بدانم فکرم درست است یا نه، هر بازخوردی خوشایند است.
+
+سلام Alegargano، چند نظر روی چارتت گذاشتم.
+
+I2F
+
+===== flaglimits-p27.json flaglimits_p27_659 | echo
+--- EN ---
+Hi dcabfx, are u look out base of pole too? Sometimes imo FL more important than base of pole, am i right?
+
+thanks
+--- FA ---
+سلام dcabfx، تو هم به پایهٔ پُل نگاه می‌کنی؟ به نظرم گاهی FL از پایهٔ پُل مهم‌تر است، درست می‌گویم؟
+
+ممنون
+
+===== flaglimits-p3.json flaglimits_p3_58 | echo
+--- EN ---
+I try yo explain my view on GBPUSD...
+
+I don't know if price will come back here... but if it does maybe a potential entry point could be this.
+
+I watched daily and M15 chart and try to identify the right candles
+
+Daily
+
+M15
+--- FA ---
+می‌خواهم نظرم را دربارهٔ GBPUSD توضیح بدهم...
+
+نمی‌دانم قیمت به اینجا برمی‌گردد یا نه... اما اگر برگردد شاید یک نقطهٔ ورود بالقوه همین باشد.
+
+چارت روزانه و M15 را تماشا کردم و سعی کردم کندل‌های درست را پیدا کنم
+
+روزانه
+
+M15
+
+===== flaglimits-p30.json flaglimits_p30_736 | echo
+--- EN ---
+Flag limits or FTR? GU chart is showing FL and NU chart is FTR. guys do you agree?
+--- FA ---
+پرچم limitها یا FTR؟ چارت GU در حال نشان دادن FL و چارت NU در حال نشان دادن FTR است. بچه‌ها موافقید؟
+
+===== flaglimits-p35.json flaglimits_p35_851 | echo
+--- EN ---
+I picked two 4 hour charts, the first one we can mark our FL without the need to go in to lower timeframes. The second one we need to go into lower timeframes to mark the FL.
+--- FA ---
+دو چارت 4 ساعته انتخاب کردم؛ در اولی می‌توانیم FL را بدون نیاز به رفتن به تایم‌فریم‌های پایین‌تر علامت بزنیم. در دومی باید برای علامت‌گذاری FL وارد تایم‌فریم‌های پایین‌تر شویم.
+
+===== flaglimits-p35.json flaglimits_p35_867 | echo
+--- EN ---
+I try to answer my own question. Flag limits we do find at strong areas, like major S/R. Price breaks out, makes the hiccup and goes higher. FTRs are simply failed returns. No strong areas are needed. So take an FTR and gear up (outbreak from a strong area, hiccup) and it will become an FL! Well, it is not easy to express with words what I mean. Here is it on a chart.
+--- FA ---
+سعی می‌کنم به سؤال خودم جواب بدهم. Flag Limitها را در نواحی قوی پیدا می‌کنیم، مثل S/Rهای بزرگ. قیمت خارج می‌شود، hiccup می‌کند و بالاتر می‌رود. FTRها فقط بازگشت‌های شکست‌خورده‌اند. نیازی به نواحی قوی نیست. پس یک FTR بگیر و ارتقا بده (خروج از ناحیهٔ قوی، hiccup) تا FL شود! خب، بیان آنچه منظورم است با کلمات آسان نیست. این‌جا روی چارت است.
+
+===== flaglimits-p36.json flaglimits_p36_898 | echo
+--- EN ---
+It was kinda hard to switch out of Cap homework mode
+
+, but here is the
+
+continuation of my Flag limit homework (i accidentally skipped the Cap Hw). Hopefully im back on the right track. Please provide input, good or bad just let me know you're there
+
+@deenius i took your advice with the Lower time frames and it' s starting to make sense, seems like i can find alot of flags, so i was concentrating on what seems to be the major ones.
+--- FA ---
+خروج از حالت تمرین Cap کمی سخت بود
+
+، اما این
+
+ادامهٔ تمرین پرچم limit من است (تصادفاً تمرین Cap را جا انداختم). امیدوارم دوباره در مسیر درست باشم. لطفاً ورودی بدهید، خوب یا بد فقط بگویید آنجا هستید
+
+@deenius توصیه‌ات را دربارهٔ تایم‌چارچوب‌های پایین‌تر گرفتم و دارد معنا پیدا می‌کند، به نظر می‌رسد می‌توانم پرچم‌های زیادی پیدا کنم، پس روی آن‌هایی که به نظر می‌رسد اصلی هستند تمرکز می‌کردم.
+
+===== flaglimits-p38.json flaglimits_p38_935 | echo
+--- EN ---
+6. THIS TIME EURJPY
+
+From monthly TF to daily and 4 H
+
+monthly TF
+
+WEEKLY TF
+
+NOW i want to investigate some history of EURJPY in next post to see how FL formed and why they formed.
+--- FA ---
+6. این بار EURJPY
+
+از تایم‌چارچوب ماهانه تا روزانه و 4H
+
+تایم‌چارچوب ماهانه
+
+تایم‌چارچوب WEEKLY
+
+حالا می‌خواهم در پست بعدی کمی تاریخچهٔ EURJPY را بررسی کنم تا ببینم FLها چطور و چرا ساخته شدند.
+
+===== flaglimits-p40.json flaglimits_p40_979 | no-persian
+--- EN ---
+Flag limit
+
+SR/ENG/FTR
+--- FA ---
+FL
+
+SR/ENG/FTR
+
+===== flaglimits-p42.json flaglimits_p42_1038 | echo
+--- EN ---
+mostafasevin wrote: HI GUYS.. IMPORTANT FL AND ENGULF..
+
+MAKE A GOOD TIME.
+
+Make a good time..
+--- FA ---
+mostafasevin نوشت: سلام بچه‌ها.. FL و ENGULF مهم..
+
+وقت خوبی داشته باشید.
+
+وقت خوبی داشته باشید..
+
+===== flaglimits-p43.json flaglimits_p43_1060 | no-persian
+--- EN ---
+Flag limit
+--- FA ---
+Flag Limit
+
+===== flaglimits-p45.json flaglimits_p45_1110 | echo
+--- EN ---
+I am sorry ask thousands of questions. In this way if we are to mark all the FLs, the whole chart will be a mess of rectangles. I mean we can mark mouth FL of a mouth FL and then again the mouth FL of that mouth FL.. so on.
+
+Interesting.. may be if we can find the iQMs and DMs in all those FLs, there could be a lot of trading opportunities.
+--- FA ---
+متأسفم هزاران سؤال می‌پرسم. اگر قرار باشد همهٔ FLها را علامت بزنیم، کل چارت به به‌هم‌ریختگی مستطیل‌ها تبدیل می‌شود. منظورم این است که می‌توانیم mouth FL یک mouth FL را علامت بزنیم و بعد دوباره mouth FL همان mouth FL را.. و همین‌طور ادامه دهیم.
+
+جالب است.. شاید اگر بتوانیم iQM و DM را در همهٔ آن FLها پیدا کنیم، فرصت‌های معاملاتی زیادی وجود داشته باشد.
+
+===== flaglimits-p48.json flaglimits_p48_1197 | echo
+--- EN ---
+With the risk of being redundant, Isn't it so that: - A Kink is a FTR. - A FL is a Kink and therefore a FTR. - A kink/FTR might be a FL, but only if the engulf making it a FTR, hits it's target.
+
+Simply not all kinks are FL's but the contrary is true.
+--- FA ---
+با خطر تکراری بودن، آیا این‌طور نیست که: - Kink یک FTR است. - FL یک Kink و در نتیجه یک FTR است. - kink/FTR ممکن است FL باشد، اما فقط اگر engulfیی که آن را FTR می‌کند تارگتش را بزند.
+
+به‌سادگی همهٔ kinkها FL نیستند اما برعکسش درست است.
+
+===== flaglimits-p5.json flaglimits_p5_105 | echo
+--- EN ---
+Just some food for thought guys. Perhaps PAZs can be looked at in this fashion. Each PAZ box does not form immediately and price may go outside the box prior to its boundaries being formed. After that, once it breaks, a new PAZ begins to form.
+--- FA ---
+فقط کمی خوراک فکر برایتان guys. شاید PAZها را می‌توان از این زاویه نگاه کرد. هر باکس PAZ فوراً شکل نمی‌گیرد و قیمت ممکن است قبل از شکل گرفتن مرزهایش از باکس خارج شود. بعد از آن، وقتی شکسته شود، یک PAZ جدید شروع به شکل گرفتن می‌کند.
+
+===== flaglimits-p7.json flaglimits_p7_151 | echo
+--- EN ---
+well.. I marked FL in this way (on left) because was the first pause after price broke down last support @ 1.0470, then price went down further.
+
+Maybe it is not an FL (about RTM method), because price didn't break an important level reversing the trend.. Is this is only an A/D in the middle?
+--- FA ---
+خب.. من FL را این‌طور علامت زدم (سمت چپ) چون اولین مکث بعد از این بود که قیمت آخرین حمایت را روی 1.0470 شکست، بعد قیمت بیشتر پایین رفت.
+
+شاید FL نباشد (از نظر روش RTM)، چون قیمت یک سطح مهم را نشکست تا روند را برگرداند.. آیا این فقط یک A/D در میانه است؟
+
+===== flaglimits-p7.json flaglimits_p7_156 | echo
+--- EN ---
+Cheers for the prompt reply Peds much appreciated, big fan of your journal btw, well done...
+
+Below is still my problem though... Much appreciated.
+
+Quick edit here: with regards to the engulf, are you referring to the engulf of the prior S/R, then then flag forming?
+
+DT
+--- FA ---
+ممنون از جواب سریع Peds، خیلی قدردانی می‌کنم، در ضمن طرفدار بزرگ ژورنال تو هستم، آفرین...
+
+اما این هنوز مشکل من است... خیلی قدردانی می‌کنم.
+
+ویرایش سریع این‌جا: در مورد اینگالف، منظورت اینگالفِ S/R قبلی است، بعد پرچم شکل می‌گیرد؟
+
+DT
+
+===== flaglimits-p7.json flaglimits_p7_157 | echo
+--- EN ---
+I'm not 100% confident on the whole "end of momentum" so I don't want to make a solid comment. It may simply be the FL being a base thus showing a slow down in price till a new decision is made. Your yellow box is a nice FL, once it is engulfed, it shows intention to move higher.
+--- FA ---
+من هم دربارهٔ کل «پایان مومنتوم» 100% مطمئن نیستم پس نمی‌خواهم نظر قطعی بدهم. ممکن است فقط این باشد که FL به‌عنوان یک قاعده عمل می‌کند و در نتیجه کندی قیمت را تا گرفتن یک تصمیم جدید نشان می‌دهد. باکس زرد تو یک FL خوب است، وقتی اینگالف شود، قصد حرکت بالاتر را نشان می‌دهد.
+
+===== flaglimits-p9.json flaglimits_p9_222 | echo
+--- EN ---
+Harry wrote: lovely digging in LTF to see the boundaries is a must, well done
+
+Harry, could you elaborate on this? I guess I have a hard time accepting this as HTF usually dominate LTF. Isn't looking at levels on LTF asking for trouble when near HTF levels?
+--- FA ---
+Harry نوشت: کاوش قشنگ در تایم‌فریم پایین‌تر برای دیدن مرزها حتماً لازم است، آفرین
+
+Harry، می‌توانی دربارهٔ این توضیح بدهی؟ حدس می‌زنم پذیرفتنش برایم سخت است چون تایم‌فریم بالاتر معمولاً بر تایم‌فریم پایین‌تر غلبه می‌کند. آیا نگاه کردن به سطوح روی تایم‌فریم پایین‌تر وقتی نزدیک سطوح تایم‌فریم بالاتر هستی دعوت به دردسر نیست؟
+
+===== flaglimitshydra-p1.json flaglimitshydra_p1_1 | paragraphs 2 / 1
+--- EN ---
+Hey there this is Hydra! this is my homework for spotting and drawing FL's - flag limits.
+
+Need you comments and advises for them. thank you
+--- FA ---
+سلام، من Hydra هستم! این تمرین من برای شناسایی و رسم FL‌ها، یعنی حدهای پرچم. |  | به نظرها و راهنمایی‌هایتان دربارهٔ آن‌ها نیاز دارم. ممنون.
+
+===== flaglimitshydra-p1.json flaglimitshydra_p1_3 | paragraphs 2 / 1
+--- EN ---
+Here we are on m1 and we have a well respected SR flip here in this pic 1
+
+and this is my FL highlighted which is afterwards consumed and move upwards
+--- FA ---
+اینجا در m1 هستیم و در تصویر 1 یک برگشت نقش SR داریم که قیمت به‌خوبی به آن واکنش نشان داده است. |  | این هم FL است که مشخص کرده‌ام؛ بعداً اینگالف شد و قیمت به سمت بالا حرکت کرد.
+
+===== flaglimitshydra-p2.json flaglimitshydra_p2_38 | paragraphs 3 / 1
+--- EN ---
+20 Flag limits that bounced prince on return
+
+11 of 20:
+
+Forget to ta show my real SR point this screen short is correct one
+--- FA ---
+20 FL که قیمت پس از بازگشت به آن‌ها تغییر جهت داد |  | 11 از 20: |  | فراموش کردم محل واقعی SR را نشان بدهم؛ این عکس از صفحه درست است.
+

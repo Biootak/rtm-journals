@@ -1,0 +1,206 @@
+
+##### [0] academylite1_p2_26 | Michal238 | a6889f20ebeb95a5cf4dc055c9628b622d9349d9
+--- EN ---
+Very nice quasimodo on USDJPY
+--- FA ---
+کوازیمودوی خیلی خوبی روی USDJPY
+
+##### [1] academylite1_p2_27 | Atari | 4d4157644fa7b5315e0ab2da2cf304d461fb74e7
+--- EN ---
+Nice chart Michael 238. Looks like you picked a QM with that is a winner, "the winner is........you have space to TG)
+--- FA ---
+چارت خوبیه Michael 238. ظاهراً یک QM انتخاب کردی که برنده است: «برنده این است… تا TG فضا داری»
+
+##### [2] academylite1_p2_28 | Whenever | 8e5984ea694d32214479677c3296d0482575d842
+--- EN ---
+Hi People,
+
+sorry for the very bad quality of the picture, just traveliing 2 hours in the train..time to study IF words. I have a question to whom may know it better than me. See below green box. I may find later in the video the answer, but for now I have this small doubt. Thanks to anybody who could give me a clue.
+
+EDIT:...sorry, sorry, sorry... I just got the answer a few SECONDS later
+
+Excuse me, it is because ".... we don't draw our FL until it hits target..."
+--- FA ---
+سلام به همه،
+
+ببخشید کیفیت عکس خیلی بده، دو ساعت در قطار بودم… وقت مطالعهٔ واژه‌های IF است. یک سؤال از کسی دارم که بهتر از من می‌داند. کادر سبز پایین را ببینید. شاید بعداً در ویدئو جوابش را پیدا کنم، ولی فعلاً این شک کوچک را دارم. ممنون از هر کسی که سرنخی بدهد.
+
+ویرایش:… ببخشید، ببخشید، ببخشید… فقط چند ثانیه بعد خودم جواب را گرفتم
+
+معذرت، دلیلش این است: «… ما FL را تا وقتی به تارگت نرسد رسم نمی‌کنیم… »
+
+##### [3] academylite1_p2_29 | Michal238 | 3336b0cc9430a476b252afd9369c6deafcb71d51
+--- EN ---
+The difference is that engulf of green box (your red circle) happened before price hit TG above - red box. So we don't draw boxes until the TG is hit. In this case TG after breaking middle red box is red box above - once it is hit we can draw FL below (blue box). In this way when it is engulfed at B, price is coming from a valid TG, and we have high quality PA signal.
+
+EDIT: I just saw your edit after posting this, yes you got it right
+--- FA ---
+تفاوتش این است که اینگالف کادر سبز (دایرهٔ قرمز تو) قبل از رسیدن قیمت به TG بالایی، یعنی کادر قرمز، اتفاق افتاد. پس تا TG زده نشود کادر رسم نمی‌کنیم. اینجا TG بعد از شکستن کادر قرمز وسط، همان کادر قرمز بالاست؛ وقتی زده شد می‌توانیم FL را پایین رسم کنیم (کادر آبی). این‌طور وقتی در B اینگالف می‌شود، قیمت از یک TG معتبر می‌آید و سیگنال PA باکیفیتی داریم.
+
+ویرایش: بعد از فرستادن این پست ویرایشت را دیدم، بله درست فهمیدی
+
+##### [4] academylite1_p2_30 | Whenever | fa5a276648e8c3dd17994891a2c68731ed73584b
+--- EN ---
+...I thought I got it too... but what about here instead? We draw the Red Box before it hits the lower target?
+--- FA ---
+… فکر کردم من هم گرفتم… ولی اینجا چطور؟ کادر قرمز را قبل از رسیدنش به تارگت پایین‌تر رسم می‌کنیم؟
+
+##### [5] academylite1_p2_31 | classicj | 212031a540a987909f995978e839e8a7170f94ad
+--- EN ---
+Hey guys, Despite the TF, is this setup valid?
+--- FA ---
+سلام بچه‌ها، فارغ از TF، این ستاپ معتبر است؟
+
+##### [6] academylite1_p2_32 | Wes | 2e5c72f03af377369ec5840e62fe7f294ed8a30e
+--- EN ---
+Whenever wrote:...I thought I got it too... but what about here instead? We draw the Red Box before it hits the lower target?
+
+That's the whole point that IF is trying to illustrate here. You can't draw in the UFL in that example because price didn't yet hit the target. This could simply be a flag that is expanding. I guess it's a common mistake that people tend to make, so it's most clear to illustrate it like this.:)
+--- FA ---
+Whenever نوشت:… فکر کردم من هم گرفتم… ولی اینجا چطور؟ کادر قرمز را قبل از رسیدنش به تارگت پایین‌تر رسم می‌کنیم؟
+
+دقیقاً همین نکته را IF می‌خواهد اینجا نشان بدهد. در آن مثال نمی‌توانی UFL را رسم کنی، چون قیمت هنوز به تارگت نرسیده. این به‌سادگی می‌تواند پرچمی باشد که دارد باز می‌شود. حدس می‌زنم اشتباه رایجی است که آدم‌ها می‌کنند، برای همین این‌طور نشان دادنش روشن‌ترین راه است.:)
+
+##### [7] academylite1_p2_33 | TheBeard | fc64c36ef8c2adecf1d4ec190897d7358705f86c
+--- EN ---
+When we draw the FL after a break we draw from high to low. If the high gets broken like in 2nd image we exclude the low that broke out after previous high was broke.
+
+1st image has a double top so fails to break the high. Hence we draw to lowest low.
+
+That's my attempt at answering
+--- FA ---
+وقتی بعد از یک شکست FL را رسم می‌کنیم، از سقف به کف می‌کشیم. اگر سقف شکسته شود، مثل تصویر دوم، کفی را که بعد از شکسته شدن سقف قبلی بیرون زده کنار می‌گذاریم.
+
+تصویر اول سقف دوقلو دارد و در شکستن سقف ناکام می‌ماند. برای همین تا پایین‌ترین کف رسم می‌کنیم.
+
+این تلاش من برای جواب دادن بود
+
+##### [8] academylite1_p2_34 | josh1125 | ac9ca6214f2532b6bcbf8154df9525aea5ca6edf
+--- EN ---
+Just a quick question regarding the left shoulder. How would we filter out which left shoulder we should use to find the kink, and which ones aren't important..sorry I don't have a picture, I'm at work
+--- FA ---
+یک سؤال سریع دربارهٔ شانهٔ چپ. چطور فیلتر کنیم که کدام شانهٔ چپ را برای پیدا کردن پیچش به کار ببریم و کدام‌ها مهم نیستند… ببخشید عکس ندارم، سر کارم
+
+##### [9] academylite1_p2_35 | TheBeard | 3cbc508950f346afa5e615ff676d919a27776e8e
+--- EN ---
+josh1125 wrote: Just a quick question regarding the left shoulder. How would we filter out which left shoulder we should use to find the kink, and which ones aren't important..sorry I don't have a picture, I'm at work
+
+I would look for link that happens at break of previous U/LFL
+--- FA ---
+josh1125 نوشت: یک سؤال سریع دربارهٔ شانهٔ چپ. چطور فیلتر کنیم که کدام شانهٔ چپ را برای پیدا کردن پیچش به کار ببریم و کدام‌ها مهم نیستند… ببخشید عکس ندارم، سر کارم
+
+دنبال پیچشی می‌گشتم که هنگام شکست U/LFL قبلی اتفاق می‌افتد
+
+##### [10] academylite1_p2_36 | josh1125 | 72fc9c2e469d7be524369d15209a469683a2fe33
+--- EN ---
+I would've thought that too, but I think someone in the video asked if we were to look to the direct left, and IF stated to look further left than the previous LTF FL.
+
+TheBeard wrote:
+
+josh1125 wrote: Just a quick question regarding the left shoulder. How would we filter out which left shoulder we should use to find the kink, and which ones aren't important..sorry I don't have a picture, I'm at work
+
+I would look for link that happens at break of previous U/LFL
+--- FA ---
+من هم همین را فکر می‌کردم، ولی فکر کنم کسی در ویدئو پرسید که آیا باید مستقیم به چپ نگاه کنیم، و IF گفت باید عقب‌تر از FL قبلی در LTF را نگاه کنیم.
+
+TheBeard نوشت:
+
+josh1125 نوشت: یک سؤال سریع دربارهٔ شانهٔ چپ. چطور فیلتر کنیم که کدام شانهٔ چپ را برای پیدا کردن پیچش به کار ببریم و کدام‌ها مهم نیستند… ببخشید عکس ندارم، سر کارم
+
+دنبال پیچشی می‌گشتم که هنگام شکست U/LFL قبلی اتفاق می‌افتد
+
+##### [11] academylite1_p2_37 | Atari | d4aac777acad4f75434d0b0a56fe6000c2a156dd
+--- EN ---
+Josh1125, your answer regarding the left shoulder will be revealed in Part 2 (video). For now, IF wanted everyone to focus on the QM and Diamond. Sorry to keep you in suspense. When we were taking this course, we all had to find 20 QM and 20 Diamonds and post them.
+--- FA ---
+Josh1125، جوابت دربارهٔ شانهٔ چپ در بخش 2 (ویدئو) معلوم می‌شود. فعلاً IF می‌خواست همه روی QM و الماس تمرکز کنند. ببخشید که در ابهام نگهت می‌دارم. وقتی این دوره را می‌گذراندیم، همه باید 20 QM و 20 الماس پیدا می‌کردیم و پست می‌کردیم.
+
+##### [12] academylite1_p2_38 | AranJibril | 42933e9df85d191920f2e4eb89782c811b7d7399
+--- EN ---
+Ok let me start with example No. 1, comments are welcome as always
+--- FA ---
+باشه، با مثال شماره 1 شروع می‌کنم؛ مثل همیشه نظراتتان را بگویید
+
+##### [13] academylite1_p2_39 | josh1125 | cbd2dc94e75c4340cc9c36ed57dabba71557f059
+--- EN ---
+Ahh thank you
+
+gslao wrote: Josh1125, your answer regarding the left shoulder will be revealed in Part 2 (video). For now, IF wanted everyone to focus on the QM and Diamond. Sorry to keep you in suspense. When we were taking this course, we all had to find 20 QM and 20 Diamonds and post them.
+--- FA ---
+آهان، ممنون
+
+gslao نوشت: Josh1125، جوابت دربارهٔ شانهٔ چپ در بخش 2 (ویدئو) معلوم می‌شود. فعلاً IF می‌خواست همه روی QM و الماس تمرکز کنند. ببخشید که در ابهام نگهت می‌دارم. وقتی این دوره را می‌گذراندیم، همه باید 20 QM و 20 الماس پیدا می‌کردیم و پست می‌کردیم.
+
+##### [14] academylite1_p2_41 | linos | db136e9ced8ccae63c22391a2ea5aa8b8b87883f
+--- EN ---
+some more examples of what were nice setups, hope I am not missing anything
+--- FA ---
+چند مثال دیگر از ستاپ‌های خوب؛ امیدوارم چیزی را جا نینداخته باشم
+
+##### [15] academylite1_p2_44 | linos | 39ac5f7ae58945cf66f2db2f1facf2de484c4920
+--- EN ---
+Michal238 wrote: Very nice quasimodo on USDJPY
+
+Hey Michal. I have a question, when I zoomed in o your first L engulf,it appears we touched the edge of a CPLQ, is that not a target hit first time maybe?
+--- FA ---
+Michal238 نوشت: کوازیمودوی خیلی خوبی روی USDJPY
+
+سلام Michal. یک سؤال دارم؛ وقتی روی اولین اینگالف L تو زوم کردم، به نظر می‌رسد لبهٔ یک CPLQ را لمس کرده‌ایم؛ این اولین بار زدن تارگت نیست، شاید؟
+
+##### [16] academylite1_p2_45 | Michal238 | 29160684817de1537d12551e59499522c058ca66
+--- EN ---
+linos wrote:
+
+Michal238 wrote: Very nice quasimodo on USDJPY
+
+Hey Michal. I have a question, when I zoomed in o your first L engulf,it appears we touched the edge of a CPLQ, is that not a target hit first time maybe?
+
+This level didn't engulf anything to the left. Also, it is in smaller scale than levels that this quasimodo is based on. It is rare that engulfing low will reverse in totally empty space (because ltf SD levels are everywhere) -when I look for space I look for place with no FLs or QM levels inside, and the level that you pointed out is LTF SD level - in my opinion it is meaningless.
+--- FA ---
+linos نوشت:
+
+Michal238 نوشت: کوازیمودوی خیلی خوبی روی USDJPY
+
+سلام Michal. یک سؤال دارم؛ وقتی روی اولین اینگالف L تو زوم کردم، به نظر می‌رسد لبهٔ یک CPLQ را لمس کرده‌ایم؛ این اولین بار زدن تارگت نیست، شاید؟
+
+این سطح چیزی در سمت چپ را اینگالف نکرد. ضمناً مقیاسش از سطوحی که این کوازیمودو بر پایهٔ آن‌هاست کوچک‌تر است. کم پیش می‌آید که کف اینگالف‌شده در فضای کاملاً خالی برگردد (چون سطوح SD در LTF همه‌جا هستند)؛ وقتی دنبال فضا می‌گردم، جایی را می‌خواهم که هیچ FL یا سطح QM داخلش نباشد، و سطحی که اشاره کردی یک سطح SD در LTF است؛ به نظر من بی‌معنی است.
+
+##### [17] academylite1_p2_46 | linos | a6544d02f2206290b27e5a5a91c30ec5addf43b8
+--- EN ---
+Thanks, I did note that it didnt break anything to the left for sure, just that I am still shakey on anything that looks like a CP.thanks again for that Michal; so it FL,kinks to left highs and Qm levels mmmmm
+--- FA ---
+ممنون، حتماً توجه کردم که چیزی در سمت چپ را نشکسته، فقط اینکه هنوز روی هر چیزی که شبیه CP باشد لنگ می‌زنم. باز هم ممنون Michal؛ پس FL، پیچش به سقف‌های سمت چپ و سطوح QM می‌زند، مممممم
+
+##### [18] academylite1_p2_47 | bobyv87 | 1bb8fca69b93a8ac12babcaca441794d94ee1916
+--- EN ---
+Have these in mind guys. Maybe i'm wrong but this is from my experience. What do you think?:)
+
+For answer you have to check inside the UFL to see the cluster of orders. And there is an example of how many targets can be inside a UFL. Just draw the LS from all my blue boxes and see that price engulfed right into the target.
+--- FA ---
+این‌ها را در ذهن داشته باشید بچه‌ها. شاید اشتباه کنم ولی این از تجربهٔ خودم است. شما چه فکر می‌کنید؟:)
+
+برای جواب باید داخل UFL را نگاه کنید تا خوشهٔ سفارش‌ها را ببینید. و مثالی هست از اینکه چند تارگت می‌تواند در یک UFL جا بگیرد. فقط LS را از همهٔ کادرهای آبی من رسم کنید و ببینید قیمت درست داخل تارگت اینگالف کرده.
+
+##### [19] academylite1_p2_48 | TheBeard | db3187c4ba3b08e425b4efa57f96b47ba8ac77d4
+--- EN ---
+UCAD trade I just took. Think this is an appropriate QM trade
+--- FA ---
+معاملهٔ UCAD که همین حالا گرفتم. فکر می‌کنم یک معاملهٔ QM مناسب است
+
+##### [20] academylite1_p2_50 | Shantala | f89e167eafbd330607826caf61ffde7980e0c5e2
+--- EN ---
+Video Part One --- Clean drawings ---- in the sky (who knows PA better than me)
+
+Part Two ---??????(Real charts) --- grounded (do I really know anything about PA)
+
+Good thing is that I got what QM/DM really is and what other things to look for. Literally, I was in illusion. Will go thru video 2-3 times and then will
+
+Anyways, miles to go
+--- FA ---
+ویدئو بخش یک --- رسم‌های تمیز ---- در آسمان (کی PA را بهتر از من می‌داند)
+
+بخش دو ---؟ (چارت‌های واقعی) --- روی زمین (آیا واقعاً چیزی از PA می‌دانم)
+
+خوبیش این است که فهمیدم QM/DM واقعاً چیست و دنبال چه چیزهای دیگری باید بود. راستش من در توهم بودم. ویدئو را 2-3 بار می‌بینم و بعد هم
+
+به هر حال، راه زیادی مانده

@@ -1,0 +1,180 @@
+@@@ supplydemand_p18_426 | Emene
+Here goes one more example.
+
+@@@ supplydemand_p18_427 | Emene
+Simon, any pair, any time frame. My dax was m15, my gold was daily (and entry M5), i often use m30/H1/H4 even M1 when i want to scalp. It works exactly the same way.
+
+OK, next week, I will do my best to trade ONLY on engulfings as supply and demand zones and post my trades with the logic behind them. That will be a good exercise.
+
+Have a good week end, see you on Monday:)
+
+Simon wrote:
+
+Emene wrote: My only "must" to be valid is that the candle following the engulf is in the same direction.
+
+Hello Emene,
+
+Which timeframes do you nd this works best on for you? I've been studying engulngs on the M15 and nd that quite often one will see just 1 x bearish candle before the reversal. But of course this scenario looks completely dierent on the M5.
+
+@@@ supplydemand_p18_428 | kruger
+Emene wrote: Hello Pippendale,
+
+This is where experience and screen time come into play. You see, we have this little very cordial debate going on between Ifmyante and me about engulfings. He talks about engulfings for zones, I use pure engulfing candles. My only "must" to be valid is that the candle following the engulf is in the same direction, ie. a bear candle after a bear engulfing. there is not much i can tell you, it just works. Too often to be a fluke.
+
+Try to train your eye and dont hesitate to ask questions. For me, they are the best supply and demand zones.
+
+PS: Went to play squash at lunch time, got taken at break even.
+
+If I could speak in this debate, I would say that zone engulf and candle engulf have practically the same meaning. The only thing to which you should pay attention to is the time (or time frame). Example of this is HTF engulf which on LTF looks like zone engulf. This is most evident on H4 TF where we can see different candle close depending on the time zone of the broker. In this scenario we could see engulf formed from one candle in one broker feed and from two candles in other brokers feed. But when we see it in LTF they are just the same zone engulf. IMO if you remember about this important detail we can use both approaches equally.:)
+
+What are your arguments in this debate?
+
+@@@ supplydemand_p18_429 | Rufus
+Hey Emene
+
+I have been looking at your engulfing examples. In the EU chart below is this an example you are talking about. The large engulfing candle leaving the trading range with the FF open? This indicating an abundance of sell orders. Then when price returns with the Start of the London session watching for another potential sell off. So in a nutshell the engulfing candle leaving the zone is giving an indication of orders.
+
+Incidentally the return trip to the zone I noted on the chart with the US session is the move I like to catch. This morning 5:00am, I couldn't drag my ass out of bed. 78.6 fib also.
+
+Thanks a lot for all the work you put in here it is very much appreciated.
+
+@@@ supplydemand_p18_430 | Simon
+minimalmonk wrote: hi If, could you draw where your qm was?
+
+Hi minimalmonk,
+
+Dunno if you use MT4 but I find switching between candlesticks and line charts can be quite helpful when spotting out potential QMs setting up.
+
+@@@ supplydemand_p18_431 | Emene
+hey Kruger,
+
+no arguments really, more a difference in trading style. My experience over the 4 years I have been trading showed me that the best supply and demand zone are those created by engulfing candles. This is all. I trust zones, but I also trust a single candle. That's the difference.
+
+If I could speak in this debate, I would say that zone engulf and candle engulf have practically the same meaning. The only thing to which you should pay attention to is the time (or time frame). Example of this is HTF engulf which on LTF looks like zone engulf. This is most evident on H4 TF where we can see different candle close depending on the time zone of the broker. In this scenario we could see engulf formed from one candle in one broker feed and from two candles in other brokers feed. But when we see it in LTF they are just the same zone engulf. IMO if you remember about this important detail we can use both approaches equally.:)
+
+What are your arguments in this debate?
+
+@@@ supplydemand_p18_432 | Emene
+Very important point. I would say that switching between candles and line charts is primordial and mandatory. That's if you want to improve your trading. Not only for patterns, but to see how strong is a demand/supply zone. Line show you the strenght of a reversal or continuation because it shows you how acute and sharp the move is. That's the first point.
+
+And as I tried to demonstrate in one thread here (but apparently people do not really like trading simplicity
+
+) The big guys look A LOT the close price levels, more than
+
+wicks. So go and try to draw your diagonals and horizontals on H4 and Daily LINES CHARTS, and try to sleep after doing it. Good luck with that.:)
+
+Simon wrote:
+
+minimalmonk wrote: hi If, could you draw where your qm was?
+
+Hi minimalmonk,
+
+Dunno if you use MT4 but I nd switching between candlesticks and line charts can be quite helpful when spotting out potential QMs setting up.
+
+@@@ supplydemand_p18_433 | minimalmonk
+thanks guys for your insights. i use line charts from time to time but its not a habit. so it is space for progress in my method also. Emene: i let m y s e l f disagree with "apparently people do not really like trading simplicity" in fact always impress me how you draw your charts. its really wonderful that eg. one line could point perfect place to make transaction. looking at your charts i must say trading is an art =]
+
+@@@ supplydemand_p18_434 | Emene
+hehe it was not meant to be rude Mr Monk:) It is just that I hoped this thread would get much more popular because it is something that I decided to share after thinking a lot about it. Did a lot of work on this method and it just didn't follow through that's all:)
+
+it s here: www.acegazette.com/en/forum/user-by-user...with-emene.html#2442
+
+enjoy the new week, lots of pips to you.
+
+@@@ supplydemand_p18_435 | minimalmonk
+well actually i didnt notice your thread before... nothing about rudness in my post. everything is fine or even better. i think that my basic english tricked you
+
+/cheers&thanks
+
+@@@ supplydemand_p18_436 | Emene
+I meant nothing was meant to be rude in MY post
+
+. Anyway, have a look at it and tell
+
+me what you think. Backtest it a bit. Oh, just try GU H1 amd tell me more about that last drop of ours... 6177...
+
+@@@ supplydemand_p18_437 | minimalmonk
+ok. lets leave semantic problems between nations, hehe. ill check it soon.
+
+@@@ supplydemand_p18_438 | Oedipus99
+Emene, I'm new here and wanted to say hi. I've been reading through your posts on engulfing bars and saw this staring me in the face on daily cable. Wondered if it looked like a possible set up?
+
+@@@ supplydemand_p18_439 | kruger
+Emene wrote: hehe it was not meant to be rude Mr Monk:) It is just that I hoped this thread would get much more popular because it is something that I decided to share after thinking a lot about it. Did a lot of work on this method and it just didn't follow through that's all:)
+
+it s here: www.acegazette.com/en/forum/user-by-user...with-emene.html#2442
+
+enjoy the new week, lots of pips to you.
+
+This is definitely a must-read thread! I learned to use the closing price from you guys @ FF. The doctor also threw in a few words in this topic. It's amazing sometimes, that even if price spikes support (defined by candle close price), it will go back above with close price almost or equal to support price. And as always: higher TF, stronger zone/level. Very powerful tool!
+
+Emene do you use crosses of both techniques? (like trend line from high to close etc.)
+
+@@@ supplydemand_p18_440 | Emene
+Yes, 95% of my trendlines are drawn on H4 / Daily line charts. Same for my support and resistance horizontals.
+
+@@@ supplydemand_p18_441 | Emene
+Oedipus99 wrote: Emene, I'm new here and wanted to say hi. I've been reading through your posts on engulfing bars and saw this staring me in the face on daily cable. Wondered if it looked like a possible set up?
+
+Can you check if the opening price of your bearish candle is higher than the closing price of your bullish candle please? If not, for me it is not a perfect engulfing.
+
+@@@ supplydemand_p18_442 | Simon
+Good morning all,
+
+Quick question re setting levels.
+
+I notice, If, often tightening the entry criteria
+
+squeezing more reward out of less risk:)
+
+Re the attached images of today's EU:
+
+The H1 is the obvious (if a bit messy) RBD but the M5 is my attempt at tightening the criteria by focussing in on the local SD Flip zone. Is this the correct line of thinking when setting one's levels?
+
+Cheers.
+
+@@@ supplydemand_p18_443 | turboguru
+EU long at BE
+
+@@@ supplydemand_p18_444 | Harry
+i think everyone saw that easy on EU. right at the flag and decision to stay below the curvy top (better seen in H1). could be a good area to try a swing but i prefered to close it (demo).
+
+i am really annoyed to have missed a similar setup on AU, it barely touched and dropped fast
+
+and kiwi at the same time bounced off the same area for the 3rd time thats why i was expecting boths AU and NU to get a bit higher to enter. anyway, 20p on EU and a few scalps will do it for today
+
+@@@ supplydemand_p18_445 | Oedipus99
+Emene wrote:
+
+Oedipus99 wrote: Emene, I'm new here and wanted to say hi. I've been reading through your posts on engulfing bars and saw this staring me in the face on daily cable. Wondered if it looked like a possible set up?
+
+Can you check if the opening price of your bearish candle is higher than the closing price of your bullish candle please? If not, for me it is not a perfect engulng.
+
+Right, it's the same. On Alpari anyway.
+
+@@@ supplydemand_p18_446 | Emene
+Do you guys follow us on twitter?
+
+Just a hint given last afternoon for followers:
+
+Currently +41, no drawdown.
+
+Follow us at @AceGazette
+
+@@@ supplydemand_p18_447 | Simon
+Hadn't been watching EJ lately but have been playing around with line charts and then saw the message.
+
+@@@ supplydemand_p18_448 | Emene
+DAX > Daily, H1, M15 demands + Daily diagonal retest as awaited. Let's see.
+
+@@@ supplydemand_p18_449 | extremerrage
+E good day, out of topic what is WRB and hidden gaps??
+
+@@@ supplydemand_p18_450 | Emene
+WRB: Wide Range Bodies = BIG CANDLES, lots of orders, heavy money making the price move fast and wild.
+
+Hidden gaps: there is no space between the candles, so it is not a true gap. HOWEVER, a WRB candle is called a hidden gap because this very candle must be filled, some people are trapped at the other end of it because it moved too fast. I personnally call them price inconsistencies. The price action is not clean, price has not been retest.
+
+In the way we teach here, hidden gaps are the sources of the poles (you know, poles, flag?). A flag fills the pole and comes back to source. Then the hiddne gap is closed and price can resume in the same direction.
+
+extremerrage wrote: E good day, out of topic what is WRB and hidden gaps??

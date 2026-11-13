@@ -1,0 +1,422 @@
+### if_p133_1
+EN: Ifmyante wrote: If you're looking to trade in the H4 scale, you need an engulf of an H4 zone to get PA.
+
+However, I think you may be asking how to get PA for a trip from the
+touch of an H4 zone beck to the SR of the approach H4 Flag. This can be
+done in any scale, but must be treated in that scale until it breaks
+into the next larger scale, then rinse and repeat
+
+actually, my previous question was only a part of a big question which I will try to explain now.
+
+if we have FL, then we have to know to what TF it belongs. How to learn it?
+
+on it I have two possible answers
+
+1 - we have to look on what TF we see Kink. Kink, but not a set of
+candles (however it is necessary to determine exact borders by low time
+frames, i.e. by a set of candles)
+
+2 - we have to look what FL we absorb if we have FL on H4, then we have
+to wait, so far hit price in other FL in H4 TF and only then to watch FL
+ in our place.
+
+I have an assumption that both of these answers are right because one can't occur without another.
+
+thus, knowing what TF is appropriated to certain FL, it is possible to
+tell on what TF it is necessary to wait for PA (reaction). And also to
+look according to the theory of Mr. Salivan's internal FLs which to us
+will be prompted is blank warrants where exactly.
+
+Sorry, that I force you to break the brain my English
+FA: Ifmyante نوشت: اگر دنبال معامله در مقیاس H4 هستی، برای گرفتن PA به اینگالف یک ناحیهٔ H4 نیاز داری.
+
+اما فکر می‌کنم شاید می‌پرسی چطور برای سفری از لمس یک ناحیهٔ H4 تا SR فلگ رویکردی H4، PA بگیریم. این کار در هر مقیاسی شدنی است، اما باید در همان مقیاس مدیریت شود تا وقتی که به مقیاس بزرگ‌تر بعدی بشکند، و بعد همین چرخه را تکرار کن
+
+در واقع سؤال قبلی من فقط بخشی از یک سؤال بزرگ‌تر بود که حالا سعی می‌کنم توضیحش بدهم.
+
+اگر یک FL داریم، باید بدانیم به کدام تایم‌فریم تعلق دارد. این را چطور بفهمیم؟
+
+برای آن دو جواب ممکن دارم
+
+1 - باید ببینیم کینک را روی چه تایم‌فریمی می‌بینیم. خود کینک، نه مجموعه‌ای از کندل‌ها (البته برای تعیین مرزهای دقیق لازم است به تایم‌فریم‌های پایین، یعنی به مجموعه‌ای از کندل‌ها، نگاه کنیم)
+
+2 - باید ببینیم چه FL‌ی را جذب می‌کنیم؛ اگر روی H4 یک FL داریم، باید صبر کنیم تا قیمت به FL دیگری در تایم‌فریم H4 بخورد و تنها بعد از آن FL سر جای خودمان را ببینیم.
+
+حدس می‌زنم هر دو جواب درست باشند، چون یکی بدون دیگری ممکن نیست.
+
+پس با دانستن اینکه چه تایم‌فریمی متناسب با یک FL خاص است، می‌شود گفت روی چه تایم‌فریمی باید منتظر PA (واکنش) بود. و همچنین می‌شود بر اساس نظریهٔ FL‌های داخلی آقای Salivan نگاه کرد، که خودش دقیقاً جای هر چیز را به ما نشان می‌دهد.
+
+ببخشید که با انگلیسی‌ام مجبورت می‌کنم مغزت را به زحمت بیندازی
+
+### if_p133_2
+EN: Ifmyante wrote: you need an engulf of an H4 zone
+
+possibly it is a silly question, but I like accuracy in definition because with it it is easier.
+
+What is "H4 zone"?
+
+and I will answer it, however I need confirmation of my answer
+
+we will assume that under the name "zone" I mean FL, in that case either
+ Kink, or thorns of two candles will be a zone. It will be the necessary
+ TF. (I will add that the clean zone looks on LTF, but it is called by criteria which I have written above)
+
+I hope this right direction where I look. Otherwise I am not able to reflect at all
+FA: Ifmyante نوشت: برای گرفتن PA به اینگالف یک ناحیهٔ H4 نیاز داری
+
+شاید سؤال احمقانه‌ای باشد، اما من دقت در تعریف را دوست دارم، چون با آن کار راحت‌تر است.
+
+«ناحیهٔ H4» چیست؟
+
+و خودم جوابش را می‌دهم، اما به تأیید جوابم نیاز دارم
+
+فرض می‌کنیم که منظورم از «ناحیه» همان FL است؛ در آن صورت یا کینک، یا خارهای دو کندل، یک ناحیه خواهد بود. همان تایم‌فریم لازم می‌شود. (اضافه می‌کنم که ناحیهٔ تمیز روی LTF دیده می‌شود، اما با معیارهایی که بالا نوشتم نام‌گذاری می‌شود)
+
+امیدوارم مسیری که می‌روم درست باشد. وگرنه اصلاً نمی‌توانم فکر کنم
+
+### if_p133_3
+EN: That's a good topic
+
+Here's how I see it
+FA: این موضوع خوبی است
+
+من این‌طور می‌بینم
+
+### if_p133_4
+EN: Ifmyante wrote: That's a good topic
+
+Here's how I see it
+
+You have made laugh me
+
+Thanks for that force to think and reflect. If not your method of training here would be the same as and everywhere
+FA: Ifmyante نوشت: این موضوع خوبی است
+
+من این‌طور می‌بینم
+
+مرا خنداندی
+
+ممنون که آدم را به فکر کردن و تأمل وادار می‌کنی. اگر این روش آموزش تو نبود، اینجا هم مثل همه‌جای دیگر بود
+
+### if_p133_5
+EN: I remember years ago, Red explained how to scan correlations.
+
+As he said it, I marveled at its genius, and wondered how he could ever
+have worked it out, so I asked. He answered "it just came to me".
+
+Well, I forgot the wording of it quickly, and thought I'd never know again.
+
+Some time later, I was checking a chart. Price had come to a level. So I
+ went to another chart, and another, and another, knowing instinctively
+where to go and what to look for.
+
+The method came to me.
+
+Everything becomes common sense to us in the end, no matter how rare that sense really is
+FA: یادم می‌آید سال‌ها پیش، Red توضیح داد که چطور همبستگی‌ها را اسکن کنیم.
+
+وقتی می‌گفت، از نبوغش حیرت کردم و فکر کردم چطور ممکن است به آن رسیده باشد، پس پرسیدم. جواب داد: «خودش به ذهنم آمد».
+
+خب، زود جمله‌بندی‌اش را فراموش کردم و فکر کردم دیگر هرگز آن را نخواهم دانست.
+
+مدتی بعد داشتم نموداری را چک می‌کردم. قیمت به یک سطح رسیده بود. پس رفتم سراغ نمودار دیگر، و بعدی، و بعدی، و به‌طور غریزی می‌دانستم کجا بروم و دنبال چه بگردم.
+
+روش خودش را نشانم داد.
+
+همه‌چیز در نهایت برایمان بدیهی می‌شود، هرقدر هم که آن بداهت واقعاً کمیاب باشد
+
+### if_p133_6
+EN: If it's the 25th, and you're reading this, I implore you to please log
+ off immediately and go have a lovely celebration of the sun's rebirth
+in the sky.
+
+Love you all
+FA: اگر امروز 25 است و این را می‌خوانی، از تو خواهش می‌کنم همین الان از سیستم خارج شو و برو بازگشت زیبای خورشید را در آسمان جشن بگیر.
+
+دوستتان دارم
+
+### if_p133_7
+EN: I guess everyone is getting ready for the new year :)
+
+I have small question. When you have time, let me know your thoughts.
+
+We usually mark our UFL/LFLs when price breaks a important level to the
+left and then price its target. But sometimes price bounces at these FLs
+ when it comes back to them or sometimes breaks FLs ignoring them. So we
+ do not know exactly what FLs are with an importance which holds price
+until price actually bounce at such FLs. May be we can guess the
+important ones by looking at the approach.
+
+Is it safe to consider a kink which hold a price up or down as a FL
+without considering the levels it broke to the left(given that it hits
+the target) I have shown these two cases below.
+
+Image 1. shows where we consider a High(X) as an important level.
+Breaking that and hitting the top HTF red FL will make the FL1. Then we
+follow breaking of that FL and mark the FLs to the right and so on.
+
+Image 2 shoes where we simply mark a kink(FL1) which held price up,
+which hits target(Red HTF FL), then breaking these FL will create the
+other FLs to the right. If we follow these two approaches, we will not
+end up with the same set of FLs.
+
+Another question is that, What is the important level in the first image
+ X or what X is reacting to? So based on that, the FL1 in the first
+image will be a different one too.
+FA: گمانم همه دارند خودشان را برای سال نو آماده می‌کنند :)
+
+یک سؤال کوچک دارم. وقتی وقت داشتی، بگو چه فکری می‌کنی.
+
+ما معمولاً UFL/LFL‌هایمان را زمانی علامت می‌زنیم که قیمت یک سطح مهم در سمت چپ را می‌شکند و بعد به تارگت خودش می‌رسد. اما گاهی قیمت وقتی به این FL‌ها برمی‌گردد رویشان برگشت می‌زند، و گاهی از آن‌ها رد می‌شود و نادیده‌شان می‌گیرد. پس دقیقاً نمی‌دانیم کدام FL‌ها آن‌قدر مهم‌اند که قیمت را نگه دارند، تا وقتی که واقعاً قیمت روی چنین FL‌ی برگشت بزند. شاید بتوانیم موارد مهم را از روی رویکرد حدس بزنیم.
+
+آیا امن است که کینکی را که قیمت را بالا یا پایین نگه داشته، بدون در نظر گرفتن سطوحی که در سمت چپ شکسته، FL بدانیم (به شرط اینکه به تارگت برسد)؟ این دو حالت را پایین نشان داده‌ام.
+
+تصویر 1. جایی را نشان می‌دهد که یک High (X) را سطح مهم می‌دانیم. شکستن آن و رسیدن به FL قرمز بالایی HTF، FL1 را می‌سازد. بعد شکستن همان FL را دنبال می‌کنیم و FL‌های سمت راست را علامت می‌زنیم و همین‌طور ادامه.
+
+تصویر 2 جایی را نشان می‌دهد که ما فقط کینکی (FL1) را علامت می‌زنیم که قیمت را نگه داشته، به تارگت (FL قرمز HTF) می‌رسد، و بعد شکستن این FL‌ها FL‌های دیگری در سمت راست می‌سازد. اگر این دو رویکرد را دنبال کنیم، به مجموعهٔ یکسانی از FL‌ها نمی‌رسیم.
+
+سؤال دیگر این است که در تصویر اول، سطح مهم X است یا چیزی که X به آن واکنش نشان می‌دهد؟ بر همین اساس، FL1 در تصویر اول هم متفاوت خواهد بود.
+
+### if_p133_8
+EN: Hy guys!
+
+i dont understand why this 4H RBR worked so well... it is not LFL!!! but
+ it is on SR line.... so is this why this one is so powerful?
+FA: سلام بچه‌ها!
+
+نمی‌فهمم چرا این RBR روی 4H این‌قدر خوب کار کرد... که LFL نیست!!! ولی روی خط SR است.... پس برای همین است که این یکی این‌قدر قوی است؟
+
+### if_p133_9
+EN: in my humble opinion
+FA: به نظر منِ حقیر
+
+### if_p133_10
+EN: I too would like to express the opinion
+FA: من هم می‌خواهم نظرم را بگویم
+
+### if_p133_11
+EN: Hi all
+
+I haven't run off. I've simply found out that I gave away my remaining
+medicine too soon (before my cancer was completely destroyed). So I'm a
+bit down over that, but mostly I'm infuriated that everybody doesn't
+have it growing in their gardens and hedgerows!
+
+Anyway, I hope to have my head back in the game very soon
+FA: سلام به همه
+
+من فرار نکرده‌ام. فقط فهمیدم داروی باقی‌مانده‌ام را خیلی زود بخشیدم (قبل از اینکه سرطانم کاملاً نابود شود). پس کمی از این بابت دلم گرفته، اما بیشتر از همه عصبانی‌ام که این گیاه در باغ و پرچین همه نمی‌روید!
+
+به هر حال، امیدوارم هرچه زودتر ذهنم برگردد سر بازی
+
+### if_p133_12
+EN: Please get well soon!..
+
+Ifmyante wrote: Hi all
+
+I haven't run off. I've simply found out that I gave away my remaining
+medicine too soon (before my cancer was completely destroyed). So I'm a
+bit down over that, but mostly I'm infuriated that everybody doesn't
+have it growing in their gardens and hedgerows!
+
+Anyway, I hope to have my head back in the game very soon
+FA: زود خوب شو!..
+
+Ifmyante نوشت: سلام به همه
+
+من فرار نکرده‌ام. فقط فهمیدم داروی باقی‌مانده‌ام را خیلی زود بخشیدم (قبل از اینکه سرطانم کاملاً نابود شود). پس کمی از این بابت دلم گرفته، اما بیشتر از همه عصبانی‌ام که این گیاه در باغ و پرچین همه نمی‌روید!
+
+به هر حال، امیدوارم هرچه زودتر ذهنم برگردد سر بازی
+
+### if_p133_13
+EN: EURUSD
+
+PinkPanther, Ysbail, dkd11, I am taking the risk of being accused of 'curve-fitting'.
+ There is a saying that hindsight is always perfect, and if you look
+hard enough, you will always find the exact reason that causes price to
+turn.
+
+I start with this visible swing low on H4, see point 1 on chart below:
+
+you may argue that 1 is a reaction to FL-A, but most traders who doesn't
+ understand FL would look at 1 and think that's a support and therefore
+place buy orders there, therefore to break this swing low, it would
+still require a significantly large sell order. That's why I went
+searching for the FL that broke this swing low.
+
+In chart below, I found the FL-B that broke below the swing low from
+point 1. But I have also found several interesting elements:
+
+I saw a smaller FL-C which breaks into the CPAZ, so this can be an important FL.
+
+Then I saw a DP (green box) which delineated the upper edge of FL-B, and
+ from my observations so far, in order to confirm PA to the north, we
+need price to engulf not only FL-B, but also the DP that defined the
+edge of it. If you think about it, even though we call FL-B a flag
+limit, but on smaller scale it's actually a flag, and then the DP became
+ the flag limit of Flag-B!.
+
+Then I also saw a QM level inside FL-B, and I want to see what was responsible for breaking this QM level too.
+
+Fast forward to 14 November 2017, where all of these elements were broken.
+
+I see FL-C being engulfed by FL-D
+
+QM-level being engulfed by FL-E
+
+DP being engulfed by FL-F
+
+So we now see how price reacting to each of these FLs.
+
+Chart below showed price reacting to the upper edge of FL-F and bounced upwards
+
+Then on 19 November, price plunged into FL-E and bounced upwards strongly
+
+Then on 21 November, price hit FL-D twice, and the second time it 'almost' engulfed it.
+FA: EURUSD
+
+PinkPanther، Ysbail، dkd11، دارم ریسک می‌کنم که متهمم کنند «برازش با گذشته» کرده‌ام. می‌گویند عقل بعد از واقعه همیشه بی‌نقص است، و اگر به‌قدر کافی دقیق نگاه کنی، همیشه همان دلیل دقیقی را پیدا می‌کنی که باعث چرخش قیمت شده.
+
+با این لوی دیدنی روی H4 شروع می‌کنم، نقطهٔ 1 در نمودار پایین را ببین:
+
+ممکن است بگویی 1 واکنشی به FL-A است، اما بیشتر معامله‌گرانی که FL را نمی‌فهمند به 1 نگاه می‌کنند و فکر می‌کنند آن یک ساپورت است و سفارش خرید همان‌جا می‌گذارند؛ پس برای شکستن این لوی، هنوز یک سفارش فروش قابل‌توجه لازم است. به همین دلیل رفتم دنبال FL‌ی که این لوی را شکسته.
+
+در نمودار پایین، FL-B را پیدا کردم که زیر لوی نقطهٔ 1 را شکسته بود. اما چند عنصر جالب دیگر هم دیدم:
+
+یک FL-C کوچک‌تر دیدم که به داخل CPAZ می‌شکند، پس این می‌تواند یک FL مهم باشد.
+
+بعد یک DP دیدم (مستطیل سبز) که لبهٔ بالایی FL-B را مشخص می‌کرد، و از مشاهداتم تا الان، برای تأیید PA به سمت شمال، باید قیمت نه‌فقط FL-B را ببلعد، بلکه DP‌ی را هم که لبهٔ آن را تعریف کرده از بین ببرد. اگر فکرش را بکنی، هرچند FL-B را FL می‌نامیم، اما در مقیاس کوچک‌تر واقعاً یک فلگ است، و بعد DP تبدیل شد به FL خود Flag-B!.
+
+بعد یک سطح QM هم داخل FL-B دیدم، و می‌خواهم ببینم چه چیزی مسئول شکستن این سطح QM هم بوده است.
+
+برویم جلو تا 14 نوامبر 2017، جایی که همهٔ این عناصر شکسته شدند.
+
+می‌بینم FL-C توسط FL-D بلعیده می‌شود
+
+سطح QM توسط FL-E بلعیده می‌شود
+
+DP توسط FL-F بلعیده می‌شود
+
+پس حالا می‌بینیم قیمت به هر یک از این FL‌ها چطور واکنش می‌دهد.
+
+نمودار پایین نشان داد قیمت به لبهٔ بالایی FL-F واکنش داد و به بالا برگشت
+
+بعد در 19 نوامبر، قیمت به داخل FL-E فرو رفت و با قدرت به بالا برگشت
+
+بعد در 21 نوامبر، قیمت دو بار به FL-D خورد، و بار دوم تقریباً آن را بلعید.
+
+### if_p133_14
+EN: It seems that history really repeats itself...
+
+Get well soon chief.
+
+H
+FA: به نظر می‌رسد تاریخ واقعاً تکرار می‌شود...
+
+زود خوب شو رئیس.
+
+H
+
+### if_p133_15
+EN: get well soon!
+FA: زود خوب شو!
+
+### if_p133_16
+EN: I hope this time you will beat the shit out of it with your cannabis, that it will never return again!
+FA: امیدوارم این بار با حشیشت جوری حالش را بگیری که دیگر هیچ‌وقت برنگردد!
+
+### if_p133_17
+EN: Master IF, I hope you get well soon.
+
+And Happy New Year to all RTM family, I wish 2018 to be the best year of your lives!
+
+Regarding the discussion on EU, besides AK analysis which was more or
+less the same as mine, what really got me interested in the setup was
+the PA after the first reaction from the FL.
+
+And the approach after that was just a confirmation.
+
+Pedro
+FA: استاد IF، امیدوارم زود خوب شوی.
+
+و سال نو بر همهٔ خانوادهٔ RTM مبارک؛ آرزو می‌کنم 2018 بهترین سال زندگی‌تان باشد!
+
+دربارهٔ بحث EU، جدا از تحلیل AK که کم‌وبیش مثل تحلیل من بود، چیزی که واقعاً در این ستاپ علاقه‌ام را جلب کرد PA بعد از اولین واکنش به FL بود.
+
+و رویکرد بعد از آن فقط یک تأیید بود.
+
+Pedro
+
+### if_p133_18
+EN: Ok guys but I was trying to think why the reaction was so powerful, no
+ why there was a bounce - this is why I chose different way of thinking
+instead of just a flag and a reaction to flag
+FA: باشه بچه‌ها، اما من داشتم فکر می‌کردم چرا واکنش این‌قدر قدرتمند بود، نه اینکه چرا برگشتی رخ داد؛ برای همین روش فکر کردن متفاوتی را انتخاب کردم، به‌جای اینکه فقط یک فلگ و واکنش به فلگ را ببینم
+
+### if_p133_19
+EN: Ifmyante wrote: Hi all
+
+I haven't run off. I've simply found out that I gave away my remaining
+medicine too soon (before my cancer was completely destroyed). So I'm a
+bit down over that, but mostly I'm infuriated that everybody doesn't
+have it growing in their gardens and hedgerows!
+
+Anyway, I hope to have my head back in the game very soon
+
+This is so saddening IF. Do take as much time off as you need to and get
+ well soon! Make sure you completely weed it out this time please.
+FA: Ifmyante نوشت: سلام به همه
+
+من فرار نکرده‌ام. فقط فهمیدم داروی باقی‌مانده‌ام را خیلی زود بخشیدم (قبل از اینکه سرطانم کاملاً نابود شود). پس کمی از این بابت دلم گرفته، اما بیشتر از همه عصبانی‌ام که این گیاه در باغ و پرچین همه نمی‌روید!
+
+به هر حال، امیدوارم هرچه زودتر ذهنم برگردد سر بازی
+
+این خیلی غم‌انگیز است IF. هر مقدار مرخصی که لازم داری بردار و زود خوب شو! لطفاً این بار مطمئن شو که کاملاً ریشه‌کنش می‌کنی.
+
+### if_p133_20
+EN: I sure will, thanks
+
+We've got to make good medicine not just legal, but abundant again.
+FA: حتماً، ممنون
+
+باید کاری کنیم که داروی خوب نه‌فقط قانونی، بلکه دوباره فراوان شود.
+
+### if_p133_21
+EN: Heya, IF! Disease will get habitual to the medicine in case treatment
+left in midway. Never ever live half course. BTW, get well soon, if it's
+ beatable for 1st time then I'm sure it can be beaten twice.
+FA: سلام IF! اگر درمان نیمه‌کاره رها شود، بیماری به دارو عادت می‌کند. هیچ‌وقت دوره را نصفه رها نکن. راستی، زود خوب شو؛ اگر بار اول می‌شود شکستش داد، مطمئنم بار دوم هم می‌شود.
+
+### if_p133_22
+EN: IF,
+
+Rest up, take care of yourself. You've shown already you can beat this.
+Life throws us these little curveballs every once in a while. Just keep
+your eye on the ball, and knock it out the park buddy.
+FA: IF،
+
+استراحت کن و حواست به خودت باشد. قبلاً نشان داده‌ای که می‌توانی شکستش بدهی. زندگی هر از گاهی این توپ‌های پیچ‌دار را سرمان می‌اندازد. فقط چشمت به توپ باشد و آن را از زمین بیرون بزن رفیق.
+
+### if_p133_23
+EN: Very heart breaking to hear this news IF, my sincerest thoughts are with you - I know you will come back stronger than ever
+FA: شنیدن این خبر خیلی دلخراش است IF، صمیمانه‌ترین آرزوهایم با توست؛ می‌دانم قوی‌تر از همیشه برمی‌گردی
+
+### if_p133_24
+EN: Mr. IF. We always with you =)
+
+You do the world better. You should be healthy to continue the way
+
+get well soon
+FA: آقای IF. ما همیشه با تو هستیم =)
+
+تو دنیا را بهتر می‌کنی. باید سالم باشی تا این راه را ادامه بدهی
+
+زود خوب شو
+
+### if_p133_25
+EN: Thanks peeps. Don't worry.
+
+Cancer is just a minor inconvenience, easily fixed
+FA: ممنون رفقا. نگران نباشید.
+
+سرطان فقط یک دردسر کوچک است، به‌راحتی حل می‌شود

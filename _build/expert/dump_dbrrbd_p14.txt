@@ -1,0 +1,410 @@
+### dbrrbd_p14_326 hash=cd6942272700fac6ed92144ae29bfa74e77ac7bf
+EN>>
+outapips wrote: Anyhow, making sure from now on that I allocate time to do homework and get myself improved and become much better at supply/demand.
+
+I going to go thru several charts and timeframes and post what I see here.. I have heaps of trouble reading PA and identifying which zones will work and which wont so please feel free to comment as I welcome all constructive comments as I'm here to learn.
+
+outapips, I believe that when you analyse your charts you must not forget the context in which price finds itself, and by that I mean you must always consider the higher time frames. I can see that you analyse the different TFs of the Euro but I have the feeling you are not connecting the LTFs to the HTFs. Please let me know if I am mistaken.
+
+I'll present to you the way I would do the analysis. It is probably not the only way and certainly not the only 'correct' way but it seems to have been working for me so far.
+
+The first chart is the daily and you can see that price has gone into daily demand, so you are looking for buying opportunities. But beware, though, it is not a fresh demand zone.
+
+In the 4H chart you can see a couple of D/S zones, so you might think: "hmmm, maybe price could move to the upside to at least retest those zones". However, as I said, daily demand is not fresh so price might need to go lower in order to move higher and take them out... PA will let us know.
+
+As you can see on the 1H charts, price has reached a 1H demand level within daily demand. Now this 1H demand zone is fresh and it was reached after price generated a 1H supply zone just above the demand zone. Therefore, I am looking for buying opportunities into the next supply zone.
+
+So we can conclude that price is in an important zone. That's where PA really matters. That's where you must pay attention to PA. If you check out the following link
+
+www.acegazette.com/en/community/ace-foru....html?start=375#8342
+
+you will see my plan and its conclusion based on PA in the 5min and 1min chart. There are two posts of mine. Please check both. I hoped this will help you somewhat. Cheers:)>-
+FA>>
+outapips نوشت: به هر حال، از این به بعد مطمئن می‌شوم که برای انجام تکلیف وقت می‌گذارم و خودم را ارتقا می‌دهم و در عرضه/تقاضا خیلی بهتر می‌شوم.
+
+قصد دارم چند چارت و تایم‌فریم را مرور کنم و آنچه می‌بینم را اینجا بگذارم.. در خواندن PA و تشخیص این‌که کدام ناحیه‌ها کار می‌کنند و کدام نه کلی مشکل دارم، پس لطفاً راحت نظر بدهید؛ من از هر نظر سازنده‌ای استقبال می‌کنم چون اینجا هستم تا یاد بگیرم.
+
+outapips، معتقدم وقتی چارت‌هایت را تحلیل می‌کنی نباید بافتاری را که قیمت در آن قرار دارد فراموش کنی، و منظورم این است که همیشه باید تایم‌فریم‌های بالاتر را در نظر بگیری. می‌بینم تایم‌فریم‌های مختلف یورو را تحلیل می‌کنی، اما حس می‌کنم LTFها را به HTFها وصل نمی‌کنی. اگر اشتباه می‌کنم بگو.
+
+روشی را که خودم با آن تحلیل می‌کنم برایت شرح می‌دهم. احتمالاً تنها روش نیست و قطعاً تنها روش «درست» هم نیست، اما تا حالا برایم جواب داده است.
+
+چارت اول روزانه است و می‌بینی قیمت به تقاضای روزانه وارد شده، پس دنبال فرصت خرید هستی. اما حواست باشد، این ناحیهٔ تقاضا تازه نیست.
+
+در چارت 4H چند ناحیهٔ D/S می‌بینی، پس ممکن است فکر کنی: «هوم، شاید قیمت بتواند بالا برود و حداقل همین ناحیه‌ها را دوباره تست کند». اما همان‌طور که گفتم تقاضای روزانه تازه نیست، پس شاید قیمت لازم باشد پایین‌تر برود تا بعد بالاتر بیاید و آن‌ها را از بین ببرد... PA خبر می‌دهد.
+
+همان‌طور که در چارت‌های 1H می‌بینی، قیمت به یک سطح تقاضای 1H درون تقاضای روزانه رسیده. این ناحیهٔ تقاضای 1H تازه است و بعد از آن به دست آمد که قیمت یک ناحیهٔ عرضهٔ 1H درست بالای آن ساخت. بنابراین دنبال فرصت خرید تا ناحیهٔ عرضهٔ بعدی هستم.
+
+پس می‌توان نتیجه گرفت قیمت در ناحیهٔ مهمی است. آنجاست که PA واقعاً اهمیت پیدا می‌کند. آنجاست که باید به PA توجه کنی. اگر لینک زیر را ببینی
+
+www.acegazette.com/en/community/ace-foru....html?start=375#8342
+
+پلن من و نتیجه‌گیری‌اش را بر پایهٔ PA در چارت 5min و 1min خواهی دید. دو پست از من آنجاست. لطفاً هر دو را ببین. امیدوارم تا حدی کمکت کرده باشد. موفق باشی:)>-
+
+### dbrrbd_p14_327 hash=b687a55364d62930a7d0f9db40cfb8a6c6371d4b
+EN>>
+So after being one of the first members of Ace, I have finally started my homework assignments. Time to start going up the ladder. feedback from anyone is helping. A quick thanks to Redknight for coming up with a great format for marking the charts, helps you keep count of the zones and how succesful they are.
+
+Here are my learning from doing the homework, 1 - scroll slowly through the charts, so that the new candle come up slowly and you can "paper trade". Identify your zones without seeing the reaction, this is key to helping you understand the zones and how they work, and that zones seem to fail at first.
+
+2. read through other peoples homework and get an understanding. In school this was called copying, in this business it's called "benchmarking" and highly encouraged. 3. After a while you will close your eyes and see charts!
+
+Here is how to read my notes on my charts. U = untested on this screen R = reaction (normally first) B/E = breakeven, i.e. price reacts, but then goes through the level (decision point) often time you may be able to move your theoritical stop loss to breakeven Ig = ignored (at first)
+FA>>
+خب، بعد از این‌که یکی از اولین اعضای Ace بودم، بالاخره تکالیفم را شروع کردم. وقتش است که از نردبان بالا بروم. بازخورد هر کسی کمک‌کننده است. یک تشکر سریع از Redknight که قالب خوبی برای علامت‌گذاری چارت‌ها درست کرد؛ کمک می‌کند تعداد ناحیه‌ها و میزان موفقیتشان را بشماری.
+
+این‌ها آموخته‌های من از انجام تکلیف است: 1 - آرام چارت‌ها را اسکرول کن تا کندل جدید آرام بالا بیاید و بتوانی «پیپر ترید» کنی. ناحیه‌هایت را بدون دیدن واکنش تشخیص بده؛ این نکتهٔ کلیدی برای فهم ناحیه‌ها و نحوهٔ کارشان است، و این‌که ناحیه‌ها در ابتدا به نظر می‌رسد شکست می‌خورند.
+
+2. تکالیف دیگران را بخوان و درک کن. در مدرسه به این کار کپی می‌گفتند، در این کار «بنچمارکینگ» می‌گویند و شدیداً تشویق می‌شود. 3. بعد از مدتی چشم را می‌بندی و چارت می‌بینی!
+
+روش خواندن یادداشت‌های من روی چارت‌ها این است. U = تست‌نشده در این اسکرین، R = واکنش (معمولاً اول)، B/E = سربه‌سر، یعنی قیمت واکنش می‌دهد اما بعد از سطح رد می‌شود (نقطهٔ تصمیم) و اغلب می‌توانی استاپ‌لاس نظری‌ات را به سربه‌سر ببری، Ig = نادیده گرفته‌شده (در ابتدا)
+
+### dbrrbd_p14_328 hash=92c3013ea25116c10c50f52749f924765c255e1c
+EN>>
+Homework 2
+FA>>
+تکلیف 2
+
+### dbrrbd_p14_329 hash=326b5ce0de19f22cd200a9e13e1e1607122ceb10
+EN>>
+HW 3
+FA>>
+تکلیف 3
+
+### dbrrbd_p14_330 hash=bffbfee6e1c92426f8f1faadce35efcda4297d5f
+EN>>
+HW4
+FA>>
+تمرین 4
+
+### dbrrbd_p14_331 hash=8e82bc238e611a79136088fa6b6402528cf79392
+EN>>
+Just some lessons I have learnt from this exercise. Looking at purely DBR RBD RBR and DBD will generally give an accuracy of about 30-40% when you combine this with good risk management and take advantage of the Breakeven zones (zones that react and allow you to move to B/E before being ignored) you could have 50% of your trades either in the money or not costing you, therefore you would lose only 50% of the trades.
+
+The next part of the education is reading the approach and understanding when zones will hold, but the safer route is to manage my B/E and risk management. I will keep posting and get to my 200, however I now also need to expand my knowledge so I can identify the best set ups, and learning how to read price (engulf, compressions, 3 drive, QM)
+FA>>
+فقط چند درس که از این تمرین یاد گرفتم. نگاه کردن صرف به DBR، RBD، RBR و DBD معمولاً دقتی حدود 30-40% می‌دهد. وقتی این را با مدیریت ریسک خوب ترکیب کنی و از ناحیه‌های سربه‌سر بهره بگیری (ناحیه‌هایی که واکنش می‌دهند و اجازه می‌دهند پیش از نادیده گرفته شدن به B/E بروی)، می‌توانی 50% معاملاتت را در سود یا بدون هزینه داشته باشی؛ در نتیجه فقط 50% معاملات را از دست می‌دهی.
+
+بخش بعدی آموزش، خواندن رویکرد و فهمیدن این است که ناحیه‌ها کِی نگه می‌دارند، اما مسیر امن‌تر مدیریت B/E و ریسک است. به پست گذاشتن ادامه می‌دهم تا به 200 برسم، اما حالا باید دانشم را هم گسترش دهم تا بتوانم بهترین ستاپ‌ها را تشخیص دهم و یاد بگیرم چطور قیمت را بخوانم (اینگالف، فشرده‌سازی‌ها، 3 drive، QM)
+
+### dbrrbd_p14_332 hash=4461dba22d9fd8365e743355fdbf0769b72ef3d0
+EN>>
+whiteout wrote: "why didn't this hold..." i am sure y will find the answer by yourself, just an hint, LTF 4 a better view
+
+I drilled down to M1 chart of the zone I had identified on M30 as DBR will nice move away and have noted what I can see on the chart
+FA>>
+whiteout نوشت: «چرا این نگه نداشت...» مطمئنم خودت جواب را پیدا می‌کنی، فقط یک اشاره: LTF برای دید بهتر
+
+روی چارت M1 ناحیه‌ای که روی M30 به‌عنوان DBR شناسایی کرده بودم زوم کردم، حرکت جدا شدنش خوب بود و آنچه در چارت می‌بینم را یادداشت کرده‌ام.
+
+### dbrrbd_p14_333 hash=44951bf1386cf3f00f79367ae7909515834f3b22
+EN>>
+ttfreitas wrote: A) I can see that you analyse the different TFs of the Euro but I have the feeling you are not connecting the LTFs to the HTFs. Please let me know if I am mistaken.
+
+B) As you can see on the 1H charts, price has reached a 1H demand level within daily demand. Now this 1H demand zone is fresh and it was reached after price generated a 1H supply zone just above the demand zone. Therefore, I am looking for buying opportunities into the next supply zone.
+
+A) Firstly my apologies as none of my initial charts were a top down analysis. I was just randomly going thru chart on different time frames and didn't think anything of it.
+
+I really appreciate the time you took to reply to my post and have taken much from what you have posted. You have highlighted to me that I need to change from randomly picking a sections and do this in a top down analysis like you have shown. So, many thanks.
+
+B) I've looked at this several times and followed your other posts. Great explanation and process of setting out your trades. Nice that the short worked well and I see what you mean about following price closely.
+
+The part that I don't really get and I have this trouble a lot is identifying what is fresh and what is not. Maybe it due to having H1 demand inside Daily demand that has me confused. You have a H1 demand zone that you refer to as fresh. Is it fresh due to the engulfing bar that formed around it? If so, would the area I marked as (1) on the chart also be fresh?
+FA>>
+ttfreitas نوشت: A) می‌بینم تایم‌فریم‌های مختلف یورو را تحلیل می‌کنی، اما حس می‌کنم LTFها را به HTFها وصل نمی‌کنی. اگر اشتباه می‌کنم بگو.
+
+B) همان‌طور که در چارت‌های 1H می‌بینی، قیمت به یک سطح تقاضای 1H درون تقاضای روزانه رسیده. این ناحیهٔ تقاضای 1H تازه است و بعد از آن به دست آمد که قیمت یک ناحیهٔ عرضهٔ 1H درست بالای آن ساخت. بنابراین دنبال فرصت خرید تا ناحیهٔ عرضهٔ بعدی هستم.
+
+A) اول از همه عذرخواهی می‌کنم، چون هیچ‌کدام از چارت‌های اولیه‌ام تحلیل از بالا به پایین نبود. فقط به‌صورت تصادفی چارت‌ها را در تایم‌فریم‌های مختلف مرور می‌کردم و به آن فکر نمی‌کردم.
+
+واقعاً از وقتی که برای پاسخ به پستم گذاشتی ممنونم و از نوشته‌ات خیلی چیزها گرفتم. برایم روشن کردی که باید از انتخاب تصادفی بخش‌ها دست بردارم و مثل آنچه نشان دادی تحلیل از بالا به پایین انجام دهم. خیلی ممنون.
+
+B) این را چند بار نگاه کردم و پست‌های دیگرت را دنبال کردم. توضیح و روند چیدن معاملاتت عالی بود. خوب شد که شورت خوب جواب داد و می‌فهمم منظورت از دنبال کردن دقیق قیمت چیست.
+
+بخشی که واقعاً نمی‌فهمم و زیاد با آن مشکل دارم، تشخیص تازه بودن یا نبودن است. شاید این‌که تقاضای H1 درون تقاضای روزانه دارم گیجم کرده. تو یک ناحیهٔ تقاضای H1 داری که آن را تازه می‌نامی. آیا به‌خاطر کندل اینگالفی که دورش شکل گرفته تازه است؟ اگر بله، ناحیه‌ای که روی چارت با (1) علامت زدم هم تازه می‌شود؟
+
+### dbrrbd_p14_334 hash=c1b03e92be9f683f3842eb23a0fac1bdace9d02e
+EN>>
+I like the idea of collecting probability statistics. I suppose it is good for providing some assurance while trading. I would suggest you to leave collecting numbers at the moment, and invest your efforts in defining good levels, when you'll be comfortable in collecting zones and levels, then your statistics may gain you the confidence for trading.
+
+As for your DBR RBD. Please note that some zones you have marked are RBR/DBD. My idea of this assignment is to locate possible turning points, then see how it reacts when price test these levels.
+
+Some levels that were "ignored" had prior signs. I would suggest you to look for DBR/RDB that are the strongest. you can define strong level by 2 criterias: 1. How strong was the away move >> then >> its a strong level why:: We assume that at the decision point of breaking the balance (among sellers and buyers) are left with stacks of un-filled orders. 2. How Long was the Price at the defined level before it unbalanced > The least is better. why:: As more time given for buyers and seller to negotiate, the more deals the close. The least time they have to negotiate, we assume for having more un-filled orders left at the zone.
+
+There are more ways to define the quality of a level, you will get to learn these with the other HW assignments.
+
+One more thing, if you want to use the conventional terms of SD:
+
+U = untested on this screen >> FRESH R = reaction (normally first) >> TOUCHED B/E = breakeven, i.e. price reacts, but then goes through the level (decision point) often time you may be able to move your theoritical stop loss to breakeven >> SWAP >> although I like the idea of this one... Ig = ignored (at first) >> SWAP
+FA>>
+ایدهٔ جمع‌آوری آمار احتمالات را دوست دارم. فکر می‌کنم برای ایجاد کمی اطمینان هنگام معامله خوب است. پیشنهاد می‌کنم فعلاً جمع‌آوری اعداد را کنار بگذاری و انرژی‌ات را صرف تعریف سطوح خوب کنی؛ وقتی در جمع‌آوری ناحیه‌ها و سطوح راحت شدی، آن‌وقت آمارت می‌تواند اعتماد لازم برای معامله را به تو بدهد.
+
+دربارهٔ DBR و RBD‌ات: توجه کن بعضی ناحیه‌هایی که علامت زده‌ای RBR/DBD هستند. منظور من از این تکلیف این است که نقاط برگشت احتمالی را پیدا کنی و بعد ببینی وقتی قیمت این سطوح را تست می‌کند چگونه واکنش می‌دهد.
+
+بعضی سطوحی که «نادیده گرفته شدند» نشانه‌های قبلی داشتند. پیشنهاد می‌کنم دنبال قوی‌ترین DBR/RDB بروی. سطح قوی را با 2 معیار می‌توانی تعریف کنی: 1. حرکت جدا شدن چقدر قوی بود → آن‌وقت سطح قوی است. چرا: فرض می‌کنیم در نقطهٔ تصمیم شکستن تعادل (بین فروشندگان و خریداران) پشته‌ای از سفارش‌های پرنشده باقی می‌ماند. 2. قیمت چه مدت در سطح تعریف‌شده بود پیش از آن‌که تعادل را بشکند → کمتر بهتر است. چرا: هرچه زمان بیشتری به خریدار و فروشنده برای چانه‌زنی داده شود، معاملات بیشتری بسته می‌شود؛ کمترین زمان چانه‌زنی را نشانهٔ باقی ماندن سفارش‌های پرنشدهٔ بیشتر در ناحیه می‌گیریم.
+
+راه‌های بیشتری برای تعریف کیفیت یک سطح هست که در تکالیف دیگر یاد می‌گیری.
+
+یک نکتهٔ دیگر، اگر می‌خواهی از اصطلاحات متعارف SD استفاده کنی:
+
+U = تست‌نشده در این اسکرین → FRESH، R = واکنش (معمولاً اول) → TOUCHED، B/E = سربه‌سر، یعنی قیمت واکنش می‌دهد اما بعد از سطح رد می‌شود (نقطهٔ تصمیم) و اغلب می‌توانی استاپ‌لاس نظری‌ات را به سربه‌سر ببری → SWAP، هرچند این یکی را دوست دارم... Ig = نادیده گرفته‌شده (در ابتدا) → SWAP
+
+### dbrrbd_p14_335 hash=e39217a187085a5d5c51086aea01ff0ec4386a7e
+EN>>
+A) Firstly my apologies as none of my initial charts were a top down analysis. I was just randomly going thru chart on different time frames and didn't think anything of it.
+
+I really appreciate the time you took to reply to my post and have taken much from what you have posted. You have highlighted to me that I need to change from randomly picking a sections and do this in a top down analysis like you have shown. So, many thanks.
+
+You are welcome. That's what AG is all about.
+
+B) I've looked at this several times and followed your other posts. Great explanation and process of setting out your trades. Nice that the short worked well and I see what you mean about following price closely.
+
+The part that I don't really get and I have this trouble a lot is identifying what is fresh and what is not. Maybe it due to having H1 demand inside Daily demand that has me confused. You have a H1 demand zone that you refer to as fresh. Is it fresh due to the engulfing bar that formed around it? If so, would the area I marked as (1) on the chart also be fresh?
+
+Start with the demand you called 1. That demand has been highlighted by a red box in my chart below. Can you see how it was taken out? So it is not fresh any longer. The next demand level, which you called my H1 level, I have highlighted with a blue box. That one is fresh because it has not been taken out. Can you see? Also notice how price took out demand 1 by compressing price to that area, highlighted by an orange dotted line? I have posted the 15 min chart so it's clearer.
+FA>>
+A) اول از همه عذرخواهی می‌کنم، چون هیچ‌کدام از چارت‌های اولیه‌ام تحلیل از بالا به پایین نبود. فقط به‌صورت تصادفی چارت‌ها را در تایم‌فریم‌های مختلف مرور می‌کردم و به آن فکر نمی‌کردم.
+
+واقعاً از وقتی که برای پاسخ به پستم گذاشتی ممنونم و از نوشته‌ات خیلی چیزها گرفتم. برایم روشن کردی که باید از انتخاب تصادفی بخش‌ها دست بردارم و مثل آنچه نشان دادی تحلیل از بالا به پایین انجام دهم. خیلی ممنون.
+
+خواهش می‌کنم. کل ماجرای AG همین است.
+
+B) این را چند بار نگاه کردم و پست‌های دیگرت را دنبال کردم. توضیح و روند چیدن معاملاتت عالی بود. خوب شد که شورت خوب جواب داد و می‌فهمم منظورت از دنبال کردن دقیق قیمت چیست.
+
+بخشی که واقعاً نمی‌فهمم و زیاد با آن مشکل دارم، تشخیص تازه بودن یا نبودن است. شاید این‌که تقاضای H1 درون تقاضای روزانه دارم گیجم کرده. تو یک ناحیهٔ تقاضای H1 داری که آن را تازه می‌نامی. آیا به‌خاطر کندل اینگالفی که دورش شکل گرفته تازه است؟ اگر بله، ناحیه‌ای که روی چارت با (1) علامت زدم هم تازه می‌شود؟
+
+با همان تقاضایی شروع کن که 1 نامیدی. آن تقاضا در چارت زیر با کادر قرمز مشخص شده. می‌بینی چطور از بین رفت؟ پس دیگر تازه نیست. سطح تقاضای بعدی که آن را سطح H1 من نامیدی، با کادر آبی مشخص کرده‌ام. آن یکی تازه است چون از بین نرفته. می‌بینی؟ همچنین توجه کن قیمت چطور تقاضای 1 را با فشرده کردن قیمت به آن ناحیه از بین برد، همان که با خط‌چین نارنجی مشخص شده؟ چارت 15 min را گذاشته‌ام تا واضح‌تر باشد.
+
+### dbrrbd_p14_336 hash=ab1e14d36776f1d23798bc74873aed0c7e1d266c
+EN>>
+This is my interpretation of that situation you refer to in your M15 chart.
+
+The compression on the M15 has removed all orders in the zone and has moved down to do an initial retest of the top of the red zone. So to me the blue zone is empty as the compression removed all the orders. So, to me the only fresh zone is that area within the red zone.
+
+You have certainly given me a different view on things and it has challenged my interpretation. I will need to give this much thought and revisit the charts some more.
+FA>>
+این تفسیر من از آن وضعیتی است که در چارت M15 به آن اشاره می‌کنی.
+
+فشرده‌سازی روی M15 همهٔ سفارش‌های داخل ناحیه را از بین برده و پایین آمده تا یک تست اولیه از بالای ناحیهٔ قرمز انجام دهد. پس به نظر من ناحیهٔ آبی خالی است، چون فشرده‌سازی همهٔ سفارش‌ها را برد. بنابراین تنها ناحیهٔ تازه از دید من همان بخش درون ناحیهٔ قرمز است.
+
+قطعاً دید متفاوتی به من دادی و تفسیرم را به چالش کشیدی. باید زیاد روی این فکر کنم و چارت‌ها را بیشتر مرور کنم.
+
+### dbrrbd_p14_337 hash=e6158faa55f5b617e4964f1265624e5662d4e87d
+EN>>
+Hello Teachers!
+
+Before i start this homework, I would like to thank Rufus for helping me with my Compression HW. Thank you Rufus!
+
+I've started learning about DBR and RBD a few months ago but there are still questions that i do not know the answers to. I hope that you'll help me with it:)
+
+The reason that i have started this HW is because questions kept popping up in my head whenever i look at the charts and trying to focus on finding just purely on compression
+
+The way that I draw my zones is at the high(if it is supply) / low (if it is demand) of the cluster and the open/close of the candle body. Thank you @mel! Your article helps alot
+
+Please tell me if i have made any mistakes or share with me your ways of analyzing the market. I'm here to learn
+
+Daily Chart
+
+RBD #1 - When the market almost came back to this RBD, why did the market fell before reaching the zone? I went to the LTF(H1) but I'm still very doubtful about my own analysis.
+
+RBD #3 (M5) - This Supply zone is leaning on the daily DBD
+
+RBD #4 (M15) - Same as RBD #1
+
+H1 DBR #2
+
+Edit: Hmm.. My charts seems quite blurish after i uploaded it.. I wonder why.. it looks fine on my computer
+FA>>
+سلام استادها!
+
+قبل از شروع این تکلیف، می‌خواهم از Rufus تشکر کنم که در تکلیف فشرده‌سازی کمکم کرد. ممنون Rufus!
+
+چند ماه پیش یادگیری DBR و RBD را شروع کردم، اما هنوز سؤال‌هایی هست که جوابشان را نمی‌دانم. امیدوارم در این مورد کمکم کنید:)
+
+دلیل شروع این تکلیف این است که هر وقت چارت‌ها را نگاه می‌کنم و می‌خواهم صرفاً روی پیدا کردن فشرده‌سازی تمرکز کنم، سؤال‌ها مدام در ذهنم بالا می‌آید.
+
+روش من برای کشیدن ناحیه‌ها، سقف (اگر عرضه باشد) / کف (اگر تقاضا باشد) خوشه و اوپن/کلوز بدنهٔ کندل است. ممنون @mel! مقاله‌ات خیلی کمک می‌کند.
+
+لطفاً بگو اگر اشتباهی کرده‌ام یا روش‌های خودت برای تحلیل بازار را با من در میان بگذار. من اینجا هستم تا یاد بگیرم و بمانم:)
+
+چارت روزانه
+
+RBD #1 - وقتی بازار تقریباً به این RBD برگشت، چرا پیش از رسیدن به ناحیه افت کرد؟ به LTF (H1) رفتم اما هنوز در تحلیل خودم خیلی شک دارم.
+
+RBD #3 (M5) - این ناحیهٔ عرضه به DBD روزانه تکیه داده است.
+
+RBD #4 (M15) - مثل RBD #1
+
+H1 DBR #2
+
+ویرایش: هوم.. چارت‌هایم بعد از آپلود کمی تار به نظر می‌رسند.. نمی‌دانم چرا.. روی کامپیوتر خودم خوب است.
+
+### dbrrbd_p14_338 hash=4284c71cb439168fbff49ac526c74fb24740ec27
+EN>>
+Good work:)
+
+Re chart 1
+
+Re chart 2 and 4, a DBR/RBD is itself a reaction to something in the past
+FA>>
+کار خوبی است:)
+
+راجع به چارت 1
+
+دربارهٔ چارت 2 و 4، خود DBR/RBD واکنشی به چیزی در گذشته است.
+
+### dbrrbd_p14_339 hash=a4244d3bc21dadf722ff1702a0d88a2b894ce1dd
+EN>>
+Starting my homework.
+
+Here is my first chart of a Rally-Base-Rally (RBR) and how price reacts to the level. The second chart shows where price stops, at the next supply.
+FA>>
+تکلیفم را شروع می‌کنم.
+
+این اولین چارت من از یک رالی-بیس-رالی (RBR) و نحوهٔ واکنش قیمت به سطح است. چارت دوم نشان می‌دهد قیمت کجا متوقف می‌شود، در عرضهٔ بعدی.
+
+### dbrrbd_p14_340 hash=0895495d38d277a3b5c37040beb8b7090dda2ede
+EN>>
+Well thanks to ttfreitas and the resulting discussion from the M15 chart, I've revisited a lot of the S/D articles and IF's compression and it certainly seems that even tho I've been over these several times before I certainly missed some notable points.
+
+No big light bulbs or explosions going off at present but a few pops and crackles were definitly heard inside my head along with a lot of whirring of cogs and wheels so that's all good.
+
+Now I need to revisit come charts and see if I can understand them better this time.
+FA>>
+خب، به لطف ttfreitas و بحثی که از چارت M15 پیش آمد، بسیاری از مقاله‌های S/D و مطلب فشرده‌سازی IF را دوباره مرور کردم و واقعاً به نظر می‌رسد با این‌که قبلاً چند بار از روی این‌ها گذشته بودم، بعضی نکات مهم را از دست داده بودم.
+
+فعلاً لامپ بزرگی روشن نشده و انفجاری رخ نداده، اما چند ترق‌وتوق داخل سرم شنیده شد، همراه با صدای چرخ‌دنده‌هایی که می‌چرخند؛ و این خوب است.
+
+حالا باید چند چارت را دوباره مرور کنم و ببینم این بار بهتر می‌فهممشان.
+
+### dbrrbd_p14_341 hash=1a3f90e1f2447166f40d820a877382a834db3076
+EN>>
+Nice one madwt...
+
+I have a question for you though... Is there a difference between the 3 points that you circled in yellow and the point near to the arrow around 1.2814? If yes, what is it? Mel
+FA>>
+کار خوبی بود madwt...
+
+اما یک سؤال از تو دارم... آیا تفاوتی بین 3 نقطه‌ای که با زرد دور گرفتی و نقطهٔ نزدیک فلش حدود 1.2814 هست؟ اگر بله، چیست؟ Mel
+
+### dbrrbd_p14_342 hash=6d97ed1fd1411541f76696a830372e7414c9c0fa
+EN>>
+I was having a similar issue not all that long ago. Price turning before my boxes i.e. missed opportunities. It wasn't until I learnt about 'Finding the Decisions' on Ace Gazette that the penny dropped. Drill down into the lower time frames on those engulfing bars and you will see exactly where and why price turned on a revisit..I better do the homework soon so I can demonstrate that I understand what I'm talking about.
+FA>>
+نه چندان وقت پیش من هم مشکل مشابهی داشتم. قیمت قبل از باکس‌های من برمی‌گشت، یعنی فرصت‌های از دست رفته. تا وقتی دربارهٔ «Finding the Decisions» در Ace Gazette یاد نگرفتم، ماجرا برایم جا نیفتاد. روی همان کندل‌های اینگالف به تایم‌فریم‌های پایین‌تر زوم کن و دقیقاً می‌بینی قیمت در بازگشت کجا و چرا برگشته.. بهتر است زودتر تکلیف را انجام دهم تا نشان دهم می‌فهمم دربارهٔ چه حرف می‌زنم.
+
+### dbrrbd_p14_343 hash=ab81aca2ea427f2b7548a2c8a716db508ee2ee9b
+EN>>
+Thanks Benhur,
+
+I will use the conventional terms moving forward. I did include RBR and DBD because there isn't a seperate thread for it and also (correct me if I am wrong) but RBR and DBD seem to happen at decision point, i.e swap levels of broken S/R levels, at least that I have noticed. I also remember IF saying the goal is to understand price action in it's entirity
+
+As for my penchant for counting, I work with statistics so I count everything, that's my way at looking at the world, I make sense of things by bringing them into the wonderful world of maths, I have actually started to find the levels that i would prefer to trade at and these tend to have a "stream" of candles away from the zone, I have watched a lot of Sam Seidens stuff read PIE on FF so kinda get the idea behind the
+
+quality/strength/time, though I would not yet say I am great at it yet.
+
+Thanks for your input and you may start noticing an indi or 2 from you on my charts.
+FA>>
+ممنون Benhur،
+
+از این به بعد از اصطلاحات متعارف استفاده می‌کنم. RBR و DBD را هم آوردم چون تاپیک جداگانه‌ای برایشان نیست و همچنین (اگر اشتباه می‌کنم اصلاحم کن) به نظر می‌رسد RBR و DBD در نقطهٔ تصمیم رخ می‌دهند، یعنی سطوح سوآپ S/R شکسته‌شده، حداقل چیزی که من دیده‌ام. یادم هست IF هم می‌گفت هدف فهم کامل پرایس اکشن است.
+
+دربارهٔ علاقه‌ام به شمارش: من با آمار کار می‌کنم، پس همه‌چیز را می‌شمارم؛ این روش من برای نگاه به دنیاست، با بردن چیزها به دنیای شگفت‌انگیز ریاضیات آن‌ها را می‌فهمم. در واقع شروع کرده‌ام به پیدا کردن سطوحی که ترجیح می‌دهم در آن‌ها معامله کنم و این‌ها معمولاً «جریانی» از کندل‌ها در فاصله از ناحیه دارند. کلی از مطالب Sam Seiden را دیده‌ام و PIE را در FF خوانده‌ام، پس تقریباً ایدهٔ پشت
+
+کیفیت/قدرت/زمان را گرفته‌ام، هرچند هنوز نمی‌گویم در آن عالی هستم.
+
+ممنون از نظرت؛ ممکن است کم‌کم یک یا 2 اندی از خودت را روی چارت‌های من ببینی.
+
+### dbrrbd_p14_344 hash=bd49aa531c093ef4dd743323441b53cd0c1bcffa
+EN>>
+Analysis of EURJPY
+
+The daily chart shows EURJPY has been bullish and has reacted to a nice level at 104.60 and is currently retracing. The overlapping nature of price also indicates this is a retracement of the larger bullish move. Until the lows at 99.50 are taken out I would still consider the larger trend up. Price has now come down and retested a prior daily low from late Oct which also has history further back as shown. Price could be forming a bull flag but need more time to see how that plays out.
+
+The 4 hour chart shows that there are two price flip zone reasonably close together. The last reaction at 102.17 created a lower high which gives a warning sign that price may go lower in the near future (although as I write this, price is challenging that high). If the 102.17 zone gives way the zone around 101.70/80 may hold.
+
+The hourly chart shows this lower flip zone
+
+In order to get a better idea on what happened at this zone we zoom into the 5 minute chart. I have noted that this zone should be fresh but I must confess I'm still a little unsure due to price revisiting the same level that it tested around 11am on the chart.
+
+In conclusion I would not set pending orders on this level but I would monitor price around this level and take a long if things look good.
+FA>>
+تحلیل EURJPY
+
+چارت روزانه نشان می‌دهد EURJPY صعودی بوده و به سطح خوبی در 104.60 واکنش داده و الان در حال اصلاح است. ماهیت هم‌پوشان قیمت هم نشان می‌دهد این اصلاحِ حرکت صعودی بزرگ‌تر است. تا وقتی کف‌های 99.50 از بین نرفته‌اند، روند بزرگ‌تر را صعودی می‌دانم. قیمت حالا پایین آمده و کف روزانهٔ قبلی از اواخر Oct را دوباره تست کرده که همان‌طور که نشان داده شده سابقهٔ عقب‌تر هم دارد. قیمت ممکن است در حال ساختن یک فلگ صعودی باشد اما برای دیدن نتیجه زمان بیشتری لازم است.
+
+چارت 4 ساعته نشان می‌دهد دو ناحیهٔ فلیپ قیمت نسبتاً نزدیک به هم وجود دارد. آخرین واکنش در 102.17 یک سقف پایین‌تر ساخت که هشدار می‌دهد قیمت ممکن است در آیندهٔ نزدیک پایین‌تر برود (هرچند همین‌که این را می‌نویسم، قیمت آن سقف را به چالش می‌کشد). اگر ناحیهٔ 102.17 تسلیم شود، ناحیهٔ حدود 101.70/80 ممکن است نگه دارد.
+
+چارت ساعتی این ناحیهٔ فلیپ پایین‌تر را نشان می‌دهد
+
+برای درک بهتر آنچه در این ناحیه رخ داد، روی چارت 5 دقیقه زوم می‌کنیم. یادداشت کرده‌ام که این ناحیه باید تازه باشد، اما باید اعتراف کنم هنوز کمی مطمئن نیستم، چون قیمت به همان سطحی برگشته که حدود 11am روی چارت تست کرده بود.
+
+در نتیجه روی این سطح سفارش معلق نمی‌گذارم، اما قیمت را حول این سطح زیر نظر می‌گیرم و اگر شرایط خوب به نظر برسد، لانگ می‌گیرم.
+
+### dbrrbd_p14_345 hash=0069e8d4d2022cdabb2a1d4b238ef7b0fe0d591f
+EN>>
+Hi Mel,
+
+The difference is the source of the demand. I am happy to hear your thoughts. Thanks.
+FA>>
+سلام Mel،
+
+تفاوت در منبع تقاضاست. خوشحال می‌شوم نظرت را بشنوم. ممنون.
+
+### dbrrbd_p14_346 hash=f1788d0b968bd868c4da16c3cb87ec186259aef9
+EN>>
+Hi Madwt,
+
+This what I was refering to.. You might already know about it though. Best, Mel
+FA>>
+سلام Madwt،
+
+منظورم این بود.. هرچند شاید از قبل درباره‌اش می‌دانی. ارادتمند، Mel
+
+### dbrrbd_p14_347 hash=3c4a209dd8c0ee104aae5ae54d134755d35feb53
+EN>>
+Mel, I see what you mean about the new base above and maybe I've interpreted your statement incorrectly but this is my line of thought.
+
+I know this is after that fact but as this is a daily demand level then we should expect in most cases that it will require a good test/breach before it gives way. The 4 hour chart shows that price has only tested or come close to the top side of the demand zone so to me there is still plenty of potential buy orders left to consume before they zone gives way. We don't know this for until price goes further into the zone but for me I'd wary of considering this zone done.
+
+I'm inline with Madwt that the I see the source of demand (decision point) at the lowest part of the zone as shown on the 5 minute chart. Until this area is taken out then I'd still look for longs.
+
+I have taken what you have indicated on your chart that you would be wary of longs as the new base above would indicate a potential break down thru demand. If I've misinterpreted what you are indicating with your chart then please correct me.
+FA>>
+Mel، می‌فهمم دربارهٔ بیس جدید در بالا چه می‌گویی و شاید حرفت را اشتباه تفسیر کرده باشم، اما خط فکری من این است.
+
+می‌دانم این بعد از ماجراست، اما چون این یک سطح تقاضای روزانه است، در بیشتر موارد باید انتظار داشته باشیم پیش از تسلیم شدن، یک تست/شکست خوب لازم داشته باشد. چارت 4 ساعته نشان می‌دهد قیمت فقط بالای ناحیهٔ تقاضا را تست کرده یا به آن نزدیک شده، پس به نظر من هنوز سفارش‌های خرید بالقوهٔ زیادی برای مصرف باقی مانده تا ناحیه تسلیم شود. تا وقتی قیمت بیشتر وارد ناحیه نشود این را نمی‌دانیم، اما من در تمام‌شدن این ناحیه احتیاط می‌کنم.
+
+با Madwt هم‌نظرم که منبع تقاضا (نقطهٔ تصمیم) را در پایین‌ترین بخش ناحیه می‌بینم، همان‌طور که در چارت 5 دقیقه نشان داده شده. تا وقتی این بخش از بین نرود، همچنان دنبال لانگ می‌گردم.
+
+آنچه روی چارتت نشان دادی را در نظر گرفته‌ام، این‌که در لانگ‌ها احتیاط می‌کنی چون بیس جدید در بالا نشانهٔ شکست احتمالی از تقاضا به پایین است. اگر آنچه با چارتت نشان می‌دهی را اشتباه فهمیده‌ام، لطفاً اصلاحم کن.
+
+### dbrrbd_p14_348 hash=2c5ac6fd8951f5522e1fc33daf0bf2d63d4bd3ec
+EN>>
+Alright guys, I've been slacking on my homework, so it's time to get back in the zone!
+
+Take a look at this chart and please comment on my RBDs/DBDs etc, as well as the two zones I highlighted.
+
+I've also got a question on why the last RBD didn't return to that lowest zone before it turned back? What could be the reason for such a move?
+FA>>
+خب بچه‌ها، در تکالیفم سستی کرده‌ام، پس وقتش است برگردم به ناحیه!
+
+نگاهی به این چارت بیندازید و لطفاً دربارهٔ RBD/DBDهایم و غیره و همچنین دو ناحیه‌ای که مشخص کردم نظر بدهید.
+
+یک سؤال هم دارم: چرا آخرین RBD پیش از برگشتن، به آن پایین‌ترین ناحیه برنگشت؟ دلیل چنین حرکتی چه می‌تواند باشد؟
+
+### dbrrbd_p14_349 hash=75b999a6e4b4adfa537ba935f3b0cf6c9d363e50
+EN>>
+See the rbd that broke below then tested the turquoise and broke lower. That is decision that price was too expensive.
+FA>>
+آن RBD را ببین که به پایین شکست، بعد فیروزه‌ای را تست کرد و پایین‌تر شکست. این یعنی تصمیم گرفته شد که قیمت خیلی گران است.
+
+### dbrrbd_p14_350 hash=05f8a69edee146e9845390f51219b7134963cb59
+EN>>
+You will have many questions like this so keep analysing and presenting and even read as many threads on this forum as u can so much to learn.
+
+As ifmyante told me take as much time as u need. I can analyze a chart I'm just not able to trade it yet. Keep going bro.
+FA>>
+سؤال‌های زیادی مثل این خواهی داشت، پس تحلیل کن و کارهایت را ارائه بده و حتی تا می‌توانی تاپیک‌های این فروم را بخوان؛ چیزهای زیادی برای یاد گرفتن هست.
+
+همان‌طور که ifmyante به من گفت، هرقدر لازم داری وقت بگذار. من می‌توانم چارت را تحلیل کنم، فقط هنوز نمی‌توانم معامله‌اش کنم. ادامه بده برادر.
+

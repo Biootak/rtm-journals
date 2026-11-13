@@ -1,0 +1,401 @@
+### sniffing_p7_1
+EN: fxfury wrote: The S/R flip I sense is strong with you.
+
+Really been honing in on these levels, cause my gold anaylis is still spotty and I need to contribute to the gold team lol, good trading.
+
+and may the s/r flip be with you /
+
+Thanks fxfury
+FA: fxfury نوشت: احساس می‌کنم S/R flip در تو قوی است.
+
+واقعاً داری روی این سطوح متمرکز می‌شوی، چون تحلیل طلای من هنوز لکه‌دار است و باید به تیم طلا کمک کنم lol، معاملهٔ خوبی داشته باشی.
+
+و باشد که فلیپ S/R با تو باشد /
+
+ممنون fxfury
+
+### sniffing_p7_2
+EN: Hello everybody,
+
+I included liquidity gaps in my trading arsenal sometime ago after I have seen nobrainer's vid about liquidity gas and spikes. I really like the idea behind them alot.
+
+For everybody who wants to learn more about LQGs I recommend to watch the following 2 vids:
+
+	Nobrainer
+
+	Chris Lori
+
+I'm not sure I like the explaination in the vids about why the gaps tend to get closed but in the end they mostly do.
+
+Have fun and happy trading
+FA: سلام به همه،
+
+مدتی پیش، بعد از اینکه ویدئوی nobrainer را دربارهٔ گپ‌های نقدینگی و اسپایک‌ها دیدم، گپ‌های نقدینگی را هم به زرادخانهٔ معامله‌گری‌ام اضافه کردم. واقعاً ایدهٔ پشتشان را خیلی دوست دارم.
+
+هر کسی که می‌خواهد دربارهٔ LQG‌ها بیشتر یاد بگیرد، توصیه می‌کنم این دو ویدئو را ببیند:
+
+Nobrainer
+
+Chris Lori
+
+مطمئن نیستم توضیح آن ویدئوها دربارهٔ اینکه چرا گپ‌ها معمولاً بسته می‌شوند را بپسندم، اما در نهایت بیشترشان بسته می‌شوند.
+
+خوش بگذرد و معامله‌های خوبی داشته باشی
+
+### sniffing_p7_3
+EN: MCFly wrote: I'm not sure I like the explaination in the vids about why the gaps tend to get closed but in the end they mostly do.
+
+Everyone points at S/D, Balance and Imbalance in a different way without explaining the real mechanics behind it.
+
+Although in my previous posts I tried to make it clear why LQ gap gets filled but I’ll repeat it in a simple phrase;
+
+In LTF LQ gaps gets filled because - When pro money enter with their big orders it moves the price away and against their entry price, therefore they await for price to return to their entry price to continue adding their orders.
+
+In HTF LQ gaps get filled because – When pro money closes their buy orders they become sellers, and when they close their sell orders they become buyers.
+
+Thank you.
+FA: MCFly نوشت: مطمئن نیستم توضیح آن ویدئوها دربارهٔ اینکه چرا گپ‌ها معمولاً بسته می‌شوند را بپسندم، اما در نهایت بیشترشان بسته می‌شوند.
+
+همه به شکلی متفاوت به S/D، تعادل و عدم تعادل اشاره می‌کنند، بدون اینکه سازوکار واقعی پشتش را توضیح بدهند.
+
+هرچند در پست‌های قبلی‌ام تلاش کردم روشن کنم چرا گپ LQ پر می‌شود، اما با یک عبارت ساده تکرارش می‌کنم:
+
+در LTF گپ‌های LQ پر می‌شوند چون - وقتی پول حرفه‌ای با سفارش‌های بزرگش وارد می‌شود، قیمت را از قیمت ورودش دور می‌کند و بر خلاف آن حرکت می‌دهد، بنابراین منتظر می‌ماند قیمت به قیمت ورودش برگردد تا افزودن سفارش‌هایش را ادامه دهد.
+
+در HTF گپ‌های LQ پر می‌شوند چون - وقتی پول حرفه‌ای سفارش‌های خریدش را می‌بندد، فروشنده می‌شود، و وقتی سفارش‌های فروشش را می‌بندد، خریدار می‌شود.
+
+ممنون.
+
+### sniffing_p7_4
+EN: Hi FXSniffer,
+
+I made a little mistake. I have posted the short nobrainer vid but there was a longer one and it seems it is no longer available on youtube. I was refering to the longer vid. In this vid nobrainer said that when the big pockets of demand/supply come in the market makers are not able to hedge or cover their risk at any given point of time because of missing liquidity on the bid/ask side. Now at some point "somebody" is stepping in to close the gaps in order to help to stabilize price.
+
+So what he says is that gap filling is covering naked exposure. I don't think that's the whole story. I'm sharing your opinion.
+FA: سلام FXSniffer،
+
+یک اشتباه کوچک کردم. ویدئوی کوتاه nobrainer را گذاشتم، اما یک ویدئوی بلندتر هم بود که ظاهراً دیگر در یوتیوب موجود نیست. منظورم همان ویدئوی بلندتر بود. در آن ویدئو nobrainer گفت وقتی جیب‌های بزرگ تقاضا/عرضه وارد بازار می‌شوند، مارکت‌میکرها به‌خاطر کمبود نقدینگی در سمت بید/آسک نمی‌توانند در هیچ لحظه‌ای ریسکشان را هج یا پوشش دهند. حالا در نقطه‌ای «یک کسی» وارد می‌شود تا گپ‌ها را ببندد و به تثبیت قیمت کمک کند.
+
+پس حرف او این است که پر کردن گپ یعنی پوشش دادن ریسک باز. فکر نمی‌کنم تمام ماجرا این باشد. با نظر تو موافقم.
+
+### sniffing_p7_5
+EN: MCFly wrote: Hi FXSniffer,
+
+I made a little mistake. I have posted the short nobrainer vid but there was a longer one and it seems it is no longer available on youtube. I was refering to the longer vid. In this vid nobrainer said that when the big pockets of demand/supply come in the market makers are not able to hedge or cover their risk at any given point of time because of missing liquidity on the bid/ask side. Now at some point "somebody" is stepping in to close the gaps in order to help to stabilize price.
+
+So what he says is that gap filling is covering naked exposure. I don't think that's the whole story. I'm sharing your opinion.
+
+Makes sense McFly, institutional market makers/dealers are the specialists, they are in the same rank as pro money, in fact they deal directly with individual and institutional pro money, they are an informed traders due to their big informed clients. They have to act quickly and silently in hedging their client's orders before anyone else notice. In worst cases in order to keep their client they can take big losses over a long time of period due to their capital but they know how to return their losses with a bit of profit.
+
+Cheers,
+FA: MCFly نوشت: سلام FXSniffer،
+
+یک اشتباه کوچک کردم. ویدئوی کوتاه nobrainer را گذاشتم، اما یک ویدئوی بلندتر هم بود که ظاهراً دیگر در یوتیوب موجود نیست. منظورم همان ویدئوی بلندتر بود. در آن ویدئو nobrainer گفت وقتی جیب‌های بزرگ تقاضا/عرضه وارد بازار می‌شوند، مارکت‌میکرها به‌خاطر کمبود نقدینگی در سمت بید/آسک نمی‌توانند در هیچ لحظه‌ای ریسکشان را هج یا پوشش دهند. حالا در نقطه‌ای «یک کسی» وارد می‌شود تا گپ‌ها را ببندد و به تثبیت قیمت کمک کند.
+
+پس حرف او این است که پر کردن گپ یعنی پوشش دادن ریسک باز. فکر نمی‌کنم تمام ماجرا این باشد. با نظر تو موافقم.
+
+منطقی است McFly؛ مارکت‌میکرها/دیلرهای نهادی همان متخصص‌ها هستند، در همان ردهٔ پول حرفه‌ای قرار دارند، و در واقع مستقیماً با پول حرفه‌ای فردی و نهادی سروکار دارند؛ به‌خاطر مشتریان بزرگ و آگاهشان، خودشان هم معامله‌گر آگاه محسوب می‌شوند. باید سریع و بی‌سروصدا، پیش از آنکه کسی متوجه شود، سفارش‌های مشتریانشان را هج کنند. در بدترین حالت‌ها، برای نگه داشتن مشتری می‌توانند به‌خاطر سرمایه‌شان مدت طولانی متحمل ضررهای بزرگ شوند، اما می‌دانند چطور ضررشان را با کمی سود برگردانند.
+
+با احترام،
+
+### sniffing_p7_6
+EN: Crude oil ..... price was sitting above D1 S/R, in M15 price closed above resistance, made a new high.
+
+Entry was after retest of resistance which is now support and right after the two small bearish (white candles) a sign of buying.
+
+Targeting the two supple zones on daily chart and mental SL below the new support just for now.
+FA: نفت خام... قیمت بالای S/R روزانه نشسته بود، در M15 با بسته شدن بالای مقاومت، سقف جدیدی ساخت.
+
+ورود بعد از ریتست مقاومتی بود که حالا حمایت است و درست بعد از دو کندل نزولی کوچک (کندل‌های سفید) که نشانهٔ خرید بود.
+
+تارگت دو زون عرضهٔ چارت روزانه و یک استاپ‌لاس ذهنی زیر حمایت جدید، فعلاً همین.
+
+### sniffing_p7_7
+EN: FX.Sniffer wrote: Crude oil ..... price was sitting above D1 S/R, in M15 price closed above resistance, made a new high.
+
+Entry was after retest of resistance which is now support and right after the two small bearish (white candles) a sign of buying.
+
+Targeting the two supple zones on daily chart and mental SL below the new support just for now.
+
+Really nice trade. This is the sort of entry that I wish to work on more - i.e. something that sits
+
+well in the HTF but with the M15, which I think suits my personality for the trigger pull.
+
+I like how in certain contexts, bearish candles can/should be read as bullish signs.
+FA: FX.Sniffer نوشت: نفت خام... قیمت بالای S/R روزانه نشسته بود، در M15 با بسته شدن بالای مقاومت، سقف جدیدی ساخت.
+
+ورود بعد از ریتست مقاومتی بود که حالا حمایت است و درست بعد از دو کندل نزولی کوچک (کندل‌های سفید) که نشانهٔ خرید بود.
+
+تارگت دو زون عرضهٔ چارت روزانه و یک استاپ‌لاس ذهنی زیر حمایت جدید، فعلاً همین.
+
+معاملهٔ واقعاً خوبی بود. این همان نوع ورودی است که دوست دارم بیشتر رویش کار کنم - یعنی چیزی که
+
+در HTF خوب می‌نشیند اما با M15، که فکر می‌کنم با شخصیت من برای ماشه‌چکانی جور است.
+
+دوست دارم که در بافت‌های خاص، کندل‌های نزولی می‌توانند یا باید نشانه‌های صعودی خوانده شوند.
+
+### sniffing_p7_8
+EN: Gold...into demand with long spike and close above S/R, entry was on M5.
+FA: طلا... با یک اسپایک بلند وارد تقاضا شد و بالای S/R بست، ورود در M5 بود.
+
+### sniffing_p7_9
+EN: OH MAN !!!
+FA: یا خدا !!!
+
+### sniffing_p7_10
+EN: Thanks so much for doing this journal, great stuff
+FA: خیلی ممنون که این ژورنال را می‌نویسی، عالی است
+
+### sniffing_p7_11
+EN: Updating oil swing trade:
+
+M30 TF, price returned back to demand after creating a HH than last high, the S/R came from M5 and entry was a risky touch trade.
+
+M5 TF, entry was after touch of demand and S/R, price was dropping with momentum then slowed down and started bouncing aggressively from levels, think of how to turn your car a sharp 180 degree when driving fast then pulling the handbreak and rotating the steering wheel to one of the sides.
+
+same TF with a look to the left for source of S/R
+
+Daily TF, targets at D1 supply and I would change the whole plan if i see anything that i don't like.
+FA: به‌روزرسانی معاملهٔ سوئینگ نفت:
+
+تایم‌فریم M30، قیمت بعد از ساختن یک HH بالاتر از سقف قبلی به تقاضا برگشت، S/R از M5 آمده بود و ورود یک معاملهٔ لمسی پرریسک بود.
+
+تایم‌فریم M5، ورود بعد از لمس تقاضا و S/R بود؛ قیمت با مومنتوم در حال ریزش بود، بعد کند شد و شروع کرد به برگشت تهاجمی از سطوح. فکر کن چطور ماشینت را در حال رانندگی سریع 180 درجه می‌چرخانی، بعد ترمز دستی را می‌کشی و فرمان را به یکی از طرفین می‌چرخانی.
+
+همان تایم‌فریم با نگاهی به چپ برای منبع S/R
+
+تایم‌فریم روزانه، تارگت‌ها در عرضهٔ D1 است و اگر چیزی ببینم که خوشم نیاید، کل پلن را عوض می‌کنم.
+
+### sniffing_p7_12
+EN: FX.Sniffer wrote: Updating oil swing trade:
+
+M30 TF, price returned back to demand after creating a HH than last high, the S/R came from M5 and entry was a risky touch trade.
+
+M5 TF, entry was after touch of demand and S/R, price was dropping with momentum then slowed down and started bouncing aggressively from levels, think of how to turn your car a sharp 180 degree when driving fast then pulling the handbreak and rotating the steering wheel to one of the sides.
+
+same TF with a look to the left for source of S/R
+
+Daily TF, targets at D1 supply and I would change the whole plan if i see anything that i don't like.
+
+Looking at the same thing just dont possess the confidence yet to take the trade.
+FA: FX.Sniffer نوشت: به‌روزرسانی معاملهٔ سوئینگ نفت:
+
+تایم‌فریم M30، قیمت بعد از ساختن یک HH بالاتر از سقف قبلی به تقاضا برگشت، S/R از M5 آمده بود و ورود یک معاملهٔ لمسی پرریسک بود.
+
+تایم‌فریم M5، ورود بعد از لمس تقاضا و S/R بود؛ قیمت با مومنتوم در حال ریزش بود، بعد کند شد و شروع کرد به برگشت تهاجمی از سطوح. فکر کن چطور ماشینت را در حال رانندگی سریع 180 درجه می‌چرخانی، بعد ترمز دستی را می‌کشی و فرمان را به یکی از طرفین می‌چرخانی.
+
+همان تایم‌فریم با نگاهی به چپ برای منبع S/R
+
+تایم‌فریم روزانه، تارگت‌ها در عرضهٔ D1 است و اگر چیزی ببینم که خوشم نیاید، کل پلن را عوض می‌کنم.
+
+همان چیز را می‌بینم، فقط هنوز آن اعتماد به‌خود را ندارم که معامله را بگیرم.
+
+### sniffing_p7_13
+EN: Updating Gold;
+
+Compression on H1 sold it to the base of cp and a buy limit was activated with a SL below the minor S/R, entry as shown on M5 snapshot.
+
+Decided to close my swing buy just now.
+
+From buy entry to the HH is 2555 points.
+
+earned points: 1530 long + 601 short = 2131 points
+
+wasted points: 2555 - 2131 = 424 points if the current long works then i can earn it back
+FA: به‌روزرسانی طلا؛
+
+فشرده‌سازی در H1 قیمت را تا کف cp پایین برد و یک بای لیمیت با استاپ‌لاس زیر S/R فرعی فعال شد؛ ورود همان‌طور که در اسنپ‌شات M5 دیده می‌شود.
+
+همین حالا تصمیم گرفتم بای سوئینگم را ببندم.
+
+از ورود خرید تا HH، 2555 پوینت است.
+
+پوینت به‌دست‌آمده: 1530 لانگ + 601 شورت = 2131 پوینت
+
+پوینت هدررفته: 2555 - 2131 = 424 پوینت؛ اگر لانگ فعلی کار کند می‌توانم جبرانش کنم
+
+### sniffing_p7_14
+EN: Last update for oil;
+
+Went out and came back to find my two buy orders were stopped and guess where did price drop to?! could've bought it if i was there when it happened, whatever! there is always a next time.
+FA: آخرین به‌روزرسانی نفت؛
+
+رفتم بیرون و برگشتم و دیدم هر دو سفارش خریدم استاپ خوردند؛ حدس بزن قیمت تا کجا افتاد؟! اگر آن موقع آنجا بودم می‌توانستم بخرم، هر چه بادا باد! همیشه دفعهٔ بعدی هم هست.
+
+### sniffing_p7_15
+EN: For the record:
+
+An article version of
+	Post #83
+ can be found in the Markepedia by the title
+	Stacked Orders/Zones
+.
+FA: برای ثبت در تاریخ:
+
+نسخهٔ مقاله‌ای پست #83 را می‌توانید در Markepedia با عنوان «سفارش‌های چیندار/زون‌ها» پیدا کنید.
+
+### sniffing_p7_16
+EN: Watch the
+	Markepedia
+ for the upcoming article about Fakeout, will be published as soon as IF returns to us.
+
+Here is a snip about it... a daily gold chart showing a significant major key level which held price above and under for a long time, and played the role of "origin of move" for the big rally. When price returned to it forming a spike that nearly touched it, price immediately reversed in direction. This spike is considered a Fakeout in relation to the preceded swing low.
+FA: Markepedia را دنبال کنید برای مقالهٔ پیش رو دربارهٔ فیک‌اوت، که به‌محض بازگشت IF منتشر می‌شود.
+
+این هم تکه‌ای از آن... یک چارت روزانهٔ طلا که یک سطح کلیدی مهم را نشان می‌دهد که مدت‌ها قیمت را بالا و پایین خود نگه داشته بود و نقش «مبدأ حرکت» را برای رالی بزرگ بازی کرد. وقتی قیمت به آن برگشت و اسپایکی ساخت که تقریباً لمسش کرد، قیمت بلافاصله جهت عوض کرد. این اسپایک نسبت به کف سوئینگ قبلی، یک فیک‌اوت حساب می‌شود.
+
+### sniffing_p7_17
+EN: A bearish Fakeout on gold and into supply retesting the S/R level.
+FA: یک فیک‌اوت نزولی روی طلا و ورود به عرضه، در حال ریتست سطح S/R.
+
+### sniffing_p7_18
+EN: FXS,
+
+Thanks for your hard work and providing insights here in your journal. I really get a lot out of your entries.
+
+-DT
+FA: FXS،
+
+ممنون برای تلاشت و بینش‌هایی که اینجا در ژورنالت به اشتراک می‌گذاری. واقعاً از نوشته‌هایت کلی چیز یاد می‌گیرم.
+
+-DT
+
+### sniffing_p7_19
+EN: Some analysis on Gold;
+
+Starting with the weekly TF, price is residing below a key level preceded by a bearish engulf, if we combine the engulf with the one next to it on the left we'll get an inverted bearish pb with close below KL. The this week could a retest of KL or a change in decision but or me taking into consideration the break of engulf's low is a sign bearish move.
+
+Note: we can clearly see a strong selling with momentum from the top swing high to the present area.
+
+Next is H4 TF, and potential zones and S/R flips from the same TF. on the far right side price broke through the S/R and into the DBD which has a stacked DP from LTF, a successful retest of the broken S/R will push the price higher to the KL and lower edge of the large broken demand (now supply) where it should drop from there. A break through the next higher S/R could change the whole scenario.
+
+A failure retest of current S/R breaking it south is also a change in scenario and an end of retracement.
+
+Finally M30 TF, same levels from previous TF and a clearer view of the stacked supply zones. So now it's up to PA to guide us.
+FA: چند تحلیلی روی طلا؛
+
+با تایم‌فریم هفتگی شروع می‌کنم: قیمت زیر یک سطح کلیدی نشسته که پیش از آن یک اینگالف نزولی بوده. اگر اینگالف را با اینگالف کنارش در سمت چپ ترکیب کنیم، یک pb نزولی معکوس با بسته شدن زیر KL به‌دست می‌آید. این هفته می‌تواند ریتست KL باشد یا تغییر تصمیم، اما برای من شکست کف اینگالف نشانهٔ حرکت نزولی است.
+
+نکته: می‌توانیم به‌وضوح یک فروش قوی با مومنتوم را از سقف سوئینگ بالا تا ناحیهٔ فعلی ببینیم.
+
+بعد H4 است، و زون‌های بالقوه و S/R flip‌های همین تایم‌فریم. در سمت راست چارت، قیمت از S/R عبور کرد و وارد DBD شد که یک DP چیده‌شده از LTF دارد؛ یک ریتست موفق از S/R شکسته‌شده قیمت را بالاتر به KL و لبهٔ پایینی تقاضای بزرگ شکسته‌شده (که حالا عرضه است) می‌برد، جایی که باید از آنجا بریزد. شکست S/R بالاتر بعدی می‌تواند کل سناریو را عوض کند.
+
+ریتست ناموفق S/R فعلی و شکستن آن به سمت جنوب هم تغییری در سناریو و پایان اصلاح است.
+
+در آخر M30، همان سطوح تایم‌فریم قبلی و دید روشن‌تری از زون‌های عرضهٔ چیده‌شده. پس حالا کار به PA سپرده شده که راهنمایمان کند.
+
+### sniffing_p7_20
+EN: A look on Silver;
+
+Daily TF: price bounced from a key level creating a bullish engulf and today it broke the high of engulf (a sign of continuation) to fill the Lq gaps and into supply.
+
+H4 TF: consuming the current H4 supply will clear the way for price to rise higher.
+FA: نگاهی به نقره؛
+
+تایم‌فریم روزانه: قیمت از یک سطح کلیدی برگشت و یک اینگالف صعودی ساخت و امروز سقف اینگالف را شکست (نشانهٔ ادامه) تا گپ‌های Lq را پر کند و وارد عرضه شود.
+
+تایم‌فریم H4: مصرف عرضهٔ فعلی H4 راه را برای بالاتر رفتن قیمت باز می‌کند.
+
+### sniffing_p7_21
+EN: Hello, FxSniffer.
+
+Your oil trade into supply was awesome.
+
+I will start looking for trades where D/S zones might work as magnets of price.
+
+I hope you get many pips out of that.
+
+As to your price analysis of gold in your weekly chart, I think the key level is somewhat lower, as the following image suggests:
+
+You do highlight that price in your daily chart later on, though.
+
+The key level you point out looks like range trading to me.
+
+The reason behind the key level that you point out in Gold M30 for me, is the following:
+
+Please let me know what you think.
+
+Cheers
+FA: سلام، FxSniffer.
+
+معاملهٔ نفتی‌ات به سمت عرضه فوق‌العاده بود.
+
+شروع می‌کنم به دنبال معاملاتی بگردم که زون‌های D/S مثل آهن‌ربا برای قیمت عمل می‌کنند.
+
+امیدوارم کلی پیپ از آن دربیاوری.
+
+دربارهٔ تحلیل قیمت طلا در چارت هفتگی‌ات، فکر می‌کنم سطح کلیدی کمی پایین‌تر است، همان‌طور که تصویر زیر نشان می‌دهد:
+
+البته بعداً در چارت روزانه‌ات همان قیمت را برجسته می‌کنی.
+
+سطح کلیدی که اشاره می‌کنی به نظر من رنج است.
+
+دلیل سطح کلیدی که در طلای M30 به آن اشاره می‌کنی برای من این است:
+
+لطفاً بگو نظرت چیست.
+
+با احترام
+
+### sniffing_p7_22
+EN: Hi ttfreitas, thanks and if you look at oil now its at the daily supply, would've been great if i wasn't stopped out on the pullbacks, I usually don'y use SL for swings but i'm forcing myself to do so in every trade in preparation for the RTM demo trading and later on the RTM live trading. Trading a managed account should be handled with more responsibility than personal account.
+
+As for the Gold, I didn't mention that it's a major KL, i use the term KL for minor KL and S/R but i prefer the term KL if it was located it from a HTF, anyway don't wanna confuse you with terms but it is a KL not a major one. The green line you marked on my weekly chart is a Major KL or call it a major S/R flip if you like.
+
+Anyway, you're right about the KL being a range area and this is why I've marked the S/Rs on H4 and the three scenarios for price behavior.
+
+Now the funny thing is just before i see your question I was testing the RTM demo platform and it has a different data feed from what I use. So I marked the KL as I see it on that platform and its not so different from my previous charts.
+
+Here is the D1 chart: the upper line is a weekly KL and its the same as in my previous post, the pointers to locate where it held price above and below.
+
+Next chart is H4: the lower line is an H4 KL and its so close to the price value of H4 S/R from the previous post. However remember that lines or levels represents areas and not a specific price value, what matters is the PA around the level.
+
+The feed could be better on this one in some cases and mine could also be better in other cases. Now price is retesting the H4 S/R from my previous post and its below the KL on this chart so the testing is ongoing
+
+P.S. I'm not sure if I've answered you question or not, just let me know.
+FA: سلام ttfreitas، ممنون؛ اگر الان به نفت نگاه کنی در عرضهٔ روزانه است، عالی می‌شد اگر در پولبک‌ها استاپ نمی‌خوردم. من معمولاً برای سوئینگ‌ها استاپ‌لاس نمی‌گذارم، اما دارم خودم را مجبور می‌کنم در هر معامله این کار را بکنم، به‌عنوان آماده‌سازی برای معامله‌گری دموی RTM و بعدتر معامله‌گری لایو RTM. معامله با حساب مدیریت‌شده باید با مسئولیت بیشتری از حساب شخصی اداره شود.
+
+دربارهٔ طلا، نگفتم که KL اصلی است؛ من اصطلاح KL را برای KL‌های فرعی و S/R به کار می‌برم، اما اگر از HTF آمده باشد ترجیح می‌دهم KL بگویم. به‌هرحال نمی‌خواهم با اصطلاحات گیجت کنم، اما KL است و KL اصلی نیست. خط سبزی که روی چارت هفتگی‌ام علامت زدی یک KL اصلی است، یا اگر بخواهی اسمش را بگذار فلیپ S/R اصلی.
+
+به‌هرحال، حق داری که آن KL یک ناحیهٔ رنج است و همین دلیل است که S/R‌ها را روی H4 و سه سناریو برای رفتار قیمت علامت زدم.
+
+حالا بامزه‌اش این است که درست قبل از دیدن سؤالت داشتم پلتفرم دموی RTM را تست می‌کردم و فید داده‌اش با چیزی که من استفاده می‌کنم فرق دارد. پس KL را همان‌طور که در آن پلتفرم می‌بینم علامت زدم و تفاوتش با چارت‌های قبلی‌ام زیاد نیست.
+
+این هم چارت D1: خط بالایی یک KL هفتگی است و همان قبلی است، اشاره‌گرها هم جای نگه داشتن قیمت در بالا و پایین را نشان می‌دهند.
+
+چارت بعدی H4 است: خط پایینی یک KL در H4 است و به مقدار قیمتی S/R در H4 از پست قبلی خیلی نزدیک است. اما یادت باشد خطوط یا سطوح نشان‌دهندهٔ ناحیه‌اند نه یک مقدار قیمتی مشخص؛ چیزی که مهم است PA حول آن سطح است.
+
+فید در این یکی در بعضی موارد می‌تواند بهتر باشد و فید من هم در موارد دیگر. حالا قیمت در حال ریتست S/R در H4 از پست قبلی من است و زیر KL این چارت قرار دارد، پس تست همچنان ادامه دارد
+
+پ.ن. مطمئن نیستم جواب سؤالت را داده باشم یا نه، خبرم کن.
+
+### sniffing_p7_23
+EN: Gold update: the retest of S/R created a fakeout (marked with red pointer) but price structure on the left wasn't clear enough for a good entry. However, i'm sticking to my chart's feed GMT+2
+
+Now price is sitting under a D1 supply zone (wide blue zone above) and at another minor S/R flip and LQGs were filled on D1, will watch how it reacts but no trades for today.
+
+Silver update: shinny silver was the lead in this bullish move with a far better price structure. LQG got filled on D1 and price has reached its destination, to look for a sell.
+FA: به‌روزرسانی طلا: ریتست S/R یک فیک‌اوت ساخت (با اشاره‌گر قرمز مشخص شده) اما ساختار قیمت در سمت چپ به‌قدر کافی برای یک ورود خوب روشن نبود. به‌هرحال، من به فید چارت خودم پایبندم، GMT+2
+
+حالا قیمت زیر یک زون عرضهٔ D1 (زون آبی پهن بالای چارت) و روی یک S/R flip فرعی دیگر نشسته و گپ‌های LQG در D1 پر شده‌اند؛ ببینم چطور واکنش می‌دهد، اما امروز معامله‌ای نمی‌کنم.
+
+به‌روزرسانی نقره: نقرهٔ براق در این حرکت صعودی پیشرو بود با ساختار قیمتی به‌مراتب بهتر. گپ LQG در D1 پر شد و قیمت به مقصدش رسید، برای جست‌وجوی یک فروش.
+
+### sniffing_p7_24
+EN: Thanks alot sniffer for this top down analysis.
+
+For some reason I keep getting lost in my charts and the levels and losing whats important.
+
+Its like Tossing a handful of red M&Ms in a jar of red marbles. The beginner keeps getting lost thinking is that an M&M, seeing things that arent actually there were the experienced viewer can quickly scan and doesnt get fooled.
+FA: خیلی ممنون sniffer برای این تحلیل از بالا به پایین.
+
+به دلیلی مدام در چارت‌ها و سطوح گم می‌شوم و چیزهای مهم را از دست می‌دهم.
+
+مثل ریختن یک مشت M&M قرمز در شیشه‌ای پر از تیله‌های قرمز است. تازه‌کار مدام گم می‌شود و فکر می‌کند آن یکی M&M است، چیزهایی می‌بیند که واقعاً آنجا نیستند، در حالی که بینندهٔ باتجربه سریع اسکن می‌کند و فریب نمی‌خورد.
+
+### sniffing_p7_25
+EN: A quick short on gu.
+
+so clear and simple, no need to comment on it.
+FA: یک شورت سریع روی gu.
+
+آن‌قدر واضح و ساده که نیازی به شرح ندارد.

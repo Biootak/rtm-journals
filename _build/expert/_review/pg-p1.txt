@@ -1,0 +1,168 @@
+===== pg-p1 : 25 posts =====
+--- pg_p1_1 author=prosenjitghosh hash=37e44a9d
+EN: Hi Friends, I went through all the materials I found here in RTM, whether it is Marketpedia, Homework section or Journals, I found all of them to be extremely important and simple to learn, nevertheless to say, this is a Gem of a Community, where all the members are actively participating, sharing and learning together.
+
+Well I believe, "Knowledge is the only thing, that increases by sharing". And happy to see that happening here, time and again.
+
+And this is what is knocking in my head, to open my own "Journal" to carry on with the spirit of "Learning by sharing". So henceforth, I will post here, all the analysis I do or whatever doubts I have or something new which I come across, in terms of RTM style of Trading and Psychology.
+
+And one request, please do pardon my bad English, as my Mother Language is Bengali.
+
+Thanks and Regards, Prosenjit (PG)
+FA: سلام دوستان، تمام مطالبی را که اینجا در RTM پیدا کردم خواندم؛ چه در بخش Marketpedia، چه در بخش تکالیف و چه در ژورنال‌ها. همه‌شان را بسیار مهم و یادگیری‌شان را ساده دیدم. نیازی به گفتن نیست که این انجمن واقعاً یک گوهر است؛ جایی که همهٔ اعضا فعالانه مشارکت می‌کنند، دانسته‌هایشان را به اشتراک می‌گذارند و با هم یاد می‌گیرند.
+
+من معتقدم «دانش تنها چیزی است که با به اشتراک گذاشتن بیشتر می‌شود». خوشحالم که این اتفاق را بارها و بارها اینجا می‌بینم.
+
+همین موضوع مدام در ذهنم بود و مرا به فکر راه‌اندازی «ژورنال» خودم انداخت تا روحیهٔ «یادگیری از راه به اشتراک گذاشتن» را ادامه دهم. از این به بعد، تمام تحلیل‌هایم، هر ابهامی که دارم یا هر نکتهٔ تازه‌ای که دربارهٔ سبک معاملاتی RTM و روان‌شناسی معامله‌گری با آن روبه‌رو می‌شوم، اینجا می‌گذارم.
+
+یک خواهش هم دارم؛ لطفاً ضعف زبان انگلیسی‌ام را ببخشید، چون زبان مادری‌ام بنگالی است.
+
+با تشکر و احترام، Prosenjit (PG)
+--- pg_p1_2 author=prosenjitghosh hash=13d619f2
+EN: Working on Decision Points, SR's, Engulfs and FTR's. Trying to discriminate the difference between FTR and a reaction (DBR) in a Flag Area.
+FA: دارم روی نقاط تصمیم‌گیری، SR، اینگالف‌ها و FTR کار می‌کنم. سعی می‌کنم تفاوت بین FTR و یک واکنش (DBR) در محدودهٔ FLAG را تشخیص بدهم.
+--- pg_p1_3 author=prosenjitghosh hash=b47ae130
+EN: Trying to confluence RTM strategies with Investment strategies in Indian Index (Nifty) and trying to forecast it's future direction.
+FA: سعی می‌کنم استراتژی‌های RTM را با استراتژی‌های سرمایه‌گذاری روی شاخص هند (Nifty) ترکیب کنم و جهت حرکت آیندهٔ آن را پیش‌بینی کنم.
+--- pg_p1_4 author=prosenjitghosh hash=ef14fc55
+EN: When we identify a Quasimodo in a Monthly chart, the trade is going to be a SET and FORGET one for sure. I took this trade in Options but closed it a little early because of my emotional effects. Seems need to manage emotions in a better way.
+FA: وقتی در نمودار ماهانه یک کوازیمودو شناسایی می‌کنیم، قطعاً معامله‌ای از نوع «تنظیم کن و رهایش کن» خواهد بود. این معامله را با اختیار معامله انجام دادم، اما تحت‌تأثیر احساساتم کمی زود بستمش. به نظر می‌رسد باید احساساتم را بهتر مدیریت کنم.
+--- pg_p1_5 author=Kovalenko hash=b2e5fee7
+EN: prosenjitghosh wrote: Working on Decision Points, SR's, Engulfs and FTR's. Trying to discriminate the difference between FTR and a reaction (DBR) in a Flag Area.
+
+Not bad.
+
+a bit time and you see your mistakes. I don't want to make corrections.. I
+
+see you soon correct these mistakes.
+FA: prosenjitghosh نوشت: دارم روی نقاط تصمیم‌گیری، SR، اینگالف‌ها و FTR کار می‌کنم. سعی می‌کنم تفاوت بین FTR و یک واکنش (DBR) در محدودهٔ FLAG را تشخیص بدهم.
+
+بد نیست.
+
+کمی زمان بگذرد، خودت اشتباه‌هایت را می‌بینی. نمی‌خواهم اصلاحشان کنم... من
+
+می‌بینم که به‌زودی خودت این اشتباه‌ها را اصلاح می‌کنی.
+--- pg_p1_6 author=prosenjitghosh hash=afa37000
+EN: Thank you very much for your feedback, shall surely try to find out my mistakes.
+FA: خیلی ممنون از بازخوردت، حتماً سعی می‌کنم اشتباه‌هایم را پیدا کنم.
+--- pg_p1_7 author=prosenjitghosh hash=b504a3f5
+EN: Working on PAZ, CP PAZ, FTR and FL
+FA: دارم روی PAZ، CP PAZ، FTR و FL کار می‌کنم.
+--- pg_p1_8 author=prosenjitghosh hash=2d982bb8
+EN: Well I have rectified the mistakes, hope this time I have made it correct...
+FA: خب، اشتباه‌ها را اصلاح کردم؛ امیدوارم این بار درست انجام داده باشم...
+--- pg_p1_9 author=prosenjitghosh hash=020d9336
+EN: Spotted another Diamond today...
+FA: امروز یک الگوی الماس دیگر پیدا کردم...
+--- pg_p1_10 author=prosenjitghosh hash=ae8668d0
+EN: Liquidity Spike to a True Supply after Compression.
+FA: اسپایک نقدینگی به سمت یک ناحیهٔ عرضهٔ واقعی پس از فشردگی.
+--- pg_p1_11 author=ZeeDeveel hash=81d6e4ba
+EN: Yeah nice, these are very good opportunities... Price struggles to move up then suddenly explodes upwards into supply. Very high probability fakeout.:) Well done.
+FA: بله، عالی است؛ این‌ها فرصت‌های خیلی خوبی هستند... قیمت برای بالا رفتن تقلا می‌کند، بعد ناگهان با جهشی شدید وارد عرضه می‌شود. احتمال فیک‌اوت بسیار بالاست. :) آفرین.
+--- pg_p1_12 author=prosenjitghosh hash=ecb5bdbe
+EN: Reading a session
+FA: خواندن یک سشن
+--- pg_p1_13 author=praveenignite hash=c3834387
+EN: Engulf (1) will be FO, bcoz (4) Engulfed ( i.e after (4) engulf formation, (1) becomes FO)
+FA: اینگالف (1) به FO تبدیل می‌شود، چون (4) اینگالف کرده است (یعنی پس از تشکیل اینگالف (4)، مورد (1) به FO تبدیل می‌شود).
+--- pg_p1_14 author=prosenjitghosh hash=5346b2d4
+EN: The trade went exactly as per plan, only missed out in the long trade. That pivot in a Lower Time Frame is a FTR. And look how it worked as a Bear Trap. Shall keep a watch on such things next time.
+
+In LTF the pivot looks like a FTR and it reacted so well.
+FA: معامله دقیقاً طبق برنامه پیش رفت؛ فقط معاملهٔ خرید را از دست دادم. آن پیوت در تایم‌فریم پایین‌تر یک FTR است. ببینید چطور نقش تلهٔ فروشندگان را ایفا کرد. دفعهٔ بعد حواسم به چنین مواردی خواهد بود.
+
+در تایم‌فریم پایین‌تر، پیوت شبیه FTR است و واکنش خیلی خوبی نشان داد.
+--- pg_p1_15 author=prosenjitghosh hash=9d4423d5
+EN: Crude trade, got full target
+FA: معاملهٔ نفت خام، تارگت کامل محقق شد.
+--- pg_p1_16 author=tudor3 hash=10dede86
+EN: Hi
+
+After you've done your analysis on candlestick chart, check line chart also....you wouldn't miss out any important FTRs
+FA: سلام
+
+بعد از اینکه تحلیلت را روی نمودار کندلی انجام دادی، نمودار خطی را هم بررسی کن... این‌طوری هیچ FTR مهمی را از دست نمی‌دهی.
+--- pg_p1_17 author=claudiuschan hash=9c8d489a
+EN: Like your journal posts, clear and concise. Keep it Up..!
+FA: پست‌های ژورنالت را دوست دارم؛ روشن و مختصرند. ادامه بده...!
+--- pg_p1_18 author=Ifmyante hash=6576388d
+EN: I can't recommend the use of line charts at all.
+
+We need the highs AND lows of every candle to read PA
+FA: اصلاً نمی‌توانم استفاده از نمودار خطی را توصیه کنم.
+
+برای خواندن PA، هم سقف و هم کف هر کندل را لازم داریم.
+--- pg_p1_19 author=prosenjitghosh hash=c42ec676
+EN: Ifmyante wrote: I can't recommend the use of line charts at all.
+
+We need the highs AND lows of every candle to read PA
+
+Noted, shall follow candlestick charts only....
+FA: Ifmyante نوشت: اصلاً نمی‌توانم استفاده از نمودار خطی را توصیه کنم.
+
+برای خواندن PA، هم سقف و هم کف هر کندل را لازم داریم.
+
+متوجه شدم، فقط نمودارهای کندلی را دنبال می‌کنم...
+--- pg_p1_20 author=prosenjitghosh hash=c76515fa
+EN: Reading a Session, Decision Points and trying to predict future movement. Weekly Chart
+
+Daily Chart
+
+60 Minutes Chart
+FA: خواندن یک سشن و نقاط تصمیم‌گیری و تلاش برای پیش‌بینی حرکت آینده. نمودار هفتگی
+
+نمودار روزانه
+
+نمودار 60 دقیقه‌ای
+--- pg_p1_21 author=prosenjitghosh hash=19f291bf
+EN: prosenjitghosh wrote: Reading a Session, Decision Points and trying to predict future movement. Weekly Chart
+
+Daily Chart
+
+60 Minutes Chart
+
+Today's update on the same trade.
+FA: prosenjitghosh نوشت: خواندن یک سشن و نقاط تصمیم‌گیری و تلاش برای پیش‌بینی حرکت آینده. نمودار هفتگی
+
+نمودار روزانه
+
+نمودار 60 دقیقه‌ای
+
+به‌روزرسانی امروزِ همان معامله.
+--- pg_p1_22 author=prosenjitghosh hash=0d346a1c
+EN: Today's crude Short and Long Trades: Quasimodo, FTR, FL, PAZ, CP PAZ, etc.
+FA: معاملات فروش و خرید امروز روی نفت خام: کوازیمودو، FTR، FL، PAZ، CP PAZ و غیره.
+--- pg_p1_23 author=prosenjitghosh hash=d9b22446
+EN: prosenjitghosh wrote:
+
+prosenjitghosh wrote: Reading a Session, Decision Points and trying to predict future movement. Weekly Chart
+
+Daily Chart
+
+60 Minutes Chart
+
+Today's update on the same trade.
+
+Update on the same trade. Learned something new and Read a session, decision making and Diamond. 60 Mins chart
+
+And today's 5 mins chart
+FA: prosenjitghosh نوشت:
+
+prosenjitghosh نوشت: خواندن یک سشن و نقاط تصمیم‌گیری و تلاش برای پیش‌بینی حرکت آینده. نمودار هفتگی
+
+نمودار روزانه
+
+نمودار 60 دقیقه‌ای
+
+به‌روزرسانی امروزِ همان معامله.
+
+به‌روزرسانی همان معامله. نکتهٔ تازه‌ای یاد گرفتم و یک سشن، تصمیم‌گیری و الگوی الماس را خواندم. نمودار 60 دقیقه‌ای
+
+و نمودار 5 دقیقه‌ای امروز
+--- pg_p1_24 author=prosenjitghosh hash=025634c7
+EN: The game of Compression, Liquidity Gap, SR Flip's, Fake outs and the Institutions game plan for the conventional pattern trader's.
+FA: بازی فشردگی، شکاف نقدینگی، تبدیل نقش SR، فیک‌اوت‌ها و نقشهٔ بازی مؤسسات برای معامله‌گران الگوهای متداول.
+--- pg_p1_25 author=prosenjitghosh hash=04b7df2d
+EN: Pending homework of "The CANCAN"
+FA: تکلیف عقب‌ماندهٔ «CANCAN»

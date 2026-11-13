@@ -1,0 +1,300 @@
+### dbrrbd_p6_126 hash=312653dd65c63adb8317635b01682790c5c6402d
+EN>>
+a lot of history around that aud/usd charts; hope it makes sense. of course, just my 0,2 €
+
+the first 2 charts are from which instruments?
+FA>>
+تاریخچهٔ زیادی دور آن چارت‌های aud/usd هست؛ امیدوارم منطقی باشد. البته این فقط 0,2 € من است
+
+دو چارت اول مربوط به کدام نمادها هستند؟
+
+### dbrrbd_p6_127 hash=c3f8a447f81a0c29ddad593da0c5abd5d3ee614c
+EN>>
+1st attempt! I didn't label everything as then the chart would be unreadable. Next task is to look at different timeframes for explanations of when demand or supply levels didn't hold etc.
+
+Any comments / criticisms would be gratefully accepted - thanks!
+FA>>
+اولین تلاش! همه‌چیز را برچسب نزدم، چون آن‌وقت چارت ناخوانا می‌شد. کار بعدی این است که تایم‌فریم‌های مختلف را نگاه کنم تا توضیحی پیدا کنم برای مواردی که سطوح تقاضا یا عرضه دوام نیاوردند و غیره.
+
+هر نظر یا نقدی را با سپاس می‌پذیرم — ممنون!
+
+### dbrrbd_p6_128 hash=da97a657e1906a5accc6b0a826a18a0aa1ed8862
+EN>>
+whiteout wrote: a lot of history around that aud/usd charts; hope it makes sense. of course, just my 0,2 €
+
+the first 2 charts are from which instruments?
+
+Hi Whiteout, thanks for the heads up.
+
+The first 2 charts are USDCHF (when cleaning up my charts I appear to have cleaned off some of the names as well:))
+
+Re the AU chart. One of the problems I'm having is judging the implications of compression. To my brain those long wicks appearing during the distribution phase of the original H4 infer that should price go long it won't have a problem sailing up through that area. But I may be completely wrong on this.
+
+Another issue I'm having seems to be with Alpari's charts, which the time to CET (GMT -2 hours). It means that I get the occasional funny looking setup. It's even had me go long into a level that looked to me like a speedbump on my charts but on other feeds was a textbook H4 supply level.
+
+A solution to both these issues seems to be wrapping lines around the level of interest and then once price touches, move down to a M1 chart and basically start looking and waiting for the reversal + signals to happen in real time.
+
+Can I ask how you would time a trade like this one because if you see the attached H1 chart of the original level you'll notice that all the candles in the area seem engulfed. The only "fresh" area in the level looks to me to be around 1.0645 and price didn't reach it.
+
+Thanks for your time.
+FA>>
+whiteout نوشت: تاریخچهٔ زیادی دور آن چارت‌های aud/usd هست؛ امیدوارم منطقی باشد. البته این فقط 0,2 € من است
+
+دو چارت اول مربوط به کدام نمادها هستند؟
+
+سلام Whiteout، ممنون از تذکر.
+
+دو چارت اول USDCHF هستند (وقتی چارت‌هایم را مرتب می‌کردم، ظاهراً بعضی از نام‌ها را هم پاک کردم:))
+
+در مورد چارت AU. یکی از مشکلاتی که دارم قضاوت دربارهٔ پیامدهای فشرده‌سازی است. به ذهن من آن سایه‌های بلندی که در فاز توزیع H4 اصلی ظاهر می‌شوند این را می‌رسانند که اگر قیمت بخواهد بالا برود، مشکلی برای عبور از آن ناحیه نخواهد داشت. اما ممکن است کاملاً در اشتباه باشم.
+
+مشکل دیگری که دارم به چارت‌های Alpari مربوط می‌شود که زمان را روی CET تنظیم می‌کنند (GMT -2 ساعت). یعنی گاهی ستاپ عجیب‌وغریبی می‌بینم. حتی باعث شده در سطحی لانگ بروم که در چارت من شبیه یک دست‌انداز بود، اما در فیدهای دیگر یک سطح عرضهٔ کتابی H4 بود.
+
+به نظر می‌رسد راه‌حل هر دو مشکل این باشد که خطوطی دور سطح موردنظر بکشم و بعد، به‌محض اینکه قیمت لمس کرد، به چارت M1 بروم و عملاً شروع کنم به نگاه کردن و منتظر ماندن برای برگشت + سیگنال‌ها در زمان واقعی.
+
+می‌توانم بپرسم تو این معامله را چطور تایم‌بندی می‌کردی، چون اگر چارت H1 پیوست‌شده از سطح اصلی را ببینی متوجه می‌شوی که همهٔ کندل‌های آن ناحیه به نظر می‌رسد اینگالف شده‌اند. تنها ناحیهٔ «تازه» در سطح، به نظر من حوالی 1.0645 است و قیمت به آن نرسید.
+
+ممنون از وقتی که گذاشتی.
+
+### dbrrbd_p6_129 hash=0bde43050c81436646832c44bf125fea5b47e2ff
+EN>>
+Simon wrote:
+
+whiteout wrote: Can I ask how you would time a trade like this one because if you see the attached H1 chart of the original level you'll notice that all the candles in the area seem
+
+engulfed. The only "fresh" area in the level looks to me to be around 1.0645 and price didn't reach it.
+
+Thanks for your time.
+
+Hi S, whit my actual knowledge, probably that trade is a pass 4 me, even if there are some hint, there are more clear setup on the way, and a lot of better engulng on the charts, but that's is about me, and i am still a brat. All that "noise" [messy cpsed legs over cp in the ltf that becomes tail on htf] looks to me like a temptative to collect more buyers order [a sort of buyers trap] before the drop.. At that time those - the white inside the red - was probably the level of major interest 4 me. ps: about engul
+
+ng if y don't have already read, take a look at the emene stu
+
+here
+
+my demo was not very happy that day. missed a limit orders for somethingh more than 1 pip
+FA>>
+Simon نوشت:
+
+whiteout نوشت: می‌توانم بپرسم چنین معامله‌ای را چطور تایم می‌کنی؟ چون اگر چارت H1 پیوست‌شده از سطح اولیه را ببینی، متوجه می‌شوی همهٔ کندل‌های آن ناحیه به نظر
+
+اینگالف‌شده می‌آیند. تنها ناحیهٔ «تازه» در آن سطح به نظر من حدود 1.0645 است و قیمت به آن نرسید.
+
+ممنون از وقتی که گذاشتی.
+
+سلام S، با دانش فعلی من آن معامله احتمالاً برای من یک رد کردن (pass) بود؛ حتی اگر نشانه‌هایی هم باشد، سر راه ستاپ‌های واضح‌تری هست و اینگالف‌های خیلی بهتری روی چارت‌ها دیده می‌شود. اما این دربارهٔ من است و من هنوز تازه‌کارم. تمام آن «نویز» [پاهای آشفته و فشرده روی CP در تایم‌فریم پایین‌تر که در تایم‌فریم بالاتر به دنباله تبدیل می‌شود] به نظر من تلاشی بود برای جمع کردن سفارش خریداران بیشتر [یک‌جور تلهٔ خریداران] قبل از ریزش. آن موقع آن ناحیه‌ها — سفید داخل قرمز — احتمالاً برای من ناحیهٔ مورد توجه اصلی بود. پینوشت: دربارهٔ اینگ
+
+نگ، اگر هنوز نخوانده‌ای، نگاهی به نوشتهٔ امِنه بینداز
+
+اینجا
+
+دموی من آن روز چندان خوشحال نبود. چند سفارش لیمیت را برای چیزی بیشتر از 1 پیپ از دست دادم
+
+### dbrrbd_p6_130 hash=977d3f0b0ad3b63a99d3727ca962a3146d4503b5
+EN>>
+Thanks Whiteout. Yes, I agree, the first level on the chart is probably not that tempting for me either. There is a point in the white on red where price breaks support, and after reading Doctor's post from yesterday, I'm becoming happier trading the first pullback to the "Decision Point" in the lower timeframes that precedes these moves.
+
+I think I must post some questions on englufing because this is an area that I would still like to clarify some more.
+FA>>
+ممنون Whiteout. بله، موافقم، اولین سطح روی چارت احتمالاً برای من هم چندان وسوسه‌کننده نیست. یک جایی در ناحیهٔ سفید روی قرمز هست که قیمت حمایت را می‌شکند، و بعد از خواندن پست دیروز Doctor، راحت‌تر می‌توانم اولین پول‌بک به «نقطهٔ تصمیم» را در تایم‌فریم‌های پایین‌تر که قبل از این حرکت‌ها می‌آید معامله کنم.
+
+فکر می‌کنم باید چند سؤال دربارهٔ اینگالفینگ مطرح کنم، چون این حوزه‌ای است که هنوز می‌خواهم بیشتر روشنش کنم.
+
+### dbrrbd_p6_131 hash=ed09b671e866215c5f11f70a65b7459726e94cae
+EN>>
+I am trying to indentify fresh zones as this day winds toward the London Open HaveI found one? that is now Supply
+FA>>
+دارم سعی می‌کنم نواحی تازه را شناسایی کنم، همین‌طور که روز به سمت باز شدن لندن می‌رود. یکی پیدا کرده‌ام؟ که الان عرضه است
+
+### dbrrbd_p6_132 hash=fb17882585bbfe9c55733a6e46a265ddaea6957a
+EN>>
+:)
+FA>>
+:)
+
+### dbrrbd_p6_133 hash=1adb3b013c3063ae2df06bfacc557b671b47bc77
+EN>>
+Another zone I actually was able to watch as the candle came into the zone and was repealled how cool is this
+FA>>
+یک ناحیهٔ دیگر که واقعاً توانستم ببینم چطور کندل وارد ناحیه شد و برگشت خورد؛ چقدر باحال است
+
+### dbrrbd_p6_134 hash=018256f46cd311c52de8dfc569cf4e1fd76f8b2f
+EN>>
+Pedini
+
+2620
+
+Nosbigs wrote: Another zone I actually was able to watch as the candle came into the zone and was repealled how cool is this
+
+It is very cool. Even on M1 you can see that price was pinned to a SR flip:)
+FA>>
+Pedini
+
+2620
+
+Nosbigs نوشت: یک ناحیهٔ دیگر که واقعاً توانستم ببینم چطور کندل وارد ناحیه شد و برگشت خورد؛ چقدر باحال است
+
+واقعاً باحال است. حتی روی M1 می‌بینی که قیمت به یک SR flip چسبیده بود:)
+
+### dbrrbd_p6_135 hash=0be3ec1c95f62de2c5b6538c61ff0aec3682130e
+EN>>
+This is so fun. I feel like I could sit in front of my computer and do this all night.
+
+Quick edit. This is also a somewhat recognizable quasimodo.
+
+Oh and HEY! My name is Nick, I am from Omaha.
+
+Thats right. Nebraska. We have computers.
+FA>>
+این خیلی بامزه است. حس می‌کنم می‌توانم تمام شب جلوی کامپیوترم بنشینم و این کار را بکنم.
+
+ویرایش سریع: این هم تا حدی یک QM قابل‌تشخیص است.
+
+اوه و هی! اسم من Nick است، اهل Omaha.
+
+درست است. Nebraska. ما هم کامپیوتر داریم.
+
+### dbrrbd_p6_136 hash=c79d0909826e8bd87cb5829125ce8d526f5e03b7
+EN>>
+Whoops, Since I posted in the INITIAL topic I will have to start from scratch here.
+
+I invite everyones opinion and critiques and encouragement as I will contribute the same!
+
+So it begins.....
+FA>>
+اوه! چون در تاپیک اولیه پست دادم، باید اینجا از صفر شروع کنم.
+
+نظر، نقد و دلگرمی همه را دعوت می‌کنم، چون من هم همان را تقدیم می‌کنم!
+
+پس شروع می‌شود.....
+
+### dbrrbd_p6_138 hash=f4fde38b97cd803ee254624675f05e1bfeb32ce1
+EN>>
+I am so thankful as this day begins. May you be too!:)>-
+FA>>
+با شروع این روز خیلی شکرگزارم. امیدوارم تو هم همین‌طور باشی!:)>-
+
+### dbrrbd_p6_139 hash=e099e4ffeeb8d0c807fe825b438e479bc9b54799
+EN>>
+Decision Time?
+FA>>
+وقت تصمیم؟
+
+### dbrrbd_p6_140 hash=deb6ec4414b286f52dbebebaf562b76b1b0eaaaa
+EN>>
+Hi Nick from Omaha Nebraska. Keep em comin:)
+FA>>
+سلام Nick از Omaha در Nebraska. ادامه بده:)
+
+### dbrrbd_p6_141 hash=97cce20d605413dbc61dd1e9a89391e7ccee6495
+EN>>
+Tyoon, Prior to my reply to your question I ralized that I had not included my rationale for trade in by buy journal so I can not answer with any certainty. I am still trying to find a reason and when I am clear I will resond but perhaps that is teh basis of yor question..... I would appreciate your comment on my recnt homework posts as I am feling more confident but sio then was the captain of Titanic
+FA>>
+Tyoon، قبل از اینکه به سؤالت جواب بدهم متوجه شدم که منطق معامله‌ام را در ژورنال خریدم ننوشته‌ام، پس نمی‌توانم با اطمینان جواب بدهم. هنوز دنبال پیدا کردن دلیلی هستم و وقتی روشن شدم پاسخ می‌دهم، اما شاید همین اساس سؤال تو باشد..... از نظرت دربارهٔ پست‌های تکلیف اخیرم ممنون می‌شوم، چون حس می‌کنم اعتماد به نفسم بیشتر شده، اما خب، کاپیتان تایتانیک هم همین حس را داشت
+
+### dbrrbd_p6_142 hash=fac9b1b58765a7c7b2639b057a99d8337078fe8d
+EN>>
+Am I getting better at this?
+
+Comments are more than welcomed.
+FA>>
+دارم در این کار بهتر می‌شوم؟
+
+هر نظری بیش از حد معمول خوش‌آمد است.
+
+### dbrrbd_p6_143 hash=6bdd893007ff5550611420b4042a115a06c12541
+EN>>
+Hi Nosbigs. I'm trying to catch up on everything I've missed lately. Hopefully I'll get through it all quickly:)
+FA>>
+سلام Nosbigs. دارم سعی می‌کنم به همه‌چیزهایی که اخیراً از دست داده‌ام برسم. امیدوارم زود از همه‌شان رد شوم:)
+
+### dbrrbd_p6_144 hash=a9bea2dea7ae799a70cb1a7b742318da9d08d9d9
+EN>>
+You're getting really good at it! I see you're picking the important ones. Have a go at drawing the ones that seem less important too. You'll learn a lot by seeing how price moves around them
+FA>>
+واقعاً داری در این کار خوب می‌شوی! می‌بینم که مهم‌ها را انتخاب می‌کنی. آن‌هایی را هم که کم‌اهمیت‌تر به نظر می‌رسند رسم کن. با دیدن اینکه قیمت چطور دورشان حرکت می‌کند چیز زیادی یاد می‌گیری
+
+### dbrrbd_p6_145 hash=456ed1262e28a620183d396d5621b02568e646ae
+EN>>
+09 OF 20
+
+TRIED TO PUT A BIT MORE DETAILS ON THIS CHART
+FA>>
+09 از 20
+
+سعی کردم جزئیات بیشتری روی این چارت بگذارم
+
+### dbrrbd_p6_146 hash=855e744c264d319e793c4fbce5f02fe25e15fad0
+EN>>
+Ifmyante wrote: I see you're picking the important ones. Have a go at drawing the ones that seem less important too. You'll learn a lot by seeing how price moves around them
+
+I have posted some considerations on the chart. Please let me know your opinion.
+
+Thanks, Michael
+
+10 of 20
+FA>>
+Ifmyante نوشت: می‌بینم که مهم‌ها را انتخاب می‌کنی. آن‌هایی را هم که کم‌اهمیت‌تر به نظر می‌رسند رسم کن. با دیدن اینکه قیمت چطور دورشان حرکت می‌کند چیز زیادی یاد می‌گیری
+
+چند ملاحظه روی چارت نوشته‌ام. لطفاً نظرت را بگو.
+
+ممنون، Michael
+
+10 از 20
+
+### dbrrbd_p6_147 hash=b9753dca0c130238fc227eff7bffdf93bdd764af
+EN>>
+Hello!
+
+Here are my charts starting with this homework, please free to comment.
+
+CHART1:
+
+CHART2:
+FA>>
+سلام!
+
+این هم چارت‌های من، با شروع از این تکلیف؛ لطفاً نظر بدهید.
+
+چارت 1:
+
+چارت 2:
+
+### dbrrbd_p6_148 hash=aed5721f363b54c19aa5e06d03348233eaa40760
+EN>>
+Still got a lot more to reach the 200th setups..
+
+GBPJPY M15
+
+CADJPY H1
+
+All comments are welcomed, thank you..
+FA>>
+هنوز خیلی مانده تا به 200 ستاپ برسم..
+
+GBPJPY M15
+
+CADJPY H1
+
+از همهٔ نظرات استقبال می‌کنم، ممنون..
+
+### dbrrbd_p6_149 hash=163b0b2cb72003550d385369fe145702bd8f2b01
+EN>>
+That's a really great start, Bushido. I feel you can see the significance of the zones
+FA>>
+شروع واقعاً خوبی است، Bushido. حس می‌کنم اهمیت نواحی را می‌بینی
+
+### dbrrbd_p6_150 hash=f0cfd9fcf68d5c25a9f7a6eebd5eddb8ddb1f4a0
+EN>>
+Hello!
+
+Thanks for the reply. I'm trying to programe my eyes - yes. I didn't charted some of the stuff but will be done more and more on future charts.
+
+Zones - my opinion - are very important - specially on higher time frames and have to be obeyed so that you see PA and then you move on.
+FA>>
+سلام!
+
+ممنون از جوابت. دارم چشمم را برنامه‌ریزی می‌کنم — بله. بعضی چیزها را چارت نکردم، اما در چارت‌های بعدی بیشتر و بیشتر انجام می‌شود.
+
+نواحی — به نظر من — خیلی مهم‌اند، مخصوصاً در تایم‌فریم‌های بالاتر، و باید به آن‌ها احترام گذاشت تا PA را ببینی و بعد ادامه بدهی.
+

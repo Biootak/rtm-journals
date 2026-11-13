@@ -1,0 +1,19 @@
+{
+ "if_p102_22": {
+  "ok": false,
+  "issue": "implied flag misnamed as FL",
+  "why": "EN says «An implied flag is the zone between a LS and the H/L to its right» — an implied Flag. FA renders it «FL ضمنی» (implied flag *limit*), i.e. a different RTM structure, and a few lines above the same post still speaks of the real FL separately, so the two concepts collapse into one.",
+  "fix": "خب\n\nاهمیت FL1 از اینگالف به فضای خالی در واکنش به آن می‌آید. پس استاپ‌ها آن‌طرفش هستند.\n\nالبته هم‌راستا شدن با چیزی در سمت چپِ دورتر آن را قوی‌تر می‌کند، ولی لازم نیست.\n\nاگر FL2 در HTF اهمیت بسیار بیشتری داشته باشد، این ستاپ باز هم کار می‌کند، چون PA خوب است.\n\nاگر می‌خواهی دربارهٔ BSZ بپرسی، لطفاً سؤالت را رسم کن و من تا جایی که بتوانم جواب می‌دهم.\n\nFlag ضمنی ناحیه‌ای بین یک LS و H/L سمت راستش است.\n\nبالای قیمت فعلی، از بالای LSK تا سقف کشیده می‌شود\n\nو در پایین، از کف LSK تا کف"
+ },
+ "if_p102_24": {
+  "ok": false,
+  "issue": "implied flag misnamed as FL (inside quoted body)",
+  "why": "The quoted body must repeat IF’s words: EN «An implied flag is the zone between a LS and the H/L to its right». FA renders the term as «FL ضمنی», turning a Flag into an FL, so the quoted copy no longer says what IF said.",
+  "fix": "اهمیت FL1 از اینگالف به فضای خالی در واکنش به آن می‌آید. پس استاپ‌ها آن‌طرفش هستند.\n\nالبته هم‌راستا شدن با چیزی در سمت چپِ دورتر آن را قوی‌تر می‌کند، ولی لازم نیست.\n\nاگر FL2 در HTF اهمیت بسیار بیشتری داشته باشد، این ستاپ باز هم کار می‌کند، چون PA خوب است.\n\nاگر می‌خواهی دربارهٔ BSZ بپرسی، لطفاً سؤالت را رسم کن و من تا جایی که بتوانم جواب می‌دهم.\n\nFlag ضمنی ناحیه‌ای بین یک LS و H/L سمت راستش است.\n\nبالای قیمت فعلی، از بالای LSK تا سقف کشیده می‌شود\n\nو در پایین، از کف LSK تا کف\n\nکسی یادش هست آخرین بار IF کِی چنین توضیح ساده و کاملی داده بود؟"
+ },
+ "if_p102_25": {
+  "issue": "Implied Flags rendered as پرچم",
+  "why": "EN[4] «IMPLIED FLAGS are the best zones … almost every bigger flag … implied flags … MPL of the FL» -> FA[4] «پرچم‌های ضمنی … هر پرچم بزرگ‌تر … پرچم‌های ضمنی MPL آن FL», while FA[1] of the same post already writes «FL ضمنی».",
+  "fix": "خب این هم از آن، IF. درک FL‌ها درست است. در BSZ TT چه چیزی را می‌توانیم بهتر کنیم؟ آیا کینک یک FL ضمنی از سایر FL‌های میانی مهم‌تر است؟\n\nاگر یک کینک با کینکی در HTF هم‌راستا شود که تارگتش را در همان مقیاس یا بالاتر نزده و با یک LS هم‌راستا شده، آیا آن کینک واقعاً چیزی در HTF است؟\n\nویرایش:\n\nو اگر به تصویر بزرگ‌تر نگاه کنی می‌بینی که FL‌های ضمنی بهترین ناحیه‌ها برای معامله کردن هستند. چرا؟ چون IT‌ها تصمیم گرفته‌اند آنجا سرمایه‌گذاری بزرگی بکنند. پس فکر می‌کنم این چشمانم را باز کرد. ویدیو کامل نیست، ولی اگر بگویم تقریباً هر FL بزرگ‌تر دو تله در دو انتهایش دارد، اشتباه می‌گویم؟ و البته اگر FL‌های ضمنی MPL آن FL که به آن واکنش می‌دهند را لمس نکرده باشند، بعداً می‌توان از آن‌ها به‌عنوان ناحیهٔ FO استفاده کرد. درست می‌گویم؟\n\nP.S. ویدیو مخفی است، پس فقط بچه‌های RTM می‌بینندش، نگرانش نباش. اگر بخواهی، حذفش می‌کنم!"
+ }
+}

@@ -1,0 +1,152 @@
+[
+ {
+  "id": "hgblacksheep_p12_276",
+  "hash": "d73f8657c6c05b78971048731d07313c3af0c3ef",
+  "author": "HiddenGap",
+  "text": "Vytautas wrote: Hi HG, I see you have market profile on your charts, did you found it useful for your trades?\n\nIn terms of trades, the answer is no.\n\nThere are some that use volume profile to help determine Supply/Demand zones. I, myself, have flirted with this notion. In particular, using high tempo areas, or low volume areas, within a WRB Hidden GAP to define zones.\n\nBut in truth, it is really just there for decoration."
+ },
+ {
+  "id": "hgblacksheep_p12_277",
+  "hash": "7dd74e312bfd056bdf1cc37b9ce3ac9b31d706b8",
+  "author": "akifusenet",
+  "text": "Hi HiddenGap,\n\nThanks for that explanation and also nice trick with MTF. I looked at my charts and here is another example I found @GBPUSD. H1 WRB Zone doesnt give a CE signal but in M5 there are 2 possible entries.\n\nAkif,"
+ },
+ {
+  "id": "hgblacksheep_p12_278",
+  "hash": "856686bbacde9f52776fc28dc7dd3a2a80937223",
+  "author": "HiddenGap",
+  "text": "akifusenet wrote: Hi HiddenGap,\n\nThanks for that explanation and also nice trick with MTF.\n\nAkif,\n\nWait until we get to using WRBs from higher time frames for profit targets............ but we're not there yet. I think it's just about time to talk about,if we want and what would be, our contingency plan"
+ },
+ {
+  "id": "hgblacksheep_p12_279",
+  "hash": "d0aa7db763c63429aca06f8bf047094cbc03b532",
+  "author": "HiddenGap",
+  "text": "Should we have a contingency plan?\n\nTo say that the introduction of a contingency plan is a game changer, might be a bit hyperbolic. Yet, the addition of a contingency plan would take us to a new dimension as Price Action traders.\n\nSo what is a contingency plan\n\nA dictionary definition would be: a course of action to be followed if a preferred plan fails or an existing situation changes.\n\nThis valid CE (long) leads us to our preferred plan- As we are in a Demand Zone, to enter on the buy side after the appearance of the CC. And then to ride price movement up using successively higher closing WRBs as profit targets, or as trailing stops, or using unfilled opposing Zones as profit targets. There is more to the plan of course, but for now we need only focus on \"the riding price up\" part.\n\nTrading is about probabilities, not certainties. So there will be times, perhaps many times, when price does not go up, it goes down. This is why we always want to use a stop. But do we necessarily need our stop to be hit to know that our preferred plan is failing/has failed, or that the existing situation is changing/has changed? Obviously, we do not. So if we can use the available information to tell us we do not want to be long before our stop is hit, can we take that information one step further and deduce that the best course of action is to actually get short?\n\nBefore we delve into the rules of the contingency plan, we should note a few important things. First, before you can have a valid contingency plan entry, you must have a validCE. Second, we will be getting short in a Demand Zone and long in a Supply Zone. This is not the same thing as the zones \"flipping\" (more on this later).\n\nIt's late. I will finish this soon. I hope your appetite has been peaked.............\n\nI did want to note that the Supply Zone is yellow, not because it is part of the contingency plan, but because it is the first WRB Hidden GAP with continuation after the FOMC minutes were released at 2 pm on 10/8. If you're saying to yourself, knowing that makes the likelihood of the contingency plan succeeding even greater, move to the head of the class. You're not just trading patterns, you're trading market context."
+ },
+ {
+  "id": "hgblacksheep_p12_280",
+  "hash": "9aa9a1d8830f385d13240c525c8dbdd388bf0217",
+  "author": "akifusenet",
+  "text": "My appetite is up up up... So let me try to guess the contingency plan rules from looking at only one picture. If there is a dark WRB closing below CC low then use contingency plan??\n\nAkif,"
+ },
+ {
+  "id": "hgblacksheep_p12_281",
+  "hash": "a6bb7c691bab9ec0a47580ec1de59536be3e7962",
+  "author": "HiddenGap",
+  "text": "akifusenet wrote: My appetite is up up up... So let me try to guess the contingency plan rules from looking at only one picture. If there is a dark WRB closing below CC low then use contingency plan??\n\nAkif,\n\nYou're certainly on the right track.\n\nLet's start with the rules for when the CC in not the same interval as the DSS interval. As is the case in the picture above.\n\nThe first thing we would want is for our\n\nontingency\n\nlan\n\nrigger, now referred to as\n\nthe CPT, to appear 1-4 intervals after the CC. Which means there can be no more than three (3) intervals between the CC and the CPT\n\nAs you noticed, the CPT interval must be a Dark WRB\n\nThere are three (3) important relationships involving the close of our Dark WRB CPT interval:\n\n* The close of the CPT must be lower than the low of the CC * The close of the CPT must be within the Long Shadow of the DSS interval. * The close of the CPT must be lower than the close of the Dark WRB prior to the DSS interval."
+ },
+ {
+  "id": "hgblacksheep_p12_282",
+  "hash": "7b1138333ab7bc72b9a832e389da751a11d1613e",
+  "author": "akifusenet",
+  "text": "Something weird is going on this forum. I had an email a few days ago that HG posted another reply on the from but when I go to my browser I cant see any update. So this is a post to clean the forum channels if somehow they are clogged:)\n\nLets see a case when DSS and CC is the same candle.\n\nIn this case I think we need to omit the first SP low rule.\n\nAkif,"
+ },
+ {
+  "id": "hgblacksheep_p12_283",
+  "hash": "3f18cb5b01ee1e37c063545811ab745bf282d7a1",
+  "author": "HiddenGap",
+  "text": "akifusenet wrote: Something weird is going on this forum. I had an email a few days ago that HG posted another reply on the from but when I go to my browser I cant see any update. So this is a post to clean the forum channels if somehow they are clogged:)\n\nLets see a case when DSS and CC is the same candle.\n\nIn this case I think we need to omit the first SP low rule.\n\nAkif,\n\nThere is indeed something wrong with the site. I wrote a post the other day (it was one of the most brilliant posts in the history of the internet\n\n). However, when I tried to\n\npost it, the picture did not show up. I tried a couple of times to no avail. Finally, I deleted the award winning post, as it made no sense without the pic. Very frustrating. It's bad enough that I can't use the same names for pics without the old ones being replaced.\n\nOn to the image. Very nice picture of the Contingency Plan.\n\nLet's restate the rules (so far) and include those times when the CC and the DSS are the same interval.\n\n* The Body of the CPT must be larger than either the Body of the DSS or CC interval. -Since the CPT must be a WRB by definition, this only comes into play when there are 3 intervals between the CPT and the CC * The close of the CPT must be lower than the low of the CC -If the CC and the DSS are the same interval, the Dark WRB only has to close within the Long Shadow of the DSS & CC interval. * The close of the CPT must be lower than the low of the Dark WRB prior to the DSS interval. * The close of the CPT must be within the Long Shadow of the DSS interval.\n\nThere are some things we want to see, and somethings we don't want to see in the intervals (if any) between the CC and the CPT..................."
+ },
+ {
+  "id": "hgblacksheep_p12_284",
+  "hash": "e0a3d454b19c04d86d4fc738fc706d819feda6c8",
+  "author": "akifusenet",
+  "text": "When I see opportunities like this I say to myself isnt it time to go live anymore. But I need a bit more time than I will be ready. HiddenGap did you take this one?\n\nAkif,"
+ },
+ {
+  "id": "hgblacksheep_p12_285",
+  "hash": "2243b5bd6e754e48ce66554a09dba824efdd3424",
+  "author": "HiddenGap",
+  "text": "I saw it, but I did not take it. I did not have a Supply Zone there\n\nDon't beat yourself up over it, the market is not going anywhere."
+ },
+ {
+  "id": "hgblacksheep_p12_286",
+  "hash": "7379be2c0536fbe18a7693a14efbcbe27b216d4d",
+  "author": "akifusenet",
+  "text": "Well, really I am not milking it:), I DO have a supply zone there. I double check it and it looks like it is valid. Actually in the picture above I tried to overlap a picture of WRB zone source to the left of the image. You can see the D1-Base-D2 pattern there. But i think it is not very easy to differentiate and see it. I can not say much about it but basically this zone is created by a down swing point.\n\nAkif,"
+ },
+ {
+  "id": "hgblacksheep_p12_287",
+  "hash": "540a5780c508ce8343b0ca68a52c7fd0e5ff8a89",
+  "author": "akifusenet",
+  "text": "Hi HG Your message is lost again.\n\nAkif,"
+ },
+ {
+  "id": "hgblacksheep_p12_288",
+  "hash": "640ab2bae07bedc4c163f679a746f7ab7fb5d1fa",
+  "author": "HiddenGap",
+  "text": "Test"
+ },
+ {
+  "id": "hgblacksheep_p12_289",
+  "hash": "69da2fafbe9f277e184834c57349b9e081a73c55",
+  "author": "akifusenet",
+  "text": "Hi HG,\n\nI have the text portion of your lost messages. Maybe those are not delivered to you by mail since you are the owner. I can paste them here if you want.\n\nAkif,"
+ },
+ {
+  "id": "hgblacksheep_p12_290",
+  "hash": "2d8431b9e411f2c8f4bc9308267d8fbee25758ba",
+  "author": "HiddenGap",
+  "text": "Let's try this again.\n\nHere we see a nice CE (long). We note that the DSS interval is also the CC. Does this effect the Contingency Plan rules? Yes, there must be a slight adjustment.\n\nCONTINGENCY PLAN RULES (so far):\n\nThe contingency plan trigger (CPT) must be a Dark WRB The CPT must be larger than the body of the CC interval. The CPT must close lower than the low of the CC interval. -if the CC and the DSS interval are the same, the CPT need not close lower than the low. The CPT must close lower than the low of the Dark WRB prior to the DSS interval. * The CPT must close within the range of the Long Shadow of the DSS interval.\n\nIt is okay for the CPT to appear more than 4 intervals after the CC interval, however, there are certain requirements for the price action between the CC and the CPT that must be met. Here's just one of them:\n\nThere cannot be a White WRB that closes higher than the high of the CC"
+ },
+ {
+  "id": "hgblacksheep_p12_291",
+  "hash": "159b84e7e87688650bea56f40961fb7e5a32531e",
+  "author": "HiddenGap",
+  "text": "This happens sometimes too............\n\nNice CE Long signal, which is also a High Close Doji signal. Followed by the \"head fake\" valid CPT"
+ },
+ {
+  "id": "hgblacksheep_p12_292",
+  "hash": "a154a37ea99d15f76f1eeb47f6953cd4e46ce8c8",
+  "author": "HiddenGap",
+  "text": "Just a chart dump."
+ },
+ {
+  "id": "hgblacksheep_p12_293",
+  "hash": "640ab2bae07bedc4c163f679a746f7ab7fb5d1fa",
+  "author": "HiddenGap",
+  "text": "Test"
+ },
+ {
+  "id": "hgblacksheep_p12_294",
+  "hash": "adabdbae30dcac01ceb8588cc1ba760489ba510a",
+  "author": "ZeeDeveel",
+  "text": "Hi HG,\n\nObviously your WRB methodology differs somewhere from the dominant methodology on here, I wondered, using your delta zones where you would be looking to put your stop? Would you ever be comfortable putting your stop at the uppermost red line? Cheers!"
+ },
+ {
+  "id": "hgblacksheep_p12_295",
+  "hash": "8225334eb94189916b9ab09693e80d01eb5351fb",
+  "author": "HiddenGap",
+  "text": "ZeeDeveel wrote: Hi HG,\n\nObviously your WRB methodology differs somewhere from the dominant methodology on here, I wondered, using your delta zones where you would be looking to put your stop? Would you ever be comfortable putting your stop at the uppermost red line? Cheers!\n\nI did this for shits and giggles today. Before I get to your question, let's start with the first pic.\n\nWhile there is a Confirmation Entry (short) on the left side, I want to focus on the Valid Bullish Dark Hammer Pattern. This entry was taken in real time in SIM. I don't know how to use the SIM Mode completely, so there was not stop placed and the Pt (Profit targets) were not actually taken. Our trade management involves both Profit targets-successively higher closing WRBs and a Trailing Stop for the runner.\n\nNotice that the Trailing Stop is moved to just below the body of the previous WRB when a new WRB closes higher."
+ },
+ {
+  "id": "hgblacksheep_p12_296",
+  "hash": "70eb41199f79b360018ae2c45b0e160e71d7bbb1",
+  "author": "HiddenGap",
+  "text": "Prior to the previous post I had not said much about \"trade management\".\n\nNo matter how one chooses to manage the trade, one needs to pay attention to the following.\n\nPt 1 is the First WRBafter entry. In the case of a long, Pt 1 would be a White (open<close) WRB. In the case of a short, Pt 1 would be a Dark (open>close) WRB Even if one is not going to actually take profits at this WRB, one must make note of it. That is because as soon as there is a Pt 1, there can no longer be a possiblity of a CP\n\nontingency\n\nlan) trade.\n\nFrom now on, Pt 1 will be marked. How many people are thinking, \"should I move my stop to brake even on the remaining position after I see Pt 1?\" Wow, you're good..."
+ },
+ {
+  "id": "hgblacksheep_p12_297",
+  "hash": "7450ed5a2b67f4b33d8a682fc666f45cbd32b8a3",
+  "author": "Madmoney",
+  "text": "Love your analysis HG, I just started experimenting WRB's with RTM's methods with some interesting results."
+ },
+ {
+  "id": "hgblacksheep_p12_298",
+  "hash": "2de6f1bd4eabd52e53cf228c0f852246d67e69eb",
+  "author": "HiddenGap",
+  "text": "Madmoney wrote: Love your analysis HG, I just started experimenting WRB's with RTM's methods with some interesting results.\n\nLooking forward to hearing more......................"
+ },
+ {
+  "id": "hgblacksheep_p12_299",
+  "hash": "8621ab02ea033911d6cd43f90e0ba005b781bcb6",
+  "author": "HiddenGap",
+  "text": "Fading Volatility Basic (FVB)\n\nWhile the CE is suitable for our main entry signal, it is nice to have a few more arrows in our quiver............"
+ },
+ {
+  "id": "hgblacksheep_p12_300",
+  "hash": "a154a37ea99d15f76f1eeb47f6953cd4e46ce8c8",
+  "author": "HiddenGap",
+  "text": "Just a chart dump."
+ }
+]

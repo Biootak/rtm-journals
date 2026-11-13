@@ -1,0 +1,85 @@
+{
+ "fishing": {
+  "pages": 354,
+  "checked": 113,
+  "missing": 2,
+  "examples": [
+   {
+    "file": "Fishing in the Moneyriver - A neverending story - Page 10 - RTM Community.pdf",
+    "page": 7,
+    "y": 111.9,
+    "text": "\"...an engulfed flag is an engulfed flag...\" ( IF )"
+   },
+   {
+    "file": "Fishing in the Moneyriver - A neverending story - Page 3 - RTM Community.pdf",
+    "page": 35,
+    "y": 89.4,
+    "text": "Fishing in the Moneyriver - A neverending story"
+   }
+  ],
+  "testedAt": "2026-11-12T01:34:10"
+ },
+ "finddecision": {
+  "pages": 313,
+  "checked": 148,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T01:35:06"
+ },
+ "mertch": {
+  "pages": 417,
+  "checked": 156,
+  "missing": 1,
+  "examples": [
+   {
+    "file": "Mertch journal - Page 7 - RTM Community.pdf",
+    "page": 28,
+    "y": 100.6,
+    "text": "The future of price is already written in the past"
+   }
+  ],
+  "testedAt": "2026-11-12T01:36:23"
+ },
+ "shadowpit": {
+  "pages": 569,
+  "checked": 318,
+  "missing": 1,
+  "examples": [
+   {
+    "file": "ShadowPit - Page 9 - RTM Community.pdf",
+    "page": 19,
+    "y": 111.9,
+    "text": "\"...an engulfed flag is an engulfed flag...\" ( IF )"
+   }
+  ],
+  "testedAt": "2026-11-12T01:36:32"
+ },
+ "drswing": {
+  "pages": 655,
+  "checked": 345,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T01:37:13"
+ },
+ "josh": {
+  "pages": 855,
+  "checked": 245,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T01:37:53"
+ },
+ "jurij": {
+  "pages": 1183,
+  "checked": 264,
+  "missing": 1,
+  "examples": [
+   {
+    "file": "Jurij_s Corner - Page 19 - RTM Community.pdf",
+    "page": 56,
+    "y": 100.6,
+    "text": "The future of price is already written in the past"
+   }
+  ],
+  "testedAt": "2026-11-12T01:40:03"
+ }
+}

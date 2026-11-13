@@ -1,0 +1,222 @@
+
+##### [0] academylite1_p3_51 | Al3cs | e6464b03712e5ef85d5a989b631312df0b35cb55
+--- EN ---
+2nd HW a QM at higher level that failed and a QM at lower level that worked. Can't figure out why first one failed, looks like it's ok. Any suggestion?
+--- FA ---
+تمرین دوم: یک QM در سطح بالاتر که شکست خورد و یک QM در سطح پایین‌تر که کار کرد. نمی‌فهمم چرا اولی شکست خورد، به نظر درست می‌آمد. کسی پیشنهادی دارد؟
+
+##### [1] academylite1_p3_52 | Ifmyante | 55a5b4896dfd920785bb9219f380006dec6d872e
+--- EN ---
+I don't understand what you mean
+--- FA ---
+نفهمیدم منظورت چیست
+
+##### [2] academylite1_p3_53 | Al3cs | c567298834d36a30b6fc9a8e022c8facc9c10333
+--- EN ---
+If you don't understand means that I posted a giant bullshit and trying to explain you I undestood that I completely ignored the fact that there's no pole up at the left so no QMs at all. I'm checking every single tree and forget to look if there's a forest. Ignore my post please
+--- FA ---
+اگر نفهمیدی یعنی یک چرند تمام‌عیار گذاشته‌ام. وقتی داشتم برایت توضیح می‌دادم، فهمیدم کاملاً این را نادیده گرفته بودم که سمت چپ هیچ POLE‌ای بالا نیست، پس اصلاً QM‌ای در کار نیست. دارم تک‌تک درخت‌ها را چک می‌کنم و یادم می‌رود ببینم جنگلی هم هست یا نه. لطفاً پستم را نادیده بگیر
+
+##### [3] academylite1_p3_54 | Kavya | 8a8fd3984b73540961d34d7394bf20c6d04ad8f2
+--- EN ---
+can anyone explain why? yes might be source of engulf, but again why?
+--- FA ---
+کسی می‌تواند توضیح دهد چرا؟ بله، ممکن است منبع اینگالف باشد، اما باز هم چرا؟
+
+##### [4] academylite1_p3_55 | Al3cs | 0322540d7170b0aa6184671aa4911b66b0200404
+--- EN ---
+kavya wrote: can anyone explain why?
+
+I think the reason is this
+--- FA ---
+kavya نوشت: کسی می‌تواند توضیح دهد چرا؟
+
+فکر می‌کنم دلیلش این است
+
+##### [5] academylite1_p3_56 | AranJibril | 2356eff306cfbf2b5e0626f01db6dc7b563e6a48
+--- EN ---
+Hi all, Al3cs what do you think about this? comments are welcome guys
+--- FA ---
+سلام به همه، Al3cs نظرت دربارهٔ این چیست؟ نظرها خوش‌آمدند بچه‌ها
+
+##### [6] academylite1_p3_57 | josh1125 | 6ffcad19082b3851688f82e1b4a447569c70a902
+--- EN ---
+Hey in your second chart, the target was hit and not engulf, which should invalidate the QM right?
+
+AranJibril wrote: Hi all, Al3cs what do you think about this? comments are welcome guys
+--- FA ---
+هی، در چارت دومت تارگت خورده و اینگالف نشده، که باید QM را باطل کند، درست است؟
+
+AranJibril نوشت: سلام به همه، Al3cs نظرت دربارهٔ این چیست؟ نظرها خوش‌آمدند بچه‌ها
+
+##### [7] academylite1_p3_58 | AranJibril | b4a2b5584098937992674334879aa666474a2257
+--- EN ---
+josh1125 wrote: Hey in your second chart, the target was hit and not engulf, which should invalidate the QM right?
+
+Yes you are right, TG 1 is already hit so now i will look for a new setup up there at the red box as that aligns with left shoulder
+--- FA ---
+josh1125 نوشت: هی، در چارت دومت تارگت خورده و اینگالف نشده، که باید QM را باطل کند، درست است؟
+
+بله حق با توست، TG 1 دیگر خورده، پس حالا دنبال یک ستاپ جدید بالای همان‌جا در کادر قرمز می‌گردم، چون با شانهٔ چپ هم‌خوان است
+
+##### [8] academylite1_p3_59 | linos | 4b385811d88ec84f2d4698a10bca910b25487ab1
+--- EN ---
+So even if our target 1 is seen as hit, we can still be looking for another LS setup for a possible entry?
+--- FA ---
+یعنی حتی اگر تارگت 1 ما خورده حساب شود، باز هم می‌توانیم دنبال یک ستاپ LS دیگر برای ورود احتمالی باشیم؟
+
+##### [9] academylite1_p3_60 | Kavya | fc747f5221025a9ad656d2ac4f215cde9a0dab86
+--- EN ---
+Al3cs wrote:
+
+kavya wrote: can anyone explain why?
+
+I think the reason is this
+
+BTW, I was having this as a tg
+--- FA ---
+Al3cs نوشت:
+
+kavya نوشت: کسی می‌تواند توضیح دهد چرا؟
+
+فکر می‌کنم دلیلش این است
+
+راستی، من این را به‌عنوان تارگت داشتم
+
+##### [10] academylite1_p3_61 | Edge | 92ba373c7e6ddc11b83df8eda1b26e49955a1388
+--- EN ---
+After watching lesson one circa 3,476.567 times since December, something else is always reinforced.
+
+1) what I think is space is not really space 2) pa is useless without space 3) we have to use ctg s. These can be kinks such as high low kinks, left shoulders and ignored left shoulders such as iqm levels 4) that I may have left the iron on
+--- FA ---
+از دسامبر تا حالا حدود 3,476.567 بار درس اول را دیده‌ام و هر بار چیز دیگری در ذهنم پررنگ می‌شود.
+
+1) آنچه فکر می‌کنم فضا است، واقعاً فضا نیست 2) بدون فضا، PA بی‌فایده است 3) باید از ctg استفاده کنیم. این‌ها می‌توانند پیچش باشند، مثل پیچش‌های سقف-کف، شانه‌های چپ و شانه‌های چپ نادیده‌گرفته‌شده مثل سطوح iqm 4) اینکه ممکن است اتو را روشن جا گذاشته باشم
+
+##### [11] academylite1_p3_62 | full | 1baa748b08049f0b6a0979625f0c0cf4eea0dc4d
+--- EN ---
+hi.GU pair could anyone tell me why is not a valid quasimodo??
+--- FA ---
+سلام. جفت‌ارز GU، کسی می‌تواند بگوید چرا یک QM معتبر نیست؟
+
+##### [12] academylite1_p3_63 | Al3cs | f71924fc7f85539cb5e2a31992ea3f88c107e4de
+--- EN ---
+Based on what I can see on your chart, looks like LL hits TG
+--- FA ---
+بر اساس چیزی که در چارتت می‌بینم، به نظر می‌رسد LL به تارگت می‌خورد
+
+##### [13] academylite1_p3_64 | full | e179941aaf301e22c02a491dc7993c4b6dc07dd1
+--- EN ---
+yes it makes sense. this is my Htf view.last demand not engulfed...
+
+thank you
+--- FA ---
+بله منطقی است. این دید HTF من است. آخرین تقاضا اینگالف نشده…
+
+ممنون
+
+##### [14] academylite1_p3_65 | classicj | 9aacaf73f4287929eee4705426f95760f0a90ce4
+--- EN ---
+GBP/USD QM Setup ？
+--- FA ---
+ستاپ QM در GBP/USD؟
+
+##### [15] academylite1_p3_66 | linos | a015a0830db55d3b1cb8ec0c1d8a7c15e3565a0f
+--- EN ---
+Hey Classicj,
+--- FA ---
+هی Classicj،
+
+##### [16] academylite1_p3_67 | ppgolf989 | e40f6431160dff859fa0e363cf89a967acc4a772
+--- EN ---
+Hi all, Nice to know everyone and really wants to Thank you IF for his kindness to reopen this site again I have been here for 3 years before RTM closed but now join again I rarely post something on this site but it's time for me to start doing some homework and practice more to become killer trader. I would like to share my analysis for everyone to help me out and we can learn with each other. If anyone can help check out my chart I really want to know that I am on the right path or not. Thank you everyone and nice to know you'll. Thank you.
+--- FA ---
+سلام به همه، خوشحالم که همه را می‌شناسم و واقعاً می‌خواهم از IF تشکر کنم برای لطفش در بازگشایی دوبارهٔ این سایت. قبل از بسته شدن RTM سه سال اینجا بودم و حالا دوباره برگشته‌ام. به‌ندرت چیزی در این سایت می‌نویسم، اما وقتش رسیده که شروع کنم به انجام چند تمرین و بیشتر تمرین کنم تا تریدر قاتلی بشوم. می‌خواهم تحلیلم را با همه به اشتراک بگذارم تا کمکم کنید و از هم یاد بگیریم. اگر کسی می‌تواند چارتم را ببیند و کمک کند، واقعاً می‌خواهم بدانم در مسیر درست هستم یا نه. ممنون از همه و خوشحالم که با شما آشنا شدم. ممنون.
+
+##### [17] academylite1_p3_69 | TheBeard | f9786033b550d6f7d4dfb1c5b1ec900b01685bff
+--- EN ---
+GBP/USD QM Setup ？
+
+classicj wrote:
+
+That to me looks like a really good setup. One that I would try trading.
+
+The HH engulfs into a previous QM and an ENG of an FL on break of SR.
+--- FA ---
+ستاپ QM در GBP/USD؟
+
+classicj نوشت:
+
+به نظر من ستاپ واقعاً خوبی است. یکی از آن‌هایی که خودم امتحانش می‌کنم.
+
+HH به یک QM قبلی اینگالف می‌شود، و یک ENG از یک FL روی شکست SR داریم.
+
+##### [18] academylite1_p3_70 | TheBeard | 48cafc257a46f22fe972e88886a26a2e5f1b6c18
+--- EN ---
+linos wrote: Hey Classicj,
+
+That level has been ENG?
+--- FA ---
+linos نوشت: هی Classicj،
+
+آن سطح ENG شده؟
+
+##### [19] academylite1_p3_71 | Atari | e4ffd68c4754e04b8cdc1eac2c8ad558400857b7
+--- EN ---
+Looks nice Classic J. Here is another point of view that you may want to consider. 1) We are in a range bound on the Daily. 2) Price is likely to go to the MPL level of the range high (my orange highlight rectangle) 3) The high, where I marked with #1 has ENG the FL to its left, so we have PA for price to go further north to the next FL at the SR Flip. 4) I like your conservative TG 1. Price does like to form symmetry so that area is an ideal for a TG and a bounce.. 5) Where you mark your high (HH), to me seems a like BSZ. 6) Therefore, price can FO to the MPL and form the Diamond should it decides to stay range bound in my Red Rectangle
+
+7 )So keep your view flexible and let price tells us what it wants to do.
+
+GBP/USD QM Setup ？
+
+classicj wrote:
+--- FA ---
+قشنگ به نظر می‌رسد Classic J. این هم یک دیدگاه دیگر که شاید بخواهی در نظر بگیری. 1) ما روی چارت روزانه در یک رنج هستیم. 2) احتمالاً قیمت به سطح MPL سقف رنج می‌رود (مستطیل هایلایت نارنجی من) 3) سقفی که با #1 علامت زده‌ام، FL سمت چپش را ENG کرده، پس PA داریم که قیمت بیشتر به سمت شمال برود، تا FL بعدی در برگشت نقش SR. 4) تارگت محافظه‌کارانه‌ات TG 1 را دوست دارم. قیمت دوست دارد تقارن بسازد، پس آن ناحیه برای تارگت و یک برگشت ایده‌آل است… 5) جایی که سقف را علامت زده‌ای (HH)، به نظر من شبیه BSZ است. 6) بنابراین قیمت می‌تواند تا MPL FO کند و الماس را بسازد، اگر تصمیم بگیرد در مستطیل قرمز من در رنج بماند
+
+7) پس دیدت را منعطف نگه دار و بگذار قیمت خودش بگوید چه می‌خواهد بکند.
+
+ستاپ QM در GBP/USD؟
+
+classicj نوشت:
+
+##### [20] academylite1_p3_72 | Kavya | 9f4aa8436de8bcd0b88fa00e559612658ff77f41
+--- EN ---
+kavya wrote:
+
+can anyone explain why? yes might be source of engulf, but again why?
+
+I got my Ans.
+--- FA ---
+kavya نوشت:
+
+کسی می‌تواند توضیح دهد چرا؟ بله، ممکن است منبع اینگالف باشد، اما باز هم چرا؟
+
+جوابم را گرفتم.
+
+##### [21] academylite1_p3_73 | TheBeard | d137d7dae58dfeb117a06dda2450580e06e7924d
+--- EN ---
+Looking into GU and what you've highlighted gslao
+
+I see the ENG. Just short of the kink on the SR break.
+
+Also just seen these now
+
+And now this
+
+So potential longs as well now?
+--- FA ---
+gslao، دارم GU و چیزی که هایلایت کرده‌ای را نگاه می‌کنم
+
+ENG را می‌بینم. کمی مانده به پیچش روی شکست SR.
+
+این‌ها را هم الان دیدم
+
+و حالا این
+
+پس حالا لانگ‌های بالقوه هم داریم؟
+
+##### [22] academylite1_p3_75 | HCDE | 5ea8378bab1ea83914d0c7767e7a0e8f6e9a3e84
+--- EN ---
+Hi everyone, I have a question about the targets and an example i'm currently in front of on EURUSD M5 - M1. Here's the chart, Id love to know what's your thought on IT.
+--- FA ---
+سلام به همه، یک سؤال دربارهٔ تارگت‌ها دارم و یک نمونه که الان روی EURUSD M5 - M1 جلوی چشمم است. این هم چارت، دوست دارم بدانم نظرت دربارهٔ آن چیست.

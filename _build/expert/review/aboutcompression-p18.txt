@@ -1,0 +1,247 @@
+### aboutcompression_p18_451
+EN: OK thanks, but i have drawn my remarks on the chart to explain a bit better. Attached.
+
+Adam
+FA: باشه، ممنون؛ اما نکته‌هایم را روی چارت نوشته‌ام تا بهتر توضیح داده باشم. پیوست شد.
+
+Adam
+
+### aboutcompression_p18_452
+EN: AdamH wrote: Hi Ifmyante,
+
+I was looking at your last post here about the EUR/USD M5 FT, and ive been reading all day about compression (CP?), but this last chart just seems like one big MESS to me. For example, you can clearly see that it contains a pretty bold demand level that shoots up, but isn't being respected AT ALL when price re-visits the level. Howcome? where are the compressions here? And also, i dont guite get the initials...what DP?:)
+
+BTW, this is my first post, so im sorry in advance if im posting in the wrong place.:) Looks like a great forum, good to be here.
+
+Thanks, Adam
+
+Hi Adam, and welcome.
+
+Yes, there was a bold D, but it WAS respected on return, as price hit S before advancing
+
+I hope this chart helps
+FA: AdamH نوشت: سلام Ifmyante،
+
+داشتم آخرین پستت را همین‌جا دربارهٔ EUR/USD M5 FT نگاه می‌کردم، و تمام امروز دربارهٔ فشرده‌سازی (CP؟) خوانده‌ام، اما این چارت آخر به نظر من فقط یک آشفتگی بزرگ است. مثلاً کاملاً می‌بینی که یک سطح تقاضای خیلی پررنگ دارد که یک‌دفعه بالا می‌رود، اما وقتی قیمت دوباره به آن سطح برمی‌گردد اصلاً رعایت نمی‌شود. چطور؟ پس فشرده‌سازی‌ها کجاست؟ و راستی، این حروف اختصاری را هم درست نمی‌فهمم... DP دیگر چیست؟ :)
+
+راستی، این اولین پستم است، پس از همین حالا معذرت می‌خواهم اگر جای اشتباهی پست می‌کنم. :) فروم خوبی به نظر می‌رسد، خوشحالم که اینجام.
+
+ممنون، Adam
+
+سلام Adam، خوش آمدی.
+
+بله، یک D پررنگ آنجا بود، اما در بازگشت واقعاً رعایت شد؛ قیمت پیش از ادامهٔ حرکت به S برخورد کرد.
+
+امیدوارم این چارت کمک کند.
+
+### aboutcompression_p18_453
+EN: So am I reading this correctly or am I really far off?
+
+Help
+FA: خب، آیا درست می‌خوانم یا خیلی از موضوع دورم؟
+
+کمک
+
+### aboutcompression_p18_454
+EN: Hi, Once again, thanks you very much for yout time and patience in explaining the little innuendos and unseens in this system, but if it's OK, i'd like to dig bit further so that my brain lobes get around the concept a bit better.:)
+
+I'll go into details: 1. on #3, you mention that the level "Hadn't been tested YET", but we see that later down the road, it is easily breached. So What do you mean by "yet"? Sam Seisen mentions that you must never cut through candles, and the only way one could still take this level under consideration, is if one cuts through candles on the left.
+
+2. Is the whole descend into your #1 revisit into the Demand level considered CP (17 OCT 21:00 till 18 OCT 02:20 in your chart)?
+
+3. What is a Swap Zone?
+
+THANK YOU! I'm flouring the gas paddle trying to master PA.:) Adam
+FA: سلام، یک بار دیگر بابت وقتی که می‌گذاری و حوصله‌ای که برای توضیح اشاره‌های ریز و نکته‌های ناپیدای این سیستم داری خیلی ممنونم؛ اما اگر اشکالی ندارد، دوست دارم کمی بیشتر کندوکاو کنم تا مغزم بهتر این مفهوم را بگیرد. :)
+
+جزئیاتش را می‌گویم: 1. دربارهٔ #3، می‌گویی آن سطح «هنوز تست نشده بود»، اما می‌بینیم که کمی بعدتر به‌راحتی شکسته می‌شود. پس منظورت از «هنوز» چیست؟ Sam Seisen می‌گوید هرگز نباید از میان کندل‌ها رد شد، و تنها راهی که بشود این سطح را همچنان در نظر گرفت این است که آدم از میان کندل‌های سمت چپ رد شده باشد.
+
+2. آیا تمام آن نزول تا بازدید دوبارهٔ #1 تو از سطح تقاضا، CP حساب می‌شود (17 OCT 21:00 تا 18 OCT 02:20 در چارتت)؟
+
+3. ناحیهٔ Swap Zone چیست؟
+
+ممنون! دارم گاز را تا ته فشار می‌دهم تا PA را مسلط شوم. :) Adam
+
+### aboutcompression_p18_455
+EN: AdamH wrote: 1. on #3, you mention that the level "Hadn't been tested YET", but we see that later down the road, it is easily breached. So What do you mean by "yet"? Sam Seisen mentions that you must never cut through candles, and the only way one could still take this level under consideration, is if one cuts through candles on the left.
+
+You'll see in the circles that level 3 has historic significance, and that it wasn't easily breached on revisit - price bounced up to S at 4. I've never understood what people mean by "cutting through candles". Here we simply have a decision made to break up through minor Supply after a rt to Demand - creating a good new Demand
+
+2. Is the whole descend into your #1 revisit into the Demand level considered CP (17 OCT 21:00 till 18 OCT 02:20 in your chart)?
+
+As the chart said, in that TF, price had CPed almost to point A - to the spike to the right and above.
+
+3. What is a Swap Zone?
+
+A swap zone is an area of price which had been used as Supply and Demand in the past
+FA: AdamH نوشت: 1. دربارهٔ #3، می‌گویی آن سطح «هنوز تست نشده بود»، اما می‌بینیم که کمی بعدتر به‌راحتی شکسته می‌شود. پس منظورت از «هنوز» چیست؟ Sam Seisen می‌گوید هرگز نباید از میان کندل‌ها رد شد، و تنها راهی که بشود این سطح را همچنان در نظر گرفت این است که آدم از میان کندل‌های سمت چپ رد شده باشد.
+
+در دایره‌ها می‌بینی که سطح 3 اهمیت تاریخی دارد و در بازگشت به‌راحتی شکسته نشد — قیمت تا S در 4 بالا پرید. من هرگز نفهمیده‌ام منظور مردم از «رد شدن از میان کندل‌ها» چیست. اینجا فقط تصمیمی گرفته شده برای شکستن به بالا از یک عرضهٔ فرعی، بعد از یک بازگشت به تقاضا — و همین یک تقاضای تازهٔ خوب می‌سازد.
+
+2. آیا تمام آن نزول تا بازدید دوبارهٔ #1 تو از سطح تقاضا، CP حساب می‌شود (17 OCT 21:00 تا 18 OCT 02:20 در چارتت)؟
+
+همان‌طور که در چارت نوشته بود، در آن TF قیمت تقریباً تا نقطهٔ A فشرده شده بود — تا همان جهش سمت راست و بالاتر.
+
+3. ناحیهٔ Swap Zone چیست؟
+
+ناحیهٔ سوآپ محدوده‌ای از قیمت است که در گذشته هم به‌عنوان عرضه و هم به‌عنوان تقاضا به کار رفته است.
+
+### aboutcompression_p18_456
+EN: thanks naughtypip. What I want to know, is what determines the Supply and Demand zones. where does it start and where does it end.
+FA: ممنون naughtypip. چیزی که می‌خواهم بدانم این است که چه چیزی نواحی عرضه و تقاضا را تعیین می‌کند. از کجا شروع می‌شود و کجا تمام می‌شود.
+
+### aboutcompression_p18_457
+EN: third take at compression. PPl see any errors in my reading??
+FA: سومین تلاشم برای فشرده‌سازی. کسی خطایی در خوانش من می‌بیند؟؟
+
+### aboutcompression_p18_458
+EN: narottam178 wrote: What I want to know, is what determines the Supply and Demand zones. where does it start and where does it end.
+
+Hi Narottam
+
+take a look at the chart for the simplest way to draw Zones
+FA: narottam178 نوشت: چیزی که می‌خواهم بدانم این است که چه چیزی نواحی عرضه و تقاضا را تعیین می‌کند. از کجا شروع می‌شود و کجا تمام می‌شود.
+
+سلام Narottam
+
+برای ساده‌ترین راه رسم نواحی، یک نگاه به چارت بینداز.
+
+### aboutcompression_p18_459
+EN: narottam178 wrote: third take at compression. PPl see any errors in my reading??
+
+Just to let me see what you see, could you please show me from where to where is your compression?
+
+Thanks
+
+If
+FA: narottam178 نوشت: سومین تلاشم برای فشرده‌سازی. کسی خطایی در خوانش من می‌بیند؟؟
+
+فقط برای اینکه ببینم تو چه می‌بینی، می‌شود لطفاً نشانم بدهی فشرده‌سازی‌ات از کجا تا کجاست؟
+
+ممنون
+
+If
+
+### aboutcompression_p18_460
+EN: Hi, I dont quite see what u mean in the final part, which spike? From where to where Can you please show on the chart?
+
+Its not as simple as it seems, to me at least.
+
+Thank you, Adam
+FA: سلام، درست نمی‌فهمم در بخش آخر منظورت چیست، کدام جهش؟ از کجا تا کجا؟ می‌شود لطفاً روی چارت نشان بدهی؟
+
+آن‌قدر که به نظر می‌رسد ساده نیست، دست‌کم برای من.
+
+ممنون، Adam
+
+### aboutcompression_p18_461
+EN: Here ya go
+FA: بفرمایید
+
+### aboutcompression_p18_462
+EN: Hi,
+
+So what do you call all of this? little spikes are going in bothe directions also woth a clear target - the Demand level that we discussed earlier.
+
+My point is...how do i differenciate any trend with spiked candles (which is about 90% of all candles) from a CP area? It doesn't make sense to me. Attached.
+
+Adam
+FA: سلام،
+
+خب این همه را چه می‌نامی؟ جهش‌های کوچک در هر دو جهت می‌روند و یک هدف روشن هم دارند — همان سطح تقاضایی که قبلاً بحثش را کردیم.
+
+حرفم این است... چطور هر روندی با کندل‌های جهش‌دار (که حدود 90% همهٔ کندل‌هاست) را از یک ناحیهٔ CP تشخیص بدهم؟ برای من جور درنمی‌آید. پیوست شد.
+
+Adam
+
+### aboutcompression_p18_463
+EN: Simply look at it with a Supply/Demand view.
+
+If all of the D's are spiked, and price breaks the low of the highest D, it will go to the next D. The whole cp zone can be viewed as a pole, the base of which is inside the lowest D of the cp.
+FA: فقط با نگاه عرضه/تقاضا به آن نگاه کن.
+
+اگر همهٔ Dها جهش‌دار باشند و قیمت کف بالاترین D را بشکند، به D بعدی می‌رود. کل ناحیهٔ CP را می‌توان یک تیرک دید که پایه‌اش داخل پایین‌ترین D همان CP است.
+
+### aboutcompression_p18_464
+EN: thanks alot for commenting If. The blue boxes are the supply zones, red lined peaks are the price moving into supply zones and taking them out.
+FA: خیلی ممنون که نظر دادی If. باکس‌های آبی نواحی عرضه‌اند، و قله‌های با خط قرمز هم حرکت قیمت به داخل نواحی عرضه و بیرون بردنشان است.
+
+### aboutcompression_p18_465
+EN: I thought so
+
+In that case, your view is fine so far
+FA: همین را فکر می‌کردم
+
+در آن صورت، خوانشت تا اینجا درست است.
+
+### aboutcompression_p18_466
+EN: 4th HW
+FA: چهارمین HW
+
+### aboutcompression_p18_467
+EN: 5th HW
+FA: پنجمین HW
+
+### aboutcompression_p18_468
+EN: Hi Narottam,
+
+It may be worth double-checking this one.
+
+To my eyes, this area looks more like a reaction (1.) to the swap zone (2.) rather than compression.
+
+We do have a test of the reaction to the swap zone but the first test of the mid-area of your marked CP area comes at (3.)
+
+I'm sure the more experienced members will confirm either way.
+FA: سلام Narottam،
+
+ارزش دارد این یکی را دوباره بررسی کنی.
+
+به چشم من، این ناحیه بیشتر شبیه واکنش (1.) به ناحیهٔ سوآپ (2.) است تا فشرده‌سازی.
+
+تست واکنش به ناحیهٔ سوآپ را داریم، اما اولین تست میانهٔ ناحیهٔ CP علامت‌خوردهٔ تو در (3.) اتفاق می‌افتد.
+
+مطمئنم اعضای باتجربه‌تر هر کدام که باشد تأییدش می‌کنند.
+
+### aboutcompression_p18_469
+EN: Thanks Simon, you're absolutely right:)
+FA: ممنون Simon، کاملاً حق داری :)
+
+### aboutcompression_p18_470
+EN: Today's gotta be my lucky day:) getting lots of attention from the pros
+
+U got any link where I can learn about swaps zones??
+FA: امروز باید روز شانس من باشد :) کلی توجه حرفه‌ای‌ها را جلب کرده‌ام
+
+لینکی داری که بتوانم دربارهٔ نواحی سوآپ یاد بگیرم؟؟
+
+### aboutcompression_p18_471
+EN: This may seem a bit "hippy":) but paste this link into google.
+
+www.google.co.uk/search?q=sine+wave+one+...oAQ&biw=1280&bih=647
+
+I'm sure there's some pretty decent articles out there regarding the order flow behind the swap zone but I found that really just training one's eyes to see the shape on the charts is a good first step.
+
+There's another swap zone on your CP diagram. Can you find it?
+FA: شاید کمی «هیپی‌وار» به نظر برسد :) اما این لینک را در گوگل بچسبان.
+
+www.google.co.uk/search?q=sine+wave+one+...oAQ&biw=1280&bih=647
+
+مطمئنم مقاله‌های نسبتاً خوبی دربارهٔ جریان سفارشِ پشت ناحیهٔ سوآپ وجود دارد، اما به نظرم قدم اول خوب این است که فقط چشم را عادت بدهی تا این شکل را روی چارت‌ها ببیند.
+
+یک ناحیهٔ سوآپ دیگر هم در نمودار CP تو هست. می‌توانی پیدایش کنی؟
+
+### aboutcompression_p18_472
+EN: would this be very good compression?
+FA: این فشرده‌سازی خیلی خوبی می‌شود؟
+
+### aboutcompression_p18_473
+EN: Yup, that's a great one - all demand spiked in your zone, and if the top was HTF S, all the better!
+FA: بله، آن یکی عالی است — همهٔ تقاضا در ناحیه‌ات جهش‌دار است، و اگر سقفش S در تایم‌فریم بالاتر بوده باشد، چه بهتر!
+
+### aboutcompression_p18_474
+EN: Looks like good CP to my eyes. Down to the untested level at the bottom of the zone.
+FA: به چشم من CP خوبی به نظر می‌رسد. تا سطح تست‌نشده در کف ناحیه.
+
+### aboutcompression_p18_475
+EN: Yup, you're right on track:)
+FA: بله، دقیقاً در مسیر درستی :)

@@ -1,0 +1,123 @@
+# آرشیو داده‌های خام / build (محلی، قابل بازتولید — هرگز کامیت نشوند)
+# سایت نهایی فقط site/ است؛ این‌ها ورودی بیلدند.
+
+# زیرساخت و داده‌های ساخته‌شده (بازسازی با _build/)
+/_build/
+/_translator/
+.freebuff/
+.tmp/
+*.tmp
+*.rar
+temp_*.txt
+site_build.js
+site_listing.txt
+sit_listing.txt
+
+# داده‌های ساخته‌شدهٔ سایت (تا سقف GitHub)
+site/data/
+site/assets/
+# ژورنال‌های خام (ورودی بیلد)
+"Andrew's JOURNEY/"
+"Aran Jibril/"
+Astrokillah/
+Benhur/
+"Edges Journal 2.0/"
+Einrikr/
+extremerrage/
+"full journal/"
+fxeyes/
+IF/
+Jurij/
+Les_Paul/
+Linos/
+Mel/
+Michal238/
+Moneydeep/
+Mukhcin/
+Omidfx/
+Pedini/
+Rinehart/
+Salivan/
+Sniffing/
+staurum/
+ViTaLDRuG/
+If - Page */
+*.html
+*_files/
+"*.rar"
+
+# اسناد برنامه‌ریزی UX (محلی — این کامیت به آن‌ها نمی‌افزاید)
+SITE_2026_NEEDS.md
+SITE_UIUX_100.md
+UX_AUDIT.md
+UX_BACKLOG.md
+UX_DECISIONS.md
+UX_VALIDATION.md
+temp_img.txt
+temp_journals.txt
+temp_msg.txt
+
+# ابزار و دکمه‌های موقت ریشه
+fixapp.js
+temp_*.txt
+
+# لاگ / IDE / سیستم
+*.log
+.kilo/
+node_modules/
+.DS_Store
+Thumbs.db
+.qoder/settings.local.json
+
+# ---- استثنای نقطهٔ بازگشت 2026-11-07 ----
+# لایهٔ ترجمهٔ دستی و ورودی‌های بیلد قابل بازتولید نیستند؛ برای برگشت امن
+# باید ترک شوند. والد _build/ باز می‌شود، بعد فقط مسیرهای لازم.
+!/_build/
+/_build/*
+!/_build/expert/
+!/_build/parsed.json
+!/_build/posts/
+/_build/posts/*
+!/_build/posts/translations.json
+!/_build/posts/translations.baked.json
+!/_build/ocr/
+/_build/ocr/*
+!/_build/ocr/translations.json
+!/_build/ocr/translations.baked.json
+!/_build/*.js
+
+# پیشنویسهای متنی مترجمها (همان محتوا در batches/*.json است)
+/_build/expert/drafts/
+
+
+# Original forum prints/PDFs live outside site/; the junction is local-only
+site/originals/
+
+# ---- local-only extras (2026-11-12 sweep) ----
+# release-build/ is the public repo with its own remote — never nest it here
+/release-build/
+# tool / agent scratch dirs
+/.perch/
+/.workbuddy-ai/
+# raw journal drops that arrived after the original ignore list
+/Dr Swing/
+/Kruger/
+/MM/
+/Mertch/
+/Michal/
+/frosty igloo/
+/RTM Journals/
+/MERTCH'S JOURNAL (ALIYOUSEFIFX)/
+# source PDFs and one-off dumps at the root
+/*.pdf
+/pages-chars.json
+/rel.json
+/upload.json
+/nul
+# temp work dirs and files
+/_tmp*/
+_tmp_*
+# dated session notes (work logs, not project docs)
+/ادامه_استخراج_و_اصلاح_ژورنال‌ها_2026-11-10_14-01.md
+/سلام_2026-11-07_08-10.md
+/ژورنال_بعدی_سریع_و_باکیفیت_2026-11-10_01-22.md

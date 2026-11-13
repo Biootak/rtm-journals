@@ -1,0 +1,12 @@
+{
+  "mm_p7_23": {
+    "ok": false,
+    "issue": "'consider that Flag a FL' became 'آن FL را FL حساب کنم' - the referent (the Flag) is replaced by FL, so the sentence says 'count that FL as a FL' and the distinction between the two structures is lost.",
+    "fix": "این چارت را ببین؛ از آن فکر کردم می‌توانم آن Flag را یک FL حساب کنم..... درست است که سطوح درگیر شاید برای یک FL معتبر نباشند... پس احتمالاً دربارهٔ FTR اشتباه می‌کنم؛ با آن FTR مخفی موافقی؟\n\nراستی، اینگالف (EG) یک FTR هم باید بگوید قیمت به کجا می‌رود، حداقل بعد از RET.... باز هم اشتباه می‌کنم؟\n\nممنون MM!"
+  },
+  "mm_p7_24": {
+    "ok": false,
+    "issue": "Same defect carried in the quoted text: 'consider that Flag a FL' rendered as 'آن FL را FL حساب کنم'.",
+    "fix": "althoufx نوشت: این چارت را ببین؛ از آن فکر کردم می‌توانم آن Flag را یک FL حساب کنم..... درست است که سطوح درگیر شاید برای یک FL معتبر نباشند... پس احتمالاً دربارهٔ FTR اشتباه می‌کنم؛ با آن FTR مخفی موافقی؟\n\nراستی، اینگالف (EG) یک FTR هم باید بگوید قیمت به کجا می‌رود، حداقل بعد از RET.... باز هم اشتباه می‌کنم؟\n\nممنون MM!\n\nمن FL را اینجا کشیدم (ببین قیمت چطور به آن واکنش می‌دهد)"
+  }
+}

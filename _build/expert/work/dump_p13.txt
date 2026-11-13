@@ -1,0 +1,139 @@
+##### hs_p13_301 hoeschec paras:2
+Watching this level on EUR-USD this week:
+
+A bit more detail:
+---END---
+##### hs_p13_302 hoeschec paras:1
+Watching this demand level on AUD-USD this week. Not only is it a strong demand level, but there is also a significant Weekly S/R Flip.
+---END---
+##### hs_p13_303 hoeschec paras:3
+I am learning a lot from all of my failed trades in recent weeks. I am making the following changes to my trade plan:
+
+1. Draw the obvious supply/demand levels, but also draw HTF S/R Flip levels that exist within these larger zones (do this ahead of time) 2. Trade the Supply/Demand zones that also incorporate an S/R flip zone 3. Not only will the supply/demand zone offer a 'heads up' that price may bounce, the S/R flip provides even more resistance (or support) for the bounce. 4. When price reaches one of these Supply/demand + S/R flip zones, drop down to the LTF and start marking all flags that form as price pushes up/down in to the zone. 5. Wait for an engulf of an important flag (source flag) while within the supply/demand & S/R flip zone. Make sure it is an engulf of a source flag and not a flag that is reacting to a flag.
+
+6. Draw LTF S/R lines as needed and watch for indications that pro money is entering the market.
+---END---
+##### hs_p13_304 hoeschec paras:1
+E/J LTF QM
+---END---
+##### hs_p13_305 hoeschec paras:1
+U/J I want to trade this LTF engulf, but I noticed the break of the flag that formed the 'engulf' also stopped at a S/R line which is making me second guess the validity of the EG.
+---END---
+##### hs_p13_306 hoeschec paras:2
+anyone else see this EG on EUR-USD 4-HR?
+
+I wonder if a negative US Consumer confidence report coming up at 10 AM EST will give the liquidity needed for E/U to push higher. I am watching the S/R bounce for a pl ace where price could bounce.
+---END---
+##### hs_p13_307 Keyador paras:2
+Hi Hoeschec,
+
+Im looking for bearish PA. I don't see an engulf
+---END---
+##### hs_p13_308 hoeschec paras:1
+Thanks Keyador. I must be drawing my zones wrong...
+---END---
+##### hs_p13_309 hoeschec paras:2
+USD-CAD
+
+Price approaching LTF QM
+---END---
+##### hs_p13_310 hoeschec paras:1
+GU missed
+---END---
+##### hs_p13_311 hoeschec paras:4
+G/U
+
+Price might be bouncing at the target for shorts & S/R level.
+
+I marked the FL where I am watching price to engulf in order to take a small trade long. Dotted lines show what I am watching for.
+
+Here is a 1-HR chart. This looks like a nice level
+---END---
+##### hs_p13_312 hoeschec paras:3
+EUR-USD Hourly
+
+Looks like an EG and possible QM forming...
+
+Anyone else see this?
+---END---
+##### hs_p13_313 hoeschec paras:2
+Took a short on EUR-USD a bit after the US close.
+
+There was a decent EG and follow trough but price is choppy and I decided to close out before London opens. I added to the position a few times on the RT, so this trade ended up working out pretty well.
+---END---
+##### hs_p13_314 hoeschec paras:3
+Possible EG and QM opportunity on the LTF AUD-JPY:
+
+Price may bounce off HTF Demand zone. It looks like an engulf just happened. I am waiting for a RT to the origin. My target will the the FTR shown on the chart below (shaded rectangle)
+
+Anyone else watching this pair?
+---END---
+##### hs_p13_315 hoeschec paras:1
+EU Engulf, RT to source, and TG at the opposing FTR
+---END---
+##### hs_p13_316 hoeschec paras:2
+With regard to an EG, which of the flags below are correctly drawn? I sometimes run in to this problem...where I see two possible ways to draw the FL. I think the blue rectangle is more accurate (this would no be a valid EG), but I'm not entirely sure.
+
+Here is a 5 min chart with a bit more detail. The red rectangle is just part of CP, right?
+---END---
+##### hs_p13_317 hoeschec paras:1
+I was able to catch this quick scalp on USD/CAD
+---END---
+##### hs_p13_318 hoeschec paras:2
+Waiting to see if price engulfs this FL...
+
+GBP-USD
+---END---
+##### hs_p13_319 hoeschec paras:2
+Quick scalp in G/J QM... it was a pretty fast trade. I was a little late on my entry but in ten minutes the marked dropped pretty hard which earned me a quick 17 pips. Since it is Asia session I got out after this push down.
+
+Here is a 5 Min chart
+---END---
+##### hs_p13_320 hoeschec paras:2
+Here is what the final g/J trade looks. I left about 10 pips on the table, but still picked up about 17.
+
+Next time I will trust in my analysis and grab as many pips as my setups allow for.
+---END---
+##### hs_p13_321 hoeschec paras:3
+Hey just want to thank all of the kind traders who stop by to help me out. Kovalenko, your stuff is brilliant and simple. It acts as the basis for many of my trades. This week has been great...mainly due to the combination of finding good HTF zones and dropping down to LTF to watch the flags as they occur. I find the source flag and wait for an engulf & RT to origin.
+
+So far, I am doing better!
+
+So many thanks to everyone who has been willing to offer their help and support!
+---END---
+##### hs_p13_322 zhao paras:2
+Hi Hoeschec, in your trading plan no.5 Wait for an engulf of an important flag (source flag) while within the supply/demand & S/R flip zone. Make sure it is an engulf of a source flag and not a flag that is reacting to a flag.
+
+Can you tell me what is exactly the source flag please? I think I got what you mean, just need to confirm it. thank you. peter
+---END---
+##### hs_p13_323 hoeschec paras:10
+zhao wrote: Hi Hoeschec, in your trading plan no.5 Wait for an engulf of an important flag (source flag) while within the supply/demand & S/R flip zone. Make sure it is an engulf of a source flag and not a flag that is reacting to a flag.
+
+Can you tell me what is exactly the source flag please? I think I got what you mean, just need to confirm it. thank you. peter
+
+Hi Peter,
+
+This is a relatively new concept for me, so hopefully a more experienced trader can step in and correct me if I am wrong...but here is my understanding of what I mean by 'source' engulf.
+
+When price is reaching an important HTF supply or demand zone, I drop down to a lower time frame to see how price forms as it reaches in to the area of importance. On its way in to the zone, price will FL many times (base-pole-flag...etc). FTR's will also form & I watch for these as well. What I look for is the original FL or FTR that acts as the source of the major push up in to the HTF zone. I also look for major S/R levels to mark the FTR that forms after the break of the S/R level. Basically, I want to find the FL or FTR that is important...not just FL's that form as a result of the important FL's. It is critical to find out which FL/FTR is the origin of the move in to the HTF zone because it is this FL/FTR that matters when it comes to a possible. engulf.
+
+Previously, I would be watching the charts and point out what I thought was an engulf, when in reality all I was looking at was price breaking the high/low of a reactionary FL or (meaning nothing of importance happened). Here is a illustration I made a few pages back in my journal that I think is correct (nobody corrected me on it) and it does a decent job of illustrating this point.
+
+As you can see on the illustrated chart, the original FL/FTR (arrow 1) is the one that occurred on the very Left.This is the FL/FTR that formed after a break of an important S/R level...because of this, I would deem this FTR/FL as being important and the 'source/original' FL/FTR. You can see from this drawing that price attempts to break the original FL/FTR (arrow 2) but isn't able to. Look at Arrow 3: This arrow breaks the top limit of the RBD that formed at arrow 2 making it appear that an engulf has occurred when it hasn't.
+
+The true engulf only occurs when price is able to break the top limit of the FL/FTR show at arrow #1. The engulf happens at arrow # 4. This is confirmation that the last orders have been taken from the initial source FL/FTR and price will move to the north after (hopefully) retracing to the origin of the engulf.
+
+This is my best understanding of the concept, and although it is hard to put in to words, I hope this drawing helps. For anyone who reads this and finds flaws in my response to Peter: please let me know! I'd hate to lead another trader down the wrong path!
+
+Hope this help Peter, please let me know if you still don't understand that concept and I'll draw a new diagram with more examples
+---END---
+##### hs_p13_324 hoeschec paras:1
+Watching AUD-USD
+---END---
+##### hs_p13_325 hoeschec paras:3
+AUD-USD
+
+Quick scalp on 1 min chart. Will buy more if price pulls back because of the engulf.
+
+Will buy more if price RT to the S/R after bouncing off Supply level. This is all happening after an engulf north.
+---END---

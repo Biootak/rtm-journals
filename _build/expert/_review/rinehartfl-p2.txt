@@ -1,0 +1,7 @@
+===== rinehartfl-p2 : 2 posts =====
+--- rinehartfl_p2_26 author=Rinehart hash=138f00aa
+EN: Too bad I didn't see this earlier!
+FA: حیف که این را زودتر ندیدم!
+--- rinehartfl_p2_28 author=Ifmyante hash=7b7a5d3c
+EN: That was Round 1, to the pip
+FA: آن راند 1 بود، دقیقاً تا پیپ.

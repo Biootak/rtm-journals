@@ -1,0 +1,206 @@
+##### hs_p28_676 hoeschec paras:6
+So after doing more homework, here is where I am at:
+
+1. Flag limits look exactly like FTR's to me...
+
+2. There are crucial decision points within all of these flag limits, and they are formed as a RBD or DBR. These RBD/DBR also have base/pole/flag price forms. You have to go to the LTF to see it.
+
+3. MPL's probably have a lot to do with wanting to achieve the best price within the flag.
+
+4. Analogy: It seems to me that the flag is a battlefield and the flag limits represent the opposing army, defending their positions. In the case of the market, these armies are the bulls and the bears. Price must defeat the bull army or the bear army before breaking out of a flag and advancing on. The decision points are the "last stand".
+
+Maybe that is why Salivan's journal is called the art of war....
+---END---
+##### hs_p28_678 hoeschec paras:3
+USD-JPY
+
+More practice - It gets confusing to draw all of the flags and FL's when price is compressing....
+
+Here are the flags I see:
+---END---
+##### hs_p28_679 hoeschec paras:3
+If an FTR PAZ is the space between two FTR's, would it be correct to say that a FTR PAZ always occurs within a larger flag, and occurs between two important RBD/DBR decision points within the flag limits?
+
+If each flag has two FL's and two DP's, the FTR PAZ would have two decision points but from two different Flags, right?
+
+My drawing below: PAZ 1 is formed between two FTR's. The upper FTR has a DP that is unique to Flag 1, and the lower FTR has a DP that is unique to Flag 2. Both of these DP's are unique to FTR PAZ # 1. Am I right about this? Thanks
+---END---
+##### hs_p28_680 hoeschec paras:4
+Post # 552 from Salivan's "Art of War Journal"
+
+I am recreating his top down analysis to see how/why he draws the flags the way he does. Here is what I have so far. This is pretty straightforward (so far):
+
+Question:
+
+Salivan drew the Base as shown below (blue rectangle). This is the base of the Base-Pole-Flag that formed all the PA above, and it is important because it is the target of the engulf above. If I had been drawing the base, I would have drawn it differently - see the red rectangle. The difference is important because in Salivan's scenario price nicely hits the base target and bounces away. My rectangle shows the base engulfed - look at the yellow circle. It is small details like this that can make the difference between winning trades and losing trades. Why did he draw the base the way he did? The DP/origin looks to be inside the red rectangle.
+---END---
+##### hs_p28_681 Edge paras:7
+hoeschec wrote: So after doing more homework, here is where I am at:
+
+1. Flag limits look exactly like FTR's to me...
+
+2. There are crucial decision points within all of these flag limits, and they are formed as a RBD or DBR. These RBD/DBR also have base/pole/flag price forms. You have to go to the LTF to see it.
+
+3. MPL's probably have a lot to do with wanting to achieve the best price within the flag.
+
+4. Analogy: It seems to me that the flag is a battlefield and the flag limits represent the opposing army, defending their positions. In the case of the market, these armies are the bulls and the bears. Price must defeat the bull army or the bear army before breaking out of a flag and advancing on. The decision points are the "last stand".
+
+Maybe that is why Salivan's journal is called the art of war....
+
+I like the analogy. Due to the fractal nature of price and the FLs Flags everywhere the challenge is working out which ones are important. Great journal
+---END---
+##### hs_p28_682 hoeschec paras:4
+Regarding finding the origin of a move:
+
+(in an example where price drops after making new highs)
+
+Would you find the first engulf after the swing high was made, determine the FTR/FL/DP that forms after the engulf, and label that as the origin of the move down? Would that origin also be the target for future price as it moves back up? See my drawing below:
+
+I ask this because I am still going through Salivan's past top-down analysis for USD-CAD and I am detailing the FL that formed way to the left. He goes in to detail about this FL on his 3rd chart (as part of his journal entry #552). This FL is very important because it is engulfed at a later date, which is the indication that price will be moving up over the long term. He labels the FL as also being the origin of the move down. Is this the origin because it is the first FL formed after the first EG forms proceeding a swing high? Sometimes I find the origin of a move difficult to determine... Details like this really matter, because if you draw the origin wrong (by even a few pips) it can change the entire read of price...Below I've posted a close up of this FL:
+---END---
+##### hs_p28_683 hoeschec paras:2
+Next Step on the USD-CAD Analysis: Here is a macro look at this entire trade. I have circled the most important areas of focus to simplify this. I don't want to make this more complicated than it needs to be...
+
+I have already looked closely at "A". Now I am focusing in on "B". Notice all three of these areas are essentially the same thing: price engulfs, retests, forms a FL that holds price and creates a swap zone. Like Edge said earlier, the key is learning to do this in real time and focus on only the FL's and EG's that matter.
+---END---
+##### hs_p28_684 hoeschec paras:1
+Here is "B" - price engulfs and creates a Flag that holds price down for a long time until price works its way back up to the DP and breaks it. There is a FL formed, a retest, and a new swap zone formed. That will be in my next chart.
+---END---
+##### hs_p28_685 hoeschec paras:8
+OK, here is the first chart the focused on "C". There is a lot that happens at this level, so I will do a few charts. Here is a basic version of what happened. The blue rectangle is just copied over from the HTF charts (this is the same rectangle that drew the FL formed at "B"). You can see price engulfed the topside of this FL. I zoomed in to a 30-min chart to match what Salivan did.
+
+The area inside the light yellow circle is where I will focus next...there is a lot of PA that is easy to miss in that area.
+
+Here is the close up of the yellow circle in the chart above:
+
+Like before, there is an engulf, RT, and a new swap zone formed. The dotted orange rectangle represents the FL that price had to EG in order to move down. I would NEVER have seen detail like this previous to analyzing Salivan's example. It is so easy to miss. I think what makes this area so important, is that it is showing PA form after a major engulf of a HTF FL.
+
+We know from out study of the "A" portion of the Daily chart (see my post #681 above) that price recently engulfed (to the upside) the origin of the move down. We know the longer term future for USD-CAD is bullish. Since we just engulfed (to the upside) an important HTF swap level, it would make sense that we would be waiting in the LTF charts to see a bullish swap level form which establishes a new floor for price.
+
+Going back to my analogy: if I am on the bull team, I want a nice foundation to form (FL) that I know will provide a floor for price. This is the first step of looking for ways to get long. In the LTF charts, we eventually engulf the LTF FTR, which creates the FL/FTR shown in the chart below (see red rectangle). When price Engulfs and forms the red rectangle FL, we can see that LTF PA has aligned with our longer term view. This is good news if I am looking to buy.
+
+Below is the next major part of this trade setup. Price fakes out to the swap zone. In doing so price forms a DBR.
+
+There is a QM level that formed in the same zone as the Flag that forms after Fakeout occurs (Neon Green rectangle in chart below). I am not sure, but I marked where I think there was an MPL (the lower boundary of previous FL).
+---END---
+##### hs_p28_686 hoeschec paras:2
+I still can't figure out why the green rectangle is the target for shorts - that would mean the green rectangle represents the origin of the move up, right? It seems to me that the origin of the move up is the FL that exists at the red rectangle because it is the demand that forms & holds after the major engulf happens. It is the beginning of the move up. Why the green zone instead? Does it have something to do with the fakeout?
+
+Any ideas?
+---END---
+##### hs_p28_687 hoeschec paras:2
+Would I be right in saying the following:
+
+Every Flag that forms must have have two flag limits. Those flag limits are formed when an engulf happens and an FTR is formed. The FTR's that are formed are decision points and areas of true supply/demand (where price often fakes out to gather orders for liquidity). The flag contains all the PA that exists within the flag limits. The Flag is the PAZ - the portion below and above the flag/PAZ are the flag limits which "box in" the area where price bounces around until it has the ability to engulf one of the two flag limits. These flag limits represent the furthest (most extreme) set of orders remaining. This is true supply/demand (within the context of the Flag it's currently in), and this is where the MPL's are located.
+---END---
+##### hs_p28_688 omidfxt paras:3
+hoeschec wrote: Would I be right in saying the following:
+
+Every Flag that forms must have have two flag limits. Those flag limits are formed when an engulf happens and an FTR is formed. The FTR's that are formed are decision points and areas of true supply/demand (where price often fakes out to gather orders for liquidity). The flag contains all the PA that exists within the flag limits. The Flag is the PAZ - the portion below and above the flag/PAZ are the flag limits which "box in" the area where price bounces around until it has the ability to engulf one of the two flag limits. These flag limits represent the furthest (most extreme) set of orders remaining. This is true supply/demand (within the context of the Flag it's currently in), and this is where the MPL's are located.
+
+hey hoeschec very good explanations and great achievements mostly agree with you
+---END---
+##### hs_p28_689 salivan paras:7
+hoeschec wrote: So after doing more homework, here is where I am at:
+
+1. Flag limits look exactly like FTR's to me...
+
+2. There are crucial decision points within all of these flag limits, and they are formed as a RBD or DBR. These RBD/DBR also have base/pole/flag price forms. You have to go to the LTF to see it.
+
+3. MPL's probably have a lot to do with wanting to achieve the best price within the flag.
+
+4. Analogy: It seems to me that the flag is a battlefield and the flag limits represent the opposing army, defending their positions. In the case of the market, these armies are the bulls and the bears. Price must defeat the bull army or the bear army before breaking out of a flag and advancing on. The decision points are the "last stand".
+
+Maybe that is why Salivan's journal is called the art of war....
+
+i am really happy that you have arrived to a new stage and absolutely the important one of thinking in the market.
+---END---
+##### hs_p28_690 salivan paras:4
+hoeschec wrote: USD-JPY
+
+More practice - It gets confusing to draw all of the flags and FL's when price is compressing....
+
+Here are the ags I see:
+
+when the chart is messy go to LTF then you will see how it's clear.
+---END---
+##### hs_p28_691 salivan paras:2
+hoeschec wrote: Would I be right in saying the following:
+
+Every Flag that forms must have have two flag limits. Those flag limits are formed when an engulf happens and an FTR is formed. The FTR's that are formed are decision points and areas of true supply/demand (where price often fakes out to gather orders for liquidity). The flag contains all the PA that exists within the flag limits. The Flag is the PAZ - the portion below and above the flag/PAZ are the flag limits which "box in" the area where price bounces around until it has the ability to engulf one of the two flag limits. These flag limits represent the furthest (most extreme) set of orders remaining. This is true supply/demand (within the context of the Flag it's currently in), and this is where the MPL's are located.
+---END---
+##### hs_p28_692 hoeschec paras:9
+salivan wrote:
+
+hoeschec wrote: So after doing more homework, here is where I am at:
+
+1. Flag limits look exactly like FTR's to me...
+
+2. There are crucial decision points within all of these flag limits, and they are formed as a RBD or DBR. These RBD/DBR also have base/pole/flag price forms. You have to go to the LTF to see it.
+
+3. MPL's probably have a lot to do with wanting to achieve the best price within the flag.
+
+4. Analogy: It seems to me that the flag is a battlefield and the flag limits represent the opposing army, defending their positions. In the case of the market, these armies are the bulls and the bears. Price must defeat the bull army or the bear army before breaking out of a flag and advancing on. The decision points are the "last stand".
+
+Maybe that is why Salivan's journal is called the art of war....
+
+i am really happy that you have arrived to a new stage and absolutely the important one of thinking in the market.
+
+It is really exciting to make progress! I really appreciate everyone's help and support!
+---END---
+##### hs_p28_693 hoeschec paras:1
+Here is a drawing I made - Does this look right?
+---END---
+##### hs_p28_694 hoeschec paras:4
+History on USD-CHF Daily Chart (Begins back around 9/22/2010)
+
+This is practice to see if I am understanding the relationship between Flags, FL, FTR's, PAZ, EG, F/O, Etc....
+
+Please don't hesitate to tell me if I am wrong about something
+
+Next Chart - Price bounced nicely at a swap zone & EG of opposing FL
+---END---
+##### hs_p28_695 hoeschec paras:1
+I am noticing it's easier to see engulfs when incorporating the PAZ in trading. It makes the craziness of PA easier to follow when you see the market at a series of Flags, engulfs, FTR/FL, etc...
+---END---
+##### hs_p28_696 hoeschec paras:4
+Question:
+
+When price engulfs and creates a FTB to a previously formed FL: in doing so, does it create a FL? I would say no, because there is no flag. There still is an FTR created though. Does price have to engulf the FL that the FTB is reacting to when price comes back to this level? Here is a chart to explain my question:
+
+Blue Line: Engulfs the FL that was formed as the upper FL of Flag #3. Price reacted to this FL and formed an FTR on it's FTB. Is the blue line showing a true engulf in to flag #2?
+
+Green Line: Engulfs the FTR formed on price's FTB, but it does not engulf the FL of Flag # 3. Is is not an engulf, right?
+---END---
+##### hs_p28_697 hoeschec paras:9
+USD-CHF
+
+Something I noticed when analyzing this pair: If you look at the black arrow, it points to an area where price seems to F/O past a an important FL before moving up. The engulf indicates price wants to reach the other end of the PAZ. I was puzzled as to why price didn't respect the FL @ the swap level, so I looked closer and here is what I saw:
+
+(First chart for reference..I'll post another one with a zoomed version next)
+
+Here is a zoomed version: The big engulf (towards the top of the chart) indicates price is going higher. When price RT to the FL that formed at a swap level, I wold have expected price to respect the low. As you can see, it broke the low of the FL (shown by the neon green dotted line). I was confused about this for a while, and then I looked at the chart again and noticed what I did wrong. I'll post that chart next.
+
+I'm not 100% sure I am seeing this correctly, but it explains why price stopped where it did. I missed the small FL (shaded in yellow rectangle) and missed the first EG of it.
+
+Also this is a bullish QM setup - price turned exactly where you'd expect it to turn for a QM
+
+The target for the bullish QM was hit perfectly. I also notice that there was a fakeout that occurred (DBR) in to another FL- this is what formed the LL portion of the QM. Price came back to the QM level - I think there is some significance is the Flag created after the FO occurs as far as knowing where price is likely to bounce. I still have to study that more...
+
+I noticed (back on Salivan's top down analysis of USD-CAD) He put a buy order at the FL that formed after the first engulf that occurred after the fakeout. DBR Fakeout - the engulf he saw what the EG of the DP to F/O - the resulting FL was the logical place for price to bonce because there were no more orders left below this level (FO took them already).
+
+Here is his chart (I added the red rectangle for clarity). This was from his earlier post...I am just posting for reference.
+---END---
+##### hs_p28_698 hoeschec paras:1
+Here is a drawing I made:
+---END---
+##### hs_p28_699 hoeschec paras:2
+USD CHF - more practice.
+
+I am still getting confused about the origin of the move - sometimes it is really hard to determine where the move originated. For example, look at my chart below. Where should I have taken my profit? Both levels look like they could be the origin of the move down. What specifically do look for in a zone to determine if it's the origin of the move?
+---END---
+##### hs_p28_700 masalif paras:2
+Hi.....H's...
+
+This is stupid question but really I don't know "what MPL is stand for"? please explain me.......!!!!!!
+---END---

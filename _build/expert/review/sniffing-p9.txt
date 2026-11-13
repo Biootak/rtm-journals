@@ -1,0 +1,257 @@
+### sniffing_p9_1
+EN: thank you
+FA: ممنون
+
+### sniffing_p9_2
+EN: Check this out:
+
+COT of KIWI: large specs are heavily long and comms are ultra short.
+
+the price on weekly chart is slowly compressing up to the weekly supply level, profit margin = 1000 pips to the nearest demand
+
+L_P
+FA: این را ببین:
+
+COT جفت KIWI: سفته‌بازان بزرگ به‌شدت خریدارند و معامله‌گران تجاری به‌شدت فروشنده.
+
+قیمت در چارت هفتگی آرام‌آرام تا سطح عرضهٔ هفتگی فشرده می‌شود؛ حاشیهٔ سود = 1000 پیپ تا نزدیک‌ترین تقاضا
+
+L_P
+
+### sniffing_p9_3
+EN: Nice, last time they were very short @ zero was in Dec 11, 2012 at marked price and date. Now they are at index 5 and decreasing to zero. So better follow the large speculators with uptrend to your upper weekly supply until further update from the COT.
+FA: خوب است؛ آخرین بار که به‌شدت فروشنده بودند و روی صفر ایستادند، Dec 11, 2012 بود، همان قیمت و تاریخی که علامت زده شده. حالا روی اندیس 5 هستند و به سمت صفر کم می‌شوند. پس بهتر است با روند صعودی، سفته‌بازان بزرگ را تا عرضهٔ بالای هفتگی دنبال کنی، تا آپدیت بعدی COT.
+
+### sniffing_p9_4
+EN: Hi Fxsniffer,
+
+I was wondering if COT give you any advantage, because for me it looks like typical datafeed from your broker. Dose it inform about pending orders too ?
+
+I read about fliping strategy too, when you want to spoof your moves and set group of orders with high value and in last moment you reverse (flip) position.
+
+In such circumstances COT seems to me a bit tricky.
+
+BTW : great thread
+FA: سلام Fxsniffer،
+
+می‌خواستم بدانم آیا COT برایت مزیتی ایجاد می‌کند؟ چون برای من شبیه همان فید دادهٔ معمول بروکر است. آیا از سفارش‌های معلق هم خبر می‌دهد؟
+
+دربارهٔ استراتژی فلیپ هم خوانده‌ام؛ همان‌جا که می‌خواهی حرکتت را لو ندهی و گروهی سفارش با حجم بالا می‌گذاری و در آخرین لحظه پوزیشن را برمی‌گردانی (فلیپ می‌کنی).
+
+در چنین شرایطی COT به نظرم کمی گول‌زننده می‌آید.
+
+راستی: تاپیک عالی
+
+### sniffing_p9_5
+EN: Hi Dariusz,
+
+As mentioned in
+	Post #183
+, I use it as a reference to observe the long term market sentiment at extreme buy/sell levels, this may not help the day traders or short term traders. The data enumerates the holdings of participants in futures markets, in other words; enumerating traders long and short futures positions.
+
+Thanks.
+FA: سلام Dariusz،
+
+همان‌طور که در پست #183 گفتم، من آن را فقط به‌عنوان مرجعی برای رصد احساسات بلندمدت بازار در سطوح حداکثری خرید/فروش به کار می‌برم؛ این کار به دی‌تریدرها یا معامله‌گران کوتاه‌مدت کمکی نمی‌کند. داده‌ها دارایی شرکت‌کنندگان در بازارهای فیوچرز را می‌شمارند؛ به عبارت دیگر، پوزیشن‌های خرید و فروش فیوچرز معامله‌گران را.
+
+ممنون.
+
+### sniffing_p9_6
+EN: eur/usd trades for the day.
+FA: معاملات امروز eur/usd.
+
+### sniffing_p9_7
+EN: usd/chf trade of the day..
+FA: معاملهٔ امروز usd/chf..
+
+### sniffing_p9_8
+EN: aud/usd...an early entry, draw down > 25 pips
+FA: aud/usd... یک ورود زودهنگام، دراوداون بیش از 25 پیپ
+
+### sniffing_p9_9
+EN: The one and only FX.Sniffer at work! Very nice trading
+FA: FX.Sniffer، همان یکتای همیشگی، در حال کار! معامله‌گری بسیار خوب
+
+### sniffing_p9_10
+EN: thanks Mel, here is an ongoing trade
+FA: ممنون Mel، این هم یک معاملهٔ در جریان
+
+### sniffing_p9_11
+EN: and so so close to TG
+FA: و خیلی خیلی نزدیک به TG
+
+### sniffing_p9_12
+EN: usd/cad watch for PA.
+FA: usd/cad را برای PA زیر نظر بگیر.
+
+### sniffing_p9_13
+EN: FX.Sniffer wrote: aud/usd...an early entry, draw down > 25 pips
+
+Great trade! On the chart there' a pin around the 1,0310. There was also rejection at the next bar as I remember. Why didn't it force you to close the trade and how to manage the fear that the price won't go further?
+FA: FX.Sniffer نوشت: aud/usd... یک ورود زودهنگام، دراوداون بیش از 25 پیپ
+
+معاملهٔ خوبی بود! روی چارت یک پین حدود 1,0310 هست. تا آن‌جا که یادم است، کندل بعدی هم ریجکشن داشت. چرا مجبورت نکرد معامله را ببندی، و چطور ترس از اینکه قیمت جلوتر نرود را مدیریت می‌کنی؟
+
+### sniffing_p9_14
+EN: Very cool posts today, Thanks for sharing
+FA: پست‌های امروز خیلی خوب بودند، ممنون که به اشتراک گذاشتی
+
+### sniffing_p9_15
+EN: Thanks romant & Lehmann.
+
+romant, the horizontal line is at 1.0310 and the rejection IPB at a nice location but look at HTF next chart the H4....you see the S/R flip and where is price coming from? actually I should've let it run instead of closing it where i did, but anyway that was my plan.
+
+Now, you see the next candle didn't close above the rejection candle and if it did, price would've pulled back to the white line where i should start worrying if it goes higher.
+
+My personal problem is not fear, it's greed! However you can control your fear by risking small lots, and by time your confidence will kick in and you'll increase the lot size, then your ego will take over your logical thinking, and if you ever get a margin call then fear will take over and you'll have to start the whole process again.
+
+If you have a plan before taking a trade then there is no place for fear.
+FA: ممنون romant و Lehmann.
+
+romant، خط افقی روی 1.0310 است و IPB ریجکشن هم در نقطهٔ خوبی قرار دارد، اما چارت بعدی را در HTF ببین، یعنی H4... فلیپ S/R را می‌بینی و اینکه قیمت از کجا می‌آید؟ راستش باید می‌گذاشتم کارش را بکند و آن‌جا که بستم نمی‌بستم، ولی به‌هرحال پلنم همین بود.
+
+حالا می‌بینی که کندل بعدی بالای کندل ریجکشن بسته نشد؛ اگر می‌شد، قیمت به خط سفید پولبک می‌زد و آن‌جا بود که باید نگران رفتنش به بالا می‌شدم.
+
+مشکل شخصی من ترس نیست، طمع است! بااین‌حال می‌توانی ترست را با ریسک کردن روی لات‌های کوچک کنترل کنی؛ به‌مرور اعتمادبه‌نفست بالا می‌آید و حجم لات را زیاد می‌کنی، بعد خودبزرگ‌بینی‌ات جای تفکر منطقی را می‌گیرد، و اگر یک بار مارژین کال بخوری ترس جای آن را می‌گیرد و باید کل ماجرا را از اول شروع کنی.
+
+اگر پیش از گرفتن معامله پلن داشته باشی، جایی برای ترس نمی‌ماند.
+
+### sniffing_p9_16
+EN: FX.Sniffer
+
+Thanks for the response! Closing above\below the previous candle is another coin in my pocket of managing the trade !
+
+Another one question!
+
+If we consider the unability to close above\below as a reason to hold the trade can we use it as an additional sign to enter the trade or to skip the setup?
+FA: FX.Sniffer
+
+ممنون از جوابت! بسته نشدن کندل بالای/زیر کندل قبلی، برگ برندهٔ دیگری برای مدیریت معامله در جیبم است!
+
+یک سؤال دیگر هم دارم!
+
+اگر ناتوانی در بسته شدن بالای/زیر را دلیلی برای نگه داشتن معامله بدانیم، می‌توانیم آن را نشانهٔ کمکی برای ورود به معامله یا رد کردن ستاپ هم بگیریم؟
+
+### sniffing_p9_17
+EN: gbp/jpy a loser trade, i don't see why i shouldn't post my losers as posting my winners! no shame in it price was acting nicely till the FOMC meeting, didn't move SL to BE because i had other profitable trades and was a bit careless towards this one, so i didn't monitor it, SL is where i got stopped.
+FA: gbp/jpy، یک معاملهٔ بازنده. نمی‌بینم چرا نباید بازنده‌هایم را بگذارم، همان‌طور که برنده‌هایم را می‌گذارم! شرمی در آن نیست. قیمت تا جلسهٔ FOMC خوب رفتار می‌کرد؛ استاپ‌لاس را به BE منتقل نکردم چون معاملات سوددهٔ دیگری داشتم و نسبت به این یکی کمی بی‌دقت بودم، پس پایش نکردم؛ استاپ‌لاس همان‌جایی است که استاپ خوردم.
+
+### sniffing_p9_18
+EN: romant wrote: FX.Sniffer
+
+Thanks for the response! Closing above\below the previous candle is another coin in my pocket of managing the trade !
+
+Another one question!
+
+If we consider the unability to close above\below as a reason to hold the trade can we use it as an additional sign to enter the trade or to skip the setup?
+
+hmmm don't wanna answer this question without an example and i'm bed time, but it depends on the situation and other factors like confluence.
+
+Check your charts and try to find the answer or show me an example later.
+
+Goodnight.
+
+Edit: romant, candle close with overall PA is important, if you read the fakeout article you'll see that the close plays a major role in it.
+FA: romant نوشت: FX.Sniffer
+
+ممنون از جوابت! بسته نشدن کندل بالای/زیر کندل قبلی، برگ برندهٔ دیگری برای مدیریت معامله در جیبم است!
+
+یک سؤال دیگر هم دارم!
+
+اگر ناتوانی در بسته شدن بالای/زیر را دلیلی برای نگه داشتن معامله بدانیم، می‌توانیم آن را نشانهٔ کمکی برای ورود به معامله یا رد کردن ستاپ هم بگیریم؟
+
+هوم... نمی‌خواهم بدون مثال جواب این سؤال را بدهم و وقت خوابم است، ولی به موقعیت و عوامل دیگر مثل هم‌گرایی بستگی دارد.
+
+چارت‌هایت را بررسی کن و خودت جواب را پیدا کن، یا بعداً یک مثال نشانم بده.
+
+شب بخیر.
+
+ویرایش: romant، بسته شدن کندل در کنار PA کلی مهم است؛ اگر مقالهٔ فیک‌اوت را خوانده باشی می‌بینی که بسته شدن در آن نقش اصلی را بازی می‌کند.
+
+### sniffing_p9_19
+EN: We can see it at the same AUDUSD for example. 30M
+
+Price is at the level. It shows reaction but neither candle can't close above the previous one.
+
+I've also looked through my today trades and noticed that using this "tool" on the 30M chart may lead to early exits so the 1H like on your chart above it the most reliable one. Thanks!
+
+Edit: romant, candle close with overall PA is important, if you read the fakeout article you'll see that the close plays a major role in it.
+
+I'll reread it again for confidence.
+
+Goodnight to you too!
+FA: برای نمونه همین AUDUSD را ببین. 30M
+
+قیمت روی سطح است. واکنش نشان می‌دهد، اما هیچ‌کدام از کندل‌ها نمی‌توانند بالای کندل قبلی بسته شوند.
+
+معاملات امروزم را هم مرور کردم و دیدم استفاده از این «ابزار» روی چارت 30M ممکن است به خروج‌های زودهنگام بینجامد؛ پس 1H، مثل چارت بالا، مطمئن‌ترین است. ممنون!
+
+ویرایش: romant، بسته شدن کندل در کنار PA کلی مهم است؛ اگر مقالهٔ فیک‌اوت را خوانده باشی می‌بینی که بسته شدن در آن نقش اصلی را بازی می‌کند.
+
+برای اطمینان دوباره می‌خوانمش.
+
+تو هم شب بخیر!
+
+### sniffing_p9_20
+EN: one last post before i vanish, EG didn't hit TG yet so i'm trailing my SL as shown in below chart.
+
+Thanks romant, i'll re-read your post in the morning.
+FA: یک پست آخر پیش از آنکه غیبم بزند؛ EG هنوز به TG نرسیده، پس استاپ‌لاسم را مطابق چارت زیر دنبال می‌کنم.
+
+ممنون romant، صبح پستت را دوباره می‌خوانم.
+
+### sniffing_p9_21
+EN: Update of EG, got stopped at the trailed SL retraced back into the higher supply at top of the pole then dropped again and now at TG
+FA: آپدیت EG: روی استاپ‌لاس متحرک استاپ خوردم؛ قیمت به عرضهٔ بالاتر در نوک میله برگشت، دوباره افتاد و حالا روی TG است
+
+### sniffing_p9_22
+EN: USDCHF; looking for a sell...everything explained on charts, a fakeout on H$ would be great to sell from current area, we zoom into LTF for entries. In case price goes higher there is a fresh supply on H1.
+FA: USDCHF؛ دنبال یک فروش هستم... همه‌چیز روی چارت‌ها توضیح داده شده. یک فیک‌اوت روی H4 برای فروش از محدودهٔ فعلی عالی می‌شود؛ برای ورودها روی LTF زوم می‌کنیم. اگر قیمت بالاتر برود، یک عرضهٔ تازه روی H1 هست.
+
+### sniffing_p9_23
+EN: USDCAD; look for the best entry on LTF.
+FA: USDCAD؛ بهترین ورود را روی LTF پیدا کن.
+
+### sniffing_p9_24
+EN: FX.Sniffer wrote: My personal problem is not fear, it's greed! However you can control your fear by risking small lots, and by time your confidence will kick in and you'll increase the lot size, then your ego will take over your logical thinking, and if you ever get a margin call then fear will take over and you'll have to start the whole process again.
+
+If you have a plan before taking a trade then there is no place for fear.
+
+For me fear was all about the perfect ultimate entry and I hated every moment I had any kind of drawdown. Luckily I found a nice MM which takes some, actually a lot of the bite away. I just have to keep in mind risk and reward goes hand in hand.
+
+With the other evil twin greed I'm still trying to control as I want to hold on to everything.
+
+Anyway just rambling but Interesting stuff FX.sniffer, thanks for your charts and ideas!
+FA: FX.Sniffer نوشت: مشکل شخصی من ترس نیست، طمع است! بااین‌حال می‌توانی ترست را با ریسک کردن روی لات‌های کوچک کنترل کنی؛ به‌مرور اعتمادبه‌نفست بالا می‌آید و حجم لات را زیاد می‌کنی، بعد خودبزرگ‌بینی‌ات جای تفکر منطقی را می‌گیرد، و اگر یک بار مارژین کال بخوری ترس جای آن را می‌گیرد و باید کل ماجرا را از اول شروع کنی.
+
+اگر پیش از گرفتن معامله پلن داشته باشی، جایی برای ترس نمی‌ماند.
+
+برای من ترس تماماً دربارهٔ ورود بی‌نقص و نهایی بود و از هر لحظه‌ای که دراوداون داشتم بدم می‌آمد. خوشبختانه یک MM خوب پیدا کردم که بخشی، بلکه بیشترِ فشار را برمی‌دارد. فقط باید یادم بماند که ریسک و ریوارد دست در دست هم پیش می‌روند.
+
+با آن دوقلوی شریر دیگر، یعنی طمع، هنوز در تلاشم که مهارش کنم، چون می‌خواهم به همه‌چیز چنگ بزنم.
+
+به‌هرحال فقط داشتم حرف می‌زدم، ولی چیزهای جالبی است FX.sniffer؛ ممنون از چارت‌ها و ایده‌هایت!
+
+### sniffing_p9_25
+EN: Hi FXSniffer...
+
+sorry for posting here, I read your article,,and im on the way to understand it..
+
+I need your opinion on my below entry, this is from my another account for trial and error.
+
+the question is on the pics.
+
+*PS: i took the trade without waiting confirmation, when price touch, I clink my mouse..
+
+thanks in advance
+FA: سلام FXSniffer...
+
+ببخشید که اینجا پست می‌گذارم؛ مقاله‌ات را خواندم و دارم کم‌کم می‌فهممش..
+
+نظرت را دربارهٔ ورود زیر می‌خواهم؛ این از حساب دیگری‌ام است برای آزمون و خطا.
+
+سؤال روی تصویرهاست.
+
+*پ.ن: بدون منتظر ماندن برای تأیید معامله را گرفتم؛ تا قیمت لمس کرد، کلیک کردم..
+
+پیشاپیش ممنون

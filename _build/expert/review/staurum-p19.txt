@@ -1,0 +1,528 @@
+### staurum_p19_451
+EN: Hi Staurum, it seems like you like to trade in M1 as well.
+FA: سلام Staurum، به نظر می‌رسد تو هم دوست داری در M1 معامله کنی.
+
+### staurum_p19_452
+EN: Wishing everyone is doing great. Never give up is the song
+
+Dropping some repeated chants here:
+
+a. Every engulf has its target and will have hit its target. Every engulf has its own retrace before hitting its target. If the target is not yet hit, then the retrace may not complete yet.
+
+b. Measuring where the retrace should have reached gives us a space.
+
+c. Every target was previously an engulf that had its own target (back to *a.*)
+
+d. Last, but not least: The ITs need to herd the stops for their dinner. ( readthemarket.com/index.php/en/forum/jou...3-if?start=875#36362 )
+FA: امیدوارم همه خوب باشند. «تسلیم نشو» ترانه‌ای است که می‌خوانیم
+
+چند وِرد تکراری را اینجا می‌ریزم:
+
+الف. هر اینگالف تارگتی دارد و به تارگتش خواهد رسید. هر اینگالف پیش از رسیدن به تارگت، ریتریس خودش را دارد. اگر تارگت هنوز زده نشده، ریتریس هم ممکن است هنوز کامل نشده باشد.
+
+ب. اندازه‌گیری اینکه ریتریس باید تا کجا می‌رسید، به ما یک فضا می‌دهد.
+
+ج. هر تارگت قبلاً خودش یک اینگالف بوده که تارگت خودش را داشته (برگرد به *الف*.)
+
+د. آخرین ولی نه کمترین: ITها برای شامشان باید استاپ‌ها را گله کنند. ( readthemarket.com/index.php/en/forum/jou...3-if?start=875#36362 )
+
+### staurum_p19_453
+EN: Just wanna share a little perspective on this holiday time, in which i got a chance to revisit our education home. To those who have run so far but feel that we've hit a giant unsolvable wall in a maze.
+
+Maybe it's a good idea to start a chart with basic Supply & Demand brain. Do we remember that RTM all initiated there? (from HTF to lower TFs as many as we wish).
+
+Initially we would trade the S/D zones blindly, right? let's move on. Markepedia says: "The truth is; supply/demand are often reactions to the Flag Limit (a RBD or DBR after a break of a high or low)". This is all we need to know, the rest would be personal homework. We can ask yourself a whole bunch of questions, but structure our questions like we would structure a maze.
+
+For example:
+
+"That zone simply looks like a supply/demand zone, but is it really? is it a reaction or a break just before retrace?"
+
+"let's say it's a reaction, then which flag limit that zone reacts to?.... hang on, a flag limit was initially just an FTR that met its target, let us look to the left and see where/whatzone that flag limit seeks to target?.... mm... which zone that flag limit fails to return to? and in that zone, is there clean orders? that could be the target of a break of this flag limit?" "now looking at the target of that flag limit, where was this target actually targeting towards? (remember that the target of an engulf is just an opposite engulf? - this would bring us further into some loops/series of questions again... so this would be the expansion of the maze) " "ok, let's go back, if this supply/demand is a reaction, has the reaction reached its target? if not yet, then we might have a trade opp. if not, then no good opp, but is there an unfilled orders in the zone it is reaction to? if so, what would we do?" "Let's say it's a break of a zone to the left, then we would not try to look to trade this zone, but where is the next zone that this break is targeting towards? If this is a break, where price *should return to*, and where are the clean orders that may ping-pong price to reach its tg." let's go back and re-ask: "ok this supply/demand zone does not look like a reaction, nor a break - seems to happen in the middle of nowhere." or "mm... this supply/demand zone looks like a break of this zone but a reaction of that zone"... this would bring us into another size of maze of questions. Also, maybe we can ask something like "ok where was price departing from before reaching this supply/demand zone? is that departure zone a reaction or a break?" and so on and so on. Do we remember a saying "price travels from supply to demand and vice versa"? well here in RTM we are trying to be that Supply/Demand or Spike low/high.
+
+Just remember the origins of our thought process, because we will very easily lose ourselves into solving some branch areas of the maze but forgot the structure of the original maze we were coming from.
+
+To me, personally, RTM is not a puzzle. Puzzle is limited, but i dont think a knowledge is limited. Instead, i personally "feel", RTM is a growing maze of knowledge. RTM creates the centre of it and it is up to us to "expand our map of understanding price action". RTM gives us a starting platform of thought for our own journey to understand the market. RTM is not a destination whereby all knowledge is complete and finished already. It truly is not. We may feel stuck or getting nowhere, but we need to ask ourselves if it is because RTM stops guiding us into the further dark zone of the maze, or maybe if it is because we are just too afraid to expand ourselves more due to fear of being wrong or fear of getting lost.
+
+This sort of process, in my opinion, can't be literally orchestrated in a forum, let alone in an open group chat (otherwise, RTM will turn into tradingview.com forums, where the blinds are leading the deafs but they are all quacking each other to exhaustion). Trading is very much correlated to working on ourselves. Each individual of us has different brain and therefore different maze of thoughts. We would be "typically similar" but will never be the same with each other.
+
+May we all have a good, enjoyable rest time in this short holiday. on a side note, remember that the celebration of this holiday originates from some very evil events. The blankets are so divine and holy, but most humans are naively lured into unconsciously, by default, celebrating the things very undeserving.
+FA: فقط می‌خواهم در این روزهای تعطیل، که فرصتی پیدا کردم به خانهٔ آموزشی‌مان سر بزنم، کمی از منظرم را بگویم. خطاب به کسانی که تا اینجا دویده‌اند اما حس می‌کنند در یک هزارتو به دیوار عظیم و حل‌نشدنی‌ای خورده‌اند.
+
+شاید ایدهٔ خوبی باشد که یک چارت را با مغز سادهٔ ساپلای و دمند شروع کنیم. یادمان هست که RTM همه از همان‌جا آغاز شد؟ (از HTF تا تایم‌فریم‌های پایین‌تر، هر قدر که بخواهیم).
+
+اولش نواحی S/D را کورکورانه معامله می‌کردیم، نه؟ بیا جلوتر برویم. Markepedia می‌گوید: «واقعیت این است که ساپلای/دمند اغلب واکنش‌هایی به FL هستند (یک RBD یا DBR بعد از شکست یک های یا لو)». این تمام چیزی است که باید بدانیم؛ بقیه‌اش تمرین شخصی است. می‌توانیم عالمی سؤال از خودمان بپرسیم، اما سؤال‌هایمان را مثل یک هزارتو ساختار بدهیم.
+
+مثلاً:
+
+«آن زون ساده به نظر یک زون ساپلای/دمند می‌آید، اما واقعاً هست؟ واکنش است یا شکستی درست پیش از ریتریس؟»
+
+«فرض کن واکنش است؛ پس آن زون به کدام FL واکنش نشان می‌دهد؟.... صبر کن، FL در ابتدا فقط یک FTR بود که به تارگتش رسیده بود؛ بیا به سمت چپ نگاه کنیم و ببینیم آن FL قصد دارد چه چیزی را هدف بگیرد؟.... مم... آن FL به کدام زون برنمی‌گردد؟ و در آن زون سفارش تمیزی هست؟ می‌تواند تارگت شکست همین FL باشد؟» «حالا به تارگت آن FL نگاه کن؛ آن تارگت در واقع به سمت چه چیزی نشانه رفته بود؟ (یادت باشد تارگت یک اینگالف فقط یک اینگالف مخالف است؟ - این ما را دوباره به چند حلقه/زنجیرهٔ سؤال می‌برد... پس این همان گسترش هزارتوست)» «خب، برگردیم؛ اگر این ساپلای/دمند یک واکنش است، آیا آن واکنش به تارگتش رسیده؟ اگر نه، ممکن است فرصت معامله داشته باشیم. اگر نه، فرصت خوبی نیست؛ اما آیا در زونی که به آن واکنش نشان می‌دهد سفارش پرنشده هست؟ اگر هست، چه می‌کنیم؟» «فرض کن شکست یک زون در سمت چپ است؛ در این صورت سعی نمی‌کنیم همین زون را معامله کنیم، بلکه زون بعدی که این شکست به سمتش هدف گرفته کجاست؟ اگر این یک شکست است، قیمت *باید به کجا برگردد*، و سفارش‌های تمیزی که می‌توانند قیمت را پینگ‌پنگ کنند تا به tg برسد کجایند؟» برگردیم و دوباره بپرسیم: «خب این زون ساپلای/دمند نه شبیه واکنش است نه شکست؛ به نظر می‌رسد وسط هیچ‌جا اتفاق افتاده.» یا «مم... این زون ساپلای/دمند شبیه شکست این زون است اما واکنش آن زون»... این ما را به هزارتویی با اندازهٔ دیگر از سؤال‌ها می‌برد. همچنین، شاید بتوانیم چیزی بپرسیم مثل «خب قیمت پیش از رسیدن به این زون ساپلای/دمند از کجا راه افتاده بود؟ آن زون حرکت، واکنش است یا شکست؟» و همین‌طور ادامه بدهیم. یادمان هست این جمله که «قیمت از ساپلای به دمند سفر می‌کند و برعکس»؟ خوب، اینجا در RTM ما تلاش می‌کنیم همان ساپلای/دمند یا اسپایک لو/های باشیم.
+
+فقط خاستگاه روند فکریمان را یادمان باشد، چون خیلی راحت در حل بعضی شاخه‌های هزارتو گم می‌شویم و ساختار هزارتوی اصلی‌ای را که از آن آمده بودیم فراموش می‌کنیم.
+
+برای من شخصاً RTM یک پازل نیست. پازل محدود است، اما فکر نمی‌کنم دانش محدود باشد. در عوض، من شخصاً «حس می‌کنم» RTM هزارتویی در حال رشد از دانش است. RTM مرکز آن را می‌سازد و این به ما بستگی دارد که «نقشهٔ فهممان از پی‌اَکشن را گسترش دهیم». RTM یک سکوی شروع فکر برای مسیر خودمان در فهم بازار به ما می‌دهد. RTM مقصدی نیست که همهٔ دانش در آن کامل و تمام‌شده باشد. واقعاً نیست. ممکن است حس کنیم گیر کرده‌ایم یا به جایی نمی‌رسیم، اما باید از خودمان بپرسیم آیا دلیلش این است که RTM دیگر ما را به زون تاریک‌تر هزارتو راهنمایی نمی‌کند، یا شاید دلیلش این است که فقط از ترس اشتباه بودن یا گم شدن، می‌ترسیم خودمان را بیشتر گسترش بدهیم.
+
+این نوع فرایند، به نظر من، در یک فروم نمی‌شود واقعاً سازمان داد، چه برسد به یک گروه چت باز (وگرنه RTM تبدیل می‌شود به فروم‌های tradingview.com، جایی که کورها ناشنوایان را راه می‌برند و همه آن‌قدر برای هم کواک‌کواک می‌کنند تا از پا بیفتند). معامله خیلی به کار کردن روی خودمان گره خورده. هر کدام از ما مغز متفاوتی داریم و بنابراین هزارتوی فکری متفاوتی. «معمولاً شبیه» همدیگریم، اما هرگز یکی نمی‌شویم.
+
+امیدوارم همه در این تعطیلات کوتاه استراحت خوب و لذت‌بخشی داشته باشیم. ضمناً یادمان باشد که جشن این تعطیلات از رویدادهای بسیار شومی سرچشمه می‌گیرد. پتوها بسیار الهی و مقدس‌اند، اما بیشتر انسان‌ها ساده‌لوحانه و به‌طور ناخودآگاه و پیش‌فرض به جشن گرفتن چیزهایی کشیده می‌شوند که هیچ ارزشی ندارند.
+
+### staurum_p19_454
+EN: This answer ought to be shared here. To the questioner, my response: it's not just about a topic, it is about patience of trying to incorporate more things into the zone and keep asking "what am i missing here?" to ourselves. I'm no grandmaster/guru, and am still could be wrong. However, I've stopped my studies now and have been developing mental patience as well as learning "observation & deduction". Anyway, here is the chart.
+
+Have a great week and be mindful.
+FA: این جواب باید همین‌جا به اشتراک گذاشته شود. خطاب به سؤال‌کننده، پاسخم: مسئله فقط یک موضوع نیست، مسئله صبرِ تلاش برای وارد کردن چیزهای بیشتر به زون و پرسیدن مداوم «اینجا چه چیزی را از دست داده‌ام؟» از خودمان است. من گرندمستر/گورو نیستم و هنوز هم ممکن است اشتباه کنم. با این حال، مطالعه‌ام را متوقف کرده‌ام و دارم صبر ذهنی را پرورش می‌دهم و «مشاهده و استنتاج» را یاد می‌گیرم. به‌هرحال، چارت اینجاست.
+
+هفتهٔ خوبی داشته باش و حواست باشد.
+
+### staurum_p19_455
+EN: i am in a stupid ridiculous need to dump some mind poos and i can't find a better place than in this mistakes-ful journal of mine.
+
+Let's get on with it.
+
+It's quite a common sense, generally publicly accepted, that price moves because of orders executed. This is a necessary and sufficient premise. If price moves because of some sort of magic hand, holy grail patterns, dark secret indicators or even a ghost, it *could be* a necessary premise, but how sufficient it is to be true rises too many works to deduce.
+
+Orders, the culprit, to be executed are none other than limit orders, stop orders, and market orders, regardless of them being entries or exits. Of course, there will be combinations like OCOs, etc, but I deem them unnecessary. Another necessary & sufficient premise is that price moves (ups or downs) because one-sided orders overpower/overconsume the other-sided orders.
+
+My, doubtful, assumptions are that: While no matter how hard players try their best to hide their cards, the house always know, but the house itself will always hide their hands. The players can not and will not beat the house. The house may passively let the players to win from time to time, or actively catch the bets (the orders) by overpowering the players. Shifting it a little into vocabulary of orders: The house never leaves resting orders, i.e. limit orders and stop orders, to be seen by everybody else. Therefore, it is likely that the players leave the resting orders, although it is also possible for them to execute at-market orders, it is common sense that the house (the one having hidden their hands) moves price by executing its at-market orders against the opposite orders. Thinking about orders: Limit orders cannot exist without stop(loss) orders. Stop(entry) orders, however, do not need limit orders, but will likely have its own stop(loss) orders too. Limit orders are commonly placed in front of a H/L of some sort, and therefore stops behind that H/L. It is my own guess that these limit orders belong to S&D players, S/R players, or perhaps Trendline players. Stop(entry) orders are usually placed beyond (or, on a break) of a H/L of some sort, and usually stops behind the opposite L/H. Again, it is my own guess that these stops belong to Break-Out players, or trend-following players. The volume of orders on execution at a level at any given time, will decide the move and also the extent of the move. Search "order flow" or "market auction theory" on youtube. plenty of examples. basics of supply & demand concept. The volume of orders ultimately depend upon the decision AND the capacity (or capital/investment limit) of the *betters*.
+
+It is always the house's choice, depending on its own interest and intent, to either let the resting orders to be executed without intervention (i call it "pass the bet"
+
+on purpose), or catch the resting orders by executing its at-market orders (i call it "call the bet") to fill its book. One thing I absolutely believe is that the house *survives* by feeding off *Large Sums of Orders*, and it never loses to the players.
+
+In regards to H/L: this is very subjective concept. In a very simple way: A Level is considered a High, if price travels from it to break the previous relative lows. Vice versa, A Level is considered a Low, if price travels from it to break the previous relative highs. How do we classify them? I personally think that the more important question is how do we compare their *sexiness*? Well, perhaps the more distant the H/L travels from its previous L/H before the break, the more attractive and the more obvious it is to the players (but not necessarily the house). Obvious H/L levels are commonly basis levels from which the players (S&D traders, BreakOut traders, Trendline traders, Fibo-ers, Indicator traders, Wave traders, etc.) analyse the charts and place their trades. It is my wild, unconfirmed guess that the more obvious it is, the more attractive the sum of orders are to be executed "around" there. In order for H/L to exist, there must be reversals and breaks. The reasons behind the reversals and the breaks are still homeworks.
+
+How are they related to each other? No idea yet. How do we take advantage in the trading? Still in progress.
+
+Is the market driven by emotions (fear & greed)? It maybe necessary, but when and where it is a sufficient premise, remains work in progress.
+
+On another dimension of talk: It is my own adopted-from-rtm personal belief that the ITs work their way down from HTF to LTF. hence, my own wild guess is: a winner in lower scale can be a loser in a higher scale, but a winner in a higher scale will always be a winner on a lower scale. a loser in lower scale will always be a loser in higher scale, though a loser in higher scale can be a winner in lower scale.
+
+I could be very wrong in any, some, or the whole of these writings. (until my next stupid mind-dumping session)
+FA: یک نیاز احمقانه و مضحک دارم که چند فضولات ذهنی را خالی کنم و جای بهتری از این ژورنال پر از اشتباه خودم پیدا نمی‌کنم.
+
+برویم سراغش.
+
+تقریباً بدیهی و عموماً پذیرفته‌شده است که قیمت به‌خاطر اجرای سفارش‌ها حرکت می‌کند. این یک فرض لازم و کافی است. اگر قیمت به‌خاطر نوعی دست جادویی، الگوهای جام مقدس، اندیکاتورهای سری تاریک یا حتی یک روح حرکت کند، *می‌تواند* فرضی لازم باشد، اما اینکه چقدر برای درست بودنش کافی است، کارهای زیادی برای استنتاج می‌طلبد.
+
+سفارش‌هایی که باید اجرا شوند، یعنی همان مقصر، چیزی جز سفارش لیمیت، سفارش استاپ و سفارش بازار نیستند، فرقی نمی‌کند ورود باشند یا خروج. البته ترکیب‌هایی مثل OCO و امثال آن هم هست، اما لازمشان نمی‌دانم. فرض لازم و کافی دیگری این است که قیمت (بالا یا پایین) حرکت می‌کند چون سفارش‌های یک طرف بر سفارش‌های طرف دیگر غلبه می‌کنند یا آن‌ها را می‌بلعند.
+
+فرض‌های مشکوک من این‌هاست: هر چقدر هم بازیکنان تلاش کنند کارت‌هایشان را پنهان کنند، خانه همیشه می‌داند، اما خود خانه همیشه دستش را پنهان می‌کند. بازیکنان نمی‌توانند و نخواهند توانست خانه را ببرند. خانه ممکن است گاهی منفعلانه بگذارد بازیکنان ببرند، یا فعالانه با غلبه بر بازیکنان شرط‌ها (سفارش‌ها) را بگیرد. کمی که به واژگان سفارش ترجمه‌اش کنیم: خانه هرگز سفارش‌های نشسته، یعنی سفارش لیمیت و استاپ، را جایی نمی‌گذارد که بقیه ببینند. پس احتمالاً بازیکنان هستند که سفارش‌های نشسته می‌گذارند؛ هرچند ممکن است آن‌ها هم سفارش بازار اجرا کنند، بدیهی است که خانه (همان که دستش را پنهان کرده) قیمت را با اجرای سفارش‌های بازار خودش علیه سفارش‌های مخالف حرکت می‌دهد. فکر کردن به سفارش‌ها: سفارش لیمیت بدون سفارش استاپ(لاس) نمی‌تواند وجود داشته باشد. سفارش استاپ(ورود) اما نیازی به لیمیت ندارد، ولی احتمالاً استاپ(لاس) خودش را هم دارد. سفارش‌های لیمیت معمولاً جلوی یک های/لو از نوعی گذاشته می‌شوند و بنابراین استاپ‌ها پشت همان های/لو. حدس خودم این است که این سفارش‌های لیمیت به معامله‌گران S&D، S/R یا شاید ترندلاین تعلق دارند. سفارش‌های استاپ(ورود) معمولاً آن‌سوی (یا روی شکست) یک های/لو می‌نشینند و استاپ‌ها معمولاً پشت لو/های مخالف. باز هم حدس خودم این است که این استاپ‌ها به معامله‌گران بریک‌اوت یا روند‌فالوور تعلق دارند. حجم سفارش‌هایی که در هر لحظه در یک سطح اجرا می‌شود، حرکت و همچنین دامنهٔ حرکت را تعیین می‌کند. در یوتیوب «order flow» یا «market auction theory» را جست‌وجو کن. نمونه‌های فراوان. مبانی مفهوم ساپلای و دمند. حجم سفارش‌ها در نهایت به تصمیم و ظرفیت (یا سقف سرمایه/سرمایه‌گذاری) *شرط‌بندها* بستگی دارد.
+
+همیشه انتخاب خانه است، بسته به منافع و قصد خودش، که یا بگذارد سفارش‌های نشسته بدون دخالت اجرا شوند (که من اسمش را می‌گذارم «پاس دادن شرط»
+
+به‌عمد)، یا با اجرای سفارش‌های بازار خودش سفارش‌های نشسته را بگیرد (که اسمش را می‌گذارم «خواندن شرط») تا دفترش پر شود. یک چیز را کاملاً باور دارم: خانه با تغذیه از *حجم‌های بزرگ سفارش* زنده می‌ماند و هرگز به بازیکنان نمی‌بازد.
+
+دربارهٔ های/لو: این مفهومی بسیار ذهنی است. به شکلی خیلی ساده: یک سطح وقتی های حساب می‌شود که قیمت از آن حرکت کند تا لوهای نسبی قبلی را بشکند. برعکس، یک سطح وقتی لو حساب می‌شود که قیمت از آن حرکت کند تا های‌های نسبی قبلی را بشکند. چطور دسته‌بندی‌شان کنیم؟ شخصاً فکر می‌کنم سؤال مهم‌تر این است که چطور *جذابیت*شان را مقایسه کنیم؟ خوب، شاید هر چه های/لو پیش از شکست مسافت بیشتری از لو/های قبلی‌اش طی کند، برای بازیکنان جذاب‌تر و واضح‌تر باشد (اما نه لزوماً برای خانه). سطوح واضح های/لو معمولاً سطوح پایه‌ای هستند که بازیکنان (معامله‌گران S&D، بریک‌اوت، ترندلاین، فیبوناچی‌کارها، اندیکاتوری‌ها، موج‌کارها و غیره) از آن‌ها چارت را تحلیل می‌کنند و معامله‌شان را می‌گذارند. حدس وحشی و تأییدنشدهٔ من این است که هر چه واضح‌تر باشد، مجموع سفارش‌هایی که «حول» آن اجرا می‌شوند جذاب‌تر است. برای اینکه های/لو وجود داشته باشد، باید برگشت و شکست باشد. دلایل پشت این برگشت‌ها و شکست‌ها هنوز تمرین است.
+
+این‌ها چه ربطی به هم دارند؟ هنوز هیچ ایده‌ای ندارم. چطور در معامله از آن بهره ببریم؟ هنوز در جریان است.
+
+آیا بازار با احساسات (ترس و طمع) رانده می‌شود؟ ممکن است لازم باشد، اما اینکه کِی و کجا فرضی کافی است، هنوز کار در جریان است.
+
+در بُعد دیگری از بحث: باور شخصی من که از RTM گرفته‌ام این است که ITها از HTF به سمت LTF کار می‌کنند. پس حدس وحشی خودم این است: یک برنده در مقیاس پایین‌تر می‌تواند در مقیاس بالاتر بازنده باشد، اما یک برنده در مقیاس بالاتر همیشه در مقیاس پایین‌تر هم برنده است. یک بازنده در مقیاس پایین‌تر همیشه در مقیاس بالاتر هم بازنده است، هرچند یک بازنده در مقیاس بالاتر می‌تواند در مقیاس پایین‌تر برنده باشد.
+
+ممکن است در هر یک، بعضی، یا کل این نوشته‌ها خیلی اشتباه باشم. (تا جلسهٔ احمقانهٔ بعدیِ خالی کردن ذهن)
+
+### staurum_p19_456
+EN: How would you explain eng thinking in terms of orders or this categories you wrote and role of the house(with eng)?
+
+(btw what is a house?)
+FA: چطور اینگالف را از دید سفارش‌ها یا این دسته‌بندی‌هایی که نوشتی و نقش خانه (در اینگالف) توضیح می‌دهی؟
+
+(راستی خانه چیست؟)
+
+### staurum_p19_457
+EN: Y,the house is simply the ITs, its a Casino control analogy. The EG is simply showing the intent and if in space is usable. Price bounces from order block to order block that's it. They cause as much pain on the way
+FA: Y، خانه صرفاً همان ITهاست؛ یک قیاس از کنترل کازینو است. EG صرفاً قصد را نشان می‌دهد و اینکه آیا در فضا قابل استفاده است یا نه. قیمت از یک اردربلاک به اردربلاک بعدی می‌پرد، همین. در راه هم به همان اندازه درد می‌سازند
+
+### staurum_p19_458
+EN: Edge wrote: Y,the house is simply the ITs, its a Casino control analogy. The EG is simply showing the intent and if in space is usable. Price bounces from order block to order block that's it. They cause as much pain on the way
+
+Ok, so you dont agree with Staurum?
+
+He wrote "The house never leaves resting orders"
+
+so why price bounce?
+FA: Edge نوشت: Y، خانه صرفاً همان ITهاست؛ یک قیاس از کنترل کازینو است. EG صرفاً قصد را نشان می‌دهد و اینکه آیا در فضا قابل استفاده است یا نه. قیمت از یک اردربلاک به اردربلاک بعدی می‌پرد، همین. در راه هم به همان اندازه درد می‌سازند
+
+خب، پس تو با Staurum موافق نیستی؟
+
+او نوشت «خانه هرگز سفارش‌های نشسته را جا نمی‌گذارد»
+
+پس چرا قیمت می‌پرد؟
+
+### staurum_p19_459
+EN: We can see where the orders are based on what price does, it does not matter to me whether they are pending and waiting. They could be latent orders which they only execute when price gets close so there is no need for limits there.. an order is an order is an order. I dont care about the order type. Staurum is correct I dont disagree. the IT's have many different ways.
+
+Don't make the mistake I did. I spent a year or two reading every academic paper on microstructure and how it works.From a technical point in a dual market a limit order is passive (provides liquidity) only and market orders moves price (eat liquidity). But dont waste your time its not needed. I am just a price market nerd and had to study the microstructure. Just think of orders as buys and sells.:)
+FA: از کاری که قیمت می‌کند می‌شود فهمید سفارش‌ها کجا هستند؛ برای من مهم نیست که در انتظار نشسته باشند یا نه. می‌توانند سفارش‌های نهفته باشند که فقط وقتی قیمت نزدیک می‌شود اجرا می‌شوند، پس نیازی به لیمیت در آنجا نیست.. سفارش، سفارش است، سفارش است. نوع سفارش برایم مهم نیست. Staurum درست می‌گوید، من مخالف نیستم. ITها راه‌های مختلف زیادی دارند.
+
+اشتباه من را نکن. یکی دو سال را صرف خواندن هر مقالهٔ آکادمیک دربارهٔ میکروساختار و اینکه چطور کار می‌کند کردم. از نظر فنی، در یک بازار دوطرفه، سفارش لیمیت فقط منفعل است (نقدینگی فراهم می‌کند) و سفارش بازار قیمت را حرکت می‌دهد (نقدینگی را می‌خورد). اما وقتت را تلف نکن، لازم نیست. من فقط یک نِرد بازار قیمتم و مجبور شدم میکروساختار را بخوانم. فقط به سفارش‌ها مثل خرید و فروش فکر کن.:)
+
+### staurum_p19_460
+EN: Edge wrote: We can see where the orders are based on what price does, it does not matter to me whether they are pending and waiting. They could be latent orders which they only execute when price gets close so there is no need for limits there.. an order is an order is an order. I dont care about the order type. Staurum is correct I dont disagree. the IT's have many different ways.
+
+Don't make the mistake I did. I spent a year or two reading every academic paper on microstructure and how it works.From a technical point in a dual market a limit order is passive (provides liquidity) only and market orders moves price (eat liquidity). But dont waste your time its not needed. I am just a price market nerd and had to study the microstructure. Just think of orders as buys and sells.:)
+
+Ok, i'm doing this mistake already for couple years and thanks to this my results getting better and better. Of course i have worse time after taking to another lvl, after i find out something, but finally - results are going up and up. Every time i was trying to simplify this I starting to lose my money. I thought it will be easier but it was getting harder. So without this wasting of time intead of earning i would loosing. I'm not saying its not possible to earn thinking this way - but not for me. I love microstructure i helps me a lot to see what is happening.
+
+I love to get deeply in understanding subject - thats why I asked Staurum because I see he is thinking about this more. Everywhere here is engulf, so I wanted to think about engulf in this terms.
+FA: Edge نوشت: از کاری که قیمت می‌کند می‌شود فهمید سفارش‌ها کجا هستند؛ برای من مهم نیست که در انتظار نشسته باشند یا نه. می‌توانند سفارش‌های نهفته باشند که فقط وقتی قیمت نزدیک می‌شود اجرا می‌شوند، پس نیازی به لیمیت در آنجا نیست.. سفارش، سفارش است، سفارش است. نوع سفارش برایم مهم نیست. Staurum درست می‌گوید، من مخالف نیستم. ITها راه‌های مختلف زیادی دارند.
+
+اشتباه من را نکن. یکی دو سال را صرف خواندن هر مقالهٔ آکادمیک دربارهٔ میکروساختار و اینکه چطور کار می‌کند کردم. از نظر فنی، در یک بازار دوطرفه، سفارش لیمیت فقط منفعل است (نقدینگی فراهم می‌کند) و سفارش بازار قیمت را حرکت می‌دهد (نقدینگی را می‌خورد). اما وقتت را تلف نکن، لازم نیست. من فقط یک نِرد بازار قیمتم و مجبور شدم میکروساختار را بخوانم. فقط به سفارش‌ها مثل خرید و فروش فکر کن.:)
+
+خب، من همین اشتباه را چند سال است می‌کنم و به لطف همین، نتایجم بهتر و بهتر می‌شود. البته وقتی به سطح دیگری می‌روم، بعد از اینکه چیزی را کشف می‌کنم، دوران بدتری دارم، اما در نهایت نتایج بالا و بالاتر می‌رود. هر وقت سعی کردم این را ساده کنم، شروع کردم به از دست دادن پولم. فکر می‌کردم راحت‌تر می‌شود اما سخت‌تر می‌شد. پس بدون این وقت‌تلف‌کردن، به‌جای سود کردن ضرر می‌کردم. نمی‌گویم با این طرز فکر نمی‌شود سود کرد؛ اما برای من نه. من عاشق میکروساختارم، خیلی کمکم می‌کند ببینم چه خبر است.
+
+دوست دارم عمیق در فهم موضوع بروم؛ به همین دلیل از Staurum پرسیدم، چون می‌بینم او بیشتر به این چیزها فکر می‌کند. اینجا همه‌جا اینگالف است، پس می‌خواستم به اینگالف از این منظر فکر کنم.
+
+### staurum_p19_461
+EN: Hi Ysbail, Your question was: What is an engulf in terms of orders as you see everywhere in a chart is an engulf.
+
+Firstly, please take my today's writing with lots of grain of salt. I just had to get some parts of my thinking out of my mind. It all started with me staring at the screens: "The ITs can't be trading entering and exiting the market the whole time. However, the most important thing is that the ITs have large orders to fill. The larger the orders, the more work they need to do. How did they manage to fill their books? Which moves are the IT's moves on which scale?" Then I broke down my thought flow into several premises, arguments, deductions down to simple elements; speaking to myself like a mad man. lol. However, I was not thinking about engulfs at all. An engulf is a price move. It can be a break, but can also be a reversal of some sort. Again, as i wrote, reasons for reversals and breaks are still homework to me.
+
+So i'm not too sure, atm, what response i can help you with. Perhaps if you could share some introduction about your chain of thoughts that lead you to ask that question, and see how my post may (or not) relate to it in any way, then maybe we can find a common cause to discuss on.
+
+Speaking of the word. engulf = to surround and cover completely. My mind goes on asking: what is being completely surrounded & covered anyway? and for what reasons? After the engulf happened, which/what needs to be surrounded/covered next?
+FA: سلام Ysbail، سؤالت این بود: اینگالف از دید سفارش‌ها چیست، همان‌طور که همه‌جا در چارت اینگالف می‌بینی.
+
+اول، لطفاً نوشتهٔ امروزم را با کلی نمک بگیری. فقط باید بخش‌هایی از فکرم را از ذهنم بیرون می‌ریختم. همه‌اش با خیره شدنم به مانیتورها شروع شد: «ITها نمی‌توانند تمام وقت مشغول ورود و خروج به بازار باشند. اما مهم‌ترین چیز این است که ITها سفارش‌های بزرگی برای پر کردن دارند. هر چه سفارش‌ها بزرگ‌تر، کار بیشتری باید انجام بدهند. چطور موفق شدند دفترهایشان را پر کنند؟ کدام حرکت‌ها، حرکت ITها هستند و در چه مقیاسی؟» بعد جریان فکرم را به چند فرض، استدلال و استنتاج تا عناصر ساده تجزیه کردم؛ مثل یک دیوانه با خودم حرف می‌زدم. هههه. اما اصلاً به اینگالف فکر نمی‌کردم. اینگالف یک حرکت قیمت است. می‌تواند یک شکست باشد، اما می‌تواند نوعی برگشت هم باشد. باز هم، همان‌طور که نوشتم، دلایل برگشت‌ها و شکست‌ها هنوز برای من تمرین است.
+
+پس فعلاً مطمئن نیستم چه پاسخی می‌توانم کمکت کنم. شاید اگر کمی از زنجیرهٔ فکری‌ات را که به این سؤال رسید بگویی، و ببینیم پست من چطور (یا نه) به آن مربوط می‌شود، آن‌وقت بتوانیم موضوع مشترکی برای بحث پیدا کنیم.
+
+دربارهٔ خود کلمه: engulf یعنی کاملاً احاطه و پوشانده شدن. ذهنم مدام می‌پرسد: اصلاً چه چیزی کاملاً احاطه و پوشانده می‌شود؟ و به چه دلایلی؟ بعد از اینکه اینگالف رخ داد، بعدی چیست که باید احاطه/پوشانده شود؟
+
+### staurum_p19_462
+EN: @Y
+
+I will rephrase. The learning about it was not my mistake. The obsessing over it was. Learning is never a mistake as long as its not misinformation. If it has helped with your bottom line that's great!
+
+I can only speak on my experiences. In the days I was focusing on this, I would be lucky to BE. Now by simplifying it to tricks to fill orders, I am having 100% plus months with growth.
+
+Upon accepting that there are large orders to be filled by the ITs, this in of itself manifests itself on scales and TFs. These are only a calibration of the data. Time is a variable a language for us to visualise the orders. Its nothing else. As S said. They have large orders.I see them as stacks of orders at price points. within these they break them up again to get best average fills. They will use a range of order methodologies. at the end of the day all they do is different versions of this to fill orders:
+
+Sorry S, for hijacking your journal
+FA: @Y
+
+بازنویسی می‌کنم. یاد گرفتن دربارهٔ آن اشتباه من نبود؛ وسواس داشتن روی آن اشتباه بود. یادگیری هرگز اشتباه نیست، تا وقتی اطلاعات نادرست نباشد. اگر به نتیجهٔ نهایی‌ات کمک کرده، عالی است!
+
+من فقط از تجربه‌های خودم می‌توانم بگویم. در روزهایی که روی این تمرکز داشتم، اگر خوش‌شانس بودم فقط می‌توانستم سر به سر شوم. حالا با ساده کردنش به ترفندهایی برای پر کردن سفارش‌ها، ماه‌های بالای 100% با رشد دارم.
+
+وقتی بپذیری که ITها سفارش‌های بزرگی برای پر کردن دارند، این خودش را در مقیاس‌ها و تایم‌فریم‌ها نشان می‌دهد. این‌ها فقط کالیبراسیونی از داده‌اند. زمان یک متغیر است، زبانی برای اینکه سفارش‌ها را تجسم کنیم. چیزی جز این نیست. همان‌طور که S گفت، آن‌ها سفارش‌های بزرگی دارند. من آن‌ها را مثل پشته‌هایی از سفارش در نقاط قیمتی می‌بینم. داخل همین‌ها دوباره تکه‌تکه‌شان می‌کنند تا بهترین میانگین پر شدن را بگیرند. از طیفی از روش‌های سفارش استفاده می‌کنند. آخر روز، همهٔ کاری که می‌کنند نسخه‌های مختلف همین است برای پر کردن سفارش‌ها:
+
+ببخش S که ژورنالت را قیچی کردم
+
+### staurum_p19_463
+EN: Hello guys:)
+
+@Staurum I didn't need a help with this so dont worry. If I just see occasion to find out something I'm interested and was thinking about i catch this:) I just thought that everywhere here to take the trade we should see engulf. If there is PA(engulf) we can take the trade. So what cause that you belive in engulf. Simple logic should be like this - there was eng so no one protect this area - ok, on return we get in. There also can be engulf of action or engulf of reaction and this engulf can be reverse like you wrote. But is thinking about orders connected to engulf can help with solving puzzles - just thinking and searching. So I was just asking if you got something on your mind you didnt write in this topic. IT can hide orders - eng, then IT get back with orders, and area cause bounce again, so we got FO thinking we got eng.
+
+@Edge Please, could you paste couple of your last trades even in my journal? I don't want you to prove your words just I want to see examples because its maybe just my problem with simplifying. What RR and Succes Ratio do you get with this? Because like you wrote they can use different version of orders filled and I dont see how to get nice money from it trying to take such scheme trades without deeper understandiing of structures. If I didnt understand charts deeper there was ton of situation I took trade and I didnt take TP(because it was really close and I didnt understand it can be so close) or I toos SL and then won't be in tiime to take trade after FO or even if I did another entry after FO then finally was just a bit on + because of before lost and another TP also could be very close. Like below
+
+I have a problem with range thet "need to be filled". Because: sellers want to sell some bounch of orders. They do a structure to do this, they start to sell... but there is a big buyer that is buying everything from seller. The seller is happy if he can sell everything at the higher price without taking it lower. Price can go back to base of where they start to build the structure, but if there is a buyer - this wont happend and seller will be happy with this, he'll sell everything fast at the highest prices and why he would want to take price lower to cover orders? Understanding structures in this structures help me to see if they want to take price lower or not - but maybe there is a way I didnt find:)?
+
+And to be honest I earn much more money taking trades in opposite of qm's but its hard.
+FA: سلام بچه‌ها:)
+
+@Staurum من کمک نمی‌خواستم، پس نگران نباش. اگر فرصتی ببینم که چیزی را که به آن علاقه دارم و درباره‌اش فکر می‌کردم کشف کنم، می‌گیرمش:) فقط فکر می‌کردم اینجا همه‌جا برای گرفتن معامله باید اینگالف ببینیم. اگر PA (اینگالف) هست، می‌توانیم معامله را بگیریم. پس چه چیزی باعث می‌شود تو به اینگالف باور داشته باشی؟ منطق ساده باید این‌طور باشد: اینگ بود، پس کسی از این ناحیه دفاع نکرد؛ باشه، در بازگشت وارد می‌شویم. اینگالف اکشن یا اینگالف ری‌اکشن هم می‌تواند باشد و این اینگالف می‌تواند برگشتی باشد، همان‌طور که نوشتی. اما آیا فکر کردن به سفارش‌ها در ارتباط با اینگالف می‌تواند در حل پازل‌ها کمک کند؛ فقط فکر کردن و جست‌وجو. پس فقط می‌پرسیدم آیا چیزی در ذهن داری که در این تاپیک ننوشتی. IT می‌تواند سفارش‌ها را پنهان کند؛ اینگ، بعد IT با سفارش‌ها برمی‌گردد و ناحیه دوباره باعث برگشت می‌شود، پس FO می‌گیریم و فکر می‌کنیم اینگ گرفتیم.
+
+@Edge لطفاً، می‌شود چند تا از معامله‌های آخرت را حتی در ژورنال من بگذاری؟ نمی‌خواهم حرفت را ثابت کنی، فقط می‌خواهم نمونه ببینم، چون شاید مشکل ساده‌سازی فقط مشکل من باشد. با این روش چه RR و چه نسبت موفقیتی می‌گیری؟ چون همان‌طور که نوشتی، آن‌ها می‌توانند نسخه‌های مختلفی از پر کردن سفارش‌ها را استفاده کنند و من نمی‌بینم چطور می‌شود از گرفتن چنین معامله‌های طرح‌واری بدون فهم عمیق‌تر ساختارها پول خوب درآورد. اگر چارت‌ها را عمیق‌تر نمی‌فهمیدم، عالمی موقعیت بود که معامله می‌گرفتم و TP را نمی‌گرفتم (چون واقعاً نزدیک بود و نمی‌فهمیدم می‌تواند این‌قدر نزدیک باشد) یا استاپ‌لاسم را زود می‌زدم و بعد به معاملهٔ پس از FO نمی‌رسیدم، یا حتی اگر ورود دیگری بعد از FO می‌کردم، در نهایت فقط کمی مثبت بودم، چون قبلاً ضرر کرده بودم و آن TP دیگر هم می‌توانست خیلی نزدیک باشد. مثل پایین
+
+من با رنجی که «باید پر شود» مشکل دارم. چون: فروشنده‌ها می‌خواهند یک بستهٔ سفارش بفروشند. برای این کار یک ساختار می‌سازند، شروع می‌کنند به فروش... اما یک خریدار بزرگ هست که همه‌چیز را از فروشنده می‌خرد. فروشنده خوشحال است اگر بتواند همه‌چیز را در قیمت بالاتر بفروشد بدون اینکه قیمت را پایین ببرد. قیمت می‌تواند به بیس جایی که ساختار را ساختند برگردد، اما اگر خریداری باشد این اتفاق نمی‌افتد و فروشنده هم از این خوشحال می‌شود؛ سریع همه‌چیز را در بالاترین قیمت‌ها می‌فروشد و چرا بخواهد قیمت را پایین ببرد تا سفارش‌ها را پوشش بدهد؟ فهمیدن ساختارها در دل این ساختارها کمکم می‌کند ببینم می‌خواهند قیمت را پایین ببرند یا نه؛ اما شاید راهی باشد که پیدا نکرده‌ام:)؟
+
+و راستش را بخواهی، با گرفتن معامله‌های خلاف QMها پول خیلی بیشتری درمی‌آورم، اما سخت است.
+
+### staurum_p19_464
+EN: Hi Y, thank you very much for taking an interest. If u dont mind, let me slowly sync my mind into your words, by tackling your post section by section.
+
+I just thought that everywhere here to take the trade we should see engulf. Me too, i see engulfs everywhere, from the highest timeframe down to tick charts.
+
+If there is PA(engulf) we can take the trade. So what cause that you belive in engulf. RTM simply taught: Every engulf has its own target. If the engulf has not yet hit its target, then there is a trade opportunity. This has been the basis of my learning so far and i'm still yet to fully understand it, to be honest.
+
+Simple logic should be like this - there was eng so no one protect this area - ok, on return we get in. Yes, that is simple, only if we can decide (with good judgment) which area/zone is in question.
+
+There also can be engulf of action or engulf of reaction and this engulf can be reverse like you wrote. I dont quite get this. What is an engulf of action? What is an engulf of reaction? If i misunderstood, please redirect me.
+
+But is thinking about orders connected to engulf can help with solving puzzles - just thinking and searching. So I was just asking if you got something on your mind you didnt write in this topic. In my opinion, it is connected. That is why I am of a belief that any action (including an engulf) is either let activated/happened by the ITs, or caused by the IT's orders. I didnot write engulf not because it's not important or of some other reasons, it's simply because it just did not cross my mind at that time.
+
+IT can hide orders - eng, then IT get back with orders, and area cause bounce again, so we got FO thinking we got eng. For me personally, IT never show its orders. the latter part i dont really understand. So if u'd like, u can elaborate here.
+
+@Edge, no one is hijacking my journal. I hijack my journal.
+FA: سلام Y، خیلی ممنون که علاقه نشان دادی. اگر اشکالی نداری، بگذار آرام ذهنم را با حرف‌هایت هم‌تراز کنم و پستت را بخش‌بخش جواب بدهم.
+
+فقط فکر می‌کردم اینجا همه‌جا برای گرفتن معامله باید اینگالف ببینیم. من هم همه‌جا اینگالف می‌بینم، از بالاترین تایم‌فریم تا چارت‌های تیک.
+
+اگر PA (اینگالف) هست، می‌توانیم معامله را بگیریم. پس چه چیزی باعث می‌شود تو به اینگالف باور داشته باشی. RTM ساده یاد داد: هر اینگالف تارگت خودش را دارد. اگر اینگالف هنوز به تارگتش نرسیده باشد، فرصت معامله هست. این تا حالا پایهٔ یادگیری من بوده و راستش هنوز کاملاً درکش نکرده‌ام.
+
+منطق ساده باید این‌طور باشد: اینگ بود، پس کسی از این ناحیه دفاع نکرد؛ باشه، در بازگشت وارد می‌شویم. بله، ساده است، فقط اگر بتوانیم (با قضاوت خوب) تصمیم بگیریم کدام ناحیه/زون مورد بحث است.
+
+اینگالف اکشن یا اینگالف ری‌اکشن هم می‌تواند باشد و این اینگالف می‌تواند برگشتی باشد، همان‌طور که نوشتی. من این را خوب نمی‌فهمم. اینگالف اکشن چیست؟ اینگالف ری‌اکشن چیست؟ اگر بد فهمیدم، لطفاً درستم کن.
+
+اما آیا فکر کردن به سفارش‌ها در ارتباط با اینگالف می‌تواند در حل پازل‌ها کمک کند؛ فقط فکر کردن و جست‌وجو. پس فقط می‌پرسیدم آیا چیزی در ذهنت داری که در این تاپیک ننوشتی. به نظر من، مرتبط است. به همین دلیل باور دارم که هر اکشنی (از جمله اینگالف) یا توسط ITها فعال/رخداد می‌شود، یا ناشی از سفارش‌های IT است. اینگالف را ننوشتم نه چون مهم نیست یا دلایل دیگر؛ صرفاً چون آن موقع به ذهنم نرسید.
+
+IT می‌تواند سفارش‌ها را پنهان کند؛ اینگ، بعد IT با سفارش‌ها برمی‌گردد و ناحیه دوباره باعث برگشت می‌شود، پس FO می‌گیریم و فکر می‌کنیم اینگ گرفتیم. برای من شخصاً، IT هرگز سفارش‌هایش را نشان نمی‌دهد. بخش آخر را واقعاً نمی‌فهمم. اگر دوست داشتی، می‌توانی اینجا بیشتر توضیح بدهی.
+
+@Edge، هیچ‌کس ژورنال من را قیچی نمی‌کند. من ژورنال خودم را قیچی می‌کنم.
+
+### staurum_p19_465
+EN: Away
+
+I always try think of things in ways that makes logical sense. With an engulf, I imagine that the ITs or whoever knows there's large orders somewhere (FLs, S/R), and they'll push orders until that breaks. Because once its broken, now they know there isn't anything major against them and they can easily get to their next target. From there they can manipulate price between the major sets of orders (FLs) and get their fill because other's nothing in-between to stop them. If they don't do that, they won't know how many orders are against them, and they'll be taking a major risk without testing that level first. And they just keep doing this until they hit their final target.
+
+Anyways, i dont know if that's actually true or not, but that type of thinking helps me explain why engulfs are so powerful.
+FA: Away
+
+من همیشه سعی می‌کنم به چیزها طوری فکر کنم که منطقی باشد. دربارهٔ اینگالف، تصور می‌کنم ITها یا هر کسی که می‌داند جایی سفارش‌های بزرگی هست (FLها، S/R)، سفارش‌ها را هُل می‌دهند تا آن سطح بشکند. چون وقتی شکست، حالا می‌دانند چیز مهمی مقابلشان نیست و راحت می‌توانند به تارگت بعدی برسند. از آنجا می‌توانند قیمت را بین مجموعه‌های اصلی سفارش (FLها) دستکاری کنند و پر شدن سفارش‌هایشان را بگیرند، چون چیزی بین‌شان نیست که جلویشان را بگیرد. اگر این کار را نکنند، نمی‌دانند چند سفارش مقابلشان است و بدون تست کردن آن سطح، ریسک بزرگی می‌کنند. و همین کار را ادامه می‌دهند تا به تارگت نهایی‌شان برسند.
+
+به‌هرحال، نمی‌دانم واقعاً درست است یا نه، اما این نوع فکر کردن کمکم می‌کند توضیح بدهم چرا اینگالف‌ها این‌قدر قدرتمندند.
+
+### staurum_p19_466
+EN: @fxeyes Thank you, exactly, this is how I thought it should be working. But one thing about final TG. I'm still thinking is TG so important to them. Because if they got buyer/seller that will take all their orders, is target important?
+
+@Stauruum
+
+Action - I mean creating sup/demand and reaction - high or low. Sometimes we have eng just reaction(so H or L) or eng all sup/dem so a flag or a cap. Both also can be just a FO.
+FA: @fxeyes ممنون، دقیقاً، من هم فکر می‌کردم باید این‌طور کار کند. اما یک چیز دربارهٔ TG نهایی. هنوز فکر می‌کنم آیا TG برایشان این‌قدر مهم است. چون اگر خریدار/فروشنده‌ای داشته باشند که همهٔ سفارش‌هایشان را بردارد، آیا تارگت مهم است؟
+
+@Stauruum
+
+اکشن؛ منظورم ساختن ساپلای/دمند است و ری‌اکشن؛ های یا لو. بعضی وقت‌ها اینگ فقط روی ری‌اکشن داریم (یعنی H یا L) یا اینگ کل ساپلای/دمند، پس یک فلگ یا یک کپ. هر دو هم می‌توانند فقط یک FO باشند.
+
+### staurum_p19_467
+EN: Away
+
+Targets is an interesting concept. I imagine that those are the rules of the algorithm. Let’s say they have a big order to fill at some price range, so they establish price boundaries (FLs) to play their tricks to get their orders in before the main move. So now they have a starting point and target. The MPL is the limits of these boundaries.
+
+So they play their tricks, and get their order in, but it’s important for them to hit their target because it maximizes their profit, but also gives them room to create certain price movement to get people to then buy in the direction they want, by creating a reversal pattern or shooting price away, giving the impression of momentum switching. Other people read these patterns, so they join in the new trend, getting the ITs into profit.
+FA: Away
+
+تارگت‌ها مفهوم جالبی است. تصور می‌کنم آن‌ها قواعد الگوریتم‌اند. فرض کن سفارش بزرگی برای پر کردن در یک محدودهٔ قیمتی دارند، پس مرزهای قیمتی (FLها) را می‌سازند تا ترفندهایشان را بازی کنند و سفارش‌هایشان را پیش از حرکت اصلی داخل بیاورند. پس حالا یک نقطهٔ شروع و یک تارگت دارند. MPL حد همین مرزهاست.
+
+پس ترفندهایشان را بازی می‌کنند و سفارششان را داخل می‌آورند، اما رسیدن به تارگت برایشان مهم است، چون سودشان را بیشینه می‌کند و همچنین فضا می‌دهد تا با ساختن یک الگوی برگشت یا پرتاب کردن قیمت، حرکتی بسازند که آدم‌ها را وادار کند در جهت دلخواهشان بخرند و تصور چرخش مومنتوم را بدهند. بقیه این الگوها را می‌خوانند، پس به روند جدید می‌پیوندند و ITها به سود می‌رسند.
+
+### staurum_p19_468
+EN: Hi Y,
+
+Action - I mean creating sup/demand and reaction - high or low. Sometimes we have eng just reaction(so H or L) or eng all sup/dem so a flag or a cap. Both also can be just a FO.
+
+I assume this is just a statement of opinion. or is there something that u'd like to clarify? or, are u unsure when to decide which action or reaction is engulf or FO?
+
+Hi fxeyes, Thank you very much for the lesson. i'll keep it in mind.
+FA: سلام Y،
+
+اکشن؛ منظورم ساختن ساپلای/دمند است و ری‌اکشن؛ های یا لو. بعضی وقت‌ها اینگ فقط روی ری‌اکشن داریم (یعنی H یا L) یا اینگ کل ساپلای/دمند، پس یک فلگ یا یک کپ. هر دو هم می‌توانند فقط یک FO باشند.
+
+فرض می‌کنم این فقط بیان یک نظر است. یا چیزی هست که می‌خواهی روشن کنی؟ یا مطمئن نیستی کِی تصمیم بگیری کدام اکشن یا ری‌اکشن، اینگالف است یا FO؟
+
+سلام fxeyes، خیلی ممنون بابت درس. در ذهنم نگه می‌دارم.
+
+### staurum_p19_469
+EN: Away
+
+Ah, that was just a theory in response to Ysbail. I'm sure you've formed a better theory with your experience trading =)
+FA: Away
+
+آه، آن فقط یک نظریه در جواب Ysbail بود. مطمئنم تو با تجربهٔ معامله‌ات نظریهٔ بهتری ساخته‌ای =)
+
+### staurum_p19_470
+EN: what could i have done differently?
+FA: چه کار دیگری می‌توانستم بکنم؟
+
+### staurum_p19_471
+EN: staurum wrote:
+
+Taken some off the table when you saw there was not enough liquidity to push price up after 3 drive (failed twice 146.170 area)
+FA: staurum نوشت:
+
+وقتی دیدی بعد از 3 drive نقدینگی کافی برای بالا بردن قیمت نیست، بخشی را از میز برداشته بودی (دو بار در ناحیهٔ 146.170 شکست خورد)
+
+### staurum_p19_472
+EN: should've waited, what could've we done differently?
+FA: باید صبر می‌کردیم؛ چه کار دیگری می‌توانستیم بکنیم؟
+
+### staurum_p19_473
+EN: Away
+
+Killer trading. Hmmm my thoughts, higher TF analysis shows us a bigger story. It seems we have an engulf, nothing really holding price up. So we need to be cautious. Depending on your trade style, we could have either taken tg1 at the first obvious level, or waited for cp to break back in. Or even combine the two =) Take tg1, re-enter if we break into cp. Or skip the trade altogether =)
+FA: Away
+
+معاملهٔ کُشنده. هومم، نظرم: تحلیل تایم‌فریم بالاتر داستان بزرگ‌تری نشان می‌دهد. به نظر یک اینگالف داریم و واقعاً چیزی قیمت را نگه نداشته. پس باید احتیاط کنیم. بسته به سبک معامله‌ات، می‌توانستیم یا tg1 را در اولین سطح واضح بگیریم، یا منتظر بمانیم cp دوباره برگردد داخل. یا حتی هر دو را ترکیب کنیم =) tg1 را بگیر، اگر به cp برگشتیم دوباره وارد شو. یا کلاً معامله را رد کن =)
+
+### staurum_p19_474
+EN: going back to basic supply and demand, interested?
+FA: برگردیم به ساپلای و دمند پایه، علاقه‌ای داری؟
+
+### staurum_p19_475
+EN: tick.....tock....tick....tock.....
+
+it will all be pointless, of course, if we dont put our REAL MONEY on our line of living NECK.
+FA: تیک.....تاک....تیک....تاک.....
+
+البته همه‌اش بی‌معنی خواهد بود، اگر پول واقعی‌مان را روی همان خط گردنِ زنده بودنمان نگذاریم.
+
+### staurum_p19_1
+EN: Hi Staurum, it seems like you like to trade in M1 as well.
+FA: سلام Staurum، به نظر می‌رسد تو هم دوست داری در M1 معامله کنی.
+
+### staurum_p19_2
+EN: Wishing everyone is doing great. Never give up is the song
+
+Dropping some repeated chants here:
+
+a. Every engulf has its target and will have hit its target. Every
+engulf has its own retrace before hitting its target. If the target is
+not yet hit, then the retrace may not complete yet.
+
+b. Measuring where the retrace should have reached gives us a space.
+
+c. Every target was previously an engulf that had its own target (back to *a.*)
+
+d. Last, but not least: The ITs need to herd the stops for their dinner. (
+ readthemarket.com/index.php/en/forum/jou...3-if?start=875#36362
+)
+FA: امیدوارم همه خوب باشند. «تسلیم نشو» ترانه‌ای است که می‌خوانیم
+
+چند وِرد تکراری را اینجا می‌ریزم:
+
+الف. هر اینگالف تارگتی دارد و به تارگتش خواهد رسید. هر اینگالف پیش از رسیدن به تارگت، ریتریس خودش را دارد. اگر تارگت هنوز زده نشده، ریتریس هم ممکن است هنوز کامل نشده باشد.
+
+ب. اندازه‌گیری اینکه ریتریس باید تا کجا می‌رسید، به ما یک فضا می‌دهد.
+
+ج. هر تارگت قبلاً خودش یک اینگالف بوده که تارگت خودش را داشته (برگرد به *الف*.)
+
+د. آخرین ولی نه کمترین: ITها برای شامشان باید استاپ‌ها را گله کنند. ( readthemarket.com/index.php/en/forum/jou...3-if?start=875#36362 )
+
+### staurum_p19_3
+EN: Just wanna share a little perspective on this holiday time, in which i got a chance to revisit our education home.
+
+To those who have run so far but feel that we've hit a giant unsolvable wall in a maze.
+
+Maybe it's a good idea to start a chart with basic Supply & Demand
+brain. Do we remember that RTM all initiated there? (from HTF to lower
+TFs as many as we wish).
+
+Initially we would trade the S/D zones blindly, right? let's move on.
+
+Markepedia says: "The truth is; supply/demand are often reactions to the Flag Limit (a RBD or DBR after a break of a high or low)".
+ This is all we need to know, the rest would be personal homework. We
+can ask yourself a whole bunch of questions, but structure our questions
+ like we would structure a maze.
+
+For example:
+
+"That zone simply looks like a supply/demand zone, but is it really? is it a reaction or a break just before retrace?"
+
+"let's say it's a reaction, then which flag limit that zone reacts
+to?.... hang on, a flag limit was initially just an FTR that met its
+target, let us look to the left and see where/whatzone that flag limit
+seeks to target?.... mm... which zone that flag limit fails to return
+to? and in that zone, is there clean orders? that could be the target of
+ a break of this flag limit?"
+
+"now looking at the target of that flag limit, where was this target
+actually targeting towards? (remember that the target of an engulf is
+just an opposite engulf? - this would bring us further into some
+loops/series of questions again... so this would be the expansion of the
+ maze) "
+
+"ok, let's go back, if this supply/demand is a reaction, has the
+reaction reached its target? if not yet, then we might have a trade opp.
+ if not, then no good opp, but is there an unfilled orders in the zone
+it is reaction to? if so, what would we do?"
+
+"Let's say it's a break of a zone to the left, then we would not try to
+look to trade this zone, but where is the next zone that this break is
+targeting towards? If this is a break, where price *should return to*,
+and where are the clean orders that may ping-pong price to reach its
+tg."
+
+let's go back and re-ask: "ok this supply/demand zone does not look like
+ a reaction, nor a break - seems to happen in the middle of nowhere." or
+ "mm... this supply/demand zone looks like a break of this zone but a
+reaction of that zone"... this would bring us into another size of maze
+of questions.
+
+Also, maybe we can ask something like "ok where was price departing from
+ before reaching this supply/demand zone? is that departure zone a
+reaction or a break?" and so on and so on. Do we remember a saying
+"price travels from supply to demand and vice versa"? well here in RTM
+we are trying to be that Supply/Demand or Spike low/high.
+
+Just remember the origins of our thought process, because we will very
+easily lose ourselves into solving some branch areas of the maze but
+forgot the structure of the original maze we were coming from.
+
+To me, personally, RTM is not a puzzle. Puzzle is limited, but i dont
+think a knowledge is limited. Instead, i personally "feel", RTM is a
+growing maze of knowledge. RTM creates the centre of it and it is up to
+us to "expand our map of understanding price action". RTM gives us a
+starting platform of thought for our own journey to understand the
+market. RTM is not a destination whereby all knowledge is complete and
+finished already. It truly is not. We may feel stuck or getting nowhere,
+ but we need to ask ourselves if it is because RTM stops guiding us
+into the further dark zone of the maze, or maybe if it is because we are
+ just too afraid to expand ourselves more due to fear of being wrong or
+ fear of getting lost.
+
+This sort of process, in my opinion, can't be literally orchestrated in a
+ forum, let alone in an open group chat (otherwise, RTM will turn into
+tradingview.com forums, where the blinds are leading the deafs but they
+are all quacking each other to exhaustion). Trading is very much
+correlated to working on ourselves. Each individual of us has different
+brain and therefore different maze of thoughts. We would be "typically
+similar" but will never be the same with each other.
+
+May we all have a good, enjoyable rest time in this short holiday. on a
+side note, remember that the celebration of this holiday originates from
+ some very evil events. The blankets are so divine and holy, but most
+humans are naively lured into unconsciously, by default, celebrating the
+ things very undeserving.
+FA: فقط می‌خواهم در این روزهای تعطیل، که فرصتی پیدا کردم به خانهٔ آموزشی‌مان سر بزنم، کمی از منظرم را بگویم.
+
+خطاب به کسانی که تا اینجا دویده‌اند اما حس می‌کنند در یک هزارتو به دیوار عظیم و حل‌نشدنی‌ای خورده‌اند.
+
+شاید ایدهٔ خوبی باشد که یک چارت را با مغز سادهٔ ساپلای و دمند شروع کنیم. یادمان هست که RTM همه از همان‌جا آغاز شد؟ (از HTF تا تایم‌فریم‌های پایین‌تر، هر قدر که بخواهیم).
+
+اولش نواحی S/D را کورکورانه معامله می‌کردیم، نه؟ بیا جلوتر برویم.
+
+Markepedia می‌گوید: «واقعیت این است که ساپلای/دمند اغلب واکنش‌هایی به FL هستند (یک RBD یا DBR بعد از شکست یک های یا لو)». این تمام چیزی است که باید بدانیم؛ بقیه‌اش تمرین شخصی است. می‌توانیم عالمی سؤال از خودمان بپرسیم، اما سؤال‌هایمان را مثل یک هزارتو ساختار بدهیم.
+
+مثلاً:
+
+«آن زون ساده به نظر یک زون ساپلای/دمند می‌آید، اما واقعاً هست؟ واکنش است یا شکستی درست پیش از ریتریس؟»
+
+«فرض کن واکنش است؛ پس آن زون به کدام FL واکنش نشان می‌دهد؟.... صبر کن، FL در ابتدا فقط یک FTR بود که به تارگتش رسیده بود؛ بیا به سمت چپ نگاه کنیم و ببینیم آن FL قصد دارد چه چیزی را هدف بگیرد؟.... مم... آن FL به کدام زون برنمی‌گردد؟ و در آن زون سفارش تمیزی هست؟ می‌تواند تارگت شکست همین FL باشد؟»
+
+«حالا به تارگت آن FL نگاه کن؛ آن تارگت در واقع به سمت چه چیزی نشانه رفته بود؟ (یادت باشد تارگت یک اینگالف فقط یک اینگالف مخالف است؟ - این ما را دوباره به چند حلقه/زنجیرهٔ سؤال می‌برد... پس این همان گسترش هزارتوست)»
+
+«خب، برگردیم؛ اگر این ساپلای/دمند یک واکنش است، آیا آن واکنش به تارگتش رسیده؟ اگر نه، ممکن است فرصت معامله داشته باشیم. اگر نه، فرصت خوبی نیست؛ اما آیا در زونی که به آن واکنش نشان می‌دهد سفارش پرنشده هست؟ اگر هست، چه می‌کنیم؟»
+
+«فرض کن شکست یک زون در سمت چپ است؛ در این صورت سعی نمی‌کنیم همین زون را معامله کنیم، بلکه زون بعدی که این شکست به سمتش هدف گرفته کجاست؟ اگر این یک شکست است، قیمت *باید به کجا برگردد*، و سفارش‌های تمیزی که می‌توانند قیمت را پینگ‌پنگ کنند تا به tg برسد کجایند؟»
+
+برگردیم و دوباره بپرسیم: «خب این زون ساپلای/دمند نه شبیه واکنش است نه شکست؛ به نظر می‌رسد وسط هیچ‌جا اتفاق افتاده.» یا «مم... این زون ساپلای/دمند شبیه شکست این زون است اما واکنش آن زون»... این ما را به هزارتویی با اندازهٔ دیگر از سؤال‌ها می‌برد.
+
+همچنین، شاید بتوانیم چیزی بپرسیم مثل «خب قیمت پیش از رسیدن به این زون ساپلای/دمند از کجا راه افتاده بود؟ آن زون حرکت، واکنش است یا شکست؟» و همین‌طور ادامه بدهیم. یادمان هست این جمله که «قیمت از ساپلای به دمند سفر می‌کند و برعکس»؟ خوب، اینجا در RTM ما تلاش می‌کنیم همان ساپلای/دمند یا اسپایک لو/های باشیم.
+
+فقط خاستگاه روند فکریمان را یادمان باشد، چون خیلی راحت در حل بعضی شاخه‌های هزارتو گم می‌شویم و ساختار هزارتوی اصلی‌ای را که از آن آمده بودیم فراموش می‌کنیم.
+
+برای من شخصاً RTM یک پازل نیست. پازل محدود است، اما فکر نمی‌کنم دانش محدود باشد. در عوض، من شخصاً «حس می‌کنم» RTM هزارتویی در حال رشد از دانش است. RTM مرکز آن را می‌سازد و این به ما بستگی دارد که «نقشهٔ فهممان از پی‌اَکشن را گسترش دهیم». RTM یک سکوی شروع فکر برای مسیر خودمان در فهم بازار به ما می‌دهد. RTM مقصدی نیست که همهٔ دانش در آن کامل و تمام‌شده باشد. واقعاً نیست. ممکن است حس کنیم گیر کرده‌ایم یا به جایی نمی‌رسیم، اما باید از خودمان بپرسیم آیا دلیلش این است که RTM دیگر ما را به زون تاریک‌تر هزارتو راهنمایی نمی‌کند، یا شاید دلیلش این است که فقط از ترس اشتباه بودن یا گم شدن، می‌ترسیم خودمان را بیشتر گسترش بدهیم.
+
+این نوع فرایند، به نظر من، در یک فروم نمی‌شود واقعاً سازمان داد، چه برسد به یک گروه چت باز (وگرنه RTM تبدیل می‌شود به فروم‌های tradingview.com، جایی که کورها ناشنوایان را راه می‌برند و همه آن‌قدر برای هم کواک‌کواک می‌کنند تا از پا بیفتند). معامله خیلی به کار کردن روی خودمان گره خورده. هر کدام از ما مغز متفاوتی داریم و بنابراین هزارتوی فکری متفاوتی. «معمولاً شبیه» همدیگریم، اما هرگز یکی نمی‌شویم.
+
+امیدوارم همه در این تعطیلات کوتاه استراحت خوب و لذت‌بخشی داشته باشیم. ضمناً یادمان باشد که جشن این تعطیلات از رویدادهای بسیار شومی سرچشمه می‌گیرد. پتوها بسیار الهی و مقدس‌اند، اما بیشتر انسان‌ها ساده‌لوحانه و به‌طور ناخودآگاه و پیش‌فرض به جشن گرفتن چیزهایی کشیده می‌شوند که هیچ ارزشی ندارند.
+
+### staurum_p19_4
+EN: This answer ought to be shared here. To the questioner, my response:
+it's not just about a topic, it is about patience of trying to
+incorporate more things into the zone and keep asking "what am i missing
+ here?" to ourselves. I'm no grandmaster/guru, and am still could be
+wrong. However, I've stopped my studies now and have been developing
+mental patience as well as learning "observation & deduction".
+
+Anyway, here is the chart.
+
+Have a great week and be mindful.
+FA: این جواب باید همین‌جا به اشتراک گذاشته شود. خطاب به سؤال‌کننده، پاسخم:
+مسئله فقط یک موضوع نیست، مسئله صبرِ تلاش برای وارد کردن چیزهای بیشتر به زون و پرسیدن مداوم «اینجا چه چیزی را از دست داده‌ام؟» از خودمان است. من گرندمستر/گورو نیستم و هنوز هم ممکن است اشتباه کنم. با این حال، مطالعه‌ام را متوقف کرده‌ام و دارم صبر ذهنی را پرورش می‌دهم و «مشاهده و استنتاج» را یاد می‌گیرم.
+
+به‌هرحال، چارت اینجاست.
+
+هفتهٔ خوبی داشته باش و حواست باشد.

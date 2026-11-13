@@ -1,0 +1,182 @@
+===== if_p32_1 | xmzhang | 2f2e7fdc2f6c2148edabd2359c96c2ced272d7b3 =====
+[EN0] I was stopped out of an trade that I took yesterday, the setup looked
+very good, I've applied everything I've learned here to this setup, but
+the bastard stopped me out. Do you see any flaws in my setup, or is it
+just one of those trades that just didn't work out.
+[FA0] دیروز معامله‌ای گرفتم و با حد ضرر بیرون انداخته شدم؛ ستاپ خیلی خوب به نظر می‌رسید، هر چه اینجا یاد گرفته‌ام روی این ستاپ پیاده کردم، ولی آن حرام‌زاده مرا بیرون انداخت. نقصی در ستاپم می‌بینی، یا فقط یکی از آن معامله‌هایی است که جور درنیامد.
+===== if_p32_2 | milkeyway | 3d582c4c3d9c053073e4a5b891f3414c7a08a611 =====
+[EN0] Hi IF.
+[FA0] سلام IF.
+[EN1] I am currently practicing reading seasons on my mt4. But whenever swing
+ends and takes turn, I wonder why i will take that trade or why I didn't
+ take that trade. So, is it necessary to enter trade every turn of every
+ end of the swing ? I hope not. It may not necessary to trade each
+swing.
+[FA1] الان دارم خواندن سشن‌ها را روی MT4 تمرین می‌کنم. ولی هر وقت سوئینگ تمام می‌شود و می‌چرخد، فکر می‌کنم چرا باید آن معامله را بگیرم یا چرا نگرفتم. پس آیا لازم است در هر چرخش و هر انتهای سوئینگ وارد معامله شویم؟ امیدوارم نه. شاید لازم نباشد هر سوئینگ را معامله کنیم.
+===== if_p32_3 | Ifmyante | cbd1f80b110cc7d8d9e3e035d178d83d201a8a10 =====
+[EN0] xmzhang wrote: I was stopped out
+ of an trade that I took yesterday, the setup looked very good, I've
+applied everything I've learned here to this setup, but the bastard
+stopped me out. Do you see any flaws in my setup, or is it just one of
+those trades that just didn't work out.
+[FA0] xmzhang نوشت: دیروز معامله‌ای گرفتم و با حد ضرر بیرون انداخته شدم؛ ستاپ خیلی خوب به نظر می‌رسید، هر چه اینجا یاد گرفته‌ام روی این ستاپ پیاده کردم، ولی آن حرام‌زاده مرا بیرون انداخت. نقصی در ستاپم می‌بینی، یا فقط یکی از آن معامله‌هایی است که جور درنیامد.
+[EN1] Hiya
+[FA1] سلام
+[EN2] A QM must always be treated as a possible Diamond in the making, meaning
+ that stops must be not just beyond the high/low, but beyond the FL the
+H/L is a reaction to.
+[FA2] QM را همیشه باید مثل یک دایموند بالقوه دید؛ یعنی استاپ نباید فقط آن‌سوی سقف یا کف باشد، بلکه باید آن‌سوی FL‌ای باشد که آن سقف یا کف واکنش به آن است.
+[EN3] Also, you have your QM marked in an area of Supply. Is that supply itself a reaction to a FL? This question also is vital
+[FA3] همچنین QM‌ات را در یک ناحیهٔ عرضه علامت زده‌ای. آیا خود آن عرضه واکنش به یک FL است؟ این سؤال هم حیاتی است
+===== if_p32_4 | Ifmyante | df7bd3f82a130de8fdf6ed65d631e7b0b6c2cf73 =====
+[EN0] milkeyway wrote: Hi IF.
+[FA0] milkeyway نوشت: سلام IF.
+[EN1] I am currently practicing reading seasons on my mt4. But whenever swing
+ends and takes turn, I wonder why i will take that trade or why I didn't
+ take that trade. So, is it necessary to enter trade every turn of every
+ end of the swing ? I hope not. It may not necessary to trade each
+swing.
+[FA1] الان دارم خواندن سشن‌ها را روی MT4 تمرین می‌کنم. ولی هر وقت سوئینگ تمام می‌شود و می‌چرخد، فکر می‌کنم چرا باید آن معامله را بگیرم یا چرا نگرفتم. پس آیا لازم است در هر چرخش و هر انتهای سوئینگ معامله بگیریم؟ امیدوارم نه. شاید لازم نباشد هر سوئینگ را معامله کنیم.
+[EN2] If price reaches its target and then engulfs back in, a reversal has
+occurred - price will now have a target within the pole that took it to
+where it turned, so why not trade it back to that TG? If it's not the
+ultimate target which has been hit (PA in an HTF has told you that it
+has further to go), and you only like to trade the big moves in the
+HTFs, then there's no need to take the definite pips on offer here, as
+it obviously isn't part of your trade plan
+[FA2] اگر قیمت به تارگت برسد و بعد دوباره به داخل اینگالف کند، برگشتی رخ داده — قیمت الان تارگتی داخل همان میله‌ای دارد که آن را به جایی که چرخید برده بود؛ پس چرا به سمت همان TG معامله‌اش نکنیم؟ اگر تارگتی که خورده، تارگت نهایی نبوده باشد (PA در یک HTF به تو گفته که راه بیشتری دارد)، و تو فقط حرکت‌های بزرگ HTF را معامله می‌کنی، پس نیازی نیست آن پیپ‌های قطعی اینجا را بگیری، چون واضح است بخشی از پلن معاملاتی‌ات نیست
+===== if_p32_5 | Oedipus | 50fef6d5afe2879320154b98db20bddc36f3b00a =====
+[EN0] Hi, If,
+[FA0] سلام، If،
+[EN1] I was just reading a comment by that rishi guy concerning Pedini's myfxbook log.
+[FA1] همین حالا داشتم نظری از آن بچهٔ rishi را دربارهٔ لاگ myfxbook پدینی می‌خواندم.
+[EN2] I saw yours before you deleted it.
+[FA2] مال تو را هم قبل از این‌که پاکش کنی دیده بودم.
+[EN3] You clearly want to keep it a secret so I wont mention the outcome but it's why I'll always keep coming back.
+[FA3] واضح است که می‌خواهی مخفی بماند، پس نتیجه‌اش را نمی‌گویم، ولی دلیلش این است که من همیشه برمی‌گردم.
+===== if_p32_6 | Oedipus | dd8ce50fa05b26409c717ad8fe8118fd8d20b0ae =====
+[EN0] By the way, I wouldn't have deleted it if it was mine.
+[FA0] راستی، اگر مال من بود پاکش نمی‌کردم.
+[EN1] I'd have framed it.
+[FA1] قابش می‌گرفتم و می‌زدم به دیوار.
+===== if_p32_7 | Ifmyante | 1b9c2c50da7fdb1a14b6aa8ad785eb704eac1d96 =====
+[EN0] Thanks Oedipus
+[FA0] ممنون Oedipus
+===== if_p32_8 | Ifmyante | b00912dad8770569a1cfdc7cfb30d47b5672ac90 =====
+[EN0] My results, however, are being eclipsed by others around me nowadays. I'm now the lightweight
+[FA0] ولی این روزها نتایج من زیر سایهٔ دیگران اطرافم رفته است. حالا من سبک‌وزنم
+[EN1] I'll get over my "dead jealous of the jammy gits" phase soon I hope!
+[FA1] امیدوارم زود از فاز «حسابی به این خوش‌شانس‌ها حسودی می‌کنم» بیرون بیایم!
+===== if_p32_9 | Oedipus | 40683467cb4217ff9e1fc028e920c6ad894dbf6d =====
+[EN0] I wish I'd saved it.
+[FA0] ای کاش ذخیره‌اش کرده بودم.
+[EN1] I do remember your equity curve was a vertical line reaching for the heavens.
+[FA1] یادم است که منحنی اکوییتی‌ات یک خط عمودی بود که به آسمان می‌رسید.
+===== if_p32_10 | polymorph | 8d61ab0078b0b1557633fb016470f848db2b5fbe =====
+[EN0] Hello If,
+[FA0] سلام If،
+[EN1] In the
+ Price Reading article
+, would you help me understand what you meant by the following:
+[FA1] در مقالهٔ خواندن قیمت، می‌شود کمکم کنی بفهمم منظورت از این‌ها چه بود:
+[EN2] In the "Past" section, you wrote: "Did price originally react to the RS
+of a Flag Limit? It can fakeout to true SD of the FL." I don't
+understand the question, so I don't have a guess about it.
+[FA2] در بخش «گذشته» نوشته‌ای: «آیا قیمت در ابتدا به RS یک FL واکنش داد؟ می‌تواند به SD واقعی FL فیک‌اوت کند.» من این سؤال را نمی‌فهمم، پس حدسی هم درباره‌اش ندارم.
+[EN3] And in the "Present" section, you wrote: "Has price tested the last flag
+ on approach? (good sign)". Do you mean what I've marked on the chart
+below?
+[FA3] و در بخش «حاضر» این جمله را داری: «آیا هنگام نزدیک شدن، آخرین پرچم تست شده است؟ (نشانهٔ خوب)». منظورت همان چیزی است که در نمودار زیر علامت زده‌ام؟
+[EN4] Thank you very much!
+[FA4] خیلی ممنون!
+===== if_p32_11 | Ifmyante | bca779ad2dc9f55fd5856ced267d7201ff8e0bd1 =====
+[EN0] I've been really busy staring at the marble lately (Michelangelo
+historians will know what I mean :) ). Let me take a read and see if I
+can answer you :)
+[FA0] این اواخر واقعاً مشغول خیره شدن به سنگ مرمر بوده‌ام (تاریخ‌دانان Michelangelo می‌دانند منظورم چیست :) ). بگذار بخوانم و ببینم می‌توانم جوابت را بدهم :)
+===== if_p32_13 | geejay | 2818bcec85bb446efb0b4040193cd389dc93a1c6 =====
+[EN0] Also, remember to check for anything above FL2 in case there is
+trapped demand lurking above the obvious stop loss levels. Today, this
+happened on the ES (S&P500 Futures). It fooled me good (demo).
+[FA0] همچنین یادت باشد هر چیزی بالای FL2 را هم بررسی کنی، شاید تقاضای گرفتاری بالای سطوح واضح حد ضرر کمین کرده باشد. امروز این اتفاق روی ES (فیوچرز S&P500) افتاد. حسابی گولم زد (دمو).
+[EN1] Hopefully my paint stick diagram is readable.
+[FA1] امیدوارم نمودار دست‌کشیده‌ام خوانا باشد.
+[EN2] GJ
+[FA2] GJ
+===== if_p32_14 | Ifmyante | 6b1ecf27f714ee111742aebfc128bb2bf862e6a1 =====
+[EN0] Look a bit more closely, and you'll see it's exactly the same setup
+[FA0] کمی دقیق‌تر نگاه کن، می‌بینی که دقیقاً همان ستاپ است
+===== if_p32_15 | geejay | 912599a0aaefb138b9953eb83f96b5fb504b5c91 =====
+[EN0] Looking more closely, what I see is that yes, the setup was nearly
+identical. And thank you for the extra prodding. I went back and looked
+at the overnight session. Overnight, price engulfed FL2 by 2 points (not
+ shown in my diagram) .. that SHOULD have been my clue to look for a
+turning point above FL2. Something else to add to the utility belt for
+next time.
+[FA0] با نگاه دقیق‌تر، می‌بینم که بله، ستاپ تقریباً یکسان بود. و ممنون برای این تلنگر اضافه. برگشتم و سشن یک‌شبه را نگاه کردم. در طول شب، قیمت FL2 را 2 نقطه اینگالف کرد (در نمودارم نشان داده نشده) .. این باید سرنخی می‌شد برای این‌که دنبال نقطهٔ چرخش بالای FL2 بگردم. یک چیز دیگر برای افزودن به کمربند ابزار دفعهٔ بعد.
+[EN1] GJ
+[FA1] GJ
+===== if_p32_16 | mansorsapari | 22a01b52eff13f19f3bdb4e225d5f33691de43eb =====
+[EN0] If is right. Once I understand this picture I see it everytime in the
+chart...The Big Trader/IT really screw the retail trader. No
+wonder...but now thanks to IF I can read their intention and maybe I can
+ enter the market with IT entry point. Thank you IF
+[FA0] IF درست می‌گوید. وقتی این تصویر را فهمیدم، هر بار آن را در نمودار می‌بینم...معامله‌گر بزرگ یا IT واقعاً معامله‌گر خرد را سرکیسه می‌کند. عجیب نیست...ولی حالا به لطف IF می‌توانم نیتشان را بخوانم و شاید بتوانم با نقطهٔ ورود IT وارد بازار شوم. ممنون IF
+===== if_p32_17 | Jambowlyai | d607f143e8a3eb23dc5f4657ad90a98054675acf =====
+[EN0] Hey If, simply out of curiosity, have you ever looked back at
+historical charts say from 100 years ago and seen if the market was
+working the exact same way back then? It would be interesting to know
+how long these shenanigans have been going on. I wonder if computers,
+high frequency trading etc have forced the ITs to shift their tactics
+throughout the ages. I've taken a peek myself but don't quite "get it"
+yet so can't really conclude anything. Just wondering about your
+thoughts on the topic.
+[FA0] سلام If، فقط از روی کنجکاوی، تا حالا به نمودارهای تاریخی مثلاً 100 سال پیش نگاه کرده‌ای تا ببینی بازار آن موقع هم دقیقاً همین‌طور کار می‌کرد؟ جالب است بدانیم این بازی‌ها از کی شروع شده‌اند. کنجکاوم بدانم کامپیوترها و معامله‌گری با فرکانس بالا و این چیزها، IT‌ها را مجبور کرده‌اند تاکتیک‌هایشان را در طول زمان عوض کنند یا نه. خودم نگاهی انداخته‌ام ولی هنوز کاملاً «نگرفته‌ام»، پس نمی‌توانم نتیجه‌ای بگیرم. فقط می‌خواستم نظرت را دربارهٔ این موضوع بدانم.
+===== if_p32_18 | geejay | f6a43c58020e6829d9414efcd72ad05dfd31f16a =====
+[EN0] Jambowlyai - Here is a chart from S&P500 from 2000 - the last major market top (not 100 years I know).
+[FA0] Jambowlyai - این نمودار S&P500 از سال 2000 است — آخرین سقف بزرگ بازار (می‌دانم 100 سال نیست).
+[EN1] I see some familiar price structures. I did not mark them all. I think
+that the answer is likely yes. But I don't know how you would use this
+info to make you a better trader. In other words, apart from an
+intellectual discussion, how does knowing how the ITs behave a
+generation ago help you today? Just thinking out loud.
+[FA1] ساختارهای قیمتی آشنایی می‌بینم. همه‌شان را علامت نزدم. فکر می‌کنم جواب احتمالاً بله است. ولی نمی‌دانم از این اطلاعات چطور استفاده می‌کنی تا معامله‌گر بهتری بشوی. به عبارت دیگر، جدا از یک بحث فکری، دانستن این‌که IT‌ها یک نسل پیش چطور رفتار می‌کردند امروز چه کمکی به تو می‌کند؟ فقط دارم بلندبلند فکر می‌کنم.
+[EN2] GJ
+[FA2] GJ
+===== if_p32_19 | Jambowlyai | 8391cccc3d754a778b7cfac104183a6bfb5bd0b9 =====
+[EN0] It is purely just a curiosity, intellectual discussion thing. Won't help trading a bit as far as I can see.
+[FA0] این کاملاً کنجکاوی و بحث فکری است. تا آنجا که می‌بینم یک ذره هم به معامله‌گری کمک نمی‌کند.
+[EN1] The answer would lead to different thoughts, none of which would have any benefit for trading either.
+[FA1] جواب هر چه باشد به فکرهای متفاوتی می‌رسد که هیچ‌کدام هم برای معامله‌گری فایده‌ای ندارند.
+[EN2] Okay, now back to saturating my brain with charts and fakeouts and ftrs
+and engulfs in the hopes of forcing a breakthrough. Then maybe I can
+answer my own question.
+[FA2] باشه، حالا برگردم به اشباع کردن مغزم با نمودارها و فیک‌اوت‌ها و FTR‌ها و اینگالف‌ها، به امید این‌که یک پیشرفت را زورکی بیرون بکشم. بعد شاید بتوانم جواب سؤال خودم را بدهم.
+===== if_p32_20 | Ifmyante | 35bbe715311874877802e6e400a8e652a6d065ee =====
+[EN0] I only go back as far as the 1950s. It was all just the same back then however.
+[FA0] من فقط تا دههٔ 1950 عقب می‌روم. ولی آن موقع هم همه‌چیز دقیقاً همین‌طور بود.
+[EN1] Computers are simply making their jobs easier, yet no different
+[FA1] کامپیوترها فقط کارشان را راحت‌تر می‌کنند، ولی هیچ تفاوتی نیست
+===== if_p32_21 | milkeyway | 5cd67dc12a14df740414dcd157eb2372715041b2 =====
+[EN0] I got this somewhere but still I would like to answer for that.
+[FA0] این را از جایی گیر آورده‌ام، ولی باز هم دوست دارم جوابش را بدهم.
+===== if_p32_22 | Kanzler | 700d28d23dc4fc9fadff0e864e944d00de1e5d02 =====
+[EN0] Milkeyway, I've edited over the graphic you uploaded. Here's just my
+two cents. I think part of it was the QM level. Someone please correct
+me if I'm wrong, I'd like to learn from any mistakes.
+[FA0] Milkeyway، روی تصویری که آپلود کردی ویرایش زدم. این هم نظر ناچیز من. فکر می‌کنم بخشی از آن سطح QM بود. اگر اشتباه می‌گویم کسی اصلاحم کند، می‌خواهم از اشتباه‌ها یاد بگیرم.
+===== if_p32_23 | milkeyway | 48d5ec2239939c35a0d91a17e00734377bbdb745 =====
+[EN0] Hi IF.
+[FA0] سلام IF.
+[EN1] What if Origin of the move gets engulfed.
+[FA1] اگر مبدأ حرکت اینگالف شود چه؟
+[EN2] Thanks.
+[FA2] ممنون.
+===== if_p32_24 | Duds | 4944bcebca6a17f62a72c645b241c46592913b19 =====
+[EN0] IF, per your request I am leaving a reminder that there is a question for you to answer
+[FA0] IF، به درخواست خودت یادآوری می‌گذارم که سؤالی هست که باید جوابش را بدهی
+===== if_p32_25 | Ifmyante | 3314686ef576acdd323518f05b6fb953299d0d72 =====
+[EN0] Ah yes!
+[FA0] آه بله!
+[EN1] A bit of dental work has me knocked out at the moment, but this high on my to-do list once I get my brain back
+[FA1] کمی کار دندان‌پزشکی فعلاً مرا از پا انداخته، ولی وقتی مغزم برگشت این بالای فهرست کارهای من است

@@ -1,0 +1,144 @@
+===== bill-p1 : 25 posts =====
+--- bill_p1_1 author=billmac3 hash=506b0392
+EN: Trading is a business, so plan the trade, trade the plan. I've found that trading is more mental than anything. I've had more than my share of trades that have been up 1,2 even 4 R, only to scratch or lose. I think the key to making money in the markets is to find an edge like RTM, create a trading plan, then execute it diligently so that, like a real job, it becomes boring. I'm here to make money, lots of it I hope. Not to worry, I've got my charities picked out once I'm able to afford them. So, onwards...
+FA: معامله‌گری یک کسب‌وکار است؛ پس معامله را برنامه‌ریزی کن و به برنامه پایبند بمان. دریافته‌ام که معامله‌گری بیش از هر چیز ذهنی است. معاملات زیادی داشته‌ام که 1، 2 و حتی 4 R در سود بوده‌اند و بعد سر به سر یا ضرر شده‌اند. فکر می‌کنم کلید پول درآوردن در بازارها این است که مزیت معاملاتی‌ای مثل RTM پیدا کنی، یک پلن معاملاتی بسازی و بعد با پشتکار اجرایش کنی تا مثل یک شغل واقعی، یکنواخت شود. من اینجا هستم تا پول دربیاورم، امیدوارم مقدار زیادی. نگران نباش، فهرست خیریه‌هایم را هم آماده کرده‌ام برای وقتی که توان مالی‌اش را داشته باشم. پس، به پیش...
+--- bill_p1_2 author=billmac3 hash=497c9ee3
+EN: did some FL HW yesterday and IF made a suggestion on one of the charts to use CP to create a FL instead of a SR, so today I'll investigate CPs
+FA: دیروز کمی تمرین FL انجام دادم و IF روی یکی از نمودارها پیشنهاد داد که به‌جای SR از CP برای ساختن FL استفاده کنم، پس امروز ساختارهای CP را بررسی می‌کنم
+--- bill_p1_3 author=billmac3 hash=b474d2b7
+EN: Can't help but notice that BTCUSD is in the process of making a QM. Won't trade it but it doesn't bode well for the Crypto crowd
+FA: نمی‌توانم ندیده بگیرم که BTCUSD در حال ساختن یک QM است. معامله‌اش نمی‌کنم، اما برای فعالان کریپتو خبر خوبی نیست
+--- bill_p1_4 author=linos hash=db7e18b7
+EN: True, good to avoid, nothing left.
+FA: درست است، بهتر است از آن دوری کنی؛ چیزی باقی نمانده.
+--- bill_p1_5 author=Rinehart hash=6c3469b2
+EN: billmac3 wrote: Can't help but notice that BTCUSD is in the process of making a QM. Won't trade it but it doesn't bode well for the Crypto crowd
+
+Until this FL is taken out, I see nothing on HTF to indicate BTC is ready to fall.
+FA: billmac3 نوشت: نمی‌توانم ندیده بگیرم که BTCUSD در حال ساختن یک QM است. معامله‌اش نمی‌کنم، اما برای فعالان کریپتو خبر خوبی نیست
+
+تا وقتی این FL شکسته نشده، در تایم‌فریم بالاتر چیزی نمی‌بینم که نشان دهد BTC آمادهٔ ریزش است.
+--- bill_p1_6 author=billmac3 hash=4c196da4
+EN: I guess I should've included what I think is the appropriate FL that got engulfed. I must remember up mark up EXACTLY what my thoughts and analysis are so I can review at a later time and remember what was going on. Thanks R for the comment
+FA: حدس می‌زنم باید آن FL مناسب را که اینگالف شد هم می‌گذاشتم. باید حواسم باشد که افکار و تحلیلم را دقیقاً ثبت کنم تا بعداً بتوانم مرورشان کنم و بفهمم چه خبر بود. ممنون R بابت نظرت
+--- bill_p1_7 author=billmac3 hash=4a7a4c64
+EN: 2 really important concepts that I've picked up reading thru various journals of Master traders
+
+1) After engulf, price is free to move to origin of EG in that TF 2) Price likes to go 'coast-to-coast'
+
+So the implication is, if there's an engulf of a H1 level, price is free to move back to the origin of that EG in the H1 TF or the FTR of that DP. Which means don't diddle in the middle of that TF when price hasn't reached its objective yet unless there's another EG which takes precedence
+FA: 2 مفهوم واقعاً مهم که از خواندن ژورنال‌های مختلف معامله‌گران استاد یاد گرفتم
+
+1) بعد از اینگالف، قیمت آزاد است تا به مبدأ EG در همان TF برود 2) قیمت دوست دارد «از یک کرانه به کرانهٔ دیگر» برود
+
+پس نتیجه این است که اگر سطحی در H1 اینگالف شود، قیمت آزاد است تا به مبدأ همان EG در TF H1 یا FTR همان DP برگردد. یعنی وقتی قیمت هنوز به هدفش نرسیده، وسط محدودهٔ آن TF بی‌جهت معامله نکن، مگر اینکه EG دیگری باشد که اولویت داشته باشد
+--- bill_p1_8 author=billmac3 hash=49f86c97
+EN: Took a QM on CHFJPY but it didn't move away for hours, so ended up scratching it, which turned out to a good move
+FA: روی CHFJPY یک QM گرفتم، اما ساعت‌ها حرکت نکرد، پس در نهایت سر به سر بستمش که تصمیم درستی بود
+--- bill_p1_9 author=billmac3 hash=0184a500
+EN: Trade Plan for this week - Buy EURUSD at top of green dashed box w/SL below black line. Price is CPing into demand after EG(small purple x). 50% off @ TG1 and rest off at TG2. TG2 is top of weekly CP. I realize there's fresh supply in between, so will manage things as they progress. RR is adequate. Also was bidding at top of lowest green box last week because of CP, but price didn't go that low.
+FA: پلن معاملاتی این هفته - خرید EURUSD در سقف باکس خط‌چین سبز با استاپ‌لاس زیر خط مشکی. قیمت بعد از EG (ضربدر بنفش کوچک) با تشکیل CP به سمت ناحیهٔ تقاضا می‌رود. 50% در TG1 بسته می‌شود و بقیه در TG2. TG2 سقف CP هفتگی است. می‌دانم که در این بین عرضهٔ تازه هست، پس هر چه پیش برود مدیریتش می‌کنم. RR کافی است. هفتهٔ گذشته هم به‌خاطر CP در سقف پایین‌ترین باکس سبز سفارش خرید گذاشته بودم، اما قیمت آن‌قدر پایین نرفت.
+--- bill_p1_10 author=billmac3 hash=a55628c3
+EN: Wow, after reading like 4 Master Trader journals this weekend, I feel the fog lifting and can now start to gaze out near the horizon. Going thru my list of symbols again I saw this CADJPY map so clearly. So here's the plan: Pre-CP was engulfed @ purple X which means price should get to lower green demand box. This also means that price could get to the FTR preceding the EG or supply #1. Since there's a monthly swap level above this(green dashed line), I'll be on the lookout for a FO into the FL around the swap(it's there). If price somehow engulfs supply #3, I then can start hunting longs to take out the tip of the higher CP or supply #4. I feel like I have a crystal ball into PA now. Now comes the hard part, actually putting the plan into action and staying the course!
+FA: وای، بعد از خواندن حدود 4 ژورنال معامله‌گر استاد در این آخر هفته، حس می‌کنم مه کنار رفته و حالا می‌توانم افق را ببینم. دوباره فهرست نمادهایم را مرور کردم و این نقشهٔ CADJPY را خیلی واضح دیدم. پس پلن این است: Pre-CP در محل X بنفش اینگالف شد، یعنی قیمت باید به باکس تقاضای سبز پایین‌تر برسد. این یعنی قیمت می‌تواند به FTR قبل از EG یا عرضهٔ #1 هم برسد. چون بالای این ناحیه یک سطح سوآپ ماهانه هست (خط‌چین سبز)، مراقب FO به داخل FL حوالی سوآپ خواهم بود (که همان‌جاست). اگر قیمت به هر شکلی عرضهٔ #3 را اینگالف کند، می‌توانم دنبال خریدها بروم تا نوک CP بالاتر یا عرضهٔ #4 را بزنم. حس می‌کنم حالا گوی بلورینی دارم که آیندهٔ PA را نشان می‌دهد. حالا بخش سختش می‌آید: عملی کردن پلن و پایبند ماندن به آن!
+--- bill_p1_11 author=nsikandar hash=957473c1
+EN: Bill your posts have been very helpful for me to get my head around PAZs. Thank you.
+
+As you said earlier that after an EG of an FTR price is free to RT to the origin of that EG. So ITs still have room to give themselves premium price before sliding through the CP.
+FA: Bill، پست‌هایت برای درک نواحی PAZ خیلی به من کمک کرده‌اند. ممنون.
+
+همان‌طور که قبلاً گفتی، بعد از EG یک FTR قیمت آزاد است تا به مبدأ همان EG برگردد. پس ITs هنوز جا دارند تا پیش از عبور از CP، قیمت مطلوب‌تری برای خودشان فراهم کنند.
+--- bill_p1_12 author=billmac3 hash=6d9cf1e8
+EN: Thanks nsikandar for the kind words. I'm still learning the ways of RTM but the further I dig, the more I learn.
+FA: ممنون nsikandar بابت حرف‌های خوبت. من هنوز در حال یادگیری راه‌های RTM هستم، اما هرچه بیشتر می‌کاوم، بیشتر یاد می‌گیرم.
+--- bill_p1_13 author=billmac3 hash=f29ce621
+EN: Here's a setup while I slept
+
+RT to MPL of Sweet Pedini FTR. Took a
+
+conservative TG for 5R
+FA: این هم یک ستاپ وقتی خواب بودم
+
+RT به MPL مربوط به FTR از نوع Sweet Pedini. یک تارگت
+
+محافظه‌کارانه برای 5R گرفتم
+--- bill_p1_14 author=billmac3 hash=77e058e7
+EN: OK, this is one setup to pin up on the wall and look at EVERY day to ingrain the important aspects of RTM: 1) Trick Played in past creates a nice MPL 2) price approaches the MPL but backs off and engulfs the FTR. So FOF says price wants higher to MPL 3) price hits MPL, SL == 8-10 pips 4) TG1 = 5R, TG2 = 10R, TG3 = 15R
+FA: خب، این ستاپی است که باید به دیوار بزنی و هر روز نگاهش کنی تا جنبه‌های مهم RTM در ذهنت حک شود: 1) ترفندی که در گذشته اجرا شده، یک MPL خوب می‌سازد 2) قیمت به MPL نزدیک می‌شود اما برمی‌گردد و FTR را اینگالف می‌کند. پس FOF می‌گوید قیمت می‌خواهد بالاتر، به MPL برسد 3) قیمت به MPL می‌رسد، استاپ‌لاس == 8-10 پیپ 4) TG1 = 5R، TG2 = 10R، TG3 = 15R
+--- bill_p1_15 author=Ifmyante hash=cd0cf790
+EN: It's great to see it all sinking in so well so quickly! Well done you
+FA: خیلی خوب است که می‌بینم همهٔ این‌ها به این سرعت و این‌قدر خوب برایت جا می‌افتند! آفرین به تو
+--- bill_p1_16 author=billmac3 hash=8c8156f3
+EN: Thanks IF! I'm glad my ramblings are making sense to someone
+
+Like I
+
+said earlier, the horizon is getting clearer every day.Thanks for RTM BTW.
+FA: ممنون IF! خوشحالم که پرت‌وپلاهای من برای کسی معنی دارد
+
+همان‌طور که
+
+قبلاً گفتم، افق هر روز روشن‌تر می‌شود. راستی ممنون از RTM.
+--- bill_p1_17 author=billmac3 hash=9b56f60c
+EN: Here's another 'Classic' FOF setup: Approach is the KEY
+
+1) Trick Played in past creates a nice MPL 2) price CPs its approaches to the MPL within a HTF Supply 3) price hits MPL, SL == 15 pips 4) TG1 = 6R, TG2 = 10R, TG3 = 20R
+FA: این هم یک ستاپ FOF «کلاسیک» دیگر: نحوهٔ نزدیک شدن کلید ماجراست
+
+1) ترفندی که در گذشته اجرا شده، یک MPL خوب می‌سازد 2) قیمت درون ناحیهٔ عرضهٔ تایم‌فریم بالاتر، با تشکیل CP به MPL نزدیک می‌شود 3) قیمت به MPL می‌رسد، استاپ‌لاس == 15 پیپ 4) TG1 = 6R، TG2 = 10R، TG3 = 20R
+--- bill_p1_18 author=dengaima hash=119b9fb8
+EN: billmac3 wrote: Here's another 'Classic' FOF setup: Approach is the KEY 1) Trick Played in past creates a nice MPL 2) price CPs its approaches to the MPL within a HTF Supply 3) price hits MPL, SL == 15 pips 4) TG1 = 6R, TG2 = 10R, TG3 = 20R
+
+May I ask how do you understand FOF?
+FA: billmac3 نوشت: این هم یک ستاپ FOF «کلاسیک» دیگر: نحوهٔ نزدیک شدن کلید ماجراست 1) ترفندی که در گذشته اجرا شده، یک MPL خوب می‌سازد 2) قیمت درون ناحیهٔ عرضهٔ تایم‌فریم بالاتر، با تشکیل CP به MPL نزدیک می‌شود 3) قیمت به MPL می‌رسد، استاپ‌لاس == 15 پیپ 4) TG1 = 6R، TG2 = 10R، TG3 = 20R
+
+می‌توانم بپرسم برداشتت از FOF چیست؟
+--- bill_p1_19 author=billmac3 hash=495135a3
+EN: Hello D - So I like to breaks things down into concepts first and fill them in with the details later. I've given 2 examples today of how I interpret FOF and how it works with the ideas of RTM. So ask yourself, what does FOF mean, what is the message being communicated? Then apply this concept to what you already know about RTM. I think you'll find you've known the answer all along. Bill
+FA: سلام D - من دوست دارم اول موضوعات را به مفاهیم پایه تجزیه کنم و بعد جزئیات را به آن‌ها اضافه کنم. امروز 2 مثال آورده‌ام از اینکه FOF را چطور تفسیر می‌کنم و چطور با ایده‌های RTM جور می‌شود. پس از خودت بپرس، FOF یعنی چه، پیامی که منتقل می‌شود چیست؟ بعد این مفهوم را روی آنچه از RTM می‌دانی پیاده کن. فکر می‌کنم می‌بینی که از همان اول جواب را می‌دانستی. Bill
+--- bill_p1_20 author=dengaima hash=4b1da0be
+EN: billmac3 wrote: Hello D - So I like to breaks things down into concepts first and fill them in with the details later. I've given 2 examples today of how I interpret FOF and how it works with the ideas of RTM. So ask yourself, what does FOF mean, what is the message being communicated? Then apply this concept to what you already know about RTM. I think you'll find you've known the answer all along. Bill
+
+I don't get about this FOF at all that is why I asked
+
+What I know is, I try to enter when people have lost their trades.
+
+Such as this readthemarket.com/index.php? option=com_k...d=1293&lang=en#69734
+
+Here's my trade. I got in on top and exited all position because my account is small. Then set another pending order but it missed by 2 pips before bomb dropped.
+FA: billmac3 نوشت: سلام D - من دوست دارم اول موضوعات را به مفاهیم پایه تجزیه کنم و بعد جزئیات را به آن‌ها اضافه کنم. امروز 2 مثال آورده‌ام از اینکه FOF را چطور تفسیر می‌کنم و چطور با ایده‌های RTM جور می‌شود. پس از خودت بپرس، FOF یعنی چه، پیامی که منتقل می‌شود چیست؟ بعد این مفهوم را روی آنچه از RTM می‌دانی پیاده کن. فکر می‌کنم می‌بینی که از همان اول جواب را می‌دانستی. Bill
+
+من اصلاً این FOF را نمی‌فهمم، برای همین پرسیدم
+
+چیزی که می‌دانم این است که سعی می‌کنم وقتی دیگران در معاملاتشان ضرر کرده‌اند وارد شوم.
+
+مثل این readthemarket.com/index.php? option=com_k...d=1293&lang=en#69734
+
+این هم معاملهٔ من. در بالا وارد شدم و چون حسابم کوچک است، کل پوزیشن را بستم. بعد سفارش معلق دیگری گذاشتم، اما پیش از ریزش شدید، قیمت تا 2 پیپی آن رسید و سفارش فعال نشد.
+--- bill_p1_21 author=billmac3 hash=735d8dfa
+EN: OK, I see the problem. Your entry was correct but why did you exit the trade? According to RTM concepts, your target(s) should have been lower than where you TPed. FOF is about understanding where the clean orders lie. Once into a trade, then you need to use trade management to figure out how to TP. My understanding is that Salivan uses regular RTM methods for his targets. Bill
+FA: خب، مشکل را می‌بینم. ورودت درست بود، اما چرا از معامله خارج شدی؟ طبق مفاهیم RTM، تارگت‌هایت باید پایین‌تر از جایی می‌بود که سودت را گرفتی. FOF دربارهٔ فهمیدن این است که سفارش‌های دست‌نخورده کجا هستند. وقتی وارد معامله شدی، باید با مدیریت معامله تعیین کنی چطور سود بگیری. برداشت من این است که Salivan برای تارگت‌هایش از روش‌های معمول RTM استفاده می‌کند. Bill
+--- bill_p1_22 author=dengaima hash=ef90450d
+EN: billmac3 wrote: OK, I see the problem. Your entry was correct but why did you exit the trade? According to RTM concepts, your target(s) should have been lower than where you TPed. FOF is about understanding where the clean orders lie. Once into a trade, then you need to use trade management to figure out how to TP. My understanding is that Salivan uses regular RTM methods for his targets. Bill
+
+I exited because it has hit where you marked as TG1 but I was asleep. I exited the trade when I woke up as I did not want to give profit back to the market.
+FA: billmac3 نوشت: خب، مشکل را می‌بینم. ورودت درست بود، اما چرا از معامله خارج شدی؟ طبق مفاهیم RTM، تارگت‌هایت باید پایین‌تر از جایی می‌بود که سودت را گرفتی. FOF دربارهٔ فهمیدن این است که سفارش‌های دست‌نخورده کجا هستند. وقتی وارد معامله شدی، باید با مدیریت معامله تعیین کنی چطور سود بگیری. برداشت من این است که Salivan برای تارگت‌هایش از روش‌های معمول RTM استفاده می‌کند. Bill
+
+خارج شدم چون قیمت به جایی که تو TG1 علامت زده‌ای رسیده بود، اما من خواب بودم. وقتی بیدار شدم معامله را بستم، چون نمی‌خواستم سودم را به بازار پس بدهم.
+--- bill_p1_23 author=billmac3 hash=98baf750
+EN: Nice start to the week w/5R. Didn't see anything to want to make me hold past the close of the gap
+FA: شروع خوبی برای هفته با 5R. چیزی ندیدم که بخواهم پوزیشن را بعد از بسته شدن گپ نگه دارم
+--- bill_p1_24 author=billmac3 hash=3be36137
+EN: The failure of this EU trade has me wondering what went wrong in my analysis. First off, the upper edge of the green FL was my TG for a short at the beginning of the week but I saw no entry. So the FL was an ORFL and the FTR that caused the break of SR. So why did price FO into space? I see no level underneath and it didn't reach into the MPL. If anyone has any comments, I would appreciate them.
+
+I was able to mitigate my loss with this trade in NU
+
+I was watching this USDCHF but didn't want to trade it because of NFP(Not For Pussies)
+FA: شکست این معاملهٔ EU باعث شد فکر کنم کجای تحلیلم اشتباه بود. اول اینکه لبهٔ بالایی FL سبز تارگت من برای یک فروش در ابتدای هفته بود، اما ورودی ندیدم. پس آن FL هم یک ORFL بود و هم همان FTR که شکست SR را رقم زد. پس چرا قیمت به فضای خالی FO کرد؟ هیچ سطحی زیرش نمی‌بینم و به MPL هم نرسید. اگر کسی نظری دارد، خوشحال می‌شوم بشنوم.
+
+با این معامله در NU توانستم بخشی از ضررم را جبران کنم
+
+این USDCHF را زیر نظر داشتم اما نخواستم معامله‌اش کنم، چون NFP بود (جای ترسوها نیست)
+--- bill_p1_25 author=billmac3 hash=705828b4
+EN: Here's a question I have regarding making PA in this scale: in the chart below, FLs A, B, C are all bullish and FTR D is bearish. They all either overlap or envelope each other. If price engulfs FL C south, is that valid PA or would it have to engulf FL A? I'm assuming that all FLs are drawn correctly and that there's no space to work with at this scale. I think the answer is no for FL C but at a smaller scale, it would be valid. Bill
+FA: دربارهٔ شکل‌گیری PA در این مقیاس سؤالی دارم: در نمودار زیر، سطوح FL با برچسب‌های A، B، C همگی صعودی‌اند و FTR با برچسب D نزولی است. همهٔ آن‌ها یا با هم هم‌پوشانی دارند یا یکدیگر را در بر می‌گیرند. اگر قیمت FL C را رو به پایین اینگالف کند، آیا این PA معتبر است یا باید FL A را اینگالف کند؟ فرض من این است که همهٔ سطوح FL درست رسم شده‌اند و در این مقیاس فضایی برای کار وجود ندارد. فکر می‌کنم پاسخ برای FL C منفی است، اما در مقیاس کوچک‌تر معتبر خواهد بود. Bill

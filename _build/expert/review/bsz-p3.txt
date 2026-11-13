@@ -1,0 +1,95 @@
+### bsz_p3_51
+EN: This one is developing...
+FA: این یکی دارد شکل می‌گیرد...
+
+### bsz_p3_52
+EN: Hi IF and all,
+
+In my scenario below. Its my understanding that we would not need to have TG1 at the kink associated with the 2DT because the PA suggests C would be hit before A is broken.
+
+When we are talking about taking about TG1 at the kink of the 2DT (double top) I am assuming we only do that when we do not have PA with an unmet TG.
+FA: سلام IF و همه،
+
+در سناریوی زیر، برداشتم این است که لازم نیست TG1 را روی پیچش مربوط به 2DT داشته باشیم، چون PA نشان می‌دهد C پیش از شکستن A زده می‌شود.
+
+وقتی از گرفتن TG1 روی پیچش 2DT (سقف دوقلو) حرف می‌زنیم، فرض من این است که این کار را فقط وقتی می‌کنیم که PA و TG پرنشده‌ای نداشته باشیم.
+
+### bsz_p3_54
+EN: Linos, zoom in 1m or 10s chart. can u help explain why it turned at the very little kink visible only in very low timeframe?
+FA: Linos، روی چارت 1 دقیقه یا 10 ثانیه زوم کن. می‌توانی کمک کنی توضیح بدهی چرا روی همان پیچش خیلی کوچکی که فقط در تایم‌فریم خیلی پایین دیده می‌شود چرخید؟
+
+### bsz_p3_55
+EN: Hey Staurum. equate this answer to a guess attempt. I am still not yet sure
+FA: سلام Staurum. این جواب را یک تلاش برای حدس زدن حساب کن. خودم هنوز مطمئن نیستم.
+
+### bsz_p3_56
+EN: Background: here is the far past.
+
+And, here is the near past.
+FA: پیش‌زمینه: این گذشتهٔ دور است.
+
+و این گذشتهٔ نزدیک.
+
+### bsz_p3_57
+EN: Yes I remember, a level where price bounces a number of times can be very strong indeed. Thanks Staurum, I cant be lazy about looking left!
+FA: بله یادم است، سطحی که قیمت چند بار از آن برگردد واقعاً می‌تواند خیلی قوی باشد. ممنون Staurum، نمی‌توانم در نگاه به سمت چپ تنبل باشم!
+
+### bsz_p3_59
+EN: Let's see if price is going to FO our BSZ and bounce off of PCP
+FA: ببینیم قیمت می‌خواهد BSZ ما را FO بزند و از PCP برگردد یا نه.
+
+### bsz_p3_62
+EN: The above chart finally brings me to this question:
+FA: چارت بالا بالاخره من را به این سؤال می‌رساند:
+
+### bsz_p3_63
+EN: linos wrote: The above chart finally brings me to this question:
+
+Hi Linos, IMO if we are only entering the BSZ trade based purely on the 2DT or 2DB. The kink at the BSZ really has to be the TG. We also need to obviously meet our 1R requirement and our SL above the whole FL we are relying on.
+
+However, if we have PA like any other trade into space we can expect the TG to be the opposing FL
+FA: linos نوشت: چارت بالا بالاخره من را به این سؤال می‌رساند:
+
+سلام Linos، به نظر من اگر فقط بر پایهٔ 2DT یا 2DB وارد معاملهٔ BSZ می‌شویم، پیچش روی BSZ واقعاً باید همان TG باشد. همچنین واضح است که باید شرط 1R را برآورده کنیم و استاپ‌لاسمان بالای کل FLی باشد که به آن تکیه داریم.
+
+اما اگر PA داشته باشیم، مثل هر معاملهٔ دیگری به سمت فضا، می‌توانیم انتظار داشته باشیم TG همان FL مخالف باشد.
+
+### bsz_p3_64
+EN: Another IF quote: "They make these fakes, simply to be broken WITHOUT MAKING ANY PA."
+FA: نقل‌قول دیگری از IF: «این جعلی‌ها را می‌سازند فقط برای اینکه بشکنند، بدون اینکه هیچ PAای بسازند.»
+
+### bsz_p3_67
+EN: Thanks Staurum, youve just marked my 20th BSZ on the HW Lol.These things are so many, I would love to learn to trade them all week every week.
+FA: ممنون Staurum، همین الان 20-امین BSZ را روی تمرین علامت زدی، لول. این چیزها این‌قدر زیادند که دوست دارم یاد بگیرم تمام هفته هر هفته معامله‌شان کنم.
+
+### bsz_p3_69
+EN: News daggers
+FA: خنجرهای خبری
+
+### bsz_p3_70
+EN: good R
+FA: R خوب
+
+### bsz_p3_71
+EN: I enjoy the way you can see price and are able to interpret it's movement
+FA: از اینکه چطور قیمت را می‌بینی و می‌توانی حرکتش را تفسیر کنی لذت می‌برم.
+
+### bsz_p3_72
+EN: My JForex is not connecting all day. Unfortunately, need to use the mt4 platform. zzz.......
+
+Ok next BSZ spotted, i hope i'm right
+FA: JForex من تمام روز وصل نمی‌شود. متأسفانه باید از پلتفرم mt4 استفاده کنم. zzz.......
+
+اوکی، BSZ بعدی پیدا شد، امیدوارم درست باشم.
+
+### bsz_p3_74
+EN: I tagged the that EU last night but bailed out coz I wasnt happy with the space compared to my SL.How do you find it there Staurum?
+FA: دیشب آن EU را علامت زدم اما بیرون آمدم چون از فضا نسبت به استاپ‌لاسم راضی نبودم. تو آنجا چطور می‌بینی‌اش Staurum؟
+
+### bsz_p3_75
+EN: I'm not sure i understand the sapce you're talking about. could u please mark it and reupload?
+
+Trading Articles discussions
+FA: مطمئن نیستم آن فضایی را که می‌گویی بفهمم. می‌شود لطفاً علامتش بزنی و دوباره آپلود کنی؟
+
+Trading Articles discussions

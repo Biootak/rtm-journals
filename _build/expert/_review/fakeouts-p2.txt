@@ -1,0 +1,29 @@
+===== fakeouts-p2 : 4 posts =====
+--- fakeouts_p2_26 author=staurum hash=6009a278
+EN: look at the past
+
+look at the approach and reaction
+
+Dont get it? look at www.readthemarket.com/index.php/en/178-e...tm/492-price-reading
+FA: به گذشته نگاه کن
+
+به نحوهٔ نزدیک شدن قیمت و واکنشش نگاه کن
+
+متوجه نمی‌شوی؟ این را ببین: www.readthemarket.com/index.php/en/178-e...tm/492-price-reading
+--- fakeouts_p2_27 author=Tj hash=92449041
+EN: If i got you right, you are saying that there was no LL from supply yet. Price retraced to the closest DBR and now goes further up. Hence, the move was an ENGULF of the zone - in this case FL @1D.
+
+And probably the price will reverse as a reaction to the zone above.
+
+Is it right?
+FA: اگر درست متوجه شده باشم، می‌گویی هنوز حرکت از ناحیهٔ عرضه، کف پایین‌تری (LL) نساخته بود. قیمت به نزدیک‌ترین DBR برگشت و حالا دارد بالاتر می‌رود. بنابراین، آن حرکت اینگالفِ ناحیه بود؛ در این مورد، FL در تایم‌فریم 1D.
+
+و احتمالاً قیمت در واکنش به ناحیهٔ بالاتر برمی‌گردد.
+
+درست است؟
+--- fakeouts_p2_28 author=staurum hash=0de53da1
+EN: we can follow the basics: www.readthemarket.com/index.php/en/178-e...tm/492-price-reading at the end, no engulf = no trade.
+FA: می‌توانیم از اصول پیش برویم: www.readthemarket.com/index.php/en/178-e...tm/492-price-reading در نهایت، بدون اینگالف معامله‌ای نیست.
+--- fakeouts_p2_29 author=Tj hash=c96dbdbd
+EN: Staurum, thanks man. Understanding that article means understanding the whole RTM.
+FA: Staurum، ممنون رفیق. فهمیدن آن مقاله یعنی فهمیدن کل RTM.

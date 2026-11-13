@@ -1,0 +1,8 @@
+{
+  "staurum_p17_4": {
+    "ok": false,
+    "issue": "preposition calque «به الهام از»",
+    "why": "EN «inspired by a doctor:» — FA opens with «به الهام از یک دکتر:». الهام takes «با» in Persian; «به الهام از» is a word-for-word calque of «inspired by», not a phrase a Persian writer or trader uses.",
+    "fix": "با الهام از یک دکتر:\n\nمعامله‌های امشب در سشن NY گرفته شد؛ می‌روم کمی مطالعه کنم و بعد وقت خواب است، نصف را برای آرامش خیال بستم."
+  }
+}

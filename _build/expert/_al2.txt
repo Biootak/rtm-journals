@@ -1,0 +1,251 @@
+=== ID: academylite2_p3_51 | HASH: c8aff9adc6baa24979586d181aebf557bb197416 | AUTHOR: staurum | PARAS: 2
+  [0] HCDE wrote: So i'd like to know if any of you succeded in making a good use of the part 2?
+  [1] A friendly answer to that is "you haven't read enough, my friend." Imagine ourselves is IF or any other master trader who has answered all the questions we may have, then come newcomers with similar questions. these may have been repeated a number of times. Unless, of course, there s a case study that asks for different views. Again, happy reading
+=== ID: academylite2_p3_52 | HASH: 30b88966b5f05a92f017bd2283862c99fe4cc407 | AUTHOR: Atari | PARAS: 3
+  [0] HCDE, a little hint....choose the important FL from the higher time frame (mark the upper trend line and lower trend line as your LS). and watch what happens when price approach it.
+  [1] HCDE wrote: Hi everyone, I'm still trying to work on those LS lines, and i have to admit that i haven't been able to make a comfortable use of what i've learned. There aren't many chart like USD CAD MN with a giant slide down, those are easy to mark, but on every other charts where you have many UP and downs, everything gets quickly very very subjective. I end up with an awful lot of lines. I did a lot of backtesting on what happens when price touches MPLs of kinks and i was astonished to see that in many case it bounces before or goes through easily. I 'm astonished because usually i can find good bounces on MPLs so i may not mark these kinks well. i'm more comfortable marking roughly my QM & Iqms than marking every LS on the chart. The problem with that is that sometimes price goes in my direction and falls down on an invisible hurdle and goes against me. Actually it happens really really often to me. That's why i tried to work out those LS kins of part 2 to make those hurdles visible. But with no success at the moment. I'm kind of desperate. So i'd like to know if any of you succeded in making a good use of the part 2?
+  [2] 1. 2.
+=== ID: academylite2_p3_53 | HASH: ee8cbf1c0a2c69415e298e4d4f5c856d36eafef2 | AUTHOR: HCDE | PARAS: 5
+  [0] staurum wrote:
+  [1] HCDE wrote: So i'd like to know if any of you succeded in making a good use of the part 2?
+  [2] A friendly answer to that is "you haven't read enough, my friend." Imagine ourselves is IF or any other master trader who has answered all the questions we may have, then come newcomers with similar questions. these may have been repeated a number of times.
+  [3] Unless, of course, there s a case study that asks for dierent views. Again, happy reading
+  [4] I red again what i wrote and i don't think i asked anything from any experienced trader. I asked other students if they could use these lines comfortably on their charts as some expressed difficulties in the past and because i'm experiencing the same thing, nothing more. Anyway thanks for your answer. And about "reading", if you've particular posts in mind feel free to let me know, i'm always eager to read!
+=== ID: academylite2_p3_54 | HASH: ba1ee1fdbf80da3d21903d53abd2667ff4f1d926 | AUTHOR: Edge | PARAS: 4
+  [0] It can be overwhelming. Please do not think that it will all make sense after a few views. Don't put that expectation on yourself. You are growing and doing well. Not everyone will mark lines everywhere. For instance some members prefer to do it in real time as opposed to marking areas that won't be visited for years.
+  [1] All I can say is Left Shoulders are the best to start with These are a game changer, and when they line up with s.r pcp even better. Remember IF said the best areas will also be a LS.
+  [2] From a order flow and trick point of view you can see why
+  [3] Cheers
+=== ID: academylite2_p3_55 | HASH: d1f811db44782a231c9d6005b07eb06d0a1e690e | AUTHOR: corsica | PARAS: 2
+  [0] hi everybody I came across this page about downloading historical datas. Has anyone tried to use this? is this reliable? www.tradingheroes.com/download-mt4-historical-data/
+  [1] I've tried on EU and I have a chart going back to 1971. You can also have much more ltf data too
+=== ID: academylite2_p3_56 | HASH: 5222294fbf510a6f4440459dedab605d007aa430 | AUTHOR: HCDE | PARAS: 4
+  [0] Hi everyone,
+  [1] I am trying to work on my scale skills and came accross something i can't resolve by myself. On the following chart, would you consider the two red lines as valid RS/LS levels on that scale?
+  [2] I would say that on this scale, that FLAG hasn't broken any particular high or low so no, but as one of them is explaining to the pip a recent bounce i'm not really sure. How would you interpret them?
+  [3] About corsica last post, i don't know that site, i'll definitely take a look. Other solution: Extract datas from forextester timeframe by timeframe and inject them in MT4. It works. But i don't know the quality of their datas...
+=== ID: academylite2_p3_57 | HASH: 77f8f40bdd8c8ce7007cb0791a488960156953fe | AUTHOR: erdal | PARAS: 3
+  [0] I don't know if this is the thread for this. IF not my apologies!
+  [1] I have downloaded Part 1 and Part and when i've opened the files, i only hear audio. Should i open these files with a specific software? any recommendations?
+  [2] Thanks:)
+=== ID: academylite2_p3_58 | HASH: b94b53f2c17ad677e6901f3470eb86d24bc7b1b6 | AUTHOR: HCDE | PARAS: 2
+  [0] You can find troubleshooting posts in feed back readthemarket.com/index.php/en/forum/rtm...n-academy-lite-files readthemarket.com/index.php/en/forum/rtm...nced-sound-and-image
+  [1] I also remember i had a problem like that and it was solved by installing a codec but sorry i don't find the link to these discussions on the forum. I'm sure someone remembers and will come in for you.
+=== ID: academylite2_p3_59 | HASH: b98d28c6e9900d7a4f5d1cb30fa2ae4d280d0ecd | AUTHOR: Frosty | PARAS: 4
+  [0] Hi all,
+  [1] Just wanna make sure I got this basic stuff right. Hopefully this is in the right section The diagram below is courtesy of Pucci and what I understand is on the chart. Correct or incorrect?
+  [2] i.e. we don't directly look for what looks like a kink just because a line (from a high/low) passes through the vicinity of the LS from the past, but we should be analyzing the kinks on every swing up and down to the most recent one. This is because kinks are essentially FLs, which needs to be engulfed to create new FLs,...
+  [3] Pardon me for asking such a basic question. I'm trying to see way beyond lines and hooks
+=== ID: academylite2_p3_60 | HASH: 09b656721d41d66c57b729623719199dae5896bc | AUTHOR: Kavya | PARAS: 1
+  [0] Hey,Frosty I think even trading levels which are before advancing is nice idea as well. Levels retest are significant when they are in FL and again you will come to know where actually FL created after engulf of opposite FL. because what we see on one scale we might found more swing on other scale. CAPS created at FL wit h deep test provided into FLs are also quite tradable areas.
+=== ID: academylite2_p3_61 | HASH: fe2ac07636c0aa46118c6d2729a0f84d9b95f9dc | AUTHOR: Enlightenme | PARAS: 2
+  [0] Hi I have noticed that the terms UFL and LFL have been used more often prior to 2017. When we see two FLs on the chart, they would normally be indicated as an FL. (This is similar to our RBD and DBR exercise where we don't indicate any upper or lower RBD or DBR).
+  [1] Why the difference? Is there any significance to the denoting of FLs? Possibly, an additional understanding of FLs?
+=== ID: academylite2_p3_62 | HASH: a159587481c91001546c26ae06662439f849f690 | AUTHOR: Edge | PARAS: 4
+  [0] Hi EM, A FL occur occurs anytime a barrier is broken, retraces, and advances to hit an opposing TG. Ergo, it also Fails To Return. When price comes back in the opposite direction and takes out the FL, its once the MPL of the opposing FL is taken out that the new FL becomes a UFL or LFL (once it also hits its TG). Its Ping Pong back and forth.
+  [1] RBDs DBRs Caps etc are exercises for your eyes to see the swings. These swings cannot be relied on to turn price. Nevertheless they are important because we can look at a swing and ask:
+  [2] Should Price have turned here? Which of course we can answer because FO's can be predicted.
+  [3] The only time I use a cap RBD/DBR as an actual trade is if its the MPL/LS trick. Which just looks like a little hiccup (FL/kink) on a higher scale but looks like an extreme MPL on the entry scale
+=== ID: academylite2_p3_63 | HASH: da97fb04cd310fc52df6cd1de4fbbc013de1ee17 | AUTHOR: Enlightenme | PARAS: 1
+  [0] Hi Edge, From your answer, UFL and LFL doesn't denote any significant difference from FL. It is just that UFL are FLs above price and LFL are FLs below price. Thank you for your reply.
+=== ID: academylite2_p3_64 | HASH: ec61542396e04ada6b0abd4b680a4117ebf866d4 | AUTHOR: Edge | PARAS: 3
+  [0] Oh but it does.There indeed can be a difference.
+  [1] The first FTR/Kink only needs to take out a "barrier" hit a TG to become a FL. The UFl/LFL NEEDS to take out an opposing FL
+  [2] For instance I place a lot more emphasis on a UFL/LFL as a opposed to a standard FL. I still respect standard FLs for TGs but I am more interested in a FL that has removed a an opposing FL, therefore making it a UFl/LFL. Check out Salivans journal. He likes FLs which occur after a FTR/FL (he uses ones which which have also held price. Once the new FL occurs, thats also a UFL/LFL
+=== ID: academylite2_p3_65 | HASH: c60656cd48b8d169e38ebcb8b6a651179051527f | AUTHOR: Enlightenme | PARAS: 6
+  [0] Edge wrote: Oh but it does.There indeed can be a difference.
+  [1] The first FTR/Kink only needs to take out a "barrier" hit a TG to become a FL. The UFl/LFL NEEDS to take out an opposing FL
+  [2] For instance I place a lot more emphasis on a UFL/LFL as a opposed to a standard FL. I still respect standard FLs for TGs but I am more interested in a FL that has removed a an opposing FL, therefore making it a UFl/LFL. Check out Salivans journal. He likes FLs which occur after a FTR/FL (he uses ones which which have also held price. Once the new FL occurs, thats also a UFL/LFL
+  [3] Lol. My bad. I should have thought about it carefully the first you mentioned it -
+  [4] Edge wrote: A FL occur occurs anytime a barrier is broken, retraces, and advances to hit an opposing TG. Ergo, it also Fails To Return. When price comes back in the opposite direction and takes out the FL, its once the MPL of the opposing FL is taken out that the new FL becomes a UFL or LFL (once it also hits its TG).
+  [5] It seems like UFL/LFL is of greater strength for price to ignore that level. Seems like what IF said sometime ago- broken Fls creating Fls... Thank you for correcting me.:)
+=== ID: academylite2_p3_66 | HASH: 83cac1655e30e1953b52f5cdc137cee973a209d4 | AUTHOR: Enlightenme | PARAS: 9
+  [0] Hi
+  [1] I understand that price bounces on FLs that are usually in key levels and therefore, they are special. However, for left shoulders in relation to QM, is it safe to assume
+  [2] 1. that the FLs broken to create the left shoulders (not the FL created after breaking the left shoulder) are insignificant and also are not in a key level? 2. and that the time frame to which the FLs broken to create the left shoulders belongs to is irrelevant?
+  [3] I am asking this as I found what I believe to be is a QM and I was tracing the possible FL broken to create the left shoulder. And just to be sure of the FL, I look further to the left to the possible SR it broke and the possible FL the SR reacted to. When I went to the LTF, it seems that the FL the SR reacted to is an FL, not in the form of a hiccup or the letter N, but of a single candle. I had no problem with this until I can't find the FL that was broken to create the LS and therefore, am now doubtful of the LS.
+  [4] Below are pictures for better understanding.
+  [5] Big picture
+  [6] It would be great if you guys can find and justify the FL that was broken to create the LS.
+  [7] 3. To resolve the confusion of an ENG or an SR, we look for the FL on the left. If we see an FL in the form of a hook or the letter N, it is an easy FL. However, if it is an FL in the form of a single M1 candle, I become doubtful due to the possibility that I may already have passed the FL as it is common to see hooks as FL. Therefore, is it correct to say that the best way to settle the matter is to see if the M1 candle is in a key level?
+  [8] Hope to get some feedbacks from IF and the guys:)
+=== ID: academylite2_p3_67 | HASH: e72b8eccf8111fd11868a461327d805c8538b9cc | AUTHOR: staurum | PARAS: 3
+  [0] i'm trying to understand this, but maybe my brain is stuck and not functioning well atm. One main issue i'm struggling with: this phrase here: "FLs broken to create the left shoulders (not the FL created after breaking the left shoulder)"
+  [1] my confusion: why would a Left Shoulder be created on a break of a FL?, then the difference between - a FL broken to create the LS - a FL after breaking the LS these two seems to be in a loop.
+  [2] I'm seeing this as a forextester trial trade run. Do you have a trade on this? and did it work or fail?
+=== ID: academylite2_p3_68 | HASH: 8e2ed953d4fd9754a1ca05b88e1a69158035b96f | AUTHOR: staurum | PARAS: 6
+  [0] I've just rewatched the lite course videos. and this thread relates to video no.2 "Where to look for PA" IF has clearly stated these points. Edge further reinstated them in "ignored levels' article.
+  [1] By now you would know that we trade at the limits of a flag which are the kinks of a barrier which have broken, Failed to Return (FTR) and met its first target. Once the first target has been met. It becomes a Flag Limit (FL)
+  [2] These barriers are;
+  [3] - The break into or out of Compression (extremes of CP) - Highs and Lows (S/R) - Left shoulders (LS)
+  [4] I just realised (maybe i noticed them before, but didnt pay "enough" attention) that IF has been giving all these away. Here are some:
+  [5] I've made just made one, where i wanna look for PAs. PA means: an engulf into a zone in which price hasnot hit its target, therefore providing us with a trade opp.
+=== ID: academylite2_p3_69 | HASH: 0d6ecb6a833df7c61766f4f58a1cfda6b7f1ed45 | AUTHOR: Enlightenme | PARAS: 4
+  [0] staurum wrote: my confusion: why would a Left Shoulder be created on a break of a FL?, then the difference between - a FL broken to create the LS - a FL after breaking the LS these two seems to be in a loop.
+  [1] I actually placed this "FLs broken to create the left shoulders (not the FL created after breaking the left shoulder)" so as to make the reader confuse one for the other hehe here is what I meant: - a FL broken to create the LS means the barrier broken is an FL and as we know, once an important level is broken and assuming it hits target, an FL is formed in this case it is also an LS. - a FL after breaking the LS means the barrier is an FL in this it is also an LS and as we know, once an important level is broken and assuming it hits target, an FL is formed. I hope that helps.:)
+  [2] staurum wrote: I'm seeing this as a forextester trial trade run. Do you have a trade on this? and did it work or fail?
+  [3] Yes the white rectangle bounced price. Price reacting to the white rectangle is where I saw the QM like pattern but I can't prove it because I can't find the important level the assumed LS is suppose to break for it to be an LS. I must be missing something which I hope you guys can point out.:)
+=== ID: academylite2_p3_70 | HASH: 98d30666bbbbb78ae8a7112a228ced20e641fb69 | AUTHOR: Enlightenme | PARAS: 2
+  [0] staurum wrote: I just realised (maybe i noticed them before, but didnt pay "enough" attention) that IF has been giving all these away. Here are some:
+  [1] If I am not wrong, this is the video where IF mentioned that the guys didn't want him showing the markings. I was so clueless back then... now just 1% less.
+=== ID: academylite2_p3_71 | HASH: 83655ec8b170bda010295313c0e4db2a381ba55d | AUTHOR: staurum | PARAS: 2
+  [0] well it is shown. lol.. i did say: "didnt pay enough attention" I was clueless too, but watching it a few times while doing a treadmill, believe me, it feels like IF's slowed-down words just open up some horizon.
+  [1] well back to your "FL vs LS", i feel like i'm brainless, an engulf hitting its target becomes a FL, to me, is not the same as a left shoulder, unless i'm missing some english comprehension skill here. and, Enl, when u said "I can't find the important level the assumed LS is suppose to break for it to be an LS", i'm lost. sorry. wont comment further on something i cant understand. I'd rather keep it simple.
+=== ID: academylite2_p3_72 | HASH: da5c2ad2e4da975e848f8b3e2c1cb90246ed1526 | AUTHOR: HCDE | PARAS: 1
+  [0] Hi everyone, I'm practicing my LS / RS level drawing skills and encountered a dilemma i've met many times so i'd like to get your external views on it. On below charts is a D1 LS for which i try to draw the kink (on M1). This is not the best LS i could find, i know but that's not what i'm searching, i'm searching for the correct way to draw the kink:
+=== ID: academylite2_p3_73 | HASH: 52ff563f8e1ecb65d1e855e577194dd03c70381f | AUTHOR: Enlightenme | PARAS: 2
+  [0] Hi Hcde,
+  [1] I also see that a lot of times. It is frustrating as it can reduce the reward significantly. Anyway, I also don't have a good analysis on that. Lets wait for the seniors.:)
+=== ID: academylite2_p3_74 | HASH: ebaef4124d037a5c1d2ac79abf71e4febcb84a13 | AUTHOR: staurum | PARAS: 2
+  [0] Hi HCDE, as to: choosing the kink, I would go with less aggressive option and treat the red box as the FL, and we can find the last set of orders in it, hence SL above red box.
+  [1] blue box of course can work too, but like IF said, we must manage our expectation, i.e. setting near targets in lower scale.
+=== ID: academylite2_p3_75 | HASH: 2a69419eba4c0ede844bd921b4c2403111885910 | AUTHOR: Enlightenme | PARAS: 2
+  [0] I just want to clarify my understanding of things.
+  [1] I can't print screen from the Vid2 so I just tried to replicate it through paint. So below I am wondering why the high and low (encircled in violet) wasn't marked despite breaking the low on its left. I suspect it is because the low wasn't an all time low unlike the one encircled in green broke. Am I right?
+=== ID: academylite2_p4_76 | HASH: 53142332dcff8601fce50ba4203b43c088d9e319 | AUTHOR: staurum | PARAS: 1
+  [0] Hi Enl, i can understand what you are talking about. I feel IF has explained it quite clearly. Maybe a good idea to rewind it and rewatch from the beginning IF opened that marked-up UCAD chart. It's not too far though because this area is at the beginning of his long explanation on the chart. hope it helps, in the meantime, let's hear friends have to say.:)
+=== ID: academylite2_p4_77 | HASH: eb002f3201dad586dac3ae9659bbc2212d579c20 | AUTHOR: zee | PARAS: 12
+  [0] Enlightenme wrote: Hi
+  [1] I understand that price bounces on FLs that are usually in key levels and therefore, they are special. However, for left shoulders in relation to QM, is it safe to assume
+  [2] 1. that the FLs broken to create the left shoulders (not the FL created after breaking the left shoulder) are insignificant and also are not in a key level? 2. and that the time frame to which the FLs broken to create the left shoulders belongs to is irrelevant?
+  [3] I am asking this as I found what I believe to be is a QM and I was tracing the possible FL broken to create the left shoulder. And just to be sure of the FL, I look further to the left to the possible SR it broke and the possible FL the SR reacted to. When I went to the LTF, it seems that the FL the SR reacted to is an FL, not in the form of a hiccup or the letter N, but of a single candle. I had no problem with this until I can't find the FL that was broken to create the LS and therefore, am now doubtful of the LS.
+  [4] Below are pictures for better understanding.
+  [5] Big picture
+  [6] It would be great if you guys can nd and justify the FL that was broken to create the LS.
+  [7] 3. To resolve the confusion of an ENG or an SR, we look for the FL on the left. If we see an FL in the form of a hook or the letter N, it is an easy FL. However, if it is an FL in the form of a single M1 candle, I become doubtful due to the possibility that I may already have passed the FL as it is common to see hooks as FL. Therefore, is it correct to say that the best way to settle the matter is to see if the M1 candle is in a key level?
+  [8] Hope to get some feedbacks from IF and the guys:)
+  [9] Hi,
+  [10] I think sometimes it helps to actually "replay" the history you are looking at and mark things in the making. Otherwise you might end up curvefitting FLs ( meaning trying to mark FLs so that all the highs are within, whereas engulfs sometimes happen ). Look at my markings on top of your chart. I'm not saying this is correct, but look at it again with this in mind, it might help!
+  [11] Cheers
+=== ID: academylite2_p4_78 | HASH: a1f63c174a380798358d7ee4f9300e646ecdbc0f | AUTHOR: Enlightenme | PARAS: 10
+  [0] staurum wrote: Hi Enl, i can understand what you are talking about. I feel IF has explained it quite clearly. Maybe a good idea to rewind it and rewatch from the beginning IF opened that marked-up UCAD chart. It's not too far though because this area is at the beginning of his long explanation on the chart. hope it helps, in the meantime, let's hear friends have to say.:)
+  [1] I watched the video again and I realized I may have left out a line. I added a yellow line to the my drawing.
+  [2] (41:00-42:30) Statement 1: (For the one encircled in violet in my drawing) IF said "This over here. Didn't make any PA as far as I can see. It didn't break the low of this (referring to all time low available at that time in the chart) and didn't really do anything back over there so its not terribly important. But what it can do is add confluence with....
+  [3] Statement 2: As for the lower one(encircled in green in my drawing), IF said "This one here did actually break that low. We'll have to look at fxtop if it actually did break a significant low. It might not be a flag limit in itself..... But if this the only information that we've got, then what we're gonna go is mark the damn thing."
+  [4] Statement 3: (Somewhere in the first half of the video) IF said he only cares about flags limits being created and destroyed.
+  [5] Again- the question was why wasn't the low marked (encircled in violet)? My guess: we only mark the high and low of that which broke the all time high and low?
+  [6] Statement 2 partially supports that. IF seems to have implied that it was marked because it broke the low. Of course we have to check whether it was a significant low with fxtop, but with the information provided it is a significant low. However, he goes on to to say that it might not be a flag limit in itself so now I think we must only mark those that break the flag limit.
+  [7] On the other hand statement 3 seems to support the latter implication of statement 2.
+  [8] Alright. So with statement 2 and statement 3. I have to come to conclusion that we only mark those that are flag limits (new highs or lows) from breaking all time highs and lows or other flag limits. Then again, wasn't the encircled in violet one?
+  [9] Please point out where I may have been wrong.
+=== ID: academylite2_p4_79 | HASH: 2a6ab71839152be50a52e4377060271e05483eb5 | AUTHOR: Enlightenme | PARAS: 2
+  [0] zee wrote: I think sometimes it helps to actually "replay" the history you are looking at and mark things in the making. Otherwise you might end up curvefitting FLs ( meaning trying to mark FLs so that all the highs are within, whereas engulfs sometimes happen ). Look at my markings on top of your chart. I'm not saying this is correct, but look at it again with this in mind, it might help!
+  [1] Oh yes. I do remember that from a previous analysis of that area. I referred to that as an an ENG but an unusable ENG as it reached TG. If I remember correctly, I dismissed the red FL in my previous analysis as I found it different and didn't proceed with further analysis. However, now that you have pointed it out, I felt I had no choice but to look into it and it was good you made me. Following the red FL confirmed my assumed LS... the ENG of LS... and therefore, the QM. Thanks.
+=== ID: academylite2_p4_80 | HASH: ffa94501a254cf5337281777306655fb819a249f | AUTHOR: Enlightenme | PARAS: 1
+  [0] Please give some feeback on post #78
+=== ID: academylite2_p4_81 | HASH: 4bf4b7a6b55c24d974073e7c1eb20531fbb69430 | AUTHOR: protrader2121 | PARAS: 1
+  [0] Hi i downloaded the video, I am only able to hear the voice but not able to see the screen, Please help...
+=== ID: academylite2_p4_82 | HASH: 282320c3e0fdc9511b5512375dc6a168b2731ca3 | AUTHOR: dengaima | PARAS: 3
+  [0] protrader2121 wrote: Hi i downloaded the video, I am only able to hear the voice but not able to see the screen, Please help...
+  [1] It in in exe format and it's safe, just click exe open it will open a new video loader. I've never heard of it before RTM, but apparently it's safe for copy issues. Meaning RTM materials are treated with discretion:)
+  [2] However, you could post a process that leads to this problem and maybe we can help you. Maybe screenshot or short videoclip might help
+=== ID: academylite2_p4_83 | HASH: 774549b15b33d9c00e917e10a831de75b5c8f168 | AUTHOR: protrader2121 | PARAS: 7
+  [0] Hi, thank you for your kind reply!
+  [1] I have attached the screenshots.
+  [2] 1- I downloaded the.exe file from browzer. 2 - Opened the file, i granted all the permission for the greenforce player to open 3- i gave the password 4- The player opened, but i can only hear the voice and i cannot see the screen
+  [3] measures that i took to solve the problem ( ultimately i couldnt slove the problem) - i tried to expand the window - saw if anything was wrong in the settings - i tried to download the same file from another system ( again the video dint come ) - from the other system (ie desktop), i tried to download the file via the cloud software ( again the video dint come)
+  [4] northing worked, or is there any additional application that i need to download inoder for it to function properly?
+  [5] pls help...
+  [6] ( Sry for the last picture, i wasnt able to prtscrn while the player was running... )
+=== ID: academylite2_p4_84 | HASH: 1beaa25ff382f87ac02592ca756243b0c5ed53f0 | AUTHOR: dengaima | PARAS: 11
+  [0] protrader2121 wrote: Hi, thank you for your kind reply!
+  [1] I have attached the screenshots.
+  [2] 1- I downloaded the.exe file from browzer. 2 - Opened the file, i granted all the permission for the greenforce player to open 3- i gave the password 4- The player opened, but i can only hear the voice and i cannot see the screen
+  [3] measures that i took to solve the problem ( ultimately i couldnt slove the problem) - i tried to expand the window - saw if anything was wrong in the settings - i tried to download the same file from another system ( again the video dint come ) - from the other system (ie desktop), i tried to download the file via the cloud software ( again the video dint come)
+  [4] northing worked, or is there any additional application that i need to download inoder for it to function properly?
+  [5] pls help...
+  [6] ( Sry for the last picture, i wasnt able to prtscrn while the player was running... )
+  [7] it seems you really have tried everything that I would have tried as well...I really have no idea, since mine just opens normally. When you downloaded, did you download through browser or mega's own software?
+  [8] What about another Lite video, how is that working?
+  [9] Here's mine:
+  [10] ufile.io/rbnei
+=== ID: academylite2_p4_85 | HASH: 99de9a2bece122e1981dd6eed6e79a5b258fb345 | AUTHOR: staurum | PARAS: 2
+  [0] we discussed some problems here readthemarket.com/index.php/en/forum/any...access-some-articles if not, you may PM Harry or Mertch.
+  [1] Cheers,
+=== ID: academylite2_p4_86 | HASH: 4b111720e37faa58d917ca9666d4f4bf74f323aa | AUTHOR: erdal | PARAS: 15
+  [0] dengaima wrote:
+  [1] protrader2121 wrote: Hi, thank you for your kind reply!
+  [2] I have attached the screenshots.
+  [3] 1- I downloaded the.exe file from browzer. 2 - Opened the file, i granted all the permission for the greenforce player to open 3- i gave the password 4- The player opened, but i can only hear the voice and i cannot see the screen
+  [4] measures that i took to solve the problem ( ultimately i couldnt slove the problem) - i tried to expand the window - saw if anything was wrong in the settings - i tried to download the same file from another system ( again the video dint come ) - from the other system (ie desktop), i tried to download the file via the cloud software ( again the video dint come)
+  [5] northing worked, or is there any additional application that i need to download inoder for it to function properly?
+  [6] pls help...
+  [7] ( Sry for the last picture, i wasnt able to prtscrn while the player was running... )
+  [8] it seems you really have tried everything that I would have tried as well...I really have no idea, since mine just opens normally. When you downloaded, did you download through browser or mega's own software?
+  [9] What about another Lite video, how is that working?
+  [10] Dengaima
+  [11] Here's mine:
+  [12] ule.io/rbnei
+  [13] If you don't get video, go to? (on the menu and select download codec) or go to this url www.codecguide.com/klcp_update.htm I've had this issue as well. It did solve after downloading and installing the codec.
+  [14] Good luck!
+=== ID: academylite2_p4_87 | HASH: 791ee3665edd404c792c16dbc1e659209b9e30e7 | AUTHOR: protrader2121 | PARAS: 4
+  [0] I was able to see the video after I downloaded the codec that was given by Harry in the discussion link given by staurum. www.techsmith.com/codecs.html i downloaded the TSC2 version. my problem is solved...
+  [1] thanks dengaima!
+  [2] !!
+  [3] and thank you staurum for the link......!!!
+=== ID: academylite2_p4_88 | HASH: 026e48858c9df6052e4be685f3a037574120ff1b | AUTHOR: protrader2121 | PARAS: 2
+  [0] Harry insisted to download the Techsmith codec instead of k-lite... here readthemarket.com/index.php/en/forum/any...access-some-articles Worked fine for me after i installed..
+  [1] thanks erdal!
+=== ID: academylite2_p4_89 | HASH: e52c773371e660ebdeb71b6c8213bfe4fdc2f10a | AUTHOR: Frosty | PARAS: 7
+  [0] Hi everyone,
+  [1] I've been watching video course #2 and have a basic question regarding the kinks.
+  [2] What I understand until now is that everything is based on FLs, which are the kinks. So in essence we could substitute the word "kink" in the place of "FL". Engulfing of a kink, creates a new kink, which in turn when engulfed, creates an even newer kink. That much I understand.
+  [3] In the video (I might misinterpret what IF is teaching), it seem to me that the drawn kink on the rightmost side bypassed every other kinks on the left (hence, pointing the concept of scenario 2 in my drawing above).
+  [4] What I understand until now is scenario 1, which is "the engulf of an FL creates an FL,...", i.e. we shift the boxes (FLs/Kinks) to adjust for the engulfs and retraces.
+  [5] My question then is, which is the more accurate representation of the LS kink? scenario 1 or 2?
+  [6] If a direct answer isn't in our best interest, then I would appreciate any form of guidance regarding this subject. Thank you all for you comments and guidance
+=== ID: academylite2_p4_90 | HASH: 5a8a2cbb9488226162d9fd10853e9128fd27075b | AUTHOR: staurum | PARAS: 1
+  [0] readthemarket.com/index.php/en/forum/tra...or-pa?start=50#64050
+=== ID: academylite2_p4_91 | HASH: a3194995fe37e453d65298c0216f737ce0566c20 | AUTHOR: HCDE | PARAS: 2
+  [0] That's a well put question Frosty. My mind isn't clear about it yet. But my best guess is that kind of of both your scenarios are right in some ways. I would say that Z is a kink (RS kink of W), Y is a kink too (RS kink of the last low it broke).
+  [1] But the problem with that is if you use that principles, almost everything on the chart is a kink.
+=== ID: academylite2_p4_92 | HASH: 38b76c9602815257cd0950a9a82d0aa0018eedf6 | AUTHOR: Frosty | PARAS: 8
+  [0] Hi HCDE,
+  [1] I have been wondering about your "almost everything on the chart is a kink" statement. In essence, yes that is what I'm currently struggling to understand.
+  [2] My noob educated guess: it is a matter of scale. Since in the video, IF mentioned there is a large kink and more precise smaller kinks on the particular LS (near the beginning of USD/CAD analysis)
+  [3] I've also read a question from EM to Edge about completed FLs. I went along the lines of "A 15 minute FL needs to touch the next 15 minute FL for it to be considered completed" (close to exact words, i believe).
+  [4] Bro Staurum also mentioned about managing expectations on the lower scale targets a few posts back.
+  [5] What I concluded, then, is that we should pick any HTF chart, mark the barriers, find the FLs/kinks in that scale, drop to LTF to find clean orders within the kinks, watch price come back to the kinks, wait for PA on that LTF, enter trade on retrace, set target on first target IN THAT LTF.
+  [6] So, I think to answer which are the right kinks for LSs, then we should first ask which TF the kinks belong to in the first place.
+  [7] Am I getting closer to the truth or did I just confuse myself there?
+=== ID: academylite2_p4_93 | HASH: f72a64d4b7a45fda5eed0e491065d3beb0e18a85 | AUTHOR: HCDE | PARAS: 4
+  [0] Frosty wrote: What I concluded, then, is that we should pick any HTF chart, mark the barriers, find the FLs/kinks in that scale, drop to LTF to find clean orders within the kinks, watch price come back to the kinks, wait for PA on that LTF, enter trade on retrace, set target on first target IN THAT LTF.
+  [1] So, I think to answer which are the right kinks for LSs, then we should first ask which TF the kinks belong to in the first place.
+  [2] Am I getting closer to the truth or did I just confuse myself there?
+  [3] No i do agree with you. But that's easier said than done Actually, analyzing the past is the easiest thing for me, but finding PA on arrival is really complicated... Not mixing up scales is very complicated, i'm struggling with that too.
+=== ID: academylite2_p4_94 | HASH: e15410315d9ce14d78c9eaaae5f80ec5c69a9971 | AUTHOR: PinkPanter | PARAS: 3
+  [0] i am trying to use knowleage from 2. video.
+  [1] i came with this... i find important LS and with use of UFL AND LFL i find the same place to trade like if i use only LS kink
+  [2] BTW i think that this LFL is already consumed...
+=== ID: academylite2_p4_95 | HASH: 2bdf1f8acc2defb7e3d033d22d5d777a8a3e65bd | AUTHOR: kiuvs | PARAS: 2
+  [0] Dear RTM folks, I am new here. When I tried to open the exe application, it says Expired date... cannot load media. Anyone has encountered this issue?
+  [1] Thanks
+=== ID: academylite2_p4_96 | HASH: c11071cbd8fcf2533cd019ef0a3ce7821d817f84 | AUTHOR: dengaima | PARAS: 4
+  [0] kiuvs wrote: Dear RTM folks, I am new here. When I tried to open the exe application, it says Expired date... cannot load media.
+  [1] Anyone has encountered this issue?
+  [2] Yeah I also have the same problem
+  [3] Thanks
+=== ID: academylite2_p4_97 | HASH: 1686c535edb8511f5624e46eebe269c2c109ebef | AUTHOR: Harry | PARAS: 1
+  [0] Hi guys. Yes the videos expired. I am upping them again now and could take a few hours. You will need to download them again from the relative article in Markepedia (new links and password) I will post again when they are done.
+=== ID: academylite2_p4_98 | HASH: e70a756247e7ab81904c6744699befe904647911 | AUTHOR: alfred05241 | PARAS: 5
+  [0] Hi Guys:-h
+  [1] I just recently back to RTM, hope someone can help clear my confusion. Regarding part 2 video, IF mention places to mark to wait for PA. (LS, PCP, RS, Break into CP) and latter IF show a marked up USDCAD monthly chart with Highs & Lows line drawn.
+  [2] Question: So for starter, we basically just mark the highs & lows from monthly down to LTF?and look the latest LS kink/ RS kink for further PA?
+  [3] Any guidance would be much appreciate. TQ
+  [4] Alfred
+=== ID: academylite2_p4_99 | HASH: 35a68748b609afc92b2f64cf0a28ff71c97bb670 | AUTHOR: Astrokillah | PARAS: 4
+  [0] Yes, you can do exactly what you have just described. However, trading is not only about picking the best entries. You need to be realistic with your target. Most of the time you will get a bounce, but do not expect every monthly kink to give 1000 pips bounce every time. Identify your conservative target, take partial profit, and let the remaining position run.
+  [1] alfred05241 wrote: Question: So for starter, we basically just mark the highs & lows from monthly down to LTF?and look the latest LS kink/ RS kink for further PA?
+  [2] Any guidance would be much appreciate. TQ
+  [3] Alfred
+=== ID: academylite2_p4_100 | HASH: 93202aa5b37a2bf2064469730930ea5463b73996 | AUTHOR: nsikandar | PARAS: 10
+  [0] I agree HCDE, I also struggle sometimes to find the right PA on approach to our PCP/LS/FTR and all of them ignored FLs
+  [1] I think the confusion comes from trying to maintain the zones at that particular time frame. For example, If we have our zones and PAZs on H1 then there might be hidden LTF zones in M30 or lower which are not visible on H1 that bounced price but we think it was PA. But those LTF zones might be less significant to hold price so I then avoid them.
+  [2] I assume it's a factor of looking for the PA opportunities with tight SL on RT and higher RR than 1:1.
+  [3] HCDE wrote:
+  [4] Frosty wrote: What I concluded, then, is that we should pick any HTF chart, mark the barriers, find the FLs/kinks in that scale, drop to LTF to find clean orders within the kinks, watch price come back to the kinks, wait for PA on that LTF, enter trade on retrace, set target on first target IN THAT LTF.
+  [5] So, I think to answer which are the right kinks for LSs, then we should first ask which TF the kinks belong to in the first place.
+  [6] Am I getting closer to the truth or did I just confuse myself there?
+  [7] No i do agree with you. But that's easier said than done Actually, analyzing the past is the easiest thing for me, but nding PA on arrival is really complicated... Not mixing up scales is very complicated, i'm struggling with that too.
+  [8] Trading Articles discussions
+  [9] Academy Lite, Part 2. Where to look

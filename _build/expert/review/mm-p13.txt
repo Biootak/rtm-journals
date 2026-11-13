@@ -1,0 +1,51 @@
+### mm_p13_1
+EN: EURJPY
+FA: EURJPY
+
+### mm_p13_2
+EN: USDCHF
+FA: USDCHF
+
+### mm_p13_3
+EN: AUDCAD
+FA: AUDCAD
+
+### mm_p13_4
+EN: EURJPY
+FA: EURJPY
+
+### mm_p13_5
+EN: Madmoney wrote: GBPJPY SL hit
+FA: Madmoney نوشت: GBPJPY. استاپ‌لاس فعال شد.
+
+### mm_p13_10
+EN: You made all correct....forget - should........your words....
+FA: همه را درست انجام دادی.... «باید» را فراموش کن........حرف‌های خودت....
+
+### mm_p13_11
+EN: Kovalenko wrote: You made all correct....forget - should........your words....
+
+Your acknowledgment/confirmation is very important to people like myself, I'll stay on this track Thank you Kovalenko!
+FA: Kovalenko نوشت: همه را درست انجام دادی.... «باید» را فراموش کن........حرف‌های خودت....
+
+تأیید و تصدیق تو برای افرادی مثل من بسیار مهم است؛ من در همین مسیر می‌مانم. ممنون Kovalenko!
+
+### mm_p13_16
+EN: Madmoney wrote:
+FA: Madmoney نوشت:
+
+### mm_p13_17
+EN: Madmoney wrote:
+FA: Madmoney نوشت:
+
+### mm_p13_18
+EN: Hi MM for Usdcad, Not only we have the same Exact entry, we also have the exact same exit. what a same world we are in
+FA: سلام MM، درباره Usdcad، نه فقط ورودمان مو به مو یکی است، خروجمان هم دقیقاً یکی است. عجب دنیای کوچکی!
+
+### mm_p13_19
+EN: Madmoney wrote:
+FA: Madmoney نوشت:
+
+### mm_p13_25
+EN: Madmoney wrote:
+FA: Madmoney نوشت:

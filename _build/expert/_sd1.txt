@@ -1,0 +1,417 @@
+===== supplydemand-p1.json | 54250299da2d360ee8c95bd1d8316f2bdfc6d60f | supplydemand_p1_1
+--- EN ---
+Supply and Demand, Support and Resistance, and Price Action are the very basis of everything we do in trading. So, which came first, S/D or PA? Or of course, S/R To me, there's no difference between them. Both are simply decisions made on the value of an asset and what happens to price when it returns to these decision points. Price simply bounces from decision point to decision point. Take a look at this video to see what I mean
+
+I truly hope this video has shown you how unbelievably simple it is to grasp price dynamics. And the great thing is, it works (more often than not) in every timeframe, on every pair!
+--- FA (current) ---
+عرضه و تقاضا، حمایت and مقاومت و PA همان پایهٔ همهٔ آن چیزی است که ما در معامله‌گری انجام می‌دهیم. پس کدام اول آمده است، S/D یا PA؟ یا البته S/R. به نظرم هیچ فرقی بینشان نیست. هر دو صرفاً تصمیم‌هایی هستند که بر مبنای ارزش یک دارایی و آنچه به قیمت اتفاق می‌افتد وقتی به این نقاط تصمیم بازمی‌گردد، گرفته می‌شوند. قیمت به‌سادگی از یک نقطهٔ تصمیم به نقطهٔ تصمیم بعدی پرش می‌کند. این ویدئو را ببین تا منظوری را که می‌گویم بفهمی
+
+واقعاً امیدوارم این ویدئو نشان داده باشد که درک دینامیک قیمت به‌طرز غیرقابل‌باوری ساده است. و نکتهٔ بزرگ این است که این روش (در بیشتر موارد) در هر تایم‌فریم و روی هر جفت کار می‌کند!
+
+===== supplydemand-p1.json | 104f4ecf67dbf92fe437f22cd63ea57d3c7f1f35 | supplydemand_p1_16
+--- EN ---
+Hi all.
+
+It's great to see you all digging in so quickly:)
+
+I've moved all trading subtopics in here to make life easier for us all. This is one of the really important rooms, where we work as a team. So we won't split up our trading - we'll keep it together
+
+If you have a nice setup in the Setups Room, remind us all when it's on approach. This will help me alot, as I have yet to look at the charts today:P
+
+Best
+
+If
+--- FA (current) ---
+سلام به همه.
+
+خیلی خوب است که همه این‌قدر زود درگیر شده‌اید :)
+
+همهٔ زیردیالوگ‌های معامله را به اینجا منتقل کرده‌ام تا زندگی برای همه‌مان راحت‌تر شود. این یکی از اتاق‌های واقعاً مهم است، جایی که ما مثل یک تیم کار می‌کنیم. پس معامله‌های خود را تقسیم نمی‌کنیم - همه را یکجا نگه می‌داریم
+
+اگر در اتاق ستاپ‌ها یک ستاپ خوب دیدی، وقتی نزدیک شد به همه یادآوری کن. این به من خیلی کمک می‌کند، چون هنوز امروز چارت‌ها را نگاه نکرده‌ام :P
+
+موفق
+
+If
+
+===== supplydemand-p1.json | d6ecf0b55514a23b35ac3b116415a38e1814205b | supplydemand_p1_21
+--- EN ---
+looking for a short.
+
+Watching more and more forScythe(?) patterns.
+
+Maybe the term "failed flag" would be better. In this case a pole followed by a lower top near supply.
+
+ps. sry for the slow post. Getting used to the new playground:pip:
+--- FA (current) ---
+دنبال یک شورت هستم.
+
+بیشتر و بیشتر به دنبال الگوهای Scythe(?) می‌گردم.
+
+شاید اصطلاح «failed flag» بهتر باشد. در این حالت یک پایل و بعد یک سقف پایین‌تر نزدیک عرضه.
+
+ps. متأسفم پست دیر شد. در حال عادت کردن به زمین‌بازی جدید هستم :پیپ:
+
+flagged in file: 3
+===== supplydemand-p3.json | 5fc360ac6790ee88fa871d089cb8c0990ee0cb8b | supplydemand_p3_62
+--- EN ---
+Harry wrote: poss QM in EU M5?
+
+Hi Harry, don't forget where we look for QMs - at HTF zones. That was at supply, so I'd rather call it an engulf south of minor demand at supply
+
+Best
+
+If
+--- FA (current) ---
+Harry نوشت: شاید QM روی تایم‌فریم M5 در EUR/USD؟
+
+سلام Harry، یادت باشد QMها را کجا پیدا می‌کنیم - در ناحیه‌های HTF. این روی عرضه بود، پس ترجیح می‌دهم به آن یک اینگالف در جنوب تقاضا جزئی در عرضه بگویم
+
+موفق
+
+If
+
+flagged in file: 1
+===== supplydemand-p4.json | 984af17a897380b0c03b8ba38e1d0df7f98aaa18 | supplydemand_p4_80
+--- EN ---
+M5 QM in Aussie, fancy 1.0312 see previous M1 chart
+--- FA (current) ---
+QM در M5 روی Aussie، 1.0312 را دوست دارم، چارت قبلی M1 را ببین
+
+===== supplydemand-p4.json | 445c69da6c4e8a49089eede90157dd31db28ccd2 | supplydemand_p4_81
+--- EN ---
+hometrading wrote: M5 QM in Aussie, fancy 1.0312 see previous M1 chart
+
+You're QM level coming up. I'm looking at it too. Will get in a little earlier though.
+--- FA (current) ---
+hometrading نوشت: QM در M5 روی Aussie، 1.0312 را دوست دارم، چارت قبلی M1 را ببین
+
+سطح QM تو دارد نزدیک می‌شود. من هم نگاهش می‌کنم. ولی کمی زودتر وارد می‌شوم.
+
+===== supplydemand-p4.json | b21cbe009dc020ed8478c6124064782b88d3c7bf | supplydemand_p4_82
+--- EN ---
+hometrading wrote: M5 QM in Aussie, fancy 1.0312 see previous M1 chart
+
+There is one thing seeing the setup and one thing pulling trigger, forgot number 2. Price touched 12, will see where it's heading. Hope you got in Pedini - easy 10 pips thus far
+--- FA (current) ---
+hometrading نوشت: QM در M5 روی Aussie، 1.0312 را دوست دارم، چارت قبلی M1 را ببین
+
+یکی دیدن ستاپ است و یکی ماشه را کشیدن؛ شمارهٔ دو را فراموش کردم. قیمت به 12 خورد، ببینیم کجا می‌رود. امیدوارم وارد شده باشی Pedini — تا اینجا 10 پیپ راحت
+
+===== supplydemand-p4.json | 3a10bbb1c434921f291000ef074d4e5c28171e31 | supplydemand_p4_83
+--- EN ---
+hometrading wrote:
+
+hometrading wrote: M5 QM in Aussie, fancy 1.0312 see previous M1 chart
+
+There is one thing seeing the setup and one thing pulling trigger, forgot number 2.
+
+Price touched 12, will see where it's heading.
+
+Hope you got in Pedini - easy 10 pips thus far
+
+Yeh, I set a pending - but my broker didn't trigger it, so i took it manually. Will set a BE if we break todays lows.
+--- FA (current) ---
+hometrading نوشت:
+
+hometrading نوشت: QM در M5 روی Aussie، 1.0312 را دوست دارم، چارت قبلی M1 را ببین
+
+یکی دیدن ستاپ است و یکی ماشه را کشیدن؛ شمارهٔ دو را فراموش کردم.
+
+قیمت به 12 خورد، ببینیم کجا می‌رود.
+
+امیدوارم وارد شده باشی Pedini — تا اینجا 10 پیپ راحت
+
+آره، یک سفارش معلق گذاشتم — ولی بروکرم اجرایش نکرد، پس دستی گرفتم. اگر کف‌های امروز بشکند، BE می‌گذارم.
+
+flagged in file: 4
+===== supplydemand-p5.json | 93e1dc4d1a5c640361f226533fd35c952362d419 | supplydemand_p5_102
+--- EN ---
+MitchWorse wrote: Hopefully the pingpong lasts until 1.2282(TG):)
+
+On tablet, so no chart. But i'm sure you can find the decision @1.2283. Planning that current PA provides a flag.
+
+Not a flag but it got there.
+
+Now reverse and make my day.
+
+Contemplating an overnight short B)
+--- FA (current) ---
+MitchWorse نوشت: امیدوارم بازی پینگ‌پنگ تا 1.2282 (TG) ادامه پیدا کند :)
+
+روی تبلتم، پس چارت ندارم. ولی مطمئنم می‌توانی تصمیم را در 1.2283 پیدا کنی. برنامه‌ریزی می‌کنم که PA فعلی یک flag فراهم کند.
+
+flag نیست ولی به آنجا رسید.
+
+حالا برعکسش را بزن تا روزم را بسازی.
+
+در فکر یک شورت شبانه هستم B)
+
+===== supplydemand-p5.json | d5b22f38f771811b95fb7662f3cabf4520926a96 | supplydemand_p5_103
+--- EN ---
+Hi MitchWorse, im doing QM homework now and i still dont get it enough. its acceptable qm formation on your chart? its looks for me more like double bottom at all. you have L,H,LL,HH - fully agreed but the "trigger arm" is noticeably lower than first low. its ok for that formation? if yes, i could find a lot more formations so far. maybe be purist is not necessary... btw. what means "LQ"? /thanks
+--- FA (current) ---
+سلام MitchWorse، من الان دارم تمرین QM انجام می‌دهم و هنوز آن را به‌اندازهٔ کافی نفهمیده‌ام. آیا این یک formation معتبر QM در چارت توست؟ برای من بیشتر شبیه double bottom است. تو L، H، LL، HH را داری - کاملاً موافقم ولی «trigger arm» به‌طور قابل‌توجهی پایین‌تر از low اول است. این برای آن formation درست است؟ اگر بله، تا اینجا می‌توانم formation‌های خیلی بیشتری پیدا کنم. شاید لازم نیست سفت‌وسخت pure بود. ضمناً. «LQ» یعنی چه؟ /ممنون
+
+===== supplydemand-p5.json | 1240e71f902f1a9aa4e02991ed723647c07f3684 | supplydemand_p5_104
+--- EN ---
+Hey!
+
+As long as the "trigger" doesn't make another LL i'm anticipating a reversal. The most important is the HH(buyers made a statement: "We're here, come and get us!"). If sellers then can't push it below the LL, the odds are with the buyers.(consuming supply i.e. clearing the way up)
+
+Some place pending orders at the L-price with a stop just below LL.
+
+Another thing to keep in mind is that the QM is a reversal pattern. It has to follow a strong move imho.
+
+LQ = LiQuidity after CP into a nearby S/D(exhaustion spike) (all these terms:P)
+--- FA (current) ---
+سلام!
+
+تا وقتی «trigger» یک LL دیگر نساخته است منتظر یک برگشت هستم. مهم‌ترین چیز HH است (خریداران اعلام کردند: «ما اینجاییم، بیا سراغ ما!»). اگر فروشندگان بعد نتوانند آن را زیر LL ببرند، شانس با خریداران است. (مصرف Supply یعنی پاک کردن مسیر به سمت بالا)
+
+بعضی‌ها در قیمت L با استاپ درست زیر LL سفارش معلق می‌گذارند.
+
+چیز دیگری که باید در نظر داشته باشی این است که QM یک الگوی برگشتی است. به نظرم باید بعد از یک حرکت قوی بیاید.
+
+LQ = نقدینگی بعد از CP در یک S/D نزدیک (شوک فرسودگی) (همهٔ این اصطلاحات :P)
+
+===== supplydemand-p5.json | 531ba5aeef45529cdb51a98ce64d3786459a7f30 | supplydemand_p5_106
+--- EN ---
+fxgangstah wrote: ping pong in session... how long can this last?
+
+Here is where the trade stands... my TP is around 350ish area before it hits massive supply area around 360/370 - what do you think? might take half if we hit 330...
+--- FA (current) ---
+fxgangstah نوشت: پینگ‌پنگ در سشن... این چقدر می‌تواند ادامه پیدا کند؟
+
+این هم وضعیت فعلی معامله... تارگت من حدود 350 تا است قبل از اینکه به ناحیهٔ Supply عظیم اطراف 360/370 برسد - نظرت چیست؟ شاید نصف را بگیرم اگر به 330 رسید...
+
+===== supplydemand-p5.json | b161bd1205cf4e26861d1a7098d2d5de54c7c2d3 | supplydemand_p5_107
+--- EN ---
+Ifmyante wrote: Your new look is LOVELY:)
+
+Thanks:) I'm trying to get used to it... Very late entry as I thought it would retest M15 PB rejection candle
+--- FA (current) ---
+Ifmyante نوشت: شکل جدیدت LOVELY است :)
+
+ممنون :) دارم سعی می‌کنم به آن عادت کنم... ورود خیلی دیر بود چون فکر می‌کردم کندل ردِ rejection روی M15 PB را دوباره تست می‌کند
+
+===== supplydemand-p5.json | b9260da681ed4662857b8cc6d456f321b40a740a | supplydemand_p5_108
+--- EN ---
+Here we have GU coming out of a daily supply, have the two decision areas marked, which one would you choose? I'll go for the lower one but would like to know your opinions.
+
+Thx! Os.
+--- FA (current) ---
+اینجا GU را داریم که از یک Supply روزانه بیرون آمده، دو ناحیهٔ تصمیم را علامت زده‌ام، کدام را انتخاب می‌کنی؟ من ناحیهٔ پایین‌تر را برمی‌دارم ولی دوست دارم نظرتان را بدانم.
+
+ممنون! Os.
+
+===== supplydemand-p5.json | 38a195aa8a2abaf00d97fdc40e59c9b3934e4a4b | supplydemand_p5_111
+--- EN ---
+trying new stuffs
+
+simply confluence within sd and tls
+--- FA (current) ---
+دارم چیزهای جدیدی امتحان می‌کنم
+
+صرفاً confluence داخل S/D و trendlineها
+
+===== supplydemand-p5.json | f6e82f1bec5ade37ae962bf45382fe18cc8e2472 | supplydemand_p5_112
+--- EN ---
+As you probably noticed it, this is my edge. Enjoy man, it is freaking fun.
+
+alterchristo wrote: simply confluence within sd and tls
+--- FA (current) ---
+احتمالاً متوجهش شده‌ای، این همان edge من است. لذت ببر مرد، واقعاً fun است.
+
+alterchristo نوشت: صرفاً confluence داخل S/D و trendlineها
+
+===== supplydemand-p5.json | d488cb2f8c913c8f05147f95847e39954b583f59 | supplydemand_p5_113
+--- EN ---
+Why the stalling? here you go. "Time to decide" as would say If. No randomness. U just need to finf what they re looking at.
+--- FA (current) ---
+چرا مکث کرده؟ بیا. «وقت تصمیم‌گیری است» همان‌طور که If می‌گوید. هیچ تصادفی در کار نیست. فقط باید پیدا کنی به چه چیزی نگاه می‌کنند.
+
+===== supplydemand-p5.json | d48c61fd3a932d260be8d372fb685e921e139693 | supplydemand_p5_114
+--- EN ---
+Emene wrote: As you probably noticed it, this is my edge. Enjoy man, it is freaking fun.
+
+alterchristo wrote: simply confluence within sd and tls
+
+Cheers M,
+
+will never be able to do it without your help.
+--- FA (current) ---
+Emene نوشت: احتمالاً متوجهش شده‌ای، این همان edge من است. لذت ببر مرد، واقعاً fun است.
+
+alterchristo نوشت: صرفاً confluence داخل S/D و trendlineها
+
+درود M،
+
+بدون کمک تو هرگز نمی‌توانستم این کار را بکنم.
+
+===== supplydemand-p5.json | a29bcfda6256dec6507e4611b55fddc549395749 | supplydemand_p5_116
+--- EN ---
+UE buy: flag, decision point (S/R) retest.
+--- FA (current) ---
+خرید UE: flag، بازآزمایی نقطهٔ تصمیم (S/R).
+
+===== supplydemand-p5.json | 6531c1a1dd8082fadec3bf2e149daa4da050018f | supplydemand_p5_124
+--- EN ---
+Decision point at Demand. Watching closely. Very tight stop.... This could get us right back up there and on the way to 1.24..
+
+EDIT: Or NOT!! Out @ BE!!
+--- FA (current) ---
+نقطهٔ تصمیم روی Demand. دقیق تماشا می‌کنم. استاپ خیلی محکم.... این می‌تواند ما را دوباره بالا ببرد و در راهِ 1.24 باشد..
+
+EDIT: یا شاید نه!! روی BE بیرون آمد!!
+
+flagged in file: 12
+===== supplydemand-p6.json | 6c3e38e4854562825c9381708502d80f612de130 | supplydemand_p6_127
+--- EN ---
+Altought we are in D and W demand I will look for a short. Daily looks compressed, we broke 4H flag and there is decission taken on a 30 min chart where i want to sell. Will see.
+--- FA (current) ---
+با اینکه در Demand در تایم‌فریم D و W هستیم، دنبال شورت خواهم بود. Daily فشرده به نظر می‌رسد، flag در H4 را شکستیم و تصمیمی روی چارت 30 دقیقه‌ای گرفته شده که می‌خواهم بفروشم. می‌بینیم.
+
+===== supplydemand-p6.json | 14140448a951134f0116ed91b75cbbf4e62b527c | supplydemand_p6_131
+--- EN ---
+wow emene really nice!very simple and clear. the cp+L to supply might turn this trade to be a big catch for you. GL!
+--- FA (current) ---
+واو emene واقعاً قشنگ! خیلی ساده و واضح. CP + L به Supply ممکن است این معامله را به یک شکار بزرگ برای تو تبدیل کند. GL!
+
+===== supplydemand-p6.json | 2be45574b1773d411af2aa6c58a1907eacf81ccd | supplydemand_p6_133
+--- EN ---
+Cable and looking for a rebound from zone to retest broken trend then dropping to next demand.
+--- FA (current) ---
+Cable و دنبال یک برگشت از ناحیه برای بازآزمایی ترند شکسته و بعد افت به Demand بعدی.
+
+===== supplydemand-p6.json | 44a1e7c4de3ed8ada5fb9ad7deb3dc41184996ec | supplydemand_p6_136
+--- EN ---
+That was a great video If, as all your other ones. I feel like I am at a weird point in my analysis where I can see decisions everywhere but then it creates confusion more than clarity. These types of videos really help.
+
+You're a real motivator because I see all this time you are dedicating on top of your trading yet I haven't posted in the homework section yet. Time to step up to 'IF MODE'.
+--- FA (current) ---
+آن ویدئوی فوق‌العاده‌ای بود If، مثل همهٔ ویدئوهای دیگر تو. احساس می‌کنم در نقطهٔ عجیبی از تحلیل هستم که می‌توانم تصمیم‌ها را همه‌جا ببینم ولی بعد بیشتر سردرگمی ایجاد می‌کند تا وضوح. این نوع ویدئوها واقعاً کمک می‌کنند.
+
+تو یک انگیزه‌دهندهٔ واقعی هستی چون می‌بینم این‌قدر وقت برای آن کنار معاملاتت اختصاص می‌دهی ولی هنوز در بخش homework پست نکرده‌ام. وقت آن است که وارد «IF MODE» شوم.
+
+===== supplydemand-p6.json | 4ffbd9f73149f780f9d0bdd5ab80d2a3b63e0e33 | supplydemand_p6_138
+--- EN ---
+Mr Sniffer, I like how you use trend lines to find confluence.
+
+Something I'm going to try and do more of. Have just gone back through some charts and ( especially if it's an obvious trendline from higher TF - 1 hour and above ) it really can help you choose which Zone to go for.
+
+you know when you have that question of - hmmm do i trade he S/R flip or the supply zone above it? - this happens to me all the time.
+
+Cheers
+
+Seb
+--- FA (current) ---
+Mr Sniffer، دوست دارم ببینم چطور از trendlineها برای پیدا کردن confluence استفاده می‌کنی.
+
+کاری که می‌خواهم بیشتر انجامش بدهم. چند چارت را دوباره بررسی کردم و (مخصوصاً اگر trendline از تایم‌فریم بالاتر باشد - 1 ساعت و بالاتر) واقعاً می‌تواند کمکت کند کدام Zone را انتخاب کنی.
+
+موقعی که این سؤال را داری می‌دانی - هوممم روی S/Rِ flip معامله کنم یا ناحیهٔ Supply بالای آن؟ - این برای من همیشه اتفاق می‌افتد.
+
+درود
+
+Seb
+
+===== supplydemand-p6.json | 0d165453ba01ccb6bf63c4c31e9523ececa33f96 | supplydemand_p6_139
+--- EN ---
+Sebastiaan76 wrote: Mr Sniffer, I like how you use trend lines to find confluence
+
+hey Seb, yes diagonal lines are very helpful as much as any horizontal S/R line, we use lines for everything even when we locate price patterns on chart. For a trend reversal signs i use peaks & troughs in confluence with trend lines if applicable.
+
+Cheers,
+--- FA (current) ---
+Sebastiaan76 نوشت: Mr Sniffer، دوست دارم ببینم چطور از trendlineها برای پیدا کردن confluence استفاده می‌کنی
+
+سلام Seb، بله خطوط مورب به‌اندازهٔ هر خط S/R افقی مفید هستند، ما برای همه‌چیز از خط استفاده می‌کنیم حتی وقتی الگوهای قیمتی را روی چارت پیدا می‌کنیم. برای نشانه‌های برگشت ترند از قله‌ها و کف‌ها در confluence با trendlineها استفاده می‌کنم اگر применی باشد.
+
+درود،
+
+===== supplydemand-p6.json | 97124909fb5b11a8dc6c9d9bbe9d857444ef4a08 | supplydemand_p6_140
+--- EN ---
+okami wrote: A investigation on the eu M1 Ifmyante video of yesterday. Why price didn't make it to the last "too expensive" point?
+
+And they say the LTFs are just noise........................
+
+Even the tick chart is running from decision to decision:P
+--- FA (current) ---
+okami نوشت: یک تحقیق روی ویدئوی دیروز Ifmyante در EUR/USD تایم‌فریم M1. چرا قیمت به آخرین نقطهٔ «بیش از حد گران» نرسید؟
+
+و می‌گویند LTFها فقط نویز هستند........................
+
+حتی چارت tick هم از تصمیم به تصمیم می‌دود :P
+
+===== supplydemand-p6.json | a4b979075b701a0cbe68c9cfd1e5cad046c00928 | supplydemand_p6_142
+--- EN ---
+Ifmyante wrote:
+
+okami wrote: A investigation on the eu M1 Ifmyante video of yesterday. Why price didn't make it to the last "too expensive" point?
+
+And they say the LTFs are just noise........................
+
+Even the tick chart is running from decision to decision:P
+
+Well, that was the 70 tick chart. Maybe better to take a look to the lower TFs. So Here we have it, mates: the "randomness" of the 1 tick chart.
+--- FA (current) ---
+Ifmyante نوشت:
+
+okami نوشت: یک تحقیق روی ویدئوی دیروز Ifmyante در EUR/USD تایم‌فریم M1. چرا قیمت به آخرین نقطهٔ «بیش از حد گران» نرسید؟
+
+و می‌گویند LTFها فقط نویز هستند........................
+
+حتی چارت tick هم از تصمیم به تصمیم می‌دود :P
+
+خب، آن چارت 70 تیک بود. شاید بهتر باشد به تایم‌فریم‌های پایین‌تر نگاه کنیم. پس این است رفقا: «تصادفی بودن» چارت 1 تیک.
+
+===== supplydemand-p6.json | 1b564c3d3b619661eef2a4174644a5b01c7699c3 | supplydemand_p6_143
+--- EN ---
+on the first 2 pics here www.acegazette.com/en/forum/10-homework-...ession-homework.htmli had GU and oil P areas marked. GU went through it fine. oil is near. i know slow heads up but just woke up.
+--- FA (current) ---
+روی 2 عکس اول اینجا www.acegazette.com/en/forum/10-homework-...ession-homework.html نواحی GU و oil P را علامت زده بودم. GU از آن بدون مشکل عبور کرد. oil نزدیک است. می‌دانم دید زودهنگام است ولی تازه بیدار شده‌ام.
+
+===== supplydemand-p6.json | ee0e56d6ebb351ea9d922571459a1705063a21ac | supplydemand_p6_145
+--- EN ---
+Ifmyante wrote: We may very well get some symmetry on the right
+
+Hi If,
+
+do you mean by simmetry that, now that price has broken the decision point marked as the upper red line, it could make the same thing (the indecision blue box) that did when it broken the first red line?
+
+Thanks
+--- FA (current) ---
+Ifmyante نوشت: خیلی ممکن است symmetryای در سمت راست ببینیم
+
+سلام If،
+
+منظورت از symmetry این است که حالا که قیمت نقطهٔ تصمیمی را که با خط قرمز بالایی علامت خورده شکسته، ممکن است همان کار را بکند (کادر آبیِ بی‌تصمیمی) که وقتی خط قرمز اول را شکست انجام داد؟
+
+ممنون
+
+===== supplydemand-p6.json | a2aac3e3c17cbffd0f3c41ce08755a45420593dd | supplydemand_p6_147
+--- EN ---
+closed gold in demand zone.
+--- FA (current) ---
+طلا را در ناحیهٔ Demand بستم.
+
+===== supplydemand-p6.json | 5e7d6059dcf986222b9752a787a2e3f6ac21b0da | supplydemand_p6_149
+--- EN ---
+Ken wrote: I was going to post this earlier but been held back by other stuff..
+
+I like to hear your views.. how you'd analyze 3 gu shorts.. entries and exits.. what u see.. would u have taken these trades on and so on..
+
+hi ken
+
+..don't understand the first entry honestly speaking [or higher or lower timeframe], the big demand could work like a magnet for price...but as emene said me one time in this case MM is the gold rule...so question is how much y risked in % and where was the stop?
+--- FA (current) ---
+Ken نوشت: می‌خواستم این را زودتر پست کنم ولی کارهای دیگه‌ای مانع شد..
+
+دوست دارم نظراتت را بشنوم.. چطور 3 شورت GU را تحلیل می‌کنی.. ورودها و خروج‌ها.. چه می‌بینی.. آیا این معامله‌ها را می‌گرفتی و این چیزها..
+
+سلام ken
+
+..راستش اولین ورود را نفهمیدم [یا تایم‌فریم بالاتر یا پایین‌تر]، Demand بزرگ می‌تواند مثل آهنربا برای قیمت عمل کند... ولی همان‌طور که emene یک بار به من گفت در این حالت MM قانون طلایی است... پس سؤال این است که چند درصد ریسک کردی و استاپ کجا بود؟
+
+flagged in file: 12

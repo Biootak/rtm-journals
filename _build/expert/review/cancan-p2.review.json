@@ -1,0 +1,23 @@
+{
+  "cancan_p2_26": {"ok": true},
+  "cancan_p2_27": {"ok": true},
+  "cancan_p2_28": {"ok": true},
+  "cancan_p2_29": {"issue": "HTF is not rendered using the site convention.", "why": "Use تایم‌فریم بالاتر without altering the DBR demand location or the qualified reaction comparison.", "fix": "DrSwing نوشت: مارک‌آپ‌های واقعاً تحسین‌برانگیز projectsagana\n\nممنون Doctor Swing!\n\nاین هم Can Can شمارهٔ 6 من در کف یک روند نزولی\n\nاین ستاپ درست بالای یک ناحیهٔ تقاضای DBR در تایم‌فریم بالاتر بود، بنابراین واکنشِ ستاپ can can شاید به بزرگیِ زمانی نباشد که بالاتر در منحنی قرار دارد."},
+  "cancan_p2_30": {"ok": true},
+  "cancan_p2_31": {"issue": "The upward direction of the three drives is implicit rather than explicit.", "why": "The source specifies upward drives within a downtrend; preserve both directions.", "fix": "یک ستاپ Can Can دیگر در یک روند نزولی با 3 درایو صعودی به سمت عرضه\n\nشمارهٔ 7 من!"},
+  "cancan_p2_32": {"issue": "HTF is not rendered using the site convention.", "why": "Use the prescribed Persian higher-timeframe term while preserving daily downward compression and all example numbers.", "fix": "ستاپ‌های Can Can شمارهٔ 8، 9 و 10 درون یک فشرده‌سازی نزولی روزانه در تایم‌فریم بالاتر"},
+  "cancan_p2_33": {"issue": "A Persian ezafe is attached directly to 2TB.", "why": "Separate the Latin structural token from Persian while retaining the source relationship to the original DBD.", "fix": "Can Can شمارهٔ 11 من\n\nجالب است که میلهٔ صعودی بخشی از یک فشرده‌سازی دیگر بود. سپس برای لحظه‌ای در بالا روی DBD بیس می‌سازد، برای 2TB مربوط به DBD اصلی، پیش از آنکه به پایین بشکند و یک میلهٔ نزولی ایجاد کند. بعد به سمت بالا تا ناحیهٔ عرضه فشرده می‌شود و توجه کنید که اسپایک LQ نداشت. با این حال یک ستاپ can can موفق بود."},
+  "cancan_p2_35": {"ok": true},
+  "cancan_p2_36": {"ok": true},
+  "cancan_p2_38": {"issue": "All three occurrences of HTF bypass the prescribed site term.", "why": "Translate HTF consistently, retaining every repeated instruction and the standalone quote heading.", "fix": "همیشه PA در تایم‌فریم بالاتر را بررسی کنید\n\ngristar نوشت:\n\nهمیشه PA در تایم‌فریم بالاتر را بررسی کنید. این هم چارتِ بهترین توضیح من.\n\nهمیشه PA در تایم‌فریم بالاتر را بررسی کنید"},
+  "cancan_p2_39": {"ok": true},
+  "cancan_p2_41": {"issue": "LTFs is left Latin with an attached Persian suffix.", "why": "Use the prescribed lower-timeframe wording; retain the conditional engulf, non-local qualification, loss and unengulfed lows.", "fix": "سلام Gristar،\n\nمی‌دانم نگاه کردن به چیزها بعد از وقوعشان خیلی آسان است، اما فکر کردم تمرین خوبی باشد. آنچه در ادامه می‌آید فقط نظر من است که ممکن است کاملاً اشتباه باشد، اما به هر حال…. اول از همه، باور دارم کپِ RBD/DBR باید تمیز باشد، یعنی بدون CP. در این مورد، سقف به‌وضوح CP شده بود. وقتی قیمت به آخرین عرضهٔ باقی‌مانده در CP رسید، واکنش داد؛ تا ناحیهٔ مهم بعدی پایین رفت (می‌شد حوالی E معامله کرد، در M15 بهتر دیده می‌شود). نقطهٔ 1 در H4 تقاضاست و 2 هم همین‌طور، اما در M30.\n\nاگر به H1 نگاه کنید، ناحیهٔ مهمی را می‌بینید که قبلاً به آن اشاره کردم… یک FL است که 1 نقش FTR آن را دارد. همچنین متوجه می‌شوید که یک فلیپ SR خوب هم بوده است. برای من، اگر FTR اینگالف شده بود و قیمت به ناحیهٔ حوالی E برمی‌گشت، قطعاً ریسک را می‌پذیرفتم… اما هیچ چیز مهمی اینگالف نشد (منظور از مهم، غیرمحلی است). بیضی زرد، تصمیم برای شکست به درون CP است که در تایم‌فریم‌های پایین‌تر بهتر دیده می‌شود.\n\nبا نگاه به M5 و با فرض اینکه واقعاً هنوز می‌خواستم این را معامله کنم؛ بعد از اینکه خط صورتی اینگالف شد و قیمت به FTR درون مستطیل صورتی برگشت، یک ستاپ در دسترس بود که به یک ضرر کوچک انجامید. همهٔ کف‌های مهم دیگر که با سبز مشخص شده‌اند اینگالف نشدند. و وقتی از آخرین عرضهٔ CP به بیرون شکستیم، کار تمام بود.\n\nامیدوارم کمک‌کننده باشد"},
+  "cancan_p2_42": {"ok": true},
+  "cancan_p2_43": {"ok": true},
+  "cancan_p2_44": {"ok": true},
+  "cancan_p2_46": {"ok": true},
+  "cancan_p2_47": {"ok": true},
+  "cancan_p2_48": {"ok": true},
+  "cancan_p2_49": {"ok": true},
+  "cancan_p2_50": {"issue": "Flagging is mistranslated as FL; demand consumption is overly literal.", "why": "Restore the FLAG formation and express consumption of small demand areas naturally, preserving the upward compression and downward break.", "fix": "فکر می‌کنم می‌توانند هم ادامهٔ روند باشند و هم برگشت.\n\nبرای Can Can نزولی: قیمت با یک میلهٔ صعودی بالا می‌رود و در سقف یک FLAG تشکیل می‌دهد، اما به جای میله‌ای صعودی دیگر، با یک میلهٔ نزولی به پایین می‌شکند و یک کپ قیمتی می‌سازد. سفارش‌ها همان‌جا قرار دارند و حرکت فشردهٔ قیمت به سمت بالا تا عرضهٔ کپ‌شده، نواحی کوچک تقاضا را مصرف می‌کند تا راه برای ادامهٔ حرکت قیمت باز شود."}
+}

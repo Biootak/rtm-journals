@@ -1,0 +1,464 @@
+### if_p25_1
+EN: I think that actually engulf of point A is a textbook FO because price
+ engulfs point A and then return to the origin of the engulf (no FTR)
+forming also something like a diamond structure.
+
+Anyways I don't consider it a FO in terms of order flow and change in direction.
+
+A Fakeout has 3 goals: to take out SL of opposite trades, to reach a
+better SD zone beyond this SD zone or SR level, to take orders of
+breakout traders.
+
+- Who is short at that level (and where is their SL)? I think not so many. So no stop loss hunt.
+
+- Do this FO reached a better Supply zone to go short? Actually no,
+there is a fresh level at origin of the downmove but the price didn't
+touch it.
+
+- Who is trading a breakout? there isn't a good level to attract breakout traders in the near.
+
+For these reasons for what we see in this picture (we can't look to the
+left) I don't think point A is a good level for placing a FO. Imo it can
+ be considered an engulf and price will go higher and maybe reverse at
+that fresh level up there.
+
+Just my noob opinion and I can be totally wrong
+FA: فکر می‌کنم در واقع انگولف نقطهٔ A یک FO کتاب‌درسی است، چون قیمت نقطهٔ A را انگولف می‌کند و بعد به مبدأ انگولف برمی‌گردد (بدون FTR) و چیزی شبیه ساختار دایموند هم می‌سازد.
+
+به‌هرحال من آن را از نظر جریان سفارش و تغییر جهت، FO حساب نمی‌کنم.
+
+یک فیک‌اوت 3 هدف دارد: زدن SL معامله‌های مخالف، رسیدن به زون SD بهتر در آن‌سوی این زون SD یا سطح SR، و گرفتن سفارش‌های معامله‌گرهای بریک‌اوت.
+
+- در آن سطح چه کسی شورت است (و SL‌اش کجاست)؟ فکر می‌کنم زیاد نیستند. پس شکار استاپ‌لاسی در کار نیست.
+
+- آیا این FO به زون عرضهٔ بهتری برای شورت شدن رسید؟ راستش نه، در مبدأ حرکت نزولی یک سطح تازه هست ولی قیمت آن را لمس نکرد.
+
+- چه کسی بریک‌اوت معامله می‌کند؟ نزدیک اینجا سطح خوبی برای جذب معامله‌گرهای بریک‌اوت نیست.
+
+به این دلایل، با توجه به آنچه در این تصویر می‌بینیم (نمی‌توانیم به چپ نگاه کنیم)، فکر نمی‌کنم نقطهٔ A سطح خوبی برای گذاشتن FO باشد. به نظر من می‌توان آن را انگولف دانست و قیمت بالاتر می‌رود و شاید همان بالا در آن سطح تازه برگردد.
+
+فقط نظر یک تازه‌کار است و ممکن است کاملاً اشتباه باشم
+
+### if_p25_2
+EN: madwt wrote: Hi IF,
+
+FO or Engulf?
+
+Some people have interpreted the break of "A" as an engulf, yet others have interpreted it as a fake out.
+
+In this
+	post
+you were asked what is the difference between an engulf and a fake out.
+No answer was provided. I understand that an engulf involves price
+making a lower low on reaction to Supply, or higher high on reaction to
+Demand. More importantly, it shows intent of price to continue in the direction of the engulf.
+ I also understand that a fake out occurs in order to find sufficient
+liquidity to sell/buy against. More importantly, it is followed by a change in direction.
+
+Knowing if the break of "A" is an engulf or fake out requires analysis
+of the complete picture (higher time frames and looking left). However,
+as neither of these are provided in the quiz, its mere speculation.
+
+Taking the following chart as an example, would this be interpreted as
+an engulf or as a fake out of "A" (or is it possible to be both)?
+
+What is the difference between an engulf and fake out.
+
+Thanks,
+
+d
+
+Hi Buddy, "I understand that an engulf involves price making a lower
+low on reaction to Supply, or higher high on reaction to Demand" - This
+can be correct, but it certainly is not always correct, actually most of
+ the time it isn't correct. You need to find the important engulfs of
+flags, it is when these happen that an engulf becomes meaningful. Simply
+ making a higher high or lower low will not show you any intent.
+
+Also understand that an engulf will achieve the same thing as a FO (in
+terms of retailer trading behaviour) but it is the signal that price
+wants to go to the next important level in the direction of the engulf. A
+ FO is simply a ploy to trap traders once the signal engulf has already
+happened.
+
+Study up on flag limits, there has been some very good posting on them
+recently, understanding the FL and the engulfs of the FL's along with a
+HTF analysis and you will be able to tell the FO from the Engulf.
+
+Sorry if that was a little bit of a mouthful,
+
+Peds
+FA: madwt نوشت: سلام IF،
+
+FO یا انگولف؟
+
+بعضی‌ها شکستن «A» را انگولف تفسیر کرده‌اند، ولی بعضی‌های دیگر آن را فیک‌اوت تفسیر کرده‌اند.
+
+در این پست از تو پرسیده شد تفاوت انگولف و فیک‌اوت چیست. جوابی داده نشد. من می‌فهم که انگولف یعنی قیمت در واکنش به عرضه لویی پایین‌تر یا در واکنش به تقاضا سقف بالاتر بسازد. مهم‌تر از آن، انگولف قصد قیمت را برای ادامه در جهت خودش نشان می‌دهد. همچنین می‌فهم که فیک‌اوت برای پیدا کردن لیکوییدیتی کافی برای فروش/خرید برخلاف آن رخ می‌دهد. مهم‌تر از آن، بعدش تغییر جهت می‌آید.
+
+دانستن اینکه شکستن «A» انگولف است یا فیک‌اوت، تحلیل تصویر کامل را می‌خواهد (تایم‌فریم‌های بالاتر و نگاه به چپ). ولی چون هیچ‌کدام از این‌ها در کوییز داده نشده، صرفاً حدس است.
+
+اگر نمودار زیر را مثال بگیریم، انگولف تفسیر می‌شود یا فیک‌اوت «A» (یا می‌تواند هر دو باشد)؟
+
+تفاوت انگولف و فیک‌اوت چیست.
+
+ممنون،
+
+تصویر
+
+سلام رفیق، «می‌فهمم که انگولف یعنی قیمت در واکنش به عرضه لویی پایین‌تر یا در واکنش به تقاضا سقف بالاتر بسازد» — این می‌تواند درست باشد، ولی قطعاً همیشه درست نیست؛ راستش بیشتر وقت‌ها درست نیست. باید انگولف‌های مهم پرچم‌ها را پیدا کنی؛ وقتی این‌ها رخ می‌دهند است که انگولف معنا پیدا می‌کند. فقط ساختن یک سقف بالاتر یا لوی پایین‌تر هیچ قصدی را نشانت نمی‌دهد.
+
+همچنین بدان که انگولف همان کار FO را می‌کند (از نظر رفتار معاملاتی خرده‌معامله‌گر)، ولی سیگنال این است که قیمت می‌خواهد به سطح مهم بعدی در جهت انگولف برود. FO فقط حیله‌ای است برای تله کردن معامله‌گرها بعد از اینکه انگولفِ سیگنال قبلاً رخ داده.
+
+دربارهٔ لیمیت‌های پرچم مطالعه کن؛ اخیراً پست‌های خیلی خوبی درباره‌شان بوده. با فهم FL و انگولف‌های FL، همراه با تحلیل HTF، می‌توانی FO را از انگولف تشخیص بدهی.
+
+ببخش اگر کمی سنگین بود،
+
+Peds
+
+### if_p25_3
+EN: Hi all
+
+I haven't forgotten this quiz and the lesson that will come from it
+
+I've simply been staring into infinity lately, getting ready to write the universal rule of the market.
+
+It's so simple that I've never been able to believe it fully, until last night, when I finally wrote it :)
+
+I'll be spending the next couple of days explaining the rule and its
+implications, and then I'll be free to get back here and put in my €0.02
+ :)
+FA: سلام به همه
+
+این کوییز و درسی که از آن بیرون می‌آید را فراموش نکرده‌ام
+
+فقط اخیراً مدام به بی‌نهایت زل زده‌ام و خودم را آماده می‌کنم که قانون جهان‌شمول بازار را بنویسم.
+
+آن‌قدر ساده است که هرگز نتوانسته‌ام کامل باورش کنم، تا دیشب که بالاخره نوشتمش :)
+
+چند روز آینده را صرف توضیح این قانون و پیامدهایش می‌کنم و بعد آزاد می‌شوم که برگردم اینجا و 0.02 یورو خودم را بگذارم :)
+
+### if_p25_4
+EN: Just thrown this idea in
+
+hopefully the picture shows, its mostly for discussion
+
+Thx
+FA: فقط این ایده را انداختم وسط
+
+امیدوارم تصویر نشان داده شود، بیشتر برای بحث است
+
+ممنون
+
+### if_p25_5
+EN: Okay, my take on this. (the orange lines)
+FA: باشه، برداشت من از این. (خطوط نارنجی)
+
+### if_p25_6
+EN: Let me join you guys on this.
+
+My take, as how i think IT's would do it.
+
+I actually really needed to double check my understanding a few times, while drawing the posible way of the price.
+
+AWESOME practice. Though now i would appreciate feedback.
+
+Since, some may not work, or if i maybe un-intentially left some big orders behind lol.
+
+MIKY
+
+EDIT: Established orders = orders waiting to be filled.
+FA: بگذارید من هم به شما بپیوندم.
+
+برداشت من، آن‌طور که فکر می‌کنم ITها انجامش می‌دهند.
+
+راستش چند بار واقعاً لازم دیدم فهم خودم را دوباره چک کنم، وقتی داشتم مسیر احتمالی قیمت را می‌کشیدم.
+
+تمرین فوق‌العاده‌ای است. هرچند الان از بازخورد استقبال می‌کنم.
+
+چون ممکن است بعضی‌هایش کار نکند، یا شاید ناخواسته چند سفارش بزرگ جا گذاشته باشم هاها.
+
+MIKY
+
+ویرایش: سفارش‌های مستقر = سفارش‌هایی که منتظر پر شدن‌اند.
+
+### if_p25_7
+EN: EDIT:
+
+On the second picture up to the right.
+
+The last move down (second last line drawn) is actually an ENG , with te
+ last line being a FO, to the top of the PAZ (diamond pattern actually).
+
+But this scenario is - if price would head down again.
+
+It would be alittle different if price wanted to advance higher.
+FA: ویرایش:
+
+در تصویر دوم، بالا سمت راست.
+
+آخرین حرکت نزولی (خط ماقبل آخری که کشیده شده) در واقع یک ENG است، و خط آخر یک FO به سقف PAZ (که در واقع الگوی دایموند است).
+
+ولی این سناریو برای وقتی است که قیمت دوباره بخواهد پایین برود.
+
+اگر قیمت بخواهد بالاتر برود کمی متفاوت می‌شود.
+
+### if_p25_8
+EN: OK. My next task is to solve the quiz :)
+
+But first, I'll post my only trade this month (as I post all my trades here)
+
+It's now at 24R.
+
+Easy setups like this occur very regularly, and are worth waiting for.
+
+Anybody hazard a stab at why I took it and how I should manage it?
+FA: باشه. وظیفهٔ بعدی من حل کردن کوییز است :)
+
+ولی اول، تنها معاملهٔ این ماهم را می‌گذارم (چون همهٔ معامله‌هایم را اینجا می‌گذارم)
+
+الان روی 24R است.
+
+ستاپ‌های ساده‌ای مثل این خیلی منظم پیش می‌آیند و ارزش صبر کردن دارند.
+
+کسی جرات می‌کند حدس بزند چرا گرفتمش و چطور باید مدیریتش کنم؟
+
+### if_p25_9
+EN: Hi If,
+
+I will give it a stab :)
+
+First up is the weekly chart, I see a supply area which is an FTR in
+yellow, I also see a key level right at where your entry was taken (red
+line) I have marked with a check where I believe another weekly FTR to
+be.
+
+Ok next up the daily TF, and this is what I see. I see a lovely base for
+ the FTR which was marked with a check, this would defo be a place to
+look for LTF P.A, also notice how nicely the weekly key level fitted in
+with the FTR.
+
+I have looked at the 4hr and could not see much, If, I am assuming this
+was a TT judging by the entry? I have looked on the 30 min TF and can
+see the key level reactions super clear, this is the base of the FTR on
+the pic below not the reaction.
+
+I then went down to the 15 min and it hit me (well I think), the next
+pic below is again of the base of the FTR from the weekly, but only on
+the 15 min TF instead, can you see the beautiful FTR with the arrow, I
+believe you TT this supply zone.
+
+And the next pic is the reaction to the 15 min FTR, this was coupled with the weekly key level and a nice HTF FTR.
+
+As for trade management, judging from the HTFs I believe price may yet
+have room to drop until where I marked on the chart with an arrow as I
+believe this was where big money came in for the push up.
+
+And as for managing the trade on the 15 min TF, I have ;left some remarks on the chart.
+
+DT
+FA: سلام If،
+
+یک تیری می‌اندازم :)
+
+اول نمودار هفتگی؛ یک ناحیهٔ عرضه می‌بینم که با زرد FTR است، یک سطح کلیدی هم درست همان‌جایی می‌بینم که ورودت انجام شده (خط قرمز) و با تیک جایی را علامت زده‌ام که فکر می‌کنم FTR هفتگی دیگری آنجاست.
+
+خب، بعدی تایم‌فریم روزانه است و این چیزی است که می‌بینم. یک بیس قشنگ برای آن FTR که با تیک علامت خورده می‌بینم؛ این قطعاً جایی است که باید دنبال PA تایم‌فریم پایین‌تر بگردیم. همچنین ببین سطح کلیدی هفتگی چقدر قشنگ با FTR جفت شده.
+
+به 4 ساعته نگاه کردم و چیز زیادی ندیدم، If؛ با توجه به ورود حدس می‌زنم این یک TT بود؟ به تایم‌فریم 30 دقیقه نگاه کردم و واکنش‌های سطح کلیدی فوق‌واضح دیده می‌شوند؛ این بیس FTR در تصویر پایین است، نه خود واکنش.
+
+بعد رفتم روی 15 دقیقه و آنجا بود که به ذهنم خورد (خب فکر می‌کنم)؛ تصویر بعدی دوباره بیس همان FTR هفتگی است، ولی این بار فقط در تایم‌فریم 15 دقیقه. آن FTR قشنگ با فلش را می‌بینی؟ باور دارم تو این زون عرضه را TT کردی.
+
+و تصویر بعدی واکنش به FTR 15 دقیقه است، که با سطح کلیدی هفتگی و یک FTR خوب در HTF همراه شده بود.
+
+دربارهٔ مدیریت معامله، با قضاوت از تایم‌فریم‌های بالا فکر می‌کنم قیمت هنوز جا دارد تا جایی که با فلش روی نمودار علامت زده‌ام پایین بیاید، چون باور دارم پول بزرگ همان‌جا برای آن جهش بالا وارد شد.
+
+و دربارهٔ مدیریت معامله در تایم‌فریم 15 دقیقه، چند یادداشت روی نمودار گذاشته‌ام.
+
+DT
+
+### if_p25_10
+EN: Really impressive read DT
+
+Now, go back to the weekly - your zone is the next one up from mine. If
+you don't see mine there, look to the daily back then :)
+FA: خوانش واقعاً تحسین‌برانگیزی بود DT
+
+حالا برگرد به هفتگی — زون تو یک پله بالاتر از زون من است. اگر مال من را آنجا نمی‌بینی، پس برو سراغ روزانه :)
+
+### if_p25_11
+EN: I agree with DT; I'd just like to add that there is a nice fakeout making the red line a perfect place for precise entry...
+
+LP
+FA: با DT موافقم؛ فقط می‌خواهم اضافه کنم که یک فیک‌اوت قشنگ، خط قرمز را به جای بی‌عیبی برای ورود دقیق تبدیل کرده...
+
+LP
+
+### if_p25_12
+EN: Ok, I hope I did not read the reply wrong and make myself look silly, here goes...
+
+Below is the weekly TF, I have marked both FTRs that I recognized with a
+ check mark, and you say: 'your zone is the next one up from mine'. Now
+for me, I certainly do not see anything on the weekly, so I will go back
+ to the daily.
+
+All I can see on the Daily back at the area is what I have marked below
+in blue, I have left the weekly key level intact, so I am assuming you
+may have used this as one complete zone the FTR and the key level?
+
+Other than this I really do not see anything Thanks for the heads up on the chart regarding the FO, much appreciated buddy.
+
+DT
+FA: باشه، امیدوارم جواب را اشتباه نفهمیده باشم و خودم را دست‌انداختنی نکنم، بفرما...
+
+پایین تایم‌فریم هفتگی است؛ هر دو FTRی را که شناختم با تیک علامت زده‌ام، و تو می‌گویی: «زون تو یک پله بالاتر از زون من است». خب برای من، قطعاً چیزی روی هفتگی نمی‌بینم، پس برمی‌گردم به روزانه.
+
+تنها چیزی که در روزانه در آن ناحیه می‌بینم همان است که با آبی پایین علامت زده‌ام؛ سطح کلیدی هفتگی را دست‌نخورده گذاشته‌ام، پس حدس می‌زنم شاید این‌ها را یک زون کامل گرفتی، یعنی FTR و سطح کلیدی را؟
+
+جز این واقعاً چیزی نمی‌بینم. ممنون از اشاره‌ات روی نمودار دربارهٔ FO، رفیق، خیلی لطف کردی.
+
+DT
+
+### if_p25_13
+EN: I have this marked on my chart and I set a sell limit before I come across IF trade.
+
+Would like to get the opinion from all about this trade.
+
+Am i thinking right?
+FA: این را روی نمودارم علامت زده‌ام و قبل از اینکه به معاملهٔ IF بربخورم یک سفارش لیمیت فروش گذاشتم.
+
+دوست دارم نظر همه را دربارهٔ این معامله بدانم.
+
+درست فکر می‌کنم؟
+
+### if_p25_14
+EN: Hi Gristar
+
+I'd put a sell limit there if 1.36939 were engulfed first. Otherwise I'd be waiting for max pain level much higher
+FA: سلام Gristar
+
+اگر اول 1.36939 انگولف شود، آنجا سفارش لیمیت فروش می‌گذاشتم. وگرنه منتظر سطح حداکثر درد در جای خیلی بالاتری می‌ماندم
+
+### if_p25_15
+EN: Hi IF,
+
+my take on it is similar to what Les thinks about it
+FA: سلام IF،
+
+برداشت من از آن شبیه چیزی است که نظر Les دربارهٔ آن است
+
+### if_p25_16
+EN: What I've also recently noticed is that after engulfing the flag,
+price likes to return to the last hh's demand that was engulfed.
+FA: چیزی که اخیراً متوجه شدم این است که قیمت بعد از انگولف کردن پرچم، دوست دارد به تقاضای آخرین HH که انگولف شده برگردد.
+
+### if_p25_17
+EN: Here comes one more stab, from a brave trader. hahaha
+
+Did it on MT4, so no history lower than 4H. Hope it is clear enough:
+
+Weekly
+
+Daily
+
+4H TF : What happened once price already approached the edge of the paz:
+
+4H TF: On how to manage it. Price has ENGed into higher PAZ so it strives to go north, as we saw on the previous picture.
+
+To keep in the trade, I would like to see price consecutively engulfing the grey boxes on the way down to atleast green line.
+
+If price will fully respect one of the box edges and engulf the "just
+before" created FTR from engulf into lower boxes, i would close the
+position on the
+
+making of FTR after ENG up.
+
+AERO ~^o^~
+FA: یک تیر دیگر هم از طرف یک معامله‌گر شجاع. هاهاها
+
+روی MT4 انجامش دادم، پس تاریخچه‌ای پایین‌تر از 4H ندارم. امیدوارم به‌قدر کافی روشن باشد:
+
+هفتگی
+
+روزانه
+
+تایم‌فریم 4H: چه شد وقتی قیمت از قبل به لبهٔ PAZ نزدیک شده بود:
+
+تایم‌فریم 4H: دربارهٔ چگونگی مدیریتش. قیمت به PAZ بالاتر ENG کرده، پس تلاش می‌کند به سمت شمال برود، همان‌طور که در تصویر قبل دیدیم.
+
+برای ماندن در معامله، دوست دارم ببینم قیمت پی‌درپی کادرهای خاکستری را در مسیر پایین، دست‌کم تا خط سبز، انگولف می‌کند.
+
+اگر قیمت کاملاً به یکی از لبه‌های کادر احترام بگذارد و FTRی را که «درست قبل» از انگولف به کادرهای پایین‌تر ساخته شده انگولف کند، پوزیشن را می‌بستم در:
+
+تشکیل FTR بعد از ENG به سمت بالا.
+
+AERO ~^o^~
+
+### if_p25_18
+EN: Ifmyante wrote: OK. My next task is to solve the quiz :)...
+
+Hi If,
+
+I think that was the highest DP left untouched, from where the decision
+to engulf 1.3145 low started. I put a PO at 1.3766 but it was stopped of
+ course (1.378), I had checked all of them up but I've missed this one,
+it just didn't haved a good look to me. I would hold it up to 1.3106
+(first stop) or better 1.2777. If you ask me I wanna see it at 1 . Also the weekly candle gave us a strong sell signal (PB + div)
+FA: Ifmyante نوشت: باشه. وظیفهٔ بعدی من حل کردن کوییز است :)...
+
+سلام If،
+
+فکر می‌کنم آن بالاترین DP دست‌نخورده‌ای بود که تصمیم برای انگولف کردن لوی 1.3145 از آنجا شروع شد. من یک PO روی 1.3766 گذاشتم که معلوم است استاپ خورد (1.378). همه‌شان را بالا چک کرده بودم ولی این یکی را جا انداختم؛ اصلاً به چشمم خوب نیامد. من نگهش می‌داشتم تا 1.3106 (استاپ اول) یا بهتر 1.2777. اگر از من بپرسی، دوست دارم آن را روی 1 ببینم. کندل هفتگی هم سیگنال فروش قوی داد (PB + دایورجنس)
+
+### if_p25_19
+EN: Can someone explain of IF`s chart how one call tell the big guys are
+trying to hide there real intentions is showing in the price action as
+it come back into supply.
+FA: کسی می‌تواند از نمودار IF توضیح بدهد چطور می‌شود فهمید آدم‌های بزرگ دارند قصد واقعی‌شان را پنهان می‌کنند، آن‌طور که در پرایس اکشن وقتی قیمت به عرضه برمی‌گردد دیده می‌شود.
+
+### if_p25_20
+EN: Dang it, Sorry guys try this. I can see that as price is coming into
+the area price is slowing also see strong bids.But that is all I can see
+FA: آخ، ببخشید بچه‌ها این را امتحان کنید. می‌بینم که وقتی قیمت به ناحیه می‌رسد کند می‌شود و بیدهای قوی هم می‌بینم. ولی همین‌قدر می‌بینم
+
+### if_p25_21
+EN: Maddog,
+
+Still cannot see a pic buddy,
+
+I see your in Thailand, where abouts, I live in Bangkok
+
+DT
+FA: Maddog عزیز،
+
+هنوز تصویری نمی‌بینم رفیق،
+
+می‌بینم که در تایلند هستی؛ کجای تایلند؟ من در بانکوک زندگی می‌کنم
+
+DT
+
+### if_p25_22
+EN: Dang it, Sorry guys try this. I can see that as price is coming into
+the area price is slowing, I also see strong bids. But that is all I
+can see. I hope this works I am out working offshore doing a little RTM
+study so it`s having a heart attack loading the chart. Yes I am not far
+from you.
+FA: آخ، ببخشید بچه‌ها این را امتحان کنید. می‌بینم که وقتی قیمت به ناحیه می‌رسد کند می‌شود، بیدهای قوی هم می‌بینم. ولی همین‌قدر می‌بینم. امیدوارم این یکی کار کند؛ من بیرون در ساحل مشغول کارم و کمی هم مطالعهٔ RTM می‌کنم، برای همین بارگذاری نمودار دارد سکته می‌کند. بله، من هم از تو دور نیستم.
+
+### if_p25_23
+EN: Hello IF and everyone
+
+I wont try to list all the supporting evidence for your trade. A
+brilliant one it is. Must have been very exhilarating watching price
+compress just before spiking into the area. But I think that the highest
+ reason that you took that trade where you did was because it was the
+last untested supply from the big swing high. It can be clearly seen on
+the 15M chart below. The yellow line is the trade entry point. Thank you
+ IF.
+FA: سلام IF و همه
+
+سعی نمی‌کنم همهٔ شواهد پشتیبان معامله‌ات را فهرست کنم. معاملهٔ درخشانی است. تماشای فشرده شدن قیمت درست قبل از شلیکش به ناحیه باید خیلی هیجان‌انگیز بوده باشد. ولی فکر می‌کنم بالاترین دلیل اینکه آن معامله را همان‌جا گرفتی این بود که آخرین عرضهٔ تست‌نشده از سوئینگ های بزرگ بود. در نمودار 15M پایین کاملاً دیده می‌شود. خط زرد نقطهٔ ورود معامله است. ممنون IF.
+
+### if_p25_25
+EN: Bear with us while we try to fix the image upload issue
+FA: کمی صبر کنید تا مشکل بارگذاری تصویر را درست کنیم

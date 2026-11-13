@@ -1,0 +1,732 @@
+### jurij_p9_1
+EN: Hi Juril
+
+I am still really poor in drawing these PAZ boxes. Some i can see why but some i just couldn't understand.
+
+But may i ask
+
+- 1) when you said " other end of PAZ was not reached yet", which PAZ box were you referring to?" and
+
+- 2) how did you know that price will go the way you have expected as per 24 May ?"
+
+-3) the black box you drew in your 2nd chart - is that a stacked demand PAZ? Or CP PAZ?
+
+Thank you
+
+Jurij wrote:
+Jurij wrote:
+
+GPBUSD 4H
+
+In my opinion price did not reach the target yet (end of PAZ, see arrows).
+FA: سلام Juril
+
+من هنوز در کشیدن این کادرهای PAZ واقعاً ضعیفم. بعضی را می‌فهمم چرا، ولی بعضی را اصلاً نمی‌فهمم.
+
+ولی می‌توانم بپرسم
+
+- 1) وقتی گفتی «سر دیگر PAZ هنوز نرسیده»، منظور کدام کادر PAZ بود؟ و
+
+- 2) از کجا فهمیدی قیمت همان‌طور که انتظار داشتی پیش می‌رود، مطابق 24 May؟
+
+-3) آن کادر مشکی که در نمودار دومت کشیدی، یک PAZ تقاضای انباشته است؟ یا CP PAZ؟
+
+ممنون
+
+Jurij نوشت: Jurij نوشت:
+
+GPBUSD 4H
+
+به نظر من قیمت هنوز به تارگت نرسیده (سر PAZ، فلش‌ها را ببینید).
+
+### jurij_p9_2
+EN: Jurij wrote: USDCAD
+
+4H
+
+How would you play this?
+
+I think it is safer to wait for an engulf signal on 4H into the CP.
+
+Closing it out now at previous trick zone
+FA: Jurij نوشت: USDCAD
+
+4H
+
+این را چطور معامله می‌کنی؟
+
+فکر می‌کنم محتاطانه‌تر این است که منتظر سیگنال اینگالف در 4H به داخل CP بمانیم.
+
+همین حالا در ناحیهٔ ترفند قبلی می‌بندمش
+
+### jurij_p9_3
+EN: Bodostock wrote: Hi Juril
+
+I am still really poor in drawing these PAZ boxes. Some i can see why but some i just couldn't understand.
+
+But may i ask
+
+- 1) when you said " other end of PAZ was not reached yet", which PAZ box were you referring to?" and
+
+- 2) how did you know that price will go the way you have expected as per 24 May ?"
+
+-3) the black box you drew in your 2nd chart - is that a stacked demand PAZ? Or CP PAZ?
+
+Thank you
+
+Hi Bodostock,
+
+Yes black boxes on my charts are SPAZ (stacked s/d), green ones are CPAZ (compression).
+
+Those blue and red boxes are flag limits not PAZ's.
+
+For me the other end was not reached because once a level breaks, price should go to the origin, see the following drawing:
+
+hope this helps (and it's just my interpretation)
+FA: Bodostock نوشت: سلام Juril
+
+من هنوز در کشیدن این کادرهای PAZ واقعاً ضعیفم. بعضی را می‌فهمم چرا، ولی بعضی را اصلاً نمی‌فهمم.
+
+ولی می‌توانم بپرسم
+
+- 1) وقتی گفتی «سر دیگر PAZ هنوز نرسیده»، منظور کدام کادر PAZ بود؟ و
+
+- 2) از کجا فهمیدی قیمت همان‌طور که انتظار داشتی پیش می‌رود، مطابق 24 May؟
+
+-3) آن کادر مشکی که در نمودار دومت کشیدی، یک PAZ تقاضای انباشته است؟ یا CP PAZ؟
+
+ممنون
+
+سلام Bodostock،
+
+بله، کادرهای مشکی در نمودارهای من SPAZ (عرضه/تقاضای انباشته) هستند، سبزها CPAZ (فشردگی).
+
+آن کادرهای آبی و قرمز FL هستند نه PAZ.
+
+برای من سر دیگر نرسیده بود چون وقتی یک سطح می‌شکند، قیمت باید به مبدأ برود، این نقاشی را ببین:
+
+امیدوارم کمک کند (و این فقط تفسیر من است)
+
+### jurij_p9_4
+EN: Jurij wrote:
+Jurij wrote: This is what I assume in my trading analysis
+
+But then this one failed
+
+Is it because that concept is wrong (important vs minor FLs) or are there other reasons?
+
+hello Jurji, just a point of view. No demand was there:
+FA: Jurij نوشت: Jurij نوشت: این چیزی است که در تحلیل معاملاتی‌ام فرض می‌کنم
+
+ولی بعد این یکی شکست خورد
+
+آیا به این دلیل است که آن مفهوم غلط است (FL‌های مهم در برابر جزئی) یا دلایل دیگری هم هست؟
+
+سلام Jurji، فقط یک دیدگاه. هیچ تقاضایی آنجا نبود:
+
+### jurij_p9_5
+EN: Thank you, Juril for the explaination
+
+It took me awhile to reply you because i was thinking how i should reply to you.
+
+This was how i actually analysed the chart.
+
+To relate the drawings to the GBPUSD chart, i actually thought that the
+end was reached thus, after picking up the unfilled demand at FTR3, it
+bounced back up to the top supply zone.
+
+Personally for my own case, i won't know if price will come back down to
+ your Stacked demand PAZ unless price was not able to engulf the supply
+but engulfed the FL2, which did happened later.
+
+Did i miss something important or my labels of DP were wrong?
+
+Jurij wrote:
+
+Hi Bodostock,
+
+Yes black boxes on my charts are SPAZ (stacked s/d), green ones are CPAZ (compression).
+
+Those blue and red boxes are flag limits not PAZ's.
+
+For me the other end was not reached because once a level breaks, price should go to the origin, see the following drawing:
+
+hope this helps (and it's just my interpretation)
+FA: ممنون Juril برای توضیحت
+
+کمی طول کشید تا جوابت را بدهم چون داشتم فکر می‌کردم چطور جوابت را بدهم.
+
+من در واقع نمودار را این‌طور تحلیل کردم.
+
+برای ربط دادن نقاشی‌ها به نمودار GBPUSD، راستش فکر می‌کردم انتها رسیده، پس بعد از برداشتن تقاضای پرنشده در FTR3، قیمت به ناحیهٔ عرضهٔ بالایی بازگشت.
+
+شخصاً در مورد خودم، نمی‌دانم قیمت به PAZ تقاضای انباشتهٔ تو برمی‌گردد یا نه، مگر اینکه قیمت نتواند عرضه را اینگالف کند ولی FL2 را اینگالف کند، که بعداً همین اتفاق افتاد.
+
+چیزی مهم را جا انداختم یا برچسب‌های DP من غلط بودند؟
+
+Jurij نوشت:
+
+سلام Bodostock،
+
+بله، کادرهای مشکی در نمودارهای من SPAZ (عرضه/تقاضای انباشته) هستند، سبزها CPAZ (فشردگی).
+
+آن کادرهای آبی و قرمز FL هستند نه PAZ.
+
+برای من سر دیگر نرسیده بود چون وقتی یک سطح می‌شکند، قیمت باید به مبدأ برود، این نقاشی را ببین:
+
+امیدوارم کمک کند (و این فقط تفسیر من است)
+
+### jurij_p9_6
+EN: Bodo, there is no right wrong. I understand your view. I saw the
+opportunity for a setup by looking on what flag limits/FTRs are
+important. For me your FTR3 is not important because it did not break
+anything on the left (on that scale).
+
+Price made a range (a box), meaning price flagged between two FTRs.
+
+Once price broke out to the upside from that range it made an FTR, a decision that price was to cheap below.
+
+Once this FTR breaks, the decision is made that price is no longer cheap
+ and price is free to move to the other FTR which caused price to flag
+previously in that range (previous decision point that price was too
+cheap).
+
+The PAZ between those 2 FTRs
+
+This is how I draw the SPAZ
+
+Does it help to understand better my view?
+
+Personally for my own case, i
+won't know if price will come back down to your Stacked demand PAZ
+unless price was not able to engulf the supply but engulfed the FL2,
+which did happened later.
+
+Did i miss something important or my labels of DP were wrong?
+
+The
+ stacked demand zone was not involved to see the trade opportunity
+because at that time the SPAZ wasn't there yet. Only the demand which is
+ a reaction to your FTR3 made it a SPAZ. And there are no clues that
+price will go to the other end of the SPAZ until price engulfs the
+latest demand (tip of PAZ).
+
+Yes engulf of your FL2 is also a good opportunity.
+FA: Bodo، درست و غلطی وجود ندارد. دیدگاهت را می‌فهمم. من فرصت ستاپ را از نگاه به این دیدم که کدام FL‌ها/FTR‌ها مهم هستند. برای من FTR3 تو مهم نیست چون چیزی را در سمت چپ نشکسته (در آن مقیاس).
+
+قیمت یک رنج ساخت (یک کادر)، یعنی قیمت بین دو FTR فلگ شد.
+
+وقتی قیمت از آن رنج به سمت بالا شکست، یک FTR ساخت؛ تصمیمی بر این که قیمت در پایین ارزان بود.
+
+وقتی این FTR می‌شکند، تصمیم گرفته می‌شود که قیمت دیگر ارزان نیست و آزاد است تا به FTR دیگری برود؛ همان FTR‌ی که قبلاً باعث فلگ‌شدن قیمت در آن رنج شده بود (نقطهٔ تصمیم قبلی که قیمت بیش از حد ارزان بود).
+
+PAZ بین آن 2 FTR
+
+SPAZ را این‌طور رسم می‌کنم
+
+کمک می‌کند دیدگاهم را بهتر بفهمی؟
+
+شخصاً در مورد خودم، نمی‌دانم قیمت به PAZ تقاضای انباشتهٔ تو برمی‌گردد یا نه، مگر اینکه قیمت نتواند عرضه را اینگالف کند ولی FL2 را اینگالف کند، که بعداً همین اتفاق افتاد.
+
+چیزی مهم را جا انداختم یا برچسب‌های DP من غلط بودند؟
+
+ناحیهٔ تقاضای انباشته در دیدن فرصت معامله دخالتی نداشت، چون آن زمان SPAZ هنوز آنجا نبود. فقط تقاضایی که واکنش به FTR3 توست آن را به یک SPAZ تبدیل کرد. و تا وقتی قیمت آخرین تقاضا (نوک PAZ) را اینگالف نکند، نشانه‌ای نیست که قیمت به سر دیگر SPAZ برود.
+
+بله، اینگالف FL2 تو هم فرصت خوبی است.
+
+### jurij_p9_7
+EN: Any idea why this engulf failed?
+FA: ایده‌ای داری چرا این اینگالف شکست خورد؟
+
+### jurij_p9_8
+EN: Jurij wrote: Any idea why this engulf failed?
+
+.as i think it could be like this....However at the left of 1 there are
+Flags that are FTR also, a single break would not be enough...
+FA: Jurij نوشت: ایده‌ای داری چرا این اینگالف شکست خورد؟
+
+.فکر می‌کنم می‌توانست این‌طور باشد.... ولی سمت چپ 1 فلگ‌هایی هست که خودشان FTR هم هستند، یک شکست تنها کافی نبود...
+
+### jurij_p9_9
+EN: Yes on the weekly only it makes sense.
+
+I have yet to find out how to handle issues like this, where on LTF you
+have a clear engulf but on HTF the base (because there are fewer
+candles) is so big that the engulf is not even visible and right into
+that base
+
+On one side it emerges from the teachings here that an engulf is not
+time frame dependent but on the other side you see this and the only
+logical reason is HTF. Or any other idea?
+
+And how to recognize those rare cases where an engulf really just fails because nothing is 100%.
+
+It is easier to learn if you know if you are right or wrong. But not
+knowing becomes a hard task of trial and error until something
+enlightening happens where it becomes clear.
+FA: بله، فقط در نمودار هفتگی معنا دارد.
+
+هنوز نتوانسته‌ام بفهمم چنین مسائلی را چطور مدیریت کنم؛ آن‌جا که در LTF یک اینگالف واضح داری ولی در HTF پایه (چون کندل‌های کمتری هست) آن‌قدر بزرگ است که اینگالف حتی دیده نمی‌شود و مستقیم داخل همان پایه است.
+
+از یک طرف از این آموزه‌ها برمی‌آید که اینگالف به تایم‌فریم وابسته نیست، ولی از طرف دیگر این را می‌بینی و تنها دلیل منطقی HTF است. یا ایدهٔ دیگری داری؟
+
+و چطور آن موارد نادر را تشخیص بدهیم که اینگالف واقعاً فقط شکست می‌خورد، چون هیچ چیزی 100% نیست.
+
+اگر بدانی درست یا غلط بوده‌ای، یادگیری آسان‌تر است. ولی وقتی نمی‌دانی، کار سخت آزمون و خطا می‌شود تا وقتی چیزی روشنگر پیش بیاید و موضوع واضح شود.
+
+### jurij_p9_10
+EN: Hi Juril
+
+You said that my FTR 3 was not important because it did not break anything on the left.
+
+But price from my FTR3 broke the true supply you highlighted. Does that
+mean the true supply itself was also not important and thus made the
+engulf and the FTR3 even less important?
+
+By the way, when you said " in its scale", you mean the H4 timeframe?
+
+Anyway zooming into the H1 timeframe, i now see that a paz zone was
+created after the FL2 was created. This PAZ is between FL1 and FL2,
+
+And also now i see your point why you said price did not manage to reach the other end of the edge. Indeed it did not.
+
+Thus even when price went up further , it still came back later to achieve its engulf target at FL1.
+
+I must really put this case in my diary, You have helped me to understand further about FTR and PAZ. Thank you!
+
+Jurij wrote: Bodo, there is no
+right wrong. I understand your view. I saw the opportunity for a setup
+by looking on what flag limits/FTRs are important. For me your FTR3 is
+not important because it did not break anything on the left (on that
+scale).
+
+Price made a range (a box), meaning price flagged between two FTRs.
+
+Once price broke out to the upside from that range it made an FTR, a decision that price was to cheap below.
+
+Once this FTR breaks, the decision is made that price is no longer cheap
+ and price is free to move to the other FTR which caused price to flag
+previously in that range (previous decision point that price was too
+cheap).
+
+The stacked demand zone was not involved to see the trade opportunity
+because at that time the SPAZ wasn't there yet. Only the demand which is
+ a reaction to your FTR3 made it a SPAZ. And there are no clues that
+price will go to the other end of the SPAZ until price engulfs the
+latest demand (tip of PAZ).
+
+Yes engulf of your FL2 is also a good opportunity.
+FA: سلام Juril
+
+گفتی FTR 3 من مهم نبود چون چیزی را در سمت چپ نشکسته بود.
+
+ولی قیمت از FTR3 من عرضهٔ واقعی‌ای را که هایلایت کردی شکست. آیا این یعنی خود عرضهٔ واقعی هم مهم نبود و در نتیجه اینگالف و FTR3 را حتی کم‌اهمیت‌تر کرده؟
+
+راستی، وقتی گفتی «در مقیاس خودش»، منظورت تایم‌فریم H4 بود؟
+
+به هر حال با زوم روی تایم‌فریم H1، حالا می‌بینم که یک ناحیهٔ PAZ بعد از تشکیل FL2 ساخته شد. این PAZ بین FL1 و FL2 است،
+
+و حالا منظورت را می‌فهمم که گفتی قیمت نتوانست به سر دیگر لبه برسد. واقعاً نرسید.
+
+پس با اینکه قیمت بیشتر بالا رفت، بعداً برگشت تا تارگت اینگالفش را در FL1 بزند.
+
+باید حتماً این مورد را در دفترم بنویسم. کمکم کردی دربارهٔ FTR و PAZ بیشتر بفهمم. ممنون!
+
+Jurij نوشت: Bodo، درست و غلطی وجود ندارد. دیدگاهت را می‌فهمم. من فرصت ستاپ را از نگاه به این دیدم که کدام FL‌ها/FTR‌ها مهم هستند. برای من FTR3 تو مهم نیست چون چیزی را در سمت چپ نشکسته (در آن مقیاس).
+
+قیمت یک رنج ساخت (یک کادر)، یعنی قیمت بین دو FTR فلگ شد.
+
+وقتی قیمت از آن رنج به سمت بالا شکست، یک FTR ساخت؛ تصمیمی بر این که قیمت در پایین ارزان بود.
+
+وقتی این FTR می‌شکند، تصمیم گرفته می‌شود که قیمت دیگر ارزان نیست و آزاد است تا به FTR دیگری برود؛ همان FTR‌ی که قبلاً باعث فلگ‌شدن قیمت در آن رنج شده بود (نقطهٔ تصمیم قبلی که قیمت بیش از حد ارزان بود).
+
+ناحیهٔ تقاضای انباشته در دیدن فرصت معامله دخالتی نداشت، چون آن زمان SPAZ هنوز آنجا نبود. فقط تقاضایی که واکنش به FTR3 توست آن را به یک SPAZ تبدیل کرد. و تا وقتی قیمت آخرین تقاضا (نوک PAZ) را اینگالف نکند، نشانه‌ای نیست که قیمت به سر دیگر SPAZ برود.
+
+بله، اینگالف FL2 تو هم فرصت خوبی است.
+
+### jurij_p9_11
+EN: Bodostock wrote: Hi Juril
+
+You said that my FTR 3 was not important because it did not break anything on the left.
+
+But price from my FTR3 broke the true supply you highlighted. Does that
+mean the true supply itself was also not important and thus made the
+engulf and the FTR3 even less important?
+
+Hi bodo, FTR forms after a break not before, see this chart. Your FTR3 formed before the break of the flag limit (true supply).
+
+Ah I think this confusion comes from decision points (DP) vs FTRs.
+Decision points (DP) can be before a break, so you can say FTR3 is a
+decision point to break the supply, but not an FTR.
+
+Bodostock wrote: By the way, when you said " in its scale", you mean the H4 timeframe?
+
+Yes, with scale I mean time frame but also in relation to important FTRs and swings.
+
+On LTF there are other swings and FTRs but those don't matter in this
+time frame in this context (scale) of those 2 FTRs that limit the flag
+and created that range and PAZ.
+
+Bodostock wrote: Anyway zooming
+into the H1 timeframe, i now see that a paz zone was created after the
+FL2 was created. This PAZ is between FL1 and FL2,
+
+Yes very good, now we are on the same page. If FTR2 breaks price can move to FTR1 because that is the origin on this scale.
+
+Bodostock wrote: And also now i
+see your point why you said price did not manage to reach the other end
+of the edge. Indeed it did not.
+
+Thus even when price went up further , it still came back later to achieve its engulf target at FL1.
+
+I must really put this case in my diary, You have helped me to understand further about FTR and PAZ. Thank you!
+FA: Bodostock نوشت: سلام Juril
+
+گفتی FTR 3 من مهم نبود چون چیزی را در سمت چپ نشکسته بود.
+
+ولی قیمت از FTR3 من عرضهٔ واقعی‌ای را که هایلایت کردی شکست. آیا این یعنی خود عرضهٔ واقعی هم مهم نبود و در نتیجه اینگالف و FTR3 را حتی کم‌اهمیت‌تر کرده؟
+
+سلام bodo، FTR بعد از شکست ساخته می‌شود نه قبلش، این نمودار را ببین. FTR3 تو قبل از شکست FL (عرضهٔ واقعی) ساخته شد.
+
+آه، فکر می‌کنم این ابهام از تفاوت نقاط تصمیم (DP) با FTR می‌آید. نقطهٔ تصمیم (DP) می‌تواند قبل از شکست باشد، پس می‌توانی بگویی FTR3 یک نقطهٔ تصمیم برای شکست عرضه است، ولی FTR نیست.
+
+Bodostock نوشت: راستی، وقتی گفتی «در مقیاس خودش»، منظورت تایم‌فریم H4 بود؟
+
+بله، از مقیاس هم تایم‌فریم را می‌گویم و هم ارتباطش با FTR‌ها و سوینگ‌های مهم.
+
+در LTF سوینگ‌ها و FTR‌های دیگری هم هست، ولی در این تایم‌فریم و در این بافت (مقیاس) آن 2 FTR که فلگ را محدود کرده‌اند و آن رنج و PAZ را ساخته‌اند، اهمیتی ندارند.
+
+Bodostock نوشت: به هر حال با زوم روی تایم‌فریم H1، حالا می‌بینم که یک ناحیهٔ PAZ بعد از تشکیل FL2 ساخته شد. این PAZ بین FL1 و FL2 است،
+
+بله خیلی خوب، حالا هم‌زبان شدیم. اگر FTR2 بشکند، قیمت می‌تواند به FTR1 برود چون مبدأ در این مقیاس همان است.
+
+Bodostock نوشت: و حالا منظورت را می‌فهمم که گفتی قیمت نتوانست به سر دیگر لبه برسد. واقعاً نرسید.
+
+پس با اینکه قیمت بیشتر بالا رفت، بعداً برگشت تا تارگت اینگالفش را در FL1 بزند.
+
+باید حتماً این مورد را در دفترم بنویسم. کمکم کردی دربارهٔ FTR و PAZ بیشتر بفهمم. ممنون!
+
+### jurij_p9_12
+EN: Jurij wrote: There is this great spot on 4H for a short
+
+EURUSD 30m
+
+EURUSD 4H
+
+Let's see if price is done retracing or if it wants more upside before going down (HTF)...
+FA: Jurij نوشت: یک نقطهٔ عالی در 4H برای شورت هست
+
+EURUSD 30m
+
+EURUSD 4H
+
+ببینیم ریتریس قیمت تمام شده یا می‌خواهد قبل از ریزش (HTF) صعود بیشتری کند...
+
+### jurij_p9_13
+EN: Hi Jurij
+
+Could you tell us why you entered the trade? I don't see any PA to enter. Thank you
+FA: سلام Jurij
+
+می‌شود بگویی چرا وارد این معامله شدی؟ من هیچ PA‌ای برای ورود نمی‌بینم. ممنون
+
+### jurij_p9_14
+EN: Hey deenius, from
+	this
+ post:
+
+Jurij wrote: Now, remembering that for me HTF is down
+
+Daily
+
+There is this great spot on 4H for a short
+
+It was simply a great level as explained in the chart and then with HTF
+confluence (in my opinion price has not reached its target on the daily
+TF).
+
+Price could of course retrace up to retest the high before going down.
+FA: هی deenius، از این پست:
+
+Jurij نوشت: حالا، با یادآوری اینکه برای من HTF نزولی است
+
+روزانه
+
+یک نقطهٔ عالی در 4H برای شورت هست
+
+فقط یک سطح عالی بود، همان‌طور که در نمودار توضیح داده شد و بعد با همگرایی HTF (به نظر من قیمت در تایم‌فریم روزانه به تارگتش نرسیده).
+
+معلوم است که قیمت می‌تواند تا ریتست سقف بالا برود و بعد بریزد.
+
+### jurij_p9_15
+EN: Jurij wrote: Yes on the weekly only it makes sense.
+
+I have yet to find out how to handle issues like this, where on LTF you
+have a clear engulf but on HTF the base (because there are fewer
+candles) is so big that the engulf is not even visible and right into
+that base
+
+On one side it emerges from the teachings here that an engulf is not
+time frame dependent but on the other side you see this and the only
+logical reason is HTF. Or any other idea?
+
+And how to recognize those rare cases where an engulf really just fails because nothing is 100%.
+
+It is easier to learn if you know if you are right or wrong. But not
+knowing becomes a hard task of trial and error until something
+enlightening happens where it becomes clear.
+
+i've seen many unclear engulfs, as i'm still missing part of this basic
+(...important !!...) knowledge and struggling with that stuff from a
+long ago.
+
+But for the ones failed i've always found "things" occurred before, as a
+ previous opposite engulf or a opposite break of important level, or
+others
+
+That level has been significant also recently. Breaks south was signals
+for coming drops, i think.....if it was true we can expect a rally very
+ soon.
+
+Just opinions, nothing more
+FA: Jurij نوشت: بله، فقط در نمودار هفتگی معنا دارد.
+
+هنوز نتوانسته‌ام بفهمم چنین مسائلی را چطور مدیریت کنم؛ آن‌جا که در LTF یک اینگالف واضح داری ولی در HTF پایه (چون کندل‌های کمتری هست) آن‌قدر بزرگ است که اینگالف حتی دیده نمی‌شود و مستقیم داخل همان پایه است.
+
+از یک طرف از این آموزه‌ها برمی‌آید که اینگالف به تایم‌فریم وابسته نیست، ولی از طرف دیگر این را می‌بینی و تنها دلیل منطقی HTF است. یا ایدهٔ دیگری داری؟
+
+و چطور آن موارد نادر را تشخیص بدهیم که اینگالف واقعاً فقط شکست می‌خورد، چون هیچ چیزی 100% نیست.
+
+اگر بدانی درست یا غلط بوده‌ای، یادگیری آسان‌تر است. ولی وقتی نمی‌دانی، کار سخت آزمون و خطا می‌شود تا وقتی چیزی روشنگر پیش بیاید و موضوع واضح شود.
+
+من اینگالف‌های نامشخص زیادی دیده‌ام، چون هنوز بخشی از این دانش پایه (...مهم!!...) را ندارم و مدت‌ها با این چیزها درگیرم.
+
+ولی برای آن‌هایی که شکست خوردند، همیشه «چیزهایی» پیدا کرده‌ام که قبلاً رخ داده، مثل یک اینگالف مخالف قبلی یا شکست مخالف یک سطح مهم، یا چیزهای دیگر
+
+آن سطح اخیراً هم مهم بوده. شکست‌های رو به جنوب سیگنال ریزش‌های بعدی بودند، فکر می‌کنم.....اگر درست باشد می‌توانیم خیلی زود انتظار یک رالی داشته باشیم.
+
+فقط نظر شخصی، نه چیز بیشتر
+
+### jurij_p9_16
+EN: Jurij wrote:
+Jurij wrote: EURJPY
+
+4H
+
+EJ going up?
+
+Not sure if it will retrace to the QM level, it could very well turn before or already have turned.
+
+If the ITs need more orders then a FO to the QM level or even a DM would be a great spot to look for liquidity.
+
+Also note the compression down to the weekly demand (FL).
+
+EURJPY looking great
+
+4H
+
+Engulf + CPAZ eng + QM bounce?
+
+Booked a loss on this one.
+
+I think this is why it failed.
+
+EURJPY 4H
+
+1m chart
+FA: Jurij نوشت: Jurij نوشت: EURJPY
+
+4H
+
+EJ دارد بالا می‌رود؟
+
+مطمئن نیستم به سطح QM ریتریس کند؛ خیلی خوب می‌تواند قبلش برگردد یا همین حالا برگشته باشد.
+
+اگر IT‌ها سفارش بیشتری لازم داشته باشند، یک FO تا سطح QM یا حتی یک DM نقطهٔ خوبی برای شکار نقدینگی است.
+
+به فشردگی رو به تقاضای هفتگی (FL) هم دقت کن.
+
+EURJPY عالی به نظر می‌رسد
+
+4H
+
+اینگالف + اینگالف CPAZ + بازگشت QM؟
+
+روی این یکی ضرر ثبت کردم.
+
+فکر می‌کنم دلیل شکستش همین است.
+
+EURJPY 4H
+
+نمودار 1m
+
+### jurij_p9_17
+EN: Jurij wrote:
+Jurij wrote: There is this great spot on 4H for a short
+
+EURUSD 30m
+
+EURUSD 4H
+
+Let's see if price is done retracing or if it wants more upside before going down (HTF)...
+
+Just wanted to add to my journal why I placed the limit order where I did, looking at LTF:
+
+EURUSD 30m
+FA: Jurij نوشت: Jurij نوشت: یک نقطهٔ عالی در 4H برای شورت هست
+
+EURUSD 30m
+
+EURUSD 4H
+
+ببینیم ریتریس قیمت تمام شده یا می‌خواهد قبل از ریزش (HTF) صعود بیشتری کند...
+
+فقط می‌خواستم در ژورنالم ثبت کنم چرا سفارش لیمیت را آنجا گذاشتم، با نگاه به LTF:
+
+EURUSD 30m
+
+### jurij_p9_18
+EN: Hi Jurij,
+
+its been a long day... did you take that trade at the very top on the
+30m chart? or in the hollow red box you marked in your previous chart..
+thanks.
+FA: سلام Jurij،
+
+روز طولانی‌ای بوده... آن معامله را در همان سقف نمودار 30m گرفتی؟ یا در کادر قرمز خالی که در نمودار قبلی‌ات علامت زده بودی.. ممنون.
+
+### jurij_p9_19
+EN: Hi Dan, I extended the lines on the chart.
+
+Yes the lower one, limit order just before that CP at the red box.
+FA: سلام Dan، خط‌ها را روی نمودار امتداد دادم.
+
+بله، پایینی؛ سفارش لیمیت درست قبل از همان CP در کادر قرمز.
+
+### jurij_p9_20
+EN: Hello Jurij,
+
+I remember asking myself the exact same question when doing the exercise
+ a while ago. I had also thought that the engulf failed. You'll find
+your answer on the Monthly chart. It doesn't seem obvious on any other
+chart. It's ALMOST perfect symmetry & QM level. In fact I keep a
+screenshot of this particular chart just to remind myself to always look
+ deeper. RTM has made me obsessive about finding out why price does
+what it does. . Still don't have all the answers though.
+
+So here's the chart. Of course I could be totally off course, if so I apologize.
+
+Jurij wrote: Any idea why this engulf failed?
+FA: سلام Jurij،
+
+یادم می‌آید مدتی پیش وقتی این تمرین را انجام می‌دادم دقیقاً همین سؤال را از خودم می‌پرسیدم. من هم فکر می‌کردم اینگالف شکست خورده. جوابت را در نمودار ماهانه پیدا می‌کنی. در هیچ نمودار دیگری واضح نیست. تقریباً تقارن و سطح QM بی‌نقص است. راستش از همین نمودار اسکرین‌شات نگه می‌دارم تا همیشه یادم باشد عمیق‌تر نگاه کنم. RTM مرا وسواسی کرده تا بفهمم قیمت چرا کاری را می‌کند که می‌کند. . با این حال هنوز همهٔ جواب‌ها را ندارم.
+
+پس این هم نمودار. البته ممکن است کاملاً بیراهه باشم، اگر این‌طور است عذر می‌خواهم.
+
+Jurij نوشت: ایده‌ای داری چرا این اینگالف شکست خورد؟
+
+### jurij_p9_21
+EN: Hello Jurji
+
+one more reason for EJ, i think, making bounces or rallies just mistakes.
+FA: سلام Jurji
+
+یک دلیل دیگر هم برای EJ، فکر می‌کنم، اینکه بازگشت‌ها یا رالی‌هایش فقط اشتباه‌اند.
+
+### jurij_p9_22
+EN: althoufx
+
+That makes sense now, thank you!
+FA: althoufx
+
+حالا منطقی است، ممنون!
+
+### jurij_p9_23
+EN: Thanks for the clarification , Juril
+
+You are right.
+
+I would have read the chart in a different way without your guidance.
+
+Jurij wrote:
+
+Hi bodo, FTR forms after a break not before, see this chart. Your FTR3 formed before the break of the flag limit (true supply).
+
+Ah I think this confusion comes from decision points (DP) vs FTRs.
+ Decision points (DP) can be before a break, so you can say FTR3 is a
+decision point to break the supply, but not an FTR.
+
+Yes, with scale I mean time frame but also in relation to important FTRs and swings.
+
+On LTF there are other swings and FTRs but those don't matter in this
+time frame in this context (scale) of those 2 FTRs that limit the flag
+and created that range and PAZ.
+
+[/quote]
+FA: ممنون برای توضیح، Juril
+
+حق با توست.
+
+بدون راهنمایی تو نمودار را جور دیگری می‌خواندم.
+
+Jurij نوشت:
+
+سلام bodo، FTR بعد از شکست ساخته می‌شود نه قبلش، این نمودار را ببین. FTR3 تو قبل از شکست FL (عرضهٔ واقعی) ساخته شد.
+
+آه، فکر می‌کنم این ابهام از تفاوت نقاط تصمیم (DP) با FTR می‌آید. نقطهٔ تصمیم (DP) می‌تواند قبل از شکست باشد، پس می‌توانی بگویی FTR3 یک نقطهٔ تصمیم برای شکست عرضه است، ولی FTR نیست.
+
+بله، از مقیاس هم تایم‌فریم را می‌گویم و هم ارتباطش با FTR‌ها و سوینگ‌های مهم.
+
+در LTF سوینگ‌ها و FTR‌های دیگری هم هست، ولی در این تایم‌فریم و در این بافت (مقیاس) آن 2 FTR که فلگ را محدود کرده‌اند و آن رنج و PAZ را ساخته‌اند، اهمیتی ندارند.
+
+[/quote]
+
+### jurij_p9_24
+EN: Bodostock, actually it would be right to treat that what you marked as FTR, because it broke supply, retraced and then made a new high. That FTR is confirmed once a new high is made. See this chart:
+
+Not to confuse you more, but this is important stuff to understand FTR/FL.
+FA: Bodostock، راستش درست است که آنچه به‌عنوان FTR علامت زدی را FTR حساب کنیم، چون عرضه را شکست، ریتریس کرد و بعد سقف تازه ساخت. آن FTR با ثبت همین سقف تأیید می‌شود. این نمودار را ببین:
+
+نمی‌خواهم بیشتر گیجت کنم، ولی این چیز مهمی برای فهم FTR/FL است.
+
+### jurij_p9_25
+EN: But problem is the FTR did not work for a long trade. I would have made a loss to do a touch trade on this FTR.
+
+I would have thought that this FTR is of a larger scale.
+
+In the end, whether it is the FL2, this FTR, the FTR3 or the FL1, they were all faked out.
+
+I would have made about 3 losses.
+
+1 ) A long at FL2's FTR,
+
+2) a short at ignored FL2 engulfed demand,
+
+3) a long at this FTR.
+
+Price just wanna to reach the lowest of the bottom which is the other edge of your stacked PAZ.
+
+Jurij wrote: Bodostock, actually
+it would be right to treat that what you marked as FTR, because it broke
+ supply, retraced and then made a new high. That FTR is confirmed once a new high is made. See this chart:
+
+Not to confuse you more, but this is important stuff to understand FTR/FL.
+FA: ولی مشکل این است که FTR برای یک معاملهٔ خرید جواب نداد. با یک تاچ‌ترید روی این FTR ضرر می‌کردم.
+
+فکر می‌کردم این FTR مقیاس بزرگ‌تری دارد.
+
+آخرش، چه FL2 باشد، چه این FTR، چه FTR3 یا FL1، همه‌شان فیکاوت شدند.
+
+حدود 3 ضرر می‌کردم.
+
+1 ) یک خرید روی FTR مربوط به FL2،
+
+2) یک فروش روی تقاضای اینگالف‌شدهٔ FL2 نادیده‌گرفته‌شده،
+
+3) یک خرید روی این FTR.
+
+قیمت فقط می‌خواست به پایین‌ترین کف برسد، همان لبهٔ دیگر PAZ انباشته‌ات.
+
+Jurij نوشت: Bodostock، راستش درست است که آنچه به‌عنوان FTR علامت زدی را FTR حساب کنیم، چون عرضه را شکست، ریتریس کرد و بعد سقف تازه ساخت. آن FTR با ثبت همین سقف تأیید می‌شود. این نمودار را ببین:
+
+نمی‌خواهم بیشتر گیجت کنم، ولی این چیز مهمی برای فهم FTR/FL است.

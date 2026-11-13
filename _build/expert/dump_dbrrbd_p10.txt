@@ -1,0 +1,214 @@
+### dbrrbd_p10_226 hash=3431627e4c93b747e17707e570f6de94136d5ec6
+EN>>
+Result:
+
+90-RBD/DBR zones
+
+48-zones=respected 28-zones=ignored 10-zones=0.5 6-zones=not test.
+
+27-S/R zones 16-zones=respected 4-zones=ignored 7-zones=0.5
+
+I am closing this thread too.I didn't reached my No.target 200 examples but will continue in other HW sestions so I will reach that target combine with another subjects. Target understanding and spoting most zones is quiet reach at least I build base for next HW sesctions.
+
+39-200:
+
+40-200:
+
+41-200:
+
+42-200:
+
+43-200:
+
+44-200:
+
+45-200:
+FA>>
+نتیجه:
+
+90 ناحیهٔ RDB/DBR
+
+48 مورد رعایت‌شده، 28 مورد نادیده‌گرفته‌شده، 10 مورد با 0.5، 6 مورد آزمایش‌نشده.
+
+نواحی S/R: 16 رعایت‌شده، 4 نادیده‌گرفته‌شده و 7 با 0.5
+
+من این تاپیک را هم می‌بندم. به هدف 200 نمونه‌ای خودم نرسیدم، اما در بخش‌های دیگر تکلیف ادامه می‌دهم تا آن هدف را همراه با موضوع‌های دیگر محقق کنم. هدفم فهمیدن و پیدا کردن بیشترِ نواحی است که تقریباً محقق شده؛ دست‌کم پایه‌ای برای بخش‌های بعدی تکلیف ساخته‌ام.
+
+39-200:
+
+40-200:
+
+41-200:
+
+42-200:
+
+43-200:
+
+44-200:
+
+45-200:
+
+### dbrrbd_p10_227 hash=9956c9914a5b5a0529ea73ec86c5a07ed7fa6729
+EN>>
+USDCAD H4 2012-10-07
+FA>>
+USDCAD H4 2012-10-07
+
+### dbrrbd_p10_228 hash=004791cd82683d259c6c1c49572f022effc5a334
+EN>>
+AUCCAD H4 2012-10-07
+FA>>
+AUCCAD H4 2012-10-07
+
+### dbrrbd_p10_229 hash=cddeb4efd76f16af760ce8f8ef41a5bcfb30e03e
+EN>>
+EURJPY H4 2012-10-07:
+FA>>
+EURJPY H4 2012-10-07:
+
+### dbrrbd_p10_230 hash=d6dc9e97f6df5a1896b2c8c1197d9f8c2c394e95
+EN>>
+EURUSD H1 2012-10-07:
+
+EURUSD H4 2012-10-07:
+FA>>
+EURUSD H1 2012-10-07:
+
+EURUSD H4 2012-10-07:
+
+### dbrrbd_p10_231 hash=4dbfdba78698b7a075982317cd84aa0598860e4d
+EN>>
+GBP/JPY 30m chart showing DBRs & RBDs
+FA>>
+چارت 30m GBP/JPY که DBRها و RBDها را نشان می‌دهد
+
+### dbrrbd_p10_232 hash=9e7a6d6f18361129025ac30087533f1cad6ba1af
+EN>>
+GBP/JPY 30m chart showing DBRs & RBDs (part 2)
+FA>>
+چارت 30m GBP/JPY که DBRها و RBDها را نشان می‌دهد (بخش 2)
+
+### dbrrbd_p10_233 hash=6c1b60d27c3ad0f2849ce862818b8aebc70eef36
+EN>>
+First try at spotting these. Daily Euro. Comments welcome.
+FA>>
+اولین تلاش برای پیدا کردن این‌ها. یورو روزانه. نظرات خوش‌آمدند.
+
+### dbrrbd_p10_235 hash=b92ec6081aeba569b780ca668c143ad3565cd358
+EN>>
+Oedipus99 wrote: First try at spotting these. Daily Euro. Comments welcome.
+
+Hi Oedipus
+
+Nice work. Here's some more. Also it's better to draw S/D zones.
+
+Regards, Ashkan
+FA>>
+Oedipus99 نوشت: اولین تلاش برای پیدا کردن این‌ها. یورو روزانه. نظرات خوش‌آمدند.
+
+سلام Oedipus
+
+کار خوبی است. این هم چند مورد دیگر. ضمناً بهتر است نواحی S/D را رسم کنی.
+
+با احترام، Ashkan
+
+### dbrrbd_p10_236 hash=1f300a62a1eb151a8408b177025547ac0bb71fa7
+EN>>
+Oedipus99 wrote: Aussie daily.
+
+What is the TF of S/D zones you marked on your chart?
+FA>>
+Oedipus99 نوشت: AUD روزانه.
+
+تایم‌فریم نواحی S/D که روی چارتت علامت زده‌ای چیست؟
+
+### dbrrbd_p10_237 hash=473fea8cce57835e0fb6ee9fff0fe1b9c9d14e29
+EN>>
+It's all from the daily. I haven't worked my way down yet.
+FA>>
+همه‌اش از تایم‌فریم روزانه است. هنوز پایین‌تر نیامده‌ام.
+
+### dbrrbd_p10_238 hash=53bfee93e1e5bee030e5b867398f003795253421
+EN>>
+Hey, thanks for critiquing my homework. Only just saw that, much appreciated. Looking at it now.
+FA>>
+سلام، ممنون که تکلیفم را نقد کردی. همین حالا دیدمش، خیلی ممنونم. الان دارم نگاهش می‌کنم.
+
+### dbrrbd_p10_239 hash=95dab4625fc249a31b530013f91b56a750fef86e
+EN>>
+Please read these articles www.acegazette.com/en/trading-articles/supply-and-demand.html Some correct S/D zones on AUDUSD D1 TF:
+FA>>
+لطفاً این مقاله‌ها را بخوانید: www.acegazette.com/en/trading-articles/supply-and-demand.html چند ناحیهٔ S/D درست روی AUDUSD در تایم‌فریم D1:
+
+### dbrrbd_p10_240 hash=4402ab116e8d053039fe37a6740e5999a5b0fc3d
+EN>>
+Thanks, I'll do the reading now. I'd just finished this one so I thought I'd post it anyway. H1 Aussie dollar.
+FA>>
+ممنون، همین حالا می‌خوانم. تازه این یکی را تمام کرده بودم، پس گفتم به‌هرحال پستش کنم. دلار استرالیا در H1.
+
+### dbrrbd_p10_241 hash=a9b3da6d5da1548e508b4ed235a47d4bbf5bfc2d
+EN>>
+This is M15 zooming in from the previous chart. Again, I love comments.
+FA>>
+این M15 است که از چارت قبلی زوم شده. باز هم، نظرات برایم عزیزند.
+
+### dbrrbd_p10_243 hash=27f7facab3a12c2417209d52cd7b00e825d932b2
+EN>>
+You people have my undivided attention.
+FA>>
+شما تمام توجهم را دارید.
+
+### dbrrbd_p10_246 hash=fbe2d02cfa4074c326a4bffcb7f0596d1c52e013
+EN>>
+Back to homework.
+FA>>
+برگردیم به تکلیف.
+
+### dbrrbd_p10_247 hash=09514e714eecbe9c2eda1f119b1ebc823f833c95
+EN>>
+Funnily enough the supply level at around 1790 held:)
+FA>>
+جالب است که سطح عرضه حدود 1790 دوام آورد:)
+
+### dbrrbd_p10_248 hash=c3e1d5afe185055b228ef196e30678e88d3b1580
+EN>>
+Ifmyante
+
+Chief Cook and Bottle Washer
+
+ever find
+
+CathS wrote: Funnily enough the supply level at around 1790 held:)
+
+And with good reason too:)
+
+Keep up the good work!
+FA>>
+Ifmyante
+
+Chief Cook and Bottle Washer
+
+ever find
+
+CathS نوشت: جالب است که سطح عرضه حدود 1790 دوام آورد:)
+
+و با دلیل خوبی هم بود:)
+
+کار خوبت را ادامه بده!
+
+### dbrrbd_p10_249 hash=e81bd73deda82a666f38787a811cc38a8e09ed57
+EN>>
+Great hw Cath. Wish I could understand it this well.
+FA>>
+تکلیف عالی بود Cath. کاش من هم می‌توانستم این‌قدر خوب بفهممش.
+
+### dbrrbd_p10_250 hash=862bc919560d155264940873cb00d2afc5df542e
+EN>>
+Hello everyone,
+
+this is my RBD/DBR homework. Feel free to comment. Thank you.
+FA>>
+سلام به همه،
+
+این هم تکلیف RBD/DBR من، راحت باشید و نظر بدهید. ممنون.
+

@@ -1,0 +1,286 @@
+### jurij_p3_1
+EN: Jurij wrote: USDCHF 1m engulf that failed [...]
+
+My best guess to explain what happened, still not sure:
+
+The first circle was the actual engulf signal and the second low was a reaction to the FL just below (entire 1m candle).
+
+So in this case price didn't reach the origin just the next FL.
+FA: Jurij نوشت: اینگالف USDCHF 1m که شکست خورد [...]
+
+بهترین حدسم برای توضیح آن‌چه رخ داد، هرچند هنوز مطمئن نیستم:
+
+دایرهٔ اول همان سیگنال اینگالف واقعی بود و کف دوم واکنشی به FL درست زیرش بود (کل کندل 1m).
+
+پس در این مورد قیمت به مبدأ نرسید، فقط به FL بعدی.
+
+### jurij_p3_2
+EN: Hey Jurij, wanted to give my take on what happened to your trade.
+That was an engulf where price DID move to the next FL, but that's all
+you can reasonably expect since you were on such a low time frame. I
+think the mistake was expecting price to KEEP going down on such a low
+time frame move. Usually I try to only use the M1 to validate a higher
+time frame move. I marked up your chart looking at it more
+holistically.
+
+1. You see price engulfed what looks to be a fairly significant FL. And
+ it engulfed it with a bull candle (2), which would suggest price wants
+to go up. At this point I would be looking for an area to enter a long
+trade.
+
+3. Now price did engulf downward, but it was in the context of a larger
+move. Price was compressing into the bull candle. At the end of the
+compression, you would expect price to continue going up. Rather than
+go short here I would read price is just retracing before continuing its
+ move up.
+
+4. And you see the compression ended right at the s/r flip level, and price continued its move up.
+
+The s/r flip level and base of the pole are possible areas to look for a
+ long entry, depending on your risk profile. When starting off, try to
+stick to the higher time frames for analysis. I bet if you were looking
+ at the m5 or m15, it would have been easier to see that price wanted to
+ move up.
+FA: سلام Jurij، می‌خواستم نظرم را دربارهٔ آن‌چه بر سر معامله‌ات آمد بگویم. آن یک اینگالف بود که قیمت واقعاً به FL بعدی رفت، اما از یک تایم‌فریم آن‌قدر پایین بیشتر از این نمی‌توانی انتظار داشته باشی. فکر می‌کنم اشتباه این بود که انتظار داشتی قیمت با چنین حرکت تایم‌فریم پایینی به نزول ادامه بدهد. معمولاً سعی می‌کنم M1 را فقط برای تأیید یک حرکت در تایم‌فریم بالاتر به کار ببرم. نمودارت را با نگاه کلی‌تری علامت‌گذاری کردم.
+
+1. می‌بینی قیمت چیزی را اینگالف کرده که به نظر FL نسبتاً مهمی می‌آید. و با یک کندل صعودی (2) اینگالفش کرد، که نشان می‌دهد قیمت می‌خواهد بالا برود. در این نقطه دنبال ناحیه‌ای برای ورود به معاملهٔ خرید می‌گشتم.
+
+3. حالا قیمت به سمت پایین اینگالف کرد، اما در کانتکست یک حرکت بزرگ‌تر. قیمت در حال فشرده شدن داخل کندل صعودی بود. در پایان فشرده‌سازی انتظار داری قیمت به صعود ادامه بدهد. به‌جای فروش در این‌جا، من این‌طور می‌خواندم که قیمت فقط قبل از ادامهٔ صعودش اصلاح می‌کند.
+
+4. و می‌بینی که فشرده‌سازی دقیقاً روی سطح تبدیل حمایت/مقاومت (s/r flip) تمام شد و قیمت به صعودش ادامه داد.
+
+سطح تبدیل حمایت/مقاومت و بیس میله، بسته به پروفایل ریسکت، نواحی ممکنی برای جست‌وجوی ورود خرید هستند. در شروع کار سعی کن برای تحلیل به تایم‌فریم‌های بالاتر بچسبی. شرط می‌بندم اگر m5 یا m15 را نگاه می‌کردی، دیدن این‌که قیمت می‌خواهد بالا برود آسان‌تر بود.
+
+### jurij_p3_3
+EN: ahdat
+
+I shorted into an important decision point.
+
+But I think 1m trading is fine as long as we keep considering HTF zones (which in this case I missed to do).
+
+thanks
+FA: ahdat
+
+من روی یک نقطهٔ تصمیم مهم فروش زدم.
+
+اما فکر می‌کنم معامله در 1m اشکالی ندارد، تا وقتی که ناحیه‌های HTF را در نظر بگیریم (که در این مورد از قلمم افتاد).
+
+ممنون
+
+### jurij_p3_4
+EN: And the exact same setup occurred again (eng to S/R flip after decision)
+
+If this keeps happening then it could become a good continuation pattern.
+FA: و دقیقاً همان ستاپ دوباره رخ داد (اینگالف به تبدیل S/R بعد از تصمیم)
+
+اگر این‌طور ادامه پیدا کند، می‌تواند الگوی ادامهٔ خوبی شود.
+
+### jurij_p3_6
+EN: love those pin bars from QM levels
+FA: عاشق این پین‌بارهای سطوح QM هستم
+
+### jurij_p3_8
+EN: Some losers too
+
+USDCAD
+
+after some time on 5m chart, missed this one
+
+CADJPY
+FA: چند بازنده هم
+
+USDCAD
+
+بعد از مدتی روی نمودار 5m، این یکی را از دست دادم
+
+CADJPY
+
+### jurij_p3_9
+EN: Not much for today
+
+GBPUSD 1m little scalp
+
+GBPUSD 1m loser
+
+I think the engulf failed because price was way to high on the curve
+(mountain) and too close to the origin of the move down (no business
+left here). Another reason price engulfed into the edge of that 1m
+decision point which is a clear FTR on the 10 sec chart.
+
+To be fair, price did not touch it, it went only close.
+
+Maybe it was a FO rather than an engulf.
+
+There are better setups, no need to take everything
+FA: برای امروز چیز زیادی نیست
+
+اسکالپ کوچک GBPUSD 1m
+
+GBPUSD 1m، بازنده
+
+فکر می‌کنم اینگالف شکست خورد چون قیمت روی منحنی (کوه) خیلی بالا بود و به مبدأ حرکت نزولی خیلی نزدیک (اینجا دیگر کاری نمانده بود). دلیل دیگر این‌که قیمت به لبهٔ آن نقطهٔ تصمیم 1m اینگالف کرد که روی نمودار 10 ثانیه یک FTR واضح است.
+
+انصافاً قیمت به آن دست نزد، فقط نزدیک شد.
+
+شاید به‌جای اینگالف یک FO بود.
+
+ستاپ‌های بهتری هست؛ نیازی نیست همه را بگیری
+
+### jurij_p3_10
+EN: USDCHF 1m
+
+AUDUSD 1m engulf fail
+FA: USDCHF 1m
+
+شکست اینگالف AUDUSD 1m
+
+### jurij_p3_13
+EN: Poles, flags, flag limits, pole bases...
+
+Now making sense
+FA: میله‌ها، فلگ‌ها، فلگ‌لیمیت‌ها، بیس‌های میله...
+
+حالا معنا پیدا می‌کند
+
+### jurij_p3_14
+EN: Same stuff everyday
+FA: هر روز همین ماجرا
+
+### jurij_p3_15
+EN: Trading the 1m chart on high spread pairs like AUDNZD is not a good idea
+
+SL was beyond my marked FL but spread ate it anyway, luckly made back the loss with a FTB scalp
+FA: معامله روی نمودار 1m در جفت‌ارزهای با اسپرد بالا مثل AUDNZD ایدهٔ خوبی نیست
+
+استاپ‌لاس فراتر از FL علامت‌خوردهٔ من بود، اما اسپرد باز هم آن را خورد؛ خوشبختانه با یک اسکالپ FTB ضرر را برگرداندم
+
+### jurij_p3_16
+EN: Closed my remaining HTF position on AUDNZD
+
+Unfilled gap and engulf
+FA: پوزیشن باقی‌ماندهٔ HTF روی AUDNZD را بستم
+
+شکاف پرنشده و اینگالف
+
+### jurij_p3_17
+EN: Guys it is always the same problem, engulf yes or no. On one TF it is on the other it isn't.
+
+GBPJPY 5m
+
+1m break zone
+FA: بچه‌ها همیشه همین مشکل هست: اینگالف هست یا نه. روی یک TF هست، روی دیگری نیست.
+
+GBPJPY 5m
+
+ناحیهٔ شکست 1m
+
+### jurij_p3_18
+EN: If it's engulfed, we can expect a move down. But, was price engulfed
+or did we experience a fakeout? The difference is in the FTR - was one
+formed, or did we find a neat little RBR/DBD after price engulfed the
+lows of our flag limit or SR? You'll have to take a closer look at the
+lower time frames in order to find out.
+FA: اگر اینگالف شده باشد، می‌توان انتظار حرکت نزولی داشت. اما آیا واقعاً قیمت اینگالف شد یا با یک فیک‌اوت روبه‌رو شدیم؟ تفاوت در FTR است: آیا یکی شکل گرفت، یا بعد از اینگالف کف‌های فلگ‌لیمیت یا SR یک RBR/DBD کوچک و مرتب پیدا می‌کنیم؟ برای فهمیدنش باید تایم‌فریم‌های پایین‌تر را دقیق‌تر نگاه کنی.
+
+### jurij_p3_19
+EN: Kanzler, I read your post over and over while trying to understand what you really mean.
+
+Still not sure what you mean when you say to look for price forming an FTR after
+ engulfing the low of the FL, because if an FTR is formed price would
+not come back up for an entry (sell) towards the pole base... or maybe
+you are talking in general and not referring to the example above?
+
+Thanks for the tip.
+FA: Kanzler، پستت را بارها و بارها خواندم و سعی کردم بفهمم واقعاً منظورت چیست.
+
+هنوز مطمئن نیستم وقتی می‌گویی بعد از اینگالف کف FL دنبال شکل‌گیری یک FTR باشیم منظورت چیست، چون اگر FTR شکل بگیرد، قیمت برای یک ورود (فروش) به سمت بیس میله برنمی‌گردد... یا شاید کلی صحبت می‌کنی و به مثال بالا اشاره نداری؟
+
+ممنون از راهنمایی.
+
+### jurij_p3_20
+EN: Yes my apology I was just speaking in general.
+FA: بله، عذرخواهی می‌کنم؛ فقط کلی صحبت می‌کردم.
+
+### jurij_p3_21
+EN: GBPAUD 30m Flag break setup with a lovely diamond
+FA: ستاپ شکست فلگ GBPAUD 30m با یک الماس دوست‌داشتنی
+
+### jurij_p3_22
+EN: Hello Jurij, sorry to pest your journal, hope you don't mind.
+
+It's just because i'd like better know your point of view on AUDUSD
+setup of yesterday, as it rallied nicely + 200 pips from the FL of
+yesterday. Here below your post:
+
+as i understood you would have passed it because the engulf ( the only
+one you consider is Engulf North , of FTR you marked ) got already
+target on DBD. Am i right ?
+
+Kanzler says about a FL isn't your FTR , like this: "...but the flag
+limit is actually right under where you marked FTR it suppresses price
+for a little bit. They're both DBDs.." , then FL got broken and the BO
+was the signal to go long.
+
+But i can not see yet that BO, I can notice as far only one BreakOut, it
+ is your BreakOut North of your FTR. also this BO would have been South
+
+Here my post practically like yours:
+
+but the setup really worked so good and still it does it. Maybe you and Kanzler say the same BreakOut ?
+
+Many thanks and best regards !!
+FA: سلام Jurij، ببخش که مزاحم ژورنالت می‌شوم، امیدوارم مشکلی نداشته باشی.
+
+فقط چون می‌خواهم دیدگاهت را دربارهٔ ستاپ دیروز AUDUSD بهتر بدانم؛ همان‌طور که از FL دیروز با 200 پیپ رشد خوبی کرد. پستت را پایین آورده‌ام:
+
+آن‌طور که فهمیدم تو از آن رد می‌شدی، چون اینگالف (که تنها یکی را در نظر داری: اینگالف شمالی FTRی که علامت زدی) روی DBD به تارگتش رسیده بود. درست می‌گویم؟
+
+Kanzler دربارهٔ این‌که FL همان FTR تو نیست چنین می‌گوید: «...اما فلگ‌لیمیت درست زیر همان‌جایی است که FTR را علامت زدی؛ کمی قیمت را سرکوب می‌کند. هر دو DBD هستند..»، بعد FL شکسته شد و BO سیگنال خرید شد.
+
+اما من هنوز آن BO را نمی‌بینم؛ تا این‌جا فقط یک بریک‌اوت متوجه می‌شوم و آن هم بریک‌اوت شمالی FTR تو است. به‌علاوه این BO باید جنوبی می‌بود
+
+این هم پست من که عملاً مثل پست توست:
+
+اما ستاپ واقعاً خوب جواب داد و هنوز هم می‌دهد. شاید تو و Kanzler از یک بریک‌اوت حرف می‌زنید؟
+
+خیلی ممنون و بهترین درودها!!
+
+### jurij_p3_23
+EN: Hi althoufx,
+
+not sure why you are looking for a breakout south for longs?
+
+After a flag forms we want to trade back to the pole base once the limit is engulfed (my understanding).
+
+This is how I see what Kanzler meant by lower FTR, but I could be wrong, so don't count on me.
+FA: سلام althoufx،
+
+مطمئن نیستم چرا برای معاملهٔ خرید دنبال بریک‌اوت به سمت جنوب می‌گردی؟
+
+بعد از شکل‌گیری یک فلگ، وقتی لیمیت اینگالف شد می‌خواهیم به سمت بیس میله معامله کنیم (درک من).
+
+منظور Kanzler از FTR پایین‌تر را این‌طور می‌بینم، اما ممکن است اشتباه کنم، پس روی من حساب نکن.
+
+### jurij_p3_24
+EN: NZDCAD 5m
+
+looked like a nice setup because price engulfed back in the PAZ below
+FA: NZDCAD 5m
+
+ستاپ خوبی به نظر می‌رسید، چون قیمت دوباره به PAZ پایینی اینگالف زد
+
+### jurij_p3_25
+EN: EURJPY 1m
+
+closed manually just before the U.S. unemployment news.
+
+But made this funny animated gif about the setup
+
+	cdn.makeagif.com/media/3-03-2016/8_J2V6.gif
+FA: EURJPY 1m
+
+دستی بستم، درست قبل از خبر بیکاری آمریکا.
+
+اما یک گیف متحرک بامزه از این ستاپ ساختم
+
+cdn.makeagif.com/media/3-03-2016/8_J2V6.gif

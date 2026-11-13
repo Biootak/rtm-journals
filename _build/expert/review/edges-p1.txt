@@ -1,0 +1,819 @@
+### edges_p1_1
+EN: Introduction
+
+Well RTM is up and running again and my fellow students and I have
+recently finished undertaking the RTMA QM course. There is still a lot
+of work to I need to do in regards to my trading but I have the
+foundations on how I see price move and what to expect. Is that all that
+ is required. NO. The psychological and aspects are more important.
+
+I am using this new Journal take what I have learnt here and from RTMA
+to put my thoughts on paper. These are my interpretations and may need
+tweaking, so anything I write, please do not take as absolute. We have
+had some great discussions over at RTMA and everyone has been amazing.
+Thanks to the RTM (4) brothers: IF,Gil,Martin and Harry for RTM. Also
+thank you to the RTMA students. Finally thank you to members here.
+
+Purpose - The Blue Dot Community
+
+Anyone who is not a part of the blue community, I suggest thinking about
+ it. After all, it is my understanding this is why we are learning to
+read price. Eventually the plan is to destroy the markets. My initial
+motives years ago were not this and I only joined RTM with the aim to
+quit my job and make money for me. I was motivated by greed. Now I am
+not going to say that financial freedom is still not a goal, it is
+however I am of the view we can only earn whilst the fund builds up and
+serves the purpose of the blue dot community. My goal is simple to help
+IF and others achieve
+	www.theblue.community/
+ . I will start by
+
+1.	Finalise testing and trading (ongoing)
+
+2.	Start to assist others with learning on areas I know (future goal)
+
+3.	Also assist with the fund (future goal)
+
+4.	Assist with THE BLUE COMMUNITY (end goal)
+
+New Journal
+
+My old journal was full of S/D rubbish especially the initial posts. I
+hate S/D. I think it’s the new ploy to market it as institutional
+trading. When I say S/D I mean the conventional way of trading S/D. In
+fact one could say RTM methods are closer to S/R trading. But S/R is
+also a terrible form of trading, especially the conventional methods.
+The rest of the journal was jumping from one random thought to another
+and chasing the shiny ball of a new RTM concept before understanding the
+ basics of the previous concept.
+
+Feel free to drop by and add anything or spark a conversation. I think I
+ will start the next post with a summary of how I now see the market.
+Let’s all get involved!
+
+Regards, Clint
+FA: مقدمه
+
+خب، RTM دوباره راه افتاده و من و هم‌درسی‌هایم به‌تازگی دورهٔ QM آکادمی RTM را به پایان رسانده‌ایم. هنوز کارهای زیادی در مورد معامله‌گری‌ام مانده، اما پایه‌های نگاهم به حرکت قیمت و انتظاراتم را دارم. آیا همین تمام چیزی است که لازم است؟ نه. جنبه‌های روانی مهم‌ترند.
+
+از این ژورنال تازه استفاده می‌کنم تا آنچه را اینجا و از آکادمی RTM آموخته‌ام روی کاغذ بیاورم. اینها تفسیرهای خودم هستند و شاید نیاز به اصلاح داشته باشند، پس هر چیزی که می‌نویسم را مطلق در نظر نگیرید. ما در آکادمی RTM بحث‌های خوبی داشته‌ایم و همه فوق‌العاده بوده‌اند. سپاس از برادران RTM (4): IF، Gil، Martin و Harry برای RTM. همچنین سپاس از دانشجویان آکادمی RTM. و در پایان سپاس از اعضای اینجا.
+
+هدف - جامعهٔ نقطهٔ آبی
+
+به هر کسی که بخشی از جامعهٔ آبی نیست، پیشنهاد می‌کنم درباره‌اش فکر کند. بالاخره، برداشت من این است که به همین دلیل یاد می‌گیریم قیمت را بخوانیم. در نهایت، برنامه نابودی بازارهاست. انگیزه‌های اولیهٔ من سال‌ها پیش این نبود و RTM را فقط با هدف ترک شغلم و پول درآوردن برای خودم شروع کردم. محرک من حرص بود. حالا نمی‌خواهم بگویم که آزادی مالی دیگر هدف نیست؛ هست، اما نظر من این است که ما فقط تا زمانی می‌توانیم درآمد داشته باشیم که صندوق شکل بگیرد و هدف جامعهٔ نقطهٔ آبی را برآورده کند. هدف من ساده است: کمک به IF و دیگران برای دستیابی به www.theblue.community/ . با این‌ها شروع می‌کنم
+
+1. نهایی کردن تست و معامله (در جریان)
+
+2. شروع کمک به دیگران در یادگیری حوزه‌هایی که می‌دانم (هدف آینده)
+
+3. همچنین کمک به صندوق (هدف آینده)
+
+4. کمک به جامعهٔ آبی (هدف نهایی)
+
+ژورنال تازه
+
+ژورنال قبلی من پر از آشغال S/D بود، به‌ویژه پست‌های اولش. از S/D متنفرم. فکر می‌کنم این ترفند تازه‌ای است برای بازاریابی آن به‌عنوان معامله‌گری سازمانی. وقتی می‌گویم S/D منظورم روش متعارف معامله با S/D است. در واقع می‌شود گفت روش‌های RTM به معاملهٔ S/R نزدیک‌ترند. اما S/R هم شکل وحشتناکی از معامله‌گری است، به‌ویژه روش‌های متعارفش. باقی ژورنال هم از یک فکر تصادفی به فکر دیگر می‌پرید و پیش از فهمیدن مبانی مفهوم قبلی، دنبال توپ براق یک مفهوم تازهٔ RTM می‌افتاد.
+
+راحت بیایید و چیزی اضافه کنید یا بحثی راه بیندازید. فکر می‌کنم پست بعدی را با خلاصه‌ای از اینکه حالا بازار را چطور می‌بینم شروع کنم. بیایید همه مشارکت کنیم!
+
+با احترام، Clint
+
+### edges_p1_2
+EN: From what I have learnt, I.Ts move price from kink to kink (DPs) They
+start as FTRs and once the TG is met the FL is confirmed. Price bounces
+between these places back and forth (scale dependant) and any clean
+orders need to be used upon return or taken, otherwise they may lose
+money. In between these areas is a no mans land where Highs and Lows and
+ CP, Can cans are all created to invoke Breakout traders and the stops
+of other traders to have their orders filled. These are like pools of
+liquidity, all manufactured for manipulation purposes. Nothing like Fear
+ or Greed to fill a long or short position.
+
+We need to ask ourselves this, why the hell are we able to short sell
+something we don’t own. How can a market be framed legitimately. Simple,
+ because they can load and unload the opposite side. If there was no
+short selling, they couldn’t fill their orders. Also wondered why data
+is so limited. A lot of the areas where price turns could be years ago
+and only visible on a tick chart. A tiny kink from the break of a LS or
+into another Paz. The better the area is hidden, the better the trick is
+ to get their liquidity.
+FA: بر اساس آنچه آموخته‌ام، I.Ts‌ها قیمت را از یک کینک به کینک بعدی (DP‌ها) می‌برند. آنها به‌صورت FTR شروع می‌شوند و وقتی تارگت محقق شد، FL تأیید می‌شود. قیمت میان این نقاط به عقب و جلو می‌پرد (بسته به مقیاس) و هر سفارش تمیزی باید در بازگشت استفاده یا برداشته شود، وگرنه ممکن است پولشان از دست برود. میان این نواحی سرزمین هیچ‌کس است؛ جایی که سقف‌ها و کف‌ها و CP و کانکان‌ها همه ساخته می‌شوند تا معامله‌گران بریک‌اوت را فراخوانند و استاپ معامله‌گران دیگر را برای پر شدن سفارش‌های خودشان فعال کنند. اینها مثل استخرهای نقدینگی‌اند، همه برای مقاصد دستکاری ساخته شده‌اند. هیچ‌چیز مثل ترس یا طمع یک پوزیشن خرید یا فروش را پر نمی‌کند.
+
+ما باید از خودمان بپرسیم، چرا لعنتی می‌توانیم چیزی را که مالکش نیستیم بفروشیم؟ چگونه می‌توان یک بازار را به‌شکل موجه چارچوب‌بندی کرد؟ ساده است، چون آنها می‌توانند طرف مقابل را پر و خالی کنند. اگر فروش استقراضی وجود نداشت، نمی‌توانستند سفارش‌هایشان را پر کنند. همچنین تعجب کرده‌ام چرا داده‌ها این‌قدر محدود است. بسیاری از نواحی چرخش قیمت می‌توانند مربوط به سال‌ها پیش باشند و فقط روی چارت تیک دیده شوند. کینکی ریز از شکست یک LS یا ورود به یک PAZ دیگر. هرچه ناحیه بهتر پنهان شده باشد، ترفند گرفتن نقدینگی‌شان بهتر است.
+
+### edges_p1_3
+EN: We have recently heard that price moves from FL to FL or FTR to FTR. below are examples of what the kinks (FL) may look like.
+
+Further to the above the cycle of the kink/DP where it be used for a area to look for PA:
+
+Green circle is where kink is for FTR/DP of low. (can also be any break
+ into and FTR of PAZ). Upon return orange kink acts as FTR/DP and makes
+green kink a Left shoulder, price breaks or ignores the the orange kink
+which is the LS so we have a ignored or broken LS and this is the last
+stage we can use a kink (red). This is all attributed to the first low.
+After the ILS (ignored left shoulder) the area is no longer use to me. I
+ actually consider it space.
+FA: اخیراً شنیده‌ایم که قیمت از FL به FL یا از FTR به FTR حرکت می‌کند. در پایین نمونه‌هایی از شکل احتمالی کینک‌ها (FL) آمده است.
+
+علاوه بر موارد بالا، چرخهٔ کینک/DP که به‌عنوان ناحیه‌ای برای جست‌وجوی PA استفاده می‌شود:
+
+دایرهٔ سبز جایی است که کینک برای FTR/DP کف قرار دارد. (می‌تواند هر شکستی به داخل FTR یک PAZ هم باشد). با بازگشت، کینک نارنجی نقش FTR/DP را بازی می‌کند و کینک سبز را به یک شانهٔ چپ تبدیل می‌کند؛ قیمت کینک نارنجی را می‌شکند یا نادیده می‌گیرد و آن همان LS است، پس یک LS نادیده‌گرفته‌شده یا شکسته داریم و این آخرین مرحله‌ای است که می‌توانیم از یک کینک (قرمز) استفاده کنیم. همهٔ اینها به کف اول نسبت داده می‌شود. بعد از ILS (شانهٔ چپ نادیده‌گرفته‌شده) دیگر ناحیه برای من کاربردی ندارد. در واقع من آن را فضا می‌دانم.
+
+### edges_p1_4
+EN: We are so blind to FIAT currency. How can we place so much value on something that is backed by nothing!
+FA: ما نسبت به ارز فیات بسیار کور هستیم. چطور می‌توانیم این‌قدر برای چیزی ارزش قائل شویم که پشتوانه‌ای ندارد!
+
+### edges_p1_5
+EN: Recently, IF advised us of a great site while we were undertaking the
+recent RTMA course. Since we are all working together here. I thought it
+ may assist, especially when marking up our high scale charts. History
+back to the 50's for cable.
+	fxtop.com/en/historical-exchange-rates.php?MA=1
+FA: اخیراً IF در حین گذراندن دورهٔ تازهٔ آکادمی RTM سایتی عالی را به ما معرفی کرد. چون همه اینجا با هم کار می‌کنیم، فکر کردم ممکن است کمک کند، به‌ویژه هنگام مارک‌آپ کردن چارت‌های مقیاس بالا. تاریخچه تا دههٔ 50 برای cable.
+ fxtop.com/en/historical-exchange-rates.php?MA=1
+
+### edges_p1_6
+EN: After a while you can see how the I.Ts place their orders. I’m
+actually getting more enjoyment from drilling down and understanding the
+ mechanics of the manipulation rather than the actual trading. But
+breaking down the theory is only one part.
+
+The building blocks of price seem to be confined into the limits of the
+flags. we can actually see their algos in place through CP, SPAZ, FL,
+Flags and Poles.
+
+The black lines are barriers all over the chart. (LS, SR, QML, IQML)
+dotted lines are CP or SPAZ on this scale. This is for analysis purposes
+ and I would probably clean it up
+
+a bit but it shows you the DPs and they move price, its almost like
+their footprints. There are more rules on FL’s and when they can be
+drawn, but I will overload my brain if I add anything further.
+
+The red and green represent the Limits of current price.
+FA: بعد از مدتی می‌توانید ببینید I.Ts‌ها سفارش‌هایشان را چطور می‌چینند. راستش من از کاویدن و فهمیدن مکانیک دستکاری بیشتر از خودِ معامله‌گری لذت می‌برم. اما شکستن تئوری فقط یک بخش ماجراست.
+
+به نظر می‌رسد بلوک‌های سازندهٔ قیمت به محدودهٔ FLAG‌ها محدود شده‌اند. ما در واقع می‌توانیم الگوریتم‌هایشان را از طریق CP، SPAZ، FL، FLAG‌ها و POLES‌ها در عمل ببینیم.
+
+خطوط سیاه موانع در سراسر چارت‌اند. (LS، SR، QML، IQML) خطوط نقطه‌چین در این مقیاس CP یا SPAZ هستند. این برای تحلیل است و احتمالاً کمی تمیزش می‌کنم
+
+اما DP‌ها را نشانتان می‌دهد و اینکه آنها قیمت را حرکت می‌دهند، تقریباً مثل جای پایشان. قواعد بیشتری درباره FL‌ها و زمان ترسیمشان هست، اما اگر چیز بیشتری اضافه کنم مغزم سرریز می‌شود.
+
+قرمز و سبز حدود قیمت فعلی را نشان می‌دهند.
+
+### edges_p1_7
+EN: Hi Edge,
+
+If you could please excuse me. I see a lot of PAZ with FLs in betweens
+and/or FL-turned-PAZ boxes. Would you be so kind to break the chart down
+ into several parts or different chart with different boxes based on
+prioritised charts with the most important boxes first to the charts
+that have additional important boxes?
+
+I apologize if I pollute your journal here, but i just cant help myself for not asking.
+
+ i have a lot to learn from these boxes though.
+
+Cheers buddy,
+FA: سلام Edge،
+
+اگر لطف کنید و مرا ببخشید. من PAZ‌های زیادی می‌بینم که میانشان FL هست و/یا باکس‌های FL که به PAZ تبدیل شده‌اند. لطف می‌کنید چارت را به چند بخش بشکنید یا چارت‌های متفاوتی با باکس‌های متفاوت بر اساس اولویت بدهید، از چارت‌هایی با مهم‌ترین باکس‌ها تا چارت‌هایی که باکس‌های مهم اضافی دارند؟
+
+عذر می‌خواهم اگر ژورنالت را اینجا شلوغ می‌کنم، اما نمی‌توانم جلوی خودم را بگیرم و نپرسم.
+
+با این حال چیز زیادی از این باکس‌ها یاد می‌گیرم.
+
+دمت گرم رفیق،
+
+### edges_p1_8
+EN: Edge wrote: After a while you
+can see how the I.Ts place their orders. I’m actually getting more
+enjoyment from drilling down and understanding the mechanics of the
+manipulation rather than the actual trading. But breaking down the
+theory is only one part.
+
+Very nice.
+
+I guess this will be a journal to spend quite a lot of time in.
+
+It looks like Price instead that from the left to the right, would be moving from behind towards us.
+
+And those blocks or boxes just lay one in front of the other, overlapping sometimes....
+
+Ok, we are now in the 3D phase of reading Price !
+FA: Edge نوشت: بعد از مدتی می‌توانید ببینید I.Ts‌ها سفارش‌هایشان را چطور می‌چینند. راستش من از کاویدن و فهمیدن مکانیک دستکاری بیشتر از خودِ معامله‌گری لذت می‌برم. اما شکستن تئوری فقط یک بخش ماجراست.
+
+خیلی خوب.
+
+حدس می‌زنم این ژورنالی باشد که باید وقت زیادی در آن بگذرانم.
+
+به نظر می‌رسد قیمت به‌جای حرکت از چپ به راست، از عقب به سمت ما می‌آید.
+
+و آن بلوک‌ها یا باکس‌ها فقط یکی جلوی دیگری قرار می‌گیرند، بعضی وقت‌ها هم هم‌پوشانی دارند....
+
+باشه، ما حالا در مرحلهٔ سه‌بعدی خواندن قیمت هستیم!
+
+### edges_p1_9
+EN: Edge wrote: From what I have
+learnt, I.Ts move price from kink to kink (DPs) They start as FTRs and
+once the TG is met the FL is confirmed.
+
+This sentence also got 100% my attention.
+
+Yes, I understand that our work here is to detect where each kind of possible DPs are hidden and take advantage from that.
+
+So looking at Price I smell everytime what you write above....
+
+I know that you are saying something true...but I still cannot quite clearly visualize that...
+
+Would you mind, when you have time, to draw some lines to explain again what you mean with that ?
+
+What is the Target to be achieved ? And why till then is it not at a confirmed FL ?
+
+Thank you,
+
+I think you are opening lots of eyes (mine at least)
+FA: Edge نوشت: بر اساس آنچه آموخته‌ام، I.Ts‌ها قیمت را از یک کینک به کینک بعدی (DP‌ها) می‌برند. آنها به‌صورت FTR شروع می‌شوند و وقتی تارگت محقق شود، FL تأیید می‌شود.
+
+این جمله هم 100% توجهم را جلب کرد.
+
+بله، می‌فهمم که کار ما اینجا پیدا کردن جای پنهان شدن هر نوع از DP‌های ممکن و بهره گرفتن از آن است.
+
+پس هر وقت به قیمت نگاه می‌کنم، بوی آنچه بالا نوشته‌ای را حس می‌کنم....
+
+می‌دانم که داری چیز درستی می‌گویی... اما هنوز نمی‌توانم آن را کاملاً روشن تجسم کنم...
+
+زحمت می‌کشی، هر وقت وقت داشتی، چند خط بکشی و دوباره توضیح دهی منظورت از این چیست؟
+
+تارگتی که باید محقق شود چیست؟ و چرا تا آن زمان در یک FL تأییدشده نیست؟
+
+ممنون،
+
+فکر می‌کنم چشم‌های زیادی را باز می‌کنی (دست‌کم مال من را)
+
+### edges_p1_10
+EN: staurum wrote: Hi Edge,
+
+If you could please excuse me. I see a lot of PAZ with FLs in betweens
+and/or FL-turned-PAZ boxes. Would you be so kind to break the chart down
+ into several parts or different chart with different boxes based on
+prioritised charts with the most important boxes first to the charts
+that have additional important boxes?
+
+I apologize if I pollute your journal here, but i just cant help myself for not asking.
+
+ i have a lot to learn from these boxes though.
+
+Cheers buddy,
+
+Hi My friend, You never pollute!!!
+
+The chart was just showing DPs all over the place. The one below is a
+little less cluttered lol. As you can see I have drawn DP/kinks or FLs
+associated with the FTR of either Hi lows, CP, SPAZ or LS. I see price
+reacting at supply, so If were to do the same on lower scales I would go
+ through same process. Hence the Price article starting HTF and working
+down. Areas between the coloured rectangles are space
+FA: staurum نوشت: سلام Edge،
+
+اگر لطف کنید و مرا ببخشید. من PAZ‌های زیادی می‌بینم که میانشان FL هست و/یا باکس‌های FL که به PAZ تبدیل شده‌اند. لطف می‌کنید چارت را به چند بخش بشکنید یا چارت‌های متفاوتی با باکس‌های متفاوت بر اساس اولویت بدهید، از چارت‌هایی با مهم‌ترین باکس‌ها تا چارت‌هایی که باکس‌های مهم اضافی دارند؟
+
+عذر می‌خواهم اگر ژورنالت را اینجا شلوغ می‌کنم، اما نمی‌توانم جلوی خودم را بگیرم و نپرسم.
+
+با این حال چیز زیادی از این باکس‌ها یاد می‌گیرم.
+
+دمت گرم رفیق،
+
+سلام دوست من، تو هرگز شلوغش نمی‌کنی!!!
+
+چارت فقط داشت DP‌ها را همه‌جا نشان می‌داد. چارت پایین کمی کمتر شلوغ است lol. همان‌طور که می‌بینی من DP/کینک‌ها یا FL‌های مرتبط با FTRِ سقف‌ها و کف‌ها، CP، SPAZ یا LS را رسم کرده‌ام. می‌بینم که قیمت در عرضه واکنش نشان می‌دهد، پس اگر همین کار را در مقیاس‌های پایین‌تر انجام دهم، همان روند را طی می‌کنم. از همین روست که مقالهٔ قیمت از تایم‌فریم بالاتر شروع می‌شود و به پایین می‌آید. نواحی میان مستطیل‌های رنگی، فضا هستند
+
+### edges_p1_11
+EN: Whenever wrote:
+Edge
+ wrote: From what I have learnt, I.Ts move price from kink to kink (DPs)
+ They start as FTRs and once the TG is met the FL is confirmed.
+
+This sentence also got 100% my attention.
+
+Yes, I understand that our work here is to detect where each kind of possible DPs are hidden and take advantage from that.
+
+So looking at Price I smell everytime what you write above....
+
+I know that you are saying something true...but I still cannot quite clearly visualize that...
+
+Would you mind, when you have time, to draw some lines to explain again what you mean with that ?
+
+What is the Target to be achieved ? And why till then is it not at a confirmed FL ?
+
+Thank you,
+
+I think you are opening lots of eyes (mine at least)
+
+Hi Mate, See below image. Hope it helps :)
+FA: Whenever نوشت: Edge نوشت: بر اساس آنچه آموخته‌ام، I.Ts‌ها قیمت را از یک کینک به کینک بعدی (DP‌ها) می‌برند. آنها به‌صورت FTR شروع می‌شوند و وقتی تارگت محقق شود، FL تأیید می‌شود.
+
+این جمله هم 100% توجهم را جلب کرد.
+
+بله، می‌فهمم که کار ما اینجا پیدا کردن جای پنهان شدن هر نوع از DP‌های ممکن و بهره گرفتن از آن است.
+
+پس هر وقت به قیمت نگاه می‌کنم، بوی آنچه بالا نوشته‌ای را حس می‌کنم....
+
+می‌دانم که داری چیز درستی می‌گویی... اما هنوز نمی‌توانم آن را کاملاً روشن تجسم کنم...
+
+زحمت می‌کشی، هر وقت وقت داشتی، چند خط بکشی و دوباره توضیح دهی منظورت از این چیست؟
+
+تارگتی که باید محقق شود چیست؟ و چرا تا آن زمان در یک FL تأییدشده نیست؟
+
+ممنون،
+
+فکر می‌کنم چشم‌های زیادی را باز می‌کنی (دست‌کم مال من را)
+
+سلام رفیق، تصویر پایین را ببین. امیدوارم کمک کند :)
+
+### edges_p1_12
+EN: Thank you Edge.
+
+My fault, I guess I wrongly expressed my question.
+
+In my mind I could already translate your words into this graphic, that was very clear explained from you.
+
+Actually my question is more concerning "Targets".
+
+I still have not very clear how to filter out between the several levels what will be the "Target" for that particular move.
+
+I hope I could a bit better explain it.
+
+Thanks a lot.
+
+PS: What means SPAZ and LS ?
+FA: ممنون Edge.
+
+اشتباه من بود، حدس می‌زنم سوالم را بد بیان کردم.
+
+در ذهنم می‌توانستم حرف‌هایت را به این نمودار ترجمه کنم، آن را خیلی واضح توضیح داده بودی.
+
+راستش سؤال من بیشتر دربارهٔ «تارگت‌ها»ست.
+
+هنوز برایم روشن نیست که چطور از میان این چند سطح فیلتر کنم که «تارگت» آن حرکت خاص کدام خواهد بود.
+
+امیدوارم توانسته باشم کمی بهتر توضیحش بدهم.
+
+خیلی ممنون.
+
+پیوست: SPAZ و LS یعنی چه؟
+
+### edges_p1_13
+EN: Whenever wrote: Thank you Edge.
+
+My fault, I guess I wrongly expressed my question.
+
+In my mind I could already translate your words into this graphic, that was very clear explained from you.
+
+Actually my question is more concerning "Targets".
+
+I still have not very clear how to filter out between the several levels what will be the "Target" for that particular move.
+
+I hope I could a bit better explain it.
+
+Thanks a lot.
+
+PS: What means SPAZ and LS ?
+
+Sorry my man. I must have misunderstood. Ok so lets think about it like this:
+
+1. If we do not hit the target and we rely on the FTR I drew as a level
+or its MPL, there is eevery chance the FTR may make a larger kink before
+ hitting the target. and retrace further past what we thought was the
+FTR This will become more evident once the course has been uploaded.
+
+2. What are TGs. Exactly the same as the entry areas we look at for PA.
+So they can be: kinks (FLs) of Highs/Lows, Pre CP, kinks after CP and
+Left Shoulders. We need to be conservative and mark any of these as a
+TG. BUT we for our entries we should only use the best. Like a FL kink
+that lines up with a left shoulder and Hi/Low kink or with a CP zone
+etc. I will illustrate in a few hours
+FA: Whenever نوشت: ممنون Edge.
+
+اشتباه من بود، حدس می‌زنم سوالم را بد بیان کردم.
+
+در ذهنم می‌توانستم حرف‌هایت را به این نمودار ترجمه کنم، آن را خیلی واضح توضیح داده بودی.
+
+راستش سؤال من بیشتر دربارهٔ «تارگت‌ها»ست.
+
+هنوز برایم روشن نیست که چطور از میان این چند سطح فیلتر کنم که «تارگت» آن حرکت خاص کدام خواهد بود.
+
+امیدوارم توانسته باشم کمی بهتر توضیحش بدهم.
+
+خیلی ممنون.
+
+پیوست: SPAZ و LS یعنی چه؟
+
+ببخشید رفیق. حتماً بد فهمیدم. باشه، پس بیایید این‌طور به آن فکر کنیم:
+
+1. اگر به تارگت نرسیم و به FTR‌ی که به‌عنوان سطح رسم کردم یا MPL آن تکیه کنیم، احتمال زیادی هست که FTR پیش از رسیدن به تارگت کینک بزرگ‌تری بسازد، و بیشتر از آنچه فکر می‌کردیم FTR است عقب‌گرد کند. این وقتی دوره آپلود شود روشن‌تر خواهد شد.
+
+2. تارگت‌ها چه هستند؟ دقیقاً همان نواحی ورودی که برای PA بررسی می‌کنیم. پس می‌توانند این‌ها باشند: کینک‌ها (FL‌ها)ی سقف‌ها/کف‌ها، CP پیشین، کینک‌های بعد از CP و شانه‌های چپ. باید محافظه‌کار باشیم و هر یک از این‌ها را به‌عنوان تارگت علامت بزنیم. اما برای ورودهایمان باید فقط از بهترین‌ها استفاده کنیم. مثل کینک FL‌ی که با یک شانهٔ چپ و کینک سقف/کف هم‌تراز است یا با یک ناحیهٔ CP و غیره. چند ساعت دیگر توضیح می‌دهم
+
+### edges_p1_14
+EN: Hi guys I draw up a chart that I think is relevant to this discussion.
+
+I discovered this quite recently when I asked myself a question: why FLs from the past work better than FLs created recently?
+
+The answer is that in FLs that are created recently something like this may often happen:
+
+Price breaks FL many times and then, bigger box is created.
+
+Only when price moves away, and reaches next zone below the FL created above is active/tradeable/complete
+FA: سلام بچه‌ها، چارتی کشیدم که فکر می‌کنم به این بحث مربوط است.
+
+این را همین اواخر کشف کردم، وقتی از خودم پرسیدم: چرا FL‌هایی که در گذشته شکل گرفته‌اند بهتر از FL‌های تازه کار می‌کنند؟
+
+جواب این است که در FL‌های تازه‌ساخته اغلب چیزی شبیه این ممکن است رخ دهد:
+
+قیمت چندین بار FL را می‌شکند و بعد، باکس بزرگ‌تری ساخته می‌شود.
+
+فقط وقتی قیمت دور می‌شود و به ناحیهٔ بعدی می‌رسد، FL‌ی که بالا ساخته شد فعال/قابل معامله/کامل می‌شود
+
+### edges_p1_15
+EN: Michal238 wrote: Hi guys I draw up a chart that I think is relevant to this discussion.
+
+I discovered this quite recently when I asked myself a question: why FLs from the past work better than FLs created recently?
+
+The answer is that in FLs that are created recently something like this may often happen:
+
+Price breaks FL many times and then, bigger box is created.
+
+Only when price moves away, and reaches next zone below the FL created above is active/tradeable/complete
+
+Brilliant. That's exactly what I was trying to convey.... until it hits
+the next zone then active. As we can see by this great diagram the
+recent ones fake out because we have not seen the IT's intent until the
+opposite area is hit. Thank you for putting another spin on it.
+FA: Michal238 نوشت: سلام بچه‌ها، چارتی کشیدم که فکر می‌کنم به این بحث مربوط است.
+
+این را همین اواخر کشف کردم، وقتی از خودم پرسیدم: چرا FL‌هایی که در گذشته شکل گرفته‌اند بهتر از FL‌های تازه کار می‌کنند؟
+
+جواب این است که در FL‌های تازه‌ساخته اغلب چیزی شبیه این ممکن است رخ دهد:
+
+قیمت چندین بار FL را می‌شکند و بعد، باکس بزرگ‌تری ساخته می‌شود.
+
+فقط وقتی قیمت دور می‌شود و به ناحیهٔ بعدی می‌رسد، FL‌ی که بالا ساخته شد فعال/قابل معامله/کامل می‌شود
+
+عالی. دقیقاً همان چیزی بود که می‌خواستم بگویم.... تا به ناحیهٔ بعدی برسد، آن‌وقت فعال است. همان‌طور که در این نمودار عالی می‌بینیم، FL‌های تازه فیک‌اوت می‌شوند چون تا ناحیهٔ مقابل زده نشود، قصد IT را ندیده‌ایم. ممنون که زاویهٔ دیگری به آن دادی.
+
+### edges_p1_16
+EN: if then for audjpy
+FA: اگر، پس برای audjpy
+
+### edges_p1_17
+EN: Hi Edge, wonderful to learn from you , thank you so much.
+
+Are my thoughts on your chart the right way to see this?
+
+Area 1 has DP in line with CPAZ edges, they are active when they reach the LFL at 2
+
+As you have drawn, price engulfs the DPs in 1 into open space , I think think is what you call no man's land?
+
+After this engulf , we expect FL 2 to hold price again and reject it to reach the next DP at 4
+
+I expect that I may be very wrong but I think I will learn thanks guys.
+FA: سلام Edge، یاد گرفتن از تو عالی است، خیلی ممنون.
+
+آیا افکارم روی چارت تو، راه درست دیدن این ماجراست؟
+
+ناحیهٔ 1 DP‌ی هم‌تراز با لبه‌های CPAZ دارد، وقتی به LFL در 2 می‌رسند فعال می‌شوند
+
+همان‌طور که کشیده‌ای، قیمت DP‌های داخل 1 را به فضای باز اینگالف می‌کند، فکر می‌کنم این همان چیزی است که سرزمین هیچ‌کس می‌نامی‌اش؟
+
+بعد از این اینگالف، انتظار داریم FL 2 دوباره قیمت را نگه دارد و آن را رد کند تا به DP بعدی در 4 برسد
+
+انتظار دارم که ممکن است خیلی اشتباه باشم، اما فکر می‌کنم یاد خواهم گرفت، ممنون بچه‌ها.
+
+### edges_p1_18
+EN: linos wrote: Hi Edge, wonderful to learn from you , thank you so much.
+
+Are my thoughts on your chart the right way to see this?
+
+Area 1 has DP in line with CPAZ edges, they are active when they reach the LFL at 2
+
+As you have drawn, price engulfs the DPs in 1 into open space , I think think is what you call no man's land?
+
+After this engulf , we expect FL 2 to hold price again and reject it to reach the next DP at 4
+
+I expect that I may be very wrong but I think I will learn thanks guys.
+FA: linos نوشت: سلام Edge، یاد گرفتن از تو عالی است، خیلی ممنون.
+
+آیا افکارم روی چارت تو، راه درست دیدن این ماجراست؟
+
+ناحیهٔ 1 DP‌ی هم‌تراز با لبه‌های CPAZ دارد، وقتی به LFL در 2 می‌رسند فعال می‌شوند
+
+همان‌طور که کشیده‌ای، قیمت DP‌های داخل 1 را به فضای باز اینگالف می‌کند، فکر می‌کنم این همان چیزی است که سرزمین هیچ‌کس می‌نامی‌اش؟
+
+بعد از این اینگالف، انتظار داریم FL 2 دوباره قیمت را نگه دارد و آن را رد کند تا به DP بعدی در 4 برسد
+
+انتظار دارم که ممکن است خیلی اشتباه باشم، اما فکر می‌کنم یاد خواهم گرفت، ممنون بچه‌ها.
+
+### edges_p1_19
+EN: Hi Guys,
+
+Referring to the above would this be the way to draw the bigger boxes
+and then look for pa once the bigger box breaks and price returns ??
+
+I´m somewhat confused on how to draw these boxes - thanks for any help
+
+Hans
+FA: سلام بچه‌ها،
+
+با توجه به بالا، آیا این راه درست رسم باکس‌های بزرگ‌تر است و بعد وقتی باکس بزرگ‌تر شکست و قیمت برگشت، دنبال PA بگردیم؟؟
+
+من کمی در کشیدن این باکس‌ها گیج شده‌ام - از هر کمکی ممنونم
+
+Hans
+
+### edges_p1_20
+EN: hansma wrote:
+
+Hi Guys,
+
+Referring to the above would this be the way to draw the bigger boxes
+and then look for pa once the bigger box breaks and price returns ??
+
+I´m somewhat confused on how to draw these boxes - thanks for any help
+
+Hans
+
+I think that these two boxes are the most significant ones:
+
+You marked 3 boxes, and why I think that the middle one is the most
+important than the others is because it engulfed another important box.
+FA: hansma نوشت:
+
+سلام بچه‌ها،
+
+با توجه به بالا، آیا این راه درست رسم باکس‌های بزرگ‌تر است و بعد وقتی باکس بزرگ‌تر شکست و قیمت برگشت، دنبال PA بگردیم؟؟
+
+من کمی در کشیدن این باکس‌ها گیج شده‌ام - از هر کمکی ممنونم
+
+Hans
+
+فکر می‌کنم این دو باکس مهم‌ترین‌هایند:
+
+تو 3 باکس علامت زده‌ای، و دلیل اینکه فکر می‌کنم باکس میانی از بقیه مهم‌تر است این است که باکس مهم دیگری را اینگالف کرده.
+
+### edges_p1_21
+EN: TF and instrument not relevant for this exercise. Price just bouncing
+and the PAZ is space between (the flag itself) where highs,lows and CPs
+are created to entice retailers and create liquidity pools for their
+order blocks
+FA: تایم‌فریم و نماد برای این تمرین مهم نیست. قیمت فقط در حال نوسان است و PAZ فضای میان (خودِ FLAG) است، جایی که سقف‌ها، کف‌ها و CP‌ها ساخته می‌شوند تا خرده‌فروش‌ها فریب بخورند و استخرهای نقدینگی برای بلاک‌های سفارششان ساخته شود
+
+### edges_p1_22
+EN: ****CAVEAT**** Only my view of the terminology to avoid confusion ***
+
+Decision Points – Kink/Failure to Return (FTR)/Flag Limit (FL)
+
+I see the decision point as the pièces de résistance in the RTM arsenal.
+ Sometimes also referred to as a kink, FTR or Flag Limit, it represents
+the decision made at a barrier in the past. For the sake of consistency
+and to help alleviate any confusion I see it occurring in (3) stages
+which are outlined below.
+
+Stage One - The Kink
+
+Price approaches a barrier such as minor Support/Resistance (S/R), Major
+ S/R, Left Shoulder, Ignored barrier or break in/out of Compression (CP)
+ Price pauses and begins a retrace or pull back once the barrier has
+been broken. It is this hiccup that is now the kink.
+
+Stage Two – The FTR
+
+If price fails to retrace further and proceeds in the original direction
+ it forms a FTR once price crosses past the origin of the retrace, it
+has failed to return. At this point a decision has been made by the IT’s
+ to absorb the remaining orders and likely set new orders to be used at a
+ later point. However it is not a confirmed flag limit.
+
+Stage Three – The Flag Limit
+
+The Flag Limit (FL) is confirmed when an opposing one is hit. Until it
+is hit the kink and FTR still form part of a flag’s body. This means the
+ FTR and kink can retrace further prior to the opposing FL being hit.
+
+Decision Points- Visibility
+
+Its also important to understand the best DPs are those ones which are
+invisible in the higher time frames. You have to remember that a DP
+could form and be hidden within the range of a candle seconds after it
+happens. Unless we are there to see it as it occurs we have to keep
+digging until it is found. Sometimes we will unable to find it so in
+that case we have to use the whole candle. My favourite is an invisible
+DP that has a cap form as the first time back which price can fake out
+to the real DP.
+FA: ****هشدار**** فقط دید من به اصطلاحات است تا ابهام پیش نیاید ***
+
+نقاط تصمیم – کینک/عدم بازگشت (FTR)/حد FLAG (FL)
+
+من نقطهٔ تصمیم را شاه‌بیت زرادخانهٔ RTM می‌دانم. گاه آن را کینک، FTR یا حد FLAG هم می‌نامند؛ نمایندهٔ تصمیمی است که در گذشته سر یک مانع گرفته شده. برای یک‌دستی و کمک به رفع ابهام، آن را در 3 مرحله می‌بینم که در پایین شرح داده شده‌اند.
+
+مرحلهٔ یک - کینک
+
+قیمت به موانعی مثل حمایت/مقاومت جزئی (S/R)، S/R اصلی، شانهٔ چپ، مانع نادیده‌گرفته‌شده یا شکست به داخل/خارج فشردگی (CP) نزدیک می‌شود. قیمت توقف می‌کند و پس از شکسته شدن مانع، شروع به عقب‌گرد یا پولبک می‌کند. همین سکسکه است که حالا کینک نامیده می‌شود.
+
+مرحلهٔ دو – FTR
+
+اگر قیمت نتواند بیشتر عقب‌گرد کند و در جهت اصلی پیش برود، به‌محض عبور از مبدأ عقب‌گرد یک FTR شکل می‌گیرد؛ یعنی در بازگشت ناکام مانده است. در این نقطه IT‌ها تصمیم گرفته‌اند سفارش‌های باقی‌مانده را جذب کنند و احتمالاً سفارش‌های تازه‌ای برای استفاده در زمانی بعدتر بچینند. با این حال، این هنوز یک حد FLAG تأییدشده نیست.
+
+مرحلهٔ سه – حد FLAG
+
+حد FLAG (FL) وقتی تأیید می‌شود که حد متضاد آن زده شود. تا زمانی که زده نشده، کینک و FTR هنوز بخشی از بدنهٔ FLAG را می‌سازند. یعنی FTR و کینک می‌توانند پیش از زده شدن FL مقابل، بیشتر عقب‌گرد کنند.
+
+نقاط تصمیم - دیدپذیری
+
+فهم این هم مهم است که بهترین DP‌ها آن‌هایی هستند که در تایم‌فریم‌های بالاتر دیده نمی‌شوند. باید یادت باشد که یک DP می‌تواند ثانیه‌هایی بعد از وقوعش شکل بگیرد و در محدودهٔ یک کندل پنهان شود. مگر اینکه آنجا باشیم و لحظهٔ رخ دادنش را ببینیم، وگرنه باید تا پیدا شدنش کندوکاو کنیم. بعضی وقت‌ها نمی‌توانیم پیدایش کنیم، در آن صورت باید از کل کندل استفاده کنیم. محبوب من DP نامرئی‌ای است که در اولین بازگشت یک CAP رویش شکل می‌گیرد و قیمت می‌تواند تا DP واقعی فیک‌اوت کند.
+
+### edges_p1_23
+EN: I have been analysing charts and applying a framework around the RTM
+teachings. From the onset, I am going to layout, how I plan on trading
+moving forward. I am applying this framework because I need to ensure;
+
+a)	Consistency around analysis and trades
+
+b)	A style which suits my personality
+
+My levels will most likely be different to other members, as I will be
+using all visible LS,RS, CP etc on the chart for that given TF scale.
+These will not automatically be areas for entries but rather targets.
+
+I am risk adverse by nature. I don’t care If I don’t get a trade for a
+week or longer. I will wait for the perfect storm. Many of my friends
+here know that I love the theory and analysis so limited trading is not a
+ concern for me. I will not force opportunities.I hope anyone who is
+interested will assist me in testing this trading plan.
+
+Over the next few days, posts will include details of:
+
+1.	HOW I START MY ANALYSIS (identifying the I.T Algo Behaviour)
+
+-Liquidity vacuums (Spikes)/Poles
+
+-Compression –swapping of orders-establishing a net position
+
+-Flags
+
+- Where are they likely to find the liquidity
+
+2.	Marking the DPs surrounding the PAZ’s which define the I.T order blocks
+
+-The Different types of FLs
+
+- The S/R FL
+
+- The LS FL
+
+-The Pre/Post CP FL
+
+- The ‘perfect storm’ FL (S/R or CP that lines up with LS)
+
+-Multi Scale Analysis
+
+3.	Finding an area of interest
+
+- The importance of the invisible FL
+
+- The importance of finding the trap
+
+- Where are our clean orders
+
+- The approach
+
+4.	The Trade
+
+-Pre trade scenario analysis
+
+- Pulling the trigger
+
+- A Set CTG or a PA based exit
+
+5.	Reflection
+
+- Review of trade
+
+- Peer review of trade
+
+**This plan is based on RTM and IFs teachings. Should anything here contradict the RTM concepts I will discard***
+FA: مدتی است چارت‌ها را تحلیل می‌کنم و چارچوبی حول آموزه‌های RTM می‌سازم. از همین ابتدا می‌خواهم طرح خودم را از شیوهٔ معامله در ادامه بچینم. این چارچوب را به کار می‌برم چون باید تضمین کنم؛
+
+a) یک‌دستی در تحلیل و معاملات
+
+b) سبکی که با شخصیتم سازگار باشد
+
+سطوح من احتمالاً با سایر اعضا متفاوت خواهد بود، چون از همهٔ LS، RS، CP و غیرهٔ قابل مشاهده روی چارت همان مقیاس تایم‌فریم استفاده می‌کنم. این‌ها به‌طور خودکار نواحی ورود نیستند، بلکه بیشتر تارگت‌اند.
+
+من ذاتاً ریسک‌گریزم. برایم مهم نیست اگر یک هفته یا بیشتر معامله‌ای نگیرم. منتظر طوفان کامل می‌مانم. بسیاری از دوستانم اینجا می‌دانند که عاشق تئوری و تحلیل هستم، پس کم معامله کردن برایم نگرانی نیست. فرصت‌ها را به زور نمی‌سازم. امیدوارم هر که علاقه‌مند است در تست این طرح معاملاتی کمکم کند.
+
+در چند روز آینده، پست‌ها جزئیات این‌ها را در بر می‌گیرند:
+
+1. چطور تحلیل را شروع می‌کنم (شناسایی رفتار الگوریتم IT)
+
+- خلأهای نقدینگی (اسپایک‌ها)/POLES‌ها
+
+- فشردگی – جابه‌جایی سفارش‌ها – ایجاد یک پوزیشن خالص
+
+- FLAG‌ها
+
+- احتمالاً نقدینگی را کجا پیدا می‌کنند
+
+2. علامت‌گذاری DP‌های اطراف PAZ‌ها که بلاک‌های سفارش IT را تعریف می‌کنند
+
+- انواع مختلف FL‌ها
+
+- FL نوع S/R
+
+- FL نوع LS
+
+- FL پیش/پس از CP
+
+- FL «طوفان کامل» (S/R یا CP‌ی که با LS هم‌تراز است)
+
+- تحلیل چندمقیاسی
+
+3. یافتن ناحیه‌ای مورد توجه
+
+- اهمیت FL نامرئی
+
+- اهمیت یافتن تله
+
+- سفارش‌های تمیز ما کجاست
+
+- رویکرد
+
+4. معامله
+
+- تحلیل سناریو پیش از معامله
+
+- چکاندن ماشه
+
+- یک CTG تعیین‌شده یا خروجی مبتنی بر PA
+
+5. بازنگری
+
+- مرور معامله
+
+- مرور معامله به دست همتایان
+
+**این طرح بر آموزه‌های RTM و IF استوار است. اگر چیزی اینجا با مفاهیم RTM تناقض داشته باشد، آن را کنار می‌گذارم***
+
+### edges_p1_24
+EN: Edge wrote: I have been analysing charts and applying a framework around the RTM teachings.
+
+**This plan is based on RTM and IFs teachings. Should anything here contradict the RTM concepts I will discard***
+
+Looking forward.
+
+This will be really helpful for slow learners like me. Initially I
+concentrated on CP and LQ and now I am concentrating on FL. Looking at
+your plan, I think I will learn a lot on FLs and also I will get all the
+ things at one place.
+FA: Edge نوشت: مدتی است چارت‌ها را تحلیل می‌کنم و چارچوبی حول آموزه‌های RTM می‌سازم.
+
+**این طرح بر آموزه‌های RTM و IF استوار است. اگر چیزی اینجا با مفاهیم RTM تناقض داشته باشد، آن را کنار می‌گذارم***
+
+بی‌صبرانه منتظرم.
+
+این برای یادگیرنده‌های کُند مثل من واقعاً کمک‌کننده خواهد بود. اول روی CP و LQ تمرکز داشتم و حالا روی FL تمرکز می‌کنم. با نگاه به طرح تو، فکر می‌کنم چیزهای زیادی درباره FL‌ها یاد می‌گیرم و همه‌چیز هم در یک جا جمع می‌شود.
+
+### edges_p1_25
+EN: Shantala wrote:
+Edge wrote: I have been analysing charts and applying a framework around the RTM teachings.
+
+**This plan is based on RTM and IFs teachings. Should anything here contradict the RTM concepts I will discard***
+
+Looking forward.
+
+This will be really helpful for slow learners like me. Initially I
+concentrated on CP and LQ and now I am concentrating on FL. Looking at
+your plan, I think I will learn a lot on FLs and also I will get all the
+ things at one place.
+
+There will be some bumps along the way for sure. I have done some
+testing on the levels I will outline. However the testing was only
+anecdotal but it still gives me a foundation.
+
+I have found its best to share with the community and have us all learn
+from each other. I recall in the past some members who are no longer
+here would often demand answers from other members. We have a great
+group here now. I certainly don't see the benefit in having IF, Martin
+and Harry spoon feeding. It has never been the RTM way. Thanks for
+stopping by
+FA: Shantala نوشت: Edge نوشت: مدتی است چارت‌ها را تحلیل می‌کنم و چارچوبی حول آموزه‌های RTM می‌سازم.
+
+**این طرح بر آموزه‌های RTM و IF استوار است. اگر چیزی اینجا با مفاهیم RTM تناقض داشته باشد، آن را کنار می‌گذارم***
+
+بی‌صبرانه منتظرم.
+
+این برای یادگیرنده‌های کُند مثل من واقعاً کمک‌کننده خواهد بود. اول روی CP و LQ تمرکز داشتم و حالا روی FL تمرکز می‌کنم. با نگاه به طرح تو، فکر می‌کنم چیزهای زیادی درباره FL‌ها یاد می‌گیرم و همه‌چیز هم در یک جا جمع می‌شود.
+
+قطعاً در مسیر چند دست‌انداز خواهیم داشت. روی سطوحی که شرح خواهم داد کمی تست کرده‌ام. هرچند این تست فقط تجربی بود، اما هنوز به من یک پایه می‌دهد.
+
+دیده‌ام بهترین کار این است که با جامعه سهیم شویم و همه از هم یاد بگیریم. یادم می‌آید در گذشته بعضی اعضا که دیگر اینجا نیستند، اغلب از دیگران جواب طلب می‌کردند. حالا گروه خوبی اینجا داریم. من قطعاً فایده‌ای در این نمی‌بینم که IF، Martin و Harry غذا را با قاشق دهانمان بگذارند. این هرگز راه RTM نبوده. ممنون که سر زدی

@@ -1,0 +1,263 @@
+### aboutcompression_p14_358 hash=c27b2899e377d3bed5f2625d0b2f8a5dc394e2b7 | echo
+paras en/fa: 4/4 | echo bigram: "خوش اومدی"
+lex.audit: echo
+---FA---
+خوش اومدی Sunnytrader!
+
+فکر می‌کنم هنوز خیلی زوده که با تمرینت سخت‌گیر باشیم، ولی نگران نباش... ما خواهیم بود.
+
+در حال حاضر چیزی که می‌تونم بگم اینه که تمرین QMت واقعاً کار خوبیه. ادامه بده.
+
+دوباره خوش اومدی و هفته‌ی اول AG خوبی داشته باش!
+---EN---
+Welcome Sunnytrader!
+
+I think is yet pretty soon to be strict with your homework, but don't worry...we'll be.
+
+At the moment, what I can say is that your QM hw is really a good job. Keep going with it.
+
+Welcome again and have a good first AG week!
+### aboutcompression_p16_402 hash=a63d6323e824372bba1bf704629685e00ec05c2b | echo
+paras en/fa: 1/1 | echo bigram: "حالی فشردگی"
+lex.audit: echo
+---FA---
+یه جورایی جوابش رو دادی. پرچم یه سیگنال ادامه‌دارده. در حالی که فشردگی یه برگشته. بله هر دو توی روند صعودی تقاضا رو می‌جوند. ولی پرچم معمولاً یه جیب از سفارش‌هاست در حالی که با فشردگی اغلب چند لایه‌ی تقاضا رو برمی‌داری
+---EN---
+You kind of answered it. Flag is a continuation signal. Whereas compression is a reversal. Yes they both chew up demand in an uptrend. But a flag is often a pocket of orders whereas with compression you are often taking out multiple layers of demand
+### aboutcompression_p16_424 hash=a1fe311906bb2d8fc9f74509aa69363e916ddc14 | numbers missing 100%
+paras en/fa: 5/5 | echo bigram: "اون سطح"
+lex.audit: 
+---FA---
+به نظر میاد ناحیه‌ی CP هنوز داره رشد می‌کنه. و الان زون‌های تقاضای بیشتری به‌وضوح مصرف شدن.
+
+دو تا گزینه به ذهنم می‌رسه:
+
+1. سه تا دایره برگشت‌هایی روی یه زون عرضه‌ی H1 رو نشون میدن که چند بار تست شده و اون سطح Pivot R2 روزانه هم هست، پس اگه اون سطح بشکنه، فکر می‌کنم قیمت می‌تونه به شمال ادامه بده و می‌تونیم فشردگی‌مون رو فراموش کنیم.
+
+2. از طرف دیگه، به فهم من، CP به‌اندازه‌ی کافی خوبه که بذاره قیمت تا زون Demand تازه بیفته و حتی یه کم بیشتر. برای همین یه Sell Limit دقیقاً روی 1.31500 گذاشتم که می‌دونم اونجا سفارش‌های فروش پشته‌بندی شدن.
+
+می‌دونم هیچ‌چیز توی FOREX صد در صد مطمئن نیست، ولی فکر می‌کنی کدوم‌یک از دو گزینه احتمال بیشتری داره؟ درست می‌گم که این یه ناحیه‌ی CP هست؟ چیزی می‌بینی که من نمی‌بینم و باعث بشه این CP شکست بخوره؟
+---EN---
+It looks like the CP Area is still growing. And now more demand zones were evidently consumed.
+
+I'm thinking of two options:
+
+1. The three circles are showing bounces on an H1 Supply zone that is being tested a couple of times and that level is also Daily R2 Pivot, so if that level is broken, I think price could continue north and we can forget about our CP.
+
+2. On the other hand, according to my understanding, the CP looks good enough to let price fall to the fresh Demand Zone and even a little further. That is why I settled a Sell Limit right at 1.31500 where I know we have some Sell Orders Stacked.
+
+I know that nothing in FOREX is 100% sure, but which of the two options do you think has higher probability? Am I right saying this is a CP Area? Do you see something I don't that would make this CP fail?
+### aboutcompression_p20_502 hash=f73c2c1e47f129de6b6642f471a348d85a6df510 | echo
+paras en/fa: 1/1 | echo bigram: "شدن، یعنی"
+lex.audit: echo
+---FA---
+خیلی از نواحی CP که علامت زدی پایه‌های تست‌نشده دارن، اول پایه‌ها رو علامت بزن بعد ببین آیا دوباره بازدید شدن، یعنی مصرف شدن، یعنی CP
+---EN---
+a lot of your CP areas marked have bases untested, first mark the bases and then see if they were revisited, thus consumed, thus CP
+### aboutcompression_p21_540 hash=2d8668a594c100a6611eaa2bef2a9f54a6212b63 | echo
+paras en/fa: 5/5 | echo bigram: "فکر می‌کنم"
+lex.audit: echo
+---FA---
+Ifmyante نوشت: ولی حتماً زون‌هایی که CP به‌سمت/ازشون رفته رو نشونمون بده.
+
+خیلی کار کردم تا پایه‌ها رو توضیح بدم و یه کم شلوغ شد، پس دومی رو کردم که فقط کشیدم فکر می‌کنم منظورت از زون‌های به‌سمت/از کدومه. اگه لازم باشه خیلی‌های دیگه می‌کنم، اینجام که یاد بگیرم:)
+
+ممنون!
+
+اولی - فقط تحلیل CP - دقیق
+
+دومی - بیشتر نواحی تارگت... فکر می‌کنم یه دارایی سخت انتخاب کردم.:)
+---EN---
+Ifmyante wrote: Be sure though and show us the zones the cp went towards/from.
+
+I worked a lot to try to explain the bases and it got a bit messy, so i did a second one where i just drew what i think you meant by zones towards/from. I'll do many more if needed, im here to learn!:)
+
+Thanks!
+
+First - Just CP analysis - detailed
+
+Second - Areas of Targets mostly...i think i chose a difficult asset.:)
+### aboutcompression_p21_546 hash=cba14c824baf97cd17b4600d87bf38ff0dcbf1ed | echo
+paras en/fa: 2/2 | echo bigram: "توی تایم‌فریم"
+lex.audit: echo
+---FA---
+مشکلی نیست:)
+
+تو فقط جیب‌های تقاضای کوچیک رو CP علامت زدی. توی تایم‌فریم پایین‌تر چیز جدی نیست ولی توی تایم‌فریم بالاتر حداقل یه اسکالپ قشنگ میشه.
+---EN---
+No problem:)
+
+You just marked small demand pockets as CP. It's nothing serious in LTF but in HTF it would be nice scalp at least.
+### aboutcompression_p32_809 hash=70d6533b3da40c9c228f750d919c73c09575515b | echo
+paras en/fa: 2/2 | echo bigram: "پیدا کردن"
+lex.audit: echo
+---FA---
+تمرین پیدا کردن ستاپ‌های فشردگی
+
+از طرز به نظر رسیدنش AudJpy داره فشرده میشه بالا برای پیدا کردن عرضه‌ی واقعی. فقط 3-4 زون تقاضای تازه توی این چارت پیدا کردم. نظرتون چیه بچه‌ها:)
+---EN---
+Homework finding compression setups
+
+From the way it looks AudJpy is compressing up to find true supply. I only found 3-4 fresh demand zone in this chart. Let me know what you think guys:)
+### aboutcompression_p32_818 hash=8c192c1580109736d26aecd8384678fbe0101c08 | echo
+paras en/fa: 3/3 | echo bigram: "متریال آموزشی"
+lex.audit: echo
+---FA---
+click نوشت: سلام به همه، ببخشید تازه شروع کردم، می‌خواستم بپرسم کجا می‌تونم متریال آموزشی برای کاوش موضوع فشردگی رو پیدا کنم. به‌جز این ترد جالب بود. ممنون!
+
+@ Dave و Andy، کار قشنگی بچه‌ها
+
+@click، اینجا همه‌ی متریال آموزشی readthemarket.com/index.php/education/markepediain Markepedia، ویدئوها رو هم چک کن readthemarket.com/index.php/education/education-videos
+---EN---
+click wrote: Hello everyone, sorry just beginning, I wanted to ask where can I find the study material to explore the topic compression. Other than that interesting thread Thank you!
+
+@ Dave and Andy, nice work guys
+
+@click, here is all the education material readthemarket.com/index.php/education/markepediain Markepedia also check out the videos readthemarket.com/index.php/education/education-videos
+### aboutcompression_p32_821 hash=07ece78cd4e5159f7bd17fe969304dff054fdbc5 | echo
+paras en/fa: 5/5 | echo bigram: "متریال آموزشی"
+lex.audit: echo
+---FA---
+Harry نوشت:
+
+click نوشت: سلام به همه، ببخشید تازه شروع کردم، می‌خواستم بپرسم کجا می‌تونم متریال آموزشی برای کاوش موضوع فشردگی رو پیدا کنم. به‌جز این ترد جالب بود. ممنون!
+
+@ Dave و Andy، کار قشنگی بچه‌ها
+
+@click، اینجا همه‌ی متریال آموزشی readthemarket.com/index.php/education/markepediain Markepedia، ویدئوها رو هم چک کن readthemarket.com/index.php/education/education-videos
+
+ممنون.
+---EN---
+Harry wrote:
+
+click wrote: Hello everyone, sorry just beginning, I wanted to ask where can I find the study material to explore the topic compression. Other than that interesting thread Thank you!
+
+@ Dave and Andy, nice work guys
+
+@click, here is all the education material readthemarket.com/index.php/education/markepediain Markepedia also check out the videos readthemarket.com/index.php/education/education-videos
+
+Thank's a lot.
+### aboutcompression_p34_851 hash=fe4e02c8f878ff32103cfe1fc8cae2daf32e878e | echo
+paras en/fa: 3/3 | echo bigram: "به‌اندازه‌ی کافی"
+lex.audit: echo
+---FA---
+Kerinsp نوشت: سلام به همه، آیا اینا درست به نظر میرسن؟
+
+ممنون. Paul
+
+سلام Paul، خوبه که افقی‌ها رو کشیدی تا ببینی قیمت هر بار کجا لمس کرده و آیا به‌اندازه‌ی کافی برگشته تا سفارش‌ها رو مصرف کنه. فقط روی یکی از چارت‌هات نظر می‌دم تا نشونت بدم که پیک‌های تنهایی به این معنا نیست که اونجا فشردگی داری. قیمت باید به‌اندازه‌ی کافی به base قبلی نزدیک بشه تا سفارش‌های اونجا رو «بخوره»
+---EN---
+Kerinsp wrote: HI all, Do these look correct?
+
+Thank you. Paul
+
+hello Paul, its good that you draw the horizontals to see where price touched each time and if it retraced enough to consume the orders. i'll just comment on one of your charts to show you that spikes on their own dont mean you have compression there. price has to come close enough to to the previous base to "eat" the orders sitting there
+### aboutcompression_p34_856 hash=89bd18316a972e1fc3aaa29337aef183081a9adc | echo
+paras en/fa: 5/5 | echo bigram: "توی برنامه‌م"
+lex.audit: echo
+---FA---
+بچه‌ها،
+
+یه سؤال درباره‌ی مطالعه‌ی CPم دارم، فکر می‌کنم خیلی بیشتر از 50 مثال CP انجام دادم، و احساس می‌کنم آماده‌ام قدم بعدی توی برنامه‌م رو بردارم. سؤالم اینه که آیا کسی اینجا فکر می‌کنه آماده نیستم از تمرین CP رد بشم؟ به احترام و همه‌ی نظرات ارزش می‌دم...
+
+بخش بعدی مطالعه توی برنامه‌م 'انگلاف و FTR' هست
+
+از قبل ممنون...
+
+DT
+---EN---
+Guys,
+
+I have a question relating to my study of CP, I think I have done well over 50 examples of CP, and I feel confident to take the next step in my plan. My question is does anyone here think I am not ready to move from the CP homework? I will value respect and value all opinions...
+
+My next part to study in my plan is the 'engulf and FTR'
+
+Thanks in advance...
+
+DT
+### aboutcompression_p34_868 hash=151309cf09fb28fd819871024f231fac7ec4488f | echo
+paras en/fa: 3/3 | echo bigram: "تشخیص بدم."
+lex.audit: echo
+---FA---
+دارم سعی می‌کنم توی ناحیه‌ی این چارت بین دو خط سبز فشردگی رو تشخیص بدم. پرایس‌اکشن رو روی لبه‌ی راست توی چارت بعدی نشون می‌دم. فکر می‌کنم این اولین ناحیه‌ی عرضه‌ست که می‌تونم بالای قیمت فعلی تشخیص بدم.
+
+فکر می‌کنم اگه این ناحیه همه‌اش فشردگی باشه باید نادیده‌ش بگیرم و دنبال عرضه‌ی بالاتر روی چارت قیمت بگردم.
+
+لطفاً کمک! نظرات و پیشنهادهایتون خوش‌آمده و درخواست میشه.
+---EN---
+I am attempting to identify compression in the area on this chart between the two green lines. I will show price action on the right edge on the next chart. I believe this is the first area of supply that I can identify above current price.
+
+I am thinking that if this area is all compression then I should ignore it and look for supply higher on the price chart.
+
+Please help! Your comments and suggestions are welcome and solicited.
+### aboutcompression_p36_907 hash=63a5b1704c80949eabbb677951496570c2c844e7 | echo
+paras en/fa: 5/5 | echo bigram: "پست کردم"
+lex.audit: echo
+---FA---
+Aaron نوشت: سلام Milkeyway،
+
+این ترد CPه رفیق، فکر می‌کنم پستت توی بخش انگلاف بهتر می‌شد؟
+
+به هر حال، چند تا نکته روی چارتت گذاشتم، امیدوارم کمکتون کنه، اگه چیزی نامشخص بود، سعی می‌کنم بیشتر کمکتون کنم
+
+Aaron
+
+سلام Aron. ممنون برای کمکت. اینجا پست کردم چون اگه این PA رو توی چارت بلندمدت ببینی مثل فشردگیه. ولی لطفاً بهم بگید اطلاعات عرضه‌ای که پست کردم درسته یا نه؟ ممنون
+---EN---
+Aaron wrote: Hi Milkeyway,
+
+This is the CP thread my friend, I would think your post would be better in the engulf section?
+
+Anyway, I have made a few points on your chart, I hope it helps, if there is anything unclear, I will try to help further
+
+Aaron
+
+Hi Aron. Thanks for the help. I posted it here because if you see this PA in long term chart it looks like compression. But please tell me the info about supply I posted is correct.? Thanks
+### aboutcompression_p36_920 hash=a721bd3c32716523190f84d455b9e6a0e2695368 | echo
+paras en/fa: 1/1 | echo bigram: "عرضه تقاضا"
+lex.audit: echo
+---FA---
+سلام MW، فشردگی هیچ‌وقت نمی‌تونه از عرضه یا تقاضا شروع بشه. اگه اون اتفاق بیفته نمی‌تونی مبدأ رو عرضه یا تقاضا بخونی. چون اگه نقطه‌ای رو عرضه یا تقاضا تعریف می‌کنی اول قیمت باید ازش بیرون بزنه و نه خزیده بیاد بیرون چون توی فشردگیه. نظر باتجربه‌ها درخواست میشه.
+---EN---
+Hi MW, Compression can never orign from supply or demand.If that happens you cant call the origin to be supp or dem.Because if you r defining a point as supply or demand first the price has to jut outof it and NOT crawl out as its in compression. Seniors inputs solocited.
+### aboutcompression_p45_1138 hash=2fca6751e0e56e868130687f6ee1879d77e0c54d | no-persian
+paras en/fa: 1/1 | echo bigram: ""
+lex.audit: no-persian
+---FA---
+CP / ENGULF / CAPS / SUPPLY
+---EN---
+CP / ENGULFs / caps /SUPPLY
+### aboutcompression_p48_1210 hash=f90609286f2ad82321b1957cfe1652ff24edf4f4 | echo
+paras en/fa: 5/5 | echo bigram: "روی کار"
+lex.audit: echo
+---FA---
+full نوشت: سلام بچه‌ها!! پرایس‌اکشن پایه‌ای،
+
+.ولی یک معاملهٔ دیگر هم فقط به‌خاطر یک
+
+پیپ استاپ خورد.
+
+full
+
+سلام full، نقطهٔ خوبی برای شورت بود. برای امروز سطح خوبی است. من هم روی EU کار می‌کردم. این چارت من است، دقیقاً دربارهٔ فشردگی نیست بلکه دربارهٔ همان سطحی است که روی آن کار کردی.
+---EN---
+full wrote: hi guys!!basic price action,
+
+.but another trade stopped for only one
+
+pip also.
+
+full
+
+Hi full, good spot for a short. It is a good level for today. I was working on EU too. Here my chart, not exactly about compression but about that level you worked on.
+### aboutcompression_p7_193 hash=c01464241adeb02698b296005f26fb0529bf156d | echo
+paras en/fa: 2/2 | echo bigram: "سمت جنوب"
+lex.audit: echo
+---FA---
+روی چارت GBPCHF که بالا نشون داده شده، مستطیل آبی بر اساس افت ناگهانی قیمت به نظر یه زون عرضه میاد. بعد از افت، به کف گپ می‌رسه، بعد به‌تدریج دوباره بالا میره، ولی گاهی‌گاهی به سمت جنوب پیک می‌زنه (پاک کردن جیب‌های تقاضا؟؟) تا اینکه تقریباً به BRN حدود 1.5040 می‌رسه، مکث می‌کنه و بعد به سمت جنوب میره...
+
+تحلیل من به نظر یه کم خام میاد، ولی همیشه جای بهبود هست....
+---EN---
+One the GBPCHF chart shown above, the blue rectangle, based on the sudden drop in prices, seems a supply zone. Then after the drop, meets the bottom of the gap, then slowly starts rising again, but spiking south intermittently (Clearing pockets of demand??) until it reaches approximately about the 1.5040 BRN, hesitates and then goes south...
+
+My analysis seems a bit crude, but there's always room for improvement....

@@ -1,0 +1,711 @@
+### if_p77_1
+EN: victoryong wrote: Hi IF,
+
+Just a general question, how would you manage or trade correlated forex
+pairs? Trade regardless of correlation or pick the best to trade?
+
+Hi Victor
+
+There's certainly no way we'd trade a full position on any more than one of the pairs, as that would overexpose us.
+
+So, as you suggest, we find the pair with the best R
+FA: victoryong نوشت: سلام IF،
+
+یک سؤال کلی: پوزیشن‌های جفت‌ارزهای همبسته را چطور مدیریت می‌کنی یا معامله می‌کنی؟ فارغ از همبستگی وارد می‌شوی یا بهترین را برای ورود انتخاب می‌کنی؟
+
+سلام Victor
+
+قطعاً هیچ راهی نیست که روی بیش از یکی از این جفت‌ارزها پوزیشن کامل بگیریم؛ این کار ما را بیش از حد در معرض ریسک می‌گذارد.
+
+پس همان‌طور که خودت گفتی، جفت‌ارزی را پیدا می‌کنیم که بهترین R را دارد
+
+### if_p77_2
+EN: Ifmyante wrote: Have another look at the symmetry video on youtube.
+
+It's a seriously overlooked topic, which helps enormously on any read
+
+The simmetry concept is above my head.
+
+I don't understand what I need to look for. "As above so below" or similar boxes at left and right of the screen at same level?
+FA: Ifmyante نوشت: یک بار دیگر ویدئوی تقارن را در یوتیوب ببین.
+
+موضوعی است که جدی نادیده گرفته شده و در هر خوانشی به‌شدت کمک می‌کند
+
+مفهوم تقارن از کلهٔ من بالاتر است.
+
+نمی‌فهمم باید دنبال چه باشم. «هر چه بالا، همان پایین» یا کادرهای مشابه در چپ و راست صفحه در یک سطح؟
+
+### if_p77_3
+EN: Thanks IF!
+
+Ifmyante wrote:
+victoryong wrote: Hi IF,
+
+Just a general question, how would you manage or trade correlated forex
+pairs? Trade regardless of correlation or pick the best to trade?
+
+Hi Victor
+
+There's certainly no way we'd trade a full position on any more than one of the pairs, as that would overexpose us.
+
+So, as you suggest, we find the pair with the best R
+FA: ممنون IF!
+
+Ifmyante نوشت:
+victoryong نوشت: سلام IF،
+
+یک سؤال کلی: پوزیشن‌های جفت‌ارزهای همبسته را چطور مدیریت می‌کنی یا معامله می‌کنی؟ فارغ از همبستگی وارد می‌شوی یا بهترین را برای ورود انتخاب می‌کنی؟
+
+سلام Victor
+
+قطعاً هیچ راهی نیست که روی بیش از یکی از این جفت‌ارزها پوزیشن کامل بگیریم؛ این کار ما را بیش از حد در معرض ریسک می‌گذارد.
+
+پس همان‌طور که خودت گفتی، جفت‌ارزی را پیدا می‌کنیم که بهترین R را دارد
+
+### if_p77_4
+EN: jsr wrote:
+Ifmyante wrote: Have another look at the symmetry video on youtube.
+
+It's a seriously overlooked topic, which helps enormously on any read
+
+The simmetry concept is above my head.
+
+I don't understand what I need to look for. "As above so below" or similar boxes at left and right of the screen at same level?
+
+That's the big issue with trading: there's so much to be ware of all at once!
+
+It all does come together in the end though
+FA: jsr نوشت:
+Ifmyante نوشت: یک بار دیگر ویدئوی تقارن را در یوتیوب ببین.
+
+موضوعی است که جدی نادیده گرفته شده و در هر خوانشی به‌شدت کمک می‌کند
+
+مفهوم تقارن از کلهٔ من بالاتر است.
+
+نمی‌فهمم باید دنبال چه باشم. «هر چه بالا، همان پایین» یا کادرهای مشابه در چپ و راست صفحه در یک سطح؟
+
+مشکل بزرگ معامله همین است: باید همزمان به این‌همه چیز حواس داشته باشی!
+
+با این حال، آخرش همه‌چیز جفت‌وجور می‌شود
+
+### if_p77_5
+EN: Ifmyante wrote:
+jsr wrote:
+Ifmyante wrote: Have another look at the symmetry video on youtube.
+
+It's a seriously overlooked topic, which helps enormously on any read
+
+The simmetry concept is above my head.
+
+I don't understand what I need to look for. "As above so below" or similar boxes at left and right of the screen at same level?
+
+That's the big issue with trading: there's so much to be ware of all at once!
+
+It all does come together in the end though
+
+If, am I on a correct path if those symmetries that uou mention are in fact PAZs?
+FA: Ifmyante نوشت:
+jsr نوشت:
+Ifmyante نوشت: یک بار دیگر ویدئوی تقارن را در یوتیوب ببین.
+
+موضوعی است که جدی نادیده گرفته شده و در هر خوانشی به‌شدت کمک می‌کند
+
+مفهوم تقارن از کلهٔ من بالاتر است.
+
+نمی‌فهمم باید دنبال چه باشم. «هر چه بالا، همان پایین» یا کادرهای مشابه در چپ و راست صفحه در یک سطح؟
+
+مشکل بزرگ معامله همین است: باید همزمان به این‌همه چیز حواس داشته باشی!
+
+با این حال، آخرش همه‌چیز جفت‌وجور می‌شود
+
+IF، اگر آن تقارن‌هایی که گفتی در واقع همان PAZها باشند، آیا در مسیر درستی هستم؟
+
+### if_p77_6
+EN: duy90 wrote:
+
+If, am I on a correct path if those symmetries that uou mention are in fact PAZs?
+
+Yes you are
+FA: duy90 نوشت:
+
+IF، اگر آن تقارن‌هایی که گفتی در واقع همان PAZها باشند، آیا در مسیر درستی هستم؟
+
+بله، هستی
+
+### if_p77_7
+EN: IF, can you please give me some help? I already seen that video with
+simetry and really, i dont understand where FTRs FLs and PAZs came in
+play here. Are these boxes PAZs? If yes how they work? Isn't PAZ a space
+ between two FTRs?
+
+There is a screenshot. Pleease take a look when you have some time. I have a few questions regarding this video:
+
+1) Isn't FTR 1 the level that should keep price down and allow simetry to be created?
+
+2) You said ''A place between an FTR and a PAZ its a really good place
+for a FO.'' You see.. there is a nice CP with the lower limit above
+FTR1. Is that the reason and its that a FO zone?
+
+3) Isn't yellow box the FTR1 instead of FTR that i previously marked?
+
+4) afer price went to the origin (FTR2) it came down into the zone that i had marked.Im not sure about that zone.
+
+If my questions aren't very clear can you please tell me where is your
+limits of the PAZs in this chart and why? Thank you very much IF! :)
+
+Ifmyante wrote: Taking this image in isolation may leave out other important information, but since it's all we've got:
+FA: IF، می‌شود کمی کمکم کنی؟ آن ویدئوی تقارن را دیده‌ام و واقعاً نمی‌فهمم FTRها و FLها و PAZها کجای ماجرا هستند. این کادرها PAZ هستند؟ اگر بله، چطور کار می‌کنند؟ مگر PAZ فضایی بین دو FTR نیست؟
+
+یک اسکرین‌شات هست. لطفاً هر وقت وقت داشتی نگاهی بینداز. چند سؤال دربارهٔ این ویدئو دارم:
+
+1) مگر FTR 1 همان سطحی نیست که باید قیمت را پایین نگه دارد و اجازه بدهد تقارن ساخته شود؟
+
+2) گفتی «جایی بین یک FTR و یک PAZ جای واقعاً خوبی برای FO است.» می‌بینی.. یک CP خوب هست که حد پایینی‌اش بالای FTR1 است. دلیلش همین است و آن ناحیه FO است؟
+
+3) مگر کادر زرد همان FTR1 نیست، به‌جای FTRی که قبلاً علامت زده بودم؟
+
+4) بعد از اینکه قیمت به مبدأ (FTR2) رفت، به ناحیه‌ای که علامت زده بودم برگشت. دربارهٔ آن ناحیه مطمئن نیستم.
+
+اگر سؤال‌هایم خیلی روشن نیست، می‌شود بگویی مرزهای PAZها در این نمودار کجاست و چرا؟ خیلی ممنون IF! :)
+
+Ifmyante نوشت: گرفتن این تصویر به‌تنهایی ممکن است اطلاعات مهم دیگری را جا بیندازد، ولی چون تنها چیزی است که داریم:
+
+### if_p77_8
+EN: Hiya
+
+Price acted perfectly on that chart, and all PA was sound
+
+Simply put together all the simple lessons, and you'll see the forest through the trees
+FA: سلام
+
+قیمت روی آن نمودار بی‌نقص عمل کرد و همهٔ PA درست بود
+
+فقط همهٔ درس‌های ساده را کنار هم بگذار تا جنگل را از لای درخت‌ها ببینی
+
+### if_p77_9
+EN: Hi IF;
+
+* Price is droping to the Demand zone
+
+* I had made two different scences.
+
+I want to know that which case/scene is indicating that the demand zone is respected strongly or not???
+FA: سلام IF؛
+
+* قیمت دارد به ناحیه تقاضا می‌ریزد
+
+* من دو سناریوی مختلف ساخته‌ام.
+
+می‌خواهم بدانم کدام حالت/سناریو نشان می‌دهد که این تقاضا با قدرت محترم شمرده شده یا نه؟؟؟
+
+### if_p77_10
+EN: I received this email, but the post is not available.
+
+A new reply has been posted on the RTM Community
+
+Message Subject : If
+
+Category : Journals
+
+Posted by : TheLastNail
+
+...
+FA: این ایمیل را دریافت کردم، ولی پست در دسترس نیست.
+
+پاسخ تازه‌ای در انجمن RTM منتشر شده است
+
+موضوع پیام: If
+
+دسته: ژورنال‌ها
+
+فرستاده‌شده توسط: TheLastNail
+
+...
+
+### if_p77_11
+EN: jsr wrote: I received this email, but the post is not available.
+
+A new reply has been posted on the RTM Community
+
+Message Subject : If
+
+Category : Journals
+
+Posted by : TheLastNail
+
+...
+
+Yes, I decided to delete my message few moments after I posted it. It
+was about FLs as I'm obsessed with them last couple of weeks. I will
+post it again, as it sure is something to think about.
+
+If If wanted us to have clear definition he would define it clearly.
+
+I'm not saying he never did it, I'm coming to that. Some people define
+FL same as FTR(including If), but it is confusing as there is
+contradicting information. If you read marketpedia definition of FTR,
+FTR of minor significance is created after each FTR in same direction,
+meaning if u have for example uptrend(yes I know, word uptrend is
+blasphemy
+ ) so we have low, high, higher low, higher high etc. base of each low
+is FTR. while FLs are created after break of important high or low.
+FxYogi at forexfactory also said he differentiates FTRs from FLs, and he
+ came damn close to solving this RTM puzzle, if not cracking it
+altogether.
+
+How do we know what is important? what is definition of important?
+
+Then there is this image If posted where it seems like every time minor
+trend(yes I know) gets created that is opposite than major trend it will
+ crate FL after eng and FTR of beginning of that minor trend(source, or
+first H or L of that minor countertrend):
+
+So basically if we have uptrend and it gets engulfed by a single candle
+in this TF, candle continuing this uptrend will create new FL, but also
+when it comes down and breaks that lower candle it should create new FL:
+
+It also means as we cant know what exactly price did in one TF candle we
+ cant be sure where are all FLs really placed unless we go to tick
+chart. IF said time is not a factor in trading but IT's must be aware of
+ timeframes as they play tricks against retailers and 99% of retailers
+are trading on timeframe charts...
+
+Then there were also a question about flags and poles, as on one TF what
+ seems as a flag looks like a pole on another, and it is part of this TF
+ confusion I'm having...
+
+And there is also this continuation engulf thingy mentioned in RTMA
+syllabus and I have a hunch it is also connected somehow to this TF
+problem mentioned above.
+
+Is each high and low reaction to FL on some TF? What happens when price comes to value it has never been before historically?
+FA: jsr نوشت: این ایمیل را دریافت کردم، ولی پست در دسترس نیست.
+
+پاسخ تازه‌ای در انجمن RTM منتشر شده است
+
+موضوع پیام: If
+
+دسته: ژورنال‌ها
+
+فرستاده‌شده توسط: TheLastNail
+
+...
+
+بله، چند لحظه بعد از گذاشتن پیامم تصمیم گرفتم حذفش کنم. دربارهٔ FLها بود، چون این چند هفته وسواسشان را دارم. دوباره می‌گذارمش، چون حتماً چیزی است که باید درباره‌اش فکر کرد.
+
+اگر IF می‌خواست تعریف روشنی داشته باشیم، روشن تعریفش می‌کرد.
+
+نمی‌گویم هیچ‌وقت این کار را نکرده؛ دارم به همان‌جا می‌رسم. بعضی‌ها FL را همان FTR می‌دانند (IF هم همین‌طور)، ولی این گیج‌کننده است چون اطلاعات متناقض وجود دارد. اگر تعریف FTR را در مارکت‌پدیا بخوانی، FTR با اهمیت جزئی بعد از هر FTR در همان جهت ساخته می‌شود؛ یعنی اگر مثلاً روند صعودی داشته باشی (بله می‌دانم، واژهٔ روند صعودی کفر است ) پس کف، سقف، کف بالاتر، سقف بالاتر و غیره داریم. پایهٔ هر کف FTR است. در حالی که FLها بعد از شکست سقف یا کف مهم ساخته می‌شوند. FxYogi در forexfactory هم گفت که بین FTRها و FLها تفاوت می‌گذارد و لعنتی خیلی نزدیک شد به حل این پازل RTM، اگر نگوییم کاملاً شکستش داد.
+
+از کجا بفهمیم چه چیزی مهم است؟ تعریف مهم چیست؟
+
+بعد این تصویری است که IF گذاشت و به نظر می‌رسد هر بار روند جزئی (بله می‌دانم) خلاف روند اصلی ساخته می‌شود، بعد از اینگالف یک FL می‌سازد و FTRِ آغاز همان روند جزئی (منبع، یا اولین H یا L آن پادترند):
+
+پس اساساً اگر روند صعودی داشته باشیم و در این TF با یک کندل اینگالف شود، کندلی که این روند صعودی را ادامه می‌دهد FL جدید می‌سازد، ولی وقتی پایین می‌آید و آن کندل پایینی را می‌شکند هم باید FL جدید بسازد:
+
+این یعنی چون نمی‌توانیم بدانیم قیمت داخل یک کندل TF دقیقاً چه کرده، مطمئن نیستیم همهٔ FLها واقعاً کجا قرار دارند، مگر اینکه به چارت تیک برویم. IF گفت زمان در معامله فاکتور نیست، ولی ITها باید از تایم‌فریم‌ها آگاه باشند چون با خرده‌فروش‌ها بازی درمی‌آورند و 99% خرده‌فروش‌ها روی چارت‌های تایم‌فریمی معامله می‌کنند...
+
+بعد سؤالی هم دربارهٔ پرچم‌ها و میله‌ها بود، چون در یک TF چیزی که پرچم به نظر می‌رسد در تایم‌فریم دیگر میله است، و این بخشی از همان سردرگمی TF است که دارم...
+
+و همچنین این گیرِ «اینگالف ادامه‌دهنده» را داریم که در سرفصل RTMA ذکر شده و حسم می‌گوید به شکلی با همین مشکل TF که بالا گفتم مرتبط است.
+
+آیا هر سقف و کف، واکنشی به FL در تایم‌فریمی خاص است؟ وقتی قیمت به ارزشی می‌رسد که در تاریخ قبلاً هرگز آنجا نبوده چه اتفاقی می‌افتد؟
+
+### if_p77_12
+EN: TheLastNail wrote: Then there is
+ this image If posted where it seems like every time minor trend(yes I
+know) gets created that is opposite than major trend it will crate FL
+after eng and FTR of beginning of that minor trend:
+
+Hi TheLastNail,
+
+Maybe this conversation can help you a little:
+	www.readthemarket.com/index.php/forum/cl...-pa?start=1300#29321
+
+Can you please give me the link to the original post of that chart? I don't remember that one.
+FA: TheLastNail نوشت: بعد این تصویری است که IF گذاشت و به نظر می‌رسد هر بار روند جزئی (بله می‌دانم) خلاف روند اصلی ساخته می‌شود، بعد از اینگالف یک FL می‌سازد و FTRِ آغاز همان روند جزئی:
+
+سلام TheLastNail،
+
+شاید این گفتگو کمی کمکت کند: www.readthemarket.com/index.php/forum/cl...-pa?start=1300#29321
+
+می‌شود لطفاً لینک پست اصلی آن نمودار را بدهی؟ آن یکی را به یاد نمی‌آورم.
+
+### if_p77_13
+EN: It's in If's journal, pg 32
+	www.readthemarket.com/index.php/forum/jo...ls/1523-if?start=775
+FA: این در ژورنال If است، صفحهٔ 32. نشانی زیر همان صفحه از ژورنال را نشان می‌دهد؛ فقط وسط آدرس با سه‌نقطه کوتاه شده، پس اگر مستقیم باز نشد بدان که باید کاملش کنی:
+	www.readthemarket.com/index.php/forum/jo...ls/1523-if?start=775
+
+### if_p77_14
+EN: TheLastNail wrote:
+jsr wrote: I received this email, but the post is not available.
+
+A new reply has been posted on the RTM Community
+
+Message Subject : If
+
+Category : Journals
+
+Posted by : TheLastNail
+
+...
+
+Yes, I decided to delete my message few moments after I posted it. It
+was about FLs as I'm obsessed with them last couple of weeks. I will
+post it again, as it sure is something to think about.
+
+If If wanted us to have clear definition he would define it clearly.
+
+I'm not saying he never did it, I'm coming to that. Some people define
+FL same as FTR(including If), but it is confusing as there is
+contradicting information. If you read marketpedia definition of FTR,
+FTR of minor significance is created after each FTR in same direction,
+meaning if u have for example uptrend(yes I know, word uptrend is
+blasphemy
+ ) so we have low, high, higher low, higher high etc. base of each low
+is FTR. while FLs are created after break of important high or low.
+FxYogi at forexfactory also said he differentiates FTRs from FLs, and he
+ came damn close to solving this RTM puzzle, if not cracking it
+altogether.
+
+How do we know what is important? what is definition of important?
+
+Then there is this image If posted where it seems like every time minor
+trend(yes I know) gets created that is opposite than major trend it will
+ crate FL after eng and FTR of beginning of that minor trend(source, or
+first H or L of that minor countertrend):
+
+So basically if we have uptrend and it gets engulfed by a single candle
+in this TF, candle continuing this uptrend will create new FL, but also
+when it comes down and breaks that lower candle it should create new FL:
+
+It also means as we cant know what exactly price did in one TF candle we
+ cant be sure where are all FLs really placed unless we go to tick
+chart. IF said time is not a factor in trading but IT's must be aware of
+ timeframes as they play tricks against retailers and 99% of retailers
+are trading on timeframe charts...
+
+Then there were also a question about flags and poles, as on one TF what
+ seems as a flag looks like a pole on another, and it is part of this TF
+ confusion I'm having...
+
+And there is also this continuation engulf thingy mentioned in RTMA
+syllabus and I have a hunch it is also connected somehow to this TF
+problem mentioned above.
+
+Is each high and low reaction to FL on some TF? What happens when price comes to value it has never been before historically?
+
+Last nail I think every Paz (between ftr/flags) and remembered with in a
+ flag in ltf on the border of flag we have flag limit and which can
+also be ftr. All this is important and what we are trying to do is
+price. In the picture you posted what if wrote makes sense, because up
+move has not reached the origin of the downmove therefore it may still
+go up to point 2. However with the info we have as of now (engulf of
+flag 3) which means it wants to go down and the target is flag 1.
+
+I hope this answers your question
+
+I am not provide as I am learning it myself but this is how I am understanding and therefore sharing what I know
+FA: TheLastNail نوشت:
+jsr نوشت: این ایمیل را دریافت کردم، ولی پست در دسترس نیست.
+
+پاسخ تازه‌ای در انجمن RTM منتشر شده است
+
+موضوع پیام: If
+
+دسته: ژورنال‌ها
+
+فرستاده‌شده توسط: TheLastNail
+
+...
+
+بله، چند لحظه بعد از گذاشتن پیامم تصمیم گرفتم حذفش کنم. دربارهٔ FLها بود، چون این چند هفته وسواسشان را دارم. دوباره می‌گذارمش، چون حتماً چیزی است که باید درباره‌اش فکر کرد.
+
+اگر IF می‌خواست تعریف روشنی داشته باشیم، روشن تعریفش می‌کرد.
+
+نمی‌گویم هیچ‌وقت این کار را نکرده؛ دارم به همان‌جا می‌رسم. بعضی‌ها FL را همان FTR می‌دانند (IF هم همین‌طور)، ولی این گیج‌کننده است چون اطلاعات متناقض وجود دارد. اگر تعریف FTR را در مارکت‌پدیا بخوانی، FTR با اهمیت جزئی بعد از هر FTR در همان جهت ساخته می‌شود؛ یعنی اگر مثلاً روند صعودی داشته باشی (بله می‌دانم، واژهٔ روند صعودی کفر است ) پس کف، سقف، کف بالاتر، سقف بالاتر و غیره داریم. پایهٔ هر کف FTR است. در حالی که FLها بعد از شکست سقف یا کف مهم ساخته می‌شوند. FxYogi در forexfactory هم گفت که بین FTRها و FLها تفاوت می‌گذارد و لعنتی خیلی نزدیک شد به حل این پازل RTM، اگر نگوییم کاملاً شکستش داد.
+
+از کجا بفهمیم چه چیزی مهم است؟ تعریف مهم چیست؟
+
+بعد این تصویری است که IF گذاشت و به نظر می‌رسد هر بار روند جزئی (بله می‌دانم) خلاف روند اصلی ساخته می‌شود، بعد از اینگالف یک FL می‌سازد و FTRِ آغاز همان روند جزئی (منبع، یا اولین H یا L آن پادترند):
+
+پس اساساً اگر روند صعودی داشته باشیم و در این TF با یک کندل اینگالف شود، کندلی که این روند صعودی را ادامه می‌دهد FL جدید می‌سازد، ولی وقتی پایین می‌آید و آن کندل پایینی را می‌شکند هم باید FL جدید بسازد:
+
+این یعنی چون نمی‌توانیم بدانیم قیمت داخل یک کندل TF دقیقاً چه کرده، مطمئن نیستیم همهٔ FLها واقعاً کجا قرار دارند، مگر اینکه به چارت تیک برویم. IF گفت زمان در معامله فاکتور نیست، ولی ITها باید از تایم‌فریم‌ها آگاه باشند چون با خرده‌فروش‌ها بازی درمی‌آورند و 99% خرده‌فروش‌ها روی چارت‌های تایم‌فریمی معامله می‌کنند...
+
+بعد سؤالی هم دربارهٔ پرچم‌ها و میله‌ها بود، چون در یک TF چیزی که پرچم به نظر می‌رسد در تایم‌فریم دیگر میله است، و این بخشی از همان سردرگمی TF است که دارم...
+
+و همچنین این گیرِ «اینگالف ادامه‌دهنده» را داریم که در سرفصل RTMA ذکر شده و حسم می‌گوید به شکلی با همین مشکل TF که بالا گفتم مرتبط است.
+
+آیا هر سقف و کف، واکنشی به FL در تایم‌فریمی خاص است؟ وقتی قیمت به ارزشی می‌رسد که در تاریخ قبلاً هرگز آنجا نبوده چه اتفاقی می‌افتد؟
+
+TheLastNail عزیز، فکر می‌کنم هر PAZ (بین FTR/پرچم‌ها) و هر چیزی که در یک پرچم در LTF به یاد می‌آید، روی مرز پرچم یک FL داریم که آن هم می‌تواند FTR باشد. همهٔ این‌ها مهم است و کاری که می‌کنیم خواندن قیمت است. در تصویری که گذاشتی، حرف IF منطقی است، چون حرکت صعودی به مبدأ حرکت نزولی نرسیده و بنابراین ممکن است هنوز تا نقطهٔ 2 بالا برود. اما با اطلاعاتی که همین حالا داریم (اینگالف پرچم 3) یعنی می‌خواهد پایین برود و تارگت پرچم 1 است.
+
+امیدوارم این جواب سؤالت را بدهد
+
+من در جایگاه پاسخ دادن نیستم چون خودم دارم یاد می‌گیرم، ولی این‌طور می‌فهمم و در نتیجه آنچه می‌دانم را در میان می‌گذارم
+
+### if_p77_15
+EN: My actual dilemma is how to differentiate FL from any common FTR. Do
+we know FTR is FL only after that FTR bounce price in future then that
+bounce make new high/low. After that we can say that FTR was indeed a
+FL? That seems very likely, as compression is PAZ and FLs are created
+after break of PAZ.
+FA: معمای واقعی من این است که FL را از هر FTR معمولی چطور تشخیص بدهم. آیا فقط بعد از اینکه آن FTR در آینده قیمت را برگرداند و آن برگشت سقف/کف تازه بسازد می‌فهمیم FTR در واقع FL بوده؟ این خیلی محتمل به نظر می‌رسد، چون فشرده‌سازی همان PAZ است و FLها بعد از شکست PAZ ساخته می‌شوند.
+
+### if_p77_16
+EN: TheLastNail wrote: My actual
+dilemma is how to differentiate FL from any common FTR. Do we know FTR
+is FL only after that FTR bounce price in future then that bounce make
+new high/low. After that we can say that FTR was indeed a FL? That seems
+ very likely, as compression is PAZ and FLs are created after break of
+PAZ.
+
+FL is usually sideways move 1 - n bars which then breaks in the intended
+ direction. For example high wave candle or doji on daily candle is FL
+as there is indecision within that bar in ltf. Basically on lower TF in
+this FL price is moved inside FL "box" and after breaking this box
+creates an FTR.
+
+FTR itself is a retracement after an engulf. You can confirm it is FTR after making HH in "uptrend"or LL "downtrend"
+
+:)
+FA: TheLastNail نوشت: معمای واقعی من این است که FL را از هر FTR معمولی چطور تشخیص بدهم. آیا فقط بعد از اینکه آن FTR در آینده قیمت را برگرداند و آن برگشت سقف/کف تازه بسازد می‌فهمیم FTR در واقع FL بوده؟ این خیلی محتمل به نظر می‌رسد، چون فشرده‌سازی همان PAZ است و FLها بعد از شکست PAZ ساخته می‌شوند.
+
+FL معمولاً حرکتی افقی به اندازهٔ 1 تا n کندل است که بعد در جهت مورد نظر می‌شکند. مثلاً کندل پرنوسان یا دوجی در کندل روزانه FL است، چون داخل آن کندل در LTF تردید وجود دارد. اساساً در تایم‌فریم پایین‌تر، در این FL قیمت داخل «کادر» FL جابه‌جا می‌شود و بعد از شکستن این کادر، یک FTR ساخته می‌شود.
+
+خود FTR یک پولبک بعد از اینگالف است. می‌توانی بعد از ساختن HH در «روند صعودی» یا LL در «روند نزولی» مطمئن شوی که FTR است
+
+:)
+
+### if_p77_17
+EN: Ahmadhassan745 wrote: Hi IF;
+
+* Price is droping to the Demand zone
+
+* I had made two different scences.
+
+I want to know that which case/scene is indicating that the demand zone is respected strongly or not???
+
+There's no indication that a demand has been respected until the source above has been engulfed
+FA: Ahmadhassan745 نوشت: سلام IF؛
+
+* قیمت دارد به ناحیه تقاضا می‌ریزد
+
+* من دو سناریوی مختلف ساخته‌ام.
+
+می‌خواهم بدانم کدام حالت/سناریو نشان می‌دهد که ناحیه تقاضا با قدرت محترم شمرده شده یا نه؟؟؟
+
+تا وقتی منبع بالای آن اینگالف نشده، هیچ نشانه‌ای از محترم شمرده شدن تقاضا وجود ندارد
+
+### if_p77_18
+EN: Hello Master IF i'd like to pose a question on a matter that came up
+after many wearing hours spent at the screen following the PA i think
+most pervasive and widespreaded, that we learned to call Compression.
+
+Hours spent not for sure because i like it , but just because it occurs
+so often, specially hardly testing the psychological strength of any
+trader stuck in his trade.
+
+Precisely: what is (..are, if more than a single one ) the "hidden" IT's intention the Compression can hint / express.to a trader
+
+I know ( ...i think to) what the Compression is: cleaning an area by
+the orders so that the price gets free to move up/down, and it does it
+suddenly by a pole ( CPLQ also). So say i know the effects.
+
+But what ITs want by that: just a move somewhere else without momentum ?
+ like the price wanted to be at that moment on a level different from
+the actual ?
+
+Or tricking by price going messing around, often against itself, to create confusion on trades ongoing ?
+
+When CPUP/DOWN to Supply/Demand endanger by pole shot through the CP,
+when CPUP/DOWN to S/D endanger by consumption of S/D, so poles shot
+ahead
+
+how is possible to realize what a CP is aimed to, before it ends ?
+
+Hope the questions have effective meaning, and not just that the writer is a careless student
+
+Many thanks, all the best !
+FA: سلام استاد IF، می‌خواهم سؤالی بپرسم دربارهٔ موضوعی که بعد از ساعت‌های فرساینده پشت صفحه و دنبال کردن PAای که فکر می‌کنم فراگیرترین و پرتکرارترین است — همان که یاد گرفتیم فشرده‌سازی بنامیمش — پیش آمده.
+
+ساعت‌هایی که مطمئناً به این دلیل نیست که دوستش دارم، فقط چون این‌قدر زیاد پیش می‌آید، مخصوصاً که سخت‌ترین آزمون قدرت روانی هر معامله‌گری است که در معامله‌اش گیر افتاده.
+
+دقیقاً: نیت «پنهانِ» ITها که فشرده‌سازی می‌تواند به معامله‌گر نشان بدهد یا بیان کند چیست (یا چیست‌ها، اگر بیش از یکی است)؟
+
+میدانم (...فکر می‌کنم می‌دانم) فشرده‌سازی چیست: تمیز کردن یک ناحیه از سفارش‌ها تا قیمت آزاد شود بالا/پایین برود، و این کار را ناگهانی با یک میله انجام می‌دهد (CPLQ هم همین‌طور). پس فرض کن اثراتش را می‌دانم.
+
+ولی ITها با این کار چه می‌خواهند: فقط حرکتی به جایی دیگر بدون مومنتوم؟ مثل اینکه قیمت می‌خواست در آن لحظه در سطحی متفاوت از سطح فعلی باشد؟
+
+یا ترفند با سرگردان کردن قیمت، که اغلب علیه خودش است، تا در معاملات در جریان ابهام ایجاد شود؟
+
+وقتی CPUP/DOWN به عرضه/تقاضا با شلیک میلی از میان CP به خطر می‌افتد، وقتی CPUP/DOWN به S/D با مصرف شدن S/D به خطر می‌افتد، یعنی میله‌ها از پیش شلیک شده‌اند
+
+چطور می‌شود پیش از پایان CP فهمید هدفش چیست؟
+
+امیدوارم سؤال‌ها معنای واقعی داشته باشند و نه اینکه فقط نویسنده شاگردی بی‌اعتنا باشد
+
+خیلی ممنون، همه‌چیز خوب باشد!
+
+### if_p77_19
+EN: Compression is a very handy tool
+
+Can you answer your questions by looking at the compression below?
+FA: فشرده‌سازی ابزار بسیار کارآمدی است
+
+می‌توانی با نگاه کردن به فشرده‌سازی زیر، جواب سؤال‌هایت را بدهی؟
+
+### if_p77_20
+EN: Ifmyante wrote: Compression is a very handy tool
+
+Can you answer your questions by looking at the compression below?
+
+Do you mean IT are buying and selling at same time but they r willing to
+ take huge drawdown? For example in first up move retailers sell before
+confirming of the supply will hold and when it breaks they go long?
+
+In this case IT would buy into those sells and they also sells into those buy and stops?
+
+BTW what do you mean by buy and stops? Stop-loss for sell orders? But
+isn't stop-loss in a market conditions opposite of the order opened?
+
+I hope this does not confuse anyone too much. I apologize for my English:)
+FA: Ifmyante نوشت: فشرده‌سازی ابزار بسیار کارآمدی است
+
+می‌توانی با نگاه کردن به فشرده‌سازی زیر، جواب سؤال‌هایت را بدهی؟
+
+یعنی می‌گویی ITها همزمان می‌خرند و می‌فروشند ولی حاضرند افت سرمایهٔ سنگین را بپذیرند؟ مثلاً در اولین حرکت صعودی، خرده‌فروش‌ها قبل از تأیید اینکه عرضه دوام می‌آورد می‌فروشند و وقتی شکست، پوزیشن خرید می‌گیرند؟
+
+در این حالت IT روی همان فروش‌ها می‌خرد و روی خریدها و استاپ‌ها هم می‌فروشد؟
+
+راستی منظورت از «خرید و استاپ» چیست؟ استاپ‌لاس برای سفارش‌های فروش؟ ولی مگر استاپ‌لاس در شرایط بازار، بر عکس سفارش بازشده نیست؟
+
+امیدوارم این حرف‌ها کسی را زیاد گیج نکند. از انگلیسی‌ام عذر می‌خواهم :)
+
+### if_p77_21
+EN: Yes, yes, and yes.
+
+If you want to sell at 100, make an high at 99, then an ltf lower low.
+The retailers will sell at 98 with their stops above the high of 99. So
+you take price to 100, hitting all the sellers' stops and picking up the
+ momentum breakout buyers
+FA: بله، بله و بله.
+
+اگر می‌خواهی در 100 بفروشی، سقفی در 99 بساز، بعد یک کف پایین‌تر در LTF. خرده‌فروش‌ها در 98 می‌فروشند و استاپ‌هایشان بالای سقف 99 است. تو قیمت را به 100 می‌بری، همهٔ استاپ‌های فروشنده‌ها را می‌زنی و خریداران مومنتومِ بریک‌اوت را جمع می‌کنی
+
+### if_p77_22
+EN: IF really thank you a lot for your quick reply !
+
+....trying to make the puzzle:
+
+as first any little move on the chart is made by the ITs. Retailers just jump on it.
+
+So any swing H and L was specially made by ITs to get specific reactions
+ (orders) by retailers. Obviously ITs move by imbalancing, then placing
+their sells/buys against retailers + imbalance necessary for the move (i
+ think).
+
+in the upper part of the chart there are swings H & HH.
+
+Some Retailers sell immediately below H + stop above. ITs take all stop as BUY orders.
+
+Other Retailers buy immediately above H + stop below L. ITs take only orders, again BUY orders .
+
+Other Retailers have here Stop of sell orders placed below the L. ITs take all as BUY orders
+
+in the lower part of the chart there are swings L & LL
+
+Some Retailers buy immediately above L + stop below. ITs take all stop as SELL orders
+
+Other Retailers sell immediately below L + stop above H. ITs take only orders, SELL orders
+
+Other Retailers have here stop of buy orders placed above H. ITs take all as SELL orders
+
+So at the end of all cycles IT will have collected a number of closed BUY and SELL Stop Loss + orders
+
+it means also a predominance of BUY or SELL orders, when ITs consider that amount satisfactory, they will move against it.
+
+in that chart the predominance should be BUY retail orders, then we can expect a pole down.
+
+It seems to be a true classic of the CP.
+
+....I hope it is not just a mess and i've got it....
+
+all the best
+FA: IF واقعاً از جواب سریعت خیلی ممنونم!
+
+....دارم پازل را می‌چینم:
+
+اول اینکه هر حرکت کوچک روی نمودار کار ITهاست. خرده‌فروش‌ها فقط رویش می‌پرند.
+
+پس هر سوئینگ H و L عمداً توسط ITها ساخته شده تا واکنش‌های مشخصی (سفارش‌هایی) از خرده‌فروش‌ها بگیرند. بدیهی است که ITها با ایجاد عدم‌تعادل حرکت می‌کنند و بعد فروش/خریدشان را مقابل خرده‌فروش‌ها می‌گذارند، به‌علاوهٔ عدم‌تعادلِ لازم برای حرکت (فکر می‌کنم).
+
+در بخش بالای نمودار سوئینگ‌های H و HH هست.
+
+بعضی خرده‌فروش‌ها بلافاصله زیر H می‌فروشند با استاپ بالای آن. ITها همهٔ استاپ‌ها را به‌عنوان سفارش خرید می‌گیرند.
+
+خرده‌فروش‌های دیگر بلافاصله بالای H می‌خرند با استاپ زیر L. ITها فقط سفارش‌ها را می‌گیرند، باز هم سفارش خرید.
+
+خرده‌فروش‌های دیگری هم اینجا استاپ سفارش‌های فروششان را زیر L گذاشته‌اند. ITها همه را به‌عنوان سفارش خرید می‌گیرند
+
+در بخش پایین نمودار سوئینگ‌های L و LL هست
+
+بعضی خرده‌فروش‌ها بلافاصله بالای L می‌خرند با استاپ زیر آن. ITها همهٔ استاپ‌ها را به‌عنوان سفارش فروش می‌گیرند
+
+خرده‌فروش‌های دیگر بلافاصله زیر L می‌فروشند با استاپ بالای H. ITها فقط سفارش‌ها را می‌گیرند، سفارش فروش
+
+خرده‌فروش‌های دیگری هم اینجا استاپ سفارش‌های خریدشان را بالای H گذاشته‌اند. ITها همه را به‌عنوان سفارش فروش می‌گیرند
+
+پس در پایان همهٔ چرخه‌ها، IT تعدادی استاپ‌لاس و سفارش بسته‌شدهٔ خرید و فروش جمع کرده است
+
+این یعنی برتری تعداد سفارش‌های خرید یا فروش؛ وقتی ITها آن مقدار را راضی‌کننده بدانند، برخلافش حرکت می‌کنند.
+
+در آن نمودار برتری باید با سفارش‌های خرید خرده‌فروش‌ها باشد، پس می‌توانیم انتظار یک میلهٔ نزولی داشته باشیم.
+
+به نظر می‌رسد یک کلاسیک واقعی از CP باشد.
+
+....امیدوارم فقط آش شله‌قلم‌قلم نباشد و گرفته باشمش....
+
+همه‌چیز خوب
+
+### if_p77_23
+EN: ....one sample to better point what i'm looking for: does that CPUP say the price will exit like that ?
+
+W RTM, W IF
+FA: ....یک نمونه برای بهتر نشان دادن آنچه دنبالش هستم: آیا آن CPUP می‌گوید قیمت این‌طور خارج می‌شود؟
+
+درود بر RTM، درود بر IF
+
+### if_p77_24
+EN: Good morning all,
+
+for first I wish to thank IF and all at RTM.
+
+This is a big happy family, a true elite of discretionary traders.
+
+I haven't found nothing about MM and position management, am I missing something or there's nothing about it?
+
+Thank you all, keep up RTM!
+FA: صبح بخیر همه،
+
+اول از همه می‌خواهم از IF و همهٔ بچه‌های RTM تشکر کنم.
+
+این یک خانوادهٔ بزرگ و خوش است، نخبه‌ای واقعی از معامله‌گران صلاحدیدی.
+
+من هیچ‌چیز دربارهٔ MM و مدیریت پوزیشن پیدا نکردم؛ چیزی را جا انداخته‌ام یا اصلاً چیزی درباره‌اش نیست؟
+
+ممنون از همه، RTM را زنده نگه دارید!
+
+### if_p77_25
+EN: Hi Alex
+
+Once you understand how the market works, money management and position sizing come naturally.
+
+Gambling websites, for obvious reasons, put more emphasis on loss management
+FA: سلام Alex
+
+وقتی بفهمی بازار چطور کار می‌کند، مدیریت سرمایه و حجم پوزیشن خودبه‌خود می‌آید.
+
+سایت‌های قمار، به دلایل واضح، تأکید بیشتری روی مدیریت ضرر می‌گذارند

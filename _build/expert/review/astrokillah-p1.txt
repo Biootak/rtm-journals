@@ -1,0 +1,589 @@
+### astrokillah_p1_1
+EN: Dear Traders,
+
+ Good trading to all! I have been lurking around for several
+ months, reading and reading and reading, trying to piece together all
+the puzzle pieces. I would like to thank Master IF for showing us
+the path. God bless this man! I am grateful to all the seniors who have
+left behind invaluable journals, reading them has been a true revelation
+ for me.
+
+ I am not sure if I am there yet, the only way to find out
+is to create a journal to record all my trades (and my thinking behind
+them). I will also post my chart analysis here before I pull the
+trigger.
+
+ I will be looking for two kind of setups:
+
+(1) Reversal - wait for price to gets into HTF (H4/D1/WK/MN) levels,
+then go into LTF (M1/M5/M15) and wait for a Quasimodo (ENGULF) to
+indicate imminent reversal, and then enter a trade as price retraces to
+QM levels (Left Shoulder or Broken Neckline or Newly created FTR/FL).
+
+(2)Continuation - wait for price to break/engulf opposing levels and
+create a new FTR/FL, then enter a trade when price retraces to the
+FTR/FL for the first time (FTB). The quicker FTB happens, the better the
+ odds. If price returns to the FTR/FL after a long consolidation period,
+ then I will need to watch for new PA before pulling the trigger.
+
+ So my main Entry timeframe will be M15, I would move to another timeframes if I can't see a clear setup.
+
+ In addition, through my previous study and
+also my own observation, I have decided to only trade during the
+following hours:
+
+London Open (0200-0400 EST), New York Open (0800-1000 EST).
+
+ And I often find that it's difficult for me to monitor too
+ many instruments - I ended up losing focus and missing a lot of good
+trade. So for now, I will be focusing on the following pairs:
+
+GBPJPY, GBPUSD, USDJPY and GOLD.
+
+Today is Monday, and this is the day where market makers /
+Institutional Traders accumulate orders before making their real move
+for the week. So it's a good day to do chart analysis.
+
+First up is GBPUSD, the following chart is obtained from FXTOP, and it's
+ very telling indeed, notice how price bounced around big round numbers
+(1.2, 1.3, 1.4, etc..). Price has been on a long term decline since
+2008, but it stopped falling after hitting the right shoulder (or FTR)
+of a bullish QM, and has been ranging between 1.2 and 1.35 since October
+ 2016.
+
+Looking closer, price is currently inside a MONTHLY FL, which can
+provide some short opportunities especially on lower timeframes.
+
+On daily chart, price was bouncing up after hitting a TQ and is now into
+ a supply zone, this is not a PA for a touch trade, so I am watching
+closely the PA inside this daily supply at the moment.
+
+On M15 chart, price broke above previous H1 peak, and then engulfed an
+FTR (pink rectangle) breaking into a compression zone. However, instead
+of continue moving down, it reversed and engulfed a small DP. I see a
+FRESH supply level coincide with the previous H1 swing high, I figure
+that would be a good place for a short. I am still not sure about
+setting a SELL limit order there, so I will watch for PA on M5/M1 when
+price get into the orange box. And this could happen today or tomorrow.
+FA: معامله‌گران عزیز،
+
+معامله‌گری خوب برای همه! چند ماهی است که این‌جا کمین کرده‌ام، خوانده‌ام و خوانده‌ام و خوانده‌ام تا تکه‌های این پازل را کنار هم بگذارم. می‌خواهم از استاد IF تشکر کنم که راه را به ما نشان داد. خدا این مرد را حفظ کند! از همهٔ قدیمی‌ها هم سپاسگزارم که ژورنال‌های ارزشمندشان را به‌جا گذاشته‌اند؛ خواندنشان برای من واقعاً یک مکاشفه بود.
+
+مطمئن نیستم به آن‌جا رسیده باشم؛ تنها راه فهمیدنش این است که ژورنالی بسازم و همهٔ معاملاتم (و فکر پشتشان) را ثبت کنم. تحلیل نمودارهایم را هم قبل از زدن ماشه این‌جا می‌گذارم.
+
+دنبال دو نوع ستاپ خواهم بود:
+
+(1) برگشت روند - منتظر می‌مانم قیمت وارد سطوح تایم‌فریم بالاتر (H4/D1/WK/MN) شود، بعد به تایم‌فریم پایین (M1/M5/M15) می‌روم و منتظر می‌مانم یک کوازیمودو (اینگالف) برگشت قریب‌الوقوع را نشان دهد و بعد وقتی قیمت به سطوح QM برمی‌گردد (شانهٔ چپ یا خط گردن شکسته یا FTR/FL تازه‌ساخته) وارد معامله می‌شوم.
+
+(2) ادامهٔ روند - منتظر می‌مانم قیمت سطوح مخالف را بشکند یا اینگالف کند و یک FTR/FL تازه بسازد، بعد وقتی قیمت برای اولین بار به آن FTR/FL برمی‌گردد (FTB) وارد معامله می‌شوم. هر چه FTB سریع‌تر رخ دهد، شانس بهتر است. اگر قیمت بعد از یک دورهٔ تثبیت طولانی به FTR/FL برگردد، باید قبل از زدن ماشه منتظر PA تازه بمانم.
+
+پس تایم‌فریم اصلی ورودم M15 خواهد بود؛ اگر ستاپ واضحی نبینم، به تایم‌فریم‌های دیگر می‌روم.
+
+علاوه بر این، بر اساس مطالعهٔ قبلی و مشاهدهٔ خودم، تصمیم گرفته‌ام فقط در ساعات زیر معامله کنم:
+
+باز شدن لندن (0200-0400 EST)، باز شدن نیویورک (0800-1000 EST).
+
+و اغلب می‌بینم که پایش کردن ابزارهای زیاد برایم سخت است؛ آخرش تمرکزم را از دست می‌دهم و کلی معاملهٔ خوب را از دست می‌دهم. پس فعلاً روی این جفت‌ارزها تمرکز می‌کنم:
+
+GBPJPY، GBPUSD، USDJPY و GOLD.
+
+امروز دوشنبه است و این همان روزی است که مارکت‌میکرها / معامله‌گران نهادی قبل از حرکت واقعی هفته سفارش‌هایشان را جمع می‌کنند. پس روز خوبی برای تحلیل نمودار است.
+
+اول GBPUSD؛ نمودار زیر از FXTOP گرفته شده و واقعاً گویاست. ببینید قیمت چطور حول اعداد رند بزرگ (1.2، 1.3، 1.4 و غیره) نوسان کرده. قیمت از 2008 در یک نزول بلندمدت بوده، اما بعد از برخورد به شانهٔ راست (یا FTR) یک QM صعودی، افتادن را متوقف کرده و از اکتبر 2016 بین 1.2 و 1.35 در نوسان است.
+
+اگر نزدیک‌تر نگاه کنیم، قیمت الان داخل یک FL ماهانه است که می‌تواند مخصوصاً در تایم‌فریم‌های پایین‌تر فرصت‌های فروش بدهد.
+
+در نمودار روزانه، قیمت بعد از برخورد به یک TQ در حال بازگشت به بالاست و الان داخل یک ناحیهٔ عرضه است. این PA برای معاملهٔ تاچ نیست، پس در این لحظه PA داخل این عرضهٔ روزانه را از نزدیک می‌پایم.
+
+در نمودار M15، قیمت بالای سقف قبلی H1 را شکست و بعد یک FTR (مستطیل صورتی) را اینگالف کرد و به یک ناحیهٔ فشرده‌سازی وارد شد. اما به جای ادامهٔ نزول، برگشت و یک DP کوچک را اینگالف کرد. یک سطح عرضهٔ تازه می‌بینم که با سقف سوئینگ قبلی H1 هم‌زمان است؛ فکر می‌کنم جای خوبی برای فروش باشد. هنوز مطمئن نیستم آن‌جا سفارش لیمیت فروش بگذارم، پس وقتی قیمت به کادر نارنجی برسد، PA را روی M5/M1 می‌پایم. و این ممکن است امروز یا فردا رخ دهد.
+
+### astrokillah_p1_2
+EN: After further review, I have to make a small correction on the last
+chart (M15), in my previous post, I over-estimated the size of the
+compression. Corrected chart is posted below, the implication is that
+the RR of this trade is no longer as attractive
+FA: بعد از بازبینی بیشتر، باید تصحیح کوچکی روی نمودار آخر (M15) انجام دهم؛ در پست قبلی اندازهٔ فشرده‌سازی را بیش‌برآورد کرده بودم. نمودار اصلاح‌شده پایین است و پیامدش این است که RR این معامله دیگر آن‌قدر جذاب نیست.
+
+### astrokillah_p1_3
+EN: Oh darn, there was a PA on M5, while I was waiting on M15
+FA: آخ، دقیقاً وقتی منتظر M15 بودم، روی M5 یک PA رخ داد.
+
+### astrokillah_p1_4
+EN: So price plunged through TP1 and guess where it stopped? It bounced from H1 Demand.
+
+Now, something interesting is happening in M1, see that beautiful
+compression? So I set sell limit order at 1.29315 because I am so
+convinced that price is going to bounce there. And it did, my entry was
+triggered, price dropped and broke into PCP (Pre-Compression), and I
+hope it will go all the way to the tip of the compression to give me a
+2:1 RR. My only concern is price is coming from H1 Demand, so will this
+ little M1 Supply be strong enough to push the price down?
+FA: قیمت از TP1 هم گذشت؛ حدس بزنید کجا ایستاد؟ از تقاضای H1 بازگشت.
+
+حالا یک چیز جالب در M1 در جریان است؛ آن فشرده‌سازی زیبا را می‌بینید؟ پس سفارش لیمیت فروش را روی 1.29315 گذاشتم، چون کاملاً مطمئنم قیمت آن‌جا بازگشت می‌کند. و کرد؛ ورودم فعال شد، قیمت افتاد و به PCP (پیش‌فشرده‌سازی) نفوذ کرد و امیدوارم تا نوک فشرده‌سازی برود تا RR دو به یک بگیرم. تنها نگرانی‌ام این است که قیمت از تقاضای H1 می‌آید؛ آیا این عرضهٔ کوچک M1 به‌قدری قوی هست که قیمت را پایین ببرد؟
+
+### astrokillah_p1_5
+EN: I don't like what I am seeing so I have decided to scratch out of this
+ trade. Yes, price did bounced from the M15 Supply level but it soon
+went back in to a compression mode and keep on crawling up. So I would
+rather not gamble and wait for better setups in the future. And because
+of the hour of the day, my broker spread widen, so even though it may
+appear that I should have several pips of profit but in reality I have
+just managed to scratch out at BE. It's labor day holiday in the US,
+just not the right time to trade.
+FA: از آنچه می‌بینم خوشم نمی‌آید، پس تصمیم گرفتم از این معامله به‌سلامت بیرون بزنم. بله، قیمت از سطح عرضهٔ M15 بازگشت، ولی خیلی زود دوباره به حالت فشرده‌سازی برگشت و مدام بالا خزید. ترجیح می‌دهم قمار نکنم و منتظر ستاپ‌های بهتر بمانم. به‌خاطر ساعت روز هم اسپرد بروکرم بازتر شد؛ بنابراین با اینکه ظاهراً باید چند پیپ سود می‌داشتم، در واقع فقط توانستم سر به سر بیرون بیایم. امروز در آمریکا تعطیلات روز کارگر است؛ اصلاً وقت مناسبی برای معامله نیست.
+
+### astrokillah_p1_6
+EN: So the decision to scratch out was a good one? Hmm.. not sure, because
+ some crazy price action later would have given me 2R had I held.
+
+The original trade looked like this:
+
+At this moment, September 5, London Open, the 15 min chart looks as follow:
+
+The chart above my look messy, 1-2, 3-4, 5-6 are stacked zones, it
+looked as though price tends to travel to the MPL of these PAZs. Below
+is the equivalent cleanup chart:
+
+When Stacked Zone PAZ#1 was engulfed down, we expected price to travel
+down to the CPAZ beneath first before it could reverse up to break
+Stacked Zone PAZ#2 above. And this was exactly what has happened!
+
+Price rallied strongly today, broke above 1.3000, retest this big round
+number and rallied up another 40 pips. There were several opportunities
+for long but I wasn't sitting in front of my PC when the setup occurred.
+ You may wonder why such a strong rally? Wasn't we looking to short the
+heck out of GBPUSD? To answer this, we ought to look at bigger timeframe
+ (H4).
+
+The H4 chart above clearly shows that price is in an uptrend, as it has
+been making Higher-Low and Higher-Low. So while we can look for short on
+ LTF (M15, M5, M1), we must be conscious about what the bigger picture
+is telling us. So we can short on 15min chart, but as soon as price hit a
+ 15min TQ, it must be considered 'mission accomplished' and we need to
+be prepared to exit.
+FA: پس تصمیم به بیرون آمدن، تصمیم درستی بود؟ هوم.. مطمئن نیستم، چون آن حرکات دیوانه‌وار بعدی، اگر نگه داشته بودم، 2R به من می‌داد.
+
+معاملهٔ اولیه این‌طور بود:
+
+در این لحظه، 5 سپتامبر، باز شدن لندن، نمودار 15 دقیقه این‌طور است:
+
+نمودار بالا شاید شلوغ به نظر برسد؛ 1-2، 3-4، 5-6 ناحیه‌های روی‌هم‌انباشته‌اند. به نظر می‌رسید قیمت تمایل دارد به MPL این PAZها سفر کند. پایین همان نمودار تمیزشده است:
+
+وقتی PAZ انباشتهٔ شمارهٔ 1 به سمت پایین اینگالف شد، انتظار داشتیم قیمت اول به CPAZ زیرش برود و بعد برگردد تا PAZ انباشتهٔ شمارهٔ 2 در بالا را بشکند. و دقیقاً همین اتفاق افتاد!
+
+قیمت امروز قوی رشد کرد، بالای 1.3000 رفت، این عدد رند بزرگ را ریتست کرد و 40 پیپ دیگر بالا رفت. فرصت‌های زیادی برای خرید بود، ولی وقتی ستاپ رخ داد من پشت کامپیوترم نبودم. شاید بپرسید چرا چنین رالی قوی‌ای؟ مگر دنبال شورت‌کردن GBPUSD نبودیم؟ برای جواب باید به تایم‌فریم بالاتر (H4) نگاه کنیم.
+
+نمودار H4 بالا کاملاً نشان می‌دهد قیمت در روند صعودی است، چون سقف‌های بالاتر و کف‌های بالاتر می‌سازد. پس در حالی که می‌توانیم در تایم‌فریم‌های پایین (M15، M5، M1) دنبال فروش باشیم، باید حواسمان باشد تصویر بزرگ‌تر چه می‌گوید. می‌توانیم روی نمودار 15 دقیقه فروش کنیم، اما به‌محض اینکه قیمت به یک TQ در 15 دقیقه برسد، باید آن را «مأموریت انجام‌شده» بدانیم و آمادهٔ خروج باشیم.
+
+### astrokillah_p1_7
+EN: A friend of mine asked me to look at GBPNZD so I concurred. Always
+starts with long term view, looks like GBPNZD has been on a long term
+downtrend, and is near historical low, current price is around 1.8 and
+historical low is around 1.56, so we are just 2400 pips away from
+breaking historical low.
+
+On Monthly Chart, price is struggling to get above zone A:
+
+Daily chart is more interesting, price is inside a Stacked Supply Zone,
+and it also hit an SR flip and reacted a little, but I am not yet
+convinced that price is ready to drop majorly because I see a potential
+FO zone. So I moved to lower timeframe to have a closer look:
+
+On H1 chart, price already hit a TQ (Demand) and is rallying up towards a
+ compression zone (CPAZ). The PCP (Pre-Compression) is the final line of
+ defense to stop price from getting into the compression zone. Once the
+PCP is breached, price will likely travel to the tip of the compression
+and continue towards the FO zone.
+
+So I looked into M5 and saw an ENGULF into the CP and immediately entered a short upon retracement:
+FA: یکی از دوستانم از من خواست GBPNZD را نگاه کنم و قبول کردم. همیشه با دید بلندمدت شروع می‌کنم؛ به نظر می‌رسد GBPNZD در روند نزولی بلندمدت بوده و نزدیک کف تاریخی است. قیمت فعلی حدود 1.8 و کف تاریخی حدود 1.56 است؛ پس فقط 2400 پیپ با شکستن کف تاریخی فاصله داریم.
+
+در نمودار ماهانه، قیمت برای رفتن بالای ناحیهٔ A تقلا می‌کند:
+
+نمودار روزانه جالب‌تر است؛ قیمت داخل یک ناحیهٔ عرضهٔ انباشته است و به یک فلیپ SR هم برخورد کرده و کمی واکنش داده. اما هنوز مطمئن نیستم قیمت آمادهٔ ریزش بزرگ باشد، چون یک ناحیهٔ FO بالقوه می‌بینم. پس به تایم‌فریم پایین‌تر رفتم تا نزدیک‌تر نگاه کنم:
+
+در نمودار H1، قیمت قبلاً به یک TQ (تقاضا) رسیده و به سمت ناحیهٔ فشرده‌سازی (CPAZ) بالا می‌رود. PCP (پیش‌فشرده‌سازی) آخرین خط دفاعی است که جلوی ورود قیمت به ناحیهٔ فشرده‌سازی را می‌گیرد. به‌محض شکسته‌شدن PCP، قیمت احتمالاً تا نوک فشرده‌سازی و بعد به سمت ناحیهٔ FO می‌رود.
+
+پس M5 را نگاه کردم و یک اینگالف به داخل CP دیدم و بلافاصله در بازگشت، پوزیشن فروش گرفتم:
+
+### astrokillah_p1_8
+EN: Next up is USDJPY
+
+Looking at the Monthly chart, I saw price is inside zone (A).
+
+It's not my intention to introduce new strategy, but just to share what I
+ have learned elsewhere. Zone (A) is called a 'Breaker' by ICT Traders,
+and to them this is the place where place is most likely to bounce. A
+'breaker' is a zone that has accomplished the following:
+
+1) It is the DP that broke an opposing zone (B), but this is a fake-out as price quickly reversed back into the DP.
+
+2) As price reversed and returned to this Breaker for the first time, it
+ was completely ignored and price pierced through it easily, so in RTM's
+ terminology, this is an Ignored level.
+
+3) Now, when price return to it again from the other end, it shall become a high odd area to look for price bounce.
+
+So I am eager to verify this theory. Now let's look at Weekly Chart:
+
+The first thing I noticed is a possible flip area (or swap zone), and
+also the double bottom (red circles) which is prone to fake-out. So I
+wouldn't be surprised if USDJPY continues to drop until it hit 107.9.
+
+Daily chart shows that price is inside a Daily Demand Zone. Price had
+previous bounced fro this area, so there's no reason why it can't repeat
+ this again.
+
+Now as I looked into 5mins chart, I see a potential Quasimodo. There is
+an ENGULF, however, what I am not sure is whether we can consider price
+has already reached its TQ? This is an issue that still bug me, I have
+seen in Les_Paul and Pedini's journals, they took a lot of winning
+trades with Quasimodo, but I noticed that during the ENGULF, price
+seemed to have hit a target too, but it didn't bother them at all.
+FA: بعد نوبت USDJPY است
+
+در نمودار ماهانه دیدم قیمت داخل ناحیهٔ (A) است.
+
+قصد ندارم استراتژی تازه‌ای معرفی کنم، فقط می‌خواهم چیزی را که جای دیگری یاد گرفته‌ام به اشتراک بگذارم. معامله‌گران ICT به ناحیهٔ (A) می‌گویند «بریکر» و از نظر آن‌ها این‌جا محتمل‌ترین جای بازگشت قیمت است. بریکر ناحیه‌ای است که شرایط زیر را دارد:
+
+1) همان DP است که یک ناحیهٔ مخالف (B) را شکسته، اما این یک فیک‌اوت است، چون قیمت سریعاً به داخل DP برگشته.
+
+2) وقتی قیمت برگشت و برای اولین بار به این بریکر رسید، کاملاً نادیده گرفته شد و قیمت به‌راحتی از آن عبور کرد؛ پس در ادبیات RTM این یک سطح نادیده‌گرفته‌شده است.
+
+3) حالا وقتی قیمت از سمت دیگر دوباره به آن برگردد، باید به ناحیه‌ای با شانس بالا برای انتظار بازگشت قیمت تبدیل شود.
+
+پس مشتاقم این نظریه را بررسی کنم. حالا بیایید نمودار هفتگی را ببینیم:
+
+اولین چیزی که دیدم یک ناحیهٔ فلیپ بالقوه (یا ناحیهٔ سوآپ) است، و همچنین کف دوقلو (دایره‌های قرمز) که مستعد فیک‌اوت است. پس تعجب نمی‌کنم اگر USDJPY تا رسیدن به 107.9 ادامهٔ نزول بدهد.
+
+نمودار روزانه نشان می‌دهد قیمت داخل یک ناحیهٔ تقاضای روزانه است. قیمت قبلاً از این ناحیه بازگشت کرده، پس دلیلی نیست که دوباره تکرارش نکند.
+
+حالا که نمودار 5 دقیقه را نگاه کردم، یک کوازیمودو بالقوه می‌بینم. یک اینگالف هست، اما چیزی که مطمئن نیستم این است که آیا می‌توانیم بگوییم قیمت قبلاً به TQ خودش رسیده؟ این مسئله هنوز آزارم می‌دهد. در ژورنال‌های Les_Paul و Pedini دیده‌ام که با کوازیمودو کلی معاملهٔ برنده گرفته‌اند، اما متوجه شدم هنگام اینگالف به نظر می‌رسید قیمت به یک تارگت هم رسیده بود و اصلاً برایشان مهم نبود.
+
+### astrokillah_p1_9
+EN: you are really close to it , i read your thoughts and i imagined how
+this trader is going to write and think the same as me in the past ,
+your reading on price is really nice but you missed few and big pieces
+of the puzzle .
+
+by this knowledge that you have focus on FLs and Price reading article
+then put ITs hat on your head then you will find where are the targets
+and where do they load and reload in the market , how transaction of new
+ orders execute in the market, all you need is to imagine that , so you
+ are going ahead for mastering price.
+FA: واقعاً نزدیکی؛ حرف‌هایت را خواندم و تصور کردم این معامله‌گر چطور می‌نویسد و مثل من در گذشته فکر می‌کند. خوانش تو از قیمت واقعاً خوب است، ولی چند تکهٔ بزرگ پازل را جا انداخته‌ای.
+
+با این دانشی که داری، روی FLها و مقالهٔ خوانش قیمت تمرکز کن، بعد کلاه ITها را روی سرت بگذار؛ آن‌وقت می‌فهمی تارگت‌ها کجا هستند و کجا در بازار بارگیری و بارگیری مجدد می‌کنند، معاملهٔ سفارش‌های تازه چطور در بازار اجرا می‌شود. تنها کاری که لازم است این است که آن را تصور کنی، تا به تسلط بر قیمت برسی.
+
+### astrokillah_p1_10
+EN: AK, just a little correction to what Salivan said:
+
+You should put Salivan's hat on your head...that's what ITs usually do to find their entries
+FA: AK، فقط یک تصحیح کوچک در حرف Salivan:
+
+باید کلاه او را روی سرت بگذاری... این همان کاری است که ITها معمولاً برای پیدا کردن ورودهایشان می‌کنند
+
+### astrokillah_p1_11
+EN: GBPNZD trade update:
+
+Refer to this post for the history of this pair:
+
+	readthemarket.com/index.php/en/forum/jou...al/reply/66594#66585
+
+TP hit!
+FA: به‌روزرسانی معاملهٔ GBPNZD:
+
+برای مرور تاریخچهٔ این جفت‌ارز، لطفاً به این پست در همین ژورنال مراجعه کنید:
+
+	readthemarket.com/index.php/en/forum/jou...al/reply/66594#66585
+
+تارگت خورد و با سود از معامله بیرون آمدم!
+
+### astrokillah_p1_12
+EN: USDJPY update.post
+
+I set BUY limit order at the MPL of what I thought was a Quasimodo (
+	readthemarket.com/index.php/en/forum/jou...4-ak-s-journal#66586
+)
+
+I woke up and see this crazy price action:
+
+I see that price has broken the previous swing low (engulf or FO?),
+rallied up to Supply and couldn't break it. So I am not going to sit
+still and let IT decide my fate ( I have NOT idea what they're
+thinking!). So I manually closed the trade.
+FA: به‌روزرسانی USDJPY
+
+سفارش لیمیت خرید را روی MPL چیزی گذاشتم که فکر می‌کردم کوازیمودو است (
+	readthemarket.com/index.php/en/forum/jou...4-ak-s-journal#66586
+)
+
+بیدار شدم و این حرکات دیوانه‌وار قیمت را دیدم:
+
+می‌بینم قیمت کف سوئینگ قبلی را شکسته (اینگالف یا FO؟)، تا عرضه بالا رفته و نتوانسته آن را بشکند. پس نمی‌نشینم و اجازه نمی‌دهم ITها سرنوشتم را تعیین کنند (هیچ ایده‌ای ندارم چه فکری در سر دارند!). بنابراین معامله را دستی بستم.
+
+### astrokillah_p1_13
+EN: GBPUSD Potential Short Opportunity
+
+For past historical analysis on this pair please refer to the post #1 to #6 of this thread.
+
+Below is Daily Chart, price has broken above an SZ (Supply zone), and is reacting to an SR Kink.
+
+Looking into the SR kink on 5 min chart:
+
+We have a QM structure, I intend to short from 1.3091 area (Orange box).
+ But I am wondering if this is a valid QM setup, because the RTM rules
+say that once a target is hit, the QM structure is no longer valid?
+
+Any Seniors (Master Traders) please help me out here? Will that be a good place to short?
+
+Thanks
+
+AK
+FA: فرصت فروش بالقوه در GBPUSD
+
+برای تحلیل تاریخی گذشتهٔ این جفت‌ارز به پست‌های 1 تا 6 همین تاپیک مراجعه کنید.
+
+نمودار روزانه پایین است؛ قیمت بالای یک SZ (ناحیهٔ عرضه) را شکسته و دارد به یک کینک SR واکنش می‌دهد.
+
+نگاه به کینک SR در نمودار 5 دقیقه:
+
+یک ساختار QM داریم؛ قصد دارم از ناحیهٔ 1.3091 (کادر نارنجی) فروش کنم. اما نمی‌دانم این ستاپ QM معتبر است یا نه، چون قواعد RTM می‌گویند وقتی تارگت خورده شود، ساختار QM دیگر معتبر نیست؟
+
+هر کدام از قدیمی‌ها (استادها) لطفاً کمکم کنند؟ آن‌جا جای خوبی برای فروش است؟
+
+ممنون
+
+AK
+
+### astrokillah_p1_14
+EN: Hi,
+
+I'm very far from a master, so take my opinion for what it's worth.
+
+I think in the scale where this QM presented itself, the target has been hit already, pretty much how you marked it.
+FA: سلام،
+
+من خیلی با استادبودن فاصله دارم، پس نظرم را به‌قدر ارزشش بپذیرید.
+
+فکر می‌کنم در مقیاسی که این QM خودش را نشان داد، تارگت قبلاً خورده است؛ تقریباً همان‌طور که علامتش زده‌اید.
+
+### astrokillah_p1_15
+EN: Astrokillah wrote: GBPUSD Potential Short Opportunity
+
+We have a QM structure, I intend to short from 1.3091 area (Orange box).
+ But I am wondering if this is a valid QM setup, because the RTM rules
+say that once a target is hit, the QM structure is no longer valid?
+
+Any Seniors (Master Traders) please help me out here? Will that be a good place to short?
+
+Thanks
+
+AK
+
+Here's a
+	LINK
+ to Staurum's GU short. He entered the trade as well, but he was able
+to enter before the 1st target was hit. Personally, I'm inclined to
+agree with Zee. The target has been hit. You would need new PA on the
+scale you are trading. On the other hand, I am trading GBPUSD short on
+much HTF (4hr charts) and my target is unmet.
+FA: Astrokillah نوشت: فرصت فروش بالقوه در GBPUSD
+
+یک ساختار QM داریم؛ قصد دارم از ناحیهٔ 1.3091 (کادر نارنجی) فروش کنم. اما نمی‌دانم این ستاپ QM معتبر است یا نه، چون قواعد RTM می‌گویند وقتی تارگت خورده شود، ساختار QM دیگر معتبر نیست؟
+
+هر کدام از قدیمی‌ها (استادها) لطفاً کمکم کنند؟ آن‌جا جای خوبی برای فروش است؟
+
+ممنون
+
+AK
+
+این یک
+	لینک
+ به پوزیشن فروش GU از Staurum است. او هم معامله را گرفت، ولی توانست قبل از خوردن تارگت اول وارد شود. شخصاً تمایلم به موافقت با Zee است. تارگت خورده است. در مقیاسی که معامله می‌کنید به PA تازه نیاز دارید. از طرف دیگر، من در تایم‌فریم بسیار بالاتر (نمودار 4 ساعته) پوزیشن فروش GBPUSD دارم و تارگتم هنوز نخورده.
+
+### astrokillah_p1_16
+EN: GBPUSD Update
+
+For historical analysis on this pair, please refer to post#12 of this thread.
+
+Thank you Rinehart and Zee! Thanks for coming in here to help! Indeed,
+good call, price pierced through the 5min DP as if it didn't exist!
+
+When I looked a little closer, in 1 min Chart, I noticed a FO zone, with two fresher DPs above. Danger, danger..!
+
+Certainly a better place to short is the top DP!
+FA: به‌روزرسانی GBPUSD
+
+برای تحلیل تاریخی این جفت‌ارز به پست شمارهٔ 12 همین تاپیک مراجعه کنید.
+
+ممنون Rinehart و Zee! ممنون که آمدید و کمک کردید! واقعاً پیش‌بینی درستی بود؛ قیمت طوری DP پنج‌دقیقه‌ای را شکست که انگار وجود نداشت!
+
+وقتی دقیق‌تر نگاه کردم، در نمودار 1 دقیقه یک ناحیهٔ FO دیدم با دو DP تازه‌تر بالای آن. خطر، خطر..!
+
+قطعاً جای بهتر برای فروش، بالاترین DP است!
+
+### astrokillah_p1_17
+EN: Caught this easy trade yesterday, still holding it, it's giving me about 10R so far
+FA: دیروز این معاملهٔ آسان را گرفتم، هنوز بازش دارم و تا اینجا حدود 10R داده است
+
+### astrokillah_p1_18
+EN: Caught another good trade today on GBPJPY!! This is very similar to
+the GBPUSD trade I took (see previous post, and if you go to GBPUSD 1
+min chart, you will know what I meant).
+
+THANK YOU THANK YOU MASTER IF!!!! I never thought I could do this until I stumbled upon RTM!!!
+
+This is a 1 min chart!
+
+I know my stop loss was not placed according to RTM's rules (correct SL
+should be placed above the FL that the QM is reacting to)
+FA: امروز یک معاملهٔ خوب دیگر روی GBPJPY گرفتم!! این خیلی شبیه معاملهٔ GBPUSD است که گرفتم (پست قبلی را ببینید، و اگر به نمودار 1 دقیقه GBPUSD بروید، می‌فهمید منظورم چه بود).
+
+ممنونم ممنونم استاد IF!!!! فکر نمی‌کردم بتوانم این کار را بکنم تا وقتی به RTM برخوردم!!!
+
+این یک نمودار M1 است!
+
+می‌دانم استاپ‌لاسم طبق قواعد RTM گذاشته نشده (استاپ‌لاس درست باید بالای همان FL گذاشته شود که QM به آن واکنش نشان می‌دهد)
+
+### astrokillah_p1_19
+EN: Correct is one way, but doesn't mean you can't play with MM and get a bigger reward in a tighter space.
+
+If you do that in LTF for sport and fun, you just need to keep your cool and rules in place and you will be fine.
+FA: درست انجام دادن یک راه است، ولی این معنا را ندارد که نمی‌توانی با MM بازی کنی و در فضایی تنگ‌تر پاداش بزرگ‌تری بگیری.
+
+اگر این کار را در تایم‌فریم پایین برای تفریح و سرگرمی انجام دهی، فقط باید خونسردی و قواعدت را حفظ کنی و همه‌چیز خوب پیش می‌رود.
+
+### astrokillah_p1_20
+EN: THANK YOU HARRY for dropping by, your encouragement is very important to me!!
+
+Could have held on for 26R!!!!
+FA: ممنون HARRY که سر زدی، دلگرمی‌ات برای من خیلی مهم است!!
+
+می‌توانستم نگه دارم و 26R بگیرم!!!!
+
+### astrokillah_p1_21
+EN: GBPUSD - price is heading towards the top Supply (orange zone), may see a bounce, watching out for PA.
+
+Scrolling all the way to the left, we see that the orange zone (Zone C) was created more than a year ago on September 6, 2016.
+FA: GBPUSD - قیمت در حال حرکت به سمت عرضهٔ بالایی (ناحیهٔ نارنجی) است، ممکن است بازگشت ببینیم؛ مراقب PA هستم.
+
+اگر تا انتهای سمت چپ اسکرول کنیم، می‌بینیم ناحیهٔ نارنجی (ناحیهٔ C) بیش از یک سال پیش، در 6 سپتامبر 2016 ساخته شده است.
+
+### astrokillah_p1_22
+EN: GBPUSD update:
+
+Price blew through the H4 SZ (Supply Zone) without good PA on LTF. This is the H4 chart:
+
+And below is the 1 MIN chart when price was inside the H4 SZ:
+
+So at this moment, my simple trading rule is : NO QM, NO TRADE!
+FA: به‌روزرسانی GBPUSD:
+
+قیمت بدون PA خوب در تایم‌فریم پایین، از SZ (ناحیهٔ عرضه) در H4 گذشت. این نمودار H4 است:
+
+و پایین نمودار 1 دقیقه است، وقتی قیمت داخل SZ در H4 بود:
+
+پس در این لحظه قاعدهٔ سادهٔ معامله‌گری من این است: بدون QM، بدون معامله!
+
+### astrokillah_p1_23
+EN: USDCAD 9.6R trade - okay, I have to confess, I cheated myself, because
+ I wasn't really sure if this is a valid QM setup, I took a gamble.
+
+See 1 min chart below:
+
+When the LL formed, I was debating whether to take this trade, because I
+ thought the LL has hit a TG - which is Demand Zone (B). Honestly, I
+have seen many many QM worked marvelously even when the ENGULF hit a TG.
+ I am going to look for 1000 QM over the weekend to see if I can figure
+something out. The beauty of RTM's teaching is, you don't need to use
+too may different strategies, just use one setup, practice it, master
+it, and you should be on your way to profitability, and I recall that's
+the reason why Master IF created the Academy Lite video focusing on QM.
+
+Anyway, so I saw the LL bouncing off from DZ (B), I was thinking,
+perhaps not all levels are created equal, DZ (B) was created as a
+reaction to Flipzone (A), so DZ (B) is not original, so for the time
+being, I am going to put my detective mindset and assume that
+non-original SD levels are less important than original one.
+
+To be conservative, I had my pending order at the very top of the right
+shoulder, which happened to be the source of the engulf. Price got there
+ and triggered my order to the pip, the rest is history!
+
+At the back of my mind, I have been looking for short setup on USDCAD,
+because when I look at Daily Chart, I see price breaking DZ after DZ,
+and we have one last DZ looking extremely juicy, so until it is hit, I
+will remain short bias on this pair.
+
+Daily chart below shows:
+FA: معاملهٔ 9.6R روی USDCAD - خب، باید اعتراف کنم که به خودم تقلب زدم، چون واقعاً مطمئن نبودم این ستاپ QM معتبر است؛ یک قمار کردم.
+
+نمودار 1 دقیقه را پایین ببینید:
+
+وقتی LL شکل گرفت، درگیر این بودم که این معامله را بگیرم یا نه، چون فکر می‌کردم LL به یک TG رسیده - یعنی ناحیهٔ تقاضای (B). صادقانه بگویم، خیلی خیلی QM دیده‌ام که حتی وقتی اینگالف به یک TG می‌رسید، عالی کار کرد. آخر هفته می‌خواهم 1000 مورد QM را بررسی کنم تا ببینم چیزی دستگیرم می‌شود یا نه. زیبایی آموزش RTM این است که لازم نیست استراتژی‌های زیاد و متفاوت به کار ببری؛ فقط یک ستاپ را بردار، تمرین کن، مسلط شو و باید در مسیر سوددهی باشی. یادم می‌آید همین دلیل بود که استاد IF ویدئوی Academy Lite را با تمرکز روی QM ساخت.
+
+به‌هرحال، دیدم LL از DZ (B) بازگشت کرد؛ با خودم فکر کردم شاید همهٔ سطوح یکسان ساخته نمی‌شوند: DZ (B) در واکنش به فلیپ‌زون (A) ساخته شده، پس DZ (B) اصلی نیست. فعلاً با ذهنیت کارآگاهی‌ام فرض می‌کنم سطوح SD غیراصلی از سطح اصلی کم‌اهمیت‌ترند.
+
+برای محافظه‌کاری، سفارش معلقم را درست بالاترین نقطهٔ شانهٔ راست گذاشتم که اتفاقاً مبدأ اینگالف هم بود. قیمت به آن‌جا رسید و سفارشم را دقیق تا پیپ فعال کرد؛ بقیه‌اش تاریخ است!
+
+در پس ذهنم دنبال ستاپ فروش روی USDCAD بودم، چون در نمودار روزانه می‌بینم قیمت یکی پس از دیگری DZ را می‌شکند و یک DZ آخر داریم که فوق‌العاده آبدار به نظر می‌رسد؛ تا وقتی به آن نرسد، سوگیری من روی این جفت‌ارز فروش خواهد بود.
+
+نمودار روزانه پایین نشان می‌دهد:
+
+### astrokillah_p1_24
+EN: EURGBP Scalp
+
+Last night I saw on H4 chart that a DP (demand) has been engulfed, and I
+ see space available till the bottom of the next demand level:
+
+So I went to look to in 1 min chart to find out what caused the break of
+ the DP. I found an FTR and above it a nice looking supply (origin of
+the move).
+
+But I was late to the party, because the FTR has already been used!
+
+So I set a sell limit order on the Supply zone above instead. With SL of
+ 5 pips (taking into account 2 pip spread). I was only aiming for 3R.
+And I got my more than what I have wished for:
+FA: اسکالپ EURGBP
+
+دیشب در نمودار H4 دیدم یک DP (تقاضا) اینگالف شده و تا کف سطح تقاضای بعدی فضا باز است:
+
+پس رفتم نمودار 1 دقیقه را نگاه کنم ببینم چه چیزی باعث شکست DP شده. یک FTR پیدا کردم و بالای آن یک عرضهٔ خوش‌ظاهر (مبدأ حرکت).
+
+اما دیر رسیده بودم، چون FTR قبلاً استفاده شده بود!
+
+پس به جایش روی ناحیهٔ عرضهٔ بالایی سفارش لیمیت فروش گذاشتم. با استاپ‌لاس 5 پیپ (با در نظر گرفتن 2 پیپ اسپرد). فقط هدفم 3R بود. و بیشتر از آنچه آرزو داشتم گرفتم:
+
+### astrokillah_p1_25
+EN: GBPUSD - losing trade.
+
+Recall the very first post of this journal, I showed a long term chart of GBPUSD? Now price has broken above FL (A)
+
+Daily chart look like this:
+
+So I went into 5-min chart to take a look, I saw a new FL(B) created
+after breaking the FL (orange rectangle) that engulfed FL (A).
+
+I decided to look at 1-min chart:
+
+Notice that the size of the FL(B) in 1-min chart is different from that
+in 5-min chart. Just below FL(B), I saw a nice looking supply that
+engulfed two lows. So I decided to short. However, this became a loser.
+
+Not sure what to make of this trade, perhaps IT wants to fake out to the MPL of FL (B)?
+FA: GBPUSD - معاملهٔ بازنده.
+
+یادتان هست اولین پست همین ژورنال را که نمودار بلندمدت GBPUSD را نشان دادم؟ حالا قیمت بالای FL (A) را شکسته است
+
+نمودار روزانه این‌طور است:
+
+پس رفتم نمودار 5 دقیقه را نگاه کنم؛ دیدم بعد از شکستن FL (مستطیل نارنجی) که FL (A) را اینگالف کرد، یک FL تازه (B) ساخته شده.
+
+تصمیم گرفتم نمودار 1 دقیقه را ببینم:
+
+توجه کنید اندازهٔ FL (B) در نمودار 1 دقیقه با نمودار 5 دقیقه فرق دارد. درست زیر FL (B) یک عرضهٔ خوش‌ظاهر دیدم که دو کف را اینگالف کرد. پس تصمیم گرفتم فروش کنم. اما این معامله بازنده شد.
+
+مطمئن نیستم این معامله را چطور تفسیر کنم؛ شاید ITها می‌خواهند تا MPL سطح FL (B) فیک‌اوت کنند؟

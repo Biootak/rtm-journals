@@ -1,0 +1,370 @@
+
+##### [0] projectsagana_p14_326 | milkeyway | 55f251cf79889bb0da4e1007dc456b77cc953909
+--- EN ---
+Left Sholder.
+--- FA ---
+شانهٔ چپ.
+
+##### [1] projectsagana_p14_327 | projectsagana | 5df015112dcf43e363be9550858cdc506fdc7a66
+--- EN ---
+One of the most important things to watch for in price.
+
+- FL that keep prices in range - Engulf of that FL - Creation of FTR/FL after that engulf
+
+I know these 3 things may sound really simple, but yes I want my eyes to get used to this 3 things and turn them into a habit as I'm constantly adding more concepts in the market dynamics. Am I on the right track?
+--- FA ---
+یکی از مهم‌ترین چیزهایی که در قیمت باید زیر نظر گرفت.
+
+- FL‌ی که قیمت‌ها را در رنج نگه می‌دارد - اینگالف آن FL - ساخت FTR/FL بعد از آن اینگالف
+
+می‌دانم این 3 چیز شاید واقعاً ساده به نظر برسد، اما بله می‌خواهم چشم‌هایم به این 3 چیز عادت کند و آن‌ها را به عادت تبدیل کند چون مدام دارم مفاهیم بیشتری در دینامیک بازار اضافه می‌کنم. آیا در مسیر درستی هستم؟
+
+##### [2] projectsagana_p14_328 | milkeyway | 15971439de778a1d6cd2eba13c313d745710b394
+--- EN ---
+Looks like you are on the right track. So, keep digging as it is infinite.
+--- FA ---
+به نظر می‌رسد در مسیر درستی هستی. پس به کندن ادامه بده چون بی‌نهایت است.
+
+##### [3] projectsagana_p14_329 | polymorph | 00f27cf3c3847cd8c6dcf43f8801cc284af70702
+--- EN ---
+Regarding your questions in orange on the chart, follow and check me here:
+
+P = price breaks a low and forms a new LL R = price retraces to create potential FTR, then blows past P to confirm FTR O = price breaks a high and forms a HH J = price retraces to create potential FTR, then moves past O to confirm FTR E = price FTB's to FTR at J, then ENG's the top of the consolidation on its way to... C = price FTB's to FTR at R, then ENG's the bottom of the consolidation (J and E) T = target for a sell at C because that's HTF demand (from Feb.)
+
+Think of FTR's as obstacles. Until price removes the obstacle (or gaps beyond it), it can't get to whatever is on the other side. The FTR at R is longer term than the one at J, so some refer to J as a "local FTR". But both are FTR's that have to be dealt with before price can move to the other side, and the way price deals with them is normally to bounce off of them and go back "from whence it came." I don't think an FTR matters much until price returns to it. If that's true, then R doesn't matter while price is at J. When price gets to E then J matters, and when price gets to C then R matters.
+
+In a long-winded, roundabout way that answers your question about where price is coming from. In a longer term view, price is coming from R and while it's dilly-dallying around before it returns to R price is coming from E (which would be a shorter term view.) I think that's what they mean by this stuff being snowflake-like, or cyclic, or layered, or whatever other terms people use for "patterns within patterns" or "moves within moves."
+
+Incidentally, did you notice that R was actually tradeable since it's the right shoulder of a QM? I just noticed it myself so being that I've been studying this chart to type this message, I think I need to redo some QM homework!
+
+Back to boxes: the box that contains O, J, and E is a PAZ that marks the limits at the bottom at J and at the top at whatever FL/FTR caused price to stop moving up. It's marked with a "!" and was formed by breaking P (my MT4 is having issues pulling M1 data on this pair right now so I can't show it, sorry.) Once this obstacle (aka: FTR) that's limiting upward price movement is ENG'ed at the red line, then that obstacle marks the bottom of the next PAZ and price is held between the red line and the FTR at R until one of the 2 is ENG'ed.
+
+Hopefully I'm not confusing the subject and that adds some insight or maybe it just tells you stuff you already know, but that's where my current understanding has me. I never really understood why PAZ's (especially FTR PAZ's) were so hyped, but I'm starting to understand and see the power they hold.
+--- FA ---
+در مورد سؤالاتت با رنگ نارنجی روی چارت، من را دنبال کن و این‌جا چک کن:
+
+P = قیمت کف را می‌شکند و LL جدیدی می‌سازد؛ R = قیمت برگشت می‌کند تا FTR بالقوه بسازد، بعد از P می‌گذرد تا FTR را تأیید کند؛ O = قیمت سقف را می‌شکند و HH می‌سازد؛ J = قیمت برگشت می‌کند تا FTR بالقوه بسازد، بعد از O می‌گذرد تا FTR را تأیید کند؛ E = قیمت FTB به FTR در J می‌کند، بعد بالای تثبیت را در مسیر… ENG می‌کند؛ C = قیمت FTB به FTR در R می‌کند، بعد پایین تثبیت (J و E) را ENG می‌کند؛ T = تارگت برای فروش در C چون آن تقاضای HTF است (از فوریه.)
+
+FTR‌ها را مانع ببین. تا وقتی قیمت مانع را حذف نکند (یا از آن بگذرد)، نمی‌تواند به هرچه در طرف دیگر است برسد. FTR در R بلندمدت‌تر از آن در J است، پس بعضی‌ها J را «FTR محلی» می‌نامند. اما هر دو FTR‌هایی هستند که باید قبل از اینکه قیمت بتواند به طرف دیگر برود با آن‌ها کنار آمد و روشی که قیمت با آن‌ها کنار می‌آید عموماً برگشتن از آن‌ها و بازگشتن «از جایی که آمده بود» است. فکر نمی‌کنم FTR تا وقتی قیمت به آن برنگشته زیاد مهم باشد. اگر این درست باشد، R تا وقتی قیمت در J است مهم نیست. وقتی قیمت به E برسد J مهم است و وقتی به C برسد R مهم است.
+
+به روشی طولانی و پیچ‌وپیچ، این به سؤالت دربارهٔ اینکه قیمت از کجا می‌آید جواب می‌دهد. در نمای بلندمدت‌تر، قیمت از R می‌آید و تا وقتی دور R می‌چرخد قبل از برگشتن به R قیمت از E می‌آید (که نمای کوتاه‌مدت‌تر است). فکر می‌کنم منظورشان از این‌که این چیزها دانه‌برفی‌وار، یا چرخه‌ای، یا لایه‌ای‌اند یا هر اصطلاح دیگری که مردم برای «الگوهای درون الگوها» یا «حرکت‌های درون حرکت‌ها» استفاده می‌کنند همین است.
+
+راستی، متوجه شدی که R در واقع قابل ترید بود چون شانهٔ راست یک QM است؟ خودم تازه متوجه شدم و چون برای تایپ این پیام روی این چارت کار کرده‌ام، فکر می‌کنم باید درس QM را دوباره مرور کنم!
+
+برگرد به جعبه‌ها: جعبه‌ای که O، J و E را در بر می‌گیرد یک PAZ است که حدود پایین را در J و بالا را در هر FL/FTR‌ی که باعث توقف حرکت رو به بالای قیمت شد علامت می‌زند. با «!» علامت خورده و با شکست P ساخته شده (MT4 ام الان در کشیدن دادهٔ M1 این جفت مشکل دارد پس نمی‌توانم نشانش دهم، ببخشید.) وقتی این مانع (یعنی FTR) که حرکت رو به بالای قیمت را محدود می‌کند در خط قرمز ENG شود، آن مانع پایین PAZ بعدی را علامت می‌زند و قیمت بین خط قرمز و FTR در R نگه داشته می‌شود تا یکی از این 2 ENG شود.
+
+امیدوارم موضوع را گیج نمی‌کنم و این بینش اضافه می‌کند یا شاید فقط چیزهایی را می‌گوید که از قبل می‌دانی، اما درک فعلی‌ام همین‌جاست. هیچ‌وقت واقعاً نفهمیدم چرا PAZ‌ها (به‌ویژه PAZ‌های FTR) این‌قدر تبلیغ می‌شوند، اما دارم می‌فهمم و قدرتی را که دارند می‌بینم.
+
+##### [4] projectsagana_p14_330 | projectsagana | 3de61129ad312ede2cd37b3496c666fca680f514
+--- EN ---
+Finally did a DP homework, based on the flags made on the Daily TF.
+
+What did I learn from these?
+
+On the HTF I see these groups of flags form. On the LTF, these HTF big flags are connected by FLs, DPs that engulf FLs, and some FTRs
+
+Sometimes the flag would break up, there would be a very clear FTR after the engulf in the LTF. But as price reach HTF FTR/FLs, it ignores those LTF FTRs and make FL/FTR along those engulfs. Check the charts above: At point "D", price breaks the flags up north, HTF FTR limits it from going up, so then it engulfs LTF demand and creates supply to support the HTF supply.
+
+I know I may make this sound confusing, but looking at the sequences of price, it makes sense to me.
+
+I also notice that LTF levels get created inside these bigger flags visible in the HTF and use it to get price to the bottom of top of these BIGGER HTF FLAGS.
+--- FA ---
+بالاخره یک تمرین DP انجام دادم، بر اساس پرچم‌های ساخته‌شده در تایم‌چارچوب روزانه.
+
+از این‌ها چه یاد گرفتم؟
+
+در HTF می‌بینم این گروه‌های پرچم شکل می‌گیرند. در LTF، این پرچم‌های بزرگ HTF با FL‌ها، DP‌هایی که FL‌ها را اینگالف می‌کنند و بعضی FTR‌ها به هم وصل‌اند
+
+گاهی پرچم به بالا می‌شکند، بعد از اینگالف در LTF یک FTR خیلی واضح هست. اما وقتی قیمت به FTR/FL‌های HTF می‌رسد، آن FTR‌های LTF را نادیده می‌گیرد و FL/FTR در امتداد آن اینگالف‌ها می‌سازد. چارت‌های بالا را چک کن: در نقطهٔ «D»، قیمت پرچم‌های بالایی را می‌شکند، FTR تایم‌چارچوب بالاتر آن را از رفتن به بالا محدود می‌کند، پس بعد تقاضای LTF را اینگالف می‌کند و عرضه‌ای می‌سازد که از عرضهٔ HTF حمایت کند.
+
+می‌دانم شاید این را گیج‌کننده جلوه بدهم، اما با نگاه به توالی‌های قیمت برایم معنا پیدا می‌کند.
+
+همچنین متوجه شدم که سطوح LTF داخل این پرچم‌های بزرگ‌تر قابل‌مشاهده در HTF ساخته می‌شوند و از آن‌ها برای رساندن قیمت به پایین یا بالای این پرچم‌های بزرگ‌تر HTF استفاده می‌شود.
+
+##### [5] projectsagana_p14_331 | projectsagana | ec97f9d9277c0407017347ea0b653acb9e7432ad
+--- EN ---
+I'm obsessed with these boxes. To me these boxes are like flags. As in the FL article stated, "Price spends more time in consolidation ranges than moving and trending."
+
+This is my view of AUDUSD's recent PA
+
+My answers are here on the HTF:
+
+Now since I know the general direction of price, it's my job to look at entries and I will work into that.
+
+I'm still learning... and I don't what will happen. I will let price tell me exactly what the ITs want to do.
+--- FA ---
+به این جعبه‌ها وسواس پیدا کرده‌ام. برایم این جعبه‌ها مثل پرچم‌اند. همان‌طور که در مقالهٔ FL آمده، «قیمت بیشتر از آن‌که حرکت و روند داشته باشد در رنج‌های تثبیت زمان می‌گذراند.»
+
+این نمای من از PA اخیر AUDUSD است
+
+جواب‌هایم این‌جا در HTF است:
+
+حالا چون جهت کلی قیمت را می‌دانم، کار من این است که به ورودها نگاه کنم و روی آن کار کنم.
+
+هنوز در حال یادگیری‌ام… و نمی‌دانم چه اتفاقی می‌افتد. می‌گذارم قیمت دقیقاً بگوید ITs چه می‌خواهند بکنند.
+
+##### [6] projectsagana_p14_332 | projectsagana | fc0436b8375dba3ed0430e7f1b18610b85908f0a
+--- EN ---
+This is how price reacted to the FL.
+
+EDIT: ooops... I think I had the wrong chart
+
+I didn't set a PO in this one. I'm just watching price acts in different situations. And I'm noting what I "could've noted for reference in the future.
+
+I think this FL worked because it is support by the HTF direction. Next time I will set a PO to the best shaped FLs like this AUDUSD had.
+--- FA ---
+این نحوهٔ واکنش قیمت به FL است.
+
+ویرایش: اوپس… فکر کنم چارت اشتباه داشتم
+
+در این یکی PO نگذاشتم. فقط دارم تماشا می‌کنم قیمت در موقعیت‌های مختلف چه می‌کند. و دارم یادداشت می‌کنم آنچه «می‌توانستم برای ارجاع در آینده یادداشت کنم.»
+
+فکر می‌کنم این FL جواب داد چون توسط جهت HTF حمایت می‌شود. دفعهٔ بعد به بهترین FL‌های شکل‌گرفته مثل آنچه AUDUSD داشت PO می‌گذارم.
+
+##### [7] projectsagana_p14_333 | ShadowPit | 66016458a141e76470e1004c2457882593dcd2d7
+--- EN ---
+Excellent analysis...you saw the future:)
+--- FA ---
+تحلیل عالی… آینده را دیدی:)
+
+##### [8] projectsagana_p14_334 |  | 3887933fdd0a6306f6c8239f407688e26f1bf8ab
+--- EN ---
+projectsagana
+
+When you want to
+
+SUCCEED as much as much as you want to BREATHE, then you will be successful
+
+Studying entries... a reason to go short on this recent PA
+
+the LTF entry for better RR
+
+the HTF: this is where price is reacting to
+--- FA ---
+projectsagana
+
+وقتی می‌خواهی
+
+به اندازه‌ای که می‌خواهی نفس بکشی موفق شوی، آن‌وقت موفق خواهی شد
+
+در حال مطالعهٔ ورودها… دلیلی برای شورت روی این PA اخیر
+
+ورود LTF برای RR بهتر
+
+HTF: این‌جا جایی است که قیمت به آن واکنش نشان می‌دهد
+
+##### [9] projectsagana_p14_335 | projectsagana | 8fefd217930c0933902694fb670d8b1430cdf390
+--- EN ---
+Reviewing this loss trade:
+
+I liked the fast approach to this QM level/FTR, but I manually got out for a small loss as it got deeper in the level and saw it as consumption at that level. I was right, the level broke, but didn't realize of course in real time what it was doing.
+
+It has FOd to QM lvl/FTR level above with a 3D approach. I didn't consider the possibility to where it might FO to. This is what the ITs chose to do with PA.
+--- FA ---
+مرور این ترید زیان:
+
+رویکرد سریع به این سطح QM/FTR را دوست داشتم، اما دستی با زیان کوچک خارج شدم چون عمیق‌تر در سطح رفت و آن را مصرف در آن سطح دیدم. درست بودم، سطح شکست، اما در زمان واقعی واقعاً نفهمیدم چه می‌کرد.
+
+به سطح QM/FTR بالاتر با رویکرد 3D فریب کرده. احتمال اینکه کجا می‌تواند FO کند را در نظر نگرفتم. این همان چیزی است که ITs با PA انتخاب کردند.
+
+##### [10] projectsagana_p14_336 | Blackhawkfx | 35d7b12671f0c7a5e8969eae757366fb074de73a
+--- EN ---
+Awesome! It's good to know why loss trade. Learning from loss trade is more valuable from others. Here's what I see from USDCHF.. I could be wrong, just sharing.. learning.. and brainstorm.
+
+Are we in sync
+--- FA ---
+عالی! خوب است بدانی چرا ترید زیان. یادگیری از ترید زیان ارزشمندتر از دیگران است. این چیزی است که از USDCHF می‌بینم… ممکن است اشتباه کنم، فقط اشتراک می‌گذارم… یادگیری… و طوفان فکری.
+
+آیا همگام هستیم
+
+##### [11] projectsagana_p14_337 | projectsagana | 14c54539c6ae28f6a1a3ac4b5c3306850ad446e0
+--- EN ---
+Thanks for the feedback, Blackhawk.
+
+I agree with you on trading on the extreme. Price is definitely flagging here. It could either break up or down and taking advantage of the retest.
+--- FA ---
+ممنون از بازخورد، Blackhawk.
+
+با تو در ترید روی اکستریم موافقم. قیمت قطعاً این‌جا پرچم‌سازی می‌کند. می‌تواند یا به بالا بشکند یا پایین و از برگشت بهره بگیری.
+
+##### [12] projectsagana_p14_338 | projectsagana | 47652b89377347ba602dcbe217db58d4d74f75c3
+--- EN ---
+My next trade: gbpusd long Woke up this morning and my PO got filled.
+
+I was scared of that FL supply that broke the range. I wanted to close half of my position in there, but as I was doing my laundry and came back, I saw price engulfed that FL.
+
+this is the update:
+
+I want to close half of my position, on that TP i set up. But how do I do that with mt4?
+--- FA ---
+ترید بعدی‌ام: gbpusd لانگ؛ امروز صبح بیدار شدم و PO ام پر شد.
+
+از آن عرضهٔ FL که رنج را شکست ترسیده بودم. می‌خواستم نصف موقعیتم را آنجا ببندم، اما وقتی داشتم لباس می‌شستم و برگشتم، دیدم قیمت آن FL را اینگالف کرده.
+
+این به‌روزرسانی است:
+
+می‌خواهم نصف موقعیتم را روی آن TP که گذاشتم ببندم. اما چطور این را با mt4 انجام دهم؟
+
+##### [13] projectsagana_p14_339 | sylntthunder | 17c58c731aa581221020846de4ac427a471a5743
+--- EN ---
+projectsagana wrote: My next trade: gbpusd long Woke up this morning and my PO got filled.
+
+I was scared of that FL supply that broke the range. I wanted to close half of my position in there, but as I was doing my laundry and came back, I saw price engulfed that FL.
+
+this is the update:
+
+I want to close half of my position, on that TP i set up. But how do I do that with mt4?
+
+Great trade Project Sanga!! But with regard to your question about how to close half of your position on mt4, I believe you just right click your order, open the close order menu and then manually type in the amount of lots you want to close out in the order box. That should work if I'm not mistaken.
+
+SyT
+--- FA ---
+projectsagana نوشت: ترید بعدی‌ام: gbpusd لانگ؛ امروز صبح بیدار شدم و PO ام پر شد.
+
+از آن عرضهٔ FL که رنج را شکست ترسیده بودم. می‌خواستم نصف موقعیتم را آنجا ببندم، اما وقتی داشتم لباس می‌شستم و برگشتم، دیدم قیمت آن FL را اینگالف کرده.
+
+این به‌روزرسانی است:
+
+می‌خواهم نصف موقعیتم را روی آن TP که گذاشتم ببندم. اما چطور این را با mt4 انجام دهم؟
+
+ترید عالی Project Sanga!! اما دربارهٔ سؤالت که چطور نصف موقعیتت را روی mt4 ببندی، باور دارم فقط باید روی سفارشت کلیک راست کنی، منوی بستن سفارش را باز کنی و بعد دستی تعداد لات‌هایی که می‌خواهی ببندی را در کادر سفارش تایپ کنی. اگر اشتباه نکنم باید کار کند.
+
+SyT
+
+##### [14] projectsagana_p14_340 | astro | a976ebab3d9459dcf10f8649995ab6f5b9cb363e
+--- EN ---
+Hi PS,
+
+Nice trade!
+
+I'm guessing you mean to set part of your position to close with a PO? I don't think there is any way to do that in MT4. (Maybe, other's may have more info)
+
+The way
+
+around this would be to enter your trades in separate lots so you can assign different TP's to them.
+
+Otherwise, there is a program called MYFX which can handle this. I used to use it in the past and it was very useful. I've been thinking about using it again. Here's a link if you're interested.
+
+MYFX
+--- FA ---
+سلام PS،
+
+ترید قشنگ!
+
+حدس می‌زنم منظورت این است که بخشی از موقعیتت را با PO ببندد؟ فکر نمی‌کنم راهی برای این در MT4 باشد. (شاید دیگران اطلاعات بیشتری داشته باشند)
+
+راه
+
+پیرامون این این است که تریدهایت را در لات‌های جداگانه وارد کنی تا بتوانی TP‌های متفاوت به آن‌ها اختصاص دهی.
+
+در غیر این صورت، برنامه‌ای به نام MYFX هست که می‌تواند این را انجام دهد. قبلاً از آن استفاده می‌کردم و خیلی مفید بود. داشتم فکر می‌کردم دوباره از آن استفاده کنم. اگر علاقه داری این لینک است.
+
+MYFX
+
+##### [15] projectsagana_p14_341 | projectsagana | 2cbb0d97f877b645b80cec5828795e705b4f238e
+--- EN ---
+I've figured out how to close partial position now thanks.
+
+Would MYFX allow demo account?
+
+Ugh, I am so tempted to close that trade now.
+--- FA ---
+الان فهمیدم چطور موقعیت جزئی را ببندم، ممنون.
+
+آیا MYFX اکانت دمو را می‌پذیرد؟
+
+اوه، وسوسه شده‌ام همین حالا آن ترید را ببندم.
+
+##### [16] projectsagana_p14_342 | astro | a2a789c7c7261e0da2056a61484b0e29b353b6d8
+--- EN ---
+Yes, pretty sure you can use it with demo.
+--- FA ---
+بله، تقریباً مطمئنم می‌توانی با دمو از آن استفاده کنی.
+
+##### [17] projectsagana_p14_343 | Blackhawkfx | 5d7e972cca8ebb2ae3d9424b1e9f5c572b9dfd44
+--- EN ---
+MT4 you just change the LOT SIZE by the time you hit the CLOSE button.
+
+projectsagana wrote: I've figured out how to close partial position now thanks.
+
+Would MYFX allow demo account?
+
+Ugh, I am so tempted to close that trade now.
+--- FA ---
+روی MT4 فقط باید LOT SIZE را همان‌طور که دکمهٔ CLOSE را می‌زنی تغییر دهی.
+
+projectsagana نوشت: الان فهمیدم چطور موقعیت جزئی را ببندم، ممنون.
+
+آیا MYFX اکانت دمو را می‌پذیرد؟
+
+اوه، وسوسه شده‌ام همین حالا آن ترید را ببندم.
+
+##### [18] projectsagana_p14_344 | projectsagana | 440fb6d8418e18ff717d70cc2598dec780d45a61
+--- EN ---
+This is an update to what I saw and what I did.
+
+FTR 1 can potentially turn price around. Above FTR 1 is a PAZ, so it has to engulf that last little base, before I can really say it has been engulf. This is only visible on this TF and not on the HTFs.
+
+the reaction to FTR 1 above and how I managed my position with the 1m TF PA\
+
+so price decides to break below that level, so I manually took half off the profits there and move my stop to BE, and let the rest run or stop me out. That half position off is equal to 3:1 RR, Again, I don't know what price will do next to be honest, will keep on studying.
+
+and price hours later. I'm glad I took off some profits there.
+--- FA ---
+این به‌روزرسانی آنچه دیدم و آنچه کردم است.
+
+FTR 1 می‌تواند بالقوه قیمت را برگرداند. بالای FTR 1 یک PAZ است، پس باید آن پایهٔ کوچک آخر را اینگالف کند، قبل از اینکه واقعاً بتوانم بگویم اینگالف شده. این فقط روی این تایم‌چارچوب قابل‌مشاهده است و نه روی HTF‌ها.
+
+واکنش به FTR 1 بالایی و اینکه چطور موقعیتم را با PA تایم‌چارچوب 1m مدیریت کردم
+
+پس قیمت تصمیم می‌گیرد زیر آن سطح بشکند، پس دستی نصف سود را آنجا گرفتم و استاپم را به BE منتقل کردم، و بقیه را رها کردم تا یا بدود یا استاپم کند. آن نصف موقعیت برداشته‌شده برابر 3:1 RR است. باز هم، راستش نمی‌دانم قیمت بعدی چه می‌کند، به مطالعه ادامه می‌دهم.
+
+و قیمت ساعت‌ها بعد. خوشحالم که آنجا مقداری سود برداشتم.
+
+##### [19] projectsagana_p14_345 | muzani | 63e3dee0f3c67fbe30cf7d81b83dfd13e975d28e
+--- EN ---
+last picture... qm level perhaps? almost to the pip...
+--- FA ---
+تصویر آخر… شاید سطح QM؟ تقریباً تا پیپ… 
+
+##### [20] projectsagana_p14_346 | projectsagana | d674bd1f39937f7f3ad34c05ff70d059741620dc
+--- EN ---
+I don't see the qm, can you show me?
+--- FA ---
+QM را نمی‌بینم، می‌توانی نشانم دهی؟
+
+##### [21] projectsagana_p14_347 | muzani | 3d6f9ed32428fec69ad27a673d8c22c25e716266
+--- EN ---
+projectsagana wrote: I don't see the qm, can you show me?
+
+I'm sorry... after I looked again.. its not a qm.. its just the edge of a box
+--- FA ---
+projectsagana نوشت: QM را نمی‌بینم، می‌توانی نشانم دهی؟
+
+متأسفم… بعد از اینکه دوباره نگاه کردم… QM نیست… فقط لبهٔ یک جعبه است
+
+##### [22] projectsagana_p14_348 | projectsagana | 5082f8d22885830ed3147d58f2b3090526690292
+--- EN ---
+Thanks for the reply... that's very interesting price action
+--- FA ---
+ممنون از پاسخ… آن رفتار قیمت خیلی جالب است
+
+##### [23] projectsagana_p14_349 | projectsagana | 86684fb162546dc0d5c4074c5db57945eafb2dd8
+--- EN ---
+So I decided to stay and took off 25% profit and let the remaining run to the WKLY
+
+FL Supply and moved my stop to the 4H FTR Demand
+--- FA ---
+پس تصمیم گرفتم بمانم و 25% سود برداشتم و بقیه را رها کردم تا به WKLY برسد
+
+عرضهٔ FL و استاپم را به تقاضای 4H FTR منتقل کردم
+
+##### [24] projectsagana_p14_350 | projectsagana | e6e7b4e9194ab0cd5eefe230e6c7f2f63137a15e
+--- EN ---
+I just got home and saw my final target reached!!!!! This is my best trade yet so far!! At least 14:1 RR! see enormous potential in my studies so far. Now I have to look exactly what happen at the best of my ability with GBPUSD.
+
+Thanks RTM
+--- FA ---
+تازه به خانه رسیدم و دیدم تارگت نهایی‌ام زده شد!!!!! این بهترین ترید من تا الان است!! حداقل 14:1 RR! پتانسیل عظیمی در مطالعاتم تا الان می‌بینم. حالا باید دقیقاً ببینم چه اتفاقی با GBPUSD می‌افتد به بهترین توانم.
+
+ممنون RTM

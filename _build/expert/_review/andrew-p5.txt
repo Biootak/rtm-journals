@@ -1,0 +1,212 @@
+===== andrew-p5 : 21 posts =====
+--- andrew_p5_101 author=Nytewyre hash=d83e26ad
+EN: Away
+
+Here is the FOF article from master Salivan's journal:
+
+readthemarket.com/index.php/en/forum/jou...-war?start=925#60487
+
+Every FL has its own value in terms of FOF and scale. We don't need to see the engulf of an entire FL in order to have a valid engulf, we can look for LTF FLs within the HTF FLs to search for valid engulfs
+FA: غایب
+
+این هم مقالهٔ FOF از ژورنال استاد Salivan:
+
+readthemarket.com/index.php/en/forum/jou...-war?start=925#60487
+
+هر FL از نظر FOF و مقیاس ارزش خودش را دارد. برای اینکه یک اینگالف معتبر داشته باشیم لازم نیست اینگالف کل یک FL را ببینیم؛ می‌توانیم داخل FLهای HTF دنبال FLهای LTF بگردیم تا اینگالف‌های معتبر پیدا کنیم.
+--- andrew_p5_102 author=andrew519 hash=86f312e0
+EN: Nytewyre wrote: Here is the FOF article from master Salivan's journal:
+
+readthemarket.com/index.php/en/forum/jou...-war?start=925#60487
+
+Every FL has its own value in terms of FOF and scale. We don't need to see the engulf of an entire FL in order to have a valid engulf, we can look for LTF FLs within the HTF FLs to search for valid engulfs
+
+thnx man:-)
+FA: Nytewyre نوشت: این هم مقالهٔ FOF از ژورنال استاد Salivan:
+
+readthemarket.com/index.php/en/forum/jou...-war?start=925#60487
+
+هر FL از نظر FOF و مقیاس ارزش خودش را دارد. برای اینکه یک اینگالف معتبر داشته باشیم لازم نیست اینگالف کل یک FL را ببینیم؛ می‌توانیم داخل FLهای HTF دنبال FLهای LTF بگردیم تا اینگالف‌های معتبر پیدا کنیم.
+
+ممنون رفیق :-)
+--- andrew_p5_104 author=andrew519 hash=eb9a3a07
+EN: I am starting my work on "where to start in HTF to start digging in LTF" As we know that "WHERE TO FIND PA" from lite course is not helping as by that we see 1000s of LSs and there kinks in the farthest right.so..??what to do...where to look in HTF?
+
+any help,suggestion,reference plz??..I am currently looking in HTF at
+
+where tricks were played in the past..I mean where some RTs were trapped.and from where i am starting my analysis?@_@?
+FA: دارم کارم را از اینجا شروع می‌کنم: «از کجا در HTF شروع کنم تا کندوکاو در LTF را آغاز کنم». همان‌طور که می‌دانیم «WHERE TO FIND PA» از دورهٔ lite کمکی نمی‌کند، چون با آن 1000s از LSها و کینک‌هایشان را در دورترین سمت راست می‌بینیم. پس..؟؟ چه کنیم... کجای HTF را نگاه کنیم؟
+
+کمک، پیشنهاد یا مرجعی، لطفاً؟؟.. من الان در HTF این را نگاه می‌کنم که
+
+قبلاً کجا ترفند بازی شده.. منظورم جایی که چند RT در تله افتاده‌اند. و از کجا تحلیل را شروع کنم؟@_@؟
+--- andrew_p5_105 author=Edge hash=65fe6b9d
+EN: Hey Andrew,. Please remember it was designed as a RTMA course by IF for the purpose of a systematic way of trading. Try this: Vid 1 shows the structure and where it needs to occur (clue FLs and space). So once we have that, we know what to look for during execution. But what is the best place. Well Vid 2 shows us HTF alignments/confluence. The areas IF marks up. Imagine what happens when those kinks line up with the FLs from vid 1. Enough said
+FA: سلام Andrew،. یادت باشد این دوره به‌عنوان یک دورهٔ RTMA توسط IF و با هدف روشی سیستماتیک برای معامله طراحی شده. این را امتحان کن: ویدئو 1 ساختار و جایی را که باید رخ بدهد نشان می‌دهد (سرنخ: FLها و فضا). پس وقتی این را داشتیم، می‌دانیم در اجرا دنبال چه بگردیم. اما بهترین مکان کجاست؟ خب، ویدئو 2 هم‌راستایی‌ها و هم‌گرایی‌های HTF را نشان می‌دهد. همان نواحی‌ای که IF علامت می‌زند. تصور کن وقتی آن کینک‌ها با FLهای ویدئو 1 هم‌راستا شوند چه می‌شود. همین قدر کافی است.
+--- andrew_p5_106 author=andrew519 hash=068bc0b6
+EN: hii..I saw that charts from different broker is vary from each other a little bit but this little bit can change your analysis a lot.you may miss some good trade for some pips or when you are doing research and analysis on your broker's chart on the basis of RTM methodology..you may not get same result and eventually you will get frustrated. I don't know why this topic is ignored till now in RTM. but i think this is important. before we start working on RTM Methods we should get a true chart.I used to analysis on jforex chart from dukascopy..vary good platform, fast, but saw that detas are little bit manipulated. then I read that Salivan is using peperstone broker.I then used Peperstone and realized that this data is more accurate and smoothly goes with RTM methods.but the problem is they are not giving much historical datas for M1 or M5 TF. just 2-3 days..so I can't back test..they are using datas from truefx..Don't know how to import those datas from truefx to mt4. can anybody help??
+FA: سلام.. دیدم که چارت‌های بروکرهای مختلف کمی با هم تفاوت دارند، ولی همین کمی می‌تواند تحلیلت را خیلی تغییر بدهد. ممکن است به‌خاطر چند پیپ یک معاملهٔ خوب را از دست بدهی، یا وقتی روی چارت بروکر خودت و بر پایهٔ متدولوژی RTM پژوهش و تحلیل می‌کنی به نتیجهٔ یکسانی نرسی و در نهایت کلافه شوی. نمی‌دانم چرا این موضوع تا حالا در RTM نادیده گرفته شده، ولی به نظرم مهم است. قبل از اینکه کار روی روش‌های RTM را شروع کنیم باید یک چارت واقعی داشته باشیم. قبلاً روی چارت jforex از dukascopy تحلیل می‌کردم.. پلتفرم خیلی خوبی است، سریع، ولی دیدم داده‌هایش کمی دستکاری شده‌اند. بعد خواندم که Salivan از بروکر peperstone استفاده می‌کند. آن‌وقت Peperstone را به کار بردم و فهمیدم داده‌هایش دقیق‌تر است و نرم‌تر با روش‌های RTM جور درمی‌آید. ولی مشکل این است که برای تایم‌فریم M1 یا M5 دادهٔ تاریخی زیادی نمی‌دهند، فقط 2-3 روز.. پس نمی‌توانم بک‌تست کنم.. آن‌ها از داده‌های truefx استفاده می‌کنند.. نمی‌دانم چطور آن داده‌ها را از truefx به mt4 وارد کنم. کسی می‌تواند کمک کند؟؟
+--- andrew_p5_107 author=andrew519 hash=a778f112
+EN: what do you think guys?
+FA: دوستان شما چه فکری می‌کنید؟
+--- andrew_p5_108 author=full hash=47199ce9
+EN: For me it's a good level if you want to buy..
+
+full
+FA: برای من سطح خوبی است اگر بخواهی بخری..
+
+full
+--- andrew_p5_109 author=traderscape hash=483385d7
+EN: Hi,
+
+I was looking at that pair, this is what I draw.
+
+Then I saw this reaction, but I didn't take it
+
+Wish you the best!
+FA: سلام،
+
+داشتم آن جفت‌ارز را نگاه می‌کردم، این چیزی است که رسم کردم.
+
+بعد این واکنش را دیدم، ولی واردش نشدم
+
+برایت بهترین‌ها را می‌خواهم!
+--- andrew_p5_110 author=andrew519 hash=e22f1a09
+EN: full wrote: For me it's a good level if you want to buy..
+
+full
+
+it was a good entry for a very big R:R but unfortunately my limit order was not triggered though hit by candle..maybe for broker spread reason..it sucks..
+FA: full نوشت: برای من سطح خوبی است اگر بخواهی بخری..
+
+full
+
+ورود خوبی برای یک R:R خیلی بزرگ بود، ولی متأسفانه سفارش لیمیت من فعال نشد، هرچند کندل آن را لمس کرد.. شاید به‌خاطر اسپرد بروکر.. خیلی بد شد..
+--- andrew_p5_111 author=andrew519 hash=8598ec71
+EN: traderscape wrote: Hi,
+
+I was looking at that pair, this is what I draw.
+
+thanx traderscape
+FA: traderscape نوشت: سلام،
+
+داشتم آن جفت‌ارز را نگاه می‌کردم، این چیزی است که رسم کردم.
+
+ممنون traderscape
+--- andrew_p5_112 author=andrew519 hash=5e4884ac
+EN: WHY??ANY EXPLANATION?
+FA: چرا؟؟ هیچ توضیحی نیست؟
+--- andrew_p5_114 author=andrew519 hash=ab6630d0
+EN: IF ITS POSSIBLE TO PREDICT IN WHICE QM PRICE WILL MOST PROBABLY BOUNCE..PLZ LET ME KNOW HOW..THNX STAURUM FOR YOUR TIME
+
+staurum wrote:
+FA: اگر می‌شود پیش‌بینی کرد که قیمت به احتمال بیشتر از کدام QM بازگشت می‌کند.. لطفاً بگویید چطور.. ممنون STAURUM برای وقتی که گذاشتی
+
+staurum نوشت:
+--- andrew_p5_115 author=andrew519 hash=7f68fa2e
+EN: working on finding small TF entry after a big w1 or monthly entry..can anybody guide me?
+FA: دارم روی پیدا کردن ورود در تایم‌فریم کوچک بعد از یک ورود بزرگ w1 یا ماهانه کار می‌کنم.. کسی می‌تواند راهنمایی‌ام کند؟
+--- andrew_p5_116 author=fxeyes hash=f8dd9643
+EN: Away
+
+i think that's discussed in the second video, to a degree. Keep watching it and applying it to different charts, over and over again until you really start to get it. I'll be easier to answer more specific questions.
+FA: غایب
+
+فکر می‌کنم تا حدی در ویدئوی دوم دربارهٔ آن صحبت شده. ادامه‌اش بده و بارها و بارها روی چارت‌های مختلف پیاده‌اش کن تا واقعاً کم‌کم دستگیرت شود. جواب دادن به سؤال‌های مشخص‌تر آسان‌تر می‌شود.
+--- andrew_p5_117 author=andrew519 hash=277e98c4
+EN: left shoulder is not the true place mate..but some important place near it;)
+
+fxeyes wrote: i think that's discussed in the second video, to a degree. Keep watching it and applying it to different charts, over and over again until you really start to get it. I'll be easier to answer more specific questions.
+FA: شانهٔ چپ جای واقعی نیست رفیق.. ولی یک جای مهم نزدیکش هست ;)
+
+fxeyes نوشت: فکر می‌کنم تا حدی در ویدئوی دوم دربارهٔ آن صحبت شده. ادامه‌اش بده و بارها و بارها روی چارت‌های مختلف پیاده‌اش کن تا واقعاً کم‌کم دستگیرت شود. جواب دادن به سؤال‌های مشخص‌تر آسان‌تر می‌شود.
+--- andrew_p5_118 author=andrew519 hash=64076170
+EN: HI, Every one,it's almost one and a half year I am here.I only can stay here for 7 more day as my registration is going to end on 01 june.
+
+Firstly I am very
+
+blessed that I found this lovely and most probably the only true forex school and would like to thank IF, Edge, H, Salivan and many others for their great contribution to the forum. I learned a lot from here.so I thought why I am only taking and not giving something to the forum?thats why I am trying to give a little contribution to the lovely people here. well this is a very basic thing but we overlook this. we see that in some cases price touch our level but trade not activate..or in some cases we see that price turnd much before our level,in another case we see that price turned after crossing our level,another one is SL hit but price not touched the SL line yet..any of these can make you frustrated or money loss. so to avoid this we have to understand some points.
+
+there are two price,one is ASK price another is BID price
+
+when you BUY (open a long position) you always buy at the ASK Pr ice
+
+when you SELL (open a short position) you always sell at the BID price.
+
+The ASK price is always above the current price(BID price) you see on your chart.
+
+The price you see on your chart is the BID price
+
+[/b]
+
+BUY orders are executed at ASK price, but MT4 charts do not show ASK price by
+
+default. This is why on the chart it looks like the trade was filled too early without price touching the entry level. But ASK price touched the entry price, it’s just not displayed on
+
+the chart anywhere.
+
+Sell orders are executed at BID Prices. That’s why you will see price (BID Price) hit the
+
+entry price level and get activated immediately.
+
+so..what should we do to avoid some loss?remember ITs are always trying to use your order for their benifit..
+
+so we can see in scenario 1 that price crossed our entry line thus trade triggered and hit our SL.but we know that we buy at ASK price and here the ASK price is still with in our FL, but as the SL of buy order will trigger when BID price touche that..thus here we are out from the trade with a loss..to avoid this..we should place buy order SL below our (FL low-spread)...in scenario 2..we see that price crossed our entry level but trade not activated..again the reason is ASK price which is above BID price and here it not touched our entry level thus trade not triggured yet..and from here price can go in the direction of the trade..but you could not enter the trade here and you will get frustrated and will take bad decisions..what actually IT wants..so to avoid this..we should place our pending buy order above (level high line+spread)
+
+in scenario 3..we see a sell limit order..now here how can IT tricks you? we can see the price(BID) is still with in the level but the ASK price crossed your SL and we know that in case of sell..BID price triggers entry and ASK price triggers SL..thus we get entered and get stop out much before our SL in the chart.as we only see BID price..to avoid this..we should place our stop above (upper level+spread).I know that this is a very basic thing,but felt trouble for this so am posting here..THNX everyone for your direct or indirect support
+FA: سلام به همه، نزدیک یک سال و نیم است که اینجا هستم. فقط 7 روز دیگر می‌توانم بمانم، چون ثبت‌نامم 01 june تمام می‌شود.
+
+اول از همه خیلی
+
+خوش‌اقبالم که این مدرسهٔ دوست‌داشتنی و به‌احتمال زیاد تنها مدرسهٔ واقعی فارکس را پیدا کردم و می‌خواهم از IF، Edge، H، Salivan و خیلی‌های دیگر برای سهم بزرگشان در این فروم تشکر کنم. اینجا چیزهای زیادی یاد گرفتم. پس با خودم فکر کردم چرا فقط می‌گیرم و چیزی به فروم نمی‌دهم؟ برای همین می‌خواهم سهم کوچکی به آدم‌های دوست‌داشتنی اینجا بدهم. خب، این موضوع خیلی ابتدایی است ولی ما از آن چشم می‌پوشیم. می‌بینیم که در بعضی موارد قیمت سطح ما را لمس می‌کند ولی معامله فعال نمی‌شود.. یا در مواردی می‌بینیم قیمت خیلی قبل از سطح ما برگشته، در موردی دیگر می‌بینیم قیمت بعد از عبور از سطح ما برگشته، یکی دیگر هم اینکه SL خورده ولی قیمت هنوز خط SL را لمس نکرده.. هر کدام از این‌ها می‌تواند کلافه‌ات کند یا پول از دست بدهی. پس برای پرهیز از این‌ها باید چند نکته را بفهمیم.
+
+دو قیمت وجود دارد، یکی قیمت ASK و دیگری قیمت BID
+
+وقتی BUY می‌کنی (پوزیشن خرید باز می‌کنی) همیشه در قیمت ASK می‌خری
+
+وقتی SELL می‌کنی (پوزیشن فروش باز می‌کنی) همیشه در قیمت BID می‌فروشی.
+
+قیمت ASK همیشه بالاتر از قیمت فعلی‌ای است که روی چارت می‌بینی (قیمت BID).
+
+قیمتی که روی چارت می‌بینی قیمت BID است
+
+[/b]
+
+سفارش‌های BUY در قیمت ASK اجرا می‌شوند، ولی چارت‌های MT4 قیمت ASK را
+
+به‌طور پیش‌فرض نشان نمی‌دهند. به همین دلیل روی چارت به نظر می‌رسد معامله خیلی زود پر شده، بدون اینکه قیمت سطح ورود را لمس کرده باشد. ولی قیمت ASK سطح ورود را لمس کرده، فقط روی چارت
+
+هیچ‌جا نمایش داده نمی‌شود.
+
+سفارش‌های فروش در قیمت BID اجرا می‌شوند. به همین دلیل می‌بینی که قیمت (قیمت BID) سطح
+
+ورود را لمس می‌کند و بلافاصله فعال می‌شود.
+
+پس.. برای پرهیز از ضرر چه باید بکنیم؟ یادت باشد ITها همیشه می‌خواهند از سفارش تو به سود خودشان استفاده کنند..
+
+پس در سناریوی 1 می‌بینیم قیمت از خط ورود ما عبور کرده، در نتیجه معامله فعال شده و SL ما خورده. ولی می‌دانیم که در قیمت ASK می‌خریم و اینجا قیمت ASK هنوز داخل FL ما است؛ اما چون SL سفارش خرید وقتی فعال می‌شود که قیمت BID آن را لمس کند، پس اینجا با ضرر از معامله بیرون می‌آییم.. برای پرهیز از این باید SL سفارش خرید را زیر (کف FL منهای اسپرد) بگذاریم... در سناریوی 2.. می‌بینیم قیمت از سطح ورود ما عبور کرده ولی معامله فعال نشده.. باز هم دلیلش قیمت ASK است که بالاتر از BID است و اینجا سطح ورود ما را لمس نکرده، پس معامله هنوز فعال نشده.. و از اینجا قیمت می‌تواند در جهت معامله برود.. ولی تو نمی‌توانستی اینجا وارد شوی، کلافه می‌شوی و تصمیم‌های بد می‌گیری.. که همان چیزی است که IT می‌خواهد.. پس برای پرهیز از این باید سفارش خرید معلق‌مان را بالای (خط سقف سطح به‌علاوهٔ اسپرد) بگذاریم.
+
+در سناریوی 3.. یک سفارش سلف لیمیت می‌بینیم.. اینجا IT چطور می‌تواند سرت کلاه بگذارد؟ می‌بینیم قیمت (BID) هنوز داخل سطح است ولی قیمت ASK از SL تو عبور کرده، و می‌دانیم در مورد فروش.. قیمت BID ورود را فعال می‌کند و قیمت ASK حد ضرر را.. پس وارد می‌شویم و خیلی قبل‌تر از SL روی چارت استاپ می‌خوریم، چون فقط قیمت BID را می‌بینیم.. برای پرهیز از این باید استاپ‌مان را بالای (سطح بالایی به‌علاوهٔ اسپرد) بگذاریم. می‌دانم این موضوع خیلی ابتدایی است، ولی برایم دردسر شده بود، پس اینجا می‌نویسم.. ممنون از همه برای حمایت مستقیم یا غیرمستقیمشان
+--- andrew_p5_119 author=andrew519 hash=33e13e03
+EN: KEY OF SELF DISCOVERY is- whenever you stuck somewhere ask this question?? How ITs can make me fool and trick me by this price movement?? and eventually you will discover new paths by yourself.
+FA: کلید خودشناسی این است: هر وقت جایی گیر کردی، این سؤال را بپرس: ITها چطور می‌توانند با این حرکت قیمت من را فریب بدهند و سر کار بگذارند؟ و در نهایت خودت مسیرهای تازه‌ای کشف می‌کنی.
+--- andrew_p5_120 author=Atari hash=5086bdd7
+EN: Thank you Andrew. I am very happy to know that your experience inside RTM was a good one. Also, look for areas / levels where the tricks were played and trade those areas when tricks are being played again while pricing is approaching the trick level..
+FA: ممنون Andrew. خیلی خوشحالم که تجربه‌ات در RTM خوب بوده. همچنین دنبال نواحی/سطوحی باش که در آن‌ها ترفند اجرا شده و همان نواحی را معامله کن، وقتی همان ترفند دوباره در حال اجراست و قیمت به سطح ترفند نزدیک می‌شود..
+--- andrew_p5_121 author=andrew519 hash=fbc09790
+EN: Atari wrote: Thank you Andrew. I am very happy to know that your experience inside RTM was a good one. Also, look for areas / levels where the tricks were played and trade those areas when tricks are being played again while pricing is approaching the trick level..
+
+thnx atari..don't know when I can join RTM again as my subscription is ending soon. I am currently working on "ILR and ITP" and its puzzling me.
+FA: Atari نوشت: ممنون Andrew. خیلی خوشحالم که تجربه‌ات در RTM خوب بوده. همچنین دنبال نواحی/سطوحی باش که در آن‌ها ترفند اجرا شده و همان نواحی را معامله کن، وقتی همان ترفند دوباره در حال اجراست و قیمت به سطح ترفند نزدیک می‌شود..
+
+ممنون atari.. نمی‌دانم کِی می‌توانم دوباره به RTM برگردم، چون اشتراکم به‌زودی تمام می‌شود. الان روی «ILR و ITP» کار می‌کنم و گیجم کرده.
+--- andrew_p5_122 author=andrew519 hash=0150eba8
+EN: TIPS for Everyone-ITs are watching RTM.
+FA: نکته‌ای برای همه: ITها دارند RTM را زیر نظر می‌گیرند.
+--- andrew_p5_123 author=andrew519 hash=1465f832
+EN: today is my last day here
+
+if you want to know something, you can ask me.
+FA: امروز آخرین روز من اینجاست
+
+اگر چیزی می‌خواهی بدانی، می‌توانی از من بپرسی.

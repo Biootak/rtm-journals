@@ -1,0 +1,352 @@
+{
+ "partial": [
+  {
+   "page": "aboutcompression-p1",
+   "missing": 24
+  },
+  {
+   "page": "aboutcompression-p18",
+   "missing": 24
+  },
+  {
+   "page": "aboutcompression-p35",
+   "missing": 24
+  },
+  {
+   "page": "alex-p1",
+   "missing": 24
+  },
+  {
+   "page": "classroom-p17",
+   "missing": 24
+  },
+  {
+   "page": "classroom-p24",
+   "missing": 24
+  },
+  {
+   "page": "classroom-p28",
+   "missing": 24
+  },
+  {
+   "page": "dbrrbd-p32",
+   "missing": 24
+  },
+  {
+   "page": "dbrrbd-p53",
+   "missing": 24
+  },
+  {
+   "page": "diamond-p3",
+   "missing": 24
+  },
+  {
+   "page": "fishing-p4",
+   "missing": 24
+  },
+  {
+   "page": "fishing-p5",
+   "missing": 24
+  },
+  {
+   "page": "fishing-p8",
+   "missing": 24
+  },
+  {
+   "page": "flaglimits-p21",
+   "missing": 24
+  },
+  {
+   "page": "flaglimits-p24",
+   "missing": 24
+  },
+  {
+   "page": "ftrretest-p10",
+   "missing": 24
+  },
+  {
+   "page": "homeoffinisher-p7",
+   "missing": 24
+  },
+  {
+   "page": "hs-p21",
+   "missing": 24
+  },
+  {
+   "page": "quasimodo-p12",
+   "missing": 24
+  },
+  {
+   "page": "quasimodo-p21",
+   "missing": 24
+  },
+  {
+   "page": "quasimodo-p28",
+   "missing": 24
+  },
+  {
+   "page": "quasimodo-p40",
+   "missing": 24
+  },
+  {
+   "page": "quasimodo-p46",
+   "missing": 24
+  },
+  {
+   "page": "readingsession-p8",
+   "missing": 24
+  },
+  {
+   "page": "readingsession-p9",
+   "missing": 24
+  },
+  {
+   "page": "staurum-p19",
+   "missing": 24
+  },
+  {
+   "page": "supplydemand-p4",
+   "missing": 24
+  },
+  {
+   "page": "supplydemand-p8",
+   "missing": 24
+  },
+  {
+   "page": "art-p9",
+   "missing": 23
+  },
+  {
+   "page": "fishing-p3",
+   "missing": 23
+  },
+  {
+   "page": "flaglimits-p49",
+   "missing": 23
+  },
+  {
+   "page": "ftrpaz-p4",
+   "missing": 23
+  },
+  {
+   "page": "hs-p51",
+   "missing": 23
+  },
+  {
+   "page": "quasimodo-p30",
+   "missing": 23
+  },
+  {
+   "page": "supplydemand-p2",
+   "missing": 23
+  },
+  {
+   "page": "whenever-p5",
+   "missing": 23
+  },
+  {
+   "page": "fishing-p7",
+   "missing": 22
+  },
+  {
+   "page": "quasimodo-p5",
+   "missing": 22
+  },
+  {
+   "page": "aboutcompression-p42",
+   "missing": 21
+  },
+  {
+   "page": "alex-p5",
+   "missing": 20
+  },
+  {
+   "page": "constantine-p4",
+   "missing": 20
+  },
+  {
+   "page": "art-p4",
+   "missing": 19
+  },
+  {
+   "page": "bsz-p1",
+   "missing": 19
+  },
+  {
+   "page": "pucci-p8",
+   "missing": 18
+  },
+  {
+   "page": "constantine-p8",
+   "missing": 17
+  },
+  {
+   "page": "maxpain-p1",
+   "missing": 12
+  },
+  {
+   "page": "finddecision-p11",
+   "missing": 9
+  },
+  {
+   "page": "dbrrbd-p57",
+   "missing": 8
+  },
+  {
+   "page": "bill-p1",
+   "missing": 7
+  },
+  {
+   "page": "bsz-p5",
+   "missing": 6
+  },
+  {
+   "page": "dbrrbd-p34",
+   "missing": 6
+  },
+  {
+   "page": "bill-p2",
+   "missing": 5
+  },
+  {
+   "page": "dplocation-p1",
+   "missing": 5
+  },
+  {
+   "page": "in2forex-p11",
+   "missing": 5
+  },
+  {
+   "page": "cancan-p3",
+   "missing": 4
+  },
+  {
+   "page": "dbrrbd-p12",
+   "missing": 4
+  },
+  {
+   "page": "dbrrbd-p2",
+   "missing": 4
+  },
+  {
+   "page": "dbrrbd-p4",
+   "missing": 4
+  },
+  {
+   "page": "its-p3",
+   "missing": 4
+  },
+  {
+   "page": "alex-p36",
+   "missing": 3
+  },
+  {
+   "page": "dbrrbd-p1",
+   "missing": 3
+  },
+  {
+   "page": "dbrrbd-p10",
+   "missing": 3
+  },
+  {
+   "page": "dbrrbd-p15",
+   "missing": 3
+  },
+  {
+   "page": "dbrrbd-p55",
+   "missing": 3
+  },
+  {
+   "page": "fakeouts-p2",
+   "missing": 3
+  },
+  {
+   "page": "sunnytrader-p13",
+   "missing": 3
+  },
+  {
+   "page": "dbrrbd-p17",
+   "missing": 2
+  },
+  {
+   "page": "enquiry-p2",
+   "missing": 2
+  },
+  {
+   "page": "ftrretest-p12",
+   "missing": 2
+  },
+  {
+   "page": "3drive-p10",
+   "missing": 1
+  },
+  {
+   "page": "alex-p4",
+   "missing": 1
+  },
+  {
+   "page": "classroom-p49",
+   "missing": 1
+  },
+  {
+   "page": "dbrrbd-p11",
+   "missing": 1
+  },
+  {
+   "page": "dbrrbd-p16",
+   "missing": 1
+  },
+  {
+   "page": "dbrrbd-p30",
+   "missing": 1
+  },
+  {
+   "page": "dbrrbd-p35",
+   "missing": 1
+  },
+  {
+   "page": "dbrrbd-p6",
+   "missing": 1
+  },
+  {
+   "page": "dbrrbd-p66",
+   "missing": 1
+  },
+  {
+   "page": "dbrrbd-p8",
+   "missing": 1
+  },
+  {
+   "page": "dbrrbd-p9",
+   "missing": 1
+  },
+  {
+   "page": "diamond-p10",
+   "missing": 1
+  },
+  {
+   "page": "fishing-p11",
+   "missing": 1
+  },
+  {
+   "page": "luska-p9",
+   "missing": 1
+  },
+  {
+   "page": "projectsagana-p19",
+   "missing": 1
+  },
+  {
+   "page": "rinehartfl-p1",
+   "missing": 1
+  },
+  {
+   "page": "warren-p11",
+   "missing": 1
+  }
+ ],
+ "other": {
+  "ftrpaz-p5": 1,
+  "rinehartfl-p1": 1
+ }
+}

@@ -1,0 +1,473 @@
+### michal238_p8_1
+EN: I took today this trade on GU:
+FA: امروز این معامله را روی GU گرفتم:
+
+### michal238_p8_2
+EN: Some price reading:
+
+If we trade FTR after engulf has happened, then we must be ready for FO.
+ Trade from red box on second chart was set and forget type of trade,
+because
+
+price broke into CP PAZ before it reached MPL.
+
+I traded EURUSD in this week and i was stopped out because I forgot about FO possibility:
+
+edit: I just spotted another box - rules obeyed with 0.1 pip precision
+FA: کمی خواندن قیمت:
+
+اگر بعد از رخ‌دادن اینگالف روی FTR معامله کنیم، باید آمادهٔ FO باشیم. معامله از باکس قرمز روی چارت دوم از نوع «بگذار و فراموش کن» بود، چون
+
+قیمت قبل از رسیدن به MPL وارد CP PAZ شد.
+
+این هفته روی EURUSD معامله کردم و استاپ خوردم چون امکان FO را فراموش کرده بودم:
+
+ویرایش: همین الان یک باکس دیگر پیدا کردم - قوانین با دقت 0.1 پیپ رعایت شده‌اند
+
+### michal238_p8_3
+EN: Great setup on EURGBP. I expected a FO into fresh QM lvl, unfortunately price reversed on FTR and my order was not triggered.
+FA: ستاپ عالی روی EURGBP. انتظار FO به داخل سطح QM تازه را داشتم؛ متأسفانه قیمت روی FTR برگشت و سفارشم فعال نشد.
+
+### michal238_p8_4
+EN: Hi Michael,
+
+Your posting is awesome man!
+
+I have a question about your EG trade.
+
+Do you direct set to PO after the the price is engulfed or when the price is cp to your desired zone.
+
+Thx
+
+BH
+FA: سلام Michael،
+
+پست‌هایت عالی است مرد!
+
+یک سؤال دربارهٔ معاملهٔ EG تو دارم.
+
+آیا بعد از اینگالف قیمت مستقیم سفارش معلق می‌گذاری، یا وقتی قیمت به ناحیهٔ دلخواهت CP می‌کند؟
+
+مرسی
+
+BH
+
+### michal238_p8_5
+EN: Hi BH.
+
+I have set order when I saw that price is compressing towards my zone. I
+ used to set PO without looking at approach when price is retracing
+after FL engulf and RR is good. I won't do this though until my PAZ
+understanding and MPL understanding will be perfect. Sometimes I was
+stopped out, because price did a FO higher than I expected, or I marked
+engulf wrong etc. CP is enough for me to set an order. If there is no
+CP, and LTF flag is formed bolow my entry point I'll wait till its
+engulfed, and then entry on retrace. There are really many scenarios and
+ I'll be posting many examples for sure.
+FA: سلام BH.
+
+وقتی دیدم قیمت به سمت ناحیه‌ام فشرده می‌شود، سفارش گذاشتم. قبلاً وقتی قیمت بعد از اینگالف FL اصلاح می‌کرد و RR خوب بود، بدون نگاه‌کردن به نزدیک‌شدن سفارش معلق می‌گذاشتم. البته تا وقتی درکم از PAZ و MPL کامل نشود این کار را نمی‌کنم. گاهی استاپ می‌خوردم، چون قیمت FO را بالاتر از انتظارم می‌زد، یا اینگالف را اشتباه علامت زده بودم و از این چیزها. CP برایم کافی است تا سفارش بگذارم. اگر CP نباشد و فلگ LTF زیر نقطهٔ ورودم شکل بگیرد، صبر می‌کنم تا اینگالف شود و بعد در اصلاح وارد می‌شوم. سناریوها واقعاً زیادند و قطعاً مثال‌های زیادی پست خواهم کرد.
+
+### michal238_p8_6
+EN: Michal238, very good point. Thanks for pointing it out.
+
+So in sequence. its like this .. FL engulf -> CP to source of drop -> set limit order.
+
+That's one of my setup as well.
+
+BH
+
+Michal238 wrote: Hi BH.
+
+I have set order when I saw that price is compressing towards my zone. I
+ used to set PO without looking at approach when price is retracing
+after FL engulf and RR is good. I won't do this though until my PAZ
+understanding and MPL understanding will be perfect. Sometimes I was
+stopped out, because price did a FO higher than I expected, or I marked
+engulf wrong etc. CP is enough for me to set an order. If there is no
+CP, and LTF flag is formed bolow my entry point I'll wait till its
+engulfed, and then entry on retrace. There are really many scenarios and
+ I'll be posting many examples for sure.
+FA: Michal238، نکتهٔ خیلی خوبی بود. ممنون که اشاره کردی.
+
+پس به ترتیب. این‌طوری است .. اینگالف FL -> CP به مبدأ ریزش -> گذاشتن سفارش لیمیت.
+
+این یکی از ستاپ‌های من هم هست.
+
+BH
+
+Michal238 نوشت: سلام BH.
+
+وقتی دیدم قیمت به سمت ناحیه‌ام فشرده می‌شود، سفارش گذاشتم. قبلاً وقتی قیمت بعد از اینگالف FL اصلاح می‌کرد و RR خوب بود، بدون نگاه‌کردن به نزدیک‌شدن سفارش معلق می‌گذاشتم. البته تا وقتی درکم از PAZ و MPL کامل نشود این کار را نمی‌کنم. گاهی استاپ می‌خوردم، چون قیمت FO را بالاتر از انتظارم می‌زد، یا اینگالف را اشتباه علامت زده بودم و از این چیزها. CP برایم کافی است تا سفارش بگذارم. اگر CP نباشد و فلگ LTF زیر نقطهٔ ورودم شکل بگیرد، صبر می‌کنم تا اینگالف شود و بعد در اصلاح وارد می‌شوم. سناریوها واقعاً زیادند و قطعاً مثال‌های زیادی پست خواهم کرد.
+
+### michal238_p8_7
+EN: My goal for next few weeks is to find setups I will trade in live
+market. I'll have a check list that will help me to stick to my plan.
+
+I'll master each of this setup and I'll ONLY trade what I know that
+works and I know how to manage it. I want to improve win ratio
+
+and, most of all be able to exit my trade without any doubt when
+reaction is not good enough. Emotional attachment to trades is really
+
+terrible thing.
+
+Also I give up temporarily extra tight SL trades. I want to know that
+I'm able to make consistent profits, and having much more winers than
+losers is my goal now.
+
+Even if they are small account will grow.
+
+In my price reading I'm going to analyse every turn in the market - if I
+ find good zone that didn't work I'll always analyse it in M1 detail on
+approach and reaction. By now
+
+I more focused on zones that worked well - and this is a reason why I
+have hard time to exit when it is not too late - with smaller loss than
+my SL , BE, or even small profit.
+
+Here is setup 1 (perfect example):
+
+It is basicly a QM settup. What I want to highlight here is clear FL and
+ engulf of it after reaction to nice demand. If LL reached extreme
+orders then I put SL below demand. If not - I put SL below FL, because
+price may reach extreme orders in FL.
+
+Exit scenarios. I'll watch PA on approach to blue boxes.
+
+1.
+
+2.
+
+If IT's want to reverse price we will see CP on approach or there will
+be a flag formed below supply. I'm not going to exit before limit of
+this flag is engulfed.
+
+Difficult thing may be exiting on retrace - not instantly after engulf.
+That is one reason why I going to MASTER this setup and see how often I
+can exit on retrace.
+
+We know that when there is engulf of FL then price can retrace even
+beyond opposite FL. I'm going to find many examples of this scenario and
+ see how deep this retrace can be, when price does a FO and where FO
+stops. FO can be anticipated when we have fresh level/ DP to engulf
+below FL.
+
+Here is one example I found on EURAUD:
+
+Another example is in my post #150.
+
+I'll spend some time mastering this setup. There can be really many
+variables of it. It is one setup but once mastered there will be many
+opportunities to profit
+
+from it. What I showed above is QM setup it can be also a diamond, can
+can. I've put it in context and described briefly how to manage it. I
+also have better idea
+
+on elements I must work on. For example - continuation engulf showed in last diagram.
+
+EDIT: one more chart
+FA: هدفم برای چند هفتهٔ آینده پیدا کردن ستاپ‌هایی است که در بازار لایو معامله کنم. چک‌لیستی خواهم داشت که کمکم کند به پلنم پایبند بمانم.
+
+هرکدام از این ستاپ‌ها را مسلط می‌شوم و فقط چیزی را معامله می‌کنم که می‌دانم کار می‌کند و بلد هستم مدیریتش کنم. می‌خواهم نرخ بردم را بهتر کنم
+
+و مهم‌تر از همه، وقتی واکنش به‌اندازهٔ کافی خوب نیست بتوانم بدون هیچ تردیدی از معامله‌ام خارج شوم. وابستگی احساسی به معامله‌ها واقعاً
+
+چیز وحشتناکی است.
+
+همچنین موقتاً معامله‌های با استاپ‌لاس خیلی تنگ را کنار می‌گذارم. می‌خواهم بدانم می‌توانم سودهای باثبات بسازم، و داشتن برنده‌های خیلی بیشتر از بازنده‌ها هدف الان من است.
+
+حتی اگر کوچک باشند، حساب رشد می‌کند.
+
+در خواندن قیمتم قرار است هر چرخش بازار را تحلیل کنم - اگر ناحیهٔ خوبی پیدا کنم که کار نکرد، همیشه آن را با جزئیات M1 در نزدیک‌شدن و واکنش تحلیل می‌کنم. تا الان
+
+بیشتر روی ناحیه‌هایی تمرکز داشته‌ام که خوب کار کردند - و همین دلیلی است که وقتی هنوز خیلی دیر نشده به‌سختی خارج می‌شوم - با ضرری کوچک‌تر از استاپ‌لاسم، BE، یا حتی سود کوچک.
+
+این هم ستاپ 1 (نمونهٔ کامل):
+
+اساساً یک ستاپ QM است. چیزی که می‌خواهم اینجا برجسته کنم FL واضح و اینگالف آن بعد از واکنش به تقاضای خوب است. اگر LL به سفارش‌های اکستریم رسیده باشد، استاپ‌لاس را زیر تقاضا می‌گذارم. اگر نه - استاپ‌لاس را زیر FL می‌گذارم، چون قیمت ممکن است در FL به سفارش‌های اکستریم برسد.
+
+سناریوهای خروج. در نزدیک‌شدن به باکس‌های آبی PA را نگاه می‌کنم.
+
+1.
+
+2.
+
+اگر IT‌ها بخواهند قیمت را برگردانند، در نزدیک‌شدن CP می‌بینیم یا فلگی زیر عرضه شکل می‌گیرد. قبل از این‌که لیمیت این فلگ اینگالف شود خارج نمی‌شوم.
+
+چیز دشوار ممکن است خروج در اصلاح باشد - نه بلافاصله بعد از اینگالف. این یکی از دلیل‌هایی است که می‌خواهیم این ستاپ را کاملاً مسلط شوم و ببینم چقدر می‌توانم در اصلاح خارج شوم.
+
+می‌دانیم وقتی FL اینگالف می‌شود قیمت می‌تواند حتی فراتر از FL مقابل اصلاح کند. قرار است مثال‌های زیادی از این سناریو پیدا کنم و ببینم این اصلاح چقدر می‌تواند عمیق باشد، وقتی قیمت FO می‌زند و FO کجا می‌ایستد. وقتی سطح تازه/ DP برای اینگالف زیر FL داشته باشیم، FO قابل پیش‌بینی است.
+
+این هم یک مثال که روی EURAUD پیدا کردم:
+
+مثال دیگر در پست #150 من است.
+
+مدتی وقت می‌گذارم تا به این ستاپ مسلط شوم. متغیرهایش واقعاً می‌تواند زیاد باشد. یک ستاپ است ولی وقتی مسلط شوی، فرصت‌های زیادی برای سود بردن
+
+از آن خواهد بود. چیزی که بالا نشان دادم ستاپ QM است؛ الماس هم می‌تواند باشد، می‌تواند... آن را در زمینهٔ خودش قرار دادم و مختصر توضیح دادم چطور مدیریتش کنم. همچنین ایدهٔ بهتری دارم
+
+دربارهٔ عناصری که باید رویشان کار کنم. مثلاً - اینگالف ادامه‌دهنده که در آخرین نمودار نشان داده شد.
+
+ویرایش: یک چارت دیگر
+
+### michal238_p8_8
+EN: DP homework
+
+And here is approach to lower DP :
+FA: تکلیف DP
+
+و این هم نزدیک‌شدن به DP پایین‌تر :
+
+### michal238_p8_9
+EN: Price reading session:
+
+Now I'll check where price faked to:
+FA: جلسهٔ خواندن قیمت:
+
+حالا بررسی می‌کنم قیمت به کجا فیک زده:
+
+### michal238_p8_10
+EN: You're the spirit of RTM brother.
+
+It's a joy to see work like this in progress
+
+Once we have the fund traders set up, we'll be handing out some
+scholarships to the academy, and you'll definitely be on the short-list
+FA: تو روح RTM هستی برادر.
+
+دیدن چنین کاری در جریان پیشرفت لذت‌بخش است
+
+وقتی معامله‌گران فاند را راه بیندازیم، چند بورسیه به آکادمی می‌دهیم و تو قطعاً در لیست کوتاه خواهی بود
+
+### michal238_p8_11
+EN: Thank you IF, it means a lot to me. I learned all of this from you
+
+It's good to hear that I'm on the right track
+FA: ممنون IF، برایم خیلی ارزش دارد. همهٔ این‌ها را از تو یاد گرفتم
+
+خوب است می‌شنوم که در مسیر درستی هستم
+
+### michal238_p8_13
+EN: Simple setup on AU:
+FA: ستاپ ساده روی AU:
+
+### michal238_p8_14
+EN: Very nice. Looking for orders at the base of compression is fantastic.
+FA: خیلی خوب. گشتن دنبال سفارش‌ها در پایهٔ فشردگی فوق‌العاده است.
+
+### michal238_p8_15
+EN: Hi guys,
+
+Michał thanks for your, excellent as always, charts!
+
+I would like to ask you guys about advice (maybe I miss something). This
+ week I took a trade on GBPUSD (it is M30 chart). It looks familiar with
+ the situation from the last Michał's chart. After FTR engulf I placed
+my PO at the top of the compression zone. And the price just get through
+ the CP zone (reaching its bottom boundary) and after that it went in
+the participated direction.
+
+Could it be predicted? Or maybe I draw some zones wrongly? I would be thankful for any advice!:)
+FA: سلام بچه‌ها،
+
+Michał ممنون بابت چارت‌هایت که مثل همیشه عالی‌اند!
+
+می‌خواهم از شما راهنمایی بخواهم (شاید چیزی را از قلم انداخته‌ام). این هفته روی GBPUSD معامله گرفتم (چارت M30 است). با وضعیت آخرین چارت Michał آشنا به نظر می‌رسد. بعد از اینگالف FTR سفارش معلق‌ام را بالای ناحیهٔ فشردگی گذاشتم. و قیمت همین‌طور از ناحیهٔ CP رد شد (به مرز پایینی‌اش رسید) و بعد از آن در جهت مورد انتظار حرکت کرد.
+
+آیا می‌شد پیش‌بینی‌اش کرد؟ یا شاید بعضی ناحیه‌ها را اشتباه کشیده‌ام؟ بابت هر راهنمایی‌ای ممنون می‌شوم!:)
+
+### michal238_p8_16
+EN: Hey KKB,
+
+I hope you don't mind if I give you my view of it.
+
+I don't know if you tend to put limit orders in or if you were trading it manually.
+
+I zoomed into the zone you were looking at on the 1m and put my comments
+ on the chart I hope you find it helpful. Obviously hindsight is a
+beautiful thing but it does appear there was a relatively stress free
+entry.
+
+cheers
+
+kkb wrote: Hi guys,
+
+Michał thanks for your, excellent as always, charts!
+
+I would like to ask you guys about advice (maybe I miss something). This
+ week I took a trade on GBPUSD (it is M30 chart). It looks familiar with
+ the situation from the last Michał's chart. After FTR engulf I placed
+my PO at the top of the compression zone. And the price just get through
+ the CP zone (reaching its bottom boundary) and after that it went in
+the participated direction.
+
+Could it be predicted? Or maybe I draw some zones wrongly? I would be thankful for any advice!:)
+FA: سلام KKB،
+
+امیدوارم بدت نیاید اگر دیدگاهم را درباره‌اش بگویم.
+
+نمی‌دانم معمولاً سفارش لیمیت می‌گذاری یا دستی معامله می‌کردی.
+
+روی ناحیه‌ای که نگاه می‌کردی در 1m زوم کردم و نظراتم را روی چارت گذاشتم؛ امیدوارم برایت مفید باشد. البته نگاهِ بعد از ماجرا همیشه زیباست، ولی به نظر می‌رسد ورود نسبتاً بدون استرسی آنجا بوده.
+
+ارادتمند
+
+kkb نوشت: سلام بچه‌ها،
+
+Michał ممنون بابت چارت‌هایت که مثل همیشه عالی‌اند!
+
+می‌خواهم از شما راهنمایی بخواهم (شاید چیزی را از قلم انداخته‌ام). این هفته روی GBPUSD معامله گرفتم (چارت M30 است). با وضعیت آخرین چارت Michał آشنا به نظر می‌رسد. بعد از اینگالف FTR سفارش معلق‌ام را بالای ناحیهٔ فشردگی گذاشتم. و قیمت همین‌طور از ناحیهٔ CP رد شد (به مرز پایینی‌اش رسید) و بعد از آن در جهت مورد انتظار حرکت کرد.
+
+آیا می‌شد پیش‌بینی‌اش کرد؟ یا شاید بعضی ناحیه‌ها را اشتباه کشیده‌ام؟ بابت هر راهنمایی‌ای ممنون می‌شوم!:)
+
+### michal238_p8_17
+EN: Hi!
+
+Of course I don't mind. It is great to see you posting again :) Thank you.
+
+The situation you described is after the spike happened (engulf to the
+compression zone). It would be great 1:20 entry :D But my question was
+about placing PO order before the spike happened. Pedini in post #164
+said: "Looking for orders at the base of compression is fantastic." and
+I'm looking for some advice why my setup failed (I placed my order at
+the CP boundary).
+
+Best,
+
+Chris
+
+Eurotrash wrote: Hey KKB,
+
+I hope you don't mind if I give you my view of it.
+
+I don't know if you tend to put limit orders in or if you were trading it manually.
+
+I zoomed into the zone you were looking at on the 1m and put my comments
+ on the chart I hope you find it helpful. Obviously hindsight is a
+beautiful thing but it does appear there was a relatively stress free
+entry.
+
+cheers
+kkb wrote: Hi guys,
+
+Michał thanks for your, excellent as always, charts!
+
+I would like to ask you guys about advice (maybe I miss something). This
+ week I took a trade on GBPUSD (it is M30 chart). It looks familiar with
+ the situation from the last Michał's chart. After FTR engulf I placed
+my PO at the top of the compression zone. And the price just get through
+ the CP zone (reaching its bottom boundary) and after that it went in
+the participated direction.
+
+Could it be predicted? Or maybe I draw some zones wrongly? I would be thankful for any advice!:)
+FA: سلام!
+
+البته که بدم نمی‌آید. دیدن دوبارهٔ پست‌هایت عالی است :) ممنون.
+
+وضعیتی که توصیف کردی بعد از رخ‌دادن اسپایک است (اینگالف به ناحیهٔ فشردگی). ورود 1:20 عالی‌ای می‌شد :D ولی سؤال من دربارهٔ گذاشتن سفارش معلق قبل از رخ‌دادن اسپایک بود. Pedini در پست #164 گفت: «گشتن دنبال سفارش‌ها در پایهٔ فشردگی فوق‌العاده است.» و من دنبال راهنمایی‌ام که چرا ستاپم شکست خورد (سفارشم را روی مرز CP گذاشتم).
+
+ارادتمند،
+
+Chris
+
+Eurotrash نوشت: سلام KKB،
+
+امیدوارم بدت نیاید اگر دیدگاهم را درباره‌اش بگویم.
+
+نمی‌دانم معمولاً سفارش لیمیت می‌گذاری یا دستی معامله می‌کردی.
+
+روی ناحیه‌ای که نگاه می‌کردی در 1m زوم کردم و نظراتم را روی چارت گذاشتم؛ امیدوارم برایت مفید باشد. البته نگاهِ بعد از ماجرا همیشه زیباست، ولی به نظر می‌رسد ورود نسبتاً بدون استرسی آنجا بوده.
+
+ارادتمند
+kkb نوشت: سلام بچه‌ها،
+
+Michał ممنون بابت چارت‌هایت که مثل همیشه عالی‌اند!
+
+می‌خواهم از شما راهنمایی بخواهم (شاید چیزی را از قلم انداخته‌ام). این هفته روی GBPUSD معامله گرفتم (چارت M30 است). با وضعیت آخرین چارت Michał آشنا به نظر می‌رسد. بعد از اینگالف FTR سفارش معلق‌ام را بالای ناحیهٔ فشردگی گذاشتم. و قیمت همین‌طور از ناحیهٔ CP رد شد (به مرز پایینی‌اش رسید) و بعد از آن در جهت مورد انتظار حرکت کرد.
+
+آیا می‌شد پیش‌بینی‌اش کرد؟ یا شاید بعضی ناحیه‌ها را اشتباه کشیده‌ام؟ بابت هر راهنمایی‌ای ممنون می‌شوم!:)
+
+### michal238_p8_18
+EN: Well a level is just part of the equation the PA on the approach to
+that level is just as important. In Michal's example he show's the level
+ and the approach.
+FA: خب، یک سطح فقط بخشی از معادله است؛ PA در نزدیک‌شدن به آن سطح به همان اندازه مهم است. در مثال Michal او سطح و نزدیک‌شدن را نشان می‌دهد.
+
+### michal238_p8_19
+EN: After this simple and briliant answer I feel like a dumb :P
+ The CP I marked is a FTR, and I if I want to place PO order I should
+place my stop below this FTR, which will be the most safe place.
+
+Thank you ET! I don't know why I've broken the rule: place SL below/above FTR.
+
+Eurotrash wrote: Well a level is
+just part of the equation the PA on the approach to that level is just
+as important. In Michal's example he show's the level and the approach.
+FA: بعد از این جواب ساده و درخشان حس خنگی می‌کنم :P CP‌ی که علامت زدم یک FTR است، و اگر بخواهم سفارش معلق بگذارم باید استاپم را زیر این FTR بگذارم که امن‌ترین جا خواهد بود.
+
+ممنون ET! نمی‌دانم چرا قانون را شکستم: استاپ‌لاس زیر/بالای FTR بگذار.
+
+Eurotrash نوشت: خب، یک سطح فقط بخشی از معادله است؛ PA در نزدیک‌شدن به آن سطح به همان اندازه مهم است. در مثال Michal او سطح و نزدیک‌شدن را نشان می‌دهد.
+
+### michal238_p8_20
+EN: I agree with Eurotrash. I wouldn't set a PO in this place especially if it is mid-range setup like this one.
+
+If price is moving fast into the zone it won't turn immediately as IT's
+have to fill orders, so most of the time we well have opportunity to
+enter a trade
+
+after eng on retrace in LTF somtimes with better RR. What is more
+important than RR is that in this way you increase probability.
+
+AUDUSD trade was at extreme, and offered really good RR. DP that was
+located on edge of CP was in very good place - just above recent highs -
+ perfect for FO,
+
+and on RS flip so precise reaction at this level could be expected.
+
+SWAP/RS edit: it is M5
+FA: با Eurotrash موافقم. در این جا سفارش معلق نمی‌گذاشتم، مخصوصاً وقتی ستاپی وسط دامنه مثل این یکی باشد.
+
+اگر قیمت سریع به داخل ناحیه حرکت کند فوراً برنمی‌گردد چون IT‌ها باید سفارش‌ها را پر کنند، پس بیشتر اوقات فرصت خواهیم داشت وارد معامله شویم
+
+بعد از اینگالف در اصلاح روی LTF، گاهی با RR بهتر. چیزی که از RR مهم‌تر است این است که به این روش احتمال را بالا می‌بری.
+
+معاملهٔ AUDUSD در اکستریم بود و RR واقعاً خوبی می‌داد. DP که لبهٔ CP قرار داشت در جای خیلی خوبی بود - درست بالای سقف‌های اخیر - عالی برای FO،
+
+و روی فلیپ RS، پس می‌شد واکنش دقیقی در این سطح انتظار داشت.
+
+ویرایش SWAP/RS: این M5 است
+
+### michal238_p8_21
+EN: I was studying a lot lately. Thinking about decisions is a great way to see better logic in price movement.
+
+Here is my price reading session for DAX:
+
+I said that there are no highs (supply lvls) in orange area - so there
+is no opportunity ( for ITs) to make FO. They created FLAG at good price
+ level instead.
+FA: این اواخر زیاد مطالعه می‌کردم. فکر کردن دربارهٔ تصمیم‌ها راه عالی‌ای است برای دیدن منطق بهتر در حرکت قیمت.
+
+این هم جلسهٔ خواندن قیمت من برای DAX:
+
+گفتم در ناحیهٔ نارنجی هیچ سقفی (سطح عرضه) نیست - پس فرصتی (برای IT‌ها) برای FO زدن وجود ندارد. در عوض یک فلگ در سطح قیمتی خوبی ساختند.
+
+### michal238_p8_23
+EN: Here my thoughts on eurusd...do you agreed?
+FA: این هم نظر من دربارهٔ eurusd... موافقی؟
+
+### michal238_p8_24
+EN: Hi Redbullish
+
+Here is how I see it:
+FA: سلام Redbullish
+
+من این‌طور می‌بینمش:
+
+### michal238_p8_25
+EN: Yeah my idea was to trade the FO to the DP, probably with my SL hidden
+ behind the supply just above you have marked, let's see how price will
+approach tomorrow morning!
+FA: آره، ایده‌ام معاملهٔ FO به DP بود، احتمالاً با استاپ‌لاس پنهان‌شده پشت عرضهٔ درست بالای آن چیزی که علامت زده‌ای؛ ببینیم فردا صبح قیمت چطور نزدیک می‌شود!

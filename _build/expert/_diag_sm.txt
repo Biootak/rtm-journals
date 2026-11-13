@@ -1,0 +1,281 @@
+### smimon_p1_2 hash=ca75d400d0ea969410766e4027a51927b57a5c07 | echo
+paras en/fa: 2/2 | echo bigram: "روی LTF"
+lex.audit: echo
+---FA---
+تحلیل آزمایشی - UJ تایم‌فریم M30.
+
+خط زرد به نظر ناحیهٔ فشردگی می‌آید (هرچند چند جیب کوچک روی LTF باقی مانده). تازه وارد آن شده‌ایم و انتظار دارم قیمت به سمت دیگرش برود. برای ورودها روی RT به‌سمت منشأ اینگالف‌های بالاتر یا FTRای که اخیراً ساخته شده نگاه می‌کنم. مطمئن نیستم تا کدامش می‌رسد. روی LTF برای نشانه‌های برگشت در این نقاط مانیتور می‌کنم.
+---EN---
+Some attempted analysis - UJ M30.
+
+The yellow line appears to be compression (although there are some small pockets remaining on LTF). Having just broken into it, I would expect price to make it to the other side. I would look for entries on a RT to either the source of the engulfs higher up, or the FTR formed recently. I'm not sure which one it will make it up to. I will monitor LTF for signs of reversal at these points.
+### smimon_p10_244 hash=d80073aadd84ce278e3899573be832e99cb30c79 | echo
+paras en/fa: 2/2 | echo bigram: "همین حالا"
+lex.audit: echo
+---FA---
+این مثالی از منظوری است که دارم - این PO همین حالا روی EU فعال شد و چون اوردرهای تست‌نشدهٔ زیادی در سطحی که از رویش بازی می‌کردم بود، همین حالا آن‌قدر واکنش گرفته‌ام که می‌توانم کمی سود بگیرم و معامله را امن کنم. هر بار کار می‌کند، 80% وقت‌ها ;-)
+
+ببین می‌توانی بفهمی چرا PO را آنجا گذاشتم یا نه...
+---EN---
+This is an example of what I mean - this PO just kicked in on EU, and because there were plenty of untested orders in the level I was playing off, I've already got enough of a reaction to take some profit and make the trade safe. Works every time, 80% of the time;-)
+
+See if you can see why I put the PO there...
+### smimon_p10_246 hash=df8aef40aa7c9c1597535a08ac1a30fbf7afb19f | echo
+paras en/fa: 3/3 | echo bigram: "همین حالا"
+lex.audit: echo
+---FA---
+سلام Smimon، اینجاست،
+
+smimon نوشت: این مثالی از منظوری است که دارم - این PO همین حالا روی EU فعال شد و چون اوردرهای تست‌نشدهٔ زیادی در سطحی که از رویش بازی می‌کردم بود، همین حالا آن‌قدر واکنش گرفته‌ام که می‌توانم کمی سود بگیرم و معامله را امن کنم. هر بار کار می‌کند، 80% وقت‌ها ;-)
+
+ببین می‌توانی بفهمی چرا PO را آنجا گذاشتم یا نه...
+---EN---
+Hello Smimon, there is it,
+
+smimon wrote: This is an example of what I mean - this PO just kicked in on EU, and because there were plenty of untested orders in the level I was playing off, I've already got enough of a reaction to take some profit and make the trade safe. Works every time, 80% of the time;-)
+
+See if you can see why I put the PO there...
+### smimon_p11_255 hash=e64bb3d70b28fdaa2bd7553da6428a1855c98bf9 | numbers missing 1000
+paras en/fa: 9/9 | echo bigram: "یادم می‌آید"
+lex.audit: 
+---FA---
+thenakedtrader نوشت: فقط می‌خواستم به تو بگویم، Smimon، که خواندن پست‌هایت را دوست دارم. چیزی که واقعاً چشمگیر و الهام‌بخش می‌یابم، تعهدت به تریدینگ است - نتایج شروع کرده در چارت‌هایت دیده می‌شود. از زمانی که شروع به پست گذاشتن در RTM کردی تا جدیدترین پست‌هایت، می‌توانم پیشرفت عظیمی ببینم. چشمگیرتر از آن، تمایل تو به کمک به دیگران است.
+
+فقط چون بعضی از ما در پس‌زمینه می‌خزیم، به این معنا نیست که زحماتت را قدردانی نمی‌کنیم. مطمئنم نفرات زیادی هم هستند که سپاسگزارند.
+
+وقتی live می‌شوی موفق باشی (اگر نصف تو خوب بودم، live ترید می‌کردم!)
+
+با سلام،
+
+TNT
+
+ممنون برای حرف‌های مهربانت، واقعاً قدردانی می‌شود.
+
+یادم می‌آید وقتی اول کارم را رها کردم تا تریدینگ را شروع کنم، و واقعیت خیلی زود جا افتاد که هیچ سرنخی از کاری که می‌کردم نداشتم و به‌نظر نمی‌رسید چیزی در وب پیدا کنم که چندان کمکی کند. همه روش متفاوتی داشتند، این اندیکاتورها، یا این نوع supply و demand، volume profiling - من مدام عوض می‌کردم، هر چیزی را که زیر آفتاب بود امتحان کردم و نتوانستم چیزی حتی شبیه نتایج ثابت پیدا کنم. در مقطعی ناامید شدم که هرگز بتوانم به‌عنوان تریدر موفق شوم، یا اگر هم شوم، با لبهٔ آماری به سختی می‌گذراندم، به‌سختی بیشتر از ضررم برنده می‌شدم. روزهای تیره‌ای بود.
+
+دوستم در اواخر سپتامبر من را به RTM معرفی کرد و اولش مشکوک بودم - چیزهای خیلی زیادی را امتحان کرده بودم و فکر می‌کردم این هم فقط بیشتر از همان چیزهاست، چیزی که مردم از کارکردنش تعریف می‌کردند اما آخرش بی‌فایده از آب درمی‌آمد. با این حال ماندگار شدم، تا جایی که می‌توانستم ژورنال خواندم، در تاریخچه‌های چارت‌هایم برگشتم و markup پشت markup انجام دادم. یادم می‌آید چند ماه بعد، وقتی ناگهان شروع کردم به اینکه تا حدی بتوانم چارت‌ها را بفهمم، آن حس امید که واقعاً می‌توانم رویایم را محقق کنم و از دویدن در چرخهٔ نرخ رهایی پیدا کنم و با شرایط خودم ثروتمند شوم.
+
+اینجا آدم‌های دوستانه و کمک‌کنندهٔ زیادی هستند که حاضرند دانش را که هزاران ساعت برای جمع‌کردنش وقت گذاشته‌اند، به هیچ دلیل دیگری جز خیر عمومی رایگان بدهند، به‌طوری که احساس می‌کنم کمترین کاری که می‌توانم بکنم این است که سعی کنم همین کار را بکنم. دارم به انتهای بخش اصلی فرایند یادگیری نزدیک می‌شوم، اما هنوز اشتباهات زیادی می‌کنم و حدود 6 ماه مانده تا گرگ‌ها به در برسند، پس ترجیح می‌دهم چند هفتهٔ اضافه بگیرم تا واقعاً سعی کنم چیزها را درک کنم پیش از آن‌که پولم را روی میز بگذارم. می‌خواهم تا حد ممکن بدون استرس باشد
+---EN---
+thenakedtrader wrote: Just wanted to tell you, Smimon, that I love reading your posts. What I find really impressive and inspiring is your dedication to trading -the results are beginning to show in your charts now. From the time you started posting at RTM to your most recent posts, I can see a huge amount of progress. What is even more impressive is your willingness to help others.
+
+Just because some of us lurk in the background, doesn't mean we don't appreciate your efforts. I am sure there are plenty of others who are thankful too.
+
+Wishing you well when you go live ( if I was half as good as you, I would be trading live!)
+
+Cheers,
+
+TNT
+
+Thank you for the kind words, they're very much appreciated.
+
+I remember when I first quit work to start trading, and reality set in very quickly that I didn't have a clue what I was doing, and couldn't seem to find anything on the web that was of much help. Everyone had a different method, these indicators, or this type of supply and demand, volume profiling - I chopped and changed, tried everything under the sun, and couldn't get anything remotely resembling consistent results. I began to despair at one point that I'd ever be able to make it as a trader, or if I did, it would be scraping by on a statistical edge, barely winning more than I lost. They were dark days.
+
+My friend put my on to RTM at the very end of September, and at first I was sceptical -I'd tried so many other things, and I thought this was just going to be more of the same, something which people raved about working, but ended up useless. I stuck with it though, read as many journals as I could find, went back through my chart histories doing markup after markup. I remember a couple of months in, when I suddenly started being able to make sense of the charts to some degree, the feeling of hope that I was actually going to be able to fulfil my dream of getting out of the rate race, and make myself wealthy working on my own terms.
+
+There are so many friendly, helpful people on here, willing to give away knowledge they've spent 1000s of hours accumulating, for no reason other than the common good, that I feel it's the least I can do to try and do the same. I'm getting nearer to the end of the bulk of the main learning process now, but I'm still making a lot of mistakes, and I've got 6 months left or so before the wolves are at the door, so I'd rather just take an extra few weeks to really try and get to grips with things before sticking my cash on the line. I want it to be as stress-free as possible
+### smimon_p11_257 hash=cb5523a3979a8627276581423ac3ccc909b64ead | echo
+paras en/fa: 4/4 | echo bigram: "روی M5:"
+lex.audit: echo
+---FA---
+حرکت EJ بعد از ECB، چطور پیش رفت. این یکی را کاملاً نگرفتم، یک قدم عقب بودم - هنوز وقتی کندل‌ها همه‌جا می‌پرند تحلیل بی‌طرف برام سخت است، اما دارم بهتر می‌شوم.
+
+نمای کلی H1:
+
+سطوح کلیدی روی M5:
+
+چگونگی باز شدنش روی M5:
+---EN---
+EJ move post ECB, how it played out. Didn't quite catch this one, I was 1 step behind - I still find it hard to analyse dispassionately when candles are jumping around all over the place, but I'm getting better.
+
+H1 overview:
+
+Key levels on M5:
+
+How it unfolded M5:
+### smimon_p12_277 hash=68593537e6ffe4b334fc18234b7638aed94833db | numbers missing 1000
+paras en/fa: 1/1 | echo bigram: ""
+lex.audit: 
+---FA---
+فکر نمی‌کنم ارزش تلاش کردن را داشته باشد رفیق، وقتی در روش ماهر شوی، کمتر از 1 دقیقه طول می‌کشد ناحیه‌ها را پیدا و علامت بزنم و PO بگذارم. به‌علاوه این‌که هزاران ظرافت وجود دارد که مغزت در کسری از ثانیه ارزیابی می‌کند و بیانش در کد حتی تلاش برایش هم خیلی طول می‌کشد.
+---EN---
+I wouldn't think it's worth the effort to even try pal, once you get adept at the method, it takes less than 1 minute to find and mark zones, and set a PO. Plus there are a 1000 nuances to what your brain can assess in a fraction of a second that would take a very long time to even attempt to express in code.
+### smimon_p14_329 hash=49d90edcb311f7a75257134f4282fa2e3448d403 | echo
+paras en/fa: 4/4 | echo bigram: "جزئیات تحلیل"
+lex.audit: echo
+---FA---
+واو....معاملهٔ عالی...
+
+Smimon، چه این معامله را خیلی روزها پیش پیش‌بینی کرده بودی یا امروز گرفتی.
+
+هر روز چارت‌ها را چطور اسکن می‌کنی؟ فرض کن 12 جفت را زیر نظر داری. آیا ستاپ‌های بالقوه را shortlist می‌کنی (4 یا 5 تا) و بعد با جزئیات تحلیل می‌کنی، یا هر جفت را یکی‌یکی با جزئیات تحلیل می‌کنی؟
+
+ذهنم با overload چارت زیادی شلوغ است.....
+---EN---
+Wow....great trade...
+
+Smimon, whether you anticipated this trade many days ago or caught this one today.
+
+How do you scan the charts daily? Assume that you watch 12 pairs. Do you shortlist the potential setups (4 or 5) and then analyze in detail or analyze every pair in detail one by one?
+
+My mind is cluttered with too much chart overload.....
+### smimon_p15_359 hash=3d66e14a6b740972bc73aa98d2b1511dae17dcba | echo
+paras en/fa: 3/3 | echo bigram: "swing high/low"
+lex.audit: echo
+---FA---
+smimon نوشت: رایج‌ترین اشتباهی که اینجا می‌بینم.......
+
+سلام smimon،
+
+اگر از یک swing high/low به چپ نگاه کنیم، همیشه چند FL پیدا می‌کنیم که نزدیک swing high/low ما در چارت m1 روی هم چیده شده‌اند، پس کدام FL را در نظر می‌گیریم؟
+---EN---
+smimon wrote: The most common mistake I see on here.......
+
+Hi smimon,
+
+if we look left from a swing high/low, we will always find several FLs which stacks near our swing high/ low in m1 chart, then which FL we consider?
+### smimon_p16_389 hash=ab59fb2fd24132a595f7e169f9e75eb9d1f181e8 | echo
+paras en/fa: 1/1 | echo bigram: "صادقانه بگویم،"
+lex.audit: echo
+---FA---
+آه، چیز compression معنا پیدا کرد. صادقانه بگویم، من به آن سطح برای شورت نگاه می‌کردم، اما سطح بالاتر را انتخاب کردم چون امن‌ترین به نظر می‌رسید. صادقانه بگویم، سعی نمی‌کنم برای نقطه‌های تصمیم به M1 نگاه کنم، اما در این مورد سؤال جالبی پیش آمد. با این حال، می‌گویم compression/FTR تو به‌خوبی توضیح می‌دهد که چرا آن نقطهٔ چرخش بود.
+---EN---
+Ah, the compression thing makes sense. To be honest, I was looking at that level to go short, but opted for the highest level, as it seemed like the safest spot. To be honest, I try not to look at M1 for decision points, but it raised an interesting question in this instance. However, I'd say your compression/FTR makes good sense as to why that was the turning point.
+### smimon_p17_423 hash=ca38e1ea02be61abc66dc9075674d095a8dab80f | numbers missing 1000, 500
+paras en/fa: 3/3 | echo bigram: "یاد بگیرم"
+lex.audit: 
+---FA---
+smimon نوشت: برای امروز تمام، چند معاملهٔ خوب برای ساختن اعتمادبه‌نفس. امروز 60% سود حساب زدم، پس این کافی است. این واقعاً سناریوی ایده‌آل است - همه‌چیز تمام و پیچیده‌شده برای روز در سشن 0730 - 0930.
+
+وای... 60% سود؟ مرد داری می‌کشی‌اش رفیق.
+
+شانسش هست که یاد بگیرم چطور پول/پوزیشن را مدیریت می‌کنی؟ مثل چند لات برای هر اکوییتی که داری وارد می‌کنی؟ شخصاً من 0.1 لات برای هر 000 استفاده می‌کنم و 00 وقتی تهاجمی. اما دوست دارم یاد بگیرم چطور برای حداکثر سود بهینه‌اش کنم.
+---EN---
+smimon wrote: Done for the day, good confidence building couple of trades. Hit 60% account gain for today, so that'll do. This is the ideal scenario really - be all done and wrapped up for the day in the 0730 - 0930 session.
+
+Holy... 60% gain? You are smoking, bro.
+
+Any chance to learn how you manage money/ your position? Like how many lot to entry per equity you have? Personally, I use 0.1 lot per $1000, & $500 when aggressive. But would love to learn how to optimize it for maximum gain.
+### smimon_p18_437 hash=dafca243821686483d94eea65a1d35a6ad973c81 | echo
+paras en/fa: 3/3 | echo bigram: "کافی است."
+lex.audit: echo
+---FA---
+ممنون برای پذیرفتن درخواستم!
+
+بله، ستاپ‌های با 2R یا بیشتر خیلی بهترند. گرفتن همهٔ ستاپ‌های قابل‌معامله کاملاً دیوانه‌وار است و استراتژی بلندمدت خوبی نیست. چند تای واقعاً واضح با 2R+ کافی است. اگر طبق تحلیلت خیلی زیاد بود، فقط محدودش کن به 10 کافی است.
+
+دوباره ممنون، Smimon! مشتاقانه منتظر می‌مانم.
+---EN---
+Thanks for accepting my request!
+
+Yes, setups with 2R or more is much better. Getting all trade-able setup is pure insane and not a great long term strategy. Really clear ones with good 2R+ is more than enough. If there are too many as per your analysis, just lock it to 10 would be sufficient.
+
+Thanks again, Smimon! I'll be waiting eagerly.
+### smimon_p19_464 hash=e9daa08faf7adbb929ea382a7dd58873e742d271 | echo
+paras en/fa: 1/1 | echo bigram: "سطح بالاتر"
+lex.audit: echo
+---FA---
+بچه‌ها یک تحلیل کوچکی از آن تصویر اول از ترد RTM در FF کردم، لطفاً جایی که اشتباه می‌بینم اصلاحم کنید. چیزی که نمی‌فهمم این است چطور می‌توانی ورودهای این‌قدر دقیق داشته باشی وقتی قیمت می‌تواند - مثل این مورد - به سطح بالاتر فیک بزند. آیا فقط چک می‌کنیم که در سطح بالاتر Quasimodo هست یا نه؟
+---EN---
+Guys I made a little analysis of that first picture from FF RTM thread, please correct me where I see it wrong. What I dont get is how can you have such exact entries when prize can - like in this case fake to upper level like that. Do we simply check the level above whether there is Quasimodo?
+### smimon_p21_514 hash=ad0a2160b43c0bd4b6fb11f258d7fb9a17942e40 | numbers missing 100%
+paras en/fa: 6/6 | echo bigram: "روایت‌های خنثی"
+lex.audit: 
+---FA---
+سلام Smimon،
+
+در چند نکته سخت‌گیر خواهم بود، به چند دلیل، چون درس کلی تو (کم‌وبیش یک درس FTR) احساسات متضادی به من می‌دهد (بعضی را در علامت‌گذاری‌ات پوشش داده‌ای، اما می‌خواهم ظرافت کل ماجرا را برجسته کنم): 1. روایت‌های خنثی من طرفدار روایت‌های خنثی در معامله هستم تا منعطف و باز نسبت به یک محیط پویا و پیچیده بمانیم و این کمک می‌کند سوگیری تأییدِ مرتبط با کلماتی که می‌توانند دلالت منفی یا خوش‌بینی بی‌محابا داشته باشند کم شود، یعنی برچسب‌زدن نقاط قیمت به «مهم» در برابر «غیرمهم» یا «درست» در برابر «غلط». (من هم در خلاف آنچه موعظه می‌کنم گناهکارم، و همین ما را به قصه‌گوهای خوب در برابر ربات‌ها تبدیل می‌کند!) در واقع می‌گویم همهٔ نقاط قیمت/نوسان‌ها/اینگالف‌ها/سطوح/نواحی/خطوط افقی می‌توانند در بافت خودشان مهم شوند (همان‌طور که درست برجسته کردی). اما بله با تو موافقم، در بافت FTR چیزی که توصیف کردی درست است.
+
+2. چه چیزی FTR می‌سازد؟ بله، درس تو دربارهٔ FTR از نظر منطقی سالم است. اما تنها دلیلی که FTR در تصویر تو FTR می‌شود این است که بعداً آن RTای که «سطح مهم نیست» نامیده‌ای را اینگاله می‌کند. اما می‌توانم بافتی را که می‌خواهی در مثالت نشان بدهی ببینم و پیام در یک روش آکادمیک بسیار ساده درست به نظر می‌رسد که با مقالهٔ FTR کاملاً هم‌راستاست، پس برای دیدگاهت آفرین، تازه‌کننده است.
+
+3. ظرافت خارج از دامنهٔ درس تو، اما نکتهٔ مهمی برای طرح‌کردن؛ در تجربهٔ من، این سطوح غیرمهمی که شناسایی کرده‌ای، وقتی اینگاله شوند، خیلی وقت‌ها فوراً مقاومت (حمایت) می‌سازند که در نمودارهای رنگی قابل‌تصویر دقیق نیست. ساختار خیلی ظریف است چون 1. هر جفت شخصیت خودش را دارد، 2. وقتی یک معامله‌گر ناحیه را با فیتیله‌ها و دیگری فقط با بدنه‌ها می‌کشد، به تعریف چه می‌شود؟ و 3. وارد قلمروِ این می‌شود که FTR چیست در برابر FL و چطور آن را کد‌گذاری کنیم؟ ژورنالم را نگاه کن، بیشتر معامله‌های «بهترین» من بلافاصله بعد از شکل‌گرفتن همین ساختارهای قیمت گرفته شده‌اند. اگر می‌خواهی از آن سود ببری، تا حدی مهم است
+
+فقط مراقبم چون بعضی تازه‌واردها ممکن است برچسب‌گذاری تو را در همهٔ شرایط ۱۰۰٪ حقیقت بگیرند، درست یا غلط، و بعد آن اطلاعات را در آینده کنار بگذارند در حالی که در واقع می‌توانست به معامله‌شان کمک کند اگر آن را بپذیرند و به‌عنوان فرصت معاملاتی ثانویه استفاده کنند و شکل‌گیری FTR را برای معاملهٔ بعدی نگه دارند وقتی قیمت برمی‌گردد... FTR بدون بقیهٔ ابزارهای موجود در جعبه‌ابزارمان به‌تنهایی خیلی بدوی است (همان‌طور که مهربانانه اشاره کردی:) قیمت چطور از سطح خارج شد، چطور رسید، از کجا آمد، به کجا می‌رود، روی چه تایم‌فریم‌هایی، در چه ساعتی از روز، با چه مدیریت ریسکی، و با چه تجربه‌ای در مدیریت معامله *نفس عمیق می‌کشد*
+
+من اغلب باید به خودم یادآوری کنم که بازارها سیستم‌های بسیار پیچیده‌ای هستند که نمی‌شود ساده‌شان کرد به جملات if/then تا همیشه در همهٔ شرایط گذشته و آینده ۱۰۰٪ درست باشند.
+---EN---
+Hi Smimon,
+
+I am going to be a stickler here for a few of reasons as your overall lesson (An FTR lesson more or less) gives me mixed emotions(some of which you have already addressed in your markup, but I do want to highlight the nuance of it all): 1. Neutral narratives I am a big fan of neutral narratives when it comes to trading, to remain flexible and open to a dynamic and complex environment and it helps to minimize confirmation bias associated with words which can have negative connotations or reckless optimism i.e. labeling price points as 'important' vs 'not-important' or 'correct' vs 'incorrect'. (I am guilty of doing the opposite of what I am preaching here, that's what makes some of us good story tellers vs robots!) In fact, I would argue that all price points/swings/engulfs/levels/zones/horizontal lines can be made important in their own context (as you have so rightly highlighted). But yes I agree with you, in the context of FTR what you have described is correct.
+
+2. What makes an FTR? Yes your lesson on FTR is logically sound. However, the only reason why an FTR becomes so in your illustration is because it goes on to engulf the RT you have labelled as 'not an important level'. But I can see the context you are trying to portray in your example, and the message rings true in a very simplistic academic way, which aligns quite well with the FTR article, so kudos for your take, it is refreshing.
+
+3. Nuance Outside of the scope of your lesson, but an important point to raise; in my experience, these not-important levels you have identified, once engulfed, very often form immediate resistance (support), that cannot be portrayed accurately in paint diagrams. The structure is very nuanced because 1. each pair has its own personality, 2. what happens to the definition when one trader draws a zone using the wicks and the other only uses the bodies? and 3. it gets into the territory of what is an FTR vs a FL and how do we codify that? Have a look through my journal and you will see most of my 'best' trades are taken immediately after these price structures form. Somewhat important if you want to profit from it
+
+I am just mindful as some beginners might take your labeling as 100% fact in all situations, true or false, and then discount that information in the future when it could actually assist their trading to acknowledge it, and use it as a secondary trading opportunity, and saving the forming of the FTR for another trade when price does come back... An FTR is very primitive on its own without the rest of the tools in our kit though (As you kindly pointed out:) How price left the level, how it arrived, where it came from, where its going to, on what time frames, at what time of the day, using what risk management, and experience in trade management *takes a deep breathe*)
+
+I often have to remind myself that markets are very complex systems that cannot simply be coded to if/then statements to be 100% correct all of the time, in all past and future conditions.
+### smimon_p21_515 hash=04f86adee6d84b5aad64c608fc0f9b91f69ea80f | numbers missing 1000
+paras en/fa: 11/11 | echo bigram: "PAZ مقیاس"
+lex.audit: 
+---FA---
+ممنون از نظر عالی‌ات، کاملاً موافقم.
+
+وقتی داشتم نمودارهای قبلی را می‌گذاشتم به ذهنم رسید که این یک ساده‌سازی فاحش از نحوهٔ واقعی کارکرد بازار است و قصد من این نبود که موارد بالا را به‌عنوان قانون تغییرناپذیر بازارها بیان کنم — اما بعد، هر درسی در Markepedia هم همین‌طور است.
+
+نظریه‌ای که این‌جا در RTM آموزش داده می‌شود در راستای «اگر بازار یک مدل کامل بود، این‌طور باید رفتار کند» است. بعد خودت درمی‌یابی لایه‌های بسیار ظریف و ریز روی همهٔ بلوک‌های پایه‌ای هست که تسلط بر آن‌ها همان چیزی است که هزاران ساعت چارت‌خوانی می‌طلبد و به تو اجازه می‌دهد از «معامله‌گر توانا اما ناسازگار» به «معامله‌گر سازگار و بسیار سودده» بپری.
+
+با این حال، در میان ساده‌سازی‌ها، باور دارم نمودار دوم من ساده‌سازیِ مفیدتری نسبت به اولی است و اگر تازه‌واردی بخواهد دقیقاً به یک مدل قیمت پایبند بماند، با این یکی بهتر خواهد بود.
+
+همان‌طور که می‌گویی، بازار یک موجودیت ذاتاً پیچیده است. تنها راهی که می‌توانیم شروع به فهمیدنش کنیم این است که مجموعه‌ای از قواعد داشته باشیم که *بیشتر* اوقات درست باشند. بعد باید یاد بگیریم در چه شرایطی ممکن است *نادرست* باشند، با به‌کارگیری مکرر و مطالعهٔ موارد شکستشان و تلاش برای فهمیدن *چرا* شکست خوردند از نظر رفتار ITs که نقدینگی می‌سازند تا پوزیشن‌های بزرگ پر شوند.
+
+هر مقیاسی PAZ دارد. ما یا روی لبه‌هایمان یا در میانهٔ یک PAZ در هر مقیاس در هر زمان مشخص هستیم. در هر مقیاس هم‌زمان هم «از کجا آمده‌ایم» و هم «احتمالاً به کجا می‌رویم» در بازی است. FTR و PAZ مقیاس کوچک‌تر به ما «چطور به مقصد محتمل می‌رسیم» را نسبت به PAZ مقیاس بزرگ‌ترمان می‌دهند. گاهی یک اینگالف اتفاق می‌افتد که روزها یا هفته‌ها باز نمی‌شود، تا وقتی قیمت همهٔ راه را تا سمت مخالف PAZ روی همان مقیاسی که روی آن شکل گرفته RT می‌کند. گاهی قیمت فقط یک RT کم‌عمق می‌سازد. گاهی باور می‌کنی اینگافی دیده‌ای، اما بعد از اجرای خیلی بیشترِ حرکت قیمت مشخص می‌شود که فقط FO بوده. گاهی هم در همان مقیاس و هم‌زمان اینگالف‌های متضادی به‌نظر می‌رسند که هم‌زمان در بازی‌اند. گاهی حرکت قیمت جدیدی بازی می‌شود که فرض قبلی‌ات را باطل می‌کند و باید به‌اندازهٔ کافی منعطف باشی که زود نظرت را عوض کنی — چسبیدن به یک فرض معیوب در برابر شواهد متناقض دستورالعملی برای فاجعه است.
+
+واقعاً، می‌تواند برای تازه‌واردی که بخواهد آن را درک کند یک کابوس تمام‌عیار باشد، همان‌طور که می‌دانیم، به همین دلیل باید از یک مدل ساده‌شده شروع کنیم و استثناها و ظرافت‌ها را از آن نقطه بیرون بکشیم.
+
+همان‌طور که می‌دانیم، هرچه از لبهٔ PAZ در یک مقیاس مشخص دورتر باشی، احتمال اینکه قیمت به‌صورت منطقاً سازگار رفتار کند کمتر است. هرچه به لبه‌های PAZ نزدیک‌تر می‌شوی و این را هم در نظر می‌گیری که قیمت چطور نزدیک شده، چه اینگالف‌هایی در بازی‌اند و غیره، احتمال اینکه بتوانی در یک سطح ورود موفقی بگیری به‌شدت زیاد می‌شود — تاریکی شروع به کانونی‌شدن می‌کند. هرچه مقیاس لبهٔ PAZ بزرگ‌تر باشد، کانونی‌شدن تیزتر و احتمال معاملهٔ موفق از آن سطح بالاتر است.
+
+با گذر زمان، کسی درک می‌کند (یا من حداقل درک کردم) که 99% مواقع بهترین کار در بازار انتظار کشیدن است. منتظر بمان تا قیمت به سطحی برسد به همان شیوه‌ای که انتظار داری، وقتی تا حد ممکن پیش‌شرط‌های «آیا این معامله احتمال موفقیت دارد» برقرار شده‌اند. پیش‌شرط‌ها شامل، ولی محدود به: - آیا قیمت از یک تارگت معتبر دور می‌شود؟ - آیا اینگالف حمایبی در بازی هست؟ - آیا FTAای داشته‌ای که از سطح HTF پایین آمده و روی LTF اینگاله شده؟ - آیا این FTB به این سطح است؟ - آیا این عمیق‌ترین سطح RT ممکن روی این مقیاس است؟ - آیا قیمت می‌تواند این سطح را FO کند، و اگر بله، تا کجا FO می‌کند؟ - چطور به سطح نزدیک شدیم؟ - مقیاس این سطح چیست؟ - آیا خبر پرنوسان بالایی در راه است؟ - آیا PA ردکنندهٔ LTFای از این سطح می‌بینم که ورود سفارش‌های مخالف را تأیید کند؟ - آیا confluence‌ای از SR مهم نزدیک MPL این ناحیه هست؟
+
+لیست بلندی است و احتمالاً این لیست جامع نیست، اما فقط وقتی همه‌چیز در نظر گرفته شود می‌توانی شروع کنی به رسیدن به نرخ برد بالا.
+
+به هر حال، کمی اینجا به درازا کشید. خوشحالم که ازت خبر گرفتم رفیق، لطفاً آزاد باش هرچه این‌جا گفتم را هم رد/نقد کنی، بحث راهی است برای یادگیری و پالایش ایده‌هایمان!
+---EN---
+Thank you for the excellent comment, I agree completely.
+
+It did occur to me as I posted the previous diagrams that this was a gross over-simplification of how the market actually works, and it was not my intent to state the above as an immutable law of the markets - but then, every lesson in the Markepedia is along the same lines.
+
+The theory taught here on RTM is along the lines of "If the market was a perfect model, this is how it should behave". You then go on to realise there are layers and layers of subtlety and nuance on top of all the basic building blocks, the mastering of which is what takes 1000s of hours of chart time, and enables you to make the leap from "competent but inconsistent trader" into "consistent and highly profitable trader".
+
+However, as over-simplifications go, I believe that my second diagram is a much more useful over-simplification than the first one, and if a beginner were to adhere religiously to one price model they would be better served by using this.
+
+As you say, the market is an inherently complex entity. The only way we can begin to make sense of it is by having a set of rules which should hold true *most* of the time. We then have to learn under what conditions they might *not* hold true, by repeated application and study of when they failed, and trying to consider *why* they failed in terms of the behaviour of ITs creating liquidity to fill large positions.
+
+Every scale has PAZ. We are either at the edges or in the middle of a PAZ on every single scale at any given time. We have a "where we are coming from" and "where we are probably headed to" in play on every scale at the same time. The smaller scale FTR and PAZ give us a "how we are going to get to the likely destination" in terms of our larger scale PAZ. Sometimes an engulf happens, which does not play out for days or weeks, until price has RT'd all the way back to the opposite side of the PAZ on the scale on which it formed. Sometimes price only makes a shallow RT. Sometimes you believe you've seen an engulf, but it turns out to be a FO only after a lot more price action has played out, and confirms it as such. Sometimes you have what appear to be opposing engulfs in play at the same time on the same scale. Sometimes new price action plays out which invalidates your previous assumption, and you must remain flexible enough to change your mind quickly - sticking to a flawed assumption in the face of conflicting evidence is a recipe for disaster.
+
+Really, it can be an utter nightmare for a beginner to wrap their heads around as we know, which is why we must start from a simplified model, and extrapolate exceptions and nuances from that point.
+
+As we know, the further you are from a PAZ edge on any given scale, the lower the probabilities that price is going to behave in a logically consistent manner. As you get closer and closer to the edges of a PAZ, and factor in how price approached, what engulfs are in play etc, then the probabilities of you being able to take a successful entry at a level increase greatly - the fuzziness begins to come more sharply into focus. The greater the scale of the PAZ edge, the sharper the focus and the higher the probability of a successful trade from the level.
+
+Over time, one realises (or I did at least), that 99% of the time the best thing to do in the market is wait. Wait until price arrives at a level in the manner you expect, when as many pre-conditions of "is this trade likely to be successful" are met. Pre-conditions include, but not limited to: - is price moving away from a valid target? - is there a supporting engulf in play? - have we had a LTF engulf of FTA coming off a HTF level? - is this FTB to this level? - is this the deepest possible RT level on this scale? - can price FO this level, and if so, where can it FO to? - how did we approach the level? - what is the scale of this level? - is there any high volatility news approaching? - can I see any LTF rejection PA from this level to confirm opposing orders going in? - is there a confluence of important SR near MPL of this zone?
+
+The list is large, and this list is probably not exhaustive, but only when all things are taken into account can you start hitting high win rates.
+
+Anyway, I've rambled on a bit here Good to hear from you pal, please feel free to disagree/critique anything I've said here also, debate is how we learn and refine our ideas!
+### smimon_p25_625 hash=dbe5bd3dbf3c6997d9cb1cdc55af2dc9699b484f | echo
+paras en/fa: 1/1 | echo bigram: "فکر می‌کنم"
+lex.audit: echo
+---FA---
+ممنون از پاسخ. فکر می‌کنم این کاملاً معنا پیدا می‌کند، مخصوصاً بخش مربوط به FTR. در حال حاضر روی FLها تمرکز می‌کنم و امتحانشان می‌کنم و احساس می‌کنم FLهایی که قبلاً کار کرده‌اند نقطهٔ شروع عالی برای خواندن چارت هستند. فکر می‌کنم روش تو در نزدیک‌شدن به FTRها واقعاً جالب است. واکنش قیمت در این سطوح را بررسی خواهم کرد.
+---EN---
+Thank you for the reply. I think this makes perfect sense especially the part with the FTR. I am focusing and trying out FLs atm and i feel like FLs that already worked are a great starting point to read a chart. I think the way you approach FTRs is really interesting. I will look into the price reaction at this levels.
+### smimon_p28_684 hash=08b0941ea05a38c1160b8f6e9f6187859badf9d0 | echo
+paras en/fa: 2/2 | echo bigram: "نسخه‌های آنلاین"
+lex.audit: echo
+---FA---
+این‌ها ساختهٔ خودم هستند؛ من ایندکس‌های ترکیبی را در MT4 به‌صورت چارت‌های آفلاین تولید می‌کنم. همهٔ این‌ها را با جزئیات زیاد در همین ژورنال آورده‌ام و یک ترد اختصاصی هم جایی در همین‌جا هست.
+
+اگر فقط می‌خواهی نسخه‌های آنلاین ایندکس‌های میانگین سادهٔ ارزها را ببینی، fxdata.net/ نسخه‌های آنلاین دارد.
+---EN---
+They are my own creation, I generate composite indexes in MT4 as offline charts. I've been through all this in some detail in this journal, and there is a dedicated thread somewhere on here also.
+
+If you just want to see straightforward currency average indexes, fxdata.net/has online versions.
+### smimon_p7_169 hash=d5ebab37287e9cc8205a1e8b4a5d9e91c2577b9b | echo
+paras en/fa: 2/1 | echo bigram: "خوب نظر"
+lex.audit: echo
+---FA---
+روی EU روی سطحی که خوب به نظر می‌رسید PO گذاشتم - یک FL تازه روی SR قابل‌قبول داریم که از آن یک جهش قوی قشنگ داشتیم. تارگت جاه‌طلبانهٔ QM بالای آن. احتمالاً جواب نمی‌دهد، اما سطح خوب به نظر می‌رسد، و حساب‌های دمو برای چی هستند اگر نه آزمایش
+---EN---
+Setting a PO at a nice looking level on EU - we've got a fresh FL on top of decent SR, out of which we had a nice strong surge. Ambitious target of QM above. Probably won't work, but the level looks decent, and what are demo accounts for if not experimentation
+
+Probably should have taken the short at my GU long target level also, turned out to be a decent one. I'm still not too good at quickly switching from one direction to another.

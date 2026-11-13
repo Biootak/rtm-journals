@@ -1,0 +1,106 @@
+{
+ "pages": 425,
+ "posts": 9899,
+ "byKind": {
+  "untranslated-para": 12,
+  "lost-token": 4
+ },
+ "findings": [
+  {
+   "page": "fulljournal-p1",
+   "id": "fulljournal_p1_3",
+   "kind": "untranslated-para",
+   "detail": "p4: Market Maker price action"
+  },
+  {
+   "page": "if-p105",
+   "id": "if_p105_2",
+   "kind": "untranslated-para",
+   "detail": "p20: Ahmad Shamlu (1925-2000, Tehran, Iran)"
+  },
+  {
+   "page": "if-p43",
+   "id": "if_p43_17",
+   "kind": "untranslated-para",
+   "detail": "p3: *LUK IN $300M DEAL TO LET FXCM CONTINUE NORMAL OPS: CNBC"
+  },
+  {
+   "page": "if-p43",
+   "id": "if_p43_17",
+   "kind": "untranslated-para",
+   "detail": "p4: *LEUCADIA GIVE FXCM $300M IN FINANCING CNBC"
+  },
+  {
+   "page": "if-p70",
+   "id": "if_p70_4",
+   "kind": "lost-token",
+   "detail": "approachPedini (source p1)"
+  },
+  {
+   "page": "if-p87",
+   "id": "if_p87_10",
+   "kind": "lost-token",
+   "detail": "inIfmyante (source p1)"
+  },
+  {
+   "page": "jurij-p12",
+   "id": "jurij_p12_9",
+   "kind": "lost-token",
+   "detail": "You (source p5)"
+  },
+  {
+   "page": "jurij-p12",
+   "id": "jurij_p12_10",
+   "kind": "lost-token",
+   "detail": "You (source p5)"
+  },
+  {
+   "page": "lespaul-p1",
+   "id": "lespaul_p1_14",
+   "kind": "untranslated-para",
+   "detail": "p1: FLAG LIMIT HOMEWORK"
+  },
+  {
+   "page": "salivan-p1",
+   "id": "salivan_p1_1",
+   "kind": "untranslated-para",
+   "detail": "p45: RALLY BASE DROP:"
+  },
+  {
+   "page": "salivan-p14",
+   "id": "salivan_p14_16",
+   "kind": "untranslated-para",
+   "detail": "p9: Decisions, Price Action, Symmetry and more"
+  },
+  {
+   "page": "salivan-p20",
+   "id": "salivan_p20_1",
+   "kind": "untranslated-para",
+   "detail": "p8: Theodore John Kaczynski, Ph.D"
+  },
+  {
+   "page": "salivan-p20",
+   "id": "salivan_p20_1",
+   "kind": "untranslated-para",
+   "detail": "p19: - Orson Scott Card"
+  },
+  {
+   "page": "salivan-p20",
+   "id": "salivan_p20_1",
+   "kind": "untranslated-para",
+   "detail": "p24: - (George R.R. Martin, A Storm of Swords)"
+  },
+  {
+   "page": "salivan-p20",
+   "id": "salivan_p20_1",
+   "kind": "untranslated-para",
+   "detail": "p30: Human All Too Human, Man in Society, Aphorism 303 (1878)"
+  },
+  {
+   "page": "salivan-p38",
+   "id": "salivan_p38_11",
+   "kind": "untranslated-para",
+   "detail": "p1: «Free Order Flow»"
+  }
+ ]
+}

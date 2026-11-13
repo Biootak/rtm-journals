@@ -1,0 +1,307 @@
+### ftrpaz_p1_1
+EN: I´ll just start this one now. Here are a few FTR PAZ´s. I´d like to know. Price broke into the lower PAZ, therefore we expect price to reach the opposite FTR (lowest purple box). However, in this case price already reached the opposite side of the PAZ before it came back where we´d enter short.
+
+If that´s the case are we still considering a trade here becasuse price already reached the opposite side. In this case it worked, but I´ve noticed oftentimes it´s not working out then.
+FA: همین الان این یکی را شروع می‌کنم. این هم چند FTR PAZ. می‌خواهم بدانم: قیمت به داخل PAZ پایینی شکست، بنابراین انتظار داریم قیمت به FTR مقابل برسد (پایین‌ترین باکس بنفش). با این حال، در این مورد قیمت پیش از آنکه به جایی برگردد که ما در آن پوزیشن فروش می‌گرفتیم، از قبل به سمت مقابل PAZ رسیده بود.
+
+اگر این‌طور است، آیا باز هم اینجا معامله را در نظر می‌گیریم، چون قیمت قبلاً به سمت مقابل رسیده است. در این مورد جواب داد، اما بارها دیده‌ام که در چنین شرایطی دیگر جواب نمی‌دهد.
+
+### ftrpaz_p1_2
+EN: This is going to turn out to be an "AHA" moment for some. This thread is going to be powerful. Thanks for starting this for everyone. Also if your an overachiever look into IFs videos on the FTR trade as well as the Classroom section.
+FA: این برای بعضی‌ها یک لحظهٔ «آها» از آب درمی‌آید. این تاپیک قرار است قدرتمند باشد. ممنون که این را برای همه شروع کردی. ضمناً اگر اهل مایه گذاشتن بیش از حد معمول هستی، ویدئوهای IF دربارهٔ معاملهٔ FTR و همچنین بخش Classroom را هم ببین.
+
+### ftrpaz_p1_3
+EN: Christian wrote: I´ll just start this one now. Here are a few FTR PAZ ´s. I´d like to know. Price broke into the lower PAZ, therefore we expect price to reach the opposite FTR (lowest purple box). However, in this case price already reached the opposite side of the PAZ before it came back where we´d enter short.
+
+If that´s the case are we still considering a trade here becasuse price already reached the opposite side. In this case it worked, but I ´ve noticed oftentimes it´s not working out then.
+
+Hi christian, from my view on the chart the PAZ you have drawn is okay, but price already went through and didn't really give us much of an opportunity to trade it. The entry you have marked up is just price reacting to a flag on the lower TF. This is my view on the charts.
+
+There are other important PAZs further to the left which have yet been enguled, and this is what caused price to stop and flag, extend these lines on your chart and see how price reacts in the future.
+
+I hope this is clear enough!
+
+Peds
+
+PS great initiative starting this thread!
+FA: Christian نوشت: همین الان این یکی را شروع می‌کنم. این هم چند FTR PAZ. می‌خواهم بدانم: قیمت به داخل PAZ پایینی شکست، بنابراین انتظار داریم قیمت به FTR مقابل برسد (پایین‌ترین باکس بنفش). با این حال، در این مورد قیمت پیش از آنکه به جایی برگردد که ما در آن پوزیشن فروش می‌گرفتیم، از قبل به سمت مقابل PAZ رسیده بود.
+
+اگر این‌طور است، آیا باز هم اینجا معامله را در نظر می‌گیریم، چون قیمت قبلاً به سمت مقابل رسیده است. در این مورد جواب داد، اما بارها دیده‌ام که در چنین شرایطی دیگر جواب نمی‌دهد.
+
+سلام christian، از نگاه من روی نمودار، PAZ که کشیده‌ای درست است، اما قیمت از قبل از آن رد شده بود و واقعاً فرصت چندانی برای معامله روی آن به ما نداد. ورودی که علامت زده‌ای فقط واکنش قیمت به یک flag در TF پایین‌تر است. این نگاه من به نمودارهاست.
+
+PAZ‌های مهم دیگری farther به سمت چپ وجود دارند که هنوز اینگالف نشده‌اند، و همین باعث شد قیمت بایستد و flag بزند؛ این خطوط را روی نمودارت امتداد بده و ببین قیمت در آینده چطور واکنش نشان می‌دهد.
+
+امیدوارم به‌اندازهٔ کافی روشن باشد!
+
+Peds
+
+پ.ن: ابتکار عالی‌ای بود که این تاپیک را شروع کردی!
+
+### ftrpaz_p1_4
+EN: Here's how I am marking in the PAZs, based on my current understanding. I'm leaving out cpPAZ until I've got a handle on the FTR PAZ. I'm using the same chart area as above, so we've consistency. Peds, am I getting there?
+
+1. First I mark in the FTRs I see. These I take to be an engulf (a new high in this case) showing intent to go higher, then the fail to go lower. It does not become a true FTR until price then moves higher than the initial higher high. So, for example, z does not qualify as an FTR as y is a few pips lower than x. (it is a cpPAZ edge, but I'm not going near those yet). I've used a little red ellipse to show the tips of the FTRs.
+
+2. I then mark in the demand zones (or supply if moving down) which the FTRs represent. My indi marks those created above current price blue, and those below as pink). These are going to become the targets on the way down - the FTB to the FTR, essentially.
+
+3. Then it's a case of watching what price does:
+
+The engulf at 1 means expect price to go to 2 (engulf 1 also engulfs an FL to the left of the top elipse, and should have you primed and ready for point A to happen - it is ignored demand becoming supply - an SR flip).
+
+The engulf at 3 means expect price to go to 4
+
+The engulf at 5 means expect price to go to 6, whichever PAZ edge that leads to next. If you were sharp, you could maybe get in at B.
+
+And see how the influence continues..
+FA: این روش من برای علامت‌گذاری PAZ‌هاست، بر اساس درک فعلی‌ام. cpPAZ را کنار می‌گذارم تا وقتی که FTR PAZ را خوب یاد بگیرم. از همان ناحیهٔ نمودار بالا استفاده می‌کنم تا یکدستی داشته باشیم. Peds، دارم به نتیجه می‌رسم؟
+
+1. اول FTR‌هایی را که می‌بینم علامت می‌زنم. این‌ها را یک اینگالف می‌دانم (در این مورد یک سقف جدید) که قصد رفتن به بالاتر را نشان می‌دهد، سپس ناکامی در پایین رفتن. تا وقتی قیمت بالاتر از آن سقف بالاترِ اولیه نرود، FTR واقعی نمی‌شود. بنابراین مثلاً z به‌عنوان FTR پذیرفته نیست، چون y چند پیپ پایین‌تر از x است. (این یک لبهٔ cpPAZ است، اما فعلاً سراغ آن‌ها نمی‌روم). از یک بیضی کوچک قرمز برای نشان دادن نوک FTR‌ها استفاده کرده‌ام.
+
+2. سپس نواحی تقاضا (یا عرضه اگر حرکت نزولی باشد) را که FTR‌ها نمایندگی می‌کنند علامت می‌زنم. اندیکاتور من آن‌هایی را که بالای قیمت فعلی ساخته شده‌اند آبی و آن‌هایی را که پایین‌اند صورتی علامت می‌زند). این‌ها در مسیر نزول به تارگت تبدیل می‌شوند - در اصل همان FTB به FTR.
+
+3. بعدش فقط باید دید قیمت چه می‌کند:
+
+اینگالف در 1 یعنی انتظار داشته باش قیمت به 2 برود (اینگالف 1 همچنین یک FL را در سمت چپ بیضی بالایی اینگالف می‌کند، و باید تو را برای وقوع نقطهٔ A آماده و گوش‌به‌زنگ کند - این همان تقاضای نادیده‌گرفته‌شده است که به عرضه تبدیل می‌شود - یک چرخش SR).
+
+اینگالف در 3 یعنی انتظار داشته باش قیمت به 4 برود
+
+اینگالف در 5 یعنی انتظار داشته باش قیمت به 6 برود، به هر لبهٔ PAZ که بعد از آن برسد. اگر تیزبین بودی، شاید می‌توانستی در B وارد شوی.
+
+و ببین چطور این تأثیر ادامه پیدا می‌کند..
+
+### ftrpaz_p1_5
+EN: jkrick33 wrote: This thread is going to be powerful. Thanks for starting this for everyone.
+
+The power of the thread died away... let's ressurect it...;-)
+FA: jkrick33 نوشت: این تاپیک قرار است قدرتمند باشد. ممنون که این را برای همه شروع کردی.
+
+قدرت تاپیک فروکش کرد... بیایید زنده‌اش کنیم...;-)
+
+### ftrpaz_p1_6
+EN: Are these valid FTR zones?
+FA: آیا این‌ها نواحی FTR معتبر هستند؟
+
+### ftrpaz_p1_7
+EN: Yes, but I'd like you to show why you think they are
+FA: بله، اما می‌خواهم نشان بدهی چرا فکر می‌کنی این‌ها معتبرند
+
+### ftrpaz_p1_8
+EN: Ifmyante wrote: Yes, but I'd like you to show why you think they are
+
+Let me know if my explanation is correct or not. I want to really understand this PA/zone
+
+Continued
+FA: Ifmyante نوشت: بله، اما می‌خواهم نشان بدهی چرا فکر می‌کنی این‌ها معتبرند
+
+خبرم کن توضیحم درست است یا نه. می‌خواهم این PA/ناحیه را واقعاً بفهمم
+
+ادامه دارد
+
+### ftrpaz_p1_9
+EN: Hello, Please refer to the image on right.Your comments requested.
+FA: سلام، لطفاً به تصویر سمت راست نگاه کنید. منتظر نظراتتان هستم.
+
+### ftrpaz_p1_10
+EN: Another example from me of the FTR zone. This one is after an engulfing of the previous FL. Why i consider that an FTR? Price engulfed the FL then failed to get back to the above supply. Question would anyone consider a touch trade on a FTB to the FTR zone. If yes/no, why? Not looking for signals. Just knowledge.
+FA: یک مثال دیگر از من از ناحیهٔ FTR. این یکی بعد از اینگالف شدن FL قبلی است. چرا آن را FTR می‌دانم؟ قیمت FL را اینگالف کرد و سپس نتوانست به عرضهٔ بالا برگردد. سؤال این است: آیا کسی معاملهٔ لمسی روی FTB به ناحیهٔ FTR را در نظر می‌گیرد؟ اگر آری/نه، چرا؟ دنبال سیگنال نیستم. فقط دانش.
+
+### ftrpaz_p1_11
+EN: Hi, Guys,
+
+I'd like to post GBP/USD 1hr chart where I applied what I learned about FTR / Engulfed set up. I have been studying these set-up and the rational behind it from IF and the masters members. Any comments are welcome. I post two charts - one is the analysis, the other one is the trade taken based on the analysis.
+
+Cheers
+FA: سلام، دوستان،
+
+می‌خواهم نمودار 1hr GBP/USD را پست کنم که در آن آموخته‌هایم دربارهٔ ستاپ FTR / Engulfed را به کار بسته‌ام. این ستاپ و منطق پشت آن را از IF و اعضای Master مطالعه می‌کرده‌ام. هر نظری خوش‌آمد است. دو نمودار پست می‌کنم - یکی تحلیل است، دیگری معامله‌ای که بر اساس آن تحلیل گرفته شده.
+
+مخلصیم
+
+### ftrpaz_p1_12
+EN: Hi yalanola
+
+I'm learning PAZ and FTR too in these days.
+
+As a beginner I think that your trade is reasonable, we are in supply zone in many timeframes, previous low and important key level is engulfed on H4, previous highs respected, right now no sign that price wants to go higher to me. Let's see what happens next..
+
+I didn't understand very well how did you draw your PAZ and FTR and how you used PAZ and FTR concepts to enter that trade.
+
+Here I tryed to draw some PAZ and FTR, any comment and suggestion is welcome.
+
+If I understand correctly, one option to trade PAZ and FTR is: once a previous FTR is engulfed, we entered in a new PAZ between 2 FTRs. So the price wants to go to the other side of the PAZ where the next FTR Supply or Demand zone is. What we want to do is search for a SD area near the origin of the move that engulfed previous FTR and enter on the retracement. I found 2 problems doing this: 1) Many times (like in my example) price doesn't retrace or do only a little retracement not giving us a clear entry point and a good R:R 2) If the price engulfs a FTR and then touch the next at the other side of the PAZ and then retraces to the origin, this PAZ is not tradable because price already reached the other side.
+
+Is it correct?
+FA: سلام yalanola
+
+من هم این روزها PAZ و FTR یاد می‌گیرم.
+
+به‌عنوان یک تازه‌کار فکر می‌کنم معامله‌ات منطقی است؛ در خیلی از تایم‌فریم‌ها داخل ناحیهٔ عرضه هستیم، کف قبلی و سطح کلیدی مهم روی H4 اینگالف شده، سقف‌های قبلی محترم شمرده شده‌اند، همین الان از نظر من نشانه‌ای نیست که قیمت بخواهد بالاتر برود. ببینیم بعدش چه می‌شود..
+
+خیلی خوب نفهمیدم PAZ و FTR را چطور کشیده‌ای و چطور از مفاهیم PAZ و FTR برای ورود به آن معامله استفاده کرده‌ای.
+
+اینجا سعی کردم چند PAZ و FTR بکشم، هر نظر و پیشنهادی خوش‌آمد است.
+
+اگر درست فهمیده باشم، یکی از گزینه‌ها برای معاملهٔ PAZ و FTR این است: وقتی یک FTR قبلی اینگالف می‌شود، وارد یک PAZ جدید بین 2 FTR شده‌ایم. پس قیمت می‌خواهد به سمت دیگر PAZ برود، جایی که ناحیهٔ عرضه یا تقاضای FTR بعدی قرار دارد. کاری که می‌خواهیم بکنیم این است که دنبال یک ناحیهٔ SD نزدیک مبدأ حرکتی بگردیم که FTR قبلی را اینگالف کرد و در اصلاح وارد شویم. در این کار 2 مشکل پیدا کردم: 1) خیلی وقت‌ها (مثل مثال من) قیمت اصلاح نمی‌کند یا فقط اصلاح کوچکی می‌کند و نقطهٔ ورود روشن و R:R خوبی به ما نمی‌دهد 2) اگر قیمت یک FTR را اینگالف کند، سپس FTR بعدی را در سمت دیگر PAZ لمس کند و بعد به مبدأ اصلاح کند، این PAZ قابل معامله نیست، چون قیمت از قبل به سمت دیگر رسیده است.
+
+آیا درست است؟
+
+### ftrpaz_p1_13
+EN: Andyfx wrote: Hi yalanola
+
+I'm learning PAZ and FTR too in these days.
+
+As a beginner I think that your trade is reasonable, we are in supply zone in many timeframes, previous low and important key level is engulfed on H4, previous highs respected, right now no sign that price wants to go higher to me. Let's see what happens next..
+
+I didn't understand very well how did you draw your PAZ and FTR and how you used PAZ and FTR concepts to enter that trade.
+
+Here I tryed to draw some PAZ and FTR, any comment and suggestion is welcome.
+
+If I understand correctly, one option to trade PAZ and FTR is: once a previous FTR is engulfed, we entered in a new PAZ between 2 FTRs. So the price wants to go to the other side of the PAZ where the next FTR Supply or Demand zone is. What we want to do is search for a SD area near the origin of the move that engulfed previous FTR and enter on the retracement. I found 2 problems doing this: 1) Many times (like in my example) price doesn't retrace or do only a little retracement not giving us a clear entry point and a good R:R 2) If the price engulfs a FTR and then touch the next at the other side of the PAZ and then retraces to the origin, this PAZ is not tradable because price already reached the other side.
+
+Is it correct?
+
+I believe what you are saying is correct. On the hard right edge of the screen price should now fall to the bottom of the PAZ and move right through that CP you have marked. The key is to watch for PA at the edges of the PAZ's.
+FA: Andyfx نوشت: سلام yalanola
+
+من هم این روزها PAZ و FTR یاد می‌گیرم.
+
+به‌عنوان یک تازه‌کار فکر می‌کنم معامله‌ات منطقی است؛ در خیلی از تایم‌فریم‌ها داخل ناحیهٔ عرضه هستیم، کف قبلی و سطح کلیدی مهم روی H4 اینگالف شده، سقف‌های قبلی محترم شمرده شده‌اند، همین الان از نظر من نشانه‌ای نیست که قیمت بخواهد بالاتر برود. ببینیم بعدش چه می‌شود..
+
+خیلی خوب نفهمیدم PAZ و FTR را چطور کشیده‌ای و چطور از مفاهیم PAZ و FTR برای ورود به آن معامله استفاده کرده‌ای.
+
+اینجا سعی کردم چند PAZ و FTR بکشم، هر نظر و پیشنهادی خوش‌آمد است.
+
+اگر درست فهمیده باشم، یکی از گزینه‌ها برای معاملهٔ PAZ و FTR این است: وقتی یک FTR قبلی اینگالف می‌شود، وارد یک PAZ جدید بین 2 FTR شده‌ایم. پس قیمت می‌خواهد به سمت دیگر PAZ برود، جایی که ناحیهٔ عرضه یا تقاضای FTR بعدی قرار دارد. کاری که می‌خواهیم بکنیم این است که دنبال یک ناحیهٔ SD نزدیک مبدأ حرکتی بگردیم که FTR قبلی را اینگالف کرد و در اصلاح وارد شویم. در این کار 2 مشکل پیدا کردم: 1) خیلی وقت‌ها (مثل مثال من) قیمت اصلاح نمی‌کند یا فقط اصلاح کوچکی می‌کند و نقطهٔ ورود روشن و R:R خوبی به ما نمی‌دهد 2) اگر قیمت یک FTR را اینگالف کند، سپس FTR بعدی را در سمت دیگر PAZ لمس کند و بعد به مبدأ اصلاح کند، این PAZ قابل معامله نیست، چون قیمت از قبل به سمت دیگر رسیده است.
+
+آیا درست است؟
+
+باور دارم چیزی که می‌گویی درست است. در لبهٔ راستِ زندهٔ نمودار، قیمت حالا باید تا کف PAZ پایین بیاید و درست از میان همان CP که علامت زده‌ای رد شود. کلید کار این است که در لبه‌های PAZ دنبال PA بگردی.
+
+### ftrpaz_p1_14
+EN: Hi, Andy,
+
+My understanding on the FTR set-up is when price breaks out a level, it may comes back to get more orders in order to gain the momentum, it either hit the break-though point (called retest) or doesn't even made it back to the point (FTR) and then turns in the direction. I understand that this would be the decision point. There might be some orders left there, so when the price reaches the level again, which is the FTB, it may pick up those orders and this creates an entry opportunity. I feel that some of your marks are not exactly FTR, the most obvious one is at the top where you marked "supply". when price dropped from "newer hight" you marked, it attempted to come back, but failed, from there, the price goes all the way down to "CP" you marked, so, that area will be your reference, when the price comes back to that level. You would take short opportunity from there.
+
+I'll post chart afterwards and let'd discuss about it.
+
+Cheers.
+FA: سلام، Andy،
+
+درک من از ستاپ FTR این است: وقتی قیمت سطحی را می‌شکند، ممکن است برگردد تا سفارش‌های بیشتری بگیرد و مومنتوم به دست بیاورد؛ یا به نقطهٔ شکست می‌رسد (که retest نامیده می‌شود) یا حتی اصلاً به آن نقطه برنمی‌گردد (FTR) و سپس در همان جهت می‌چرخد. می‌فهمم که این همان نقطهٔ تصمیم است. ممکن است سفارش‌هایی آنجا جا مانده باشد، پس وقتی قیمت دوباره به آن سطح می‌رسد، که همان FTB است، ممکن است آن سفارش‌ها را بردارد و این یک فرصت ورود می‌سازد. حس می‌کنم بعضی از علامت‌هایت دقیقاً FTR نیستند؛ واضح‌ترینش آن بالاست که «supply» علامت زده‌ای. وقتی قیمت از «newer hight» که علامت زده‌ای افت کرد، تلاش کرد برگردد اما نتوانست؛ از آنجا قیمت یکسره پایین می‌رود تا «CP» که علامت زده‌ای، پس آن ناحیه مرجع تو خواهد بود وقتی قیمت به آن سطح برگردد. از آنجا فرصت پوزیشن فروش می‌گیری.
+
+بعداً نمودار را پست می‌کنم و بیایید درباره‌اش بحث کنیم.
+
+مخلصیم.
+
+### ftrpaz_p1_15
+EN: I am really confused regarding this FTR. I have read couple of posts regarding this but still confused. 1) From what I can see, FTR can be said to be the same as DP or FL? Or is there specific way to identify FTR's?
+
+Here I have attached h1 chart of aud/usd marking the areas which I believe to be FTR. am I correct or not?
+
+Thanks.
+FA: واقعاً دربارهٔ این FTR گیج شده‌ام. چند پست درباره‌اش خوانده‌ام اما هنوز گیجم. 1) از آنچه می‌بینم، می‌شود گفت FTR همان DP یا FL است؟ یا روش مشخصی برای شناسایی FTR‌ها وجود دارد؟
+
+اینجا نمودار h1 aud/usd را پیوست کرده‌ام و نواحی‌ای را که باور دارم FTR هستند علامت زده‌ام. درست می‌گویم یا نه؟
+
+ممنون.
+
+### ftrpaz_p1_16
+EN: maximohmax wrote: I am really confused regarding this FTR. I have read couple of posts regarding this but still confused. 1) From what I can see, FTR can be said to be the same as DP or FL? Or is there specific way to identify FTR's?
+
+Here I have attached h1 chart of aud/usd marking the areas which I believe to be FTR. am I correct or not?
+
+Thanks.
+
+Hello,
+
+From my understanding a FL and decision point are the same thing. A DP is the point that the decision was made for price to go north or south. Hope this helps.
+FA: maximohmax نوشت: واقعاً دربارهٔ این FTR گیج شده‌ام. چند پست درباره‌اش خوانده‌ام اما هنوز گیجم. 1) از آنچه می‌بینم، می‌شود گفت FTR همان DP یا FL است؟ یا روش مشخصی برای شناسایی FTR‌ها وجود دارد؟
+
+اینجا نمودار h1 aud/usd را پیوست کرده‌ام و نواحی‌ای را که باور دارم FTR هستند علامت زده‌ام. درست می‌گویم یا نه؟
+
+ممنون.
+
+سلام،
+
+از درک من، FL و نقطهٔ تصمیم یک چیز هستند. DP نقطه‌ای است که در آن تصمیم گرفته شد قیمت بالا برود یا پایین. امیدوارم کمک کند.
+
+### ftrpaz_p1_17
+EN: Yes. But what about FTR?
+FA: بله. اما FTR چه؟
+
+### ftrpaz_p1_18
+EN: In my view a FTR is created when something (a previous High/Low, a Key Level, a previous FTR, a previous SD zone like RBR/DBD) gets engulfed and there is a pullback.
+
+I think that most of the FLs are FTR too, because they form when a SR level gets engulfed and in the flag there is actually a pullback, an attempt to return to the origin of the move, so we can call it FTR.
+
+But why not all FL are FTR? Well, if I understand FLs, most of the times a flag forms after a SR level gets engulfed, so we can call it FTR, but in some FLs the flag forms BEFORE the SR gets engulfed, so this flag has not yet engulfed something right now, so we can't call it FTR, in this case the real FTR is the FTB to the flag limit. Look at the draw below.
+
+Decision points are FTR? Same as I said about FLs, most DP are FTR too, but not all. Imagine a Rally-Base-Rally that forms in the middle of nowhere and there is no engulf of previous things, is this a decision point? Yes, when the flag breaks there is the decision to go higher. Is this a FTR? No, because no engulf.
+
+Makes sense?
+
+Anyways don't take it for true, I'm just a noob in the market, maybe I'm wrong!
+FA: از نگاه من یک FTR وقتی ساخته می‌شود که چیزی (یک سقف/کف قبلی، یک سطح کلیدی، یک FTR قبلی، یک ناحیهٔ SD قبلی مثل RBR/DBD) اینگالف شود و یک پولبک وجود داشته باشد.
+
+فکر می‌کنم بیشتر FL‌ها هم FTR هستند، چون وقتی شکل می‌گیرند که یک سطح SR اینگالف شود و در flag در واقع یک پولبک وجود دارد، تلاشی برای بازگشت به مبدأ حرکت، پس می‌توانیم آن را FTR بنامیم.
+
+اما چرا همهٔ FL‌ها FTR نیستند؟ خوب، اگر FL‌ها را درست فهمیده باشم، بیشتر وقت‌ها یک flag بعد از اینگالف شدن یک سطح SR شکل می‌گیرد، پس می‌توانیم آن را FTR بنامیم، اما در بعضی FL‌ها، flag قبل از اینکه SR اینگالف شود شکل می‌گیرد، پس این flag همین الان هنوز چیزی را اینگالف نکرده، بنابراین نمی‌توانیم آن را FTR بنامیم؛ در این حالت FTR واقعی همان FTB به flag limit است. به رسم زیر نگاه کن.
+
+نقاط تصمیم FTR هستند؟ همان‌طور که دربارهٔ FL‌ها گفتم، بیشتر DP‌ها هم FTR هستند، اما نه همه. یک Rally-Base-Rally را تصور کن که وسط ناکجاآباد شکل می‌گیرد و هیچ اینگالفی از چیزهای قبلی وجود ندارد؛ آیا این یک نقطهٔ تصمیم است؟ بله، وقتی flag می‌شکند تصمیم برای رفتن به بالاتر گرفته می‌شود. آیا این یک FTR است؟ نه، چون اینگالفی نیست.
+
+منطقی است؟
+
+به‌هرحال این را قطعی ندان، من فقط یک تازه‌کار در بازارم، شاید اشتباه کنم!
+
+### ftrpaz_p1_19
+EN: Hi, Thanks for replying. I understood what you said and it clicks. Now just need to wait for senior member to be sure if this is all okay or is there any addition to it:)
+FA: سلام، ممنون بابت پاسخ. چیزی که گفتی را فهمیدم و جا افتاد. حالا فقط باید منتظر یک عضو باتجربه بمانم تا مطمئن شوم این‌ها همه درست است یا اضافه‌ای هم لازم دارد:)
+
+### ftrpaz_p1_20
+EN: maximohmax wrote: Yes. But what about FTR?
+
+Here is my view on the FTR's. Price engulfs the horizontal lines marked with a red arrow. After the engulf price pulls back and then makes a new high afterwards. The source of that new high is the FTR. In my chart below they are marked with a blue box. I hope this helps.
+FA: maximohmax نوشت: بله. اما FTR چه؟
+
+این نگاه من به FTR‌هاست. قیمت خطوط افقی را که با فلش قرمز علامت خورده‌اند اینگالف می‌کند. بعد از اینگالف، قیمت پولبک می‌زند و سپس سقف جدیدی می‌سازد. مبدأ آن سقف جدید همان FTR است. در نمودار زیر آن‌ها را با یک باکس آبی نشان داده‌ام. امیدوارم کمک کند.
+
+### ftrpaz_p1_21
+EN: That helps:)
+FA: این کمک می‌کند:)
+
+### ftrpaz_p1_22
+EN: There is an article under the "Marketpedia" section written by Pedini. The article goes over FTR's and its where I got my example from.
+FA: در بخش «Marketpedia» مقاله‌ای نوشتهٔ Pedini هست. مقاله FTR‌ها را مرور می‌کند و مثالم را از همانجا برداشته‌ام.
+
+### ftrpaz_p1_23
+EN: Hotochin wrote: There is an article under the "Marketpedia" section written by Pedini. The article goes over FTR's and its where I got my example from.
+
+I have read it:) The article mainly talks about Price action zones and doesn't explain much about FTR's.
+FA: Hotochin نوشت: در بخش «Marketpedia» مقاله‌ای نوشتهٔ Pedini هست. مقاله FTR‌ها را مرور می‌کند و مثالم را از همانجا برداشته‌ام.
+
+خوانده‌ام:) مقاله بیشتر دربارهٔ نواحی PA حرف می‌زند و توضیح زیادی دربارهٔ FTR‌ها نمی‌دهد.
+
+### ftrpaz_p1_24
+EN: I see. Hopefully my explanation helped. So to combine the two, the black space in-between the two blue FTR zones is the PAZ in my chart above.
+FA: متوجه شدم. امیدوارم توضیحم کمک کرده باشد. پس برای ترکیب این دو، فضای سیاه بین دو ناحیهٔ FTR آبی، همان PAZ در نمودار بالای من است.
+
+### ftrpaz_p1_25
+EN: Hi guys,
+
+Here is what I believe to be an FTR, I saw this whilst doing my CP stuff, don't worry too much that the FTR did not work out, I guess we have P,A for that.
+
+Below is why I would not have shorted there:
+
+Just my 2 cents guys..
+
+DT
+FA: سلام دوستان،
+
+این چیزی است که باور دارم یک FTR است؛ موقع انجام کارهای CP خودم این را دیدم. زیاد نگران نباش که FTR جواب نداد، فکر می‌کنم برای همین P,A را داریم.
+
+در زیر دلیل اینکه چرا آنجا پوزیشن فروش نمی‌گرفتم آمده است:
+
+این فقط نظر ناچیز من است دوستان..
+
+DT

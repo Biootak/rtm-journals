@@ -1,0 +1,359 @@
+### hs_p51_1251
+EN: Time will tell - lets see how far it wants to go after the eng- anyway m8 nice journal you got going
+
+Hans
+FA: زمان مشخص می‌کند — ببینیم بعد از اینگالف چقدر می‌خواهد برود. در هر حال رفیق، ژورنال خوبی راه انداخته‌ای.
+
+Hans
+
+### hs_p51_1252
+EN: Thanks Hans!
+
+EUR-USD
+
+Waiting for an EG of the Flag...FO above hits FOF from MPL above
+FA: ممنون Hans!
+
+EUR-USD
+
+منتظر EG روی Flag هستم... FO بالایی به FOFِ ناشی از MPL بالاتر می‌خورد.
+
+### hs_p51_1253
+EN: Entered another sell where the cp broke
+
+Hans
+FA: یک فروش دیگر هم در محل شکستن cp گرفتم.
+
+Hans
+
+### hs_p51_1254
+EN: Practice EUR-AUD:
+
+Why did price turn here?
+
+Answer: look left 4 times
+
+Here are the 4 important areas: I will draw each one, starting from # 4 and working my way to the reaction:
+
+I start by finding true supply. Reaction is important, MPL respected. Also notice the trick. Look at the first time price engulfs the MPL of true supply...this is the start of the next FL Box.
+
+FL Box B is formed when price engulfs True Supply "A". This is also the source/DO of the FO.
+
+Next, look for the exact candle that breaks the low of FL Box B...this is the start of a new swap zone and "True Supply" level. True Supply "C" is especially important because it formed after an engulf of a previous Decision to FO...that DP to FO was also the DP to engulf a previous TS zone (TS A).
+
+Price Reacts @ point X to the MPL of True Supply C. Point "X" is not originally formed...it was a reaction to an originally formed Supply zone.
+
+FL Box "D" is still Seller-controlled...the balance of power has not changed to Bulls, so this is a reaction. How do we know if we can trade the fractal TS level formed in Box D? We have to look left and see if price has already visited the MPL of the original TS zone.
+
+Reaction X has already hit the extreme set of orders in the FL contained within TS "C"...we are safe to sell when price RT to the fractal TS level created within FL Box D. That is why price reacts so nicely...
+FA: تمرین EUR-AUD:
+
+چرا قیمت اینجا برگشت؟
+
+جواب: چهار بار به چپ نگاه کن
+
+این‌ها چهار ناحیهٔ مهم هستند: هر کدام را جداگانه رسم می‌کنم، از شمارهٔ 4 شروع می‌کنم و تا خود واکنش جلو می‌آیم:
+
+با پیدا کردن عرضهٔ واقعی شروع می‌کنم. واکنش مهم است، MPL هم رعایت شده. آن ترفند را هم ببینید. به اولین باری نگاه کنید که قیمت MPL عرضهٔ واقعی را اینگالف می‌کند... این شروع FL Box بعدی است.
+
+FL Box با نام B زمانی شکل می‌گیرد که قیمت عرضهٔ واقعی «A» را اینگالف کند. این همان مبدأ/DO برای FO هم هست.
+
+بعد، دنبال همان کندلی بگردید که کف FL Box B را می‌شکند... این شروع یک ناحیهٔ سوآپ جدید و سطح «عرضهٔ واقعی» است. عرضهٔ واقعی «C» اهمیت ویژه‌ای دارد، چون پس از اینگالف یک Decision to FO قبلی شکل گرفته... آن DP به FO همان DPای بود که ناحیهٔ TS قبلی (TS A) را اینگالف کرد.
+
+قیمت در نقطهٔ X به MPL عرضهٔ واقعی C واکنش نشان می‌دهد. نقطهٔ «X» از ابتدا شکل نگرفته... بلکه واکنشی به یک ناحیهٔ عرضهٔ از پیش تشکیل‌شده بود.
+
+FL Box «D» هنوز در کنترل فروشندگان است... موازنهٔ قدرت به نفع گاوها تغییر نکرده، پس این یک واکنش است. از کجا بفهمیم می‌توانیم سطح فراکتال TS شکل‌گرفته در Box D را معامله کنیم؟ باید به چپ نگاه کنیم و ببینیم آیا قیمت قبلاً به MPL ناحیهٔ TS اصلی رسیده است یا نه.
+
+واکنش X پیش‌تر به مجموعهٔ اکسترمم سفارش‌های موجود در FL داخل TS «C» خورده... پس وقتی قیمت به سطح فراکتال TS ساخته‌شده در FL Box D برمی‌گردد، فروش امن است. برای همین است که قیمت این‌قدر قشنگ واکنش می‌دهد...
+
+### hs_p51_1255
+EN: Something I want to add to my last post on EUR-AUD:
+
+I think I may have left out an important detail...after looking closer at the MPL of TS "C", I see (what looks like) a tiny EG.
+
+Take a look at this chart:
+
+I saw this detail because I was trying to figure out why price didn't respect the MPL of a new area of FOF. Instead the MPL broke (it broke twice).
+
+Here is a chart to illustrate:
+
+It seems that price was just creating a FO to the DP above TS...to reach the TG of that tiny EG
+FA: چیزی که می‌خواهم به پست آخرم دربارهٔ EUR-AUD اضافه کنم:
+
+فکر می‌کنم جزئیات مهمی را جا انداخته باشم... بعد از نگاه دقیق‌تر به MPL مربوط به TS «C»، چیزی شبیه یک EG خیلی کوچک می‌بینم.
+
+این چارت را ببینید:
+
+این جزئیات را دیدم چون می‌خواستم بفهمم چرا قیمت MPL یک ناحیهٔ جدید FOF را رعایت نکرد. در عوض MPL شکست (دو بار شکست).
+
+این هم چارتی برای نشان دادنش:
+
+به نظر می‌رسد قیمت فقط داشت یک FO به سمت DP بالای TS می‌ساخت... تا به TG آن EG کوچک برسد.
+
+### hs_p51_1256
+EN: A Drawing I made to remind myself of the importance an unmet target is... is increases the odds that we will get a good reaction at a newly formed area of FOF.
+
+In theory, this is a relatively easy concept to understand. The challenging part is executing the trade...
+
+(assuming a short trade setup...it would be the exact opposite for a long trade setup)
+
+The main components you must know for this trade:
+
+1. Find an original true supply/demand zone with good history of price reaction (FL)
+
+2. Watch for a FO above this level (RBD)
+
+3. Draw the FL Box that forms as a result of the engulf of the original true supply zone
+
+4. Draw the DP to FO
+
+5. Draw the EG of the DP to FO
+
+6. Determine the target for the EG of the DP to FO
+
+7. If price returns to the newly created FOF (New TS) prior to hitting the target of the engulf, it is a high probability trade.
+
+Making a mistake on any of the 7 main components above will probably result in a lost trade. I will be keeping track of all my losing trades to find out which of the 7 main steps I need the most practice on.
+FA: نقاشی‌ای که کشیدم تا به خودم یادآوری کنم تارگت برآورده‌نشده چقدر مهم است... احتمال واکنش خوب در یک ناحیهٔ تازه‌شکل‌گرفتهٔ FOF را بالا می‌برد.
+
+در تئوری، این مفهوم نسبتاً ساده است. بخش چالش‌برانگیزش اجرای معامله است...
+
+(با فرض یک ستاپ شورت... برای ستاپ لانگ دقیقاً برعکس خواهد بود)
+
+اجزای اصلی که برای این معامله باید بدانید:
+
+1. یک ناحیهٔ عرضه/تقاضای واقعی اولیه پیدا کنید که تاریخچهٔ خوبی از واکنش قیمت دارد (FL)
+
+2. مراقب یک FO بالای این سطح باشید (RBD)
+
+3. FL Boxای را رسم کنید که در نتیجهٔ اینگالف ناحیهٔ عرضهٔ واقعی اولیه شکل می‌گیرد
+
+4. DP به FO را رسم کنید
+
+5. EG مربوط به DP to FO را رسم کنید
+
+6. تارگت EG مربوط به DP to FO را مشخص کنید
+
+7. اگر قیمت پیش از رسیدن به تارگت اینگالف به FOF تازه‌ساخته‌شده (TS جدید) برگردد، معامله‌ای با احتمال بالا است.
+
+اشتباه در هر یک از 7 جزء اصلی بالا احتمالاً به معاملهٔ بازنده منتهی می‌شود. همهٔ معاملات بازنده‌ام را ثبت می‌کنم تا بفهمم روی کدام یک از 7 مرحلهٔ اصلی بیشتر باید تمرین کنم.
+
+### hs_p51_1257
+EN: I went short on NZD-USD after seeing an EG and RT to the origin of the engulf. My target is down at the origin of the move up...
+FA: بعد از دیدن یک EG و RT به مبدأ اینگالف، روی NZD-USD شورت گرفتم. تارگتم پایین‌تر، روی مبدأ حرکت صعودی است...
+
+### hs_p51_1258
+EN: Another drawing...this may be why FO sometimes occurs above true supply/demand
+
+EUR-NZD: Example using real chart:
+FA: یک نقاشی دیگر... شاید دلیل اینکه FO گاهی بالای عرضه/تقاضای واقعی رخ می‌دهد همین باشد
+
+EUR-NZD: نمونه‌ای با چارت واقعی:
+
+### hs_p51_1259
+EN: AUD-CAD - Just closed this out
+FA: AUD-CAD — همین حالا بستمش.
+
+### hs_p51_1260
+EN: Closed EUR-USD just now....
+
+not as happy with this trade, but big news coming out soon, and it looks like price might consolidate for a while.
+
+Also, my entry could have been more precise.
+FA: EUR-USD را همین حالا بستم....
+
+از این معامله زیاد راضی نیستم، اما خبر مهمی نزدیک است و به نظر می‌رسد قیمت مدتی ممکن است تثبیت شود.
+
+همچنین ورودم می‌توانست دقیق‌تر باشد.
+
+### hs_p51_1261
+EN: NZD-USD ouch....
+
+Looked like a good trade to me...two engulfs that had yet to hit their targets. MPL's all consumed above entry.
+
+What happened?
+FA: NZD-USD، آخ....
+
+برای من معاملهٔ خوبی به نظر می‌رسید... دو اینگالف که هنوز به تارگتشان نرسیده بودند. MPLها همه بالای ورود مصرف شده بودند.
+
+چه شد؟
+
+### hs_p51_1262
+EN: Without knowing the pair, where would you put the origin of the move down, and most importantly, why?
+
+I have been trying to figure this out, but I still have a hard time finding these zones. I am going to screenshot some examples and randomly save them without the pair/date so I can practice without having the answer.
+
+Is this right?
+
+Or...is this right?
+
+Isn't an origin formed after engulfing an opposing origin?
+FA: بدون اینکه جفت‌ارز را بدانید، مبدأ حرکت نزولی را کجا می‌گذاشتید، و مهم‌تر از همه، چرا؟
+
+مدت‌هاست می‌خواهم این را بفهمم، اما هنوز پیدا کردن این نواحی برایم سخت است. می‌خواهم از چند نمونه اسکرین‌شات بگیرم و به‌صورت تصادفی ذخیره‌شان کنم، بدون جفت‌ارز و تاریخ، تا بدون داشتن جواب تمرین کنم.
+
+این درست است؟
+
+یا... این درست است؟
+
+مگر مبدأ پس از اینگالف کردن یک مبدأ مخالف شکل نمی‌گیرد؟
+
+### hs_p51_1263
+EN: hoeschec wrote: Without knowing the pair, where would you put the origin of the move down, and most importantly, why?
+
+I have been trying to figure this out, but I still have a hard time finding these zones. I am going to screenshot some examples and randomly save them without the pair/date so I can practice without having the answer.
+
+It's a QM, tricky to find
+FA: hoeschec نوشت: بدون اینکه جفت‌ارز را بدانید، مبدأ حرکت نزولی را کجا می‌گذاشتید، و مهم‌تر از همه، چرا؟
+
+مدت‌هاست می‌خواهم این را بفهمم، اما هنوز پیدا کردن این نواحی برایم سخت است. می‌خواهم از چند نمونه اسکرین‌شات بگیرم و به‌صورت تصادفی ذخیره‌شان کنم، بدون جفت‌ارز و تاریخ، تا بدون داشتن جواب تمرین کنم.
+
+یک QM است؛ تشخیصش دشوار است.
+
+### hs_p51_1264
+EN: mertch wrote:
+
+hoeschec wrote: Without knowing the pair, where would you put the origin of the move down, and most importantly, why?
+
+I have been trying to figure this out, but I still have a hard time finding these zones. I am going to screenshot some examples and randomly save them without the pair/date so I can practice without having the answer.
+
+It's a QM, tricky to nd
+
+Hi Mertch,
+
+I see a QM, but there isn't always a QM forming prior to a origin up/down forming...
+
+What are the steps for identifying an origin up/origin down?
+
+If we want the origin of the move down, we want the free order flow that forms as a result of an engulf of a previous origin up, right?
+
+In this case, price reacted off the level that formed prior to the engulf of the origin down...what am I missing?
+FA: mertch نوشت:
+
+hoeschec نوشت: بدون اینکه جفت‌ارز را بدانید، مبدأ حرکت نزولی را کجا می‌گذاشتید، و مهم‌تر از همه، چرا؟
+
+مدت‌هاست می‌خواهم این را بفهمم، اما هنوز پیدا کردن این نواحی برایم سخت است. می‌خواهم از چند نمونه اسکرین‌شات بگیرم و به‌صورت تصادفی ذخیره‌شان کنم، بدون جفت‌ارز و تاریخ، تا بدون داشتن جواب تمرین کنم.
+
+یک QM است، پیدا کردنش سخت است.
+
+سلام Mertch،
+
+من هم QM می‌بینم، اما همیشه پیش از شکل‌گیری یک مبدأ صعودی/نزولی، QM شکل نمی‌گیرد...
+
+مراحل شناسایی مبدأ صعودی/مبدأ نزولی چیست؟
+
+اگر مبدأ حرکت نزولی را می‌خواهیم، یعنی جریان سفارش آزادی را می‌خواهیم که در نتیجهٔ اینگالف یک مبدأ صعودی قبلی شکل گرفته، درست است؟
+
+در این حالت، قیمت از سطحی واکنش داد که پیش از اینگالف مبدأ نزولی شکل گرفته بود... من چه چیزی را از دست می‌دهم؟
+
+### hs_p51_1265
+EN: chart
+FA: چارت
+
+### hs_p51_1267
+EN: mertch wrote:
+
+Without history to the lef, it's gambling, even my level. I can guess everything but without knowing where it's from, I would have not trade this only picture.
+FA: mertch نوشت:
+
+بدون تاریخچه در سمت چپ، این قمار است، حتی در سطح من. می‌توانم همه‌چیز را حدس بزنم، اما بدون دانستن اینکه از کجا آمده، با این تصویر تنها معامله نمی‌کردم.
+
+### hs_p51_1268
+EN: mertch wrote:
+
+mertch wrote:
+
+Without history to the lef, it's gambling, even my level. I can guess everything but without knowing where it's from, I would have not trade this only picture.
+
+The chart is AUD-JPY
+
+I guess I'm just trying to nail down a process for identifying an origin, so I can eliminate many of my errors. According to my understanding, the origin down should be "B", yet price clearly reacts off "A".
+
+I want to understand how to draw origins, but I also want to understand the "Why" as it related to free order flow To me, it logically makes sense that a new origin would only form as the result of engulfing an opposing origin. Yet, this seems to only work sometimes (as shown in this AUD-JPY example)
+FA: mertch نوشت:
+
+mertch نوشت:
+
+بدون تاریخچه در سمت چپ، این قمار است، حتی در سطح من. می‌توانم همه‌چیز را حدس بزنم، اما بدون دانستن اینکه از کجا آمده، با این تصویر تنها معامله نمی‌کردم.
+
+چارت AUD-JPY است.
+
+حدس می‌زنم فقط می‌خواهم فرایندی برای شناسایی مبدأ را قطعی کنم تا بسیاری از خطاهایم را حذف کنم. طبق درک من، مبدأ نزولی باید «B» باشد، اما قیمت واضحاً از «A» واکنش می‌دهد.
+
+می‌خواهم بفهمم مبدأها را چطور رسم کنم، اما می‌خواهم «چرایی»اش را هم در ارتباط با جریان سفارش آزاد بفهمم. برای من منطقی است که یک مبدأ جدید فقط در نتیجهٔ اینگالف کردن یک مبدأ مخالف شکل بگیرد. اما ظاهراً این فقط گاهی جواب می‌دهد (همان‌طور که در این مثال AUD-JPY می‌بینید).
+
+### hs_p51_1269
+EN: hi hoeschec- this my view
+FA: سلام hoeschec، این دیدگاه من است
+
+### hs_p51_1270
+EN: etwanm wrote: hi hoeschec- this my view
+
+Thanks Etwanm
+
+I see Origin A as the target for shorts (coming from above) so the Origin B is formed as a reaction to Origin A.
+
+In the hierarchy of importance (related to free order flow) we want the engulf of the originally formed Origin...not necessarily the origin formed as a result of a reaction to an originally formed origin...
+
+If this is correct (not sure it is), the engulf of Origin A should hold more importance as far as FOF is concerned that the engulf of Origin B, since Origin B is formed as a result of a reaction to Origin A. Yet, as we can see, price found the most orders/LQ above the area I marked.
+
+Sometimes I feel like I'm too stupid to be a good trader
+FA: etwanm نوشت: سلام hoeschec، این دیدگاه من است
+
+ممنون Etwanm
+
+من Origin A را تارگت شورت‌ها (که از بالا می‌آیند) می‌بینم، پس Origin B در واکنش به Origin A شکل گرفته.
+
+در سلسله‌مراتب اهمیت (از نظر جریان سفارش آزاد) ما اینگالف Origin اولیه را می‌خواهیم... نه لزوماً مبدأیی که در نتیجهٔ واکنش به یک مبدأ اولیه شکل گرفته...
+
+اگر این درست باشد (که مطمئن نیستم)، از نظر FOF اینگالف Origin A باید مهم‌تر از اینگالف Origin B باشد، چون Origin B در نتیجهٔ واکنش به Origin A شکل گرفته. اما همان‌طور که می‌بینیم، قیمت بیشترین سفارش‌ها/LQ را بالای ناحیه‌ای که علامت زدم پیدا کرد.
+
+گاهی حس می‌کنم برای معامله‌گر خوب بودن زیادی احمقم.
+
+### hs_p51_1271
+EN: I'm really impressed by how you guys read the price. I can't understand about nothing of what you do. Keep going
+FA: واقعاً تحت تأثیر قرار می‌گیرم که شما بچه‌ها چطور قیمت را می‌خوانید. من هیچ چیزی از کارتان نمی‌فهمم. ادامه بدهید.
+
+### hs_p51_1272
+EN: mertch wrote: I'm really impressed by how you guys read the price. I can't understand about nothing of what you do. Keep going
+
+I would give my left arm to trade like you Mertch
+
+I love the simplicity
+FA: mertch نوشت: واقعاً تحت تأثیر قرار می‌گیرم که شما بچه‌ها چطور قیمت را می‌خوانید. من هیچ چیزی از کارتان نمی‌فهمم. ادامه بدهید.
+
+حاضرم دست چپم را بدهم تا مثل تو معامله کنم Mertch.
+
+سادگی‌اش را عاشقم.
+
+### hs_p51_1273
+EN: hoeschec wrote:
+
+mertch wrote: I'm really impressed by how you guys read the price. I can't understand about nothing of what you do. Keep going
+
+I would give my left arm to trade like you Mertch
+
+I love the simplicity
+
+I don't know what to say, I'm jaleous sometimes seing you, Jurij, Salivan, and some others nice traders here (sorry if I'm not mentionning everyone) reading those charts as a metronome. But I can steal some of your tricks and you are making me a better trader. Nice work!
+FA: hoeschec نوشت:
+
+mertch نوشت: واقعاً تحت تأثیر قرار می‌گیرم که شما بچه‌ها چطور قیمت را می‌خوانید. من هیچ چیزی از کارتان نمی‌فهمم. ادامه بدهید.
+
+حاضرم دست چپم را بدهم تا مثل تو معامله کنم Mertch.
+
+سادگی‌اش را عاشقم.
+
+نمی‌دانم چه بگویم؛ گاهی حس حسادت می‌کنم وقتی می‌بینم تو، Jurij، Salivan و چند معامله‌گر خوب دیگر اینجا (ببخشید اگر اسم همه را نمی‌برم) این چارت‌ها را مثل مترونوم می‌خوانید. اما می‌توانم بعضی از ترفندهایتان را بدزدم و شما دارید از من معامله‌گر بهتری می‌سازید. کارتان عالی است!
+
+### hs_p51_1274
+EN: Hi Hs, i wrote some thing about that chart AJ, hope it helps you
+
+this what i see
+FA: سلام Hs، چیزهایی دربارهٔ آن چارت AJ نوشتم، امیدوارم کمکت کند
+
+این چیزی است که من می‌بینم
+
+### hs_p51_1275
+EN: hi Hs, just wanted to say some thing about FOF, it's not about the MPLs or QM LVLs, it's about the ITs scenario. in fact it's about price reading article. you know that some times we have an north eng and we see a south FO. in fact that eng has no difference with FO but it's an ITs intention for future and that south FO is a realized target. some times ITs give their intention before reaching the target and some times after reaching the target. this is important that every ENG has it's own target.FOF is the way that ITs think about moving price it's not about reaching target or not. also it's not about entry points also. hope it makes sense regards Salivan
+FA: سلام Hs، فقط می‌خواستم چند نکته دربارهٔ FOF بگویم. ماجرا MPLها یا QM LVLها نیست، ماجرای سناریوی ITs است. در واقع ماجرا مقالهٔ خوانش قیمت است. می‌دانی که گاهی اینگالف شمالی داریم و FO جنوبی می‌بینیم. در واقع آن اینگالف تفاوتی با FO ندارد، اما نیت ITs برای آینده است و آن FO جنوبی یک تارگت محقق‌شده است. گاهی ITs نیتشان را پیش از رسیدن به تارگت نشان می‌دهند و گاهی بعد از رسیدن به تارگت. این نکته مهم است که هر ENG تارگت خودش را دارد. FOF همان روشی است که ITs برای حرکت دادن قیمت در ذهن دارد؛ بحث رسیدن یا نرسیدن به تارگت نیست. همچنین بحث نقاط ورود هم نیست. امیدوارم منطقی باشد. با احترام، Salivan

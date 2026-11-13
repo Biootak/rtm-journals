@@ -1,0 +1,7 @@
+{
+  "linos_p6_22": {
+    "issue": "number written as word (4h -> چهارساعته)",
+    "why": "Source says \"in the same 4h UFL\"; the Latin digit 4 of the timeframe is dropped (\"UFL چهارساعته\"), so the timeframe label no longer matches the source.",
+    "fix": "سلام... به خاطر تو این یکی را از قبل دیدم...\n\nدر موردش چه می‌گویی؟\n\nگمان می‌کنم سطحت دوام نمی‌آورد... اما درست است که در سمت پایین ENG از FTR داری.\n\nبه نظرم این خط qm برای حالت بهتر است.\n\nمن MPL را بالاتر در همان UFL 4h پیدا کردم."
+  }
+}

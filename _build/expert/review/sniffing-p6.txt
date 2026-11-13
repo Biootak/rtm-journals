@@ -1,0 +1,431 @@
+### sniffing_p6_1
+EN: in H1 a candle close around the previous high would guide me in identifying a fakeout or a breakthrough.
+FA: در H1، بسته شدن یک کندل نزدیک سقف قبلی مرا در تشخیص فیک‌اوت یا شکست واقعی راهنمایی می‌کند.
+
+### sniffing_p6_2
+EN: Fx.Sniffer wrote: areas of interest on H1.
+
+Next areas of interest.
+FA: Fx.Sniffer نوشت: نواحی مورد توجه در H1.
+
+مناطق جالب بعدی.
+
+### sniffing_p6_3
+EN: Fx.Sniffer wrote: and now H4 chart showing a rejection from level adding buyers and the upper S/R from daily chart aligned with a H4 supply zone making it a targeted price for an up movement.
+
+and its approaching the supply zone slowly...
+FA: Fx.Sniffer نوشت: و حالا چارت H4 یک ریجکشن از سطح را نشان می‌دهد که خریدار اضافه کرده، و S/R بالایی از چارت روزانه که با یک زون عرضه در H4 هم‌راستا شده و آن را به قیمتی هدف برای یک حرکت صعودی تبدیل کرده است.
+
+و آرام‌آرام دارد به همان زون نزدیک می‌شود...
+
+### sniffing_p6_4
+EN: price finally in the zone, however i'm not comfortable with price behavior inside zone, I think it might spike up to support (yellow line) or the higher supply, anyway will keep monitoring it.
+
+updating the above; price broke the yellow line retested it and continued up.
+FA: قیمت بالاخره به زون رسید، اما با رفتار قیمت داخل زون راحت نیستم؛ فکر می‌کنم ممکن است تا حمایت (خط زرد) یا عرضهٔ بالاتر اسپایک بزند، به‌هرحال زیر نظر نگهش می‌دارم.
+
+به‌روزرسانی بالا؛ قیمت خط زرد را شکست، ریتستش کرد و به بالا ادامه داد.
+
+### sniffing_p6_5
+EN: A wide look at Silver.
+FA: یک نگاه کلی به نقره.
+
+### sniffing_p6_6
+EN: brilliant trades S !!
+FA: معاملات درخشانی بود S !!
+
+### sniffing_p6_7
+EN: FX.Sniffer wrote: A wide look at Silver.
+
+Thanks for these charts FX.Sniffer.
+
+This is the sort of clear, straightforward analysis I'm working to introduce into my own trading.
+FA: FX.Sniffer نوشت: یک نگاه کلی به نقره.
+
+ممنون از این چارت‌ها FX.Sniffer.
+
+این همان نوع تحلیل شفاف و سرراست است که می‌خواهم وارد معامله‌گری خودم کنم.
+
+### sniffing_p6_8
+EN: FX.Sniffer wrote:
+
+Hi Sniffer
+
+I hope it is alright to ask you to elaborate more about "Liquidity Gaps"?
+
+What is your definition for it, and how (and why) you expect of price reaction at this zone?
+
+Thank you
+FA: FX.Sniffer نوشت:
+
+سلام Sniffer
+
+امیدوارم اشکالی نداشته باشد که از شما بخواهم دربارهٔ «Liquidity Gaps» بیشتر توضیح دهید؟
+
+تعریف شما از آن چیست، و چطور (و چرا) انتظار واکنش قیمت در این زون را دارید؟
+
+ممنون
+
+### sniffing_p6_9
+EN: benhur wrote: Hi Sniffer
+
+I hope it is alright to ask you to elaborate more about "Liquidity Gaps"?
+
+What is your definition for it, and how (and why) you expect of price reaction at this zone?
+
+Thank you
+
+Hi benhur,
+
+Will answer you in the morning but meanwhile lets watch how price will react to the marked high volume candles in below charts.
+FA: benhur نوشت: سلام Sniffer
+
+امیدوارم اشکالی نداشته باشد که از شما بخواهم دربارهٔ «Liquidity Gaps» بیشتر توضیح دهید؟
+
+تعریف شما از آن چیست، و چطور (و چرا) انتظار واکنش قیمت در این زون را دارید؟
+
+ممنون
+
+سلام benhur،
+
+صبح جوابت را می‌دهم، اما در این فاصله ببینیم قیمت چطور به کندل‌های حجم‌بالای مشخص‌شده در چارت‌های زیر واکنش می‌دهد.
+
+### sniffing_p6_10
+EN: Yes, thank you for that post on liquidity gaps. One of those aha moments. Looking forward to following your journal.
+FA: بله، ممنون برای آن پست دربارهٔ گپ‌های نقدینگی. یکی از همان لحظه‌های «آها». مشتاقم ژورنال شما را دنبال کنم.
+
+### sniffing_p6_11
+EN: seemes like there are some missing posts down here ??
+FA: به نظر می‌رسد چند پست در این پایین جا افتاده‌اند؟؟
+
+### sniffing_p6_12
+EN: extremerrage wrote: seemes like there are some missing posts down here ??
+
+Someone doesn't want you to see it it's a temporary situation - see my reply in
+	report bugs
+.
+FA: extremerrage نوشت: به نظر می‌رسد چند پست در این پایین جا افتاده‌اند؟؟
+
+کسی نمی‌خواهد تو آن را ببینی؛ یک وضعیت موقتی است - پاسخ من را در بخش report bugs ببین.
+
+### sniffing_p6_13
+EN: Before I post again about the LQ gap I decided to give a brief about the mechanism of order flow.
+
+When we look at the market watch window in our trading platform we'll see instrument's symbols and next to it two different prices, one is bid and another is ask or offer. These prices are offered to us through an online broker who is not just a broker but also a dealer.
+
+Here is an explanation of the difference between a dealer and a broker from “Trading & Exchanges – By Larry Harris”
+
+“Dealers and brokers help people trade. Dealers trade with their clients when their clients want to trade. The prices at which a dealer will buy and sell are the dealer's bid and ask prices. After they trade with their clients, dealers then try to trade out at a profit by selling what they have bought or by buying back what they have sold. In effect, clients pay dealers to take their trading problems. The dealers then try to solve them at a profit. Dealers profit by buying low and selling high. Successful dealers must be excellent traders.
+
+Brokers are agents who arrange trades for their clients. They help their clients find traders who are willing to trade with them. They profit by charging commissions.”
+
+Dealers are market makers and also known as market specialists, so they play a big role as a market participant beside other pro money, understand how they play and you'll play with them. Now we understand that online brokers act as brokers and dealers.
+
+Back to the market watch window, the ask/offer shows the lowest offer price which the market is willing to sell at and for you to buy, the bid shows the highest bid price which the market is willing to buy at and for you to sell.
+
+I’ve already explained in posts #
+	82
+ &
+	83
+ that there are two types of orders “market orders” and “limit orders”, in the below image I’m showing an example of an order book aka; DOM, Price Ladder, Level II. Bear in mind this is only for explanation purposes, in the currency and metals market there is no depth of market, it only applies to centralized markets such as futures, equities and commodities. Of course banks and dealers have their own order books but it only shows their clients orders. Back to the image, the offers column for sell limit orders, bids for buy limit orders and in middle is the price. I’ve taken eur/usd prices as an example, the orders are standard lots/contracts (i.e. 200K = 2 lots and 1M = 10 lots), the two prices highlighted in yellow presents the Bid/Ask prices which we see on our market watch (spread in this example is unrealistic and only to make it easier).
+
+Anyone entering the market with market orders will be buying at 1.3010 and selling at 1.300. Now let’s say you place buy market orders of 500K (5 lots) what will happen?! Your orders will be executed at the lowest offer consuming the 200K at 1.3010 and a 300K out of 500K at 1.3020 and this price will be the new lowest offer with 200K limit orders, so as offers were consumed price moved up to 1.3020
+
+Another scenario; you are placing a sell market orders of 1 million (10 lots) what is the outcome?! Your orders will be executed at the highest bid consuming the 400K at 1.3000, the 200K at 1.2980, the 300K at 1.2970 and a 100K out of 500K at 1.2950 and this will be the new highest bid with 400K limit orders, so as bids were consumed price moved down to 1.2950
+
+This is how price moves up or down by consuming orders, and bigger orders generate buying/selling pressure (momentum) pushing price in its direction consuming smaller orders until it stops (slow down /stalls) at a new price where there are opposite bigger orders are placed.
+
+One last thing, the stop loss pending orders considered as limit orders and when it’s executed it adds pressure in the opposite direction.
+
+Hope it makes sense.
+FA: پیش از آنکه دوباره دربارهٔ گپ LQ پست بگذارم، تصمیم گرفتم مختصری دربارهٔ سازوکار جریان سفارش توضیح بدهم.
+
+وقتی به پنجرهٔ مارکت واچ در پلتفرم معاملاتی‌مان نگاه می‌کنیم، نمادهای ابزارها را می‌بینیم و کنار هر کدام دو قیمت متفاوت؛ یکی بید و دیگری آسک یا آفر. این قیمت‌ها از طریق یک بروکر آنلاین به ما ارائه می‌شوند که فقط بروکر نیست، بلکه یک دیلر هم هست.
+
+این هم توضیح تفاوت دیلر و بروکر، از کتاب «Trading & Exchanges» نوشتهٔ Larry Harris:
+
+«دیلرها و بروکرها به مردم در معامله‌کردن کمک می‌کنند. دیلرها وقتی مشتریانشان می‌خواهند معامله کنند، با آن‌ها معامله می‌کنند. قیمت‌هایی که دیلر با آن‌ها می‌خرد و می‌فروشد، همان قیمت‌های بید و آسک دیلر است. دیلرها پس از معامله با مشتریانشان، تلاش می‌کنند با فروش آنچه خریده‌اند یا بازخرید آنچه فروخته‌اند، با سود از معامله بیرون بیایند. در واقع مشتریان به دیلرها پول می‌دهند تا مشکلات معاملاتی‌شان را بر دوش بگیرند. دیلرها هم می‌کوشند این مشکلات را با سود حل کنند. سود دیلر از خرید ارزان و فروش گران می‌آید. دیلر موفق باید معامله‌گر برجسته‌ای باشد.
+
+بروکرها نمایندگانی هستند که معامله را برای مشتریانشان ترتیب می‌دهند. آن‌ها به مشتریانشان کمک می‌کنند معامله‌گرانی را پیدا کنند که حاضر به معامله با آن‌ها باشند. سودشان از دریافت کمیسیون است.»
+
+دیلرها مارکت‌میکر هستند و به آن‌ها متخصص بازار هم می‌گویند؛ پس در کنار سایر پول حرفه‌ای نقش بزرگی به‌عنوان یک فعال بازار دارند. نحوهٔ بازی‌شان را بفهمی، با آن‌ها بازی می‌کنی. حالا می‌فهمیم که بروکرهای آنلاین هم نقش بروکر را دارند و هم دیلر.
+
+برگردیم به پنجرهٔ مارکت واچ: آسک/آفر پایین‌ترین قیمت آفر را نشان می‌دهد که بازار حاضر است با آن بفروشد و تو با آن بخری؛ بید بالاترین قیمت بید را نشان می‌دهد که بازار حاضر است با آن بخرد و تو با آن بفروشی.
+
+قبلاً در پست‌های #82 و #83 توضیح داده‌ام که دو نوع سفارش داریم: «سفارش مارکت» و «سفارش لیمیت». در تصویر زیر نمونه‌ای از یک اوردربوک را نشان می‌دهم، همان DOM، پرایس لدر یا Level II. در نظر داشته باش که این فقط برای توضیح است؛ در بازار ارز و فلزات عمق بازار وجود ندارد و تنها در بازارهای متمرکزی مثل فیوچرز، سهام و کالاها کاربرد دارد. البته بانک‌ها و دیلرها اوردربوک خودشان را دارند، اما آن فقط سفارش‌های مشتریانشان را نشان می‌دهد. برگردیم به تصویر: ستون آفرها برای سفارش‌های لیمیت فروش است، بیدها برای سفارش‌های لیمیت خرید و در وسط قیمت قرار دارد. قیمت‌های eur/usd را نمونه گرفته‌ام؛ سفارش‌ها لات/قرارداد استاندارد هستند (یعنی 200K = 2 لات و 1M = 10 لات)، و دو قیمت هایلایت‌شده با رنگ زرد همان قیمت‌های بید/آسک است که در مارکت واچ می‌بینیم (اسپرد در این مثال غیرواقعی است و فقط برای ساده‌تر شدن کار).
+
+هر کسی با سفارش مارکت وارد بازار شود، در 1.3010 می‌خرد و در 1.300 می‌فروشد. حالا فرض کن سفارش مارکت خرید 500K (5 لات) می‌گذاری؛ چه اتفاقی می‌افتد؟! سفارش‌هایت در پایین‌ترین آفر اجرا می‌شوند: 200K در 1.3010 مصرف می‌شود و 300K از 500K در 1.3020، و این قیمت پایین‌ترین آفر جدید با 200K سفارش لیمیت خواهد بود؛ پس با مصرف آفرها قیمت به 1.3020 رفت.
+
+سناریوی دیگر: سفارش مارکت فروش 1 میلیون (10 لات) می‌گذاری؛ نتیجه چه می‌شود؟! سفارش‌هایت در بالاترین بید اجرا می‌شوند: 400K در 1.3000، 200K در 1.2980، 300K در 1.2970 و 100K از 500K در 1.2950 مصرف می‌شود، و این بالاترین بید جدید با 400K سفارش لیمیت خواهد بود؛ پس با مصرف بیدها قیمت به 1.2950 پایین آمد.
+
+اینگونه است که قیمت با مصرف سفارش‌ها بالا یا پایین می‌رود؛ سفارش‌های بزرگ‌تر فشار خرید/فروش (مومنتوم) ایجاد می‌کنند و قیمت را در جهت خودشان می‌رانند و سفارش‌های کوچک‌تر را مصرف می‌کنند تا جایی که در قیمتی جدید، جایی که سفارش‌های بزرگ‌تر مخالف قرار دارد، متوقف شود (کند شود / بایستد).
+
+یک نکتهٔ آخر: سفارش‌های معلق استاپ‌لاس هم نوعی سفارش لیمیت حساب می‌شوند و وقتی اجرا شوند، فشار را در جهت مخالف اضافه می‌کنند.
+
+امیدوارم منطقی باشد.
+
+### sniffing_p6_14
+EN: benhur wrote: I hope it is alright to ask you to elaborate more about "Liquidity Gaps"?
+
+What is your definition for it, and how (and why) you expect of price reaction at this zone?
+
+There is no easy way to answer this question as it requires a study of the market microstructure which explains how the exchange occurs in financial markets and the order flow process, but I’ll try my best to make it simple.
+
+First of all, kindly refer to my first post
+	here
+ for some of the terms which in my opinion share the same meaning/definition.
+
+Second, take a look at my previous post.
+
+Now back to basics, we know that in a normal market there is a buyer for every seller and vice versa, this is considered a stable state of the market as it creates a balance between supply and demand and maintains a stable price value, and as the imbalance occurs in supply and demand the value of price increases or decreases. The balance state on chart is presented by a consolidation in price, and the imbalance is presented by a high volume/momentum candle (also known as a sign of Pro money / Institution’s buying or selling). If we zoom into the consolidation (LTF) we’ll find other states of balance and imbalance.
+
+In post #
+	90
+ I tried to explain the orders execution of Pro money but not in an accurate way for the sake of simplicity but I fixed this in post #
+	138
+. So to recap, to have your orders executed at current price you need someone on the opposite side with the same number of orders otherwise price will move too much from your entry until it finds an opposite stack of orders. Retail traders have a big advantage over Pro money since their orders gets executed at current price, a benefit that Pro money doesn't have due to their mass orders which gets executed at different prices as the price moves away from their initial entry. Hence they tend to accumulate/distribute their orders through positioning, re-entering on retracements or even creating them as well as fakeouts.
+
+By now you understand why the sign of pro money buying/selling is presented by a high momentum candles aka liquidity gaps, but if you didn’t then continue reading.
+
+A liquidity gap means low liquidity! How?! You know that for every seller there is buyer and vice versa, but you also know that online brokers doesn't guarantee a non-slippage or a no requote during the time of volatile news due to low liquidity, and you can clearly see it on charts during such news when a long spike or a high momentum candle is created in seconds. A broker wouldn’t take the risk if you’re buying because they can't find you a seller unless they are willing to take the risk by selling to you as a dealer.
+
+So how could we say it’s a low liquidity when price moves in a high volume?! Again, we know that high volume candles are signs of big money, institutions etc. entering the market or in control of the market pushing price in their direction...that is true. However, the liquidity in this case is being injected from one side only (the dominant side) hence the name liquidity gap and the equation “Volatility = High Volume + Low Liquidity”.
+
+Now bear with me...The "normal or balanced state" of the market is to have a seller for every buyer thus maintaining an efficient change in price value, so when the market moves up or down either in consolidation or in a ladder steps behavior then it’s a “normal balanced state”, but if it moves up or down with a high volatility and momentum then its "abnormal or imbalanced state" and it’s a sign of domination from one side.
+
+So what is the conclusion?! The dominant side (pro money) would want to collect their profits as soon as price reaches their targets which results in market returning to its previous state (rebalancing) on a wider scale and filling up the liquidity gaps.
+
+I've answered the definition part in your question; now let’s answer the other part related to price reaction. I hope you were paying attention to the Fiber and Cable as I suggested in post #
+	134
+ and you can see the marked LQ gaps in the process of getting filled.
+
+Look at the attached Gold daily chart and see the price behavior when it broke through a decision area/major key level of significance, creating a high momentum candle as a sign of one side in control bulls or bears and how they wanted to push it higher or lower, of course price will return to fill the LQ gaps but later in the future, not at the present time of the incident specially not when it starts creating a new DP/Supply/Demand as pro money position their entries. On the other hand you can notice larger high momentum candles (LQ gaps) gets filled the same day or next day but this happens when price fails to break through a major DP or key level and this is when pro money are accumulating/distributing (bottom and top side of the chart).
+
+The market is in a constant state/phase shifting from normal to abnormal, balanced to imbalanced and back again, just the same as in ranging to trending and back again (refer to Wyckoff Market Theory), and every range contains the two phases if you zoom in, the same applies to the bottom consolidated area in chart.
+
+Supply & Demand trading style is in harmony with order flow and it works according to this stuff. IMO if we learn how the market works from the beginning it would save us a lot of time in our journey.
+
+Hope I made it clear and simple.
+FA: benhur نوشت: امیدوارم اشکالی نداشته باشد که از شما بخواهم دربارهٔ «Liquidity Gaps» بیشتر توضیح دهید؟
+
+تعریف شما از آن چیست، و چطور (و چرا) انتظار واکنش قیمت در این زون را دارید؟
+
+پاسخ آسانی برای این پرسش نیست، چون به مطالعهٔ ریزساختار بازار نیاز دارد؛ همان چیزی که توضیح می‌دهد مبادله در بازارهای مالی چطور رخ می‌دهد و فرآیند جریان سفارش چیست. اما تلاش می‌کنم تا جای ممکن ساده‌اش کنم.
+
+پیش از هر چیز، لطفاً به پست اول من اینجا مراجعه کن؛ چند اصطلاح آنجا هست که به نظر من معنا/تعریف یکسانی دارند.
+
+دوم، نگاهی به پست قبلی‌ام بینداز.
+
+برگردیم به اصول: می‌دانیم در یک بازار عادی برای هر فروشنده یک خریدار هست و برعکس؛ این وضعیت پایدار بازار به حساب می‌آید، چون تعادل میان عرضه و تقاضا ایجاد می‌کند و ارزش قیمت را پایدار نگه می‌دارد، و هر وقت عدم تعادل در عرضه و تقاضا رخ دهد، ارزش قیمت بالا یا پایین می‌رود. وضعیت تعادل روی چارت با تثبیت قیمت نمایش داده می‌شود و عدم تعادل با یک کندل حجم‌بالا/مومنتوم (که نشانهٔ خرید یا فروش پول حرفه‌ای / نهادها هم شناخته می‌شود). اگر روی تثبیت زوم کنیم (LTF)، وضعیت‌های دیگر تعادل و عدم تعادل را پیدا می‌کنیم.
+
+در پست #90 تلاش کردم اجرای سفارش‌های پول حرفه‌ای را توضیح دهم، اما برای ساده‌شدن، نه به‌صورت دقیق؛ این را در پست #138 اصلاح کردم. خلاصه اینکه، برای اینکه سفارش‌هایت در قیمت جاری اجرا شوند، به کسی در سمت مقابل با همان تعداد سفارش نیاز داری، وگرنه قیمت از ورود تو بیش از حد فاصله می‌گیرد تا به پشته‌ای از سفارش‌های مخالف برسد. معامله‌گران خرد نسبت به پول حرفه‌ای مزیت بزرگی دارند، چون سفارش‌هایشان در قیمت جاری اجرا می‌شود؛ مزیتی که پول حرفه‌ای به‌خاطر سفارش‌های حجیمش ندارد و آن‌ها با فاصله گرفتن قیمت از ورود اولیه‌شان، در قیمت‌های مختلف اجرا می‌شوند. به همین دلیل گرایش دارند سفارش‌هایشان را از طریق پوزیشن‌گیری، ورود دوباره در اصلاح‌ها یا حتی ساختن خودشان و همچنین فیک‌اوت‌ها، انباشت/توزیع کنند.
+
+تا اینجا فهمیدی چرا نشانهٔ خرید/فروش پول حرفه‌ای با کندل‌های مومنتوم بالا، معروف به گپ‌های نقدینگی، نمایش داده می‌شود؛ اما اگر نفهمیدی، ادامه بده.
+
+گپ نقدینگی یعنی نقدینگی کم! چطور؟! می‌دانی که برای هر فروشنده یک خریدار هست و برعکس، اما می‌دانی هم که بروکرهای آنلاین در زمان اخبار پرنوسان، به‌خاطر کمبود نقدینگی، نه نبود اسلیپیج را تضمین می‌کنند و نه نبود ری‌کوت را؛ و این را در چارت‌ها در چنین اخباری به‌روشنی می‌بینی، وقتی در چند ثانیه یک اسپایک بلند یا یک کندل مومنتوم بالا ساخته می‌شود. بروکر اگر تو خریدار باشی ریسک نمی‌کند، چون نمی‌تواند فروشنده‌ای برایت پیدا کند، مگر اینکه حاضر باشد به‌عنوان دیلر این ریسک را بپذیرد و به تو بفروشد.
+
+پس چطور می‌توانیم بگوییم نقدینگی کم است وقتی قیمت با حجم بالا حرکت می‌کند؟! باز هم می‌دانیم کندل‌های حجم بالا نشانهٔ ورود پول بزرگ، نهادها و امثال آن‌ها به بازار یا کنترل بازار توسط آن‌ها و هُل دادن قیمت در جهت خودشان است... این درست است. اما نقدینگی در این حالت فقط از یک سمت (سمت غالب) تزریق می‌شود؛ از همین رو اسمش گپ نقدینگی است و معادله هم این است: «نوسان = حجم بالا + نقدینگی کم».
+
+حالا کمی صبر کن... «وضعیت عادی یا متعادل» بازار یعنی برای هر خریدار یک فروشنده باشد و به این ترتیب تغییر کارای ارزش قیمت حفظ شود؛ پس وقتی بازار بالا یا پایین می‌رود، چه در تثبیت و چه به‌شکل پله‌پله، «وضعیت عادی و متعادل» است، اما اگر با نوسان و مومنتوم بالا بالا یا پایین برود، «وضعیت غیرعادی یا نامتعادل» است و نشانهٔ سلطهٔ یک سمت.
+
+پس نتیجه چیست؟! سمت غالب (پول حرفه‌ای) می‌خواهد به‌محض رسیدن قیمت به اهدافش سودش را جمع کند، و نتیجه‌اش بازگشت بازار به وضعیت قبلی (بازتعادل‌سازی) در مقیاسی بزرگ‌تر و پر شدن گپ‌های نقدینگی است.
+
+بخش تعریف در پرسشت را جواب دادم؛ حالا برویم سر بخش دیگر که به واکنش قیمت مربوط است. امیدوارم همان‌طور که در پست #134 پیشنهاد دادم به فایبر و کابل توجه کرده باشی و ببینی که گپ‌های LQ مشخص‌شده در حال پر شدن‌اند.
+
+به چارت روزانهٔ طلای پیوست نگاه کن و رفتار قیمت را ببین وقتی از یک ناحیهٔ تصمیم/سطح کلیدی مهم عبور کرد و یک کندل مومنتوم بالا ساخت، به‌عنوان نشانهٔ کنترل یک سمت، گاوها یا خرس‌ها، و اینکه می‌خواستند قیمت را بالاتر یا پایین‌تر ببرند؛ البته قیمت برای پر کردن گپ‌های LQ برمی‌گردد، اما در آیندهٔ بعدتر، نه در همان لحظهٔ رخداد، مخصوصاً وقتی شروع به ساختن DP/عرضه/تقاضای جدید می‌کند، چون پول حرفه‌ای دارد ورودهایش را پوزیشن می‌گیرد. از طرف دیگر می‌توانی ببینی کندل‌های مومنتوم بالای بزرگ‌تر (گپ‌های LQ) همان روز یا روز بعد پر می‌شوند، اما این وقتی رخ می‌دهد که قیمت در شکست یک DP یا سطح کلیدی مهم ناکام بماند و همان‌جاست که پول حرفه‌ای در حال انباشت/توزیع است (پایین و بالای چارت).
+
+بازار مدام در حال جابه‌جایی بین وضعیت‌هاست: از عادی به غیرعادی، از متعادل به نامتعادل و دوباره برگشت، درست مثل رفتن از رنج به روند و برگشت دوباره (به نظریهٔ بازار Wyckoff مراجعه کن)؛ و اگر زوم کنی، هر رنج هر دو فاز را در خود دارد. همین دربارهٔ ناحیهٔ تثبیت‌شدهٔ پایین چارت هم صادق است.
+
+سبک معامله‌گری عرضه و تقاضا با جریان سفارش هماهنگ است و بر پایهٔ همین چیزها کار می‌کند. به نظر من اگر از همان ابتدا یاد بگیریم بازار چطور کار می‌کند، در مسیرمان کلی وقت صرفه‌جویی می‌شود.
+
+امیدوارم روشن و ساده گفته باشم.
+
+### sniffing_p6_15
+EN: let me save the topic before i get another hallowen night !!! thx fx your posts are diamonds
+FA: بگذار تاپیک را ذخیره کنم قبل از اینکه دوباره یک شب هالووین دیگر بگیرم!!! ممنون fx، پست‌هایت الماس‌اند
+
+### sniffing_p6_16
+EN: Some were asking for analysis of euro’s latest move, so here it is…
+
+Starting with D1 chart if we switch to line diagram and draw a trend line then switch back to candles we’ll notice that price is still respecting the TL and there are two bullish candles with tails (a sign of buying) and a bearish LQ gap which has a big chance to be filled if price didn’t show signs of decline.
+
+On H4 we have our S/D zones marked, and the minor S/R flip from D1 is replaced by a decision point (minor demand zone) on this TF. Price created a new low when it bounced from the DP and it was coming from a bigger HH (top of the chart), then started creating a smaller High, HL followed by a HH, the last HL is ATF as we didn’t know that price will flip at that point before the bullish move.
+
+On H1 we have the same zones from H4 in addition to a new demand zone from H1, two new S/R flip from the same TF (yellow pointers showing the support/resistance flip areas), and a TL for guidance. We can clearly see price was flagging into H1 demand to fill up the LQ gaps on lift (in other words…pole > bullish flag pattern). The orange pointer #1 pointing at a breakout and retest of TL, and a “breakthrough close above” S/R flip, the small bearish candle with tail was sitting at the level and a sign of buying, next price moved up and again broke through the upper S/R flip and closed above it and made a nice retest and it can be clearly seen on LTFs. Next price shoot to the first H4 supply zone, ignored it and continued to second H4 supply.
+
+In the second H1 chart I’m showing a different scenario of price behavior if it dropped deeper into H1 demand zone, in this case it would have a been a selling pressure to consume demand.
+FA: بعضی‌ها تحلیل آخرین حرکت یورو را می‌خواستند، پس بفرمایید...
+
+از چارت D1 شروع می‌کنم: اگر به نمودار خطی سوییچ کنیم و یک خط روند بکشیم و بعد به کندل‌ها برگردیم، می‌بینیم قیمت همچنان به TL احترام می‌گذارد و دو کندل صعودی با سایه داریم (نشانهٔ خرید) و یک گپ LQ نزولی که اگر قیمت نشانهٔ نزول نشان ندهد، شانس زیادی برای پر شدن دارد.
+
+در H4 زون‌های S/D ما مشخص‌اند، و S/R flip فرعی چارت D1 در این تایم‌فریم جای خود را به یک نقطهٔ تصمیم (زون تقاضای فرعی) داده است. قیمت وقتی از DP برگشت یک کف جدید ساخت و از یک HH بزرگ‌تر (بالای چارت) آمده بود، بعد شروع کرد به ساختن یک سقف کوچک‌تر، HL و پس از آن یک HH؛ آخرین HL از نظر زمانی ATF است، چون ما نمی‌دانستیم قیمت پیش از حرکت صعودی در آن نقطه فلیپ می‌کند.
+
+در H1 همان زون‌های H4 را داریم به‌علاوهٔ یک زون تقاضای جدید از H1، دو S/R flip تازه از همین تایم‌فریم (اشاره‌گرهای زرد نواحی فلیپ حمایت/مقاومت را نشان می‌دهند) و یک TL برای راهنمایی. به‌وضوح می‌بینیم قیمت داشت به‌شکل فلگ وارد تقاضای H1 می‌شد تا گپ‌های LQ را در مسیر صعود پر کند (به‌عبارت دیگر... میله > الگوی فلگ صعودی). اشاره‌گر نارنجی شمارهٔ 1 به شکست و ریتست TL اشاره دارد و به یک S/R flip که «با عبور، بالای آن بسته شد»؛ کندل نزولی کوچک با سایه روی سطح نشسته بود و نشانهٔ خرید بود، بعد قیمت بالا رفت و دوباره از S/R flip بالایی عبور کرد و بالای آن بست و ریتست خوبی داد که در LTF‌ها به‌وضوح دیده می‌شود. سپس قیمت به اولین زون عرضهٔ H4 شوت کرد، نادیده‌اش گرفت و به عرضهٔ دوم H4 ادامه داد.
+
+در چارت دوم H1 سناریوی متفاوتی از رفتار قیمت را نشان می‌دهم، برای وقتی که عمیق‌تر در زون تقاضای H1 فرو بریزد؛ در این حالت یک فشار فروش برای مصرف تقاضا می‌بود.
+
+### sniffing_p6_17
+EN: Thank you for the explaination FX.Sniffer, it is much clearer now.
+
+As it is now, do you think euro will move south or continuing north?
+
+We're still in supply right now and the move up barely have a retracement.
+
+I'm hoping for this scenario to happen :)
+
+edit:
+
+it seems i can't insert a chart here, i'm hoping it will move south to the zone above the H4 supply below on your H1 chart
+FA: ممنون از توضیحی که دادی FX.Sniffer، حالا خیلی روشن‌تر شد.
+
+در وضعیت فعلی، فکر می‌کنی یورو به سمت جنوب می‌رود یا شمال را ادامه می‌دهد؟
+
+ما همین حالا هم در عرضه هستیم و حرکت صعودی به‌سختی اصلاحی داشته.
+
+امیدوارم این سناریو اتفاق بیفتد :)
+
+ویرایش:
+
+به نظر می‌رسد نمی‌توانم اینجا چارت بگذارم؛ امیدوارم به طرف جنوب برود، به زونی که بالای عرضهٔ H4 پایینی در چارت H1 تو قرار دارد
+
+### sniffing_p6_18
+EN: alvin2434 wrote: Thank you for the explaination FX.Sniffer, it is much clearer now.
+
+As it is now, do you think euro will move south or continuing north?
+
+We're still in supply right now and the move up barely have a retracement.
+
+I'm hoping for this scenario to happen :)
+
+edit:
+
+it seems i can't insert a chart here, i'm hoping it will move south to the zone above the H4 supply below on your H1 chart
+
+Hey alvin,
+
+By looking at daily chart a breakthrough and close above S/R flip 1 would have been a sign of uptrend continuation and no way to think of selling specially that the way is clear above to daily supply, but price closed above the minor S/R flip 2 and another close below the level would be a good sign of retracement. The lower levels are trouble areas to watch for price behavior.
+
+On H4 the same levels from daily should make more sense now, and the left behind LQ gaps are screaming to be get filled but waiting for a PA confirmation is a must specially that the current supply is not a fresh one.
+
+On M15 there is a fakeout marked by the orange pointer and its being tested now, the DP for price to visit again for a new decision to take, the broken supply zone you mentioned is sitting in the middle.
+FA: alvin2434 نوشت: ممنون از توضیحی که دادی FX.Sniffer، حالا خیلی روشن‌تر شد.
+
+در وضعیت فعلی، فکر می‌کنی یورو به سمت جنوب می‌رود یا شمال را ادامه می‌دهد؟
+
+ما همین حالا هم در عرضه هستیم و حرکت صعودی به‌سختی اصلاحی داشته.
+
+امیدوارم این سناریو اتفاق بیفتد :)
+
+ویرایش:
+
+به نظر می‌رسد نمی‌توانم اینجا چارت بگذارم؛ امیدوارم به طرف جنوب برود، به زونی که بالای عرضهٔ H4 پایینی در چارت H1 تو قرار دارد
+
+هی alvin،
+
+با نگاه به چارت روزانه، بسته شدن بالای S/R flip 1 نشانهٔ ادامهٔ روند صعودی می‌بود و جای فکر کردن به فروش نمی‌ماند، مخصوصاً که راه تا عرضهٔ روزانهٔ بالای سر باز بود؛ اما قیمت بالای S/R flip فرعی 2 بسته شد و یک بستهٔ دیگر زیر سطح، نشانهٔ خوبی برای اصلاح خواهد بود. سطوح پایین‌تر نواحی دردسرداری هستند که باید رفتار قیمت را در آن‌ها زیر نظر گرفت.
+
+در H4 همان سطوح چارت روزانه حالا باید معنی بیشتری بدهند، و گپ‌های LQ جامانده داد می‌زنند که باید پر شوند، اما صبر کردن برای تأیید PA الزامی است، مخصوصاً که عرضهٔ فعلی تازه نیست.
+
+در M15 یک فیک‌اوت با اشاره‌گر نارنجی مشخص شده که همین حالا در حال تست است، همان DP که قیمت باید دوباره سر بزند تا تصمیم تازه‌ای بگیرد؛ زون عرضهٔ شکسته‌ای هم که گفتی در وسط قرار دارد.
+
+### sniffing_p6_19
+EN: Didn't take a long time for euro to move and now that weak supply zone is consumed and the s/r flip levels saved the day, and a new DP to take the price higher is confirmed on m15.
+FA: حرکت یورو طول نکشید و حالا آن زون عرضهٔ ضعیف مصرف شده و سطوح S/R flip روز را نجات دادند، و یک DP تازه برای بردن قیمت بالاتر در m15 تأیید شده است.
+
+### sniffing_p6_20
+EN: To analyze gold's trade calls of this week...starting with the first call
+	here
+, price didnt retrace immdeiatly to the 1665.04 level so there was no trade.
+
+The second call
+	here
+, finally when price came back to the lower horizontal line at 1665.04 (existing level from trade call) there were two entries marked by the vertical golden lines. First entry on M5 after the bearish engulf candle which has engulfed a bullish candle with wick. Second conservative entry a retest of engulf pattern, and TG was the S/R flip from M15 (new added level).
+
+After that, price did go up to the higher H1 supply zone around 1675.40 and a safe entry was on M5 after a break through and retest of the horizontal line (existing level from trade call).
+
+Last call for this week
+	here
+, unfortunately price bounced back before touching demand zone and back to supply and another chance for second entry confirmed by candle patterns before dropping again breaking through the demand, creating a DBD and hopefully it'll reach to the initial target from first call if it bypass the current S/R flip.
+
+P.S. All the horizontal lines mentioned here are S/R flip levels.
+FA: برای تحلیل کال‌های معاملاتی طلا در این هفته... با کال اول شروع می‌کنم؛ قیمت بلافاصله به سطح 1665.04 اصلاح نکرد، پس معامله‌ای در کار نبود.
+
+کال دوم؛ بالاخره وقتی قیمت به خط افقی پایینی در 1665.04 برگشت (سطحی که از قبل در کال بود)، دو ورود با خطوط طلایی عمودی مشخص شده بود. ورود اول در M5 پس از کندل اینگالف نزولی که یک کندل صعودی دارای سایه را در بر گرفته بود. ورود دوم، محافظه‌کارانه‌تر، ریتست الگوی اینگالف بود، و تارگت هم S/R flip در M15 بود (سطح تازه‌اضافه‌شده).
+
+بعد از آن، قیمت واقعاً به زون عرضهٔ بالاتر H1 حدود 1675.40 رفت و یک ورود ایمن در M5 بعد از شکست و ریتست خط افقی (سطحی که از قبل در کال بود) انجام شد.
+
+آخرین کال این هفته؛ متأسفانه قیمت پیش از رسیدن به زون تقاضا برگشت و به عرضه رفت و فرصت دیگری برای ورود دوم با تأیید الگوهای کندلی پیش آمد، قبل از اینکه دوباره بیفتد، تقاضا را بشکند، یک DBD بسازد و امیدوارم اگر از S/R flip فعلی عبور کند به تارگت اولیهٔ کال اول برسد.
+
+پ.ن. همهٔ خطوط افقی که اینجا گفتم، سطوح S/R flip هستند.
+
+### sniffing_p6_21
+EN: Here is a link to a new article in Markepedia about key levels or key S/R flips that works in conjunction with LQ gaps and the order flow.
+
+	Key Levels and Price Action There
+
+Cheers,
+FA: این هم لینکی به یک مقالهٔ تازه در Markepedia دربارهٔ سطح‌های کلیدی یا فلیپ‌های S/R که با گپ‌های LQ و جریان سفارش هم‌خوانی دارند.
+
+سطوح کلیدی و پرایس اکشن در آنجا
+
+با احترام،
+
+### sniffing_p6_22
+EN: FX.Sniffer wrote: Last call for this week
+	here
+, unfortunately price bounced back before touching demand zone and back to supply and another chance for second entry confirmed by candle patterns before dropping again breaking through the demand, creating a DBD and hopefully it'll reach to the initial target from first call if it bypass the current S/R flip.
+
+P.S. All the horizontal lines mentioned here are S/R flip levels.
+
+An update, price didn't bypass the lowest S/R (change of sentiment) and bounced back from it at [1], it went through the DBD and closed above the higher S/R, formed two small pinbars (buying signal) [2], then went up close to next S/R and retraced back down to retest the lower S/R at [3], no close below the flip level and price went up breaking through the higher S/R at [4] consuming supply zone.
+
+Now awaiting price to retest the broken S/R at [4] for a long entry and TG at higher supply zones and SL below S/R.
+FA: FX.Sniffer نوشت: آخرین کال این هفته؛ متأسفانه قیمت پیش از رسیدن به زون تقاضا برگشت و به عرضه رفت و فرصت دیگری برای ورود دوم با تأیید الگوهای کندلی پیش آمد، قبل از اینکه دوباره بیفتد، تقاضا را بشکند، یک DBD بسازد و امیدوارم اگر از S/R flip فعلی عبور کند به تارگت اولیهٔ کال اول برسد.
+
+پ.ن. همهٔ خطوط افقی که اینجا گفتم، سطوح S/R flip هستند.
+
+یک به‌روزرسانی: قیمت از پایین‌ترین S/R (تغییر احساسات) عبور نکرد و در [1] از آن برگشت، از DBD گذشت و بالای S/R بالاتر بست، دو پین‌بار کوچک ساخت (سیگنال خرید) [2]، بعد بالا رفت تا نزدیک S/R بعدی و دوباره پایین آمد تا S/R پایینی را در [3] ریتست کند؛ هیچ بسته‌شدنی زیر سطح فلیپ نبود و قیمت بالا رفت و با مصرف زون عرضه از S/R بالاتر در [4] عبور کرد.
+
+حالا منتظریم قیمت برای یک ورود لانگ، S/R شکسته‌شده در [4] را ریتست کند، با تارگت در زون‌های عرضهٔ بالاتر و استاپ‌لاس زیر S/R.
+
+### sniffing_p6_23
+EN: For more on gold analysis see
+	here
+.
+FA: برای تحلیل بیشتر طلا اینجا را ببینید.
+
+### sniffing_p6_24
+EN: Updating Gold: price retraced back near to the previously mentioned S/R flip at 1675 which on LTF M5 is a demand zone, entry was on M1 directly after close bullish engulf.
+
+Will set SL some where around 1680 and will see if it hit H1 supply.
+
+Note: there was another entry on second retrace.
+
+Update: got stopped out at SL.
+FA: به‌روزرسانی طلا: قیمت به نزدیکی S/R flip قبلاً گفته‌شده در 1675 برگشت که در LTF یعنی M5 یک زون تقاضاست؛ ورود در M1 درست بعد از بسته شدن اینگالف صعودی انجام شد.
+
+استاپ‌لاس را حدود 1680 می‌گذارم و می‌بینم به عرضهٔ H1 می‌رسد یا نه.
+
+نکته: در اصلاح دوم یک ورود دیگر هم بود.
+
+به‌روزرسانی: با استاپ‌لاس از معامله بیرون رفتم.
+
+### sniffing_p6_25
+EN: FX.Sniffer wrote: Updating Gold: price retraced back near to the previously mentioned S/R flip at 1675 which on LTF M5 is a demand zone, entry was on M1 directly after close bullish engulf.
+
+Will set SL some where around 1680 and will see if it hit H1 supply.
+
+Note: there was another entry on second retrace.
+
+The S/R flip I sense is strong with you.
+
+Really been honing in on these levels, cause my gold anaylis is still spotty and I need to contribute to the gold team lol, good trading.
+FA: FX.Sniffer نوشت: به‌روزرسانی طلا: قیمت به نزدیکی S/R flip قبلاً گفته‌شده در 1675 برگشت که در LTF یعنی M5 یک زون تقاضاست؛ ورود در M1 درست بعد از بسته شدن اینگالف صعودی انجام شد.
+
+استاپ‌لاس را حدود 1680 می‌گذارم و می‌بینم به عرضهٔ H1 می‌رسد یا نه.
+
+نکته: در اصلاح دوم یک ورود دیگر هم بود.
+
+احساس می‌کنم S/R flip در تو قوی است.
+
+واقعاً داری روی این سطوح متمرکز می‌شوی، چون تحلیل طلای من هنوز لکه‌دار است و باید به تیم طلا کمک کنم lol، معاملهٔ خوبی داشته باشی.

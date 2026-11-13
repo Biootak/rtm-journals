@@ -1,0 +1,382 @@
+===== fxeyes-p1 : 25 posts =====
+--- fxeyes_p1_1 author=fxeyes hash=73c1cc4a
+EN: starting a journal
+FA: شروع یک ژورنال
+--- fxeyes_p1_2 author=fxeyes hash=50d4c459
+EN: Just learned about BSZ last week. Interesting that's its the first
+thing I see on the open. Didn't recognize it at first, so i missed the
+trade. Reacted to a great s/r level, m5 kink.
+FA: همین هفتهٔ پیش با BSZ آشنا شدم. جالب است که اولین چیزی است که در بازگشایی بازار می‌بینم. اولش آن را نشناختم، بنابراین معامله را از دست دادم. به یک سطح حمایت/مقاومت عالی واکنش نشان داد؛ kink در m5.
+--- fxeyes_p1_3 author=Ifmyante hash=068e7d73
+EN: Yup. It can be a very powerful piece of PA
+FA: آره. می‌تواند بخش بسیار قدرتمندی از PA باشد.
+--- fxeyes_p1_4 author=fxeyes hash=4229a1e4
+EN: definitely need to do more homework
+FA: قطعاً باید بیشتر تمرین کنم.
+--- fxeyes_p1_5 author=fxeyes hash=9dcd6446
+EN: Missed trade, need to be faster with my reads
+FA: معامله را از دست دادم؛ باید در خواندنم سریع‌تر باشم.
+--- fxeyes_p1_6 author=fxeyes hash=b8a634a1
+EN: Was able to still get in on UC. QM formed within PAZ, zone starting
+at one PCP + qm lvl, ending at a higher PCP. Very conservative TG1 at
+PAZ level, looking for symmetry to complete the trade.
+FA: با این حال توانستم روی UC وارد شوم. QM داخل PAZ شکل گرفت؛ zone از یک PCP + qm lvl شروع می‌شود و در یک PCP بالاتر تمام می‌شود. TG1 بسیار محافظه‌کارانه در سطح PAZ؛ به دنبال تقارن برای تکمیل معامله هستم.
+--- fxeyes_p1_7 author=fxeyes hash=73f77ff5
+EN: Result from previous trade. Incredible reaction, gotta shake the short bias. iLS was a great entry zone
+FA: نتیجهٔ معاملهٔ قبلی. واکنش باورنکردنی؛ باید این بایاس فروش را کنار بگذارم. iLS یک zone ورود عالی بود.
+--- fxeyes_p1_8 author=fxeyes hash=92320968
+EN: EU hit a nice mpl level on H4. Got a LTF confirmation (pole cm) but
+engulf hit a FL so kinda risky, took tg1 asap. Gonna SAS this one and
+gamble a bit (no PA for a bigger up move yet, but I like the pole up and
+ move down on H4), ftg at the QM level to complete symmetry. If it
+starts to compress into the H4 pole it's in now, might get out early.
+FA: EU روی H4 به یک mpl level خوب رسید. تأییدیهٔ LTF گرفتم (pole cm) اما اینگالف به یک FL خورد، پس تا حدودی پرریسک بود؛ tg1 را فوراً گرفتم. قصد دارم این یکی را SAS کنم و کمی ریسک کنم (هنوز PA‌ای برای یک حرکت صعودی بزرگ‌تر نیست، اما pole صعودی و حرکت نزولی روی H4 را می‌پسندم)؛ ftg در سطح QM برای تکمیل تقارن. اگر شروع کند به فشرده شدن داخل همان pole روی H4 که الان در آن است، ممکن است زودتر خارج شوم.
+--- fxeyes_p1_9 author=fxeyes hash=04d22d6e
+EN: Price hit nice H4 mpl zone, with LS lining up with H4 lvl. Hesitated
+at 1 when it hit level and started compressing into zone. Hesitated
+again at 2 after an engulf and retrace back to LS. Finally got in on
+the 3rd try, QM lvl + PCP. Got out half at tg1, not sure what to do
+about the other half yet, probably should have just closed it (no HTF
+engulf on that big move down)
+FA: قیمت به zone خوب mpl روی H4 رسید و LS هم با lvl روی H4 هم‌راستا بود. در 1 تردید کردم، همان‌جا که به سطح خورد و شروع کرد به فشرده شدن داخل zone. باز هم در 2 مردد شدم، این بار بعد از یک اینگالف و بازگشت به LS. بالاخره در تلاش 3 وارد شدم: QM lvl + PCP. نیمی را در tg1 بستم؛ هنوز مطمئن نیستم با نیم دیگر چه کنم، احتمالاً باید همان را هم کامل می‌بستم (روی آن حرکت نزولی بزرگ، اینگالف در HTF نداشتیم).
+--- fxeyes_p1_10 author=fxeyes hash=2c748988
+EN: Update on post #8 EU
+
+Saw that there was a really strong level to react on LTF, S/R + Mo lvl +
+ kink, exited manually when it didn't look like it was going to break
+through. Price retreated but then make the next move up. This meant i
+didn't follow my original HTF plan... need to practice holding through
+trades...
+FA: به‌روزرسانی دربارهٔ پست #8 EU
+
+دیدم که یک سطح واقعاً قوی برای واکنش در LTF وجود داشت: حمایت/مقاومت + Mo lvl + kink؛ وقتی دیدم به نظر نمی‌رسد از آن عبور کند، دستی خارج شدم. قیمت عقب نشست اما بعد حرکت صعودی بعدی را انجام داد. این یعنی از پلن اولیهٔ HTF خودم پیروی نکردم... باید تمرین کنم که تا انتهای معامله بمانم...
+--- fxeyes_p1_11 author=fxeyes hash=a5ac027b
+EN: Update on trade 9, UJ. Original plan was a SAS, since it hit a nice
+HTF level, with price compressing into the zone, and would retrace to at
+ least the origin of the compression and the H4 flip level. On further
+analysis, there wasn't an engulf and I lost my nerve and just closed the
+ trade for a small scalp. Price ended up running as expected.
+Another trade where I lost my nerve and couldn't hold, even after I got
+BE. There's a pattern here...
+FA: به‌روزرسانی دربارهٔ معاملهٔ 9، UJ. پلن اولیه SAS بود، چون به یک سطح خوب HTF خورده بود، قیمت هم داخل zone فشرده می‌شد و قرار بود حداقل تا مبدأ فشرده‌سازی و سطح flip روی H4 بازگشت کند. با تحلیل بیشتر، اینگالفی در کار نبود و من هم اعصابم را از دست دادم و فقط معامله را با یک اسکالپ کوچک بستم. قیمت در نهایت همان‌طور که انتظار داشتم حرکت کرد.
+یک معاملهٔ دیگر که در آن اعصابم را باختم و نتوانستم نگه دارم، حتی بعد از اینکه به BE رسیدم. یک الگو اینجا هست...
+--- fxeyes_p1_12 author=Ifmyante hash=741c9f9f
+EN: Excellent trading!
+
+Noting performances you're unhappy with will stand you in great stead. Facing your issues is the first step to fixing them
+FA: معامله‌گری فوق‌العاده!
+
+یادداشت کردن عملکردهایی که از آن‌ها راضی نیستی، کمک بزرگی به تو خواهد کرد. رو‌به‌رو شدن با مشکلات، اولین گام برای رفع آن‌هاست.
+--- fxeyes_p1_13 author=fxeyes hash=a73e0730
+EN: thanks for the encouragement!
+FA: ممنون بابت دلگرمی!
+--- fxeyes_p1_14 author=fxeyes hash=2f6b1f1e
+EN: Missed great QM trade. Kept the zone tight b/c there were no more
+fresh zones above. Thought I missed entry on the original CM into zone
+and removed PO, but nope, FO'd into pcp, as marked. grrrrr
+FA: یک معاملهٔ QM عالی را از دست دادم. zone را تنگ نگه داشتم چون بالاتر هیچ zone تازه‌ای نبود. فکر کردم ورود روی CM اولیه به داخل zone را از دست داده‌ام و PO را برداشتم، اما نه؛ همان‌طور که علامت زده بودم، FO به pcp خورد. اَهههه
+--- fxeyes_p1_15 author=fxeyes hash=5fdedad8
+EN: Reminder to follow rules: trade tactics
+
+Although i got out of this mistrade relatively unscathed, its a reminder
+ to follow rules, as one rule broken leads to other rules broken.
+
+Entry 1 was at a supply level, but no tricks played so I should have
+played it tight on TT. Got good entry, but reaction was compression back
+ to untouched zone. Instead of exiting half at flag, I held on just a
+little longer trying to get a perfect 1:1 for BE. But of course, PA
+reacted as you expected and it breaks my zone, turning a (near) BE to a
+loss. Next zone was the one I was really gunning for. Price shoots
+into it, but i hesitate because of the mistake earlier, so i get a not
+so good entry, and exit the entire trade on s/r, instead of selling just
+ half, and holding on to HTF trade.
+
+Lessons:
+
+- Follow PA for BE, don't try to pull 1:1 or more if PA is not telling
+you that you can. (Or don't take trade if 1:1 isn't there for BE).
+
+- Broken rules and mistakes leads to more broken rules and mistakes.
+Instead of a slight gain with an opportunity for a HTF trade, i end with
+ a small loss.
+FA: یادآوری برای پایبندی به قواعد: تاکتیک‌های معامله
+
+هرچند از این معاملهٔ اشتباه نسبتاً سالم بیرون آمدم، این یادآوری است که باید قواعد را رعایت کنم؛ چون یک قاعدهٔ شکسته به شکستن قاعده‌های دیگر منتهی می‌شود.
+
+ورود 1 در یک سطح عرضه بود، اما هیچ ترفندی اعمال نشد؛ بنابراین باید روی TT محتاط می‌ماندم. ورود خوبی داشتم، اما واکنش، فشرده شدن به سمت zone دست‌نخورده بود. به‌جای بستن نصف پوزیشن روی FL، کمی بیشتر نگه داشتم تا یک 1:1 کامل برای BE بگیرم. اما طبعاً PA همان‌طور که انتظار داشتی واکنش داد و zone من را شکست و یک BE (تقریباً BE) را به ضرر تبدیل کرد. zone بعدی همانی بود که واقعاً دنبالش بودم. قیمت به داخلش شلیک می‌کند، اما به خاطر اشتباه قبلی تردید می‌کنم، پس ورود چندان خوبی نمی‌گیرم و کل معامله را روی حمایت/مقاومت می‌بندم، به‌جای اینکه فقط نصف را بفروشم و معاملهٔ HTF را نگه دارم.
+
+درس‌ها:
+
+- برای BE از PA پیروی کن؛ اگر PA نمی‌گوید که می‌توانی، دنبال گرفتن 1:1 یا بیشتر نرو. (یا اگر 1:1 برای BE وجود ندارد، وارد معامله نشو).
+
+- قواعد شکسته و اشتباه‌ها، به قواعد شکسته و اشتباه‌های بیشتر منتهی می‌شود. به‌جای یک سود کوچک همراه با فرصت یک معاملهٔ HTF، با یک ضرر کوچک کارم را تمام می‌کنم.
+--- fxeyes_p1_16 author=Ysbail hash=22427bcd
+EN: Hello fxeyes
+
+my view for this situation on USDCAD
+
+(but I'm also a student so if someone could comment my post I would be grateful)
+FA: سلام fxeyes
+
+دیدگاه من دربارهٔ این وضعیت روی USDCAD
+
+(اما من هم هنوز دانشجو هستم، پس اگر کسی روی پستم نظر بدهد ممنون می‌شوم)
+--- fxeyes_p1_17 author=Frosty hash=f26fd1a2
+EN: Hi brother,
+
+I'm still learning here, but this is my view since this pair is on my study list
+
+I'm currently a more higher TF person (still trying to get a feel for which TF I'm going to trade though through experiments)
+
+Anyway, here it is.
+FA: سلام برادر،
+
+من هنوز در حال یادگیری‌ام، اما چون این جفت‌ارز در فهرست مطالعهٔ من است، دیدگاهم این است
+
+فعلاً بیشتر آدم تایم‌فریم‌های بالاترم (هرچند هنوز با آزمون و خطا می‌خواهم دستم بیاید که روی کدام TF معامله می‌کنم)
+
+به هر حال، این هم از آن.
+--- fxeyes_p1_18 author=fxeyes hash=2001a7df
+EN: Ysbail wrote: Hello fxeyes
+
+my view for this situation on USDCAD
+
+(but I'm also a student so if someone could comment my post I would be grateful)
+
+Thanks for you views on UC! Admittedly I was lost sight of the highest
+timeframes, but I'll give my views on why I got into this trade:
+
+1. Those 2 flags I traded were in an area of congestion (PAZ) that I was trading before, lining up with a number of s/r points.
+
+2. The base of the move at 2 didn't look great to me, but i took a
+chance because it was lining up with some stuff. Also price was also
+sorta compressing into the zone. Again not 'great' compression, but
+still compression. In retrospect, since the PA was middling at best, I
+should have waited for confirmation; for price to break back into the
+compression as you pointed out.
+
+3. Since I didn't think that zone was so great, I saw 3 to be a good
+area for a BSZ. In which case it had a great reaction, 1:2 - 1:3. So
+it would have made for a nice scalp.
+
+Overall I think it was an OK area to look for a trade, but the PA coming
+ into it was weak. Classic case of looking for a trade rather than
+waiting for a trade to come to you. I also agree that the sharp move
+wasn't so good by itself (no strong cap in there), but it could have
+made for a decent FO area based on the approaching PA.
+
+Confirmation would have been best if this area was to be traded at all
+for anything more than a quick scalp. Some pips could have been had if
+the rules were followed and the trade was better managed.
+
+Personally the psychology of trading has been more difficult to overcome
+ than the reads. I've been too hesitant lately, missing out or closing
+great trades early. And also practicing following the rules and
+applying real-time price reading during a trade. Trade execution is my
+biggest sticking point now, but of course, it helps when you're trading
+in the best zones =)
+FA: Ysbail نوشت: سلام fxeyes
+
+دیدگاه من دربارهٔ این وضعیت روی USDCAD
+
+(اما من هم هنوز دانشجو هستم، پس اگر کسی روی پستم نظر بدهد ممنون می‌شوم)
+
+ممنون بابت دیدگاه‌هایت دربارهٔ UC! قبول دارم که تایم‌فریم‌های بالاتر را از نظر دور کرده بودم، اما نظرم را می‌گویم دربارهٔ اینکه چرا وارد این معامله شدم:
+
+1. آن 2 FL که معامله کردم، در ناحیه‌ای از تراکم (PAZ) بودند که قبلاً هم در آن معامله می‌کردم و با چند نقطهٔ حمایت/مقاومت هم‌راستا می‌شدند.
+
+2. پایهٔ حرکت در 2 به نظر من خوب نبود، اما ریسکش را پذیرفتم چون با چند چیز هم‌راستا بود. همچنین قیمت هم داشت تا حدی داخل zone فشرده می‌شد. باز هم فشرده‌سازی «عالی» نبود، اما همچنان فشرده‌سازی بود. حالا که نگاه می‌کنم، چون PA در بهترین حالت متوسط بود، باید منتظر تأیید می‌ماندم؛ منتظر اینکه قیمت، همان‌طور که اشاره کردی، به داخل فشرده‌سازی برگردد.
+
+3. چون آن zone را چندان عالی نمی‌دانستم، 3 را ناحیهٔ خوبی برای یک BSZ دیدم. در آن صورت واکنش خوبی هم داشت، 1:2 تا 1:3. پس می‌توانست یک اسکالپ خوب شود.
+
+در کل فکر می‌کنم ناحیهٔ قابل قبولی برای جست‌وجوی معامله بود، اما PA‌ای که به آن می‌رسید ضعیف بود. نمونهٔ کلاسیک اینکه دنبال معامله بگردی، به‌جای اینکه منتظر بمانی معامله به سراغت بیاید. با تو موافقم که آن حرکت تند به خودی خود چندان خوب نبود (هیچ cap قوی‌ای آنجا نبود)، اما می‌توانست بر اساس PA‌ی نزدیک‌شونده، یک ناحیهٔ FO مناسب بسازد.
+
+اگر قرار بود در این ناحیه اصلاً معامله شود، برای هر چیزی بیش از یک اسکالپ سریع، تأیید بهترین گزینه بود. اگر قواعد رعایت می‌شد و معامله بهتر مدیریت می‌شد، می‌شد چند پیپ گرفت.
+
+شخصاً غلبه بر روان‌شناسی معامله برایم سخت‌تر از خواندن‌ها بوده است. اخیراً بیش از حد تردید کرده‌ام، فرصت‌ها را از دست داده‌ام یا معامله‌های خوب را زود بسته‌ام. و همچنین در حال تمرین پایبندی به قواعد و به‌کارگیری خوانش لحظه‌ای قیمت در حین معامله هستم. اجرای معامله الان بزرگ‌ترین گرهٔ کار من است، اما طبیعتاً وقتی در بهترین zone‌ها معامله می‌کنی، کار راحت‌تر می‌شود =)
+--- fxeyes_p1_19 author=fxeyes hash=4c52864f
+EN: Frosty wrote: Hi brother,
+
+I'm still learning here, but this is my view since this pair is on my study list
+
+I'm currently a more higher TF person (still trying to get a feel for which TF I'm going to trade though through experiments)
+
+Anyway, here it is.
+
+Ah I agree with your assessment, I'm waiting for this area as well =)
+FA: Frosty نوشت: سلام برادر،
+
+من هنوز در حال یادگیری‌ام، اما چون این جفت‌ارز در فهرست مطالعهٔ من است، دیدگاهم این است
+
+فعلاً بیشتر آدم تایم‌فریم‌های بالاترم (هرچند هنوز با آزمون و خطا می‌خواهم دستم بیاید که روی کدام TF معامله می‌کنم)
+
+به هر حال، این هم از آن.
+
+آه، با ارزیابی‌ات موافقم؛ من هم منتظر همین ناحیه هستم =)
+--- fxeyes_p1_20 author=Astrokillah hash=4c3ebbbe
+EN: Hi Frosty, be careful about that location where you wrote: "If I'm not mistaken, this is engulf."
+
+That area is actually a CPAZ, so until price engulf south of the entire
+CPAZ, I would be careful to call that an engulf. Remember IF took a long
+ trade from that area?
+
+cheers .
+
+AK
+
+Frosty wrote: Hi brother,
+FA: سلام Frosty، مراقب آن نقطه‌ای باش که نوشتی: «اگر اشتباه نکنم، این یک ENGULF است.»
+
+آن ناحیه در واقع یک CPAZ است؛ پس تا وقتی قیمت کل CPAZ را به سمت جنوب اینگالف نکند، در اینکه آن را اینگالف بنامیم احتیاط می‌کنم. یادت هست IF از همان ناحیه یک معاملهٔ خرید گرفت؟
+
+ممنون.
+
+AK
+
+Frosty نوشت: سلام برادر،
+--- fxeyes_p1_21 author=Ysbail hash=620f23c1
+EN: I wrote about compression because I used to think that if I see
+compression into the zone I can take the trade - but in others journal I
+ read it couple times and started to see on the charts that we can have
+two situation with compression - compression to the zone to bounce(fall)
+ from or compression to the zone to go throught.
+
+Sometimes compression is stack and I connot mark clear move but
+sometimes its compression with puch up or down - then I need to see
+engulf into compression zone before trade, also I find in Frosty's
+journal notes about compression here
+ here
+FA: دربارهٔ فشرده‌سازی نوشتم چون قبلاً فکر می‌کردم اگر فشرده‌سازی به سمت zone را ببینم می‌توانم وارد معامله شوم - اما در ژورنال دیگران چند بار خواندم و کم‌کم روی چارت‌ها دیدم که دو حالت با فشرده‌سازی وجود دارد - فشرده‌سازی به سمت zone برای برگشت (ریزش) از آن، یا فشرده‌سازی به سمت zone برای عبور از آن.
+
+گاهی فشرده‌سازی انباشته است و نمی‌توانم حرکت واضحی را علامت بزنم، اما گاهی فشرده‌سازی همراه با یک فشار به بالا یا پایین است - آن وقت باید قبل از معامله اینگالف به داخل zone فشرده‌سازی را ببینم. همچنین در ژورنال Frosty یادداشت‌هایی دربارهٔ فشرده‌سازی پیدا کردم؛ اینجا و اینجا.
+--- fxeyes_p1_22 author=fxeyes hash=501d214f
+EN: Ysbail wrote: I wrote about
+compression because I used to think that if I see compression into the
+zone I can take the trade - but in others journal I read it couple times
+ and started to see on the charts that we can have two situation with
+compression - compression to the zone to bounce(fall) from or
+compression to the zone to go throught.
+
+Sometimes compression is stack and I connot mark clear move but
+sometimes its compression with puch up or down - then I need to see
+engulf into compression zone before trade, also I find in Frosty's
+journal notes about compression here
+ here
+
+Its interesting you brought that up, I see compression in a similar
+light. If you look at the GU trade I missed a few posts up, that one
+has what I would consider 'good' compression that has a higher chance to
+ turn without confirmation. It just looks like an algo is running to
+swap orders. In the UC trade, that one had sort of a 3drive
+compression, but it's not quite a 3drive (not aggressive enough). These
+types i usually wait for confirmation (and I should have in this case)
+because it tends to form decently structured QMs if it's ready to
+reverse. Otherwise it's really just methodically moving along the
+trend. I'll have to go back and find some examples. But thanks for the
+ link! I'll have to study it and expand my understanding of cm.
+FA: Ysbail نوشت: دربارهٔ فشرده‌سازی نوشتم چون قبلاً فکر می‌کردم اگر فشرده‌سازی به سمت zone را ببینم می‌توانم وارد معامله شوم - اما در ژورنال دیگران چند بار خواندم و کم‌کم روی چارت‌ها دیدم که دو حالت با فشرده‌سازی وجود دارد - فشرده‌سازی به سمت zone برای برگشت (ریزش) از آن، یا فشرده‌سازی به سمت zone برای عبور از آن.
+
+گاهی فشرده‌سازی انباشته است و نمی‌توانم حرکت واضحی را علامت بزنم، اما گاهی فشرده‌سازی همراه با یک فشار به بالا یا پایین است - آن وقت باید قبل از معامله اینگالف به داخل zone فشرده‌سازی را ببینم. همچنین در ژورنال Frosty یادداشت‌هایی دربارهٔ فشرده‌سازی پیدا کردم؛ اینجا و اینجا.
+
+جالب است که این را مطرح کردی؛ من هم فشرده‌سازی را تقریباً همین‌طور می‌بینم. اگر به معاملهٔ GU که چند پست بالاتر از دست دادم نگاه کنی، آن یکی چیزی دارد که من آن را فشرده‌سازی «خوب» می‌دانم و احتمال بیشتری دارد بدون تأیید بچرخد. درست شبیه این است که یک الگوریتم دارد سفارش‌ها را جابه‌جا می‌کند. در معاملهٔ UC، آن یکی نوعی فشرده‌سازی سه‌مرحله‌ای (3drive) داشت، اما دقیقاً 3drive نیست (به‌اندازهٔ کافی تهاجمی نیست). این نوع را معمولاً منتظر تأیید می‌مانم (و در این مورد باید همین کار را می‌کردم) چون اگر آمادهٔ برگشت باشد، تمایل دارد QM‌های خوش‌ساخت بسازد. در غیر این صورت واقعاً فقط دارد به‌شکل متدیک در جهت روند جلو می‌رود. باید برگردم و چند نمونه پیدا کنم. اما ممنون بابت لینک! باید رویش مطالعه کنم و درکم از cm را گسترده‌تر کنم.
+--- fxeyes_p1_23 author=Frosty hash=1c3c1c69
+EN: Astrokillah wrote: Hi Frosty, be careful about that location where you wrote: "If I'm not mistaken, this is engulf."
+
+That area is actually a CPAZ, so until price engulf south of the entire
+CPAZ, I would be careful to call that an engulf. Remember IF took a long
+ trade from that area?
+
+cheers .
+
+AK
+
+Frosty wrote: Hi brother,
+
+Hi bro AK,
+
+Thanks for the heads up.
+
+Maybe my analysis was inaccurate, but I saw the low engulfed into a
+CPPAZ, which can be seen better in the M30 and hasn't reached the other
+end of the PAZ.
+
+Sorry I'm currently away and unable to post charts at the moment.
+
+Hoping to learn from you, brother. Thanks!
+FA: Astrokillah نوشت: سلام Frosty، مراقب آن نقطه‌ای باش که نوشتی: «اگر اشتباه نکنم، این یک ENGULF است.»
+
+آن ناحیه در واقع یک CPAZ است؛ پس تا وقتی قیمت کل CPAZ را به سمت جنوب اینگالف نکند، در اینکه آن را اینگالف بنامیم احتیاط می‌کنم. یادت هست IF از همان ناحیه یک معاملهٔ خرید گرفت؟
+
+ممنون.
+
+AK
+
+Frosty نوشت: سلام برادر،
+
+سلام برادر AK،
+
+ممنون بابت هشدار.
+
+شاید تحلیلم دقیق نبود، اما دیدم که low به داخل یک CPPAZ اینگالف شد؛ این در M30 بهتر دیده می‌شود و به انتهای دیگر PAZ نرسیده است.
+
+ببخشید، الان بیرون هستم و در حال حاضر نمی‌توانم چارت بگذارم.
+
+امیدوارم از تو یاد بگیرم، برادر. ممنون!
+--- fxeyes_p1_24 author=Astrokillah hash=e4a912e4
+EN: Yes Frosty, price broke PCP into the CPAZ, so we're promised that it
+should eventually get to the end of the CPAZ. What I meant was, it's no
+guarantee that price will break the entire CPAZ, if you short from the
+top with your target at the end of the CPAZ then you're good!
+
+Frosty wrote: Hi bro AK,
+
+Thanks for the heads up.
+
+Maybe my analysis was inaccurate, but I saw the low engulfed into a
+CPPAZ, which can be seen better in the M30 and hasn't reached the other
+end of the PAZ.
+
+Sorry I'm currently away and unable to post charts at the moment.
+
+Hoping to learn from you, brother. Thanks!
+FA: بله Frosty، قیمت PCP را به داخل CPAZ شکست، پس انتظار داریم که در نهایت به انتهای CPAZ برسد. منظورم این بود که تضمینی نیست قیمت کل CPAZ را بشکند؛ اگر از بالا شورت بگیری و تارگتت انتهای CPAZ باشد، پس خوبی!
+
+Frosty نوشت: سلام برادر AK،
+
+ممنون بابت هشدار.
+
+شاید تحلیلم دقیق نبود، اما دیدم که low به داخل یک CPPAZ اینگالف شد؛ این در M30 بهتر دیده می‌شود و به انتهای دیگر PAZ نرسیده است.
+
+ببخشید، الان بیرون هستم و در حال حاضر نمی‌توانم چارت بگذارم.
+
+امیدوارم از تو یاد بگیرم، برادر. ممنون!
+--- fxeyes_p1_25 author=fxeyes hash=72cac0ca
+EN: EJ
+
+Initially saw the engulf into space on the M1, went left looking for a
+zone. Should have avoided the trade since there wasn't a clear concise
+zone (lots of areas for stops above what I drew). Stop really should
+have been much higher, which would have led to an RR too low to trade.
+Another one of those cases of 'looking' for a trade. Price cuts through
+ my QM level. I'm looking for an out, but price doesn't retrace and
+cuts all the way to the stop.
+
+EU
+
+I try again against EUR. Price reacts at an OOM, with an m15 lvl. MUCH
+ better structured QM this time, with better RR. cutting into stacked
+zones (or cm?). Looking for price to reach somwhere around the end of
+the cm.
+
+Lesson: Can't take a QM by itself. We are trading the strong levels,
+with QM as confirmation, not the other way around. Also, stops need to
+be where it needs to be, not where we want it to be.
+FA: EJ
+
+اول اینگالف به فضای خالی را روی M1 دیدم و رفتم سمت چپ دنبال یک zone گشتم. باید از این معامله صرف‌نظر می‌کردم چون zone روشن و دقیقی وجود نداشت (بالای چیزی که کشیدم، کلی ناحیه برای استاپ‌ها بود). استاپ واقعاً باید خیلی بالاتر می‌بود، که آن وقت RR آن‌قدر پایین می‌شد که ارزش معامله نداشت. یکی دیگر از همان موارد «گشتن» برای معامله. قیمت از سطح QM من رد می‌شود. دنبال راه خروج هستم، اما قیمت بازگشتی نمی‌کند و تا خود استاپ پایین می‌رود.
+
+EU
+
+دوباره علیه EUR امتحان می‌کنم. قیمت روی یک OOM واکنش نشان می‌دهد، با یک lvl در m15. این بار QM بسیار خوش‌ساخت‌تر است، با RR بهتر. برخورد به zone‌های روی هم افتاده (یا cm؟). منتظرم قیمت جایی حدود انتهای cm برسد.
+
+درس: نمی‌توان فقط با یک QM معامله کرد. ما سطوح قوی را معامله می‌کنیم و QM نقش تأیید دارد، نه برعکس. همچنین استاپ باید همان‌جایی باشد که باید باشد، نه جایی که ما می‌خواهیم.

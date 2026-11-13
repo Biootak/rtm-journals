@@ -1,0 +1,151 @@
+##### hs_p24_576 hoeschec paras:4
+More on GU:
+
+I focused on the zones labeled 1 & 2.
+
+This is a common pattern I've been noticing: price will approach an obvious supply or demand level (see zone 1). But just above this supply level there is an important DP. Price compresses in to the obvious supply zone, and price fakes into the DP above before dropping. One thing I didn't see in this example, which I would normally need to see, is a downside engulf prior to the fakeout.
+
+In a similar situation without compression on approach & without an engulf, it might be best to hold off on taking a TT.
+---END---
+##### hs_p24_577 hoeschec paras:1
+Here is a cleaner chart showing the fakeout:
+---END---
+##### hs_p24_578 hoeschec paras:3
+GU - These are levels I will be looking for when price returns (might be a while with the way the GBP is dropping...)
+
+I see an area of supply (blue rectangle) located just below an important DP (yellow rectangle). This is the DP where price broke the low of a previously important zone. I will see how price approaches this level & it's possible another Fakeout could occur.
+
+Here is a better view of why the yellow rectangle is an important DP. It is where price decided to break the low of the Base (drawn with a black rectangle).
+---END---
+##### hs_p24_579 hoeschec paras:5
+I'll be watching this as well - AUD-USD
+
+I see an area where there is a confluence of:
+
+1. Bullish QM level 2. DP to EG 3. Located near an S/R with lots of history holding price
+
+Seems like a lot of good reasons to get a bounce when price returns to this area. Of course, I'll see how price approaches this level on the LTF to look for a bullish EG and CP forming.
+
+This is A-U Weekly chart: Looks bullish to me.
+---END---
+##### hs_p24_580 hoeschec paras:1
+USD-CAD - More practice. This would have been an amazing trade with minimal risk and huge upside. It wouldn't take many of these trades to double an account
+---END---
+##### hs_p24_581 hoeschec paras:3
+USD-CAD Daily: Does anyone else see this possible setup?
+
+Close Up
+
+Weekly chart:
+---END---
+##### hs_p24_582 hoeschec paras:2
+USD-CAD (30-min) - This is a close-up of the DP I marked on the higher time frames.
+
+I see two areas that look like good decision points.... not sure which one is most likely to bounce price. If I had to choose, I'd say DP # 2 since it is the final DP before a huge move down in price.
+---END---
+##### hs_p24_583 hoeschec paras:2
+More Practice EUR-USD 15M
+
+Sorry if the chart is a little cluttered...
+---END---
+##### hs_p24_584 Ataraxia paras:2
+Nice Charts Hoeschec.
+
+I follow your logic but I had a slightly different view on USDCAD.
+---END---
+##### hs_p24_585 hoeschec paras:4
+Ataraxia wrote: Nice Charts Hoeschec.
+
+I follow your logic but I had a slightly different view on USDCAD.
+
+Ataraxia- Thanks for the chart- I totally see that area too and was wondering if that was the first shoulder of the QM. If so, price will move higher before it drops.
+
+The FTR you labeled also has a nice DP in it.
+---END---
+##### hs_p24_586 Ataraxia paras:6
+hoeschec wrote:
+
+Ataraxia wrote: Nice Charts Hoeschec.
+
+I follow your logic but I had a slightly different view on USDCAD.
+
+Ataraxia- Thanks for the chart- I totally see that area too and was wondering if that was the rst shoulder of the QM. If so, price will move higher before it drops.
+
+The FTR you labeled also has a nice DP in it.
+
+I'm not an expert H. Just thought I'd share my view as I was looking at the levels on this pair. I'm expecting that there might be a small reaction off the lower blue level that it is in just now but I don't think it will go anywhere but I fancy taking a short if it spikes higher into the middle level and then a drops. Here's my thinking... I don't like the current level because it has been touched 3 times, plus if you look just to the left of where my box starts, the price was compressing quite a bit for days on the way down so I think that orders have been consumed higher up in that zone already. I'll be watching it on the LTF to see what happens.
+---END---
+##### hs_p24_587 hoeschec paras:2
+CHF-JPY:
+
+Tiny scalp from last night...the markets are sluggish so I didn't trade much. Just an engulf and RT to the origin-
+---END---
+##### hs_p24_588 Rakkain paras:2
+Rakkain wrote: This is how I see it. CMIIW
+
+That FL works beautifully
+---END---
+##### hs_p24_589 hoeschec paras:1
+AUD-CAD - Just closed this out. I went long @ QM level.
+---END---
+##### hs_p24_590 hoeschec paras:1
+Here are two more of my trades from last night on AUD-CAD. FXCM had a meltdown on their servers last night so I had to draw in the entry/exits. Basically, I used a 1 hour time frame to look for the areas where price was likely to bounce or engulf (past decision points) and I used a min chart to execute when I saw an engulf occur.
+---END---
+##### hs_p24_591 hoeschec paras:2
+This is a concept I learned from reading Alex's journal...still one of the best setups I've seen. Two consecutive engulfs without a RT to the origin. Wait for the retrace to the origin and TT. Thanks so much Alex!
+
+One of my trades from last night was a result of two engulfs.
+---END---
+##### hs_p24_592 hoeschec paras:3
+Here is another good example of a double engulf + RT to origin: I missed this one last night.
+
+USD-JPY
+
+I also like seeing price engulf the base of a pole- which is what happened in this example.
+---END---
+##### hs_p24_593 hoeschec paras:3
+Last night I was prepared to go short on USD/CHF based on (what I thought) was a good QM setup. I ended up going short when price entered the QM zone but closed out quickly after seeing important PA that showed a more important engulf further to the left. Here is the chart as I originally saw the trade:
+
+Shortly after I took the short, I zoomed out and realized the HH portion of the QM (to the left of current price) had previously engulfed an important DP to the upside....Then I checked below and noticed there had been no downside engulf of the pole that was the origin of the original move up. Here is a chart to explain:
+
+I want to post on this, because I need a reminder to stop sloppy trading. I have a destructive habit of trading prematurely: taking trades without looking at the bigger picture. Being wrong on a trade is OK, but not if I am wrong due to laziness.
+---END---
+##### hs_p24_594 hansma paras:1
+Nice work dont forget to overlook the MPL in the origin
+---END---
+##### hs_p24_595 hoeschec paras:4
+hansma wrote: Nice work dont forget to overlook the MPL in the origin
+
+Thanks Hansma
+
+MPL's are still a weak point for me. I would've thought the MPL was at the red line (see chart below). Did you mark the MPL as the blue line because it is a QM level?
+
+Thanks for your help!
+---END---
+##### hs_p24_596 hoeschec paras:3
+EUR-AUD:
+
+I will be watching this level today as London opens. This level has a lot going for it: It is the target for shorts, the origin of the original move up, contains an important DP, & it's a fresh level. I see two engulfs (shown by the yellow shading) which tells me price is headed down to the base of the pole.
+
+(not sure about the MPL location though....still need practice drawing MPL's)
+---END---
+##### hs_p24_597 hoeschec paras:1
+I should add: I would like to see compression on approach to this level....
+---END---
+##### hs_p24_598 hoeschec paras:4
+My trades on EUR-AUD:
+
+I went short initially because of a previous engulf of a flag, but didn't hold the position for more than a few pips because price was declining in to a QM level.
+
+I set two long orders in the QM level...they were triggered, but my timing was less than ideal. I got out after price RT to a flag and began to consolidate.
+
+Both trades were winners, but I have many areas to improve when in comes to my entries. Gotta keep practicing....
+---END---
+##### hs_p24_599 hoeschec paras:1
+I really wanted to short EUR-USD at the QM level, but I noticed the HH of the QM engulfed to the upside....
+---END---
+##### hs_p24_600 hoeschec paras:2
+EUR-USD 1 Min
+
+Here is a great F/O trade. These get easier to spot with practice
+---END---

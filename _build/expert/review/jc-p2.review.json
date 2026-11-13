@@ -1,0 +1,38 @@
+{
+  "jc_p2_26": {"ok": true},
+  "jc_p2_27": {
+    "issue": "Unnatural description of the platform's default bid display",
+    "why": "The source says the default chart displays bid prices, not that the writer has a bid price.",
+    "fix": "روی صفحهٔ من BSZ نیست (نمای پیش‌فرض پلتفرمم قیمت bid را نشان می‌دهد - سعی می‌کنم یادم بماند این را چک کنم، قبلاً فکر می‌کردم این تنظیم اسپرد برای شکار استاپ‌لاس است، اما حالا فکر می‌کنم این‌طور نیست - نمی‌دانم بروکرهای دیگر چطورند، اما بروکر من عمداً این کار را نمی‌کند)\n\nپس با این اطلاعات از قیمت ask، شمارهٔ 1 تو در واقع 2 است. تا جایی که می‌دانم لمس دوم همیشه بدتر از اولی است.\n\nهمچنین نگاه کن در D1 کجایی:)"
+  },
+  "jc_p2_28": {
+    "issue": "Ambiguous trading instruction",
+    "why": "Trade that instead means trade the major exhibiting PA instead of the cross; the previous Persian omitted the object and could reverse the reference.",
+    "fix": "موافقم که اینگالف نزولی مهم‌تر است، و اینکه اینگالف صعودی به‌راحتی می‌تواند یک FO باشد. اگر دربارهٔ یک جفت‌ارز کراس شک داری، به جفت‌ارزهای اصلی هرکدام نگاه کن. برای GBP/AUD، GU و AU را چک کن و ببین آیا هرکدام PA ساخته‌اند (اگر این‌طور بود، همان جفت‌ارز را به‌جای کراس معامله کن!). اگر نه، EG و EA را چک کن"
+  },
+  "jc_p2_29": {"ok": true},
+  "jc_p2_30": {"ok": true},
+  "jc_p2_31": {
+    "issue": "Altered resource name and unnatural causal wording",
+    "why": "Markpedia was changed to a different transliterated name; the reaction produces the engulf, which the literal wording did not express naturally.",
+    "fix": "به نظر من این یک CAN CAN نیست؛ فکر می‌کنم باید به مقالات Markpedia برگردی--> readthemarket.com/index.php/en/lb-topmen...h-rtm/488-the-cancan\n\nCan can (مثال برای یک can can نزولی): -واکنش به UFL واقعی -اینگالفِ یک LFL معتبر -اصلاح به شکل فشرده به سمت واکنشی که منجر به اینگالف شد\n\nامروز صبح چیزی را پست کردم که ممکن است واقعاً یک can can در حال شکل‌گیری روی EJ باشد (دست‌کم حسابی در مسیرش هست)، شاید بخواهی نگاهی بیندازی: readthemarket.com/index.php/en/forum/jou...nal?start=2225#69522"
+  },
+  "jc_p2_32": {
+    "issue": "Omitted comparison and terminology/spacing violations",
+    "why": "The source's T-Rex joke was omitted. HTF/LTF require the site's Persian equivalents, and CP was joined to a Persian plural suffix.",
+    "fix": "HCDE، ممنون بابت پاسخ. هنوز برایم پیچیده است چون مفهوم EG/UFL/LFL را درگیر می‌کند که می‌تواند سلیقه‌ای باشد. از پست‌های اعضای دیگر، بحث‌های زیادی دیدم دربارهٔ اینکه کدام FL باید اینگالف شود تا تحلیل درست باشد، که می‌تواند حاشیهٔ خطای بیشتری ایجاد کند. شاید سال‌ها تجربه لازم باشد تا آن را درست رسم کنی و عاقبت بتوانی تحلیل را قاب بگیری و به دیوار بزنی؛ اما این کار من نیست.\n\nدارم سعی می‌کنم سبک معامله‌گری‌ام را به‌عنوان یک معامله‌گر SD، با به‌شدت ساده نگه‌داشتنش بهتر کنم. تا اینجا، احساس می‌کنم همین مفهوم CP می‌تواند مزیتی بالاتر از تلاش برای معامله با روش SD Sam به من بدهد.\n\nبه مثال زیر مراجعه کن. ورود بالقوه در MPL زردِ FL/CAPs. دایرهٔ قرمز بزرگ یک CP در تایم‌فریم بالاتر است که همهٔ نواحی CP کوچک‌تر داخل آن را دربر می‌گیرد.\n\nخلاصهٔ درک من از CP تا اینجا: - CP می‌تواند TG روشنی در مبدأ CP به ما بدهد - زوم به MPL در تایم‌فریم پایین‌تر برای ورود، استاپ‌لاسی به ما می‌دهد که از یک T-Rex باکره هم تنگ‌تر است. - نتیجه‌اش RR دیوانه‌وار است!"
+  },
+  "jc_p2_33": {"ok": true},
+  "jc_p2_34": {"ok": true},
+  "jc_p2_35": {
+    "issue": "Compression-entry meaning and malformed reference",
+    "why": "Broken into refers to price breaking into compression, not merely compression breaking. The IF/date reference also lacked a natural Persian construction.",
+    "fix": "باشه... واقعاً سلیقه‌ای است، برای همین مطالب RTM به‌اندازهٔ یک علم، یک هنر هم هستند و به هزاران ساعت مطالعه نیاز دارند. اما اگر با CP راحت هستی، خوب است؛ ابزار فوق‌العاده‌ای است که من بیشتر و بیشتر ازش استفاده می‌کنم. شاید مطلب IF در September 2016 دربارهٔ آن را قبلاً دیده باشی؟\n\nیک مثال خوب اخیر روی EC دارم از استفاده‌ای که می‌شود از CP برای پیش‌بینی برگشت کرد. منتظر آن معامله بودم اما از دستش دادم چون آن موقع شکل‌گیری فشردگی و ورود قیمت به داخل آن با شکست را ندیدم (صبح، قبل از قهوهٔ پنجمم) اما این قطعاً معتبر بود.\n\nهمین تفکر پشت معامله‌ای است که چند هفته پیش روی UC گرفتم. وقتی درست ببینی‌اش خیلی قدرتمند است."
+  },
+  "jc_p2_36": {
+    "issue": "Malformed IF/date reference",
+    "why": "The English-order date and handle phrase was not grammatical Persian; the reference and date are preserved in a natural construction.",
+    "fix": "HCDE، ممنون بابت پاسخ دقیقت با چارت‌های فوق‌العاده ساده که حتی مادربزرگ من هم می‌توانست بفهمد. دست‌کم الان می‌توانم شروع کنم به استفاده از مفهوم EG به داخل CP برای تقویت تحلیلم.\n\nبه مطلب IF در September 2016 اشاره کردی. سعی کردم این اطلاعات را در تاپیک IF پیدا کنم و این وبینار پست‌شده را یافتم:\n\nمنظورت این ویدئو است؟\n\nآخر هفتهٔ خوبی داشته باشی و مشتاقم چارت‌های مادربزرگ‌پسند بیشتری از تو ببینم HCDE!"
+  },
+  "jc_p2_37": {"ok": true}
+}

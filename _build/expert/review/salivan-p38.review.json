@@ -1,0 +1,8 @@
+{
+  "salivan_p38_8": {
+    "ok": false,
+    "issue": "wrong acronym (DBD for DBR)",
+    "why": "EN: \"First flag after trend reversal which created DBR.\" FA renders it as \"اولین فلگ بعد از برگشت روند که DBD را ساخت\" — DBD instead of DBR, and the next sentence of the same paragraph correctly says \"اینگالف همین DBR\", so the paragraph contradicts itself.",
+    "fix": "1. اولین فلگ بعد از برگشت روند که DBR را ساخت. اینگالف همین DBR باعث شد FTR خوب تازه‌ای ساخته شود، آن هم در سطح عرضهٔ قدیمی خوبی.\n\n2. این عرضه دوباره می‌توانست مقاومت شود، ولی همین حالا اینگالف شد؛ سیگنال خوبی برای PA.\n\n3. دوباره تقاضای قدیمی می‌تواند ترفند باشد که DBR در LTF بود و اینگالف خورد؛ برای IT‌ها نشانهٔ خوبی است.\n\n4. قیمت فقط تا سطح FTR آمد تا سفارش‌های باقی‌مانده را پر کند."
+  }
+}

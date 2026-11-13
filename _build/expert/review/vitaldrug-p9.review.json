@@ -1,0 +1,13 @@
+{
+ "vitaldrug_p9_15": {
+  "ok": false,
+  "issue": "acronym spelled out in Persian (HTF)",
+  "why": "EN \"will have newbies marking every 1 min kink even if they are trading on HTF\" becomes \"...حتی وقتی در تایم‌فریم بالاتر معامله می‌کنند\"; the RTM acronym HTF, kept Latin everywhere else on this page (e.g. post 17 \"از HTF تا LTF\"), is expanded into Persian prose.",
+  "fix": "نه، فکر می‌کنم این طرز فکر بیش از حد کلی است و باعث می‌شود تازه‌کارها هر کینک 1 دقیقه‌ای را علامت بزنند، حتی وقتی روی HTF معامله می‌کنند.\n\nوظیفهٔ ما این است که FL‌های مهم را شناسایی کنیم و بعد همان FL‌ها را در کوچک‌ترین TF موجود بررسی کنیم تا مرزهای درست را به دست بیاوریم.\n\nآن FL مهم بود چون شبیه PA بود."
+ },
+ "vitaldrug_p9_24": {
+  "issue": "Flags rendered as پرچم",
+  "why": "EN: \"the nature of Flags and FLs\"; FA: «ماهیت پرچم‌ها و FL‌ها».",
+  "fix": "پست‌های 212 تا 218 کلید مهمی را در ذهنم دربارهٔ ماهیت FL‌ها و لیمیت‌هایشان روشن کرد.\n\nخیلی ممنون برادرها: Vitaldrug، AK، Rinehart!"
+ }
+}

@@ -1,0 +1,16 @@
+##### capnp_p2_29 4
+OK thinking about it - it is price breaking a Supply or Demand level - just work backwards from there - there is a place somewhere before the break of the pointy place that price left you a sign - it is the place where the bloody big order was put on by a bank - it is maybe hidden, within one of the timeframes. - I am very new here but I think you guys call it a Decision Point DP?
+##### capnp_p2_29 6
+i am working out how to explain "space" atm - I do not use MO's fractional notation - it confuses me - I imagin "space" in my head as a "bucket of money" - with the bucket as tall as i want it to be - the taller the bucket - the less concentrated your cash - a short bucket would have your cash - and therefore your lot size much higher.
+##### capnp_p2_29 12
+YOU decide when you want to reset your account - ie when you have reached a desired percentage growth. Typically you can cut out 2 to 4 percent of your account as your risk. IMPORTANT - you NEVER use all your risk on a single trade ( imagine nursmaiding a small account within your account)
+##### capnp_p2_30 0
+Thanks for the description. One request, do you mind posting a few recent long term point place chart out for me to have a look at that is highly tradable? I may have a different perceptive of what that is, I suspect I' m making it too complicated, I've a feeling it's just where there is true SD places on the HTF.
+##### capnp_p2_35 0
+Oh, the minus 69 is a small hedge (from 21 down to 13 lots - just like I showed you on the fib tool earlier) - I took some lots off the table on the break of demand - expecting to take the hedge of and increase my lot size on a retest of the new supply - this did not happen (a retest on a time-frame I would consider significant)- so I simply took the hedge off
+##### capnp_p2_35 1
+EDIT - there is a rose thorn on the 20th of the 12 that the MOMO also broke - this is significant to another Pointy Place that I marked ( I know I am flexible in my interpretation of a pointy place- its all part of my charm ) - put simply it is a break of supply or demand with some oooomph
+##### capnp_p2_36 0
+I have to say that is a bloody nice trad Cap'n P. I find this trade a work of art. I know you use a limit but I especially like the way price approached your entry and the potential for price to slip straight back down as the demand immediatly under had been used, and the lack of anything of substance under 500. Nice Work,
+##### capnp_p2_37 1
+I should explain why I believe the PA around these "fat cat" areas works. - In order to drive price through the big supply area - this must take a big amount of demand - some of which is left on the area of break - when the reverse happens a few days or hours later the roles of supply and demand change sides - so we have a supply area on the break that is left in place - so this is how I locate BIG supply of demand areas.

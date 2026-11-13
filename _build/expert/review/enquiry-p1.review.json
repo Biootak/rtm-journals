@@ -1,0 +1,22 @@
+{
+  "enquiry_p1_1": {"issue": "Source digit is welded to Persian prose.", "why": "Retain the literal source 8 without attaching it to the Persian word.", "fix": "آیا این درست است 8؟"},
+  "enquiry_p1_2": {"ok": true},
+  "enquiry_p1_3": {"ok": true},
+  "enquiry_p1_5": {"ok": true},
+  "enquiry_p1_6": {"ok": true},
+  "enquiry_p1_7": {"ok": true},
+  "enquiry_p1_8": {"ok": true},
+  "enquiry_p1_9": {"ok": true},
+  "enquiry_p1_10": {"ok": true},
+  "enquiry_p1_13": {"ok": true},
+  "enquiry_p1_14": {"ok": true},
+  "enquiry_p1_15": {"ok": true},
+  "enquiry_p1_17": {"issue": "LTF is not rendered using the prescribed site term; Persian suffixes are attached to Latin acronyms.", "why": "Use تایم‌فریم پایین‌تر and retain FTR as a separate Latin token without changing the lower-timeframe instruction or its negation.", "fix": "@yacino94: لطفاً به یاد داشته باش: برای علامت‌گذاری درست ساختارهای FTR باید به تایم‌فریم پایین‌تر بروی. بعضی از FTR های تو خیلی دور از خطوط S/R علامت خورده‌اند (FTR ها اغلب در تایم‌فریم‌های پایین‌تر پنهان‌اند، حتی اگر در TF فعلی هیچ FTR قابل‌مشاهده‌ای نباشد)."},
+  "enquiry_p1_19": {"ok": true},
+  "enquiry_p1_20": {"ok": true},
+  "enquiry_p1_21": {"ok": true},
+  "enquiry_p1_22": {"ok": true},
+  "enquiry_p1_23": {"ok": true},
+  "enquiry_p1_24": {"ok": true},
+  "enquiry_p1_25": {"issue": "The question leaves its key suitability-for-trading phrase untranslated.", "why": "In this question about Flag limit specifications, the broken-English Saleh Trading phrase asks about suitability for trading rather than naming a trader. Render that meaning and the request for feedback naturally.", "fix": "سؤالی در ذهنم دارم: یک Flag limit مناسب برای معامله چه مشخصاتی دارد؟\n\nنظرتان را بگویید"}
+}

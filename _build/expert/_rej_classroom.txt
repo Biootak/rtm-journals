@@ -1,0 +1,70 @@
+classroom_p10_226 | paragraphs 2 / 1
+classroom_p10_228 | paragraphs 6 / 1
+classroom_p10_229 | paragraphs 7 / 1
+classroom_p10_232 | paragraphs 2 / 1
+classroom_p10_233 | paragraphs 2 / 1
+classroom_p10_234 | paragraphs 4 / 1
+classroom_p10_235 | paragraphs 4 / 1
+classroom_p10_237 | paragraphs 2 / 1
+classroom_p10_238 | paragraphs 4 / 1
+classroom_p10_240 | paragraphs 2 / 1
+classroom_p10_241 | paragraphs 3 / 1
+classroom_p10_242 | paragraphs 5 / 1
+classroom_p10_248 | paragraphs 2 / 1
+classroom_p10_250 | paragraphs 5 / 1
+classroom_p11_256 | paragraphs 7 / 1
+classroom_p11_258 | paragraphs 4 / 1
+classroom_p11_259 | paragraphs 2 / 1
+classroom_p11_260 | paragraphs 3 / 1
+classroom_p11_261 | paragraphs 7 / 1
+classroom_p11_263 | paragraphs 4 / 1
+classroom_p11_264 | paragraphs 7 / 1
+classroom_p11_265 | echo
+classroom_p11_266 | paragraphs 2 / 1
+classroom_p11_268 | paragraphs 3 / 1
+classroom_p11_269 | paragraphs 4 / 1
+classroom_p11_270 | paragraphs 8 / 1
+classroom_p11_272 | paragraphs 4 / 1
+classroom_p11_273 | paragraphs 3 / 1
+classroom_p12_277 | paragraphs 5 / 1
+classroom_p12_278 | paragraphs 2 / 1
+classroom_p12_282 | paragraphs 3 / 1
+classroom_p12_283 | paragraphs 5 / 1
+classroom_p12_286 | paragraphs 2 / 1
+classroom_p12_287 | paragraphs 3 / 1
+classroom_p12_288 | paragraphs 2 / 1
+classroom_p12_289 | paragraphs 5 / 1
+classroom_p12_290 | paragraphs 2 / 1
+classroom_p12_293 | paragraphs 2 / 1
+classroom_p12_297 | paragraphs 6 / 1
+classroom_p12_300 | paragraphs 10 / 1
+classroom_p13_303 | paragraphs 7 / 6
+classroom_p13_315 | echo
+classroom_p13_321 | echo
+classroom_p13_324 | echo
+classroom_p14_331 | echo
+classroom_p18_437 | echo
+classroom_p18_439 | echo
+classroom_p18_440 | echo
+classroom_p21_510 | echo
+classroom_p23_564 | echo
+classroom_p25_621 | no-persian
+classroom_p26_631 | echo
+classroom_p3_75 | echo
+classroom_p30_732 | echo
+classroom_p31_755 | no-persian
+classroom_p31_759 | no-persian
+classroom_p31_762 | no-persian
+classroom_p33_822 | echo
+classroom_p34_840 | echo
+classroom_p38_941 | echo
+classroom_p39_967 | rambling
+classroom_p39_973 | echo
+classroom_p39_975 | echo
+classroom_p4_81 | echo
+classroom_p40_987 | echo
+classroom_p48_1177 | numbers missing 1000
+classroom_p5_101 | echo
+classroom_p8_199 | echo
+classroom_p9_219 | paragraphs 3 / 1
+classroom_p9_225 | paragraphs 3 / 1

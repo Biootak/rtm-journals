@@ -1,0 +1,416 @@
+===== fxeyes-p5 : 19 posts =====
+--- fxeyes_p5_1 author=fxeyes hash=1854629e
+EN: Hesitated on all the trades. Last one.
+FA: در همهٔ معاملات تردید کردم. آخری.
+--- fxeyes_p5_3 author=fxeyes hash=e1c19a38
+EN: I'm sitting here watching the charts and just had a eureka moment.
+I've read this many times, especially by the Mad Scalper, but never
+fully understood it until now. I had a poor week because it was a red
+news week (US FOMC meting, GBP major events, etc..), where when i got
+loose (trading areas of interest without confirmation) and was getting
+killed. Where that strategy sometimes works well in previous days.
+
+I did some analysis of old trades, and watching the charts today, price
+is moving pretty much exactly as expected now! Completely different
+than earlier in the week! And of course, its a slow day! News has run
+its course. HTF S/D is being respected, kinks are being respected,
+price is at least bouncing on all PA (compression, LS/RS). Damn easy to
+ trade in the LTFs. and the HTF stuff is easier to read and playing out
+ as expected as well. No surprises. Of course, I'm gun shy today
+because of the poor performance from yesterday. Frustrating watching
+all the predictions come true, almost to a fault.
+
+So I guess the question is, do you guys have any tips or tricks for
+recognizing these days? Its tricky sometimes because price seems to set
+ up for big news days before the event. Sometimes there's no news on
+the calendar and price still does crazy stuff (maybe its news from other
+ countries, like China, that can move Asia markets). This concept seems
+ SO incredibly important, especially if hanging out in the LTFs, and
+explains a lot of why I sometimes have incredibly bad days, and
+incredibly good days.
+
+Notes for myself, but feel free to comment:
+
+1. Higher TF compression seems to be key. The big boys are around when we see it.
+
+2. On these slow days, we can be aggressive with scalping. Most action
+seems to be respected. Kinks, important s/d, flipped transactions,,
+compression fades, ltf engulfs, etc...
+
+3. On trending days, the scales seem to change to the Highest time
+frames. Dont trust things to give significant or even minor bounces in
+the lowest tfs. Sometimes even the higher TFs. Probably prudent to
+follow the larger trend in the LTF (pole into direction of trend,
+compression back), and recognize where price is coming from and going to
+ in the highest tfs.
+
+4. So understanding which scales are most important for a given day is
+also important. The bigger the news impact, the higher the TF we have to
+ go. Which also begs the question, what type of news applies to which
+scales? I'm especially thinking about news that fundamentally changes
+direction for months (although I guess we'd also be able to see this by
+reading the charts in the HTFs).
+
+5. Do certain pairs tend to move like this more than others? Such as the minor crosses? Need to research.
+
+Anyways, just some thoughts for now. Need to do some research. Any comments are appreciated!
+FA: اینجا نشسته‌ام و چارت‌ها را تماشا می‌کنم که ناگهان لحظهٔ کشف رسید. این را بارها خوانده‌ام، خصوصاً از Mad Scalper، اما تا حالا کامل درکش نکرده بودم. هفتهٔ بدی داشتم چون هفتهٔ خبرهای مهم بود (نشست FOMC آمریکا، رویدادهای مهم GBP و غیره)؛ در چنین هفته‌ای وقتی شل می‌گرفتم (معامله در نواحی مورد توجه بدون تأیید) لت و پار می‌شدم. در حالی که همین استراتژی در روزهای قبل گاهی خوب جواب می‌داد.
+
+تحلیلی از معاملات قدیمی انجام دادم و امروز که چارت‌ها را نگاه می‌کنم، قیمت تقریباً دقیقاً همان‌طور که انتظار داشتم حرکت می‌کند! کاملاً متفاوت با اوایل هفته! و البته که روز آرامی است! خبر اثرش را گذاشته و تمام شده. S/D تایم‌فریم بالاتر محترم شمرده می‌شود، کینک‌ها محترم شمرده می‌شوند، قیمت دست‌کم روی همهٔ PA بازگشت می‌زند (فشرده‌سازی، LS/RS). لعنتی معامله در LTF‌ها آسان است. و مطالب تایم‌فریم بالاتر هم خواناتر است و همان‌طور که انتظار داشتم پیش می‌رود. هیچ غافلگیری‌ای نیست. البته امروز به‌خاطر عملکرد ضعیف دیروز جسارت معامله را ندارم. کلافه‌کننده است که ببینی همهٔ پیش‌بینی‌ها درست از آب درمی‌آیند، تقریباً بیش از حد.
+
+پس گمانم سؤال این است: آیا شما ترفند یا نکته‌ای برای تشخیص این روزها دارید؟ گاهی سخت است، چون به نظر می‌رسد قیمت پیش از رویداد خودش را برای روزهای خبری بزرگ آماده می‌کند. گاهی هیچ خبری در تقویم نیست و قیمت باز هم کارهای دیوانه‌وار می‌کند (شاید خبری از کشورهای دیگر، مثل چین، که می‌تواند بازار آسیا را حرکت دهد). این مفهوم به نظر فوق‌العاده مهم است، خصوصاً اگر در LTF‌ها وقت بگذرانی، و توضیح می‌دهد چرا گاهی روزهای فوق‌العاده بد و روزهای فوق‌العاده خوب دارم.
+
+یادداشت‌هایی برای خودم، ولی راحت نظر بدهید:
+
+1. فشرده‌سازی تایم‌فریم بالاتر کلید به نظر می‌رسد. وقتی آن را می‌بینیم، بازیگران بزرگ همان‌جا حاضرند.
+
+2. در این روزهای آرام می‌توانیم در اسکالپ تهاجمی باشیم. به نظر می‌رسد بیشتر حرکت‌ها محترم شمرده می‌شوند. کینک‌ها، s/d مهم، تراکنش‌های فلیپ‌شده، محو شدن فشرده‌سازی، اینگالف‌های ltf و غیره...
+
+3. در روزهای رونددار، به نظر می‌رسد مقیاس‌ها به بالاترین تایم‌فریم‌ها تغییر می‌کنند. به چیزها اعتماد نکن که در پایین‌ترین تایم‌فریم‌ها بازگشت مهم یا حتی جزئی بدهند. گاهی حتی تایم‌فریم‌های بالاتر. احتمالاً عاقلانه است که در LTF روند بزرگ‌تر را دنبال کنی (pole در جهت روند، بازگشت فشرده‌سازی)، و تشخیص دهی قیمت در بالاترین تایم‌فریم‌ها از کجا می‌آید و به کجا می‌رود.
+
+4. پس فهمیدن اینکه کدام مقیاس‌ها برای یک روز خاص مهم‌ترند هم مهم است. هرچه اثر خبر بزرگ‌تر، تایم‌فریمی که باید به آن برویم بالاتر. که این هم این سؤال را پیش می‌آورد که چه نوع خبری به کدام مقیاس‌ها مربوط است؟ خصوصاً به خبرهایی فکر می‌کنم که جهت را برای ماه‌ها به‌طور بنیادی تغییر می‌دهند (هرچند گمان می‌کنم این را با خواندن چارت‌ها در HTF‌ها هم می‌توان دید).
+
+5. آیا جفت‌ارزهای خاصی بیشتر از بقیه این‌طور حرکت می‌کنند؟ مثل کراس‌های مینور؟ نیاز به بررسی دارد.
+
+به هر حال، فعلاً چند فکر. باید کمی تحقیق کنم. هر نظری بدهید سپاسگزارم!
+--- fxeyes_p5_4 author=moneydeep hash=441d1649
+EN: Loving your analasys man :)
+FA: تحلیلت را خیلی دوست دارم رفیق :)
+--- fxeyes_p5_5 author=fxeyes hash=70b62b41
+EN: Glad you find it helpful!
+FA: خوشحالم که مفید بود!
+--- fxeyes_p5_6 author=moneydeep hash=c347481f
+EN: Could you share the indicator you use to label your rectangles and
+lines of multiple timeframes? It would make life so much easier. My
+charts are starting to get messy.
+FA: می‌شود اندیکاتوری که برای برچسب زدن مستطیل‌ها و خطوط چند تایم‌فریمی استفاده می‌کنی را با ما به اشتراک بگذاری؟ زندگی را خیلی آسان‌تر می‌کند. چارت‌های من دارند شلوغ می‌شوند.
+--- fxeyes_p5_7 author=fxeyes hash=c3cbb75b
+EN: I'm actually using SierraChart, not MT4 unfortunately
+FA: راستش من از SierraChart استفاده می‌کنم، متأسفانه نه MT4
+--- fxeyes_p5_13 author=fxeyes hash=7c07f238
+EN: Break even day. Need to pay more attention to reaction when fading
+momentum without engulf. Sometimes you just need to take what you can
+get when it compresses away...
+FA: روز سربه‌سر. باید بیشتر به واکنش هنگام محو کردن مومنتوم بدون اینگالف توجه کنم. گاهی وقتی قیمت فشرده می‌شود و دور می‌شود، فقط باید همان تکهٔ اندکی را که گیرمان می‌آید برداریم...
+--- fxeyes_p5_14 author=fxeyes hash=4a260d26
+EN: Trading Asia blows. Reminder to be patient and stay at the tf of your
+ analysis, don't get sucked into LTF. To easy to lose sight of what you
+ were trying to trade in the first place.
+FA: معامله در بازار آسیا افتضاح است. یادآوری برای اینکه صبور باشم و در تایم‌فریم تحلیلم بمانم، و به LTF کشیده نشوم. خیلی راحت می‌شود چیزی را که در ابتدا می‌خواستی معامله کنی از نظر دور بگیری.
+--- fxeyes_p5_15 author=moneydeep hash=f0596069
+EN: It's very hard sometimes. Especially when you are waiting and waiting
+for the price to reach your level and then you start seeing other price
+patterns and you think price is going to reverse without leaving your
+level. Though I do love scalping as I see the great instant rewards. My
+nature in general is to trade higher timeframe as I will be less
+inclined to intervene.
+FA: گاهی خیلی سخت است. خصوصاً وقتی مدام منتظر می‌مانی تا قیمت به سطحت برسد و بعد الگوهای قیمتی دیگری می‌بینی و فکر می‌کنی قیمت بدون رسیدن به سطحت برمی‌گردد. هرچند اسکالپ را دوست دارم چون پاداش فوری عالی‌اش را می‌بینم. سرشت من به‌طور کلی معامله در تایم‌فریم بالاتر است، چون کمتر وسوسهٔ دخالت می‌شوم.
+--- fxeyes_p5_16 author=fxeyes hash=f6de7a7e
+EN: moneydeep wrote: It's very hard
+sometimes. Especially when you are waiting and waiting for the price to
+reach your level and then you start seeing other price patterns and you
+think price is going to reverse without leaving your level. Though I do
+love scalping as I see the great instant rewards. My nature in general
+is to trade higher timeframe as I will be less inclined to intervene.
+
+Yea I hear ya. I think what I need is a htf trade plan for each pair
+I’m trading and just stick to that. Or just find a couple of pairs and
+just scalp them. Jumping between timeframes is really screwing with my
+trading
+FA: moneydeep نوشت: گاهی خیلی سخت است. خصوصاً وقتی مدام منتظر می‌مانی تا قیمت به سطحت برسد و بعد الگوهای قیمتی دیگری می‌بینی و فکر می‌کنی قیمت بدون رسیدن به سطحت برمی‌گردد. هرچند اسکالپ را دوست دارم چون پاداش فوری عالی‌اش را می‌بینم. سرشت من به‌طور کلی معامله در تایم‌فریم بالاتر است، چون کمتر وسوسهٔ دخالت می‌شوم.
+
+آره، می‌فهمم. فکر می‌کنم چیزی که لازم دارم یک پلن معاملاتی تایم‌فریم بالاتر برای هر جفت‌ارزی است که معامله می‌کنم و باید فقط به آن پایبند باشم. یا فقط چند جفت‌ارز پیدا کنم و روی همان‌ها اسکالپ کنم. پریدن بین تایم‌فریم‌ها واقعاً معامله‌گری‌ام را خراب می‌کند.
+--- fxeyes_p5_17 author=fxeyes hash=8dbaa616
+EN: I realize I'm overloading my brain by constantly being sucked into the
+ LTF looking for trades, trying to trade both sides. Scalping and
+mixing TFs. So by the time price does get to my HTF zone, I'm exhausted
+ and a bit confused, losing sight of the HTF trade. Even when I catch
+the HTF, I cut my TG short because of the scalping. This is a
+continuous habit, and when I get into this 'mode', I always do poorly.
+ On the opposite end, I tend to be very tentative getting into my first
+couple of trades. Then I see trades go by that I was suppose to get in,
+ and start 'chasing'. Need to fix these bad habits. Reminders:
+
+1. Stick to HTF for your trading day m15+. Find a direction and stick
+with it. Let the trade come to you. Patience. If you don't have a
+read for a pair, don't trade it. Be careful fading big trends without
+confirmation.
+
+2. Trust your HTF read. Entry and Target. Need to train myself to just
+ enter when I see an entry, and stop reanalyzing. See entry, execute.
+See entry, execute. Unless you are at the best orders, look for
+approach or confirmation.
+
+3. Trust your read. Let them run to your identified TG, unless you see bad PA (CM reaction, reversal at the right TF).
+
+Remember that you make good trades when you have a HTF read of the
+story. Scalping has always caused you trouble. Focus on fixing the bad
+ habits, and creating good ones.
+
+Go back and look at your trade plan. What are you following, what are
+you not? What do you need to change behaviorally to follow your trade
+plan?
+
+/rant over
+FA: متوجه می‌شوم که با کشیده شدن مداوم به LTF برای پیدا کردن معامله و تلاش برای معامله در هر دو جهت، مغزم را اشباع می‌کنم. اسکالپ و قاطی کردن تایم‌فریم‌ها. این‌طور است که وقتی قیمت واقعاً به ناحیهٔ HTF من می‌رسد، خسته‌ام و کمی گیج، و معاملهٔ تایم‌فریم بالاتر را از نظر دور می‌دهم. حتی وقتی معاملهٔ HTF را می‌گیرم، به‌خاطر اسکالپ تارگتم را کوتاه می‌کنم. این عادتی پیوسته است و وقتی در این «حالت» می‌افتم، همیشه بد عمل می‌کنم. در سمت مقابل، در چند معاملهٔ اولم بیش از اندازه محتاطم. بعد معاملاتی را می‌بینم که قرار بود در آن‌ها وارد شوم و می‌گذرند، و شروع می‌کنم به «دویدن دنبالشان». باید این عادت‌های بد را درست کنم. یادآوری‌ها:
+
+1. برای روز معاملاتی‌ات به HTF بچسب، m15+. جهتی پیدا کن و به آن پایبند باش. بگذار معامله به سراغت بیاید. صبر. اگر خوانشی برای یک جفت‌ارز نداری، معامله‌اش نکن. در محو کردن روندهای بزرگ بدون تأیید احتیاط کن.
+
+2. به خوانش HTF‌ات اعتماد کن. ورود و تارگت. باید به خودم عادت بدهم که وقتی ورودی می‌بینم وارد شوم و دست از تحلیل دوباره بردارم. ورودی دیدی، اجرا کن. ورودی دیدی، اجرا کن. مگر اینکه در بهترین سفارش‌ها باشی، دنبال رویکرد یا تأیید بگرد.
+
+3. به خوانشات اعتماد کن. بگذار تا تارگتی که مشخص کرده‌ای بروند، مگر اینکه PA بد ببینی (واکنش CM، برگشت در تایم‌فریم درست).
+
+یادت باشد وقتی خوانش HTF از داستان داری، معاملات خوبی انجام می‌دهی. اسکالپ همیشه برایت دردسر درست کرده است. روی اصلاح عادت‌های بد و ساختن عادت‌های خوب تمرکز کن.
+
+برگرد و پلن معاملاتی‌ات را نگاه کن. چه چیزی را دنبال می‌کنی و چه چیزی را دنبال نمی‌کنی؟ از نظر رفتاری چه چیزی را باید عوض کنی تا پلن معاملاتی‌ات را دنبال کنی؟
+
+/غرغر تمام شد.
+--- fxeyes_p5_18 author=fxeyes hash=2f5394e0
+EN: After my little rant, decided to analyze what happened yesterday. It
+appears my initial HTF reads were all correct, but mentally I was
+constantly second guessing if my read was wrong, which made me extremely
+ conservative with my entry. During better times, when I had confidence
+ in my reads, my aggressive entries (and re-entries) often paid off.
+Gotta get my confidence back on track. I recently raised my risk and
+have had a bad run since, maybe its affecting me mentally more than I
+think. Need to drop it back. I know my charts are messy, but any
+feedback is welcome!
+FA: بعد از غرغر کوچکم، تصمیم گرفتم تحلیل کنم دیروز چه شد. به نظر می‌رسد خوانش‌های اولیهٔ HTF من همه درست بودند، اما ذهنم مدام شک می‌کرد که نکند خوانشم اشتباه است، که باعث می‌شد در ورودم فوق‌العاده محافظه‌کار باشم. در دوره‌های بهتر که به خوانش‌هایم اطمینان داشتم، ورودهای تهاجمی‌ام (و ورودهای دوباره) اغلب جواب می‌دادند. باید اعتمادم را برگردانم. اخیراً ریسکم را بیشتر کردم و از آن زمان روند بدی داشتم؛ شاید بیشتر از آنچه فکر می‌کنم ذهنم را تحت تأثیر گذاشته است. باید آن را برگردانم پایین. می‌دانم چارت‌هایم شلوغ است، ولی هر بازخوردی خوش‌آمد است!
+--- fxeyes_p5_19 author=fxeyes hash=1a2de391
+EN: Ok I think I know what's causing inconsistent runs in my trading.
+There are periods when I really focus on FLs and engulfs (good!) and
+other periods where I focus on the orders and not paying enough
+attention to the FLs and engulfs (bad!). I think this is when I get
+lazy and not doing through analysis through all the TFs. Ultimately it
+means i'm not following my rules.
+
+Rule #1 - If trading in the direction of a HTF engulf, you can TT your
+zones. Be conservative with tg1 until you are at the last set of orders
+ (mpl, original fl, last set of orders). Sometimes I'm not reading
+engulfs right, so need more studying. Can't be frustrated if I'm
+following the rules. This rule keeps me out of trouble on trending
+days.
+
+Rule #2 - If you don't have a clear engulf, but see a nice set of orders, you can only trade it if:
+
+1. You have approach (mostly *good* CP, sometimes its just building the order and not really CP for a turn)
+
+2. You have LTF verification.
+
+3. If it's something really strong (LSK + nicely formed kink or other PA around kink). I think this one gets me in trouble.
+
+I'm not doing a good job of just taking what I can get here, always
+hoping for a reversal. I really need to take profit at tg, and re-enter
+ on engulf. Need to pay special attention to reaction, get out if it's
+CPing away.
+
+Problem areas
+
+1. I also need to stay out of the m1 unless looking for a zone or entry. m1 engulfs can lie in the context of a bigger move.
+
+2. Mixing scalping with HTF trades makes me forget the bigger picture. I get sucked in a miss the big move.
+
+3. Give more weight when I see CP. Too many times I see price CPing
+against me, thinking I should get out and don't, but rather *hoping*
+that price will continue on. CP wasn't lying about 90% of the time. I
+ probably need to zoom out and re-evaluate the HTF picture when this
+happens. Although having a HTF read will probably prevent alot of this
+from happening in the first place.
+
+That'll be the focus for the next 30 days, train these new behaviors until they're second nature.
+FA: خب فکر می‌کنم می‌دانم چه چیزی باعث عملکرد ناپایدار در معامله‌گری‌ام می‌شود. دوره‌هایی هست که واقعاً روی FL‌ها و اینگالف‌ها تمرکز می‌کنم (خوب!) و دوره‌های دیگری که روی سفارش‌ها تمرکز می‌کنم و به FL‌ها و اینگالف‌ها توجه کافی ندارم (بد!). فکر می‌کنم این همان وقتی است که تنبل می‌شوم و تحلیل کامل را در همهٔ تایم‌فریم‌ها انجام نمی‌دهم. در نهایت یعنی قوانینم را رعایت نمی‌کنم.
+
+قانون شمارهٔ 1 — اگر در جهت یک اینگالف HTF معامله می‌کنی، می‌توانی نواحی‌ات را TT کنی. تا وقتی به آخرین دستهٔ سفارش‌ها نرسیده‌ای (mpl، fl اصلی، آخرین دستهٔ سفارش‌ها) در tg1 محافظه‌کار باش. گاهی اینگالف‌ها را درست نمی‌خوانم، پس باید بیشتر مطالعه کنم. اگر قوانین را رعایت می‌کنم نباید کلافه باشم. این قانون در روزهای رونددار مرا از دردسر دور نگه می‌دارد.
+
+قانون شمارهٔ 2 — اگر اینگالف روشنی نداری اما مجموعهٔ خوبی از سفارش‌ها می‌بینی، فقط در این صورت می‌توانی معامله‌اش کنی:
+
+1. رویکرد داشته باشی (بیشتر CP *خوب*، گاهی فقط دارد سفارش می‌سازد و واقعاً CP برای یک چرخش نیست)
+
+2. تأیید LTF داشته باشی.
+
+3. اگر چیز واقعاً قوی‌ای باشد (LSK + کینک خوب‌شکل یا PA دیگری حول کینک). فکر می‌کنم این یکی برایم دردسر می‌سازد.
+
+من در گرفتن همان چیزی که گیرم می‌آید خوب عمل نمی‌کنم و همیشه امید به برگشت دارم. واقعاً باید در tg سود بگیرم و روی اینگالف دوباره وارد شوم. باید به واکنش توجه ویژه کنم؛ اگر دارد CP می‌کند بیرون بیایم.
+
+نقاط مشکل‌دار
+
+1. همچنین باید از m1 دور بمانم مگر اینکه دنبال یک ناحیه یا ورود باشم. اینگالف‌های m1 در بستر یک حرکت بزرگ‌تر می‌توانند دروغ بگویند.
+
+2. قاطی کردن اسکالپ با معاملات HTF باعث می‌شود تصویر بزرگ‌تر را فراموش کنم. کشیده می‌شوم و حرکت اصلی را از دست می‌دهم.
+
+3. وقتی CP می‌بینم وزن بیشتری بدهم. بارها دیده‌ام قیمت برخلاف من CP می‌کند و فکر می‌کنم باید بیرون بیایم و نمی‌آیم، بلکه *امیدوارم* قیمت ادامه دهد. CP در حدود 90% مواقع دروغ نمی‌گفت. احتمالاً باید وقتی این اتفاق می‌افتد زوم اوت کنم و تصویر HTF را دوباره ارزیابی کنم. هرچند داشتن خوانش HTF احتمالاً از بسیاری از این موارد از ابتدا جلوگیری می‌کند.
+
+این تمرکز 30 روز آینده خواهد بود: تمرین این رفتارهای جدید تا وقتی به طبیعت ثانویه تبدیل شوند.
+--- fxeyes_p5_20 author=fxeyes hash=a75dda32
+EN: Looks like we have HTF eng up on USD/JPY. What do you guys think?
+FA: به نظر می‌رسد روی USD/JPY اینگالف HTF به سمت بالا داریم. نظر شما چیست؟
+--- fxeyes_p5_21 author=fxeyes hash=4c0dd728
+EN: Still having a seriously hard time overcoming psychology issues. Maybe writing them down will help. Any advice is welcome.
+
+For some reason, I have a hard time trusting my overall reads, although they tend to be right a majority of the time.
+
+Instead I'll do stupid stuff like:
+
+1. Fading strong trends without good confirmation.
+
+2. Trading kinks and mpls and disregarding PA (direction of engulf, HTF
+trend, etc..). As if the kinks and MPLs will magically hold (its the PA
+ that tells us what price is going to do stupid, kinks and mpls are
+areas of interest).
+
+3. Getting sucked in LTF and forgetting the bigger trade.
+
+4. Not believing the PA I see and trusting the kinks and mpls more. Applies to entries and reactions.
+
+I dont know why I just don't trust my reads. Maybe some deep
+psychological issues or bad habits i'm still not shaking. I think it
+also means my rules arn't being followed. Gotta think of a way to
+re-train myself. Something I'll sleep on for the rest of the night. So
+ what should have been like a 20x day ended up being a 2x day. I marked
+ up my thought process throughout the day, and all the signals that i
+simply ignored. Ah maybe that's it, spending a week or 2 just
+executing, get it into muscle memory... hmm.. How did some of you
+overcome this?
+FA: هنوز به‌سختی در حال غلبه بر مشکلات روانی هستم. شاید نوشتنشان کمک کند. هر مشورتی پذیرفته است.
+
+به دلیلی، در اعتماد به خوانش‌های کلی‌ام سختیم، هرچند بیشتر وقت‌ها درست از آب درمی‌آیند.
+
+به‌جایش کارهای احمقانه‌ای مثل این‌ها می‌کنم:
+
+1. محو کردن روندهای قوی بدون تأیید خوب.
+
+2. معاملهٔ کینک‌ها و mpl‌ها و نادیده گرفتن PA (جهت اینگالف، روند HTF و غیره). انگار کینک‌ها و MPL‌ها به‌طور جادویی نگه می‌دارند (این PA است که به ما می‌گوید قیمت چه کار احمقانه‌ای می‌خواهد بکند، کینک‌ها و mpl‌ها فقط نواحی مورد توجه‌اند).
+
+3. کشیده شدن به LTF و فراموش کردن معاملهٔ بزرگ‌تر.
+
+4. باور نکردن PA‌ای که می‌بینم و بیشتر اعتماد کردن به کینک‌ها و mpl‌ها. هم در ورودها و هم در واکنش‌ها.
+
+نمی‌دانم چرا به خوانش‌هایم اعتماد نمی‌کنم. شاید مشکلات روانی عمیق یا عادت‌های بدی است که هنوز از سرشان رد نمی‌شوم. فکر می‌کنم این یعنی قوانینم را هم رعایت نمی‌کنم. باید راهی برای بازآموزی خودم پیدا کنم. چیزی که بقیهٔ شب رویش فکر می‌کنم. پس آنچه باید روزی حدوداً 20 برابری باشد، به روزی 2 برابری تبدیل شد. در طول روز جریان فکری‌ام و همهٔ سیگنال‌هایی را که ساده نادیده گرفتم علامت زدم. آه، شاید همین باشد: یکی دو هفته فقط اجرا کن و به حافظهٔ عضلانی بسپار... هوم... شما چطور بر این غلبه کردید؟
+--- fxeyes_p5_22 author=moneydeep hash=97d768fc
+EN: I feel you brother.
+
+I put pending orders only to come back and re analyze and then remove
+the orders to see later that price bounced at the level I had set.
+
+Sometimes I cannot stop looking at the charts and am analyzing 1 min
+retraces when I should be waiting for the larger moves. Like all this
+week I've been waiting for eu and it's been going nowhere and I took
+losses on it because I get itchy fingers and start seeing trades where
+there aren't any.
+
+I think I might need to stop taking these low tf trades as it is getting
+ detrimental to my day to day work. I am going to try 1hr and 4hr setups
+ next week and see how that goes.The stops will be larger but atleast I
+will not need to look at the charts constantly.
+FA: درکت می‌کنم داداش.
+
+سفارش معلق می‌گذارم و بعد برمی‌گردم و دوباره تحلیل می‌کنم و بعد سفارش‌ها را برمی‌دارم، تا بعداً ببینم قیمت از همان سطحی که گذاشته بودم بازگشت زده است.
+
+گاهی نمی‌توانم از نگاه کردن به چارت‌ها دست بردارم و دارم پولبک‌های 1 دقیقه‌ای را تحلیل می‌کنم، وقتی باید منتظر حرکات بزرگ‌تر باشم. مثلاً کل این هفته منتظر eu بودم و جایی نرفت و رویش ضرر کردم، چون انگشتانم می‌خارد و شروع می‌کنم جایی معامله دیدن که معامله‌ای نیست.
+
+فکر می‌کنم شاید باید این معاملات تایم‌فریم پایین را کنار بگذارم، چون دارد به کار روزانه‌ام آسیب می‌زند. هفتهٔ بعد ستاپ‌های 1hr و 4hr را امتحان می‌کنم و ببینم چطور می‌شود. استاپ‌ها بزرگ‌تر می‌شوند ولی دست‌کم لازم نیست مدام به چارت‌ها نگاه کنم.
+--- fxeyes_p5_23 author=traderscape hash=d09a13d3
+EN: Hi,
+
+What I do (read I try to do) is two have kind of two different trading
+plans, two mind sets. One for long term HTF trading, the other one just
+for scalping. Well that's whenever I have time to sit down and spend
+some time trading.
+
+So for HTF I only go down to LTF in order to look for entry points, and find kinks in the past, set SL, PA, ...
+
+I don't mix this process with scalping LTF trading.
+
+I came to this because I don't have to much time to trade due to my
+work. Maybe an hour or two a day, and not everyday. Of course I still
+struggle a bit, missing trades, or being impatience if I haven't traded
+in a while.
+
+Well that's how I am trying to handle it.
+
+Hope this helps.
+FA: سلام،
+
+کاری که می‌کنم (یعنی تلاش می‌کنم بکنم) این است که دو نوع پلن معاملاتی متفاوت داشته باشم، دو طرز فکر. یکی برای معاملهٔ بلندمدت HTF و دیگری فقط برای اسکالپ. خب، این هر وقت زمانی داشته باشم که بنشینم و کمی معامله کنم.
+
+پس برای HTF فقط تا LTF پایین می‌آیم تا نقاط ورود را پیدا کنم، و کینک‌های گذشته را پیدا کنم، SL بگذارم، PA و...
+
+این فرایند را با معاملهٔ اسکالپی LTF قاطی نمی‌کنم.
+
+به این نتیجه رسیدم چون به‌خاطر کارم وقت زیادی برای معامله ندارم. شاید روزی یک یا دو ساعت، و نه هر روز. البته هنوز کمی دست‌وپنجه نرم می‌کنم، معاملات را از دست می‌دهم، یا اگر مدتی معامله نکرده باشم بی‌طاقت می‌شوم.
+
+خب، این‌طور تلاش می‌کنم مدیریتش کنم.
+
+امیدوارم مفید باشد.
+--- fxeyes_p5_24 author=fxeyes hash=3ba8b67d
+EN: moneydeep wrote: I feel you brother.
+
+I put pending orders only to come back and re analyze and then remove
+the orders to see later that price bounced at the level I had set.
+
+Sometimes I cannot stop looking at the charts and am analyzing 1 min
+retraces when I should be waiting for the larger moves. Like all this
+week I've been waiting for eu and it's been going nowhere and I took
+losses on it because I get itchy fingers and start seeing trades where
+there aren't any.
+
+I think I might need to stop taking these low tf trades as it is getting
+ detrimental to my day to day work. I am going to try 1hr and 4hr setups
+ next week and see how that goes.The stops will be larger but atleast I
+will not need to look at the charts constantly.
+
+I have a hard time with the higher tfs because i get overwhemled when i
+look at too many pairs. but maybe that's because i'm not good at
+putting pending orders. It often seems like watching the approach and
+reaction is so important. And its so nice to catch those 2 pip zones
+that run for 50 pips. But i think you are right, you make less money
+but the stress is much less trading HTFs.
+FA: moneydeep نوشت: درکت می‌کنم داداش.
+
+سفارش معلق می‌گذارم و بعد برمی‌گردم و دوباره تحلیل می‌کنم و بعد سفارش‌ها را برمی‌دارم، تا بعداً ببینم قیمت از همان سطحی که گذاشته بودم بازگشت زده است.
+
+گاهی نمی‌توانم از نگاه کردن به چارت‌ها دست بردارم و دارم پولبک‌های 1 دقیقه‌ای را تحلیل می‌کنم، وقتی باید منتظر حرکات بزرگ‌تر باشم. مثلاً کل این هفته منتظر eu بودم و جایی نرفت و رویش ضرر کردم، چون انگشتانم می‌خارد و شروع می‌کنم جایی معامله دیدن که معامله‌ای نیست.
+
+فکر می‌کنم شاید باید این معاملات تایم‌فریم پایین را کنار بگذارم، چون دارد به کار روزانه‌ام آسیب می‌زند. هفتهٔ بعد ستاپ‌های 1hr و 4hr را امتحان می‌کنم و ببینم چطور می‌شود. استاپ‌ها بزرگ‌تر می‌شوند ولی دست‌کم لازم نیست مدام به چارت‌ها نگاه کنم.
+
+من با تایم‌فریم‌های بالاتر سختیم، چون وقتی جفت‌ارزهای زیادی را نگاه می‌کنم گیج می‌شوم. ولی شاید دلیلش این است که در گذاشتن سفارش‌های معلق خوب نیستم. اغلب به نظر می‌رسد دیدن رویکرد و واکنش خیلی مهم است. و چه خوب است که آن ناحیه‌های 2 پیپی را بگیری که 50 پیپ می‌روند. اما فکر می‌کنم حق داری، در معاملهٔ HTF پول کمتری درمی‌آوری ولی استرس خیلی کمتر است.
+--- fxeyes_p5_25 author=fxeyes hash=e8e64f7f
+EN: traderscape wrote: Hi,
+
+What I do (read I try to do) is two have kind of two different trading
+plans, two mind sets. One for long term HTF trading, the other one just
+for scalping. Well that's whenever I have time to sit down and spend
+some time trading.
+
+So for HTF I only go down to LTF in order to look for entry points, and find kinks in the past, set SL, PA, ...
+
+I don't mix this process with scalping LTF trading.
+
+I came to this because I don't have to much time to trade due to my
+work. Maybe an hour or two a day, and not everyday. Of course I still
+struggle a bit, missing trades, or being impatience if I haven't traded
+in a while.
+
+Well that's how I am trying to handle it.
+
+Hope this helps.
+
+ah i think that's one of my problems. I have a hard time separating my
+LTF from HTF. I mean it always starts HTF, then goes LTF if there arn't
+ any trades. Then it gets all mixed up. I guess that all comes down to
+ discipline. thanks for your feedback!
+FA: traderscape نوشت: سلام،
+
+کاری که می‌کنم (یعنی تلاش می‌کنم بکنم) این است که دو نوع پلن معاملاتی متفاوت داشته باشم، دو طرز فکر. یکی برای معاملهٔ بلندمدت HTF و دیگری فقط برای اسکالپ. خب، این هر وقت زمانی داشته باشم که بنشینم و کمی معامله کنم.
+
+پس برای HTF فقط تا LTF پایین می‌آیم تا نقاط ورود را پیدا کنم، و کینک‌های گذشته را پیدا کنم، SL بگذارم، PA و...
+
+این فرایند را با معاملهٔ اسکالپی LTF قاطی نمی‌کنم.
+
+به این نتیجه رسیدم چون به‌خاطر کارم وقت زیادی برای معامله ندارم. شاید روزی یک یا دو ساعت، و نه هر روز. البته هنوز کمی دست‌وپنجه نرم می‌کنم، معاملات را از دست می‌دهم، یا اگر مدتی معامله نکرده باشم بی‌طاقت می‌شوم.
+
+خب، این‌طور تلاش می‌کنم مدیریتش کنم.
+
+امیدوارم مفید باشد.
+
+آه فکر می‌کنم این یکی از مشکلات من است. سختیم LTF را از HTF جدا کنم. یعنی همیشه با HTF شروع می‌شود، بعد اگر معامله‌ای نباشد به LTF می‌رود. بعد همه‌چیز قاطی می‌شود. گمانم همهٔ این‌ها به نظم و انضباط برمی‌گردد. ممنون از بازخوردت!

@@ -1,0 +1,8 @@
+{
+  "salivan_p21_5": {
+    "ok": false,
+    "issue": "literal idiom calque",
+    "why": "EN \"sky is the limit for you\" is calqued word-for-word as «آسمان حد تو است», which no Persian speaker says (the idiom is «آسمان سقف توست» / «محدودیتی نداری»); «حد» here is the English word \"limit\" pasted in. The address also slips, \"very intelligent dude\" becoming «آدم خیلی باهوشی است» (third person) instead of speaking to him.",
+    "fix": "بدون شک خیلی باهوشی رفیق، آسمان سقف توست!!!"
+  }
+}

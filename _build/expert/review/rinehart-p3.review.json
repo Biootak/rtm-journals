@@ -1,0 +1,8 @@
+{
+  "rinehart_p3_1": {
+    "ok": false,
+    "issue": "idiom calque",
+    "why": "EN «(unless price rallies too close for comfort to my entry before the close)» uses the idiom for uncomfortably close; FA renders it as «(مگر اینکه قیمت قبل از بسته شدن بیش از حد راحت به ورودم نزدیک شود)», i.e. literally too comfortably close, a calque a Persian trader would never write and it muddles the hedge. The first phrase «We CPed into the QM» is also rendered with a broken clause «به QM، CP کردیم».",
+    "fix": "Rinehart نوشت: این هم برنامهٔ معاملهٔ EJ من... نظرات خوش‌آمد است\n\nمعاملهٔ EURJPY من برنده شد. به سمت QM، CP کردیم و ریزش خوبی داشتیم. بخشی از سود را گرفتم و معامله را آخر هفته باز می‌گذارم (مگر اینکه قیمت پیش از بسته شدن به‌طور آزاردهنده‌ای به ورودم نزدیک شود). دو معاملهٔ دیگری که برنامه‌ریزی کرده بودم — GBPJPY و AUDNZD — پیش از ورود من به تارگتشان رسیدند، پس لغو شدند."
+  }
+}

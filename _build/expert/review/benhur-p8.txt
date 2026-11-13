@@ -1,0 +1,392 @@
+### benhur_p8_1
+EN: Bump.
+FA: آپ.
+
+### benhur_p8_2
+EN: ZeeDeveel wrote: Bump.
+
+I see you are crushing on some people lately...
+FA: ZeeDeveel نوشت: آپ.
+
+می‌بینم این روزها به بعضی‌ها دل بسته‌ای...
+
+### benhur_p8_3
+EN: benhur wrote:
+ZeeDeveel wrote: Bump.
+
+I see you are crushing on some people lately...
+
+Haha, just think it's a shame to have these tomes of wisdom buried under dozens of quickly abandoned journeys. Kruger's and Doctor's were like 15 pages deep!
+FA: benhur نوشت: ZeeDeveel نوشت: آپ.
+
+می‌بینم این روزها به بعضی‌ها دل بسته‌ای...
+
+هاها، فقط فکر می‌کنم حیف است که این گنجینه‌های دانش زیر ده‌ها ژورنالِ زودرهاشده دفن شوند. ژورنال Kruger و Doctor حدود 15 صفحه عمق داشتند!
+
+### benhur_p8_4
+EN: benhur wrote: I should release it as soon as I'll have time to write a manual for it.
+
+Hi Gilben,
+
+just finished reading your journal. Nice and simple, straight to the point!
+
+I'm using some of your indicators too so what about this one?
+
+(EDIT: I'm referring to the alerter of this post:
+	readthemarket.com/index.php/forum/journa...urnal?start=75#29771
+)
+FA: benhur نوشت: همین که وقت کنم برایش یک راهنما بنویسم، منتشرش می‌کنم.
+
+سلام Gilben،
+
+همین حالا خواندن ژورنالت را تمام کردم. خوب و ساده، و مستقیم سر اصل مطلب!
+
+من هم از بعضی اندیکاتورهای تو استفاده می‌کنم؛ پس این یکی چطور؟
+
+(ویرایش: منظورم آلرتر همین پست است: readthemarket.com/index.php/forum/journa...urnal?start=75#29771)
+
+### benhur_p8_5
+EN: hi Gilben, nice and clear journal , thank a ton for sharing your knowledge with us , hope you do well
+
+SALIVAN
+FA: سلام Gilben، ژورنال خوب و شفافی داری؛ برای به اشتراک گذاشتن دانشت با ما بی‌نهایت ممنونم، امیدوارم موفق باشی
+
+SALIVAN
+
+### benhur_p8_6
+EN: I was watching this movie " Benhur" last night. I was then thinking "how come this name sounds so familiar " and later did i realise that we have one at RTM!
+FA: دیشب داشتم این فیلم «Benhur» را تماشا می‌کردم. بعد با خودم فکر کردم «چطور است که این اسم این‌قدر آشنا به گوش می‌رسد» و بعداً فهمیدم که ما هم یکی در RTM داریم!
+
+### benhur_p8_7
+EN: Al3cs wrote:
+benhur wrote: I should release it as soon as I'll have time to write a manual for it.
+
+Hi Gilben,
+
+just finished reading your journal. Nice and simple, straight to the point!
+
+I'm using some of your indicators too so what about this one?
+
+(EDIT: I'm referring to the alerter of this post:
+	readthemarket.com/index.php/forum/journa...urnal?start=75#29771
+)
+
+I didn't realize people still are waiting for this.
+
+So here it goes the "Pimping My Line"
+
+* It change any trendline to horizontal line,
+
+* It pimp it with the timeframe and price tag labels
+
+* It hides lower timeframe lines when viewing high time frame.
+
+File Attachment:File Name: PimpingmyTrendline0.1.ex4
+File Size: 11 KB
+
+Enjoy
+FA: Al3cs نوشت: benhur نوشت: همین که وقت کنم برایش یک راهنما بنویسم، منتشرش می‌کنم.
+
+سلام Gilben،
+
+همین حالا خواندن ژورنالت را تمام کردم. خوب و ساده، و مستقیم سر اصل مطلب!
+
+من هم از بعضی اندیکاتورهای تو استفاده می‌کنم؛ پس این یکی چطور؟
+
+(ویرایش: منظورم آلرتر همین پست است: readthemarket.com/index.php/forum/journa...urnal?start=75#29771)
+
+نمی‌دانستم مردم هنوز منتظر این هستند.
+
+بفرمایید، این هم «Pimping My Line»
+
+* هر خط روندی را به خط افقی تبدیل می‌کند،
+
+* آن را با برچسب‌های تایم‌فریم و قیمت آرایش می‌دهد
+
+* وقتی تایم‌فریم بالاتر را می‌بینید، خطوط تایم‌فریم پایین‌تر را پنهان می‌کند.
+
+پیوست فایل:نام فایل: PimpingmyTrendline0.1.ex4
+حجم فایل: 11 KB
+
+لذت ببرید
+
+### benhur_p8_8
+EN: Thank you gilben,
+
+but something isn't working well. Look at prices.
+
+Btw I was sure it was an alerter too.
+
+File Attachment:File Name:
+File Size: 0 KB
+FA: ممنون gilben،
+
+اما یک چیزی درست کار نمی‌کند. به قیمت‌ها نگاه کن.
+
+راستی، من مطمئن بودم که آن هم یک آلرتر است.
+
+پیوست فایل:نام فایل:
+حجم فایل: 0 KB
+
+### benhur_p8_9
+EN: The alert is another indicator - you can find it in the Indicators section.
+
+About the visual case you show, please just use it as is. Maybe in the future I will have the time to fix it.
+FA: آلرت یک اندیکاتور دیگر است — می‌توانی آن را در بخش اندیکاتورها پیدا کنی.
+
+دربارهٔ مورد ظاهری‌ای که نشان می‌دهی، لطفاً همین‌طور که هست استفاده کن. شاید در آینده وقت کنم درستش کنم.
+
+### benhur_p8_10
+EN: Hi Benhur,
+
+I have a question (well, few questions.. ) regarding DPs and FTR/FLs. Hope you don't mind me polluting your great journal.. :) Please consider the following example.
+
+This is a USDCAD chart. I watched IF's decision points video over and over again. He says in the video that, price goes from one decision point to another. In the below H1 chart.. I have marked a DP which decides price is too expensive and then decides to go down the SR flip. IF shows that the decision is made at the open of the candle. (at least that's what I saw in the video).
+
+1. But how do we really say that the decision is made at the open of the candle? when we go to LTFs, candle is narrowed down we can exactly find the LTF candle which broke the level. So the DP will be the opening point of the LTF candle.. Still if we have more and more LTFs.. we can further go down and narrow down. So which DP is the correct DP which decides the price is too expensive and broke the S/R flip level? DP1, DP2 or DP3?
+
+2. Other thing is, If price is reacting to a DP, why would we need FTRs, FLs? In the example, the DP is different from the FTR. Price can react to the FTR or DP. Do we put our pending orders at FTR and Stoplosses on DPs ( in this example)?
+
+3. Are FLs, FTRs new decision points made after the previous decision took place? ( For example, DP1 decided that price is too expensive and broke down the SR flip level and then made the new DP2)
+
+Note: Price actually reacted to DP1. never reacted to the FTR.. I dont know why.
+
+Thanks in advance.
+FA: سلام Benhur،
+
+یک سؤال دارم (خب، چند سؤال..) دربارهٔ DP‌ها و FTR/FL‌ها. امیدوارم بدت نیاید که ژورنال عالی‌ات را آلوده می‌کنم.. :) لطفاً این نمونه را در نظر بگیر.
+
+این چارت USDCAD است. ویدئوی نقاط تصمیم IF را بارها و بارها تماشا کردم. او در ویدئو می‌گوید که قیمت از یک نقطهٔ تصمیم به نقطهٔ تصمیم دیگر می‌رود. در چارت H1 زیر.. من یک DP علامت زده‌ام که تصمیم می‌گیرد قیمت بیش از حد گران است و بعد تصمیم می‌گیرد که SR flip را به سمت پایین برود. IF نشان می‌دهد که تصمیم در باز شدن کندل گرفته می‌شود. (دست‌کم این چیزی است که من در ویدئو دیدم).
+
+1. اما واقعاً چطور می‌گوییم که تصمیم در باز شدن کندل گرفته شده است؟ وقتی به تایم‌فریم‌های پایین‌تر می‌رویم، کندل باریک‌تر می‌شود و می‌توانیم دقیقاً همان کندل تایم‌فریم پایین‌تر را پیدا کنیم که سطح را شکسته است. پس DP نقطهٔ باز شدن کندل تایم‌فریم پایین‌تر خواهد بود.. هنوز هم اگر تایم‌فریم‌های پایین‌تر بیشتری داشته باشیم.. می‌توانیم باز هم پایین‌تر برویم و باریک‌تر کنیم. پس کدام DP همان DP درست است که تصمیم می‌گیرد قیمت بیش از حد گران است و سطح flip حمایت/مقاومت را می‌شکند؟ DP1، DP2 یا DP3؟
+
+2. نکتهٔ دیگر اینکه، اگر قیمت به یک DP واکنش می‌دهد، چرا به FTR‌ها و FL‌ها نیاز داریم؟ در این نمونه، DP با FTR متفاوت است. قیمت می‌تواند به FTR یا به DP واکنش بدهد. آیا سفارش‌های معلقمان را روی FTR می‌گذاریم و استاپ‌لاس‌ها را روی DP‌ها (در این نمونه)؟
+
+3. آیا FL‌ها و FTR‌ها نقاط تصمیم جدیدی هستند که بعد از وقوع تصمیم قبلی ساخته شده‌اند؟ (برای نمونه، DP1 تصمیم گرفت که قیمت بیش از حد گران است و سطح SR flip را به پایین شکست و بعد DP2 جدید را ساخت)
+
+نکته: قیمت واقعاً به DP1 واکنش داد. هیچ‌وقت به FTR واکنش نداد.. نمی‌دانم چرا.
+
+پیشاپیش ممنون.
+
+### benhur_p8_11
+EN: Hi VT
+
+The moment when things clicked for me in my studies was the moment I realized nothing in the market is technical. Instead I started looking for places where I could find unfilled orders. Today, when I look at the chart I am searching for the ultimate bouncing levels, then I consider if I want to trade these levels.
+
+At decision points there are unfilled orders and you can expect a bounce there. but be aware that a decision level is just the nearby barrier of a PAZ (price Action Zone). The further boundary of that PAZ can react too, because this is the first level that price was balanced with opposing orders, therefor just beyond it you can find unfilled orders. This is why you should consider FTR, FL, DP, CP, QM, DM - these all are variety of formations that unfold imbalanced order flow that you can use in your trading.
+
+To make things more complex, yes you should drill down forever if possible to really fine your level. You should always remember that time is no factor of the market, therefore time frame is just a random necessity to document price. The events of the markets are documented by price only. So our job is harder to extract the finest level to act upon. Yes is no that straight forward, And yes we should be very happy it is like that, only the busy miners get reach the precious rocks.
+
+To be more practical, do what I did for weeks during my initial learning phase; take two lines one for above price one for below market price. stare at one minute charts and place you lines where you know price will give a bounce. Do so for whole sessions with great patience and motivation to really see price in action. If you do so, come back and share with the RTM community your finding. I am sure there are going to be at least few priceless insights you take for life.
+FA: سلام VT
+
+لحظه‌ای که در مطالعاتم همه‌چیز برایم جا افتاد، لحظه‌ای بود که فهمیدم هیچ چیزی در بازار تکنیکال نیست. به‌جایش شروع کردم به جست‌وجوی جاهایی که می‌توانم سفارش‌های پرنشده را پیدا کنم. امروز وقتی به چارت نگاه می‌کنم، دنبال بهترین سطوح بازگشتی می‌گردم و بعد در نظر می‌گیرم که آیا می‌خواهم این سطوح را معامله کنم یا نه.
+
+در نقاط تصمیم سفارش‌های پرنشده وجود دارد و می‌توانی انتظار بازگشت در آنجا را داشته باشی. اما آگاه باش که سطح تصمیم فقط سد نزدیک یک PAZ (ناحیهٔ پرایس اکشن) است. مرز دورتر آن PAZ هم می‌تواند واکنش بدهد، چون این اولین سطحی است که قیمت در آن با سفارش‌های مخالف متعادل شده بود؛ بنابراین درست آن‌سویش می‌توانی سفارش‌های پرنشده پیدا کنی. به همین دلیل باید FTR، FL، DP، CP، QM، DM را در نظر بگیری — این‌ها همه گونه‌های مختلفی از الگوها هستند که جریان سفارش نامتعادل را باز می‌کنند و می‌توانی در معامله‌گری‌ات از آن‌ها استفاده کنی.
+
+برای پیچیده‌تر کردن ماجرا، بله باید اگر ممکن است تا بی‌نهایت پایین بروی تا سطحت را واقعاً ریز کنی. همیشه یادت باشد که زمان عاملی در بازار نیست؛ بنابراین تایم‌فریم فقط یک ضرورت تصادفی برای مستند کردن قیمت است. رویدادهای بازار فقط با قیمت مستند می‌شوند. پس کار ما سخت‌تر است تا ریزترین سطح را برای عمل کردن بیرون بکشیم. بله، اصلاً سرراست نیست، و بله باید خیلی خوشحال باشیم که این‌طور است؛ فقط معدن‌کارهای پرکار است که به سنگ‌های گران‌بها می‌رسند.
+
+برای اینکه عملی‌تر باشد، همان کاری را بکن که من هفته‌ها در مرحلهٔ ابتدایی یادگیری‌ام می‌کردم؛ دو خط بردار، یکی برای بالای قیمت و یکی برای زیر قیمت بازار. به چارت‌های یک‌دقیقه‌ای خیره شو و خطوطت را جایی بگذار که می‌دانی قیمت بازگشت خواهد کرد. این کار را برای کل سشن‌ها با صبر و انگیزهٔ زیاد انجام بده تا واقعاً قیمت را در عمل ببینی. اگر این کار را کردی، برگرد و یافته‌ات را با جامعهٔ RTM به اشتراک بگذار. مطمئنم دست‌کم چند بینش گران‌بها به دست می‌آوری که برای تمام عمر با تو می‌ماند.
+
+### benhur_p8_12
+EN: Thank you for your valuable time and descriptive explanation.. One more thing.. I am sorry What did you mean by " what you did for weeks"? Is that the decision point homework? I really didn't get what you have explained about what you did in your initial stage
+FA: ممنون از وقتی که گذاشتی و توضیح گویایت.. یک چیز دیگر.. ببخشید، منظورت از «کاری که هفته‌ها انجام دادی» چه بود؟ همان تکلیف نقاط تصمیم است؟ من واقعاً آنچه دربارهٔ کارهایت در مرحلهٔ اولیه توضیح دادی را نگرفتم
+
+### benhur_p8_13
+EN: I just watched 1 Minutes charts, while I placed my marks where I thought I should get a bouncing action. I did it for two weeks - just that, and I learned a lot about price anatomy like that.
+FA: فقط چارت‌های یک‌دقیقه‌ای را تماشا می‌کردم و همزمان علامت‌هایم را جایی می‌گذاشتم که فکر می‌کردم باید بازگشتی رخ بدهد. دو هفته این کار را کردم — فقط همین — و این‌طور چیزهای زیادی دربارهٔ آناتومی قیمت یاد گرفتم.
+
+### benhur_p8_14
+EN: OMG ,Master is back
+FA: خدای من، استاد برگشته
+
+### benhur_p8_15
+EN: benhur wrote: Hi VT
+
+The moment when things clicked for me in my studies was the moment I realized nothing in the market is technical. Instead I started looking for places where I could find unfilled orders.
+
+But isn't it still part of "technical analysis" though ? (i.e. the study of price movement.) Even if it involves no indicators whatsoever...There's always a technic involved even if it's not a perfect science. It's something that you have to know about. To study etc...
+FA: benhur نوشت: سلام VT
+
+لحظه‌ای که در مطالعاتم همه‌چیز برایم جا افتاد، لحظه‌ای بود که فهمیدم هیچ چیزی در بازار تکنیکال نیست. به‌جایش شروع کردم به جست‌وجوی جاهایی که می‌توانم سفارش‌های پرنشده را پیدا کنم.
+
+اما آیا این هنوز بخشی از «تحلیل تکنیکال» نیست؟ (یعنی مطالعهٔ حرکت قیمت.) حتی اگر هیچ اندیکاتوری در آن دخیل نباشد... همیشه یک تکنیک در کار است، حتی اگر علم کاملی نباشد. چیزی است که باید درباره‌اش بدانی. باید مطالعه‌اش کنی و غیره...
+
+### benhur_p8_16
+EN: micka1 wrote:
+
+But isn't it still part of "technical analysis" though ? (i.e. the study of price movement.) Even if it involves no indicators whatsoever...There's always a technic involved even if it's not a perfect science. It's something that you have to know about. To study etc...
+
+Is reading a book is technical? In my approach the chart is the book, the candles are the letters and price levels are the story plot. Its all about reading the narrative of the market.
+FA: micka1 نوشت:
+
+اما آیا این هنوز بخشی از «تحلیل تکنیکال» نیست؟ (یعنی مطالعهٔ حرکت قیمت.) حتی اگر هیچ اندیکاتوری در آن دخیل نباشد... همیشه یک تکنیک در کار است، حتی اگر علم کاملی نباشد. چیزی است که باید درباره‌اش بدانی. باید مطالعه‌اش کنی و غیره...
+
+آیا کتاب خواندن تکنیکال است؟ در رویکرد من، چارت همان کتاب است، کندل‌ها حروف‌اند و سطوح قیمت خط داستان. همه‌اش دربارهٔ خواندن روایت بازار است.
+
+### benhur_p8_17
+EN: I got this question in my PM, I think it worth to post my reply in public.
+
+The question was related to my definition for Flag-Limits. as some of you know, I tend to breakdown everything to the OF arrays, by doing this I can assume where unfilled orders are located:Think of a Flag-Limit in terms of orderflow balance / imbalance.
+
+The flag area show us where there was balanced OF, while the pole (the approach or the break) is where we assume to find imbalance.
+
+We also assume that we can find unfilled orders where there was first (or last) imbalanced OF.
+
+This, in theory explains the FL under and above.
+
+The question wasWhen you said while the pole the approach or the break .. Do you mean the last H made inside a Flag before let's say price Engulfs down with LQ ? and by break you mean the Break of Support or Demand in the Flag ? also can't figure out exactly what do you mean by first or last Imbalanced ?
+
+Here is an image to explain how FO aligned around FL
+FA: این سؤال را در پیام خصوصی‌ام دریافت کردم و فکر می‌کنم ارزش دارد که پاسخم را عمومی منتشر کنم.
+
+سؤال مربوط به تعریف من از FL لیمیت‌ها بود. همان‌طور که بعضی‌هایتان می‌دانید، من همه چیز را به آرایه‌های OF تجزیه می‌کنم و با این کار می‌توانم حدس بزنم سفارش‌های پرنشده کجا قرار دارند: به یک FL لیمیت از منظر تعادل/عدم تعادل جریان سفارش فکر کنید.
+
+ناحیهٔ فلگ به ما نشان می‌دهد کجا OF متعادل بوده، در حالی که میله (نزدیک‌شدن یا شکست) جایی است که فرض می‌کنیم عدم تعادل را پیدا می‌کنیم.
+
+همچنین فرض می‌کنیم که می‌توانیم سفارش‌های پرنشده را جایی پیدا کنیم که اولین (یا آخرین) OF نامتعادل بوده است.
+
+این، در تئوری، FL‌های زیر و بالا را توضیح می‌دهد.
+
+سؤال این بود: وقتی گفتید «میله، یعنی نزدیک‌شدن یا شکست».. منظورت آخرین H ساخته‌شده داخل یک فلگ است، قبل از اینکه مثلاً قیمت با LQ به پایین اینگالف کند؟ و منظور از شکست، شکست حمایت یا تقاضا در فلگ است؟ همچنین دقیقاً نمی‌فهمم منظورت از اولین یا آخرین عدم تعادل چیست؟
+
+این هم تصویری برای توضیح اینکه FO چطور حول FL چیده می‌شود
+
+### benhur_p8_18
+EN: This is a view you could give to flag limit, trade opportunitie, low risk / high reward
+FA: این هم دیدگاهی است که می‌توان به FL لیمیت نسبت داد؛ فرصت معاملاتی، ریسک کم / پاداش زیاد
+
+### benhur_p8_19
+EN: benhur wrote: Hi VT
+
+The moment when things clicked for me in my studies was the moment I realized nothing in the market is technical. Instead I started looking for places where I could find unfilled orders. Today, when I look at the chart I am searching for the ultimate bouncing levels, then I consider if I want to trade these levels.
+
+At decision points there are unfilled orders and you can expect a bounce there. but be aware that a decision level is just the nearby barrier of a PAZ (price Action Zone). The further boundary of that PAZ can react too, because this is the first level that price was balanced with opposing orders, therefor just beyond it you can find unfilled orders. This is why you should consider FTR, FL, DP, CP, QM, DM - these all are variety of formations that unfold imbalanced order flow that you can use in your trading.
+
+To make things more complex, yes you should drill down forever if possible to really fine your level. You should always remember that time is no factor of the market, therefore time frame is just a random necessity to document price. The events of the markets are documented by price only. So our job is harder to extract the finest level to act upon. Yes is no that straight forward, And yes we should be very happy it is like that, only the busy miners get reach the precious rocks.
+
+To be more practical, do what I did for weeks during my initial learning phase; take two lines one for above price one for below market price. stare at one minute charts and place you lines where you know price will give a bounce. Do so for whole sessions with great patience and motivation to really see price in action. If you do so, come back and share with the RTM community your finding. I am sure there are going to be at least few priceless insights you take for life.
+
+Hi Benhur,
+
+One doubt,
+
+You said "To be more practical, do what I did for weeks during my initial learning phase; take two lines one for above price one for below market price. stare at one minute charts and place you lines where you know price will give a bounce"
+
+Where do I place these two lines? Should I place them, where I think price will bounce?
+
+For example, I my last post in your journal (
+	readthemarket.com/~readthe3/index.php/fo...rnal?start=175#54052
+ ), Lower line should be in DP2 and upper line in DP1 ? assuming Price either should bounce at DP1 or DP2?
+
+I am sorry I am asking this again because I didnt get what you mean by " take two lines one for above price one for below market price"
+
+Thanks in advance!
+FA: benhur نوشت: سلام VT
+
+لحظه‌ای که در مطالعاتم همه‌چیز برایم جا افتاد، لحظه‌ای بود که فهمیدم هیچ چیزی در بازار تکنیکال نیست. به‌جایش شروع کردم به جست‌وجوی جاهایی که می‌توانم سفارش‌های پرنشده را پیدا کنم. امروز وقتی به چارت نگاه می‌کنم، دنبال بهترین سطوح بازگشتی می‌گردم و بعد در نظر می‌گیرم که آیا می‌خواهم این سطوح را معامله کنم یا نه.
+
+در نقاط تصمیم سفارش‌های پرنشده وجود دارد و می‌توانی انتظار بازگشت در آنجا را داشته باشی. اما آگاه باش که سطح تصمیم فقط سد نزدیک یک PAZ (ناحیهٔ پرایس اکشن) است. مرز دورتر آن PAZ هم می‌تواند واکنش بدهد، چون این اولین سطحی است که قیمت در آن با سفارش‌های مخالف متعادل شده بود؛ بنابراین درست آن‌سویش می‌توانی سفارش‌های پرنشده پیدا کنی. به همین دلیل باید FTR، FL، DP، CP، QM، DM را در نظر بگیری — این‌ها همه گونه‌های مختلفی از الگوها هستند که جریان سفارش نامتعادل را باز می‌کنند و می‌توانی در معامله‌گری‌ات از آن‌ها استفاده کنی.
+
+برای پیچیده‌تر کردن ماجرا، بله باید اگر ممکن است تا بی‌نهایت پایین بروی تا سطحت را واقعاً ریز کنی. همیشه یادت باشد که زمان عاملی در بازار نیست؛ بنابراین تایم‌فریم فقط یک ضرورت تصادفی برای مستند کردن قیمت است. رویدادهای بازار فقط با قیمت مستند می‌شوند. پس کار ما سخت‌تر است تا ریزترین سطح را برای عمل کردن بیرون بکشیم. بله، اصلاً سرراست نیست، و بله باید خیلی خوشحال باشیم که این‌طور است؛ فقط معدن‌کارهای پرکار است که به سنگ‌های گران‌بها می‌رسند.
+
+برای اینکه عملی‌تر باشد، همان کاری را بکن که من هفته‌ها در مرحلهٔ ابتدایی یادگیری‌ام می‌کردم؛ دو خط بردار، یکی برای بالای قیمت و یکی برای زیر قیمت بازار. به چارت‌های یک‌دقیقه‌ای خیره شو و خطوطت را جایی بگذار که می‌دانی قیمت بازگشت خواهد کرد. این کار را برای کل سشن‌ها با صبر و انگیزهٔ زیاد انجام بده تا واقعاً قیمت را در عمل ببینی. اگر این کار را کردی، برگرد و یافته‌ات را با جامعهٔ RTM به اشتراک بگذار. مطمئنم دست‌کم چند بینش گران‌بها به دست می‌آوری که برای تمام عمر با تو می‌ماند.
+
+سلام Benhur،
+
+یک ابهام دارم،
+
+گفتی «برای اینکه عملی‌تر باشد، همان کاری را بکن که من هفته‌ها در مرحلهٔ ابتدایی یادگیری‌ام می‌کردم؛ دو خط بردار، یکی برای بالای قیمت و یکی برای زیر قیمت بازار. به چارت‌های یک‌دقیقه‌ای خیره شو و خطوطت را جایی بگذار که می‌دانی قیمت بازگشت خواهد کرد»
+
+این دو خط را کجا بگذارم؟ باید جایی بگذارم که فکر می‌کنم قیمت بازگشت می‌کند؟
+
+برای نمونه، در پست آخر من در ژورنالت (readthemarket.com/~readthe3/index.php/fo...rnal?start=175#54052)، خط پایین باید روی DP2 باشد و خط بالا روی DP1؟ با این فرض که قیمت یا باید در DP1 بازگشت کند یا در DP2؟
+
+ببخشید که دوباره می‌پرسم، چون متوجه نشدم منظورت از «دو خط بردار، یکی برای بالای قیمت و یکی برای زیر قیمت بازار» چه بود
+
+پیشاپیش ممنون!
+
+### benhur_p8_20
+EN: ViTaLDRuG wrote: Where do I place these two lines? Should I place them, where I think price will bounce?
+
+In Simple: Yes.
+
+More Specific: The objective of this drill is to learn to predict bouncing levels, and to experience price moves.
+
+In General: Do only drill that make sense to you, and that are critical for your own learning. I invented this drill to myself, it may not suit to everyone.
+FA: ViTaLDRuG نوشت: این دو خط را کجا بگذارم؟ باید جایی بگذارم که فکر می‌کنم قیمت بازگشت می‌کند؟
+
+به‌زبان ساده: بله.
+
+دقیق‌تر: هدف این تمرین یاد گرفتن پیش‌بینی سطوح بازگشتی و تجربه کردن حرکت‌های قیمت است.
+
+به‌طور کلی: فقط تمرین‌هایی را انجام بده که برایت منطقی‌اند و برای یادگیری خودت حیاتی هستند. من این تمرین را برای خودم ابداع کردم؛ شاید برای همه مناسب نباشد.
+
+### benhur_p8_21
+EN: Hi Benhur,
+
+I noticed that, if a FL is broken, and then if another FL is created which hold the price up or down (It will hold the price up or down opposite to the direction the previous FL hold) and then the second FL is broken, that breaking swing will always go to the decision point there it was decided to break the first FL. Noticed this almost every time. In case of a perfect Flag (which has a big pole up/down), if its FL is broken, the price should go to the start of the pole. Of course the start of that pole should break another FL on the way to create the current Flag' FL.
+
+benhur wrote:
+ViTaLDRuG wrote: Where do I place these two lines? Should I place them, where I think price will bounce?
+
+In Simple: Yes.
+
+More Specific: The objective of this drill is to learn to predict bouncing levels, and to experience price moves.
+
+In General: Do only drill that make sense to you, and that are critical for your own learning. I invented this drill to myself, it may not suit to everyone.
+FA: سلام Benhur،
+
+متوجه شدم که اگر یک FL شکسته شود و بعد FL دیگری ساخته شود که قیمت را بالا یا پایین نگه دارد (قیمت را برخلاف جهتی که FL قبلی نگه داشته بود، بالا یا پایین نگه می‌دارد) و بعد آن FL دوم هم شکسته شود، آن موج شکست همیشه به نقطهٔ تصمیمی می‌رود که در آن تصمیم گرفته شد FL اول شکسته شود. تقریباً هر بار این را دیده‌ام. در مورد یک فلگ کامل (که میلهٔ بزرگی به بالا/پایین دارد)، اگر FL آن شکسته شود، قیمت باید به ابتدای میله برود. البته ابتدای آن میله باید در مسیر خود FL دیگری را بشکند تا FL فلگ فعلی ساخته شود.
+
+benhur نوشت: ViTaLDRuG نوشت: این دو خط را کجا بگذارم؟ باید جایی بگذارم که فکر می‌کنم قیمت بازگشت می‌کند؟
+
+به‌زبان ساده: بله.
+
+دقیق‌تر: هدف این تمرین یاد گرفتن پیش‌بینی سطوح بازگشتی و تجربه کردن حرکت‌های قیمت است.
+
+به‌طور کلی: فقط تمرین‌هایی را انجام بده که برایت منطقی‌اند و برای یادگیری خودت حیاتی هستند. من این تمرین را برای خودم ابداع کردم؛ شاید برای همه مناسب نباشد.
+
+### benhur_p8_22
+EN: This is a wonderful insight.
+
+I would love to see some examples on chart.
+FA: این بینش فوق‌العاده‌ای است.
+
+خیلی دوست دارم چند نمونه روی چارت ببینم.
+
+### benhur_p8_23
+EN: benhur wrote: This is a wonderful insight.
+
+I would love to see some examples on chart.
+
+Will post as soon as possible.. I am still at office.
+FA: benhur نوشت: این بینش فوق‌العاده‌ای است.
+
+خیلی دوست دارم چند نمونه روی چارت ببینم.
+
+در اولین فرصت پست می‌کنم.. من هنوز در دفتر کارم هستم.
+
+### benhur_p8_24
+EN: Hi Benhur,
+
+This is what I said.. I am not sure if I am correct or not.. Most of the time, it happens. I have marked the FL pairs in the same colour
+FA: سلام Benhur،
+
+این همان چیزی است که گفتم.. مطمئن نیستم درست می‌گویم یا نه.. بیشتر وقت‌ها این اتفاق می‌افتد. جفت‌های FL را با یک رنگ علامت زده‌ام
+
+### benhur_p8_25
+EN: Brilliant. Actually this type of trading was one of my first Eureka moments.
+
+In simplified: The Base of rally that break the opposite level, is a high probability bounce level.
+
+I call it Effort vs Result.
+
+Great Stuff Vitali. Keep on! ()
+FA: درخشان. راستش این نوع معامله یکی از اولین لحظه‌های «یافتم» من بود.
+
+به‌زبان ساده: پایهٔ رالی‌ای که سطح مقابل را می‌شکند، یک سطح بازگشت با احتمال بالا است.
+
+من اسمش را می‌گذارم تلاش در برابر نتیجه.
+
+کار عالی Vitali. ادامه بده! ()

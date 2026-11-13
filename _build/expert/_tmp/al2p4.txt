@@ -1,0 +1,538 @@
+
+##### [0] academylite2_p4_76 | staurum | 53142332dcff8601fce50ba4203b43c088d9e319
+--- EN ---
+Hi Enl, i can understand what you are talking about. I feel IF has explained it quite clearly. Maybe a good idea to rewind it and rewatch from the beginning IF opened that marked-up UCAD chart. It's not too far though because this area is at the beginning of his long explanation on the chart. hope it helps, in the meantime, let's hear friends have to say.:)
+--- FA ---
+سلام Enl، می‌فهمم از چه حرف می‌زنی. احساس می‌کنم IF کاملاً شفاف توضیحش داده. شاید ایده‌ی خوبی باشد که برگردی و از جایی که IF آن چارت علامت‌گذاری‌شده‌ی UCAD را باز کرد دوباره ببینی. زیاد هم دور نیست چون این ناحیه در ابتدای توضیح طولانی او روی چارت است. امیدوارم کمک کند، در این فاصله بیایید بشنویم دوستان چه می‌گویند.:)
+
+##### [1] academylite2_p4_77 | zee | 348ee060672a7b2ef3dfc34cc32d20e045185cde
+--- EN ---
+Enlightenme wrote: Hi
+
+I understand that price bounces on FLs that are usually in key levels and therefore, they are special. However, for left shoulders in relation to QM, is it safe to assume
+
+1. that the FLs broken to create the left shoulders (not the FL created after breaking the left shoulder) are insignificant and also are not in a key level? 2. and that the time frame to which the FLs broken to create the left shoulders belongs to is irrelevant?
+
+I am asking this as I found what I believe to be is a QM and I was tracing the possible FL broken to create the left shoulder. And just to be sure of the FL, I look further to the left to the possible SR it broke and the possible FL the SR reacted to. When I went to the LTF, it seems that the FL the SR reacted to is an FL, not in the form of a hiccup or the letter N, but of a single candle. I had no problem with this until I can't find the FL that was broken to create the LS and therefore, am now doubtful of the LS.
+
+Below are pictures for better understanding.
+
+Big picture
+
+It would be great if you guys can find and justify the FL that was broken to create the LS.
+
+3. To resolve the confusion of an ENG or an SR, we look for the FL on the left. If we see an FL in the form of a hook or the letter N, it is an easy FL. However, if it is an FL in the form of a single M1 candle, I become doubtful due to the possibility that I may already have passed the FL as it is common to see hooks as FL. Therefore, is it correct to say that the best way to settle the matter is to see if the M1 candle is in a key level?
+
+Hope to get some feedbacks from IF and the guys:)
+
+Hi,
+
+I think sometimes it helps to actually "replay" the history you are looking at and mark things in the making. Otherwise you might end up curvefitting FLs ( meaning trying to mark FLs so that all the highs are within, whereas engulfs sometimes happen ). Look at my markings on top of your chart. I'm not saying this is correct, but look at it again with this in mind, it might help!
+
+Cheers
+--- FA ---
+Enlightenme نوشت: سلام
+
+می‌فهمم که قیمت روی FL‌هایی می‌پرد که معمولاً در سطوح کلیدی‌اند و به همین دلیل خاص‌اند. با این حال، درباره‌ی LS‌های چپ در رابطه با QM، آیا می‌توان با اطمینان فرض کرد
+
+1. که FL‌های شکسته‌شده برای ساخت LS‌های چپ (نه FL ساخته‌شده بعد از شکست LS چپ) بی‌اهمیت‌اند و در سطح کلیدی هم نیستند؟ 2. و اینکه تایم‌چارچوبی که FL‌های شکسته‌شده برای ساخت LS‌های چپ به آن تعلق دارند بی‌ربط است؟
+
+این را می‌پرسم چون چیزی را پیدا کردم که فکر می‌کنم QM است و FL ممکنِ شکسته‌شده برای ساخت LS چپ را ردیابی می‌کردم. و فقط برای اطمینان از FL، بیشتر به چپ رفتم تا SR ممکنی را که شکست و FL ممکنی را که SR به آن واکنش نشان داده بود ببینم. وقتی به LTF رفتم، به نظر می‌رسد FL‌ای که SR به آن واکنش نشان داده یک FL است، نه در قالب سکسکه یا حرف N، بلکه در قالب یک کندل تنها. تا وقتی FL‌ای را که برای ساخت LS شکسته شده بود پیدا نکردم مشکلی نداشتم و حالا درباره‌ی LS تردید دارم.
+
+عکس‌ها برای فهم بهتر در پایین است.
+
+تصویر بزرگ
+
+عالی می‌شود اگر دوستان بتوانند FL‌ای را که برای ساخت LS شکسته شده پیدا و توجیه کنند.
+
+3. برای حل سردرگمی بین ENG و SR، FL را در سمت چپ جست‌وجو می‌کنیم. اگر FL را در قالب هوک یا حرف N ببینیم، FL آسانی است. اما اگر FL در قالب یک کندل M1 تنها باشد، به دلیل این احتمال که شاید از FL گذشته باشم تردید می‌کنم، چون دیدن هوک‌ها به‌عنوان FL رایج است. پس آیا درست است بگوییم بهترین راه برای روشن شدن موضوع این است که ببینیم کندل M1 در سطح کلیدی است یا نه؟
+
+امیدوارم از IF و دوستان فیدبک بگیرم:)
+
+سلام،
+
+فکر می‌کنم گاهی کمک می‌کند که واقعاً تاریخچه‌ای را که نگاه می‌کنی «بازپخش» کنی و چیزها را در حال شکل‌گیری علامت بزنی. وگرنه ممکن است FL‌ها را با برازش منحنی علامت بزنی (یعنی سعی کنی FL‌ها را طوری علامت بزنی که همه‌ی سقف‌ها داخلشان باشند، در حالی که اینگالف‌ها گاهی اتفاق می‌افتند). علامت‌گذاری‌های من روی چارت تو را ببین. نمی‌گویم این درست است، اما با این در ذهن دوباره به آن نگاه کن، شاید کمک کند!
+
+موفق باشید
+
+##### [2] academylite2_p4_78 | Enlightenme | a1f63c174a380798358d7ee4f9300e646ecdbc0f
+--- EN ---
+staurum wrote: Hi Enl, i can understand what you are talking about. I feel IF has explained it quite clearly. Maybe a good idea to rewind it and rewatch from the beginning IF opened that marked-up UCAD chart. It's not too far though because this area is at the beginning of his long explanation on the chart. hope it helps, in the meantime, let's hear friends have to say.:)
+
+I watched the video again and I realized I may have left out a line. I added a yellow line to the my drawing.
+
+(41:00-42:30) Statement 1: (For the one encircled in violet in my drawing) IF said "This over here. Didn't make any PA as far as I can see. It didn't break the low of this (referring to all time low available at that time in the chart) and didn't really do anything back over there so its not terribly important. But what it can do is add confluence with....
+
+Statement 2: As for the lower one(encircled in green in my drawing), IF said "This one here did actually break that low. We'll have to look at fxtop if it actually did break a significant low. It might not be a flag limit in itself..... But if this the only information that we've got, then what we're gonna go is mark the damn thing."
+
+Statement 3: (Somewhere in the first half of the video) IF said he only cares about flags limits being created and destroyed.
+
+Again- the question was why wasn't the low marked (encircled in violet)? My guess: we only mark the high and low of that which broke the all time high and low?
+
+Statement 2 partially supports that. IF seems to have implied that it was marked because it broke the low. Of course we have to check whether it was a significant low with fxtop, but with the information provided it is a significant low. However, he goes on to to say that it might not be a flag limit in itself so now I think we must only mark those that break the flag limit.
+
+On the other hand statement 3 seems to support the latter implication of statement 2.
+
+Alright. So with statement 2 and statement 3. I have to come to conclusion that we only mark those that are flag limits (new highs or lows) from breaking all time highs and lows or other flag limits. Then again, wasn't the encircled in violet one?
+
+Please point out where I may have been wrong.
+--- FA ---
+staurum نوشت: سلام Enl، می‌فهمم از چه حرف می‌زنی. احساس می‌کنم IF کاملاً شفاف توضیحش داده. شاید ایده‌ی خوبی باشد که برگردی و از جایی که IF آن چارت علامت‌گذاری‌شده‌ی UCAD را باز کرد دوباره ببینی. زیاد هم دور نیست چون این ناحیه در ابتدای توضیح طولانی او روی چارت است. امیدوارم کمک کند، در این فاصله بیایید بشنویم دوستان چه می‌گویند.:)
+
+ویدئو را دوباره دیدم و متوجه شدم شاید یک خط را جا انداخته‌ام. یک خط زرد به نقاشی‌ام اضافه کردم.
+
+(41:00-42:30) جمله‌ی 1: (درباره‌ی کفی که در نقاشی من در بنفش محصور شده) IF گفت «این یکی اینجا. تا جایی که می‌بینم هیچ PA‌ای نساخته. کفِ این را (منظور کفِ همه‌ی زمان‌هاست که آن موقع روی چارت بود) نشکسته و آن‌ور هم کار خاصی نکرده، پس چندان مهم نیست. اما کاری که می‌تواند بکند این است که با… کانفلوئنسی بسازد
+
+جمله‌ی 2: درباره‌ی کفی پایین‌تر (که در نقاشی من در سبز محصور شده)، IF گفت «این یکی اینجا در واقع آن کف را شکسته. باید با fxtop چک کنیم که آیا واقعاً یک کف معنادار را شکسته یا نه. ممکن است خودش FL نباشد… اما اگر این تنها اطلاعاتی است که داریم، پس کاری که می‌کنیم این است که آن چیزی را که هست علامت بزنیم.»
+
+جمله‌ی 3: (جایی در نیمه‌ی اول ویدئو) IF گفت او فقط به ساخته و خراب شدن FL‌ها اهمیت می‌دهد.
+
+دوباره - سؤال این بود که چرا آن کف علامت نخورده بود (محصور در بنفش)؟ حدس من: ما فقط سقف و کفِ آن را علامت می‌زنیم که سقف و کفِ همه‌ی زمان‌ها را شکسته باشد؟
+
+جمله‌ی 2 تا حدی از این حمایت می‌کند. IF به نظر می‌رسد اشاره کرده که به این دلیل علامت خورده که کف را شکسته. البته باید با fxtop چک کنیم که آیا کف معناداری بوده، اما با اطلاعات داده‌شده کف معناداری است. با این حال او ادامه می‌دهد که شاید خودش FL نباشد، پس حالا فکر می‌کنم باید فقط آن‌هایی را علامت بزنیم که FL را می‌شکنند.
+
+از طرف دیگر جمله‌ی 3 به نظر می‌رسد از پیامد دوم جمله‌ی 2 حمایت می‌کند.
+
+خب. پس با جمله‌ی 2 و جمله‌ی 3. باید به این نتیجه برسم که فقط آن‌هایی را علامت می‌زنیم که FL هستند (سقف‌ها یا کف‌های جدید) از شکستن سقف‌ها و کف‌های همه‌ی زمان‌ها یا FL‌های دیگر. اما دوباره، آیا آنِ محصور در بنفش یکی نبود؟
+
+لطفاً جایی را که ممکن است اشتباه کرده باشم نشان بدهید.
+
+##### [3] academylite2_p4_79 | Enlightenme | 2a6ab71839152be50a52e4377060271e05483eb5
+--- EN ---
+zee wrote: I think sometimes it helps to actually "replay" the history you are looking at and mark things in the making. Otherwise you might end up curvefitting FLs ( meaning trying to mark FLs so that all the highs are within, whereas engulfs sometimes happen ). Look at my markings on top of your chart. I'm not saying this is correct, but look at it again with this in mind, it might help!
+
+Oh yes. I do remember that from a previous analysis of that area. I referred to that as an an ENG but an unusable ENG as it reached TG. If I remember correctly, I dismissed the red FL in my previous analysis as I found it different and didn't proceed with further analysis. However, now that you have pointed it out, I felt I had no choice but to look into it and it was good you made me. Following the red FL confirmed my assumed LS... the ENG of LS... and therefore, the QM. Thanks.
+--- FA ---
+zee نوشت: فکر می‌کنم گاهی کمک می‌کند که واقعاً تاریخچه‌ای را که نگاه می‌کنی «بازپخش» کنی و چیزها را در حال شکل‌گیری علامت بزنی. وگرنه ممکن است FL‌ها را با برازش منحنی علامت بزنی (یعنی سعی کنی FL‌ها را طوری علامت بزنی که همه‌ی سقف‌ها داخلشان باشند، در حالی که اینگالف‌ها گاهی اتفاق می‌افتند). علامت‌گذاری‌های من روی چارت تو را ببین. نمی‌گویم این درست است، اما با این در ذهن دوباره به آن نگاه کن، شاید کمک کند!
+
+آره، درست می‌گویی. آن را از یک تحلیل قبلی آن ناحیه به خاطر می‌آورم. به آن یک ENG گفتم اما ENG غیرقابل‌استفاده چون به تارگت رسیده بود. اگر درست به خاطر داشته باشم، FL قرمز را در تحلیل قبلی کنار گذاشتم چون متفاوت به نظر می‌رسید و تحلیل بیشتری انجام ندادم. با این حال، حالا که به آن اشاره کردی احساس کردم چاره‌ای ندارم جز اینکه به آن بپردازم و خوب شد که من را به این کار وا داشتی. دنبال کردن FL قرمز LS فرضی‌ام را تأیید کرد… ENGِ LS را… و در نتیجه QM را. متشکرم.
+
+##### [4] academylite2_p4_80 | Enlightenme | ffa94501a254cf5337281777306655fb819a249f
+--- EN ---
+Please give some feeback on post #78
+--- FA ---
+لطفاً درباره‌ی پست #78 کمی فیدبک بدهید
+
+##### [5] academylite2_p4_81 | protrader2121 | 4bf4b7a6b55c24d974073e7c1eb20531fbb69430
+--- EN ---
+Hi i downloaded the video, I am only able to hear the voice but not able to see the screen, Please help...
+--- FA ---
+سلام، ویدئو را دانلود کردم. فقط می‌توانم صدا را بشنوم ولی نمی‌توانم صفحه را ببینم، لطفاً کمک کنید… 
+
+##### [6] academylite2_p4_82 | dengaima | 282320c3e0fdc9511b5512375dc6a168b2731ca3
+--- EN ---
+protrader2121 wrote: Hi i downloaded the video, I am only able to hear the voice but not able to see the screen, Please help...
+
+It in in exe format and it's safe, just click exe open it will open a new video loader. I've never heard of it before RTM, but apparently it's safe for copy issues. Meaning RTM materials are treated with discretion:)
+
+However, you could post a process that leads to this problem and maybe we can help you. Maybe screenshot or short videoclip might help
+--- FA ---
+protrader2121 نوشت: سلام، ویدئو را دانلود کردم. فقط می‌توانم صدا را بشنوم ولی نمی‌توانم صفحه را ببینم، لطفاً کمک کنید…
+
+در قالب exe است و امن است، فقط exe را باز کن تا یک لودر ویدئوی جدید باز شود. قبل از RTM هرگز با آن روبه‌رو نشده بودم، اما به نظر می‌رسد برای مسائل کپی امن است. یعنی متریال‌های RTM با احتیاط برخورد می‌شوند:)
+
+با این حال می‌توانی روندی که به این مشکل منجر می‌شود را بگذاری شاید بتوانیم کمکت کنیم. شاید عکس از صفحه یا یک ویدئوی کوتاه کمک کند
+
+##### [7] academylite2_p4_83 | protrader2121 | 774549b15b33d9c00e917e10a831de75b5c8f168
+--- EN ---
+Hi, thank you for your kind reply!
+
+I have attached the screenshots.
+
+1- I downloaded the.exe file from browzer. 2 - Opened the file, i granted all the permission for the greenforce player to open 3- i gave the password 4- The player opened, but i can only hear the voice and i cannot see the screen
+
+measures that i took to solve the problem ( ultimately i couldnt slove the problem) - i tried to expand the window - saw if anything was wrong in the settings - i tried to download the same file from another system ( again the video dint come ) - from the other system (ie desktop), i tried to download the file via the cloud software ( again the video dint come)
+
+northing worked, or is there any additional application that i need to download inoder for it to function properly?
+
+pls help...
+
+( Sry for the last picture, i wasnt able to prtscrn while the player was running... )
+--- FA ---
+سلام، متشکرم برای پاسخت!
+
+عکس از صفحه‌ها را ضمیمه کردم.
+
+1- فایل exe را از مرورگر دانلود کردم. 2 - فایل را باز کردم، همه‌ی دسترسی‌ها را به پلیر greenforce دادم 3- پسورد را وارد کردم 4- پلیر باز شد، اما فقط صدا را می‌شنوم و نمی‌توانم صفحه را ببینم
+
+اقداماتی که برای حل مشکل انجام دادم (در نهایت نتوانستم مشکل را حل کنم) - سعی کردم پنجره را بزرگ کنم - دیدم در تنظیمات چیزی اشتباه است یا نه - سعی کردم همان فایل را از سیستم دیگری دانلود کنم (باز ویدئو نیامد) - از سیستم دیگر (یعنی دسکتاپ)، سعی کردم فایل را از طریق نرم‌افزار ابری دانلود کنم (باز ویدئو نیامد)
+
+هیچ‌کدام جواب نداد، یا نرم‌افزار اضافی‌ای هست که باید دانلود کنم تا درست کار کند؟
+
+l‌طفاً کمک کنید…
+
+(ببخشید برای عکس آخر، وقتی پلیر در حال اجرا بود نتوانستم عکس از صفحه بگیرم… )
+
+##### [8] academylite2_p4_84 | dengaima | 1beaa25ff382f87ac02592ca756243b0c5ed53f0
+--- EN ---
+protrader2121 wrote: Hi, thank you for your kind reply!
+
+I have attached the screenshots.
+
+1- I downloaded the.exe file from browzer. 2 - Opened the file, i granted all the permission for the greenforce player to open 3- i gave the password 4- The player opened, but i can only hear the voice and i cannot see the screen
+
+measures that i took to solve the problem ( ultimately i couldnt slove the problem) - i tried to expand the window - saw if anything was wrong in the settings - i tried to download the same file from another system ( again the video dint come ) - from the other system (ie desktop), i tried to download the file via the cloud software ( again the video dint come)
+
+northing worked, or is there any additional application that i need to download inoder for it to function properly?
+
+pls help...
+
+( Sry for the last picture, i wasnt able to prtscrn while the player was running... )
+
+it seems you really have tried everything that I would have tried as well...I really have no idea, since mine just opens normally. When you downloaded, did you download through browser or mega's own software?
+
+What about another Lite video, how is that working?
+
+Here's mine:
+
+ufile.io/rbnei
+--- FA ---
+protrader2121 نوشت: سلام، متشکرم برای پاسخت!
+
+عکس از صفحه‌ها را ضمیمه کردم.
+
+1- فایل exe را از مرورگر دانلود کردم. 2 - فایل را باز کردم، همه‌ی دسترسی‌ها را به پلیر greenforce دادم 3- پسورد را وارد کردم 4- پلیر باز شد، اما فقط صدا را می‌شنوم و نمی‌توانم صفحه را ببینم
+
+اقداماتی که برای حل مشکل انجام دادم (در نهایت نتوانستم مشکل را حل کنم) - سعی کردم پنجره را بزرگ کنم - دیدم در تنظیمات چیزی اشتباه است یا نه - سعی کردم همان فایل را از سیستم دیگری دانلود کنم (باز ویدئو نیامد) - از سیستم دیگر (یعنی دسکتاپ)، سعی کردم فایل را از طریق نرم‌افزار ابری دانلود کنم (باز ویدئو نیامد)
+
+هیچ‌کدام جواب نداد، یا نرم‌افزار اضافی‌ای هست که باید دانلود کنم تا درست کار کند؟
+
+l‌طفاً کمک کنید…
+
+(ببخشید برای عکس آخر، وقتی پلیر در حال اجرا بود نتوانستم عکس از صفحه بگیرم… )
+
+به نظر می‌رسد واقعاً همه‌ی چیزهایی را امتحان کرده‌ای که من هم امتحان می‌کردم… واقعاً ایده‌ای ندارم، چون مال من عادی باز می‌شود. وقتی دانلود کردی، از طریق مرورگر دانلود کردی یا از نرم‌افزار خود mega؟
+
+و یک ویدئوی Lite دیگر چطور؟ آن یکی چطور کار می‌کند؟
+
+مال من این است:
+
+ufile.io/rbnei
+
+##### [9] academylite2_p4_85 | staurum | 99de9a2bece122e1981dd6eed6e79a5b258fb345
+--- EN ---
+we discussed some problems here readthemarket.com/index.php/en/forum/any...access-some-articles if not, you may PM Harry or Mertch.
+
+Cheers,
+--- FA ---
+ما چند مشکل را اینجا بحث کردیم readthemarket.com/index.php/en/forum/any… access-some-articles اگر نه، می‌توانید به Harry یا Mertch پیام خصوصی بدهید.
+
+موفق باشید،
+
+##### [10] academylite2_p4_86 | erdal | 15d4f4fb2db8688a567b32403248525d70cab3d8
+--- EN ---
+dengaima wrote:
+
+protrader2121 wrote: Hi, thank you for your kind reply!
+
+I have attached the screenshots.
+
+1- I downloaded the.exe file from browzer. 2 - Opened the file, i granted all the permission for the greenforce player to open 3- i gave the password 4- The player opened, but i can only hear the voice and i cannot see the screen
+
+measures that i took to solve the problem ( ultimately i couldnt slove the problem) - i tried to expand the window - saw if anything was wrong in the settings - i tried to download the same file from another system ( again the video dint come ) - from the other system (ie desktop), i tried to download the file via the cloud software ( again the video dint come)
+
+northing worked, or is there any additional application that i need to download inoder for it to function properly?
+
+pls help...
+
+( Sry for the last picture, i wasnt able to prtscrn while the player was running... )
+
+it seems you really have tried everything that I would have tried as well...I really have no idea, since mine just opens normally. When you downloaded, did you download through browser or mega's own software?
+
+What about another Lite video, how is that working?
+
+Dengaima
+
+Here's mine:
+
+ufile.io/rbnei
+
+If you don't get video, go to? (on the menu and select download codec) or go to this url www.codecguide.com/klcp_update.htm I've had this issue as well. It did solve after downloading and installing the codec.
+
+Good luck!
+--- FA ---
+dengaima نوشت:
+
+protrader2121 نوشت: سلام، متشکرم برای پاسخت!
+
+عکس از صفحه‌ها را ضمیمه کردم.
+
+1- فایل exe را از مرورگر دانلود کردم. 2 - فایل را باز کردم، همه‌ی دسترسی‌ها را به پلیر greenforce دادم 3- پسورد را وارد کردم 4- پلیر باز شد، اما فقط صدا را می‌شنوم و نمی‌توانم صفحه را ببینم
+
+اقداماتی که برای حل مشکل انجام دادم (در نهایت نتوانستم مشکل را حل کنم) - سعی کردم پنجره را بزرگ کنم - دیدم در تنظیمات چیزی اشتباه است یا نه - سعی کردم همان فایل را از سیستم دیگری دانلود کنم (باز ویدئو نیامد) - از سیستم دیگر (یعنی دسکتاپ)، سعی کردم فایل را از طریق نرم‌افزار ابری دانلود کنم (باز ویدئو نیامد)
+
+هیچ‌کدام جواب نداد، یا نرم‌افزار اضافی‌ای هست که باید دانلود کنم تا درست کار کند؟
+
+l‌طفاً کمک کنید…
+
+(ببخشید برای عکس آخر، وقتی پلیر در حال اجرا بود نتوانستم عکس از صفحه بگیرم… )
+
+به نظر می‌رسد واقعاً همه‌ی چیزهایی را امتحان کرده‌ای که من هم امتحان می‌کردم… واقعاً ایده‌ای ندارم، چون مال من عادی باز می‌شود. وقتی دانلود کردی، از طریق مرورگر دانلود کردی یا از نرم‌افزار خود mega؟
+
+و یک ویدئوی Lite دیگر چطور؟ آن یکی چطور کار می‌کند؟
+
+Dengaima
+
+مال من این است:
+
+ufile.io/rbnei
+
+اگر ویدئو نمی‌آید، برو به؟ (از منو و دانلود کدک را انتخاب کن) یا به این آدرس برو www.codecguide.com/klcp_update.htm من هم همین مشکل را داشتم. بعد از دانلود و نصب کدک حل شد.
+
+موفق باشی!
+
+##### [11] academylite2_p4_87 | protrader2121 | 791ee3665edd404c792c16dbc1e659209b9e30e7
+--- EN ---
+I was able to see the video after I downloaded the codec that was given by Harry in the discussion link given by staurum. www.techsmith.com/codecs.html i downloaded the TSC2 version. my problem is solved...
+
+thanks dengaima!
+
+!!
+
+and thank you staurum for the link......!!!
+--- FA ---
+بعد از دانلود کدکی که Harry در لینک بحثی که staurum داده بود معرفی کرد توانستم ویدئو را ببینم. www.techsmith.com/codecs.html نسخه‌ی TSC2 را دانلود کردم. مشکلم حل شد…
+
+ممنون dengaima!
+
+!!
+
+و متشکرم staurum برای لینک… !!!
+
+##### [12] academylite2_p4_88 | protrader2121 | 026e48858c9df6052e4be685f3a037574120ff1b
+--- EN ---
+Harry insisted to download the Techsmith codec instead of k-lite... here readthemarket.com/index.php/en/forum/any...access-some-articles Worked fine for me after i installed..
+
+thanks erdal!
+--- FA ---
+Harry اصرار داشت به‌جای k-lite کدک Techsmith دانلود شود… اینجا readthemarket.com/index.php/en/forum/any… access-some-articles بعد از نصب برای من خوب کار کرد…
+
+ممنون erdal!
+
+##### [13] academylite2_p4_89 | Frosty | e52c773371e660ebdeb71b6c8213bfe4fdc2f10a
+--- EN ---
+Hi everyone,
+
+I've been watching video course #2 and have a basic question regarding the kinks.
+
+What I understand until now is that everything is based on FLs, which are the kinks. So in essence we could substitute the word "kink" in the place of "FL". Engulfing of a kink, creates a new kink, which in turn when engulfed, creates an even newer kink. That much I understand.
+
+In the video (I might misinterpret what IF is teaching), it seem to me that the drawn kink on the rightmost side bypassed every other kinks on the left (hence, pointing the concept of scenario 2 in my drawing above).
+
+What I understand until now is scenario 1, which is "the engulf of an FL creates an FL,...", i.e. we shift the boxes (FLs/Kinks) to adjust for the engulfs and retraces.
+
+My question then is, which is the more accurate representation of the LS kink? scenario 1 or 2?
+
+If a direct answer isn't in our best interest, then I would appreciate any form of guidance regarding this subject. Thank you all for you comments and guidance
+--- FA ---
+سلام به همه،
+
+ویدئوی دوره‌ی شماره‌ی 2 را می‌بینم و یک سؤال پایه درباره‌ی پیچش‌ها دارم.
+
+آنچه تا الان فهمیده‌ام این است که همه‌چیز بر FL‌هاستوار است که همان پیچش‌ها هستند. پس در اصل می‌توانیم کلمه‌ی «پیچش» را جای «FL» بگذاریم. اینگالف یک پیچش، پیچش جدیدی می‌سازد که آن هم وقتی اینگالف شود پیچش تازه‌تری می‌سازد. تا اینجا را می‌فهمم.
+
+در ویدئو (ممکن است چیزی را که IF تدریس می‌کند بد تفسیر کنم)، به نظر من پیچشِ کشیده‌شده در سمت راست‌ترین از همه‌ی پیچش‌های سمت چپ رد شده (پس به مفهوم سناریوی 2 در نقاشی بالا اشاره دارد).
+
+آنچه تا الان می‌فهمم سناریوی 1 است که «اینگالف یک FL، یک FL می‌سازد,… » یعنی ما جعبه‌ها (FL‌ها/پیچش‌ها) را جابه‌جا می‌کنیم تا با اینگالف‌ها و برگشت‌ها تنظیم شوند.
+
+پس سؤالم این است: کدام بازنمایی دقیق‌تری از پیچش LS است؟ سناریوی 1 یا 2؟
+
+اگر جواب مستقیم به نفع ما نیست، از هر نوع راهنمایی درباره‌ی این موضوع قدردانی می‌کنم. از همه برای کامنت‌ها و راهنمایی‌هایتان متشکرم
+
+##### [14] academylite2_p4_90 | staurum | 5a8a2cbb9488226162d9fd10853e9128fd27075b
+--- EN ---
+readthemarket.com/index.php/en/forum/tra...or-pa?start=50#64050
+--- FA ---
+readthemarket.com/index.php/en/forum/tra… or-pa?start=50#64050
+
+##### [15] academylite2_p4_91 | HCDE | a3194995fe37e453d65298c0216f737ce0566c20
+--- EN ---
+That's a well put question Frosty. My mind isn't clear about it yet. But my best guess is that kind of of both your scenarios are right in some ways. I would say that Z is a kink (RS kink of W), Y is a kink too (RS kink of the last low it broke).
+
+But the problem with that is if you use that principles, almost everything on the chart is a kink.
+--- FA ---
+سؤال خوبی پرسیدی Frosty. ذهنم هنوز درباره‌ی آن روشن نیست. اما حدس بهترینم این است که هر دو سناریوی تو به نحوی درست‌اند. می‌گویم Z یک پیچش است (پیچش RSِ W)، Y هم یک پیچش است (پیچش RSِ آخرین کف که شکست).
+
+اما مشکل این است که اگر از این اصول استفاده کنی، تقریباً همه‌چیز روی چارت یک پیچش است.
+
+##### [16] academylite2_p4_92 | Frosty | 38b76c9602815257cd0950a9a82d0aa0018eedf6
+--- EN ---
+Hi HCDE,
+
+I have been wondering about your "almost everything on the chart is a kink" statement. In essence, yes that is what I'm currently struggling to understand.
+
+My noob educated guess: it is a matter of scale. Since in the video, IF mentioned there is a large kink and more precise smaller kinks on the particular LS (near the beginning of USD/CAD analysis)
+
+I've also read a question from EM to Edge about completed FLs. I went along the lines of "A 15 minute FL needs to touch the next 15 minute FL for it to be considered completed" (close to exact words, i believe).
+
+Bro Staurum also mentioned about managing expectations on the lower scale targets a few posts back.
+
+What I concluded, then, is that we should pick any HTF chart, mark the barriers, find the FLs/kinks in that scale, drop to LTF to find clean orders within the kinks, watch price come back to the kinks, wait for PA on that LTF, enter trade on retrace, set target on first target IN THAT LTF.
+
+So, I think to answer which are the right kinks for LSs, then we should first ask which TF the kinks belong to in the first place.
+
+Am I getting closer to the truth or did I just confuse myself there?
+--- FA ---
+سلام HCDE،
+
+همیشه در شگفتم از جمله‌ی «تقریباً همه‌چیز روی چارت یک پیچش است» تو. در اصل، بله، دقیقاً همان چیزی است که الان دارم برای فهمیدنش تلاش می‌کنم.
+
+حدس تحصیل‌کرده‌ی تازه‌کار من: مسئله مقیاس است. چون در ویدئو، IF گفت یک پیچش بزرگ وجود دارد و پیچش‌های کوچک‌تر دقیق‌تر روی LS خاص (نزدیک ابتدای تحلیل USD/CAD).
+
+سؤال EM به Edge درباره‌ی FL‌های کامل را هم خوانده‌ام. من در مسیر «یک FL پانزده‌دقیقه‌ای باید FL پانزده‌دقیقه‌ای بعدی را لمس کند تا کامل حساب شود» پیش رفتم (نزدیک به کلمات دقیق، فکر می‌کنم).
+
+برادر Staurum هم چند پست پیش درباره‌ی مدیریت انتظارات روی تارگت‌های مقیاس پایین‌تر صحبت کرده بود.
+
+پس آنچه نتیجه گرفتم این است که باید هر چارت HTF را برداریم، موانع را علامت بزنیم، FL‌ها/پیچش‌ها را در آن مقیاس پیدا کنیم، به LTF برویم تا اوردرهای تمیز داخل پیچش‌ها را پیدا کنیم، ببینیم قیمت به پیچش‌ها برمی‌گردد، در آن LTF منتظر PA بمانیم، روی برگشت وارد ترید شویم، تارگت را روی اولین تارگت در همان LTF بگذاریم.
+
+پس فکر می‌کنم برای جواب به اینکه کدام پیچش‌ها برای LS‌ها درست‌اند، اول باید بپرسیم پیچش‌ها اصلاً به کدام TF تعلق دارند.
+
+آیا به حقیقت نزدیک‌تر شدم یا فقط خودم را گیج کردم؟
+
+##### [17] academylite2_p4_93 | HCDE | f72a64d4b7a45fda5eed0e491065d3beb0e18a85
+--- EN ---
+Frosty wrote: What I concluded, then, is that we should pick any HTF chart, mark the barriers, find the FLs/kinks in that scale, drop to LTF to find clean orders within the kinks, watch price come back to the kinks, wait for PA on that LTF, enter trade on retrace, set target on first target IN THAT LTF.
+
+So, I think to answer which are the right kinks for LSs, then we should first ask which TF the kinks belong to in the first place.
+
+Am I getting closer to the truth or did I just confuse myself there?
+
+No i do agree with you. But that's easier said than done Actually, analyzing the past is the easiest thing for me, but finding PA on arrival is really complicated... Not mixing up scales is very complicated, i'm struggling with that too.
+--- FA ---
+Frosty نوشت: آنچه نتیجه گرفتم، این است که باید هر چارت HTF را برداریم، موانع را علامت بزنیم، FL‌ها/پیچش‌ها را در آن مقیاس پیدا کنیم، به LTF برویم تا اوردرهای تمیز داخل پیچش‌ها را پیدا کنیم، ببینیم قیمت به پیچش‌ها برمی‌گردد، در آن LTF منتظر PA بمانیم، روی برگشت وارد ترید شویم، تارگت را روی اولین تارگت در همان LTF بگذاریم.
+
+پس فکر می‌کنم برای جواب به اینکه کدام پیچش‌ها برای LS‌ها درست‌اند، اول باید بپرسیم پیچش‌ها اصلاً به کدام TF تعلق دارند.
+
+آیا به حقیقت نزدیک‌تر شدم یا فقط خودم را گیج کردم؟
+
+نه، موافقم. اما این کار گفتنش آسان‌تر از انجامش است. در واقع تحلیل گذشته برای من آسان‌ترین چیز است، اما پیدا کردن PA هنگام رسیدن واقعاً پیچیده است… قاطی نکردن مقیاس‌ها خیلی پیچیده است، من هم با آن دست‌وپنجه نرم می‌کنم.
+
+##### [18] academylite2_p4_94 | PinkPanter | e15410315d9ce14d78c9eaaae5f80ec5c69a9971
+--- EN ---
+i am trying to use knowleage from 2. video.
+
+i came with this... i find important LS and with use of UFL AND LFL i find the same place to trade like if i use only LS kink
+
+BTW i think that this LFL is already consumed...
+--- FA ---
+دارم سعی می‌کنم از دانش ویدئوی 2 استفاده کنم.
+
+با این ایده جلو رفتم… LS مهم را مشخص می‌کنم و با استفاده از UFL و LFL همان جایی را برای ترید پیدا می‌کنم که اگر فقط از پیچش LS استفاده می‌کردم به دست می‌آمد.
+
+با این حال فکر می‌کنم این LFL از قبل مصرف شده… 
+
+##### [19] academylite2_p4_95 | kiuvs | 2bdf1f8acc2defb7e3d033d22d5d777a8a3e65bd
+--- EN ---
+Dear RTM folks, I am new here. When I tried to open the exe application, it says Expired date... cannot load media. Anyone has encountered this issue?
+
+Thanks
+--- FA ---
+عزیزان RTM، من اینجا تازه‌کارم. وقتی برنامه‌ی exe را باز کردم می‌گوید تاریخ انقضا گذشته… نمی‌تواند مدیا را لود کند. کسی با این مشکل روبه‌رو شده؟
+
+ممنون
+
+##### [20] academylite2_p4_96 | dengaima | c11071cbd8fcf2533cd019ef0a3ce7821d817f84
+--- EN ---
+kiuvs wrote: Dear RTM folks, I am new here. When I tried to open the exe application, it says Expired date... cannot load media.
+
+Anyone has encountered this issue?
+
+Yeah I also have the same problem
+
+Thanks
+--- FA ---
+kiuvs نوشت: عزیزان RTM، من اینجا تازه‌کارم. وقتی برنامه‌ی exe را باز کردم می‌گوید تاریخ انقضا گذشته… نمی‌تواند مدیا را لود کند.
+
+کسی با این مشکل روبه‌رو شده؟
+
+آره، من هم همین مشکل را دارم
+
+ممنون
+
+##### [21] academylite2_p4_97 | Harry | 1686c535edb8511f5624e46eebe269c2c109ebef
+--- EN ---
+Hi guys. Yes the videos expired. I am upping them again now and could take a few hours. You will need to download them again from the relative article in Markepedia (new links and password) I will post again when they are done.
+--- FA ---
+سلام بچه‌ها. بله، ویدئوها منقضی شده‌اند. دارم دوباره آپلودشان می‌کنم و ممکن است چند ساعت طول بکشد. باید آن‌ها را دوباره از مقاله‌ی مربوطه در Markepedia دانلود کنید (لینک‌ها و پسورد جدید) وقتی آماده شد دوباره اعلام می‌کنم.
+
+##### [22] academylite2_p4_98 | alfred05241 | e70a756247e7ab81904c6744699befe904647911
+--- EN ---
+Hi Guys:-h
+
+I just recently back to RTM, hope someone can help clear my confusion. Regarding part 2 video, IF mention places to mark to wait for PA. (LS, PCP, RS, Break into CP) and latter IF show a marked up USDCAD monthly chart with Highs & Lows line drawn.
+
+Question: So for starter, we basically just mark the highs & lows from monthly down to LTF?and look the latest LS kink/ RS kink for further PA?
+
+Any guidance would be much appreciate. TQ
+
+Alfred
+--- FA ---
+سلام بچه‌ها:-h
+
+اخیراً به RTM برگشته‌ام، امیدوارم کسی بتواند سردرگمی‌ام را برطرف کند. درباره‌ی ویدئوی بخش 2، IF مکان‌هایی را که باید علامت بزنیم و منتظر PA بمانیم ذکر کرد. (LS، PCP، RS، شکست به داخل CP) و بعد IF یک چارت ماهانه‌ی USDCAD علامت‌گذاری‌شده با خطوط سقف‌ها و کف‌ها را نشان داد.
+
+سؤال: پس برای شروع، اساساً فقط سقف‌ها و کف‌ها را از ماهانه تا LTF علامت می‌زنیم؟ و آخرین پیچش LS/پیچش RS را برای PA بیشتر بررسی می‌کنیم؟
+
+هر راهنمایی‌ای را قدر می‌دانم. سپاس
+
+Alfred
+
+##### [23] academylite2_p4_99 | Astrokillah | 35a68748b609afc92b2f64cf0a28ff71c97bb670
+--- EN ---
+Yes, you can do exactly what you have just described. However, trading is not only about picking the best entries. You need to be realistic with your target. Most of the time you will get a bounce, but do not expect every monthly kink to give 1000 pips bounce every time. Identify your conservative target, take partial profit, and let the remaining position run.
+
+alfred05241 wrote: Question: So for starter, we basically just mark the highs & lows from monthly down to LTF?and look the latest LS kink/ RS kink for further PA?
+
+Any guidance would be much appreciate. TQ
+
+Alfred
+--- FA ---
+بله، می‌توانی دقیقاً همان چیزی را که گفتی انجام دهی. با این حال ترید فقط انتخاب بهترین ورودها نیست. باید نسبت به تارگت‌ات واقع‌بین باشی. بیشتر اوقات برگشتی خواهی گرفت، اما انتظار نداشته باش هر پیچش ماهانه هر بار 1000 پیپ برگشت بدهد. تارگت محافظه‌کارانه‌ات را مشخص کن، بخشی از سود را بردار و بگذار باقی موقعیت کار کند.
+
+alfred05241 نوشت: سؤال: پس برای شروع، اساساً فقط سقف‌ها و کف‌ها را از ماهانه تا LTF علامت می‌زنیم؟ و آخرین پیچش LS/پیچش RS را برای PA بیشتر بررسی می‌کنیم؟
+
+هر راهنمایی‌ای را قدر می‌دانم. سپاس
+
+Alfred
+
+##### [24] academylite2_p4_100 | nsikandar | 2e27d859012a0c94a0d82816b95f72fad1317f00
+--- EN ---
+I agree HCDE, I also struggle sometimes to find the right PA on approach to our PCP/LS/FTR and all of them ignored FLs
+
+I think the confusion comes from trying to maintain the zones at that particular time frame. For example, If we have our zones and PAZs on H1 then there might be hidden LTF zones in M30 or lower which are not visible on H1 that bounced price but we think it was PA. But those LTF zones might be less significant to hold price so I then avoid them.
+
+I assume it's a factor of looking for the PA opportunities with tight SL on RT and higher RR than 1:1.
+
+HCDE wrote:
+
+Frosty wrote: What I concluded, then, is that we should pick any HTF chart, mark the barriers, find the FLs/kinks in that scale, drop to LTF to find clean orders within the kinks, watch price come back to the kinks, wait for PA on that LTF, enter trade on retrace, set target on first target IN THAT LTF.
+
+So, I think to answer which are the right kinks for LSs, then we should first ask which TF the kinks belong to in the first place.
+
+Am I getting closer to the truth or did I just confuse myself there?
+
+No i do agree with you. But that's easier said than done Actually, analyzing the past is the easiest thing for me, but finding PA on arrival is really complicated... Not mixing up scales is very complicated, i'm struggling with that too.
+
+Trading Articles discussions
+
+Academy Lite, Part 2. Where to look
+--- FA ---
+موافقم HCDE، من هم گاهی برای پیدا کردن PA درست هنگام نزدیک شدن به PCP/LS/FTR‌مان سخت می‌گیرم و همه‌ی آن‌ها FL‌های نادیده‌گرفته‌شده بودند
+
+فکر می‌کنم سردرگمی از تلاش برای حفظ نواحی در همان تایم‌چارچوب خاص می‌آید. مثلاً اگر نواحی و PAZ‌های‌مان را روی H1 داشته باشیم، شاید نواحی LTF پنهانی در M30 یا پایین‌تر باشد که روی H1 دیده نمی‌شوند، قیمت را برگردانده‌اند ولی ما فکر کرده‌ایم PA بوده. اما آن نواحی LTF ممکن است برای نگه‌داشتن قیمت کمتر معنادار باشند پس از آن‌ها اجتناب می‌کنم.
+
+فکر می‌کنم عاملی برای جست‌وجوی فرصت‌های PA با SL تنگ در RT و RR بالاتر از 1:1 است.
+
+HCDE نوشت:
+
+Frosty نوشت: آنچه نتیجه گرفتم، این است که باید هر چارت HTF را برداریم، موانع را علامت بزنیم، FL‌ها/پیچش‌ها را در آن مقیاس پیدا کنیم، به LTF برویم تا اوردرهای تمیز داخل پیچش‌ها را پیدا کنیم، ببینیم قیمت به پیچش‌ها برمی‌گردد، در آن LTF منتظر PA بمانیم، روی برگشت وارد ترید شویم، تارگت را روی اولین تارگت در همان LTF بگذاریم.
+
+پس فکر می‌کنم برای جواب به اینکه کدام پیچش‌ها برای LS‌ها درست‌اند، اول باید بپرسیم پیچش‌ها اصلاً به کدام TF تعلق دارند.
+
+آیا به حقیقت نزدیک‌تر شدم یا فقط خودم را گیج کردم؟
+
+نه، موافقم. اما این کار گفتنش آسان‌تر از انجامش است. در واقع تحلیل گذشته برای من آسان‌ترین چیز است، اما پیدا کردن PA هنگام رسیدن واقعاً پیچیده است… قاطی نکردن مقیاس‌ها خیلی پیچیده است، من هم با آن دست‌وپنجه نرم می‌کنم.
+
+بحث‌های مقالات تریدینگ
+
+آکادمی لایت، بخش 2. کجا را نگاه کنیم

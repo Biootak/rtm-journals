@@ -1,0 +1,14 @@
+{
+ "if_p105_20": {
+  "ok": false,
+  "issue": "pole rendered as «پل» (bridge); term translated",
+  "why": "EN «Think flag and pole combos» refers to RTM Flag and Pole structures. FA writes «به ترکیب پرچم و پل فکر کن», where «پل» means a bridge, so the sentence tells the reader to think about a flag-and-bridge combination — a structure that does not exist.",
+  "fix": "Ywicked نوشت: Edge نوشت: سلام دوستان. ببینید IF گریدها را در پس‌زمینه چطور گذاشته و قیمت چه کار می‌کند. ببینید واکنش‌ها کجا رخ می‌دهند تا این تقارن ساخته شود. هر پرچم همان بلوک‌های سازندهٔ یکسان را دارد.\n\nسلام Edge،\n\nمنظورت آن خط‌های افقی کمی تیره‌تر و پررنگ‌تر در نقاط مختلف گرید است؟ فکر می‌کردم تصادفی‌اند، خخخ.\n\nاین کمی همه چیز را عوض می‌کند. باید دوباره امتحانش کنم.\n\nممنون\n\nخود گریدها در این معنا به دیدن کمک می‌کنند، ولی قطعهٔ مهم نیستند. به ترکیب Flag و Pole فکر کن\n\nچیزی که معمایی است، پیچیده در رازی، درون یک ابهام، دیدنی و منطقی می‌شود."
+ },
+ "if_p105_21": {
+  "ok": false,
+  "issue": "poles rendered as «پل» (bridge); term translated",
+  "why": "EN «the boxes are filled with flags or poles» describes boxes filled with Flags or Poles. FA «باکس‌ها با پرچم یا پل پر می‌شوند» reads «filled with a flag or a bridge», because «پل» is the Persian word for bridge, not pole.",
+  "fix": "نه، من فقط یک آرایه از گریدها را با کپی‌پیست سرهم کردم\n\nEdge دارد به این اشاره می‌کند که باکس‌ها با فلگ‌ها یا میله‌ها پر می‌شوند.\n\nچقدر منتظر آن سؤال بدیهی هستم که پیش می‌آید!"
+ }
+}

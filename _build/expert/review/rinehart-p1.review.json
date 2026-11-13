@@ -1,0 +1,8 @@
+{
+  "rinehart_p1_10": {
+    "ok": false,
+    "issue": "wrong trading term",
+    "why": "EN «touch trade entry» names a TT (touch trade) — the entry taken on the touch of a level. FA translates it as «ورود با معاملهٔ لمسی», literally a tactile trade; لمسی is never how Persian traders render touch trade, so the caption names no recognizable RTM entry type.",
+    "fix": "می‌رود بالا... ورود تاچ... بخشی از سود گرفته شد و الان سواری مجانی است"
+  }
+}

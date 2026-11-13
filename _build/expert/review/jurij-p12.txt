@@ -1,0 +1,847 @@
+### jurij_p12_1
+EN: Hi Jurij, i have a question i'd like to solve from a while (maybe it's stupid but... .), as i think to have noticed different behaviour of the price between entering order live or oder demo.
+
+I was surprised by the truth from any reaction the price could show to
+any order, doesn't matter which one ..... but it really seemed to react
+many times !!
+
+as you know can the price reacts to the entries ?
+
+thank you
+FA: سلام Jurij، سؤالی دارم که مدتی است می‌خواهم حلش کنم (شاید احمقانه باشد ولی... .)، چون فکر می‌کنم رفتار متفاوتی از قیمت دیدم، بین وارد کردن سفارش در حساب واقعی و دمو.
+
+شگفت‌زده شدم از اینکه قیمت به هر سفارشی واکنش نشان می‌داد، فرقی نمی‌کرد کدام ..... ولی واقعاً به نظر می‌رسید بارها واکنش می‌دهد!!
+
+همان‌طور که می‌دانی، آیا قیمت می‌تواند به ورودها واکنش بدهد؟
+
+ممنون
+
+### jurij_p12_2
+EN: althoufx wrote: Hi Jurij, i have a question i'd like to solve from a while (maybe it's stupid but... .), as i think to have noticed different behaviour of the price between entering order live or oder demo.
+
+I was surprised by the truth from any reaction the price could show to
+any order, doesn't matter which one ..... but it really seemed to react
+many times !!
+
+as you know can the price reacts to the entries ?
+
+thank you
+
+Sorry don't understand your question. Any example to show what you mean?
+
+I never had issues with orders not executing or other things. Only spread is sometimes an issue.
+
+And it depends on the broker and platform.
+FA: althoufx نوشت: سلام Jurij، سؤالی دارم که مدتی است می‌خواهم حلش کنم (شاید احمقانه باشد ولی... .)، چون فکر می‌کنم رفتار متفاوتی از قیمت دیدم، بین وارد کردن سفارش در حساب واقعی و دمو.
+
+شگفت‌زده شدم از اینکه قیمت به هر سفارشی واکنش نشان می‌داد، فرقی نمی‌کرد کدام ..... ولی واقعاً به نظر می‌رسید بارها واکنش می‌دهد!!
+
+همان‌طور که می‌دانی، آیا قیمت می‌تواند به ورودها واکنش بدهد؟
+
+ممنون
+
+ببخش، سؤالت را نمی‌فهمم. مثالی داری که منظورت را نشان بدهد؟
+
+من هرگز مشکلی با اجرا نشدن سفارش‌ها یا چیزهای دیگر نداشته‌ام. فقط اسپرد گاهی مشکل است.
+
+و به بروکر و پلتفرم بستگی دارد.
+
+### jurij_p12_3
+EN: i mean most of the times i place a long or short, price stops
+immediately any move it was doing (even trend, rally or drop) then
+starts to CP against my entry.
+
+It seems a Stop Loss hunting, but against one order ?! ....i can't really think it is like this !
+
+Sometimes it CPs for minutes (half an hour), other times it takes
+hours, then the price turns to the direction i wanted (if the trade was
+good...) and my trade goes from minus to plus and starts to make profit.
+
+...but the reaction against is real, almost always !! it seems the price reacts to one order !
+
+I know if it was always like this, the trades with minimal SL ( the extremes by IF ) would not be possible...so i'm wrong for sure, ...specially my entries i think...
+
+....but it's really impressive how much often it happens, also for good trades !
+
+did you notice something like this ?
+
+all the best
+FA: منظورم این است که بیشتر وقت‌ها که یک خرید یا فروش می‌گذارم، قیمت فوراً هر حرکتی را که می‌کرد متوقف می‌کند (حتی روند، رالی یا ریزش) و بعد شروع می‌کند به CP برخلاف ورود من.
+
+به نظر شکار استاپ‌لاس می‌آید، ولی بر ضد یک سفارش؟! ....واقعاً نمی‌توانم باور کنم این‌طور باشد!
+
+گاهی چند دقیقه (نیم ساعت) CP می‌کند، گاهی ساعت‌ها طول می‌کشد، بعد قیمت به جهتی که می‌خواستم برمی‌گردد (اگر معامله خوب بود...) و معامله‌ام از منفی به مثبت می‌رود و شروع به سود دادن می‌کند.
+
+...ولی واکنش مخالف واقعی است، تقریباً همیشه!! به نظر می‌رسد قیمت به یک سفارش واکنش می‌دهد!
+
+می‌دانم اگر همیشه این‌طور بود، معامله‌های با استاپ‌لاس حداقلی (اکسترم‌های IF) ممکن نبودند... پس مطمئنم اشتباه می‌کنم، ...مخصوصاً در ورودهایم فکر می‌کنم...
+
+....ولی واقعاً شگفت‌انگیز است که چقدر زیاد پیش می‌آید، حتی در معامله‌های خوب!
+
+تو هم چیزی شبیه این دیده‌ای؟
+
+بهترین‌ها
+
+### jurij_p12_4
+EN: Yes that was my impression too when I started to trade with candle
+price action, I saw a nice pin bar rejecting a key level and once I
+entered price usually hit my stop right away and then continued in the
+predicted direction. But thanks to RTM I learned that this is exactly
+what the ITs need to do to create the liquidity to fill their orders.
+
+althoufx, it would be great to see such trades with chart in your journal so we can discuss them?
+FA: بله، برداشت من هم وقتی شروع کردم با پرایس‌اکشن کندلی معامله کنم همین بود؛ یک پین‌بار خوب می‌دیدم که سطح کلیدی را رد می‌کرد و تا وارد می‌شدم قیمت معمولاً همان‌جا استاپم را می‌زد و بعد در جهت پیش‌بینی‌شده ادامه می‌داد. ولی به لطف RTM یاد گرفتم که این دقیقاً همان کاری است که IT‌ها برای ساختن نقدینگی و پر کردن سفارش‌هایشان باید بکنند.
+
+althoufx، عالی می‌شود اگر چنین معامله‌هایی را با نمودار در ژورنالت بگذاری تا درباره‌شان بحث کنیم؟
+
+### jurij_p12_5
+EN: Jurij wrote: Yes that was my
+impression too when I started to trade with candle price action, I saw a
+ nice pin bar rejecting a key level and once I entered price usually hit
+ my stop right away and then continued in the predicted direction. But
+thanks to RTM I learned that this is exactly what the ITs need to do to
+create the liquidity to fill their orders.
+
+althoufx, it would be great to see such trades with chart in your journal so we can discuss them?
+
+when i started to read journals i posted my thinks in another topic,
+say in the "public" area maybe in the classroom, i don't remember.
+
+About my journal opening i decided at that moment i was not able to take
+ trades according with RTM. i thought a journal was meaningful if the
+trades (right or wrong doesn't matter) was made somehow corresponding
+with it.
+
+By the truth i still make so many mistakes, and my entries are not
+correct (...midlevels, CPs, FOs and so on....) and i still have not
+enough time to seat and wait for price hitting what i want...so i think
+my skills are not yet decent for a journal .
+
+Much better than before, i am in the way for sure, but not enough...more efforts are needed !! ...and i'm gonna do it !
+
+thank you Jurij
+FA: Jurij نوشت: بله، برداشت من هم وقتی شروع کردم با پرایس‌اکشن کندلی معامله کنم همین بود؛ یک پین‌بار خوب می‌دیدم که سطح کلیدی را رد می‌کرد و تا وارد می‌شدم قیمت معمولاً همان‌جا استاپم را می‌زد و بعد در جهت پیش‌بینی‌شده ادامه می‌داد. ولی به لطف RTM یاد گرفتم که این دقیقاً همان کاری است که IT‌ها برای ساختن نقدینگی و پر کردن سفارش‌هایشان باید بکنند.
+
+althoufx، عالی می‌شود اگر چنین معامله‌هایی را با نمودار در ژورنالت بگذاری تا درباره‌شان بحث کنیم؟
+
+وقتی شروع کردم ژورنال‌ها را بخوانم، فکرهایم را در تاپیک دیگری نوشتم، در ناحیهٔ «عمومی» مثلاً در کلاس‌روم، یادم نیست.
+
+دربارهٔ باز کردن ژورنالم، آن موقع تصمیم گرفتم که توان گرفتن معامله بر اساس RTM را ندارم. فکر می‌کردم ژورنال وقتی معنا دارد که معامله‌ها (درست یا غلط فرقی ندارد) به‌نوعی با آن هم‌خوان باشند.
+
+راستش هنوز اشتباه‌های زیادی می‌کنم، و ورودهایم درست نیست (...سطوح میانی، CP‌ها، FO‌ها و غیره....) و هنوز وقت کافی ندارم که بنشینم و منتظر بمانم قیمت به چیزی که می‌خواهم برسد... پس فکر می‌کنم مهارتم هنوز برای یک ژورنال درست نیست.
+
+خیلی بهتر از قبل، مطمئنم در راهم، ولی کافی نیست... تلاش بیشتری لازم است!! ...و انجامش می‌دهم!
+
+ممنون Jurij
+
+### jurij_p12_7
+EN: Hello Jurij
+
+interesting what you've found in AUDCAD
+
+other pairs: today is GBP's day: it is on the stage...there are signals i think to read like this.
+
+I don't know if it is wrong or right ....there is not enough historical because GBP is in the deep bottom of any chart....
+
+Ok Brexit, but after the fall of the vote it seems not to have to suffer so much :
+
+any comments ?
+
+all the best
+FA: سلام Jurij
+
+جالب است آنچه در AUDCAD پیدا کردی
+
+جفت‌ارزهای دیگر: امروز روز GBP است: روی صحنه است... سیگنال‌هایی هست که فکر می‌کنم این‌طور باید خواند.
+
+نمی‌دانم غلط است یا درست ....تاریخچه کافی نیست چون GBP در قعر هر نموداری است....
+
+باشد، برگزیت، ولی بعد از ریزش رأی به نظر نمی‌رسد آن‌قدر ضربه بخورد:
+
+نظری داری؟
+
+بهترین‌ها
+
+### jurij_p12_8
+EN: ...wow my read was perfect ! i did not enter because i thought it was too clear and evident , so too simple to be right...
+FA: ...عجب، خوانشم بی‌نقص بود! وارد نشدم چون فکر می‌کردم زیادی روشن و واضح است، پس زیادی ساده که درست باشد...
+
+### jurij_p12_9
+EN: althoufx , good call.
+
+When price respects an important S/R it is a good continuation signal,
+whereas the engulf signals intention to reverse price (obvious )
+
+That was surely an S/R but price really reacted to a flag limit.
+
+If price rejects an S/R but engulfs its flag limit then you better stay aside from such trade.
+
+You wrote: too simple and evident, well think about it this way: the ITs
+ must sometimes respect S/R levels, pivots, moving averages, gartleys,
+fibs and so on..., to give the false hope of a working system with an
+edge to the many technical traders out there.
+
+Those provide the liquidity once the ITs deploy our loved signal
+(engulf) and then prepare one or multiple ad hoc technical traps.
+
+Check out this excellent
+	post
+.
+FA: althoufx، پیش‌بینی خوبی بود.
+
+وقتی قیمت یک S/R مهم را رعایت می‌کند، سیگنال ادامهٔ خوبی است، در حالی که اینگالف نیت بازگشت قیمت را نشان می‌دهد (که واضح است)
+
+آن قطعاً یک S/R بود ولی قیمت واقعاً به یک FL واکنش داد.
+
+اگر قیمت یک S/R را رد کند ولی FL آن را اینگالف کند، بهتر است از چنین معامله‌ای کنار بکشی.
+
+You نوشت: زیادی ساده و واضح؛ خب این‌طور فکرش کن: IT‌ها باید گاهی سطوح S/R، پیوت‌ها، میانگین‌های متحرک، گارتلی‌ها، فیبوها و غیره را رعایت کنند...، تا به انبوه معامله‌گران تکنیکال بیرون، امید کاذب به یک سیستم کارآمد با برتری بدهند.
+
+این‌ها همان‌هایی هستند که نقدینگی را فراهم می‌کنند، وقتی IT‌ها سیگنال محبوب ما (اینگالف) را مستقر می‌کنند و بعد یک یا چند تلهٔ تکنیکال مخصوص همان لحظه می‌چینند.
+
+این پست عالی را ببین.
+
+### jurij_p12_10
+EN: Jurij wrote: althoufx , good call.
+
+When price respects an important S/R it is a good continuation signal,
+whereas the engulf signals intention to reverse price (obvious )
+
+That was surely an S/R but price really reacted to a flag limit.
+
+If price rejects an S/R but engulfs its flag limit then you better stay aside from such trade.
+
+You wrote: too simple and evident, well think about it this way: the ITs
+ must sometimes respect S/R levels, pivots, moving averages, gartleys,
+fibs and so on..., to give the false hope of a working system with an
+edge to the many technical traders out there.
+
+Those provide the liquidity once the ITs deploy our loved signal
+(engulf) and then prepare one or multiple ad hoc technical traps.
+
+Check out this excellent
+	post
+.
+
+yes i remember that journal, one of the shortest but most brilliant
+journals here in RTM. Really high density sharing of RTM learning
+process, amazing. About that GBP today it happened (...as usually for
+news time...) that the signals was spreaded over 6 different pairs ,
+then there was at least 6 possibilities to read the "destiny" of a
+single currency at the same time...not bad that it happens always ....
+FA: Jurij نوشت: althoufx، پیش‌بینی خوبی بود.
+
+وقتی قیمت یک S/R مهم را رعایت می‌کند، سیگنال ادامهٔ خوبی است، در حالی که اینگالف نیت بازگشت قیمت را نشان می‌دهد (که واضح است)
+
+آن قطعاً یک S/R بود ولی قیمت واقعاً به یک FL واکنش داد.
+
+اگر قیمت یک S/R را رد کند ولی FL آن را اینگالف کند، بهتر است از چنین معامله‌ای کنار بکشی.
+
+You نوشت: زیادی ساده و واضح؛ خب این‌طور فکرش کن: IT‌ها باید گاهی سطوح S/R، پیوت‌ها، میانگین‌های متحرک، گارتلی‌ها، فیبوها و غیره را رعایت کنند...، تا به انبوه معامله‌گران تکنیکال بیرون، امید کاذب به یک سیستم کارآمد با برتری بدهند.
+
+این‌ها همان‌هایی هستند که نقدینگی را فراهم می‌کنند، وقتی IT‌ها سیگنال محبوب ما (اینگالف) را مستقر می‌کنند و بعد یک یا چند تلهٔ تکنیکال مخصوص همان لحظه می‌چینند.
+
+این پست عالی را ببین.
+
+بله آن ژورنال را یادم است، یکی از کوتاه‌ترین ولی درخشان‌ترین ژورنال‌های RTM اینجا. واقعاً اشتراک‌گذاری با تراکم بالای فرایند یادگیری RTM، شگفت‌انگیز. دربارهٔ آن GBP امروز، پیش آمد (...مثل همیشه در زمان خبر...) که سیگنال‌ها روی 6 جفت‌ارز مختلف پخش شدند، پس حداقل 6 امکان بود که «سرنوشت» یک ارز را همزمان بخوانی... بد نیست که همیشه پیش می‌آید ....
+
+### jurij_p12_11
+EN: AUDUSD 4H
+
+Will watch PA for exit
+FA: AUDUSD 4H
+
+برای خروج PA را زیر نظر می‌گیرم
+
+### jurij_p12_12
+EN: Hi Juril
+
+Am i right that yours was a QM trade?
+
+But was yours a touch-trade or PA trade? It seemed to me it was a touch-trade.
+
+I was actually looking at this pair too.
+
+However, i was awaiting for PA to enter in M15 but couldn't convince myself to take the trade.
+
+Hope you can guide me on this.
+
+There was at first i thought a M15 QM formed. But it formed right below
+the H4 supply zone and not inside it ( the one you marked), so i was
+skeptical it will work when price bounced back to the QM level,
+especially when the LL did not engulf the last FL or pole base.
+
+So okay, price bounced back and somehow did react to the QM level, but
+my intent was to see a bigger reaction of price coming down as per where
+ it is now.
+
+So price reached back to near the last M15 LL and began to compress up
+which i was expecting this. It then had a CP-lq into the H4 supply
+zone.
+
+Price flagged and broke down ( Pro-sellers selling at the top?)
+
+Then as it reached the pole base, it bounced back up to the flag. Would you consider that as a can can?
+
+I was hoping that price engulfed the M15 pole base and i would have take entry when price reached the flag.
+
+But because it did not engulf, i was not confident to take the trade. So ended up, i failed to enter at the top.
+
+Okay, now, price then fell hard, not only went back to the previous M15 LL, it engulfed into the next PAZ.
+
+I was then lost, not knowing how to find the next best trade to ride along this fall.
+
+Now I decided to let price find its target first and then wait for the next opportunity to short.
+
+Thank you
+
+Jurij wrote: AUDUSD 4H
+
+Will watch PA for exit
+FA: سلام Juril
+
+درست است که مال تو یک معاملهٔ QM بود؟
+
+ولی مال تو تاچ‌ترید بود یا معاملهٔ PA؟ به نظر من تاچ‌ترید بود.
+
+راستش من هم این جفت‌ارز را نگاه می‌کردم.
+
+ولی منتظر بودم PA در M15 برای ورود بیاید ولی نتوانستم خودم را قانع کنم که معامله را بگیرم.
+
+امیدوارم بتوانی راهنمایی‌ام کنی.
+
+اولش فکر کردم یک QM در M15 تشکیل شد. ولی دقیقاً زیر ناحیهٔ عرضهٔ H4 تشکیل شد و نه داخلش (همانی که علامت زده بودی)، پس بدبین بودم که وقتی قیمت به سطح QM برگشت کار کند، مخصوصاً وقتی LL آخرین FL یا پایهٔ میله را اینگالف نکرد.
+
+خب، قیمت برگشت و به‌نوعی به سطح QM واکنش داد، ولی منظورم این بود که واکنش بزرگ‌تری از ریزش قیمت ببینم، مطابق جایی که حالا هست.
+
+پس قیمت به نزدیکی آخرین LL در M15 برگشت و شروع کرد به فشرده شدن به بالا، که انتظارش را داشتم. بعد یک CP-lq به ناحیهٔ عرضهٔ H4 داشت.
+
+قیمت فلگ شد و به پایین شکست (فروشندگان حرفه‌ای در سقف می‌فروشند؟)
+
+بعد وقتی به پایهٔ میله رسید، به بالا و روی فلگ برگشت. این را can can حساب می‌کنی؟
+
+امید داشتم قیمت پایهٔ میلهٔ M15 را اینگالف کند و وقتی قیمت به فلگ رسید وارد می‌شدم.
+
+ولی چون اینگالف نکرد، برای گرفتن معامله اعتماد نداشتم. آخرش نتوانستم در سقف وارد شوم.
+
+خب، بعد قیمت شدید ریخت، نه فقط به LL قبلی M15 برگشت، بلکه به PAZ بعدی اینگالف کرد.
+
+بعد گیج شدم، نمی‌دانستم چطور بهترین معاملهٔ بعدی را برای همراهی با این ریزش پیدا کنم.
+
+حالا تصمیم گرفتم اول بگذارم قیمت تارگتش را پیدا کند و بعد منتظر فرصت بعدی برای شورت باشم.
+
+ممنون
+
+Jurij نوشت: AUDUSD 4H
+
+برای خروج PA را زیر نظر می‌گیرم
+
+### jurij_p12_13
+EN: EURUSD 4H
+
+But it was really the compressed approach that made me look into this trade.
+
+And made a mistake, took half position out too soon, tg1 was lower.
+FA: EURUSD 4H
+
+ولی واقعاً برخورد فشرده بود که باعث شد به این معامله نگاه کنم.
+
+و اشتباه کردم، نصف پوزیشن را خیلی زود بستم، tg1 پایین‌تر بود.
+
+### jurij_p12_14
+EN: Bodostock wrote: Hi Juril
+
+Am i right that yours was a QM trade?
+
+But was yours a touch-trade or PA trade? It seemed to me it was a touch-trade.
+
+I was actually looking at this pair too.
+
+However, i was awaiting for PA to enter in M15 but couldn't convince myself to take the trade.
+
+Hope you can guide me on this.
+
+There was at first i thought a M15 QM formed. But it formed right below
+the H4 supply zone and not inside it ( the one you marked), so i was
+skeptical it will work when price bounced back to the QM level,
+especially when the LL did not engulf the last FL or pole base.
+
+So okay, price bounced back and somehow did react to the QM level, but
+my intent was to see a bigger reaction of price coming down as per where
+ it is now.
+
+So price reached back to near the last M15 LL and began to compress up
+which i was expecting this. It then had a CP-lq into the H4 supply
+zone.
+
+Price flagged and broke down ( Pro-sellers selling at the top?)
+
+Then as it reached the pole base, it bounced back up to the flag. Would you consider that as a can can?
+
+I was hoping that price engulfed the M15 pole base and i would have take entry when price reached the flag.
+
+But because it did not engulf, i was not confident to take the trade. So ended up, i failed to enter at the top.
+
+Okay, now, price then fell hard, not only went back to the previous M15 LL, it engulfed into the next PAZ.
+
+I was then lost, not knowing how to find the next best trade to ride along this fall.
+
+Now I decided to let price find its target first and then wait for the next opportunity to short.
+
+Thank you
+
+Nice chart you made. Yes It was a TT and yes QM was also involved.
+You're right that LTF did not give any good confirmation (in my view).
+
+For me it was enough how price approached the level and the trap they built just before it.
+
+That can can I think is valid.
+FA: Bodostock نوشت: سلام Juril
+
+درست است که مال تو یک معاملهٔ QM بود؟
+
+ولی مال تو تاچ‌ترید بود یا معاملهٔ PA؟ به نظر من تاچ‌ترید بود.
+
+راستش من هم این جفت‌ارز را نگاه می‌کردم.
+
+ولی منتظر بودم PA در M15 برای ورود بیاید ولی نتوانستم خودم را قانع کنم که معامله را بگیرم.
+
+امیدوارم بتوانی راهنمایی‌ام کنی.
+
+اولش فکر کردم یک QM در M15 تشکیل شد. ولی دقیقاً زیر ناحیهٔ عرضهٔ H4 تشکیل شد و نه داخلش (همانی که علامت زده بودی)، پس بدبین بودم که وقتی قیمت به سطح QM برگشت کار کند، مخصوصاً وقتی LL آخرین FL یا پایهٔ میله را اینگالف نکرد.
+
+خب، قیمت برگشت و به‌نوعی به سطح QM واکنش داد، ولی منظورم این بود که واکنش بزرگ‌تری از ریزش قیمت ببینم، مطابق جایی که حالا هست.
+
+پس قیمت به نزدیکی آخرین LL در M15 برگشت و شروع کرد به فشرده شدن به بالا، که انتظارش را داشتم. بعد یک CP-lq به ناحیهٔ عرضهٔ H4 داشت.
+
+قیمت فلگ شد و به پایین شکست (فروشندگان حرفه‌ای در سقف می‌فروشند؟)
+
+بعد وقتی به پایهٔ میله رسید، به بالا و روی فلگ برگشت. این را can can حساب می‌کنی؟
+
+امید داشتم قیمت پایهٔ میلهٔ M15 را اینگالف کند و وقتی قیمت به فلگ رسید وارد می‌شدم.
+
+ولی چون اینگالف نکرد، برای گرفتن معامله اعتماد نداشتم. آخرش نتوانستم در سقف وارد شوم.
+
+خب، بعد قیمت شدید ریخت، نه فقط به LL قبلی M15 برگشت، بلکه به PAZ بعدی اینگالف کرد.
+
+بعد گیج شدم، نمی‌دانستم چطور بهترین معاملهٔ بعدی را برای همراهی با این ریزش پیدا کنم.
+
+حالا تصمیم گرفتم اول بگذارم قیمت تارگتش را پیدا کند و بعد منتظر فرصت بعدی برای شورت باشم.
+
+ممنون
+
+نمودار خوبی کشیدی. بله یک TT بود و بله QM هم درگیر بود. حق با توست که LTF هیچ تأیید خوبی نداد (به نظر من).
+
+برای من همین کافی بود که قیمت چطور به سطح نزدیک شد و تله‌ای که درست قبلش ساخته بودند.
+
+آن can can به نظر من معتبر است.
+
+### jurij_p12_15
+EN: USDCAD loser
+FA: USDCAD، ضرر
+
+### jurij_p12_16
+EN: Nice one, Juril!
+
+Again, i could hardly have that confidence you got to trade on that FO.
+
+My reading of PAZ is still poor. How to see if PAZ was really respected
+and how it is then considered engulfed always had me confused.
+
+I just need to see an engulf first before entering.
+
+If i were to trade on this, i would see there was a QM created due to
+the FO and the chance for me to enter short was after price reached your
+ target and bounced back up to the right ( ard 12:00hr on your chart)
+where it coincided nicely at the QM level and fell again.
+
+Jurij wrote: EURUSD 4H
+
+But it was really the compressed approach that made me look into this trade.
+
+And made a mistake, took half position out too soon, tg1 was lower.
+FA: کار خوبی بود، Juril!
+
+باز هم، من به‌سختی می‌توانستم آن اعتمادبه‌نفسی را داشته باشم که تو برای معامله روی آن FO داشتی.
+
+خواندن PAZ برایم هنوز ضعیف است. اینکه چطور ببینم PAZ واقعاً رعایت شد و بعد چطور اینگالف‌شده حساب می‌شود همیشه گیجم کرده.
+
+من اول باید یک اینگالف ببینم و بعد وارد شوم.
+
+اگر می‌خواستم روی این معامله کنم، می‌دیدم که یک QM به‌خاطر FO ساخته شد و شانس من برای ورود شورت بعد از رسیدن قیمت به تارگت تو و برگشت به بالا و راست بود (حدود ساعت 12:00 در نمودارت) که آنجا با سطح QM خوب جور شد و دوباره ریخت.
+
+Jurij نوشت: EURUSD 4H
+
+ولی واقعاً برخورد فشرده بود که باعث شد به این معامله نگاه کنم.
+
+و اشتباه کردم، نصف پوزیشن را خیلی زود بستم، tg1 پایین‌تر بود.
+
+### jurij_p12_17
+EN: GPBUSD 1H
+
+EURJPY 1H Diamond
+FA: GPBUSD 1H
+
+EURJPY 1H دایموند
+
+### jurij_p12_18
+EN: Bodostock wrote: Nice one, Juril!
+
+Again, i could hardly have that confidence you got to trade on that FO.
+
+My reading of PAZ is still poor. How to see if PAZ was really respected
+and how it is then considered engulfed always had me confused.
+
+I just need to see an engulf first before entering.
+
+If i were to trade on this, i would see there was a QM created due to
+the FO and the chance for me to enter short was after price reached your
+ target and bounced back up to the right ( ard 12:00hr on your chart)
+where it coincided nicely at the QM level and fell again.
+
+Well still a nice QM and in the right spot, there are many ways to profit from this setup.
+FA: Bodostock نوشت: کار خوبی بود، Juril!
+
+باز هم، من به‌سختی می‌توانستم آن اعتمادبه‌نفسی را داشته باشم که تو برای معامله روی آن FO داشتی.
+
+خواندن PAZ برایم هنوز ضعیف است. اینکه چطور ببینم PAZ واقعاً رعایت شد و بعد چطور اینگالف‌شده حساب می‌شود همیشه گیجم کرده.
+
+من اول باید یک اینگالف ببینم و بعد وارد شوم.
+
+اگر می‌خواستم روی این معامله کنم، می‌دیدم که یک QM به‌خاطر FO ساخته شد و شانس من برای ورود شورت بعد از رسیدن قیمت به تارگت تو و برگشت به بالا و راست بود (حدود ساعت 12:00 در نمودارت) که آنجا با سطح QM خوب جور شد و دوباره ریخت.
+
+خب هنوز یک QM خوب و در جای درست است، راه‌های زیادی برای سود از این ستاپ وجود دارد.
+
+### jurij_p12_19
+EN: Hi Jurij.
+
+Nice entries mate
+
+Have been trying to make the same paz´s as you do on your charts - can you please tell me if my drawing is completely off
+
+Thanks
+
+Hans
+FA: سلام Jurij.
+
+ورودهای خوبی رفیق
+
+تلاش کرده‌ام همان PAZ‌هایی را بسازم که تو در نمودارهایت می‌سازی — می‌شود بگویی رسم من کاملاً غلط است؟
+
+ممنون
+
+Hans
+
+### jurij_p12_20
+EN: Hi Jurij
+
+your trade on EURUSD i think has really a lot of meaning. I'm following
+specially that wide CP because it is dense of actions, creating PAZs
+evident and so on...
+
+You used both the most significant moves the price makes to show the
+intentions: ENG and FO (... the points i'm focusing on right now )
+
+I think ENG and FO, since they have different functions and give
+opposite information, should have a logical coordination, so the one as
+first and the other as second with a precise meaning.
+
+ITs want liquid money (SL) so first they take orders, and after they take respective SL
+
+When there are 2 moves, like in your trade, the first must be always ENG
+ (where the price will go to), so the second always FO (where the price
+will escape from), as you got correctly in your trade , i think opposite should not be possible...
+
+....by the truth i think ITs take every orders (SELL and BUY all
+together, then respective SL when price goes opposite) but however FO
+should be always the last spike (...the second)....so what to say about
+the same chart, a bit later ?
+
+any comments precious as usually
+
+many thanks Jurij
+FA: سلام Jurij
+
+به نظر من معامله‌ات روی EURUSD واقعاً معنای زیادی دارد. مخصوصاً آن CP پهن را دنبال می‌کنم چون پر از اتفاق است، PAZ‌های واضح می‌سازد و غیره...
+
+تو از هر دو حرکت مهمی که قیمت می‌کند برای نشان دادن نیت‌ها استفاده کردی: اینگالف و FO (... همان چیزهایی که الان رویشان تمرکز دارم)
+
+فکر می‌کنم اینگالف و FO، چون کارکردهای متفاوتی دارند و اطلاعات متناقض می‌دهند، باید هماهنگی منطقی داشته باشند، یکی اول و دیگری دوم، با معنایی دقیق.
+
+IT‌ها پول سیال (استاپ‌لاس) می‌خواهند، پس اول سفارش‌ها را می‌گیرند و بعد استاپ‌لاس‌های مربوط را
+
+وقتی 2 حرکت هست، مثل معاملهٔ تو، اولی همیشه باید اینگالف باشد (جایی که قیمت به آن می‌رود)، پس دومی همیشه FO (جایی که قیمت از آن فرار می‌کند)، همان‌طور که در معامله‌ات درست پیاده کردی؛ فکر می‌کنم برعکسش ممکن نباشد...
+
+....راستش فکر می‌کنم IT‌ها همهٔ سفارش‌ها را می‌گیرند (خرید و فروش همه با هم، بعد استاپ‌لاس‌های مربوط وقتی قیمت مخالف می‌رود) ولی با این حال FO باید همیشه آخرین اسپایک باشد (...دومی).... پس دربارهٔ همان نمودار، کمی بعدتر چه می‌شود گفت؟
+
+هر نظری مثل همیشه ارزشمند
+
+خیلی ممنون Jurij
+
+### jurij_p12_21
+EN: hansma wrote: Hi Jurij.
+
+Nice entries mate
+
+Have been trying to make the same paz´s as you do on your charts - can you please tell me if my drawing is completely off
+
+Thanks
+
+Hans
+
+Looks fine, also because the market gave you the answer
+
+althoufx wrote: Hi Jurij
+
+your trade on EURUSD i think has really a lot of meaning. I'm following
+specially that wide CP because it is dense of actions, creating PAZs
+evident and so on...
+
+You used both the most significant moves the price makes to show the
+intentions: ENG and FO (... the points i'm focusing on right now )
+
+I think ENG and FO, since they have different functions and give
+opposite information, should have a logical coordination, so the one as
+first and the other as second with a precise meaning.
+
+ITs want liquid money (SL) so first they take orders, and after they take respective SL
+
+When there are 2 moves, like in your trade, the first must be always ENG
+ (where the price will go to), so the second always FO (where the price
+will escape from), as you got correctly in your trade , i think opposite should not be possible...
+
+....by the truth i think ITs take every orders (SELL and BUY all
+together, then respective SL when price goes opposite) but however FO
+should be always the last spike (...the second)....so what to say about
+the same chart, a bit later ?
+
+any comments precious as usually
+
+many thanks Jurij
+
+Some important points you have put here . Eng and FO show the hand and thus the intentions of ITs.
+
+But to really understand, always look to where FO happens. If you see
+the combination of eng and FO in the right order and in the right place
+then you can be pretty sure about intentions and market direction.
+FA: hansma نوشت: سلام Jurij.
+
+ورودهای خوبی رفیق
+
+تلاش کرده‌ام همان PAZ‌هایی را بسازم که تو در نمودارهایت می‌سازی — می‌شود بگویی رسم من کاملاً غلط است؟
+
+ممنون
+
+Hans
+
+خوب به نظر می‌رسد، همچنین چون بازار جوابت را داد
+
+althoufx نوشت: سلام Jurij
+
+به نظر من معامله‌ات روی EURUSD واقعاً معنای زیادی دارد. مخصوصاً آن CP پهن را دنبال می‌کنم چون پر از اتفاق است، PAZ‌های واضح می‌سازد و غیره...
+
+تو از هر دو حرکت مهمی که قیمت می‌کند برای نشان دادن نیت‌ها استفاده کردی: اینگالف و FO (... همان چیزهایی که الان رویشان تمرکز دارم)
+
+فکر می‌کنم اینگالف و FO، چون کارکردهای متفاوتی دارند و اطلاعات متناقض می‌دهند، باید هماهنگی منطقی داشته باشند، یکی اول و دیگری دوم، با معنایی دقیق.
+
+IT‌ها پول سیال (استاپ‌لاس) می‌خواهند، پس اول سفارش‌ها را می‌گیرند و بعد استاپ‌لاس‌های مربوط را
+
+وقتی 2 حرکت هست، مثل معاملهٔ تو، اولی همیشه باید اینگالف باشد (جایی که قیمت به آن می‌رود)، پس دومی همیشه FO (جایی که قیمت از آن فرار می‌کند)، همان‌طور که در معامله‌ات درست پیاده کردی؛ فکر می‌کنم برعکسش ممکن نباشد...
+
+....راستش فکر می‌کنم IT‌ها همهٔ سفارش‌ها را می‌گیرند (خرید و فروش همه با هم، بعد استاپ‌لاس‌های مربوط وقتی قیمت مخالف می‌رود) ولی با این حال FO باید همیشه آخرین اسپایک باشد (...دومی).... پس دربارهٔ همان نمودار، کمی بعدتر چه می‌شود گفت؟
+
+هر نظری مثل همیشه ارزشمند
+
+خیلی ممنون Jurij
+
+نکته‌های مهمی را اینجا گفتی. اینگالف و FO دست و در نتیجه نیت IT‌ها را نشان می‌دهند.
+
+ولی برای فهم واقعی، همیشه ببین FO کجا رخ می‌دهد. اگر ترکیب اینگالف و FO را به ترتیب درست و در جای درست ببینی، می‌توانی دربارهٔ نیت‌ها و جهت بازار کاملاً مطمئن باشی.
+
+### jurij_p12_22
+EN: Jurij your loser trade has not evident mistakes ( i couldn't see immediately any reason...ok i'm a newbie ), so i wanted to dig some more
+
+then i've found the last true HTF FTR was far on the left, almost consumed.
+
+.....can it be the reason ? maybe...it would be great if a master wanted to put 2 words
+FA: Jurij، معاملهٔ ضررده‌ات اشتباه واضحی ندارد (بلافاصله دلیلی ندیدم... باشد، من تازه‌کارم)، پس خواستم کمی بیشتر کاوش کنم
+
+بعد دیدم آخرین FTR واقعی HTF خیلی دور در سمت چپ بود، تقریباً مصرف‌شده.
+
+.....می‌تواند دلیلش باشد؟ شاید... عالی می‌شود اگر یک استاد دو کلمه بگوید
+
+### jurij_p12_23
+EN: althoufx wrote: Jurij your loser trade has not evident mistakes ( i couldn't see immediately any reason...ok i'm a newbie ), so i wanted to dig some more
+
+then i've found the last true HTF FTR was far on the left, almost consumed.
+
+.....can it be the reason ? maybe...it would be great if a master wanted to put 2 words
+
+hai mate...good lesson learning from someone losses trade...
+
+not trying to be clever here and have no intention misguide
+
+here was my interpretation and reading on UCAD
+
+that CP demand you pointed out maybe it was consumed then maybe it could
+ go lower.at it inside range or ..at the end zone..or even lower for
+bounce
+
+but from what already happened after price spike into demand A, bounce
+again and FO then the next days 1hours before transtition to LO open at
+21 july we got QM /buyer there...push to the next H4 supply then
+bearish again drop2 into earlier spike base at 20 july and got spike
+once again...
+
+from this point...we got 2 perspective here:
+
+- trader who thought earlier supply got spike might be look for long entry somewhere at demand/ or even lower
+
+-trader who thought this CP demand was consumed or got spike again might be look Pullback for short
+
+point 1 : rejection = small pinbar.. not sure -->might small pullback then DBD into nearest supply then drop again lower
+
+point 2 : swap at mid range?
+
+point 3,4,5 : H4 bullish pole??
+
+point 6 --> source = another HH --> is it consumption or just another FO ?
+
+point 7 and 8?
+
+but base on my POV it is important to check out important hours/ time
+approach...such as price behaviours during transition LO/NY or after
+probably will added some extra information...
+
+remember our zone was for our own mapping purpose, there is no obligation price will follow our zone
+
+we have to act and adjust with markets itself.....
+
+thx
+FA: althoufx نوشت: Jurij، معاملهٔ ضررده‌ات اشتباه واضحی ندارد (بلافاصله دلیلی ندیدم... باشد، من تازه‌کارم)، پس خواستم کمی بیشتر کاوش کنم
+
+بعد دیدم آخرین FTR واقعی HTF خیلی دور در سمت چپ بود، تقریباً مصرف‌شده.
+
+.....می‌تواند دلیلش باشد؟ شاید... عالی می‌شود اگر یک استاد دو کلمه بگوید
+
+سلام رفیق... درس خوبی است، یادگیری از معاملهٔ ضرردهٔ یک نفر...
+
+قصد ندارم اینجا خودم را باهوش نشان بدهم و نیت گمراه کردن هم ندارم
+
+این تفسیر و خوانش من از UCAD بود
+
+آن تقاضای CP که اشاره کردی شاید مصرف شده بود، پس شاید می‌توانست پایین‌تر برود؛ داخل رنج یا ..در ناحیهٔ انتهایی.. یا حتی پایین‌تر برای بازگشت
+
+ولی از آنچه بعد از اسپایک قیمت به تقاضای A رخ داد، بازگشت دوباره و FO، بعد آن روزهای بعد 1 ساعت قبل از گذار به باز شدن LO در 21 july آنجا QM/خریدار گرفتیم... فشار به عرضهٔ بعدی H4 و بعد دوباره نزولی، drop2 به پایهٔ اسپایک قبلی در 20 july و دوباره اسپایک گرفت...
+
+از این نقطه... ما 2 دیدگاه داریم:
+
+- معامله‌گری که فکر می‌کرد عرضهٔ قبلی اسپایک گرفته، ممکن است دنبال ورود خرید جایی در تقاضا/ یا حتی پایین‌تر باشد
+
+- معامله‌گری که فکر می‌کرد این تقاضای CP مصرف شده یا دوباره اسپایک گرفته، ممکن است دنبال پولبک برای شورت باشد
+
+نقطهٔ 1: رد شدن = پین‌بار کوچک.. مطمئن نیستم --> شاید پولبک کوچک و بعد DBD به نزدیک‌ترین عرضه و بعد ریزش دوباره پایین‌تر
+
+نقطهٔ 2: سواپ در میانهٔ رنج؟
+
+نقطه‌های 3،4،5: میلهٔ صعودی H4؟؟
+
+نقطهٔ 6 --> مبدأ = یک HH دیگر --> مصرف است یا فقط یک FO دیگر؟
+
+نقطه‌های 7 و 8؟
+
+ولی بر پایهٔ دیدگاه من مهم است که ساعت‌ها/نزدیک شدن به زمان‌های مهم را بررسی کنی... مثل رفتار قیمت در گذار LO/NY یا بعد از آن، احتمالاً اطلاعات اضافه‌ای می‌دهد...
+
+یادت باشد ناحیهٔ ما برای نقشه‌برداری خودمان بود، هیچ الزامی نیست که قیمت از ناحیهٔ ما تبعیت کند
+
+باید با خود بازار عمل کنیم و خودمان را تنظیم کنیم.....
+
+ممنون
+
+### jurij_p12_24
+EN: hello Jurij and everybody
+
+more on this USDCAD, because things like that happens so often ! ......
+thinks and opinions...but it's important to compare if we want to
+discover the mistakes , hope you agree it
+
+RTM makes clear one thing as first : the Price says always where it goes to. As far me personally i'm more and more believing this is strongly true.
+
+Why Price does it, i can't say yet, but since it does it, it is aimed to
+ somebody reading it somewhere !! So we assume it can be readed...
+
+Price uses basic signals in different combinations....like any language, i think.
+
+So in order to read, we must learn that language. To uncover the
+signals, we build instruments that do not exist in the real market, like
+ the boxes for example.
+
+The boxes have meaning if they are built by fixed rules, so they must be
+ standard. Boxes are used to compare levels (i think) and to reveal our
+loved engulfs
+
+so the Boxes :
+
+...have top in a Swing Higher High and bottom in the Swing Low
+immediately subsequent in case of rally. Obviously Boxes depend onTime
+Frame
+
+...have bottom in a Swing Lower Low and top in the Swing High
+immediately subsequent in case of drop. Obviously Boxes depend on Time
+Frame
+
+then it is very important how we build our boxes...even difficult for
+LLTF ...as more noisy Time Frames are, as more difficult box drawing is
+
+...but what else could we do.....maybe to read only HTF can be a good method
+
+in that USDCAD i think the boxes built by these rules only gave LTF bullish signals
+
+..i'd really like some words from upside in the ladder ...but i'm afraid there won't be anymore that time...
+
+many thanks, all the best
+FA: سلام Jurij و همه
+
+بیشتر دربارهٔ این USDCAD، چون چنین چیزهایی خیلی زیاد پیش می‌آید! ...... فکرها و نظرها... ولی برای پیدا کردن اشتباه‌ها مقایسه مهم است، امیدوارم موافق باشی
+
+RTM اول از همه یک چیز را روشن می‌کند: قیمت همیشه می‌گوید به کجا می‌رود. تا آنجا که به من مربوط است، بیشتر و بیشتر باور دارم که این کاملاً درست است.
+
+چرا قیمت این کار را می‌کند، هنوز نمی‌توانم بگویم، ولی چون انجامش می‌دهد، هدفش کسی است که جایی آن را می‌خواند!! پس فرض می‌کنیم خواندنی است...
+
+قیمت از سیگنال‌های پایه در ترکیب‌های مختلف استفاده می‌کند.... مثل هر زبان، فکر می‌کنم.
+
+پس برای خواندن، باید آن زبان را یاد بگیریم. برای آشکار کردن سیگنال‌ها، ابزارهایی می‌سازیم که در بازار واقعی وجود ندارند، مثل کادرها برای مثال.
+
+کادرها وقتی معنا دارند که با قواعد ثابت ساخته شوند، پس باید استاندارد باشند. کادرها برای مقایسهٔ سطوح (به نظر من) و آشکار کردن اینگالف‌های محبوبمان به کار می‌روند
+
+پس کادرها:
+
+...در حالت رالی، سقف را در یک سوینگ سقف بالاتر و کف را در سوینگ کفِ بلافاصله بعدش دارند. واضح است که کادرها به تایم‌فریم بستگی دارند
+
+...در حالت ریزش، کف را در یک سوینگ کف پایین‌تر و سقف را در سوینگ سقفِ بلافاصله بعدش دارند. واضح است که کادرها به تایم‌فریم بستگی دارند
+
+بعد خیلی مهم است که کادرهایمان را چطور می‌سازیم... حتی برای LLTF سخت است... هرچه تایم‌فریم پرنویزتر، رسم کادر سخت‌تر
+
+...ولی چه کار دیگری می‌توانیم بکنیم..... شاید فقط خواندن HTF روش خوبی باشد
+
+در آن USDCAD فکر می‌کنم کادرهایی که با این قواعد ساختیم فقط سیگنال‌های صعودی LTF دادند
+
+..واقعاً دوست داشتم چند کلمه از بالاتر در نردبان بشنوم ...ولی می‌ترسم دیگر آن زمان نباشد...
+
+خیلی ممنون، بهترین‌ها
+
+### jurij_p12_25
+EN: Jurij wrote: GPBUSD 1H
+
+EURJPY 1H Diamond
+
+GU did not follow eng yet, exit with very small loss, also because I think it wasn't really a good setup after all
+
+EJ hit tg
+FA: Jurij نوشت: GPBUSD 1H
+
+EURJPY 1H دایموند
+
+GU هنوز از اینگالف تبعیت نکرد، با ضرر خیلی کوچک خارج شدم، همچنین چون فکر می‌کنم بعد از همه بالاخره ستاپ خوبی نبود
+
+EJ به tg رسید

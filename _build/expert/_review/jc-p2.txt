@@ -1,0 +1,109 @@
+===== jc-p2 : 12 posts =====
+--- jc_p2_26 author=reaq hash=3475184d
+EN: Is this a better analysis?
+
+Our entry opportunities could be at: 1. BSZ + FTB area 2. 2TB after EG
+FA: آیا این تحلیل بهتری است؟
+
+فرصت‌های ورود ما می‌توانند در این نقاط باشند: 1. ناحیهٔ BSZ + FTB 2. 2TB بعد از EG
+--- jc_p2_27 author=Ysbail hash=1fdc6b10
+EN: On my screen it isn't BSZ (when i see my default view on platform a have a bid price - i'm trying to remember to check this, I used to think that this is spread sizing to hunt SL, but now I think It is not - i don't know how other brokers, but my don't do that on purpose)
+
+So with this information from ask price your 1 is 2. As far I know second touch is always worst than first.
+
+Look also where are you at D1:)
+FA: روی صفحهٔ من BSZ نیست (نمای پیش‌فرض پلتفرمم قیمت bid را نشان می‌دهد - سعی می‌کنم یادم بماند این را چک کنم، قبلاً فکر می‌کردم این تنظیم اسپرد برای شکار استاپ‌لاس است، اما حالا فکر می‌کنم این‌طور نیست - نمی‌دانم بروکرهای دیگر چطورند، اما بروکر من عمداً این کار را نمی‌کند)
+
+پس با این اطلاعات از قیمت ask، شمارهٔ 1 تو در واقع 2 است. تا جایی که می‌دانم لمس دوم همیشه بدتر از اولی است.
+
+همچنین نگاه کن در D1 کجایی:)
+--- jc_p2_28 author=Ifmyante hash=520b1a98
+EN: I agree that the engulf down is more significant, and that the engulf up could easily be a FO. If in doubt about a cross pair, look to the majors of each. For GBP/AUD, check GU and AU, and see if either has made PA (If so, trade that instead!). If not, check EG and EA
+FA: موافقم که اینگالف نزولی مهم‌تر است، و اینکه اینگالف صعودی به‌راحتی می‌تواند یک FO باشد. اگر دربارهٔ یک جفت‌ارز کراس شک داری، به جفت‌ارزهای اصلی هرکدام نگاه کن. برای GBP/AUD، GU و AU را چک کن و ببین آیا هرکدام PA ساخته‌اند (اگر این‌طور بود، همان جفت‌ارز را به‌جای کراس معامله کن!). اگر نه، EG و EA را چک کن
+--- jc_p2_29 author=reaq hash=82c98733
+EN: Thank you for all the help so far my friends.
+
+So far my journal to find what works for me within RTM cookbook has been a confusing one especially with QM/DM setups. Having studied Sam's Supply / Demand stuff, I feel CanCan setup make sense to me with this new RTM knowledge It's easier to spot and has less subjectivity vs QM/DM steups.
+
+Will focus on CanCan for now as I continue my journal in RTM:)
+FA: ممنون بابت همهٔ کمک‌هایتان تا اینجا، دوستان من.
+
+تا اینجا ژورنال من برای یافتن آنچه در کتابچهٔ RTM برایم جواب می‌دهد، گیج‌کننده بوده، به‌ویژه با ستاپ‌های QM/DM. بعد از مطالعهٔ مطالب عرضه / تقاضای Sam، احساس می‌کنم ستاپ CanCan با این دانش تازهٔ RTM منطقی است؛ تشخیصش آسان‌تر است و در مقایسه با QM/DM کمتر سلیقه‌ای است.
+
+فعلاً روی CanCan تمرکز می‌کنم و ژورنالم را در RTM ادامه می‌دهم:)
+--- jc_p2_30 author=reaq hash=3354666b
+EN: CanCan setup found! I know my TG is at the origin of CP. Waiting for reversal at Supply. Spotted a BSZ as well.
+
+Pls advice.
+FA: ستاپ CanCan پیدا شد! می‌دانم TG من در مبدأ CP است. منتظر برگشت در عرضه هستم. یک BSZ هم پیدا کردم.
+
+لطفاً راهنمایی کنید.
+--- jc_p2_31 author=HCDE hash=774e18a3
+EN: This is not a CAN CAN in my opinion I guess you should go back to Markpedia articles--> readthemarket.com/index.php/en/lb-topmen...h-rtm/488-the-cancan
+
+Can can (example for a bear can can): -Reaction to true UFL -Engulf of a valid LFL -Retace in a compressed way to the reaction that brought the engulf
+
+I posted what might really be (at least it's well on it's way) an on going can can on EJ this morning, you might want to take a look: readthemarket.com/index.php/en/forum/jou...nal?start=2225#69522
+FA: به نظر من این یک CAN CAN نیست؛ فکر می‌کنم باید به مقالات Markpedia برگردی--> readthemarket.com/index.php/en/lb-topmen...h-rtm/488-the-cancan
+
+Can can (مثال برای یک can can نزولی): -واکنش به UFL واقعی -اینگالفِ یک LFL معتبر -اصلاح به شکل فشرده به سمت واکنشی که منجر به اینگالف شد
+
+امروز صبح چیزی را پست کردم که ممکن است واقعاً یک can can در حال شکل‌گیری روی EJ باشد (دست‌کم حسابی در مسیرش هست)، شاید بخواهی نگاهی بیندازی: readthemarket.com/index.php/en/forum/jou...nal?start=2225#69522
+--- jc_p2_32 author=reaq hash=0e6e28b8
+EN: HCDE, thanks for the reply. Still complicated to me as it involved the concept of EG/UFL/LFL which could be subjective. From other member's posts, I saw too many debate on which FL to get engulfed for correct analysis which could result in higher margin for error. Maybe years of experience needed to draw it correctly so one could finally frame the analysis on the wall but not for me.
+
+I'm trying to refine my trading style by keeping it stupidly simple as a SD trader. So far, I feel this CP concept could already give me an Edge higher than trying to trade Sam's SD method.
+
+Refer to the example below. Potential entry at yellow MPL of FL/CAPs. The big red circle is a CP in HTF encapsulating all the smaller CP within it.
+
+Summary of my CP understanding so far: - CP could gives us clear TG at the origin of CP - Zooming in to LTF MPL for entry give us SL tighter than a virgin T-Rex. - The result is insane RR!
+FA: HCDE، ممنون بابت پاسخ. هنوز برایم پیچیده است چون مفهوم EG/UFL/LFL را درگیر می‌کند که می‌تواند سلیقه‌ای باشد. از پست‌های اعضای دیگر، بحث‌های زیادی دیدم دربارهٔ اینکه کدام FL باید اینگالف شود تا تحلیل درست باشد، که می‌تواند حاشیهٔ خطای بیشتری ایجاد کند. شاید سال‌ها تجربه لازم باشد تا آن را درست رسم کنی و عاقبت بتوانی تحلیل را قاب بگیری و به دیوار بزنی؛ اما این کار من نیست.
+
+دارم سعی می‌کنم سبک معامله‌گری‌ام را به‌عنوان یک معامله‌گر SD، با به‌شدت ساده نگه‌داشتنش بهتر کنم. تا اینجا، احساس می‌کنم همین مفهوم CP می‌تواند مزیتی بالاتر از تلاش برای معامله با روش SD Sam به من بدهد.
+
+به مثال زیر مراجعه کن. ورود بالقوه در MPL زردِ FL/CAPs. دایرهٔ قرمز بزرگ یک CP در تایم‌فریم بالاتر است که همهٔ نواحی CP کوچک‌تر داخل آن را دربر می‌گیرد.
+
+خلاصهٔ درک من از CP تا اینجا: - CP می‌تواند TG روشنی در مبدأ CP به ما بدهد - زوم به MPL در تایم‌فریم پایین‌تر برای ورود، استاپ‌لاسی به ما می‌دهد که از یک T-Rex باکره هم تنگ‌تر است. - نتیجه‌اش RR دیوانه‌وار است!
+--- jc_p2_33 author=reaq hash=484c7476
+EN: Today's setup.
+
+Entry at KINK of D (SR Flip). Potential MPL still below though...
+FA: ستاپ امروز.
+
+ورود در KINKِ D (SR Flip). هرچند MPL بالقوه هنوز پایین‌تر است...
+--- jc_p2_34 author=reaq hash=e3e0d12f
+EN: TG hit for potential 8RR!
+FA: TG خورد؛ پتانسیل 8RR!
+--- jc_p2_35 author=HCDE hash=90c6fa3a
+EN: Alright... It indeed is subjective, that's why RTM stuffs are an art as much as a science and require thousands hours of study. If you feel comfortable with CP though it's good it's a great tool i tend to use more and more often. Maybe you already saw IF's September 2016 about it?
+
+I have a good recent example on EC of the use that can be made of CP to predict reversal. I was waiting for that trade but missed it because i didn't see the compression forming and be broken into at that time (morning before my fifth coffee) but this was definitely legit.
+
+Same thinking behind a trade that i took some weeks ago on UC. It's very powerful when you see it properly.
+FA: باشه... واقعاً سلیقه‌ای است، برای همین مطالب RTM به‌اندازهٔ یک علم، یک هنر هم هستند و به هزاران ساعت مطالعه نیاز دارند. اما اگر با CP راحت هستی، خوب است؛ ابزار فوق‌العاده‌ای است که من بیشتر و بیشتر ازش استفاده می‌کنم. شاید مطلب IF در September 2016 دربارهٔ آن را قبلاً دیده باشی؟
+
+یک مثال خوب اخیر روی EC دارم از استفاده‌ای که می‌شود از CP برای پیش‌بینی برگشت کرد. منتظر آن معامله بودم اما از دستش دادم چون آن موقع شکل‌گیری فشردگی و ورود قیمت به داخل آن با شکست را ندیدم (صبح، قبل از قهوهٔ پنجمم) اما این قطعاً معتبر بود.
+
+همین تفکر پشت معامله‌ای است که چند هفته پیش روی UC گرفتم. وقتی درست ببینی‌اش خیلی قدرتمند است.
+--- jc_p2_36 author=reaq hash=633a9ed7
+EN: HCDE, thank you for your detailed reply with super duper simple charts which even my grandmother could understand. At least now I could start to use EG into CP concept to enhance my analysis.
+
+You mentioned about IF's Septermber 2016. I tried digging this info in IF thread and found this webinar posted:
+
+Are you referring to this video?
+
+Happy weekend and looking forward to more of your grandma-friendly charts HCDE!
+FA: HCDE، ممنون بابت پاسخ دقیقت با چارت‌های فوق‌العاده ساده که حتی مادربزرگ من هم می‌توانست بفهمد. دست‌کم الان می‌توانم شروع کنم به استفاده از مفهوم EG به داخل CP برای تقویت تحلیلم.
+
+به مطلب IF در September 2016 اشاره کردی. سعی کردم این اطلاعات را در تاپیک IF پیدا کنم و این وبینار پست‌شده را یافتم:
+
+منظورت این ویدئو است؟
+
+آخر هفتهٔ خوبی داشته باشی و مشتاقم چارت‌های مادربزرگ‌پسند بیشتری از تو ببینم HCDE!
+--- jc_p2_37 author=HCDE hash=76b943a4
+EN: Hi! This one is the first of three webinars, i was talking about the third one:
+
+Regards,
+FA: سلام! این اولی از سه وبینار است، من دربارهٔ سومی صحبت می‌کردم:
+
+با احترام،

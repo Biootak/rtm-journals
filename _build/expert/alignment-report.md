@@ -1,0 +1,321 @@
+# Whole-corpus edition audit
+
+Generated 2026-11-11T19:38:32.333Z over 33975 unique posts in 1484 pages.
+
+| check | count |
+|---|---|
+| acronym-zwnj | 830 |
+| latin-weld | 390 |
+| head-count | 50 |
+| anchor-missing | 45 |
+| duplicate-para | 44 |
+| url-missing | 27 |
+| head-added | 27 |
+| head-missing | 24 |
+| punctuation-runs | 22 |
+| head-changed | 9 |
+| anchor-moved | 5 |
+
+## Findings
+
+- 3drive-p1 3drive_p1_18 — **head-count**: EN 1 [whiteout] vs FA 2 [whiteout, funny]
+- 3drive-p7 3drive_p7_172 — **latin-weld**
+- aboutcompression-p1 aboutcompression_p1_48 — **acronym-zwnj**
+- aboutcompression-p1 aboutcompression_p1_49 — **acronym-zwnj**
+- aboutcompression-p10 aboutcompression_p10_269 — **acronym-zwnj**
+- aboutcompression-p12 aboutcompression_p12_302 — **acronym-zwnj**
+- aboutcompression-p14 aboutcompression_p14_358 — **acronym-zwnj**
+- aboutcompression-p14 aboutcompression_p14_370 — **acronym-zwnj**
+- aboutcompression-p16 aboutcompression_p16_419 — **url-missing**: www.acegazette.com/en/community/ace-foru...out-compression.htmland
+- aboutcompression-p16 aboutcompression_p16_419 — **anchor-missing**: p2: www.acegazette.com/en/community/ace-foru...out-compression.htmland
+- aboutcompression-p2 aboutcompression_p2_53 — **url-missing**: www.acegazette.com/en/community/jomsocia...-rbd-at-sr-flip.html
+- aboutcompression-p2 aboutcompression_p2_57 — **url-missing**: www.acegazette.com/en/community/jomsocia...-rbd-at-sr-flip.html
+- aboutcompression-p22 aboutcompression_p22_572 — **acronym-zwnj**
+- aboutcompression-p22 aboutcompression_p22_573 — **acronym-zwnj**
+- aboutcompression-p23 aboutcompression_p23_577 — **latin-weld**
+- aboutcompression-p23 aboutcompression_p23_583 — **acronym-zwnj**
+- aboutcompression-p24 aboutcompression_p24_611 — **acronym-zwnj**
+- aboutcompression-p24 aboutcompression_p24_612 — **acronym-zwnj**
+- aboutcompression-p29 aboutcompression_p29_748 — **acronym-zwnj**
+- aboutcompression-p33 aboutcompression_p33_831 — **acronym-zwnj**
+- aboutcompression-p33 aboutcompression_p33_844 — **acronym-zwnj**
+- aboutcompression-p34 aboutcompression_p34_856 — **acronym-zwnj**
+- aboutcompression-p34 aboutcompression_p34_857 — **acronym-zwnj**
+- aboutcompression-p34 aboutcompression_p34_858 — **acronym-zwnj**
+- aboutcompression-p34 aboutcompression_p34_860 — **acronym-zwnj**
+- aboutcompression-p34 aboutcompression_p34_862 — **acronym-zwnj**
+- aboutcompression-p34 aboutcompression_p34_863 — **acronym-zwnj**
+- aboutcompression-p35 aboutcompression_p35_878 — **acronym-zwnj**
+- aboutcompression-p36 aboutcompression_p36_910 — **acronym-zwnj**
+- aboutcompression-p36 aboutcompression_p36_912 — **acronym-zwnj**
+- aboutcompression-p37 aboutcompression_p37_926 — **acronym-zwnj**
+- aboutcompression-p37 aboutcompression_p37_941 — **acronym-zwnj**
+- aboutcompression-p40 aboutcompression_p40_1011 — **acronym-zwnj**
+- aboutcompression-p41 aboutcompression_p41_1036 — **acronym-zwnj**
+- aboutcompression-p41 aboutcompression_p41_1037 — **acronym-zwnj**
+- aboutcompression-p43 aboutcompression_p43_1079 — **acronym-zwnj**
+- aboutcompression-p47 aboutcompression_p47_1186 — **acronym-zwnj**
+- aboutcompression-p47 aboutcompression_p47_1187 — **acronym-zwnj**
+- aboutcompression-p47 aboutcompression_p47_1194 — **acronym-zwnj**
+- aboutcompression-p47 aboutcompression_p47_1200 — **acronym-zwnj**
+- aboutcompression-p48 aboutcompression_p48_1223 — **acronym-zwnj**
+- aboutcompression-p48 aboutcompression_p48_1224 — **acronym-zwnj**
+- aboutcompression-p49 aboutcompression_p49_1226 — **acronym-zwnj**
+- aboutcompression-p49 aboutcompression_p49_1240 — **acronym-zwnj**
+- aboutcompression-p49 aboutcompression_p49_1246 — **acronym-zwnj**
+- aboutcompression-p5 aboutcompression_p5_133 — **acronym-zwnj**
+- aboutcompression-p50 aboutcompression_p50_1257 — **acronym-zwnj**
+- aboutcompression-p50 aboutcompression_p50_1258 — **acronym-zwnj**
+- aboutcompression-p50 aboutcompression_p50_1266 — **acronym-zwnj**
+- aboutcompression-p6 aboutcompression_p6_175 — **acronym-zwnj**
+- aboutcompression-p7 aboutcompression_p7_199 — **acronym-zwnj**
+- academylite2-p2 academylite2_p2_48 — **url-missing**: www.fxtop.comis
+- academylite2-p2 academylite2_p2_48 — **anchor-missing**: p2: www.fxtop.comis
+- alex-p15 alex_p15_363 — **acronym-zwnj**
+- alex-p16 alex_p16_383 — **acronym-zwnj**
+- alex-p22 alex_p22_544 — **acronym-zwnj**
+- alex-p22 alex_p22_545 — **acronym-zwnj**
+- alex-p29 alex_p29_707 — **acronym-zwnj**
+- alex-p29 alex_p29_708 — **acronym-zwnj**
+- alex-p33 alex_p33_816 — **acronym-zwnj**
+- amit-p10 amit_p10_234 — **acronym-zwnj**
+- amit-p11 amit_p11_264 — **latin-weld**
+- amit-p11 amit_p11_267 — **latin-weld**
+- amit-p13 amit_p13_301 — **acronym-zwnj**
+- amit-p14 amit_p14_339 — **latin-weld**
+- amit-p15 amit_p15_362 — **latin-weld**
+- amit-p15 amit_p15_363 — **latin-weld**
+- amit-p15 amit_p15_368 — **latin-weld**
+- amit-p21 amit_p21_504 — **acronym-zwnj**
+- amit-p7 amit_p7_175 — **acronym-zwnj**
+- amit-p8 amit_p8_185 — **acronym-zwnj**
+- amit-p8 amit_p8_190 — **acronym-zwnj**
+- amit-p8 amit_p8_193 — **acronym-zwnj**
+- art-p1 art_p1_10 — **latin-weld**
+- art-p1 art_p1_20 — **acronym-zwnj**
+- art-p1 art_p1_24 — **latin-weld**
+- art-p13 art_p13_303 — **url-missing**: www.forexmt4.com/mt_yahoo/Alerter4U.zip?
+- art-p13 art_p13_303 — **anchor-missing**: p1: www.forexmt4.com/mt_yahoo/Alerter4U.zip?
+- art-p14 art_p14_333 — **latin-weld**
+- art-p14 art_p14_334 — **latin-weld**
+- art-p14 art_p14_342 — **latin-weld**
+- art-p14 art_p14_346 — **latin-weld**
+- art-p5 art_p5_108 — **latin-weld**
+- art-p5 art_p5_111 — **latin-weld**
+- art-p5 art_p5_114 — **latin-weld**
+- art-p5 art_p5_117 — **latin-weld**
+- art-p5 art_p5_119 — **latin-weld**
+- art-p5 art_p5_122 — **latin-weld**
+- art-p5 art_p5_123 — **latin-weld**
+- art-p7 art_p7_167 — **url-missing**: www.tradingview.comusing
+- art-p7 art_p7_167 — **anchor-missing**: p3: www.tradingview.comusing
+- astrokillah-p19 astrokillah_p19_453 — **acronym-zwnj**
+- astrokillah-p19 astrokillah_p19_458 — **acronym-zwnj**
+- astrokillah-p19 astrokillah_p19_459 — **acronym-zwnj**
+- cancan-p2 cancan_p2_38 — **duplicate-para**: p1 = p4
+- capnp-p1 capnp_p1_21 — **punctuation-runs**
+- classroom-p10 classroom_p10_226 — **acronym-zwnj**
+- classroom-p10 classroom_p10_238 — **acronym-zwnj**
+- classroom-p10 classroom_p10_242 — **acronym-zwnj**
+- classroom-p10 classroom_p10_248 — **acronym-zwnj**
+- classroom-p11 classroom_p11_252 — **acronym-zwnj**
+- classroom-p11 classroom_p11_256 — **acronym-zwnj**
+- classroom-p12 classroom_p12_292 — **url-missing**: www.tradingview.com/-
+- classroom-p12 classroom_p12_292 — **anchor-missing**: p1: www.tradingview.com/-
+- classroom-p19 classroom_p19_453 — **head-count**: EN 1 [tradingjedi] vs FA 2 [Cosmo, tradingjedi]
+- classroom-p19 classroom_p19_453 — **head-added**: p1: Cosmo
+- classroom-p2 classroom_p2_33 — **acronym-zwnj**
+- classroom-p20 classroom_p20_478 — **acronym-zwnj**
+- classroom-p20 classroom_p20_482 — **acronym-zwnj**
+- classroom-p20 classroom_p20_496 — **latin-weld**
+- classroom-p21 classroom_p21_509 — **acronym-zwnj**
+- classroom-p22 classroom_p22_528 — **acronym-zwnj**
+- classroom-p22 classroom_p22_531 — **latin-weld**
+- classroom-p23 classroom_p23_558 — **acronym-zwnj**
+- classroom-p23 classroom_p23_563 — **acronym-zwnj**
+- classroom-p23 classroom_p23_575 — **acronym-zwnj**
+- classroom-p25 classroom_p25_625 — **acronym-zwnj**
+- classroom-p27 classroom_p27_675 — **acronym-zwnj**
+- classroom-p3 classroom_p3_74 — **head-count**: EN 1 [Rosa] vs FA 2 [Alientrader, Rosa]
+- classroom-p3 classroom_p3_74 — **head-added**: p1: Alientrader
+- classroom-p30 classroom_p30_736 — **latin-weld**
+- classroom-p30 classroom_p30_738 — **head-count**: EN 0 [] vs FA 1 [pres78]
+- classroom-p30 classroom_p30_738 — **head-added**: p1: pres78
+- classroom-p30 classroom_p30_740 — **head-count**: EN 0 [] vs FA 1 [pres78]
+- classroom-p30 classroom_p30_740 — **head-added**: p1: pres78
+- classroom-p30 classroom_p30_747 — **latin-weld**
+- classroom-p30 classroom_p30_748 — **latin-weld**
+- classroom-p33 classroom_p33_810 — **latin-weld**
+- classroom-p34 classroom_p34_828 — **acronym-zwnj**
+- classroom-p34 classroom_p34_829 — **latin-weld**
+- classroom-p34 classroom_p34_837 — **latin-weld**
+- classroom-p35 classroom_p35_853 — **acronym-zwnj**
+- classroom-p35 classroom_p35_866 — **acronym-zwnj**
+- classroom-p36 classroom_p36_885 — **latin-weld**
+- classroom-p36 classroom_p36_886 — **latin-weld**
+- classroom-p36 classroom_p36_887 — **latin-weld**
+- classroom-p36 classroom_p36_888 — **latin-weld**
+- classroom-p36 classroom_p36_889 — **latin-weld**
+- classroom-p37 classroom_p37_909 — **acronym-zwnj**
+- classroom-p38 classroom_p38_940 — **acronym-zwnj**
+- classroom-p38 classroom_p38_948 — **acronym-zwnj**
+- classroom-p39 classroom_p39_969 — **acronym-zwnj**
+- classroom-p4 classroom_p4_99 — **head-added**: p1: Ifmyante
+- classroom-p4 classroom_p4_99 — **head-missing**: p2: Ifmyante
+- classroom-p4 classroom_p4_99 — **anchor-moved**: p2: Ifmyante
+- classroom-p40 classroom_p40_989 — **acronym-zwnj**
+- classroom-p40 classroom_p40_993 — **acronym-zwnj**
+- classroom-p40 classroom_p40_997 — **latin-weld**
+- classroom-p40 classroom_p40_998 — **latin-weld**
+- classroom-p41 classroom_p41_1002 — **latin-weld**
+- classroom-p41 classroom_p41_1004 — **latin-weld**
+- classroom-p41 classroom_p41_1025 — **latin-weld**
+- classroom-p42 classroom_p42_1027 — **latin-weld**
+- classroom-p42 classroom_p42_1028 — **latin-weld**
+- classroom-p42 classroom_p42_1030 — **latin-weld**
+- classroom-p42 classroom_p42_1031 — **acronym-zwnj**
+- classroom-p42 classroom_p42_1041 — **latin-weld**
+- classroom-p42 classroom_p42_1045 — **acronym-zwnj**
+- classroom-p43 classroom_p43_1060 — **latin-weld**
+- classroom-p43 classroom_p43_1064 — **acronym-zwnj**
+- classroom-p43 classroom_p43_1066 — **latin-weld**
+- classroom-p43 classroom_p43_1067 — **acronym-zwnj**
+- classroom-p43 classroom_p43_1072 — **latin-weld**
+- classroom-p43 classroom_p43_1075 — **acronym-zwnj**
+- classroom-p45 classroom_p45_1105 — **acronym-zwnj**
+- classroom-p45 classroom_p45_1114 — **latin-weld**
+- classroom-p45 classroom_p45_1121 — **latin-weld**
+- classroom-p45 classroom_p45_1122 — **acronym-zwnj**
+- classroom-p46 classroom_p46_1126 — **latin-weld**
+- classroom-p46 classroom_p46_1128 — **acronym-zwnj**
+- classroom-p46 classroom_p46_1131 — **acronym-zwnj**
+- classroom-p46 classroom_p46_1140 — **acronym-zwnj**
+- classroom-p46 classroom_p46_1142 — **latin-weld**
+- classroom-p46 classroom_p46_1144 — **acronym-zwnj**
+- classroom-p46 classroom_p46_1145 — **acronym-zwnj**
+- classroom-p46 classroom_p46_1146 — **acronym-zwnj**
+- classroom-p46 classroom_p46_1148 — **latin-weld**
+- classroom-p48 classroom_p48_1179 — **latin-weld**
+- classroom-p48 classroom_p48_1181 — **latin-weld**
+- classroom-p48 classroom_p48_1182 — **punctuation-runs**
+- classroom-p48 classroom_p48_1182 — **acronym-zwnj**
+- classroom-p48 classroom_p48_1184 — **latin-weld**
+- classroom-p48 classroom_p48_1190 — **acronym-zwnj**
+- classroom-p48 classroom_p48_1192 — **latin-weld**
+- classroom-p48 classroom_p48_1195 — **acronym-zwnj**
+- classroom-p48 classroom_p48_1196 — **latin-weld**
+- classroom-p48 classroom_p48_1199 — **acronym-zwnj**
+- classroom-p48 classroom_p48_1200 — **latin-weld**
+- classroom-p7 classroom_p7_151 — **acronym-zwnj**
+- classroom-p9 classroom_p9_205 — **head-count**: EN 0 [] vs FA 1 [Link]
+- classroom-p9 classroom_p9_205 — **head-added**: p1: Link
+- classroom-p9 classroom_p9_210 — **acronym-zwnj**
+- classroom-p9 classroom_p9_211 — **head-count**: EN 2 [jogold24, jogold24] vs FA 3 [Harry, jogold24, jogold24]
+- classroom-p9 classroom_p9_211 — **head-changed**: p1: jogold24 → Harry
+- classroom-p9 classroom_p9_212 — **head-count**: EN 0 [] vs FA 1 [Hotochin]
+- classroom-p9 classroom_p9_212 — **head-added**: p1: Hotochin
+- constantine-p1 constantine_p1_16 — **acronym-zwnj**
+- constantine-p1 constantine_p1_17 — **acronym-zwnj**
+- constantine-p2 constantine_p2_31 — **head-count**: EN 0 [] vs FA 1 [Ifmyante]
+- constantine-p2 constantine_p2_31 — **head-added**: p1: Ifmyante
+- constantine-p2 constantine_p2_35 — **acronym-zwnj**
+- constantine-p2 constantine_p2_45 — **head-count**: EN 0 [] vs FA 1 [Rinehart]
+- constantine-p2 constantine_p2_45 — **head-added**: p1: Rinehart
+- constantine-p3 constantine_p3_66 — **acronym-zwnj**
+- constantine-p3 constantine_p3_72 — **punctuation-runs**
+- constantine-p5 constantine_p5_119 — **head-count**: EN 0 [] vs FA 1 [Edge]
+- constantine-p5 constantine_p5_119 — **head-added**: p1: Edge
+- dbrrbd-p14 dbrrbd_p14_326 — **url-missing**: www.acegazette.com/en/community/ace-foru....html?start=375#8342
+- dbrrbd-p14 dbrrbd_p14_348 — **acronym-zwnj**
+- dbrrbd-p19 dbrrbd_p19_458 — **latin-weld**
+- dbrrbd-p19 dbrrbd_p19_462 — **latin-weld**
+- dbrrbd-p19 dbrrbd_p19_464 — **acronym-zwnj**
+- dbrrbd-p19 dbrrbd_p19_466 — **latin-weld**
+- dbrrbd-p2 dbrrbd_p2_41 — **acronym-zwnj**
+- dbrrbd-p20 dbrrbd_p20_478 — **latin-weld**
+- dbrrbd-p20 dbrrbd_p20_484 — **latin-weld**
+- dbrrbd-p20 dbrrbd_p20_487 — **latin-weld**
+- dbrrbd-p20 dbrrbd_p20_489 — **latin-weld**
+- dbrrbd-p22 dbrrbd_p22_536 — **latin-weld**
+- dbrrbd-p22 dbrrbd_p22_546 — **latin-weld**
+- dbrrbd-p26 dbrrbd_p26_628 — **acronym-zwnj**
+- dbrrbd-p26 dbrrbd_p26_630 — **acronym-zwnj**
+- dbrrbd-p26 dbrrbd_p26_631 — **latin-weld**
+- dbrrbd-p26 dbrrbd_p26_634 — **acronym-zwnj**
+- dbrrbd-p26 dbrrbd_p26_639 — **latin-weld**
+- dbrrbd-p26 dbrrbd_p26_640 — **latin-weld**
+- dbrrbd-p26 dbrrbd_p26_649 — **latin-weld**
+- dbrrbd-p27 dbrrbd_p27_651 — **latin-weld**
+- dbrrbd-p27 dbrrbd_p27_671 — **latin-weld**
+- dbrrbd-p27 dbrrbd_p27_672 — **latin-weld**
+- dbrrbd-p27 dbrrbd_p27_674 — **latin-weld**
+- dbrrbd-p28 dbrrbd_p28_677 — **latin-weld**
+- dbrrbd-p29 dbrrbd_p29_704 — **latin-weld**
+- dbrrbd-p29 dbrrbd_p29_705 — **latin-weld**
+- dbrrbd-p29 dbrrbd_p29_720 — **duplicate-para**: p2 = p7
+- dbrrbd-p31 dbrrbd_p31_768 — **latin-weld**
+- dbrrbd-p31 dbrrbd_p31_774 — **acronym-zwnj**
+- dbrrbd-p31 dbrrbd_p31_775 — **acronym-zwnj**
+- dbrrbd-p33 dbrrbd_p33_822 — **acronym-zwnj**
+- dbrrbd-p36 dbrrbd_p36_888 — **acronym-zwnj**
+- dbrrbd-p38 dbrrbd_p38_927 — **acronym-zwnj**
+- dbrrbd-p38 dbrrbd_p38_934 — **acronym-zwnj**
+- dbrrbd-p40 dbrrbd_p40_985 — **acronym-zwnj**
+- dbrrbd-p56 dbrrbd_p56_1376 — **acronym-zwnj**
+- dbrrbd-p56 dbrrbd_p56_1379 — **acronym-zwnj**
+- dbrrbd-p56 dbrrbd_p56_1381 — **acronym-zwnj**
+- dbrrbd-p56 dbrrbd_p56_1387 — **acronym-zwnj**
+- dbrrbd-p58 dbrrbd_p58_1434 — **acronym-zwnj**
+- dbrrbd-p60 dbrrbd_p60_1487 — **acronym-zwnj**
+- dbrrbd-p60 dbrrbd_p60_1488 — **acronym-zwnj**
+- dbrrbd-p61 dbrrbd_p61_1501 — **acronym-zwnj**
+- dbrrbd-p64 dbrrbd_p64_1583 — **acronym-zwnj**
+- dbrrbd-p64 dbrrbd_p64_1584 — **latin-weld**
+- dbrrbd-p64 dbrrbd_p64_1597 — **punctuation-runs**
+- dbrrbd-p65 dbrrbd_p65_1623 — **acronym-zwnj**
+- dbrrbd-p9 dbrrbd_p9_211 — **acronym-zwnj**
+- dbrrbd-p9 dbrrbd_p9_214 — **acronym-zwnj**
+- dbrrbd-p9 dbrrbd_p9_217 — **acronym-zwnj**
+- dbrrbd-p9 dbrrbd_p9_219 — **acronym-zwnj**
+- diamond-p10 diamond_p10_234 — **acronym-zwnj**
+- diamond-p3 diamond_p3_68 — **acronym-zwnj**
+- diamond-p6 diamond_p6_134 — **latin-weld**
+- doctorpatient-p1 doctorpatient_p1_1 — **latin-weld**
+- doctorpatient-p1 doctorpatient_p1_9 — **latin-weld**
+- doctorpatient-p1 doctorpatient_p1_13 — **latin-weld**
+- doctorpatient-p1 doctorpatient_p1_17 — **latin-weld**
+- doctorpatient-p1 doctorpatient_p1_22 — **acronym-zwnj**
+- doctorpatient-p1 doctorpatient_p1_24 — **latin-weld**
+- doctorpatient-p10 doctorpatient_p10_227 — **head-count**: EN 0 [] vs FA 1 [Doctor]
+- doctorpatient-p10 doctorpatient_p10_227 — **head-added**: p1: Doctor
+- doctorpatient-p10 doctorpatient_p10_230 — **latin-weld**
+- doctorpatient-p10 doctorpatient_p10_232 — **url-missing**: www.acegazette.com/en/community/ace-foru....html?start=175#4314
+- doctorpatient-p10 doctorpatient_p10_239 — **latin-weld**
+- doctorpatient-p10 doctorpatient_p10_240 — **latin-weld**
+- doctorpatient-p10 doctorpatient_p10_241 — **latin-weld**
+- doctorpatient-p10 doctorpatient_p10_243 — **latin-weld**
+- doctorpatient-p10 doctorpatient_p10_244 — **latin-weld**
+- doctorpatient-p10 doctorpatient_p10_245 — **latin-weld**
+- doctorpatient-p11 doctorpatient_p11_251 — **latin-weld**
+- doctorpatient-p11 doctorpatient_p11_258 — **latin-weld**
+- doctorpatient-p11 doctorpatient_p11_259 — **latin-weld**
+- doctorpatient-p11 doctorpatient_p11_267 — **latin-weld**
+- doctorpatient-p11 doctorpatient_p11_268 — **latin-weld**
+- doctorpatient-p11 doctorpatient_p11_269 — **latin-weld**
+- doctorpatient-p11 doctorpatient_p11_270 — **latin-weld**
+- doctorpatient-p11 doctorpatient_p11_272 — **latin-weld**
+- doctorpatient-p11 doctorpatient_p11_274 — **latin-weld**
+- doctorpatient-p12 doctorpatient_p12_280 — **latin-weld**
+- doctorpatient-p12 doctorpatient_p12_298 — **latin-weld**
+- doctorpatient-p14 doctorpatient_p14_334 — **latin-weld**
+- doctorpatient-p14 doctorpatient_p14_338 — **latin-weld**
+- doctorpatient-p14 doctorpatient_p14_340 — **latin-weld**
+- doctorpatient-p14 doctorpatient_p14_342 — **latin-weld**
+- doctorpatient-p14 doctorpatient_p14_344 — **latin-weld**
+- doctorpatient-p14 doctorpatient_p14_350 — **latin-weld**
+- doctorpatient-p15 doctorpatient_p15_352 — **latin-weld**
+- doctorpatient-p15 doctorpatient_p15_355 — **latin-weld**
+- doctorpatient-p15 doctorpatient_p15_356 — **latin-weld**
+- doctorpatient-p15 doctorpatient_p15_360 — **latin-weld**
+- doctorpatient-p15 doctorpatient_p15_366 — **latin-weld**
+- … 1173 more (see JSON)

@@ -1,0 +1,54 @@
+===== bsz-p5 : 11 posts =====
+--- bsz_p5_101 author=lv5758 hash=7e1638d3
+EN: Another example
+FA: یک نمونهٔ دیگر
+--- bsz_p5_102 author=Ifmyante hash=c526a7e8
+EN: That's a beauty!
+FA: این یکی زیباست!
+--- bsz_p5_103 author=Frosty hash=13b681b5
+EN: A noob's try at a BSZ example.
+
+The two obvious highs look super suspicious
+FA: تلاش یک تازه‌کار برای نمونهٔ BSZ.
+
+آن دو سقف واضح خیلی مشکوک به نظر می‌رسند
+--- bsz_p5_104 author=staurum hash=ad3e5e64
+EN: exactly, put a line on that LS, and see on HTF (Weekly, Monthly) zoomed out.
+FA: دقیقاً، یک خط روی همان LS بگذار و روی تایم‌فریم بالاتر (هفتگی، ماهانه) با دید بازتر نگاه کن.
+--- bsz_p5_106 author=bobyv87 hash=bd0cc27d
+EN: Be aware of these possible scenarios, Staurum. All my orange lines are possible BSZ. My safe SL it would be above the entire kink, where the dotted green line is. We have two scenarios: If price fill your BSZ before it hit the MPL of a kink, you should consider it gone in this scale. I would prefer the blue scenario, but if the black one happen, then i should be aware of every orange BSZ lines
+
+staurum wrote:
+FA: مراقب این سناریوهای ممکن باش، Staurum. همهٔ خطوط نارنجی من BSZ بالقوه‌اند. استاپ‌لاس امن من بالای کل شکستگی خواهد بود، همان‌جا که خط سبز خط‌چین است. دو سناریو داریم: اگر قیمت BSZ تو را پر کند پیش از آنکه به MPL یک شکستگی برسد، باید آن را در این مقیاس از دست‌رفته بدانی. سناریوی آبی را ترجیح می‌دهم، اما اگر سناریوی مشکی رخ دهد، باید حواسم به تمام BSZهای نارنجی باشد
+
+staurum نوشت:
+--- bsz_p5_107 author=Kavya hash=12a9c143
+EN: Look for tricks being played on approach to a place where a trick was played, and you'll find where price will turn.= BSZ(one among many trick of ITs)
+FA: دنبال ترفندهایی بگرد که هنگام نزدیک شدن به جایی اجرا می‌شود که قبلاً در آن ترفندی اجرا شده؛ همان‌جا نقطهٔ چرخش قیمت را پیدا می‌کنی. = BSZ (یکی از ترفندهای متعدد ITها)
+--- bsz_p5_108 author=billmac3 hash=598a945f
+EN: Here's an example of a 'failed' BSZ, but if you played it correctly, you didn't lose on the trade. Enter at MPL, TG1 at BSZ. Stop was 6 pips, TG1 = 14. Thanks
+FA: این نمونه‌ای از یک BSZ «ناموفق» است، اما اگر درست بازی می‌کردی، در معامله ضرر نمی‌دادی. ورود در MPL، TG1 در BSZ. استاپ 6 پیپ بود، TG1 برابر 14. ممنون
+--- bsz_p5_109 author=Ifmyante hash=2957dcc8
+EN: I don't see that as a failed BSZ. It did exactly what it was supposed to do: hit the BS SR. A perfect example!
+
+But I'm just saying this to avoid confusion for future readers. I'm sure you meant it failed to reverse price back through the range above
+
+Nicely spotted
+FA: من آن را یک BSZ شکست‌خورده نمی‌دانم. دقیقاً همان کاری را کرد که باید می‌کرد: به BS SR خورد. یک نمونهٔ عالی!
+
+اما این را فقط می‌گویم تا خوانندگان بعدی گیج نشوند. مطمئنم منظورت این بود که نتوانست قیمت را از محدودهٔ بالای آن برگرداند
+
+خوب دیدی
+--- bsz_p5_110 author=moneydeep hash=79ca629c
+EN: Continuing with marketpedia and doing some BS Homework They are in all timeframes even m1 I did mis a couple they are everywhere.
+FA: در حال ادامه دادن با marketpedia و انجام چند تکلیف BS. در همهٔ تایم‌فریم‌ها هستند، حتی m1. یکی دو مورد را از دست دادم، همه‌جا هستند.
+--- bsz_p5_111 author=dkd11 hash=8c167f73
+EN: hey everyone it's BSZ?
+FA: سلام به همه، این BSZ است؟
+--- bsz_p5_112 author=protrader2121 hash=921a737f
+EN: Is the area marked with yellow a BSZ?
+
+Trading Articles discussions
+FA: آیا ناحیه‌ای که با زرد علامت خورده BSZ است؟
+
+بحث‌های مقالات ترید

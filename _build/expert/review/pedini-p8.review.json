@@ -1,0 +1,14 @@
+{
+  "pedini_p8_7": {
+    "ok": false,
+    "issue": "idiom calque",
+    "why": "EN 'I hope someone else caught this cracker' means 'I hope someone else caught this excellent trade'; the FA keeps the English slang word as «کراکر» (a biscuit/firecracker), which carries no trade meaning for a Persian reader, so the compliment is lost.",
+    "fix": "الان ساعت 5:30 صبح است و دارم برای آخر هفتهٔ طولانی راهی مزرعه می‌شوم. این باید حالم را خوب نگه دارد!\n\nامیدوارم یکی دیگر هم این شکار عالی را گرفته باشد!"
+  },
+  "pedini_p8_8": {
+    "ok": false,
+    "issue": "idiom calque (repeated quote)",
+    "why": "EN 'I hope someone else caught this cracker' means 'I hope someone else caught this excellent trade'; the FA keeps the English slang word as «کراکر» (a biscuit/firecracker), which carries no trade meaning for a Persian reader, so the compliment is lost. The quoted copy inside this post repeats the same calque and must be fixed with it.",
+    "fix": "Pedini نوشت: الان ساعت 5:30 صبح است و دارم برای آخر هفتهٔ طولانی راهی مزرعه می‌شوم. این باید حالم را خوب نگه دارد!\n\nامیدوارم یکی دیگر هم این شکار عالی را گرفته باشد!\n\nسلام P!\n\nآن QM و کپ روی قیمت را خوب گرفتی. تقریباً مثل این است که دو تا به قیمت یکی برده باشی!\n\nH"
+  }
+}

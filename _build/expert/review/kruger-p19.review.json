@@ -1,0 +1,12 @@
+{
+  "kruger_p19_22": {
+    "ok": false,
+    "issue": "British slang intensifier 'bloody' rendered literally as «خون‌آلود» (blood-covered), asserting a blood image that is not in the source; reads as nonsense to a native reader.",
+    "fix": "من فقط دیوانه‌وار عاشق این چیزها هستم! ~^o^~"
+  },
+  "kruger_p19_24": {
+    "ok": false,
+    "issue": "Same literal calque of 'bloody' as «خون‌آلود» (blood-covered) inside Pedini's quoted line; must match the corrected wording and keep the quote head Latin.",
+    "fix": "Pedini نوشت: من فقط دیوانه‌وار عاشق این چیزها هستم! ~^o^~ /"
+  }
+}

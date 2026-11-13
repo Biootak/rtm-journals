@@ -1,0 +1,16 @@
+##### whynotwork_p1_16 0
+Here's how I see it, hope the chart makes sense. Personally I like looking for the swapped FLs. If you looked at it that way, then the FL you drew wouldn't have been the significant one. Also if you're unsure, you can wait for confirmation, which it gave beautifully. I wouldn't have known this is where would have turned lower, as it looks like there might be more orders above, so I would have taken TG1 around 1.80000 and hope that will just continue down.
+##### whynotwork_p1_17 0
+Thanks fxeyes for that. Its making a little sense but its still confusing. From what I understand, you have marked FL at 4 timeframes - 1H, 15M, 4M, 1M. You have used 3 colored boxes - blue, red, green - what does that signify? Also, what do you mean by you look only at swapped FLs?
+##### whynotwork_p1_18 0
+khivraj wrote: Thanks fxeyes for that. Its making a little sense but its still confusing. From what I understand, you have marked FL at 4 timeframes - 1H, 15M, 4M, 1M. You have used 3 colored boxes - blue, red, green - what does that signify? Also, what do you mean by you look only at swapped FLs?
+##### whynotwork_p1_18 1
+Blue is a long FL, red is a short FL, green is a zone to look for a trade, usually a LTF set of orders (the green zone is personal thing of mines, i don't think anyone else uses a green zone). You can see the Blue FLs swap to a Red FL and vice versa, as the FLs are getting broken. Imagine an FL is an area where a transaction is made to hold price up and down. When all the orders in that FL are cleared, the FL gets broken, another transaction is created to hold price the other way. So the FLs swap as they get broken.
+##### whynotwork_p1_21 0
+Hi K, I cant see how that area EG is really that important. There is a big flag where the mouth kink may be higher I am away from charts so cant see., What makes you like that particular EG. Even if it was the SRK of the flag, even after breaking back in, its hit a TG area. I see no usable EG to trade
+##### whynotwork_p1_22 0
+Edge wrote: Hi K, I cant see how that area EG is really that important. There is a big flag where the mouth kink may be higher I am away from charts so cant see., What makes you like that particular EG. Even if it was the SRK of the flag, even after breaking back in, its hit a TG area. I see no usable EG to trade
+##### whynotwork_p1_23 1
+Edge wrote: Hi K, I cant see how that area EG is really that important. There is a big flag where the mouth kink may be higher I am away from charts so cant see., What makes you like that particular EG. Even if it was the SRK of the flag, even after breaking back in, its hit a TG area. I see no usable EG to trade
+##### whynotwork_p1_25 0
+Now I know that there are no such things as 'Stop hunts' when we are trading Supply & Demand. But I experienced something similar today with this trade taken on 1H. Since there HAS to be something I missed, going to 15M reveals a kink that (on hindsight) may have been the reason to price crossing the level.

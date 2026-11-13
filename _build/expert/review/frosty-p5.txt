@@ -1,0 +1,247 @@
+### frosty_p5_1
+EN: After EUR/GBP Trade 1 was closed, the account history looks like this.
+
+Lessons: 1. Still missing the correct entry points - reason for entry is not good enough. Possible remedy: Look further left and left again to determine if the zone we want to trade is a zone that was set up to be broken.
+
+2. Price turns at SL level - my SL level in the previous trade is the optimum entry price level. Possible remedy: learn why price turned at SL level and Also, I have a question to all of you regarding platform data and how you would determine which is the more accurate information.
+
+I have provided charts from two MT4 brokers - Pepperstone and FXPro, and one chart from JForex - Dukascopy.
+
+This is where I get confused on which data to trust. The difference in the high value is very different for the spike in 7 Oct 2016 Pepperstone FXPro Dukascopy Dukascopy high was at 0.93260. FXPro high was at 0.92627. Pepperstone high was at 0.92635.
+
+For me, I would use the MT4 data since I have another source to compare with. But the huge difference in value with JForex makes me wonder which data to trust. Really need help on this. How do you all cope with these types of issues?
+FA: پس از بسته شدن معاملهٔ 1 روی EUR/GBP، تاریخچهٔ حساب به این شکل است.
+
+درس‌ها: 1. هنوز نقاط ورود درست را پیدا نکرده‌ام؛ دلیل ورود به‌اندازهٔ کافی خوب نیست. راه‌حل احتمالی: بیشتر به سمت چپ نگاه کنم و باز هم به چپ، تا مشخص شود ناحیه‌ای که می‌خواهیم در آن معامله کنیم ناحیه‌ای بوده که برای شکسته شدن چیده شده است.
+
+2. قیمت روی سطح استاپ‌لاس برمی‌گردد؛ سطح استاپ‌لاس من در معاملهٔ قبلی همان قیمت ورود بهینه است. راه‌حل احتمالی: یاد بگیرم چرا قیمت روی سطح استاپ‌لاس برگشت. و همچنین، سؤالی از همهٔ شما دربارهٔ دادهٔ پلتفرم دارم و اینکه چطور تعیین می‌کنید کدام اطلاعات دقیق‌تر است.
+
+چارت‌هایی از دو بروکر MT4 گذاشته‌ام، Pepperstone و FXPro، و یک چارت هم از JForex (Dukascopy).
+
+اینجا همان جایی است که گیج می‌شوم به کدام داده اعتماد کنم. اختلاف مقدار سقف برای اسپایک 7 اکتبر 2016 در این سه چارت واقعاً زیاد است. سقف Dukascopy روی 0.93260 بود. سقف FXPro روی 0.92627 بود. سقف Pepperstone هم 0.92635 بود.
+
+من خودم از دادهٔ MT4 استفاده می‌کنم، چون منبع دیگری برای مقایسه دارم. اما این اختلاف بزرگ با JForex باعث می‌شود فکر کنم به کدام داده باید اعتماد کرد. واقعاً در این مورد به کمک نیاز دارم. شما چطور با این نوع مشکلات کنار می‌آیید؟
+
+### frosty_p5_2
+EN: Hey Frosty. I have noticed similar differences in the past between brokers. One of my feed was about 2 pips off from the other constantly. But that meant that the reaction was also off. So it was fine, as long as you pick your levels from the charts your are going to trade on. So that is my experience. Stick to one feed.:)
+FA: سلام Frosty. من هم در گذشته اختلاف‌های مشابهی بین بروکرها دیده‌ام. یکی از فیدهای من به‌طور مداوم حدود 2 پیپ با دیگری اختلاف داشت. اما یعنی واکنش قیمت هم جابه‌جا شده بود. پس مشکلی نبود، تا وقتی که سطوحت را از همان چارت‌هایی برداری که می‌خواهی رویشان معامله کنی. تجربهٔ من همین است. به یک فید پایبند باش. :)
+
+### frosty_p5_3
+EN: Thank you for your reply, Zee. I will stick to one feed next time around. So from your experience this issue shouldn't have a major impact on our PA signals then? (assuming there is no pattern in the # of pips difference between different feeds)
+
+The reason I use pepperstone feed to do the analysis is because they somehow have a lot more history than FXPro feed.
+
+Dunno if that is specific to my MT4 only or applies to everyone's. I've set the ‘Max bars in history’ and ‘Max bars in chart’ as "2147483647"
+FA: ممنون از پاسخت، Zee. از این به بعد به یک فید پایبند می‌مانم. پس با توجه به تجربهٔ تو، این موضوع نباید تأثیر چندان مهمی روی سیگنال‌های PA ما داشته باشد؟ (با این فرض که در تعداد پیپ اختلاف بین فیدهای مختلف الگوی خاصی وجود نداشته باشد)
+
+دلیل اینکه از فید Pepperstone برای تحلیل استفاده می‌کنم این است که به‌نوعی تاریخچهٔ خیلی بیشتری از فید FXPro دارد.
+
+نمی‌دانم این فقط مخصوص MT4 من است یا برای همه صدق می‌کند. «Max bars in history» و «Max bars in chart» را روی "2147483647" گذاشته‌ام.
+
+### frosty_p5_4
+EN: Yes, from my experience it is not an issue. The only problem can be, if you do your charting from one feed and your trading from another. Then the level you base your SL on for example might be a few pips higher or lower on your "real" feed than on your charting one. I think it's simpler to use just one. But more experienced traders might have better advice about this. So let's wait for more replies.
+FA: بله، بر اساس تجربهٔ من مشکلی نیست. تنها مشکل می‌تواند این باشد که چارت‌هایت را از یک فید بگیری و معامله‌ات را از فید دیگری انجام دهی. آن‌وقت سطحی که مثلاً استاپ‌لاس را بر آن بنا می‌کنی، ممکن است روی فید «واقعی» تو چند پیپ بالاتر یا پایین‌تر از فید چارتت باشد. به نظرم ساده‌تر است فقط از یک فید استفاده کنی. اما معامله‌گران باتجربه‌تر ممکن است مشاورهٔ بهتری در این باره داشته باشند. پس بگذار منتظر پاسخ‌های بیشتر بمانیم.
+
+### frosty_p5_5
+EN: Cancelled Trade EUR/GBP - Target reached first after engulf A cancelled trade entry on EUR/GBP that I waited out until 1 A. M. local time yesterday The level still looks juicy to me though. I might wait for price to return and give a proper PA in LTF later on in this level, just to see if my analysis of the trade was right.
+
+Also happy with myself that I took the right decision to close the previous trades with the right reasons on the HTF RS kink. Otherwise I would be in drawdown right now. Money in our pocket is definitely better than in IT's pocket Need to repeat and improve the same discipline in the next trades.
+
+Reminder to self since the start of this demo account journey:Winning or losing trades does not matter at this stage. The learning experience is what I am after. Entering and exiting trades at logical levels will give me both the confidence to enter trades and learn from the outcome at the same time Any comments on any inaccurate analysis is highly appreciated. Thank you all
+FA: معاملهٔ لغوشدهٔ EUR/GBP — تارگت پیش از شکل‌گیری اینگالف پر شد. یک ورود معاملاتی لغوشده روی EUR/GBP که تا ساعت 1 بامداد به وقت محلی دیروز صبرش را کردم. با این حال سطح هنوز هم برایم جذاب به نظر می‌رسد. شاید منتظر بمانم قیمت برگردد و بعداً در LTF روی همین سطح یک PA درست ارائه کند، فقط برای اینکه ببینم تحلیل معاملهٔ من درست بوده یا نه.
+
+همچنین از خودم راضی‌ام که تصمیم درست گرفتم و معاملات قبلی را با دلایل درست روی کینک RS در HTF بستم. وگرنه همین حالا در افت سرمایه بودم. پول در جیب ما قطعاً بهتر از جیب IT است. باید همین نظم را در معاملات بعدی تکرار و تقویتش کنم.
+
+یادآوری به خودم از ابتدای این سفر با حساب دمو: در این مرحله برد یا باخت معامله مهم نیست. چیزی که دنبالش هستم تجربهٔ یادگیری است. ورود و خروج در سطوح منطقی، همزمان هم اعتماد به نفس ورود به معامله را به من می‌دهد و هم فرصت یادگیری از نتیجه را. هر نظری دربارهٔ هر بخش نادرست تحلیل با کمال میل پذیرفته می‌شود. ممنون از همه
+
+### frosty_p5_6
+EN: Current AUD/JPY Analysis Hi everyone, Just wondering what your thoughts are regarding AJ. Here is mine Looking to enter above to catch D1 pinbar traders'
+
+(pinbarians??) stops. In LTF, I think a long up to the DM level looks feasible if there is proper PA.
+
+Corrections are more than welcomed. Thank you all
+FA: تحلیل فعلی AUD/JPY. سلام به همه، فقط می‌خواستم بدانم نظرتان دربارهٔ AJ چیست. این هم نظر من: قصد دارم در سطحی بالاتر وارد شوم تا استاپ معامله‌گران پین‌بار D1 را
+
+(پین‌باری‌ها؟؟) بگیرم. در LTF فکر می‌کنم یک لانگ تا سطح DM شدنی است، به شرط وجود PA درست.
+
+اصلاح‌ها را با آغوش باز می‌پذیرم. ممنون از همه
+
+### frosty_p5_7
+EN: why do you hesitate?
+FA: چرا تردید می‌کنی؟
+
+### frosty_p5_8
+EN: Didn't have a plan for that one brother. Getting into the chart right now to find the answer to your entry Thanks for dropping by!
+FA: برای آن یکی برادر برنامه‌ای نداشتم. همین حالا می‌روم سراغ چارت تا جواب ورود تو را پیدا کنم. ممنون که سر زدی!
+
+### frosty_p5_9
+EN: Hmmmmmm...... Now I know how some of you feels when this happens
+FA: هوممممم...... حالا می‌فهمم بعضی از شما وقتی این اتفاق می‌افتد چه حسی دارید.
+
+### frosty_p5_10
+EN: AUD/JPY Trade #1 - Closed Here is my first AUD/JPY trade. Eradication of fear of losses and not hitting TP is still at the top of the psychological issues list Going to keep programming my mind to change this bad habit. I'm trusting the process and I'm moving on.
+
+Other than that, if any of my trade entry and exit logic is inaccurate, hopefully some hints can be given Results of this trade: Account: $5047.02
+FA: معاملهٔ AUD/JPY #1 — بسته شد. این اولین معاملهٔ من روی AUD/JPY است. ریشه‌کن کردن ترس از ضرر و از نرسیدن به تارگت هنوز بالای فهرست مسائل روانی است. به برنامه‌ریزی ذهنم ادامه می‌دهم تا این عادت بد را تغییر دهم. به روند اعتماد می‌کنم و جلو می‌روم.
+
+جز این، اگر منطق ورود و خروج هر یک از معاملاتم نادرست است، امیدوارم نکاتی ارائه شود. نتیجهٔ این معامله: حساب: $5047.02
+
+### frosty_p5_11
+EN: AUD/JPY Trade #2 I got this one placed in the market. Lets see how it turns out.
+FA: معاملهٔ AUD/JPY #2. این یکی را در بازار ثبت کردم. ببینیم چه می‌شود.
+
+### frosty_p5_12
+EN: It's beautiful to see you finding your daemons and preparing to fight them!
+
+All the technical knowledge in the World is useless if we can't learn to get out of our own way
+FA: خیلی زیباست که می‌بینم دیمون‌هایت را پیدا کرده‌ای و داری خودت را برای جنگیدن با آن‌ها آماده می‌کنی!
+
+تمام دانش فنی دنیا بی‌فایده است اگر یاد نگیریم از سر راه خودمان کنار برویم.
+
+### frosty_p5_13
+EN: Thanks for dropping by, IF I trust that by banishing our own inner demons, we can get a happier life as well.
+
+RTM has been a true blessing for me as I am also learning life lessons here, not just technical trading methods.
+
+Mine basically stems from lack of confidence, and the root of that comes from a harsh criticizing and judging environment when I grow up.
+
+I am always second-guessing, not confident of my own answers and actions, and this shows not just in my trading, but also in other aspects of my life.
+
+The fear of critics and judgements literally immobilized me from doing anything.
+
+My thought process was: "If I don't do anything, I won't find myself in situations where I could be judged and criticized". This definitely slows me down in all aspects of life.
+
+Regarding trading, I used to think that I will become confident when I can pinpoint perfect entries and exits without any losing trade. I know now that this is not true. Losses do occur and our attitude as a trader is to accept them and embrace them as part of our profession. Confidence first, then method will take a solid form over time, not instantly.
+
+Thanks to RTM, I am now forcing myself to just do things that are aligned with my goals. It was not comfortable at first, but as time passes, I see no reason why I should have those kinds of fears. I am starting to lose weight (so I don't die from a sudden heart attack due to obesity) and eliminated my road rage problem for a start Still have many more goals to achieve.
+
+I'm learning to trust the process, and that is what matters currently. As many people used to say, Rome wasn't built in a day (Don't know why everytime I post psychological issues, it turns out quite lengthy Maybe its because I feel at home here with friends. Please pardon the sidetrack everybody)
+FA: ممنون که سر زدی، IF. باور دارم که با راندن دیمون‌های درونی خودمان می‌توانیم زندگی شادتری هم داشته باشیم.
+
+RTM برای من برکت واقعی بوده، چون اینجا درس‌های زندگی هم یاد می‌گیرم، نه فقط روش‌های فنی معامله‌گری.
+
+مشکل من اساساً از کمبود اعتماد به نفس می‌آید و ریشهٔ آن به محیطی پر از انتقاد و قضاوت در دوران بزرگ شدنم برمی‌گردد.
+
+همیشه در حال زیر سؤال بردن خودم هستم و به پاسخ‌ها و کارهای خودم اطمینان ندارم؛ و این نه فقط در معامله‌گری، بلکه در جنبه‌های دیگر زندگی‌ام هم دیده می‌شود.
+
+ترس از منتقدان و قضاوت‌ها به معنای واقعی کلمه مرا از انجام هر کاری زمین‌گیر کرده بود.
+
+روند فکرم این بود: «اگر هیچ کاری نکنم، در موقعیتی قرار نمی‌گیرم که ممکن باشد قضاوت و نقد شوم.» این قطعاً در همهٔ جنبه‌های زندگی سرعتم را کم می‌کند.
+
+دربارهٔ معامله‌گری، قبلاً فکر می‌کردم وقتی بتوانم ورودها و خروج‌های بی‌نقص و بدون هیچ معاملهٔ بازنده را مشخص کنم، اعتماد به نفس پیدا می‌کنم. حالا می‌دانم که این درست نیست. ضرر اتفاق می‌افتد و نگرش ما به‌عنوان معامله‌گر پذیرفتن آن‌ها و در آغوش کشیدنشان به‌عنوان بخشی از حرفهٔ ماست. اول اعتماد به نفس؛ بعد روش که با گذشت زمان شکل محکم می‌گیرد، نه یک‌باره.
+
+به لطف RTM، حالا خودم را مجبور می‌کنم فقط کارهایی انجام دهم که با اهدافم هم‌راستاست. اولش راحت نبود، اما هرچه زمان می‌گذرد دلیلی نمی‌بینم که چنین ترس‌هایی داشته باشم. برای شروع دارم وزن کم می‌کنم (تا به‌خاطر چاقی از سکتهٔ قلبی ناگهانی نمیرم) و مشکل خشم جاده‌ای‌ام را هم از بین بردم. هنوز اهداف زیادی برای رسیدن دارم.
+
+دارم یاد می‌گیرم به روند اعتماد کنم و الان همین موضوع اهمیت دارد. همان‌طور که خیلی‌ها می‌گفتند، روم در یک روز ساخته نشد. (نمی‌دانم چرا هر بار دربارهٔ مسائل روانی پست می‌گذارم، خیلی طولانی می‌شود. شاید چون اینجا با دوستانم حس خانه بودن دارم. همه ببخشید که از موضوع خارج شدم.)
+
+### frosty_p5_14
+EN: If you have a couple of minutes, read this. It might help you!:) waitbutwhy.com/2014/06/taming-mammoth-le...inions-run-life.html Cheers, Z.
+FA: اگر چند دقیقه وقت داری، این را بخوان. ممکن است کمکت کند! :) waitbutwhy.com/2014/06/taming-mammoth-le...inions-run-life.html با احترام، Z.
+
+### frosty_p5_15
+EN: Your story, the world I live in. Your analysis, a lot i could learn from. It doesnt matter if you are wrong at first because many times its a vital step to being right.
+
+Thanks for sharing.
+FA: داستان تو، همان دنیایی است که من در آن زندگی می‌کنم. تحلیل تو، چیزی است که می‌توانم خیلی از آن یاد بگیرم. مهم نیست که اول اشتباه باشی، چون خیلی وقت‌ها این یک قدم حیاتی برای درست بودن است.
+
+ممنون که به اشتراک گذاشتی.
+
+### frosty_p5_16
+EN: @Zee: thank you so much brother for the article. That opened my mind to the solutions to my psychological issue above @linos: I'm the one learning from your awesome charts, brother. Your trades have super tight SL and high RR! Definitely where we all want to get to eventually Thank you for the encouragement brother
+FA: @Zee: برادر، خیلی ممنون از مقاله. ذهنم را به راه‌حل‌های مسئلهٔ روانی که بالا گفتم باز کرد. @linos: برادرم، من هستم که از چارت‌های فوق‌العادهٔ تو یاد می‌گیرم. معاملاتت استاپ‌لاس خیلی تنگ و RR بالا دارند! قطعاً همان جایی است که همهٔ ما در نهایت می‌خواهیم به آن برسیم. ممنون از دلگرمی‌ات برادر
+
+### frosty_p5_17
+EN: Gold Trade #1 - Closed - Price Hit SL Level Gold trade #1 was a loss.
+
+A mistake that I can immediately point out could be that I didn't take the extreme of the PCP MPL and price could still break the zoness inside of that PCP MPL area.
+
+LTF analysis also didn't show any significant bounce. The safest way to trade is to wait for an engulf in LTF and none was present in this case.
+
+IF actually gave out a hint about taking the extremes The outcome of the trade: Account: $5003.54
+FA: معاملهٔ طلا #1 — بسته شد — قیمت به سطح استاپ‌لاس خورد. معاملهٔ شمارهٔ 1 طلا یک ضرر بود.
+
+اشتباهی که فوراً می‌توانم به آن اشاره کنم این است که اکسترمم PCP MPL را نگرفتم و قیمت هنوز می‌توانست نواحی درون آن محدودهٔ PCP MPL را بشکند.
+
+تحلیل LTF هم هیچ بازگشت معناداری نشان نمی‌داد. امن‌ترین راه معامله این است که منتظر اینگالف در LTF بمانی، و در این مورد هیچ اینگالفی وجود نداشت.
+
+IF در واقع اشاره‌ای به گرفتن اکسترمم‌ها کرده بود. نتیجهٔ معامله: حساب: $5003.54
+
+### frosty_p5_18
+EN: As for my current state of understanding RTM materials, I believe this diagram by IF is extremely crucial.
+
+And here is a chart which, from what I understand, shows this behavior.
+
+Pedini also wrote this, which aligns with the above chart and diagram. Still trying to absorb all this in and what it really means.
+FA: دربارهٔ وضعیت فعلی درکم از مواد RTM، معتقدم این نمودار از IF فوق‌العاده حیاتی است.
+
+و اینجا چارتی است که تا آنجا که می‌فهمم، همین رفتار را نشان می‌دهد.
+
+Pedini هم این را نوشته که با چارت و نمودار بالا هم‌راستاست. هنوز دارم تلاش می‌کنم همهٔ این‌ها و معنای واقعی‌اش را جذب کنم.
+
+### frosty_p5_19
+EN: Frosty wrote:Gold Trade #1 - Closed - Price Hit SL Level LTF analysis also didn't show any significant bounce. The safest way to trade is to wait for an engulf in LTF and none was present in this case.
+
+Then, which is it? and what tg? if doesnt happen, then?
+FA: Frosty نوشت:معاملهٔ طلا #1 — بسته شد — قیمت به سطح استاپ‌لاس خورد. تحلیل LTF هم هیچ بازگشت معناداری نشان نمی‌داد. امن‌ترین راه معامله این است که منتظر اینگالف در LTF بمانی، و در این مورد هیچ اینگالفی وجود نداشت.
+
+خب، کدام است؟ و چه تارگتی؟ اگر اتفاق نیفتد، بعد چه؟
+
+### frosty_p5_20
+EN: Hi brother, My thoughts are on the chart Hopefully I got it correct Hoping to learn from you as always, brother
+FA: سلام برادر، نظرم روی چارت است. امیدوارم درست گفته باشم. مثل همیشه امیدوارم از تو یاد بگیرم، برادر
+
+### frosty_p5_21
+EN: now what? hehe
+FA: حالا چی؟ هههه
+
+### frosty_p5_22
+EN: Gold Trade #2 As a reply to your question, brother, I think we have an engulf which hasn't reached it's target. I'm entering with the reasons below Orders have been set and I will see this through until SL or TP is hit. No tampering allowed Still working on 2nd TP here.
+
+Just had two losses on AUD/JPY. Will post those two as well. I will learn from those losses
+FA: معاملهٔ طلا #2. در پاسخ به سؤال تو برادر، فکر می‌کنم اینگالفی داریم که به تارگت خودش نرسیده است. با دلایل زیر وارد می‌شوم. سفارش‌ها ثبت شده‌اند و تا خوردن استاپ‌لاس یا تارگت این را تا آخر پیش می‌برم. هیچ دستکاری‌ای مجاز نیست. هنوز روی تارگت دوم کار می‌کنم.
+
+همین حالا دو ضرر روی AUD/JPY داشتم. آن دو را هم پست می‌کنم. از آن ضررها یاد می‌گیرم
+
+### frosty_p5_23
+EN: AUD/JPY Trade #2 - Closed - SL Hit A loss on AUD/JPY trade #2. Price blasted through the zone like hot knife through butter.
+
+I think an iQM level has been formed. Could be used for long trade on return if price has not touched the MPL of red FL.
+
+Lesson: as a beginner, watch for LTF PA before entering positions.
+
+I will be watching LTF PA on iQM kink for longs and at MPL for shorts.
+
+Result of this trade: Account: $4979.46
+FA: معاملهٔ AUD/JPY #2 — بسته شد — استاپ‌لاس خورد. یک ضرر در معاملهٔ AUD/JPY #2. قیمت مثل چاقو از میان کره از آن ناحیه رد شد.
+
+فکر می‌کنم یک سطح iQM تشکیل شده است. اگر قیمت به MPL فلگ قرمز برخورد نکرده باشد، می‌تواند برای معاملهٔ لانگ در بازگشت استفاده شود.
+
+درس: به‌عنوان یک مبتدی، پیش از ورود به پوزیشن مراقب PA در LTF باش.
+
+من PA در LTF را روی کینک iQM برای لانگ‌ها و روی MPL برای شورت‌ها زیر نظر خواهم داشت.
+
+نتیجهٔ این معامله: حساب: $4979.46
+
+### frosty_p5_24
+EN: AUD/JPY Trade #3 - Closed - SL Hit I lowered the risk for each trade to 0.5% of total account balance to get more bullets to trade with.
+
+Lesson: The engulf has hit it's target. Invalid trade because target has been reached I was sleeping throughout this trade, but trade could have been scratched beforehand due to a more proper LTF target analysis.
+
+Engulf reached target = invalid trade.
+
+Account: $4953.01
+FA: معاملهٔ AUD/JPY #3 — بسته شد — استاپ‌لاس خورد. ریسک هر معامله را به 0.5% از کل موجودی حساب کاهش دادم تا فشنگ‌های بیشتری برای معامله داشته باشم.
+
+درس: اینگالف به تارگت خودش رسیده است. معاملهٔ نامعتبر، چون تارگت پر شده. در تمام مدت این معامله خواب بودم، اما می‌شد معامله را از قبل، با یک تحلیل دقیق‌تر از تارگت در LTF، لغو کرد.
+
+تارگت اینگالف پر شد = معاملهٔ باطل.
+
+حساب: $4953.01
+
+### frosty_p5_25
+EN: Currently watching these two zones for LTF PA on AJ.
+
+right direction Thank you all
+FA: همین حالا این دو ناحیه را برای PA در LTF روی AJ زیر نظر دارم.
+
+جهت درست. ممنون از همه

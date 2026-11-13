@@ -1,0 +1,360 @@
+### salivan_p9_1
+EN: philantrop wrote: which spike?
+
+the spike down in the second pic that i can not see it in the first pic of post #195
+FA: philantrop نوشت: کدام اسپایک؟
+
+آن اسپایک نزولی در تصویر دوم که در تصویر اول پست #195 نمی‌بینمش
+
+### salivan_p9_2
+EN: you mean post#196...yes the second pic has a spike..the first doesnt....your eyes are working correctly
+
+salivan wrote: but the trading view site don't show me any engulf :
+
+WTF!
+
+what happened in this period of time ??
+
+now it spiked below the LVL
+FA: منظورت پست #196 است... بله، تصویر دوم اسپایک دارد.. تصویر اول ندارد.... چشمت درست کار می‌کند
+
+salivan نوشت: اما سایت TradingView هیچ اینگالفی نشانم نمی‌دهد:
+
+چه خبر است!
+
+در این بازهٔ زمانی چه اتفاقی افتاد؟؟
+
+حالا زیر LVL اسپایک زد
+
+### salivan_p9_3
+EN: Good data feeds costs money, a lot of money.
+
+Tradingview is free so, IMO, you shouldn't pretend more than what they give you for free.
+
+And free Tradingview data have also little delay
+FA: فیدهای دادهٔ باکیفیت پول می‌خواهند، پول زیادی.
+
+TradingView رایگان است، پس به نظر من نباید بیش از چیزی که مجانی می‌دهند توقع داشته باشی.
+
+دادهٔ رایگان TradingView هم کمی تأخیر دارد
+
+### salivan_p9_4
+EN: Al3cs wrote: Good data feeds costs money, a lot of money.
+
+Tradingview is free so, IMO, you shouldn't pretend more than what they give you for free.
+
+And free Tradingview data have also little delay
+
+yes Al3cs , actually you right . do you know which broker IF use ???
+FA: Al3cs نوشت: فیدهای دادهٔ باکیفیت پول می‌خواهند، پول زیادی.
+
+TradingView رایگان است، پس به نظر من نباید بیش از چیزی که مجانی می‌دهند توقع داشته باشی.
+
+دادهٔ رایگان TradingView هم کمی تأخیر دارد
+
+بله Al3cs، واقعاً حق داری. می‌دانی IF از کدام بروکر استفاده می‌کند؟؟؟
+
+### salivan_p9_5
+EN: I don't know.
+
+What I think is the better thing to do is look for an ECN+STP broker for OTC( FX and CFDs) or move to futures.
+
+All depends on account size and personal feelings.
+
+But this are only my 2 cents. Let's wait for IF or other Master Traders's response
+FA: نمی‌دانم.
+
+به گمانم کار بهتر این است که برای OTC (یعنی FX و CFD) دنبال یک بروکر ECN+STP بگردی یا به فیوچرز کوچ کنی.
+
+همه‌چیز به حجم حساب و حس شخصی بستگی دارد.
+
+اما این‌ها فقط 2 سنت من است. بگذار منتظر پاسخ IF یا دیگر استادهای معامله‌گر بمانیم.
+
+### salivan_p9_6
+EN: today's trade on GOLD
+
+half closed in a nice DP and half still open for it's target .
+
+i am still learning RTM,but thank you IF,THANK TO ALL THOSE WHO WROTE EVEN A WORD IN THIS COMMITTEE
+FA: معاملهٔ امروز روی GOLD
+
+نیمی در یک DP خوب بسته شد و نیم دیگر هنوز برای رسیدن به هدفش باز است.
+
+من هنوز در حال یادگیری RTM هستم، اما ممنون IF، ممنون از همهٔ کسانی که حتی یک کلمه در این کمیته نوشتند
+
+### salivan_p9_10
+EN: Nice trades mate keep it up !!!
+FA: معامله‌های خوبی است رفیق، همین‌طور ادامه بده!!!
+
+### salivan_p9_11
+EN: salivan wrote:
+
+about ENG
+
+2 month ago i decided to USE EN2
+
+to be honest with you now i don't use it .
+
+that why i saw "oh my god this spike ENGULFED prior swing L but price rallied and the prior HH broken"
+
+so that i needed a new filter for my self and the EN2 discovered
+
+BUT know that i finished all the HWs
+
+i know that there are some important DPs that price made some decision there to break a barrier and the EN2 in fact is ENGULF OF THAT IMPORTANT DP .actually there is no difference between ENG and EN2 .
+
+the ENGULF of those DPs are important for us . that's why i wrote some things about FTB that i consider all FTB as FO
+
+the reason is this .
+
+and you see that if price ENGULF the DP then we will go to an other DP .
+
+here is a diagram that i tried to draw what i want to say
+
+you can see this really nice instance that i saw in this really nice journal :
+
+	About PAZ
+
+HERE also is a quote from Master Whiteout :
+
+The main point is to find decision point and
+ assign the right value to them, that's why you wonna see how that point
+ will react in the future.
+
+hope it helps you
+
+WITH REGARDS
+
+SALIVAN
+
+i wonder if this is still valid....with this picture an engulf is a
+consumption of an important DP.....a fakeout takes just out lows or
+highs..but a FO never consumes an important DP...is this right?
+FA: salivan نوشت:
+
+دربارهٔ ENG
+
+2 ماه پیش تصمیم گرفتم از EN2 استفاده کنم
+
+راستش را بخواهی، حالا از آن استفاده نمی‌کنم.
+
+دلیلش این بود که می‌دیدم «خدای من، این اسپایک سوئینگ L قبلی را اینگالف کرد، اما قیمت بالا رفت و HH قبل شکست»
+
+پس به فیلتر تازه‌ای برای خودم نیاز داشتم و EN2 این‌طور کشف شد
+
+اما بدان که همهٔ HWهایم را تمام کرده‌ام
+
+می‌دانم DPهای مهمی هستند که قیمت در آن‌ها تصمیمی برای شکستن یک سد گرفته، و EN2 در واقع اینگالف همان DP مهم است. راستش هیچ تفاوتی بین ENG و EN2 نیست.
+
+اینگالف آن DPها برای ما مهم است. برای همین چیزهایی دربارهٔ FTB نوشتم و همهٔ FTB را FO می‌دانم
+
+دلیلش این است.
+
+و می‌بینی که اگر قیمت DP را اینگالف کند، بعد به DP دیگری می‌رویم.
+
+این هم نموداری که کوشیدم در آن بگویم چه می‌خواهم:
+
+می‌توانی این نمونهٔ واقعاً قشنگ را که در این ژورنال خوب دیدم ببینی:
+
+دربارهٔ PAZ
+
+این هم نقل‌قولی از استاد Whiteout:
+
+نکتهٔ اصلی پیدا کردن نقطهٔ تصمیم و دادن ارزش درست به آن‌هاست؛ برای همین می‌خواهی ببینی آن نقطه در آینده چه واکنشی نشان می‌دهد.
+
+امیدوارم کمکت کند
+
+با احترام
+
+SALIVAN
+
+نمی‌دانم هنوز معتبر است یا نه.... با این تصویر، اینگالف یعنی مصرف یک DP مهم..... فیک‌اوت فقط کف‌ها یا سقف‌ها را بیرون می‌کشد.. اما FO هرگز DP مهم را مصرف نمی‌کند... درست است؟
+
+### salivan_p9_12
+EN: to answer your question i offer you to read this chart from IF
+
+this will help you in consumption and rejection .but actually you right
+ . the FO is a trick to grab some more orders when ENG happened before,
+for making LQ(rejection),but the ENG is kind of selling cheap and buying
+ expensive both toward prior point of deal(DP)(consumption) .and if you
+look at it in a deeper aspect you will find out both FO and ENG are the
+same just one realized it's target and one didn't yet .
+FA: برای پاسخ به پرسشت پیشنهاد می‌کنم این نمودار IF را بخوانی
+
+این در مصرف و ریجکشن کمکت می‌کند. اما واقعاً حق داری. FO ترفندی برای گرفتن چند سفارش بیشتر است وقتی پیش‌تر ENG رخ داده، برای ساختن LQ (ریجکشن)؛ ولی ENG نوعی فروش ارزان و خریدن گران است، هر دو به سمت نقطهٔ معاملهٔ قبلی (DP) (مصرف). و اگر عمیق‌تر نگاه کنی می‌بینی FO و ENG یکی هستند، فقط یکی به هدفش رسیده و دیگری هنوز نه.
+
+### salivan_p9_13
+EN: Hello Salivan
+
+Nice journal, congrats! good analysis, always interesting to get through. !
+
+i've not a journal, i'm training while hoping to be soon enough skilled to make sense posting my trades
+
+Hope you don't mind if i'm posting a HTF USDCHF specially about USD.
+
+The scenario long term (...not very much long by the truth...) hints the USD should likely continue the current crumble...
+
+Would you share your opinion about it ? thank you very much, all the best
+FA: سلام Salivan
+
+ژورنال قشنگی است، تبریک! تحلیل خوبی است، خواندنش همیشه جالب است!
+
+من ژورنال ندارم، دارم تمرین می‌کنم و امیدوارم به‌زودی آن‌قدر ماهر شوم که گذاشتن معامله‌هایم معنا داشته باشد
+
+امیدوارم ناراحت نشوی اگر یک USDCHF در HTF، مخصوصاً دربارهٔ USD، بگذارم.
+
+سناریوی بلندمدت (...که راستش چندان هم بلندمدت نیست...) نشان می‌دهد USD احتمالاً ریزش کنونی‌اش را ادامه می‌دهد...
+
+نظرت را درباره‌اش می‌گویی؟ خیلی ممنون، بهترین‌ها
+
+### salivan_p9_14
+EN: ps: austria SALIVAN, not australia....
+FA: پ.ن: SALIVAN اتریش است، نه استرالیا....
+
+### salivan_p9_15
+EN: althoufx wrote: Hello Salivan
+
+Nice journal, congrats! good analysis, always interesting to get through. !
+
+i've not a journal, i'm training while hoping to be soon enough skilled to make sense posting my trades
+
+Hope you don't mind if i'm posting a HTF USDCHF specially about USD.
+
+The scenario long term (...not very much long by the truth...) hints the USD should likely continue the current crumble...
+
+Would you share your opinion about it ? thank you very much, all the best
+
+hi my friend
+
+welcome to my home , hope we can help each other
+
+this is my point of view hope it helps you .
+
+SALIVAN.
+FA: althoufx نوشت: سلام Salivan
+
+ژورنال قشنگی است، تبریک! تحلیل خوبی است، خواندنش همیشه جالب است!
+
+من ژورنال ندارم، دارم تمرین می‌کنم و امیدوارم به‌زودی آن‌قدر ماهر شوم که گذاشتن معامله‌هایم معنا داشته باشد
+
+امیدوارم ناراحت نشوی اگر یک USDCHF در HTF، مخصوصاً دربارهٔ USD، بگذارم.
+
+سناریوی بلندمدت (...که راستش چندان هم بلندمدت نیست...) نشان می‌دهد USD احتمالاً ریزش کنونی‌اش را ادامه می‌دهد...
+
+نظرت را درباره‌اش می‌گویی؟ خیلی ممنون، بهترین‌ها
+
+سلام دوستم
+
+به خانه‌ام خوش آمدی، امیدوارم بتوانیم به هم کمک کنیم
+
+این نگاه من است، امیدوارم کمکت کند.
+
+SALIVAN.
+
+### salivan_p9_16
+EN: philantrop wrote:
+
+ps: austria SALIVAN, not australia....
+
+OH PHILANTROP
+
+That's about 3 months that i thought you are from Australia
+
+here is an easy money :
+
+SALIVAN
+FA: philantrop نوشت:
+
+پ.ن: SALIVAN اتریش است، نه استرالیا....
+
+اوه PHILANTROP
+
+حدود 3 ماه بود که فکر می‌کردم اهل استرالیا هستی
+
+این هم یک پول آسان:
+
+SALIVAN
+
+### salivan_p9_17
+EN: i think this ITs don't know how to make more LQ
+FA: فکر می‌کنم این ITها نمی‌دانند چطور LQ بیشتری بسازند
+
+### salivan_p9_20
+EN: it seems to me that you found the truth , simple but not easy
+FA: به نظرم تو حقیقت را پیدا کرده‌ای؛ ساده است، اما آسان نیست
+
+### salivan_p9_21
+EN: i am just learning and trying ...nothing more...but its motivating to see if one makes a step forward in development.... especially your work is a big motivation for me... ...joy and motivation is fuel for every endeavor
+FA: من فقط یاد می‌گیرم و تلاش می‌کنم... نه چیزی بیشتر... اما دیدن اینکه کسی در مسیر پیشرفت یک قدم جلو می‌رود انگیزه‌بخش است.... مخصوصاً کار تو برای من انگیزهٔ بزرگی است... ...شادی و انگیزه سوخت هر کوششی است
+
+### salivan_p9_22
+EN: i closed first entry in in the first target for 18R and i am happy for it
+FA: اولین ورودم را در هدف اول با 18R بستم و از این بابت خوشحالم
+
+### salivan_p9_23
+EN: Hi Salivan nice trade
+
+the thin difference between EG and FO. Sometime it's FO because it couldn't be nothing else, other times it isn't so clear
+
+GU has not bearish signals, at all
+
+but it has a FO...i would not go short on that FO...i'd think it could be a EG instead...
+
+.....would you share your think ?
+
+many thanks
+FA: سلام Salivan، معاملهٔ خوبی بود
+
+تفاوت باریک EG و FO. گاهی FO است چون چیز دیگری نمی‌تواند باشد، گاهی هم این‌قدر روشن نیست
+
+GU اصلاً سیگنال نزولی ندارد
+
+اما یک FO دارد... من روی آن FO شورت نمی‌رفتم... فکر می‌کنم ممکن است در عوض EG باشد...
+
+.....نظرت را می‌گویی؟
+
+خیلی ممنون
+
+### salivan_p9_24
+EN: hi my friend , welcome to your committee
+
+nice questions from you here . yes you right there are some question
+that answering to them needs knowing the Philosophy of the peoples
+behind the chart . really they can not hide their thought if we look in
+to the eyes. in the following chart i wrote some notes for you and it's
+better to read a quote from MASTER Pedini.
+
+what I will do when I see an engulf is ask
+myself "does this engulf make sense?" By that I mean look at the history
+ around where price engulfed. Did it engulf into a DP or a key level?
+Did it engulf into supply/demand. Also, look where the source of the
+engulf came from, was it coming from a HTF supply/demand level or has it
+ failed yet to reach one? All these things should give you a heads up on
+ a potential FO.
+
+For example, if price is engulfing south, but price has yet to come off a
+ significant level of supply, it makes sense to see a FO to help push
+price to higher levels.
+
+Peds
+
+and here is what i have to say for you
+
+hope it helps you
+
+SALIVAN
+FA: سلام دوستم، به کمیتهٔ خودت خوش آمدی
+
+پرسش‌های خوبی اینجا می‌پرسی. بله حق داری، پاسخ دادن به بعضی پرسش‌ها نیاز دارد که فلسفهٔ آدم‌های پشت نمودار را بدانی. واقعاً اگر به چشم‌هایشان نگاه کنیم نمی‌توانند فکرشان را پنهان کنند. در نمودار زیر چند یادداشت برایت نوشتم و بهتر است نقل‌قولی از استاد Pedini را هم بخوانی.
+
+کاری که من وقتی یک اینگالف می‌بینم می‌کنم این است که از خودم می‌پرسم «آیا این اینگالف منطقی است؟» منظورم این است که به تاریخچهٔ اطراف جایی که قیمت اینگالف کرده نگاه کن. آیا به یک DP یا یک سطح کلیدی اینگالف کرده؟ آیا به عرضه و تقاضا اینگالف کرده؟ همچنین ببین منبع اینگالف از کجا آمده؛ از یک سطح عرضه و تقاضای HTF بوده یا هنوز به یکی نرسیده؟ همهٔ این‌ها باید به تو دربارهٔ یک FO احتمالی هشدار بدهد.
+
+برای نمونه، اگر قیمت به سمت جنوب اینگالف می‌کند، اما هنوز از یک سطح عرضهٔ مهم پایین نیامده، منطقی است که یک FO ببینیم تا به بالا رفتن قیمت کمک کند.
+
+Peds
+
+و این هم چیزی که من باید برایت بگویم
+
+امیدوارم کمکت کند
+
+SALIVAN

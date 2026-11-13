@@ -1,0 +1,31 @@
+{
+  "cancan_p1_1": {"ok": true},
+  "cancan_p1_2": {
+    "issue": "FLAG is incorrectly replaced with FL in the CanCan mechanism.",
+    "why": "A flag formation is not automatically a Flag Limit. Restore FLAG, clarify the break back into the pole, and render compression as a price movement rather than an active compression process.",
+    "fix": "این از Markepedia است..\n\nCanCan\n\nخیلی وقت‌ها قیمت با مومنتوم قوی به درون یک ناحیه حرکت می‌کند، یا حتی بهتر، از آن به بیرون می‌شکند و یک میله می‌سازد.\n\nمعمولاً بالای میله یک FLAG شکل می‌گیرد که سفارش‌ها را برای پیشروی قیمت جمع می‌کند.\n\nاما اگر FLAG بشکند و قیمت به درون میله برگردد، این چرخش مهمی در ارزش است.\n\nیک CanCan اغلب می‌تواند در چنین رویدادی رخ دهد.\n\nقیمت با قدرت حرکت می‌کند، برای مدت کوتاهی یک FLAG تشکیل می‌دهد و با یک اسپایک نقدینگی به‌سرعت برمی‌گردد. این اسپایک نقدینگی یعنی به‌احتمال زیاد سفارش‌هایی در لبهٔ FLAG باقی مانده‌اند که هنوز پر نشده‌اند؛ بنابراین خیلی وقت‌ها حرکت فشردهٔ قیمت به سمت آن را می‌بینید، در حالی که سفارش‌های اضافی پنهان می‌شوند، تا وقتی قیمت به کپ می‌رسد، بتواند با شتاب از میان این فشردگی برگردد و تا پایهٔ میله پیش برود.\n\nتکلیف:\n\nدست‌کم 20 CanCan در طول تاریخ پیدا کنید و توصیف کنید. هر جفت‌ارزی، هر تایم‌فریمی"
+  },
+  "cancan_p1_3": {"ok": true},
+  "cancan_p1_4": {"ok": true},
+  "cancan_p1_5": {"ok": true},
+  "cancan_p1_6": {"ok": true},
+  "cancan_p1_7": {"ok": true},
+  "cancan_p1_8": {"ok": true},
+  "cancan_p1_9": {"ok": true},
+  "cancan_p1_10": {"ok": true},
+  "cancan_p1_11": {"ok": true},
+  "cancan_p1_12": {"ok": true},
+  "cancan_p1_13": {"ok": true},
+  "cancan_p1_14": {"ok": true},
+  "cancan_p1_15": {"ok": true},
+  "cancan_p1_16": {"ok": true},
+  "cancan_p1_17": {"ok": true},
+  "cancan_p1_18": {"ok": true},
+  "cancan_p1_19": {"ok": true},
+  "cancan_p1_20": {"ok": true},
+  "cancan_p1_21": {"ok": true},
+  "cancan_p1_22": {"issue": "One shot is narrowed to a screenshot without source support.", "why": "Preserve the idiom of three at once without inferring image content.", "fix": "سلام عزیزان،\n\n3 تا در یک حرکت"},
+  "cancan_p1_23": {"ok": true},
+  "cancan_p1_24": {"ok": true},
+  "cancan_p1_25": {"ok": true}
+}

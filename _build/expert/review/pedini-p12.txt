@@ -1,0 +1,469 @@
+### pedini_p12_1
+EN: It rarely gets much simpler than this:
+
+Peds
+FA: به‌ندرت از این ساده‌تر می‌شود:
+
+Peds
+
+### pedini_p12_2
+EN: Still holding my gold trade from Friday. These are some of the things I keep an eye on.
+
+Peds
+FA: هنوز معاملهٔ طلایم را از جمعه نگه داشته‌ام. این‌ها چند مورد از چیزهایی است که زیر نظر دارم.
+
+Peds
+
+### pedini_p12_3
+EN: Hi Pedini,
+
+just wanted to ask you, what do you take into account when drawing your
+PA zones, I mean top or bottom of some certain candles or their bodies
+or something else ?
+
+Like for instance in your last Gold trade, why the bottom line of your
+PAZ is where you drew it and not where I put the green lines ?
+
+Thank you in advance for your answer, I really admire your trading
+FA: سلام Pedini،
+
+فقط می‌خواستم بپرسم وقتی ناحیه‌های PA خودت را رسم می‌کنی چه چیزی را در نظر می‌گیری؛ یعنی سقف یا کف کندل‌های مشخصی، یا بدنهٔ آن‌ها، یا چیز دیگری؟
+
+مثلاً در آخرین معاملهٔ طلایت، چرا خط پایینی PAZ همان جایی است که کشیدی و نه جایی که من خط‌های سبز را گذاشتم؟
+
+از قبل ممنونم برای جوابت، واقعاً معامله‌گری‌ات را می‌ستایم
+
+### pedini_p12_4
+EN: Heya Cas,
+
+When drawing Compression PAZ's which is what I drew up on my gold chart,
+ you want to be absolutely sure that price is going to go to the other
+end of the compression. The only way to do this is to make sure the last
+ pocket of supply or demand has been engulfed. Until this happens, we
+don't know compression is going to work and really it can go on forever
+(just look at AUDNZD).
+
+Looking at your lines now:
+
+1 - This was a test of a flip level, it formed the drop base rally at 4,
+ but there is still supply above us (so its not the edge of our PAZ)
+
+2 - Again even if this level is broken, which it was, there still remains to be supply above that needs to break.
+
+Finally price breaks into our PAZ at 3. This was the last of the supply
+till the other side of the zone and that is why it is our PAZ level. You
+ can see price then retraced tested out Drop Base Rally at 4 and
+continued through the zone.
+
+I hope this helps,
+
+Peds
+FA: سلام Cas،
+
+وقتی PAZهای فشردگی را رسم می‌کنی — همان کاری که من روی نمودار طلایم کردم — باید کاملاً مطمئن باشی که قیمت تا سر دیگر فشردگی می‌رود. تنها راه این اطمینان این است که مطمئن شوی آخرین جیب عرضه یا تقاضا اینگالف شده است. تا این اتفاق نیفتد، نمی‌دانیم فشردگی جواب می‌دهد و راستش می‌تواند تا ابد ادامه پیدا کند (فقط AUDNZD را ببین).
+
+حالا نگاهی به خط‌های تو:
+
+1 - این تست یک سطح فلیپ بود، Drop Base Rally را در 4 ساخت، ولی هنوز بالای سرمان عرضه هست (پس لبهٔ PAZ ما نیست)
+
+2 - باز هم، حتی اگر این سطح شکسته شود — که شد — هنوز عرضهٔ بالاتری مانده که باید بشکند.
+
+در نهایت قیمت در 3 به PAZ ما می‌شکند. این آخرین عرضه تا آن سر ناحیه بود و برای همین همان سطح PAZ ماست. می‌بینی که قیمت بعد از آن پولبک کرد، Drop Base Rally را در 4 تست کرد و از داخل ناحیه ادامه داد.
+
+امیدوارم کمک کند،
+
+Peds
+
+### pedini_p12_5
+EN: Thanks Ped
+
+I think I understand it now.
+
+So the edge of a compression PAZ is the last not tested S or D.
+
+I previously thought that PAZ is a zone where price is trapped but it is
+ a zone where price is consumed so there is no liquidity. Am I right ?
+FA: ممنون Ped
+
+فکر می‌کنم حالا فهمیدم.
+
+پس لبهٔ PAZ فشردگی همان آخرین S یا D تست‌نشده است.
+
+قبلاً خیال می‌کردم PAZ جایی است که قیمت در آن به دام می‌افتد، ولی حالا می‌فهمم ناحیه‌ای است که قیمت در آن مصرف می‌شود و نقدینگی‌ای باقی نمی‌گذارد. درست می‌گویم؟
+
+### pedini_p12_6
+EN: Hey Cas,
+
+Essentially every bar on the charts is part of one PAZ or another. There
+ are all different types. A consolidation in price is a PAZ in itself,
+it is when this price zone breaks that we get an idea the direction it
+is going to go, and we can use other price action concepts to enter into
+ a trade. Hopefully this will get a little clearer in the coming weeks.
+
+Peds
+FA: سلام Cas،
+
+اساساً هر کندل روی نمودار بخشی از یک PAZ است، هر PAZی که باشد. انواع مختلفی دارند. تثبیت قیمت خودش یک PAZ است؛ وقتی همین ناحیهٔ قیمت می‌شکند تازه سرنخی از جهت حرکتش می‌گیریم و می‌توانیم با مفاهیم دیگر پرایس اکشن وارد معامله شویم. امیدوارم در هفته‌های پیش رو کمی روشن‌تر شود.
+
+Peds
+
+### pedini_p12_7
+EN: There was strict rule to this trade
+FA: این معامله یک قاعدهٔ سخت‌گیرانه داشت
+
+### pedini_p12_8
+EN: Hi Pedini,
+
+Love your work with PAZs.
+
+How did you define the top of your PAZ? It looks like it was the base of
+ the supply from the FTR and not the tip of the FTR. Is there a rule or
+guide you use to set the PAZ limits?
+
+Nice trade, saw price sneak into the PAZ then waited for a move down to
+demand (Bang !) and then waited for it to move back up to supply (Ka
+ching !).
+FA: سلام Pedini،
+
+کارت با PAZها را خیلی دوست دارم.
+
+سقف PAZات را چطور تعیین کردی؟ به نظر می‌رسد پایهٔ عرضهٔ FTR بوده، نه نوک FTR. قاعده یا راهنمایی هست که برای تعیین محدودهٔ PAZ استفاده کنی؟
+
+معاملهٔ خوبی بود؛ دیدم قیمت یواشکی به PAZ خزید، بعد منتظر حرکت نزولی به سمت تقاضا ماندی (Bang !) و بعد منتظر ماندی تا دوباره به عرضه برگردد (Ka ching !).
+
+### pedini_p12_9
+EN: Pedini,
+
+I have really learned a lot and enjoyed following your journal. Hope
+you don't mind my posting my thoughts on your most recent EU trade...
+FA: Pedini،
+
+واقعاً چیزهای زیادی یاد گرفتم و دنبال کردن ژورنالت برایم لذت‌بخش بود. امیدوارم بدت نیاید که فکرهایم را دربارهٔ آخرین معاملهٔ EUات اینجا می‌نویسم...
+
+### pedini_p12_10
+EN: Hiya Vogon!
+
+The PAZ is determined by the space between the two FTRs. In this case,
+price engulfed the lower FTR (into the PAZ), then was free to travel to
+the next FTR (other side of the PAZ).
+
+DT, your thoughts and everyone elses are always welcome in this space!
+
+Peds
+FA: سلام Vogon!
+
+PAZ با فاصلهٔ بین دو FTR تعیین می‌شود. در این مورد، قیمت FTR پایینی را اینگالف کرد (به داخل PAZ)، بعد آزاد بود تا به FTR بعدی سفر کند (آن سر PAZ).
+
+DT، نظر تو و بقیه همیشه در این صفحه خوش‌آمده است!
+
+Peds
+
+### pedini_p12_11
+EN: Hiya Pedini,
+
+Please excuse me while I jump onto your journal!
+
+I've seen it written elsewhere on RTM that 'FTR = FL', but you seem to
+treat it differently, and in a way that chimes with how I've come to
+think of it.
+
+So, it seems to me that the FTR is just confirmation that the FL is
+current, willing Supply / Demand, but this does not mean that the FTR is
+ current, willing Supply / Demand in and of itself (whether it is or
+isn't depends on the structure and location of the FTR to my mind).
+
+It's this FTR confirmation of the FL which enables us to determine where
+ PAZes are bounded, and where to look for EGs, which show us that
+current, willing Supply / Demand has now been absorbed, so price will
+only find more at the next confirmed level out (explaining why price
+will likely move from one edge of a PAZ to another edge of the adjoining
+ PAZ)... .
+
+My conclusion is actually that 'FTR (usually) = FTB' - and thus the FL
+has already been tested and Supply / Demand removed from it. Perhaps the
+ subtle difference is a matter of how quickly the FL is tested after it
+is formed?
+
+Am I on the right track or wide of the mark?
+
+Thanks in advance.
+
+Spongy.
+FA: سلام Pedini،
+
+ببخش اگر شیرجه می‌زنم وسط ژورنالت!
+
+جای دیگری در RTM دیده‌ام نوشته‌اند «FTR = FL»، ولی تو ظاهراً جور دیگری با آن رفتار می‌کنی، و به شکلی که با طرز فکری که خودم به آن رسیده‌ام هم‌خوانی دارد.
+
+پس به نظر من FTR فقط تأییدی است بر اینکه FL همان عرضه/تقاضای تازه و آمادهٔ فعلی است، ولی این یعنی خود FTR به‌تنهایی عرضه/تقاضای تازه و آماده نیست (به نظر من بستگی دارد به ساختار و موقعیت خود FTR).
+
+همین تأیید FTR برای FL است که به ما اجازه می‌دهد مرزهای PAZها را تعیین کنیم و بدانیم کجا دنبال EGها بگردیم؛ EGها نشان می‌دهند عرضه/تقاضای تازه و آمادهٔ فعلی حالا جذب شده، پس قیمت فقط در سطح تأییدشدهٔ بعدی چیز بیشتری پیدا می‌کند (و همین توضیح می‌دهد چرا قیمت احتمالاً از یک لبهٔ PAZ به لبهٔ دیگر PAZ مجاور می‌رود)... .
+
+نتیجه‌گیری من در واقع این است که «FTR (معمولاً) = FTB» — و بنابراین FL از قبل تست شده و عرضه/تقاضا از آن برداشته شده. شاید آن تفاوت ظریف به سرعت تست شدن FL بعد از شکل‌گیری‌اش مربوط باشد؟
+
+در مسیر درستم یا بیراهه؟
+
+از قبل ممنون.
+
+Spongy.
+
+### pedini_p12_12
+EN: Hey Peds!
+
+Just a quick Q on your EU trade. I have attached your chart with the two
+ separate levels blocked off. I know you are normally a CP guy for the
+PAZ's. This time I see you have no CP marked off. So my question is:
+Within each box, did you mark the FTR's (labeled with red arrows)
+because of the previous break of demand at the yellow arrows? So because
+ price broke the demand that the yellow arrow is pointing to, tired to
+get back up there and failed that now becomes your FTR. Or was there
+something to the left that you saw that made you mark those as FTR's?
+
+Thanks,
+
+H
+FA: سلام Peds!
+
+فقط یک سؤال سریع دربارهٔ معاملهٔ EUات. نمودارت را با آن دو سطح جدا که بلاک کرده‌ای پیوست کرده‌ام. می‌دانم که معمولاً برای PAZها آدم CP هستی. این بار می‌بینم هیچ CPای علامت نزده‌ای. پس سؤالم این است: داخل هر کادر، آن FTRها را (که با فلش قرمز مشخص کرده‌ای) به خاطر شکست قبلی تقاضا در فلش‌های زرد علامت زدی؟ یعنی چون قیمت تقاضایی را که فلش زرد نشانش می‌دهد شکست، تلاش کرد دوباره بالا برود و نتوانست، حالا آن FTR تو می‌شود. یا چیزی در سمت چپ دیدی که باعث شد آن‌ها را FTR علامت بزنی؟
+
+ممنون،
+
+H
+
+### pedini_p12_13
+EN: Hey guy, just got back from a weekend away, I read your comment on the
+ weekend, but wasn't ready to put my mind from "Break mode" to "Chart
+mode". Anyway, back into it, YIPEE!
+
+Spongy - Going from your comment, and some of your articles you have put
+ together, you really have a talent for tieing information together! As
+for your question, in my mind this is how I see it (and it may be a
+simplistic way of viewing it). A FTR is when a level is broken and price
+ fails to get back to higher/lower prices, this failure can be a test of
+ the broken level, or it may fall short, but it is still a FTR.
+
+Now, as for your comment regarding a FTR testing and thus removing
+supply/demand from a flag, again you have this correct IMO, but you may
+be missing something. I remember when I first started on supply/demand
+trading I used to watch Sam Seidens webinars. Now Mr Seiden is very
+strict on teaching not trading a level that is a test of another level
+(which in our case can be a FTR). To me this is nonsense, just think
+about how compression forms for example, every time supply/demand is
+tested in compression it is testing a test of another level, so these
+levels work!
+
+You also have the idea behind the PAZ down well. For me the FTR is more
+important to engulf and then to look for a trade, rather than basing a
+trade on the FTR itself (unless it was preceded by an engulf of another
+FTR). This is all a little bit of a mouthful, I hope it's understood!
+
+Hoto - I didn't mark out any CP because there was nothing important to
+mark off, and as you see the trade was not based on cany CP. You are
+spot on, those are the exact reasons I marked off those FTR levels
+
+Peds
+FA: سلام رفیق، همین حالا از یک آخر هفتهٔ بیرون برگشتم، کامنتت را آخر هفته خواندم، ولی آماده نبودم ذهنم را از «حالت تعطیل» به «حالت نمودار» ببرم. به هر حال، برگشتم به کار، YIPEE!
+
+Spongy — با توجه به کامنتت و بعضی مقاله‌هایی که کنار هم گذاشته‌ای، واقعاً استعداد کنار هم چیدن اطلاعات را داری! دربارهٔ سؤالت، در ذهن من این‌طور است (و ممکن است نگاه ساده‌شده‌ای باشد). FTR وقتی است که سطحی شکسته می‌شود و قیمت نمی‌تواند به قیمت‌های بالاتر/پایین‌تر برگردد؛ این ناکامی می‌تواند تست سطح شکسته باشد یا کمی کم بیاورد، ولی باز هم FTR است.
+
+حالا دربارهٔ کامنتت که FTR تست می‌شود و در نتیجه عرضه/تقاضا از یک فلگ برداشته می‌شود، این را هم به نظر من درست می‌گویی، ولی شاید چیزی را جا انداخته باشی. یادم می‌آید وقتی تازه معامله‌گری عرضه/تقاضا را شروع کردم، وبینارهای Sam Seiden را می‌دیدم. آقای Seiden خیلی سخت‌گیرانه آموزش می‌دهد که روی سطحی که تست سطح دیگری است معامله نکنیم (که در مورد ما می‌تواند FTR باشد). به نظر من این بی‌معنی است؛ فقط فکر کن فشردگی چطور شکل می‌گیرد: هر بار که عرضه/تقاضا در فشردگی تست می‌شود، دارد تستِ تست سطح دیگری را می‌کند، پس این سطوح جواب می‌دهند!
+
+ایدهٔ پشت PAZ را هم خوب گرفته‌ای. برای من اینگالف شدن FTR مهم‌تر است تا بعد دنبال معامله گشتن، نه اینکه معامله را روی خود FTR بنا کنم (مگر اینکه قبلش FTR دیگری اینگالف شده باشد). همهٔ این حرف‌ها کمی سنگین است، امیدوارم فهمیده شود!
+
+Hoto — هیچ CPای علامت نزدم چون چیز مهمی برای علامت زدن نبود، و همان‌طور که می‌بینی معامله بر پایهٔ هیچ CPای نبود. دقیقاً درست گفته‌ای، همان‌ها دلیل دقیق علامت زدن آن سطوح FTR بود.
+
+Peds
+
+### pedini_p12_14
+EN: Pedini wrote:
+
+You also have the idea behind the PAZ down well. For me the FTR is more
+important to engulf and then to look for a trade, rather than basing a
+trade on the FTR itself (unless it was preceded by an engulf of another
+FTR). This is all a little bit of a mouthful, I hope it's understood!
+
+Peds
+
+Pedini,
+
+Hope that you had a good holiday. Just to be clear about the statement
+above... You are saying that instead of simply trading the FTR blindly,
+ you "expect" a reaction at the FTR and if this reaction results in an
+engulf of a recent S/D level on the lower TF, THEN you will look to take
+ a trade since the FTR produced the reaction that you were looking for.
+ Is that correct?
+
+-Thanks
+
+-DT
+FA: Pedini نوشت:
+
+ایدهٔ پشت PAZ را هم خوب گرفته‌ای. برای من اینگالف شدن FTR مهم‌تر است تا بعد دنبال معامله گشتن، نه اینکه معامله را روی خود FTR بنا کنم (مگر اینکه قبلش FTR دیگری اینگالف شده باشد). همهٔ این حرف‌ها کمی سنگین است، امیدوارم فهمیده شود!
+
+Peds
+
+Pedini،
+
+امیدوارم تعطیلات خوبی گذرانده باشی. فقط برای روشن شدن آن جملهٔ بالا... می‌گویی به جای اینکه کورکورانه روی خود FTR معامله کنی، «انتظار» داری در FTR واکنشی بگیری و اگر این واکنش به اینگالف یک سطح S/D اخیر در TF پایین‌تر منجر شد، آن‌وقت دنبال گرفتن معامله می‌روی، چون FTR همان واکنشی را داد که منتظرش بودی. درست است؟
+
+-ممنون
+
+-DT
+
+### pedini_p12_15
+EN: DT, this is one way of waiting for conformation at a supply/demand
+level yes. What I was trying to say is I will often wait for a FTR to be
+ engulfed before I look to enter a trade targeting the next FTR. The
+entry is often another FTR. Does this make sense?
+FA: DT، بله، این یکی از راه‌های انتظار برای تأیید در یک سطح عرضه/تقاضا است. چیزی که می‌خواستم بگویم این است که من اغلب صبر می‌کنم یک FTR اینگالف شود، و بعد دنبال ورود به معامله‌ای با تارگت FTR بعدی می‌روم. ورود هم اغلب روی FTR دیگری است. منطقی است؟
+
+### pedini_p12_16
+EN: It only took a second to notice this trade opportunity. I missed my
+ideal entry so I went down to M1 to get the next best thing
+
+Peds
+FA: فقط یک ثانیه طول کشید تا این فرصت معاملاتی را ببینم. ورود ایدئالم را از دست دادم، پس رفتم روی M1 تا بهترین گزینهٔ بعدی را بگیرم
+
+Peds
+
+### pedini_p12_17
+EN: Gotta be reasonable with targets. UJ covered.
+FA: با تارگت‌ها باید منطقی بود. UJ کاور شد.
+
+### pedini_p12_18
+EN: Hiya Pedini,
+
+Hope you had a nice break, if you're based in the UK, we had (are having) some pretty nice weather at long last!
+
+Thanks for your reply, I attended Sam Seiden's webinars as well: I still
+ have that 'retest of level' bias, it's going slowly, but I don't think
+I'll ever be comfortable as a 'range' trader... .
+
+I agree with your comment that the FTR doesn't have to be at the same
+level as the FL, to me it just confirms what the FL represents.
+Referring back to my bias - my current way of thinking is that if the
+FTR is at the same level, the FL is the source, but if the FTR is lower
+or higher, then the FTR is the new source (preferably lower if the
+general direction is down and higher if it's up, but rightly or wrongly
+I'm agnostic at this time). In the same vein, Compression is
+progressively higher FTRs, so I can be okay with that too, but I need to
+ get a sense of direction to take advantage of these, something I lack
+in the chart world (quite the opposite to my sense of direction in the
+real world)!
+
+It's that inability to determine direction that's holding me back, but
+the EG of a confirmed level might be my guiding star if I can nail the
+combo. I'll get there eventually - just have to keep on keeping on until
+ I do.
+
+Regards.
+
+Spongy.
+FA: سلام Pedini،
+
+امیدوارم استراحت خوبی کرده باشی؛ اگر در انگلیس باشی، بالاخره هوا حسابی خوب شد (دارد می‌شود)!
+
+ممنون از جوابت، من هم وبینارهای Sam Seiden را می‌دیدم: هنوز آن سوگیری «تست دوبارهٔ سطح» را دارم، آرام‌آرام دارد کم می‌شود، ولی فکر نمی‌کنم هرگز به‌عنوان معامله‌گر «رنج» راحت باشم... .
+
+با حرفت موافقم که FTR لازم نیست در همان سطح FL باشد؛ برای من فقط تأیید می‌کند که FL نمایندهٔ چه چیزی است. برگردم به سوگیری خودم — طرز فکر فعلی‌ام این است که اگر FTR در همان سطح باشد، منبع خود FL است، ولی اگر FTR پایین‌تر یا بالاتر باشد، آن‌وقت FTR منبع تازه است (اگر جهت کلی نزولی است، ترجیحاً پایین‌تر، و اگر صعودی است، بالاتر؛ ولی درست یا غلط، فعلاً در این باره نظری ندارم). به همین ترتیب، فشردگی هم FTRهای پشت‌سرهم بالاتر است، پس با آن هم مشکلی ندارم، ولی برای استفاده از این‌ها به حس جهت نیاز دارم؛ چیزی که در دنیای نمودار کم دارم (کاملاً برعکس حس جهت‌یابی‌ام در دنیای واقعی)!
+
+همین ناتوانی در تعیین جهت است که نگهم داشته، ولی شاید EG یک سطح تأییدشده ستارهٔ راهنمایم شود، اگر بتوانم این ترکیب را درست بزنم. بالاخره به آنجا می‌رسم — فقط باید آن‌قدر ادامه بدهم تا برسم.
+
+با احترام.
+
+Spongy.
+
+### pedini_p12_19
+EN: Pedini wrote: DT, this is one
+way of waiting for conformation at a supply/demand level yes. What I was
+ trying to say is I will often wait for a FTR to be engulfed before I
+look to enter a trade targeting the next FTR. The entry is often another
+ FTR. Does this make sense?
+
+Continuing on with the UJ, I think that this is an example of what you are referring to. What do you think?
+FA: Pedini نوشت: DT، بله، این یکی از راه‌های انتظار برای تأیید در یک سطح عرضه/تقاضا است. چیزی که می‌خواستم بگویم این است که من اغلب صبر می‌کنم یک FTR اینگالف شود و بعد دنبال ورود به معامله‌ای با تارگت FTR بعدی می‌روم. ورود هم اغلب روی FTR دیگری است. منطقی است؟
+
+در ادامهٔ UJ، فکر می‌کنم این نمونه‌ای از همان چیزی است که منظورت بود. نظرت چیست؟
+
+### pedini_p12_20
+EN: You got it mate! ~^o^~
+FA: گرفتی‌اش رفیق! ~^o^~
+
+### pedini_p12_21
+EN: DharmaTrader wrote:
+Pedini
+ wrote: DT, this is one way of waiting for conformation at a
+supply/demand level yes. What I was trying to say is I will often wait
+for a FTR to be engulfed before I look to enter a trade targeting the
+next FTR. The entry is often another FTR. Does this make sense?
+
+Continuing on with the UJ, I think that this is an example of what you are referring to. What do you think?
+
+i think its like this drawing IF made
+FA: DharmaTrader نوشت:
+Pedini نوشت: DT، بله، این یکی از راه‌های انتظار برای تأیید در یک سطح عرضه/تقاضا است. چیزی که می‌خواستم بگویم این است که من اغلب صبر می‌کنم یک FTR اینگالف شود و بعد دنبال ورود به معامله‌ای با تارگت FTR بعدی می‌روم. ورود هم اغلب روی FTR دیگری است. منطقی است؟
+
+در ادامهٔ UJ، فکر می‌کنم این نمونه‌ای از همان چیزی است که منظورت بود. نظرت چیست؟
+
+به گمانم مثل این نقاشی است که IF کشیده
+
+### pedini_p12_22
+EN: It is obvious I could have taken this one much further, the entry was okay at least.
+
+Peds
+FA: واضح است که می‌توانستم این یکی را خیلی جلوتر ببرم؛ حداقل ورودش خوب بود.
+
+Peds
+
+### pedini_p12_23
+EN: I'd love to pin down how you draw your Paz's - I seem to have some
+kind of block there, after months, still. There seems to be so much
+noise around that on here, which I find frustrating, as almost all other
+ topics are clear to me. Anyhoo, nice trade. I noted this, too.
+FA: خیلی دوست دارم دقیق بفهمم PAZهایت را چطور رسم می‌کنی — انگار یک جور گیر ذهنی روی همین دارم، حتی بعد از چند ماه. به نظرم دور این موضوع اینجا نویز زیادی هست که برایم آزاردهنده است، چون تقریباً همهٔ موضوع‌های دیگر برایم روشن‌اند. به هر حال، معاملهٔ خوبی بود. این را هم یادداشت کردم.
+
+### pedini_p12_24
+EN: Hi Pedini,
+
+an apologize in advance for posting my first post right here, but in
+reaction to your post, I filled the chart with "time" and FTRs and some
+text, hoping doing these things correctly. I know it is M1 TF (so
+changeable and not suitable for doing analysis on), but offers many
+points to spot on. Looking forward to correct mistakes.
+
+Thank you very much and many successful tardes in advance
+
+PP15 :)
+FA: سلام Pedini،
+
+از قبل عذر می‌خواهم که اولین پستم را همین‌جا می‌گذارم، ولی در واکنش به پست تو، نمودار را با «تایم» و FTRها و کمی متن پر کردم، به این امید که این کارها را درست انجام داده باشم. می‌دانم که TF آن M1 است (خیلی تغییرپذیر و مناسب تحلیل نیست)، ولی نکته‌های زیادی برای دیدن دارد. منتظر تصحیح اشتباهاتم هستم.
+
+خیلی ممنون و از قبل آرزوی معامله‌های موفق زیاد
+
+PP15 :)
+
+### pedini_p12_25
+EN: PP15 wrote: Hi Pedini,
+
+an apologize in advance for posting my first post right here, but in
+reaction to your post, I filled the chart with "time" and FTRs and some
+text, hoping doing these things correctly. I know it is M1 TF (so
+changeable and not suitable for doing analysis on), but offers many
+points to spot on. Looking forward to correct mistakes.
+
+Thank you very much and many successful tardes in advance
+
+PP15 :)
+
+I truly have nothing to add. This is a beautiful read on price. Well
+done mate! Remember, it is the retraces after a FTR is engulfed that
+gives us the really nice trading opps
+FA: PP15 نوشت: سلام Pedini،
+
+از قبل عذر می‌خواهم که اولین پستم را همین‌جا می‌گذارم، ولی در واکنش به پست تو، نمودار را با «تایم» و FTRها و کمی متن پر کردم، به این امید که این کارها را درست انجام داده باشم. می‌دانم که TF آن M1 است (خیلی تغییرپذیر و مناسب تحلیل نیست)، ولی نکته‌های زیادی برای دیدن دارد. منتظر تصحیح اشتباهاتم هستم.
+
+خیلی ممنون و از قبل آرزوی معامله‌های موفق زیاد
+
+PP15 :)
+
+واقعاً چیزی برای اضافه کردن ندارم. این یک خوانش زیبا از قیمت است. آفرین رفیق! یادت باشد، همان پولبک‌های بعد از اینگالف شدن FTR هستند که فرصت‌های معاملاتی واقعاً خوب را به ما می‌دهند

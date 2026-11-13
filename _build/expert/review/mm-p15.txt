@@ -1,0 +1,91 @@
+### mm_p15_2
+EN: Madmoney wrote:
+FA: Madmoney نوشت:
+
+### mm_p15_6
+EN: Madmoney wrote:
+FA: Madmoney نوشت:
+
+### mm_p15_7
+EN: "A FL is where a PAZ gets broken and price FTRs".
+FA: «FL جایی است که یک PAZ شکسته می‌شود و قیمت FTR می‌کند».
+
+### mm_p15_9
+EN: Madmoney wrote: [/quote
+FA: Madmoney نوشت: [/quote
+
+### mm_p15_14
+EN: Madmoney wrote: Hello Madmoney nice trade! If i may pose a question: about your entry, from the entry level i think the reason of that Long was not the Demand the price entered into.
+
+Would you share the reason of the trade? many thanks, all the best
+FA: Madmoney نوشت: سلام Madmoney، معاملهٔ خوبی! اگر اجازه باشد یک سؤال بپرسم: دربارهٔ ورودت، به نظر من از سطح ورود پیداست که دلیل آن لانگ، تقاضایی که قیمت واردش شد نبود.
+
+دلیل این معامله را توضیح می‌دهی؟ خیلی ممنون، موفق باشی.
+
+### mm_p15_15
+EN: althoufx wrote: Madmoney wrote: Hello Madmoney nice trade! If i may pose a question: about your entry, from the entry level i think the reason of that Long was not the Demand the price entered into. Would you share the reason of the trade?
+
+many thanks, all the best Sorry for the delay, it was because of the demand @ the bottom I got in late.
+FA: althoufx نوشت: Madmoney نوشت: سلام Madmoney، معاملهٔ خوبی! اگر اجازه باشد یک سؤال بپرسم: دربارهٔ ورودت، به نظر من از سطح ورود پیداست که دلیل آن لانگ، تقاضایی که قیمت واردش شد نبود. دلیل این معامله را توضیح می‌دهی؟
+
+خیلی ممنون، موفق باشی. بابت تأخیر شرمنده؛ علتش همان تقاضا در کف بود، دیر وارد شدم.
+
+### mm_p15_17
+EN: Note to self Ifmyante wrote: Bushido wrote: Hello!
+
+My opinion after checking your chart below: - the right H isn't in the same or lower line of price like the left one (starting of QM) - also the wicks are not so long - should be more obvious that there is rejection of the price at that level The teachers will tell - but I wouldn't consider this as valid QM.
+
+We can get into trouble looking for a "to the pip" entry on a QM. In a QM at S, sure we look for the break above the initial H, which is where the buyers get trapped, but it's the DP to break back down after the HH that we look for in a QM, which need not be exactly at the level of the left shoulder
+FA: یادداشت برای خودم. Ifmyante نوشت: Bushido نوشت: سلام!
+
+نظر من بعد از بررسی چارتت در پایین: - H سمت راست، مثل H چپ (آغاز QM)، در همان سطح قیمتی یا پایین‌تر از آن نیست - همچنین سایه‌ها آن‌قدرها بلند نیستند - باید واضح‌تر باشد که قیمت در آن سطح رد شده است. استادها می‌گویند — ولی من این را QM معتبر نمی‌دانم.
+
+جست‌وجوی یک ورود «دقیق تا خود پیپ» روی QM می‌تواند دردسرساز شود. در یک QM در S، مسلماً دنبال شکست بالای H اولیه هستیم، همان‌جا که خریدارها به دام می‌افتند؛ اما آنچه در QM دنبالش هستیم DP برای شکست به سمت پایین بعد از HH است، که لازم نیست دقیقاً روی سطح شانهٔ چپ باشد.
+
+### mm_p15_18
+EN: Trying to understand the concept of PAZ and trading from the edge (may have it wrong), but I have taken the logic and applied it to my own understanding.
+
+What I have done for this screen shot (this one is just a single example), I have done to many FTR's and have consistent outcomes, I need to exercise this more to find if there is any truth in it....
+FA: دارم می‌کوشم مفهوم PAZ و معامله از لبه را بفهمم (شاید اشتباه فهمیده باشم)، اما منطقش را برداشته‌ام و بر فهم خودم اعمال کرده‌ام.
+
+آنچه برای این اسکرین‌شات کرده‌ام (این یکی فقط یک نمونه است)، برای بسیاری از FTRها انجام داده‌ام و نتایج یکدستی گرفته‌ام؛ باید بیشتر تمرین کنم تا ببینم حقیقتی در آن هست یا نه....
+
+### mm_p15_20
+EN: Working on flags and compression (basics), which I avoided probably through laziness or I just couldn't process at the time.
+FA: دارم روی FLها و فشرده‌سازی (مبانی) کار می‌کنم؛ چیزی که احتمالاً از تنبلی یا چون آن موقع نمی‌توانستم هضمش کنم از آن دوری می‌کردم.
+
+### mm_p15_22
+EN: Madmoney wrote:
+FA: Madmoney نوشت:
+
+### mm_p15_24
+EN: After struggling time after time with picking out LS/stoploss area's, I put a question out there to anyone who is comfortable picking these out day in day out.
+
+I see IF and other traders pick them like it is nothing and when I hear it is "simple stuff" I really begin start feeling stupid Here is a screenshot from one of IF's videos on youtube and I explain what is going on in my head.
+FA: بعد از اینکه بارها و بارها برای تشخیص ناحیه‌های LS/استاپ‌لاس تقلا کردم، سؤالم را با هر کسی مطرح کردم که هر روز این‌ها را راحت تشخیص می‌دهد.
+
+می‌بینم که IF و معامله‌گرهای دیگر این‌ها را طوری برمی‌دارند که انگار هیچ است، و وقتی می‌شنوم «چیز ساده‌ای است»، واقعاً حس حماقت به من دست می‌دهد. این اسکرین‌شاتی از یکی از ویدئوهای IF در یوتیوب است و توضیح می‌دهم در ذهنم چه می‌گذرد.
+
+### mm_p15_25
+EN: 3rd last arrow from the right is demand and the second from the right is ignored demand. See how if marked the box? He marked between decisions and high = PAZ.
+
+Also where you marked other arrows on the left looks like CP.
+
+Ignored levels are always respected sooner or later. Reason = Demand becomes Supply and vice versa. Also they are fresh levels once they break something significant.
+
+In this case I think it broke flag limit.
+
+I noticed how you mark the levels thinking they are fresh in your journey.. I suggest u to check HTF to see if they are really fresh levels.
+
+Dengaima
+FA: فلش سوم از آخر در سمت راست تقاضاست و فلش دوم از راست، تقاضای نادیده‌گرفته‌شده. ببین IF کادر را چطور علامت زد؟ او بین تصمیم‌ها و سقف علامت زد = PAZ.
+
+همچنین جاهایی که روی فلش‌های سمت چپ علامت زده‌ای، شبیه CP به نظر می‌رسد.
+
+سطوح نادیده‌گرفته‌شده دیر یا زود رعایت می‌شوند. دلیلش = تقاضا به عرضه تبدیل می‌شود و برعکس. همچنین وقتی چیزی مهم را می‌شکنند، سطح تازه‌ای هستند.
+
+در این مورد فکر می‌کنم FL را شکسته است.
+
+متوجه شدم که در مسیرت سطوح را طوری علامت می‌زنی که فکر می‌کنی تازه‌اند.. پیشنهاد می‌کنم تایم‌فریم بالاتر را بررسی کنی تا ببینی واقعاً تازه هستند یا نه.
+
+Dengaima

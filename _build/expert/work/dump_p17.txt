@@ -1,0 +1,255 @@
+##### hs_p17_401 hoeschec paras:3
+Here is an issue I need to study more: Stop placement.
+
+A good example of this is currently AUD-USD (15M Chart). I expect price to RT to the origin of the move, however in this case (and many like it) there is quite a bit of downside that I need to cover with respect to stop placement. If I have a tight stop (Stop "A") by R:R is terrific, but I stand a good chance of getting stopped out by a couple of pips.
+
+I could put a stop as low as "B" or "C"...but is that a smart thing to do in this situation? Any PA below stop "A" is basically moving in to a compression area...so if price enters this CP it is likely to fall all the way through. Is it best to keep a tight stop at the level "A" and get out of the trade if price breaks in to the CP below?
+---END---
+##### hs_p17_402 hoeschec paras:2
+Just went short on USD-CAD @ Flip zone
+
+Looked for FTR on 1 Min for entry
+---END---
+##### hs_p17_403 Bodostock paras:3
+The earlier drop was to pick up the remaining demand. Going back to the high.
+
+hoeschec wrote: Just went short on USD-CAD @ Flip zone
+
+Looked for FTR on 1 Min for entry
+---END---
+##### hs_p17_404 hoeschec paras:4
+Bodostock wrote: The earlier drop was to pick up the remaining demand. Going back to the high.
+
+hoeschec wrote: Just went short on USD-CAD @ Flip zone
+
+Looked for FTR on 1 Min for entry
+
+Do you expect it to drop again once it revisits the high?
+---END---
+##### hs_p17_405 Bodostock paras:7
+Actually i have set a pending short order at the red line as per the chart. Do you think is a QM?
+
+Going into 1m, that is where i intend to short.
+
+hoeschec wrote:
+
+Bodostock wrote: The earlier drop was to pick up the remaining demand. Going back to the high.
+
+hoeschec wrote: Just went short on USD-CAD @ Flip zone
+
+Looked for FTR on 1 Min for entry
+
+Do you expect it to drop again once it revisits the high?
+---END---
+##### hs_p17_406 Bodostock paras:7
+Actually i have set a pending short order at the red line as per the chart. Do you think is a QM?
+
+Going into 1m, that is where i intend to short.
+
+hoeschec wrote:
+
+Bodostock wrote: The earlier drop was to pick up the remaining demand. Going back to the high.
+
+hoeschec wrote: Just went short on USD-CAD @ Flip zone
+
+Looked for FTR on 1 Min for entry
+
+Do you expect it to drop again once it revisits the high?
+---END---
+##### hs_p17_407 Bodostock paras:7
+Actually i have set a pending short order at the red line as per the chart. Do you think is a QM?
+
+Going into 1m, that is where i intend to short.
+
+hoeschec wrote:
+
+Bodostock wrote: The earlier drop was to pick up the remaining demand. Going back to the high.
+
+hoeschec wrote: Just went short on USD-CAD @ Flip zone
+
+Looked for FTR on 1 Min for entry
+
+Do you expect it to drop again once it revisits the high?
+---END---
+##### hs_p17_408 hoeschec paras:1
+Yes, I got in already (a bit too early), but I agree with you about this being a QM. I think it has some room to fall nicely.
+---END---
+##### hs_p17_409 Bodostock paras:4
+Oh?? what signals you to enter,bro?
+
+i decided to plan my shorts higher. There seemed to be a QM there. Hope i wouldn't regret.
+
+1 min chart
+
+hoeschec wrote: Yes, I got in already (a bit too early), but I agree with you about this being a QM. I think it has some room to fall nicely.
+---END---
+##### hs_p17_410 hoeschec paras:3
+It was bad timing on my part...your analysis is way safer with far less risk. If I could turn back the clock I would have done exactly what you did.
+
+I will admit however, USD-CAD looks very bullish right now. I'm a bit nervous to be in the trade short....but I guess that's the whole point of a bearish QM...to entice Buyers and scare sellers.
+
+We will find out soon if we are right
+---END---
+##### hs_p17_411 Bodostock paras:5
+Oh, crap. made a silly mistake. I set my chart to " buyer chart:.
+
+My pending order missed by 2 pips again.
+
+hoeschec wrote: It was bad timing on my part...your analysis is way safer with far less risk. If I could turn back the clock I would have done exactly what you did.
+
+I will admit however, USD-CAD looks very bullish right now. I'm a bit nervous to be in the trade short....but I guess that's the whole point of a bearish QM...to entice Buyers and scare sellers.
+
+We will find out soon if we are right
+---END---
+##### hs_p17_412 hoeschec paras:8
+Bodostock wrote: Oh, crap. made a silly mistake. I set my chart to " buyer chart:.
+
+My pending order missed by 2 pips again.
+
+hoeschec wrote: It was bad timing on my part...your analysis is way safer with far less risk. If I could turn back the clock I would have done exactly what you did.
+
+I will admit however, USD-CAD looks very bullish right now. I'm a bit nervous to be in the trade short....but I guess that's the whole point of a bearish QM...to entice Buyers and scare sellers.
+
+We will find out soon if we are right
+
+I hate when that happens!
+
+Depending on your risk appetite, you can probably still get in. If this is indeed a QM level that works out, this is likely going to be a swing trade that will take a couple of days to see through. On the downside, if we are wrong and the QM fails or Diamonds, then you will get stopped out.
+
+My target for the QM (hourly chart) is down around 1.31110
+---END---
+##### hs_p17_413 Bodostock paras:14
+I can't. The drop was too fast. The current price is way too far from my inital stoploss.
+
+Now don't know where to re-enter.
+
+Now i set my new pending order as per chart shown.
+
+Is that another QM?
+
+Would prefer price to go down further below the blue zone before it retraces to prove its beearishness.
+
+hoeschec wrote:
+
+Bodostock wrote: Oh, crap. made a silly mistake. I set my chart to " buyer chart:.
+
+My pending order missed by 2 pips again.
+
+hoeschec wrote: It was bad timing on my part...your analysis is way safer with far less risk. If I could turn back the clock I would have done exactly what you did.
+
+I will admit however, USD-CAD looks very bullish right now. I'm a bit nervous to be in the trade short....but I guess that's the whole point of a bearish QM...to entice Buyers and scare sellers.
+
+We will find out soon if we are right
+
+I hate when that happens!
+
+Depending on your risk appetite, you can probably still get in. If this is indeed a QM level that works out, this is likely going to be a swing trade that will take a couple of days to see through. On the downside, if we are wrong and the QM fails or Diamonds, then you will get stopped out.
+
+My target for the QM (hourly chart) is down around 1.31110
+---END---
+##### hs_p17_414 hoeschec paras:3
+Well I respect your self control for not taking the trade!
+
+Hopefully you will be able to find a reason to get in during the London session tonight.
+
+-H
+---END---
+##### hs_p17_415 hoeschec paras:3
+What a perfect setup on AUD-USD.
+
+I love watching price follow through like this after an engulf!
+
+Here is the HTF view:
+---END---
+##### hs_p17_416 hoeschec paras:8
+I am thankful that I've gotten to a point in my trading career were I am able to see opportunities like the AUD-USD example above. It has taken a lot of time but some of the most obvious setups are starting to 'stand out' to me. When they work, they are beautifully simple.
+
+My next major hurdle to contend with: weeding out the bad trades...the ones I take that fail because of the following reasons:
+
+1. I am tired in the morning, turn on the computer, and immediately think I see PA developing so I quickly open a trade for fear of 'missing out'.
+
+2. Over complicating the concepts and looking too hard to find a trade.
+
+3. Emotional trading (too many lots opened out of greed, trading while frustrated or angry etc...)
+
+4. Sloppy and lazy trading - not doing a full top-down analysis
+
+5. Lack of patience....Instead, I need to determine the EXACT setup I am looking for and wait for the right time to trade it.
+
+If I can start eliminating these bad habits, I will become profitable...very profitable. I must eliminate those bad trades that wipe out a week's worth of profitability.
+---END---
+##### hs_p17_417 Bodostock paras:6
+Last night wasn't my day!
+
+USDCAD did retrace to almost my new limit order level at suspected QM before resume the fall but i missed seeing the ignored support turn resistance in the lower timeframe than 1M. Missed again by 2 pips!
+
+Crap!
+
+hoeschec wrote: Well I respect your self control for not taking the trade!
+
+Hopefully you will be able to find a reason to get in during the London session tonight.
+
+-H
+---END---
+##### hs_p17_418 hoeschec paras:1
+I bailed on the USD-CAD this morning. Too much event risk coming up in the next 24 hours with Non Farm Payrolls. Plus, my entry was a disaster.. I left 60% of the profit on the table because I got in too early.
+---END---
+##### hs_p17_419 hoeschec paras:4
+Watching EUR-USD
+
+If EG occurs, and a decent RT happens to the source, I will short to the end of the Pole (pole on left).
+
+EG happened, but it looks like I may not get a RT. Getting in the trade now would be too risky... I am trying to rid myself of the bad habit of chasing a few pips.
+
+4-HR Chart
+---END---
+##### hs_p17_420 Bodostock paras:3
+I won't short at the level you indicated because it is so near the demand zone.
+
+In fact i set a llmit order to long at the demand zone (the red rectangle) you drew at the bottom as per your 4hr chart.
+
+But now seems like price is turning up without touching it. What am i missing to see again?
+---END---
+##### hs_p17_421 Bodostock paras:2
+Still i admire your guts to hold your position overnight till morning.
+
+hoeschec wrote: I bailed on the USD-CAD this morning. Too much event risk coming up in the next 24 hours with Non Farm Payrolls. Plus, my entry was a disaster.. I left 60% of the profit on the table because I got in too early.
+---END---
+##### hs_p17_422 hoeschec paras:2
+Yes, I decided against the EUR-USD trade.
+
+Instead I took this...so simple and easy!
+---END---
+##### hs_p17_423 Bodostock paras:3
+hoeschec wrote: Yes, I decided against the EUR-USD trade.
+
+Instead I took this...so simple and easy!
+
+Nice one!
+---END---
+##### hs_p17_424 hoeschec paras:3
+Just marking up EUR-AUD:
+
+Possible area RBD where price may bounce. DP shown by dotted line on 5M chart.
+
+Here is an alternative view...a case to be made for a bullish QM to form. I will wait to see how price reacts to the RBD Supply zone before considering a trade. Not a good TT opportunity in my opinion. I will watch the FL formation as price moves up in to this level.
+---END---
+##### hs_p17_425 scoobydoo paras:9
+Just a though H -Don't even THINK about switching the PC on first thing in the morning. Do some other things that need done and only trade when u feel most focused. The trades will always be there and the more confidence you gain in your setups, the less you will need to keep looking at the market "for fear of missing out". U can just increase the stakes in the trades u take when focused.
+
+hoeschec wrote: I am thankful that I've gotten to a point in my trading career were I am able to see opportunities like the AUD-USD example above. It has taken a lot of time but some of the most obvious setups are starting to 'stand out' to me. When they work, they are beautifully simple.
+
+My next major hurdle to contend with: weeding out the bad trades...the ones I take that fail because of the following reasons:
+
+1. I am tired in the morning, turn on the computer, and immediately think I see PA developing so I quickly open a trade for fear of 'missing out'.
+
+2. Over complicating the concepts and looking too hard to find a trade.
+
+3. Emotional trading (too many lots opened out of greed, trading while frustrated or angry etc...)
+
+4. Sloppy and lazy trading - not doing a full top-down analysis
+
+5. Lack of patience....Instead, I need to determine the EXACT setup I am looking for and wait for the right time to trade it.
+
+If I can start eliminating these bad habits, I will become profitable...very profitable. I must eliminate those bad trades that wipe out a week's worth of profitability.
+---END---

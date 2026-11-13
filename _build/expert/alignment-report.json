@@ -1,0 +1,8857 @@
+{
+ "posts": 33975,
+ "pages": 1484,
+ "byKind": {
+  "head-count": 50,
+  "latin-weld": 390,
+  "acronym-zwnj": 830,
+  "url-missing": 27,
+  "anchor-missing": 45,
+  "duplicate-para": 44,
+  "punctuation-runs": 22,
+  "head-added": 27,
+  "head-missing": 24,
+  "anchor-moved": 5,
+  "head-changed": 9
+ },
+ "findings": [
+  {
+   "page": "3drive-p1",
+   "id": "3drive_p1_18",
+   "kind": "head-count",
+   "detail": "EN 1 [whiteout] vs FA 2 [whiteout, funny]"
+  },
+  {
+   "page": "3drive-p7",
+   "id": "3drive_p7_172",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "aboutcompression-p1",
+   "id": "aboutcompression_p1_48",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "aboutcompression-p1",
+   "id": "aboutcompression_p1_49",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "aboutcompression-p10",
+   "id": "aboutcompression_p10_269",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "aboutcompression-p12",
+   "id": "aboutcompression_p12_302",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "aboutcompression-p14",
+   "id": "aboutcompression_p14_358",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "aboutcompression-p14",
+   "id": "aboutcompression_p14_370",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "aboutcompression-p16",
+   "id": "aboutcompression_p16_419",
+   "kind": "url-missing",
+   "detail": "www.acegazette.com/en/community/ace-foru...out-compression.htmland"
+  },
+  {
+   "page": "aboutcompression-p16",
+   "id": "aboutcompression_p16_419",
+   "kind": "anchor-missing",
+   "detail": "p2: www.acegazette.com/en/community/ace-foru...out-compression.htmland"
+  },
+  {
+   "page": "aboutcompression-p2",
+   "id": "aboutcompression_p2_53",
+   "kind": "url-missing",
+   "detail": "www.acegazette.com/en/community/jomsocia...-rbd-at-sr-flip.html"
+  },
+  {
+   "page": "aboutcompression-p2",
+   "id": "aboutcompression_p2_57",
+   "kind": "url-missing",
+   "detail": "www.acegazette.com/en/community/jomsocia...-rbd-at-sr-flip.html"
+  },
+  {
+   "page": "aboutcompression-p22",
+   "id": "aboutcompression_p22_572",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "aboutcompression-p22",
+   "id": "aboutcompression_p22_573",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "aboutcompression-p23",
+   "id": "aboutcompression_p23_577",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "aboutcompression-p23",
+   "id": "aboutcompression_p23_583",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "aboutcompression-p24",
+   "id": "aboutcompression_p24_611",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "aboutcompression-p24",
+   "id": "aboutcompression_p24_612",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "aboutcompression-p29",
+   "id": "aboutcompression_p29_748",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "aboutcompression-p33",
+   "id": "aboutcompression_p33_831",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "aboutcompression-p33",
+   "id": "aboutcompression_p33_844",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "aboutcompression-p34",
+   "id": "aboutcompression_p34_856",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "aboutcompression-p34",
+   "id": "aboutcompression_p34_857",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "aboutcompression-p34",
+   "id": "aboutcompression_p34_858",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "aboutcompression-p34",
+   "id": "aboutcompression_p34_860",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "aboutcompression-p34",
+   "id": "aboutcompression_p34_862",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "aboutcompression-p34",
+   "id": "aboutcompression_p34_863",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "aboutcompression-p35",
+   "id": "aboutcompression_p35_878",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "aboutcompression-p36",
+   "id": "aboutcompression_p36_910",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "aboutcompression-p36",
+   "id": "aboutcompression_p36_912",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "aboutcompression-p37",
+   "id": "aboutcompression_p37_926",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "aboutcompression-p37",
+   "id": "aboutcompression_p37_941",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "aboutcompression-p40",
+   "id": "aboutcompression_p40_1011",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "aboutcompression-p41",
+   "id": "aboutcompression_p41_1036",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "aboutcompression-p41",
+   "id": "aboutcompression_p41_1037",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "aboutcompression-p43",
+   "id": "aboutcompression_p43_1079",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "aboutcompression-p47",
+   "id": "aboutcompression_p47_1186",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "aboutcompression-p47",
+   "id": "aboutcompression_p47_1187",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "aboutcompression-p47",
+   "id": "aboutcompression_p47_1194",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "aboutcompression-p47",
+   "id": "aboutcompression_p47_1200",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "aboutcompression-p48",
+   "id": "aboutcompression_p48_1223",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "aboutcompression-p48",
+   "id": "aboutcompression_p48_1224",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "aboutcompression-p49",
+   "id": "aboutcompression_p49_1226",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "aboutcompression-p49",
+   "id": "aboutcompression_p49_1240",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "aboutcompression-p49",
+   "id": "aboutcompression_p49_1246",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "aboutcompression-p5",
+   "id": "aboutcompression_p5_133",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "aboutcompression-p50",
+   "id": "aboutcompression_p50_1257",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "aboutcompression-p50",
+   "id": "aboutcompression_p50_1258",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "aboutcompression-p50",
+   "id": "aboutcompression_p50_1266",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "aboutcompression-p6",
+   "id": "aboutcompression_p6_175",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "aboutcompression-p7",
+   "id": "aboutcompression_p7_199",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "academylite2-p2",
+   "id": "academylite2_p2_48",
+   "kind": "url-missing",
+   "detail": "www.fxtop.comis"
+  },
+  {
+   "page": "academylite2-p2",
+   "id": "academylite2_p2_48",
+   "kind": "anchor-missing",
+   "detail": "p2: www.fxtop.comis"
+  },
+  {
+   "page": "alex-p15",
+   "id": "alex_p15_363",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "alex-p16",
+   "id": "alex_p16_383",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "alex-p22",
+   "id": "alex_p22_544",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "alex-p22",
+   "id": "alex_p22_545",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "alex-p29",
+   "id": "alex_p29_707",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "alex-p29",
+   "id": "alex_p29_708",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "alex-p33",
+   "id": "alex_p33_816",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "amit-p10",
+   "id": "amit_p10_234",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "amit-p11",
+   "id": "amit_p11_264",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "amit-p11",
+   "id": "amit_p11_267",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "amit-p13",
+   "id": "amit_p13_301",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "amit-p14",
+   "id": "amit_p14_339",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "amit-p15",
+   "id": "amit_p15_362",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "amit-p15",
+   "id": "amit_p15_363",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "amit-p15",
+   "id": "amit_p15_368",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "amit-p21",
+   "id": "amit_p21_504",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "amit-p7",
+   "id": "amit_p7_175",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "amit-p8",
+   "id": "amit_p8_185",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "amit-p8",
+   "id": "amit_p8_190",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "amit-p8",
+   "id": "amit_p8_193",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "art-p1",
+   "id": "art_p1_10",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "art-p1",
+   "id": "art_p1_20",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "art-p1",
+   "id": "art_p1_24",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "art-p13",
+   "id": "art_p13_303",
+   "kind": "url-missing",
+   "detail": "www.forexmt4.com/mt_yahoo/Alerter4U.zip?"
+  },
+  {
+   "page": "art-p13",
+   "id": "art_p13_303",
+   "kind": "anchor-missing",
+   "detail": "p1: www.forexmt4.com/mt_yahoo/Alerter4U.zip?"
+  },
+  {
+   "page": "art-p14",
+   "id": "art_p14_333",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "art-p14",
+   "id": "art_p14_334",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "art-p14",
+   "id": "art_p14_342",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "art-p14",
+   "id": "art_p14_346",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "art-p5",
+   "id": "art_p5_108",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "art-p5",
+   "id": "art_p5_111",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "art-p5",
+   "id": "art_p5_114",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "art-p5",
+   "id": "art_p5_117",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "art-p5",
+   "id": "art_p5_119",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "art-p5",
+   "id": "art_p5_122",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "art-p5",
+   "id": "art_p5_123",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "art-p7",
+   "id": "art_p7_167",
+   "kind": "url-missing",
+   "detail": "www.tradingview.comusing"
+  },
+  {
+   "page": "art-p7",
+   "id": "art_p7_167",
+   "kind": "anchor-missing",
+   "detail": "p3: www.tradingview.comusing"
+  },
+  {
+   "page": "astrokillah-p19",
+   "id": "astrokillah_p19_453",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "astrokillah-p19",
+   "id": "astrokillah_p19_458",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "astrokillah-p19",
+   "id": "astrokillah_p19_459",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "cancan-p2",
+   "id": "cancan_p2_38",
+   "kind": "duplicate-para",
+   "detail": "p1 = p4"
+  },
+  {
+   "page": "capnp-p1",
+   "id": "capnp_p1_21",
+   "kind": "punctuation-runs",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p10",
+   "id": "classroom_p10_226",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p10",
+   "id": "classroom_p10_238",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p10",
+   "id": "classroom_p10_242",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p10",
+   "id": "classroom_p10_248",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p11",
+   "id": "classroom_p11_252",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p11",
+   "id": "classroom_p11_256",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p12",
+   "id": "classroom_p12_292",
+   "kind": "url-missing",
+   "detail": "www.tradingview.com/-"
+  },
+  {
+   "page": "classroom-p12",
+   "id": "classroom_p12_292",
+   "kind": "anchor-missing",
+   "detail": "p1: www.tradingview.com/-"
+  },
+  {
+   "page": "classroom-p19",
+   "id": "classroom_p19_453",
+   "kind": "head-count",
+   "detail": "EN 1 [tradingjedi] vs FA 2 [Cosmo, tradingjedi]"
+  },
+  {
+   "page": "classroom-p19",
+   "id": "classroom_p19_453",
+   "kind": "head-added",
+   "detail": "p1: Cosmo"
+  },
+  {
+   "page": "classroom-p2",
+   "id": "classroom_p2_33",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p20",
+   "id": "classroom_p20_478",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p20",
+   "id": "classroom_p20_482",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p20",
+   "id": "classroom_p20_496",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p21",
+   "id": "classroom_p21_509",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p22",
+   "id": "classroom_p22_528",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p22",
+   "id": "classroom_p22_531",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p23",
+   "id": "classroom_p23_558",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p23",
+   "id": "classroom_p23_563",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p23",
+   "id": "classroom_p23_575",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p25",
+   "id": "classroom_p25_625",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p27",
+   "id": "classroom_p27_675",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p3",
+   "id": "classroom_p3_74",
+   "kind": "head-count",
+   "detail": "EN 1 [Rosa] vs FA 2 [Alientrader, Rosa]"
+  },
+  {
+   "page": "classroom-p3",
+   "id": "classroom_p3_74",
+   "kind": "head-added",
+   "detail": "p1: Alientrader"
+  },
+  {
+   "page": "classroom-p30",
+   "id": "classroom_p30_736",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p30",
+   "id": "classroom_p30_738",
+   "kind": "head-count",
+   "detail": "EN 0 [] vs FA 1 [pres78]"
+  },
+  {
+   "page": "classroom-p30",
+   "id": "classroom_p30_738",
+   "kind": "head-added",
+   "detail": "p1: pres78"
+  },
+  {
+   "page": "classroom-p30",
+   "id": "classroom_p30_740",
+   "kind": "head-count",
+   "detail": "EN 0 [] vs FA 1 [pres78]"
+  },
+  {
+   "page": "classroom-p30",
+   "id": "classroom_p30_740",
+   "kind": "head-added",
+   "detail": "p1: pres78"
+  },
+  {
+   "page": "classroom-p30",
+   "id": "classroom_p30_747",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p30",
+   "id": "classroom_p30_748",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p33",
+   "id": "classroom_p33_810",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p34",
+   "id": "classroom_p34_828",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p34",
+   "id": "classroom_p34_829",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p34",
+   "id": "classroom_p34_837",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p35",
+   "id": "classroom_p35_853",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p35",
+   "id": "classroom_p35_866",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p36",
+   "id": "classroom_p36_885",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p36",
+   "id": "classroom_p36_886",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p36",
+   "id": "classroom_p36_887",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p36",
+   "id": "classroom_p36_888",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p36",
+   "id": "classroom_p36_889",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p37",
+   "id": "classroom_p37_909",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p38",
+   "id": "classroom_p38_940",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p38",
+   "id": "classroom_p38_948",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p39",
+   "id": "classroom_p39_969",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p4",
+   "id": "classroom_p4_99",
+   "kind": "head-added",
+   "detail": "p1: Ifmyante"
+  },
+  {
+   "page": "classroom-p4",
+   "id": "classroom_p4_99",
+   "kind": "head-missing",
+   "detail": "p2: Ifmyante"
+  },
+  {
+   "page": "classroom-p4",
+   "id": "classroom_p4_99",
+   "kind": "anchor-moved",
+   "detail": "p2: Ifmyante"
+  },
+  {
+   "page": "classroom-p40",
+   "id": "classroom_p40_989",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p40",
+   "id": "classroom_p40_993",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p40",
+   "id": "classroom_p40_997",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p40",
+   "id": "classroom_p40_998",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p41",
+   "id": "classroom_p41_1002",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p41",
+   "id": "classroom_p41_1004",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p41",
+   "id": "classroom_p41_1025",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p42",
+   "id": "classroom_p42_1027",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p42",
+   "id": "classroom_p42_1028",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p42",
+   "id": "classroom_p42_1030",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p42",
+   "id": "classroom_p42_1031",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p42",
+   "id": "classroom_p42_1041",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p42",
+   "id": "classroom_p42_1045",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p43",
+   "id": "classroom_p43_1060",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p43",
+   "id": "classroom_p43_1064",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p43",
+   "id": "classroom_p43_1066",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p43",
+   "id": "classroom_p43_1067",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p43",
+   "id": "classroom_p43_1072",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p43",
+   "id": "classroom_p43_1075",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p45",
+   "id": "classroom_p45_1105",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p45",
+   "id": "classroom_p45_1114",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p45",
+   "id": "classroom_p45_1121",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p45",
+   "id": "classroom_p45_1122",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p46",
+   "id": "classroom_p46_1126",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p46",
+   "id": "classroom_p46_1128",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p46",
+   "id": "classroom_p46_1131",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p46",
+   "id": "classroom_p46_1140",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p46",
+   "id": "classroom_p46_1142",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p46",
+   "id": "classroom_p46_1144",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p46",
+   "id": "classroom_p46_1145",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p46",
+   "id": "classroom_p46_1146",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p46",
+   "id": "classroom_p46_1148",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p48",
+   "id": "classroom_p48_1179",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p48",
+   "id": "classroom_p48_1181",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p48",
+   "id": "classroom_p48_1182",
+   "kind": "punctuation-runs",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p48",
+   "id": "classroom_p48_1182",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p48",
+   "id": "classroom_p48_1184",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p48",
+   "id": "classroom_p48_1190",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p48",
+   "id": "classroom_p48_1192",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p48",
+   "id": "classroom_p48_1195",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p48",
+   "id": "classroom_p48_1196",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p48",
+   "id": "classroom_p48_1199",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p48",
+   "id": "classroom_p48_1200",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p7",
+   "id": "classroom_p7_151",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p9",
+   "id": "classroom_p9_205",
+   "kind": "head-count",
+   "detail": "EN 0 [] vs FA 1 [Link]"
+  },
+  {
+   "page": "classroom-p9",
+   "id": "classroom_p9_205",
+   "kind": "head-added",
+   "detail": "p1: Link"
+  },
+  {
+   "page": "classroom-p9",
+   "id": "classroom_p9_210",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "classroom-p9",
+   "id": "classroom_p9_211",
+   "kind": "head-count",
+   "detail": "EN 2 [jogold24, jogold24] vs FA 3 [Harry, jogold24, jogold24]"
+  },
+  {
+   "page": "classroom-p9",
+   "id": "classroom_p9_211",
+   "kind": "head-changed",
+   "detail": "p1: jogold24 → Harry"
+  },
+  {
+   "page": "classroom-p9",
+   "id": "classroom_p9_212",
+   "kind": "head-count",
+   "detail": "EN 0 [] vs FA 1 [Hotochin]"
+  },
+  {
+   "page": "classroom-p9",
+   "id": "classroom_p9_212",
+   "kind": "head-added",
+   "detail": "p1: Hotochin"
+  },
+  {
+   "page": "constantine-p1",
+   "id": "constantine_p1_16",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "constantine-p1",
+   "id": "constantine_p1_17",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "constantine-p2",
+   "id": "constantine_p2_31",
+   "kind": "head-count",
+   "detail": "EN 0 [] vs FA 1 [Ifmyante]"
+  },
+  {
+   "page": "constantine-p2",
+   "id": "constantine_p2_31",
+   "kind": "head-added",
+   "detail": "p1: Ifmyante"
+  },
+  {
+   "page": "constantine-p2",
+   "id": "constantine_p2_35",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "constantine-p2",
+   "id": "constantine_p2_45",
+   "kind": "head-count",
+   "detail": "EN 0 [] vs FA 1 [Rinehart]"
+  },
+  {
+   "page": "constantine-p2",
+   "id": "constantine_p2_45",
+   "kind": "head-added",
+   "detail": "p1: Rinehart"
+  },
+  {
+   "page": "constantine-p3",
+   "id": "constantine_p3_66",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "constantine-p3",
+   "id": "constantine_p3_72",
+   "kind": "punctuation-runs",
+   "detail": ""
+  },
+  {
+   "page": "constantine-p5",
+   "id": "constantine_p5_119",
+   "kind": "head-count",
+   "detail": "EN 0 [] vs FA 1 [Edge]"
+  },
+  {
+   "page": "constantine-p5",
+   "id": "constantine_p5_119",
+   "kind": "head-added",
+   "detail": "p1: Edge"
+  },
+  {
+   "page": "dbrrbd-p14",
+   "id": "dbrrbd_p14_326",
+   "kind": "url-missing",
+   "detail": "www.acegazette.com/en/community/ace-foru....html?start=375#8342"
+  },
+  {
+   "page": "dbrrbd-p14",
+   "id": "dbrrbd_p14_348",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "dbrrbd-p19",
+   "id": "dbrrbd_p19_458",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "dbrrbd-p19",
+   "id": "dbrrbd_p19_462",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "dbrrbd-p19",
+   "id": "dbrrbd_p19_464",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "dbrrbd-p19",
+   "id": "dbrrbd_p19_466",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "dbrrbd-p2",
+   "id": "dbrrbd_p2_41",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "dbrrbd-p20",
+   "id": "dbrrbd_p20_478",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "dbrrbd-p20",
+   "id": "dbrrbd_p20_484",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "dbrrbd-p20",
+   "id": "dbrrbd_p20_487",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "dbrrbd-p20",
+   "id": "dbrrbd_p20_489",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "dbrrbd-p22",
+   "id": "dbrrbd_p22_536",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "dbrrbd-p22",
+   "id": "dbrrbd_p22_546",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "dbrrbd-p26",
+   "id": "dbrrbd_p26_628",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "dbrrbd-p26",
+   "id": "dbrrbd_p26_630",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "dbrrbd-p26",
+   "id": "dbrrbd_p26_631",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "dbrrbd-p26",
+   "id": "dbrrbd_p26_634",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "dbrrbd-p26",
+   "id": "dbrrbd_p26_639",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "dbrrbd-p26",
+   "id": "dbrrbd_p26_640",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "dbrrbd-p26",
+   "id": "dbrrbd_p26_649",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "dbrrbd-p27",
+   "id": "dbrrbd_p27_651",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "dbrrbd-p27",
+   "id": "dbrrbd_p27_671",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "dbrrbd-p27",
+   "id": "dbrrbd_p27_672",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "dbrrbd-p27",
+   "id": "dbrrbd_p27_674",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "dbrrbd-p28",
+   "id": "dbrrbd_p28_677",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "dbrrbd-p29",
+   "id": "dbrrbd_p29_704",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "dbrrbd-p29",
+   "id": "dbrrbd_p29_705",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "dbrrbd-p29",
+   "id": "dbrrbd_p29_720",
+   "kind": "duplicate-para",
+   "detail": "p2 = p7"
+  },
+  {
+   "page": "dbrrbd-p31",
+   "id": "dbrrbd_p31_768",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "dbrrbd-p31",
+   "id": "dbrrbd_p31_774",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "dbrrbd-p31",
+   "id": "dbrrbd_p31_775",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "dbrrbd-p33",
+   "id": "dbrrbd_p33_822",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "dbrrbd-p36",
+   "id": "dbrrbd_p36_888",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "dbrrbd-p38",
+   "id": "dbrrbd_p38_927",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "dbrrbd-p38",
+   "id": "dbrrbd_p38_934",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "dbrrbd-p40",
+   "id": "dbrrbd_p40_985",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "dbrrbd-p56",
+   "id": "dbrrbd_p56_1376",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "dbrrbd-p56",
+   "id": "dbrrbd_p56_1379",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "dbrrbd-p56",
+   "id": "dbrrbd_p56_1381",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "dbrrbd-p56",
+   "id": "dbrrbd_p56_1387",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "dbrrbd-p58",
+   "id": "dbrrbd_p58_1434",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "dbrrbd-p60",
+   "id": "dbrrbd_p60_1487",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "dbrrbd-p60",
+   "id": "dbrrbd_p60_1488",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "dbrrbd-p61",
+   "id": "dbrrbd_p61_1501",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "dbrrbd-p64",
+   "id": "dbrrbd_p64_1583",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "dbrrbd-p64",
+   "id": "dbrrbd_p64_1584",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "dbrrbd-p64",
+   "id": "dbrrbd_p64_1597",
+   "kind": "punctuation-runs",
+   "detail": ""
+  },
+  {
+   "page": "dbrrbd-p65",
+   "id": "dbrrbd_p65_1623",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "dbrrbd-p9",
+   "id": "dbrrbd_p9_211",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "dbrrbd-p9",
+   "id": "dbrrbd_p9_214",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "dbrrbd-p9",
+   "id": "dbrrbd_p9_217",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "dbrrbd-p9",
+   "id": "dbrrbd_p9_219",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "diamond-p10",
+   "id": "diamond_p10_234",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "diamond-p3",
+   "id": "diamond_p3_68",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "diamond-p6",
+   "id": "diamond_p6_134",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p1",
+   "id": "doctorpatient_p1_1",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p1",
+   "id": "doctorpatient_p1_9",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p1",
+   "id": "doctorpatient_p1_13",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p1",
+   "id": "doctorpatient_p1_17",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p1",
+   "id": "doctorpatient_p1_22",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p1",
+   "id": "doctorpatient_p1_24",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p10",
+   "id": "doctorpatient_p10_227",
+   "kind": "head-count",
+   "detail": "EN 0 [] vs FA 1 [Doctor]"
+  },
+  {
+   "page": "doctorpatient-p10",
+   "id": "doctorpatient_p10_227",
+   "kind": "head-added",
+   "detail": "p1: Doctor"
+  },
+  {
+   "page": "doctorpatient-p10",
+   "id": "doctorpatient_p10_230",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p10",
+   "id": "doctorpatient_p10_232",
+   "kind": "url-missing",
+   "detail": "www.acegazette.com/en/community/ace-foru....html?start=175#4314"
+  },
+  {
+   "page": "doctorpatient-p10",
+   "id": "doctorpatient_p10_239",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p10",
+   "id": "doctorpatient_p10_240",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p10",
+   "id": "doctorpatient_p10_241",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p10",
+   "id": "doctorpatient_p10_243",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p10",
+   "id": "doctorpatient_p10_244",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p10",
+   "id": "doctorpatient_p10_245",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p11",
+   "id": "doctorpatient_p11_251",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p11",
+   "id": "doctorpatient_p11_258",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p11",
+   "id": "doctorpatient_p11_259",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p11",
+   "id": "doctorpatient_p11_267",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p11",
+   "id": "doctorpatient_p11_268",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p11",
+   "id": "doctorpatient_p11_269",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p11",
+   "id": "doctorpatient_p11_270",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p11",
+   "id": "doctorpatient_p11_272",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p11",
+   "id": "doctorpatient_p11_274",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p12",
+   "id": "doctorpatient_p12_280",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p12",
+   "id": "doctorpatient_p12_298",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p14",
+   "id": "doctorpatient_p14_334",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p14",
+   "id": "doctorpatient_p14_338",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p14",
+   "id": "doctorpatient_p14_340",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p14",
+   "id": "doctorpatient_p14_342",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p14",
+   "id": "doctorpatient_p14_344",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p14",
+   "id": "doctorpatient_p14_350",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p15",
+   "id": "doctorpatient_p15_352",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p15",
+   "id": "doctorpatient_p15_355",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p15",
+   "id": "doctorpatient_p15_356",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p15",
+   "id": "doctorpatient_p15_360",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p15",
+   "id": "doctorpatient_p15_366",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p15",
+   "id": "doctorpatient_p15_368",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p15",
+   "id": "doctorpatient_p15_371",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p16",
+   "id": "doctorpatient_p16_378",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p16",
+   "id": "doctorpatient_p16_379",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p16",
+   "id": "doctorpatient_p16_380",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p16",
+   "id": "doctorpatient_p16_381",
+   "kind": "head-count",
+   "detail": "EN 0 [] vs FA 1 [Doctor]"
+  },
+  {
+   "page": "doctorpatient-p16",
+   "id": "doctorpatient_p16_381",
+   "kind": "head-added",
+   "detail": "p1: Doctor"
+  },
+  {
+   "page": "doctorpatient-p16",
+   "id": "doctorpatient_p16_382",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p16",
+   "id": "doctorpatient_p16_383",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p16",
+   "id": "doctorpatient_p16_387",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p16",
+   "id": "doctorpatient_p16_390",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p16",
+   "id": "doctorpatient_p16_392",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p16",
+   "id": "doctorpatient_p16_393",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p16",
+   "id": "doctorpatient_p16_395",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p16",
+   "id": "doctorpatient_p16_396",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p17",
+   "id": "doctorpatient_p17_401",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p17",
+   "id": "doctorpatient_p17_402",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p17",
+   "id": "doctorpatient_p17_404",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p17",
+   "id": "doctorpatient_p17_405",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p17",
+   "id": "doctorpatient_p17_406",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p17",
+   "id": "doctorpatient_p17_407",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p17",
+   "id": "doctorpatient_p17_410",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p17",
+   "id": "doctorpatient_p17_411",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p17",
+   "id": "doctorpatient_p17_413",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p17",
+   "id": "doctorpatient_p17_414",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p17",
+   "id": "doctorpatient_p17_415",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p17",
+   "id": "doctorpatient_p17_418",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p17",
+   "id": "doctorpatient_p17_419",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p17",
+   "id": "doctorpatient_p17_420",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p17",
+   "id": "doctorpatient_p17_422",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p17",
+   "id": "doctorpatient_p17_423",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p18",
+   "id": "doctorpatient_p18_427",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p18",
+   "id": "doctorpatient_p18_428",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p18",
+   "id": "doctorpatient_p18_431",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p18",
+   "id": "doctorpatient_p18_432",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p18",
+   "id": "doctorpatient_p18_437",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p18",
+   "id": "doctorpatient_p18_438",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p18",
+   "id": "doctorpatient_p18_440",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p18",
+   "id": "doctorpatient_p18_442",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p18",
+   "id": "doctorpatient_p18_443",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p18",
+   "id": "doctorpatient_p18_444",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p18",
+   "id": "doctorpatient_p18_445",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p18",
+   "id": "doctorpatient_p18_446",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p18",
+   "id": "doctorpatient_p18_447",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p18",
+   "id": "doctorpatient_p18_449",
+   "kind": "duplicate-para",
+   "detail": "p2 = p4"
+  },
+  {
+   "page": "doctorpatient-p18",
+   "id": "doctorpatient_p18_449",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p18",
+   "id": "doctorpatient_p18_450",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p19",
+   "id": "doctorpatient_p19_451",
+   "kind": "duplicate-para",
+   "detail": "p2 = p4"
+  },
+  {
+   "page": "doctorpatient-p2",
+   "id": "doctorpatient_p2_28",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p2",
+   "id": "doctorpatient_p2_30",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p2",
+   "id": "doctorpatient_p2_36",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p2",
+   "id": "doctorpatient_p2_40",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p2",
+   "id": "doctorpatient_p2_41",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p2",
+   "id": "doctorpatient_p2_44",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p22",
+   "id": "doctorpatient_p22_535",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p23",
+   "id": "doctorpatient_p23_569",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p25",
+   "id": "doctorpatient_p25_603",
+   "kind": "head-count",
+   "detail": "EN 1 [say] vs FA 0 []"
+  },
+  {
+   "page": "doctorpatient-p25",
+   "id": "doctorpatient_p25_603",
+   "kind": "anchor-missing",
+   "detail": "p5: say"
+  },
+  {
+   "page": "doctorpatient-p25",
+   "id": "doctorpatient_p25_625",
+   "kind": "duplicate-para",
+   "detail": "p3 = p5"
+  },
+  {
+   "page": "doctorpatient-p25",
+   "id": "doctorpatient_p25_625",
+   "kind": "duplicate-para",
+   "detail": "p4 = p6"
+  },
+  {
+   "page": "doctorpatient-p28",
+   "id": "doctorpatient_p28_682",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p29",
+   "id": "doctorpatient_p29_706",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p29",
+   "id": "doctorpatient_p29_717",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p4",
+   "id": "doctorpatient_p4_87",
+   "kind": "duplicate-para",
+   "detail": "p2 = p5"
+  },
+  {
+   "page": "doctorpatient-p4",
+   "id": "doctorpatient_p4_87",
+   "kind": "duplicate-para",
+   "detail": "p2 = p8"
+  },
+  {
+   "page": "doctorpatient-p6",
+   "id": "doctorpatient_p6_148",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p7",
+   "id": "doctorpatient_p7_169",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p9",
+   "id": "doctorpatient_p9_220",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "doctorpatient-p9",
+   "id": "doctorpatient_p9_225",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "drswing-p1",
+   "id": "drswing_p1_10",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "drswing-p11",
+   "id": "drswing_p11_261",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "drswing-p11",
+   "id": "drswing_p11_266",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "drswing-p11",
+   "id": "drswing_p11_272",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "drswing-p13",
+   "id": "drswing_p13_315",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "drswing-p16",
+   "id": "drswing_p16_398",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "drswing-p17",
+   "id": "drswing_p17_422",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "drswing-p17",
+   "id": "drswing_p17_424",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "drswing-p2",
+   "id": "drswing_p2_26",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "drswing-p2",
+   "id": "drswing_p2_28",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "drswing-p5",
+   "id": "drswing_p5_106",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "drswing-p6",
+   "id": "drswing_p6_138",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "drswing-p7",
+   "id": "drswing_p7_157",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "engulf-p1",
+   "id": "engulf_p1_1",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "engulf-p1",
+   "id": "engulf_p1_6",
+   "kind": "punctuation-runs",
+   "detail": ""
+  },
+  {
+   "page": "engulf-p1",
+   "id": "engulf_p1_7",
+   "kind": "punctuation-runs",
+   "detail": ""
+  },
+  {
+   "page": "engulf-p1",
+   "id": "engulf_p1_17",
+   "kind": "punctuation-runs",
+   "detail": ""
+  },
+  {
+   "page": "engulf-p1",
+   "id": "engulf_p1_18",
+   "kind": "punctuation-runs",
+   "detail": ""
+  },
+  {
+   "page": "engulf-p10",
+   "id": "engulf_p10_228",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "engulf-p10",
+   "id": "engulf_p10_229",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "engulf-p10",
+   "id": "engulf_p10_233",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "engulf-p10",
+   "id": "engulf_p10_235",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "engulf-p11",
+   "id": "engulf_p11_254",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "engulf-p11",
+   "id": "engulf_p11_255",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "engulf-p2",
+   "id": "engulf_p2_33",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "engulf-p4",
+   "id": "engulf_p4_77",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "engulf-p4",
+   "id": "engulf_p4_97",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "engulf-p6",
+   "id": "engulf_p6_133",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "engulf-p6",
+   "id": "engulf_p6_147",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "engulf-p7",
+   "id": "engulf_p7_168",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "engulf-p7",
+   "id": "engulf_p7_169",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "engulf-p8",
+   "id": "engulf_p8_181",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "engulf-p8",
+   "id": "engulf_p8_182",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "engulf-p8",
+   "id": "engulf_p8_184",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "engulf-p8",
+   "id": "engulf_p8_185",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "engulf-p8",
+   "id": "engulf_p8_189",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "engulf-p8",
+   "id": "engulf_p8_194",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "engulf-p9",
+   "id": "engulf_p9_202",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "engulf-p9",
+   "id": "engulf_p9_209",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "engulf-p9",
+   "id": "engulf_p9_217",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "engulf-p9",
+   "id": "engulf_p9_221",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "engulf-p9",
+   "id": "engulf_p9_223",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "engulf-p9",
+   "id": "engulf_p9_225",
+   "kind": "url-missing",
+   "detail": "www.readthemarket.com/index.php/forum/tr...708-engulf?start=192"
+  },
+  {
+   "page": "engulf-p9",
+   "id": "engulf_p9_225",
+   "kind": "url-missing",
+   "detail": "www.readthemarket.com/index.php/forum/ho...-engulf-or-a-fakeout"
+  },
+  {
+   "page": "engulf-p9",
+   "id": "engulf_p9_225",
+   "kind": "anchor-missing",
+   "detail": "p6: www.readthemarket.com/index.php/forum/ho...-engulf-or-a-fakeout"
+  },
+  {
+   "page": "eurotrash-p5",
+   "id": "eurotrash_p5_110",
+   "kind": "url-missing",
+   "detail": "www"
+  },
+  {
+   "page": "eurotrash-p5",
+   "id": "eurotrash_p5_110",
+   "kind": "anchor-missing",
+   "detail": "p1: www"
+  },
+  {
+   "page": "finddecision-p2",
+   "id": "finddecision_p2_42",
+   "kind": "url-missing",
+   "detail": "www.acegazette.com/en/forum/forex-majors....html?start=172#1683"
+  },
+  {
+   "page": "finddecision-p5",
+   "id": "finddecision_p5_104",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "finddecision-p5",
+   "id": "finddecision_p5_118",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "finddecision-p5",
+   "id": "finddecision_p5_119",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "finddecision-p6",
+   "id": "finddecision_p6_144",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "finddecision-p6",
+   "id": "finddecision_p6_149",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "fishing-p2",
+   "id": "fishing_p2_38",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "fishing-p3",
+   "id": "fishing_p3_55",
+   "kind": "head-missing",
+   "detail": "p2: mcscalpin"
+  },
+  {
+   "page": "fishing-p3",
+   "id": "fishing_p3_55",
+   "kind": "anchor-missing",
+   "detail": "p2: mcscalpin"
+  },
+  {
+   "page": "fishing-p3",
+   "id": "fishing_p3_55",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "fishing-p3",
+   "id": "fishing_p3_56",
+   "kind": "head-missing",
+   "detail": "p3: mcscalpin"
+  },
+  {
+   "page": "fishing-p3",
+   "id": "fishing_p3_56",
+   "kind": "anchor-missing",
+   "detail": "p3: mcscalpin"
+  },
+  {
+   "page": "fishing-p3",
+   "id": "fishing_p3_56",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "fishing-p6",
+   "id": "fishing_p6_126",
+   "kind": "head-changed",
+   "detail": "p2: jiemisii → jemiisii"
+  },
+  {
+   "page": "fishing-p6",
+   "id": "fishing_p6_146",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "fishing-p6",
+   "id": "fishing_p6_147",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "fishing-p7",
+   "id": "fishing_p7_163",
+   "kind": "head-missing",
+   "detail": "p6: mcscalpin"
+  },
+  {
+   "page": "fishing-p7",
+   "id": "fishing_p7_163",
+   "kind": "anchor-missing",
+   "detail": "p6: mcscalpin"
+  },
+  {
+   "page": "fishing-p7",
+   "id": "fishing_p7_163",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "fishing-p9",
+   "id": "fishing_p9_205",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "fishing-p9",
+   "id": "fishing_p9_213",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "fishing-p9",
+   "id": "fishing_p9_215",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p10",
+   "id": "flaglimits_p10_237",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p10",
+   "id": "flaglimits_p10_248",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p11",
+   "id": "flaglimits_p11_252",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p12",
+   "id": "flaglimits_p12_288",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p12",
+   "id": "flaglimits_p12_295",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p13",
+   "id": "flaglimits_p13_311",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p14",
+   "id": "flaglimits_p14_345",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p15",
+   "id": "flaglimits_p15_358",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p15",
+   "id": "flaglimits_p15_360",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p15",
+   "id": "flaglimits_p15_361",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p15",
+   "id": "flaglimits_p15_362",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p15",
+   "id": "flaglimits_p15_366",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p15",
+   "id": "flaglimits_p15_368",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p18",
+   "id": "flaglimits_p18_427",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p18",
+   "id": "flaglimits_p18_450",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p19",
+   "id": "flaglimits_p19_457",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p19",
+   "id": "flaglimits_p19_464",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p19",
+   "id": "flaglimits_p19_465",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p19",
+   "id": "flaglimits_p19_466",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p19",
+   "id": "flaglimits_p19_467",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p19",
+   "id": "flaglimits_p19_468",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p20",
+   "id": "flaglimits_p20_483",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p23",
+   "id": "flaglimits_p23_554",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p23",
+   "id": "flaglimits_p23_555",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p23",
+   "id": "flaglimits_p23_556",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p23",
+   "id": "flaglimits_p23_557",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p23",
+   "id": "flaglimits_p23_558",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p23",
+   "id": "flaglimits_p23_574",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p25",
+   "id": "flaglimits_p25_605",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p25",
+   "id": "flaglimits_p25_608",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p25",
+   "id": "flaglimits_p25_609",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p25",
+   "id": "flaglimits_p25_613",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p25",
+   "id": "flaglimits_p25_615",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p3",
+   "id": "flaglimits_p3_52",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p3",
+   "id": "flaglimits_p3_71",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p30",
+   "id": "flaglimits_p30_726",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p32",
+   "id": "flaglimits_p32_790",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p32",
+   "id": "flaglimits_p32_794",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p32",
+   "id": "flaglimits_p32_795",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p32",
+   "id": "flaglimits_p32_798",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p33",
+   "id": "flaglimits_p33_801",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p33",
+   "id": "flaglimits_p33_807",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p34",
+   "id": "flaglimits_p34_843",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p34",
+   "id": "flaglimits_p34_846",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p35",
+   "id": "flaglimits_p35_853",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p35",
+   "id": "flaglimits_p35_854",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p35",
+   "id": "flaglimits_p35_855",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p35",
+   "id": "flaglimits_p35_860",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p35",
+   "id": "flaglimits_p35_866",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p35",
+   "id": "flaglimits_p35_868",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p35",
+   "id": "flaglimits_p35_869",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p38",
+   "id": "flaglimits_p38_932",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p38",
+   "id": "flaglimits_p38_943",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p38",
+   "id": "flaglimits_p38_947",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p38",
+   "id": "flaglimits_p38_948",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p39",
+   "id": "flaglimits_p39_956",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p39",
+   "id": "flaglimits_p39_962",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p39",
+   "id": "flaglimits_p39_963",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p4",
+   "id": "flaglimits_p4_77",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p4",
+   "id": "flaglimits_p4_78",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p4",
+   "id": "flaglimits_p4_80",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p4",
+   "id": "flaglimits_p4_83",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p4",
+   "id": "flaglimits_p4_87",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p4",
+   "id": "flaglimits_p4_88",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p4",
+   "id": "flaglimits_p4_93",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p42",
+   "id": "flaglimits_p42_1036",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p43",
+   "id": "flaglimits_p43_1056",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p43",
+   "id": "flaglimits_p43_1066",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p43",
+   "id": "flaglimits_p43_1068",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p43",
+   "id": "flaglimits_p43_1075",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p44",
+   "id": "flaglimits_p44_1077",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p44",
+   "id": "flaglimits_p44_1081",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p44",
+   "id": "flaglimits_p44_1091",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p44",
+   "id": "flaglimits_p44_1093",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p44",
+   "id": "flaglimits_p44_1095",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p44",
+   "id": "flaglimits_p44_1099",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p45",
+   "id": "flaglimits_p45_1105",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p45",
+   "id": "flaglimits_p45_1107",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p45",
+   "id": "flaglimits_p45_1109",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p45",
+   "id": "flaglimits_p45_1111",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p46",
+   "id": "flaglimits_p46_1128",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p46",
+   "id": "flaglimits_p46_1130",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p46",
+   "id": "flaglimits_p46_1134",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p46",
+   "id": "flaglimits_p46_1137",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p46",
+   "id": "flaglimits_p46_1139",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p46",
+   "id": "flaglimits_p46_1145",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p46",
+   "id": "flaglimits_p46_1147",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p46",
+   "id": "flaglimits_p46_1149",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p47",
+   "id": "flaglimits_p47_1160",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p47",
+   "id": "flaglimits_p47_1161",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p47",
+   "id": "flaglimits_p47_1166",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p47",
+   "id": "flaglimits_p47_1168",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p48",
+   "id": "flaglimits_p48_1182",
+   "kind": "punctuation-runs",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p48",
+   "id": "flaglimits_p48_1192",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p48",
+   "id": "flaglimits_p48_1200",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p51",
+   "id": "flaglimits_p51_1259",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p51",
+   "id": "flaglimits_p51_1268",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p51",
+   "id": "flaglimits_p51_1275",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p52",
+   "id": "flaglimits_p52_1278",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p52",
+   "id": "flaglimits_p52_1279",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p52",
+   "id": "flaglimits_p52_1287",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p52",
+   "id": "flaglimits_p52_1296",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p6",
+   "id": "flaglimits_p6_147",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p6",
+   "id": "flaglimits_p6_148",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p7",
+   "id": "flaglimits_p7_160",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p7",
+   "id": "flaglimits_p7_164",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "flaglimits-p9",
+   "id": "flaglimits_p9_212",
+   "kind": "head-count",
+   "detail": "EN 0 [] vs FA 1 [sassofrass]"
+  },
+  {
+   "page": "flaglimits-p9",
+   "id": "flaglimits_p9_212",
+   "kind": "head-added",
+   "detail": "p1: sassofrass"
+  },
+  {
+   "page": "flaglimits-p9",
+   "id": "flaglimits_p9_220",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "frosty-p1",
+   "id": "frosty_p1_5",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "frosty-p1",
+   "id": "frosty_p1_9",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "frosty-p1",
+   "id": "frosty_p1_10",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "frosty-p10",
+   "id": "frosty_p10_15",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "frosty-p11",
+   "id": "frosty_p11_3",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "frosty-p11",
+   "id": "frosty_p11_19",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "frosty-p11",
+   "id": "frosty_p11_21",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "frosty-p2",
+   "id": "frosty_p2_10",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "frosty-p2",
+   "id": "frosty_p2_13",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "frosty-p2",
+   "id": "frosty_p2_21",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "frosty-p2",
+   "id": "frosty_p2_22",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "frosty-p3",
+   "id": "frosty_p3_4",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "frosty-p3",
+   "id": "frosty_p3_5",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "frosty-p3",
+   "id": "frosty_p3_12",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "frosty-p3",
+   "id": "frosty_p3_21",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "frosty-p4",
+   "id": "frosty_p4_2",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "frosty-p4",
+   "id": "frosty_p4_3",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "frosty-p4",
+   "id": "frosty_p4_14",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "frosty-p6",
+   "id": "frosty_p6_10",
+   "kind": "duplicate-para",
+   "detail": "p1 = p2"
+  },
+  {
+   "page": "frosty-p6",
+   "id": "frosty_p6_10",
+   "kind": "duplicate-para",
+   "detail": "p1 = p3"
+  },
+  {
+   "page": "frosty-p6",
+   "id": "frosty_p6_10",
+   "kind": "duplicate-para",
+   "detail": "p1 = p4"
+  },
+  {
+   "page": "frosty-p6",
+   "id": "frosty_p6_10",
+   "kind": "duplicate-para",
+   "detail": "p1 = p6"
+  },
+  {
+   "page": "frosty-p6",
+   "id": "frosty_p6_10",
+   "kind": "duplicate-para",
+   "detail": "p1 = p7"
+  },
+  {
+   "page": "frosty-p6",
+   "id": "frosty_p6_10",
+   "kind": "duplicate-para",
+   "detail": "p1 = p8"
+  },
+  {
+   "page": "frosty-p6",
+   "id": "frosty_p6_10",
+   "kind": "duplicate-para",
+   "detail": "p5 = p9"
+  },
+  {
+   "page": "frosty-p6",
+   "id": "frosty_p6_25",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "frosty-p7",
+   "id": "frosty_p7_3",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "frosty-p7",
+   "id": "frosty_p7_16",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "frosty-p8",
+   "id": "frosty_p8_17",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "frosty-p8",
+   "id": "frosty_p8_18",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "frosty-p8",
+   "id": "frosty_p8_21",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "frosty-p8",
+   "id": "frosty_p8_25",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "frosty-p9",
+   "id": "frosty_p9_2",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "frosty-p9",
+   "id": "frosty_p9_8",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "frosty-p9",
+   "id": "frosty_p9_9",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "frosty-p9",
+   "id": "frosty_p9_10",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "ftrretest-p10",
+   "id": "ftrretest_p10_236",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "ftrretest-p11",
+   "id": "ftrretest_p11_268",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "ftrretest-p11",
+   "id": "ftrretest_p11_272",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "ftrretest-p7",
+   "id": "ftrretest_p7_160",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "gembel-p12",
+   "id": "gembel_p12_280",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "gembel-p14",
+   "id": "gembel_p14_340",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "gembel-p14",
+   "id": "gembel_p14_342",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "gembel-p16",
+   "id": "gembel_p16_380",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "gembel-p2",
+   "id": "gembel_p2_33",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "gembel-p2",
+   "id": "gembel_p2_34",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "gembel-p21",
+   "id": "gembel_p21_507",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "gembel-p21",
+   "id": "gembel_p21_511",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "gembel-p22",
+   "id": "gembel_p22_530",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "gembel-p22",
+   "id": "gembel_p22_531",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "gembel-p22",
+   "id": "gembel_p22_541",
+   "kind": "head-count",
+   "detail": "EN 0 [] vs FA 1 [AlphaOmega]"
+  },
+  {
+   "page": "gembel-p22",
+   "id": "gembel_p22_541",
+   "kind": "head-added",
+   "detail": "p2: AlphaOmega"
+  },
+  {
+   "page": "gembel-p22",
+   "id": "gembel_p22_544",
+   "kind": "head-count",
+   "detail": "EN 1 [gembel] vs FA 2 [gembel, AlphaOmega]"
+  },
+  {
+   "page": "gembel-p22",
+   "id": "gembel_p22_544",
+   "kind": "head-added",
+   "detail": "p2: AlphaOmega"
+  },
+  {
+   "page": "gembel-p22",
+   "id": "gembel_p22_550",
+   "kind": "punctuation-runs",
+   "detail": ""
+  },
+  {
+   "page": "gembel-p26",
+   "id": "gembel_p26_630",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "gembel-p26",
+   "id": "gembel_p26_646",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "gembel-p27",
+   "id": "gembel_p27_666",
+   "kind": "head-changed",
+   "detail": "p1: gembel → karlo"
+  },
+  {
+   "page": "gembel-p27",
+   "id": "gembel_p27_666",
+   "kind": "anchor-missing",
+   "detail": "p1: gembel"
+  },
+  {
+   "page": "gembel-p27",
+   "id": "gembel_p27_667",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "gembel-p27",
+   "id": "gembel_p27_668",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "gembel-p27",
+   "id": "gembel_p27_669",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "gembel-p29",
+   "id": "gembel_p29_716",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "gembel-p3",
+   "id": "gembel_p3_58",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "gembel-p30",
+   "id": "gembel_p30_742",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "gembel-p31",
+   "id": "gembel_p31_767",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "gembel-p31",
+   "id": "gembel_p31_768",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "gembel-p31",
+   "id": "gembel_p31_769",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "gembel-p34",
+   "id": "gembel_p34_832",
+   "kind": "head-changed",
+   "detail": "p1: gembel → Jurij"
+  },
+  {
+   "page": "gembel-p34",
+   "id": "gembel_p34_832",
+   "kind": "anchor-missing",
+   "detail": "p1: gembel"
+  },
+  {
+   "page": "gembel-p39",
+   "id": "gembel_p39_955",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "gembel-p7",
+   "id": "gembel_p7_151",
+   "kind": "head-count",
+   "detail": "EN 0 [] vs FA 1 [Kovalenko]"
+  },
+  {
+   "page": "gembel-p7",
+   "id": "gembel_p7_151",
+   "kind": "head-added",
+   "detail": "p1: Kovalenko"
+  },
+  {
+   "page": "hgblacksheep-p10",
+   "id": "hgblacksheep_p10_244",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hgblacksheep-p10",
+   "id": "hgblacksheep_p10_250",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hgblacksheep-p11",
+   "id": "hgblacksheep_p11_255",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hgblacksheep-p4",
+   "id": "hgblacksheep_p4_85",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hgblacksheep-p6",
+   "id": "hgblacksheep_p6_128",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hgblacksheep-p6",
+   "id": "hgblacksheep_p6_130",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hgblacksheep-p6",
+   "id": "hgblacksheep_p6_136",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hgblacksheep-p6",
+   "id": "hgblacksheep_p6_138",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hgblacksheep-p6",
+   "id": "hgblacksheep_p6_141",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hgblacksheep-p7",
+   "id": "hgblacksheep_p7_151",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hgblacksheep-p7",
+   "id": "hgblacksheep_p7_167",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hgblacksheep-p7",
+   "id": "hgblacksheep_p7_174",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hgblacksheep-p8",
+   "id": "hgblacksheep_p8_199",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hgblacksheep-p9",
+   "id": "hgblacksheep_p9_201",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hgblacksheep-p9",
+   "id": "hgblacksheep_p9_223",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hgblacksheep-p9",
+   "id": "hgblacksheep_p9_224",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "homeoffinisher-p1",
+   "id": "homeoffinisher_p1_23",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "homeoffinisher-p3",
+   "id": "homeoffinisher_p3_73",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "homeoffinisher-p4",
+   "id": "homeoffinisher_p4_76",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "homeoffinisher-p4",
+   "id": "homeoffinisher_p4_80",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "homeoffinisher-p4",
+   "id": "homeoffinisher_p4_86",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "homeoffinisher-p4",
+   "id": "homeoffinisher_p4_92",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "homeoffinisher-p4",
+   "id": "homeoffinisher_p4_93",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "homeoffinisher-p5",
+   "id": "homeoffinisher_p5_111",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "homeoffinisher-p5",
+   "id": "homeoffinisher_p5_124",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "homeoffinisher-p5",
+   "id": "homeoffinisher_p5_125",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "homeoffinisher-p7",
+   "id": "homeoffinisher_p7_152",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "homeoffinisher-p7",
+   "id": "homeoffinisher_p7_168",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "homeoffinisher-p7",
+   "id": "homeoffinisher_p7_174",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p10",
+   "id": "hs_p10_226",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p12",
+   "id": "hs_p12_278",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p16",
+   "id": "hs_p16_390",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p17",
+   "id": "hs_p17_405",
+   "kind": "head-count",
+   "detail": "EN 3 [hoeschec, Bodostock, hoeschec] vs FA 4 [Bodostock, hoeschec, Bodostock, hoeschec]"
+  },
+  {
+   "page": "hs-p17",
+   "id": "hs_p17_405",
+   "kind": "head-added",
+   "detail": "p1: Bodostock"
+  },
+  {
+   "page": "hs-p17",
+   "id": "hs_p17_409",
+   "kind": "head-count",
+   "detail": "EN 1 [hoeschec] vs FA 2 [Bodostock, hoeschec]"
+  },
+  {
+   "page": "hs-p17",
+   "id": "hs_p17_409",
+   "kind": "head-added",
+   "detail": "p1: Bodostock"
+  },
+  {
+   "page": "hs-p17",
+   "id": "hs_p17_411",
+   "kind": "head-count",
+   "detail": "EN 1 [hoeschec] vs FA 2 [Bodostock, hoeschec]"
+  },
+  {
+   "page": "hs-p17",
+   "id": "hs_p17_411",
+   "kind": "head-added",
+   "detail": "p1: Bodostock"
+  },
+  {
+   "page": "hs-p17",
+   "id": "hs_p17_412",
+   "kind": "head-count",
+   "detail": "EN 2 [Bodostock, hoeschec] vs FA 3 [hoeschec, Bodostock, hoeschec]"
+  },
+  {
+   "page": "hs-p17",
+   "id": "hs_p17_412",
+   "kind": "head-changed",
+   "detail": "p1: Bodostock → hoeschec"
+  },
+  {
+   "page": "hs-p17",
+   "id": "hs_p17_413",
+   "kind": "head-count",
+   "detail": "EN 3 [hoeschec, Bodostock, hoeschec] vs FA 4 [Bodostock, hoeschec, Bodostock, hoeschec]"
+  },
+  {
+   "page": "hs-p17",
+   "id": "hs_p17_413",
+   "kind": "head-added",
+   "detail": "p1: Bodostock"
+  },
+  {
+   "page": "hs-p18",
+   "id": "hs_p18_442",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p18",
+   "id": "hs_p18_443",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p19",
+   "id": "hs_p19_468",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p2",
+   "id": "hs_p2_38",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p2",
+   "id": "hs_p2_39",
+   "kind": "head-changed",
+   "detail": "p1: hoeschec → Ptpatrader"
+  },
+  {
+   "page": "hs-p2",
+   "id": "hs_p2_39",
+   "kind": "anchor-missing",
+   "detail": "p1: hoeschec"
+  },
+  {
+   "page": "hs-p2",
+   "id": "hs_p2_39",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p2",
+   "id": "hs_p2_44",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p2",
+   "id": "hs_p2_47",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p2",
+   "id": "hs_p2_48",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p2",
+   "id": "hs_p2_49",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p2",
+   "id": "hs_p2_50",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p20",
+   "id": "hs_p20_493",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p21",
+   "id": "hs_p21_512",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p22",
+   "id": "hs_p22_537",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p24",
+   "id": "hs_p24_582",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p24",
+   "id": "hs_p24_585",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p24",
+   "id": "hs_p24_586",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p26",
+   "id": "hs_p26_635",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p26",
+   "id": "hs_p26_637",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p27",
+   "id": "hs_p27_654",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p27",
+   "id": "hs_p27_655",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p27",
+   "id": "hs_p27_657",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p28",
+   "id": "hs_p28_676",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p28",
+   "id": "hs_p28_681",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p28",
+   "id": "hs_p28_687",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p28",
+   "id": "hs_p28_688",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p28",
+   "id": "hs_p28_689",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p28",
+   "id": "hs_p28_691",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p28",
+   "id": "hs_p28_692",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p28",
+   "id": "hs_p28_697",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p29",
+   "id": "hs_p29_710",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p30",
+   "id": "hs_p30_729",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p30",
+   "id": "hs_p30_733",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p30",
+   "id": "hs_p30_749",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p31",
+   "id": "hs_p31_770",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p31",
+   "id": "hs_p31_772",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p32",
+   "id": "hs_p32_778",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p32",
+   "id": "hs_p32_781",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p32",
+   "id": "hs_p32_785",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p32",
+   "id": "hs_p32_787",
+   "kind": "anchor-missing",
+   "detail": "p12: He"
+  },
+  {
+   "page": "hs-p32",
+   "id": "hs_p32_795",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p32",
+   "id": "hs_p32_796",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p32",
+   "id": "hs_p32_799",
+   "kind": "anchor-missing",
+   "detail": "p12: He"
+  },
+  {
+   "page": "hs-p32",
+   "id": "hs_p32_799",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p33",
+   "id": "hs_p33_805",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p33",
+   "id": "hs_p33_814",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p33",
+   "id": "hs_p33_818",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p34",
+   "id": "hs_p34_827",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p34",
+   "id": "hs_p34_828",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p34",
+   "id": "hs_p34_829",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p34",
+   "id": "hs_p34_841",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p34",
+   "id": "hs_p34_842",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p34",
+   "id": "hs_p34_844",
+   "kind": "head-changed",
+   "detail": "p1: hoeschec → Edge"
+  },
+  {
+   "page": "hs-p34",
+   "id": "hs_p34_844",
+   "kind": "anchor-missing",
+   "detail": "p1: hoeschec"
+  },
+  {
+   "page": "hs-p34",
+   "id": "hs_p34_844",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p34",
+   "id": "hs_p34_846",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p35",
+   "id": "hs_p35_851",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p35",
+   "id": "hs_p35_853",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p35",
+   "id": "hs_p35_862",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p35",
+   "id": "hs_p35_867",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p35",
+   "id": "hs_p35_869",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p35",
+   "id": "hs_p35_870",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p35",
+   "id": "hs_p35_871",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p35",
+   "id": "hs_p35_872",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p35",
+   "id": "hs_p35_874",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p35",
+   "id": "hs_p35_875",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p36",
+   "id": "hs_p36_880",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p36",
+   "id": "hs_p36_881",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p36",
+   "id": "hs_p36_884",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p36",
+   "id": "hs_p36_885",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p36",
+   "id": "hs_p36_886",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p36",
+   "id": "hs_p36_888",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p36",
+   "id": "hs_p36_889",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p36",
+   "id": "hs_p36_893",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p36",
+   "id": "hs_p36_895",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p36",
+   "id": "hs_p36_900",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p37",
+   "id": "hs_p37_901",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p37",
+   "id": "hs_p37_914",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p37",
+   "id": "hs_p37_915",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p37",
+   "id": "hs_p37_918",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p37",
+   "id": "hs_p37_920",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p37",
+   "id": "hs_p37_922",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p37",
+   "id": "hs_p37_923",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p37",
+   "id": "hs_p37_924",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p37",
+   "id": "hs_p37_925",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p38",
+   "id": "hs_p38_931",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p38",
+   "id": "hs_p38_937",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p38",
+   "id": "hs_p38_938",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p38",
+   "id": "hs_p38_948",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p38",
+   "id": "hs_p38_949",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p38",
+   "id": "hs_p38_950",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p39",
+   "id": "hs_p39_954",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p39",
+   "id": "hs_p39_955",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p39",
+   "id": "hs_p39_956",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p39",
+   "id": "hs_p39_958",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p39",
+   "id": "hs_p39_960",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p39",
+   "id": "hs_p39_964",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p39",
+   "id": "hs_p39_965",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p39",
+   "id": "hs_p39_966",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p39",
+   "id": "hs_p39_967",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p39",
+   "id": "hs_p39_968",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p39",
+   "id": "hs_p39_970",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p39",
+   "id": "hs_p39_971",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p39",
+   "id": "hs_p39_975",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p4",
+   "id": "hs_p4_86",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p40",
+   "id": "hs_p40_976",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p40",
+   "id": "hs_p40_977",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p40",
+   "id": "hs_p40_979",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p40",
+   "id": "hs_p40_980",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p40",
+   "id": "hs_p40_981",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p40",
+   "id": "hs_p40_985",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p40",
+   "id": "hs_p40_986",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p40",
+   "id": "hs_p40_988",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p40",
+   "id": "hs_p40_989",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p40",
+   "id": "hs_p40_991",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p40",
+   "id": "hs_p40_993",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p40",
+   "id": "hs_p40_994",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p41",
+   "id": "hs_p41_1023",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p42",
+   "id": "hs_p42_1031",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p42",
+   "id": "hs_p42_1040",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p42",
+   "id": "hs_p42_1042",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p42",
+   "id": "hs_p42_1043",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p42",
+   "id": "hs_p42_1044",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p42",
+   "id": "hs_p42_1048",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p43",
+   "id": "hs_p43_1059",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p43",
+   "id": "hs_p43_1064",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p43",
+   "id": "hs_p43_1065",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p43",
+   "id": "hs_p43_1066",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p43",
+   "id": "hs_p43_1071",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p44",
+   "id": "hs_p44_1080",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p44",
+   "id": "hs_p44_1082",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p44",
+   "id": "hs_p44_1085",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p44",
+   "id": "hs_p44_1090",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p44",
+   "id": "hs_p44_1098",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p45",
+   "id": "hs_p45_1104",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p45",
+   "id": "hs_p45_1110",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p45",
+   "id": "hs_p45_1113",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p45",
+   "id": "hs_p45_1115",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p45",
+   "id": "hs_p45_1121",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p45",
+   "id": "hs_p45_1125",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p46",
+   "id": "hs_p46_1129",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p46",
+   "id": "hs_p46_1134",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p46",
+   "id": "hs_p46_1135",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p46",
+   "id": "hs_p46_1136",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p46",
+   "id": "hs_p46_1138",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p46",
+   "id": "hs_p46_1144",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p46",
+   "id": "hs_p46_1148",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p47",
+   "id": "hs_p47_1151",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p47",
+   "id": "hs_p47_1157",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p47",
+   "id": "hs_p47_1158",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p47",
+   "id": "hs_p47_1173",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p48",
+   "id": "hs_p48_1178",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p48",
+   "id": "hs_p48_1180",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p48",
+   "id": "hs_p48_1186",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p48",
+   "id": "hs_p48_1197",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p48",
+   "id": "hs_p48_1198",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p48",
+   "id": "hs_p48_1199",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p49",
+   "id": "hs_p49_1202",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p49",
+   "id": "hs_p49_1203",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p49",
+   "id": "hs_p49_1204",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p49",
+   "id": "hs_p49_1206",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p49",
+   "id": "hs_p49_1207",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p49",
+   "id": "hs_p49_1217",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p49",
+   "id": "hs_p49_1221",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p49",
+   "id": "hs_p49_1225",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p5",
+   "id": "hs_p5_114",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p50",
+   "id": "hs_p50_1226",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p50",
+   "id": "hs_p50_1232",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p50",
+   "id": "hs_p50_1242",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p51",
+   "id": "hs_p51_1254",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p51",
+   "id": "hs_p51_1256",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p52",
+   "id": "hs_p52_1276",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p52",
+   "id": "hs_p52_1277",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p52",
+   "id": "hs_p52_1285",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p52",
+   "id": "hs_p52_1293",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p52",
+   "id": "hs_p52_1295",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p52",
+   "id": "hs_p52_1299",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p53",
+   "id": "hs_p53_1311",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p53",
+   "id": "hs_p53_1313",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p53",
+   "id": "hs_p53_1322",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p53",
+   "id": "hs_p53_1325",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p54",
+   "id": "hs_p54_1331",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p54",
+   "id": "hs_p54_1335",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p54",
+   "id": "hs_p54_1337",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p54",
+   "id": "hs_p54_1345",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p57",
+   "id": "hs_p57_1417",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p57",
+   "id": "hs_p57_1420",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p57",
+   "id": "hs_p57_1421",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p57",
+   "id": "hs_p57_1422",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p57",
+   "id": "hs_p57_1425",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p58",
+   "id": "hs_p58_1427",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p58",
+   "id": "hs_p58_1428",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p58",
+   "id": "hs_p58_1429",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p58",
+   "id": "hs_p58_1444",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p58",
+   "id": "hs_p58_1445",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p58",
+   "id": "hs_p58_1447",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p59",
+   "id": "hs_p59_1458",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p59",
+   "id": "hs_p59_1459",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p6",
+   "id": "hs_p6_148",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p60",
+   "id": "hs_p60_1492",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p61",
+   "id": "hs_p61_1502",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p61",
+   "id": "hs_p61_1511",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p62",
+   "id": "hs_p62_1542",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p63",
+   "id": "hs_p63_1552",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p63",
+   "id": "hs_p63_1557",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p63",
+   "id": "hs_p63_1558",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p63",
+   "id": "hs_p63_1559",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p63",
+   "id": "hs_p63_1562",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p63",
+   "id": "hs_p63_1563",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p63",
+   "id": "hs_p63_1567",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p63",
+   "id": "hs_p63_1569",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p63",
+   "id": "hs_p63_1573",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p63",
+   "id": "hs_p63_1574",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p64",
+   "id": "hs_p64_1579",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p64",
+   "id": "hs_p64_1580",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p64",
+   "id": "hs_p64_1582",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p64",
+   "id": "hs_p64_1583",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p64",
+   "id": "hs_p64_1587",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p64",
+   "id": "hs_p64_1600",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p65",
+   "id": "hs_p65_1608",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p65",
+   "id": "hs_p65_1614",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p65",
+   "id": "hs_p65_1622",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p65",
+   "id": "hs_p65_1623",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p66",
+   "id": "hs_p66_1630",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p66",
+   "id": "hs_p66_1637",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p66",
+   "id": "hs_p66_1638",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p66",
+   "id": "hs_p66_1649",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p67",
+   "id": "hs_p67_1671",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p67",
+   "id": "hs_p67_1675",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p68",
+   "id": "hs_p68_1698",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p69",
+   "id": "hs_p69_1704",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p69",
+   "id": "hs_p69_1707",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p69",
+   "id": "hs_p69_1708",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p69",
+   "id": "hs_p69_1709",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p69",
+   "id": "hs_p69_1711",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p69",
+   "id": "hs_p69_1714",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p69",
+   "id": "hs_p69_1715",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p69",
+   "id": "hs_p69_1718",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p69",
+   "id": "hs_p69_1719",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p69",
+   "id": "hs_p69_1721",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p69",
+   "id": "hs_p69_1724",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p70",
+   "id": "hs_p70_1726",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p70",
+   "id": "hs_p70_1741",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p71",
+   "id": "hs_p71_1753",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p71",
+   "id": "hs_p71_1755",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p71",
+   "id": "hs_p71_1757",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p71",
+   "id": "hs_p71_1763",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p71",
+   "id": "hs_p71_1767",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p72",
+   "id": "hs_p72_1779",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p72",
+   "id": "hs_p72_1782",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p72",
+   "id": "hs_p72_1785",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p72",
+   "id": "hs_p72_1789",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p72",
+   "id": "hs_p72_1790",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p72",
+   "id": "hs_p72_1793",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p73",
+   "id": "hs_p73_1801",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p73",
+   "id": "hs_p73_1803",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p73",
+   "id": "hs_p73_1813",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p73",
+   "id": "hs_p73_1824",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p74",
+   "id": "hs_p74_1826",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p74",
+   "id": "hs_p74_1845",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p74",
+   "id": "hs_p74_1850",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p75",
+   "id": "hs_p75_1856",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p75",
+   "id": "hs_p75_1861",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p75",
+   "id": "hs_p75_1865",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p75",
+   "id": "hs_p75_1866",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p76",
+   "id": "hs_p76_1876",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p76",
+   "id": "hs_p76_1877",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p76",
+   "id": "hs_p76_1878",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p76",
+   "id": "hs_p76_1896",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p76",
+   "id": "hs_p76_1900",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p77",
+   "id": "hs_p77_1902",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p77",
+   "id": "hs_p77_1910",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p77",
+   "id": "hs_p77_1915",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p77",
+   "id": "hs_p77_1918",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p77",
+   "id": "hs_p77_1920",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p77",
+   "id": "hs_p77_1922",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p77",
+   "id": "hs_p77_1925",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p78",
+   "id": "hs_p78_1926",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p78",
+   "id": "hs_p78_1928",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p78",
+   "id": "hs_p78_1940",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p78",
+   "id": "hs_p78_1941",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p79",
+   "id": "hs_p79_1958",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p79",
+   "id": "hs_p79_1964",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p79",
+   "id": "hs_p79_1970",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p8",
+   "id": "hs_p8_179",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p8",
+   "id": "hs_p8_180",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p8",
+   "id": "hs_p8_192",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p8",
+   "id": "hs_p8_198",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p80",
+   "id": "hs_p80_1978",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p80",
+   "id": "hs_p80_1980",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p80",
+   "id": "hs_p80_1985",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p80",
+   "id": "hs_p80_1990",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p80",
+   "id": "hs_p80_1999",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p81",
+   "id": "hs_p81_2009",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p81",
+   "id": "hs_p81_2014",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p81",
+   "id": "hs_p81_2018",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p81",
+   "id": "hs_p81_2023",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p82",
+   "id": "hs_p82_2027",
+   "kind": "url-missing",
+   "detail": "www.dukascopy.com/swiss/english/marketwatch/charts/and"
+  },
+  {
+   "page": "hs-p82",
+   "id": "hs_p82_2027",
+   "kind": "anchor-missing",
+   "detail": "p1: www.dukascopy.com/swiss/english/marketwatch/charts/and"
+  },
+  {
+   "page": "hs-p82",
+   "id": "hs_p82_2029",
+   "kind": "url-missing",
+   "detail": "www.dukascopy.com/swiss/english/marketwatch/charts/and"
+  },
+  {
+   "page": "hs-p82",
+   "id": "hs_p82_2029",
+   "kind": "anchor-missing",
+   "detail": "p1: www.dukascopy.com/swiss/english/marketwatch/charts/and"
+  },
+  {
+   "page": "hs-p83",
+   "id": "hs_p83_2058",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p83",
+   "id": "hs_p83_2067",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p83",
+   "id": "hs_p83_2075",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p84",
+   "id": "hs_p84_2079",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p85",
+   "id": "hs_p85_2102",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "hs-p85",
+   "id": "hs_p85_2109",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p85",
+   "id": "hs_p85_2110",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p85",
+   "id": "hs_p85_2124",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p86",
+   "id": "hs_p86_2129",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p86",
+   "id": "hs_p86_2130",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p86",
+   "id": "hs_p86_2131",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p86",
+   "id": "hs_p86_2136",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p86",
+   "id": "hs_p86_2148",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p87",
+   "id": "hs_p87_2151",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p87",
+   "id": "hs_p87_2153",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p87",
+   "id": "hs_p87_2174",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p88",
+   "id": "hs_p88_2177",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p88",
+   "id": "hs_p88_2179",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p88",
+   "id": "hs_p88_2185",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p88",
+   "id": "hs_p88_2196",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p89",
+   "id": "hs_p89_2222",
+   "kind": "punctuation-runs",
+   "detail": ""
+  },
+  {
+   "page": "hs-p90",
+   "id": "hs_p90_2242",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p90",
+   "id": "hs_p90_2244",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p91",
+   "id": "hs_p91_2268",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p92",
+   "id": "hs_p92_2277",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p92",
+   "id": "hs_p92_2278",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p92",
+   "id": "hs_p92_2294",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p93",
+   "id": "hs_p93_2316",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p93",
+   "id": "hs_p93_2317",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p94",
+   "id": "hs_p94_2343",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "hs-p95",
+   "id": "hs_p95_2362",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "if-p13",
+   "id": "if_p13_6",
+   "kind": "duplicate-para",
+   "detail": "p3 = p8"
+  },
+  {
+   "page": "if-p131",
+   "id": "if_p131_13",
+   "kind": "punctuation-runs",
+   "detail": ""
+  },
+  {
+   "page": "if-p131",
+   "id": "if_p131_14",
+   "kind": "punctuation-runs",
+   "detail": ""
+  },
+  {
+   "page": "if-p22",
+   "id": "if_p22_16",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "if-p26",
+   "id": "if_p26_13",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "if-p57",
+   "id": "if_p57_2",
+   "kind": "punctuation-runs",
+   "detail": ""
+  },
+  {
+   "page": "if-p68",
+   "id": "if_p68_20",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "if-p72",
+   "id": "if_p72_19",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "if-p77",
+   "id": "if_p77_18",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "in2forex-p10",
+   "id": "in2forex_p10_249",
+   "kind": "head-count",
+   "detail": "EN 1 [in2forex] vs FA 2 [geejay, in2forex]"
+  },
+  {
+   "page": "in2forex-p10",
+   "id": "in2forex_p10_249",
+   "kind": "head-changed",
+   "detail": "p1: in2forex → geejay"
+  },
+  {
+   "page": "in2forex-p9",
+   "id": "in2forex_p9_216",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "jiri-p9",
+   "id": "jiri_p9_214",
+   "kind": "punctuation-runs",
+   "detail": ""
+  },
+  {
+   "page": "josh-p1",
+   "id": "josh_p1_16",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "josh-p10",
+   "id": "josh_p10_245",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "josh-p10",
+   "id": "josh_p10_247",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "josh-p10",
+   "id": "josh_p10_248",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "josh-p10",
+   "id": "josh_p10_249",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "josh-p11",
+   "id": "josh_p11_254",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "josh-p11",
+   "id": "josh_p11_274",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "josh-p14",
+   "id": "josh_p14_327",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "josh-p14",
+   "id": "josh_p14_328",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "josh-p14",
+   "id": "josh_p14_345",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "josh-p14",
+   "id": "josh_p14_346",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "josh-p14",
+   "id": "josh_p14_349",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "josh-p14",
+   "id": "josh_p14_350",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "josh-p15",
+   "id": "josh_p15_351",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "josh-p15",
+   "id": "josh_p15_359",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "josh-p17",
+   "id": "josh_p17_418",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "josh-p18",
+   "id": "josh_p18_437",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "josh-p19",
+   "id": "josh_p19_463",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "josh-p19",
+   "id": "josh_p19_464",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "josh-p4",
+   "id": "josh_p4_96",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "josh-p5",
+   "id": "josh_p5_103",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "josh-p5",
+   "id": "josh_p5_105",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "josh-p5",
+   "id": "josh_p5_112",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "josh-p6",
+   "id": "josh_p6_144",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "josh-p6",
+   "id": "josh_p6_145",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "josh-p7",
+   "id": "josh_p7_155",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "josh-p8",
+   "id": "josh_p8_187",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "josh-p8",
+   "id": "josh_p8_196",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "josh-p8",
+   "id": "josh_p8_197",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "jurij-p17",
+   "id": "jurij_p17_8",
+   "kind": "url-missing",
+   "detail": "www.......spechlesss"
+  },
+  {
+   "page": "jurij-p17",
+   "id": "jurij_p17_8",
+   "kind": "url-missing",
+   "detail": "www..really"
+  },
+  {
+   "page": "jurij-p17",
+   "id": "jurij_p17_8",
+   "kind": "anchor-missing",
+   "detail": "p1: www.......spechlesss"
+  },
+  {
+   "page": "jurij-p17",
+   "id": "jurij_p17_8",
+   "kind": "anchor-missing",
+   "detail": "p1: www..really"
+  },
+  {
+   "page": "jurij-p17",
+   "id": "jurij_p17_13",
+   "kind": "url-missing",
+   "detail": "www"
+  },
+  {
+   "page": "jurij-p17",
+   "id": "jurij_p17_13",
+   "kind": "anchor-missing",
+   "detail": "p1: www"
+  },
+  {
+   "page": "jurij-p19",
+   "id": "jurij_p19_23",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "jurij-p21",
+   "id": "jurij_p21_4",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "jurij-p21",
+   "id": "jurij_p21_15",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "jurij-p22",
+   "id": "jurij_p22_20",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "jurij-p22",
+   "id": "jurij_p22_21",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "jurij-p23",
+   "id": "jurij_p23_21",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "jurij-p23",
+   "id": "jurij_p23_24",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "jurij-p24",
+   "id": "jurij_p24_6",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "jurij-p24",
+   "id": "jurij_p24_8",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "jurij-p24",
+   "id": "jurij_p24_18",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "jurij-p4",
+   "id": "jurij_p4_11",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "kruger-p14",
+   "id": "kruger_p14_6",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "kruger-p16",
+   "id": "kruger_p16_9",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "kruger-p16",
+   "id": "kruger_p16_25",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "kruger-p17",
+   "id": "kruger_p17_25",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "kruger-p18",
+   "id": "kruger_p18_2",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "kruger-p19",
+   "id": "kruger_p19_8",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "kruger-p19",
+   "id": "kruger_p19_13",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "kruger-p19",
+   "id": "kruger_p19_14",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "kruger-p19",
+   "id": "kruger_p19_15",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "kruger-p19",
+   "id": "kruger_p19_16",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "kruger-p2",
+   "id": "kruger_p2_25",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "kruger-p3",
+   "id": "kruger_p3_21",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "kruger-p9",
+   "id": "kruger_p9_24",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "luska-p3",
+   "id": "luska_p3_58",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "luska-p6",
+   "id": "luska_p6_129",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "luska-p6",
+   "id": "luska_p6_132",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "luska-p7",
+   "id": "luska_p7_161",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "luska-p7",
+   "id": "luska_p7_163",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "luska-p7",
+   "id": "luska_p7_164",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "luska-p7",
+   "id": "luska_p7_172",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "luska-p8",
+   "id": "luska_p8_180",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "luska-p8",
+   "id": "luska_p8_197",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "luska-p8",
+   "id": "luska_p8_200",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "mertch-p12",
+   "id": "mertch_p12_1",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "mertch-p12",
+   "id": "mertch_p12_20",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "mertch-p5",
+   "id": "mertch_p5_24",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "mertch-p8",
+   "id": "mertch_p8_5",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "mertch-p8",
+   "id": "mertch_p8_6",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "mm-p10",
+   "id": "mm_p10_1",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "mm-p6",
+   "id": "mm_p6_23",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "mm-p6",
+   "id": "mm_p6_24",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "mm-p7",
+   "id": "mm_p7_14",
+   "kind": "duplicate-para",
+   "detail": "p2 = p10"
+  },
+  {
+   "page": "mm-p7",
+   "id": "mm_p7_14",
+   "kind": "duplicate-para",
+   "detail": "p3 = p11"
+  },
+  {
+   "page": "mm-p7",
+   "id": "mm_p7_14",
+   "kind": "duplicate-para",
+   "detail": "p4 = p12"
+  },
+  {
+   "page": "mm-p7",
+   "id": "mm_p7_14",
+   "kind": "duplicate-para",
+   "detail": "p6 = p14"
+  },
+  {
+   "page": "mm-p7",
+   "id": "mm_p7_14",
+   "kind": "duplicate-para",
+   "detail": "p7 = p15"
+  },
+  {
+   "page": "mm-p7",
+   "id": "mm_p7_14",
+   "kind": "duplicate-para",
+   "detail": "p8 = p16"
+  },
+  {
+   "page": "mukhcin-p1",
+   "id": "mukhcin_p1_13",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "newjournal-p9",
+   "id": "newjournal_p9_204",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "newjournal-p9",
+   "id": "newjournal_p9_220",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "paz-p2",
+   "id": "paz_p2_31",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "paz-p2",
+   "id": "paz_p2_40",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "paz-p2",
+   "id": "paz_p2_49",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "paz-p3",
+   "id": "paz_p3_57",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "paz-p3",
+   "id": "paz_p3_60",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "paz-p3",
+   "id": "paz_p3_65",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "paz-p4",
+   "id": "paz_p4_94",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "paz-p4",
+   "id": "paz_p4_95",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "paz-p6",
+   "id": "paz_p6_139",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "projectsagana-p11",
+   "id": "projectsagana_p11_272",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "projectsagana-p13",
+   "id": "projectsagana_p13_322",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "projectsagana-p2",
+   "id": "projectsagana_p2_38",
+   "kind": "url-missing",
+   "detail": "www.readthemarket.com/index.php/price-reading"
+  },
+  {
+   "page": "projectsagana-p2",
+   "id": "projectsagana_p2_39",
+   "kind": "url-missing",
+   "detail": "www.readthemarket.com/index.php/price-reading"
+  },
+  {
+   "page": "projectsagana-p2",
+   "id": "projectsagana_p2_40",
+   "kind": "url-missing",
+   "detail": "www.readthemarket.com/index.php/price-reading"
+  },
+  {
+   "page": "projectsagana-p2",
+   "id": "projectsagana_p2_40",
+   "kind": "url-missing",
+   "detail": "www.readthemarket.com/index.php/price-reading"
+  },
+  {
+   "page": "projectsagana-p2",
+   "id": "projectsagana_p2_40",
+   "kind": "duplicate-para",
+   "detail": "p2 = p22"
+  },
+  {
+   "page": "projectsagana-p2",
+   "id": "projectsagana_p2_40",
+   "kind": "duplicate-para",
+   "detail": "p4 = p25"
+  },
+  {
+   "page": "projectsagana-p2",
+   "id": "projectsagana_p2_40",
+   "kind": "duplicate-para",
+   "detail": "p7 = p27"
+  },
+  {
+   "page": "projectsagana-p2",
+   "id": "projectsagana_p2_40",
+   "kind": "duplicate-para",
+   "detail": "p8 = p28"
+  },
+  {
+   "page": "projectsagana-p2",
+   "id": "projectsagana_p2_40",
+   "kind": "duplicate-para",
+   "detail": "p9 = p29"
+  },
+  {
+   "page": "projectsagana-p2",
+   "id": "projectsagana_p2_40",
+   "kind": "duplicate-para",
+   "detail": "p10 = p30"
+  },
+  {
+   "page": "projectsagana-p2",
+   "id": "projectsagana_p2_40",
+   "kind": "duplicate-para",
+   "detail": "p12 = p32"
+  },
+  {
+   "page": "projectsagana-p2",
+   "id": "projectsagana_p2_40",
+   "kind": "duplicate-para",
+   "detail": "p13 = p33"
+  },
+  {
+   "page": "projectsagana-p2",
+   "id": "projectsagana_p2_40",
+   "kind": "duplicate-para",
+   "detail": "p14 = p34"
+  },
+  {
+   "page": "projectsagana-p2",
+   "id": "projectsagana_p2_40",
+   "kind": "duplicate-para",
+   "detail": "p15 = p35"
+  },
+  {
+   "page": "projectsagana-p2",
+   "id": "projectsagana_p2_40",
+   "kind": "duplicate-para",
+   "detail": "p16 = p36"
+  },
+  {
+   "page": "projectsagana-p2",
+   "id": "projectsagana_p2_40",
+   "kind": "duplicate-para",
+   "detail": "p17 = p37"
+  },
+  {
+   "page": "projectsagana-p2",
+   "id": "projectsagana_p2_40",
+   "kind": "duplicate-para",
+   "detail": "p18 = p38"
+  },
+  {
+   "page": "projectsagana-p2",
+   "id": "projectsagana_p2_40",
+   "kind": "duplicate-para",
+   "detail": "p19 = p39"
+  },
+  {
+   "page": "projectsagana-p2",
+   "id": "projectsagana_p2_40",
+   "kind": "duplicate-para",
+   "detail": "p20 = p40"
+  },
+  {
+   "page": "pucci-p1",
+   "id": "pucci_p1_4",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "pucci-p2",
+   "id": "pucci_p2_37",
+   "kind": "punctuation-runs",
+   "detail": ""
+  },
+  {
+   "page": "pucci-p2",
+   "id": "pucci_p2_47",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p12",
+   "id": "quasimodo_p12_286",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p12",
+   "id": "quasimodo_p12_290",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p13",
+   "id": "quasimodo_p13_318",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p16",
+   "id": "quasimodo_p16_385",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p16",
+   "id": "quasimodo_p16_386",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p16",
+   "id": "quasimodo_p16_397",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p16",
+   "id": "quasimodo_p16_398",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p17",
+   "id": "quasimodo_p17_420",
+   "kind": "head-missing",
+   "detail": "p1: Forex99"
+  },
+  {
+   "page": "quasimodo-p17",
+   "id": "quasimodo_p17_420",
+   "kind": "anchor-missing",
+   "detail": "p1: Forex99"
+  },
+  {
+   "page": "quasimodo-p17",
+   "id": "quasimodo_p17_421",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p19",
+   "id": "quasimodo_p19_474",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p2",
+   "id": "quasimodo_p2_28",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p2",
+   "id": "quasimodo_p2_31",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p20",
+   "id": "quasimodo_p20_491",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p20",
+   "id": "quasimodo_p20_493",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p20",
+   "id": "quasimodo_p20_496",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p20",
+   "id": "quasimodo_p20_500",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p21",
+   "id": "quasimodo_p21_519",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p21",
+   "id": "quasimodo_p21_520",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p21",
+   "id": "quasimodo_p21_521",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p21",
+   "id": "quasimodo_p21_522",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p22",
+   "id": "quasimodo_p22_526",
+   "kind": "punctuation-runs",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p22",
+   "id": "quasimodo_p22_536",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p22",
+   "id": "quasimodo_p22_549",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p23",
+   "id": "quasimodo_p23_555",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p24",
+   "id": "quasimodo_p24_577",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p24",
+   "id": "quasimodo_p24_585",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p24",
+   "id": "quasimodo_p24_586",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p24",
+   "id": "quasimodo_p24_589",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p24",
+   "id": "quasimodo_p24_594",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p25",
+   "id": "quasimodo_p25_614",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p26",
+   "id": "quasimodo_p26_632",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p29",
+   "id": "quasimodo_p29_706",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p30",
+   "id": "quasimodo_p30_735",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p30",
+   "id": "quasimodo_p30_738",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p30",
+   "id": "quasimodo_p30_739",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p30",
+   "id": "quasimodo_p30_740",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p31",
+   "id": "quasimodo_p31_757",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p31",
+   "id": "quasimodo_p31_771",
+   "kind": "head-changed",
+   "detail": "p1: milkeyway → projectsagana"
+  },
+  {
+   "page": "quasimodo-p31",
+   "id": "quasimodo_p31_771",
+   "kind": "anchor-moved",
+   "detail": "p1: milkeyway"
+  },
+  {
+   "page": "quasimodo-p32",
+   "id": "quasimodo_p32_785",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p33",
+   "id": "quasimodo_p33_816",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p33",
+   "id": "quasimodo_p33_817",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p34",
+   "id": "quasimodo_p34_839",
+   "kind": "head-count",
+   "detail": "EN 0 [] vs FA 1 [re_you]"
+  },
+  {
+   "page": "quasimodo-p34",
+   "id": "quasimodo_p34_839",
+   "kind": "head-added",
+   "detail": "p1: re_you"
+  },
+  {
+   "page": "quasimodo-p35",
+   "id": "quasimodo_p35_875",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p37",
+   "id": "quasimodo_p37_913",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p39",
+   "id": "quasimodo_p39_960",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p44",
+   "id": "quasimodo_p44_1080",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p45",
+   "id": "quasimodo_p45_1104",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p45",
+   "id": "quasimodo_p45_1117",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p46",
+   "id": "quasimodo_p46_1131",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p46",
+   "id": "quasimodo_p46_1136",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p46",
+   "id": "quasimodo_p46_1137",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p46",
+   "id": "quasimodo_p46_1143",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p47",
+   "id": "quasimodo_p47_1165",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p49",
+   "id": "quasimodo_p49_1206",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p51",
+   "id": "quasimodo_p51_1272",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p6",
+   "id": "quasimodo_p6_137",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p6",
+   "id": "quasimodo_p6_143",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "quasimodo-p8",
+   "id": "quasimodo_p8_195",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "readingsession-p2",
+   "id": "readingsession_p2_69",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "readingsession-p2",
+   "id": "readingsession_p2_73",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "readingsession-p7",
+   "id": "readingsession_p7_178",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "readingsession-p9",
+   "id": "readingsession_p9_230",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "robbie-p1",
+   "id": "robbie_p1_3",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "robbie-p1",
+   "id": "robbie_p1_6",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "robbie-p1",
+   "id": "robbie_p1_9",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "robbie-p1",
+   "id": "robbie_p1_14",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "robbie-p1",
+   "id": "robbie_p1_16",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "robbie-p1",
+   "id": "robbie_p1_18",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "robbie-p1",
+   "id": "robbie_p1_19",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "robbie-p1",
+   "id": "robbie_p1_23",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "robbie-p2",
+   "id": "robbie_p2_31",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "robbie-p2",
+   "id": "robbie_p2_38",
+   "kind": "punctuation-runs",
+   "detail": ""
+  },
+  {
+   "page": "robbie-p2",
+   "id": "robbie_p2_38",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "robbie-p2",
+   "id": "robbie_p2_40",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "robbie-p2",
+   "id": "robbie_p2_44",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "robbie-p3",
+   "id": "robbie_p3_70",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "robbie-p8",
+   "id": "robbie_p8_182",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "robbie-p8",
+   "id": "robbie_p8_186",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "robbie-p8",
+   "id": "robbie_p8_195",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "robbie-p8",
+   "id": "robbie_p8_200",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "robbie-p9",
+   "id": "robbie_p9_202",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "robbie-p9",
+   "id": "robbie_p9_206",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "robbie-p9",
+   "id": "robbie_p9_209",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "robbie-p9",
+   "id": "robbie_p9_211",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "robbie-p9",
+   "id": "robbie_p9_212",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "robbie-p9",
+   "id": "robbie_p9_216",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "robbie-p9",
+   "id": "robbie_p9_218",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "robbie-p9",
+   "id": "robbie_p9_220",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "salivan-p1",
+   "id": "salivan_p1_1",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "salivan-p2",
+   "id": "salivan_p2_14",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "scotty-p7",
+   "id": "scotty_p7_165",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "shadowpit-p1",
+   "id": "shadowpit_p1_10",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "shadowpit-p11",
+   "id": "shadowpit_p11_275",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "shadowpit-p12",
+   "id": "shadowpit_p12_276",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "shadowpit-p12",
+   "id": "shadowpit_p12_280",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "shadowpit-p12",
+   "id": "shadowpit_p12_285",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "shadowpit-p12",
+   "id": "shadowpit_p12_286",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "shadowpit-p12",
+   "id": "shadowpit_p12_294",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "shadowpit-p12",
+   "id": "shadowpit_p12_295",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "shadowpit-p12",
+   "id": "shadowpit_p12_297",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "shadowpit-p13",
+   "id": "shadowpit_p13_317",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "shadowpit-p13",
+   "id": "shadowpit_p13_319",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "shadowpit-p13",
+   "id": "shadowpit_p13_320",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "shadowpit-p2",
+   "id": "shadowpit_p2_26",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "shadowpit-p2",
+   "id": "shadowpit_p2_47",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "shadowpit-p3",
+   "id": "shadowpit_p3_71",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "shadowpit-p3",
+   "id": "shadowpit_p3_72",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "shadowpit-p3",
+   "id": "shadowpit_p3_73",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "shadowpit-p4",
+   "id": "shadowpit_p4_97",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "shadowpit-p8",
+   "id": "shadowpit_p8_189",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "shadowpit-p8",
+   "id": "shadowpit_p8_190",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "shadowpit-p9",
+   "id": "shadowpit_p9_205",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p1",
+   "id": "smimon_p1_2",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p1",
+   "id": "smimon_p1_23",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p1",
+   "id": "smimon_p1_24",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p10",
+   "id": "smimon_p10_231",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p10",
+   "id": "smimon_p10_234",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p11",
+   "id": "smimon_p11_256",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p11",
+   "id": "smimon_p11_258",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p11",
+   "id": "smimon_p11_273",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p12",
+   "id": "smimon_p12_280",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p13",
+   "id": "smimon_p13_321",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p13",
+   "id": "smimon_p13_324",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p14",
+   "id": "smimon_p14_331",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p14",
+   "id": "smimon_p14_334",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p14",
+   "id": "smimon_p14_350",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p15",
+   "id": "smimon_p15_362",
+   "kind": "url-missing",
+   "detail": "www.forexfactory.com/showthread.php?p=7565238#post7565238-"
+  },
+  {
+   "page": "smimon-p15",
+   "id": "smimon_p15_362",
+   "kind": "anchor-missing",
+   "detail": "p5: www.forexfactory.com/showthread.php?p=7565238#post7565238-"
+  },
+  {
+   "page": "smimon-p15",
+   "id": "smimon_p15_362",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p17",
+   "id": "smimon_p17_408",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p17",
+   "id": "smimon_p17_412",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p17",
+   "id": "smimon_p17_418",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p18",
+   "id": "smimon_p18_427",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p18",
+   "id": "smimon_p18_448",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p18",
+   "id": "smimon_p18_450",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p19",
+   "id": "smimon_p19_467",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p2",
+   "id": "smimon_p2_31",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p2",
+   "id": "smimon_p2_35",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p2",
+   "id": "smimon_p2_41",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p2",
+   "id": "smimon_p2_42",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p2",
+   "id": "smimon_p2_43",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p20",
+   "id": "smimon_p20_495",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p21",
+   "id": "smimon_p21_512",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p21",
+   "id": "smimon_p21_514",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p21",
+   "id": "smimon_p21_515",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p22",
+   "id": "smimon_p22_529",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p22",
+   "id": "smimon_p22_542",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p23",
+   "id": "smimon_p23_558",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p23",
+   "id": "smimon_p23_563",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p23",
+   "id": "smimon_p23_570",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p23",
+   "id": "smimon_p23_571",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p24",
+   "id": "smimon_p24_584",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p24",
+   "id": "smimon_p24_592",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p24",
+   "id": "smimon_p24_593",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p24",
+   "id": "smimon_p24_598",
+   "kind": "punctuation-runs",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p24",
+   "id": "smimon_p24_599",
+   "kind": "punctuation-runs",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p25",
+   "id": "smimon_p25_604",
+   "kind": "punctuation-runs",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p26",
+   "id": "smimon_p26_629",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p26",
+   "id": "smimon_p26_634",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p26",
+   "id": "smimon_p26_639",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p26",
+   "id": "smimon_p26_644",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p26",
+   "id": "smimon_p26_646",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p26",
+   "id": "smimon_p26_648",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p26",
+   "id": "smimon_p26_649",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p27",
+   "id": "smimon_p27_667",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p27",
+   "id": "smimon_p27_674",
+   "kind": "head-count",
+   "detail": "EN 0 [] vs FA 1 [smimon]"
+  },
+  {
+   "page": "smimon-p27",
+   "id": "smimon_p27_674",
+   "kind": "head-added",
+   "detail": "p1: smimon"
+  },
+  {
+   "page": "smimon-p28",
+   "id": "smimon_p28_681",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p28",
+   "id": "smimon_p28_686",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p28",
+   "id": "smimon_p28_687",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p28",
+   "id": "smimon_p28_689",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p28",
+   "id": "smimon_p28_696",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p29",
+   "id": "smimon_p29_707",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p29",
+   "id": "smimon_p29_711",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p3",
+   "id": "smimon_p3_53",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p3",
+   "id": "smimon_p3_54",
+   "kind": "url-missing",
+   "detail": "www.earnforex.com/report-analysis/?"
+  },
+  {
+   "page": "smimon-p3",
+   "id": "smimon_p3_54",
+   "kind": "anchor-missing",
+   "detail": "p3: www.earnforex.com/report-analysis/?"
+  },
+  {
+   "page": "smimon-p3",
+   "id": "smimon_p3_55",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p3",
+   "id": "smimon_p3_63",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p3",
+   "id": "smimon_p3_67",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p4",
+   "id": "smimon_p4_78",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p4",
+   "id": "smimon_p4_91",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p4",
+   "id": "smimon_p4_93",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p4",
+   "id": "smimon_p4_96",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p5",
+   "id": "smimon_p5_104",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p5",
+   "id": "smimon_p5_111",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p5",
+   "id": "smimon_p5_113",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p6",
+   "id": "smimon_p6_139",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p6",
+   "id": "smimon_p6_150",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p7",
+   "id": "smimon_p7_154",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p7",
+   "id": "smimon_p7_156",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p7",
+   "id": "smimon_p7_160",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p7",
+   "id": "smimon_p7_162",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p7",
+   "id": "smimon_p7_164",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p7",
+   "id": "smimon_p7_166",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p8",
+   "id": "smimon_p8_178",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p8",
+   "id": "smimon_p8_185",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p9",
+   "id": "smimon_p9_203",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p9",
+   "id": "smimon_p9_209",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p9",
+   "id": "smimon_p9_215",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "smimon-p9",
+   "id": "smimon_p9_223",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "staurum-p1",
+   "id": "staurum_p1_20",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "staurum-p19",
+   "id": "staurum_p19_452",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "staurum-p19",
+   "id": "staurum_p19_455",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "staurum-p19",
+   "id": "staurum_p19_457",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "staurum-p19",
+   "id": "staurum_p19_458",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "staurum-p19",
+   "id": "staurum_p19_459",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "staurum-p19",
+   "id": "staurum_p19_460",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "staurum-p19",
+   "id": "staurum_p19_461",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "staurum-p19",
+   "id": "staurum_p19_462",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "staurum-p19",
+   "id": "staurum_p19_464",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "staurum-p19",
+   "id": "staurum_p19_465",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "staurum-p19",
+   "id": "staurum_p19_467",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "staurum-p19",
+   "id": "staurum_p19_2",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "staurum-p22",
+   "id": "staurum_p22_526",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "staurum-p22",
+   "id": "staurum_p22_539",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "staurum-p3",
+   "id": "staurum_p3_20",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "staurum-p4",
+   "id": "staurum_p4_17",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "staurum-p7",
+   "id": "staurum_p7_14",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "sunnytrader-p10",
+   "id": "sunnytrader_p10_229",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "sunnytrader-p10",
+   "id": "sunnytrader_p10_230",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "sunnytrader-p10",
+   "id": "sunnytrader_p10_231",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "sunnytrader-p10",
+   "id": "sunnytrader_p10_232",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "sunnytrader-p10",
+   "id": "sunnytrader_p10_234",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "sunnytrader-p10",
+   "id": "sunnytrader_p10_235",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "sunnytrader-p11",
+   "id": "sunnytrader_p11_274",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "sunnytrader-p2",
+   "id": "sunnytrader_p2_28",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "sunnytrader-p3",
+   "id": "sunnytrader_p3_66",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "sunnytrader-p4",
+   "id": "sunnytrader_p4_86",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "sunnytrader-p5",
+   "id": "sunnytrader_p5_106",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "sunnytrader-p8",
+   "id": "sunnytrader_p8_195",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "supplydemand-p11",
+   "id": "supplydemand_p11_266",
+   "kind": "url-missing",
+   "detail": "www.acegazette.com/en/forum/trading/33-s....html?start=250#2145"
+  },
+  {
+   "page": "supplydemand-p11",
+   "id": "supplydemand_p11_268",
+   "kind": "url-missing",
+   "detail": "www.acegazette.com/en/forum/trading/33-s....html?start=250#2145"
+  },
+  {
+   "page": "supplydemand-p13",
+   "id": "supplydemand_p13_307",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "supplydemand-p19",
+   "id": "supplydemand_p19_472",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "supplydemand-p23",
+   "id": "supplydemand_p23_559",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "supplydemand-p24",
+   "id": "supplydemand_p24_589",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "supplydemand-p24",
+   "id": "supplydemand_p24_599",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "supplydemand-p25",
+   "id": "supplydemand_p25_625",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "supplydemand-p26",
+   "id": "supplydemand_p26_633",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "supplydemand-p26",
+   "id": "supplydemand_p26_637",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "supplydemand-p26",
+   "id": "supplydemand_p26_642",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "supplydemand-p30",
+   "id": "supplydemand_p30_743",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "supplydemand-p30",
+   "id": "supplydemand_p30_745",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "supplydemand-p32",
+   "id": "supplydemand_p32_798",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "supplydemand-p33",
+   "id": "supplydemand_p33_801",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "supplydemand-p34",
+   "id": "supplydemand_p34_827",
+   "kind": "head-count",
+   "detail": "EN 0 [] vs FA 1 [danandsueco]"
+  },
+  {
+   "page": "supplydemand-p34",
+   "id": "supplydemand_p34_827",
+   "kind": "head-added",
+   "detail": "p1: danandsueco"
+  },
+  {
+   "page": "supplydemand-p34",
+   "id": "supplydemand_p34_834",
+   "kind": "head-count",
+   "detail": "EN 2 [danandsueco, danandsueco] vs FA 3 [Eurotrash, danandsueco, danandsueco]"
+  },
+  {
+   "page": "supplydemand-p34",
+   "id": "supplydemand_p34_834",
+   "kind": "head-added",
+   "detail": "p1: Eurotrash"
+  },
+  {
+   "page": "supplydemand-p35",
+   "id": "supplydemand_p35_855",
+   "kind": "head-count",
+   "detail": "EN 0 [] vs FA 1 [danandsueco]"
+  },
+  {
+   "page": "supplydemand-p35",
+   "id": "supplydemand_p35_855",
+   "kind": "head-added",
+   "detail": "p1: danandsueco"
+  },
+  {
+   "page": "supplydemand-p35",
+   "id": "supplydemand_p35_866",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "supplydemand-p36",
+   "id": "supplydemand_p36_885",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "supplydemand-p36",
+   "id": "supplydemand_p36_886",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "supplydemand-p36",
+   "id": "supplydemand_p36_890",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "supplydemand-p37",
+   "id": "supplydemand_p37_920",
+   "kind": "head-count",
+   "detail": "EN 0 [] vs FA 1 [Ifmyante]"
+  },
+  {
+   "page": "supplydemand-p37",
+   "id": "supplydemand_p37_920",
+   "kind": "head-added",
+   "detail": "p1: Ifmyante"
+  },
+  {
+   "page": "supplydemand-p41",
+   "id": "supplydemand_p41_1022",
+   "kind": "head-count",
+   "detail": "EN 0 [] vs FA 1 [faldot]"
+  },
+  {
+   "page": "supplydemand-p41",
+   "id": "supplydemand_p41_1022",
+   "kind": "head-added",
+   "detail": "p1: faldot"
+  },
+  {
+   "page": "supplydemand-p48",
+   "id": "supplydemand_p48_1198",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "supplydemand-p51",
+   "id": "supplydemand_p51_1274",
+   "kind": "head-count",
+   "detail": "EN 1 [Edge] vs FA 0 []"
+  },
+  {
+   "page": "supplydemand-p51",
+   "id": "supplydemand_p51_1274",
+   "kind": "head-missing",
+   "detail": "p1: Edge"
+  },
+  {
+   "page": "supplydemand-p51",
+   "id": "supplydemand_p51_1274",
+   "kind": "anchor-missing",
+   "detail": "p1: Edge"
+  },
+  {
+   "page": "supplydemand-p52",
+   "id": "supplydemand_p52_1276",
+   "kind": "head-count",
+   "detail": "EN 2 [Harry, Edge] vs FA 1 [Harry]"
+  },
+  {
+   "page": "supplydemand-p52",
+   "id": "supplydemand_p52_1276",
+   "kind": "head-missing",
+   "detail": "p2: Edge"
+  },
+  {
+   "page": "supplydemand-p52",
+   "id": "supplydemand_p52_1276",
+   "kind": "anchor-missing",
+   "detail": "p2: Edge"
+  },
+  {
+   "page": "supplydemand-p53",
+   "id": "supplydemand_p53_1311",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "supplydemand-p53",
+   "id": "supplydemand_p53_1316",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "supplydemand-p55",
+   "id": "supplydemand_p55_1362",
+   "kind": "acronym-zwnj",
+   "detail": ""
+  },
+  {
+   "page": "supplydemand-p6",
+   "id": "supplydemand_p6_143",
+   "kind": "url-missing",
+   "detail": "www.acegazette.com/en/forum/10-homework-...ession-homework.htmli"
+  },
+  {
+   "page": "supplydemand-p6",
+   "id": "supplydemand_p6_143",
+   "kind": "anchor-missing",
+   "detail": "p1: www.acegazette.com/en/forum/10-homework-...ession-homework.htmli"
+  },
+  {
+   "page": "supplydemand-p6",
+   "id": "supplydemand_p6_144",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "warren-p10",
+   "id": "warren_p10_239",
+   "kind": "head-count",
+   "detail": "EN 1 [Warren] vs FA 0 []"
+  },
+  {
+   "page": "warren-p10",
+   "id": "warren_p10_239",
+   "kind": "head-missing",
+   "detail": "p1: Warren"
+  },
+  {
+   "page": "warren-p10",
+   "id": "warren_p10_239",
+   "kind": "anchor-missing",
+   "detail": "p1: Warren"
+  },
+  {
+   "page": "warren-p10",
+   "id": "warren_p10_242",
+   "kind": "head-count",
+   "detail": "EN 1 [Warren] vs FA 0 []"
+  },
+  {
+   "page": "warren-p10",
+   "id": "warren_p10_242",
+   "kind": "head-missing",
+   "detail": "p1: Warren"
+  },
+  {
+   "page": "warren-p10",
+   "id": "warren_p10_242",
+   "kind": "anchor-missing",
+   "detail": "p1: Warren"
+  },
+  {
+   "page": "warren-p10",
+   "id": "warren_p10_249",
+   "kind": "head-count",
+   "detail": "EN 1 [Warren] vs FA 0 []"
+  },
+  {
+   "page": "warren-p10",
+   "id": "warren_p10_249",
+   "kind": "head-missing",
+   "detail": "p1: Warren"
+  },
+  {
+   "page": "warren-p10",
+   "id": "warren_p10_249",
+   "kind": "anchor-missing",
+   "detail": "p1: Warren"
+  },
+  {
+   "page": "warren-p2",
+   "id": "warren_p2_30",
+   "kind": "head-count",
+   "detail": "EN 1 [Warren] vs FA 0 []"
+  },
+  {
+   "page": "warren-p2",
+   "id": "warren_p2_30",
+   "kind": "head-missing",
+   "detail": "p6: Warren"
+  },
+  {
+   "page": "warren-p2",
+   "id": "warren_p2_30",
+   "kind": "anchor-missing",
+   "detail": "p6: Warren"
+  },
+  {
+   "page": "warren-p2",
+   "id": "warren_p2_35",
+   "kind": "head-count",
+   "detail": "EN 1 [Warren] vs FA 0 []"
+  },
+  {
+   "page": "warren-p2",
+   "id": "warren_p2_35",
+   "kind": "head-missing",
+   "detail": "p1: Warren"
+  },
+  {
+   "page": "warren-p2",
+   "id": "warren_p2_35",
+   "kind": "anchor-missing",
+   "detail": "p1: Warren"
+  },
+  {
+   "page": "warren-p2",
+   "id": "warren_p2_50",
+   "kind": "head-count",
+   "detail": "EN 1 [Warren] vs FA 0 []"
+  },
+  {
+   "page": "warren-p2",
+   "id": "warren_p2_50",
+   "kind": "head-missing",
+   "detail": "p2: Warren"
+  },
+  {
+   "page": "warren-p2",
+   "id": "warren_p2_50",
+   "kind": "anchor-missing",
+   "detail": "p2: Warren"
+  },
+  {
+   "page": "warren-p3",
+   "id": "warren_p3_61",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "warren-p3",
+   "id": "warren_p3_63",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "warren-p3",
+   "id": "warren_p3_71",
+   "kind": "head-count",
+   "detail": "EN 2 [Warren, faldot] vs FA 1 [faldot]"
+  },
+  {
+   "page": "warren-p3",
+   "id": "warren_p3_71",
+   "kind": "head-missing",
+   "detail": "p1: Warren"
+  },
+  {
+   "page": "warren-p3",
+   "id": "warren_p3_71",
+   "kind": "anchor-missing",
+   "detail": "p1: Warren"
+  },
+  {
+   "page": "warren-p3",
+   "id": "warren_p3_75",
+   "kind": "head-count",
+   "detail": "EN 1 [Warren] vs FA 0 []"
+  },
+  {
+   "page": "warren-p3",
+   "id": "warren_p3_75",
+   "kind": "head-missing",
+   "detail": "p1: Warren"
+  },
+  {
+   "page": "warren-p3",
+   "id": "warren_p3_75",
+   "kind": "anchor-missing",
+   "detail": "p1: Warren"
+  },
+  {
+   "page": "warren-p4",
+   "id": "warren_p4_78",
+   "kind": "head-count",
+   "detail": "EN 2 [kruger, Warren] vs FA 1 [kruger]"
+  },
+  {
+   "page": "warren-p4",
+   "id": "warren_p4_78",
+   "kind": "head-missing",
+   "detail": "p2: Warren"
+  },
+  {
+   "page": "warren-p4",
+   "id": "warren_p4_78",
+   "kind": "anchor-missing",
+   "detail": "p2: Warren"
+  },
+  {
+   "page": "warren-p4",
+   "id": "warren_p4_85",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "warren-p4",
+   "id": "warren_p4_86",
+   "kind": "head-count",
+   "detail": "EN 1 [Warren] vs FA 0 []"
+  },
+  {
+   "page": "warren-p4",
+   "id": "warren_p4_86",
+   "kind": "head-missing",
+   "detail": "p1: Warren"
+  },
+  {
+   "page": "warren-p4",
+   "id": "warren_p4_86",
+   "kind": "anchor-missing",
+   "detail": "p1: Warren"
+  },
+  {
+   "page": "warren-p4",
+   "id": "warren_p4_95",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "warren-p4",
+   "id": "warren_p4_100",
+   "kind": "head-count",
+   "detail": "EN 1 [Warren] vs FA 0 []"
+  },
+  {
+   "page": "warren-p4",
+   "id": "warren_p4_100",
+   "kind": "head-missing",
+   "detail": "p1: Warren"
+  },
+  {
+   "page": "warren-p4",
+   "id": "warren_p4_100",
+   "kind": "anchor-missing",
+   "detail": "p1: Warren"
+  },
+  {
+   "page": "warren-p6",
+   "id": "warren_p6_143",
+   "kind": "head-count",
+   "detail": "EN 1 [Warren] vs FA 0 []"
+  },
+  {
+   "page": "warren-p6",
+   "id": "warren_p6_143",
+   "kind": "head-missing",
+   "detail": "p1: Warren"
+  },
+  {
+   "page": "warren-p6",
+   "id": "warren_p6_143",
+   "kind": "anchor-missing",
+   "detail": "p1: Warren"
+  },
+  {
+   "page": "warren-p8",
+   "id": "warren_p8_195",
+   "kind": "head-count",
+   "detail": "EN 1 [Warren] vs FA 0 []"
+  },
+  {
+   "page": "warren-p8",
+   "id": "warren_p8_195",
+   "kind": "head-missing",
+   "detail": "p1: Warren"
+  },
+  {
+   "page": "warren-p8",
+   "id": "warren_p8_195",
+   "kind": "anchor-missing",
+   "detail": "p1: Warren"
+  },
+  {
+   "page": "warren-p8",
+   "id": "warren_p8_199",
+   "kind": "head-count",
+   "detail": "EN 1 [Warren] vs FA 0 []"
+  },
+  {
+   "page": "warren-p8",
+   "id": "warren_p8_199",
+   "kind": "head-missing",
+   "detail": "p1: Warren"
+  },
+  {
+   "page": "warren-p8",
+   "id": "warren_p8_199",
+   "kind": "anchor-missing",
+   "detail": "p1: Warren"
+  },
+  {
+   "page": "warren-p8",
+   "id": "warren_p8_200",
+   "kind": "head-count",
+   "detail": "EN 1 [Warren] vs FA 0 []"
+  },
+  {
+   "page": "warren-p8",
+   "id": "warren_p8_200",
+   "kind": "head-missing",
+   "detail": "p1: Warren"
+  },
+  {
+   "page": "warren-p8",
+   "id": "warren_p8_200",
+   "kind": "anchor-missing",
+   "detail": "p1: Warren"
+  },
+  {
+   "page": "warren-p9",
+   "id": "warren_p9_215",
+   "kind": "head-count",
+   "detail": "EN 1 [Warren] vs FA 0 []"
+  },
+  {
+   "page": "warren-p9",
+   "id": "warren_p9_215",
+   "kind": "head-missing",
+   "detail": "p1: Warren"
+  },
+  {
+   "page": "warren-p9",
+   "id": "warren_p9_215",
+   "kind": "anchor-missing",
+   "detail": "p1: Warren"
+  },
+  {
+   "page": "warren-p9",
+   "id": "warren_p9_219",
+   "kind": "head-count",
+   "detail": "EN 1 [Warren] vs FA 0 []"
+  },
+  {
+   "page": "warren-p9",
+   "id": "warren_p9_219",
+   "kind": "head-missing",
+   "detail": "p1: Warren"
+  },
+  {
+   "page": "warren-p9",
+   "id": "warren_p9_219",
+   "kind": "anchor-missing",
+   "detail": "p1: Warren"
+  },
+  {
+   "page": "whenever-p4",
+   "id": "whenever_p4_86",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "whenever-p4",
+   "id": "whenever_p4_96",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "whenever-p6",
+   "id": "whenever_p6_136",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "whenever-p6",
+   "id": "whenever_p6_138",
+   "kind": "anchor-moved",
+   "detail": "p55: 0.1"
+  },
+  {
+   "page": "whenever-p6",
+   "id": "whenever_p6_138",
+   "kind": "duplicate-para",
+   "detail": "p63 = p65"
+  },
+  {
+   "page": "whenever-p6",
+   "id": "whenever_p6_143",
+   "kind": "anchor-moved",
+   "detail": "p53: 0.1"
+  },
+  {
+   "page": "whenever-p6",
+   "id": "whenever_p6_143",
+   "kind": "duplicate-para",
+   "detail": "p4 = p5"
+  },
+  {
+   "page": "whenever-p6",
+   "id": "whenever_p6_143",
+   "kind": "duplicate-para",
+   "detail": "p38 = p39"
+  },
+  {
+   "page": "whenever-p6",
+   "id": "whenever_p6_143",
+   "kind": "duplicate-para",
+   "detail": "p57 = p58"
+  },
+  {
+   "page": "whenever-p6",
+   "id": "whenever_p6_143",
+   "kind": "duplicate-para",
+   "detail": "p62 = p64"
+  },
+  {
+   "page": "whenever-p6",
+   "id": "whenever_p6_148",
+   "kind": "anchor-moved",
+   "detail": "p53: 0.1"
+  },
+  {
+   "page": "whenever-p6",
+   "id": "whenever_p6_148",
+   "kind": "duplicate-para",
+   "detail": "p58 = p59"
+  },
+  {
+   "page": "whenever-p6",
+   "id": "whenever_p6_148",
+   "kind": "duplicate-para",
+   "detail": "p62 = p64"
+  },
+  {
+   "page": "whenever-p7",
+   "id": "whenever_p7_152",
+   "kind": "latin-weld",
+   "detail": ""
+  },
+  {
+   "page": "whenever-p7",
+   "id": "whenever_p7_175",
+   "kind": "punctuation-runs",
+   "detail": ""
+  }
+ ]
+}

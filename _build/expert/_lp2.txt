@@ -1,0 +1,48 @@
+##### its_p2_40
+[0] Ifmyante wrote: We will, however, battle with the monsters, and we will win, without darkening our souls a shade
+[1] I definitely agree that for ITs using algo's, programmed by their intentions and rules definitely relieves them of time and imprecision. Though i would just like to point out, basing on my recent research, using algo's doesn't necessarily mean HFT (High Frequency Trading) as it is very commonly believed now a-days. A light speed trading they call it, and the ones that have planted their asses the closest to the trading terminal, have the fastest execution. Why would you fight for nano seconds?
+[2] As i see, most of these highly technically educated people are very brilliant at working out the best codes for taking the profit out of the market. Though from what i have read and understood, their mindsets ONLY understand the markets microstructure and mostly just opt to gain return with tactical tricks.
+[3] Common practice is them offering liquidity to other manual traders, entering with a market order. Once the HFT's pending order is filled, they close it in a split of a second, just to profit on the spread the retailer has paid to get into the trade. Ofcourse there are psychological tricks that go around these liquidity offering twists, but nothing is intended for a longer period of investing.
+[4] That is where the tight spreads come from! HFTs competing between each other and getting fees just for supplying liquidity to dealers.
+[5] Simply put, there is no long term strategy HFTs live by. A tactic is hardly successful if it isn't sufficiently applied within some bigger/higher-picture plan. Plan being the engulfing signals and other.
+[6] Now, if u get a trader that understands the basics of HFT codes and the strategy, you get a golden boy, who can program and hugely lessen all the needed work and especially the risk. ~~~
+[7] Imagine: We hava a buying range. creting compression and a consistent buying in small lots is requiered,before we give a signal to break out and advance to next level. Doing it manually, well...:P Its exhausting, to say the least. I know i would program the algo, tu buy small lots with market orders on the way up of the range, and just let the algo put pending longs, while price is retracing within a move. (If there is a scenario to break long.)
+[8] Big orders don't get a fill, and even more, you dont want to bust open the range, and bring confusion to other ITs faces, while they are happily loading their cargo. (I believe there are even upper lot limits for market orders, with some brokers.
+[9] ~~~ This is very interisting article that sheds light on alot of what HFTs are considered to be! www.forbes.com/sites/richardfinger/2013/...aders-and-investors/
+[10] These topic has been hot since 2010 the FLASH crash. Contemplating wether these algos are of risk to the stability of market! From what i read, people kept unplugging their sweet HFTs algos as they in horror observed DOW plunging. That way they created volatility, price droped presumeablly to a targeted level and resumed back up! (I havent checked since i got no DOW with my broker.)
+[11] Those in-the-moment-profit guys, considered it risky since they had no clue what was going on, and with such speed of price droping, their light speed pending longs would not get the return either. They dont even want to think about the loss scenario, due to over laveraging....
+[12] From my understanding, price has simply pushed to target and retraced. Driven by the IT traders (or algos), that were fully aware of the target for retrace. Long term strategy won again.:D
+[13] If u have ever played chess - you probably know why.:)
+[14] just my 2 nano pips AERO
+##### its_p2_42
+[0] Morning Everyone,
+[1] For a while now already I have been obsessed to get myself to think like an IT. Yesterday after I called it a day and especially due to IF’s comment on the charts; “think like an IT, think like an IT, think like an IT…” was playing over and over in my head even when I was asleep!
+[2] This morning, while I was preparing to start analyzing Area 5 (In my Journal), my mind asked a set of questions:
+[3] 1- Is it possible that a five year old area would still hold left over orders?
+[4] 2- If I were an IT, would I have left pending orders there for so long? Especially that the framework in the mix of fundamental, geopolitical, economical, financial… etc... climate was surely different?
+[5] 3- If the answer to the above questions is yes, wouldn’t brokers, market makers, liquidity providers and what have you, make a killing by just charging for those pending orders? (Just imagine the accumulated returns on a certain five year old level)
+[6] 4- Wouldn’t we know about such interest payment requirements?
+[7] Certainly after more such questions we come to the conclusion that it has to be a definite “NO” for the first two above.
+[8] Ok…. So hypothetically, why would a five year old level react the way it does? It must be NEW orders there then. But what’s there? Older levels… hmmmm
+[9] Now at this point and due to my previous career, I shifted my thought process back into the corporate world. Isn’t that what ITs are really? So they must think in terms of Daily, Weekly, Monthly, quarterly, semiannually & annually…. With cycles in between, some longer others shorter.
+[10] Now let’s step out of our trading shoes for a while and think in terms of consumerism. Imagine I was an avid car collector and Bugatti was giving away free Veyrons, with the only requirement to get one being to stand in line and waiting your turn. How long do you think the Q will be by the time I get there? Will there be enough cars left by the time I get there? Will the plant have enough cars to satisfy all the demand? At what point will the manufacturer start pricing the product again? On the other hand imagine if that same product was priced at 1 trillion, would there be any demand for it? Supply? Parts? After Sale Customer service?
+[11] So there is a tipping point isn’t there i.e. a shift from when something is considered a bargain to when it becomes a rip-off. But between these two points are more stages such as, too cheap, cheap, average, expensive and too expensive.
+[12] The same applies to our charts. The charts show us how the buyers and sellers behaved at a certain time in the past. This is translated through price action and does not mean that because there were lots of buyers at a certain base or level that that pattern will repeat. It just means there is high probability of a reaction in the buyers’ favor.
+[13] Our study here at RTM is not about picking tops and bottoms, it is about following along the path of the ITs once the signs are there, staying flexible to change and acting accordingly.
+[14] Now back to area 5:)
+##### its_p2_43
+[0] pucci wrote: Morning Everyone, 1- Is it possible that a five year old area would still hold left over orders?
+[1] 2- If I were an IT, would I have left pending orders there for so long? Especially that the framework in the mix of fundamental, geopolitical, economical, financial… etc... climate was surely different?
+[2] 3- If the answer to the above questions is yes, wouldn’t brokers, market makers, liquidity providers and what have you, make a killing by just charging for those pending orders? (Just imagine the accumulated returns on a certain five year old level)
+[3] 4- Wouldn’t we know about such interest payment requirements?
+[4] Hey Pucci.
+[5] You point out a very important idea, one i have troubled myself over aswell!
+[6] While, if one understand little market microstructure, one knows that pending orders can be placed and removed anytime, if not triggered. As you mention, keeping them in place for years would end up in fees bigger than the profit could probably make. Especially for 50 years old ones. Companies, brokers could have been abandoned by now also.
+[7] While it doesn't make sense, price still reacts beautifuly at the areas of interest. Even to the pip! But really, willing supply could be just spread around... How can one know?
+[8] The idea i came up with and give for consideration: While ITs intentions and needs are the tactics and strategy behind the candles! While engulfing and defining levels are to be defined with "candles"! So, by thoroughly studying ITs intentions, you could get the feeling for the drive of the market. And by studying the FLs, compression, engulfs,... you get the picture where price will tend to go next!
+[9] In my opinion ITs look for levels rather visually! and arrange them so that when they are approached and hit, they bring about all the orderflow they need for their fills! (that is what i thin IF means with - All the duckies are aligned
+[10] )
+[11] As you know, ITs can do anything they wish, so if breaking a level isn't such a big deal, then FO and ENG are pretty the same, orderflow wise.
+[12] They only need to set the rules how to visually and by strategic planing discern which is which!
+[13] They won't have orders standing at the 1950 level, if price ain't even near that! But when the ENG shows price will go there for sure, they will visually see, that this level is within the flag we just broke into and so its viable to trade. In the mean time, they prepare the battlefield for all the duckies and put the pendings there.
+[14] Hope this gives a different view. AERO

@@ -1,0 +1,150 @@
+### alex_p15_364 hash=b25d56861b4c78bec8b1e050c6ffe4f273a4351c | echo
+paras en/fa: 1/1 | echo bigram: "نشان دادم"
+lex.audit: echo
+---FA---
+سلام Bobyv87، دقیقاً همین سؤال را از تو انتظار داشتم می‌بینی، من قرمز را نشان دادم (حرکت نزولی قوی)، برای من - DP تازه‌ای است. این DP تازه اینگالف شده بود، به همین دلیل ورود احتمالی را نشان دادم (استاپ‌لاس - حداکثر 10 پیپ - ورود تهاجمی). یادت نره - DP تازه است، اگر آنجا ری‌تست نشده باشد.
+---EN---
+Hi Bobyv87, I expected this quistion exactly from you see, I pointed red (strong down movement), for me - it`s nice new DP. This new DP was engulfed, that`s why I pointed possible entry (stop loss - was max 10 pips -aggressive entry). Don`t forget - DP is fresh, if it was not retrace there.
+### alex_p18_435 hash=4f084fe76a1a1c3c00c987d6930d03a734e270fc | echo
+paras en/fa: 2/2 | echo bigram: "باکس سبز"
+lex.audit: echo
+---FA---
+سلام Alex،
+
+آخرین تریدت خیلی بدیهی بود.:) ولی برای امروز یک سؤال دارم، آن باکس سبز در آخرین چارتت چیست؟ آیا آن FTRِ واضح بعد از اینگالف دیمند کلیدی است؟ همیشه در بعضی از چارت‌هایت به آن باکس سبز struggle (جعبهٔ کشمکش) wonder می‌کردم، ولی هیچ‌وقت نپرسیدم. اگر قبلاً به کسی جواب داده‌ای، لطفاً مرا به پست‌های قدیمی‌ات هدایت کن. شاید از دستش داده‌ام. ممنون Alex و ترید خوش بگذرد!
+---EN---
+Hi Alex,
+
+Your last trade is so obvious.:) But I have question for today what is that green box in your last chart? is that the obvious FTR after the engulf of key demand? I've always wonder what it is (your green struggle box) in some of your charts, but never ask you. If you've answered someone in the past, kindly forward me to your old posts. Perhaps I've missed it. Thanks Alex and happy trading!
+### alex_p19_475 hash=6d9525398284dddccf6f5d42a577c1a5040607ad | echo
+paras en/fa: 2/2 | echo bigram: "قیمت سطح"
+lex.audit: echo
+---FA---
+سلام اینجا، اینجا تازه هستم. و سؤالم این است که چرا قیمت وقتی یک سطح supply و یک افت بزرگ به پایین هست، پایین نرفت؟ پیشنهادی دربارهٔ سبک تریدم هست؟
+
+سؤال: وقتی قیمت به سطح می‌رسد چه چیزی به تو می‌گوید بفروشی یا بخری؟
+---EN---
+Hello there am new here. And my question is Why price didnt move down when there is a supply lvl and a big drop down? Any suggestions about my trading style?
+
+question: when price hit the level what is the thing which tells u to sell or buy?
+### alex_p2_39 hash=1be71e91f782472254fd8c0375f6f9114cce7ffe | numbers missing 100%
+paras en/fa: 1/1 | echo bigram: ""
+lex.audit: 
+---FA---
+ممنون Harry. صددرصد با تو موافقم.
+---EN---
+Thanks Harry. I agree with you 100%.
+### alex_p20_482 hash=1c57f3f941ec25ffcca13fc80def601ee0b0f9d4 | echo
+paras en/fa: 2/2 | echo bigram: "دوست دارم"
+lex.audit: echo
+---FA---
+ترید را دوست دارم و استراحت را هم دوست دارم
+
+آخر هفتهٔ خوبی داشته باشی!
+---EN---
+I love trading and love relax
+
+Have a nice WEEKEND!
+### alex_p21_506 hash=191c4f770ec4e4c648b430664b8316e612f2ce0e | echo
+paras en/fa: 2/2 | echo bigram: "نزولی قوی"
+lex.audit: echo
+---FA---
+سلام Full
+
+لطفاً چارت‌ها را ببینید: 1. اجباری - تایم‌فریم بالاتر را ببینید تا بفهمید کجاییم 2. QM معتبر نیست، چون روند نزولی قوی داریم (ENG + ENG 2 روی Support اصلی). چارت H4 - ما ENG MPL نداریم (حرکت نزولی قوی قرمز)، روی چارت علامت زدم. امیدوارم کمک کند.
+---EN---
+Hi Full
+
+Please look at charts: 1. Mandatory - look at Higher TF to undersdand where we are 2. QM it is not valid, because we have strong downtrend ( ENG + ENG 2 of main Support). H4 chart - We do not have ENG MPL (strong red movement down), I marked on chart. I hope, it helps.
+### alex_p22_549 hash=a701751d58bc8778f42d3da1664d4717d3a6295b | echo
+paras en/fa: 2/2 | echo bigram: "شکست سطح"
+lex.audit: echo
+---FA---
+سلام Alex!!
+
+در ارجاع به پست 544 فهمیدم که FO مثل اینگلاف سیگنال است ولی در جهت مخالف. پس باید تعیین کنیم شکست یک سطح مهم واقعی است (EG) یا جعلی (FO) تا جهت قیمت را بدانیم. آیا می‌توانیم FO یا EG را به همان روش تعیین کنیم؟؟؟ یعنی با شکست یک سطح SR. درست فهمیدم؟؟
+---EN---
+Hi Alex!!
+
+In reference to post 544 I have realized that the FO is a signal like engulf but in the opposite direction.So we must determine whether the break of an important level is true (EG) or false(FO) to know the direction of the price.Can we determine the FO or EG i the same way???I mean with the breaking of a level SR.I got it right??
+### alex_p24_592 hash=cfda675ba3a3d3d36ee444b783464515c080330e | echo
+paras en/fa: 3/3 | echo bigram: "تحلیل درست"
+lex.audit: echo
+---FA---
+juniormaiafx نوشت: سلام Alex... برگشتم... اینجا اطلاعات زیادی دربارهٔ طلا هست... تبریک می‌گم رفیق، شایسته‌اش هستی!!! به هر حال... EurUsd را داشتم تماشا می‌کردم...و این چیدمان را دیدم: می‌توانی تأیید کنی آیا این تحلیل درست است؟
+
+با احترام
+
+سلام، تحلیل درست است. نیازی به تأیید نیست، QM قشنگ و key Eng داری (FO قشنگ بود). Touch trade و تمام.
+---EN---
+juniormaiafx wrote: Hi Alex... i'm back... we have a lot of gold information over here... congratulations man, you deserve it!!! Apropos... i was watching EurUsd...and i saw this configuration: Can you confirm if this analysis is that correct?
+
+Kind Regards
+
+Hi, analyse is correct. No need to confirm, you have nice QM and key Eng (FO was nice). Touch trade and that`s it.
+### alex_p28_693 hash=4adb82b19dc39a991ac97944efab6b0dda286e4a | echo
+paras en/fa: 1/1 | echo bigram: "اضافه دربارهٔ"
+lex.audit: echo
+---FA---
+سلام CP، بله رفیق، چارت‌هایم را درست فهمیدی. اخیراً واقعاً تأیید روی LTF می‌گیرم، تریدم را کمی عوض کردم و اطلاعات اضافه دربارهٔ بازار اضافه کردم! الان سعی می‌کنم با استفاده از دانش اضافه دربارهٔ بازار تریدم را بهتر کنم. خوشحالم که شنیدم!
+---EN---
+Hi CP, Yeah mate, you caught my charts correctly. Recently I really get confirmation on LTF, i changed my trading a little and add extra information about market! Now I try to improve my trading using extra knowledge about market. Glad to hear you!
+### alex_p33_810 hash=aa3d16808777b50ee2963f103354d566c5431e39 | latex
+paras en/fa: 2/2 | echo bigram: ""
+lex.audit: latex
+---FA---
+bllixu نوشت: پس فقط بدون تأیید مثل QM وارد می‌شوی؟
+
+سلام - در این تریدها تأییدی نیست. دیگر QM را نمی‌گردم.....به دنبال levelهای کلیدی، ضعف قیمت، supply\demand تازه هستم. البته در شروع باید QM، DM، ENG، FO، Can can و چیزهای دیگر را بشناسیم....این مثل رانندگی است. تو نتیجه‌محور رانندگی می‌کنی و تمام
+---EN---
+bllixu wrote: So you just enter with no confirmation as QM?
+
+Hi - no confirmation in these trades. I don`t look for QM anymore.....I look for key levels, weakness of price, fresh supply\demand. of course, at the beginning we must know QM, DM, ENG, FO, Can can and other things....This like driving a car. You drive as a result and that`s all
+### alex_p33_820 hash=cbca946c375ecdb2dcbccb2544c4a3246e3ab697 | latex
+paras en/fa: 6/6 | echo bigram: ""
+lex.audit: latex
+---FA---
+Kovalenko نوشت:
+
+bllixu نوشت: پس فقط بدون تأیید مثل QM وارد می‌شوی؟
+
+سلام - در این تریدها تأییدی نیست. دیگر QM را نمی‌گردم.....به دنبال levelهای کلیدی، ضعف قیمت، supply\demand تازه هستم. البته در شروع باید QM، DM، ENG، FO، Can can و چیزهای دیگر را بشناسیم....این مثل رانندگی است. تو نتیجه‌محور رانندگی می‌کنی و تمام
+
+سلام Sir Alex،
+
+ببخش اگر قبلاً پرسیده شده، ولی می‌توانی نشان بدهی ضعف قیمت در چارت تو چیست؟ منظورت ناحیهٔ بالانس است، یا از دست رفتن مومنتوم وقتی قیمت به یک level مشخص می‌رسد؟
+
+BTW، تریدهای جفت GBP فوق‌العاده!
+---EN---
+Kovalenko wrote:
+
+bllixu wrote: So you just enter with no confirmation as QM?
+
+Hi - no conrmation in these trades. I don`t look for QM anymore.....I look for key levels, weakness of price, fresh supply\demand. of course, at the beginning we must know QM, DM, ENG, FO, Can can and other things....This like driving a car. You drive as a result and that`s all
+
+Hi Sir Alex,
+
+I'm sorry if it's asked before, but can you illustrate what is weakness of price in your chart? Do you mean it's the balance area, or the lost of momentum when price arrive at a certain level?
+
+Btw, Wonderful GBP pairs trades!
+### alex_p7_163 hash=3b0264bfee9bfaee7433d07182f4bfeb539d987d | echo
+paras en/fa: 1/1 | echo bigram: "سطح‌های کلیدی"
+lex.audit: echo
+---FA---
+سلام رفیق، PS! من سطح‌های کلیدی را روی چارت علامت می‌زنم، بعد واکنش قیمت را می‌بینم. همان‌طور که می‌دانیم قیمت دقیقاً روی سطح‌های کلیدی واکنش نشان می‌دهد. همچنین برای تأیید تغییر روند دنبال HH/HL و LL/LH و اینگالف هستم
+---EN---
+Hi mate, PS! I mark key levels on chart, after I watch the reaction of the price. As we know the price reacts exactly on the key levels. Also I`m looking for HH/HL and LL/LH, Engulfing for trend change confirmation
+### alex_p7_164 hash=dfab17c804a8cd1cd13a2bd1e124c82f942da557 | echo
+paras en/fa: 1/1 | echo bigram: "سطح‌های کلیدی"
+lex.audit: echo
+---FA---
+Kovalenko نوشت: سلام رفیق، PS! من سطح‌های کلیدی را روی چارت علامت می‌زنم، بعد واکنش قیمت را می‌بینم. همان‌طور که می‌دانیم قیمت دقیقاً روی سطح‌های کلیدی واکنش نشان می‌دهد. همچنین برای تأیید تغییر روند دنبال HH/HL و LL/LH و اینگالف هستم
+---EN---
+Kovalenko wrote: Hi mate, PS! I mark key levels on chart, after I watch the reaction of the price. As we know the price reacts exactly on the key levels. Also I`m looking for HH/HL and LL/LH, Engulfing for trend change confirmation
+### alex_p7_167 hash=3e935f90d963c339afe71e8b752292576179b6da | numbers missing 100%
+paras en/fa: 1/1 | echo bigram: ""
+lex.audit: 
+---FA---
+بله، صددرصد، دوستش دارم
+---EN---
+Yes 100%, I love it

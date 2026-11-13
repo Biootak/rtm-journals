@@ -1,0 +1,328 @@
+### if_p89_1
+EN: Thanks TLN,
+
+it surely helps. I'm pretty sure that the best thing to do is to refer
+to spot and futures prices given by regulamentated markets for analisys.
+
+I'm looking for a dedicated analysis software with stand alone data feed
+ but it surely costs too much for beginners, not profitable, traders (as
+ I am )
+
+The italian broker I use for futures gives me CME bid/ask (no book) for only 3$/month but it has only 2 months history
+
+If you want older history price go up to 100$/month (bloomber goes for more than 25.000 $/year )
+
+I don't know if there's is the possibility for IF/RTM to have special
+discounts with pro data feeds (i.e. IQ Feed, eSignal or others).
+
+IMO good data feed is a must for LTF and scalping, maybe not so necessary for HTFs >4H.
+
+I'm interested in IF/Master Traders opinion
+FA: ممنون TLN،
+
+قطعاً کمک می‌کند. تقریباً مطمئنم بهترین کار این است که برای تحلیل به قیمت‌های اسپات و فیوچرز بازارهای تحت نظارت مراجعه کنی.
+
+دنبال یک نرم‌افزار تحلیل اختصاصی با فید دادهٔ مستقل می‌گردم، ولی برای معامله‌گرهای تازه‌کار و غیرسودده (مثل خودم) قطعاً خیلی گران تمام می‌شود
+
+بروکر ایتالیایی‌ای که برای فیوچرز استفاده می‌کنم، بید/اسک CME را (بدون دفتر سفارش) فقط ماهی 3$ می‌دهد، ولی تاریخچه‌اش فقط 2 ماه است
+
+اگر تاریخچهٔ قدیمی‌تر بخواهی، قیمت می‌رود تا ماهی 100$ (بلومبرگ بیشتر از سالی 25.000 $ می‌شود)
+
+نمی‌دانم امکانش هست که IF/RTM با فیدهای دادهٔ حرفه‌ای (مثلاً IQ Feed یا eSignal یا بقیه) تخفیف ویژه بگیرد.
+
+به نظر من فید دادهٔ خوب برای LTF و اسکالپ ضروری است، ولی برای HTFهای بالاتر از 4H شاید آن‌قدر لازم نباشد.
+
+نظر IF/استادهای معامله‌گر برایم مهم است
+
+### if_p89_2
+EN: Probably I can explain better what I mean with comparison with CME official data (delayed but free) and FxPro data.
+
+There's the big difference that the first is a future contract and the
+second is the spot price, so it's normal a difference in price (if you
+don't know why, take the time to understand what a future contract is
+and why it differs from the spot, googling it).
+
+BTW this doesn't explain this:
+
+File Attachment:File Name:
+File Size: 0 KB
+FA: احتمالاً با مقایسهٔ داده‌های رسمی CME (با تأخیر ولی رایگان) و دادهٔ FxPro می‌توانم بهتر بگویم منظورم چیست.
+
+فرق بزرگ این است که اولی قرارداد فیوچرز است و دومی قیمت اسپات، پس اختلاف قیمت طبیعی است (اگر نمی‌دانی چرا، وقت بگذار و بفهم قرارداد فیوچرز چیست و چرا با اسپات فرق دارد، در گوگل سرچ کن).
+
+راستی این یکی را توضیح نمی‌دهد:
+
+پیوست فایل: نام فایل:
+حجم فایل: 0 KB
+
+### if_p89_3
+EN: So after watching IF's webinar it seems that the only thing we need to mark up are left shoulders, correct?
+
+And price simply moves from left shoulder to left shoulder on all scales
+ (from trick level to trick level), and this is how the market works,
+correct?
+
+Thank you.
+FA: پس بعد از دیدن وبینار IF به نظر می‌رسد تنها چیزی که باید علامت بزنیم شانه‌های چپ است، درست است؟
+
+و قیمت به‌سادگی روی همهٔ مقیاس‌ها از شانهٔ چپ به شانهٔ چپ می‌رود (از سطح تریک به سطح تریک)، و بازار همین‌طور کار می‌کند، درست است؟
+
+ممنون.
+
+### if_p89_4
+EN: Is there a link to the recorded webinar?
+FA: لینکی برای وبینار ضبط‌شده هست؟
+
+### if_p89_5
+EN: hndrk wrote: So after watching IF's webinar it seems that the only thing we need to mark up are left shoulders, correct?
+
+And price simply moves from left shoulder to left shoulder on all scales
+ (from trick level to trick level), and this is how the market works,
+correct?
+
+Thank you.
+
+That's essentially all we do, yes
+FA: hndrk نوشت: پس بعد از دیدن وبینار IF به نظر می‌رسد تنها چیزی که باید علامت بزنیم شانه‌های چپ است، درست است؟
+
+و قیمت به‌سادگی روی همهٔ مقیاس‌ها از شانهٔ چپ به شانهٔ چپ می‌رود (از سطح تریک به سطح تریک)، و بازار همین‌طور کار می‌کند، درست است؟
+
+ممنون.
+
+اساساً همین تمام کاری است که می‌کنیم، بله
+
+### if_p89_6
+EN: kouta01 wrote: Is there a link to the recorded webinar?
+
+i am also interested
+FA: kouta01 نوشت: لینکی برای وبینار ضبط‌شده هست؟
+
+من هم علاقه‌مندم
+
+### if_p89_7
+EN: Not sure if this is the right one, but this the only webinar which is on the RTM youtube chanel
+FA: مطمئن نیستم همین درست باشد، ولی این تنها وبیناری است که در کانال یوتیوب RTM هست
+
+### if_p89_8
+EN: that is the old webinar the new one is at investing, i think IF will post it
+FA: آن وبینار قدیمی است، جدید در investing است، فکر می‌کنم IF خودش می‌گذارد
+
+### if_p89_9
+EN: Hi If, I really love what you guys are doing here. I am a newbie to
+this site and forum. Actually I just want to know when you would post
+the recorded video of the last webinar ? Can't wait to get it. Thanks a
+lot.
+FA: سلام If، واقعاً کارتان را اینجا دوست دارم. من در این سایت و فروم تازه‌کارم. در واقع فقط می‌خواهم بدانم ویدیوی ضبط‌شدهٔ وبینار آخر را کی می‌گذاری؟ برای گرفتنش بی‌تابم. خیلی ممنون.
+
+### if_p89_10
+EN: Well, I've forgotten the password to our youtube channel, and google
+doesn't believe that it's me looking for a password change.
+
+I'm sure I'll get it worked out eventually
+FA: خب، رمز کانال یوتیوبمان را فراموش کرده‌ام، و گوگل باور نمی‌کند کسی که دنبال تغییر رمز است خود من هستم.
+
+مطمئنم آخرش درستش می‌کنم
+
+### if_p89_11
+EN: Was the dog still invited to the party??? :)
+FA: سگ هم هنوز به مهمانی دعوت بود؟؟؟ :)
+
+### if_p89_12
+EN: Of course Pip presented for a while!
+FA: البته که Pip مدتی برنامه اجرا کرد!
+
+### if_p89_13
+EN: Hi Ify, Have you figured out the password yet for the webinar?
+FA: سلام Ify، رمز وبینار را تا حالا پیدا کرده‌ای؟
+
+### if_p89_14
+EN: Hello Sir missed your latest webinar is there any link of it..
+FA: سلام آقا، وبینار آخرتان را از دست دادم، لینکی از آن هست..
+
+### if_p89_15
+EN: The webinar recording link
+
+	attendee.gotowebinar.com/register/3622276563228524546
+FA: لینک ضبط وبینار
+
+attendee.gotowebinar.com/register/3622276563228524546
+
+### if_p89_16
+EN: Thank you Benhur the link which you provide for us is actually just
+view able its not downloadable or I am failed to download it could
+somebody suggest me pls how to download it.
+
+Thanks...
+FA: ممنون Benhur، لینکی که برای ما گذاشتی در واقع فقط قابل مشاهده است و قابل ذخیره نیست، یا من در دریافتش موفق نشدم؛ کسی می‌تواند بگوید چطور دریافتش کنم؟
+
+ممنون...
+
+### if_p89_17
+EN: Hi IF, where can I find your Master Journal that people have been talking about?
+
+Thanks
+
+Gregg
+FA: سلام IF، ژورنال استاد را که همه درباره‌اش حرف می‌زنند کجا پیدا کنم؟
+
+ممنون
+
+Gregg
+
+### if_p89_18
+EN: Hi, IF
+
+is the next webinar ready for watching?
+
+Thank you
+FA: سلام، IF
+
+وبینار بعدی آمادهٔ دیدن است؟
+
+ممنون
+
+### if_p89_19
+EN: gslao wrote: Hi IF, where can I find your Master Journal that people have been talking about?
+
+Thanks
+
+Gregg
+
+Hey Sherlock Holmes,
+
+little clue for you
+
+File Attachment:File Name:
+File Size: 0 KB
+
+Regards,
+
+Watson
+FA: gslao نوشت: سلام IF، ژورنال استاد را که همه درباره‌اش حرف می‌زنند کجا پیدا کنم؟
+
+ممنون
+
+Gregg
+
+سلام Sherlock Holmes،
+
+یک سرنخ کوچک برایت
+
+پیوست فایل: نام فایل:
+حجم فایل: 0 KB
+
+با احترام،
+
+Watson
+
+### if_p89_20
+EN: Bodostock wrote: Hi, IF
+
+is the next webinar ready for watching?
+
+Thank you
+
+Will be later today. Is a live event.
+
+You can check
+	www.investing.com
+, webinar's section, for registration
+FA: Bodostock نوشت: سلام، IF
+
+وبینار بعدی آمادهٔ دیدن است؟
+
+ممنون
+
+بعداً امروز برگزار می‌شود. یک رویداد زنده است.
+
+برای ثبت‌نام می‌توانی بخش وبینارهای www.investing.com را ببینی
+
+### if_p89_21
+EN: Hi Bro
+
+Thanks. I got the date wrong.
+
+Thought it was done yesterday.
+
+So was asking for the replay link.
+
+Al3cs wrote:
+Bodostock wrote: Hi, IF
+
+is the next webinar ready for watching?
+
+Thank you
+
+Will be later today. Is a live event.
+
+You can check
+	www.investing.com
+, webinar's section, for registration
+FA: سلام داداش
+
+ممنون. تاریخ را اشتباه گرفته بودم.
+
+فکر کردم دیروز تمام شد.
+
+برای همین لینک بازپخش را می‌خواستم.
+
+Al3cs نوشت:
+Bodostock نوشت: سلام، IF
+
+وبینار بعدی آمادهٔ دیدن است؟
+
+ممنون
+
+بعداً امروز برگزار می‌شود. یک رویداد زنده است.
+
+برای ثبت‌نام می‌توانی بخش وبینارهای www.investing.com را ببینی
+
+### if_p89_22
+EN: hi IF
+
+i really really appreciate your webinars, they are priceless
+
+i was working on MPLs in the past days and with your last webinar there was nothing last to add, really perfect
+
+lessons learnt, time to practice till it'ii become boring
+
+I do not know how to say thank you but thanks a million dear IF
+FA: سلام IF
+
+واقعاً و واقعاً از وبینارهایت ممنونم، بی‌قیمت‌اند
+
+این چند روز روی MPLها کار می‌کردم و با وبینار آخرت چیزی برای اضافه کردن نمانده بود، واقعاً بی‌نقص
+
+درس‌ها را گرفتم، وقت تمرین است تا خسته‌کننده شود
+
+نمی‌دانم چطور تشکر کنم، ولی میلیون‌ها سپاس IF عزیز
+
+### if_p89_23
+EN: brilliant work as always , also say my hello to dear PIP , nothing to add , just thanks IF thanks RTM .
+FA: کار درخشان مثل همیشه، به PIP عزیز هم سلام برسان، چیزی برای اضافه کردن نیست، فقط ممنون IF، ممنون RTM.
+
+### if_p89_24
+EN: If, are you still doing another Lite course now that you're telling people all they need to know in these webinars?
+
+I guess it's not 100 percent but it's pretty much all one ( who is willing to put in the time) would need to become profitable.
+FA: If، با این‌همه که الان داری همهٔ چیزهایی که لازم است بدانند را در این وبینارها می‌گویی، هنوز دورهٔ لایت دیگری برگزار می‌کنی؟
+
+گمانم 100 درصد نیست، ولی تقریباً همهٔ آن چیزی است که یکی (که حاضر است وقت بگذارد) برای سودده شدن لازم دارد.
+
+### if_p89_25
+EN: Hi,
+
+Anyone has the replay link for last night's webinar?
+
+I did not want to sign up the registration at investing.com as they
+wanted me to agree to some of the terms and condition which i don't
+quite like. As such, i couldn't watch the live webinar.
+
+Thank you!
+FA: سلام،
+
+کسی لینک بازپخش وبینار دیشب را دارد؟
+
+نمی‌خواستم در investing.com ثبت‌نام کنم، چون می‌خواستند با چند بند و شرط موافقت کنم که چندان دوستشان ندارم. به همین دلیل نتوانستم وبینار زنده را ببینم.
+
+ممنون!

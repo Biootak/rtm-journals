@@ -1,0 +1,794 @@
+### jurij_p10_1
+EN: Jurij,
+
+Could you explain, why you consider your second case as "new FTR" ?
+Until now I haven't read anything about concept what you described. I
+would consider your second case as FO.
+FA: Jurij،
+
+می‌شود توضیح بدهی چرا مورد دومت را «FTR تازه» حساب می‌کنی؟ تا حالا چیزی دربارهٔ مفهومی که گفتی نخوانده‌ام. من مورد دومت را FO می‌دانم.
+
+### jurij_p10_2
+EN: Bodostock wrote: But problem is the FTR did not work for a long trade. I would have made a loss to do a touch trade on this FTR.
+
+I would have thought that this FTR is of a larger scale.
+
+In the end, whether it is the FL2, this FTR, the FTR3 or the FL1, they were all faked out.
+
+I would have made about 3 losses.
+
+1 ) A long at FL2's FTR,
+
+2) a short at ignored FL2 engulfed demand,
+
+3) a long at this FTR.
+
+Price just wanna to reach the lowest of the bottom which is the other edge of your stacked PAZ.
+
+This is why we wait for PA. in fact nobody said that each FTR is going to work.
+
+In that specific case we already had the signal that price wanted to go down, it just went up to trap some buyers.
+
+deenius wrote: Jurij,
+
+Could you explain, why you consider your second case as "new FTR" ?
+Until now I haven't read anything about concept what you described. I
+would consider your second case as FO.
+
+Yes you are right. Then when I draw that FTR I will include the FO.
+
+With that drawing I wanted to illustrate this specific case:
+FA: Bodostock نوشت: ولی مشکل این است که FTR برای یک معاملهٔ خرید جواب نداد. با یک تاچ‌ترید روی این FTR ضرر می‌کردم.
+
+فکر می‌کردم این FTR مقیاس بزرگ‌تری دارد.
+
+آخرش، چه FL2 باشد، چه این FTR، چه FTR3 یا FL1، همه‌شان فیکاوت شدند.
+
+حدود 3 ضرر می‌کردم.
+
+1 ) یک خرید روی FTR مربوط به FL2،
+
+2) یک فروش روی تقاضای اینگالف‌شدهٔ FL2 نادیده‌گرفته‌شده،
+
+3) یک خرید روی این FTR.
+
+قیمت فقط می‌خواست به پایین‌ترین کف برسد، همان لبهٔ دیگر PAZ انباشته‌ات.
+
+برای همین ما منتظر PA می‌مانیم. در واقع هیچ‌کس نگفت هر FTR جواب می‌دهد.
+
+در آن مورد خاص ما از قبل سیگنال داشتیم که قیمت می‌خواهد پایین برود؛ فقط بالا رفت تا چند خریدار را به تله بیندازد.
+
+deenius نوشت: Jurij،
+
+می‌شود توضیح بدهی چرا مورد دومت را «FTR تازه» حساب می‌کنی؟ تا حالا چیزی دربارهٔ مفهومی که گفتی نخوانده‌ام. من مورد دومت را FO می‌دانم.
+
+بله حق با توست. پس وقتی آن FTR را رسم می‌کنم FO را هم لحاظ می‌کنم.
+
+با آن نقاشی می‌خواستم همین مورد خاص را نشان بدهم:
+
+### jurij_p10_3
+EN: Jurji i noticed you are nicely chewing PAZs , or at least you caught
+that mastering PAZ could be the core of a profitable / effective
+trading.
+
+This is coming also from IF's teachs too, then we know it is true, so we must find the way to master it.
+
+but many explaination of PAZs i've found in RTM seem to be not consistent.
+
+The concept itself wouldn't be hard i think, but there are samples
+(charts...) of which i can't get a good relevance with the explainations
+
+So if i can ask your opinion on that i'm posting few charts from the "classic" Pedini Journ.
+
+This chart makes sense with definition of PAZ = space between FTRs :
+
+the next one does not have spaces between FTRs, then why the PAZ is the
+sum of 3 stacked FTRs ? we know price goes ahead only after break of
+FTR, but why in this PAZ is enough just to enter the first, instead of
+break it? ( price breaking into PAZ, by the truth, it breaks the last
+ FTR before the PAZ, so simply enters the first one..., no breakings..
+why we expect it will break all through ?.)
+
+sorry for your space taken...thanks a lot !
+FA: Jurji، دیدم داری خوب PAZ‌ها را می‌جویی، یا حداقل فهمیدی که تسلط بر PAZ می‌تواند هستهٔ معامله‌ای سودآور/مؤثر باشد.
+
+این از آموزه‌های IF هم می‌آید، پس می‌دانیم درست است و باید راهی برای تسلط بر آن پیدا کنیم.
+
+ولی خیلی از توضیحاتی که از PAZ در RTM دیده‌ام یکدست به نظر نمی‌رسند.
+
+خود مفهوم فکر نمی‌کنم سخت باشد، ولی نمونه‌هایی (نمودارهایی...) هست که نمی‌توانم ربط خوبی بین‌شان و توضیحات پیدا کنم
+
+پس اگر اجازه هست نظرت را بپرسم، چند نمودار از ژورنال «کلاسیک» Pedini می‌گذارم.
+
+این نمودار با تعریف PAZ = فاصلهٔ بین FTR‌ها جور است:
+
+نمودار بعدی بین FTR‌ها فاصله ندارد، پس چرا PAZ مجموع 3 FTR انباشته است؟ می‌دانیم قیمت فقط بعد از شکست FTR جلو می‌رود، ولی چرا در این PAZ ورود به اولین کافی است، به جای شکستنش؟ (وقتی قیمت به PAZ نفوذ می‌کند، در حقیقت آخرین FTR قبل از PAZ را می‌شکند، پس عملاً وارد اولین می‌شود...، بدون هیچ شکستی.. چرا انتظار داریم از همه‌اش رد شود؟)
+
+ببخشید که جایت را گرفتم... خیلی ممنون!
+
+### jurij_p10_4
+EN: It's very heartening to see such methodical study going on in here.
+
+May it bring prosperity to all involved
+FA: دیدن چنین مطالعهٔ منظم و روشمندی اینجا واقعاً دلگرم‌کننده است.
+
+امید که برای همهٔ درگیران برکت بیاورد
+
+### jurij_p10_5
+EN: althoufx wrote: [...]
+
+This chart makes sense with definition of PAZ = space between FTRs :
+
+the next one does not have spaces between FTRs, then why the PAZ is the
+sum of 3 stacked FTRs ? we know price goes ahead only after break of
+FTR, but why in this PAZ is enough just to enter the first, instead of
+break it? ( price breaking into PAZ, by the truth, it breaks the last
+ FTR before the PAZ, so simply enters the first one..., no breakings..
+why we expect it will break all through ?.)
+
+That's because those are 2 different types of PAZs.
+
+Check out these two posts from Les_paul:
+	post1
+ and
+	post2
+
+I think the SPAZ type works only if there is nothing important on the left, like a broken key level.
+
+Because the break of a key level makes it an FTR/FL.
+
+Also the reason for ITs creating stacked S/D is to pick up orders on the
+ way and on return to fake out all classic S/D and S/R traders.
+
+Think about it this way, if ITs created those stacked demand/supply
+bases to fill their orders on the way, this means that on return there
+is little possibility of unfilled orders still left there. This is
+especially true for compression PAZs.
+
+That's why price needs to break only the last/first demand just before the CPAZ or SPAZ to make it through the entire zone.
+
+So if there are still unfilled orders then they are likely there at the tip (entrance of PAZ) and not inside that consumed zone.
+
+Ifmyante wrote: It's very heartening to see such methodical study going on in here.
+
+May it bring prosperity to all involved
+
+Thanks
+
+Easier to study and learn together than each on his own, for sure.
+
+Also asking key questions is turning out to be very helpful
+FA: althoufx نوشت: [...]
+
+این نمودار با تعریف PAZ = فاصلهٔ بین FTR‌ها جور است:
+
+نمودار بعدی بین FTR‌ها فاصله ندارد، پس چرا PAZ مجموع 3 FTR انباشته است؟ می‌دانیم قیمت فقط بعد از شکست FTR جلو می‌رود، ولی چرا در این PAZ ورود به اولین کافی است، به جای شکستنش؟ (وقتی قیمت به PAZ نفوذ می‌کند، در حقیقت آخرین FTR قبل از PAZ را می‌شکند، پس عملاً وارد اولین می‌شود...، بدون هیچ شکستی.. چرا انتظار داریم از همه‌اش رد شود؟)
+
+چون آن دو، دو نوع مختلف PAZ هستند.
+
+این دو پست از Les_paul را ببین: post1 و post2
+
+فکر می‌کنم نوع SPAZ فقط وقتی کار می‌کند که در سمت چپ چیز مهمی نباشد، مثل یک سطح کلیدی شکسته‌شده.
+
+چون شکست یک سطح کلیدی آن را به FTR/FL تبدیل می‌کند.
+
+همچنین دلیل اینکه IT‌ها عرضه/تقاضای انباشته می‌سازند این است که در مسیر سفارش جمع کنند و در بازگشت همهٔ معامله‌گران کلاسیک S/D و S/R را فیکاوت کنند.
+
+این‌طور فکر کن: اگر IT‌ها آن پایه‌های عرضه/تقاضای انباشته را ساخته‌اند تا در مسیر سفارش‌هایشان را پر کنند، یعنی در بازگشت احتمال کمی هست که سفارش پرنشده‌ای آنجا مانده باشد. این موضوع به‌خصوص برای PAZ‌های فشردگی درست است.
+
+برای همین قیمت فقط باید آخرین/اولین تقاضا را درست قبل از CPAZ یا SPAZ بشکند تا از کل ناحیه رد شود.
+
+پس اگر سفارش پرنشده‌ای مانده باشد، احتمالاً در نوک (ورودی PAZ) است نه داخل آن ناحیهٔ مصرف‌شده.
+
+Ifmyante نوشت: دیدن چنین مطالعهٔ منظم و روشمندی اینجا واقعاً دلگرم‌کننده است. امید که برای همهٔ درگیران برکت بیاورد
+
+امید که برای همهٔ درگیران برکت داشته باشد.
+
+ممنون
+
+مطمئناً یادگیری و مطالعه با هم آسان‌تر از تنهایی است.
+
+و پرسیدن سؤال‌های کلیدی هم واقعاً کمک‌کننده است
+
+### jurij_p10_6
+EN: (..........)
+
+That's because those are 2 different types of PAZs.
+
+Check out these two posts from Les_paul:
+	post1
+ and
+	post2
+
+I think the SPAZ type works only if there is nothing important on the left, like a broken key level.
+
+Because the break of a key level makes it an FTR/FL.
+
+Also the reason for ITs creating stacked S/D is to pick up orders on the
+ way and on return to fake out all classic S/D and S/R traders.
+
+Think about it this way, if ITs created those stacked demand/supply
+bases to fill their orders on the way, this means that on return there
+is little possibility of unfilled orders still left there. This is especially true for compression PAZs.
+
+That's why price needs to break only the last/first demand just before the CPAZ or SPAZ to make it through the entire zone.
+
+So if there are still unfilled orders then they are likely there at the tip (entrance of PAZ) and not inside that consumed zone.
+
+Ifmyante wrote: It's very heartening to see such methodical study going on in here.
+
+May it bring prosperity to all involved
+
+Thanks
+
+Easier to study and learn together than each on his own, for sure.
+
+Also asking key question is turning out to be very helpful [/quote]
+
+......yes Jurji i remember those posts, also because LP said later to be
+ not enough confident on this stuff for keeping trades based on this
+knowledge, then it looked like a topic not yet solved, as in stand-by
+conditions. So those posts were instead taken as pieces of the
+puzzle...am i wrong ?
+
+thanks for your reply !!
+FA: (..........)
+
+چون آن دو، دو نوع مختلف PAZ هستند.
+
+این دو پست از Les_paul را ببین: post1 و post2
+
+فکر می‌کنم نوع SPAZ فقط وقتی کار می‌کند که در سمت چپ چیز مهمی نباشد، مثل یک سطح کلیدی شکسته‌شده.
+
+چون شکست یک سطح کلیدی آن را به FTR/FL تبدیل می‌کند.
+
+همچنین دلیل اینکه IT‌ها عرضه/تقاضای انباشته می‌سازند این است که در مسیر سفارش جمع کنند و در بازگشت همهٔ معامله‌گران کلاسیک S/D و S/R را فیکاوت کنند.
+
+این‌طور فکر کن: اگر IT‌ها آن پایه‌های عرضه/تقاضای انباشته را ساخته‌اند تا در مسیر سفارش‌هایشان را پر کنند، یعنی در بازگشت احتمال کمی هست که سفارش پرنشده‌ای آنجا مانده باشد. این موضوع به‌خصوص برای PAZ‌های فشردگی درست است.
+
+برای همین قیمت فقط باید آخرین/اولین تقاضا را درست قبل از CPAZ یا SPAZ بشکند تا از کل ناحیه رد شود.
+
+پس اگر سفارش پرنشده‌ای مانده باشد، احتمالاً در نوک (ورودی PAZ) است نه داخل آن ناحیهٔ مصرف‌شده.
+
+Ifmyante نوشت: دیدن چنین مطالعهٔ منظم و روشمندی اینجا واقعاً دلگرم‌کننده است. امید که برای همهٔ درگیران برکت بیاورد
+
+امید که برای همهٔ درگیران برکت داشته باشد.
+
+ممنون
+
+مطمئناً یادگیری و مطالعه با هم آسان‌تر از تنهایی است.
+
+و پرسیدن سؤال‌های کلیدی هم واقعاً کمک‌کننده است [/quote]
+
+......بله Jurji آن پست‌ها را یادم است، همچنین چون LP بعداً گفت برای نگه‌داشتن معاملات بر پایهٔ این دانش به‌اندازهٔ کافی مطمئن نیست، پس به نظر موضوعی حل‌نشده می‌آمد، در حالت معلق. پس آن پست‌ها بیشتر تکه‌هایی از پازل تلقی می‌شدند... اشتباه می‌کنم؟
+
+ممنون برای جوابت !!
+
+### jurij_p10_7
+EN: althoufx wrote: [...]
+
+......yes Jurji i remember those posts, also because LP said later to be
+ not enough confident on this stuff for keeping trades based on this
+knowledge, then it looked like a topic not yet solved, as in stand-by
+conditions. So those posts were instead taken as pieces of the
+puzzle...am i wrong ?
+
+thanks for your reply !!
+
+Right, PAZs are just a piece of the puzzle like everything else.
+
+This is something that I think is the key to understand:
+
+1. Some FL/FTRs work but many don't, so this concept is not enough on its own
+
+2. Some engulfs work but many don't, so this concept is not enough on its own
+
+3. PAZs (all types) work but many don't, so this concept is not enough on its own
+
+4. QM/Diamond patterns work but many don't, so this concept is not enough on its own
+
+5. Compression is sometimes a reversal sign but not always (LQ after compression is common)
+
+6. S/D levels work but many don't
+
+7. FO levels sometimes work but many don't
+
+... I think it is clear where this is leading to.
+
+Perhaps this is exactly what IF means by saying that we need to make
+that final juxtaposition, where we see those concepts all at the same
+time. Often there is this common question in the homework section: "Why
+did that or this FTR/FL/CP/... fail?" Because it was never meant to work
+ that way.
+
+Looking at the charts, there are almost dead sure setups that present
+itself only if multiple of the above RTM concepts appear together in the
+ same setup.
+
+For example: at HTF supply, a trick is played (FO) then at the right
+shoulder of the trick level price forms an FTR/FL which happens to be a
+QM level also. Price meanwhile broke a lower FL and starts to retrace to
+ the QM level. On approach price is starting to compress (making a
+CPAZ). Once price hits the QM FTR level at the FO key level at HTF
+supply price bounces and breaks into the CPAZ. If price now retraces
+back to the origin for a second chance entry then you have one of those
+almost dead sure trades
+
+Something like this past setup:
+
+Jurij wrote: CADJPY
+
+30m Had a limit sell order not triggered, too high
+
+5m LTF second chance (missed this one too)
+
+I think those setups are really nice and clear, that's what I want to trade more.
+
+I guess the difficulty in all this is to have the patience to wait and take only that kind of setups.
+FA: althoufx نوشت: [...]
+
+......بله Jurji آن پست‌ها را یادم است، همچنین چون LP بعداً گفت برای نگه‌داشتن معاملات بر پایهٔ این دانش به‌اندازهٔ کافی مطمئن نیست، پس به نظر موضوعی حل‌نشده می‌آمد، در حالت معلق. پس آن پست‌ها بیشتر تکه‌هایی از پازل تلقی می‌شدند... اشتباه می‌کنم؟
+
+ممنون برای جوابت !!
+
+درست است، PAZ هم مثل هر چیز دیگری فقط یک تکه از پازل است.
+
+این چیزی است که فکر می‌کنم کلید فهمیدن است:
+
+1. بعضی FL/FTR‌ها جواب می‌دهند ولی خیلی‌ها نه، پس این مفهوم به‌تنهایی کافی نیست
+
+2. بعضی اینگالف‌ها جواب می‌دهند ولی خیلی‌ها نه، پس این مفهوم به‌تنهایی کافی نیست
+
+3. PAZ‌ها (همهٔ انواع) جواب می‌دهند ولی خیلی‌ها نه، پس این مفهوم به‌تنهایی کافی نیست
+
+4. الگوهای QM/دایموند جواب می‌دهند ولی خیلی‌ها نه، پس این مفهوم به‌تنهایی کافی نیست
+
+5. فشردگی گاهی نشانهٔ بازگشت است ولی نه همیشه (LQ بعد از فشردگی رایج است)
+
+6. سطوح S/D جواب می‌دهند ولی خیلی‌ها نه
+
+7. سطوح FO گاهی جواب می‌دهند ولی خیلی‌ها نه
+
+... فکر می‌کنم واضح است که این به کجا می‌رسد.
+
+شاید منظور IF دقیقاً همین باشد که می‌گوید باید آن کنار هم گذاشتن نهایی را انجام بدهیم، جایی که همهٔ این مفاهیم را همزمان می‌بینیم. در بخش تمرین‌ها معمولاً همین سؤال رایج است: «چرا آن FTR/FL/CP فلان شکست خورد؟» چون هرگز قرار نبود آن‌طور کار کند.
+
+به نمودارها که نگاه می‌کنی، ستاپ‌هایی هست که تقریباً صددرصدی‌اند و فقط وقتی پیش می‌آیند که چند مورد از مفاهیم بالا همزمان در یک ستاپ جمع شوند.
+
+مثلاً: در عرضهٔ HTF یک ترفند زده می‌شود (FO)، بعد روی شانهٔ راست سطح ترفند، قیمت یک FTR/FL می‌سازد که اتفاقاً سطح QM هم هست. در همین حال قیمت یک FL پایین‌تر را شکسته و شروع می‌کند به ریتریس به سطح QM. در مسیر، قیمت شروع به فشرده‌شدن می‌کند (یک CPAZ می‌سازد). وقتی قیمت به سطح FTR همان QM، روی سطح کلیدی FO، در عرضهٔ HTF می‌رسد، بازمی‌گردد و به CPAZ نفوذ می‌کند. اگر قیمت حالا برای ورود دوم به مبدأ برگردد، یکی از همان معاملات تقریباً صددرصدی را داری
+
+چیزی شبیه این ستاپ قبلی:
+
+Jurij نوشت: CADJPY
+
+30m یک سفارش لیمیت فروش داشتم که فعال نشد، خیلی بالا بود
+
+5m شانس دوم در LTF (این یکی را هم از دست دادم)
+
+فکر می‌کنم این ستاپ‌ها واقعاً خوب و واضح‌اند، بیشتر می‌خواهم همین‌ها را معامله کنم.
+
+حدس می‌زنم سختی همهٔ این‌ها این است که صبر داشته باشی و فقط همین نوع ستاپ‌ها را بگیری.
+
+### jurij_p10_8
+EN: CADJPY
+
+Closing half position at tg1
+
+Analysis
+
+30m
+
+5m
+
+1m
+FA: CADJPY
+
+بستن نصف پوزیشن در tg1
+
+تحلیل
+
+30m
+
+5m
+
+1m
+
+### jurij_p10_9
+EN: Closed all
+
+ps. I've a feeling that now price will hit that original tg straight away, as always
+
+but this time I won't be greedy
+FA: همه را بستم
+
+پینوشت: حس می‌کنم حالا قیمت مستقیم همان تارگت اولیه را می‌زند، مثل همیشه
+
+ولی این بار طمع نمی‌کنم
+
+### jurij_p10_10
+EN: Jurij wrote:
+Jurij wrote: There is this great spot on 4H for a short
+
+EURUSD 4H
+
+Closed.
+
+Price can go much lower (see HTF) but happy to take what's given.
+
+If it bounces again up, then I'll look for another short.
+
+4H
+FA: Jurij نوشت: Jurij نوشت: یک نقطهٔ عالی در 4H برای شورت هست
+
+EURUSD 4H
+
+بستم.
+
+قیمت می‌تواند خیلی پایین‌تر برود (HTF را ببین) ولی خوشحالم که آنچه داده شد را گرفتم.
+
+اگر دوباره بالا بپرد، دنبال یک شورت دیگر می‌گردم.
+
+4H
+
+### jurij_p10_11
+EN: Nice trade Jurij! What was the RRR?
+FA: معاملهٔ خوبی بود Jurij! RRR چقدر بود؟
+
+### jurij_p10_12
+EN: Thanks deenius, almost 3R. Stop was beyond the big 4H QM FTR to be
+safe. Original target (HTF) was at 6R. I think price can retrace back up
+ to the high beyond the QM level before going down to the final target
+(Daily chart). I haven't figured this out yet (ie. "will it break that
+QM level or not before going down?" and "is this PAZ safe as an opposing
+ zone?" etc...).
+FA: ممنون deenius، تقریباً 3R. استاپ برای اطمینان آن‌طرف FTR همان QM بزرگ 4H بود. تارگت اولیه (HTF) روی 6R بود. فکر می‌کنم قیمت می‌تواند تا بالای سطح QM بالا برگردد و بعد به تارگت نهایی (نمودار روزانه) بریزد. هنوز این را حل نکرده‌ام (یعنی «آیا قبل از ریزش آن سطح QM را می‌شکند یا نه؟» و «آیا این PAZ به‌عنوان ناحیهٔ مخالف امن است؟» و غیره...).
+
+### jurij_p10_13
+EN: Jurij wrote: GBPUSD going higher soon (HTF)?
+
+Weekly
+
+Daily
+
+4H
+
+Price retraced
+
+Limit buy order at QM missed by few pips
+
+But the 4H chart shows that price broke into a CPAZ and bounced from a FL inside the CP.
+
+So there is still a possibility for a retrace.
+FA: Jurij نوشت: GBPUSD به‌زودی بالاتر می‌رود (HTF)؟
+
+هفتگی
+
+روزانه
+
+4H
+
+قیمت ریتریس کرد
+
+سفارش لیمیت خرید روی QM چند پیپ خطا رفت
+
+ولی نمودار 4H نشان می‌دهد قیمت به یک CPAZ نفوذ کرد و از یک FL داخل CP بازگشت.
+
+پس هنوز احتمال یک ریتریس هست.
+
+### jurij_p10_14
+EN: Nice kind of setup
+
+Also there are some FLs where price bounces only from the FL SR leaving
+true supply/demand untouched, those are good FO levels in the right
+context.
+
+I kept wondering why we draw boxes around FLs and not just true supply/demand, well, the SR of a FL is an important element.
+
+Price can react only to the SR of a FL, only to true S/D or to both on different occasions.
+
+(also, check out pedini's journal, great stuff there, concerning FL/FTR FO)
+FA: ستاپ قشنگی است
+
+همچنین FL‌هایی هست که قیمت فقط از SR همان FL بازمی‌گردد و عرضه/تقاضای واقعی دست‌نخورده می‌ماند؛ این‌ها در بافت درست سطوح FO خوبی هستند.
+
+مدام فکر می‌کردم چرا دور FL‌ها کادر می‌کشیم و نه فقط دور عرضه/تقاضای واقعی؛ خب، SR یک FL عنصر مهمی است.
+
+قیمت می‌تواند فقط به SR یک FL واکنش بدهد، فقط به S/D واقعی، یا در موقعیت‌های مختلف به هر دو.
+
+(راستی، ژورنال pedini را ببین، مطالب عالی‌ای دربارهٔ FO‌های FL/FTR دارد)
+
+### jurij_p10_15
+EN: Just received a PM which got me thinking.
+
+In essence it says, the good is that I'm progressing by putting the
+pieces together but the bad that I'm unfolding them here for everyone to
+ see. And I should think about keeping the hard work for me.
+
+Don't know what to say. On one side, if IF and master traders did this, I
+ would not be here today learning this incredible way of trading.
+
+On the other hand, I understand that those who invested a lot of hard
+work and progressed on their own don't want to see every piece of the
+puzzle put together in one single journal.
+
+Not that I think I've found all the answers and solved everything, but
+since I got this PM, someone must be a little bit upset by my
+enthusiastic sharing...
+FA: همین حالا یک پیام خصوصی گرفتم که ذهنم را مشغول کرد.
+
+خلاصه‌اش این است: خوبی‌اش این است که با کنار هم گذاشتن تکه‌ها پیشرفت می‌کنم، ولی بدی‌اش این است که همین‌جا برای دیدن همه بازشان می‌کنم. و باید فکر کنم که سختی کار را برای خودم نگه دارم.
+
+نمی‌دانم چه بگویم. از یک طرف، اگر IF و معامله‌گران استاد این کار را نمی‌کردند، امروز اینجا نبودم که این شیوهٔ شگفت‌انگیز معامله‌گری را یاد بگیرم.
+
+از طرف دیگر می‌فهمم کسانی که سختی زیادی کشیده‌اند و خودشان پیشرفت کرده‌اند نمی‌خواهند ببینند هر تکهٔ پازل در یک ژورنال تنها کنار هم گذاشته شود.
+
+نه اینکه فکر کنم همهٔ جواب‌ها را پیدا کرده‌ام و همه‌چیز را حل کرده‌ام، ولی از وقتی این پیام را گرفتم، معلوم است کسی از این اشتراک‌گذاری پرشور من کمی دلخور است...
+
+### jurij_p10_16
+EN: No worries Jurij!
+
+It's not so simple. Even if you will collect all information from you or
+ master IF, it doesn't mean that you will understand it. Understand the
+whole RTM concept requires to much time and effort. Not everyone is
+willing to sacrifice this.
+FA: نگران نباش Jurij!
+
+این‌قدرها هم ساده نیست. حتی اگر همهٔ اطلاعات را از خودت یا استاد IF جمع کنی، معنایش این نیست که می‌فهمی‌اش. فهم کل مفهوم RTM زمان و تلاش زیادی می‌خواهد. هر کسی حاضر نیست این را فدا کند.
+
+### jurij_p10_17
+EN: Hi Jurij
+
+Please dont stop posting your charts I´m learning so much from the way you look at the market and your drawings
+
+All the best to you
+
+Thanks M8
+
+Hans
+
+Jurij wrote: Just received a PM which got me thinking.
+
+In essence it says, the good is that I'm progressing by putting the
+pieces together but the bad that I'm unfolding them here for everyone to
+ see. And I should think about keeping the hard work for me.
+
+Don't know what to say. On one side, if IF and master traders did this, I
+ would not be here today learning this incredible way of trading.
+
+On the other hand, I understand that those who invested a lot of hard
+work and progressed on their own don't want to see every piece of the
+puzzle put together in one single journal.
+
+Not that I think I've found all the answers and solved everything, but
+since I got this PM, someone must be a little bit upset by my
+enthusiastic sharing...
+FA: سلام Jurij
+
+لطفاً گذاشتن نمودارت را قطع نکن، من از نحوهٔ نگاهت به بازار و رسم‌هایت خیلی یاد می‌گیرم
+
+بهترین‌ها برایت
+
+ممنون رفیق
+
+Hans
+
+Jurij نوشت: همین حالا یک پیام خصوصی گرفتم که ذهنم را مشغول کرد.
+
+خلاصه‌اش این است: خوبی‌اش این است که با کنار هم گذاشتن تکه‌ها پیشرفت می‌کنم، ولی بدی‌اش این است که همین‌جا برای دیدن همه بازشان می‌کنم. و باید فکر کنم که سختی کار را برای خودم نگه دارم.
+
+نمی‌دانم چه بگویم. از یک طرف، اگر IF و معامله‌گران استاد این کار را نمی‌کردند، امروز اینجا نبودم که این شیوهٔ شگفت‌انگیز معامله‌گری را یاد بگیرم.
+
+از طرف دیگر می‌فهمم کسانی که سختی زیادی کشیده‌اند و خودشان پیشرفت کرده‌اند نمی‌خواهند ببینند هر تکهٔ پازل در یک ژورنال تنها کنار هم گذاشته شود.
+
+نه اینکه فکر کنم همهٔ جواب‌ها را پیدا کرده‌ام و همه‌چیز را حل کرده‌ام، ولی از وقتی این پیام را گرفتم، معلوم است کسی از این اشتراک‌گذاری پرشور من کمی دلخور است...
+
+### jurij_p10_18
+EN: I would be really disappointed if the pm is from one of the master traders and associate traders.
+
+Anyway, just keep up the good work, mate.
+
+Your work has been marvelous!
+
+Jurij wrote: Just received a PM which got me thinking.
+
+In essence it says, the good is that I'm progressing by putting the
+pieces together but the bad that I'm unfolding them here for everyone to
+ see. And I should think about keeping the hard work for me.
+
+Don't know what to say. On one side, if IF and master traders did this, I
+ would not be here today learning this incredible way of trading.
+
+On the other hand, I understand that those who invested a lot of hard
+work and progressed on their own don't want to see every piece of the
+puzzle put together in one single journal.
+
+Not that I think I've found all the answers and solved everything, but
+since I got this PM, someone must be a little bit upset by my
+enthusiastic sharing...
+FA: واقعاً ناامید می‌شوم اگر آن پیام از یکی از معامله‌گران استاد یا معامله‌گران وابسته باشد.
+
+به هر حال، کار خوبت را ادامه بده رفیق.
+
+کارت فوق‌العاده بوده!
+
+Jurij نوشت: همین حالا یک پیام خصوصی گرفتم که ذهنم را مشغول کرد.
+
+خلاصه‌اش این است: خوبی‌اش این است که با کنار هم گذاشتن تکه‌ها پیشرفت می‌کنم، ولی بدی‌اش این است که همین‌جا برای دیدن همه بازشان می‌کنم. و باید فکر کنم که سختی کار را برای خودم نگه دارم.
+
+نمی‌دانم چه بگویم. از یک طرف، اگر IF و معامله‌گران استاد این کار را نمی‌کردند، امروز اینجا نبودم که این شیوهٔ شگفت‌انگیز معامله‌گری را یاد بگیرم.
+
+از طرف دیگر می‌فهمم کسانی که سختی زیادی کشیده‌اند و خودشان پیشرفت کرده‌اند نمی‌خواهند ببینند هر تکهٔ پازل در یک ژورنال تنها کنار هم گذاشته شود.
+
+نه اینکه فکر کنم همهٔ جواب‌ها را پیدا کرده‌ام و همه‌چیز را حل کرده‌ام، ولی از وقتی این پیام را گرفتم، معلوم است کسی از این اشتراک‌گذاری پرشور من کمی دلخور است...
+
+### jurij_p10_19
+EN: Very odd that someone would send you a PM like that. Sounds like it's time for you to be an associate trader
+ Anyways I just got through the first couple of pages and I can see
+what that PM meant. You look at the market from an IT's perspective,
+not a technical perspective like most of us probably do. It's something
+ I just realized recently myself. You've made my life a whole lot
+easier
+FA: خیلی عجیب است که کسی چنین پیامی برایت بفرستد. به نظر می‌رسد وقتش رسیده که معامله‌گر وابسته بشوی. به هر حال من تازه چند صفحهٔ اول را رد کردم و می‌فهمم آن پیام چه می‌گفت. تو از دید IT‌ها به بازار نگاه می‌کنی، نه از دید تکنیکی که احتمالاً بیشتر ما داریم. این چیزی است که خودم تازه فهمیده‌ام. زندگی‌ام را خیلی راحت‌تر کرده‌ای
+
+### jurij_p10_20
+EN: Thanks guys for your support
+
+The following setup was brought to my attention by Josh1125, see
+	his post
+
+Then in a hurry (fear to miss this opportunity) I started chasing price
+and selected the wrong order side for an entry at the first try.
+
+QM was obviously the better entry
+
+Price reached tg1 with the NZD news.
+
+Also consider the great approach, compression to the pole base (true supply of the red FL) with 3 drives.
+FA: ممنون بچه‌ها برای حمایتتان
+
+ستاپ زیر را Josh1125 به من نشان داد، این پست را ببین
+
+بعد با عجله (ترس از دست دادن این فرصت) شروع کردم به دنبال قیمت دویدن و در اولین تلاش سمت اشتباه سفارش را برای ورود انتخاب کردم.
+
+واضحاً QM ورود بهتری بود
+
+قیمت با خبر NZD به tg1 رسید.
+
+همچنین به نزدیک‌شدن عالی توجه کن: فشردگی به کف میله (عرضهٔ واقعی FL قرمز) با 3 درایو.
+
+### jurij_p10_21
+EN: ...very nice trade Jurij on AUDNZD .... very typical ! last 24 hours news was raining....
+
+just one thing i noticed about QM level: a lvl once ignored can be later
+ strongly called in action...i'm wondering what to pay attention for, to
+ avoid painful entries
+
+.....precious comments by you, as from anybody else....
+
+Thanks, all the best !
+FA: ...معاملهٔ خیلی خوبی بود Jurij روی AUDNZD .... خیلی معمولی! 24 ساعت گذشته پر از خبر بود....
+
+فقط یک چیز دربارهٔ سطح QM دیدم: سطحی که یک بار نادیده گرفته شده می‌تواند بعداً با قدرت به کار گرفته شود... نمی‌دانم به چه چیزی دقت کنم تا ورودهای دردناک نداشته باشم
+
+.....نظرات ارزشمندت، مثل نظر هر کس دیگری....
+
+ممنون، موفق باشی!
+
+### jurij_p10_22
+EN: Hi, not sure if I understand what you mean.
+
+From what I see the QM did produce a bounce, so why do you consider it failed?
+
+Also where you wrote "late QM done" I don't think it is a valid level
+because for it to be a QM, a new LL was required which was not given at
+that time.
+
+Only now we have a LL and thus a new QM.
+
+Jurij wrote:
+
+BTW other end of PAZ reached
+FA: سلام، مطمئن نیستم منظورت را فهمیده باشم.
+
+از آنچه می‌بینم، QM واقعاً یک بازگشت ایجاد کرد، پس چرا آن را شکست‌خورده می‌دانی؟
+
+همچنین آن‌جا که نوشتی «QM دیر انجام شد»، فکر نمی‌کنم سطح معتبری باشد، چون برای QM شدن یک LL تازه لازم بود که آن زمان داده نشد.
+
+فقط حالا یک LL داریم و در نتیجه یک QM تازه.
+
+Jurij نوشت:
+
+راستی، سر دیگر PAZ رسید
+
+### jurij_p10_23
+EN: I saw the Quasimodo was 2 for the same QM level, where the nr.1 on the
+ left gave a bounce at your red arrow, and the nr. 2 gave a much
+stronger reaction
+
+so you are right there was a bounce, that i just have not considered because it looked as a CP
+
+as i've understood the price leaving from a level by CP could not be
+considered a reaction, so that the general hint would be to avoid
+entering in a trade by CP
+
+....hope i don't create confusion, it would be the worst thing now...
+
+all the best
+FA: دیدم که کوازیمودو برای همان سطح QM دو بار بود: شمارهٔ 1 در سمت چپ در فلش قرمز تو بازگشت داد، و شمارهٔ 2 واکنش خیلی قوی‌تری داد
+
+پس حق با توست، یک بازگشت بود که من حسابش نکردم چون شبیه CP بود
+
+تا جایی که فهمیده‌ام، خروج قیمت از یک سطح با CP نمی‌تواند واکنش حساب شود، پس نکتهٔ کلی این است که از ورود به معامله با CP پرهیز کنیم
+
+....امیدوارم گیجت نکرده باشم، این بدترین چیز الان است...
+
+موفق باشی
+
+### jurij_p10_24
+EN: Jurij wrote:
+Jurij wrote: GBPUSD going higher soon (HTF)?
+
+4H
+
+Price retraced
+
+(...)
+
+Limit buy order at QM missed by few pips
+
+But the 4H chart shows that price broke into a CPAZ and bounced from a FL inside the CP.
+
+So there is still a possibility for a retrace.
+
+Love those PAZs
+
+It indeed retaced to the other end of the CP for an entry.
+
+The level price reacted to was the one I already noted as "interesting level to watch" in previous charts.
+
+EDIT: The QM level, refers to the daily chart not 4H...
+FA: Jurij نوشت: Jurij نوشت: GBPUSD به‌زودی بالاتر می‌رود (HTF)؟
+
+4H
+
+قیمت ریتریس کرد
+
+(...)
+
+سفارش لیمیت خرید روی QM چند پیپ خطا رفت
+
+ولی نمودار 4H نشان می‌دهد قیمت به یک CPAZ نفوذ کرد و از یک FL داخل CP بازگشت.
+
+پس هنوز احتمال یک ریتریس هست.
+
+عاشق این PAZ‌ها هستم
+
+واقعاً برای ورود تا سر دیگر CP ریتریس کرد.
+
+سطحی که قیمت به آن واکنش داد همانی بود که در نمودارهای قبلی از قبل به‌عنوان «سطح جالبی برای زیر نظر گرفتن» یاد کرده بودم.
+
+ویرایش: سطح QM منظور نمودار روزانه است نه 4H...
+
+### jurij_p10_25
+EN: Jurij wrote: Any idea why this engulf failed?
+
+Something to add to the previous discussion.
+
+Was thinking about this again and saw that price engulfed into a CPAZ?
+
+Maybe this is an additional reason why it failed.
+
+I remember reading somewhere that we should inspect demand/supply levels in LTF and see if those are clean or compressed zones.
+
+Because what on a weekly chart looks like a good demand can be a cp zone on the daily TF.
+FA: Jurij نوشت: ایده‌ای داری چرا این اینگالف شکست خورد؟
+
+چیزی برای اضافه کردن به بحث قبلی.
+
+دوباره به این فکر می‌کردم و دیدم که قیمت به یک CPAZ اینگالف کرد؟
+
+شاید این دلیل اضافه‌ای برای شکستش باشد.
+
+یادم می‌آید جایی خواندم که باید سطوح تقاضا/عرضه را در LTF بررسی کنیم و ببینیم ناحیه‌های تمیز هستند یا فشرده.
+
+چون چیزی که در نمودار هفتگی تقاضای خوبی به نظر می‌رسد می‌تواند در تایم‌فریم روزانه یک ناحیهٔ CP باشد.

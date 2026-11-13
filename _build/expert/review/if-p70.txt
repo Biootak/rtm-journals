@@ -1,0 +1,463 @@
+### if_p70_1
+EN: It's perfectly correct.
+FA: کاملاً درست است.
+
+### if_p70_2
+EN: Thanks Ped, maybe it is correct, maybe not :)
+
+I.m so confused again
+
+This is another scenario:
+
+EDIT: If at point C would be filled all orders we would sold where IF
+sold, but if At C is unfilled orders i dont see the logic, why the
+target is lower. You see... B was also breaked so that QM should be also
+ invalidated. But no.. in lower scale it can be traded to the next
+unfilled order C because the next origin QM was already tested. Am i
+right?
+
+I.m so sorry IF to polute your journal like that, this is your chart, your way to read price! If there is a problem with that please tell me and i leave it. Thank you guys!
+
+EDIT1 : and at these levels you dont enter with set and forget, but instead you look for PA in LTF. Am i right?
+FA: ممنون Ped، شاید درست باشد، شاید هم نه :)
+
+دوباره حسابی گیج شده‌ام
+
+این هم سناریوی دیگری است:
+
+EDIT: اگر در نقطهٔ C همهٔ سفارش‌ها پر می‌شدند، همان جایی که IF فروخت، ما هم می‌فروختیم؛ ولی اگر در C سفارش‌های پرنشده داشته باشیم، منطقش را نمی‌فهمم که چرا تارگت پایین‌تر است. می‌بینی... B هم شکست، پس آن QM هم باید باطل می‌شد. ولی نه.. در مقیاس پایین‌تر می‌توان تا سفارش پرنشدهٔ بعدی، یعنی C، معامله کرد، چون اوریجین بعدیِ QM قبلاً تست شده است. درست می‌گویم؟
+
+واقعاً شرمنده‌ام IF که ژورنالت را این‌طور شلوغ می‌کنم؛ این نمودار توست، روش تو برای خواندن قیمت! اگر مشکلی داری بگو تا رهایش کنم. ممنون از همه!
+
+EDIT1 : و در این سطوح با «بگذار و فراموش کن» وارد نمی‌شوی، بلکه در LTF دنبال PA می‌گردی. درست است؟
+
+### if_p70_3
+EN: The answer you seek lies within the PAZ article
+FA: جوابی که دنبالش هستی، در مقالهٔ PAZ است
+
+### if_p70_4
+EN: Of course it is. Price break an FTR and want to go to the next one.
+The problem is where you enter after that. You have an origin, the best
+posible price and you have some middle levels (well, not exaxtly middle
+ones but origins in LTF but in the middle of HTF move) So, my conclusion
+ is, that you wait for PA at every one of this zone in LTF. Every
+origin, if there are left orders can turn the price if there is a PA
+on approach. Thank you PEDini. I dont know if this is the correct
+approachPedini wrote: The answer you seek lies within the PAZ article
+FA: البته که همین است. قیمت FTR را می‌شکند و می‌خواهد به سراغ FTR بعدی برود. مشکل، جایی است که بعد از آن وارد می‌شوی. یک اوریجین داری، بهترین قیمت ممکن، و چند سطح میانی (خب، دقیقاً میانی نیستند، بلکه اوریجین‌هایی در LTF هستند که در میانهٔ حرکت HTF قرار گرفته‌اند). پس نتیجه‌ام این است: در هر یک از این نواحی، در LTF منتظر PA بمان. هر اوریجینی، اگر سفارشی باقی مانده باشد، می‌تواند قیمت را برگرداند، به شرط آنکه در مسیر رسیدنش PA باشد. ممنون Pedini. نمی‌دانم این رویکرد درست است یا نه. Pedini نوشت: جوابی که دنبالش هستی، در مقالهٔ PAZ است
+
+### if_p70_5
+EN: DeepBlue wrote:
+Ifmyante
+ wrote: We were chatting about that lately, and one of the guys
+suggested we turn the charts sideways, so there's no up or down!
+
+I just know that if we did this, we'd have "Lefties" and "Righties"!
+
+Perhaps an indicator can be made. The top portion of the chart is the
+chart as usual but the bottom half is the same chart but inverted.
+
+So the top can be usdcad but the bottom can be cadusd. But that might retard our brain...
+
+I made an indicator some time back that flips the chart upside down when
+ you press a key, since at the time I was finding it much easier to spot
+ levels one way up than the other.
+
+I don't mind sharing it if anyone is interested.
+FA: DeepBlue نوشت:
+Ifmyante نوشت: اخیراً دربارهٔ همین حرف می‌زدیم و یکی از بچه‌ها پیشنهاد داد نمودارها را افقی کنیم تا دیگر بالا و پایینی وجود نداشته باشد!
+
+فقط می‌دانم اگر این کار را می‌کردیم، «چپ‌دست» و «راست‌دست» داشتیم!
+
+شاید بشود یک اندیکاتور ساخت. نیمهٔ بالای نمودار همان نمودار همیشگی است، ولی نیمهٔ پایین همان نمودار، فقط وارونه.
+
+این‌طور بالایی می‌تواند usdcad باشد و پایینی cadusd. ولی این ممکن است مغزمان را کند کند...
+
+مدتی پیش یک اندیکاتور ساختم که با فشردن یک کلید نمودار را وارونه می‌کند، چون آن موقع تشخیص سطوح در یک جهت برایم خیلی آسان‌تر از جهت دیگر بود.
+
+اگر کسی علاقه داشته باشد، در به اشتراک گذاشتنش مشکلی ندارم.
+
+### if_p70_6
+EN: I would be interested in giving that a go if you have it available?
+
+Cheers!
+
+Robbie
+
+smimon wrote:
+DeepBlue wrote:
+Ifmyante
+ wrote: We were chatting about that lately, and one of the guys
+suggested we turn the charts sideways, so there's no up or down!
+
+I just know that if we did this, we'd have "Lefties" and "Righties"!
+
+Perhaps an indicator can be made. The top portion of the chart is the
+chart as usual but the bottom half is the same chart but inverted.
+
+So the top can be usdcad but the bottom can be cadusd. But that might retard our brain...
+
+I made an indicator some time back that flips the chart upside down when
+ you press a key, since at the time I was finding it much easier to spot
+ levels one way up than the other.
+
+I don't mind sharing it if anyone is interested.
+FA: اگر در دسترس داشته باشی، دوست دارم امتحانش کنم؟
+
+به سلامتی!
+
+Robbie
+
+smimon نوشت:
+DeepBlue نوشت:
+Ifmyante نوشت: اخیراً دربارهٔ همین حرف می‌زدیم و یکی از بچه‌ها پیشنهاد داد نمودارها را افقی کنیم تا دیگر بالا و پایینی وجود نداشته باشد!
+
+فقط می‌دانم اگر این کار را می‌کردیم، «چپ‌دست» و «راست‌دست» داشتیم!
+
+شاید بشود یک اندیکاتور ساخت. نیمهٔ بالای نمودار همان نمودار همیشگی است، ولی نیمهٔ پایین همان نمودار، فقط وارونه.
+
+این‌طور بالایی می‌تواند usdcad باشد و پایینی cadusd. ولی این ممکن است مغزمان را کند کند...
+
+مدتی پیش یک اندیکاتور ساختم که با فشردن یک کلید نمودار را وارونه می‌کند، چون آن موقع تشخیص سطوح در یک جهت برایم خیلی آسان‌تر از جهت دیگر بود.
+
+اگر کسی علاقه داشته باشد، در به اشتراک گذاشتنش مشکلی ندارم.
+
+### if_p70_7
+EN: Rdk123 wrote: I would be interested in giving that a go if you have it available?
+
+Cheers!
+
+Robbie
+
+smimon wrote:
+DeepBlue wrote:
+Ifmyante
+ wrote: We were chatting about that lately, and one of the guys
+suggested we turn the charts sideways, so there's no up or down!
+
+I just know that if we did this, we'd have "Lefties" and "Righties"!
+
+Perhaps an indicator can be made. The top portion of the chart is the
+chart as usual but the bottom half is the same chart but inverted.
+
+So the top can be usdcad but the bottom can be cadusd. But that might retard our brain...
+
+I made an indicator some time back that flips the chart upside down when
+ you press a key, since at the time I was finding it much easier to spot
+ levels one way up than the other.
+
+I don't mind sharing it if anyone is interested.
+
+No problem, anyone else interested drop me a PM.
+FA: Rdk123 نوشت: اگر در دسترس داشته باشی، دوست دارم امتحانش کنم؟
+
+به سلامتی!
+
+Robbie
+
+smimon نوشت:
+DeepBlue نوشت:
+Ifmyante نوشت: اخیراً دربارهٔ همین حرف می‌زدیم و یکی از بچه‌ها پیشنهاد داد نمودارها را افقی کنیم تا دیگر بالا و پایینی وجود نداشته باشد!
+
+فقط می‌دانم اگر این کار را می‌کردیم، «چپ‌دست» و «راست‌دست» داشتیم!
+
+شاید بشود یک اندیکاتور ساخت. نیمهٔ بالای نمودار همان نمودار همیشگی است، ولی نیمهٔ پایین همان نمودار، فقط وارونه.
+
+این‌طور بالایی می‌تواند usdcad باشد و پایینی cadusd. ولی این ممکن است مغزمان را کند کند...
+
+مدتی پیش یک اندیکاتور ساختم که با فشردن یک کلید نمودار را وارونه می‌کند، چون آن موقع تشخیص سطوح در یک جهت برایم خیلی آسان‌تر از جهت دیگر بود.
+
+اگر کسی علاقه داشته باشد، در به اشتراک گذاشتنش مشکلی ندارم.
+
+مشکلی نیست، هر کس دیگری هم علاقه داشت به من پیام خصوصی بدهد.
+
+### if_p70_8
+EN: Need a little help right here.
+FA: همین‌جا کمی کمک لازم دارم.
+
+### if_p70_9
+EN: bllixu wrote: Need a little help right here.
+
+All the levels in your chart are too "local". If you are to understand
+what is happening, and be able to make informed decisions on trades,
+you're going to need to raise the timeframe, zoom the chart out, and
+perform thorough FTR and engulf analysis from largest timeframe
+downwards.
+
+Only then, within the context of this bigger picture, does it make sense
+ to attempt trades at certain QM levels as opposed to others etc.
+FA: bllixu نوشت: همین‌جا کمی کمک لازم دارم.
+
+همهٔ سطوح نمودارت زیادی «محلی»اند. اگر بخواهی بفهمی چه خبر است و بتوانی دربارهٔ معاملات تصمیم آگاهانه بگیری، باید تایم‌فریم را بالاتر ببری، نمودار را دورتر کنی و از بزرگ‌ترین تایم‌فریم به سمت پایین، تحلیل دقیق FTR و اینگالف انجام دهی.
+
+فقط آن وقت است که در چارچوب این تصویر بزرگ‌تر معنا پیدا می‌کند که چرا سر بعضی سطوح QM معامله کنی و سر بعضی نه، و غیره.
+
+### if_p70_10
+EN: smimon wrote:
+bllixu wrote: Need a little help right here.
+
+All the levels in your chart are too "local". If you are to understand
+what is happening, and be able to make informed decisions on trades,
+you're going to need to raise the timeframe, zoom the chart out, and
+perform thorough FTR and engulf analysis from largest timeframe
+downwards.
+
+Only then, within the context of this bigger picture, does it make sense
+ to attempt trades at certain QM levels as opposed to others etc.
+
+I have just analysed this entery and u are right.
+
+I was looking for entry no matter what , now i will mark the HTF like
+m30 S/D zones and just wait till price gets there and I will look for
+the quasimodo only there.
+FA: smimon نوشت:
+bllixu نوشت: همین‌جا کمی کمک لازم دارم.
+
+همهٔ سطوح نمودارت زیادی «محلی»اند. اگر بخواهی بفهمی چه خبر است و بتوانی دربارهٔ معاملات تصمیم آگاهانه بگیری، باید تایم‌فریم را بالاتر ببری، نمودار را دورتر کنی و از بزرگ‌ترین تایم‌فریم به سمت پایین، تحلیل دقیق FTR و اینگالف انجام دهی.
+
+فقط آن وقت است که در چارچوب این تصویر بزرگ‌تر معنا پیدا می‌کند که چرا سر بعضی سطوح QM معامله کنی و سر بعضی نه، و غیره.
+
+تازه همین ورود را تحلیل کردم و حق با توست.
+
+دنبال ورود بودم به هر قیمتی؛ حالا نواحی HTF مثل S/D در m30 را علامت می‌زنم و فقط صبر می‌کنم تا قیمت برسد، و کواسیمودو را تنها همان‌جا دنبال می‌کنم.
+
+### if_p70_11
+EN: bllixu wrote: I have just analysed this entery and u are right.
+
+I was looking for entry no matter what , now i will mark the HTF like
+m30 S/D zones and just wait till price gets there and I will look for
+the quasimodo only there.
+
+Spot on
+
+Thing like QM etc are "what we want to see" - but it's got to be "what
+we want to see, where we want to see it", context is everything.
+FA: bllixu نوشت: تازه همین ورود را تحلیل کردم و حق با توست.
+
+دنبال ورود بودم به هر قیمتی؛ حالا نواحی HTF مثل S/D در m30 را علامت می‌زنم و فقط صبر می‌کنم تا قیمت برسد، و کواسیمودو را تنها همان‌جا دنبال می‌کنم.
+
+دقیقاً
+
+چیزهایی مثل QM و غیره «آن چیزی هستند که می‌خواهیم ببینیم» — ولی باید «آن چیزی باشند که می‌خواهیم ببینیم، همان‌جایی که می‌خواهیم ببینیم»؛ زمینه همه‌چیز است.
+
+### if_p70_12
+EN: smimon wrote: but it's got to be "what we want to see, where we want to see it", context is everything.
+
+And the very important, Why we want to see!
+FA: smimon نوشت: ولی باید «آن چیزی باشد که می‌خواهیم ببینیم، همان‌جایی که می‌خواهیم ببینیم»؛ زمینه همه‌چیز است.
+
+و یک چیز بسیار مهم: چرا می‌خواهیم ببینیمشان!
+
+### if_p70_13
+EN: I think you sold after price hits the target. There is how i see it. I
+ had another EUREKA moment after Pedini sent me back to markedpedia PAZ
+section. :)
+
+bllixu wrote:
+smimon wrote:
+bllixu wrote: Need a little help right here.
+
+All the levels in your chart are too "local". If you are to understand
+what is happening, and be able to make informed decisions on trades,
+you're going to need to raise the timeframe, zoom the chart out, and
+perform thorough FTR and engulf analysis from largest timeframe
+downwards.
+
+Only then, within the context of this bigger picture, does it make sense
+ to attempt trades at certain QM levels as opposed to others etc.
+
+I have just analysed this entery and u are right.
+
+I was looking for entry no matter what , now i will mark the HTF like
+m30 S/D zones and just wait till price gets there and I will look for
+the quasimodo only there.
+FA: فکر می‌کنم بعد از رسیدن قیمت به تارگت فروختی. من این‌طور می‌بینمش. بعد از اینکه Pedini مرا به بخش PAZ در markedpedia برگرداند، یک لحظهٔ یوریکای دیگر داشتم. :)
+
+bllixu نوشت:
+smimon نوشت:
+bllixu نوشت: همین‌جا کمی کمک لازم دارم.
+
+همهٔ سطوح نمودارت زیادی «محلی»اند. اگر بخواهی بفهمی چه خبر است و بتوانی دربارهٔ معاملات تصمیم آگاهانه بگیری، باید تایم‌فریم را بالاتر ببری، نمودار را دورتر کنی و از بزرگ‌ترین تایم‌فریم به سمت پایین، تحلیل دقیق FTR و اینگالف انجام دهی.
+
+فقط آن وقت است که در چارچوب این تصویر بزرگ‌تر معنا پیدا می‌کند که چرا سر بعضی سطوح QM معامله کنی و سر بعضی نه، و غیره.
+
+تازه همین ورود را تحلیل کردم و حق با توست.
+
+دنبال ورود بودم به هر قیمتی؛ حالا نواحی HTF مثل S/D در m30 را علامت می‌زنم و فقط صبر می‌کنم تا قیمت برسد، و کواسیمودو را تنها همان‌جا دنبال می‌کنم.
+
+### if_p70_14
+EN: I've added some things to the diagram below. What do you guys think?
+Is this a correct interpretation of possible PA or am I way off? I tried
+ to implement the PARTY article as much as possible.
+
+For comparison, the first chart is from IF.
+FA: چند چیز به نمودار زیر اضافه کرده‌ام. نظرتان چیست؟ این تفسیر درستی از PAهای ممکن است یا خیلی پرت‌ام؟ سعی کردم مقالهٔ PARTY را تا حد امکان پیاده کنم.
+
+برای مقایسه، نمودار اول از IF است.
+
+### if_p70_15
+EN: Again can someone tell me what happened here?
+FA: باز هم کسی می‌تواند بگوید اینجا چه شد؟
+
+### if_p70_16
+EN: EDIT: Your QM should be valid after it hit the target only if it
+happen at MPL (another QM to the left) and, in LTF (tick chart in your
+case) you have an engulf which also didnțt hit its target. Think in
+therm of origins and QMs. I dont know if im right 100% but this is what i
+ understand from IF charts.bllixu wrote: Again can someone tell me what happened here?
+
+Hello Bllixu.
+
+Just my opinion, as usual. :)
+FA: EDIT: QM تو فقط وقتی بعد از رسیدن به تارگت معتبر می‌ماند که در MPL رخ دهد (یک QM دیگر در سمت چپ) و در LTF (در مورد تو نمودار تیک) اینگالفی داشته باشی که آن هم به تارگت نرسیده باشد. در قالب اوریجین‌ها و QMها فکر کن. نمی‌دانم 100% درست می‌گویم یا نه، ولی این چیزی است که از نمودارهای IF می‌فهمم. bllixu نوشت: باز هم کسی می‌تواند بگوید اینجا چه شد؟
+
+سلام Bllixu.
+
+مثل همیشه، فقط نظر من. :)
+
+### if_p70_17
+EN: I was looking for a trade similar to the screen and I saw this possibility in GBPJPY.
+
+I don't know how call variuos areas (consuming or filling orders): which is the difference?
+FA: دنبال معامله‌ای شبیه همین تصویر بودم و این احتمال را در GBPJPY دیدم.
+
+نمی‌دانم این نواحی مختلف را چه بنامم (مصرف‌کنندهٔ سفارش یا پرکنندهٔ سفارش): فرقشان چیست؟
+
+### if_p70_18
+EN: Here is my view.
+
+I have my own view on gbp/jpy where I have consider to DP taken from
+h4 charts with one has earlier fakeout and now another decision point is
+ RBR which has been tested already and we might have seen 187.34 Area
+another decision to drop but reaction at PAZ on m30 185.82 area would be
+ crucial.
+FA: این هم دیدگاه من.
+
+من دید خودم را دربارهٔ gbp/jpy دارم؛ در آن، DP را از نمودار h4 در نظر گرفته‌ام که یکی فیک‌اوت قبلی داشته و حالا نقطهٔ تصمیم دیگری RBR است که قبلاً تست شده و ممکن است ناحیهٔ 187.34 ریزش دیگری دیده باشیم، ولی واکنش در PAZ روی m30 در ناحیهٔ 185.82 حیاتی خواهد بود.
+
+### if_p70_19
+EN: Hey IF, can you please tell us what was before this entire picture? :)
+
+EDIT: U an origin? Was 1-2 an origin also?
+
+If you want to enter short at Z with pending order if T it is an origin
+should you keep your SL before T? I say that because between U and T it
+is a FO zone because of point 9 which engulfed U. Also, are Y and W
+middle levels in higher scale?
+
+Thank you If!
+
+EDIT: i hope this is the real one! Im so tired :)
+
+[
+FA: سلام IF، می‌شود بگویی قبل از کل این تصویر چه بود؟ :)
+
+EDIT: U یک اوریجین است؟ 1-2 هم اوریجین بود؟
+
+اگر بخواهی در Z با سفارش معلق پوزیشن فروش بگیری، به شرطی که T اوریجین باشد، باید SL را قبل از T نگه داری؟ این را می‌گویم چون بین U و T ناحیهٔ FO است، به‌خاطر نقطهٔ 9 که U را اینگالف کرد. و همچنین، Y و W سطوح میانی در مقیاس بالاتر هستند؟
+
+ممنون IF!
+
+EDIT: امیدوارم این یکی واقعی باشد! خیلی خسته‌ام :)
+
+[
+
+### if_p70_20
+EN: bobyv - I think you need to upload the chart with your additional markups to make sense of what you're asking
+FA: bobyv — فکر می‌کنم باید نمودار را با نشانه‌گذاری‌های اضافه‌ات آپلود کنی تا معلوم شود چه می‌پرسی
+
+### if_p70_21
+EN: Yes. Here is one. Why didn't worked? I mean didn't hit the origin lower. Did i miss something?
+
+ShadowPit wrote: bobyv - I think you need to upload the chart with your additional markups to make sense of what you're asking
+FA: بله. این یکی. چرا جواب نداد؟ منظورم این است که به اوریجین پایین‌تر نرسید. چیزی را جا انداخته‌ام؟
+
+ShadowPit نوشت: bobyv — فکر می‌کنم باید نمودار را با نشانه‌گذاری‌های اضافه‌ات آپلود کنی تا معلوم شود چه می‌پرسی
+
+### if_p70_22
+EN: bobyv - Please review your posts after you submit them and ensure they
+ make sense, both from a descriptive and illustrative purpose.
+
+In your last two posts - Your queries and references of various labels
+do not align with anything on either of your charts. Some
+characteristics you have described include: U, 1-2, Z, T, FO Zone, Point
+ 9, Y, W.
+FA: bobyv — لطفاً پست‌هایت را بعد از فرستادن مرور کن و مطمئن شو معنا دارند، هم از نظر توصیفی و هم از نظر تصویری.
+
+در دو پست آخرت، پرسش‌ها و ارجاع‌هایت به برچسب‌های مختلف با هیچ‌چیز در هیچ‌یک از نمودارهایت جور درنمی‌آید. بعضی از مشخصاتی که توصیف کرده‌ای: U، 1-2، Z، T، ناحیهٔ FO، نقطهٔ 9، Y، W.
+
+### if_p70_23
+EN: woow, sorry. Its 3:36 AM here. Today i broke the record : 21 hours/day
+ to learn the market :D My fault! sorry again! I will post the other
+chart with explanation.ShadowPit
+wrote: bobyv - Please review your posts after you submit them and ensure
+ they make sense, both from a descriptive and illustrative purpose.
+
+In your last two posts - Your queries and references of various labels
+do not align with anything on either of your charts. Some
+characteristics you have described include: U, 1-2, Z, T, FO Zone, Point
+ 9, Y, W.
+FA: وای، شرمنده. اینجا ساعت 3:36 بامداد است. امروز رکورد زدم: 21 ساعت در روز برای یادگیری بازار :D تقصیر خودم است! باز هم شرمنده! نمودار دیگر را با توضیح می‌گذارم. ShadowPit نوشت: bobyv — لطفاً پست‌هایت را بعد از فرستادن مرور کن و مطمئن شو معنا دارند، هم از نظر توصیفی و هم از نظر تصویری.
+
+در دو پست آخرت، پرسش‌ها و ارجاع‌هایت به برچسب‌های مختلف با هیچ‌چیز در هیچ‌یک از نمودارهایت جور درنمی‌آید. بعضی از مشخصاتی که توصیف کرده‌ای: U، 1-2، Z، T، ناحیهٔ FO، نقطهٔ 9، Y، W.
+
+### if_p70_24
+EN: bobyv87 wrote: Yes. Here is one. Why didn't worked? I mean didn't hit the origin lower. Did i miss something?
+
+ShadowPit wrote: bobyv - I think you need to upload the chart with your additional markups to make sense of what you're asking
+
+The short answer to your question is Demand exceeded Supply at a level you have not drawn. My observations in black.
+
+Some general feedback using the chart for illustration:
+
+Be cautious with creating too higher expectation from one engulf or one observation
+ you make. Trading requires consideration of multiple sources of
+information which may come from other time frames as well.
+
+Be careful not to expect price to make higher highs or lower lows, just
+because you identified an engulf of a level (note obstacle 1 & 2).
+
+Pay special attention to the QM level drawn on the chart, the level is
+more than a singular horizontal line, if you want to use just a single
+line, draw it under the lows of the "1" and "2".
+
+The QM level held price up on 4 occasions! On the 2nd, 3rd and 4th
+occasion it made a higher high on this timeframe. There was no engulf of
+ this zone, therefore you cannot rely on your expectation that price
+would go any lower than this zone at any stage of your analysis.
+
+In fact if you look on from point "4" the simple observation that no
+supply was holding price down and new demand was being created would
+tell you that a sell off was highly unlikely.
+
+Also last but not least, let's just say you did enter a touch trade
+short based on your assertion that price engulfed the low you have
+identified, you have obstacle #1 immediately below you, reducing your
+probability of success.
+
+Hope this helps.
+FA: bobyv87 نوشت: بله. این یکی. چرا جواب نداد؟ منظورم این است که به اوریجین پایین‌تر نرسید. چیزی را جا انداخته‌ام؟
+
+ShadowPit نوشت: bobyv — فکر می‌کنم باید نمودار را با نشانه‌گذاری‌های اضافه‌ات آپلود کنی تا معلوم شود چه می‌پرسی
+
+جواب کوتاه به پرسشت این است: در سطحی که رسم نکرده‌ای، تقاضا از عرضه پیشی گرفت. مشاهدات من با مشکی.
+
+چند بازخورد کلی، با استفاده از همین نمودار برای نمونه:
+
+در ساختن انتظار بیش از حد از یک اینگالف یا یک مشاهده احتیاط کن. معامله‌گری نیازمند در نظر گرفتن منابع متعدد اطلاعات است که ممکن است از تایم‌فریم‌های دیگر هم بیاید.
+
+مراقب باش انتظار نداشته باشی قیمت فقط به این دلیل که اینگالف یک سطح را تشخیص داده‌ای، سقف بالاتر یا کف پایین‌تر بسازد (به مانع 1 و 2 توجه کن).
+
+به سطح QM رسم‌شده روی نمودار توجه ویژه کن؛ این سطح بیشتر از یک خط افقی تنهاست. اگر می‌خواهی فقط یک خط بکشی، آن را زیر کف‌های «1» و «2» بکش.
+
+سطح QM چهار بار قیمت را بالا نگه داشت! بار دوم، سوم و چهارم، در این تایم‌فریم سقف بالاتری ساخت. هیچ اینگالفی از این ناحیه نبود، پس در هیچ مرحله‌ای از تحلیلت نمی‌توانی به این انتظار تکیه کنی که قیمت پایین‌تر از این ناحیه برود.
+
+در واقع اگر از نقطهٔ «4» به بعد نگاه کنی، همین مشاهدهٔ ساده که هیچ عرضه‌ای قیمت را پایین نگه نمی‌داشت و تقاضای تازه ساخته می‌شد، به تو می‌گفت که یک ریزش شدید بسیار بعید است.
+
+و آخرین نکته، که کم هم نیست: فرض کن بر اساس ادعایت که قیمت کفی را که تشخیص داده‌ای اینگالف کرده، واقعاً یک معاملهٔ لمسی فروش گرفته باشی؛ بلافاصله زیرت مانع شمارهٔ 1 است که احتمال موفقیتت را کم می‌کند.
+
+امیدوارم کمک کند.
+
+### if_p70_25
+EN: Thank you very much for your answer ShadowPit. My view was a little bit different than your view. What do you think?
+FA: خیلی ممنون از جوابت ShadowPit. دیدگاه من کمی با دیدگاه تو فرق داشت. تو چه فکر می‌کنی؟

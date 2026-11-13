@@ -1,0 +1,8 @@
+{
+  "sniffing_p7_1": {
+    "ok": false,
+    "issue": "literal calque (spotty -> لکه‌دار)",
+    "why": "EN: \"my gold anaylis is still spotty\" = my gold analysis is still patchy/unreliable; FA: \"تحلیل طلای من هنوز لکه‌دار است\" renders \"spotty\" literally as \"stained/spotted\", which no Persian trader would say about an analysis (it even suggests stains on the chart).",
+    "fix": "fxfury نوشت: احساس می‌کنم S/R flip در تو قوی است.\n\nواقعاً داری روی این سطوح دقیق می‌شوی، چون تحلیل طلای من هنوز ضعیف و پرنقص است و باید به تیم طلا کمک کنم lol، معاملهٔ خوبی داشته باشی.\n\nو باشد که فلیپ S/R با تو باشد /\n\nممنون fxfury"
+  }
+}

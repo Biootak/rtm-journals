@@ -1,0 +1,674 @@
+[
+ {
+  "id": "dplocation",
+  "name": "DP Location",
+  "posts": 9,
+  "pdfCount": 1,
+  "pages": 7,
+  "dirs": [
+   "_build/rtm-resources/extracted/DP Location/DP Location"
+  ]
+ },
+ {
+  "id": "maxpain",
+  "name": "Max Pain Level",
+  "posts": 15,
+  "pdfCount": 1,
+  "pages": 10,
+  "dirs": [
+   "_build/rtm-resources/extracted/Max Pain Level/Max Pain Level-20180807T055219Z-001/Max Pain Level"
+  ]
+ },
+ {
+  "id": "enquiry",
+  "name": "Enquiry",
+  "posts": 28,
+  "pdfCount": 2,
+  "pages": 19,
+  "dirs": [
+   "_build/rtm-resources/extracted/Enquiry/Enquiry"
+  ]
+ },
+ {
+  "id": "rinehartfl",
+  "name": "Rinehart FL Homework",
+  "posts": 29,
+  "pdfCount": 2,
+  "pages": 21,
+  "dirs": [
+   "_build/rtm-resources/extracted/Rinehart FL Homework/Rinehart FL Homework-20180807T062106Z-001/Rinehart FL Homework"
+  ]
+ },
+ {
+  "id": "bill",
+  "name": "Bill",
+  "posts": 35,
+  "pdfCount": 2,
+  "pages": 21,
+  "dirs": [
+   "_build/rtm-resources/extracted/Bill/Bill"
+  ]
+ },
+ {
+  "id": "sdcleared",
+  "name": "S/D Cleared Explanation",
+  "posts": 29,
+  "pdfCount": 2,
+  "pages": 24,
+  "dirs": [
+   "RTM Journals/S D Cleared Explanation"
+  ]
+ },
+ {
+  "id": "jc",
+  "name": "JC",
+  "posts": 37,
+  "pdfCount": 2,
+  "pages": 25,
+  "dirs": [
+   "_build/rtm-resources/extracted/JC/JC-20180807T053603Z-001/JC"
+  ]
+ },
+ {
+  "id": "knowledgeismoney",
+  "name": "Knowledge is money — do you agree",
+  "posts": 50,
+  "pdfCount": 2,
+  "pages": 31,
+  "dirs": [
+   "_build/rtm-resources/extracted/Knowledge is money do you agree/Knowledge is money do you agree-20180807T054507Z-001/Knowledge is money do you agree"
+  ]
+ },
+ {
+  "id": "fakeouts",
+  "name": "Fakeouts",
+  "posts": 29,
+  "pdfCount": 2,
+  "pages": 37,
+  "dirs": [
+   "_build/rtm-resources/extracted/Fakeouts/Fakeouts"
+  ]
+ },
+ {
+  "id": "cppaz",
+  "name": "CP PAZ",
+  "posts": 37,
+  "pdfCount": 2,
+  "pages": 42,
+  "dirs": [
+   "_build/rtm-resources/extracted/CP PAZ/CP PAZ"
+  ]
+ },
+ {
+  "id": "pg",
+  "name": "PG",
+  "posts": 42,
+  "pdfCount": 2,
+  "pages": 61,
+  "dirs": [
+   "_build/rtm-resources/extracted/PG/PG-20180807T060130Z-001/PG"
+  ]
+ },
+ {
+  "id": "cancan",
+  "name": "Can Can",
+  "posts": 57,
+  "pdfCount": 3,
+  "pages": 39,
+  "dirs": [
+   "_build/rtm-resources/extracted/Can Can/Can Can"
+  ]
+ },
+ {
+  "id": "flaglimitshydra",
+  "name": "Flag Limits by Hydra",
+  "posts": 58,
+  "pdfCount": 3,
+  "pages": 39,
+  "dirs": [
+   "_build/rtm-resources/extracted/Flag Limits by Hydra/Flag Limits by Hydra-20180806T181543Z-001/Flag Limits by Hydra"
+  ]
+ },
+ {
+  "id": "ignoredlevel",
+  "name": "Ignored Level",
+  "posts": 75,
+  "pdfCount": 3,
+  "pages": 55,
+  "dirs": [
+   "_build/rtm-resources/extracted/Ignored Level/Ignored Level-20180807T052614Z-001/Ignored Level"
+  ]
+ },
+ {
+  "id": "its",
+  "name": "ITs",
+  "posts": 59,
+  "pdfCount": 3,
+  "pages": 70,
+  "dirs": [
+   "_build/rtm-resources/extracted/ITs/ITs-20180807T052916Z-001/ITs"
+  ]
+ },
+ {
+  "id": "academylite2",
+  "name": "Academy Lite — Part 2",
+  "posts": 100,
+  "pdfCount": 4,
+  "pages": 72,
+  "dirs": [
+   "_build/rtm-resources/extracted/Academy Lite Part 2 - Where to look for PA/Academy Lite Part 2 - Where to look for PA"
+  ]
+ },
+ {
+  "id": "ftrpaz",
+  "name": "FTR PAZ",
+  "posts": 101,
+  "pdfCount": 5,
+  "pages": 77,
+  "dirs": [
+   "_build/rtm-resources/extracted/FTR PAZ/FTR PAZ-20180806T184056Z-001/FTR PAZ"
+  ]
+ },
+ {
+  "id": "bsz",
+  "name": "BSZ",
+  "posts": 112,
+  "pdfCount": 5,
+  "pages": 80,
+  "dirs": [
+   "_build/rtm-resources/extracted/BSZ/BSZ"
+  ]
+ },
+ {
+  "id": "whynotwork",
+  "name": "Why did it not work",
+  "posts": 109,
+  "pdfCount": 5,
+  "pages": 82,
+  "dirs": [
+   "RTM Journals/Why did it not work"
+  ]
+ },
+ {
+  "id": "dissection",
+  "name": "Dissection Room",
+  "posts": 50,
+  "pdfCount": 5,
+  "pages": 231,
+  "dirs": [
+   "_build/rtm-resources/extracted/Dissection Room/Dissection Room"
+  ]
+ },
+ {
+  "id": "academylite1",
+  "name": "Academy Lite — Part 1",
+  "posts": 140,
+  "pdfCount": 6,
+  "pages": 91,
+  "dirs": [
+   "_build/rtm-resources/extracted/Academy lite Part 1/Academy lite Part 1"
+  ]
+ },
+ {
+  "id": "capnp",
+  "name": "Cap'n P's",
+  "posts": 135,
+  "pdfCount": 6,
+  "pages": 188,
+  "dirs": [
+   "_build/rtm-resources/extracted/Cap'n P's/Cap_n P_s"
+  ]
+ },
+ {
+  "id": "constantine",
+  "name": "Constantine",
+  "posts": 193,
+  "pdfCount": 8,
+  "pages": 146,
+  "dirs": [
+   "_build/rtm-resources/extracted/Constantine/Constantine"
+  ]
+ },
+ {
+  "id": "scotty",
+  "name": "Scotty",
+  "posts": 194,
+  "pdfCount": 8,
+  "pages": 280,
+  "dirs": [
+   "RTM Journals/Scotty"
+  ]
+ },
+ {
+  "id": "whenever",
+  "name": "Whenever",
+  "posts": 182,
+  "pdfCount": 8,
+  "pages": 287,
+  "dirs": [
+   "RTM Journals/Whenever"
+  ]
+ },
+ {
+  "id": "pucci",
+  "name": "Pucci",
+  "posts": 195,
+  "pdfCount": 8,
+  "pages": 354,
+  "dirs": [
+   "_build/rtm-resources/extracted/Pucci/Pucci-20180807T060522Z-001/Pucci"
+  ]
+ },
+ {
+  "id": "paz",
+  "name": "Price Action Zone",
+  "posts": 201,
+  "pdfCount": 9,
+  "pages": 147,
+  "dirs": [
+   "_build/rtm-resources/extracted/Price Action Zone/Price Action Zone-20180807T060304Z-001/Price Action Zone"
+  ]
+ },
+ {
+  "id": "luska",
+  "name": "Luska",
+  "posts": 206,
+  "pdfCount": 9,
+  "pages": 287,
+  "dirs": [
+   "_build/rtm-resources/extracted/Luska/Luska-20180807T055107Z-001/Luska"
+  ]
+ },
+ {
+  "id": "homeoffinisher",
+  "name": "HomeOfFinisher",
+  "posts": 213,
+  "pdfCount": 9,
+  "pages": 351,
+  "dirs": [
+   "_build/rtm-resources/extracted/HomeOfFinisher/HomeOfFinisher-20180807T051828Z-001/HomeOfFinisher"
+  ]
+ },
+ {
+  "id": "diamond",
+  "name": "The Diamond",
+  "posts": 235,
+  "pdfCount": 10,
+  "pages": 369,
+  "dirs": [
+   "RTM Journals/The Diamond"
+  ]
+ },
+ {
+  "id": "robbie",
+  "name": "Robbie",
+  "posts": 248,
+  "pdfCount": 10,
+  "pages": 385,
+  "dirs": [
+   "_build/rtm-resources/extracted/Robbie/Robbie-20180807T062122Z-001/Robbie"
+  ]
+ },
+ {
+  "id": "michal238",
+  "name": "Michal238",
+  "posts": 253,
+  "pdfCount": 10,
+  "pages": 392,
+  "dirs": [
+   "Michal238",
+   "Michal"
+  ]
+ },
+ {
+  "id": "3drive",
+  "name": "About the 3Drive",
+  "posts": 231,
+  "pdfCount": 10,
+  "pages": 393,
+  "dirs": [
+   "_build/rtm-resources/extracted/About the 3Drive/About the 3Drive"
+  ]
+ },
+ {
+  "id": "engulf",
+  "name": "Engulf",
+  "posts": 273,
+  "pdfCount": 11,
+  "pages": 286,
+  "dirs": [
+   "_build/rtm-resources/extracted/Engulf/Engulf"
+  ]
+ },
+ {
+  "id": "readingsession",
+  "name": "Reading a Session",
+  "posts": 248,
+  "pdfCount": 11,
+  "pages": 287,
+  "dirs": [
+   "_build/rtm-resources/extracted/Reading a Session/Reading a Session-20180807T060557Z-001/Reading a Session"
+  ]
+ },
+ {
+  "id": "warren",
+  "name": "Warren",
+  "posts": 253,
+  "pdfCount": 11,
+  "pages": 302,
+  "dirs": [
+   "RTM Journals/Warren"
+  ]
+ },
+ {
+  "id": "jiri",
+  "name": "Jiri",
+  "posts": 252,
+  "pdfCount": 11,
+  "pages": 349,
+  "dirs": [
+   "_build/rtm-resources/extracted/Jiri/Jiri-20180807T053638Z-001/Jiri"
+  ]
+ },
+ {
+  "id": "in2forex",
+  "name": "in2forex",
+  "posts": 263,
+  "pdfCount": 11,
+  "pages": 350,
+  "dirs": [
+   "_build/rtm-resources/extracted/in2forex/in2forex-20180807T052735Z-001/in2forex"
+  ]
+ },
+ {
+  "id": "fishing",
+  "name": "Fishing in the Moneyriver",
+  "posts": 252,
+  "pdfCount": 11,
+  "pages": 354,
+  "dirs": [
+   "_build/rtm-resources/extracted/Fishing in the Moneyriver a never ending story/Fishing in the Moneyriver a never ending story"
+  ]
+ },
+ {
+  "id": "ftrretest",
+  "name": "Failed to Retest FTR",
+  "posts": 278,
+  "pdfCount": 12,
+  "pages": 188,
+  "dirs": [
+   "_build/rtm-resources/extracted/Failed to Retest FTR/Failed to Retest FTR"
+  ]
+ },
+ {
+  "id": "finddecision",
+  "name": "Find The Decision",
+  "posts": 321,
+  "pdfCount": 13,
+  "pages": 313,
+  "dirs": [
+   "_build/rtm-resources/extracted/Find The Decision/Find The Decision"
+  ]
+ },
+ {
+  "id": "frosty",
+  "name": "Frosty",
+  "posts": 303,
+  "pdfCount": 13,
+  "pages": 352,
+  "dirs": [
+   "frosty igloo"
+  ]
+ },
+ {
+  "id": "mertch",
+  "name": "Mertch",
+  "posts": 302,
+  "pdfCount": 13,
+  "pages": 417,
+  "dirs": [
+   "MERTCH'S JOURNAL (ALIYOUSEFIFX)",
+   "Mertch"
+  ]
+ },
+ {
+  "id": "eurotrash",
+  "name": "Eurotrash",
+  "posts": 301,
+  "pdfCount": 13,
+  "pages": 464,
+  "dirs": [
+   "_build/rtm-resources/extracted/Eurotrash/Eurotrash"
+  ]
+ },
+ {
+  "id": "hgblacksheep",
+  "name": "HG Black Sheep",
+  "posts": 311,
+  "pdfCount": 13,
+  "pages": 518,
+  "dirs": [
+   "_build/rtm-resources/extracted/HG Black Sheep/HG Black Sheep-20180807T051637Z-001/HG Black Sheep"
+  ]
+ },
+ {
+  "id": "sunnytrader",
+  "name": "SunnyTrader",
+  "posts": 307,
+  "pdfCount": 13,
+  "pages": 526,
+  "dirs": [
+   "RTM Journals/SunnyTrader"
+  ]
+ },
+ {
+  "id": "shadowpit",
+  "name": "Shadowpit",
+  "posts": 371,
+  "pdfCount": 15,
+  "pages": 569,
+  "dirs": [
+   "RTM Journals/Shadowpit"
+  ]
+ },
+ {
+  "id": "art",
+  "name": "Art",
+  "posts": 351,
+  "pdfCount": 15,
+  "pages": 573,
+  "dirs": [
+   "_build/rtm-resources/extracted/Art/Art"
+  ]
+ },
+ {
+  "id": "newjournal",
+  "name": "New Journal",
+  "posts": 355,
+  "pdfCount": 15,
+  "pages": 656,
+  "dirs": [
+   "_build/rtm-resources/extracted/New Journal/New Journal-20180807T060026Z-001/New Journal"
+  ]
+ },
+ {
+  "id": "mm",
+  "name": "MM",
+  "posts": 392,
+  "pdfCount": 16,
+  "pages": 587,
+  "dirs": [
+   "MM"
+  ]
+ },
+ {
+  "id": "projectsagana",
+  "name": "Project Sagana",
+  "posts": 453,
+  "pdfCount": 19,
+  "pages": 584,
+  "dirs": [
+   "_build/rtm-resources/extracted/Project Sagana/Project Sagana-20180807T060423Z-001/Project Sagana"
+  ]
+ },
+ {
+  "id": "drswing",
+  "name": "DrSwing",
+  "posts": 484,
+  "pdfCount": 20,
+  "pages": 655,
+  "dirs": [
+   "Dr Swing"
+  ]
+ },
+ {
+  "id": "kruger",
+  "name": "Kruger",
+  "posts": 510,
+  "pdfCount": 21,
+  "pages": 661,
+  "dirs": [
+   "Kruger"
+  ]
+ },
+ {
+  "id": "amit",
+  "name": "Amit",
+  "posts": 538,
+  "pdfCount": 22,
+  "pages": 732,
+  "dirs": [
+   "_build/rtm-resources/extracted/Amit/Amit"
+  ]
+ },
+ {
+  "id": "josh",
+  "name": "Josh",
+  "posts": 576,
+  "pdfCount": 24,
+  "pages": 855,
+  "dirs": [
+   "_build/rtm-resources/extracted/Josh/Josh-20180807T053855Z-001/Josh"
+  ]
+ },
+ {
+  "id": "jurij",
+  "name": "Jurij",
+  "posts": 598,
+  "pdfCount": 24,
+  "pages": 1183,
+  "dirs": [
+   "Jurij"
+  ]
+ },
+ {
+  "id": "smimon",
+  "name": "Smimon",
+  "posts": 722,
+  "pdfCount": 29,
+  "pages": 1210,
+  "dirs": [
+   "RTM Journals/Smimon"
+  ]
+ },
+ {
+  "id": "doctorpatient",
+  "name": "The Doctor's Patient",
+  "posts": 759,
+  "pdfCount": 31,
+  "pages": 1130,
+  "dirs": [
+   "RTM Journals/The Doctor_s Patient"
+  ]
+ },
+ {
+  "id": "alex",
+  "name": "Alex",
+  "posts": 888,
+  "pdfCount": 36,
+  "pages": 1057,
+  "dirs": [
+   "_build/rtm-resources/extracted/Alex/Alex"
+  ]
+ },
+ {
+  "id": "gembel",
+  "name": "Gembel",
+  "posts": 1200,
+  "pdfCount": 48,
+  "pages": 2027,
+  "dirs": [
+   "_build/rtm-resources/extracted/Gembel/Gembel-20180806T184504Z-001/Gembel"
+  ]
+ },
+ {
+  "id": "classroom",
+  "name": "The Classroom",
+  "posts": 1204,
+  "pdfCount": 49,
+  "pages": 1694,
+  "dirs": [
+   "RTM Journals/The Classroom"
+  ]
+ },
+ {
+  "id": "aboutcompression",
+  "name": "About Compression",
+  "posts": 1247,
+  "pdfCount": 50,
+  "pages": 1801,
+  "dirs": [
+   "_build/rtm-resources/extracted/About Compression/About Compression"
+  ]
+ },
+ {
+  "id": "quasimodo",
+  "name": "The Quasimodo",
+  "posts": 1286,
+  "pdfCount": 52,
+  "pages": 1979,
+  "dirs": [
+   "RTM Journals/The Quasimodo"
+  ]
+ },
+ {
+  "id": "flaglimits",
+  "name": "Flag Limits",
+  "posts": 1317,
+  "pdfCount": 53,
+  "pages": 1094,
+  "dirs": [
+   "_build/rtm-resources/extracted/Flag Limits/Flag Limits-20180806T180955Z-001/Flag Limits"
+  ]
+ },
+ {
+  "id": "hs",
+  "name": "H S Trading Journal",
+  "posts": 2369,
+  "pdfCount": 58,
+  "pages": 2844,
+  "dirs": [
+   "RTM Journals/H S Trading Journal Part - 1"
+  ]
+ },
+ {
+  "id": "supplydemand",
+  "name": "Supply and Demand — Support and Resistance",
+  "posts": 1474,
+  "pdfCount": 59,
+  "pages": 2006,
+  "dirs": [
+   "RTM Journals/Supply And Demand Support and Resistance"
+  ]
+ },
+ {
+  "id": "dbrrbd",
+  "name": "DBR RBD",
+  "posts": 1630,
+  "pdfCount": 66,
+  "pages": 2409,
+  "dirs": [
+   "_build/rtm-resources/extracted/DBR RBD/DBR RBD"
+  ]
+ }
+]

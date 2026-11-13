@@ -1,0 +1,168 @@
+### jurij_p4_1
+EN: Nice setup gif.. might be a good idea next time to use gif file for my trade setup :P
+FA: گیف ستاپ خوبی بود.. شاید دفعهٔ بعد ایدهٔ خوبی باشد که برای ستاپ معامله‌ام از فایل گیف استفاده کنم :P
+
+### jurij_p4_2
+EN: Working on flag limits...
+
+I think I've also found the reason for some failed engulfs when looking from this perspective. But not sure yet.
+
+It seems that engulfs that happen on S/R levels tend to fail because often S/R levels are the limits of broken flags...
+FA: دارم روی فلگ‌لیمیت‌ها کار می‌کنم...
+
+فکر می‌کنم از این زاویه دلیل بعضی اینگالف‌های شکست‌خورده را هم پیدا کرده‌ام. اما هنوز مطمئن نیستم.
+
+به نظر می‌رسد اینگالف‌هایی که روی سطوح S/R رخ می‌دهند بیشتر شکست می‌خورند، چون غالباً همین سطوح، FL‌های شکسته‌اند...
+
+### jurij_p4_4
+EN: Jurij wrote: Working on flag limits...
+
+I think I've also found the reason for some failed engulfs when looking from this perspective. But not sure yet.
+
+It seems that engulfs that happen on S/R levels tend to fail because often S/R levels are the limits of broken flags...
+FA: Jurij نوشت: دارم روی فلگ‌لیمیت‌ها کار می‌کنم...
+
+فکر می‌کنم از این زاویه دلیل بعضی اینگالف‌های شکست‌خورده را هم پیدا کرده‌ام. اما هنوز مطمئن نیستم.
+
+به نظر می‌رسد اینگالف‌هایی که روی سطوح S/R رخ می‌دهند بیشتر شکست می‌خورند، چون غالباً همین سطوح، FL‌های شکسته‌اند...
+
+### jurij_p4_7
+EN: I think this one failed because price entered the CP PAZ. Or maybe
+because price reached almost the next flag during the engulf/FO. Not
+sure.
+FA: فکر می‌کنم این یکی شکست خورد چون قیمت وارد PAZ مربوط به CP شد. یا شاید هم در جریان اینگالف/FO تقریباً به فلگ بعدی رسیده بود. مطمئن نیستم.
+
+### jurij_p4_8
+EN: Hey Jurij, this one looks like a tough one to me, but i see a couple
+of things would make me hesitant to go long. First there was no HH
+engulf on the major swing. Next your entry signal looks to be part of a
+ larger PAZ that didn't get engulfed (these I always find tough to
+draw). Finally right around where you entered you have the engulf down
+(which could have been a fakeout) and no engulf breaking up at the end
+of that compression.
+FA: سلام Jurij، این یکی برای من سخت است، اما چند چیز می‌بینم که مرا در خرید مردد می‌کند. اول این‌که روی سوئینگ اصلی هیچ اینگالف HH نبود. بعد سیگنال ورودت ظاهراً جزئی از یک PAZ بزرگ‌تر است که اینگالف نشد (رسم این‌ها همیشه برایم دشوار است). در آخر هم دقیقاً همان‌جا که وارد شدی، اینگالف نزولی داری (که می‌توانسته فیک‌اوت باشد) و هیچ اینگالفی که در پایان آن فشرده‌سازی رو به بالا را بشکند نداری.
+
+### jurij_p4_9
+EN: ahdat, yes if you consider distinct PA zones, then this is what I see
+
+Thanks for your view
+FA: ahdat، بله اگر ناحیه‌های PA را جدا در نظر بگیری، چیزی که می‌بینم این است
+
+ممنون از دیدگاهت
+
+### jurij_p4_10
+EN: Order not filled, but still interesting
+
+USDJPY 5m
+
+Why my entry was there:
+
+USDJPY 1m
+
+Why it was not filled:
+FA: سفارش پر نشد، اما هنوز جالب است
+
+USDJPY 5m
+
+چرا ورودم آن‌جا بود:
+
+USDJPY 1m
+
+چرا پر نشد:
+
+### jurij_p4_11
+EN: There is only one playing field, the one made up by ITs.
+
+What I mean, there's no range/trend or other "choppy" market conditions, only the right scale.
+
+When the market trends (nothing to the left) then ITs are driving price
+on the HTF playing field, likeweise range/chop creates the LTF field.
+
+EU 5m (wrong annotation saying 15m, please ignore)
+
+EU 1H
+FA: فقط یک زمین بازی وجود دارد، همانی که ITها ساخته‌اند.
+
+منظورم این است که «رنج/روند» یا شرایط «پرنوسان» دیگری وجود ندارد؛ فقط مقیاس درست وجود دارد.
+
+وقتی بازار روند دارد (چیزی در سمت چپ نیست)، ITها قیمت را در زمین بازی HTF می‌رانند؛ به همین شکل رنج/چاپ زمین LTF را می‌سازد.
+
+EU 5m (یادداشت اشتباهی که 15m نوشته، لطفاً نادیده بگیر)
+
+EU 1H
+
+### jurij_p4_12
+EN: Spread
+FA: اسپرد
+
+### jurij_p4_13
+EN: Psychology of stop hunting
+FA: روان‌شناسی شکار استاپ
+
+### jurij_p4_14
+EN: Lately many things are starting to click for me
+FA: اخیراً چیزهای زیادی برایم جا می‌افتد
+
+### jurij_p4_15
+EN: Original target was a bit more down but the PA made me exit sooner.
+FA: تارگت اصلی کمی پایین‌تر بود، اما PA باعث شد زودتر خارج شوم.
+
+### jurij_p4_16
+EN: Not the best entry
+
+the compression up did concern me, so target was the first clear FTR
+FA: بهترین ورود نبود
+
+فشرده‌سازی رو به بالا نگرانم می‌کرد، پس تارگت را اولین FTR واضح گذاشتم
+
+### jurij_p4_17
+EN: This one still running
+
+(again not the best entries)
+FA: این یکی هنوز در جریان است
+
+(دوباره، بهترین ورودها نبودند)
+
+### jurij_p4_18
+EN: Jurij wrote: This one still running
+
+and TP
+FA: Jurij نوشت: این یکی هنوز در جریان است
+
+و تارگت
+
+### jurij_p4_21
+EN: Last setup for the week, had some fun with AUDUSD scalping the 1m chart, up and down at the same time.
+
+And of course made a nice gif too
+
+	cdn.makeagif.com/media/3-18-2016/ed5_3E.gif
+FA: آخرین ستاپ هفته؛ با اسکالپ AUDUSD روی نمودار 1m کمی خوش گذشت، هم‌زمان بالا و پایین.
+
+و البته یک گیف قشنگ هم ساختم
+
+cdn.makeagif.com/media/3-18-2016/ed5_3E.gif
+
+### jurij_p4_24
+EN: Unfortunately my TP was missed just by a few pips, so decided to close it.
+
+Ended the week with 20R
+
+13 winners
+
+6 losers
+
+I'm still far from understanding the whole picture but happy with the results so far
+FA: متأسفانه تارگتم فقط چند پیپ کم آمد، پس تصمیم گرفتم ببندمش.
+
+هفته را با 20R تمام کردم
+
+13 برنده
+
+6 بازنده
+
+هنوز از فهم تصویر کامل خیلی دورم، اما از نتایج تا این‌جا راضی‌ام
+
+### jurij_p4_25
+EN: what a mistake
+FA: چه اشتباهی

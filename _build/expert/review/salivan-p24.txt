@@ -1,0 +1,400 @@
+### salivan_p24_1
+EN: some live record in GOLD
+
+hope you all enjoyed it
+
+regards
+
+Salivan
+FA: یک رکورد لایو از GOLD
+
+امیدوارم از آن لذت برده باشید
+
+با احترام
+
+Salivan
+
+### salivan_p24_2
+EN: Hi Salivan
+
+This is my short term analysis on the USDCHF
+FA: سلام Salivan
+
+این تحلیل کوتاه‌مدت من روی USDCHF است
+
+### salivan_p24_3
+EN: I'm confused about something...It's a stupid question but i have to ask it.
+FA: دربارهٔ چیزی گیج شده‌ام... سؤال احمقانه‌ای است اما باید بپرسم.
+
+### salivan_p24_4
+EN: hiya Micka
+
+always look left
+
+regards
+
+Salivan
+FA: سلام Micka
+
+همیشه به چپ نگاه کن
+
+با احترام
+
+Salivan
+
+### salivan_p24_5
+EN: Omg ! it's there right in front of me , i look left but not enough :)
+
+Also , i had a question what did you mean by "demand confirmed" @
+	readthemarket.com/~readthe3/index.php/fo...-war?start=575#54990
+
+You mean because of the pause price did before the strong shakeout ?
+(or simply because of the eng of the origin of the downmove ? )
+
+Man , this is top notch trading , i would've waited for the MPL instead...(at least that's how i view it , just below the FL.
+
+I think i still have much to learn , no wonder my trading is hits and
+misses....I have great entries , but i take them for different reasons
+and there's clearly a few steps i'm still missing...
+
+Great posts Salivan :)
+FA: خدای من! همان‌جا جلوی چشمانم است، به چپ نگاه کردم اما کافی نبود :)
+
+و همچنین، سؤالی داشتم: منظورت از «تقاضای تأییدشده» چه بود؟ @readthemarket.com/~readthe3/index.php/fo...-war?start=575#54990
+
+منظورت این است که به‌خاطر توقفی است که قیمت پیش از شیک‌اوت شدید داشت؟ (یا فقط به‌خاطر ENG اوریجین حرکت نزولی؟)
+
+رفیق، این معامله‌گری در سطح بالاست؛ من به‌جایش منتظر MPL می‌ماندم...(حداقل دید من همین است، درست زیر FL.
+
+فکر می‌کنم هنوز خیلی چیزها برای یادگیری دارم؛ تعجبی ندارد که معامله‌گری‌ام گاهی می‌گیرد و گاهی نه... ورودهای خوبی دارم، اما به دلایل مختلف آن‌ها را می‌گیرم و واضح است که هنوز چند مرحله را جا انداخته‌ام...
+
+پست‌های عالی Salivan :)
+
+### salivan_p24_6
+EN: Generally (assume we are in Supply)
+
+Big guys have to make LQ and they have some scenario for this , one of
+these is creating supply and after that make turn or bounce in that
+supply (so that supply confirmed )(retailers see that supply)
+
+after this when they want to make LQ ,they want to be the only one to short against retailers . so what do they need ?
+
+they need buyers, they need a lot of stops to be active to short against them and by this algorithm they cause Max pain.
+FA: به‌طور کلی (فرض کن در عرضه هستیم)
+
+بزرگ‌ها باید LQ بسازند و برایش سناریوهایی دارند؛ یکی‌شان ساختن عرضه و بعد چرخش یا بازگشت در همان عرضه است (تا آن عرضه تأیید شود) (خرده‌معامله‌گرها آن عرضه را می‌بینند)
+
+بعد از این، وقتی می‌خواهند LQ بسازند، می‌خواهند تنها کسی باشند که در برابر خرده‌معامله‌گرها شورت می‌کند. پس چه چیزی لازم دارند؟
+
+به خریدار نیاز دارند، به استاپ‌های زیادی نیاز دارند که فعال شوند تا در برابرشان شورت کنند و با همین الگوریتم Max pain را ایجاد می‌کنند.
+
+### salivan_p24_7
+EN: salivan wrote: hiya Micka
+
+always look left
+
+Hi Salivan,
+
+What you can do is, export the 1 min data from Live account, then import
+ it to the demo account using History center. I had the same issue. I
+solved it by that method. exported 1 min chart data is about 300 MB BTW.
+FA: salivan نوشت: سلام Micka
+
+همیشه به چپ نگاه کن
+
+سلام Salivan،
+
+کاری که می‌توانی بکنی این است: دادهٔ 1 دقیقه را از حساب Live اکسپورت کن، بعد آن را با History center به حساب دمو ایمپورت کن. من هم همین مشکل را داشتم و با همان روش حلش کردم. راستی حجم دادهٔ نمودار 1 دقیقه‌ای حدود 300 MB است.
+
+### salivan_p24_8
+EN: hiya ViTaLDRuG
+
+thanks brother but really i don't know how to do that
+FA: سلام ViTaLDRuG
+
+ممنون برادر، اما واقعاً نمی‌دانم چطور این کار را بکنم
+
+### salivan_p24_9
+EN: salivan wrote: Generally (assume we are in Supply)
+
+Big guys have to make LQ and they have some scenario for this , one of
+these is creating supply and after that make turn or bounce in that
+supply (so that supply confirmed )(retailers see that supply)
+
+after this when they want to make LQ ,they want to be the only one to short against retailers . so what do they need ?
+
+they need buyers, they need a lot of stops to be active to short against them and by this algorithm they cause Max pain.
+
+But.. (about the fakeout)
+
+Wouldn't it had been safer to play it this way ? to MPL ?... it's
+amazing how you're able to read the one minute the way you do lol.
+
+I mean i did notice the small compression , but what i usually expect
+(once it is breached, is a deeper retracement than the one you traded.
+
+Oh man , i have too many questions to ask....i should've asked them on skype or something...
+
+Anyway , thanks for the quick responses Salivan.
+FA: salivan نوشت: به‌طور کلی (فرض کن در عرضه هستیم)
+
+بزرگ‌ها باید LQ بسازند و برایش سناریوهایی دارند؛ یکی‌شان ساختن عرضه و بعد چرخش یا بازگشت در همان عرضه است (تا آن عرضه تأیید شود) (خرده‌معامله‌گرها آن عرضه را می‌بینند)
+
+بعد از این، وقتی می‌خواهند LQ بسازند، می‌خواهند تنها کسی باشند که در برابر خرده‌معامله‌گرها شورت می‌کند. پس چه چیزی لازم دارند؟
+
+به خریدار نیاز دارند، به استاپ‌های زیادی نیاز دارند که فعال شوند تا در برابرشان شورت کنند و با همین الگوریتم Max pain را ایجاد می‌کنند.
+
+اما.. (دربارهٔ فیک‌اوت)
+
+آیا بازی کردنش به این شکل امن‌تر نبود؟ تا MPL؟... شگفت‌انگیز است که چطور یک‌دقیقه‌ای را می‌خوانی، خنده‌دار است.
+
+یعنی فشرده‌سازی کوچک را دیدم، اما آن‌چه معمولاً انتظار دارم (وقتی شکسته شد، ریتریسمنت عمیق‌تری از آن چیزی است که تو معامله کردی.
+
+اوه رفیق، سؤال‌های زیادی دارم....باید در اسکایپ یا جایی می‌پرسیدم...
+
+به‌هرحال، ممنون برای پاسخ‌های سریع Salivan.
+
+### salivan_p24_10
+EN: that Demand that i marked was a DP but not the important one . always
+look more left Micka and you will find all the answers i am sure
+
+price has a story , don't miss any word in it's story
+FA: آن تقاضایی که علامت زدم یک DP بود اما نه DP مهم. همیشه بیشتر به چپ نگاه کن Micka و مطمئنم همهٔ جواب‌ها را پیدا می‌کنی
+
+قیمت یک داستان دارد، هیچ واژه‌ای از داستانش را از دست نده
+
+### salivan_p24_11
+EN: salivan wrote: hiya ViTaLDRuG
+
+thanks brother but really i don't know how to do that
+
+No worries, here are the steps..
+
+1. Download the historic data as instructed in this video in "Live account". In Demo accounts they don't allow to download all the historic data at least for me. I don't know why.
+
+2. Then double-click on the chart type you want (1 Min, 15 M,... etc), then press "Export"
+
+3. Save the file with any name you like. This is the file containing the chart data in 2.
+
+4. Log in to the demo account Go to the history center. Select the
+currency pair and the chart type( as same as in 2) in demo account and
+import the saved file.
+
+5. At this time computer may look like stuck, but dont worry it will recover.
+
+6. Restart the MT4
+FA: salivan نوشت: سلام ViTaLDRuG
+
+ممنون برادر، اما واقعاً نمی‌دانم چطور این کار را بکنم
+
+نگران نباش، مراحلش این‌هاست..
+
+1. دادهٔ تاریخی را همان‌طور که در این ویدئو آموزش داده شده در «حساب Live» دانلود کن. در حساب‌های دمو اجازهٔ دانلود کل دادهٔ تاریخی را نمی‌دهند، حداقل به من که ندادند. نمی‌دانم چرا.
+
+2. بعد روی نوع نموداری که می‌خواهی دوبار کلیک کن (1 Min، 15 M،... و غیره)، بعد «Export» را بزن
+
+3. فایل را با هر نامی که دوست داری ذخیره کن. این همان فایلی است که دادهٔ نمودار مرحلهٔ 2 را دارد.
+
+4. وارد حساب دمو شو و به History center برو. جفت‌ارز و نوع نمودار را (همان‌طور که در مرحلهٔ 2 انتخاب کردی) در حساب دمو انتخاب کن و فایل ذخیره‌شده را ایمپورت کن.
+
+5. در این لحظه ممکن است کامپیوتر هنگ‌کرده به‌نظر برسد، اما نگران نباش، درست می‌شود.
+
+6. MT4 را دوباره اجرا کن.
+
+### salivan_p24_12
+EN: thank you brother
+FA: ممنون برادر
+
+### salivan_p24_13
+EN: Salivan,
+
+I did a M1 chart analysis for one of my recent trades. I couldnt do it
+before the trade. But just to see if it is correct or not, I tried it
+after the trade. Please see if it would be the same if you did it. The
+green line is the reaction in the present and I think it reacted to the
+red box.
+
+Thanks!
+FA: Salivan،
+
+برای یکی از معاملات اخیرم یک تحلیل روی نمودار M1 انجام دادم. قبل از معامله نتوانستم این کار را بکنم. اما فقط برای اینکه ببینم درست است یا نه، بعد از معامله امتحانش کردم. لطفاً ببین اگر تو هم انجامش می‌دادی همین می‌شد. خط سبز واکنش لحظهٔ حال است و فکر می‌کنم به باکس قرمز واکنش داد.
+
+ممنون!
+
+### salivan_p24_14
+EN: OK Folks , i am really tired and i think i need some times to be fresh
+ and relax , so hope you all do well in your trading as always , and i
+will be with you in few days .
+
+have a nice time all.
+
+see you soon guys
+FA: خوب دوستان، واقعاً خسته‌ام و فکر می‌کنم به کمی وقت نیاز دارم تا سرحال و آرام شوم؛ امیدوارم مثل همیشه در معامله‌گری‌تان موفق باشید و چند روز دیگر پیش شما برمی‌گردم.
+
+وقت خوشی داشته باشید همه.
+
+به‌زودی می‌بینمتان رفقا
+
+### salivan_p24_15
+EN: ViTaLDRuG wrote: Salivan,
+
+I did a M1 chart analysis for one of my recent trades. I couldnt do it
+before the trade. But just to see if it is correct or not, I tried it
+after the trade. Please see if it would be the same if you did it. The
+green line is the reaction in the present and I think it reacted to the
+red box.
+
+Thanks!
+
+ViTaLDRuG
+
+good work by you
+
+here is some note for you .
+
+Best regards
+FA: ViTaLDRuG نوشت: Salivan،
+
+برای یکی از معاملات اخیرم یک تحلیل روی نمودار M1 انجام دادم. قبل از معامله نتوانستم این کار را بکنم. اما فقط برای اینکه ببینم درست است یا نه، بعد از معامله امتحانش کردم. لطفاً ببین اگر تو هم انجامش می‌دادی همین می‌شد. خط سبز واکنش لحظهٔ حال است و فکر می‌کنم به باکس قرمز واکنش داد.
+
+ممنون!
+
+ViTaLDRuG
+
+کارت خوب بود
+
+این هم چند نکته برایت.
+
+با احترام
+
+### salivan_p24_16
+EN: Thanks Salivan.. Enjoy the break!
+FA: ممنون Salivan.. از تعطیلات لذت ببر!
+
+### salivan_p24_17
+EN: weekend HW
+
+regards
+
+Salivan
+FA: HW آخر هفته
+
+با احترام
+
+Salivan
+
+### salivan_p24_18
+EN: Hi salivan, I'm wondering why you consider it an engulf, see this chart:
+
+Is this not a valid tg?
+
+Or is it an engulf because you look for the origin of the move once an engulf happens?
+
+I tried to investigate that many times but I've found it more reliable
+to consider price moving from engulfed FL to just next FL and not the
+extreme (origin).
+
+Thanks for your view
+FA: سلام salivan، تعجب می‌کنم که چرا آن را اینگالف می‌دانی، این نمودار را ببین:
+
+آیا این یک TG معتبر نیست؟
+
+یا چون بعد از وقوع اینگالف دنبال اوریجین حرکت می‌گردی، اینگالف حسابش می‌کنی؟
+
+بارها سعی کردم این را بررسی کنم، اما برایم قابل‌اعتمادتر بوده که حرکت قیمت را از FL اینگالف‌شده تا FL بعدی در نظر بگیرم، نه تا اکستریم (اوریجین).
+
+ممنون از دیدگاهت
+
+### salivan_p24_19
+EN: Hiya brother
+
+this the reason of taking the target in that rectangle
+
+if there is any FL in the origin of the move very often absorb price as a
+ magnet if the major FL engulfed in the HTF scale. and also HTF analysis
+ will show us what is the intention of big guys for future .
+
+best regards
+
+Salivan
+FA: سلام برادر
+
+این دلیل گرفتن تارگت در آن مستطیل است
+
+اگر در اوریجین حرکت FL وجود داشته باشد، خیلی وقت‌ها وقتی FL اصلی در مقیاس HTF اینگالف شده، مثل آهن‌ربا قیمت را جذب می‌کند. و تحلیل HTF هم به ما نشان می‌دهد که قصد بزرگ‌ها برای آینده چیست.
+
+با احترام
+
+Salivan
+
+### salivan_p24_20
+EN: IMO,one thing that is important is this that in FLs we don't need
+momentum for having a pole , pole can be a PAZ also ,in fact we need
+opposite transaction of orders to be execute. in the logic of price
+movement , momentum = pole but not always pole=momentum .
+
+regards
+FA: به نظر من، یک نکتهٔ مهم این است که در FL‌ها برای ساختن قطب نیازی به مومنتوم نیست؛ قطب می‌تواند یک PAZ هم باشد. در واقع به اجرای سفارش‌های معکوس نیاز داریم. در منطق حرکت قیمت، مومنتوم همان قطب است، اما قطب همیشه مومنتوم نیست.
+
+با احترام
+
+### salivan_p24_21
+EN: Thanks, so they are FLs of different scale :)
+
+Mixing scales is still confusing to me sometimes.
+
+BTW weekly looks bearish to me, I can see price going higher to grab
+some orders (fresh MPLs), but I think there is still room down to better
+ targets?
+FA: ممنون، پس آن‌ها FL‌هایی با مقیاس متفاوت‌اند :)
+
+قاطی کردن مقیاس‌ها هنوز بعضی وقت‌ها گیجم می‌کند.
+
+راستی، تایم‌فریم هفتگی به نظرم نزولی است؛ می‌بینم که قیمت بالاتر می‌رود تا چند سفارش (MPL‌های تازه) را بگیرد، اما فکر می‌کنم هنوز جا برای پایین رفتن تا تارگت‌های بهتر وجود دارد؟
+
+### salivan_p24_22
+EN: about FLs i am trying in it to find what is behind them and also
+working in different scales of FL . i think LQ has a big relationship
+with FLs. and i have had good Eureka moments in this .
+
+here is what i see :
+
+regards
+
+Salivan
+FA: دربارهٔ FL‌ها سعی می‌کنم بفهمم چه چیزی پشتشان است و روی مقیاس‌های مختلف FL هم کار می‌کنم. فکر می‌کنم LQ رابطهٔ بزرگی با FL‌ها دارد و در این کار لحظه‌های آهای خوبی داشته‌ام.
+
+این هم چیزی که می‌بینم:
+
+با احترام
+
+Salivan
+
+### salivan_p24_23
+EN: hey guys
+
+really interesting discussion and analysis on AUDCAD, i liked to post my view too
+
+so here you go:
+
+Best regards
+
+omidFxt
+FA: سلام بچه‌ها
+
+بحث و تحلیل روی AUDCAD واقعاً جالب بود، من هم دوست داشتم دیدگاهم را بگذارم
+
+پس بفرمایید:
+
+با احترام
+
+omidFxt
+
+### salivan_p24_24
+EN: thanks Omid for joining us . and thanks Jurij for start this discussion
+FA: ممنون Omid که به ما پیوستی، و ممنون Jurij که این بحث را شروع کردی
+
+### salivan_p24_25
+EN: Did you guys see, in AUDCAD, how aggressively ITs were buying at BRN
+1.00000 ? more than 100 pips in 1 hr.. and also near 1.01000
+FA: بچه‌ها دیدید در AUDCAD، IT‌ها چقدر تهاجمی روی BRN 1.00000 می‌خریدند؟ بیش از 100 پیپ در 1 ساعت.. و همچنین نزدیک 1.01000

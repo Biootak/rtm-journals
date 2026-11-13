@@ -1,0 +1,224 @@
+### dbrrbd_p5_101 hash=899f3cb930fcef61f35b624a03b1ebdb3b6d91bc
+EN>>
+Q: how many candle needed to make it a base?
+
+A: Don't get too hung up on the candle count. Focus more on how the price moved away from the level. You want to see a violent burst of liquidity (pole) coming out of the level.
+FA>>
+س: چند کندل لازم است تا یک بیس شکل بگیرد؟
+
+ج: زیاد روی تعداد کندل‌ها حساس نشو. بیشتر به نحوهٔ دورشدن قیمت از سطح توجه کن. باید خروج انفجاری و شدید نقدینگی (pole) از سطح را ببینی.
+
+### dbrrbd_p5_102 hash=89ca7ff8a939ded6ddfc8f909198b6eaaa26f04e
+EN>>
+Tyoon wrote: I think what you were marking were not bases but reactions.
+
+Given what you said above I have this question now:
+
+Are these bases not to be considered as such but as reactions to previous zone? If not, how do I catalogue them? How can I use them?
+FA>>
+Tyoon نوشت: به نظر من چیزی که علامت می‌زدی پایه نبود، واکنش بود.
+
+با توجه به چیزی که بالا گفتی، حالا این سؤال را دارم:
+
+آیا این‌ها را نباید پایه حساب کرد بلکه واکنش به ناحیهٔ قبلی‌اند؟ اگر نه، چطور دسته‌بندی‌شان کنم؟ چطور می‌توانم از آن‌ها استفاده کنم؟
+
+### dbrrbd_p5_103 hash=a29594a3664925654e3c62818a7f40c7f06440a2
+EN>>
+04 of 20
+FA>>
+04 از 20
+
+### dbrrbd_p5_104 hash=dc6fd361d38049acd66de112e3e14ed2d6f5b7fc
+EN>>
+Every DBR and RBD has its own importance and value, and nearly every one can be traded. For each one that you find, zoom out to the HTFs, and see what historical significance the decision point has. Perhaps it's a failure to get back into an important PA Zone - these ones are special. Perhaps it's within an HTF compression zone to the left - ask yourself would you take this trade, or wait for the tip of the zone?
+
+The bigger picture will always help you decide on the significance of a DBR/RBD
+FA>>
+هر DBR و RBD اهمیت و ارزش خودش را دارد و تقریباً همه‌شان قابل معامله‌اند. برای هر کدام که پیدا می‌کنی، در تایم‌فریم‌های بالاتر نمای بازتری را ببین و بررسی کن این نقطهٔ تصمیم در سابقهٔ قیمت چه اهمیتی دارد. شاید تلاشی ناموفق برای ورود دوباره به یک ناحیهٔ مهم PA باشد — این موارد ویژه‌اند. شاید داخل ناحیهٔ فشردگی قیمت در تایم‌فریم بالاتر، در سمت چپ چارت باشد — از خودت بپرس آیا این معامله را می‌گیری یا منتظر نوک ناحیه می‌مانی؟
+
+تصویر بزرگ‌تر همیشه کمکت می‌کند اهمیت یک DBR/RBD را تشخیص بدهی
+
+### dbrrbd_p5_105 hash=81c118a0a912d74063d1be5dad7080167b3eae79
+EN>>
+hornet wrote: Are these bases not to be considered as such but as reactions to previous zone? If not, how do I catalogue them? How can I use them?
+
+Sorry I did not reply earlier. Yes what you have shown there is stacked demand. The base is easily seen on the 4h. The base was created in reaction to a support level IMO.
+FA>>
+hornet نوشت: آیا این‌ها را نباید پایه حساب کرد بلکه واکنش به ناحیهٔ قبلی‌اند؟ اگر نه، چطور دسته‌بندی‌شان کنم؟ چطور می‌توانم از آن‌ها استفاده کنم؟
+
+ببخشید که زودتر جواب ندادم. بله، آنچه نشان دادی تقاضای روی‌هم‌انباشته است. این بیس در 4h به‌راحتی دیده می‌شود. به نظر من، بیس در واکنش به یک سطح حمایت شکل گرفته است.
+
+### dbrrbd_p5_106 hash=deea6dd023b6c4be8442b173aed3ce031fbd2a54
+EN>>
+Question - A Valid RBD
+FA>>
+سؤال - یک RBD معتبر
+
+### dbrrbd_p5_107 hash=e84cc3b543eee319ef75c72ea6d7d0cef2e3cc7d
+EN>>
+justinforex wrote: Question - A Valid RBD
+
+It does not have to break the previous H/L to become a valid base.
+
+What defines a base it that price moves up or down, bases (consolidates, congests, clusters, ect) then moves again either up or down.
+
+Here are the variations. The standard DBD and RBR then the RBR and DBD then RBD during downtrend and DBR during uptrend.
+
+Hopefully this could give you a better understanding. However as you have alluded to, H/L or S/R levels are almost always an intrinsic part to the development of any base. If you can find the levels responsible for the bases it can give you a much holistic picture on the chart.
+FA>>
+justinforex نوشت: سؤال - یک RBD معتبر
+
+لازم نیست سقف/کف قبلی را بشکند تا پایهٔ معتبری شود.
+
+چیزی که پایه را تعریف می‌کند این است که قیمت بالا یا پایین می‌رود، پایه می‌زند (تثبیت، تراکم، خوشه‌شدن و از این قبیل) و بعد دوباره بالا یا پایین می‌رود.
+
+تنوع‌ها این‌هاست. اول DBD و RBR استاندارد، بعد RBR و DBD، بعد RBD در روند نزولی و DBR در روند صعودی.
+
+امیدوارم این به فهم بهترت کمک کند. با این حال، همان‌طور که خودت هم اشاره کردی، سطوح سقف/کف یا حمایت/مقاومت تقریباً همیشه بخش ذاتی شکل‌گیری هر پایه‌ای هستند. اگر بتوانی سطوحی را که مسئول آن پایه‌ها بوده‌اند پیدا کنی، تصویر کامل‌تری از چارت به دست می‌آوری.
+
+### dbrrbd_p5_108 hash=6e0d94377f610416df45ca6390c8cd659981ef47
+EN>>
+The two charts on the right, in HTF, can often look just like the two charts on the left. It's worth looking into these on your charts, and finding out which tend to perform better on price return - drop/consolidation/drops or drop/RBD/Drops, and the same for rallies
+FA>>
+دو چارت سمت راست در تایم‌فریم بالاتر، اغلب می‌توانند دقیقاً شبیه دو چارت سمت چپ به نظر برسند. ارزش دارد این‌ها را روی چارت‌های خودت بررسی کنی و ببینی کدام‌یک معمولاً هنگام بازگشت قیمت بهتر عمل می‌کند — نزول/تثبیت/نزول یا نزول/RBD/نزول؛ همین مقایسه را برای حرکت‌های صعودی هم انجام بده
+
+### dbrrbd_p5_109 hash=d992128b9125e5b70bb4768a600b3691aa5283ea
+EN>>
+Hi guys,
+
+These are my attempt on identifying these patterns. I know there's a lot more of these patterns that I didnt mark on the chart, I'm just taking the obvious one.
+
+All feedback are welcomed, thank you.
+FA>>
+سلام به همه،
+
+این‌ها تلاش من برای شناسایی این الگوهاست. می‌دانم الگوهای خیلی بیشتری روی چارت هست که علامت نزدم؛ فقط واضح‌ترین‌ها را برداشته‌ام.
+
+از هر بازخوردی استقبال می‌کنم، ممنون.
+
+### dbrrbd_p5_110 hash=7e7e767e515f3d3503ba3d6a6ffdf49d5daddacf
+EN>>
+wow, you are blessed whit the "IF candles"
+
+Anyway, good job. But when a zone looks messy, go down into LTF and draw some line, you can be surprised. in the chart the LTF of the first 2 on your chart [the spike probably is a news spike]
+FA>>
+وای، چه خوش‌شانسی که "کندل‌های IF" نصیبت شده
+
+به‌هرحال، کارت خوب است. اما وقتی ناحیه‌ای شلوغ به نظر می‌رسد، به تایم‌فریم پایین‌تر برو و چند خط بکش؛ ممکن است غافلگیر شوی. در این چارت، نمای تایم‌فریم پایین‌ترِ 2 مورد اول چارتت [آن اسپایک احتمالاً اسپایک ناشی از خبر است]
+
+### dbrrbd_p5_111 hash=3a6075fef5cfb06d18f0d973c414a30888c83225
+EN>>
+Hi Guys,
+
+RBD & DBR for review. Appreciating your help. Thank you in advance.
+
+R.
+FA>>
+سلام به همه،
+
+RBD و DBR برای بررسی. از کمکتان ممنونم. پیشاپیش سپاسگزارم.
+
+R.
+
+### dbrrbd_p5_112 hash=34efe3efac8ef3db8a97fa4a728e3611f3e45123
+EN>>
+i think i hav better understanding now. thans for the explaination.
+
+wil try do more practice to improve.
+FA>>
+فکر می‌کنم حالا درک بهتری دارم. ممنون از توضیحت.
+
+سعی می‌کنم بیشتر تمرین کنم تا بهتر شوم.
+
+### dbrrbd_p5_113 hash=eb04ec1542581a31ff5524178a426784a636f855
+EN>>
+05 of 20
+FA>>
+05 از 20
+
+### dbrrbd_p5_114 hash=3699d10a4dc75d122a37e0cf4114542e7312de40
+EN>>
+Hi Hornet,
+
+I notted different things on your 4th Chart. Let me know if you need more explaination. Best, Mel
+FA>>
+سلام Hornet،
+
+روی چارت 4 تو موارد متفاوتی را مشخص کردم. اگر توضیح بیشتری خواستی بگو. با بهترین آرزوها، Mel
+
+### dbrrbd_p5_115 hash=0ec1d7db958fdd052d813133be54d76ddab1f9a9
+EN>>
+06 OF 20
+FA>>
+06 از 20
+
+### dbrrbd_p5_116 hash=166a5b1b65eebccb18625f4dff27340db0757dd5
+EN>>
+AUDUSD M15
+
+USDCAD m15
+FA>>
+AUDUSD M15
+
+USDCAD m15
+
+### dbrrbd_p5_117 hash=dc4bc72b1c9ee52d85c14e4ae8789ef9426caef8
+EN>>
+EURUSD m30:
+FA>>
+EURUSD m30:
+
+### dbrrbd_p5_119 hash=2408d63421011789c57cd934b3e92f8a05b19506
+EN>>
+07 of 20
+FA>>
+07 از 20
+
+### dbrrbd_p5_120 hash=485b5929e9e82cdbe85d6bbee6be72df10b1f536
+EN>>
+@mel wrote: Hi Hornet,
+
+I notted different things on your 4th Chart. Let me know if you need more explaination. Best, Mel
+
+Hi Mel,
+
+all is well. I understand your points and agree with them. Thanks for taking the time.
+
+Michael
+FA>>
+@mel نوشت: سلام Hornet،
+
+روی چارت 4 تو موارد متفاوتی را مشخص کردم. اگر توضیح بیشتری خواستی بگو. با بهترین آرزوها، Mel
+
+سلام Mel،
+
+همه‌چیز خوب است. نکته‌هایت را می‌فهمم و قبول دارم. ممنون که وقت گذاشتی.
+
+Michael
+
+### dbrrbd_p5_121 hash=60f5f9e351fc2b08e30474de61f192ac5c51e4ff
+EN>>
+Neopips wrote: EURUSD m30:
+
+that is a great chart!!!
+FA>>
+Neopips نوشت: EURUSD m30:
+
+این چارت عالی است!!!
+
+### dbrrbd_p5_122 hash=a4aa0afd3ef0573b8249b8727424ed0689d4516a
+EN>>
+Sorry just seeing this I will consult my notes and advise getting ready for school right now
+FA>>
+ببخشید، تازه این را دیدم؛ یادداشت‌هایم را بررسی می‌کنم و راهنمایی‌ات می‌کنم. الان دارم برای رفتن به مدرسه آماده می‌شوم
+
+### dbrrbd_p5_125 hash=2d783cab469aa94730f2de30f62a68f215a0b84a
+EN>>
+Hi,
+
+Here is a small selection of homework pieces. Any feedback, particularly the final image of the RBD in a downtrend would be appreciated:)
+FA>>
+سلام،
+
+این‌ها گزیدهٔ کوچکی از تکالیف است. هر بازخوردی، مخصوصاً دربارهٔ تصویر آخر یعنی RBD در روند نزولی، باعث خوشحالی‌ام می‌شود:)
+

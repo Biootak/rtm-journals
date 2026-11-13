@@ -1,0 +1,16 @@
+{
+ "rinehartfl": {
+  "pages": 21,
+  "checked": 4,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T02:36:04"
+ },
+ "in2forex": {
+  "pages": 350,
+  "checked": 169,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T02:36:06"
+ }
+}

@@ -1,0 +1,340 @@
+### if_p75_1
+EN: Note QM level overlaps the first FTR on the way down, which is the
+result of price engulfing the FTR on the way up (the first high).
+FA: توجه کن که سطح QM با اولین FTR در مسیر پایین هم‌پوشانی دارد، که حاصل اینگالف کردن FTR توسط قیمت در مسیر بالا است (همان سقف اول).
+
+### if_p75_2
+EN: Kanzler wrote:
+
+Note QM level overlaps the first FTR on the way down, which is the
+result of price engulfing the FTR on the way up (the first high).
+
+In that case, I see this zone in D1: and an entry in LTF.
+
+But I can't see a reason for that particular entry in D1.
+FA: Kanzler نوشت:
+
+توجه کن که سطح QM با اولین FTR در مسیر پایین هم‌پوشانی دارد، که حاصل اینگالف کردن FTR توسط قیمت در مسیر بالا است (همان سقف اول).
+
+در آن صورت، من این ناحیه را در D1 می‌بینم: و یک ورود در LTF.
+
+ولی دلیلی برای آن ورود خاص در D1 نمی‌بینم.
+
+### if_p75_3
+EN: Yes that's the overlapping FTR/QM level you highlighted. IF didn't
+enter solely based on the daily chart, he refined it by looking at the
+lower time frames and found another QM setup which provided an even
+better, lower risk opportunity (per my understanding). Did that help
+clarify any or still clear as mud?
+FA: بله، همان سطح هم‌پوشان FTR/QM است که برجسته کردی. IF فقط بر اساس نمودار دیلی وارد نشد؛ با نگاه به تایم‌فریم‌های پایین‌تر آن را دقیق‌تر کرد و ستاپ QM دیگری پیدا کرد که فرصت حتی بهتر و کم‌ریسک‌تری می‌داد (طبق فهم من). این چیزی را روشن کرد یا هنوز هم مثل شب تار است؟
+
+### if_p75_4
+EN: It's come to my attention that RTM material is being sold in Malaysia, very expensively!
+
+Please don't let your friends pay for what's been handed out for free. It's too wrong for words!
+
+I had thought that there was a community there, working together. I did
+not know that it's just a few trying to get rich from the hopes and
+fears of the many
+
+Please tell me what is the truth
+FA: توجه‌ام جلب شده که مطالب RTM در مالزی خیلی گران فروخته می‌شود!
+
+لطفاً نگذارید دوستانتان برای چیزی پول بدهند که مجانی پخش شده است. این کار از هر نظر غلط است!
+
+فکر می‌کردم آنجا جامعه‌ای هست که با هم کار می‌کنند. نمی‌دانستم فقط چند نفرند که می‌خواهند از امیدها و ترس‌های بسیاری پول دربیاورند
+
+لطفاً بگویید حقیقت چیست
+
+### if_p75_5
+EN: I am sorry to hear that material here selling in Malaysia for a lot of $$.
+FA: متأسفم که می‌شنوم مطالب اینجا در مالزی به قیمت زیادی فروخته می‌شود.
+
+### if_p75_6
+EN: I'm very sorry to hear that, but not surprised. There are greedy
+people everywhere who just don't care and will always be on the lookout
+for number one exclusively. If you find out who is selling material I
+hope you sue them. I know it must have taken an amazing amount of effort
+ to compile what you've learned over the years into terms others can
+more easily understand esp. from RedSword's thread which would take me a
+ year to read through!
+
+As for our community, it's waned a little in the last year but I for one
+ am now trying to pay my dues back and renew activity at RTM. We have a
+great group of people who are lurking and all it takes is a little
+nurturing to get new members up to speed as well so we can continue to
+learn from one another and teach as we learn. My personal goal is to at
+least tackle a couple of questions a day.
+FA: خیلی متأسفم که این را می‌شنوم، ولی تعجب نمی‌کنم. همه‌جا آدم‌های طمعکاری هستند که اصلاً اهمیت نمی‌دهند و همیشه فقط دنبال شمارهٔ یک خودشان هستند. اگر بفهمی چه کسی مطالب را می‌فروشد امیدوارم شکایتش کنی. می‌دانم که حتماً تلاش فوق‌العاده‌ای برده تا آنچه در این سال‌ها یاد گرفته‌ای را به زبانی درآوری که دیگران راحت‌تر بفهمند، مخصوصاً از تاپیک RedSword که خواندنش یک سال وقتم را می‌گرفت!
+
+دربارهٔ جامعهٔ ما، در سال گذشته کمی افت کرده، ولی من خودم حالا سعی می‌کنم دینم را ادا کنم و فعالیت را در RTM زنده کنم. گروه عالی‌ای از آدم‌ها داریم که فقط خوانندهٔ خاموش‌اند و کمی پروراندن کافی است تا اعضای تازه هم به سرعت راه بیفتند، تا بتوانیم از هم یاد بگیریم و همراه با یادگیری، یاد بدهیم. هدف شخصی من این است که دست‌کم روزی چند سؤال را جواب بدهم.
+
+### if_p75_7
+EN: Hello Boss IF, Kanzler, crew
+
+reading through the recent topics ( i am in the phase to go through
+again RTM, wanting to lay a wider/thicker portion of the puzzle here
+spreaded....at any further reading i find new pieces to add, easily and
+unavoidably....wow, whenever it repeats, it seems to be a neverending
+process....) i noticed your posts about RTM for sale in Malaysia.
+
+I think any hypothetical set commercially attractive (...let's say
+complete, organised, worth...) would require a much heavy editing work,
+so that one can expect somebody tries to sell "something" collected from
+ the net, as well as very unlikely anybody else, having just a look,
+would think to buy the helpful SD trading bible by RTM...
+
+also: this material is well known because of this website...and in Far
+East people are usually skilled much more than enough for going through
+the net.
+
+...by the way any simple attempt like this is disgusting.
+
+...and let's consider also that the necessary catalyst pushing the " ah
+ah " reaction would be missed: live reviews, live comments, live posts
+by the highest levels. These are the compass and gps of the puzzle, the
+sparks of the learning process.
+
+all the best
+FA: سلام رئیس IF، Kanzler، خدمه
+
+در حال مرور تاپیک‌های اخیر (در آن مرحله‌ام که دوباره RTM را از سر بگذرانم و می‌خواهم تکهٔ بزرگ‌تر و ضخیم‌تری از پازل را که اینجا پخش شده کنار هم بگذارم.... با هر مطالعهٔ بیشتر، تکه‌های تازه‌ای برای اضافه کردن پیدا می‌کنم، راحت و ناگزیر.... وای، هر وقت تکرار می‌شود، انگار فرایندی بی‌پایان است....) پست‌هایت را دربارهٔ فروش RTM در مالزی دیدم.
+
+فکر می‌کنم هر مجموعهٔ فرضی که از نظر تجاری جذاب باشد (...بگوییم کامل، منظم، ارزشمند...) به ویرایش خیلی سنگینی نیاز دارد، پس می‌شود انتظار داشت کسی تلاش کند «چیزی» را که از اینترنت جمع شده بفروشد، و هم بعید است کسی با یک نگاه به فکر خرید انجیل معاملاتی S/D و سودمند RTM بیفتد...
+
+همچنین: این مطالب به‌خاطر همین وب‌سایت شناخته شده است... و در شرق دور مردم معمولاً بیش از اندازهٔ کافی مهارت گشتن در اینترنت را دارند.
+
+...راستی، هر تلاش ساده‌ای از این جنس چندش‌آور است.
+
+...و در نظر بگیر که کاتالیزور لازم برای ایجاد واکنش «آها» از دست می‌رفت: بررسی‌های زنده، کامنت‌های زنده، پست‌های زنده از بالاترین سطوح. این‌ها قطب‌نما و GPS پازل‌اند، جرقه‌های فرایند یادگیری.
+
+بهترین‌ها
+
+### if_p75_8
+EN: Guys this is great place for learning. I have been trying this for
+last 2 years. But i kind of think i overdraw the FLs. I can't help it.
+once i draw , everywhere is boxes . price always reaches the boxes. Very
+ rare i mean very very rare to get engulf. Im not sure what i can do
+about it. After doing this with hope for 2 years, I'm now in a hopeless
+mode.hit rate is lesser than 50%. Eng fails often Please help .
+
+for example i have shown 2 charts i don't understand why AU failed. Also i don't understand why UJ failed.
+FA: بچه‌ها اینجا جای عالی‌ای برای یادگیری است. دو سال است دارم این را امتحان می‌کنم. ولی فکر می‌کنم FLها را بیش از حد می‌کشم. نمی‌توانم جلوی خودم را بگیرم. وقتی می‌کشم، همه‌جا باکس است. قیمت همیشه به باکس‌ها می‌رسد. خیلی نادر، یعنی خیلی خیلی نادر، اینگالف گیرم می‌آید. مطمئن نیستم چه کار می‌توانم بکنم. بعد از دو سال امیدوار بودن، حالا در حالت ناامیدی‌ام. نرخ برد کمتر از 50% است. اینگالف‌ها زیاد شکست می‌خورند، لطفاً کمک کنید.
+
+مثلاً دو نمودار نشان داده‌ام، نمی‌فهمم چرا AU شکست خورد. همچنین نمی‌فهمم چرا UJ شکست خورد.
+
+### if_p75_9
+EN: IF, I hope you don't mind if I give this a try.
+
+Shinobi, this is how I see it, could be wrong, but good opportunity to study these setups so we can learn something new
+
+AUDUSD
+
+Also a nice stop hunt
+
+USDJPY
+FA: IF، امیدوارم بدت نیاید اگر من هم امتحانش کنم.
+
+Shinobi، من این‌طور می‌بینم، ممکن است اشتباه باشد، ولی فرصت خوبی است برای مطالعهٔ این ستاپ‌ها تا چیز تازه‌ای یاد بگیریم
+
+AUDUSD
+
+و یک شکار استاپ‌لاس قشنگ هم هست
+
+USDJPY
+
+### if_p75_10
+EN: Hi Jurji,
+
+Thanks . But for me it looks like adjusting the reason for failure.
+There seems many issues. For example, pls look at my day failure trade
+in AudCAd . Do you see any reason ?.
+
+No offence IF master. Lam trying to study what i am missing. Perfectly fine trades fails . This is why i am depressed.
+FA: سلام Jurji،
+
+ممنون. ولی برای من شبیه توجیه دلیل شکست است. مشکلات زیادی به نظر می‌رسد. مثلاً لطفاً به معاملهٔ شکست امروزم در AudCAd نگاه کن. دلیلی می‌بینی؟
+
+جسارت نشه استاد IF. دارم تلاش می‌کنم بفهمم چه چیزی را جا انداخته‌ام. معاملات کاملاً درست هم شکست می‌خورند. به همین دلیل افسرده‌ام.
+
+### if_p75_11
+EN: Hey bud, just remember, the market doesn't make it easy to figure out
+what its doing. There are so many factors when you look at a chart,
+between all the different TFs, that you have to look at the whole
+picture to get a better sense of what price is trying to do. In this
+sense, the difficulty presents an opportunity for you, a barrier of
+entry that pays for your winning trades. You really do need months, or
+possibility years of screen time to get a 'feel' for it all. Using
+Forex Trader will expedite that process.
+
+Now without seeing the HTFs, and looking at just the 5m AUDCAD chart, to
+ me it looks like price is weakening, rather than an opportunity for
+entry. There are a number of things going against the trade, but the
+big ones I see is the engulf you used as an entry wasn't particularly
+important, and you see price is moving to LLs and LHs. It looks like
+you also TT this one, which inherently will give you lower winning
+percentages, but higher RR.
+
+Hope that helps.
+FA: سلام رفیق، فقط یادت باشد بازار کاری نمی‌کند که فهمیدنش راحت باشد. وقتی به نمودار نگاه می‌کنی، بین همهٔ تایم‌فریم‌های مختلف، این‌قدر عامل هست که باید کل تصویر را ببینی تا بهتر حس کنی قیمت چه می‌خواهد بکند. از این جهت، سختی برای تو یک فرصت است، یک سد ورود که بهایش را از معاملات برنده‌ات می‌گیری. واقعاً ماه‌ها، یا شاید سال‌ها، زمان نگاه کردن به نمودار لازم داری تا «حسش» بیاید. استفاده از Forex Trader این فرایند را تسریع می‌کند.
+
+حالا بدون دیدن HTFها، و فقط با نگاه به نمودار 5 دقیقهٔ AUDCAD، برای من بیشتر شبیه ضعیف شدن قیمت است تا فرصت ورود. چند چیز علیه این معامله است، ولی چیزهای بزرگی که می‌بینم این است که اینگالفی که به‌عنوان ورود استفاده کردی چندان مهم نبود، و می‌بینی قیمت دارد به کف‌های پایین‌تر و سقف‌های پایین‌تر می‌رود. به نظر می‌رسد این یکی را TT هم زده‌ای، که ذاتاً درصد برد پایین‌تر ولی RR بالاتری می‌دهد.
+
+امیدوارم کمک کند.
+
+### if_p75_12
+EN: I Have 7 years screen time. Every time frame / scale has its own tg. I
+ might have missed something that IF can point out. Thats all i need.
+FA: هفت سال زمان نگاه کردن به نمودار دارم. هر تایم‌فریم / مقیاس تارگت خودش را دارد. شاید چیزی را از دست داده باشم که IF بتواند نشانش بدهد. همین را لازم دارم.
+
+### if_p75_13
+EN: Hope this is a run.
+FA: امیدوارم این یکی راه بیفتد.
+
+### if_p75_14
+EN: well, good luck to you then
+FA: خب، پس موفق باشی
+
+### if_p75_15
+EN: I would be looking for buy entries... even though that short could work but I don't see it going to your TP.
+FA: من دنبال ورودهای خرید می‌گشتم... حتی با اینکه آن فروش می‌توانست جواب بدهد، ولی نمی‌بینم به TP تو برسد.
+
+### if_p75_16
+EN: Shinobi wrote: Hope this is a run.
+
+Hi Shinobi.
+
+I think your best bet would have been a trade FTB to the flag after the
+engulf and then go for the 1 min flag in the 15 min pole.
+
+Regards,
+
+Hans GL
+
+.
+FA: Shinobi نوشت: امیدوارم این یکی راه بیفتد.
+
+سلام Shinobi.
+
+فکر می‌کنم بهترین گزینه‌ات معاملهٔ FTB به پرچم بعد از اینگالف بود و بعد رفتن سراغ پرچم 1 دقیقه‌ای در میلهٔ 15 دقیقه‌ای.
+
+با احترام،
+
+Hans GL
+
+۔
+
+### if_p75_17
+EN: Failed anyway.
+FA: به هر حال شکست خورد.
+
+### if_p75_18
+EN: I just made a trade call, i was wondering how off I'm in this.
+
+sometimes i see something, but I didnt yet figured out how really zones interact
+
+aaaaand I'm out
+FA: تازه یک کال معاملاتی دادم، می‌خواستم بدانم چقدر بیراهه‌ام در این.
+
+گاهی چیزی می‌بینم، ولی هنوز نفهمیده‌ام نواحی واقعاً چطور با هم تعامل می‌کنند
+
+و یهو.... بیرون هستم
+
+### if_p75_19
+EN: IF i've been a silent reader, but i look at all of your post in FF and RTM..
+
+i was also following the PIE, after learning and research all about
+price behavior.. ive found my own strategy base on your price analysis..
+
+i wanna say thankyou IF.. i know many ppl dont believe you.. its because
+ they dont understand.. (at 1st, i also dont believe how to get trade at
+ extreme higher or lowest price like you did)
+
+but after i give more time to learn, finally there's a lil bit understanding..
+
+here's a trade i take for today at cable
+FA: IF من خوانندهٔ خاموش بوده‌ام، ولی همهٔ پست‌هایت را در FF و RTM نگاه کرده‌ام..
+
+داشتم PIE را هم دنبال می‌کردم، بعد از یادگیری و پژوهش دربارهٔ رفتار قیمت.. استراتژی خودم را بر پایهٔ تحلیل قیمت تو پیدا کرده‌ام..
+
+می‌خواهم بگویم ممنون IF.. می‌دانم خیلی‌ها باورت نمی‌کنند.. چون نمی‌فهمند.. (اولش، من هم باور نمی‌کردم چطور می‌شود در بالاترین یا پایین‌ترین قیمت ممکن، مثل تو معامله کرد)
+
+ولی بعد از اینکه وقت بیشتری برای یادگیری گذاشتم، بالاخره کمی فهمیدم..
+
+این معامله‌ای است که امروز در cable گرفتم
+
+### if_p75_20
+EN: Hello IF,
+
+How are you recently? I hope everything go well at your side. IF, If
+you have time and willing to, could you please enlighten me why is this
+trade failing?
+
+Thank you.
+FA: سلام IF،
+
+این روزها چطوری؟ امیدوارم همه‌چیز از طرف تو خوب پیش برود. IF، اگر وقت داری و مایل باشی، می‌شود روشنم کنی چرا این معامله شکست می‌خورد؟
+
+ممنون.
+
+### if_p75_21
+EN: gristar wrote: Hello IF,
+
+How are you recently? I hope everything go well at your side. IF, If
+you have time and willing to, could you please enlighten me why is this
+trade failing?
+
+Thank you.
+
+Just my view in HTF;
+FA: gristar نوشت: سلام IF،
+
+این روزها چطوری؟ امیدوارم همه‌چیز از طرف تو خوب پیش برود. IF، اگر وقت داری و مایل باشی، می‌شود روشنم کنی چرا این معامله شکست می‌خورد؟
+
+ممنون.
+
+فقط دیدگاه من در HTF;
+
+### if_p75_22
+EN: Hiya
+
+You've drawn one big cp there, instead of the two which are really there.
+
+It's no setup at all
+FA: سلام
+
+اینجا یک CP بزرگ کشیده‌ای، به‌جای دو CPی که واقعاً آنجاست.
+
+هیچ ستاپی نیست
+
+### if_p75_23
+EN: Dear IF
+
+I have some questions which i would appreciate if you can kindly help to enlighten me on this CP issue.
+
+Thank you.
+
+Ifmyante wrote: Hiya
+
+You've drawn one big cp there, instead of the two which are really there.
+
+It's no setup at all
+FA: IF عزیز
+
+چند سؤال دارم که ممنون می‌شوم اگر لطف کنی و دربارهٔ این موضوع CP روشنم کنی.
+
+ممنون.
+
+Ifmyante نوشت: سلام
+
+اینجا یک CP بزرگ کشیده‌ای، به‌جای دو CPی که واقعاً آنجاست.
+
+هیچ ستاپی نیست
+
+### if_p75_24
+EN: .
+FA: ۔
+
+### if_p75_25
+EN: If would this quality as FTR?
+FA: IF، این می‌تواند FTR حساب شود؟

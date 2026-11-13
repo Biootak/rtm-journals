@@ -1,0 +1,410 @@
+### engulf_p1_3 hash=3df17449a36a21bde6309e04fc15257dd40bb1bf | quote heads 1 wrote: / 0 نوشت:
+paras en/fa: 2/2 | echo bigram: ""
+lex.audit: 
+---FA---
+Hotochin wrote: در سطح بالاتر، چطور می‌دانستی قیمت قرار است به سطح QM retest بدهد؟ بعد از شکست تقاضا اول و دوم فکر می‌کردم قطعاً قیمت آن‌قدر بالا نمی‌رود.
+
+نمی‌دانی، اما خیلی اوقات همین‌طور retest می‌دهد
+---EN---
+Hotochin wrote: In the upper level, how would you know that price was going to retrace to a QM level? After breaking the first and second demand I would have thought for sure that price would not make it up that far.
+
+you dont, but it very often does retrace
+### engulf_p1_5 hash=4e65487a1dca5a115bbd5ef2bb3a6026d4502308 | quote heads 1 wrote: / 0 نوشت:
+paras en/fa: 3/3 | echo bigram: "اول اینگالف"
+lex.audit: echo
+---FA---
+Mike1 wrote: در عکس دوم، جهش وسط TL سبز بر اساس LL اول هم اینگالف حساب نمی‌شد؟ ممنون!
+
+چون چه چیزی را اینگالف کرد؟ قطعاً کف اول را اینگالف نکرده
+
+شاید یک عکس بکشی تا بفهمیم چه می‌گویی اینجا
+---EN---
+Mike1 wrote: In the second picture, wouldn't the spike in the middle of the green TL be considered an engulf too based on the first LL? Thanks!
+
+because it engulfed what? certainly doesnt engulf the first low
+
+maybe draw a picture so we can understand what you say here
+### engulf_p1_7 hash=98c2b3d732cbe9aaf842a97a46f5755ab32ba857 | quote heads 1 wrote: / 0 نوشت:
+paras en/fa: 2/2 | echo bigram: "دنبال اینگالف"
+lex.audit: 
+---FA---
+Mike1 wrote: تصورم این بود که وقتی دنبال اینگالف می‌گردیم، باید ببینیم قیمت cluster/پرچم را که در نواحی عرضه/تقاضا شکل می‌گیرد می‌شکند، در این مورد base پرچم را. در ترد PIE حتی فکر می‌کنم ارجاع‌هایی به تغییر شتاب یا اینکه قیمت باید فراتر از cluster هم بسته شود دیدم. پس روشن کردن این برایم خیلی مهم است. اینجا فکر کردم چیز جدیدی پیدا کردم، اینکه "اگر از عرضه یک Lower کف بگیری، اولین نشانهٔ عالی است که شاید روند صعودی تمام شده". پس در آن عکس، بعد از base پرچم، 3 تا higher کف هست و بعد یک lower کف که وسط trendline سبز را جهش می‌کند و 2 higher کف قبلی را اینگالف کرد (ببخشید الان نمی‌توانم عکس اضافه کنم). بر اساس آن، باید اینگالف sign حساب شود. اما به نظر می‌رسد اشتباه می‌کنم و در واقع باید دنبال اینگالف شدن cluster/پرچم باشیم?! لطفاً توضیح بده. خیلی ممنون!
+
+- داری سعی می‌کنی این حرکت را بدون مهم‌ترین نکتهٔ پرچم که همان "FL" است توضیح بدهی؛ امیدوارم عکس زیر کمی کمک کند. - در PIE و اینجا ما عاشق چارتیم، کمک می‌کند پاسخ بهتری بگیریم و در بعضی موارد اصلاً پاسخی؛ پس ازشان استفاده کن - اگر علاقه‌مندی چند تحقیق برایت گذاشتم
+---EN---
+Mike1 wrote: I was under the impression that when we look for engulfs, we need to see price breaking over the cluster/flag that forms at the S/D zones, in this case the base of the flag. In the PIE thread I even saw I think references to momentum changes or that price needs to close also beyond the cluster. So clearing this up will be very important for me. Here I thought I found something new, that "if you get a Lower Low from Supply, it's a great first sign that the uptrend may be over". So in that picture, after the base of the flag, there are 3 higher lows and then a lower low that spikes the middle of the green trendline and engulfed previous 2 higher lows (sorry I can't add a picture now). Accordingly, that should be considered the engulf sign. But looks like I'm wrong and we actually should look for cluster/flag engulfing?! Please explain. Thanks a lot!
+
+- you are trying to explain this move ignoring the most important point of a flag which is the "Flag Limit", i hope the image below helps a bit. - in PIE and around here we just love charts, helps getting a better response and in some cases a response at all, so use them - i got you some homework if interested
+### engulf_p1_8 hash=7c60edaac0a953ef9dfcc4407f3bb5ffc48b4f01 | quote heads 1 wrote: / 0 نوشت:
+paras en/fa: 2/2 | echo bigram: ""
+lex.audit: 
+---FA---
+Harry wrote: - در PIE و اینجا ما عاشق چارتیم، کمک می‌کند پاسخ بهتری بگیریم و در بعضی موارد اصلاً پاسخی؛ پس ازشان استفاده کن
+
+من هم تأیید می‌کنم... به هر حال از چارت استفاده کن؛ ما عاشق عکسیم، بدون آن‌ها اغلب واقعاً سخت است سؤال را فهمید...
+---EN---
+Harry wrote: - in PIE and around here we just love charts, helps getting a better response and in some cases a response at all, so use them
+
+I second that... by all means use charts, we love pictures without them, it is often really difficult to understand the question...
+### engulf_p1_14 hash=83f70e5b45921f6f77d74b5c684075dcd30e3c7e | quote heads 1 wrote: / 0 نوشت:
+paras en/fa: 4/4 | echo bigram: ""
+lex.audit: 
+---FA---
+Mrgerry wrote: دنبال FL "واضح" بودم، همان‌هایی که بیشتر تریدرها تماشا می‌کنند، اطراف عرضه/تقاضا یا مقاومت یا حمایت قوی.
+
+و پس این چارت H4 روی USDCAD را تماشا کردم.
+
+فکر می‌کنم تارگت همان جایی است که با "TARGET?" علامت زدم چون مطمئن نیستم کجا منتظر قیمت بمانم.
+
+loonie قبل از چرخش اینگالف نداد (مثلاً اگر در جای FTB اینگالف می‌کرد، retest برای شورت عالی می‌شد). FL مهم اینجا همان بالایی بود که علامت زدی؛ دربارهٔ تارگت نمی‌دانم. رفتن به daily دیدگاه دیگری به تو می‌دهد.
+---EN---
+Mrgerry wrote: I was looking for the "obviuous" FL, those who the most part of traders watch, around S/D or a strong resistance or support.
+
+And so I watched this H4 chart on USDCAD.
+
+I think that the target is where I market with "TARGET?" because I'm not sure to understand where wait the price.
+
+loonie didnt give an engulf before turning (say if it had engulfed at the FTB place, return would be perfect to short). the important FL here was the top one you marked i dont know about the target. switching to daily will give you another view.
+### engulf_p1_17 hash=c30a1dc25ae843535bcf69f14f148b457294d007 | quote heads 2 wrote: / 0 نوشت:
+paras en/fa: 6/6 | echo bigram: "دنبال اینگالف"
+lex.audit: 
+---FA---
+Harry wrote:
+
+Mike1 wrote: تصورم این بود که وقتی دنبال اینگالف می‌گردیم، باید ببینیم قیمت cluster/پرچم را که در نواحی عرضه/تقاضا شکل می‌گیرد می‌شکند، در این مورد base پرچم را. در ترد PIE حتی فکر می‌کنم ارجاع‌هایی به تغییر شتاب یا اینکه قیمت باید فراتر از cluster هم بسته شود دیدم. پس روشن کردن این برایم خیلی مهم است. اینجا فکر کردم چیز جدیدی پیدا کردم، اینکه "اگر از عرضه یک Lower کف بگیری، اولین نشانهٔ عالی است که شاید روند صعودی تمام شده". پس در آن عکس، بعد از base پرچم، 3 تا higher کف هست و بعد یک lower کف که وسط trendline سبز را جهش می‌کند و 2 higher کف قبلی را اینگالف کرد (ببخشید الان نمی‌توانم عکس اضافه کنم). بر اساس آن، باید اینگالف sign حساب شود. اما به نظر می‌رسد اشتباه می‌کنم و در واقع باید دنبال اینگالف شدن cluster/پرچم باشیم?! لطفاً توضیح بده. خیلی ممنون!
+
+- داری سعی می‌کنی این حرکت را بدون مهم‌ترین نکتهٔ پرچم که همان "FL" است توضیح بدهی؛ امیدوارم عکس زیر کمی کمک کند.
+
+- در PIE و اینجا ما عاشق چارتیم، کمک می‌کند پاسخ بهتری بگیریم و در بعضی موارد اصلاً پاسخی؛ پس ازشان استفاده کن - اگر علاقه‌مندی چند تحقیق برایت گذاشتم
+
+Hey Harry.
+
+A. می‌توانی به چارت من دربارهٔ FLها نگاه کنی؟ هنوز دارم سعی می‌کنم درستشان ببینم. B. می‌توانم تحقیق مربوط به FLهایی که می‌گویی را داشته باشم؟
+---EN---
+Harry wrote:
+
+Mike1 wrote: I was under the impression that when we look for engulfs, we need to see price breaking over the cluster/flag that forms at the S/D zones, in this case the base of the flag. In the PIE thread I even saw I think references to momentum changes or that price needs to close also beyond the cluster. So clearing this up will be very important for me. Here I thought I found something new, that "if you get a Lower Low from Supply, it's a great first sign that the uptrend may be over". So in that picture, after the base of the flag, there are 3 higher lows and then a lower low that spikes the middle of the green trendline and engulfed previous 2 higher lows (sorry I can't add a picture now). Accordingly, that should be considered the engulf sign. But looks like I'm wrong and we actually should look for cluster/flag engulfing?! Please explain. Thanks a lot!
+
+- you are trying to explain this move ignoring the most important point of a ag which is the "Flag Limit", i hope the image below helps a bit.
+
+- in PIE and around here we just love charts, helps getting a better response and in some cases a response at all, so use them - i got you some homework if interested
+
+Hey Harry.
+
+A. Can you take a look at my chart regarding FL's? I am still trying to see them correctly. B. Can I have the homework for FL's you talk about?
+### engulf_p1_18 hash=f5e6225d5cca2e5ed04c7113b68ae98fdc1ad027 | quote heads 3 wrote: / 0 نوشت:
+paras en/fa: 9/9 | echo bigram: "دنبال اینگالف"
+lex.audit: 
+---FA---
+Hotochin wrote:
+
+Harry wrote:
+
+Mike1 wrote: تصورم این بود که وقتی دنبال اینگالف می‌گردیم، باید ببینیم قیمت cluster/پرچم را که در نواحی عرضه/تقاضا شکل می‌گیرد می‌شکند، در این مورد base پرچم را. در ترد PIE حتی فکر می‌کنم ارجاع‌هایی به تغییر شتاب یا اینکه قیمت باید فراتر از cluster هم بسته شود دیدم. پس روشن کردن این برایم خیلی مهم است. اینجا فکر کردم چیز جدیدی پیدا کردم، اینکه "اگر از عرضه یک Lower کف بگیری، اولین نشانهٔ عالی است که شاید روند صعودی تمام شده". پس در آن عکس، بعد از base پرچم، 3 تا higher کف هست و بعد یک lower کف که وسط trendline سبز را جهش می‌کند و 2 higher کف قبلی را اینگالف کرد (ببخشید الان نمی‌توانم عکس اضافه کنم). بر اساس آن، باید اینگالف sign حساب شود. اما به نظر می‌رسد اشتباه می‌کنم و در واقع باید دنبال اینگالف شدن cluster/پرچم باشیم?! لطفاً توضیح بده. خیلی ممنون!
+
+- داری سعی می‌کنی این حرکت را بدون مهم‌ترین نکتهٔ پرچم که همان "FL" است توضیح بدهی؛ امیدوارم عکس زیر کمی کمک کند. - در PIE و اینجا ما عاشق چارتیم، کمک می‌کند پاسخ بهتری بگیریم و در بعضی موارد اصلاً پاسخی؛ پس ازشان استفاده کن - اگر علاقه‌مندی چند تحقیق برایت گذاشتم
+
+Hey Harry.
+
+A. می‌توانی به چارت من دربارهٔ FLها نگاه کنی؟ هنوز دارم سعی می‌کنم درستشان ببینم. B. می‌توانم تحقیق مربوط به FLهایی که می‌گویی را داشته باشم؟
+
+Thanks,
+
+Dear Hotochin, this is how I would have drawn the FL...
+
+LP
+---EN---
+Hotochin wrote:
+
+Harry wrote:
+
+Mike1 wrote: I was under the impression that when we look for engulfs, we need to see price breaking over the cluster/flag that forms at the S/D zones, in this case the base of the flag. In the PIE thread I even saw I think references to momentum changes or that price needs to close also beyond the cluster. So clearing this up will be very important for me. Here I thought I found something new, that "if you get a Lower Low from Supply, it's a great first sign that the uptrend may be over". So in that picture, after the base of the flag, there are 3 higher lows and then a lower low that spikes the middle of the green trendline and engulfed previous 2 higher lows (sorry I can't add a picture now). Accordingly, that should be considered the engulf sign. But looks like I'm wrong and we actually should look for cluster/flag engulfing?! Please explain. Thanks a lot!
+
+- you are trying to explain this move ignoring the most important point of a ag which is the "Flag Limit", i hope the image below helps a bit. - in PIE and around here we just love charts, helps getting a better response and in some cases a response at all, so use them - i got you some homework if interested
+
+Hey Harry.
+
+A. Can you take a look at my chart regarding FL's? I am still trying to see them correctly. B. Can I have the homework for FL's you talk about?
+
+Thanks,
+
+Dear Hotochin, this is how I would have drawn the FL...
+
+LP
+### engulf_p11_263 hash=843d78a3dcb2e94e132577052c52b79197ef1c2d | paragraphs 2 / 1
+paras en/fa: 2/1 | echo bigram: ""
+lex.audit: 
+---FA---
+اینگالف‌ها و DPها...
+---EN---
+engulfs and DPs.....
+
+GUNNER
+### engulf_p2_26 hash=603c7f8c7de690629cb2da27945eef1d14397d9c | quote heads 1 wrote: / 0 نوشت:
+paras en/fa: 5/5 | echo bigram: ""
+lex.audit: 
+---FA---
+Mike1 wrote: OK، دارم دوباره برای این تلاش می‌کنم. بعد از خواندن ژورنال‌های LP و Sunnytrader و خواندن دوباره درس‌های IF و Harry دربارهٔ اینگالفها اینجا، فکر می‌کنم می‌فهممش. اگر اشتباه می‌کنم اصلاحم کن (ممکن است EG و FL کمی بالاتر باشند). ممنون!
+
+Hi Mike،
+
+موفق باشی در سفرت رفیق، بهت قول می‌دهم، اگر حلش کنی پازل پاداش‌دهنده‌ترین است.
+
+اینجا چند چیزی است که روی چارتت علامت زدم، چطور می‌دیدمش، لزوماً راه درست نیست.
+
+تا دیدار.
+---EN---
+Mike1 wrote: OK, I'm trying another shot at this. After reading LP and Sunnytrader journals and re-reading IF and Harry lessons about engulfs here, I think I see it. Please correct me if I'm wrong (it could be that the EG and FL are a little higher though). Thanks!
+
+Hi Mike,
+
+Goodluck on your journey man, Trust me, it is the most rewarding puzzle if you can solve it.
+
+Here is somethings I marked on your chart, how I would see it, not necessarily the right way.
+
+c ya.
+### engulf_p2_39 hash=12b3755cdc6b733e37c1f9bcfa2da11f3c8dd113 | echo
+paras en/fa: 5/5 | echo bigram: "آخرین چارت"
+lex.audit: echo
+---FA---
+اینها برایم جالب بودند
+
+1 چارتها ترکیبی‌اند:
+
+آخرین چارت جزئیات رویش:
+
+DT
+
+EDIT: می‌خواهم سعی کنم به سؤالم در آخرین چارت جواب بدهم؛ روی تایم‌فریم Daily نگاه کردم و 2 ناحیهٔ علامت‌خورده روی 4hr را پیدا کردم؛ فکر می‌کنم دلیل FO قیمت آنجا این بود که تریدرهای زیادی در سطح سیاه اول می‌فروختند و اولین را فراموش می‌کردند، پس انبوهی از سفارش‌ها برای سواری به پایین جمع می‌شد.
+---EN---
+These were interesting to me
+
+1 charts are a combo:
+
+Last chart has details on:
+
+DT
+
+EDIT: going to attempt to answer my question in the last chart, I looked on the Daily time frame and found the 2 zones marked on the 4hr, I think the reason price did FO there was because there would be a lot of traders selling at the 1st black level forgetting about the upper one, hence collecting a ton of orders for the ride down.
+### engulf_p3_58 hash=cd4337caf90b547489c9d390a3be3b9de56046ce | echo
+paras en/fa: 1/1 | echo bigram: "نظر می‌رسد."
+lex.audit: echo
+---FA---
+برای من تحلیل کاملی به نظر می‌رسد. اما در زمان واقعی فکر می‌کنم FTR اول (سبز) را می‌گرفتم و با ضرر می‌بستم. شاید اگر مانعی روی چارت 1 دقیقه‌ای می‌دیدم بخشی از پوزیشن را می‌بستم. خب این ضرر با ترید روی FTR زرد جبران می‌شد. واقعاً با CP ترکیب‌شده کامل به نظر می‌رسد. EDIT: ببین قیمت کِی چرخید وقتی FL سبز را ترک کرد-demand نادیده گرفته‌شده:)
+---EN---
+Looks perfect analysis to me. But in real time i think i would take the first ftr(green) and closed with a loss. Maybe i would close part of the position if i noticed some obstacles on 1 min chart. Well this loss would be compensated on the trade at yellow ftr. It really looks perfect combined with CP. EDIT: Notice when price turned when left green ftr-at ingored demand:)
+### engulf_p4_76 hash=fecff8275616c3cde3dc5fea84b6b82a9f5ecc79 | echo
+paras en/fa: 1/1 | echo bigram: "FTR قابل‌معامله"
+lex.audit: echo
+---FA---
+Hey بچه‌ها. آیا این یک FTR قابل‌معامله است؟ قیمت روند line را اینگاف کرده و یک کف جدید ساخته. مبدأ اینگاف همان FTR قابل‌معامله خواهد بود، درست؟ پس دنبال شورت کردن فلش قرمز می‌گردیم وقتی قیمت برمی‌گردد.
+---EN---
+Hey guys. Is this a tradeable FTR? Price engulfed the trend line and made a new low. The source of the engulf would be the tradable FTR, right? So we would look to short the red arrow when price returns.
+### engulf_p4_81 hash=e8cc6271b8d1be8e816e752d95ef28fa1c2b8d9b | echo
+paras en/fa: 5/5 | echo bigram: "نمودار بعدی"
+lex.audit: echo
+---FA---
+این نمودار بعدی یک قطعهٔ زیبای P.A بود.
+
+2 نمودار بعدی یک ترکیب هستند:
+
+4 ساعته: FTR را می‌بینم و می‌دانم خوب واکنش نشان داده؛ با واکنش سریع می‌خواستم بدانم آیا می‌توانستم یک یا دو ورود پایین‌تر بگیرم یا نه
+
+تنها ورودی که واقعاً می‌توانستم ببینم FTR و کف بود؛ غیر از آن فکر می‌کنم این باید یک TT می‌شد.
+
+DT
+---EN---
+This next chart was a beautiful piece of P.A.
+
+The next 2 charts are a combo:
+
+4hr: I see the FTR, and I know it reacted well, with such a quick reaction I wanted to know if I was able to get an entry or 2 lower down
+
+The only entry I could see realistically was the FTR and the bottom, other than that I guess this would have had to be a TT
+
+DT
+### engulf_p4_98 hash=127c021f0ca9a6ad2a444f6a5b5f1baccb0e3b2c | echo
+paras en/fa: 7/7 | echo bigram: "جزئیات روی"
+lex.audit: echo
+---FA---
+ترید بعدی
+
+این هنوز سال 09 - AUD است
+
+FTR چهارساعته با ورود احتمالی روی تایم‌فریم 15 دقیقه؛ جزئیات روی نمودار.
+
+ستاپ بعدی از تایم‌فریم‌های Daily، 4 ساعته، 30 دقیقه و 5 دقیقه تشکیل شده است
+
+جزئیات روی نمودارها
+
+هر بازخوردی خیلی قدردانی می‌شود.
+
+DT
+---EN---
+Next trade
+
+This is still the year 09 - AUD
+
+4hr FTR with possible entry on the 15 min TF, details on the chart.
+
+The next setup consists of the Daily, 4hr, 30 min and 5 min TFs
+
+Details on the charts
+
+Any feedback would be greatly appreciated
+
+DT
+### engulf_p4_99 hash=4873fd41d9d7833d907a0453186ed8ed2bce9bb8 | echo
+paras en/fa: 6/6 | echo bigram: "جزئیات روی"
+lex.audit: echo
+---FA---
+صبح بخیر،
+
+جزئیات روی نمودارها - AUD/2010
+
+نمودارهای بعدی ترکیبی از تایم‌فریم‌های Daily، 4 ساعته و 15 دقیقه هستند
+
+جزئیات روی نمودارها
+
+هر نظری خوشحال می‌شود.
+
+DT
+---EN---
+Morning,
+
+Details on charts - AUD/2010
+
+Next charts are a combination of the Daily, 4hr and 15 minute TFs
+
+Details on the charts
+
+Any comments most welcome
+
+DT
+### engulf_p5_122 hash=cb51a3936013da0e80cda9c5d8c6042f4ed83661 | echo
+paras en/fa: 6/6 | echo bigram: "ساعته/1 ساعته"
+lex.audit: echo
+---FA---
+2 نمودار دیگر:
+
+ستاپ اول یکی است که واقعاً دارم به آن حس پیدا می‌کنم و خیلی ساده است.
+
+4 ساعته/1 ساعته - 2013-AUD
+
+نمودارهای بعدی
+
+4 ساعته/1 ساعته و تایم‌فریم 15 دقیقه.
+
+DT
+---EN---
+2 more charts:
+
+The first setup is one I am really beginning to get a feel for, and is very simple
+
+4hr/1hr - 2013-AUD
+
+Next charts
+
+4hr/1hr and 15 minute TF
+
+DT
+### engulf_p6_137 hash=c8f67c1f4d007423cc081e35c31adc138a1457d7 | echo
+paras en/fa: 6/6 | echo bigram: "جزئیات روی"
+lex.audit: echo
+---FA---
+2 نمودار دیگر، اولی یک FTR است که شکست خورد؛ می‌خواستم ببینم آیا می‌توانستم تا حد نمودار 5 دقیقه‌ای پایین بروم تا P.A تایم‌فریم پایین‌تر پیدا کنم.
+
+جزئیات روی نمودارها - 2005 - GBP/JPY
+
+برای من این یکی جالب بود:
+
+دوباره همهٔ جزئیات روی نمودارها:
+
+شکار خوب برای همه.
+
+DT
+---EN---
+2 more charts, the first one is an FTR that failed, I wanted to see if I could have entered going as low as the 5 min chart to find LTF P.A
+
+Details on the charts - 2005 - GBP/JPY
+
+For me this next one was interesting:
+
+Again all details on the charts:
+
+Good hunting all.
+
+DT
+### engulf_p6_138 hash=16061b3964d735c252c05ebda11182e89699d7a5 | echo
+paras en/fa: 6/6 | echo bigram: "جزئیات روی"
+lex.audit: echo
+---FA---
+2 ترید دیگر، یکی RBD قابل‌قبولی روی سطح 4 ساعته است.
+
+جزئیات روی نمودارها
+
+2006 - GBP/JPY
+
+نمودار شمارهٔ 2
+
+دوباره جزئیات روی نمودارها و همان تاریخ‌های بالا.
+
+DT
+---EN---
+2 more trades, once chart is a decent RBD on the 4hr level
+
+Details on charts
+
+2006 - GBP/JPY
+
+Chart number 2
+
+Again details on the charts and the same dates as above.
+
+DT
+### engulf_p6_144 hash=4d6396cae6dc65e15cff582df1b4f1e4624c5265 | numbers missing 100
+paras en/fa: 6/6 | echo bigram: "دربارهٔ اینگالف"
+lex.audit: 
+---FA---
+Pucci،
+
+دربارهٔ اینگالف نکات واقعاً خوبی مطرح کردی؛ فکر می‌کنم پستی که می‌گویی نوشتهٔ Pedini بوده؛ بعضی نمودارهایش را ذخیره کرده‌ام و روزانه نگاهشان می‌کنم.
+
+می‌خواهم روش فکر کردنم دربارهٔ اینگالف را نشان بدهم. وقتی شروع کردم به دنبال اینگالف در نواحی مشخص گشتن، اول دنبال اینگاف FL می‌گشتم؛ بعد پستی خواندم، فکر می‌کنم باز از ترد Pedini بود، جایی که او تریدی گرفت چون کف ساخته شده بود و HH اینگاف شده بود، پس RT به cap را شورت کرد. پس چیزها در ذهنم شروع به click کردن کرد و نواحی مهمی را دیدم که باید اینگاف شوند تا ترید در نظر گرفته شود؛ و وقتی به بعضی نمودارهایم و بعضی سینیورها نگاه می‌کنی، فکر می‌کنم بیشتر کف‌ها یا سقف‌ها در واقع FLها یا FTRهایی هستند که اینگاف شده‌اند.
+
+اگر روی چارت ساعتی اولین تریدم نگاه کنی شاید ببینی Hای که LL را ساخته در واقع یک FTR هم بوده، اگر این منطقی است. صددرصد مطمئن نیستم درست می‌گویم، ولی این ذهنیتی که در چند صد نموداری که کشیده‌ام به دست آورده‌ام به نظرم منطقی می‌آید؛ صبر برای نظر یک سینیور امن‌ترین شرط است.
+
+نمودار 2:
+
+DT
+---EN---
+Pucci,
+
+You have raised some really good points regarding the engulf, I think the post you're talking about was written by Pedini, I have saved some of his charts and look at them daily.
+
+I will have a crack at showing my way of thinking with regards to the engulf. When I began looking for engulfs at certain areas, I initially was looking for FL to be engulfed, then when I read a post, I think again from Pedini's thread, where he took a trade as a low created the HH was engulfed, so he shorted the RT to the cap. So things began to click in my head, and I started seeing important areas that needed to be engulfed to consider a trade, and when you look back at some of my charts and some seniors, I think most of the lows or highs are actually FLs or FTRs that have been engulfed.
+
+If you look on the hourly chart of my 1st trade you may see that the H that caused the LL was in fact an FTR also, if this makes sense. I am not 100 percent sure I am correct, but this mind set I have acquired over the few hundred charts I have created seems to make sense to me, wait for a senior to comment would be the safest bet.
+
+Chart 2:
+
+DT
+### engulf_p8_186 hash=c472c5e7f77a3e0896a5b3720690c2cf83b9eeb8 | echo
+paras en/fa: 4/4 | echo bigram: "ناحیه جهش"
+lex.audit: echo
+---FA---
+سلام H،
+
+اگر به بیشتر مثال‌هایم نگاه کنی، قیمت گاهی به داخل ناحیه جهش می‌کند، پس من استاپ را جایی می‌گذارم که اگر اشتباه می‌کردم باور دارم استاپ می‌شوم، نه اگر بزرگ‌ها برای گرفتن کمی LQ بیشتر ناحیه را جهش کنند.
+
+سلام MF،
+
+تحلیل‌ات را واقعاً دوست دارم رفیق، چیز فوق‌العاده‌ای است و راستش بگویم این FL را ندیدم، چشم عالی‌ای داری، کاملاً موافقم و در چند ترید بعدی به دنبالش می‌گردم.
+---EN---
+Hi H,
+
+If you look back at most of my examples, price sometimes spikes the zone, so I choose to place the stop where I believe I am stopped out if I am WRONG, not if the big guys try to grab a bit more LQ by spiking the DP.
+
+Hi MF,
+
+I really like your analysis mate, super stuff, and in all honesty I did not see this FL, great eye, I totally agree, and will keep an eye out for this on my next few trades.

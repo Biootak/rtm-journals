@@ -1,0 +1,158 @@
+### rinehart_p3_1
+EN: Rinehart wrote: Here's my EJ trade plan...comments welcome
+
+My EURJPY trade was a winner. We CPed into the QM and have had a nice
+drop. I've taken partial profit and I'll leave the trade open over the
+weekend (unless price rallies too close for comfort to my entry before
+the close). The other two trades i had planned -- GBPJPY and AUDNZD hit
+ their targets before my entry so they have been cancelled.
+FA: Rinehart نوشت: این هم برنامهٔ معاملهٔ EJ من... نظرات خوش‌آمد است
+
+معاملهٔ EURJPY من برنده شد. به QM، CP کردیم و ریزش خوبی داشتیم. بخشی از سود را گرفتم و معامله را آخر هفته باز می‌گذارم (مگر اینکه قیمت قبل از بسته شدن بیش از حد راحت به ورودم نزدیک شود). دو معاملهٔ دیگری که برنامه‌ریزی کرده بودم — GBPJPY و AUDNZD — قبل از ورود من به تارگتشان رسیدند و لغو شدند.
+
+### rinehart_p3_4
+EN: I don't have time to make charts right now because I have to go to the
+ post office. However, I see engulfs for potential QM on 30 min charts
+of AUDUSD and Gold...
+FA: الان وقت ساختن چارت ندارم چون باید به ادارهٔ پست بروم. با این حال، در چارت‌های 30 دقیقهٔ AUDUSD و Gold اینگالف‌هایی برای QM احتمالی می‌بینم...
+
+### rinehart_p3_8
+EN: I ended up lowering my entry when I found this lower LS.
+FA: وقتی این LS پایین‌تر را پیدا کردم، آخرش ورودم را پایین آوردم.
+
+### rinehart_p3_10
+EN: Ended up net-BE on EURAUD
+FA: در EURAUD آخرش BE خالص شدم
+
+### rinehart_p3_13
+EN: I'm very proud of the work you're doing!
+
+It makes my day to open this journal
+FA: به کاری که داری می‌کنی خیلی افتخار می‌کنم!
+
+باز کردن این ژورنال روزم را می‌سازد
+
+### rinehart_p3_14
+EN: Hi bro Rinehart,
+
+Just wanna ask your opinion on the gold chart above.
+
+There's another BSZ above your zone. I'm guessing price could FO there (marked on the chart).
+
+Would you care to elaborate why you chose to enter in the bottom zone (if you did enter) for my learning purposes?
+
+Thank you for your guidance, brother
+FA: سلام برادر Rinehart،
+
+فقط می‌خواستم نظرت را دربارهٔ چارت طلای بالا بپرسم.
+
+بالای ناحیهٔ تو یک BSZ دیگر هست. حدس می‌زنم قیمت می‌تواند به آنجا FO کند (روی چارت علامت زده‌ام).
+
+می‌شود برای یادگیری من توضیح بدهی چرا ورود در ناحیهٔ پایین را انتخاب کردی (اگر وارد شدی)؟
+
+ممنون برای راهنمایی‌ات برادر
+
+### rinehart_p3_15
+EN: Thank you very much IF, your feedback is very motivating!
+FA: خیلی ممنون IF، بازخوردت خیلی انگیزه‌بخش است!
+
+### rinehart_p3_16
+EN: Frosty wrote: Hi bro Rinehart,
+
+Just wanna ask your opinion on the gold chart above.
+
+There's another BSZ above your zone. I'm guessing price could FO there (marked on the chart).
+
+Would you care to elaborate why you chose to enter in the bottom zone (if you did enter) for my learning purposes?
+
+Thank you for your guidance, brother
+
+Frosty, thanks for asking! I did enter and I made some charts with my reasoning:
+FA: Frosty نوشت: سلام برادر Rinehart،
+
+فقط می‌خواستم نظرت را دربارهٔ چارت طلای بالا بپرسم.
+
+بالای ناحیهٔ تو یک BSZ دیگر هست. حدس می‌زنم قیمت می‌تواند به آنجا FO کند (روی چارت علامت زده‌ام).
+
+می‌شود برای یادگیری من توضیح بدهی چرا ورود در ناحیهٔ پایین را انتخاب کردی (اگر وارد شدی)؟
+
+ممنون برای راهنمایی‌ات برادر
+
+Frosty، ممنون که پرسیدی! وارد شدم و چند چارت با استدلالم ساختم:
+
+### rinehart_p3_17
+EN: Enkim, I saw your chart for a minute (before it disappeared?).
+
+The 4 hour charts can be different from broker to broker due to
+different end of day times. However the difference on your chart is
+disturbing!
+FA: Enkim، چارتت را یک دقیقه دیدم (قبل از اینکه ناپدید شود؟).
+
+چارت‌های 4 ساعته می‌توانند بین بروکرها متفاوت باشند، به‌خاطر ساعت‌های مختلف پایان روز. اما تفاوت روی چارت تو نگران‌کننده است!
+
+### rinehart_p3_18
+EN: Thank you rinehart, i have actually worked it allready out, so i
+deleted my post to not pollute your great journal with it anymore
+ . I am using two brokers and ctrader for tick data, and i found out
+that one of my MT4 platform had wrong history data downloaded. After i
+checked my other sources it was quite obvious. So i am sorry again,
+sometimes i act before i think . (thank godness it is not an issue during my trading ) Have a great day and i am looking forward to your next trades!
+FA: ممنون Rinehart، راستش خودم حلش کردم، پس پستم را حذف کردم تا دیگر ژورنال عالی‌ات را شلوغ نکنم. من از دو بروکر و ctrader برای دادهٔ تیک استفاده می‌کنم و فهمیدم یکی از پلتفرم‌های MT4 من تاریخ دادهٔ اشتباه دانلود کرده بود. بعد از اینکه منابع دیگرم را چک کردم کاملاً واضح شد. پس باز هم ببخش، بعضی وقت‌ها قبل از فکر کردن عمل می‌کنم. (خدا را شکر که در حین معامله مشکلی نیست) روز خوبی داشته باشی و منتظر معامله‌های بعدی‌ات هستم!
+
+### rinehart_p3_19
+EN: NZDUSD trade was cancelled since target hit before my entry.
+
+Gold is behaving just like planned....THANK YOU RTM!
+
+USDCAD trade isn't something I published here because I couldn't explain the trade as well as I would have liked.
+FA: معاملهٔ NZDUSD لغو شد چون تارگت قبل از ورودم زده شد.
+
+Gold دقیقاً همان‌طور که برنامه‌ریزی کردم رفتار می‌کند....ممنون RTM!
+
+معاملهٔ USDCAD چیزی نیست که اینجا منتشر کرده باشم، چون نمی‌توانستم آن‌طور که دوست داشتم توضیحش بدهم.
+
+### rinehart_p3_20
+EN: That was a great BSZ trade, unfortunate to have missed it once again.
+FA: آن معاملهٔ BSZ عالی بود؛ حیف که باز هم از دستش دادم.
+
+### rinehart_p3_22
+EN: I still have poor understanding of CPs , so I had decided to wait at
+an SR above- but it was one of those things that you just dont feel
+quite right about you know.
+
+Thank you for your thoughts Rinehart as always.
+FA: هنوز درک ضعیفی از CP‌ها دارم، پس تصمیم گرفتم بالای یک SR صبر کنم — ولی یکی از همان چیزهایی بود که آدم درباره‌اش حس خوبی ندارد، می‌دانی.
+
+ممنون برای فکرهایت Rinehart، مثل همیشه.
+
+### rinehart_p3_23
+EN: .
+FA: .
+
+### rinehart_p3_24
+EN: Rinehart wrote:
+
+you are reading my mind!!! are you mind reader or what??)))
+ i have the same chart on my mt4, with the same words on it)))) great to
+ see charts in other threads, even before publishing them))) now let's
+watch what happens next...
+FA: Rinehart نوشت:
+
+داری ذهنم را می‌خوانی!!! ذهن‌خوان هستی یا چی؟؟)) من همان چارت را با همان جمله‌ها روی mt4 دارم)))) عالی است چارت‌های تردهای دیگر را ببینیم، حتی قبل از انتشارشان))) حالا ببینیم بعدش چه می‌شود...
+
+### rinehart_p3_25
+EN: Linos, I think your trade plan is very feasible.
+
+If price gets to that daily cap before reaching the origin of the engulf
+ it could certainly fall down there. To be honest the cap and way price
+ exited the cap is good enough I will look to scalp it even if we have
+already hit the origin of the engulf.
+
+Just like with my trade, I've already taken 1/2 profit to get myself
+close to net BE. If we start to enter the CP, I'll look to add a new
+position short.
+FA: Linos، فکر می‌کنم برنامهٔ معامله‌ات کاملاً عملی است.
+
+اگر قیمت قبل از رسیدن به مبدأ اینگالف به آن کپ روزانه برسد، قطعاً می‌تواند آنجا بریزد. صادقانه، کپ و نحوهٔ خروج قیمت از کپ به‌قدر کافی خوب است که من حتی اگر به مبدأ اینگالف رسیده باشیم هم دنبال اسکالپش باشم.
+
+دقیقاً مثل معاملهٔ خودم، من 1/2 سود را گرفته‌ام تا نزدیک BE خالص شوم. اگر شروع کنیم به ورود به CP، دنبال اضافه کردن پوزیشن شورت جدید خواهم بود.

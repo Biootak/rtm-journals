@@ -1,0 +1,435 @@
+### astrokillah_p9_1
+EN: I am trying to be a 'lazy' LSK trader, and strange enough, my laziness is rewarded today. Could this be a one-off fluke??
+
+I have closed half of my position and let the remaining run, should I exit entirely
+
+Reason for taking this trade: SSR + LSK (with clean DP)
+
+Closer look at the LSK
+
+Now I am really scratching my head, where should I set my ultimate TP?
+Should I be greedy and set it all the way to the origin of the H4
+upmove?
+FA: دارم سعی می‌کنم یک معامله‌گر «تنبل» LSK باشم و به‌قدر کافی عجیب است که تنبلی‌ام امروز جواب داده. می‌شود این یک اتفاق شانسی یک‌باره باشد؟؟
+
+نصف پوزیشنم را بستم و بقیه را گذاشتم بدود؛ آیا کامل خارج شوم؟
+
+دلیل گرفتن این معامله: SSR + LSK (با DP تمیز)
+
+نگاهی نزدیک‌تر به LSK
+
+حالا واقعاً سرم را می‌خارانم؛ تارگت نهایی‌ام را کجا بگذارم؟ حریص باشم و آن را تا مبدأ حرکت صعودی H4 بگذارم؟
+
+### astrokillah_p9_2
+EN: There are lots of possible targets for price, of course. A top down
+analysis will show you them, but on your last chart there's a very
+obvious one - symmetry with your LS swing, left and right of the LS.
+
+Start with mapping that to see if it ties in with anything closer in time
+FA: معلوم است که قیمت تارگت‌های ممکن زیادی دارد. تحلیل از بالا به پایین آن‌ها را نشانت می‌دهد، ولی در نمودار آخرت یکی خیلی واضح است — تقارن با سوئینگ LS تو، در چپ و راست LS.
+
+اول همان را رسم کن تا ببینی با چیزی نزدیک‌تر در زمان هم‌خوانی دارد یا نه.
+
+### astrokillah_p9_3
+EN: Hi AK and IF, if I may ask a question on symmetry. IF, I found this
+quote from you in the Trading Room on June 14 2017: 'Finding the LSK is
+so simple! When it's at the edge of a PAZ, it's so powerful! Add some
+symmetry and it's just wonderful!' Could you please show an example of
+what you mean by symmetry or at least give a definition of it? AK, I had
+ the same trade, so I'm interested in IFs answer. TIA Bill
+FA: سلام AK و IF، اگر اجازه بدهید یک سؤال در مورد تقارن بپرسم. IF، من این نقل‌قول را از تو در اتاق معاملاتی در June 14 2017 پیدا کردم: «پیدا کردن LSK خیلی ساده است! وقتی در لبهٔ یک PAZ باشد، خیلی قدرتمند است! کمی تقارن به آن اضافه کن و فقط بی‌نظیر می‌شود!» می‌شود لطفاً یک نمونه نشان بدهید که منظورتان از تقارن چیست، یا دست‌کم تعریفش را بگویید؟ AK، من هم همان معامله را داشتم، پس به جواب IF علاقه‌مندم. پیشاپیش ممنون، Bill
+
+### astrokillah_p9_4
+EN: Thank you Master IF, I looked at the big picture, and symmetry is telling me that price wants to go up!
+
+And indeed, this is what it did! I closed two parts, and the final part (30%) got stopped out..
+
+Ifmyante wrote: There are lots of
+possible targets for price, of course. A top down analysis will show you
+ them, but on your last chart there's a very obvious one - symmetry with
+ your LS swing, left and right of the LS.
+
+Start with mapping that to see if it ties in with anything closer in time
+FA: ممنون استاد IF؛ تصویر بزرگ را نگاه کردم و تقارن به من می‌گوید قیمت می‌خواهد بالا برود!
+
+و واقعاً همین کار را کرد! دو بخش را بستم و بخش آخر (30%) با استاپ بیرون رفت..
+
+Ifmyante نوشت: معلوم است که قیمت تارگت‌های ممکن زیادی دارد. تحلیل از بالا به پایین آن‌ها را نشانت می‌دهد، ولی در نمودار آخرت یکی خیلی واضح است — تقارن با سوئینگ LS تو، در چپ و راست LS.
+
+اول همان را رسم کن تا ببینی با چیزی نزدیک‌تر در زمان هم‌خوانی دارد یا نه.
+
+### astrokillah_p9_5
+EN: billmac3 wrote: Could you please show an example of what you mean by symmetry or at least give a definition of it?
+
+I'll show you mine if you show me yours
+FA: billmac3 نوشت: می‌شود لطفاً یک نمونه نشان بدهید که منظورتان از تقارن چیست، یا دست‌کم تعریفش را بگویید؟
+
+اگر تو مال خودت را نشانم بدهی، من هم مال خودم را نشانت می‌دهم
+
+### astrokillah_p9_6
+EN: Ok, it's been one month since I started new demo account on FXDD, and I
+ have decided to close this account because the MT4 platform is so
+buggy! I am testing Pepperstone now. I made a mistake in one of my
+earlier post one month ago, I wrote that I loaded this demo with 50k,
+actually it's only 40k, as you can see in the diagram below. The account
+ started at 40k..
+
+Overall only a mediocre +47% growth after one month.. far far far from
+the results I have seen from the Masters here who were able to double
+their account every week.
+
+What strikes me hard is the obscene commissions I have to pay... almost
+20% of my profit!! wow.. I need to learn how to trade more
+efficiently..
+FA: خب، یک ماه از شروع حساب دموی جدیدم روی FXDD گذشته و تصمیم گرفتم این حساب را ببندم، چون پلتفرم MT4 پر از باگ است! الان Pepperstone را تست می‌کنم. در یکی از پست‌های قبلی‌ام یک ماه پیش اشتباه کردم و نوشتم این دمو را با 50k شارژ کردم؛ در واقع فقط 40k است، همان‌طور که در نمودار پایین می‌بینی. حساب با 40k شروع شد..
+
+در کل بعد از یک ماه فقط یک رشد متوسط +47%.. خیلی خیلی دور از نتایجی که از استادهای این‌جا دیده‌ام و می‌توانستند هر هفته حسابشان را دو برابر کنند.
+
+چیزی که سخت به من ضربه می‌زند کمیسیون‌های گزافی است که باید بدهم... تقریباً 20% سودم!! وای.. باید یاد بگیرم کارآمدتر معامله کنم..
+
+### astrokillah_p9_7
+EN: OK, since we're talking about targets, my take is as follows, as they all we're previous highs around that LS:
+FA: باشه، حالا که بحث تارگت است، نظر من این است، چون همه‌شان سقف‌های قبلی حوالی همان LS بودند:
+
+### astrokillah_p9_8
+EN: You may not be overly impressed, but I'm very proud of your month's trading!
+
+Watch your drawdown in future though.
+
+Very well done
+FA: شاید تو زیاد تحت تأثیر نباشی، ولی من به معامله‌گری یک‌ماهه‌ات خیلی افتخار می‌کنم!
+
+ولی از این به بعد حواست به دراودانت باشد.
+
+خیلی خوب انجام دادی
+
+### astrokillah_p9_9
+EN: All credit to you Master IF and some of the most generous traders of
+RTM. There are too many names I wanted to mention here but then I guess
+it's the true spirit of this community that makes learning possible.
+
+I have almost lost faith in myself after failing for more than a year in forex and it's because of RTM, I found my new faith.
+
+I know my drawdown is a problem and I am determined to fix it. My new
+demo account on pepperstone is doing quite well. I have it for two days,
+ 7 trades all closed in positives， zero drawdown and +4% account growth.
+
+Ifmyante wrote: You may not be overly impressed, but I'm very proud of your month's trading!
+
+Watch your drawdown in future though.
+
+Very well done
+FA: همه‌اش لطف توست استاد IF و بعضی از سخاوتمندترین معامله‌گران RTM. اسم‌های زیادی بود که می‌خواستم این‌جا بیاورم، ولی فکر می‌کنم همین روح واقعی این جامعه است که یادگیری را ممکن می‌کند.
+
+بعد از بیش از یک سال شکست در فارکس تقریباً ایمانم را به خودم از دست داده بودم و به لطف RTM ایمان تازه‌ام را پیدا کردم.
+
+می‌دانم دراودانم یک مشکل است و مصمم‌ام درستش کنم. حساب دموی جدیدم روی Pepperstone خیلی خوب پیش می‌رود. دو روز است که دارمش، 7 معامله که همه مثبت بسته شدند، صفر دراودان و +4% رشد حساب.
+
+Ifmyante نوشت: شاید تو زیاد تحت تأثیر نباشی، ولی من به معامله‌گری یک‌ماهه‌ات خیلی افتخار می‌کنم!
+
+ولی از این به بعد حواست به دراودانت باشد.
+
+خیلی خوب انجام دادی
+
+### astrokillah_p9_10
+EN: Ifmyante wrote:
+billmac3 wrote: Could you please show an example of what you mean by symmetry or at least give a definition of it?
+
+I'll show you mine if you show me yours
+
+My attempt on the symmetry - Sorry AK for bargeing in your yournal
+
+Regards
+
+Hans
+FA: Ifmyante نوشت:
+billmac3 نوشت: می‌شود لطفاً یک نمونه نشان بدهید که منظورتان از تقارن چیست، یا دست‌کم تعریفش را بگویید؟
+
+اگر تو مال خودت را نشانم بدهی، من هم مال خودم را نشانت می‌دهم
+
+تلاش من برای تقارن — ببخشید AK که وسط ژورنالت پریدم
+
+با احترام
+
+Hans
+
+### astrokillah_p9_11
+EN: Most hedge fund managers would be sweating the size of durian seeds if they saw that equity curve
+
+Awesome bro AK! Wishing you well, brother
+FA: اگر مدیرهای صندوق‌های پوشش ریسک این منحنی اکوییتی را می‌دیدند، به اندازهٔ دانه‌های دوریان عرق می‌کردند
+
+عالی بود برادر AK! برات آرزوی موفقیت می‌کنم، برادر
+
+### astrokillah_p9_12
+EN: Bro, don't apologize here, this is our home... come here and post
+ANYTHING, literally ANYTHING ! you have my full permission. hansma wrote:
+
+My attempt on the symmetry - Sorry AK for bargeing in your yournal
+
+Regards
+
+Hans
+FA: برادر، این‌جا عذرخواهی نکن، این‌جا خانهٔ خودمان است... بیا و هر چیزی بفرست، واقعاً هر چیزی! اجازه‌ات را کامل داده‌ام. hansma نوشت:
+
+تلاش من برای تقارن — ببخشید AK که وسط ژورنالت پریدم
+
+با احترام
+
+Hans
+
+### astrokillah_p9_13
+EN: Just an observation that I would like to share. I have been 'trying
+hard' to prove that FL, and ONLY FL, is the answer to unlock the secret
+of price movement. But I have failed miserably.
+
+In the diagram above, A, B, C, D are all FLs visibled on H1 timeframe. I wanted to believe that:
+
+1) We should only pay attention to FLs, especially the boundaries of
+FLs. When an FL is engulfed, we are promised that price would reach the
+next FL in the direction of the engulf.
+
+2) A reaction to an FL is not as important as the FL itself, for example, the peak at Point 1, is a reaction to B.
+
+Well, I was wrong, I have noticed in several instances that after price
+engulfed D, it did not get to C, it bounced to the pip at Point 2,
+reversed and broke through A. And there's no kink to be found at that
+level, not even on M1, there's no visible kink (perhaps we need to go
+down to tick chart to see that?)
+
+That makes it very difficult in a way, because the general consensus in the FOREX world is that HTF elements trounces LTF.
+
+So HTF SD zone is stronger than LTF SD zones, HTF SR is stronger than LTF SR.
+
+But in the example I am giving here, it doesn't seem to be the case?
+FA: فقط یک مشاهده که می‌خواهم به اشتراک بگذارم. این مدت «سخت تلاش» کرده‌ام تا ثابت کنم FL — و فقط FL — پاسخِ گشودن راز حرکت قیمت است. ولی بدجوری شکست خوردم.
+
+در نمودار بالا، A، B، C و D همه FL‌هایی هستند که در تایم‌فریم H1 دیده می‌شوند. می‌خواستم باور کنم که:
+
+1) باید فقط به FL‌ها توجه کنیم، مخصوصاً مرزهای FL‌ها. وقتی یک FL اینگالف می‌شود، به ما وعده داده شده که قیمت در جهت اینگالف به FL بعدی می‌رسد.
+
+2) واکنش به یک FL به اندازهٔ خود FL مهم نیست؛ مثلاً سقف در نقطهٔ 1 واکنشی به B است.
+
+خب، اشتباه می‌کردم. در چند نمونه دیدم که قیمت بعد از اینگالف کردن D به C نرسید، دقیقاً تا پیپ در نقطهٔ 2 برگشت، چرخید و A را شکست. و در آن سطح هیچ کینکی پیدا نمی‌شود، حتی روی M1 هیچ کینک قابل‌دیدن نیست (شاید باید تا نمودار تیک پایین برویم تا آن را ببینیم؟)
+
+این از یک جهت کار را خیلی سخت می‌کند، چون اجماع عمومی در دنیای فارکس این است که عناصر HTF بر LTF برتری دارند.
+
+یعنی ناحیهٔ SD در HTF قوی‌تر از نواحی SD در LTF است، و SR در HTF قوی‌تر از SR در LTF.
+
+ولی در مثالی که این‌جا می‌آورم، ظاهراً این‌طور نیست؟
+
+### astrokillah_p9_14
+EN: Hi AK,
+
+I feel you.. I had the same doubts.. But as you said.. B is the
+important one.. not the high at "1". But when "D" FL is made, B is no
+longer valid. So for a valid short entry in your above example, you will
+ have to have an engulf which haven't any of the possible target in the
+same scale. For example, The high at "1" (although it is not important,
+still it is a high, we have to avoid all possible targets), the low end
+of the FL B, which is a LS, or a very old very High TF key level. You
+said sometimes you see that, what you see as engulf is reaction to a SR
+filp (e.g. as you have shown at "1"). But, most of the time it is not
+actually a reaction to that SR flip (e.g. "1" in your image). It is a
+higher time frame key level. Please extend your dotted line ("2" to "1")
+ further to left in HTF. You will see this. This is just my experience.
+To some people, my case will be valid, but for some mine will not!. I
+will post an example, if I find any.
+
+Thanks,
+FA: سلام AK،
+
+حس‌ات را می‌فهمم.. من هم همین شک‌ها را داشتم.. ولی همان‌طور که گفتی.. B مهم است.. نه سقف در «1». اما وقتی FL «D» ساخته می‌شود، B دیگر معتبر نیست. پس برای یک ورود فروش معتبر در مثال بالا، باید اینگالفی داشته باشی که هیچ‌یک از تارگت‌های ممکن را در همان مقیاس نداشته باشد. مثلاً سقف در «1» (هرچند مهم نیست، باز هم یک سقف است و باید از همهٔ تارگت‌های ممکن پرهیز کنیم)، انتهای پایین FL B که یک LS است، یا یک سطح کلیدی خیلی قدیمی در تایم‌فریم خیلی بالا. گفتی گاهی این را می‌بینی؛ آن‌چه به‌عنوان اینگالف می‌بینی واکنش به یک برگشت SR است (مثلاً همان‌طور که در «1» نشان دادی). ولی بیشتر وقت‌ها واقعاً واکنش به آن برگشت SR نیست (مثلاً «1» در تصویرت). یک سطح کلیدی تایم‌فریم بالاتر است. خط‌چینت («2» تا «1») را در HTF بیشتر به چپ ادامه بده. این را خواهی دید. این فقط تجربهٔ من است. برای بعضی آدم‌ها حرف من معتبر خواهد بود، ولی برای بعضی نه! اگر نمونه‌ای پیدا کنم، پستش می‌کنم.
+
+ممنون،
+
+### astrokillah_p9_15
+EN: Hi AK,
+
+To my opinion, FL (or S/R kinks) are important, but they are one piece
+of the puzzle. Remember, in his vids, IF tells us to watch PA at four
+places: S/R Kinks, LS, PCP, break into CP. It means that all of these
+can bounce price (with or without PA).
+
+If you see what looks like arbitrary PA, it doensn't necessarilly means
+that price is reacting to LTF over HTF. It could also mean that there is
+ Something 'HTF' that you haven't on your chart. FXTOP is your friend
+(or if he isn't, then make it a friend )
+
+Thanks for all your posts in your journal by the way, i love the way you
+ think and describe your things, very clear (and i know how much being
+Crystal clear after a day of trading isn't easy )
+
+Hugo
+FA: سلام AK،
+
+به نظر من، FL (یا کینک‌های S/R) مهم‌اند، ولی فقط یک تکه از پازل هستند. یادت باشد IF در ویدئوهایش می‌گوید PA را در چهار جا زیر نظر بگیریم: کینک‌های S/R، LS، PCP و شکست به داخل CP. یعنی همهٔ این‌ها می‌توانند قیمت را برگردانند (با PA یا بدون PA).
+
+اگر چیزی می‌بینی که شبیه PA تصادفی است، لزوماً معنایش این نیست که قیمت به LTF بیشتر از HTF واکنش می‌دهد. می‌تواند این معنا را هم داشته باشد که چیزی «HTF» هست که در نمودارت نداری. FXTOP دوست توست (و اگر نیست، دوستش کن )
+
+راستی ممنون بابت همهٔ پست‌هایت در ژورنالت؛ طرز فکر و توصیفت را دوست دارم، خیلی روشن است (و می‌دانم چقدر روشن بودن بعد از یک روز معامله آسان نیست )
+
+Hugo
+
+### astrokillah_p9_16
+EN: ViTaLDRuG wrote: Hi AK,
+
+I feel you.. I had the same doubts.. But as you said.. B is the
+important one.. not the high at "1". But when "D" FL is made, B is no
+longer valid. So for a valid short entry in your above example, you will
+ have to have an engulf which haven't any of the possible target in the
+same scale. For example, The high at "1" (although it is not important,
+still it is a high, we have to avoid all possible targets), the low end
+of the FL B, which is a LS, or a very old very High TF key level. You
+said sometimes you see that, what you see as engulf is reaction to a SR
+filp (e.g. as you have shown at "1"). But, most of the time it is not
+actually a reaction to that SR flip (e.g. "1" in your image). It is a
+higher time frame key level. Please extend your dotted line ("2" to "1")
+ further to left in HTF. You will see this. This is just my experience.
+To some people, my case will be valid, but for some mine will not!. I
+will post an example, if I find any.
+
+Thanks,
+
+This is what I said. Most of the time. the SR flips that react to the pips are from hTF key levels.
+FA: ViTaLDRuG نوشت: سلام AK،
+
+حس‌ات را می‌فهمم.. من هم همین شک‌ها را داشتم.. ولی همان‌طور که گفتی.. B مهم است.. نه سقف در «1». اما وقتی FL «D» ساخته می‌شود، B دیگر معتبر نیست. پس برای یک ورود فروش معتبر در مثال بالا، باید اینگالفی داشته باشی که هیچ‌یک از تارگت‌های ممکن را در همان مقیاس نداشته باشد. مثلاً سقف در «1» (هرچند مهم نیست، باز هم یک سقف است و باید از همهٔ تارگت‌های ممکن پرهیز کنیم)، انتهای پایین FL B که یک LS است، یا یک سطح کلیدی خیلی قدیمی در تایم‌فریم خیلی بالا. گفتی گاهی این را می‌بینی؛ آن‌چه به‌عنوان اینگالف می‌بینی واکنش به یک برگشت SR است (مثلاً همان‌طور که در «1» نشان دادی). ولی بیشتر وقت‌ها واقعاً واکنش به آن برگشت SR نیست (مثلاً «1» در تصویرت). یک سطح کلیدی تایم‌فریم بالاتر است. خط‌چینت («2» تا «1») را در HTF بیشتر به چپ ادامه بده. این را خواهی دید. این فقط تجربهٔ من است. برای بعضی آدم‌ها حرف من معتبر خواهد بود، ولی برای بعضی نه! اگر نمونه‌ای پیدا کنم، پستش می‌کنم.
+
+ممنون،
+
+این همان چیزی است که گفتم. بیشتر وقت‌ها، برگشت‌های SR‌ی که دقیقاً تا پیپ واکنش می‌دهند از سطوح کلیدی HTF می‌آیند.
+
+### astrokillah_p9_17
+EN: Thanks so much HCDE, VitalDruG for helping me out here. I apologize I
+ wasn't able to reply to your comments earlier. I have been traveling
+with my children since 5 December so I have had very limited time for
+trading and reading RTM. I will be back in action this coming week. I
+saw a lot of new posts with plenty of gold nuggets that requires some
+times to digest. So that's what I'm going to do for the next few days.
+
+Trading wise, my December account was doing quite ok, I got to +12%
+after just 4 days of trading in December (by 5 December), then as I was
+travelling, I could not baby-seat several pending orders that got
+triggered. Two of them actually brought me huge profit at one stage but
+then price quickly reversed and caused some DD on the account, I had to
+do a few crazy thing to salvage the DD. I learned a few things from a
+trading buddy (I called him Master Scalper): He normally trades when
+there's no RED news, and he noticed that in the absence of red news,
+price is just going to do yo-yo, or move like ping-pong ball, up and
+down, up and down. So for example, if he shorted from one supply level,
+and this level fails to hold, he wouldn't get panicked, he would add a
+second short position when he sees price engulf south after it has
+reached the next supply level higher up. So then, price only have to
+drop half way between his two entries for him to get out of the trades
+in positive overall. I did this in one trade, and it worked, but the
+account statement is showing 1.77% drawdown because one of the trades
+was closed in negative.
+FA: خیلی ممنون HCDE و VitalDruG که این‌جا کمکم کردید. عذر می‌خواهم که زودتر نتوانستم به کامنت‌هایتان پاسخ بدهم. از 5 December با بچه‌هایم در سفر بوده‌ام، پس وقت خیلی محدودی برای معامله و خواندن RTM داشتم. هفتهٔ آینده برمی‌گردم به کار. پست‌های جدید زیادی با کلی نکتهٔ طلایی دیدم که زمان می‌خواهد تا هضم شوند. پس چند روز آینده همین کار را می‌کنم.
+
+از نظر معاملاتی، حساب دسامبر من خیلی خوب پیش می‌رفت؛ بعد از فقط 4 روز معامله در دسامبر (تا 5 December) به +12% رسیدم، ولی چون در سفر بودم نتوانستم چند سفارش در انتظار را که فعال شدند پرستاری کنم. دو تایشان در یک مرحله سود بزرگی برایم آوردند، ولی بعد قیمت سریع برگشت و کمی DD روی حساب ساخت؛ مجبور شدم چند کار دیوانه‌وار بکنم تا DD را نجات دهم. از یک رفیق معامله‌گر چند چیز یاد گرفتم (به او می‌گویم استاد اسکالپر): او معمولاً وقتی خبر قرمز نیست معامله می‌کند و متوجه شده در نبود خبر قرمز، قیمت فقط یویو بازی می‌کند یا مثل توپ پینگ‌پنگ بالا و پایین می‌رود. مثلاً اگر از یک سطح عرضه فروش می‌گرفت و آن سطح نگه نمی‌داشت، هراسان نمی‌شد؛ وقتی می‌دید قیمت بعد از رسیدن به سطح عرضهٔ بالاتر بعدی به سمت جنوب اینگالف می‌شود، یک پوزیشن فروش دوم اضافه می‌کرد. بعد قیمت فقط باید تا نیمهٔ راه بین دو ورودش می‌افتاد تا او در مجموع مثبت از معامله‌ها بیرون بیاید. من این را در یک معامله انجام دادم و جواب داد، ولی صورت‌حساب 1.77% دراودان نشان می‌دهد، چون یکی از معامله‌ها منفی بسته شد.
+
+### astrokillah_p9_18
+EN: Honestly, I found plenty of reason to curse myself today. I need to
+improve my focus! yes, FOCUS! I just couldn't focus. I told myself to
+watch only a few good pairs but I ended up watching every instrument and
+ missing a bunch of easy trades. Here's one that's so simple to take,
+but I missed it completely.
+
+On M15 chart, you wonder why price stopped there.
+
+Then on M5 chart, you thought, oh well, price has engulfed a 'bearish' kink, and you said ok, here's where RTM failing again.
+
+And then you remember that IFmyante is a Master in trading 1 min chart,
+so you go look there, and voila.... the real kink is in 1-min, and looks
+ how beautiful the reaction was??
+
+So as I was hitting my head, cursing myself for not able to catch these
+trade, I then saw something interesting. I saw an LS, and an LSK with
+clean DP:
+
+And then I look at how far the current price is from this LS level:
+
+And I told myself, price has to get there, it has to get there, that
+level is just too 'juicy' for IT to miss. So instead of waiting for
+price to get to that level, I clicked BUY instead, with my TP just
+before the LS, and I have also set pending sell order right at the LS
+level too. But this is dangerous trading... so don't try this at home
+FA: راستش امروز دلیل زیادی برای نفرین کردن خودم پیدا کردم. باید تمرکزم را بهتر کنم! بله، تمرکز! فقط نمی‌توانستم تمرکز کنم. به خودم گفتم فقط چند جفت‌ارز خوب را زیر نظر بگیرم، ولی آخرش همهٔ ابزارها را نگاه می‌کردم و کلی معاملهٔ آسان را از دست دادم. این یکی آن‌قدر ساده بود که بگیرم، ولی کامل از دستش دادم.
+
+روی نمودار M15، می‌مانی چرا قیمت آن‌جا متوقف شد.
+
+بعد روی نمودار M5 فکر می‌کنی خب، قیمت یک کینک «نزولی» را اینگالف کرده و می‌گویی باشه، این‌جاست که RTM دوباره شکست می‌خورد.
+
+و بعد یادت می‌آید که IFmyante در معامله روی نمودار 1 دقیقه استاد است، پس می‌روی آن‌جا را نگاه کنی و ببین.... کینک واقعی در 1 دقیقه است، و ببین واکنش چقدر زیبا بود؟؟
+
+پس همان‌طور که سرم را می‌زدم و خودم را نفرین می‌کردم که نتوانستم این معامله را بگیرم، بعد چیزی جالب دیدم. یک LS دیدم و یک LSK با DP تمیز:
+
+و بعد نگاه کردم که قیمت فعلی چقدر از این سطح LS فاصله دارد:
+
+و به خودم گفتم قیمت باید برسد، باید برسد؛ آن سطح برای IT آن‌قدر «آبدار» است که از دستش ندهد. پس به جای صبر کردن تا رسیدن قیمت به آن سطح، روی BUY کلیک کردم، با تارگتم درست قبل از LS، و یک سفارش فروش در انتظار هم دقیقاً روی سطح LS گذاشتم. ولی این معامله‌گری خطرناکی است... پس در خانه امتحانش نکنید
+
+### astrokillah_p9_19
+EN: "Crazy" trade is working out fine, I went to sleep, so I wasn't aware
+of the drawdown, woke up, it hit my TP which is just below the double
+peaks to the left. I expect some retrace and will buy again if price
+drops lower. This kind of trading is definitely not for the
+faint-hearted, the most important criteria is NO red news while you take
+ such trade. This is NOT a typical RTM's setup, but the
+logic/fundamental behind is all based on RTM, because if I have not
+found the juicy LSK, if I did not see price engulfed the double tops
+earlier, I wouldn't have the confidence that price is heading up.
+FA: «دیوانه‌وار» پیش می‌رود؛ خوابیدم، پس از دراودان خبر نداشتم، بیدار شدم و دیدم به تارگتم خورد که درست زیر سقف‌های دوقلوی سمت چپ است. انتظار کمی اصلاح دارم و اگر قیمت پایین‌تر بیاید دوباره می‌خرم. این سبک معامله‌گری قطعاً برای دل‌های ضعیف نیست؛ مهم‌ترین معیار این است که وقتی چنین معامله‌ای می‌گیری خبر قرمز نباشد. این یک ستاپ معمول RTM نیست، ولی منطق و بنیاد پشتش کاملاً بر RTM استوار است، چون اگر آن LSK آبدار را پیدا نکرده بودم و اگر نمی‌دیدم قیمت سقف‌های دوقلو را زودتر اینگالف کرده، اعتماد پیدا نمی‌کردم که قیمت بالا می‌رود.
+
+### astrokillah_p9_20
+EN: You are playing with fire AK
+FA: AK، داری با آتش بازی می‌کنی
+
+### astrokillah_p9_21
+EN: You are absolutely right Enkim.
+
+That LSK I identified two posts ago didn't work, price engulfed the
+bigger kink, I got out of the trade at insignificant profit after it
+made the first retrace below my short entry. I have learned through
+painful experience that it's best to protect my capital when in doubt,
+the market will always be there.
+
+Enkim wrote: You are playing with fire AK
+FA: کاملاً حق داری Enkim.
+
+آن LSK که دو پست قبل شناسایی کردم جواب نداد؛ قیمت کینک بزرگ‌تر را اینگالف کرد و من بعد از اولین اصلاح زیر ورود فروشم با سود ناچیز بیرون آمدم. از تجربهٔ دردناک یاد گرفته‌ام که وقتی شک دارم بهترین کار حفاظت از سرمایه‌ام است؛ بازار همیشه آن‌جا خواهد بود.
+
+Enkim نوشت: AK، داری با آتش بازی می‌کنی
+
+### astrokillah_p9_22
+EN: Best catch of the week:
+FA: بهترین شکار هفته:
+
+### astrokillah_p9_23
+EN: Caught another one, but price stuck between two SD zones..
+FA: یکی دیگر هم گرفتم، ولی قیمت بین دو ناحیهٔ SD گیر کرده..
+
+### astrokillah_p9_24
+EN: Done for the day, finally hit +20% for the month of December. Never in
+my entire life have I ever averaged more than +5% in a month, but thanks
+ to RTM, I am on course to hit +30% for two straight months. I know this
+ is nothing special compared to others, but honestly, +20% a month is
+more than enough for me (consistency is more important than big up and
+big down).
+
+Thank you Master IF, thank you RTM, thank you to all the generous
+traders here, special shout-out to Rinehart, Hoeschec, Ysbail, Salivan,
+Mertch, Frosty, Mukhcin, Pedro, Enkim, Einrikr (to many names, I
+apologize if I missed out someone), to all of you that has helped me, I
+really owe you guys a big one, have a good trading day ahead.
+FA: برای امروز تمام است؛ بالاخره در ماه دسامبر به +20% رسیدم. در تمام عمرم هرگز میانگین بیشتر از +5% در ماه نداشته‌ام، ولی به لطف RTM در مسیر رسیدن به +30% برای دو ماه پشت‌سرهم هستم. می‌دانم این در مقایسه با دیگران چیز خاصی نیست، ولی راستش +20% در ماه برای من بیش از اندازهٔ کافی است (ثبات مهم‌تر از اوج و افت بزرگ است).
+
+ممنون استاد IF، ممنون RTM، ممنون از همهٔ معامله‌گران سخاوتمند این‌جا، سلام ویژه به Rinehart، Hoeschec، Ysbail، Salivan، Mertch، Frosty، Mukhcin، Pedro، Enkim، Einrikr (اسم‌ها زیادند، اگر کسی را جا انداختم عذر می‌خواهم)، برای همهٔ شما که کمکم کردید، واقعاً یک دنیا مدیونتان هستم؛ روز معاملاتی خوبی داشته باشید.
+
+### astrokillah_p9_25
+EN: That's just brilliant to see!
+
+Very well done you
+FA: دیدن این فقط فوق‌العاده است!
+
+خیلی خوب انجام دادی

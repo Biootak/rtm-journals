@@ -1,0 +1,1094 @@
+{
+ "generatedAt": "2026-11-07T14:05:33.437Z",
+ "groups": [
+  {
+   "journal": "andrew",
+   "pages": [
+    1
+   ],
+   "posts": 25,
+   "chars": 20478,
+   "keys": [
+    "andrew-p1"
+   ]
+  },
+  {
+   "journal": "andrew",
+   "pages": [
+    2
+   ],
+   "posts": 25,
+   "chars": 7923,
+   "keys": [
+    "andrew-p2"
+   ]
+  },
+  {
+   "journal": "andrew",
+   "pages": [
+    3
+   ],
+   "posts": 25,
+   "chars": 7064,
+   "keys": [
+    "andrew-p3"
+   ]
+  },
+  {
+   "journal": "andrew",
+   "pages": [
+    4
+   ],
+   "posts": 24,
+   "chars": 4717,
+   "keys": [
+    "andrew-p4"
+   ]
+  },
+  {
+   "journal": "aran",
+   "pages": [
+    1,
+    2
+   ],
+   "posts": 31,
+   "chars": 3134,
+   "keys": [
+    "aran-p1",
+    "aran-p2"
+   ]
+  },
+  {
+   "journal": "aran",
+   "pages": [
+    3
+   ],
+   "posts": 24,
+   "chars": 13159,
+   "keys": [
+    "aran-p3"
+   ]
+  },
+  {
+   "journal": "aran",
+   "pages": [
+    4
+   ],
+   "posts": 24,
+   "chars": 6998,
+   "keys": [
+    "aran-p4"
+   ]
+  },
+  {
+   "journal": "aran",
+   "pages": [
+    5
+   ],
+   "posts": 25,
+   "chars": 6589,
+   "keys": [
+    "aran-p5"
+   ]
+  },
+  {
+   "journal": "aran",
+   "pages": [
+    6
+   ],
+   "posts": 24,
+   "chars": 4191,
+   "keys": [
+    "aran-p6"
+   ]
+  },
+  {
+   "journal": "aran",
+   "pages": [
+    7,
+    8
+   ],
+   "posts": 27,
+   "chars": 7507,
+   "keys": [
+    "aran-p7",
+    "aran-p8"
+   ]
+  },
+  {
+   "journal": "benhur",
+   "pages": [
+    1
+   ],
+   "posts": 21,
+   "chars": 3259,
+   "keys": [
+    "benhur-p1"
+   ]
+  },
+  {
+   "journal": "benhur",
+   "pages": [
+    2
+   ],
+   "posts": 18,
+   "chars": 1924,
+   "keys": [
+    "benhur-p2"
+   ]
+  },
+  {
+   "journal": "benhur",
+   "pages": [
+    3
+   ],
+   "posts": 22,
+   "chars": 3403,
+   "keys": [
+    "benhur-p3"
+   ]
+  },
+  {
+   "journal": "benhur",
+   "pages": [
+    4
+   ],
+   "posts": 25,
+   "chars": 3677,
+   "keys": [
+    "benhur-p4"
+   ]
+  },
+  {
+   "journal": "benhur",
+   "pages": [
+    5
+   ],
+   "posts": 25,
+   "chars": 6656,
+   "keys": [
+    "benhur-p5"
+   ]
+  },
+  {
+   "journal": "benhur",
+   "pages": [
+    6
+   ],
+   "posts": 25,
+   "chars": 5130,
+   "keys": [
+    "benhur-p6"
+   ]
+  },
+  {
+   "journal": "benhur",
+   "pages": [
+    7
+   ],
+   "posts": 25,
+   "chars": 11469,
+   "keys": [
+    "benhur-p7"
+   ]
+  },
+  {
+   "journal": "benhur",
+   "pages": [
+    8,
+    9
+   ],
+   "posts": 29,
+   "chars": 13055,
+   "keys": [
+    "benhur-p8",
+    "benhur-p9"
+   ]
+  },
+  {
+   "journal": "edges",
+   "pages": [
+    1
+   ],
+   "posts": 25,
+   "chars": 18785,
+   "keys": [
+    "edges-p1"
+   ]
+  },
+  {
+   "journal": "edges",
+   "pages": [
+    2
+   ],
+   "posts": 25,
+   "chars": 18297,
+   "keys": [
+    "edges-p2"
+   ]
+  },
+  {
+   "journal": "edges",
+   "pages": [
+    3
+   ],
+   "posts": 23,
+   "chars": 7269,
+   "keys": [
+    "edges-p3"
+   ]
+  },
+  {
+   "journal": "edges",
+   "pages": [
+    4
+   ],
+   "posts": 24,
+   "chars": 3621,
+   "keys": [
+    "edges-p4"
+   ]
+  },
+  {
+   "journal": "edges",
+   "pages": [
+    5
+   ],
+   "posts": 24,
+   "chars": 5020,
+   "keys": [
+    "edges-p5"
+   ]
+  },
+  {
+   "journal": "edges",
+   "pages": [
+    6
+   ],
+   "posts": 22,
+   "chars": 6196,
+   "keys": [
+    "edges-p6"
+   ]
+  },
+  {
+   "journal": "edges",
+   "pages": [
+    7
+   ],
+   "posts": 25,
+   "chars": 7683,
+   "keys": [
+    "edges-p7"
+   ]
+  },
+  {
+   "journal": "edges",
+   "pages": [
+    8
+   ],
+   "posts": 11,
+   "chars": 1571,
+   "keys": [
+    "edges-p8"
+   ]
+  },
+  {
+   "journal": "einrikr",
+   "pages": [
+    1
+   ],
+   "posts": 25,
+   "chars": 9053,
+   "keys": [
+    "einrikr-p1"
+   ]
+  },
+  {
+   "journal": "einrikr",
+   "pages": [
+    2
+   ],
+   "posts": 24,
+   "chars": 6913,
+   "keys": [
+    "einrikr-p2"
+   ]
+  },
+  {
+   "journal": "einrikr",
+   "pages": [
+    3
+   ],
+   "posts": 24,
+   "chars": 8529,
+   "keys": [
+    "einrikr-p3"
+   ]
+  },
+  {
+   "journal": "einrikr",
+   "pages": [
+    4
+   ],
+   "posts": 24,
+   "chars": 10529,
+   "keys": [
+    "einrikr-p4"
+   ]
+  },
+  {
+   "journal": "einrikr",
+   "pages": [
+    5,
+    6
+   ],
+   "posts": 28,
+   "chars": 13187,
+   "keys": [
+    "einrikr-p5",
+    "einrikr-p6"
+   ]
+  },
+  {
+   "journal": "fxeyes",
+   "pages": [
+    1
+   ],
+   "posts": 25,
+   "chars": 10440,
+   "keys": [
+    "fxeyes-p1"
+   ]
+  },
+  {
+   "journal": "fxeyes",
+   "pages": [
+    2
+   ],
+   "posts": 25,
+   "chars": 18289,
+   "keys": [
+    "fxeyes-p2"
+   ]
+  },
+  {
+   "journal": "fxeyes",
+   "pages": [
+    3
+   ],
+   "posts": 24,
+   "chars": 22345,
+   "keys": [
+    "fxeyes-p3"
+   ]
+  },
+  {
+   "journal": "fxeyes",
+   "pages": [
+    4
+   ],
+   "posts": 12,
+   "chars": 1700,
+   "keys": [
+    "fxeyes-p4"
+   ]
+  },
+  {
+   "journal": "fxeyes",
+   "pages": [
+    5
+   ],
+   "posts": 19,
+   "chars": 13403,
+   "keys": [
+    "fxeyes-p5"
+   ]
+  },
+  {
+   "journal": "jurij",
+   "pages": [
+    13
+   ],
+   "posts": 25,
+   "chars": 4987,
+   "keys": [
+    "jurij-p13"
+   ]
+  },
+  {
+   "journal": "jurij",
+   "pages": [
+    14
+   ],
+   "posts": 24,
+   "chars": 5473,
+   "keys": [
+    "jurij-p14"
+   ]
+  },
+  {
+   "journal": "linos",
+   "pages": [
+    1
+   ],
+   "posts": 24,
+   "chars": 5673,
+   "keys": [
+    "linos-p1"
+   ]
+  },
+  {
+   "journal": "linos",
+   "pages": [
+    2
+   ],
+   "posts": 24,
+   "chars": 3006,
+   "keys": [
+    "linos-p2"
+   ]
+  },
+  {
+   "journal": "linos",
+   "pages": [
+    3
+   ],
+   "posts": 23,
+   "chars": 7235,
+   "keys": [
+    "linos-p3"
+   ]
+  },
+  {
+   "journal": "linos",
+   "pages": [
+    4
+   ],
+   "posts": 25,
+   "chars": 7216,
+   "keys": [
+    "linos-p4"
+   ]
+  },
+  {
+   "journal": "linos",
+   "pages": [
+    5
+   ],
+   "posts": 25,
+   "chars": 4702,
+   "keys": [
+    "linos-p5"
+   ]
+  },
+  {
+   "journal": "linos",
+   "pages": [
+    6
+   ],
+   "posts": 25,
+   "chars": 5184,
+   "keys": [
+    "linos-p6"
+   ]
+  },
+  {
+   "journal": "linos",
+   "pages": [
+    7
+   ],
+   "posts": 25,
+   "chars": 3312,
+   "keys": [
+    "linos-p7"
+   ]
+  },
+  {
+   "journal": "linos",
+   "pages": [
+    8
+   ],
+   "posts": 25,
+   "chars": 3599,
+   "keys": [
+    "linos-p8"
+   ]
+  },
+  {
+   "journal": "linos",
+   "pages": [
+    9
+   ],
+   "posts": 17,
+   "chars": 5406,
+   "keys": [
+    "linos-p9"
+   ]
+  },
+  {
+   "journal": "mel",
+   "pages": [
+    1
+   ],
+   "posts": 25,
+   "chars": 19826,
+   "keys": [
+    "mel-p1"
+   ]
+  },
+  {
+   "journal": "mel",
+   "pages": [
+    2
+   ],
+   "posts": 25,
+   "chars": 7996,
+   "keys": [
+    "mel-p2"
+   ]
+  },
+  {
+   "journal": "mel",
+   "pages": [
+    3
+   ],
+   "posts": 25,
+   "chars": 9462,
+   "keys": [
+    "mel-p3"
+   ]
+  },
+  {
+   "journal": "mel",
+   "pages": [
+    4
+   ],
+   "posts": 25,
+   "chars": 8606,
+   "keys": [
+    "mel-p4"
+   ]
+  },
+  {
+   "journal": "mel",
+   "pages": [
+    5
+   ],
+   "posts": 25,
+   "chars": 8491,
+   "keys": [
+    "mel-p5"
+   ]
+  },
+  {
+   "journal": "mel",
+   "pages": [
+    6,
+    7
+   ],
+   "posts": 33,
+   "chars": 9900,
+   "keys": [
+    "mel-p6",
+    "mel-p7"
+   ]
+  },
+  {
+   "journal": "michal238",
+   "pages": [
+    1
+   ],
+   "posts": 23,
+   "chars": 3258,
+   "keys": [
+    "michal238-p1"
+   ]
+  },
+  {
+   "journal": "michal238",
+   "pages": [
+    2
+   ],
+   "posts": 23,
+   "chars": 4958,
+   "keys": [
+    "michal238-p2"
+   ]
+  },
+  {
+   "journal": "michal238",
+   "pages": [
+    3
+   ],
+   "posts": 12,
+   "chars": 18727,
+   "keys": [
+    "michal238-p3"
+   ]
+  },
+  {
+   "journal": "michal238",
+   "pages": [
+    4,
+    5
+   ],
+   "posts": 35,
+   "chars": 9882,
+   "keys": [
+    "michal238-p4",
+    "michal238-p5"
+   ]
+  },
+  {
+   "journal": "michal238",
+   "pages": [
+    6
+   ],
+   "posts": 22,
+   "chars": 2682,
+   "keys": [
+    "michal238-p6"
+   ]
+  },
+  {
+   "journal": "michal238",
+   "pages": [
+    7
+   ],
+   "posts": 21,
+   "chars": 8062,
+   "keys": [
+    "michal238-p7"
+   ]
+  },
+  {
+   "journal": "michal238",
+   "pages": [
+    8
+   ],
+   "posts": 23,
+   "chars": 9850,
+   "keys": [
+    "michal238-p8"
+   ]
+  },
+  {
+   "journal": "michal238",
+   "pages": [
+    9
+   ],
+   "posts": 22,
+   "chars": 8449,
+   "keys": [
+    "michal238-p9"
+   ]
+  },
+  {
+   "journal": "michal238",
+   "pages": [
+    10
+   ],
+   "posts": 25,
+   "chars": 15332,
+   "keys": [
+    "michal238-p10"
+   ]
+  },
+  {
+   "journal": "michal238",
+   "pages": [
+    11
+   ],
+   "posts": 13,
+   "chars": 3963,
+   "keys": [
+    "michal238-p11"
+   ]
+  },
+  {
+   "journal": "moneydeep",
+   "pages": [
+    1
+   ],
+   "posts": 25,
+   "chars": 31142,
+   "keys": [
+    "moneydeep-p1"
+   ]
+  },
+  {
+   "journal": "moneydeep",
+   "pages": [
+    2,
+    3
+   ],
+   "posts": 34,
+   "chars": 11359,
+   "keys": [
+    "moneydeep-p2",
+    "moneydeep-p3"
+   ]
+  },
+  {
+   "journal": "mukhcin",
+   "pages": [
+    1
+   ],
+   "posts": 25,
+   "chars": 4612,
+   "keys": [
+    "mukhcin-p1"
+   ]
+  },
+  {
+   "journal": "mukhcin",
+   "pages": [
+    2
+   ],
+   "posts": 25,
+   "chars": 4466,
+   "keys": [
+    "mukhcin-p2"
+   ]
+  },
+  {
+   "journal": "mukhcin",
+   "pages": [
+    3
+   ],
+   "posts": 25,
+   "chars": 4440,
+   "keys": [
+    "mukhcin-p3"
+   ]
+  },
+  {
+   "journal": "mukhcin",
+   "pages": [
+    4
+   ],
+   "posts": 24,
+   "chars": 6516,
+   "keys": [
+    "mukhcin-p4"
+   ]
+  },
+  {
+   "journal": "mukhcin",
+   "pages": [
+    5
+   ],
+   "posts": 25,
+   "chars": 4498,
+   "keys": [
+    "mukhcin-p5"
+   ]
+  },
+  {
+   "journal": "mukhcin",
+   "pages": [
+    6
+   ],
+   "posts": 19,
+   "chars": 3227,
+   "keys": [
+    "mukhcin-p6"
+   ]
+  },
+  {
+   "journal": "mukhcin",
+   "pages": [
+    7
+   ],
+   "posts": 23,
+   "chars": 5820,
+   "keys": [
+    "mukhcin-p7"
+   ]
+  },
+  {
+   "journal": "mukhcin",
+   "pages": [
+    8,
+    9
+   ],
+   "posts": 25,
+   "chars": 5385,
+   "keys": [
+    "mukhcin-p8",
+    "mukhcin-p9"
+   ]
+  },
+  {
+   "journal": "omidfx",
+   "pages": [
+    4
+   ],
+   "posts": 25,
+   "chars": 6349,
+   "keys": [
+    "omidfx-p4"
+   ]
+  },
+  {
+   "journal": "omidfx",
+   "pages": [
+    5
+   ],
+   "posts": 25,
+   "chars": 9988,
+   "keys": [
+    "omidfx-p5"
+   ]
+  },
+  {
+   "journal": "omidfx",
+   "pages": [
+    6
+   ],
+   "posts": 25,
+   "chars": 10350,
+   "keys": [
+    "omidfx-p6"
+   ]
+  },
+  {
+   "journal": "omidfx",
+   "pages": [
+    7
+   ],
+   "posts": 25,
+   "chars": 11578,
+   "keys": [
+    "omidfx-p7"
+   ]
+  },
+  {
+   "journal": "omidfx",
+   "pages": [
+    8
+   ],
+   "posts": 25,
+   "chars": 11917,
+   "keys": [
+    "omidfx-p8"
+   ]
+  },
+  {
+   "journal": "omidfx",
+   "pages": [
+    9
+   ],
+   "posts": 25,
+   "chars": 10937,
+   "keys": [
+    "omidfx-p9"
+   ]
+  },
+  {
+   "journal": "omidfx",
+   "pages": [
+    10
+   ],
+   "posts": 23,
+   "chars": 8669,
+   "keys": [
+    "omidfx-p10"
+   ]
+  },
+  {
+   "journal": "rinehart",
+   "pages": [
+    1,
+    2
+   ],
+   "posts": 34,
+   "chars": 6903,
+   "keys": [
+    "rinehart-p1",
+    "rinehart-p2"
+   ]
+  },
+  {
+   "journal": "rinehart",
+   "pages": [
+    3,
+    4
+   ],
+   "posts": 35,
+   "chars": 5807,
+   "keys": [
+    "rinehart-p3",
+    "rinehart-p4"
+   ]
+  },
+  {
+   "journal": "rinehart",
+   "pages": [
+    5
+   ],
+   "posts": 15,
+   "chars": 3029,
+   "keys": [
+    "rinehart-p5"
+   ]
+  },
+  {
+   "journal": "rinehart",
+   "pages": [
+    6
+   ],
+   "posts": 22,
+   "chars": 8525,
+   "keys": [
+    "rinehart-p6"
+   ]
+  },
+  {
+   "journal": "rinehart",
+   "pages": [
+    7
+   ],
+   "posts": 18,
+   "chars": 3771,
+   "keys": [
+    "rinehart-p7"
+   ]
+  },
+  {
+   "journal": "rinehart",
+   "pages": [
+    8
+   ],
+   "posts": 18,
+   "chars": 3028,
+   "keys": [
+    "rinehart-p8"
+   ]
+  },
+  {
+   "journal": "rinehart",
+   "pages": [
+    9
+   ],
+   "posts": 19,
+   "chars": 7544,
+   "keys": [
+    "rinehart-p9"
+   ]
+  },
+  {
+   "journal": "rinehart",
+   "pages": [
+    10
+   ],
+   "posts": 23,
+   "chars": 3831,
+   "keys": [
+    "rinehart-p10"
+   ]
+  },
+  {
+   "journal": "rinehart",
+   "pages": [
+    11
+   ],
+   "posts": 21,
+   "chars": 10750,
+   "keys": [
+    "rinehart-p11"
+   ]
+  },
+  {
+   "journal": "rinehart",
+   "pages": [
+    12,
+    13
+   ],
+   "posts": 24,
+   "chars": 5977,
+   "keys": [
+    "rinehart-p12",
+    "rinehart-p13"
+   ]
+  },
+  {
+   "journal": "vitaldrug",
+   "pages": [
+    4
+   ],
+   "posts": 24,
+   "chars": 4952,
+   "keys": [
+    "vitaldrug-p4"
+   ]
+  },
+  {
+   "journal": "vitaldrug",
+   "pages": [
+    5
+   ],
+   "posts": 24,
+   "chars": 4787,
+   "keys": [
+    "vitaldrug-p5"
+   ]
+  },
+  {
+   "journal": "vitaldrug",
+   "pages": [
+    6
+   ],
+   "posts": 24,
+   "chars": 13094,
+   "keys": [
+    "vitaldrug-p6"
+   ]
+  },
+  {
+   "journal": "vitaldrug",
+   "pages": [
+    7
+   ],
+   "posts": 25,
+   "chars": 4263,
+   "keys": [
+    "vitaldrug-p7"
+   ]
+  },
+  {
+   "journal": "vitaldrug",
+   "pages": [
+    8
+   ],
+   "posts": 25,
+   "chars": 5690,
+   "keys": [
+    "vitaldrug-p8"
+   ]
+  },
+  {
+   "journal": "vitaldrug",
+   "pages": [
+    9
+   ],
+   "posts": 25,
+   "chars": 7216,
+   "keys": [
+    "vitaldrug-p9"
+   ]
+  },
+  {
+   "journal": "vitaldrug",
+   "pages": [
+    10
+   ],
+   "posts": 23,
+   "chars": 6361,
+   "keys": [
+    "vitaldrug-p10"
+   ]
+  }
+ ]
+}

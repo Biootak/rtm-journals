@@ -1,0 +1,284 @@
+### dbrrbd_p2_26 hash=1185869fcabafc60a3dd59a00d4aeef484b84614
+EN>>
+whiteout wrote: When looks messy, go on LTF Looks how different are the same messy on m30, and i have designed the zone approximately [becouse you have to do precisely:cheer: ]. Still a mess? Go on m15, then down.
+
+Hey Whiteout, Question about your chart, the second rectangle, isn't that just a reaction from the 1st RBD-zone? Regards,
+FA>>
+whiteout نوشت: وقتی شلوغ به نظر می‌رسد، برو روی LTF. ببین همان شلوغی روی m30 چقدر متفاوت است، و من ناحیه را تقریبی رسم کرده‌ام [چون باید دقیق انجام دهی :cheer: ]. هنوز شلوغ است؟ برو m15، بعد پایین‌تر.
+
+سلام Whiteout، سؤالی دربارهٔ چارتت: مستطیل دوم، فقط واکنش قیمت به ناحیهٔ RBD شمارهٔ 1 نیست؟ با احترام،
+
+### dbrrbd_p2_27 hash=8aca0eb1762be8b1d41b34d65d105fd90f25f62a
+EN>>
+hy X
+
+sorry, which one? Anyway their are draw very approximately just to show the concept...but if you are talking about the rectangle around 11 jul, nope, is drew approximatly but is there for a reason, check on ltf.
+FA>>
+سلام X
+
+ببخش، کدام یکی؟ به‌هرحال خیلی تقریبی رسم شده‌اند، فقط برای نشان دادن مفهوم... اما اگر منظورت مستطیل حوالی 11 jul است، نه؛ تقریبی کشیده شده اما دلیلی دارد، روی ltf ببین.
+
+### dbrrbd_p2_28 hash=82c41ac6830f61ab09cb1bbe0a81dc85e6b619b9
+EN>>
+Here are my charts 1-4 of my homework. Your feedback is more than welcome
+FA>>
+این هم چارت‌های 1 تا 4 تکلیفم. از بازخورد شما صمیمانه استقبال می‌کنم
+
+### dbrrbd_p2_29 hash=9abc687952ab836f462bf88604996270ea0ac899
+EN>>
+Lovely work, L_P.
+
+I'm glad you're adding other stuff that you see too
+FA>>
+کار زیبایی، L_P.
+
+خوشحالم که چیزهای دیگری را هم که می‌بینی اضافه می‌کنی
+
+### dbrrbd_p2_30 hash=2f80d7e903edcf3680886953b53319c51b654008
+EN>>
+minimalmonk wrote: yes it happened here. i remember that i've read on PIE or PIE chat something about this. eg. demand just slice supply zone. movement up is quick and strong and some orders in movement direction remain unfilled, so resistance become support till next time. is the truth in it?
+
+yes. that's the guideline; as always you ll watch price approaching, confluence, and the other stuff..just don't push the trigger on all the ignored resistence.
+FA>>
+minimalmonk نوشت: بله، اینجا اتفاق افتاد. یادم هست در PIE یا چت PIE چیزی دربارهٔ این خوانده بودم. مثلاً تقاضا به‌راحتی از ناحیهٔ عرضه عبور می‌کند. حرکت صعودی سریع و قوی است و بعضی سفارش‌ها در جهت حرکت پرنشده می‌مانند، پس مقاومت تا دفعهٔ بعد به حمایت تبدیل می‌شود. آیا این درست است؟
+
+بله. قاعدهٔ کلی همین است؛ مثل همیشه نحوهٔ نزدیک‌شدن قیمت، هم‌گرایی و بقیهٔ عوامل را بررسی می‌کنی.. فقط با دیدن هر مقاومتِ نادیده‌گرفته‌شده وارد معامله نشو.
+
+### dbrrbd_p2_31 hash=183c679299db69105128e06eda8935f9df6368e0
+EN>>
+Just marked up some examples from the EURUSD chart. Most of these worked out, but I added a couple that didn't in lower TFs too.
+
+Think I may add another chart shortly just focusing on those setups that didn't work and how price reacted on its return.
+
+As always, any feedback is welcome:cheer:
+FA>>
+چند نمونه را از چارت EURUSD علامت زدم. بیشترشان جواب دادند، اما چند مورد را هم که جواب ندادند در تایم‌فریم‌های پایین‌تر اضافه کردم.
+
+فکر می‌کنم به‌زودی چارت دیگری بگذارم که فقط روی همان ستاپ‌هایی تمرکز کند که جواب ندادند و قیمت هنگام برگشت چگونه واکنش داد.
+
+مثل همیشه، هر بازخوردی خوش‌آمد است :cheer:
+
+### dbrrbd_p2_32 hash=e838ae722d26eb5c8659d259ac54e6956043f3f1
+EN>>
+I started my DBR/RBD homework analysing daily audusd. When there were a very specific decision point I marked it with a red line, that when is on the outside part of the zone, it could be considered also as a Support or Resistance line. It is, and it is also the outside border of the SD zone. Other times, this red line is exactly the point where the decision was made (when the base is broken by the long candle)
+FA>>
+تمرین DBR/RBD را با تحلیل روزانهٔ audusd شروع کردم. هر جا نقطهٔ تصمیم خیلی مشخصی بود با خط قرمز علامت زدم؛ وقتی آن خط در بخش بیرونی ناحیه باشد، می‌تواند خط حمایت یا مقاومت هم به حساب بیاید. همین‌طور است، و همچنین مرز بیرونی ناحیهٔ عرضه/تقاضاست. گاهی این خط قرمز دقیقاً نقطه‌ای است که تصمیم گرفته شد (وقتی پایه با کندل بلند شکسته می‌شود)
+
+### dbrrbd_p2_33 hash=4f51f53eebe259b3650634d670e0bf3ffd90051d
+EN>>
+A 5M eu analysis
+FA>>
+تحلیل eu در 5M
+
+### dbrrbd_p2_34 hash=1f4ef98fd7d946a70629a6bba52712fc3976537e
+EN>>
+A complete eu analysis from Monthly to 1H
+
+Montly Chart
+
+The same montly chart, but signaling the rejections to decision points:
+
+Isn't that a QM? (yet to do the HW, though):
+
+eurusd Weekly:
+
+eurusd Daily:
+
+eu 4H:
+
+eu 1H:
+
+So, broken the 1H demand, should we expect a rejection in 1.21-1.20 in the Weekly Demand?...
+FA>>
+تحلیل کامل eu از ماهانه تا 1H
+
+چارت ماهانه
+
+همان چارت ماهانه، اما با مشخص‌کردن برگشت‌های قیمت از نقاط تصمیم:
+
+این QM نیست؟ (هرچند تمرین را هنوز انجام نداده‌ام):
+
+eurusd هفتگی:
+
+eurusd روزانه:
+
+eu 4H:
+
+eu 1H:
+
+پس با شکسته‌شدن تقاضای 1H، باید انتظار واکنش برگشتی قیمت در محدودهٔ 1.21-1.20، در ناحیهٔ تقاضای هفتگی را داشته باشیم؟...
+
+### dbrrbd_p2_35 hash=2e5f3f61790b9ada68a748a3106ba5ce91d7f0c5
+EN>>
+And just for fun, cable analysis in 70 and 1 ticks
+FA>>
+و فقط برای تفریح، تحلیل GBPUSD در چارت‌های 70 و 1 تیکی
+
+### dbrrbd_p2_36 hash=ef16a6ec308b823ffb4c0369309fdd5cfcb37c4f
+EN>>
+DBR and RBD
+
+Yellow squares are s/d ignored and reacted on its way to the area. Black lines are S/R
+FA>>
+DBR و RBD
+
+مربع‌های زرد، نواحی عرضه/تقاضای نادیده‌گرفته‌شده‌ای هستند که قیمت در مسیر رسیدن به ناحیه به آن‌ها واکنش نشان داده است. خطوط سیاه حمایت/مقاومت هستند
+
+### dbrrbd_p2_37 hash=17e09bfeb6d717ac2f3341924ce85863ef3f61d9
+EN>>
+EUR 4hr
+
+In this chart ive marked only the DRB/RBD that were able to make a higher high/lower low than the previous swing.
+FA>>
+EUR 4hr
+
+در این چارت فقط DRB/RBDهایی را علامت زده‌ام که توانستند سقف بالاتر یا کف پایین‌تری نسبت به سوینگ قبلی بسازند.
+
+### dbrrbd_p2_38 hash=aa857c7e1db93876f91126506efb9890c509ce28
+EN>>
+Good work Osman
+
+I'd really like to be able to better judge your understanding of these levels, so I have 2 requests for you-
+
+1. please draw your boxes as far right as is relevant - over time you'll get some surprises about how relevant these zones can be over time
+
+2. give some on-chart explanations about what you notice
+
+Thanks, and keep it up
+
+If
+FA>>
+کارت خوب است Osman
+
+واقعاً دوست دارم درکت از این سطوح را بهتر بسنجم، پس 2 درخواست از تو دارم —
+
+1. لطفاً کادرهایت را تا جایی که هنوز معتبرند به سمت راست امتداد بده — با گذشت زمان، از اینکه این نواحی چقدر همچنان معتبر می‌مانند غافلگیر خواهی شد
+
+2. روی چارت کمی دربارهٔ چیزهایی که متوجه می‌شوی توضیح بده
+
+ممنون، ادامه بده
+
+If
+
+### dbrrbd_p2_39 hash=fba5c919a97e83f2f7ebf072d9e80f469f3172ca
+EN>>
+Sure, ill do so.
+
+Thx!
+FA>>
+حتماً، همین کار را می‌کنم.
+
+ممنون!
+
+### dbrrbd_p2_40 hash=c91dc34770acc83a057d60abe6174d05ec0475ad
+EN>>
+Hey Guys,
+
+I have marked S&D zones on current AUDUSD H1 chart as a part of my homework. I have also included few comments. I'm looking for a sell signals (smaller TF) on this pair until the daily demand is reached.
+
+Any comments and critique is most welcome.
+
+Cheers Elin
+FA>>
+سلام بچه‌ها،
+
+به‌عنوان بخشی از تمرینم نواحی عرضه/تقاضا را روی چارت فعلی AUDUSD H1 علامت زده‌ام. چند توضیح هم گذاشته‌ام. تا زمانی که قیمت به ناحیهٔ تقاضای روزانه برسد، در این جفت‌ارز دنبال سیگنال‌های فروش در تایم‌فریم پایین‌تر هستم.
+
+هر نظر و نقدی خوش‌آمد است.
+
+درود Elin
+
+### dbrrbd_p2_41 hash=9a78c6a56a92d6b79df1bdf7146d7933a36a26a5
+EN>>
+Chokdee
+
+I'm not sure if some of my RBD/DBR have enough base to them, making them more like RD's and DR's. Although, on the next time-frame down the base is present. Any comments are more than welcome! Thanks, Chokdee
+FA>>
+Chokdee
+
+مطمئن نیستم بعضی از RBD/DBRهایم پایهٔ کافی دارند و بیشتر شبیه RD و DR شده‌اند. هرچند در تایم‌فریم پایین‌تر بعدی پایه هست. هر نظری خوش‌آمد است! ممنون، Chokdee
+
+### dbrrbd_p2_42 hash=7e70cdba1f471ac75b1508ccc6d85f89b395365c
+EN>>
+hi chokdee yes, when looks a little mess go into LTF...and a DBR / RBD could have a little base, rally into S zones then price falls down immidiatly - nice!! a lot of supply - but generally speaking you can find quite always a little base on ltf, and you will love that base. [little retracemente to the base..and puf you go short..if trade a lot this way.] just 2 hints try to drawn that zone more accuratly [start an homework session on an h1 m30 or m15 so can have more hystory to scan than the W1] pay attention to the difference between RBD/DBR and RBR/DBD they are both decision point and you have to pay attention to both, but they are different [of course a D1 RBR will contain a lot of RBD and DBR and RBR/DBR in the LFT]. must have some scheme at home, i will post later.
+FA>>
+سلام chokdee، بله، وقتی کمی شلوغ به نظر می‌رسد به تایم‌فریم پایین‌تر برو... و یک DBR/RBD می‌تواند بیس کوچکی داشته باشد؛ قیمت به نواحی عرضه رالی می‌کند و بعد فوراً می‌ریزد — عالی!! عرضهٔ زیاد — اما در کل تقریباً همیشه می‌توانی بیس کوچکی در تایم‌فریم پایین‌تر پیدا کنی، و عاشق آن بیس خواهی شد. [برگشت کوچکی به بیس.. و بعد یک‌دفعه وارد فروش می‌شوی.. if خیلی به این روش معامله می‌کند.] فقط 2 نکته: سعی کن آن ناحیه را دقیق‌تر رسم کنی [یک جلسهٔ تمرین روی h1، m30 یا m15 شروع کن تا نسبت به W1 تاریخچهٔ بیشتری برای بررسی داشته باشی] به تفاوت RBD/DBR با RBR/DBD دقت کن؛ هر دو نقطهٔ تصمیم‌اند و باید به هر دو توجه کنی، اما متفاوت‌اند [البته یک RBR در D1 شامل تعداد زیادی RBD و DBR و RBR/DBR در LFT می‌شود]. باید در خانه چند طرح داشته باشم؛ بعداً می‌گذارم.
+
+### dbrrbd_p2_43 hash=a6249e9e78c2b561869140ba6a105742fb5fdbec
+EN>>
+Here goes...
+FA>>
+این هم از این...
+
+### dbrrbd_p2_44 hash=3009c9e731bbc8f1fc971c9f7bd52d36119f9d4d
+EN>>
+Hi all,
+
+Hope I got this right.
+FA>>
+سلام به همه،
+
+امیدوارم درست انجامش داده باشم.
+
+### dbrrbd_p2_45 hash=c2c08f79f299d7ba6d5d02f0c94a84bbd9b90618
+EN>>
+Hi al, nice to see that now you can post pictures and charts. ok, about the chart you have posted...yeah you have got the idea, but the aim of the homework is not just spot them and draw some rectangle around them, is to understand that every Rally Base Drop - Drop Base Rally or Rally Base Rally - Drop Base Rally -is a decision point.
+
+That's why you wonna find that point and then see how price have reacted to that later, becouse we are dealing whit decision point. Like all in life they have a different value, some are big important point other no etc etc.
+
+Find a drop base rally, mark that area, and see what price have done the next time that price have visited that point and so on. hope that make sense. [sorry for bad eng]
+
+ps: in this chart i have roughly marked just some of them, just to give you the idea..i can assure you that after you have spent some time on them you will see some complex story around every one of them.
+FA>>
+سلام al، خوشحالم که حالا می‌توانی عکس و چارت بگذاری. خب، دربارهٔ چارتی که گذاشتی... بله، مفهوم را گرفته‌ای، اما هدف تمرین فقط پیدا کردنشان و کشیدن چند مستطیل دورشان نیست؛ باید بفهمی که هر رالی-بیس-دراپ — دراپ-بیس-رالی یا رالی-بیس-رالی — دراپ-بیس-رالی — یک نقطهٔ تصمیم است.
+
+برای همین می‌خواهی آن نقطه را پیدا کنی و بعد ببینی قیمت در ادامه چگونه به آن واکنش داده است، چون ما با نقاط تصمیم سروکار داریم. مثل همه‌چیز در زندگی، ارزش‌های متفاوتی دارند؛ بعضی نقاط بزرگ و مهمی هستند و بعضی نه و غیره.
+
+یک دراپ-بیس-رالی پیدا کن، آن ناحیه را علامت بزن و ببین قیمت دفعهٔ بعدی که به آن نقطه سر زد چه کرد و همین‌طور ادامه بده. امیدوارم منظورم روشن باشد. [ببخشید انگلیسی‌ام بد است]
+
+پ.ن: در این چارت فقط چندتایشان را تقریبی علامت زده‌ام تا مفهوم را بگیری.. به تو اطمینان می‌دهم که بعد از مدتی وقت‌گذاشتن روی آن‌ها، داستان پیچیده‌ای پیرامون هر کدام خواهی دید.
+
+### dbrrbd_p2_46 hash=ef0331733cd1efacc8c7fc9ffaa8b7593ceb42ce
+EN>>
+Hi Al, Whiteout,
+
+I opened a journal, inspired by this discussion, to further investigate price. This is the link
+
+Here is a chart to also illustrated what whiteout is saying:
+FA>>
+سلام Al، Whiteout،
+
+با الهام از این بحث یک ژورنال باز کردم تا قیمت را بیشتر بررسی کنم. این هم لینک
+
+این هم چارتی برای نشان دادن حرف whiteout:
+
+### dbrrbd_p2_47 hash=01f00272e1c50309a9244a86770681ca8049bb6c
+EN>>
+Thanks whiteout.
+
+your comments are noted, and I will examine this closer later on.
+FA>>
+ممنون whiteout.
+
+نظرت را ثبت کردم و بعداً دقیق‌تر بررسی‌اش می‌کنم.
+
+### dbrrbd_p2_48 hash=c27340a09628cb6d47ac8e54c31d472f8b27f9f8
+EN>>
+Hi Okami,
+
+Thanks for your input and link to journal. I will definately check this out.
+FA>>
+سلام Okami،
+
+ممنون از نظرت و لینک ژورنال. حتماً سر می‌زنم و بررسی‌اش می‌کنم.
+
+### dbrrbd_p2_50 hash=9ac405df32ff0d67d33182d33162d80299de1975
+EN>>
+This is really great work Okami:cheer:
+
+Has it affected the way you look at price in real time?
+FA>>
+این کار واقعاً عالی است Okami :cheer:
+
+آیا نگاهت به قیمت در زمان واقعی را تغییر داده؟
+

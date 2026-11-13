@@ -1,0 +1,1133 @@
+{
+ "checkedAt": "2026-11-12T06:06:13.112Z",
+ "method": "exact shingle, else >=75% head/tail token coverage in the local capture",
+ "posts": 34346,
+ "verified": 29267,
+ "fuzzy": 5021,
+ "unsupported": 58,
+ "journals": [
+  {
+   "id": "3drive",
+   "posts": 223,
+   "verified": 192,
+   "fuzzy": 31,
+   "unsupported": 0,
+   "sourceChars": 365875,
+   "status": "verified"
+  },
+  {
+   "id": "aboutcompression",
+   "posts": 1179,
+   "verified": 969,
+   "fuzzy": 210,
+   "unsupported": 0,
+   "sourceChars": 2045391,
+   "status": "verified"
+  },
+  {
+   "id": "academylite1",
+   "posts": 125,
+   "verified": 101,
+   "fuzzy": 24,
+   "unsupported": 0,
+   "sourceChars": 89422,
+   "status": "verified"
+  },
+  {
+   "id": "academylite2",
+   "posts": 96,
+   "verified": 74,
+   "fuzzy": 22,
+   "unsupported": 0,
+   "sourceChars": 82899,
+   "status": "verified"
+  },
+  {
+   "id": "alex",
+   "posts": 818,
+   "verified": 700,
+   "fuzzy": 116,
+   "unsupported": 2,
+   "sourceChars": 1584979,
+   "status": "mismatch"
+  },
+  {
+   "id": "amit",
+   "posts": 497,
+   "verified": 439,
+   "fuzzy": 58,
+   "unsupported": 0,
+   "sourceChars": 1400740,
+   "status": "verified"
+  },
+  {
+   "id": "andrew",
+   "posts": 120,
+   "verified": 114,
+   "fuzzy": 6,
+   "unsupported": 0,
+   "sourceChars": 211911,
+   "status": "verified"
+  },
+  {
+   "id": "aran",
+   "posts": 161,
+   "verified": 160,
+   "fuzzy": 1,
+   "unsupported": 0,
+   "sourceChars": 172630,
+   "status": "verified"
+  },
+  {
+   "id": "art",
+   "posts": 311,
+   "verified": 284,
+   "fuzzy": 26,
+   "unsupported": 1,
+   "sourceChars": 1084561,
+   "status": "mismatch"
+  },
+  {
+   "id": "astrokillah",
+   "posts": 469,
+   "verified": 462,
+   "fuzzy": 7,
+   "unsupported": 0,
+   "sourceChars": 1398149,
+   "status": "verified"
+  },
+  {
+   "id": "benhur",
+   "posts": 192,
+   "verified": 192,
+   "fuzzy": 0,
+   "unsupported": 0,
+   "sourceChars": 622269,
+   "status": "verified"
+  },
+  {
+   "id": "bill",
+   "posts": 35,
+   "verified": 32,
+   "fuzzy": 3,
+   "unsupported": 0,
+   "sourceChars": 60607,
+   "status": "verified"
+  },
+  {
+   "id": "bsz",
+   "posts": 90,
+   "verified": 69,
+   "fuzzy": 21,
+   "unsupported": 0,
+   "sourceChars": 172978,
+   "status": "verified"
+  },
+  {
+   "id": "cancan",
+   "posts": 53,
+   "verified": 37,
+   "fuzzy": 16,
+   "unsupported": 0,
+   "sourceChars": 58987,
+   "status": "verified"
+  },
+  {
+   "id": "capnp",
+   "posts": 119,
+   "verified": 96,
+   "fuzzy": 22,
+   "unsupported": 1,
+   "sourceChars": 296795,
+   "status": "mismatch"
+  },
+  {
+   "id": "classroom",
+   "posts": 1196,
+   "verified": 1023,
+   "fuzzy": 171,
+   "unsupported": 2,
+   "sourceChars": 1215086,
+   "status": "mismatch"
+  },
+  {
+   "id": "constantine",
+   "posts": 175,
+   "verified": 132,
+   "fuzzy": 42,
+   "unsupported": 1,
+   "sourceChars": 375763,
+   "status": "mismatch"
+  },
+  {
+   "id": "cppaz",
+   "posts": 34,
+   "verified": 14,
+   "fuzzy": 20,
+   "unsupported": 0,
+   "sourceChars": 50223,
+   "status": "verified"
+  },
+  {
+   "id": "dbrrbd",
+   "posts": 1485,
+   "verified": 1240,
+   "fuzzy": 243,
+   "unsupported": 2,
+   "sourceChars": 3002379,
+   "status": "mismatch"
+  },
+  {
+   "id": "diamond",
+   "posts": 227,
+   "verified": 182,
+   "fuzzy": 45,
+   "unsupported": 0,
+   "sourceChars": 193756,
+   "status": "verified"
+  },
+  {
+   "id": "dissection",
+   "posts": 43,
+   "verified": 37,
+   "fuzzy": 6,
+   "unsupported": 0,
+   "sourceChars": 115383,
+   "status": "verified"
+  },
+  {
+   "id": "doctorpatient",
+   "posts": 758,
+   "verified": 655,
+   "fuzzy": 103,
+   "unsupported": 0,
+   "sourceChars": 1138125,
+   "status": "verified"
+  },
+  {
+   "id": "dplocation",
+   "posts": 9,
+   "verified": 5,
+   "fuzzy": 4,
+   "unsupported": 0,
+   "sourceChars": 13817,
+   "status": "verified"
+  },
+  {
+   "id": "drswing",
+   "posts": 480,
+   "verified": 398,
+   "fuzzy": 82,
+   "unsupported": 0,
+   "sourceChars": 450973,
+   "status": "verified"
+  },
+  {
+   "id": "edges",
+   "posts": 179,
+   "verified": 179,
+   "fuzzy": 0,
+   "unsupported": 0,
+   "sourceChars": 342279,
+   "status": "verified"
+  },
+  {
+   "id": "einrikr",
+   "posts": 126,
+   "verified": 125,
+   "fuzzy": 0,
+   "unsupported": 1,
+   "sourceChars": 298175,
+   "status": "mismatch"
+  },
+  {
+   "id": "engulf",
+   "posts": 273,
+   "verified": 147,
+   "fuzzy": 126,
+   "unsupported": 0,
+   "sourceChars": 741442,
+   "status": "verified"
+  },
+  {
+   "id": "enquiry",
+   "posts": 23,
+   "verified": 18,
+   "fuzzy": 5,
+   "unsupported": 0,
+   "sourceChars": 34648,
+   "status": "verified"
+  },
+  {
+   "id": "eurotrash",
+   "posts": 281,
+   "verified": 234,
+   "fuzzy": 47,
+   "unsupported": 0,
+   "sourceChars": 667924,
+   "status": "verified"
+  },
+  {
+   "id": "extremerrage",
+   "posts": 257,
+   "verified": 257,
+   "fuzzy": 0,
+   "unsupported": 0,
+   "sourceChars": 220908,
+   "status": "verified"
+  },
+  {
+   "id": "fakeouts",
+   "posts": 29,
+   "verified": 22,
+   "fuzzy": 7,
+   "unsupported": 0,
+   "sourceChars": 53743,
+   "status": "verified"
+  },
+  {
+   "id": "finddecision",
+   "posts": 270,
+   "verified": 198,
+   "fuzzy": 72,
+   "unsupported": 0,
+   "sourceChars": 382049,
+   "status": "verified"
+  },
+  {
+   "id": "fishing",
+   "posts": 250,
+   "verified": 219,
+   "fuzzy": 30,
+   "unsupported": 1,
+   "sourceChars": 212310,
+   "status": "mismatch"
+  },
+  {
+   "id": "flaglimits",
+   "posts": 1270,
+   "verified": 886,
+   "fuzzy": 382,
+   "unsupported": 2,
+   "sourceChars": 1745045,
+   "status": "mismatch"
+  },
+  {
+   "id": "flaglimitshydra",
+   "posts": 51,
+   "verified": 43,
+   "fuzzy": 8,
+   "unsupported": 0,
+   "sourceChars": 69955,
+   "status": "verified"
+  },
+  {
+   "id": "frosty",
+   "posts": 300,
+   "verified": 205,
+   "fuzzy": 95,
+   "unsupported": 0,
+   "sourceChars": 792035,
+   "status": "verified"
+  },
+  {
+   "id": "ftrpaz",
+   "posts": 98,
+   "verified": 67,
+   "fuzzy": 31,
+   "unsupported": 0,
+   "sourceChars": 147009,
+   "status": "verified"
+  },
+  {
+   "id": "ftrretest",
+   "posts": 267,
+   "verified": 187,
+   "fuzzy": 79,
+   "unsupported": 1,
+   "sourceChars": 339823,
+   "status": "mismatch"
+  },
+  {
+   "id": "fulljournal",
+   "posts": 260,
+   "verified": 260,
+   "fuzzy": 0,
+   "unsupported": 0,
+   "sourceChars": 253097,
+   "status": "verified"
+  },
+  {
+   "id": "fxeyes",
+   "posts": 105,
+   "verified": 105,
+   "fuzzy": 0,
+   "unsupported": 0,
+   "sourceChars": 145005,
+   "status": "verified"
+  },
+  {
+   "id": "gembel",
+   "posts": 1197,
+   "verified": 955,
+   "fuzzy": 242,
+   "unsupported": 0,
+   "sourceChars": 3089086,
+   "status": "verified"
+  },
+  {
+   "id": "hgblacksheep",
+   "posts": 309,
+   "verified": 262,
+   "fuzzy": 46,
+   "unsupported": 1,
+   "sourceChars": 719141,
+   "status": "mismatch"
+  },
+  {
+   "id": "homeoffinisher",
+   "posts": 163,
+   "verified": 137,
+   "fuzzy": 23,
+   "unsupported": 3,
+   "sourceChars": 496447,
+   "status": "mismatch"
+  },
+  {
+   "id": "hs",
+   "posts": 2338,
+   "verified": 1239,
+   "fuzzy": 1085,
+   "unsupported": 14,
+   "sourceChars": 1699816,
+   "status": "mismatch"
+  },
+  {
+   "id": "if",
+   "posts": 3401,
+   "verified": 3395,
+   "fuzzy": 1,
+   "unsupported": 5,
+   "sourceChars": 10523095,
+   "status": "mismatch"
+  },
+  {
+   "id": "ignoredlevel",
+   "posts": 69,
+   "verified": 57,
+   "fuzzy": 12,
+   "unsupported": 0,
+   "sourceChars": 112197,
+   "status": "verified"
+  },
+  {
+   "id": "in2forex",
+   "posts": 243,
+   "verified": 200,
+   "fuzzy": 42,
+   "unsupported": 1,
+   "sourceChars": 420153,
+   "status": "mismatch"
+  },
+  {
+   "id": "its",
+   "posts": 59,
+   "verified": 43,
+   "fuzzy": 16,
+   "unsupported": 0,
+   "sourceChars": 323572,
+   "status": "verified"
+  },
+  {
+   "id": "jc",
+   "posts": 36,
+   "verified": 27,
+   "fuzzy": 9,
+   "unsupported": 0,
+   "sourceChars": 63688,
+   "status": "verified"
+  },
+  {
+   "id": "jiri",
+   "posts": 247,
+   "verified": 203,
+   "fuzzy": 42,
+   "unsupported": 2,
+   "sourceChars": 565684,
+   "status": "mismatch"
+  },
+  {
+   "id": "josh",
+   "posts": 523,
+   "verified": 449,
+   "fuzzy": 74,
+   "unsupported": 0,
+   "sourceChars": 1401370,
+   "status": "verified"
+  },
+  {
+   "id": "jurij",
+   "posts": 576,
+   "verified": 576,
+   "fuzzy": 0,
+   "unsupported": 0,
+   "sourceChars": 3019233,
+   "status": "verified"
+  },
+  {
+   "id": "knowledgeismoney",
+   "posts": 46,
+   "verified": 39,
+   "fuzzy": 7,
+   "unsupported": 0,
+   "sourceChars": 24125,
+   "status": "verified"
+  },
+  {
+   "id": "kruger",
+   "posts": 420,
+   "verified": 359,
+   "fuzzy": 59,
+   "unsupported": 2,
+   "sourceChars": 1283937,
+   "status": "mismatch"
+  },
+  {
+   "id": "lespaul",
+   "posts": 434,
+   "verified": 433,
+   "fuzzy": 1,
+   "unsupported": 0,
+   "sourceChars": 472454,
+   "status": "verified"
+  },
+  {
+   "id": "linos",
+   "posts": 215,
+   "verified": 213,
+   "fuzzy": 0,
+   "unsupported": 2,
+   "sourceChars": 400999,
+   "status": "mismatch"
+  },
+  {
+   "id": "luska",
+   "posts": 206,
+   "verified": 179,
+   "fuzzy": 26,
+   "unsupported": 1,
+   "sourceChars": 377863,
+   "status": "mismatch"
+  },
+  {
+   "id": "maxpain",
+   "posts": 15,
+   "verified": 13,
+   "fuzzy": 2,
+   "unsupported": 0,
+   "sourceChars": 16153,
+   "status": "verified"
+  },
+  {
+   "id": "mel",
+   "posts": 158,
+   "verified": 158,
+   "fuzzy": 0,
+   "unsupported": 0,
+   "sourceChars": 373089,
+   "status": "verified"
+  },
+  {
+   "id": "mertch",
+   "posts": 278,
+   "verified": 278,
+   "fuzzy": 0,
+   "unsupported": 0,
+   "sourceChars": 1214469,
+   "status": "verified"
+  },
+  {
+   "id": "michal238",
+   "posts": 219,
+   "verified": 219,
+   "fuzzy": 0,
+   "unsupported": 0,
+   "sourceChars": 543119,
+   "status": "verified"
+  },
+  {
+   "id": "mm",
+   "posts": 337,
+   "verified": 295,
+   "fuzzy": 40,
+   "unsupported": 2,
+   "sourceChars": 1139989,
+   "status": "mismatch"
+  },
+  {
+   "id": "moneydeep",
+   "posts": 61,
+   "verified": 61,
+   "fuzzy": 0,
+   "unsupported": 0,
+   "sourceChars": 250604,
+   "status": "verified"
+  },
+  {
+   "id": "mukhcin",
+   "posts": 191,
+   "verified": 190,
+   "fuzzy": 0,
+   "unsupported": 1,
+   "sourceChars": 387769,
+   "status": "mismatch"
+  },
+  {
+   "id": "newjournal",
+   "posts": 351,
+   "verified": 267,
+   "fuzzy": 84,
+   "unsupported": 0,
+   "sourceChars": 819835,
+   "status": "verified"
+  },
+  {
+   "id": "omidfx",
+   "posts": 248,
+   "verified": 248,
+   "fuzzy": 0,
+   "unsupported": 0,
+   "sourceChars": 832376,
+   "status": "verified"
+  },
+  {
+   "id": "paz",
+   "posts": 200,
+   "verified": 158,
+   "fuzzy": 42,
+   "unsupported": 0,
+   "sourceChars": 323273,
+   "status": "verified"
+  },
+  {
+   "id": "pedini",
+   "posts": 579,
+   "verified": 579,
+   "fuzzy": 0,
+   "unsupported": 0,
+   "sourceChars": 2256463,
+   "status": "verified"
+  },
+  {
+   "id": "pg",
+   "posts": 41,
+   "verified": 39,
+   "fuzzy": 2,
+   "unsupported": 0,
+   "sourceChars": 74704,
+   "status": "verified"
+  },
+  {
+   "id": "projectsagana",
+   "posts": 448,
+   "verified": 391,
+   "fuzzy": 57,
+   "unsupported": 0,
+   "sourceChars": 941779,
+   "status": "verified"
+  },
+  {
+   "id": "pucci",
+   "posts": 194,
+   "verified": 165,
+   "fuzzy": 29,
+   "unsupported": 0,
+   "sourceChars": 655873,
+   "status": "verified"
+  },
+  {
+   "id": "quasimodo",
+   "posts": 1220,
+   "verified": 1013,
+   "fuzzy": 204,
+   "unsupported": 3,
+   "sourceChars": 1027313,
+   "status": "mismatch"
+  },
+  {
+   "id": "readingsession",
+   "posts": 240,
+   "verified": 185,
+   "fuzzy": 55,
+   "unsupported": 0,
+   "sourceChars": 340917,
+   "status": "verified"
+  },
+  {
+   "id": "rinehart",
+   "posts": 230,
+   "verified": 229,
+   "fuzzy": 0,
+   "unsupported": 1,
+   "sourceChars": 974429,
+   "status": "mismatch"
+  },
+  {
+   "id": "rinehartfl",
+   "posts": 2,
+   "verified": 2,
+   "fuzzy": 0,
+   "unsupported": 0,
+   "sourceChars": 29035,
+   "status": "verified"
+  },
+  {
+   "id": "robbie",
+   "posts": 228,
+   "verified": 195,
+   "fuzzy": 33,
+   "unsupported": 0,
+   "sourceChars": 841474,
+   "status": "verified"
+  },
+  {
+   "id": "salivan",
+   "posts": 1020,
+   "verified": 1020,
+   "fuzzy": 0,
+   "unsupported": 0,
+   "sourceChars": 2773305,
+   "status": "verified"
+  },
+  {
+   "id": "scotty",
+   "posts": 193,
+   "verified": 167,
+   "fuzzy": 25,
+   "unsupported": 1,
+   "sourceChars": 154089,
+   "status": "mismatch"
+  },
+  {
+   "id": "sdcleared",
+   "posts": 29,
+   "verified": 12,
+   "fuzzy": 17,
+   "unsupported": 0,
+   "sourceChars": 24215,
+   "status": "verified"
+  },
+  {
+   "id": "shadowpit",
+   "posts": 356,
+   "verified": 276,
+   "fuzzy": 80,
+   "unsupported": 0,
+   "sourceChars": 353284,
+   "status": "verified"
+  },
+  {
+   "id": "smimon",
+   "posts": 716,
+   "verified": 613,
+   "fuzzy": 103,
+   "unsupported": 0,
+   "sourceChars": 907902,
+   "status": "verified"
+  },
+  {
+   "id": "sniffing",
+   "posts": 336,
+   "verified": 336,
+   "fuzzy": 0,
+   "unsupported": 0,
+   "sourceChars": 535439,
+   "status": "verified"
+  },
+  {
+   "id": "staurum",
+   "posts": 547,
+   "verified": 476,
+   "fuzzy": 71,
+   "unsupported": 0,
+   "sourceChars": 1061291,
+   "status": "verified"
+  },
+  {
+   "id": "sunnytrader",
+   "posts": 306,
+   "verified": 233,
+   "fuzzy": 73,
+   "unsupported": 0,
+   "sourceChars": 350096,
+   "status": "verified"
+  },
+  {
+   "id": "supplydemand",
+   "posts": 1436,
+   "verified": 1271,
+   "fuzzy": 164,
+   "unsupported": 1,
+   "sourceChars": 1317887,
+   "status": "mismatch"
+  },
+  {
+   "id": "vitaldrug",
+   "posts": 245,
+   "verified": 244,
+   "fuzzy": 0,
+   "unsupported": 1,
+   "sourceChars": 510867,
+   "status": "mismatch"
+  },
+  {
+   "id": "warren",
+   "posts": 238,
+   "verified": 195,
+   "fuzzy": 40,
+   "unsupported": 3,
+   "sourceChars": 226244,
+   "status": "mismatch"
+  },
+  {
+   "id": "whenever",
+   "posts": 162,
+   "verified": 138,
+   "fuzzy": 24,
+   "unsupported": 0,
+   "sourceChars": 179843,
+   "status": "verified"
+  },
+  {
+   "id": "whynotwork",
+   "posts": 106,
+   "verified": 76,
+   "fuzzy": 30,
+   "unsupported": 0,
+   "sourceChars": 69488,
+   "status": "verified"
+  }
+ ],
+ "examples": [
+  {
+   "id": "alex_p36_878",
+   "journal": "alex",
+   "coverHead": 1,
+   "coverTail": 0.5,
+   "head": "kovalenko wrote no our country rtm",
+   "tail": "uk epublic of ons of oney"
+  },
+  {
+   "id": "alex_p36_879",
+   "journal": "alex",
+   "coverHead": 1,
+   "coverTail": 0.63,
+   "head": "a bit whenever wrote kovalenko wrote no our",
+   "tail": "you from uk epublic of ons of oney"
+  },
+  {
+   "id": "art_p11_271",
+   "journal": "art",
+   "coverHead": 0.75,
+   "coverTail": 0.25,
+   "head": "printing money as usual",
+   "tail": "usual jay z voice"
+  },
+  {
+   "id": "capnp_p4_82",
+   "journal": "capnp",
+   "coverHead": 0.7,
+   "coverTail": 1,
+   "head": "real bread and butter stuff although it s so tasty",
+   "tail": "double espresso latte am in it too as you know"
+  },
+  {
+   "id": "classroom_p24_586",
+   "journal": "classroom",
+   "coverHead": 0.67,
+   "coverTail": 0.67,
+   "head": "perfetto thanks rob",
+   "tail": "perfetto thanks rob"
+  },
+  {
+   "id": "classroom_p24_596",
+   "journal": "classroom",
+   "coverHead": 0,
+   "coverTail": 0,
+   "head": "",
+   "tail": ""
+  },
+  {
+   "id": "constantine_p2_38",
+   "journal": "constantine",
+   "coverHead": 0,
+   "coverTail": 0,
+   "head": "",
+   "tail": ""
+  },
+  {
+   "id": "dbrrbd_p6_132",
+   "journal": "dbrrbd",
+   "coverHead": 0,
+   "coverTail": 0,
+   "head": "",
+   "tail": ""
+  },
+  {
+   "id": "dbrrbd_p63_1559",
+   "journal": "dbrrbd",
+   "coverHead": 0.67,
+   "coverTail": 0.67,
+   "head": "and nzd usd",
+   "tail": "and nzd usd"
+  },
+  {
+   "id": "einrikr_p1_21",
+   "journal": "einrikr",
+   "coverHead": 0,
+   "coverTail": 0,
+   "head": "",
+   "tail": ""
+  },
+  {
+   "id": "fishing_p3_66",
+   "journal": "fishing",
+   "coverHead": 0,
+   "coverTail": 0,
+   "head": "gbpusd",
+   "tail": "gbpusd"
+  },
+  {
+   "id": "flaglimits_p28_700",
+   "journal": "flaglimits",
+   "coverHead": 0,
+   "coverTail": 0,
+   "head": "",
+   "tail": ""
+  },
+  {
+   "id": "flaglimits_p49_1225",
+   "journal": "flaglimits",
+   "coverHead": 0,
+   "coverTail": 0,
+   "head": "",
+   "tail": ""
+  },
+  {
+   "id": "ftrretest_p9_203",
+   "journal": "ftrretest",
+   "coverHead": 0.5,
+   "coverTail": 0.5,
+   "head": "11 profile",
+   "tail": "11 profile"
+  },
+  {
+   "id": "hgblacksheep_p12_299",
+   "journal": "hgblacksheep",
+   "coverHead": 0.63,
+   "coverTail": 1,
+   "head": "ading olatility asic fvb while the ce is",
+   "tail": "have a few more arrows in our quiver"
+  },
+  {
+   "id": "homeoffinisher_p1_23",
+   "journal": "homeoffinisher",
+   "coverHead": 1,
+   "coverTail": 0.6,
+   "head": "this are the zones where",
+   "tail": "mr r wyckoff s skematic"
+  },
+  {
+   "id": "homeoffinisher_p8_198",
+   "journal": "homeoffinisher",
+   "coverHead": 0.5,
+   "coverTail": 0.5,
+   "head": "crude 12r",
+   "tail": "crude 12r"
+  },
+  {
+   "id": "homeoffinisher_p9_207",
+   "journal": "homeoffinisher",
+   "coverHead": 0.67,
+   "coverTail": 0.67,
+   "head": "usdcad my view",
+   "tail": "usdcad my view"
+  },
+  {
+   "id": "hs_p67_1670",
+   "journal": "hs",
+   "coverHead": 0.5,
+   "coverTail": 0.5,
+   "head": "regarding nzdusd",
+   "tail": "regarding nzdusd"
+  },
+  {
+   "id": "hs_p70_1750",
+   "journal": "hs",
+   "coverHead": 1,
+   "coverTail": 0.7,
+   "head": "hi h this is my view for what its worth",
+   "tail": "problem of seeing tgs everywhere im a tad risk adverse"
+  },
+  {
+   "id": "hs_p77_1903",
+   "journal": "hs",
+   "coverHead": 1,
+   "coverTail": 0.33,
+   "head": "yes h i did short that",
+   "tail": "hom d ologist st m 64700"
+  },
+  {
+   "id": "hs_p82_2050",
+   "journal": "hs",
+   "coverHead": 0.67,
+   "coverTail": 0.67,
+   "head": "agree with enkim",
+   "tail": "agree with enkim"
+  },
+  {
+   "id": "hs_p86_2131",
+   "journal": "hs",
+   "coverHead": 0.7,
+   "coverTail": 1,
+   "head": "pinkpanter wrote hy hoeschec since i folow your jurnal i",
+   "tail": "answering your question i hope my response was somewhat useful"
+  },
+  {
+   "id": "hs_p86_2136",
+   "journal": "hs",
+   "coverHead": 1,
+   "coverTail": 0.6,
+   "head": "i missed you hs welcome back and well done by",
+   "tail": "and deserve a new badge it smells a new badge"
+  },
+  {
+   "id": "hs_p86_2142",
+   "journal": "hs",
+   "coverHead": 1,
+   "coverTail": 0.67,
+   "head": "hoeschec you did so long journey",
+   "tail": "you in succes really deserved star"
+  },
+  {
+   "id": "hs_p87_2152",
+   "journal": "hs",
+   "coverHead": 1,
+   "coverTail": 0.7,
+   "head": "ifmyante wrote you re right salivan i have a bit",
+   "tail": "on the dog pissing on the floor had me dying"
+  },
+  {
+   "id": "hs_p87_2169",
+   "journal": "hs",
+   "coverHead": 0.71,
+   "coverTail": 1,
+   "head": "you did brilliantly and yes fridays tend",
+   "tail": "of the week so i get you"
+  },
+  {
+   "id": "hs_p88_2196",
+   "journal": "hs",
+   "coverHead": 0.9,
+   "coverTail": 0.7,
+   "head": "astrokillah wrote dear dengaima i have been reading this sentence",
+   "tail": "com index php en forum jou if start 3025 68777"
+  },
+  {
+   "id": "hs_p89_2209",
+   "journal": "hs",
+   "coverHead": 1,
+   "coverTail": 0.67,
+   "head": "excellent reading in here as ever",
+   "tail": "to insert your images for you"
+  },
+  {
+   "id": "hs_p90_2230",
+   "journal": "hs",
+   "coverHead": 0.7,
+   "coverTail": 0.7,
+   "head": "wooohooo danial admittedly i could not relate your precise entry",
+   "tail": "post 2177 2184 i got this trade it s 28r"
+  },
+  {
+   "id": "hs_p90_2241",
+   "journal": "hs",
+   "coverHead": 1,
+   "coverTail": 0.6,
+   "head": "thank for this valuable explanation i just want to add",
+   "tail": "this is happening about midnight 2h my timezone utc 1"
+  },
+  {
+   "id": "hs_p91_2274",
+   "journal": "hs",
+   "coverHead": 0.6,
+   "coverTail": 0.8,
+   "head": "yup business is booming quality",
+   "tail": "however is in inverse correlation"
+  },
+  {
+   "id": "if_p28_18",
+   "journal": "if",
+   "coverHead": 0,
+   "coverTail": 0,
+   "head": "",
+   "tail": ""
+  },
+  {
+   "id": "if_p68_9",
+   "journal": "if",
+   "coverHead": 0,
+   "coverTail": 0,
+   "head": "",
+   "tail": ""
+  },
+  {
+   "id": "if_p75_24",
+   "journal": "if",
+   "coverHead": 0,
+   "coverTail": 0,
+   "head": "",
+   "tail": ""
+  },
+  {
+   "id": "if_p112_14",
+   "journal": "if",
+   "coverHead": 0,
+   "coverTail": 0,
+   "head": "",
+   "tail": ""
+  },
+  {
+   "id": "if_p115_19",
+   "journal": "if",
+   "coverHead": 0,
+   "coverTail": 0,
+   "head": "",
+   "tail": ""
+  },
+  {
+   "id": "in2forex_p1_2",
+   "journal": "in2forex",
+   "coverHead": 0.25,
+   "coverTail": 1,
+   "head": "dm desktop uri 2fwatch",
+   "tail": "abbreviations tips and tools"
+  },
+  {
+   "id": "jiri_p1_12",
+   "journal": "jiri",
+   "coverHead": 0.5,
+   "coverTail": 0.25,
+   "head": "dalsi krajan na rtm",
+   "tail": "krajan na rtm cool"
+  },
+  {
+   "id": "jiri_p4_78",
+   "journal": "jiri",
+   "coverHead": 0.67,
+   "coverTail": 1,
+   "head": "scalping ey long from local demand",
+   "tail": "want to start selling ey today"
+  }
+ ]
+}

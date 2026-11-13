@@ -1,0 +1,20 @@
+{
+ "sniffing_p6_2": {
+  "ok": false,
+  "issue": "term drift: areas of interest",
+  "why": "EN 'Next areas of interest.' is the trader's term for the next watch zones (rendered correctly as 'نواحی مورد توجه' in the quoted first line and elsewhere in this archive), but FA turns it into 'مناطق جالب بعدی' = 'next interesting areas', losing the 'zones I am watching' sense and contradicting the quote head in the same post ('Fx.Sniffer نوشت: نواحی مورد توجه در H1.').",
+  "fix": "Fx.Sniffer نوشت: نواحی مورد توجه در H1.\n\nو سپس، نواحی بعدیِ قابل توجه."
+ },
+ "sniffing_p6_18": {
+  "ok": false,
+  "issue": "wrong trading term: close -> بسته",
+  "why": "EN 'price closed above the minor S/R flip 2 and another close below the level would be a good sign of retracement' is about a candle CLOSE, but FA writes 'قیمت بالای S/R flip فرعی 2 بسته شد و یک بستهٔ دیگر زیر سطح' — 'بستهٔ دیگر' reads as 'another package/closed thing'; it is not the technical noun 'بسته‌شدن' used correctly in p6_22 ('هیچ بسته‌شدنی زیر سطح فلیپ نبود').",
+  "fix": "alvin2434 نوشت: ممنون از توضیحی که دادی FX.Sniffer، حالا خیلی روشن‌تر شد.\n\nدر وضعیت فعلی، فکر می‌کنی یورو به سمت جنوب می‌رود یا شمال را ادامه می‌دهد؟\n\nما همین حالا هم در عرضه هستیم و حرکت صعودی به‌سختی اصلاحی داشته.\n\nامیدوارم این سناریو اتفاق بیفتد :)\n\nویرایش:\n\nبه نظر می‌رسد نمی‌توانم اینجا چارت بگذارم؛ امیدوارم به طرف جنوب برود، به زونی که بالای عرضهٔ H4 پایینی در چارت H1 تو قرار دارد\n\nهی alvin،\n\nبا نگاه به چارت روزانه، بسته شدن بالای S/R flip 1 نشانهٔ ادامهٔ روند صعودی می‌بود و جای فکر کردن به فروش نمی‌ماند، مخصوصاً که راه تا عرضهٔ روزانهٔ بالای سر باز بود؛ اما قیمت بالای S/R flip فرعی 2 بسته شد و یک بسته‌شدن دیگر زیر آن سطح، نشانهٔ خوبی برای اصلاح خواهد بود. سطوح پایین‌تر نواحی دردسرداری هستند که باید رفتار قیمت را در آن‌ها زیر نظر گرفت.\n\nدر H4 همان سطوح چارت روزانه حالا باید معنی بیشتری بدهند، و گپ‌های LQ جامانده داد می‌زنند که باید پر شوند، اما صبر کردن برای تأیید PA الزامی است، مخصوصاً که عرضهٔ فعلی تازه نیست.\n\nدر M15 یک فیک‌اوت با اشاره‌گر نارنجی مشخص شده که همین حالا در حال تست است، همان DP که قیمت باید دوباره سر بزند تا تصمیم تازه‌ای بگیرد؛ زون عرضهٔ شکسته‌ای هم که گفتی در وسط قرار دارد."
+ },
+ "sniffing_p6_19": {
+  "ok": false,
+  "issue": "literal idiom calque: saved the day",
+  "why": "EN 'the s/r flip levels saved the day' is idiomatic (= the levels did the job / rescued the setup), but FA says 'سطوح S/R flip روز را نجات دادند', a word-for-word calque in which 'روز' (calendar day) makes no sense to a Persian trader.",
+  "fix": "حرکت یورو طول نکشید و حالا آن زون عرضهٔ ضعیف مصرف شده و سطوح S/R flip ناجی ماجرا شدند، و یک DP تازه برای بردن قیمت بالاتر در m15 تأیید شده است."
+ }
+}

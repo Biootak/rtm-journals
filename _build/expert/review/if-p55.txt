@@ -1,0 +1,421 @@
+### if_p55_1
+EN: Just my humble opinion
+FA: فقط نظر فروتنانهٔ من
+
+### if_p55_2
+EN: Now it's coming together nicely
+
+One other thing:
+
+Don't use the volume window to help make decisions. You can be pretty certain the ITs aren't using the same broker as you!
+FA: حالا دارد قشنگ جا می‌افتد
+
+یک نکتهٔ دیگر:
+
+از پنجرهٔ حجم برای تصمیم‌گیری استفاده نکن. می‌توانی تقریباً مطمئن باشی که ITها از همان بروکر تو استفاده نمی‌کنند!
+
+### if_p55_3
+EN: Ifmyante wrote: One other thing:
+
+Don't use the volume window to help make decisions. You can be pretty certain the ITs aren't using the same broker as you!
+
+What ???
+
+Really not ???
+
+But....they ensured me....beside being TRUE ECN....
+FA: Ifmyante نوشت: یک نکتهٔ دیگر:
+
+از پنجرهٔ حجم برای تصمیم‌گیری استفاده نکن. می‌توانی تقریباً مطمئن باشی که ITها از همان بروکر تو استفاده نمی‌کنند!
+
+چی ؟؟؟
+
+واقعاً نه ؟؟؟
+
+ولی....آن‌ها به من اطمینان داده بودند....علاوه بر این‌که ECN واقعی است....
+
+### if_p55_4
+EN: HI IF ,
+
+Thanks very much. Im still wondering what got u in.I dint see any engulf of FL.
+FA: سلام IF،
+
+خیلی ممنون. هنوز در این فکرم که چه چیزی تو را وارد کرد. هیچ اینگالفی از FL ندیدم.
+
+### if_p55_5
+EN: Id say this was interesting PA....and obviously theres a little more to it...
+FA: می‌گویم این PA جالبی بود....و معلوم است که چیز بیشتری هم در آن هست...
+
+### if_p55_6
+EN: If you don't mind, I'd like to ask you something IF for clarification,
+ that's been a source of mild confusion to me for some time.
+
+In the diagram (very simplified), there are 2 FO scenarios. Scenario 1
+is very clear, and predictable FO. Scenario 2 however - price engulfs
+the seemingly more important FL, and bounces from a more minor one. Is
+this a valid FO, and we should therefore treat the resultant move north
+with the same significance as if it had originated from the important
+FL? Or is this genuine engulf south?
+
+Let's say for arguments sake in scenario 2, the "important" high is the
+top of the last significant downward FTR of a bear move before reversal
+north - so not just a random high, but an important level.
+
+Thanks for any help, even if it's just a cryptic comment ;-)
+FA: اگر بدت نمی‌آید، IF، می‌خواهم چیزی بپرسم که مدتی است کمی گیجم کرده.
+
+در نمودار (خیلی ساده‌شده) دو سناریوی FO هست. سناریوی 1 یک FO کاملاً روشن و قابل پیش‌بینی است. اما سناریوی 2: قیمت FLی را که ظاهراً مهم‌تر است اینگالف می‌کند و از یکی فرعی‌تر برگشت می‌گیرد. آیا این یک FO معتبر است و باید حرکت صعودی حاصل را همان‌قدر مهم بدانیم که انگار از آن FL مهم آغاز شده بود؟ یا این یک اینگالف نزولی واقعی است؟
+
+فرض کن در سناریوی 2، سقف «مهم» همان بالای آخرین FTR نزولی معنادار در یک حرکت خرسی پیش از برگشت صعودی باشد — یعنی نه یک سقف تصادفی، بلکه یک سطح مهم.
+
+از هر کمکی ممنونم، حتی اگر فقط یک جملهٔ مرموز باشد ;-)
+
+### if_p55_7
+EN: I'll give a try...i wanna win a teddy bear
+FA: یک بار امتحان می‌کنم...می‌خواهم یک خرس عروسکی ببرم
+
+### if_p55_8
+EN: Thank you for your validation of my 4th Junes post,,,,,can you please wlaborate on your post 1337
+FA: ممنون که پست چهارم ژوئن مرا تأیید کردی،،،،،می‌شود لطفاً کمی دربارهٔ پست 1337 توضیح بدهی
+
+### if_p55_9
+EN: Hi, smimon, hope you don't mind, hopefully, i didn't misunderstand your concern:
+
+smimon wrote: If you don't mind,
+I'd like to ask you something IF for clarification, that's been a source
+ of mild confusion to me for some time.
+FA: سلام smimon، امیدوارم بدت نیاید؛ امیدوارم نگرانی‌ات را بد نفهمیده باشم:
+
+smimon نوشت: اگر بدت نمی‌آید، IF، می‌خواهم چیزی بپرسم که مدتی است کمی گیجم کرده.
+
+### if_p55_10
+EN: charvo wrote: Hi, smimon, hope you don't mind, but:
+
+I've seen "FOs" like these both when an engulf north is in play above,
+and when price is proceeding south from a valid TG level in fairness,
+hence the simplification on the diagram.
+
+My query was based on this piece of history from UCAD M15. I was long
+off MPL of the "main" FL, price then engd/FOd south, and went north over
+ 100 pips. I bailed on my long for b/e when the eng south occurred and
+price let me back out.
+
+In future I will probably hold my position until the "source" FL (that
+is the one that caused the bounce that formed the "main" FL) is also
+engulfed. Whether it was FO or engulf will be confirmed when price
+reaches the first significant opposing FL from the move down, and then
+either respects it or engulfs it.
+FA: charvo نوشت: سلام smimon، امیدوارم بدت نیاید، ولی:
+
+«FO»هایی شبیه این‌ها را هم وقتی اینگالف صعودی بالای سر در جریان است دیده‌ام، و هم وقتی قیمت، به‌حق، از یک سطح TG معتبر رو به جنوب می‌رود؛ به همین دلیل نمودار را ساده کردم.
+
+پرسش من بر پایهٔ این بخش از تاریخچهٔ UCAD در M15 بود. از MPL همان FL «اصلی» پوزیشن خرید داشتم، بعد قیمت به سمت پایین اینگالف/FO شد و بیش از 100 پیپ بالا رفت. با رخ دادن اینگالف نزولی، پوزیشن خریدم را در سر به سر بستم و قیمت هم اجازه داد بیرون بیایم.
+
+در آینده احتمالاً پوزیشنم را نگه می‌دارم تا وقتی FL «منبع» (همانی که باعث برگشتی شد که FL «اصلی» را ساخت) هم اینگالف شود. این‌که FO بود یا اینگالف، وقتی قیمت به اولین FL معتبر مخالفِ حرکت نزولی برسد و بعد یا به آن احترام بگذارد یا اینگالفش کند، مشخص می‌شود.
+
+### if_p55_11
+EN: Actually, to me personally, i think your so-called less important FL
+is the important DP that breaks the important high and thus quite often
+ price wants to return to this place where there are left over orders
+to pickup and go. Besides I mean your so-called important FL - isn't it
+too clear for majority of amateur traders to see the swing low and place
+ stoploss below it. I guess the inst would want to kill off those buyers
+ and force them to sell and accumulate more buy orders to continue
+north.
+
+Just my 2cts opinion. I am just a new member here.
+
+smimon wrote: If you don't mind,
+I'd like to ask you something IF for clarification, that's been a source
+ of mild confusion to me for some time.
+
+In the diagram (very simplified), there are 2 FO scenarios. Scenario 1
+is very clear, and predictable FO. Scenario 2 however - price engulfs
+the seemingly more important FL, and bounces from a more minor one. Is
+this a valid FO, and we should therefore treat the resultant move north
+with the same significance as if it had originated from the important
+FL? Or is this genuine engulf south?
+
+Let's say for arguments sake in scenario 2, the "important" high is the
+top of the last significant downward FTR of a bear move before reversal
+north - so not just a random high, but an important level.
+
+Thanks for any help, even if it's just a cryptic comment ;-)
+FA: راستش، به نظر خودم، آن FLی که «کم‌اهمیت‌تر» می‌نامی همان DP مهمی است که سقف مهم را می‌شکند و به همین دلیل خیلی وقت‌ها قیمت می‌خواهد به همین نقطه برگردد، جایی که سفارش‌های باقی‌مانده‌ای برای برداشتن و راه افتادن دارد. تازه، آن FL «مهم» ـت را می‌گویم — آیا برای اکثریت معامله‌گران آماتور زیادی واضح نیست که کف سوئینگ را ببینند و استاپ‌لاس را زیرش بگذارند؟ حدس می‌زنم نهادها بخواهند همان خریداران را از بین ببرند و مجبورشان کنند بفروشند و سفارش‌های خرید بیشتری برای ادامهٔ صعود جمع کنند.
+
+فقط نظر دو سنتی من. من اینجا تازه‌وارد هستم.
+
+smimon نوشت: اگر بدت نمی‌آید، IF، می‌خواهم چیزی بپرسم که مدتی است کمی گیجم کرده.
+
+در نمودار (خیلی ساده‌شده) دو سناریوی FO هست. سناریوی 1 یک FO کاملاً روشن و قابل پیش‌بینی است. اما سناریوی 2: قیمت FLی را که ظاهراً مهم‌تر است اینگالف می‌کند و از یکی فرعی‌تر برگشت می‌گیرد. آیا این یک FO معتبر است و باید حرکت صعودی حاصل را همان‌قدر مهم بدانیم که انگار از آن FL مهم آغاز شده بود؟ یا این یک اینگالف نزولی واقعی است؟
+
+فرض کن در سناریوی 2، سقف «مهم» همان بالای آخرین FTR نزولی معنادار در یک حرکت خرسی پیش از برگشت صعودی باشد — یعنی نه یک سقف تصادفی، بلکه یک سطح مهم.
+
+از هر کمکی ممنونم، حتی اگر فقط یک جملهٔ مرموز باشد ;-)
+
+### if_p55_12
+EN: charvo wrote: Hi, smimon, hope you don't mind, hopefully, i didn't misunderstand your concern:
+
+smimon wrote: If you don't mind,
+I'd like to ask you something IF for clarification, that's been a source
+ of mild confusion to me for some time.
+
+agreed with charvo..it what all about on the left..
+
+there so many scenario could be play out..
+
+QM, diamond, fake out, compression on the way up...
+
+and from my perspective what i think important is what current PA that time...
+FA: charvo نوشت: سلام smimon، امیدوارم بدت نیاید؛ امیدوارم نگرانی‌ات را بد نفهمیده باشم:
+
+smimon نوشت: اگر بدت نمی‌آید، IF، می‌خواهم چیزی بپرسم که مدتی است کمی گیجم کرده.
+
+با charvo موافقم..موضوع همان چیزی است که در سمت چپ می‌گذرد..
+
+سناریوهای زیادی می‌تواند اتفاق بیفتد..
+
+QM، الماس، فیک‌اوت، فشرده‌سازی در مسیر صعود...
+
+و از دید من چیزی که مهم است همان PA لحظه است...
+
+### if_p55_13
+EN: In my humble opinion, could it be a diamond?
+FA: به نظر فروتنانهٔ من، می‌تواند یک الماس باشد؟
+
+### if_p55_14
+EN: Hi Smimon:
+
+Here is my take on your diagram. When price engulfs your "more important
+ FL" the logical expectation then would be a slide to the next demand
+zone which is the "Less important FL" in your chart. So, for me, price
+has reached its logical destination after the engulf or rather fakeout.
+ I view it more as stacked demand and it is always better to wait for
+the price to reach the lower of the two stacked levels. The higher level
+ is a prime case for faking-out. Whether you want to call the "Less
+important FL" as a FL or DP is again up to you. Just nomenclature I
+guess. Point is, there is pent-up demand in that area.
+
+Caveat: Am a newbie at RTM and hence could have lots of loose ends in my understanding.
+
+Regards
+
+Raj
+FA: سلام Smimon:
+
+برداشت من از نمودارت این است. وقتی قیمت FL «مهم‌تر» تو را اینگالف می‌کند، انتظار منطقی بعدی سر خوردن به ناحیهٔ تقاضای بعدی است، یعنی همان FL «کم‌اهمیت‌تر» در نمودارت. پس به نظر من قیمت بعد از اینگالف — یا بهتر است بگویم فیک‌اوت — به مقصد منطقی‌اش رسیده است. من آن را بیشتر تقاضای روی‌هم‌چیده می‌بینم و همیشه بهتر است صبر کنیم قیمت به پایین‌ترِ آن دو سطح روی‌هم‌چیده برسد. سطح بالاتر مورد اصلی فیک‌اوت شدن است. این‌که FL «کم‌اهمیت‌تر» را FL بنامی یا DP، باز به خودت بستگی دارد. فکر می‌کنم فقط نام‌گذاری است. نکته این است که در آن ناحیه تقاضای انباشته وجود دارد.
+
+یک تذکر: من در RTM تازه‌کارم و بنابراین ممکن است فهمم پر از سرهای نخ‌باز باشد.
+
+با احترام
+
+Raj
+
+### if_p55_15
+EN: Raj wrote: Hi Smimon:
+
+Here is my take on your diagram. When price engulfs your "more important
+ FL" the logical expectation then would be a slide to the next demand
+zone which is the "Less important FL" in your chart. So, for me, price
+has reached its logical destination after the engulf or rather fakeout.
+ I view it more as stacked demand and it is always better to wait for
+the price to reach the lower of the two stacked levels. The higher level
+ is a prime case for faking-out. Whether you want to call the "Less
+important FL" as a FL or DP is again up to you. Just nomenclature I
+guess. Point is, there is pent-up demand in that area.
+
+Caveat: Am a newbie at RTM and hence could have lots of loose ends in my understanding.
+
+Regards
+
+Raj
+
+Thank you for the reply, but at the risk of cluttering up IF's journal
+further, perhaps we should just wait for his comment on the matter.
+
+Raj - and this is something else IF may need to clarify - "decision" to
+engulf a level is not a high probability level to trade on return in the
+ same way that a FL is. Yes, they do bounce price some of the time, but
+they do not have the significance of a FL. If you note, there is no
+article on the Markepedia about DP being a valid high probability
+tradeable level.
+
+Everyone talks about them here on RTM all the time - usually to
+backwards justify when something happened which they weren't expecting
+;-) "Oh, it was FO into DP!"
+
+I was just after a clear "yes this is valid FO/no it is not/it is not
+possible to tell until more PA plays out", to remove a source of
+ambiguity from my trading and adjust my trade execution accordingly.
+
+Cheers
+FA: Raj نوشت: سلام Smimon:
+
+برداشت من از نمودارت این است. وقتی قیمت FL «مهم‌تر» تو را اینگالف می‌کند، انتظار منطقی بعدی سر خوردن به ناحیهٔ تقاضای بعدی است، یعنی همان FL «کم‌اهمیت‌تر» در نمودارت. پس به نظر من قیمت بعد از اینگالف — یا بهتر است بگویم فیک‌اوت — به مقصد منطقی‌اش رسیده است. من آن را بیشتر تقاضای روی‌هم‌چیده می‌بینم و همیشه بهتر است صبر کنیم قیمت به پایین‌ترِ آن دو سطح روی‌هم‌چیده برسد. سطح بالاتر مورد اصلی فیک‌اوت شدن است. این‌که FL «کم‌اهمیت‌تر» را FL بنامی یا DP، باز به خودت بستگی دارد. فکر می‌کنم فقط نام‌گذاری است. نکته این است که در آن ناحیه تقاضای انباشته وجود دارد.
+
+یک تذکر: من در RTM تازه‌کارم و بنابراین ممکن است فهمم پر از سرهای نخ‌باز باشد.
+
+با احترام
+
+Raj
+
+ممنون از جوابت، ولی به خطر شلوغ‌تر کردن ژورنال IF، شاید بهتر باشد فقط منتظر نظر خودش در این باره بمانیم.
+
+Raj — و این چیز دیگری است که شاید IF لازم باشد روشن کند — «تصمیم» به اینگالف کردن یک سطح، سطحی با احتمال بالا برای معامله در بازگشت نیست، آن‌طور که FL هست. بله، گاهی قیمت را برمی‌گردانند، ولی اهمیت یک FL را ندارند. اگر دقت کنی، در مارکت‌پدیا هیچ مقاله‌ای نیست که DP را سطحی معتبر و قابل معامله با احتمال بالا بداند.
+
+همه اینجا در RTM مدام از آن‌ها حرف می‌زنند — معمولاً برای توجیه عقب‌گردی وقتی چیزی رخ داده که انتظارش را نداشتند ;-) «آهان، FO به داخل DP بود!»
+
+من فقط دنبال یک «بله، این FO معتبر است / نه، نیست / تا PA بیشتری بازی نشود نمی‌شود گفت» روشن بودم، تا یک منبع ابهام را از معامله‌گری‌ام بردارم و اجرای معامله‌ام را بر همان اساس تنظیم کنم.
+
+بدرود
+
+### if_p55_17
+EN: harshrthakkar wrote: Thank you for your validation of my 4th Junes post,,,,,can you please wlaborate on your post 1337
+
+My post count is different to yours, so I don't know of which post you speak
+FA: harshrthakkar نوشت: ممنون که پست چهارم ژوئن مرا تأیید کردی،،،،،می‌شود لطفاً کمی دربارهٔ پست 1337 توضیح بدهی
+
+شمارش پست‌های من با تو فرق دارد، پس نمی‌دانم از کدام پست حرف می‌زنی
+
+### if_p55_18
+EN: IF i understand the FL engulf and why you closed the trade there what i
+ don't know is why you choosed that level it makes no sense to me...i
+mean looking at the chart the level was visited before u took the trade
+ so that means there were no more orders there
+FA: IF، اینگالف FL و این‌که چرا معامله را آنجا بستی را می‌فهمم؛ چیزی که نمی‌دانم این است که چرا آن سطح را انتخاب کردی، برای من هیچ منطقی ندارد...یعنی با نگاه به نمودار، آن سطح قبل از این‌که تو معامله را بگیری هم دیده شده بود، پس یعنی دیگر سفارشی آنجا نمانده بود
+
+### if_p55_19
+EN: If this is wht you mentioned "In fact, I'm thinking of swapping you guys information for your help with the Blue Dot.
+
+I'd like to give posts, lessons, and webinars, dependant on how many
+people make valuable posts over there!....can you pls detail this out
+FA: اگر منظورتان این است که گفتید «راستش، دارم فکر می‌کنم در ازای کمکتان با Blue Dot، اطلاعات را با شماها عوض کنم.»
+
+می‌خواهم پست، درس و وبینار بدهم، بسته به این‌که چند نفر آنجا پست ارزشمند می‌گذارند!....می‌شود لطفاً این را مفصل توضیح بدهید
+
+### if_p55_20
+EN: dudu112 wrote: IF i understand
+the FL engulf and why you closed the trade there what i don't know is
+why you choosed that level it makes no sense to me...i mean looking at
+the chart the level was visited before u took the trade so that means
+there were no more orders there
+
+Can you explain the piece about the level being visited already?
+FA: dudu112 نوشت: IF، اینگالف FL و این‌که چرا معامله را آنجا بستی را می‌فهمم؛ چیزی که نمی‌دانم این است که چرا آن سطح را انتخاب کردی، برای من هیچ منطقی ندارد...یعنی با نگاه به نمودار، آن سطح قبل از این‌که تو معامله را بگیری هم دیده شده بود، پس یعنی دیگر سفارشی آنجا نمانده بود
+
+می‌شود بخش مربوط به این‌که آن سطح از قبل دیده شده بود را توضیح بدهی؟
+
+### if_p55_21
+EN: prntscr.com/7jajx3
+FA: لینک تصویر: prntscr.com/7jajx3
+
+### if_p55_22
+EN: That area you point to was the FO level on the HTF, right before price
+ fell away. On the HTF price hasnt been back here, so one thing you do
+is look for the likely places where there was a clear turning point. If
+ you look at IF's Nov chart you can clearly see the primary FO level
+before price fell away. You want to remember that location when the HTF
+ works its way out and the instrument heads back up.
+
+Also keep in mind that IF used words like "on approach..." Thats gold.
+ As price came up to that level there are some very good indicators that
+ a trade was on the table. If your goal is to learn to make money, than
+ I wouldnt be concerned with IF's to-the-pip entry; he's a grand master.
+ For the journeymen, IMO the real focus was understanding the levels to
+ be interested in when GU finally gets up to this major level, and then
+be ready for any factors that are simple to monitor and identify. The
+engulf was clear. the huge rally into the level was clear. A huge
+rally into a major supply level. If you didnt manage to get in on
+spike, the hesitation that IF mentions was absolutely worth jumping in
+on in my view due to the engulf lower to the left. Added to this is
+that the target was textbook....in fact I see a nice long up to supply
+before taking the short back down, but thats just me.
+
+Also pay attention to how IF got out...monitoring the moves/ reading
+price. IF highlights the engulf, and the obvious question is why did it
+ then make a lower low....but alas it still rises back to supply. Savvy
+ trades will see there is at least 1:3 RR trade back up from this move
+down, and worthy of the punt. That 1:3 actually turns into a 1:10 or so
+ if the PA was being read well, back up to supply.
+FA: ناحیه‌ای که به آن اشاره می‌کنی سطح FO روی HTF بود، درست قبل از ریزش قیمت. قیمت روی HTF دیگر به اینجا برنگشته، پس یکی از کارهایی که می‌کنی این است که دنبال جاهای محتملی بگردی که نقطهٔ چرخش روشنی داشته‌اند. اگر به نمودار نوامبر IF نگاه کنی، به‌وضوح سطح FO اولیه را پیش از ریزش قیمت می‌بینی. آن نقطه را به یاد داشته باش برای وقتی HTF کارش را تمام می‌کند و ابزار دوباره رو به بالا می‌رود.
+
+همچنین یادت باشد IF از عبارتی مثل «در نزدیک شدن...» استفاده کرد. این حرف طلاست. وقتی قیمت به آن سطح بالا آمد، نشانه‌های خیلی خوبی بود که معامله‌ای روی میز است. اگر هدفت یاد گرفتن درآمدزایی است، من نگران ورود دقیق تا پیپ IF نمی‌شوم؛ او استاد بزرگ است. برای شاگردهای کارکشته، به نظر من تمرکز واقعی درک سطوحی بود که وقتی GU بالاخره به این سطح اصلی می‌رسد باید به آن‌ها علاقه داشت، و بعد آماده بودن برای هر عاملی که رصد و شناسایی‌اش ساده است. اینگالف روشن بود. رالی عظیم به سمت آن سطح روشن بود. یک رالی عظیم به ناحیهٔ عرضهٔ اصلی. اگر موفق نشدی روی اسپایک وارد شوی، به نظر من آن تردیدی که IF ذکرش می‌کند، با توجه به اینگالف پایین‌تر در سمت چپ، کاملاً ارزش پریدن داشت. اضافه بر این، تارگت هم مثل کتاب درسی بود....راستش من یک خرید زیبای صعودی تا عرضه می‌بینم قبل از گرفتن فروش به سمت پایین، ولی این نظر خودم است.
+
+همچنین دقت کن IF چطور بیرون آمد...رصد حرکات/ خواندن قیمت. IF اینگالف را برجسته می‌کند، و سؤال واضح این است که چرا بعد از آن کف پایین‌تری ساخت....ولی با این حال دوباره تا عرضه بالا می‌رود. معامله‌گران زیرک می‌بینند که از این حرکت نزولی حداقل یک معاملهٔ 1:3 ریسک به ریوارد به سمت بالا هست، و ارزش ریسک کردن را دارد. آن 1:3 در واقع اگر PA خوب خوانده می‌شد، تا عرضه، به حدود 1:10 تبدیل می‌شود.
+
+### if_p55_23
+EN: Redbullish wrote:
+
+ Warning: Spoiler!
+
+ [ Click to expand ]
+
+ [ Click to hide ]
+
+I'll give a try...i wanna win a teddy bear
+
+Best
+FA: Redbullish نوشت:
+
+هشدار: اسپویلر!
+
+برای باز کردن کلیک کنید
+
+برای بستن بزنید
+
+یک بار امتحان می‌کنم...می‌خواهم یک خرس عروسکی ببرم
+
+بهترین‌ها
+
+### if_p55_24
+EN: Hi IF,
+
+both these FLs dint form breaking anything on left. Or am i wrong?
+FA: سلام IF،
+
+هیچ‌کدام از این دو FL با شکستن چیزی در سمت چپ شکل نگرفتند. یا اشتباه می‌کنم؟
+
+### if_p55_25
+EN: great work whenever
+ , a beautiful rising equity curve. if this is a real money account, i
+think you are already on your way to a consistent profitable trader. but
+ if its demo, the only thing that stops you from achieving the same
+performance in real money account is your mental framework. if you set
+up the right mental framework with the right mental skills, making money
+ on real money account will be as easy as on demo account. i think you
+have an "edge" that puts the probability of success in your favor, now
+the only thing you have to do is to act the same way on your real money
+account as you did on your demo,
+
+fxaddictor wrote:
+Whenever wrote:
+Ifmyante wrote: Yes, he'll be starting full time next week
+
+Great work Really should be half of what you have done should be proud of .
+
+Nice one !
+
+Really Glad for him, glad for you, as well deserved development of the original project.
+
+I am still very far from that, but on a good way I think.
+
+(...perhaps even because all trades are with the same Lotsize, no compounding at all yet...)
+
+Thank You and to all RTM People.
+FA: کار عالی، Whenever؛ منحنی اکوییتی زیبایی است که بالا می‌رود. اگر این حساب پول واقعی است، فکر می‌کنم همین حالا در مسیر تبدیل شدن به یک معامله‌گر پیوسته سودده هستی. ولی اگر دموست، تنها چیزی که مانع رسیدن تو به همان عملکرد در حساب واقعی می‌شود چارچوب ذهنی‌ات است. اگر چارچوب ذهنی درست را با مهارت‌های ذهنی درست بسازی، پول درآوردن در حساب واقعی به همان آسانی دمو خواهد بود. فکر می‌کنم یک «مزیت» داری که احتمال موفقیت را به نفع تو می‌چرخاند؛ حالا تنها کاری که باید بکنی این است که در حساب واقعی هم همان‌طور رفتار کنی که در دمو رفتار کردی،
+
+fxaddictor نوشت:
+Whenever نوشت:
+Ifmyante نوشت: بله، از هفتهٔ آینده تمام‌وقت شروع می‌کند
+
+کار عالی. واقعاً باید نصف چیزی باشد که انجام داده‌ای. باید به خودت افتخار کنی.
+
+آفرین!
+
+واقعاً برایش خوشحالم، برای تو هم خوشحالم؛ توسعهٔ شایستهٔ پروژهٔ اولیه.
+
+من هنوز خیلی از آن دورم، ولی فکر می‌کنم در مسیر خوبی هستم.
+
+(...شاید هم چون همهٔ معاملات با حجم لات یکسان است، هنوز هیچ ترکیب سودی در کار نیست...)
+
+ممنون از تو و از همهٔ اهالی RTM.

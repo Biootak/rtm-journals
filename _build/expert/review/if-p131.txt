@@ -1,0 +1,391 @@
+### if_p131_1
+EN: Ifmyante wrote: Hiya
+
+On the highest scale, it would be 2, as that's the last flag on approach
+
+for fixing of information:
+
+Thanks
+FA: Ifmyante نوشت: سلام
+
+در بالاترین مقیاس، جواب 2 می‌شود، چون آن آخرین فلگ در مسیر رویکرد است
+
+برای تثبیت اطلاعات:
+
+ممنون
+
+### if_p131_2
+EN: That more than tested it. It filled the range.
+
+When thinking about my statement, consider the FTR being made, asking for a subsequent BSZ
+FA: آن بیش از حد آزمونش کرد. کل رنج را پر کرد.
+
+وقتی به حرف من فکر می‌کنی، FTR در حال شکل‌گیری را در نظر بگیر که یک BSZ بعدی را طلب می‌کند.
+
+### if_p131_3
+EN: Hi guys, i'm sorry to interrupt but I'd like (again ) to keep the dicussion about UC up, because this is so interesting!
+
+As i already said price bouncing between targets disturbs me a lot, and
+IF and corsica taking these trades disturbs me an awful lot! So i had to
+ try to make some sense out of it.
+
+I hope i could have any comment about it
+
+See next post for continuation (is there a 5 picture limitation?)
+FA: سلام بچه‌ها، ببخشید که وسط بحث می‌پرم، اما دوباره می‌خواهم بحث دربارهٔ UC را زنده نگه دارم، چون خیلی جالب است!
+
+همان‌طور که گفتم، جهش قیمت بین تارگت‌ها خیلی آزارم می‌دهد، و اینکه IF و corsica این معامله‌ها را می‌گیرند بی‌نهایت اذیتم می‌کند! پس مجبور شدم کمی برایش منطق پیدا کنم.
+
+امیدوارم کسی نظری در این باره بدهد
+
+ادامه را در پست بعدی ببینید (آیا محدودیت 5 تصویر وجود دارد؟)
+
+### if_p131_4
+EN: Hugo
+FA: Hugo
+
+### if_p131_5
+EN: Oh my, you've read a lot of my mind there
+
+As you're seeing more and more, I think in a very simplistic manner
+FA: وای خدای من، کلی از ذهن من را خوانده‌ای
+
+همان‌طور که بیشتر و بیشتر می‌بینی، من خیلی ساده‌انگارانه فکر می‌کنم
+
+### if_p131_6
+EN: While being prepared for the worst, one must also visualise the best
+
+Here are my two best visions of this entire setup
+FA: آدم باید هم‌زمان که برای بدترین حالت آماده می‌شود، بهترین حالت را هم در ذهن تصور کند
+
+این هم دو تصور برتر من از کل این ستاپ
+
+### if_p131_7
+EN: Preparing for the worst is simply spotting possible impediments, and having plans to deal with the PA they may create
+FA: آماده شدن برای بدترین حالت صرفاً یعنی دیدن موانع احتمالی، و داشتن نقشه‌ای برای رویارویی با PA که ممکن است ایجاد کنند.
+
+### if_p131_8
+EN: Where would you collect a stops in a middle zones like this, IF?
+Look to the right. I have marked where a potential BSZ is. The biggest
+problem is that i think they already collected the stops into a middle
+level. the edge of a CP. This looks trading in the middle to me, but it
+worked.
+
+And now, the bigger kink, where i should look for a trade. The problem
+is that i still keep my 10% risk/trade and i wasn't confident on this
+one.
+
+And now, the lower TF
+
+What would you like for approach to be in order to SAS each of these 3 levels?
+
+Thank you, IF!
+FA: IF، در نواحی وسطی مثل این کجا استاپ جمع می‌کنی؟ به راست نگاه کن. علامت زده‌ام که یک BSZ بالقوه کجاست. بزرگ‌ترین مشکل این است که فکر می‌کنم آن‌ها استاپ‌ها را در یک سطح میانی جمع کرده‌اند؛ لبهٔ یک CP. به نظر من این معامله در میانه است، ولی جواب داد.
+
+و حالا کینک بزرگ‌تر، جایی که باید دنبال معامله بگردم. مشکل این است که هنوز ریسک 10% در هر معامله را نگه می‌دارم و روی این یکی مطمئن نبودم.
+
+و حالا تایم‌فریم پایین‌تر
+
+دوست داری رویکرد چطور باشد تا بتوانی هر 3 سطح را SAS کنی؟
+
+ممنون، IF!
+
+### if_p131_10
+EN: I only have a moment here, so let me just start with the easy one:
+
+HCDE, look to June 8th, 2016
+FA: من اینجا فقط یک لحظه وقت دارم، پس بگذار از ساده شروع کنم:
+
+HCDE، نگاهی به 8 ژوئن 2016 بینداز
+
+### if_p131_11
+EN: You mean symmetry right?
+
+I'd be glad if it went there because i just joined the party thanks to a BSZ:
+FA: منظورت تقارن است، درست است؟
+
+خوشحال می‌شوم اگر قیمت به آنجا برود، چون به لطف یک BSZ تازه به جمع پیوسته‌ام:
+
+### if_p131_12
+EN: IF, what do you think about this? Shouldn't price bounce at this
+level? You see, nice MPL, with LS to the left so there are clean orders.
+ I know there is 2TB to the bigger kink, but there are clean orders
+which should bounce price on a touch trade back to BS. What would you
+like to see in order for that trade to be valid? Thank you!
+FA: IF، نظرت دربارهٔ این چیست؟ نباید قیمت در این سطح برگردد؟ ببین، MPL قشنگی هست، با LS در سمت چپ، پس سفارش‌های تمیزی آنجاست. می‌دانم تا کینک بزرگ‌تر 2TB فاصله است، ولی همان‌جا هم اردرهای تمیزی هست که باید قیمت را در یک معاملهٔ لمس و بازگشت به BS بالا ببرد. برای اینکه آن معامله معتبر باشد چه چیزی را دوست داری ببینی؟ ممنون!
+
+### if_p131_13
+EN: Hi Boby, may I know which level were you referring to? Do you mind
+annotate it on your chart, I am too stupid to understand English!!? bobyv87 wrote: IF, what do you think about this? Shouldn't price bounce at this level?
+FA: سلام Boby، می‌شود بگویید منظورت کدام سطح بود؟ می‌شود روی نمودارت علامت بزنی، من برای فهمیدن انگلیسی خیلی خنگم!!? bobyv87 نوشت: IF، دربارهٔ این چه فکر می‌کنی؟ نباید قیمت در این سطح برگردد؟
+
+### if_p131_14
+EN: The very MPL above the green ellipse.Astrokillah
+ wrote: Hi Boby, may I know which level were you referring to? Do you
+mind annotate it on your chart, I am too stupid to understand English!!?
+
+bobyv87 wrote: IF, what do you think about this? Shouldn't price bounce at this level?
+FA: همان MPL بالای بیضی سبز. Astrokillah نوشت: سلام Boby، می‌شود بگویید منظورت کدام سطح بود؟ می‌شود روی نمودارت علامت بزنی، من برای فهمیدن انگلیسی خیلی خنگم!!?
+
+bobyv87 نوشت: IF، دربارهٔ این چه فکر می‌کنی؟ نباید قیمت در این سطح برگردد؟
+
+### if_p131_15
+EN: I have history from back then as low as M5, and it all looked like a good BSZ setup.
+
+I don't see that it didn't work, but looking at that big candle passing
+through the zone, I can imagine that it may have shot up with no
+retrace,
+
+Perhaps someone has more information than I
+FA: از آن زمان تاریخچه‌ای تا M5 دارم، و همه‌اش شبیه یک ستاپ BSZ خوب بود.
+
+نمی‌بینم که کار نکرده باشد، اما وقتی آن کندل بزرگ را می‌بینم که از ناحیه عبور می‌کند، می‌توانم تصور کنم که بدون پولبک بالا رفته باشد،
+
+شاید کسی اطلاعات بیشتری از من داشته باشد
+
+### if_p131_16
+EN: Master IF,
+
+This is the 10s chart, and the light dotted blue line is the exact same dotted blue line in your chart above:
+
+Ifmyante wrote: I have history from back then as low as M5, and it all looked like a good BSZ setup.
+
+I don't see that it didn't work, but looking at that big candle passing
+through the zone, I can imagine that it may have shot up with no
+retrace,
+
+Perhaps someone has more information than I
+FA: استاد IF،
+
+این نمودار 10 ثانیه‌ای است، و خط آبی نقطه‌چین کم‌رنگ همان خط نقطه‌چین آبی نمودار بالای توست:
+
+Ifmyante نوشت: از آن زمان تاریخچه‌ای تا M5 دارم، و همه‌اش شبیه یک ستاپ BSZ خوب بود.
+
+نمی‌بینم که کار نکرده باشد، اما وقتی آن کندل بزرگ را می‌بینم که از ناحیه عبور می‌کند، می‌توانم تصور کنم که بدون پولبک بالا رفته باشد،
+
+شاید کسی اطلاعات بیشتری از من داشته باشد
+
+### if_p131_17
+EN: Thanks AK
+
+I need a kink to work to, and there's none here with any meat.
+
+For me, it's a very bad sign, and might well keep me out of a trade
+FA: ممنون AK
+
+من به کینکی نیاز دارم که بشود رویش کار کرد، و اینجا هیچ کینک پر و پیمانی نیست.
+
+برای من نشانهٔ خیلی بدی است، و ممکن است کاملاً از یک معامله دورم نگه دارد
+
+### if_p131_18
+EN: Hi IF & RTM friends,
+
+I was away for quite some times due to illnesses. During the time, I was
+ trying to recall the teachings from RTM, especially the words from IF.
+
+Since 3 weeks ago , I had my AHA moment, and I've been profiting from
+the forex market, and this week, I'm still profiting so far, for the
+first day of trading.
+
+Even though my entry is not too sharp, but I would say it's much better, and my target is to be as sharp as possible.
+
+The risk to reward is not taken into consideration yet, but it will be
+improve over the time, as I'm still learning. Forever I will be a humble
+ student of RTM.
+
+Due to recent workload, I'm not able to be always here like I used to be, but I'll be back soon after I finish the works.
+
+I just dropping by to express my gratitude to RTM, especially IF and many seniors here.
+
+Thank you so much and love you all. Good luck guys for your trades.
+
+Here's one of my entry last friday on AUDUSD. I'll monitor the trade if there's reversal sign then I'll close the trade.
+FA: سلام دوستان IF و RTM،
+
+به خاطر بیماری‌ها مدتی دور بودم. در آن مدت سعی می‌کردم آموزه‌های RTM را به یاد آورم، مخصوصاً حرف‌های IF را.
+
+از 3 هفته پیش آن لحظهٔ AHA را تجربه کردم و از بازار فارکس سود می‌گرفتم؛ این هفته هم تا الان و در نخستین روز معامله همچنان در سود هستم.
+
+هرچند ورودم چندان دقیق نیست، اما باید بگویم خیلی بهتر شده، و هدفم این است که تا حد ممکن دقیق شوم.
+
+نسبت ریسک به ریوارد هنوز در محاسباتم نیست، اما با گذشت زمان بهتر می‌شود، چون هنوز در حال یادگیری‌ام. همیشه شاگرد فروتن RTM خواهم ماند.
+
+به دلیل حجم کار زیاد اخیر نمی‌توانم مثل قبل همیشه اینجا باشم، اما به‌زودی پس از تمام شدن کارها برمی‌گردم.
+
+فقط سر زدم تا قدردانی‌ام را از RTM، مخصوصاً IF و بسیاری از پیشکسوتان اینجا، ابراز کنم.
+
+خیلی ممنون و دوستتان دارم. بچه‌ها در معامله‌هایتان موفق باشید.
+
+این هم یکی از ورودهای من جمعهٔ گذشته روی AUDUSD. معامله را زیر نظر دارم و اگر نشانهٔ برگشت دیدم بسته‌اش می‌کنم.
+
+### if_p131_19
+EN: Why couldn't be your BSZ the kink itself? I ask because if you look at
+ the high to the left it seems like this high it break up a little bit,
+so there is a kink which can be big
+
+Ifmyante wrote: I have history from back then as low as M5, and it all looked like a good BSZ setup.
+
+I don't see that it didn't work, but looking at that big candle passing
+through the zone, I can imagine that it may have shot up with no
+retrace,
+
+Perhaps someone has more information than I
+FA: چرا BSZ خودش نمی‌تواند همان کینک باشد؟ می‌پرسم چون اگر به سقف سمت چپ نگاه کنی، به نظر می‌رسد این سقف کمی شکسته شده، پس کینکی هست که می‌تواند بزرگ باشد
+
+Ifmyante نوشت: از آن زمان تاریخچه‌ای تا M5 دارم، و همه‌اش شبیه یک ستاپ BSZ خوب بود.
+
+نمی‌بینم که کار نکرده باشد، اما وقتی آن کندل بزرگ را می‌بینم که از ناحیه عبور می‌کند، می‌توانم تصور کنم که بدون پولبک بالا رفته باشد،
+
+شاید کسی اطلاعات بیشتری از من داشته باشد
+
+### if_p131_20
+EN: Hi Boby,
+
+Referring to your original question about why the BSZ didn't work (your
+green BSZ zone in your first chart). This is how I see it, refer to the
+chart below:
+
+The important thing I see is that the LS has been used twice, and I
+remember IF mentioned this in his videos. Ideally we want LS that has
+not been used at all.
+
+BSZ is only an odd enhancer in my opinion, from my chart reading, it's
+less important than having a nice/clean DP at the location you want to
+short. YMMV though. This is the diagram I drew up myself for to remind
+me what a high-odd setup look like:
+
+bobyv87 wrote: Why couldn't be
+your BSZ the kink itself? I ask because if you look at the high to the
+left it seems like this high it break up a little bit, so there is a
+kink which can be big
+FA: سلام Boby،
+
+دربارهٔ سؤال اولیه‌ات که چرا BSZ کار نکرد (ناحیهٔ BSZ سبزت در نمودار اول). من این‌طور می‌بینم، به نمودار زیر نگاه کن:
+
+چیزی که مهم می‌بینم این است که LS دو بار استفاده شده، و یادم می‌آید IF این را در ویدئوهایش گفته بود. در حالت ایده‌آل LS‌ای می‌خواهیم که اصلاً استفاده نشده باشد.
+
+به نظر من BSZ فقط یک بهبوددهندهٔ فرد است؛ از خوانش نمودارم، داشتن یک DP خوب و تمیز در جایی که می‌خواهی شورت کنی مهم‌تر است. البته نظرت ممکن است متفاوت باشد. این هم نموداری که خودم کشیدم تا یادم بماند یک ستاپ با شانس فرد چه شکلی است:
+
+bobyv87 نوشت: چرا BSZ خودش نمی‌تواند همان کینک باشد؟ می‌پرسم چون اگر به سقف سمت چپ نگاه کنی، به نظر می‌رسد این سقف کمی شکسته شده، پس کینکی هست که می‌تواند بزرگ باشد
+
+### if_p131_21
+EN: Maybe I'm being terribly accurate here but wouldn't it be like this?
+
+Technically, couldn't it be that both L and LL are a reaction to the same kink?
+
+Astrokillah wrote: Hi Boby,
+
+Referring to your original question about why the BSZ didn't work (your
+green BSZ zone in your first chart). This is how I see it, refer to the
+chart below:
+
+The important thing I see is that the LS has been used twice, and I
+remember IF mentioned this in his videos. Ideally we want LS that has
+not been used at all.
+
+BSZ is only an odd enhancer in my opinion, from my chart reading, it's
+less important than having a nice/clean DP at the location you want to
+short. YMMV though. This is the diagram I drew up myself for to remind
+me what a high-odd setup look like:
+
+bobyv87 wrote: Why couldn't be
+your BSZ the kink itself? I ask because if you look at the high to the
+left it seems like this high it break up a little bit, so there is a
+kink which can be big
+FA: شاید دارم بیش از حد دقیق می‌شوم، اما مگر این‌طوری نیست؟
+
+از نظر فنی، نمی‌شود که هر دو L و LL واکنش به همان کینک باشند؟
+
+Astrokillah نوشت: سلام Boby،
+
+دربارهٔ سؤال اولیه‌ات که چرا BSZ کار نکرد (ناحیهٔ BSZ سبزت در نمودار اول). من این‌طور می‌بینم، به نمودار زیر نگاه کن:
+
+چیزی که مهم می‌بینم این است که LS دو بار استفاده شده، و یادم می‌آید IF این را در ویدئوهایش گفته بود. در حالت ایده‌آل LS‌ای می‌خواهیم که اصلاً استفاده نشده باشد.
+
+به نظر من BSZ فقط یک بهبوددهندهٔ فرد است؛ از خوانش نمودارم، داشتن یک DP خوب و تمیز در جایی که می‌خواهی شورت کنی مهم‌تر است. البته نظرت ممکن است متفاوت باشد. این هم نموداری که خودم کشیدم تا یادم بماند یک ستاپ با شانس فرد چه شکلی است:
+
+bobyv87 نوشت: چرا BSZ خودش نمی‌تواند همان کینک باشد؟ می‌پرسم چون اگر به سقف سمت چپ نگاه کنی، به نظر می‌رسد این سقف کمی شکسته شده، پس کینکی هست که می‌تواند بزرگ باشد
+
+### if_p131_22
+EN: you're not wrong, it's just my own drawing and I try to keep it
+simple, there is a reason why I drew the LL so far below the L, so that
+it not only engulfs the L, it also engulf whatever that has caused price
+ to bounce upward and hence creating the L.
+
+Sorry I did not annotate H, L, HH, LL on my chart because I assume everyone can see it..
+
+einrikr wrote: Maybe I'm being terribly accurate here but wouldn't it be like this?
+
+Technically, couldn't it be that both L and LL are a reaction to the same kink?
+FA: اشتباه نمی‌کنی، این فقط رسم خودم است و سعی می‌کنم ساده نگهش دارم؛ دلیلی دارد که LL را این‌قدر پایین‌تر از L کشیده‌ام: تا نه‌فقط L را ببلعد، بلکه هر چیزی را هم که باعث شده قیمت به بالا برگردد و در نتیجه L ساخته شود، در بر بگیرد.
+
+ببخشید که H، L، HH و LL را روی نمودارم علامت نزدم، چون فرض کردم همه می‌بینند..
+
+einrikr نوشت: شاید دارم بیش از حد دقیق می‌شوم، اما مگر این‌طوری نیست؟
+
+از نظر فنی، نمی‌شود که هر دو L و LL واکنش به همان کینک باشند؟
+
+### if_p131_23
+EN: Guys, thank you for your answers. However, in this matter i would like
+ to wait for IFs answer. Thanks for your understanding! :)
+FA: بچه‌ها، از پاسخ‌هایتان ممنون. اما در این مورد می‌خواهم منتظر جواب IF بمانم. ممنون که درک می‌کنید! :)
+
+### if_p131_24
+EN: bobyv87 wrote: Why couldn't be
+your BSZ the kink itself? I ask because if you look at the high to the
+left it seems like this high it break up a little bit, so there is a
+kink which can be big
+
+I suppose it could be, and the BSZ didn't work
+FA: bobyv87 نوشت: چرا BSZ خودش نمی‌تواند همان کینک باشد؟ می‌پرسم چون اگر به سقف سمت چپ نگاه کنی، به نظر می‌رسد این سقف کمی شکسته شده، پس کینکی هست که می‌تواند بزرگ باشد
+
+گمانم می‌تواند باشد، و BSZ کار نکرد
+
+### if_p131_25
+EN: haanz wrote: Hi IF & RTM friends,
+
+I was away for quite some times due to illnesses. During the time, I was
+ trying to recall the teachings from RTM, especially the words from IF.
+
+Since 3 weeks ago , I had my AHA moment, and I've been profiting from
+the forex market, and this week, I'm still profiting so far, for the
+first day of trading.
+
+Even though my entry is not too sharp, but I would say it's much better, and my target is to be as sharp as possible.
+
+The risk to reward is not taken into consideration yet, but it will be
+improve over the time, as I'm still learning. Forever I will be a humble
+ student of RTM.
+
+Due to recent workload, I'm not able to be always here like I used to be, but I'll be back soon after I finish the works.
+
+I just dropping by to express my gratitude to RTM, especially IF and many seniors here.
+
+Thank you so much and love you all. Good luck guys for your trades.
+
+Here's one of my entry last friday on AUDUSD. I'll monitor the trade if there's reversal sign then I'll close the trade.
+
+Here's hoping you're all better from your malady.
+
+I'm very glad you're doing great in the market! That's a cute addition to the bottom of the chart
+FA: haanz نوشت: سلام دوستان IF و RTM،
+
+به خاطر بیماری‌ها مدتی دور بودم. در آن مدت سعی می‌کردم آموزه‌های RTM را به یاد آورم، مخصوصاً حرف‌های IF را.
+
+از 3 هفته پیش آن لحظهٔ AHA را تجربه کردم و از بازار فارکس سود می‌گرفتم؛ این هفته هم تا الان و در نخستین روز معامله همچنان در سود هستم.
+
+هرچند ورودم چندان دقیق نیست، اما باید بگویم خیلی بهتر شده، و هدفم این است که تا حد ممکن دقیق شوم.
+
+نسبت ریسک به ریوارد هنوز در محاسباتم نیست، اما با گذشت زمان بهتر می‌شود، چون هنوز در حال یادگیری‌ام. همیشه شاگرد فروتن RTM خواهم ماند.
+
+به دلیل حجم کار زیاد اخیر نمی‌توانم مثل قبل همیشه اینجا باشم، اما به‌زودی پس از تمام شدن کارها برمی‌گردم.
+
+فقط سر زدم تا قدردانی‌ام را از RTM، مخصوصاً IF و بسیاری از پیشکسوتان اینجا، ابراز کنم.
+
+خیلی ممنون و دوستتان دارم. بچه‌ها در معامله‌هایتان موفق باشید.
+
+این هم یکی از ورودهای من جمعهٔ گذشته روی AUDUSD. معامله را زیر نظر دارم و اگر نشانهٔ برگشت دیدم بسته‌اش می‌کنم.
+
+امیدوارم بیماری‌ات کاملاً رفع شده باشد.
+
+خیلی خوشحالم که در بازار عالی پیش می‌روی! آن اضافهٔ بامزه پایین نمودار هم قشنگ است

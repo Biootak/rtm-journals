@@ -1,0 +1,17 @@
+{
+  "linos_p7_8": {
+    "issue": "number written as word (3/4 -> سه‌چهارم)",
+    "why": "Source says \"took some at BE and 3/4s at 10R\"; the Latin fraction 3/4 is replaced by the word \"سه‌چهارم\", so the position-size figure is lost.",
+    "fix": "ممنون IF. دیشب به این یکی رسیدم، امروز دور خواهم بود، پس بخشی را در BE و 3/4 را در 10R گرفتم و بقیه را گذاشتم احتمالاً تا TP برود، هرچند شاید این فرصتی است برای تمرین همان «PA مرا بیرون ببرد»ی که از Aran دیدم، هوممم:"
+  },
+  "linos_p7_10": {
+    "issue": "number written as word (3/4 -> سه‌چهارم)",
+    "why": "Source says \"Took 3/4 here at BSZ for 15 R\"; the Latin fraction 3/4 is replaced by the word \"سه‌چهارم\", so the position-size figure is lost.",
+    "fix": "3/4 را اینجا در BSZ برای 15 R گرفتم، امیدوارم بقیه تا تارگت برود:"
+  },
+  "linos_p7_13": {
+    "issue": "number written as word (3/4 -> سه‌چهارم)",
+    "why": "Source says \"Took 3/4 off GJ at 10R\"; the Latin fraction 3/4 is replaced by the word \"سه‌چهارم\", so the position-size figure is lost.",
+    "fix": "3/4 از GJ را در 10R گرفتم، امیدوارم وقتی خوابم به من رو نکند، چون دزدها شب می‌آیند، از جمله اسپردهای نجومی!"
+  }
+}

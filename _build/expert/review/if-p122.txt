@@ -1,0 +1,347 @@
+### if_p122_1
+EN: Can someone explain me this quote: (i reread it 10X but i dont know what it means...) i think i know but i dont know 100%..
+
+Once price engulfs a level, all that's important is how far it
+retraces before hitting its target. While the pockets of orders remain
+in this RT, it remains strong. If price totally compresses (picking up
+all orders) forward from the tip of the RT, then we will look primarily
+for the orders at the entrance to said CP.
+FA: کسی می‌تواند این جمله را برایم توضیح دهد: (10 بار دوباره خواندم ولی نمی‌دانم معنی‌اش چیست...) فکر می‌کنم می‌دانم، ولی 100% مطمئن نیستم..
+
+وقتی قیمت سطحی را اینگالف می‌کند، تنها چیزی که اهمیت دارد این است که پیش از رسیدن به هدفش چقدر عقب می‌آید. تا وقتی دسته‌های سفارش در این RT باقی می‌مانند، همان RT قوی است. اگر قیمت از نوک RT کاملاً فشرده شود (همهٔ سفارش‌ها را بردارد) و به جلو برود، آن‌گاه در درجهٔ اول به دنبال سفارش‌های ورودی همان CP می‌گردیم.
+
+### if_p122_2
+EN: Have you drawn it?
+FA: آن را کشیده‌ای؟
+
+### if_p122_3
+EN: Kiwi thoughts
+FA: تفکرات کیوی
+
+### if_p122_4
+EN: 1.)	At point 1 price engulfs a LFL - which at that point is PA (an
+engulf which didn’t hit its target (2) So, we will now look for an
+opportunity to short at the UFL.
+
+2.)	At point 1 price engulfs a LFL, retraces just a little bit and hits
+its target (2) straight after – which means a new UFL (3) is formed. I
+think this is what dengaima means – for an engulf to be tradeable we
+need the engulf to not hit its target. (However, price failed to pick up
+ the orders in the UFL (4) so I guess these will always be attractive
+for the ITs?)
+
+3.)	In the 3rd scenario we have an engulf of the LFL (2) at (5) – so
+again we look for a short opportunity at the UFL (3) But we have to be
+more careful with this UFL. Why is that? That is because we have left
+unfilled orders at the UFL (4). (UFL (3) is of course tradeable if you
+like, but you should look for LTF PA to get the confirmation for the
+trade (PA in a lower scale in yellow box)
+
+Could this be the structure for a BSZ?
+FA: 1.) در نقطهٔ 1 قیمت یک LFL را اینگالف می‌کند - که در آن لحظه PA است (اینگالفی که به هدفش (2) نخورده). پس از این به دنبال فرصتی برای شورت در UFL می‌گردیم.
+
+2.) در نقطهٔ 1 قیمت یک LFL را اینگالف می‌کند، فقط کمی عقب می‌آید و بلافاصله به هدفش (2) می‌خورد - یعنی یک UFL تازه (3) ساخته می‌شود. فکر می‌کنم منظور dengaima همین است - برای اینکه یک اینگالف قابل معامله باشد، باید به هدفش نخورده باشد. (البته قیمت موفق نشد سفارش‌های UFL (4) را بردارد، پس حدس می‌زنم این‌ها همیشه برای IT‌ها جذاب باشند؟)
+
+3.) در سناریوی سوم اینگالف LFL (2) را در (5) داریم - پس باز هم به دنبال فرصت شورت در UFL (3) می‌گردیم. ولی با این UFL باید محتاط‌تر باشیم. چرا؟ چون سفارش‌های پرشده‌نشده‌ای در UFL (4) جا گذاشته‌ایم. (UFL (3) البته اگر دوست داشته باشی قابل معامله است، ولی باید برای گرفتن تأییدیهٔ معامله به PA در تایم‌فریم پایین‌تر نگاه کنی (PA در مقیاس کوچک‌تر، در جعبهٔ زرد))
+
+آیا این می‌تواند ساختار یک BSZ باشد؟
+
+### if_p122_5
+EN: I'm being pedantic here, but it's best to be accurate
+FA: دارم زیادی سخت‌گیر می‌شوم، ولی بهتر است دقیق باشیم.
+
+### if_p122_6
+EN: yes i drawn it... i only dont understand last sentence: then we will look primarily for the orders at the entrance to said CP.
+FA: بله کشیدمش... فقط جملهٔ آخر را نمی‌فهمم: بعد در درجهٔ اول به دنبال سفارش‌های ورودی همان CP می‌گردیم.
+
+### if_p122_7
+EN: Hmmmm
+
+This is how I'd draw the text
+FA: هوممم
+
+متن را این‌طور می‌کشیدم
+
+### if_p122_8
+EN: Alerts active
+FA: هشدارها فعال
+
+### if_p122_9
+EN: this is how i try to define the direction of trading...
+FA: من جهت معامله را این‌طور تعیین می‌کنم...
+
+### if_p122_10
+EN: Ifmyante wrote: I'm being pedantic here, but it's best to be accurate
+
+Sorry for overcrowding on already analyzed chart.
+FA: Ifmyante نوشت: دارم زیادی سخت‌گیر می‌شوم، ولی بهتر است دقیق باشیم.
+
+ببخشید که روی نمودارِ از قبل تحلیل‌شده شلوغی می‌کنم.
+
+### if_p122_11
+EN: Wow, talk about moving from an example diagram to a real life example! Great job Kavya!
+FA: واو، حرف از رفتن از یک نمودار نمونه به یک مثال واقعی بود! کارت عالی بود Kavya!
+
+### if_p122_12
+EN: IF please confirm if i am thinking right. i am trying to connect to IT
+ mind so this will be natural to be, becose i still canot belive it and
+it is not natural to me...
+
+i need confirmation that i am thinking right. i need to understand what
+is happening otherwise i am forcing myself to some rules which are
+working but in my head is a lot of questions and insecurity.
+
+i need to clear this up. Please help us! mybe a lot of guys will connect
+ puzzles in head if you confirm that what i draw here is true.
+FA: IF لطفاً تأیید کن که درست فکر می‌کنم. دارم تلاش می‌کنم به ذهن IT وصل شوم تا این برایم طبیعی شود، چون هنوز باورم نمی‌شود و برایم طبیعی نیست...
+
+به تأیید نیاز دارم که مسیر فکری‌ام درست است. باید بفهمم چه خبر است، وگرنه خودم را به چند قاعده تحمیل می‌کنم که کار می‌کنند، ولی در ذهنم پر از سؤال و ناامنی است.
+
+باید این را روشن کنم. لطفاً کمکمان کن! شاید خیلی‌ها اگر تأیید کنی آنچه اینجا کشیده‌ام درست است، پازل‌های ذهنشان جور شود.
+
+### if_p122_13
+EN: Excuse me for chiming in, chief.
+
+PP, there is nothing wrong with it, just zoom in more a little and
+everything will make sense. price reacts where it's supposed to and it
+is absolutely perfect to the point.
+FA: ببخشید که وسط حرف می‌آیم، رئیس.
+
+PP، هیچ ایرادی ندارد، فقط کمی بیشتر زوم کن و همه‌چیز منطقی می‌شود. قیمت همان‌جا که باید واکنش می‌دهد و تا نقطهٔ دقیق بی‌عیب و نقص است.
+
+### if_p122_14
+EN: PinkPanter wrote: IF please
+confirm if i am thinking right. i am trying to connect to IT mind so
+this will be natural to be, becose i still canot belive it and it is not
+ natural to me...
+
+i need confirmation that i am thinking right. i need to understand what
+is happening otherwise i am forcing myself to some rules which are
+working but in my head is a lot of questions and insecurity.
+
+i need to clear this up. Please help us! mybe a lot of guys will connect
+ puzzles in head if you confirm that what i draw here is true.
+
+This sort of PA I've described many times, as you've done, so of course you're right.
+
+The one thing which would differ in my modern view is that taking
+profits is not something the ITs want to do, as their masters create all
+ the money anyway, making it useless to them. Rather, I now see that
+every move is to cause the herd to lose.
+FA: PinkPanter نوشت: IF لطفاً تأیید کن که درست فکر می‌کنم. دارم تلاش می‌کنم به ذهن IT وصل شوم تا این برایم طبیعی شود، چون هنوز باورم نمی‌شود و برایم طبیعی نیست...
+
+به تأیید نیاز دارم که مسیر فکری‌ام درست است. باید بفهمم چه خبر است، وگرنه خودم را به چند قاعده تحمیل می‌کنم که کار می‌کنند، ولی در ذهنم پر از سؤال و ناامنی است.
+
+باید این را روشن کنم. لطفاً کمکمان کن! شاید خیلی‌ها اگر تأیید کنی آنچه اینجا کشیده‌ام درست است، پازل‌های ذهنشان جور شود.
+
+این نوع PA را بارها توضیح داده‌ام، همان‌طور که تو کشیده‌ای، پس قطعاً درست می‌گویی.
+
+تنها چیزی که در دیدگاه امروزی‌ام تفاوت می‌کند این است که سود گرفتن کاری نیست که IT‌ها بخواهند انجام دهند، چون اربابانشان به هر حال همهٔ پول را می‌سازند و این کار را برایشان بی‌فایده می‌کند. به‌جایش، الان می‌بینم که هر حرکت با هدف زیان‌کردن گله است.
+
+### if_p122_15
+EN: Ifmyante wrote:
+PinkPanter
+ wrote: IF please confirm if i am thinking right. i am trying to connect
+ to IT mind so this will be natural to be, becose i still canot belive
+it and it is not natural to me...
+
+i need confirmation that i am thinking right. i need to understand what
+is happening otherwise i am forcing myself to some rules which are
+working but in my head is a lot of questions and insecurity.
+
+i need to clear this up. Please help us! mybe a lot of guys will connect
+ puzzles in head if you confirm that what i draw here is true.
+
+This sort of PA I've described many times, as you've done, so of course you're right.
+
+The one thing which would differ in my modern view is that taking
+profits is not something the ITs want to do, as their masters create all
+ the money anyway, making it useless to them. Rather, I now see that
+every move is to cause the herd to lose.
+
+Hmm, interesting conclusion, then why they want to hit the target if
+their purpose is to make herds lose money? There is always a purpose if
+there is target, right?
+
+Ifmyante, can you comment on this?
+	readthemarket.com/index.php/en/forum/jou...nal?start=2175#68774
+.
+
+I wrote there ITs are taking profit, but after writing, you drop this bomb :D
+
+Dengaima
+FA: Ifmyante نوشت:
+PinkPanter نوشت: IF لطفاً تأیید کن که درست فکر می‌کنم. دارم تلاش می‌کنم به ذهن IT وصل شوم تا این برایم طبیعی شود، چون هنوز باورم نمی‌شود و برایم طبیعی نیست...
+
+به تأیید نیاز دارم که مسیر فکری‌ام درست است. باید بفهمم چه خبر است، وگرنه خودم را به چند قاعده تحمیل می‌کنم که کار می‌کنند، ولی در ذهنم پر از سؤال و ناامنی است.
+
+باید این را روشن کنم. لطفاً کمکمان کن! شاید خیلی‌ها اگر تأیید کنی آنچه اینجا کشیده‌ام درست است، پازل‌های ذهنشان جور شود.
+
+این نوع PA را بارها توضیح داده‌ام، همان‌طور که تو کشیده‌ای، پس قطعاً درست می‌گویی.
+
+تنها چیزی که در دیدگاه امروزی‌ام تفاوت می‌کند این است که سود گرفتن کاری نیست که IT‌ها بخواهند انجام دهند، چون اربابانشان به هر حال همهٔ پول را می‌سازند و این کار را برایشان بی‌فایده می‌کند. به‌جایش، الان می‌بینم که هر حرکت با هدف زیان‌کردن گله است.
+
+هوم، نتیجه‌گیری جالبی است؛ پس اگر هدفشان ضرر دادن به گله است، چرا می‌خواهند به تارگت بخورند؟ هر جا تارگتی هست، حتماً هدفی هم در کار است، نه؟
+
+Ifmyante، می‌توانی در این باره نظر بدهی؟
+	readthemarket.com/index.php/en/forum/jou...nal?start=2175#68774
+.
+
+آنجا نوشتم که IT‌ها دارند سود می‌گیرند، ولی بعد از نوشتن، تو این بمب را رها کردی :D
+
+Dengaima
+
+### if_p122_16
+EN: Instrument price has vast implications all through the empire, so having it at the right place at the right time is important.
+
+That's why the ITs are told to have be ready to take all stops and turn
+price by a certain news event, then keep it ranged between x and y until
+ all beliefs are compounded.
+FA: قیمت ابزار معاملاتی در سراسر امپراتوری پیامدهای گسترده‌ای دارد، پس اینکه در زمان درست در جای درست باشد مهم است.
+
+به همین دلیل به IT‌ها گفته می‌شود آماده باشند تا با یک خبر مشخص همهٔ استاپ‌ها را بردارند و قیمت را بچرخانند، بعد آن را بین x و y نگه دارند تا همهٔ باورها انباشته شوند.
+
+### if_p122_17
+EN: dengaima wrote:
+
+I wrote there ITs are taking profit, but after writing, you drop this bomb :D
+
+Dengaima
+
+Simply substitute the word "profit" with "stops"
+FA: dengaima نوشت:
+
+آنجا نوشتم که IT‌ها دارند سود می‌گیرند، ولی بعد از نوشتن، تو این بمب را رها کردی :D
+
+Dengaima
+
+کافی است واژهٔ «سود» را با «استاپ‌ها» عوض کنی
+
+### if_p122_18
+EN: Master IF and Master Staurum,
+
+This could be a basic concept for 99.9% of RTM population, but I have a
+question on the chart regarding the LS and how to choose the exact one
+(as Bro staurum did back there).
+
+The question is: Do we choose LSs based on price levels that are touched
+ exactly to the pip from above and below, i.e. to trap SR fanatics?
+
+As for the purple dashed line in bro Staurum's chart, I can only see the
+ yellow circled exactly to the pip reactions from below, but not from
+above. If I were to choose, I would choose the blue with the green
+circled price level above due to the to-the-pip reactions marked with
+the brown circles, which obviously would fall short of the turning point
+ later on.
+
+If you don't mind, I would appreciate any guidance on this matter. Thank you very much
+FA: استاد IF و استاد Staurum،
+
+این ممکن است برای 99.9% از جامعهٔ RTM یک مفهوم ابتدایی باشد، ولی دربارهٔ نمودار و LS سؤالی دارم و اینکه چطور دقیقاً همان یکی را انتخاب کنیم (همان‌طور که برادر staurum آن‌جا انجام داد).
+
+سؤال این است: آیا LS‌ها را بر اساس سطوح قیمتی انتخاب می‌کنیم که دقیقاً تا پیپ از بالا و پایین لمس شده‌اند، یعنی برای به دام انداختن متعصبان SR؟
+
+دربارهٔ خط‌چین بنفش در نمودار برادر Staurum، من فقط واکنش‌های دقیقاً تا پیپ را از پایین با دایرهٔ زرد می‌بینم، نه از بالا. اگر بخواهم انتخاب کنم، آبی را با سطح قیمتی بالای دایرهٔ سبز انتخاب می‌کردم، به‌خاطر واکنش‌های دقیقاً تا پیپ که با دایره‌های قهوه‌ای علامت خورده‌اند، که واضح است بعداً به نقطهٔ چرخش نمی‌رسد.
+
+اگر بدت نیاید، از هر راهنمایی در این مورد ممنون می‌شوم. خیلی متشکرم
+
+### if_p122_19
+EN: I'm afraid I only have time to give you a very quick answer.
+
+This is a pinball table, and the mushroom first in line to be hit by the
+ ball, will, most likely be, the first mushroom to repel the ball
+FA: می‌ترسم فقط وقت داشته باشم جواب خیلی سریعی بدهم.
+
+این یک میز پین‌بال است، و قارچی که اول در مسیر توپ قرار دارد، به احتمال زیاد اولین قارچی است که توپ را پس می‌زند
+
+### if_p122_20
+EN: Staurum with your post you SYNC my KINK TNX
+
+IF you give us another bomb :)
+
+i can explain your sentence like this:
+
+IF: "The one thing which would differ in my modern view is that
+taking profits is not something the ITs want to do, as their masters
+create all the money anyway, making it useless to them. Rather, I now
+see that every move is to cause the herd to lose."
+
+ME: Traders (we call them IT) are trading for big investors. So this
+traders have ordinary job and salay + bonuses. But the big profit goes
+into pocket of big guys. So IT are only employees of big guys, and big
+guys give them a lot of money so IT can move price. Am i correct IF?
+
+dengaima: they first take profits, then they take SL and go other way with orders filled
+FA: Staurum با پستت KINK مرا SYNC کردی TNX
+
+IF دوباره یک بمب دادی :)
+
+من جمله‌ات را این‌طور توضیح می‌دهم:
+
+IF: «تنها چیزی که در دیدگاه امروزی‌ام تفاوت می‌کند این است که سود گرفتن کاری نیست که IT‌ها بخواهند انجام دهند، چون اربابانشان به هر حال تمام پول را می‌سازند و این کار را برایشان بی‌فایده می‌کند. به‌جایش، الان می‌بینم که هر حرکت با هدف زیان‌کردن گله است.»
+
+من: تریدرها (که ما آن‌ها را IT می‌نامیم) برای سرمایه‌گذاران بزرگ معامله می‌کنند. پس این تریدرها یک شغل معمولی و حقوق + پاداش دارند. ولی سود بزرگ به جیب آدم‌های بزرگ می‌رود. پس IT‌ها فقط کارمند آن آدم‌های بزرگ‌اند و آن‌ها پول زیادی به IT می‌دهند تا بتواند قیمت را جابه‌جا کند. درست می‌گویم IF؟
+
+dengaima: اول سود می‌گیرند، بعد SL را می‌زنند و با سفارش‌های پرشده راه دیگری می‌روند
+
+### if_p122_21
+EN: The IT's boss is not just an investor. He's the emperor, whose empire spans the entire globe. He creates the currencies.
+
+Now, imagine the only currency on earth is a piece of paper with your
+picture on it, and that you have the only machine which prints these
+notes. Billions of them every day.
+
+Would you like to get paid in these notes?
+
+This may sound like abstract philosophy, but if you think about it, you
+may get into the mind of an emperor, and follow his train of thought
+right to the decision that it makes sense to own everything and
+everybody on the planet
+FA: رئیس IT فقط یک سرمایه‌گذار نیست. او امپراتور است، امپراتوری که تمام کرهٔ زمین را در بر می‌گیرد. او ارزها را می‌سازد.
+
+حالا تصور کن تنها ارز روی زمین تکه‌کاغذی است که عکس تو رویش چاپ شده، و تو تنها ماشینی را داری که این اسکناس‌ها را چاپ می‌کند. هر روز میلیاردها از آن‌ها.
+
+دوست داری حقوقت را با همین اسکناس‌ها بپردازند؟
+
+شاید این شبیه فلسفهٔ انتزاعی به نظر برسد، ولی اگر درباره‌اش فکر کنی، ممکن است به ذهن یک امپراتور راه پیدا کنی و مسیر فکرش را دنبال کنی تا همان تصمیمی که می‌گوید درست است همه و همه‌چیز روی این سیاره را در اختیار داشته باشی
+
+### if_p122_22
+EN: Thank you bro IF! Loud and clear
+FA: ممنون برادر IF! کاملاً واضح و رسا
+
+### if_p122_23
+EN: Please draw and explain (on the chart) possible scenarios this can lead to
+FA: لطفاً سناریوهای ممکنی که این می‌تواند به آن‌ها برسد را (روی نمودار) بکش و توضیح بده
+
+### if_p122_24
+EN: Ifmyante wrote: In that scale, yes.
+
+However, note that the FTR Failed to pick up orders, so it is very often used as tip one of a BSZ
+
+I'll remove the article until I've rewritten it myself
+
+Ifmyante, does the FTR trade on return still work? There are a lot of
+materials on this thread, where you are trading FTB back to FTR. Also
+there's video on FTR in yourtube. I am confused again as it seems the
+RTM method has been changed to pretty much taking MPL or QM levels (DM)
+=/.
+
+Dengaima
+FA: Ifmyante نوشت: در آن مقیاس، بله.
+
+ولی توجه کن که آن FTR نتوانست سفارش‌ها را بردارد، پس خیلی وقت‌ها به‌عنوان نوک اول یک BSZ استفاده می‌شود
+
+مقاله را برمی‌دارم تا خودم بازنویسی‌اش کنم
+
+Ifmyante، معاملهٔ FTR در بازگشت هنوز کار می‌کند؟ در این تاپیک مطالب زیادی هست که در آن‌ها FTB را به سمت FTR معامله می‌کنی. همچنین ویدیویی دربارهٔ FTR در یوتیوب هست. دوباره گیج شده‌ام، چون به نظر می‌رسد روش RTM تقریباً به گرفتن سطوح MPL یا QM (DM) تبدیل شده
+=/.
+
+Dengaima
+
+### if_p122_25
+EN: Ifmyante wrote: Please draw and explain (on the chart) possible scenarios this can lead to
+
+Like this?
+FA: Ifmyante نوشت: لطفاً سناریوهای ممکنی که این می‌تواند به آن‌ها برسد را (روی نمودار) بکش و توضیح بده
+
+اینجوری؟

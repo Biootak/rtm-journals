@@ -1,0 +1,370 @@
+### if_p137_1
+EN: If, i have four questions for you regarding TT and managing the
+trade. I tried to make them very simple and with short answers. Can you
+please help me with these? I try to work on my SLs to keep them as tight
+ as possible and in that way to increase my R on each trade. Thank you
+very much!
+FA: IF، چهار سؤال دربارهٔ TT و مدیریت معامله دارم. تلاش کردم خیلی ساده باشند و با جواب‌های کوتاه. می‌توانی لطفاً کمکم کنی؟ دارم روی استاپ‌لاس‌هایم کار می‌کنم تا تا حد امکان فشرده باشند و این‌طور R هر معامله را بالا ببرم. خیلی ممنون!
+
+### if_p137_2
+EN: And you are right! I will play that video again. Its funny how my
+trading apparently shifted a little from these concepts over time
+ It is working great for me but there is always space for improvement.
+Thank you for pointing it out :) BTW i did take a trade there last night
+ so may be i was lucky? :) Who knows. But except for this iQM I hope it
+somehow helped you a little with your question. Lets wait for IFs answer
+
+edit : i was thinking what made me take that trade and it was the fact
+that there was no orders before that MPL (except for that tiny purple
+rectangle). So there was no reason for price not to go to that MPL
+(where was my target). Also in our case that little SRK was mount of iQM
+ kink, and it is little different from IFs charts in the beginning of
+the video. When price breaks SRK it very often goes up to its MPL, when
+there are no better LTF FLs with fresh orders in its way.
+FA: و حق با توست! آن ویدئو را دوباره پخش می‌کنم. بامزه است که معامله‌گری‌ام ظاهراً با گذشت زمان کمی از این مفاهیم فاصله گرفته. برای من عالی جواب می‌دهد اما همیشه جای بهتر شدن هست. ممنون که اشاره کردی :) راستی دیشب آنجا یک معامله گرفتم، پس شاید شانس آوردم؟ :) کسی چه می‌داند. اما جز این iQM، امیدوارم به نوعی کمی با سؤالت کمک کرده باشد. بگذار منتظر جواب IF بمانیم
+
+ویرایش: داشتم فکر می‌کردم چه چیزی باعث شد آن معامله را بگیرم و این بود که قبل از آن MPL هیچ سفارشی نبود (جز آن مستطیل بنفش کوچک). پس دلیلی نداشت قیمت به آن MPL نرود (که تارگتم آنجا بود). همچنین در مورد ما آن SRK کوچک بالای کینک iQM بود، و با چارت‌های IF در ابتدای ویدئو کمی فرق دارد. وقتی قیمت SRK را می‌شکند خیلی وقت‌ها تا MPL آن بالا می‌رود، وقتی FL‌های LTF بهتری با سفارش‌های تازه سر راهش نباشد.
+
+### if_p137_3
+EN: bobyv87 wrote: If, i have four
+questions for you regarding TT and managing the trade. I tried to make
+them very simple and with short answers. Can you please help me with
+these? I try to work on my SLs to keep them as tight as possible and in
+that way to increase my R on each trade. Thank you very much!
+
+1. No
+
+2. FTB to any of these can easily bounce price, so stops can be beyond each, managing expectations
+
+3. If there's a clean set of orders very close beyond 5, you can put them beyond that. But this reduces R as well as risk
+
+4. First target is the nearest approach flag. Sine there's a possible range fill between 5 and B, let PA dictate your exit
+FA: bobyv87 نوشت: IF، چهار سؤال دربارهٔ TT و مدیریت معامله دارم. تلاش کردم خیلی ساده باشند و با جواب‌های کوتاه. می‌توانی لطفاً کمکم کنی؟ دارم روی استاپ‌لاس‌هایم کار می‌کنم تا تا حد امکان فشرده باشند و این‌طور R هر معامله را بالا ببرم. خیلی ممنون!
+
+1. نه
+
+2. FTB به هر یک از این‌ها به‌راحتی می‌تواند قیمت را برگرداند، پس استاپ می‌تواند فراتر از هر کدام باشد؛ انتظارات را مدیریت کن
+
+3. اگر مجموعهٔ تمیزی از سفارش‌ها خیلی نزدیک و فراتر از 5 باشد، می‌توانی آن‌ها را فراتر از آن بگذاری. اما این هم R را کم می‌کند هم ریسک را
+
+4. تارگت اول نزدیک‌ترین FLAG در مسیر است. چون بین 5 و B احتمال پر شدن یک رنج وجود دارد، بگذار PA خروجت را تعیین کند
+
+### if_p137_4
+EN: Enkim wrote: And you are right! I
+ will play that video again. Its funny how my trading apparently shifted
+ a little from these concepts over time
+ It is working great for me but there is always space for improvement.
+Thank you for pointing it out :) BTW i did take a trade there last night
+ so may be i was lucky? :) Who knows. But except for this iQM I hope it
+somehow helped you a little with your question. Lets wait for IFs answer
+
+edit : i was thinking what made me take that trade and it was the fact
+that there was no orders before that MPL (except for that tiny purple
+rectangle). So there was no reason for price not to go to that MPL
+(where was my target). Also in our case that little SRK was mount of iQM
+ kink, and it is little different from IFs charts in the beginning of
+the video. When price breaks SRK it very often goes up to its MPL, when
+there are no better LTF FLs with fresh orders in its way.
+
+Yes thanks, at least it lights up the way you see these things and that can makes sense to me.
+
+I still don't explain to myself many stuffs about the RTM material though, both the essence and the way it's presented.
+
+If the best places to look for PA are MPLs, then why not train people to
+ find PA in the MPL, with the scale difficulties it implies, rather than
+ in the middle of a swing like it's made in part 1?
+
+About the UFL / LFL, why make such a simple example in part 1? The fact
+that the example shows a lot of space between UFL / LFL isn't such a
+problem to me, but the scale are completely eluded and that's a major
+issue when you get to real market. I can understand that scales are a
+very complicated topic, but between a full explanation of everything and
+ what is in part 1, i guess there could have been a more appropriate
+detail level.
+
+Actually i'm not saying anything new here about these lacks because
+before the summer 2017 RTM team was speaking about adding lessons about
+that amongst other things, so it must have been for some reasons.
+
+The main example of that is the part where it's said that any high or
+low can be a target for price and therefore cancel any engulf, there is
+almost no mention of scale expect that they can be of "any scale"... How
+ to interpret that? There are a hundred ways to interpret it.
+
+And another thing that i can't explain to myself is that in part 1 it's
+said we should search engulfs from UFL/LFL, which are presented as
+swapping flags (one has to break another), while when you take the
+ignored level article, it says that FL can be LS kinks, S/R kinks, break
+ into or out of CP kinks. Why not make a coherent definition for
+everything and therefore leave no room to incorrect interpretation? Does
+ it means that some LS kinks, that aren't a FL, aren't suited for PA?
+
+Same thing about the fact that i just saw some new RTMers doing their
+homeworks using the FTR concepts because they somehow still are in the
+material. I don't explain myself how these confusions factors still
+exist.
+FA: Enkim نوشت: و حق با توست! آن ویدئو را دوباره پخش می‌کنم. بامزه است که معامله‌گری‌ام ظاهراً با گذشت زمان کمی از این مفاهیم فاصله گرفته. برای من عالی جواب می‌دهد اما همیشه جای بهتر شدن هست. ممنون که اشاره کردی :) راستی دیشب آنجا یک معامله گرفتم، پس شاید شانس آوردم؟ :) کسی چه می‌داند. اما جز این iQM، امیدوارم به نوعی کمی با سؤالت کمک کرده باشد. بگذار منتظر جواب IF بمانیم
+
+ویرایش: داشتم فکر می‌کردم چه چیزی باعث شد آن معامله را بگیرم و این بود که قبل از آن MPL هیچ سفارشی نبود (جز آن مستطیل بنفش کوچک). پس دلیلی نداشت قیمت به آن MPL نرود (که تارگتم آنجا بود). همچنین در مورد ما آن SRK کوچک بالای کینک iQM بود، و با چارت‌های IF در ابتدای ویدئو کمی فرق دارد. وقتی قیمت SRK را می‌شکند خیلی وقت‌ها تا MPL آن بالا می‌رود، وقتی FL‌های LTF بهتری با سفارش‌های تازه سر راهش نباشد.
+
+بله ممنون، حداقل روشن می‌کند که تو این چیزها را چطور می‌بینی و این می‌تواند برای من منطقی باشد.
+
+با این حال هنوز چیزهای زیادی دربارهٔ مطالب RTM برای خودم توضیح نداده‌ام، هم اصل ماجرا و هم شیوهٔ ارائه‌اش.
+
+اگر بهترین جاها برای جست‌وجوی PA همان MPL‌ها هستند، پس چرا به مردم آموزش نمی‌دهیم PA را در MPL پیدا کنند، با همهٔ سختی‌های مقیاسی که دارد، به‌جای وسط سوئینگ که در بخش 1 انجام شده؟
+
+دربارهٔ UFL / LFL، چرا در بخش 1 چنین مثال ساده‌ای زده شده؟ اینکه در مثال فاصلهٔ زیادی بین UFL / LFL هست برای من مشکل بزرگی نیست، اما مقیاس‌ها کاملاً نادیده گرفته شده‌اند و این در بازار واقعی مسئلهٔ مهمی است. می‌فهمم مقیاس موضوع بسیار پیچیده‌ای است، اما بین توضیح کامل همه‌چیز و آنچه در بخش 1 هست، فکر می‌کنم می‌شد سطح جزئیات مناسب‌تری داشت.
+
+در واقع حرف تازه‌ای دربارهٔ این کمبودها نمی‌زنم، چون پیش از تابستان 2017 تیم RTM از اضافه کردن درس‌هایی دربارهٔ این موضوعات و چیزهای دیگر حرف می‌زد، پس حتماً دلیلی داشته.
+
+مثال اصلی همین بخشی است که گفته می‌شود هر سقف یا کفی می‌تواند تارگت قیمت باشد و بنابراین هر اینگالفی را لغو کند؛ تقریباً هیچ اشاره‌ای به مقیاس نیست جز اینکه می‌توانند «هر مقیاسی» باشند... این را چطور باید تفسیر کرد؟ صد راه برای تفسیرش وجود دارد.
+
+و چیز دیگری که برای خودم توضیح نداده‌ام این است که در بخش 1 گفته می‌شود باید اینگالف‌ها را از UFL/LFL جست‌وجو کنیم، که به‌عنوان فلگ‌های جابه‌جاشونده معرفی می‌شوند (یکی باید دیگری را بشکند)، در حالی که در مقالهٔ سطح نادیده‌گرفته‌شده آمده که FL می‌تواند کینک LS، کینک S/R، کینک شکست به داخل یا بیرون CP باشد. چرا برای همه‌چیز تعریف منسجمی ساخته نشده تا جایی برای تفسیر نادرست نماند؟ آیا این یعنی بعضی کینک‌های LS که FL نیستند برای PA مناسب نیستند؟
+
+همین‌طور دربارهٔ این واقعیت که همین حالا چند RTMer تازه را دیدم که تکالیفشان را با مفاهیم FTR انجام می‌دهند، چون به نوعی هنوز در مطالب هستند. توضیح نمی‌دهم چرا این عوامل سردرگمی هنوز وجود دارند.
+
+### if_p137_5
+EN: i really don't see any reason for confusion, but I'm sorry that you do.
+
+As for the FTR, it's still very valuable, as it can be the first leg of a BSZ, which is eminently tradeable
+FA: من واقعاً دلیلی برای سردرگمی نمی‌بینم، اما متأسفم که برایت این‌طور است.
+
+دربارهٔ FTR، هنوز خیلی ارزشمند است، چون می‌تواند لگ اول یک BSZ باشد، که کاملاً قابل معامله است
+
+### if_p137_6
+EN: Hi IF
+
+Did you mean something like the USDCAD trade you took in November ?
+FA: سلام IF
+
+منظورت چیزی شبیه معاملهٔ USDCAD بود که در نوامبر گرفتی؟
+
+### if_p137_7
+EN: I do believe that was one, yes
+FA: بله، فکر می‌کنم یکی همان بود
+
+### if_p137_8
+EN: 13 R:R trade with 0 DD.
+
+Simple trade.
+FA: 13 R:R با 0 DD.
+
+معاملهٔ ساده.
+
+### if_p137_9
+EN: timos wrote: Hello guys.
+
+Here is a live trade I got into AU.
+
+The entire RTM happened on this trade.
+
+I will explain as much better as I can.
+
+Au Daily:
+
+LTF:
+
+My entry:
+
+P.S
+
+The answer is on 15-04-2015 AU :)
+
+Let me know what you think and how you would approach this trade...
+
+Still holding this short.
+
+So far 66 R:R :) 0 DD
+FA: timos نوشت: سلام بچه‌ها.
+
+این یک معاملهٔ زنده است که در AU گرفتم.
+
+تمام RTM روی این معامله اتفاق افتاد.
+
+تا جایی که بتوانم بهتر توضیح می‌دهم.
+
+دیلی AU:
+
+LTF:
+
+ورود من:
+
+پ.ن
+
+جواب در 15-04-2015 AU است :)
+
+بگویید چه فکر می‌کنید و خودتان این معامله را چطور می‌زدید...
+
+هنوز این شورت را نگه داشته‌ام.
+
+تا الان 66 R:R :) 0 DD
+
+### if_p137_10
+EN: Timos, great analysis and trading!!!
+
+I have a request regarding when you mark up your charts. Can you change
+ the look of your text? When I click on your charts, they are not full
+screen here on RTM. The red bubble text is very hard to read when it is
+ smaller. Can you not use the bubble text please?
+FA: timos، تحلیل و معامله‌گری عالی!!!
+
+یک درخواست دربارهٔ وقتی که چارت‌هایت را علامت می‌زنی دارم. می‌توانی ظاهر متن‌هایت را عوض کنی؟ وقتی روی چارت‌هایت کلیک می‌کنم اینجا در RTM تمام‌صفحه نمی‌شوند. متن حبابی قرمز وقتی کوچک‌تر است خیلی سخت خوانده می‌شود. می‌شود لطفاً از متن حبابی استفاده نکنی؟
+
+### if_p137_11
+EN: Rinehart wrote: Timos, great analysis and trading!!!
+
+I have a request regarding when you mark up your charts. Can you change
+ the look of your text? When I click on your charts, they are not full
+screen here on RTM. The red bubble text is very hard to read when it is
+ smaller. Can you not use the bubble text please?
+
+Hey mate. The text thing is easy to change...
+
+Regarding pics, that's why I provide HD image links on my posts.Click open image on a new tab and zoom it out.
+
+I have 4k screen resolution.... If I go the edit route it will eat lot
+of my time to cut,resize,compress etc and will drop the quality....so if
+ I do that for every image will take me 30m+ to post 1 trade post
+analysis.
+
+P.S Ignore everything you see on meta trader. I use it only to place trades. My analysis is done with Sierra Charts
+
+Last trade for this week.
+
+Before:
+
+After
+
+Analysis:
+
+	Image 1
+
+	Image 2
+
+	Image 3
+
+40 R:R & looking to ride buy into daily QM. If that doesn't work I have a small business cost.
+
+Although these trades look great and are great I still need a lot of
+work on my self and my ego...that is costing me too much. I need to
+master myself first...which i still struggle...
+FA: Rinehart نوشت: timos، تحلیل و معامله‌گری عالی!!!
+
+یک درخواست دربارهٔ وقتی که چارت‌هایت را علامت می‌زنی دارم. می‌توانی ظاهر متن‌هایت را عوض کنی؟ وقتی روی چارت‌هایت کلیک می‌کنم اینجا در RTM تمام‌صفحه نمی‌شوند. متن حبابی قرمز وقتی کوچک‌تر است خیلی سخت خوانده می‌شود. می‌شود لطفاً از متن حبابی استفاده نکنی؟
+
+سلام رفیق. موضوع متن راحت عوض می‌شود...
+
+دربارهٔ عکس‌ها، برای همین لینک تصویر HD در پست‌هایم می‌گذارم. روی تصویر کلیک کن، تب جدید باز کن و زوم اوت کن.
+
+رزولوشن صفحهٔ من 4k است.... اگر بخواهم مسیر ویرایش را بروم وقت زیادی برای بریدن، تغییر اندازه و فشرده‌سازی می‌گیرد و کیفیت هم پایین می‌آید.... پس اگر این کار را برای هر تصویر بکنم، تحلیل یک پست معامله 30m+ وقت می‌گیرد
+
+پ.ن هر چه در متاتریدر می‌بینی نادیده بگیر. من فقط برای گذاشتن معامله از آن استفاده می‌کنم. تحلیلم با Sierra Charts انجام می‌شود
+
+آخرین معاملهٔ این هفته.
+
+قبل:
+
+بعد
+
+تحلیل:
+
+تصویر 1
+
+تصویر 2
+
+تصویر 3
+
+40 R:R و قصد دارم خرید را تا QM دیلی نگه دارم. اگر جواب ندهد، یک هزینهٔ کوچک کسب‌وکار است.
+
+هرچند این معاملات عالی به نظر می‌رسند و عالی هستند، هنوز باید روی خودم و ایگویم زیاد کار کنم... این برایم خیلی هزینه دارد. اول باید بر خودم مسلط شوم... که هنوز درگیرش هستم...
+
+### if_p137_12
+EN: Hi all. Hi Mr. IF.
+
+I have a theoretical question. Whether you watch what is shown by
+candles? I mean Outside bar, pin bar and etc. I don't speak to use it
+when opening the order. but to use it, for example for search of traps.
+Maximal pain lvl
+FA: سلام به همه. سلام آقای IF.
+
+یک سؤال تئوری دارم. آیا تو به چیزی که کندل‌ها نشان می‌دهند نگاه می‌کنی؟ منظورم Outside bar، pin bar و غیره است. حرفم این نیست که هنگام باز کردن سفارش از آن‌ها استفاده کنی؛ می‌خواهم بدانم مثلاً برای پیدا کردن تله‌ها به کارت می‌آید؟ سطح حداکثر درد
+
+### if_p137_13
+EN: If, i remember this chart from you! Lets say you wanted to try a long
+at that level, you want the approach right, If you TT it is suppose you
+want a BSZ. Since your m1 kink is big, and you don't have LTF in there,
+where will be your BSZ in there? Where would you want to swap your
+orders? In what space?
+FA: IF، این چارت را از تو یادم است! فرض کن می‌خواهی در آن سطح یک لانگ امتحان کنی، می‌خواهی نزدیک شدن درست باشد؛ اگر TT کنی یعنی BSZ می‌خواهی. چون کینک m1 تو بزرگ است و LTF در آن نداری، BSZ کجاست؟ کجا می‌خواهی سفارش‌هایت را جابه‌جا کنی؟ در چه فضایی؟
+
+### if_p137_14
+EN: HAPPY BDAY IF! You deserve everything you wish for. It's an absolute honour to call you friend.
+FA: تولدت مبارک IF! لایق هر چیزی هستی که آرزو می‌کنی. افتخار بزرگی است که دوستت صدا کنم.
+
+### if_p137_15
+EN: Wow, its the master's birthday!
+
+Happy birthday, bro IF.
+
+I wish you the best of health.
+
+I wish that you will achieve everything you wished and dreamed of
+
+Thank you for your endless generosity
+FA: وای، تولد استاد است!
+
+تولدت مبارک، برادر IF.
+
+بهترین سلامتی را برایت آرزو می‌کنم.
+
+امیدوارم به هر چه آرزو کردی و در خواب دیدی برسی
+
+ممنون از بخشندگی بی‌پایانت
+
+### if_p137_16
+EN: Happy Birthday IF..
+
+full
+FA: تولدت مبارک IF..
+
+full
+
+### if_p137_17
+EN: Happy Birthday, mr. IF!
+
+I wish you the best of Health, happiness and love. The more the better
+FA: تولدت مبارک، آقای IF!
+
+بهترین سلامتی، شادی و عشق را برایت آرزو می‌کنم. هر چه بیشتر بهتر
+
+### if_p137_18
+EN: Happy Birthday, IF!
+FA: تولدت مبارک، IF!
+
+### if_p137_19
+EN: Happy birthday IF!!!!
+FA: تولدت مبارک IF!!!!
+
+### if_p137_20
+EN: Happy birthday IF.I wish you a long and happy life.
+FA: تولدت مبارک IF. برایت زندگی طولانی و شاد آرزو می‌کنم.
+
+### if_p137_21
+EN: Very happy birthday! Wish you the best! Enkim
+FA: تولدت خیلی مبارک! بهترین‌ها را برایت آرزو می‌کنم! Enkim
+
+### if_p137_22
+EN: IF, i wish you a healthy and happy life. Happy Birthday
+FA: IF، برایت زندگی سالم و شاد آرزو می‌کنم. تولدت مبارک
+
+### if_p137_23
+EN: Thanks so much peeps. You've made my day
+FA: خیلی ممنون بچه‌ها. روزم را ساختی
+
+### if_p137_24
+EN: Happy Birthday IF!!!
+FA: تولدت مبارک IF!!!
+
+### if_p137_25
+EN: Ditto! Happy Birthday Master Chief Cook!
+FA: همین‌طور! تولدت مبارک سرآشپز بزرگ!

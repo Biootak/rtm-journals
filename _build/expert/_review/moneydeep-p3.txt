@@ -1,0 +1,109 @@
+===== moneydeep-p3 : 11 posts =====
+--- moneydeep_p3_1 author=moneydeep hash=73f97b81
+EN: engulf? target not reached or reached?
+
+If not reached does it mean it will not go above the current high?
+
+so many questions.
+FA: اینگالف؟ تارگت رسید یا نرسید؟
+
+اگر نرسیده، یعنی بالای سقف فعلی نمی‌رود؟
+
+این‌قدر سؤال.
+--- moneydeep_p3_2 author=moneydeep hash=51a29ef0
+EN: Eu scalp. Took first position off at 12R
+
+Looking at the larger picture It will likely go much more because of
+the engulf yesterday and the retrace to demand so will hold this scalp
+remainder. Still holding the other buy from two days ago too.
+FA: اسکالپ Eu. پوزیشن اول را در 12R بستم
+
+با نگاه به تصویر بزرگ‌تر، احتمالاً خیلی بیشتر می‌رود چون دیروز اینگالف بود و برگشت به تقاضا؛ پس باقی این اسکالپ را نگه می‌دارم. آن خرید دیگر از دو روز پیش را هم هنوز دارم.
+--- moneydeep_p3_3 author=moneydeep hash=7f0ecff7
+EN: So my secondary position on the scalp was stopped out after moving in my favor for 46R.
+
+What did I learn from this?
+
+46R for a scalp is good any day. Take it and run. Don't turn a scalp into a htf trade.
+FA: پس پوزیشن دومم روی اسکالپ بعد از اینکه 46R به سودم پیش رفت، استاپ خورد.
+
+از این چه یاد گرفتم؟
+
+46R برای یک اسکالپ هر روز خوب است. بگیر و فرار کن. اسکالپ را به معاملهٔ htf تبدیل نکن.
+--- moneydeep_p3_4 author=Saurabh hash=efff35c6
+EN: Hi, Moneydeep...I read your full journal today. Found very informative. Thanks for sharing.
+FA: سلام Moneydeep...‌امروز کل ژورنالت را خواندم. خیلی پرمحتوا بود. ممنون که به اشتراک گذاشتی.
+--- moneydeep_p3_5 author=Astrokillah hash=43f69374
+EN: Dude, a good scalp is 0.1R, not 46R!
+
+moneydeep wrote: So my secondary position on the scalp was stopped out after moving in my favor for 46R.
+
+What did I learn from this?
+
+46R for a scalp is good any day. Take it and run. Don't turn a scalp into a htf trade.
+FA: رفیق، یک اسکالپ خوب 0.1R است، نه 46R!
+
+moneydeep نوشت: پس پوزیشن دومم روی اسکالپ بعد از اینکه 46R به سودم پیش رفت، استاپ خورد.
+
+از این چه یاد گرفتم؟
+
+46R برای یک اسکالپ هر روز خوب است. بگیر و فرار کن. اسکالپ را به معاملهٔ htf تبدیل نکن.
+--- moneydeep_p3_6 author=moneydeep hash=794f274d
+EN: Astrokillah wrote: Dude, a good scalp is 0.1R, not 46R!
+
+Haha You are the scalp master. Looking to follow in your footsteps.
+FA: Astrokillah نوشت: رفیق، یک اسکالپ خوب 0.1R است، نه 46R!
+
+هاها تو استاد اسکالپ هستی. می‌خواهم رد پایت را دنبال کنم.
+--- moneydeep_p3_7 author=moneydeep hash=52dc39aa
+EN: Quick question for everyone. Please check the diagram and tell me if
+the SL will get hit. While trading PO I am currently leaving the spread
+amount above the zone then putting the SL. What I want to know is will
+my SL be hit in this situation. Because I was looking at some pairs and
+ the spread is quite big for a small 3 pip zone and the spread is 2pips
+which means I need to leave 2+pips above the zone and put my sl there
+correct?
+FA: یک پرسش سریع از همه. لطفاً دیاگرام را ببین و بگو آیا استاپ‌لاس می‌خورد. موقع معامله با PO، الان مقدار اسپرد را بالای ناحیه می‌گذارم و بعد استاپ را می‌گذارم. می‌خواهم بدانم در این وضعیت استاپم می‌خورد؟ چون چند جفت را نگاه می‌کردم و اسپرد برای یک ناحیهٔ 3 پیپی کوچک نسبتاً بزرگ است و اسپرد 2 پیپ است، یعنی باید 2 پیپ به‌علاوهٔ کمی بیشتر بالای ناحیه بگذارم و استاپم را آنجا بگذارم، درست است؟
+--- moneydeep_p3_8 author=Astrokillah hash=36b40ba6
+EN: yes, you will get stopped out, ALWAYS add the spread when you BUY.
+FA: بله، استاپ می‌خوری، همیشه موقع خرید اسپرد را اضافه کن.
+--- moneydeep_p3_9 author=moneydeep hash=9449b369
+EN: Astrokillah wrote: yes, you will get stopped out, ALWAYS add the spread when you BUY.
+
+Ah as I thought. Thanks for clarifying AK.
+
+I guess I will have to stick to the low 0.2 and 0.3 spread pairs. It
+makes the reward so much bigger. Easy 10-20R vs a pair with a 2-3 pip
+spread and I end up with 5R
+FA: Astrokillah نوشت: بله، استاپ می‌خوری، همیشه موقع خرید اسپرد را اضافه کن.
+
+آه همان‌طور که فکر می‌کردم. ممنون از توضیح AK.
+
+حدس می‌زنم باید به جفت‌های با اسپرد پایین 0.2 و 0.3 بچسبم. این پاداش را خیلی بزرگ‌تر می‌کند. 10-20R آسان در برابر جفت با اسپرد 2-3 پیپ که آخرش 5R می‌مانم
+--- moneydeep_p3_10 author=peter941221 hash=a17c78d9
+EN: hello Moneydeep,
+
+please give me some guidance.
+FA: سلام Moneydeep،
+
+لطفاً کمی راهنمایی‌ام کن.
+--- moneydeep_p3_11 author=moneydeep hash=833d03a1
+EN: You are looking for the right things.
+
+I am not the best teacher. and it is sometimes hard for me to explain
+things. Also I might be wrong but I will share my limited experience.
+Every time a flag is broken a new one is made. Find flags which held
+price multiple times then once broken see what happened when it returned
+ to it.
+
+My journal is a progress of my study of RTM concepts and FOF concepts of
+ Salivan which I have partially understood. I would suggest you read the
+ journals of other expert traders here and every time someone puts a
+trade check your charts and see why they took that trade and after
+looking hours and hours like I did you will start to see order flow
+concepts once you start looking beyond rectangles.
+FA: داری دنبال چیزهای درست می‌گردی.
+
+من بهترین معلم نیستم. و گاهی توضیح دادن برایم سخت است. ممکن است اشتباه هم بگویم ولی تجربهٔ محدودم را به اشتراک می‌گذارم. هر بار که پرچمی شکسته می‌شود، پرچم تازه‌ای ساخته می‌شود. پرچم‌هایی را پیدا کن که چند بار قیمت را نگه داشته‌اند و وقتی شکسته شد ببین وقتی قیمت به آن برگشت چه شد.
+
+ژورنال من روند مطالعهٔ من روی مفاهیم RTM و مفاهیم FOF از Salivan است که بخشی از آن را فهمیده‌ام. پیشنهاد می‌کنم ژورنال‌های معامله‌گران متخصص دیگر اینجا را بخوانی و هر بار کسی معامله‌ای گذاشت، چارت‌های خودت را چک کنی و ببینی چرا آن معامله را گرفته؛ بعد از ساعت‌ها ساعت نگاه کردن مثل من، وقتی فراتر از مستطیل‌ها را ببینی، شروع می‌کنی به دیدن مفاهیم جریان سفارش.

@@ -1,0 +1,152 @@
+##### hs_p11_251 hoeschec paras:2
+Just noticed this possible LTF QM near a location of important S/R on USD-CAD
+
+Note sure if I have identified the correct DP, and not sure if price will turn at this QM level, but it looks interesting.
+---END---
+##### hs_p11_252 hoeschec paras:5
+I was looking through historical weekly charts this afternoon and came across this gem of an opportunity on G/J.
+
+Back in late October 2007:
+
+If someone were to have taken 30 lots short at the QM level, and held until price dropped to the HTF S/R base, over $600K USD would have been earned in less than three months! Price turned almost perfectly at the origin of the EG.
+
+When zooming in to the Daily chart, it turns almost perfectly at the DP.
+
+It is truly amazing how lucrative and powerful trading can be for those who master it. Totally makes every second of frustration, setbacks, and confusion worth it!
+---END---
+##### hs_p11_253 Muffles paras:2
+Nice pick up on CAD Hoeschec, I think you will definitely get a bounce to at least 1.30930.
+
+Cheers, Muffles
+---END---
+##### hs_p11_254 hoeschec paras:6
+I am wondering if many of my engulf trades fail because I am not engulfing the source of the move (engulfing important structure). Now that I am practicing S/R flips, I wonder if the source of the move (that also contains the DP) is the FL that needs to be EG in order for a setup or QM to be valid.
+
+Here is an example on E/U. It's just a 1-min chart, but it is a good example of what would trick me. At first glance (to me) it looks like a QM setup. But the source of the move that broke the S/R has not been engulfed, so it is not valid.
+
+But then there is the complication of scale. Same chart, but on a 5 min time frame (a few mins have passed since I took the screen shot of the 1 min chart, so price has progressed a bit). On the 5 min chart, it looks like an engulf would require price to break out of a larger FL. Very subjective, very frustrating. I'd say when in doubt go with the higher time frame.
+
+I'll keep practicing these to see if I am on the right track.
+
+And then there is the further complication (once you determine which FL needs to be broken to signal the engulf) of judging whether the price break is really an engulf or just a fakeout. My understanding is it depends on where price breaks to. Price that breaks in to an important zone containing orders (FL, FTR, S/R Flip etc...) is likely a F/O. So in the case below (EUR-USD) price has finally broken the 5 min source, however it is clear price also tagged a S/R zone creating an S/R flip. So do we have an engulf or a F/O? And how would we judge this in real time without waiting for PA to form and make it obvious in hindsight?
+
+I have marked the S/R where price broke through the FL and touched.
+---END---
+##### hs_p11_255 hoeschec paras:2
+Missed this one while I was sleeping
+
+Pacific Time USA is the worst time zone to live in for trading!
+---END---
+##### hs_p11_256 hoeschec paras:1
+Just went short on U/C
+---END---
+##### hs_p11_257 hoeschec paras:1
+Closed out
+---END---
+##### hs_p11_258 hoeschec paras:1
+I am watching USD-CAD as price is hesitating at a S/R flip.
+---END---
+##### hs_p11_259 hoeschec paras:3
+Looks like a good time to get short on U/J @ QM level.
+
+Unfortunately this isn't a good time to get in the market. Slow ending of US Session and dead time between now and Asian open.
+
+QM within a QM on the 1-min chart:
+---END---
+##### hs_p11_260 hoeschec paras:6
+Here is a particularly nasty move on the EUR/JPY:
+
+A bullish QM was setting up nicely, with (what looked to be) an engulf. Unfortunately, the low ended up getting taken out.
+
+What I am learning from setups like this: be careful when price 'engulfs' in to a S/R flip level. When this happens, it usually ends up a F/O. I may be wrong with this assumption, but it is something that has been happening a lot lately.
+
+Here are the charts:
+
+HTF:
+
+LTF:
+---END---
+##### hs_p11_261 hoeschec paras:3
+I am closely following U/J. This looks like a major short is about to happen. HTF QM setup with a lot of CP to the downside.
+
+I've had pending limit orders at the QM several days....
+
+Is anyone else seeing this?
+---END---
+##### hs_p11_262 josh1125 paras:1
+I've been monitoring this one too. This pair is looking like it's ready to drop soon. This is how I'm seeing it.
+---END---
+##### hs_p11_263 hoeschec paras:3
+josh1125 wrote: I've been monitoring this one too. This pair is looking like it's ready to drop soon. This is how I'm seeing it.
+
+Hi Josh - your entry at the DP is probably more accurate than mine (and would allow for a smaller stop). That is a good FTR to look for TG1. It makes me feel more confident to know someone else is watching this unfold too!
+
+If U/J does tank, it would be a hell of a R:R. I'll probably open at least two positions and let one run.
+---END---
+##### hs_p11_264 josh1125 paras:1
+From here out, I'm trying to really work on low DD trades. I'm trying to go to the lowest scale possible and find the origin. I think we'll have a few days to decide how we want to play it, as I've been noticing compression seems like it can go on for days.
+---END---
+##### hs_p11_265 hoeschec paras:5
+Josh- I noticed your stop loss is pretty tight. Did you zoom in to find the DP and place a stop just above that point? I'd love to have the confidence to place a tight stop like that, but I don't want to get stopped out if price retraces back to the upper limit of the supply zone before dropping.
+
+I love these setups, but I have a hard time actually executing a trade. Stop placement has always been an issue for me (ex: how do you handle a diamond formation?). I guess it depends on how much risk one is willing to take.
+
+Technically, price could turn at the QM level (previous high), but if I take a position there, the stop is going to be wide. If I place my entry close to the origin of the engulf or the decision point, the stop will be smaller.
+
+I have an irrational fear of missing out on really nice setups like U/J which usually makes me execute too early.
+
+I posted a chart below that illustrates what I am describing.
+---END---
+##### hs_p11_266 josh1125 paras:3
+This is how I'm reading it. I could be wrong though, still experimenting with this.
+
+FL
+
+Entry
+---END---
+##### hs_p11_267 hoeschec paras:5
+josh1125 wrote: This is how I'm reading it. I could be wrong though, still experimenting with this.
+
+FL
+
+Entry
+
+Very nice Josh...I like the way you think!
+
+Minimal DD is the key to strong R:R. It is something I have yet to master. Thanks for the drawing of the flag and the reasoning for your trade setup.
+---END---
+##### hs_p11_268 hoeschec paras:1
+There is a bearish QM setup on AUD-USD 4HR chart. The Daily chart looks pretty bullish though... not sure how to handle this one.
+---END---
+##### hs_p11_269 hoeschec paras:2
+Looks like an engulf just occurred on the 15M chart for GBP-USD
+
+This is happening inside of an important zone on the 4 HR chart. I wonder if we will get a nice bounce to the downside here...
+---END---
+##### hs_p11_271 Kovalenko paras:1
+Nice picture
+---END---
+##### hs_p11_272 hoeschec paras:2
+Kovalenko wrote: Nice picture
+
+Haha it made me laugh when I saw it online!
+---END---
+##### hs_p11_273 hoeschec paras:2
+I just took a short on NZD-USD due to an engulf, but I'm not sure if price is going to hit my target.
+
+Hopefully I read this correctly price did engulf.
+---END---
+##### hs_p11_274 hoeschec paras:1
+NZD-USD Engulf failed
+---END---
+##### hs_p11_275 hoeschec paras:5
+Practicing Engulfs
+
+G-U 4HR
+
+I see a EG on # 1 and #2. Only EG #2 could be traded because retraced back to the source.
+
+#3 looks like CP zone, but I'm not sure.
+
+Would the target of the 2nd engulf be the area I marked with the blue arrow, at the base of compression?
+---END---

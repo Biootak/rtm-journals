@@ -1,0 +1,646 @@
+### if_p67_1
+EN: Art wrote: Question was addressed to IF but I hope MW you don't mind me jumping in.
+
+Markets are interconnected.
+
+If interest rates change for USD ir does affect Google. in 2 ways. If
+rates rise it is more expensive for businesses to borrow money hence
+fund their operations. Another thing if USD drop so EURUSD rate rises..
+ that means for every Euro you will get more dollars. Hence the European
+ traders get more value for their money due to exchange rate. So it does
+ effect the local USD stock.
+
+IF USD rates rise people want to allocate more money to dollar so they
+get their interest. Hence more money inflow to US. probably more trades
+in US markets.
+
+But what I haven't figured out is this if we have let's say AUDJPY,
+AUDUSD, AUDEUR, AUDNZD etc... then it becomes pretty complex to know
+where i.e. the buying is coming from. If you have a short pop ready on
+AUDJPY.... but everyone buys AUDUSD, AUDEUR, AUDNZD etc... will it then
+not push the market through short setup on AUDJPY?
+
+Probably I overthink .. as always
+
+There are 8 main currencies in the Forex market. It is possible to
+calculate currency indexes for each one - but it's not a straight
+average across each currency's crosspairs. Instead, the trade figures
+for each currency are used, and the 5 most heavily traded opposing
+currencies are used for the index weighting calculation. For example,
+this is JPYX:
+
+From these figures, you can calculate a correctly balanced currency
+index for each currency. I have had these for some time now, I coded
+them up in MT4 (AUDX/CADX/CHFX/EURX/GBPX/JPYX/NZDX/USDX). When correctly
+ balanced, RTM style setups work exactly the same on these composite
+charts - except it is an entire currency that is making a move.
+
+Institutional money tends to flow from one currency into another, they
+don't adopt a view on a single pair. For the best trades, you find
+separate currencies forming opposing setups - when 2 currencies are
+moving in opposite directions, the relevant crosspair totally flies.
+
+Some brokers carry USDX and EURX, but the balancings are usually
+incorrect or out of date. You can also find things like GBPX online on
+some websites, but the calculation is a straight average across all
+crosses. This is nonsense really, to attach the same weighting to GBPNZD
+ as EURGBP when forming a GBPX index.
+
+When used correctly, these are a massive odds enhancer. You get double
+confluence by checking the 2 indexes for each cross, to see if it
+supports your trade. It keeps me out of a lot of bad decisions. It also
+helps keep you on the right side of the market if you always try to play
+ strongest vs weakest. There's a good article here on ForexFactory about
+ it
+	www.forexfactory.com/showthread.php?t=334165
+
+In answer to your AUD question - if AUD is strong on the day, but JPY is
+ stronger, the other AUD pairs will move up, but AJ will chop around at
+its short zone. If JPY remains strong as AUD hits supply, then it will
+drop. You quite often see this, one of the crosspairs "hanging around"
+at supply or demand, waiting for the index to hit the appropriate level
+before it moves off.
+
+Here are the 8 currency indexes from today:
+
+	i.imgur.com/2JiLOeN.png
+FA: Art نوشت: سؤال خطاب به IF بود، ولی امیدوارم MW بدت نیاید که وسط می‌پرم.
+
+بازارها به هم پیوسته‌اند.
+
+اگر نرخ بهرهٔ USD عوض شود، روی Google اثر می‌گذارد. از دو راه. اگر نرخ‌ها بالا بروند، وام گرفتن برای کسب‌وکارها و تأمین مالی عملیاتشان گران‌تر می‌شود. نکتهٔ دیگر این‌که اگر USD افت کند و نرخ EURUSD بالا برود.. یعنی برای هر یورو دلار بیشتری می‌گیری. پس معامله‌گران اروپایی به دلیل نرخ تبدیل، برای پولشان ارزش بیشتری می‌گیرند. پس روی سهام محلی USD اثر می‌گذارد.
+
+اگر نرخ‌های USD بالا بروند، مردم می‌خواهند پول بیشتری به دلار اختصاص بدهند تا سودش را بگیرند. پس پول بیشتری به آمریکا سرازیر می‌شود. احتمالاً معاملات بیشتر در بازارهای آمریکا.
+
+ولی چیزی که نفهمیده‌ام این است: اگر مثلاً AUDJPY، AUDUSD، AUDEUR، AUDNZD و غیره داشته باشیم... آن‌وقت دانستن این‌که خرید از کجا می‌آید خیلی پیچیده می‌شود. اگر روی AUDJPY یک پاپ کوتاه آماده داری.... ولی همه AUDUSD، AUDEUR، AUDNZD و غیره می‌خرند... آیا آن‌وقت بازار را از ستاپ فروش روی AUDJPY رد نمی‌کند؟
+
+احتمالاً زیادی فکر می‌کنم .. مثل همیشه
+
+در بازار فارکس 8 ارز اصلی وجود دارد. می‌شود برای هر کدام شاخص ارز محاسبه کرد — ولی این یک میانگین مستقیم روی جفت‌ارزهای متقابل هر ارز نیست. در عوض، ارقام معاملاتی هر ارز به کار می‌رود و 5 ارز مخالف که بیشترین معامله را دارند برای محاسبهٔ وزن شاخص استفاده می‌شوند. برای نمونه، این JPYX است:
+
+از روی این ارقام می‌توانی برای هر ارز یک شاخص درست متوازن محاسبه کنی. مدتی است این‌ها را دارم؛ در MT4 کدشان کردم (AUDX/CADX/CHFX/EURX/GBPX/JPYX/NZDX/USDX). وقتی درست متوازن باشند، ستاپ‌های سبک RTM دقیقاً همین‌طور روی این نمودارهای ترکیبی کار می‌کنند — با این تفاوت که این یک ارز کامل است که حرکت می‌کند.
+
+پول نهادی معمولاً از یک ارز به ارز دیگر جریان می‌یابد؛ آن‌ها روی یک جفت‌ارز تنها موضع نمی‌گیرند. برای بهترین معاملات، ارزهای جداگانه‌ای را پیدا می‌کنی که ستاپ‌های مخالف می‌سازند — وقتی 2 ارز در جهت مخالف حرکت می‌کنند، جفت‌ارز متقابل مربوطه کاملاً پرواز می‌کند.
+
+بعضی بروکرها USDX و EURX را دارند، ولی توازنشان معمولاً غلط یا کهنه است. چیزهایی مثل GBPX را هم می‌شود در بعضی سایت‌ها پیدا کرد، ولی محاسبه‌اش میانگین مستقیم همهٔ کراس‌هاست. این واقعاً بی‌معنی است که در ساختن شاخص GBPX به GBPNZD همان وزنی را بدهی که به EURGBP می‌دهی.
+
+وقتی درست استفاده شوند، این‌ها تقویت‌کنندهٔ عظیم شانس‌اند. با بررسی 2 شاخص هر کراس، هم‌گرایی دوتایی می‌گیری تا ببینی آیا معامله‌ات را تأیید می‌کند یا نه. این مرا از خیلی تصمیم‌های بد دور نگه می‌دارد. همچنین اگر همیشه بکوشی قوی‌ترین را در برابر ضعیف‌ترین بازی کنی، کمکت می‌کند سمت درست بازار بمانی. یک مقالهٔ خوب هم اینجا در ForexFactory درباره‌اش هست
+www.forexfactory.com/showthread.php?t=334165
+
+در جواب سؤال AUDت — اگر AUD در آن روز قوی باشد ولی JPY قوی‌تر، بقیهٔ جفت‌های AUD بالا می‌روند، ولی AJ در ناحیهٔ فروشش نوسان می‌کند. اگر JPY قوی بماند وقتی AUD به عرضه می‌رسد، آن‌وقت می‌ریزد. زیاد می‌بینی که یکی از جفت‌ارزهای کراس در عرضه یا تقاضا «پرسه می‌زند»، منتظر می‌ماند تا شاخص به سطح مناسبش برسد و بعد راه بیفتد.
+
+این هم 8 شاخص ارز امروز:
+
+i.imgur.com/2JiLOeN.png
+
+### if_p67_2
+EN: Now I'm dizzy
+
+Delighted to see such clever information here
+FA: حالا سرم گیج می‌رود
+
+خوشحالم که چنین اطلاعات هوشمندانه‌ای اینجا می‌بینم
+
+### if_p67_3
+EN: Mate, that was awesome, thank you for that, I'll be reading it a few more times.
+
+Much appreciated.
+
+Robbie
+FA: رفیق، عالی بود؛ ممنون از این، چند بار دیگر هم می‌خوانمش.
+
+بسیار ممنون.
+
+Robbie
+
+### if_p67_4
+EN: Smimom,
+
+Great great info. I have experienced quite a few times exactly what you wrote:
+
+In answer to your AUD question -
+if AUD is strong on the day, but JPY is stronger, the other AUD pairs
+will move up, but AJ will chop around at its short zone. If JPY remains
+strong as AUD hits supply, then it will drop. You quite often see this,
+one of the crosspairs "hanging around" at supply or demand, waiting for
+the index to hit the appropriate level before it moves off.
+
+Could not put it to words exactly but damn you hit it good here. Because
+ it is always AUD vs other 7. rather than only AUDJPY. I'v noticed
+signals on DAX traded in my local EUR provide more accurate signals than
+ FX pairs. What makes sense. Not saying this is crucial to trade
+successfully forex. IF's RTM techique is still key to me.
+
+Would make sense for USDJPY set up before shorting EURJPY. and others.
+
+Smimom, there is no free lunch. Will not ask you indictors since you
+probably used lots of time and money to have them. Could you guide me
+through cos I would like to have it coded.
+
+- I suppose the ratios you mentioned are changing all the time following capital flows. How do you keep track of it?
+
+- How do you combine i.e. 6 currencies to have an JPY index? like what
+formula do you use? (and then the changing weights on ratios - question
+1).
+
+BR,
+
+Art
+FA: Smimom،
+
+اطلاعات خیلی خیلی خوب. چند بار دقیقاً همان چیزی را که نوشتی تجربه کرده‌ام:
+
+در جواب سؤال AUDت — اگر AUD در آن روز قوی باشد ولی JPY قوی‌تر، بقیهٔ جفت‌های AUD بالا می‌روند، ولی AJ در ناحیهٔ فروشش نوسان می‌کند. اگر JPY قوی بماند وقتی AUD به عرضه می‌رسد، آن‌وقت می‌ریزد. زیاد می‌بینی که یکی از جفت‌ارزهای کراس در عرضه یا تقاضا «پرسه می‌زند»، منتظر می‌ماند تا شاخص به سطح مناسبش برسد و بعد راه بیفتد.
+
+نتوانستم دقیقاً در قالب کلمه بگویم، ولی لعنتی اینجا خوب زدی به هدف. چون همیشه AUD در برابر 7 ارز دیگر است، نه فقط AUDJPY. سیگنال‌هایی که روی DAX معامله‌شده در EUR محلی خودم دیده‌ام دقیق‌تر از سیگنال‌های جفت‌ارزهای فارکسی بوده‌اند. که منطقی است. نمی‌گویم این برای معامله‌گری موفق در فارکس حیاتی است. تکنیک RTM خود IF هنوز برای من کلیدی است.
+
+منطقی می‌شود که قبل از فروش EURJPY، ابتدا USDJPY ستاپ شود. و بقیه.
+
+Smimom، ناهار مجانی وجود ندارد. از تو اندیکاتور نمی‌خواهم، چون احتمالاً برای داشتنشان زمان و پول زیادی گذاشته‌ای. می‌شود راهنمایی‌ام کنی، چون می‌خواهم کدش کنم.
+
+- گمانم نسبت‌هایی که گفتی مدام با جریان سرمایه عوض می‌شوند. چطور پیگیری‌اش می‌کنی؟
+
+- چطور مثلاً 6 ارز را ترکیب می‌کنی تا شاخص JPY داشته باشی؟ یعنی چه فرمولی به کار می‌بری؟ (و بعد وزن‌های متغیر روی نسبت‌ها — سؤال 1).
+
+با احترام،
+
+Art
+
+### if_p67_5
+EN: Art wrote: Smimom,
+
+Great great info. I have experienced quite a few times exactly what you wrote:
+
+In answer to your AUD question
+ - if AUD is strong on the day, but JPY is stronger, the other AUD pairs
+ will move up, but AJ will chop around at its short zone. If JPY remains
+ strong as AUD hits supply, then it will drop. You quite often see this,
+ one of the crosspairs "hanging around" at supply or demand, waiting for
+ the index to hit the appropriate level before it moves off.
+
+Could not put it to words exactly but damn you hit it good here. Because
+ it is always AUD vs other 7. rather than only AUDJPY. I'v noticed
+signals on DAX traded in my local EUR provide more accurate signals than
+ FX pairs. What makes sense. Not saying this is crucial to trade
+successfully forex. IF's RTM techique is still key to me.
+
+Would make sense for USDJPY set up before shorting EURJPY. and others.
+
+Smimom, there is no free lunch. Will not ask you indictors since you
+probably used lots of time and money to have them. Could you guide me
+through cos I would like to have it coded.
+
+- I suppose the ratios you mentioned are changing all the time following capital flows. How do you keep track of it?
+
+- How do you combine i.e. 6 currencies to have an JPY index? like what
+formula do you use? (and then the changing weights on ratios - question
+1).
+
+BR,
+
+Art
+
+All the info you need is in that ForexFactory thread, it's got where to find the correct weightings (
+	www.markit.com/assets/en/docs/fact-sheet...FS_iBoxxFX_TW_A4.pdf
+) and the basic theory behind how to code up an indi.
+
+I warn you - it's not easy! It's very fiddly, to get your code to
+account for the fact that some pairs are missing certain candles, to
+take weekends into account etc. Well worth it though.
+
+Have a read through that thread, I managed to get it done just from
+that. If you need any more specific info, drop me a message.
+FA: Art نوشت: Smimom،
+
+اطلاعات خیلی خیلی خوب. چند بار دقیقاً همان چیزی را که نوشتی تجربه کرده‌ام:
+
+در جواب سؤال AUDت — اگر AUD در آن روز قوی باشد ولی JPY قوی‌تر، بقیهٔ جفت‌های AUD بالا می‌روند، ولی AJ در ناحیهٔ فروشش نوسان می‌کند. اگر JPY قوی بماند وقتی AUD به عرضه می‌رسد، آن‌وقت می‌ریزد. زیاد می‌بینی که یکی از جفت‌ارزهای کراس در عرضه یا تقاضا «پرسه می‌زند»، منتظر می‌ماند تا شاخص به سطح مناسبش برسد و بعد راه بیفتد.
+
+نتوانستم دقیقاً در قالب کلمه بگویم، ولی لعنتی اینجا خوب زدی به هدف. چون همیشه AUD در برابر 7 ارز دیگر است، نه فقط AUDJPY. سیگنال‌هایی که روی DAX معامله‌شده در EUR محلی خودم دیده‌ام دقیق‌تر از سیگنال‌های جفت‌ارزهای فارکسی بوده‌اند. که منطقی است. نمی‌گویم این برای معامله‌گری موفق در فارکس حیاتی است. تکنیک RTM خود IF هنوز برای من کلیدی است.
+
+منطقی می‌شود که قبل از فروش EURJPY، ابتدا USDJPY ستاپ شود. و بقیه.
+
+Smimom، ناهار مجانی وجود ندارد. از تو اندیکاتور نمی‌خواهم، چون احتمالاً برای داشتنشان زمان و پول زیادی گذاشته‌ای. می‌شود راهنمایی‌ام کنی، چون می‌خواهم کدش کنم.
+
+- گمانم نسبت‌هایی که گفتی مدام با جریان سرمایه عوض می‌شوند. چطور پیگیری‌اش می‌کنی؟
+
+- چطور مثلاً 6 ارز را ترکیب می‌کنی تا شاخص JPY داشته باشی؟ یعنی چه فرمولی به کار می‌بری؟ (و بعد وزن‌های متغیر روی نسبت‌ها — سؤال 1).
+
+با احترام،
+
+Art
+
+همهٔ اطلاعاتی که لازم داری در همان تاپیک ForexFactory است؛ هم جای پیدا کردن وزن‌های درست (www.markit.com/assets/en/docs/fact-sheet...FS_iBoxxFX_TW_A4.pdf) و هم نظریهٔ پایه‌ای برای کد کردن یک اندیکاتور.
+
+هشدار می‌دهم — آسان نیست! خیلی جفت‌وجورکاری می‌خواهد تا کدت این واقعیت را حساب کند که بعضی جفت‌ارزها بعضی کندل‌ها را کم دارند، آخر هفته‌ها را در نظر بگیرد و غیره. ولی کاملاً ارزشش را دارد.
+
+همان تاپیک را بخوان؛ من فقط با همان توانستم انجامش بدهم. اگر اطلاعات خاص‌تری خواستی، یک پیام برایم بفرست.
+
+### if_p67_6
+EN: smimon wrote:
+Art wrote: Smimom,
+
+Great great info. I have experienced quite a few times exactly what you wrote:
+
+In answer to your AUD question
+ - if AUD is strong on the day, but JPY is stronger, the other AUD pairs
+ will move up, but AJ will chop around at its short zone. If JPY remains
+ strong as AUD hits supply, then it will drop. You quite often see this,
+ one of the crosspairs "hanging around" at supply or demand, waiting for
+ the index to hit the appropriate level before it moves off.
+
+Could not put it to words exactly but damn you hit it good here. Because
+ it is always AUD vs other 7. rather than only AUDJPY. I'v noticed
+signals on DAX traded in my local EUR provide more accurate signals than
+ FX pairs. What makes sense. Not saying this is crucial to trade
+successfully forex. IF's RTM techique is still key to me.
+
+Would make sense for USDJPY set up before shorting EURJPY. and others.
+
+Smimom, there is no free lunch. Will not ask you indictors since you
+probably used lots of time and money to have them. Could you guide me
+through cos I would like to have it coded.
+
+- I suppose the ratios you mentioned are changing all the time following capital flows. How do you keep track of it?
+
+- How do you combine i.e. 6 currencies to have an JPY index? like what
+formula do you use? (and then the changing weights on ratios - question
+1).
+
+BR,
+
+Art
+
+All the info you need is in that ForexFactory thread, it's got where to find the correct weightings (
+	www.markit.com/assets/en/docs/fact-sheet...FS_iBoxxFX_TW_A4.pdf
+) and the basic theory behind how to code up an indi.
+
+I warn you - it's not easy! It's very fiddly, to get your code to
+account for the fact that some pairs are missing certain candles, to
+take weekends into account etc. Well worth it though.
+
+Have a read through that thread, I managed to get it done just from that. If you need any more specific info, drop me a message.
+
+wow really nice correlation article and good coder.....
+
+trying to search basic how to code an indicator first....
+
+the best pair for looking short yesterday was EURJPY and EURAUD (my 2cents)
+
+EURDX -> QM (weakest pair at that time) you must avoid long EUROxxx unless you have PA for long (my 2 cents)
+
+AUD & JPY was strong at that time...
+
+EURJPY AND EURAUD --> strong bearish...
+
+sry for cluttering your journal IF master.
+FA: smimon نوشت:
+Art نوشت: Smimom،
+
+اطلاعات خیلی خیلی خوب. چند بار دقیقاً همان چیزی را که نوشتی تجربه کرده‌ام:
+
+در جواب سؤال AUDت — اگر AUD در آن روز قوی باشد ولی JPY قوی‌تر، بقیهٔ جفت‌های AUD بالا می‌روند، ولی AJ در ناحیهٔ فروشش نوسان می‌کند. اگر JPY قوی بماند وقتی AUD به عرضه می‌رسد، آن‌وقت می‌ریزد. زیاد می‌بینی که یکی از جفت‌ارزهای کراس در عرضه یا تقاضا «پرسه می‌زند»، منتظر می‌ماند تا شاخص به سطح مناسبش برسد و بعد راه بیفتد.
+
+نتوانستم دقیقاً در قالب کلمه بگویم، ولی لعنتی اینجا خوب زدی به هدف. چون همیشه AUD در برابر 7 ارز دیگر است، نه فقط AUDJPY. سیگنال‌هایی که روی DAX معامله‌شده در EUR محلی خودم دیده‌ام دقیق‌تر از سیگنال‌های جفت‌ارزهای فارکسی بوده‌اند. که منطقی است. نمی‌گویم این برای معامله‌گری موفق در فارکس حیاتی است. تکنیک RTM خود IF هنوز برای من کلیدی است.
+
+منطقی می‌شود که قبل از فروش EURJPY، ابتدا USDJPY ستاپ شود. و بقیه.
+
+Smimom، ناهار مجانی وجود ندارد. از تو اندیکاتور نمی‌خواهم، چون احتمالاً برای داشتنشان زمان و پول زیادی گذاشته‌ای. می‌شود راهنمایی‌ام کنی، چون می‌خواهم کدش کنم.
+
+- گمانم نسبت‌هایی که گفتی مدام با جریان سرمایه عوض می‌شوند. چطور پیگیری‌اش می‌کنی؟
+
+- چطور مثلاً 6 ارز را ترکیب می‌کنی تا شاخص JPY داشته باشی؟ یعنی چه فرمولی به کار می‌بری؟ (و بعد وزن‌های متغیر روی نسبت‌ها — سؤال 1).
+
+با احترام،
+
+Art
+
+همهٔ اطلاعاتی که لازم داری در همان تاپیک ForexFactory است؛ هم جای پیدا کردن وزن‌های درست (www.markit.com/assets/en/docs/fact-sheet...FS_iBoxxFX_TW_A4.pdf) و هم نظریهٔ پایه‌ای برای کد کردن یک اندیکاتور.
+
+هشدار می‌دهم — آسان نیست! خیلی جفت‌وجورکاری می‌خواهد تا کدت این واقعیت را حساب کند که بعضی جفت‌ارزها بعضی کندل‌ها را کم دارند، آخر هفته‌ها را در نظر بگیرد و غیره. ولی کاملاً ارزشش را دارد.
+
+همان تاپیک را بخوان؛ من فقط با همان توانستم انجامش بدهم. اگر اطلاعات خاص‌تری خواستی، یک پیام برایم بفرست.
+
+وای واقعاً مقالهٔ همبستگی خوبی است و کدزن خوب.....
+
+اول می‌خواهم بگردم اصول کد کردن یک اندیکاتور را پیدا کنم....
+
+بهترین جفت‌ارز برای دنبال کردن فروش دیروز EURJPY و EURAUD بود (نظر دو سنتی من)
+
+EURDX -> QM (ضعیف‌ترین جفت‌ارز آن موقع) باید از خرید EUROxxx پرهیز کنی مگر PA برای خرید داشته باشی (نظر دو سنتی من)
+
+AUD و JPY آن موقع قوی بودند...
+
+EURJPY و EURAUD --> نزولی قوی...
+
+ببخشید که ژورنال IF استاد را شلوغ کردم.
+
+### if_p67_7
+EN: Yes that's spot on Gembel, that's exactly the way they should be used.
+ Taking LTF trend continuations on pullbacks to FLs, based on the bigger
+ picture strongest vs weakest currencies, as inferred from the indexes,
+is the highest probability way to make easy pips, or even better,
+getting in right at the top of the whole currency turn (although picking
+ tops/bottoms is always going to be riskier somewhat).
+
+Where a lot of currency strength indis fail, and we can do better with
+them, is that in order to determine a currency's strength, they use some
+ sort of moving average to determine the trend - simply "is it going up
+right now, or going down right now?" We however, with our knowledge of
+PA, could look at EURX and say "well, it's going up right now, but we've
+ had a significant engulf south, and now we've pulled back to a QM
+level, so in fact I don't think it's strong, I think it's about to
+become very weak".
+
+In this cases, we can actually hit the market on the correct crosspairs
+at exactly the right moment that the crosspair is going to turn.
+FA: بله دقیقاً Gembel، دقیقاً همان‌طور باید استفاده شوند. گرفتن ادامهٔ روند در LTF روی پولبک‌ها به FLها، بر مبنای تصویر بزرگ‌ترِ قوی‌ترین در برابر ضعیف‌ترین ارزها که از شاخص‌ها استنباط می‌شود، بالاترین احتمال برای ساختن پیپ آسان است، یا حتی بهتر، ورود دقیقاً در سقف کل چرخش ارز (هرچند انتخاب سقف/کف همیشه کمی پرریسک‌تر است).
+
+جایی که خیلی از اندیکاتورهای قدرت ارز شکست می‌خورند و ما می‌توانیم بهتر عمل کنیم، این است که آن‌ها برای تعیین قدرت یک ارز از یک جور میانگین متحرک برای تشخیص روند استفاده می‌کنند — خیلی ساده «همین حالا دارد بالا می‌رود یا همین حالا دارد پایین می‌آید؟» ولی ما با دانشی که از PA داریم می‌توانیم EURX را نگاه کنیم و بگوییم «خب، همین حالا دارد بالا می‌رود، ولی یک اینگالف نزولی معنادار داشته‌ایم و حالا به یک سطح QM پولبک زده‌ایم، پس در واقع فکر نمی‌کنم قوی باشد، فکر می‌کنم دارد خیلی ضعیف می‌شود».
+
+در این موارد، می‌توانیم دقیقاً در همان لحظهٔ درستی که جفت‌ارز کراس می‌خواهد بچرخد، بازار را روی کراس‌های درست بزنیم.
+
+### if_p67_8
+EN: smimon wrote: Yes that's spot on
+ Gembel, that's exactly the way they should be used. Taking LTF trend
+continuations on pullbacks to FLs, based on the bigger picture strongest
+ vs weakest currencies, as inferred from the indexes, is the highest
+probability way to make easy pips, or even better, getting in right at
+the top of the whole currency turn (although picking tops/bottoms is
+always going to be riskier somewhat).
+
+Where a lot of currency strength indis fail, and we can do better with
+them, is that in order to determine a currency's strength, they use some
+ sort of moving average to determine the trend - simply "is it going up
+right now, or going down right now?" We however, with our knowledge of
+PA, could look at EURX and say "well, it's going up right now, but we've
+ had a significant engulf south, and now we've pulled back to a QM
+level, so in fact I don't think it's strong, I think it's about to
+become very weak".
+
+In this cases, we can actually hit the market on the correct crosspairs
+at exactly the right moment that the crosspair is going to turn.
+
+hai mate..
+
+do you have reference or ebook for basic coding an indicator?
+
+i have no clue, guess iam no talented on this thing
+FA: smimon نوشت: بله دقیقاً Gembel، دقیقاً همان‌طور باید استفاده شوند. گرفتن ادامهٔ روند در LTF روی پولبک‌ها به FLها، بر مبنای تصویر بزرگ‌ترِ قوی‌ترین در برابر ضعیف‌ترین ارزها که از شاخص‌ها استنباط می‌شود، بالاترین احتمال برای ساختن پیپ آسان است، یا حتی بهتر، ورود دقیقاً در سقف کل چرخش ارز (هرچند انتخاب سقف/کف همیشه کمی پرریسک‌تر است).
+
+جایی که خیلی از اندیکاتورهای قدرت ارز شکست می‌خورند و ما می‌توانیم بهتر عمل کنیم، این است که آن‌ها برای تعیین قدرت یک ارز از یک جور میانگین متحرک برای تشخیص روند استفاده می‌کنند — خیلی ساده «همین حالا دارد بالا می‌رود یا همین حالا دارد پایین می‌آید؟» ولی ما با دانشی که از PA داریم می‌توانیم EURX را نگاه کنیم و بگوییم «خب، همین حالا دارد بالا می‌رود، ولی یک اینگالف نزولی معنادار داشته‌ایم و حالا به یک سطح QM پولبک زده‌ایم، پس در واقع فکر نمی‌کنم قوی باشد، فکر می‌کنم دارد خیلی ضعیف می‌شود».
+
+در این موارد، می‌توانیم دقیقاً در همان لحظهٔ درستی که جفت‌ارز کراس می‌خواهد بچرخد، بازار را روی کراس‌های درست بزنیم.
+
+سلام رفیق..
+
+مرجع یا کتاب الکترونیکی برای اصول کد کردن یک اندیکاتور داری؟
+
+هیچ سرنخی ندارم، گمانم در این کار استعداد ندارم
+
+### if_p67_9
+EN: In this cases, we can actually
+hit the market on the correct crosspairs at exactly the right moment
+that the crosspair is going to turn.
+
+Jeeeeezz... gold nugget after gold nugget in this RTM forum
+FA: در این موارد، می‌توانیم دقیقاً در همان لحظهٔ درستی که جفت‌ارز کراس می‌خواهد بچرخد، بازار را روی کراس‌های درست بزنیم.
+
+خدای من... تکهٔ طلا پشت تکهٔ طلا در این انجمن RTM
+
+### if_p67_10
+EN: Ifmyante wrote: Now I'm dizzy
+
+Delighted to see such clever information here
+
+I'm dizzy, too.
+
+clever information can be a serious "double edges" cleaver.
+
+Where has the "simplicity" gone? :)
+
+Be extra careful guys. Unless you are clever type, ego-less, can stick
+to data like robot, it's better to not over complicated the process.
+Just my humble 2 cents. Cheers.
+FA: Ifmyante نوشت: حالا سرم گیج می‌رود
+
+خوشحالم که چنین اطلاعات هوشمندانه‌ای اینجا می‌بینم
+
+من هم سرم گیج رفت.
+
+این اطلاعات زرنگ می‌تواند چاقوی دولبهٔ خطرناکی باشد.
+
+«سادگی» کجا رفت؟ :)
+
+بچه‌ها خیلی مراقب باشید. مگر این‌که از نوع آدم‌های باهوش و بی‌منیت باشید و بتوانید مثل ربات به داده بچسبید، بهتر است کار را بیش از حد پیچیده نکنید. فقط نظر فروتنانهٔ دو سنتی من. بدرود.
+
+### if_p67_11
+EN: gembel wrote: hai mate..
+
+do you have reference or ebook for basic coding an indicator?
+
+i have no clue, guess iam no talented on this thing
+
+Unfortunately if you're not a coder, it'll take a long time to get up to
+ the level you need. However, on the plus side, every single thing you
+need is available online free of charge, and being able to code is a
+massively useful skill in general anyway
+
+Perhaps we should set up a separate topic if we want to continue
+discussing currency indexes, so as not to take up any more room in here.
+FA: gembel نوشت: سلام رفیق..
+
+مرجع یا کتاب الکترونیکی برای اصول کد کردن یک اندیکاتور داری؟
+
+هیچ سرنخی ندارم، گمانم در این کار استعداد ندارم
+
+متأسفانه اگر کدنویس نباشی، زمان زیادی می‌برد تا به سطح لازم برسی. ولی نکتهٔ مثبتش این است که هر چیز تک‌تکی که لازم داری مجانی آنلاین هست، و گذشته از این، توانایی کد کردن به‌طور کلی مهارت فوق‌العاده کاربردی‌ای است
+
+شاید بهتر باشد اگر می‌خواهیم بحث شاخص‌های ارز را ادامه بدهیم، یک تاپیک جدا بسازیم تا اینجا بیشتر جا نگیریم.
+
+### if_p67_12
+EN: smimon wrote:
+gembel wrote: hai mate..
+
+do you have reference or ebook for basic coding an indicator?
+
+i have no clue, guess iam no talented on this thing
+
+Unfortunately if you're not a coder, it'll take a long time to get up to
+ the level you need. However, on the plus side, every single thing you
+need is available online free of charge, and being able to code is a
+massively useful skill in general anyway
+
+Perhaps we should set up a separate topic if we want to continue
+discussing currency indexes, so as not to take up any more room in here.
+
+very good idea mate..
+
+wish you could guide us...
+
+lets move to other room...
+
+sry for cluttering IF master journal again
+
+@kxfx : hai mate..
+
+for my POV it really doesnt effect trading plan..
+
+it just merely gain you more information
+FA: smimon نوشت:
+gembel نوشت: سلام رفیق..
+
+مرجع یا کتاب الکترونیکی برای اصول کد کردن یک اندیکاتور داری؟
+
+هیچ سرنخی ندارم، گمانم در این کار استعداد ندارم
+
+متأسفانه اگر کدنویس نباشی، زمان زیادی می‌برد تا به سطح لازم برسی. ولی نکتهٔ مثبتش این است که هر چیز تک‌تکی که لازم داری مجانی آنلاین هست، و گذشته از این، توانایی کد کردن به‌طور کلی مهارت فوق‌العاده کاربردی‌ای است
+
+شاید بهتر باشد اگر می‌خواهیم بحث شاخص‌های ارز را ادامه بدهیم، یک تاپیک جدا بسازیم تا اینجا بیشتر جا نگیریم.
+
+ایدهٔ خیلی خوبی است رفیق..
+
+کاش می‌توانستی راهنمایی‌مان کنی...
+
+برویم اتاق دیگر...
+
+باز هم ببخشید که ژورنال IF استاد را شلوغ کردم
+
+@kxfx : سلام رفیق..
+
+از دید من واقعاً روی پلن معاملاتی اثر ندارد..
+
+فقط اطلاعات بیشتری به آدم می‌دهد
+
+### if_p67_13
+EN: Gembel,
+
+From my POV, you guys are making simple thing difficult.
+
+good luck, anyway. Less is more for me though. cheers mate.
+FA: Gembel،
+
+از دید من، شما دارید چیز ساده را سخت می‌کنید.
+
+به‌هرحال موفق باشید. برای من کمتر، بیشتر است. بدرود رفیق.
+
+### if_p67_14
+EN: We've all got our own style.
+
+In my book though, when you realise that money flowing between entire
+currencies is what drives the markets, you realise the view on any one
+single cross is of lesser importance.
+FA: همه‌مان سبک خودمان را داریم.
+
+ولی به نظر من، وقتی بفهمی پولی که بین کل ارزها جریان دارد بازار را می‌گرداند، می‌فهمی که دیدگاه نسبت به هر کراس تکی اهمیت کمتری دارد.
+
+### if_p67_15
+EN: IF, i think you said somewhere in FF tthread, (im not sure about that), that all price reading can be PUT into a A4 page.
+
+Is this that page?
+
+X type levels are the FO above the QM levels :D I called like that just for my visual understanding
+
+Thank You IF
+
+PS. Well, i think i should make an another A4 page to show you how many
+scenarios can be played in the first page, so an A4 page maybe is not
+enough but two pages are enough for sure... or maybe three :D
+FA: IF، فکر می‌کنم جایی در تاپیک FF گفتی (مطمئن نیستم)، که کل خواندن قیمت را می‌شود در یک صفحهٔ A4 جا داد.
+
+این همان صفحه است؟
+
+سطوح نوع X همان FO بالای سطوح QM هستند :D فقط برای فهم دیداری خودم این‌طور صدایش زدم
+
+ممنون IF
+
+پ.ن. خب، فکر می‌کنم باید یک صفحهٔ A4 دیگر هم بسازم تا نشانت بدهم چند سناریو را می‌شود در صفحهٔ اول بازی کرد؛ پس یک صفحهٔ A4 شاید کافی نباشد ولی دو صفحه قطعاً کافی است... یا شاید سه تا :D
+
+### if_p67_16
+EN: That's a really good lesson
+
+Maybe it does need another page or two though
+FA: این درس واقعاً خوبی است
+
+ولی شاید واقعاً یکی دو صفحهٔ دیگر لازم داشته باشد
+
+### if_p67_17
+EN: IF , I try to say one word in order to analyse a chart correctly.
+This word - WEAKNESS ! I look for Weakness of the price and go forward
+ .
+FA: IF، سعی می‌کنم یک کلمه بگویم تا نمودار را درست تحلیل کنم. این کلمه — ضعف! دنبال ضعف قیمت می‌گردم و جلو می‌روم.
+
+### if_p67_18
+EN: And if I were asked where to trade, in one word, I'd say:
+
+Stops
+FA: و اگر از من بپرسند کجا معامله کنم، در یک کلمه می‌گویم:
+
+استاپ‌ها
+
+### if_p67_19
+EN: Would be saying, where stops have been taken out in the past be on the right track?
+FA: یعنی بگویم جایی که قبلاً استاپ‌ها برداشته شده‌اند، مسیر درستی است؟
+
+### if_p67_20
+EN: That is a LOT of hint given already in one word..
+FA: این یک عالمه سرنخ است که با یک کلمه داده شد..
+
+### if_p67_21
+EN: Makes more sense to look where stops haven't been taken out hence liquidity pools.
+
+If stops taken out - no orders.
+
+Muffles wrote: Would be saying, where stops have been taken out in the past be on the right track?
+FA: منطقی‌تر است نگاه کنی جایی که استاپ‌ها برداشته نشده‌اند، که همان مجموعه‌های نقدینگی می‌شوند.
+
+اگر استاپ‌ها برداشته شده‌اند — سفارشی نمانده.
+
+Muffles نوشت: یعنی بگویم جایی که قبلاً استاپ‌ها برداشته شده‌اند، مسیر درستی است؟
+
+### if_p67_22
+EN: IF , continue our conversation , I think another Important word - Liquidity. The rest of words - technigue.
+FA: IF، گفتگویمان را ادامه بدهم؛ فکر می‌کنم کلمهٔ مهم دیگر — نقدینگی است. بقیهٔ کلمات — تکنیک.
+
+### if_p67_23
+EN: Ifmyante wrote: And if I were asked where to trade, in one word, I'd say:
+
+Stops
+
+Yes. Those are places where transactions occurs. Without SL and BO traders, IT'S can not buy or sell.
+FA: Ifmyante نوشت: و اگر از من بپرسند کجا معامله کنم، در یک کلمه می‌گویم:
+
+استاپ‌ها
+
+بله. آن‌ها جاهایی هستند که معاملات رخ می‌دهند. بدون معامله‌گرانی که SL و BO می‌گذارند، ITها نمی‌توانند بخرند یا بفروشند.
+
+### if_p67_24
+EN: Thank you IF for confirmation! And also, i cant forget this: the
+entire structure have to be at the origin. Do not try to find FO/QM in
+the middle of nowhere, unless this entire structure is at important
+QM/important level in higher scale.
+
+Ifmyante wrote: That's a really good lesson
+
+Maybe it does need another page or two though
+FA: ممنون IF برای تأیید! و یک چیز را هم نمی‌توانم فراموش کنم: کل ساختار باید در مبدأ باشد. سعی نکن FO/QM را در وسط ناکجاآباد پیدا کنی، مگر این‌که کل این ساختار در QM مهم/سطح مهم در مقیاس بالاتر باشد.
+
+Ifmyante نوشت: این درس واقعاً خوبی است
+
+ولی شاید واقعاً یکی دو صفحهٔ دیگر لازم داشته باشد
+
+### if_p67_25
+EN: Muffles wrote: Would be saying, where stops have been taken out in the past be on the right track?
+
+A - where stops were taken, and
+
+B - where those who taken the stops were outsmarted ( read - engulfed )
+
+outsmarted instantly
+FA: Muffles نوشت: یعنی بگویم جایی که قبلاً استاپ‌ها برداشته شده‌اند، مسیر درستی است؟
+
+الف — جایی که استاپ‌ها برداشته شدند، و
+
+ب — جایی که کسانی که استاپ‌ها را برداشتند، غافلگیر شدند (بخوان: اینگالف شدند)
+
+یک‌دفعه غافلگیر شدند

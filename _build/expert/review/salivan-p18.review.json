@@ -1,0 +1,13 @@
+{
+ "salivan_p18_21": {
+  "ok": false,
+  "issue": "negation scope reversed + 'for some reason' mistranslated",
+  "why": "EN: \"For some reason i'm not always sure of the source of the move. (how to correctly identify it).\" FA: \"دلیلی دارد که همیشه از منبع حرکت مطمئن نیستم.\" Two changes of meaning: (a) \"not always sure\" (occasional doubt) becomes \"همیشه ... مطمئن نیستم\" (never sure); (b) \"for some reason\" (نمی‌دانم چرا) becomes the assertion \"دلیلی دارد که\" (there is a reason that), which the English does not claim.",
+  "fix": "به‌هرحال، چون از تارگت استفاده نمی‌کنم... همیشه سناریوی 50/50 است. یا قیمت علیه من برمی‌گردد یا برندهٔ بزرگ غیرمنتظره می‌شوم.\n\nاما آزاردهنده است. (به خاطر معامله‌های سر به سری که می‌شد ازشان پرهیز کرد).\n\nنمی‌دانم چرا، اما همیشه از منبع حرکت مطمئن نیستم. (اینکه چطور درست تشخیصش بدهم).\n\nشاید مشکل من به مقیاس‌ها هم مربوط باشد...(در تایم‌فریمی که معامله می‌کنم). اما آن هم موضوع دیگری است."
+ },
+ "salivan_p18_24": {
+  "issue": "Latin date",
+  "why": "EN prose date EN p3: «…Timeline dec 2009 , you should easily recgonize it on the 1h chart.…» was left in Latin inside the Persian body: FA p3 «تایم‌لاین dec 2009» — the month name must be Persian while day/year digits stay Latin: «تایم‌لاین دسامبر 2009».",
+  "fix": "FXlucky نوشت: سلام mika، بدت نمی‌آید تایم‌لاین نمودارت را بگذاری تا با هم کمک کنیم تحلیلش کنیم\n\nحتماً، همان‌طور که قبلاً گفتم، خیلی قدیمی است. (چیزی بود که روی forextester تمرین می‌کردم)، بروکر: Alpari_UK\n\nتایم‌لاین دسامبر 2009، باید راحت روی نمودار 1h تشخیصش بدهی.\n\nاین هم زمان دقیقش"
+ }
+}

@@ -1,0 +1,242 @@
+### amit_p10_234 hash=8e9603f703cdd35ca510d722c392cf338410a4d8 | paragraphs 4 / 3
+paras en/fa: 4/3 | echo bigram: ""
+lex.audit: 
+---FA---
+هی Amit، فکر می‌کردم همین بود که منظورت دربارهٔ شرکت‌کنندگان گیرکرده - ممنون. فکر می‌کنم همین الان یک لحظهٔ آها با پاسخی که قبلاً به project دادی داشتم. FX tester را باز می‌کنم و رویش کار می‌کنم. به FTRها/FLهایی مربوط است که بعد از حرکت‌های قوی اینگالف‌شده شکل می‌گیرند.
+
+در حاشیه: خیلی آسان است که خودت را با همهٔ چیزی که RTM ارائه می‌دهد پر کنی و آخر سر با سوءهاضمهٔ مغز مواجه شوی
+
+فقط برای اینکه احساس کنی در معمای اینجا به هیچ‌جا نمی‌رسی. اما در همان لحظه‌های آهاست که ادامه می‌دهی و به وضوح و درک بیشتری از مطالب اینجا می‌رسی. وای! چه جای قشنگی است این
+---EN---
+Hey Amit, I kinda though that is what you meant as regards to trapped participants -thank you. I think I just had an ah ha moment with a response you made to project ealier. I am going to open FX tester and work it over. It has to do with FTR's/FL's forming after strong moves being engulfed.
+
+On a side-note: It is so easy to gorge yourself on all that RTM has to offer and end up with indigestion of the brain
+
+only to feel as though you are getting nowhere with the
+
+puzzle. But it is in the ah-ha moments that you press on and break through to more clarity and understanding of the material here. Gosh! what a neat place this is
+### amit_p11_252 hash=e30e382d081152e0de68841620f424d4390f473f | echo
+paras en/fa: 2/2 | echo bigram: "ممکن پولبک"
+lex.audit: echo
+---FA---
+شورت‌های USD را در تعداد زیادی جفت لود کرده‌ام، همه الان در سود قفل شده‌اند، اگر ISM پایین‌تر از انتظار بیاید (و شانس خوبی هست که بیاید)، ممکن است پولبک خوبی در USD باشد.
+
+بعد از NPF چند نقطهٔ ورود خوب گرفتم، پیشنهاد می‌کنم جفت موردعلاقه‌ات برای شورت USD را پیدا کنی. NU و UC را توصیه می‌کنم. ممکن است پولبک نهایی روی انتشار ISM باشد که باید نقطهٔ خوبی برای ورود باشد.
+---EN---
+I have loaded USD shorts across number of pairs, all secured by now, if ISM comes below expectations (and there is a good chance it will), this might be a nice retracement in USD.
+
+Post NPF got some nice entry points, i suggest looking for your favourite pair to short USD. I'd recommend NU and UC. There might be a final retracement on ISM release, which should be a good point to enter.
+### amit_p13_310 hash=b1926fd2cc87180b61e32b607840d991d208a1a5 | echo
+paras en/fa: 4/4 | echo bigram: "سفارش‌ها مصرف"
+lex.audit: echo
+---FA---
+به نظر من، دو نوع چیز هست که بازار را به حرکت درمی‌آورند. 1] Action و 2] Reaction.
+
+Action: 1] Action فقط یک Action است (تصمیم تازه). یعنی اثر هیچ Action یا Reaction قبلی نیست. 2] Action سفارش‌ها را مصرف نمی‌کند.
+
+Reaction: 1] Reaction فقط اثری از action سمت چپ است. 2] Reaction سفارش‌ها را مصرف می‌کند.
+
+و امیدوارم این درست باشد.
+---EN---
+As per my view, there are 2 types of things which moves the market. 1] Action And 2] Reaction.
+
+Action: 1] Action is just an Action (new decision). Means it is not the effect of any previous Action or reaction. 2] Action doesn't consume orders.
+
+Reaction: 1] Reaction is just an effect of the action at the left. 2] Reaction consumes orders.
+
+And I hope this is true.
+### amit_p13_314 hash=7cf45a761ce4af5aa614e9ddde5f5bac86afbf29 | echo
+paras en/fa: 5/5 | echo bigram: "سفارش‌ها مصرف"
+lex.audit: echo
+---FA---
+milkeyway نوشت: به نظر من، دو نوع چیز هست که بازار را به حرکت درمی‌آورند. 1] Action و 2] Reaction.
+
+Action: 1] Action فقط یک Action است (تصمیم تازه). یعنی اثر هیچ Action یا Reaction قبلی نیست. 2] Action سفارش‌ها را مصرف نمی‌کند.
+
+Reaction: 1] Reaction فقط اثری از action سمت چپ است. 2] Reaction سفارش‌ها را مصرف می‌کند.
+
+و امیدوارم این درست باشد.
+
+ممنون MW، می‌توانی با چند مثال روی چارت بیشتر توضیح بدهی؟
+---EN---
+milkeyway wrote: As per my view, there are 2 types of things which moves the market. 1] Action And 2] Reaction.
+
+Action: 1] Action is just an Action (new decision). Means it is not the effect of any previous Action or reaction. 2] Action doesn't consume orders.
+
+Reaction: 1] Reaction is just an effect of the action at the left. 2] Reaction consumes orders.
+
+And I hope this is true.
+
+Thanks MW, can you explain more with some examples in chart?
+### amit_p14_337 hash=b579a9dee4be8c025597f7d4570d8e130226859a | paragraphs 4 / 1
+paras en/fa: 4/1 | echo bigram: ""
+lex.audit: 
+---FA---
+ممنون... فکر می‌کردم همین است، فقط مطمئن نبودم. مدتی است که مقالات را دوباره می‌خوانم. علاقه‌ام جلب شد چون If گفت چطور بعد از اینکه PA برگشت را نشان داد، قیمت به مبدأ حرکت برمی‌گردد. دارم روی نگه‌داشتن معامله‌ها طولانی‌تر کار می‌کنم و بیرون‌کشیدن بیشتر پیپ‌ها از هر معامله.
+---EN---
+Thanks...I thought that was it, just wasn't sure. Been spending quite a bit of time reading through the articles again. My interest was peaked because If mentioned how after PA has shown reversal, price goes back to the origin of the move. I am working on holding trades longer, and squeezing majority of the pips out of each trade.
+
+milkeyway wrote:
+
+josh1125 wrote: MW, How do you define the origin of the move?
+
+attachmentid=1168876&d=1365440154
+### amit_p15_361 hash=f51fe3c05b786dbe40d93c31cf087655c65562c1 | echo
+paras en/fa: 3/3 | echo bigram: "دربارهٔ اینگاف"
+lex.audit: echo
+---FA---
+bulleyes نوشت: سلام Amit،
+
+یک سؤال دربارهٔ اینگاف مثل علامت‌گذاری‌شده در عکس پایین دارم. آیا فکر می‌کنی در این وضعیت اینگاف هست؟ این برای E-mini futures است.
+
+از سؤالت ممنونم bulleyes. الان من هم دربارهٔ اینگاف و fake out دارم مطالعه می‌کنم. اما فکر می‌کنم مستطیل سیاهی که علامت زدم جای مهمی برای اینگاف‌شدن است.
+---EN---
+bulleyes wrote: Hi Amit,
+
+I have a question of engulfing as marked in the picture below. Will you think there is engulfing in this situation? This is for E-mini futures.
+
+Thanks for the question bulleyes. Right now I am also studying about engulf and fake outs. But I think the black rectangle I marked is important place to be engulfed.
+### amit_p18_426 hash=5a9086d5c44c2f9f0af9809ef197d5629fe905ec | paragraphs 4 / 3
+paras en/fa: 4/3 | echo bigram: ""
+lex.audit: 
+---FA---
+عرضه تقاضا شد و مقاومت حمایت. این را چطور می‌کنی؟:)
+
+milkeyway نوشت: دوباره یک منحنی احمقانه.
+
+خیلی دردسر برای ساختن منحنی این‌طوری هست
+---EN---
+Supply became demand and resistance became support. How you do that?:))
+
+milkeyway wrote: Again a stupid curve.
+
+It is very pain in a** to make curve
+
+look like that.
+### amit_p18_450 hash=9485135b55861ebbcf2b8286aa1279d15dcab85b | echo
+paras en/fa: 4/4 | echo bigram: "چطور پیش"
+lex.audit: echo
+---FA---
+سلام Amit،
+
+معامله‌گری‌ات چطور پیش می‌رود؟
+
+چند هفته پیش گفتی شروع کردی قیمت را با دقتی عالی پیش‌بینی کنی؟ پس، چطور پیش می‌رود؟ چیزی پایدار بود یا فقط چند روز الهام بیشتر؟ توانستی آن منحنی رشد برای حسابت را حفظ کنی؟
+
+ممنون! اگر خیلی کنجکاو هستم ببخش!
+---EN---
+Hi Amit,
+
+How is it going with your trading?
+
+You said a few weeks ago that you have began to predict price with a great accuracy? So, how is it going? was it someting sustainable or just a few days of greater insipiration? Did you manage to sustain that growth curve for your account?
+
+Thank you! Sorry if I am too inquisitive!
+### amit_p21_516 hash=29a37d87ad74a00609a206cf4374d0902af17655 | echo
+paras en/fa: 3/3 | echo bigram: "نقطهٔ ورود"
+lex.audit: echo
+---FA---
+این درک من است
+
+هر نقطهٔ ورود باید نقطهٔ خروج باشد اما هر نقطهٔ TG می‌تواند/نمی‌تواند نقطهٔ ورود باشد.
+
+قیمت باید وارد PAZ شود تا به FTR بعدی برود
+---EN---
+This is my understanding
+
+Each Entry Point should be the Exit point but Each TG point can/can not be the Entry point.
+
+Price need to enter into PAZ to go to the next FTR
+### amit_p3_57 hash=dc9d5ff1c01f258c752be3908762ee3d449ba728 | echo
+paras en/fa: 1/1 | echo bigram: "یاد بگیرم؟"
+lex.audit: echo
+---FA---
+سلام Amit، LOTS تاپیک هست، گیج شدم چه چیزی را یاد بگیرم؟ آیا باید همهٔ این چیزها را یاد بگیرم؟ دوست دارم روی S/D با خط روندها بمانم.. روی GBPAUD تمرین کرده‌ام و فکر می‌کنم خیلی خوب انجام نمی‌دهم اما خوب انجام می‌دهم، لطفاً بگو آیا باید خودم را روی همهٔ تاپیک‌های اینجا در RTM استاد کنم؟ ممنون
+---EN---
+hi Amit, there a lot of topics, i am confused what to learn? do i have to learn all of these things? i like to stick with S/D with trend lines.. i have practiced on GBPAUD, and i think i am doing not very well but doing good, please tell me should i have to master myself on all topics here on RTM? thanks
+### amit_p5_109 hash=b29ab003cf93942736ca26aef0d98371e195dc4b | paragraphs 9 / 8
+paras en/fa: 9/8 | echo bigram: "ژورنال Kruger"
+lex.audit: 
+---FA---
+in2forex نوشت: Amit عزیز
+
+چند ماه پیش رفتم داخل ژورنال Kruger تا نظرم را دربارهٔ رویکرد تو به RTM بگویم. پست 499 ژورنال Kruger
+
+و امروز این را در ژورنال Benhur پست کردی. پست 154 ژورنال Benhur
+
+واو
+
+دگرگونی از وقتی شروع کردی تا الان فوق‌العاده است و
+
+شاهدی بر سخت‌کوشی و تعهد تو. فقط امیدوارم از این پاداش بگیری، که مطمئنم خواهی گرفت. آن پست آخر دیدگاه زیادی به مسیر یادگیری خودم داد، ممنون!!
+
+با احترام in2forex
+
+ممنون.
+---EN---
+in2forex wrote: Dear Amit
+
+A few months ago I jumped into Kruger's journal to give you a piece of my mind about your approach to RTM.
+
+Kruger journal post 499
+
+And today you post this in Benhur's journal. Benhur journal post 154
+
+Wow
+
+The transformation from when you started till now is awesome, and a
+
+testament to you hard work and dedication. I can only hope that you reap the rewards of this, which I'm sure you will. That last post put a lot of perspective into my own learning path, Thankyou!!
+
+Regards in2forex
+
+Thanks.
+### amit_p5_120 hash=e6c4ac5442649db30e5d7ebe6e85b7c051e291f3 | echo
+paras en/fa: 3/2 | echo bigram: "چند روز"
+lex.audit: echo
+---FA---
+ببخشید رفقا. چند روز نتوانستم پست کنم چون بابام در I.C.U. بیمارستان است
+
+. ممکن است چند روز نامشخص نتوانم پست کنم.
+---EN---
+Sorry guys. Couldn't post from some days because my dad is in I.C.U. in Hospital
+
+. I
+
+may not able to post for uncertain few days.
+### amit_p5_123 hash=b637e2587cc015f494870edd71223297ac31df74 | echo
+paras en/fa: 5/5 | echo bigram: "چند روز"
+lex.audit: echo
+---FA---
+Amit،
+
+امیدوارم بابات زود بهبود یابد. نگران پست‌گذاشتن نباش. سلامت و خانواده اول است.
+
+بهترین‌ها. MO
+
+milkeyway نوشت: ببخشید رفقا. چند روز نتوانستم پست کنم چون بابام در I.C.U. بیمارستان است
+
+. ممکن است چند روز نامشخص نتوانم پست کنم.
+---EN---
+Amit,
+
+I hope your Dad makes a speedy recovery. Don't worry about posting. Health and family matters come first.
+
+All the best. MO
+
+milkeyway wrote: Sorry guys. Couldn't post from some days because my dad is in I.C.U. in Hospital
+
+. I may not able to post for uncertain few days.
+### amit_p9_203 hash=dd8df3d0436ee85282f7115054b11e8c92a1bd69 | paragraphs 3 / 2
+paras en/fa: 3/2 | echo bigram: ""
+lex.audit: 
+---FA---
+سلام Amit
+
+آماده بودم ریسک کنم و 100 لات بخرم که این اتفاق بیفتد. تبریک برای ارتقا!! کاملاً شایسته.
+---EN---
+Hi Amit
+
+I was prepared to take a risk and buy 100 lots that this was going to happen. Well done on the promotion!! Very well deserved.
+
+Regards In2forex

@@ -1,0 +1,469 @@
+=== if_p109_1 hash=1986e3ac540e5b9b2f554f26705fc201fab22260 author=Ifmyante
+EN: You know, it happens so rarely I've never made a contingency for it!
+
+I think you should take a look at the conversation in Zee's journa, and
+report backl. It may have been solved already by HCDE, but I'm a bit too
+ dizzy to navigate the charts right now.
+
+If it really is false PA, I'll be so excited! Something new to study
+FA: می‌دانی، این‌قدر کم پیش می‌آید که هرگز برایش نقشهٔ جایگزین نساخته‌ام!
+
+به نظرم بهتر است سری به گفت‌وگوی ژورنال Zee بزنی و برگردی گزارش بدهی. شاید HCDE تا حالا حلش کرده باشد، ولی الان سرم آن‌قدر گیج است که نمی‌توانم در نمودارها گشتی بزنم.
+
+اگر واقعاً PA جعلی باشد، کلی هیجان‌زده می‌شوم! یک چیز تازه برای مطالعه
+=== if_p109_2 hash=045aa033968964e56d0cec67eaaa93a17b590673 author=dengaima
+EN: Ifmyante, I wonder if this is right forum to ask the questions on my mind and to receive confirmation, but here goes :D
+
+For caps (RBD and DBR), do they need to engulf previous swings? for
+example engulf previous swing low in RBD and swing high in DBR.
+
+Also can breaking out of a flag, can it also be considered Caps as well??
+
+I noticed FTR, CAPS, FL are itself smaller flags in lower timeframes, correct?
+
+Also flag itself is PAZ.
+
+Basically we can trade Inside PAZ which is those boxes from bigger TFs
+
+And we can trade the break of PAZ(Flag from lower tf) on return to PAZ
+
+So many questions =)
+
+I am sorry
+FA: Ifmyante، نمی‌دانم این فروم جای درستی برای پرسیدن سؤال‌های ذهنم و گرفتن تأیید است یا نه، ولی خب بفرمایید :D
+
+برای CAPS‌ها (RBD و DBR)، آیا باید سوینگ‌های قبلی را اینگالف کنند؟ مثلاً در RBD سوینگ لو قبلی و در DBR سوینگ سقف قبلی.
+
+همچنین شکستن یک FL هم می‌تواند CAPS حساب شود؟؟
+
+متوجه شدم که FTR، CAPS، FL خودشان در تایم‌فریم‌های پایین‌تر FL‌های کوچک‌تری هستند، درست است؟
+
+همچنین خود FL PAZ است.
+
+اساساً می‌توانیم داخل PAZ معامله کنیم، همان باکس‌هایی که از TF‌های بزرگ‌تر می‌آیند
+
+و می‌توانیم شکست PAZ (FL از tf پایین‌تر) را در بازگشت به PAZ معامله کنیم
+
+این‌همه سؤال =)
+
+شرمنده‌ام
+=== if_p109_3 hash=05d9815234b209fe1e8ddd4eb44af1380a8f976a author=Ifmyante
+EN: "For caps (RBD and DBR), do they need to
+engulf previous swings? for example engulf previous swing low in RBD and
+ swing high in DBR.
+
+Also can breaking out of a flag, can it also be considered Caps as well??"
+
+If a cap has engulfed a FL, but has not reached the next one, that cap
+is PA, telling us that it will not hold price. LTF trades can be taken
+on return to it, but only with extremely clear PA.
+
+"I noticed FTR, CAPS, FL are itself smaller flags in lower timeframes, correct?"
+
+Yes.
+
+"Also flag itself is PAZ.
+
+Basically we can trade Inside PAZ which is those boxes from bigger TFs"
+
+Yes we can. In fact, nearly every trade we take is such.
+
+"And we can trade the break of PAZ(Flag from lower tf) on return to PAZ"
+
+This, I don't understand
+FA: «برای CAPS‌ها (RBD و DBR)، آیا باید سوینگ‌های قبلی را اینگالف کنند؟ مثلاً در RBD سوینگ لو قبلی و در DBR سوینگ سقف قبلی.
+
+همچنین شکستن یک FL هم می‌تواند CAPS حساب شود؟؟»
+
+اگر یک CAPS یک FL را اینگالف کرده باشد ولی به بعدی نرسیده باشد، آن CAPS خودش PA است و به ما می‌گوید قیمت را نگه نمی‌دارد. می‌توان در بازگشت به آن معاملهٔ LTF گرفت، ولی فقط با PA فوق‌العاده واضح.
+
+«متوجه شدم که FTR، CAPS، FL خودشان در تایم‌فریم‌های پایین‌تر FL‌های کوچک‌تری هستند، درست است؟»
+
+بله.
+
+«همچنین خود FL PAZ است.
+
+اساساً می‌توانیم داخل PAZ معامله کنیم، همان باکس‌هایی که از TF‌های بزرگ‌تر می‌آیند»
+
+بله می‌توانیم. راستش تقریباً هر معامله‌ای که می‌گیریم از همین جنس است.
+
+«و می‌توانیم شکست PAZ (FL از tf پایین‌تر) را در بازگشت به PAZ معامله کنیم»
+
+این یکی را نمی‌فهمم
+=== if_p109_4 hash=f5aa7d16e7a1de67588c557a2475c4fd8d68174a author=dengaima
+EN: The last question, I got the answer to it =)
+
+It is just infact a FTB, but in this case when talking about Caps, then its FTB to the caps and not to FTR ^^
+
+Awesome stuffs, I am truly lucky to be able learn what you have shared.
+FA: سؤال آخر، جوابش را خودم پیدا کردم =)
+
+راستش فقط یک FTB است، ولی در این مورد که دربارهٔ CAPS حرف می‌زنیم، FTB به سمت CAPS است نه به سمت FTR ^^
+
+عالی است، واقعاً خوش‌شانسم که می‌توانم آنچه به اشتراک گذاشته‌اید را یاد بگیرم.
+=== if_p109_5 hash=9484c349902c86ad3b077963afd515992c88150e author=Manu
+EN: Ifmyante wrote: I was so impressed by Manu's trading that I had to put it here!
+
+Thank you very much IF, it is a great honor for me. Your words encourage
+ me to continue learning and practicing even though I do not have all
+the time I would like. little by little.
+FA: Ifmyante نوشت: آن‌قدر از معاملهٔ Manu خوشم آمد که باید اینجا می‌گذاشتمش!
+
+خیلی ممنون IF، برایم افتخار بزرگی است. حرف‌هایت تشویقم می‌کند که یادگیری و تمرین را ادامه بدهم، هرچند آن‌قدر که دوست دارم وقت ندارم. کم‌کم.
+=== if_p109_6 hash=165a2964be0c8e388d86fc69fa7e82f5f7c2fa66 author=Ifmyante
+EN: Here's a pretty standard reply I write to PM'ed questions about reading price
+
+Responding to messages such as this:
+
+perhaps the reply should be more along the lines of
+FA: این هم پاسخ تقریباً استانداردی که به سؤال‌های PM‌شده دربارهٔ خواندن قیمت می‌نویسم
+
+در جواب پیام‌هایی مثل این:
+
+شاید جواب باید بیشتر این‌طور باشد
+=== if_p109_7 hash=0c705b7927413cc6911dde1c04fde330ff68f508 author=dengaima
+EN: Hello If=)
+
+I have a question:D
+
+I have wondered if institutions will ever go fakeout at their original positions?
+
+Would that be possible?
+
+Thank you, Dengaima
+FA: سلام If=)
+
+یک سؤال دارم:D
+
+همیشه برایم سؤال بوده که آیا مؤسسات هم ممکن است روزی روی پوزیشن‌های اصلی خودشان فیک‌اوت بزنند؟
+
+اصلاً ممکن است؟
+
+ممنون، Dengaima
+=== if_p109_8 hash=09e434fa35321cec8551bf8c2576126760e06a76 author=Ifmyante
+EN: Do you mean something like a diamond?
+FA: منظورت چیزی مثل یک Diamond است؟
+=== if_p109_9 hash=a7cfea18cfa5abf1eff5a7d3e97cb14389334495 author=dengaima
+EN: Hello If=)
+
+I have a question:D
+
+I have wondered if institutions will ever go fakeout at their original positions?
+
+Would that be possible?
+FA: سلام If=)
+
+یک سؤال دارم:D
+
+همیشه برایم سؤال بوده که آیا مؤسسات هم ممکن است روزی روی پوزیشن‌های اصلی خودشان فیک‌اوت بزنند؟
+
+اصلاً ممکن است؟
+=== if_p109_10 hash=0b73d4c141ac963bf26bd213868923fce47c7bfc author=HCDE
+EN: I think what he asks is something i've been wondering too: do the ITs
+can suffer for a limited time a potential loss to grab more orders, or
+do they get rid of their position before they do the fakeout, then
+fakeout to build a new position at that exact same place?
+
+I think that will be very complicated to answer for sure though...
+FA: حدس می‌زنم منظورش همان چیزی است که خودم هم به آن فکر کرده‌ام: آیا IT‌ها می‌توانند مدت محدودی ضرر بالقوه را تحمل کنند تا سفارش بیشتری جمع کنند، یا پیش از فیک‌اوت پوزیشنشان را می‌بندند و بعد فیک‌اوت می‌زنند تا در همان نقطهٔ دقیقاً یکسان پوزیشن تازه بسازند؟
+
+ولی به نظرم جواب قطعی دادن به این سؤال خیلی سخت است...
+=== if_p109_11 hash=74e98a105aee04d95d679262ae2dd480cbeca445 author=Ifmyante
+EN: As I see it, when they're approaching the line they're told to turn
+price on, they'll be doing all they can to go flat and reverse.
+
+There is no potential loss, as their bosses are the people who create
+every currency on the planet, bar three, out of thin air, giving them an
+ unlimited budget for their manipulations.
+
+This unlimited budget also allows them to keep any level they like unbroken
+FA: از دید من، وقتی به خطی نزدیک می‌شوند که دستور دارند قیمت را همان‌جا بچرخانند، هر کاری می‌کنند تا پوزیشن‌شان را ببندند و جهت را عوض کنند.
+
+ضرر بالقوه‌ای در کار نیست، چون رئیس‌هایشان همان کسانی‌اند که همهٔ ارزهای این کرهٔ خاکی، جز سه تا، را از هوا می‌سازند و بودجه‌ای بی‌حد برای دستکاری‌هایشان در اختیارشان می‌گذارند.
+
+همین بودجهٔ بی‌حد اجازه می‌دهد هر سطحی را که بخواهند نشکسته نگه دارند
+=== if_p109_12 hash=5a6e6ea880f09de698f2b978b45252ac629beac2 author=Ifmyante
+EN: dengaima wrote: Hello If=)
+
+I have a question:D
+
+I have wondered if institutions will ever go fakeout at their original positions?
+
+Would that be possible?
+
+Hee hee!
+
+Copy/pasting a question I don't understand won't help me understand it any better
+FA: dengaima نوشت: سلام If=)
+
+یک سؤال دارم:D
+
+همیشه برایم سؤال بوده که آیا مؤسسات هم ممکن است روزی روی پوزیشن‌های اصلی خودشان فیک‌اوت بزنند؟
+
+اصلاً ممکن است؟
+
+هه هه!
+
+کپی‌پیست کردن سؤالی که نمی‌فهمم کمکی به فهمیدنش نمی‌کند
+=== if_p109_13 hash=9232ff73d63aac54263ccbb9a02470562e3b59c4 author=dengaima
+EN: Ifmyante wrote:
+dengaima wrote: Hello If=)
+
+I have a question:D
+
+I have wondered if institutions will ever go fakeout at their original positions?
+
+Would that be possible?
+
+Hee hee!
+
+Copy/pasting a question I don't understand won't help me understand it any better
+
+Sorry for double posting.i was outside and internet wasn't good so I submitted accidentally 2 times.
+
+Anyway the question was related to origin of the move. What I mean is this.
+
+For example there is clean supply which is also origin of the down move.
+ When IT push the price back to the origin of the move, is it possible
+for them to suffer DD in order to catch people who trade like RTM
+masters and others who knows how to read the price?
+
+Oh and this scenario already has an engulf of FL from lower time frame.
+Which means if they FO, it would mean they would FO past the origin of
+the move then push the price down to bottom.
+
+I wonder if this clarifies my question:)
+
+Best regards, dengaima
+FA: Ifmyante نوشت:
+dengaima نوشت: سلام If=)
+
+یک سؤال دارم:D
+
+همیشه برایم سؤال بوده که آیا مؤسسات هم ممکن است روزی روی پوزیشن‌های اصلی خودشان فیک‌اوت بزنند؟
+
+اصلاً ممکن است؟
+
+هه هه!
+
+کپی‌پیست کردن سؤالی که نمی‌فهمم کمکی به فهمیدنش نمی‌کند
+
+ببخشید که دو بار پست کردم. بیرون بودم و اینترنت خوب نبود، برای همین اشتباهی 2 بار ثبت شد.
+
+به هر حال سؤال دربارهٔ مبدأ حرکت بود. منظورم این است.
+
+مثلاً یک عرضهٔ تمیز داریم که هم‌زمان مبدأ حرکت نزولی هم هست. وقتی IT‌ها قیمت را به مبدأ حرکت برمی‌گردانند، ممکن است برای گرفتن کسانی که مثل استادهای RTM معامله می‌کنند و دیگرانی که خواندن قیمت را می‌دانند، DD را تحمل کنند؟
+
+آه و این سناریو از قبل اینگالف یک FL از تایم‌فریم پایین‌تر را دارد. یعنی اگر FO کنند، معنایش این است که از مبدأ حرکت FO می‌کنند و بعد قیمت را تا کف پایین می‌برند.
+
+نمی‌دانم این سؤال را روشن کرد یا نه:)
+
+با احترام، dengaima
+=== if_p109_14 hash=5f262ddb31b76a671ab7f523db6b64056de8fb73 author=Ifmyante
+EN: Nope. Still too many possible meanings.
+
+Try drawing it
+FA: نه. هنوز معناهای ممکنش زیادی است.
+
+یک نمودار از آن بکش
+=== if_p109_15 hash=e8369cb32a062a17cf210c3124a224ce96d7adfd author=dengaima
+EN: Ifmyante wrote: Nope. Still too many possible meanings.
+
+Try drawing it
+
+haha =)
+
+I understand the feeling of reading something and not understanding it in context :D
+
+Here's the drawing. Hopefully its clear now :)
+FA: Ifmyante نوشت: نه. هنوز معناهای ممکنش زیادی است.
+
+یک نمودار از آن بکش
+
+هه‌ها =)
+
+حال خواندن چیزی و نفهمیدنش در بافت را درکت می‌کنم :D
+
+این هم نمودار. امیدوارم حالا روشن باشد :)
+=== if_p109_16 hash=780a47d4d8a1b6c4c11ea72d1745e387bd354d06 author=linos
+EN: Looks like thats really possible ,commonly if the MPL of that Supply is not hit.
+FA: به نظر می‌رسد واقعاً ممکن است، معمولاً اگر MPL آن عرضه لمس نشده باشد.
+=== if_p109_17 hash=93d3935998083dca5033b28669688e2c0c5d694b author=Ifmyante
+EN: Asked well and answered perfectly
+FA: خوب پرسیده شد و عالی جواب داده شد.
+=== if_p109_18 hash=df91fb47cb904ff7e011fd86bc478e27efeb2318 author=dengaima
+EN: Ifmyante wrote: Asked well and answered perfectly
+
+If that is the case, the only possibility to have high R:R is to wait
+for MPL, but those do not happen that often, as IT's need to collect a
+lot of orders before they would FO. Would you test the waters at Origin
+FTB,if PA allows so, even though u know MPL is not hit yet?
+FA: Ifmyante نوشت: خوب پرسیده شد و عالی جواب داده شد.
+
+اگر این‌طور باشد، تنها راه داشتن R:R بالا صبر کردن برای MPL است، ولی این‌ها چندان زیاد پیش نمی‌آیند، چون IT‌ها باید قبل از FO تعداد زیادی سفارش جمع کنند. با این حال اگر PA اجازه بدهد، آیا در FTB مبدأ محک می‌زنی، حتی با اینکه می‌دانی MPL هنوز لمس نشده؟
+=== if_p109_19 hash=9121737f4d88d22bfa683204fc3dc9665a8d20c8 author=dengaima
+EN: linos wrote: Looks like thats really possible ,commonly if the MPL of that Supply is not hit.
+
+Lol actually,after you mentioned it, I see the similar setup happening
+on XAUUSD now....Not really a FO past the ignored Demand, but close =)
+
+The origin of the move was from H4, but the real Origin of the move is
+from Daily chart =). I got another heureka moment thanks to this answer
+:)
+
+Eureka moment:
+
+The origin of the movement is according to its own respective timeframe.
+ For example in the chart below, the ignored Demand level can be
+considered as Origin of the move up from H4. However if you look at D1
+chart. It will be just a middle level :). Awesome stuffs. Everyday you
+find out something new :D
+FA: linos نوشت: به نظر می‌رسد واقعاً ممکن است، معمولاً اگر MPL آن عرضه لمس نشده باشد.
+
+خنده‌دار است؛ راستش بعد از اینکه گفتی، همین حالا یک ستاپ مشابه روی XAUUSD می‌بینم....دقیقاً FO از آن تقاضای نادیده‌گرفته نیست، ولی نزدیک است =)
+
+مبدأ حرکت از H4 بود، ولی مبدأ واقعی حرکت از نمودار روزانه است =). به لطف این جواب یک لحظهٔ یورکای دیگر هم پیدا کردم :)
+
+لحظهٔ یورکا:
+
+مبدأ هر حرکت بر اساس تایم‌فریم خودش تعیین می‌شود. مثلاً در نمودار زیر، سطح تقاضای نادیده‌گرفته‌شده را می‌توان مبدأ حرکت صعودی از H4 حساب کرد. ولی اگر نمودار D1 را نگاه کنی، فقط یک سطح میانی خواهد بود :). چیزهای عالی. هر روز چیز تازه‌ای کشف می‌کنی :D
+=== if_p109_20 hash=4ab45efd8ae56cf291ed99c12b50b0136b3fdd8f author=Ifmyante
+EN: Right. To answer a PM I got, which was
+
+"Is there any way to know how far will the retrace will happen after the break of the level?"
+
+No.It can retrace to any set of clean orders in the zone it's traveled through.
+
+Ideally it will travel all the way back for a QM at the MPL, or even
+break the H/L for a DM, but it often only retraces a short way, leaving
+the clean orders beyond for later.
+
+At each minor level it retraces to, we can take confirmed LTF trades,
+taking some profits to cover losses, letting some run to the HTF target,
+ should this be the depth of the RT
+FA: درست است. جواب یک PM که گرفتم این بود
+
+«آیا راهی هست که بدانیم بعد از شکست سطح، اصلاح تا کجا می‌رود؟»
+
+نه. می‌تواند تا هر مجموعه سفارش تمیزی در ناحیه‌ای که از آن عبور کرده، اصلاح کند.
+
+در حالت ایدئال تا انتها برمی‌گردد تا یک QM روی MPL بسازد، یا حتی H/L را برای یک DM می‌شکند، ولی اغلب فقط مسیر کوتاهی اصلاح می‌کند و سفارش‌های تمیزِ آن‌سوتر را برای بعد باقی می‌گذارد.
+
+در هر سطح فرعی که قیمت به آن برمی‌گردد، می‌توانیم معامله‌های تأییدشدهٔ LTF بگیریم، بخشی از سود را برای پوشش ضررها برداریم و بگذاریم بخشی تا تارگت HTF بدود، به شرطی که این عمق RT باشد
+=== if_p109_21 hash=7eb7c7658bd764b33a66d4f7738ce283baea640f author=bobyv87
+EN: So, does that means that you can't touch trade at the very MPL at each
+ minor level but instead we only look for confirmed LTF trades? Lets say
+ you have BSZ before each minor level, you can still TT it,
+
+is that right? I say that because you can rarely find good PA nowadays.Ifmyante wrote: Right. To answer a PM I got, which was
+
+"Is there any way to know how far will the retrace will happen after the break of the level?"
+
+No.It can retrace to any set of clean orders in the zone it's traveled through.
+
+Ideally it will travel all the way back for a QM at the MPL, or even
+break the H/L for a DM, but it often only retraces a short way, leaving
+the clean orders beyond for later.
+
+At each minor level it retraces to, we can take confirmed LTF trades,
+taking some profits to cover losses, letting some run to the HTF target,
+ should this be the depth of the RT
+FA: پس یعنی نمی‌توان درست روی MPL هر سطح فرعی معاملهٔ لمسی زد و تنها باید دنبال معامله‌های تأییدشدهٔ LTF گشت؟ فرض کن قبل از هر سطح فرعی یک BSZ داری، باز هم می‌شود TT کرد،
+
+درست است؟ این را می‌گویم چون این روزها به‌ندرت PA خوب پیدا می‌شود. Ifmyante نوشت: درست است. جواب یک PM که گرفتم این بود
+
+«آیا راهی هست که بدانیم بعد از شکست سطح، اصلاح تا کجا می‌رود؟»
+
+نه. می‌تواند تا هر مجموعه سفارش تمیزی در ناحیه‌ای که از آن عبور کرده، اصلاح کند.
+
+در حالت ایدئال تا انتها برمی‌گردد تا یک QM روی MPL بسازد، یا حتی H/L را برای یک DM می‌شکند، ولی اغلب فقط مسیر کوتاهی اصلاح می‌کند و سفارش‌های تمیزِ آن‌سوتر را برای بعد باقی می‌گذارد.
+
+در هر سطح فرعی که قیمت به آن برمی‌گردد، می‌توانیم معامله‌های تأییدشدهٔ LTF بگیریم، بخشی از سود را برای پوشش ضررها برداریم و بگذاریم بخشی تا تارگت HTF بدود، به شرطی که این عمق RT باشد
+=== if_p109_22 hash=8d8002075a98629364ddc67b68eef2cb05a246f7 author=Ifmyante
+EN: There's nothing wrong with waiting for PA, however rare it is!
+
+However, with experience, we can use approach PA for touch trades. The BSZ is the easiest of these to master
+FA: صبر کردن برای PA هیچ ایرادی ندارد، هر چقدر هم کم‌یاب باشد!
+
+ولی با تجربه می‌توان از PA نزدیک‌شدن برای معامله‌های لمسی استفاده کرد. BSZ ساده‌ترین این‌ها برای تسلط پیدا کردن است
+=== if_p109_23 hash=5767560496a656235edf9d54bffb1d3af0ef844a author=dengaima
+EN: Hello Ifmyante:D
+
+I am back with another question =)
+
+I noticed my explanations are not understandable therefore I went straight to draw a picture
+FA: سلام Ifmyante:D
+
+با یک سؤال دیگر برگشتم =)
+
+دیدم توضیح‌هایم قابل فهم نیست، پس مستقیم رفتم یک تصویر کشیدم
+=== if_p109_24 hash=07ea17068f309d704b66e1c5a135994618ecd642 author=HCDE
+EN: Ifmyante wrote: There's nothing wrong with waiting for PA, however rare it is!
+
+However, with experience, we can use approach PA for touch trades. The BSZ is the easiest of these to master
+
+Even when you catch sometimes a good trade thanks to approach PA (not
+easy at all!), then the problem becomes the TG... The good thing with
+quasimodo (even if they are an endangered specie!) is that it also gives
+ you a TG, with approach PA, the TG isn't so easy to find! The only help
+ is to use symmetry, but it's not easy at all!
+
+I have the probelm with AUDUSD right now, i'm long from the beggining of
+ yesterdays move, we hit a TG and now price is retracing, but i have
+absolutely no idea where it wants to go. If i check HTF i think it wants
+ a little bit upper but well, i don't really know! We'll see...
+FA: Ifmyante نوشت: صبر کردن برای PA هیچ ایرادی ندارد، هر چقدر هم کم‌یاب باشد!
+
+ولی با تجربه می‌توان از PA نزدیک‌شدن برای معامله‌های لمسی استفاده کرد. BSZ ساده‌ترین این‌ها برای تسلط پیدا کردن است
+
+حتی وقتی گاهی به لطف PA نزدیک‌شدن یک معاملهٔ خوب می‌گیری (که اصلاً آسان نیست!)، بعد مشکل TG می‌شود... نکتهٔ خوب کوازیمودو (حتی اگر گونه‌ای در حال انقراض باشند!) این است که TG هم می‌دهد؛ اما با PA نزدیک‌شدن، پیدا کردن TG چندان راحت نیست! تنها کمک، استفاده از تقارن است، که آن هم اصلاً آسان نیست!
+
+من الان با AUDUSD همین مشکل را دارم، از شروع حرکت دیروز لانگ هستم، به یک TG رسیدیم و حالا قیمت اصلاح می‌کند، ولی اصلاً نمی‌دانم کجا می‌خواهد برود. اگر HTF را چک کنم، فکر می‌کنم کمی بالاتر می‌خواهد، ولی خب واقعاً نمی‌دانم! ببینیم چه می‌شود...
+=== if_p109_25 hash=e461df602f2f2a3d2c3c9f381e3f33a0580f4e1c author=dengaima
+EN: Ifmyante
+
+Why did these Supply levels not really work =)
+
+I wonder If my reading is correct. Anyway I didn't like reactions...That's why I closed the trades with 3 pip win lol
+
+Price has arrived at Daily Supply level
+
+Price capped in H1 chart. I was not around when the price came back to Caps :/
+
+Another caps on M5 chart, I was waiting for entry at the caps level, but I did not have balls to TT it :(
+
+Here are my entries...I waited for price to consume or engulf the last
+Demand before entering, but it never went back to QM level in my first
+entry :/
+
+Second entry was my QM entry, but it was slow and then it was undecided.
+ I remember seeing Tyoon posting some chart, where if price ranges after
+ entering CPAZ, then it has possibibility to go opposite direction,
+thats why i closed second trade.
+
+I would appreciate if you give me some headsup and tips.
+
+Thank you, Dengaima
+
+PS. FFFUUUUU now its shorting...Well atleast its proving that I have grasped the elements of price reading
+FA: Ifmyante
+
+چرا این سطوح عرضه واقعاً جواب ندادند =)
+
+نمی‌دانم خواندنم درست است یا نه. به هر حال از واکنش‌ها خوشم نیامد... برای همین معامله‌ها را با 3 پیپ سود بستم، خخخ
+
+قیمت به سطح عرضهٔ روزانه رسیده است
+
+قیمت در نمودار H1 کپ شد. وقتی قیمت به CAPS برگشت، من پای نمودار نبودم :/
+
+یک CAPS دیگر روی نمودار M5، منتظر ورود در سطح CAPS بودم، ولی جسارتش را نداشتم که TT کنم :(
+
+این هم ورودهای من...صبر کردم قیمت آخرین تقاضا را مصرف یا اینگالف کند و بعد وارد شوم، ولی در ورود اولم هیچ‌وقت به سطح QM برنگشت :/
+
+ورود دومم ورود QM بود، ولی کند بود و بعد بی‌تصمیم شد. یادم می‌آید Tyoon نموداری پست کرد که اگر قیمت بعد از ورود به CPAZ رِنج بزند، احتمال دارد به جهت مخالف برود، برای همین معاملهٔ دوم را بستم.
+
+ممنون می‌شوم اگر کمی راهنمایی و نکته بدهی.
+
+ممنون، Dengaima
+
+پ.ن. FFFUUUUU حالا داره شورت می‌کنه...خب حداقل ثابت می‌کند که عناصر خواندن قیمت را گرفته‌ام

@@ -1,0 +1,14 @@
+{
+  "if_p113_18": {
+    "ok": false,
+    "issue": "acronym spelled out (CAPS)",
+    "why": "EN keeps the structural term \"CAPS\" (\"after testing of upper FL or CAPS\"); FA replaces it with the descriptive phrase «سقف‌های قیمتی», which drops the technical reference and turns a named RTM concept into a vague description.",
+    "fix": "بله، بعد ممکن است به مبدأ جنوب حرکت کند؟ شکستن E(FL) هم هنوز سد راه قیمت است و برای پیشروی به شمال، قیمت باید بعد از تست FL بالایی یا CAPS، به SR مربوط به E برگردد؟\n\nدرست می‌گویم؟"
+  },
+  "if_p113_22": {
+    "ok": false,
+    "issue": "invented padding",
+    "why": "EN ends at \"...guidance level and not to the pip precision.\"; FA appends a whole extra clause («برای من چند پیپ این‌ور و آن‌ور تفاوت مهمی نمی‌سازد») that has no counterpart in the source.",
+    "fix": "Andrew، من جانشینی برای FXTop نمی‌شناسم. FxTop هنوز بهترین منبع من است. ولی من از داده‌هایش فقط به‌عنوان سطح راهنما استفاده می‌کنم، نه با دقت پیپ.\n\nandrew519 نوشت: جانشینی برای fxtop سراغ داری؟"
+  }
+}

@@ -1,0 +1,424 @@
+### if_p98_1
+EN: I'm about to publish Part 2 of the Lite Course.
+
+Looking back on the two lessons, they really tell me at least, how to master the market!
+
+In the interest of self respect, we'll start the year's subscription today
+FA: همین حالا دارم بخش 2 دورهٔ Lite را منتشر می‌کنم.
+
+به این دو درس که نگاه می‌کنم، دست‌کم به من می‌گویند چطور بر بازار مسلط شویم!
+
+به احترام خودمان، اشتراک امسال را از امروز شروع می‌کنیم
+
+### if_p98_2
+EN: Hi IF, Im doing some PAZ scenario practice. I see B being hit before A
+ breaks on UJ Mth scale. Theoretically it would seem we could place an
+order to buy where there are clean orders in A, with a stop just beyond
+A's MPL with a TG just before the next set of clean orders (un met TG)
+in B. Happy to be corrected :)
+FA: سلام IF، دارم روی سناریوهای PAZ تمرین می‌کنم. می‌بینم در مقیاس ماهانهٔ UJ، B قبل از شکستن A زده می‌شود. از نظر تئوری به نظر می‌رسد می‌توانیم جایی که سفارش‌های تمیز در A هست سفارش خرید بگذاریم، با استاپ کمی آن‌سوی MPL نقطهٔ A و TG‌ی درست قبل از دستهٔ سفارش‌های تمیز بعدی (TG نزده) در B. خوشحال می‌شوم اصلاحم کنی :)
+
+### if_p98_3
+EN: Hey Edge, this is pretty interesting one alright. We are stuck in the
+ middle of PAZ. There is no clear PA anywhere. The upside has been
+head down by the SR kink, the downside has been held up by the Pre-CP.
+ I looked at all angle down to the H4 and discover that we did break an
+UFL to the left. But my thoughts are that price has more downward move
+ to go before climbing to break B. This is based on my previous life as
+an elliot wave person. But since it is not clear, it is best to let
+price tells us where it wants to go next. Until we get a clear reading
+on price, then it is best to move on to a cleaner pair. Just my
+thoughts.
+FA: سلام Edge، این یکی واقعاً جالب است. ما وسط PAZ گیر کرده‌ایم. هیچ PA روشنی هیچ‌جا نیست. سمت بالا با کینک SR سرکوب شده و سمت پایین با Pre-CP نگه داشته شده. از همه زوایا تا H4 نگاه کردم و فهمیدم که یک UFL در سمت چپ را شکسته‌ایم. ولی نظر من این است که قیمت پیش از بالا رفتن و شکستن B حرکت نزولی بیشتری دارد. این را بر پایهٔ زندگی قبلی‌ام به‌عنوان یک الیوت‌ویو‌کار می‌گویم. ولی چون روشن نیست، بهتر است بگذاریم قیمت خودش بگوید بعد کجا می‌خواهد برود. تا وقتی خوانش روشنی از قیمت نگیریم، بهتر است برویم سراغ یک جفت تمیزتر. فقط نظرم.
+
+### if_p98_4
+EN: gslao wrote: Hey Edge, this is
+pretty interesting one alright. We are stuck in the middle of PAZ.
+There is no clear PA anywhere. The upside has been head down by the SR
+kink, the downside has been held up by the Pre-CP. I looked at all
+angle down to the H4 and discover that we did break an UFL to the left.
+ But my thoughts are that price has more downward move to go before
+climbing to break B. This is based on my previous life as an elliot wave
+ person. But since it is not clear, it is best to let price tells us
+where it wants to go next. Until we get a clear reading on price, then
+it is best to move on to a cleaner pair. Just my thoughts.
+
+G,this reminds me of the discussions we had recently. You make a
+interesting and valid point. I didn't see the pre-cp as important
+because it did not breakout of a previous area such as the prior high.
+This is based on IFs point which I think is in Video 2 about a area he
+left out as breaking back into CP because it didn't engulf a prior area.
+ But You could be right as well my friend. So without that marked in, I
+see the last area EGd into space which has expanded the flag. Great
+point though. Got me thinking
+FA: gslao نوشت: سلام Edge، این یکی واقعاً جالب است. ما وسط PAZ گیر کرده‌ایم. هیچ PA روشنی هیچ‌جا نیست. سمت بالا با کینک SR سرکوب شده و سمت پایین با Pre-CP نگه داشته شده. از همه زوایا تا H4 نگاه کردم و فهمیدم که یک UFL در سمت چپ را شکسته‌ایم. ولی نظر من این است که قیمت پیش از بالا رفتن و شکستن B حرکت نزولی بیشتری دارد. این را بر پایهٔ زندگی قبلی‌ام به‌عنوان یک الیوت‌ویو‌کار می‌گویم. ولی چون روشن نیست، بهتر است بگذاریم قیمت خودش بگوید بعد کجا می‌خواهد برود. تا وقتی خوانش روشنی از قیمت نگیریم، بهتر است برویم سراغ یک جفت تمیزتر. فقط نظرم.
+
+G، این مرا یاد بحث‌های اخیرمان می‌اندازد. نکتهٔ جالب و معتبری می‌گویی. Pre-CP را مهم ندیدم، چون از ناحیهٔ قبلی مثل سقف پیشین بیرون نزده بود. این بر پایهٔ نکتهٔ IF است که فکر می‌کنم در ویدیوی 2 است، دربارهٔ ناحیه‌ای که آن را به‌عنوان برگشت به CP جا انداخته بود، چون ناحیهٔ قبلی را اینگالف نکرده بود. ولی تو هم ممکن است درست بگویی رفیقم. پس بدون آن علامت، آخرین ناحیه‌ای را می‌بینم که به فضای خالی EG شده و پرچم را گسترش داده. با این حال نکتهٔ خوبی بود. انداختی به فکر
+
+### if_p98_5
+EN: With all the chats I'm in, I have lots of catching up to do, and I don't remember in which chat I said what!
+
+I'm glad there's a lot of discussion in here, as I know where my journal is!
+
+I want to answer a question I get asked a lot:
+
+"In which timeframe do you trade?"
+
+There's no need to trade timeframes.
+
+Just trade high R instead, which could be on any scale.
+
+If price is at a nice weekly SR kink, which is only a few pips wide, or it's at the MPL of a larger kink, await M1 PA.
+
+If there's space in that TF to get >1R to the M1 approach kink, then
+take the trade, closing enough at tg1 to cover your stop, then allow
+price to either hit the weekly approach kink (watch PA there to see if
+you should close all or allow to run) or your stop.
+
+That's absolutely risk free trading!
+FA: با این‌همه چتی که در آن‌ها هستم، کلی عقب‌ماندگی دارم و یادم نمی‌آید در کدام چت چه گفتم!
+
+خوشحالم که اینجا کلی بحث هست، چون می‌دانم ژورنالم کجاست!
+
+می‌خواهم به سؤالی جواب بدهم که زیاد پرسیده می‌شود:
+
+«در چه تایم‌فریمی معامله می‌کنی؟»
+
+نیازی نیست تایم‌فریم‌ها را معامله کنی.
+
+فقط R بالا معامله کن، که می‌تواند در هر مقیاسی باشد.
+
+اگر قیمت روی یک کینک SR هفتگی خوب است که فقط چند پیپ عرض دارد، یا روی MPL یک کینک بزرگ‌تر است، منتظر PA در M1 بمان.
+
+اگر در آن TF فضایی هست که تا کینک نزدیک‌شوندهٔ M1 بیشتر از 1R بگیری، معامله را بردار، در tg1 به‌قدری ببند که استاپت پوشش داده شود، بعد بگذار قیمت یا به کینک نزدیک‌شوندهٔ هفتگی برسد (آنجا PA را ببین تا بدانی همه را ببندی یا بگذاری بدود) یا به استاپت.
+
+این معامله‌گری مطلقاً بی‌ریسکی است!
+
+### if_p98_6
+EN: Hey , IF I am just waiting for your words for last few days. you just
+ say "Hi!" and that will also encourage me to find new things in chart!
+FA: سلام، IF، چند روز است فقط منتظر حرف‌های تو هستم. تو فقط بگو «سلام!» و همین هم مرا تشویق می‌کند چیزهای تازه در نمودار پیدا کنم!
+
+### if_p98_7
+EN: I am so grateful IF for these excellent lessons. Though I am
+embrassed to say I am am not yet well versed with watching PA to allow a
+ continued run.As it is am confident with T1, the rest would still be a
+gamble for me.Can anyone share on how to do that correctly pretty
+please?
+FA: من از این درس‌های عالی خیلی ممنونم IF. با این‌که خجالت‌آور است بگویم، هنوز در دیدن PA برای اجازه دادن به ادامهٔ حرکت وارد نیستم. با T1 راحتم، بقیه‌اش برایم قمار می‌ماند. کسی می‌تواند لطفاً بگوید چطور این کار را درست انجام دهیم؟
+
+### if_p98_8
+EN: I found a rare pic of IF, Martin and Harry. They can argue, who is who.
+FA: یک عکس کمیاب از IF، Martin و Harry پیدا کردم. خودشان می‌توانند بحث کنند که کدام کدام است.
+
+### if_p98_9
+EN: Sorry for doing this IF, but you are to much of gentleman to bring
+peoples attention to this. I don't want to highlight or give any
+visibility to this swamp donkey but this has to be said
+
+A little while ago, a scumbag troll who had the audacity to claim it was
+ all about selling education over here at RTM has ironically started his
+ own selling service. A picture paints a thousand words. I think its
+obvious which one is IF's.
+
+Even if this hypocrite (I refuse to say his name - lets just call him
+Voldemort) recovers. The drawdown alone should preclude him from
+claiming to be a guru.
+
+I know who I would rather learn from. See below. Just saying!
+FA: ببخشید IF که این کار را می‌کنم، ولی تو زیادی نجیب‌تر از آنی که توجه مردم را به این جلب کنی. نمی‌خواهم به این الاغ باتلاقی دیده‌شدن بدهم، ولی این باید گفته شود
+
+چندی پیش، یک ترول آشغال که گستاخی‌اش گل کرده بود بگوید اینجا در RTM همه‌اش فروش آموزش است، طنزاً خودش یک سرویس فروش راه انداخته. یک عکس هزار حرف می‌زند. فکر می‌کنم واضح است کدام مال IF است.
+
+حتی اگر این ریاکار (حاضرم اسمش را نبرم - بگذاریم Voldemort صدایش کنیم) برگردد، همین دراودان باید مانع شود که خودش را گورو بنامد.
+
+من می‌دانم ترجیح می‌دهم از چه کسی یاد بگیرم. پایین را ببین. فقط گفتم!
+
+### if_p98_10
+EN: It's best not to worry about these low lifes.
+
+That guy came to RTM to sell his "self help" product, and fooled quite a few people, for a while.
+
+Let's just wish him the luck he deserves
+FA: بهتر است نگران این آدم‌های پست نباشیم.
+
+آن مرد به RTM آمد تا محصول «خودپرورشی» خودش را بفروشد و مدتی عدهٔ کمی را فریب داد.
+
+فقط برایش همان شانسی را بخواهیم که لایقش است
+
+### if_p98_11
+EN: linos wrote: I am so grateful IF
+ for these excellent lessons. Though I am embrassed to say I am am not
+yet well versed with watching PA to allow a continued run.As it is am
+confident with T1, the rest would still be a gamble for me.Can anyone
+share on how to do that correctly pretty please?
+
+I've just had this with my EU short. I'll post up chart when on laptop.
+Entry was to the pip. My original target was 53 but I bottled it and
+closed at 57.
+
+I pussy'd out and closed early. Fear of missing out.
+FA: linos نوشت: من از این درس‌های عالی خیلی ممنونم IF. با این‌که خجالت‌آور است بگویم، هنوز در دیدن PA برای اجازه دادن به ادامهٔ حرکت وارد نیستم. با T1 راحتم، بقیه‌اش برایم قمار می‌ماند. کسی می‌تواند لطفاً بگوید چطور این کار را درست انجام دهیم؟
+
+همین حالا با شورت EU خودم چنین چیزی داشتم. وقتی لپ‌تاپ را باز کردم نمودار را می‌گذارم. ورود مو به مو بود. هدف اولیه‌ام 53 بود، ولی جراتش را نداشتم و در 57 بستم.
+
+ترسیدم و زود بستم. ترس از دست دادن فرصت.
+
+### if_p98_12
+EN: Hi IF and everybody. I have often wondered if these candles marked in
+green on the chart means anything in the way IT`s talk to each other ?
+
+I know that they are candles that opened and closed at the same price –
+however I often see these candles at important places where we would
+look for PA.
+
+So my questions are.
+
+1. Are these the markers of a zone that will either hold or break ?
+
+2. If either broken or holding go to the next zone as a target ?
+
+3. Am I on a wild goose chase here ?
+
+4 Adding 2 pictures to get the whole view of the screen and rectangles
+
+Love to have input from everyone...
+
+Thanks
+
+Hans
+FA: سلام IF و همه. بارها از خودم پرسیده‌ام آیا این کندل‌هایی که با سبز روی نمودار علامت زده شده‌اند در زبان IT‌ها با هم معنایی دارند؟
+
+می‌دانم که این‌ها کندل‌هایی هستند که در یک قیمت باز و بسته شده‌اند – با این حال اغلب این کندل‌ها را در جاهای مهمی می‌بینم که دنبال PA می‌گردیم.
+
+پس سؤال‌هایم این‌هاست.
+
+1. آیا این‌ها نشانهٔ ناحیه‌ای هستند که یا نگه می‌دارد یا می‌شکند؟
+
+2. اگر شکست یا نگه داشت، ناحیهٔ بعدی به‌عنوان هدف؟
+
+3. آیا من دارم دنبال سرابی می‌دوم؟
+
+4 برای دیدن کل صفحه و مستطیل‌ها 2 تصویر اضافه می‌کنم
+
+خوشحال می‌شوم نظر همه را بشنوم...
+
+ممنون
+
+Hans
+
+### if_p98_13
+EN: Hans, in many of IF's videos he made absolutely clear that candles are
+ just part of the propaganda by the ITs to fool retailers. Look at
+levels, important S/R and their breaks.
+
+In regards to zone that breaks/holds or that can be targeted, please
+note price travels from FL to FL. hence PAZ to PAZ. I'm still working
+out on PAZ and scales. and found out, actually IF spilled it out in the
+lite course videos and also in youtube webinar April2015. Concept of
+"Pole and Flag" is a must.
+
+Should you be confused at anytime when looking at chart, reading a "Price Reading" article may help. :)
+FA: Hans، در بسیاری از ویدیوهای IF کاملاً روشن گفته که کندل‌ها فقط بخشی از پروپاگاندای IT‌ها برای فریب خرده‌معامله‌گرها هستند. به سطوح، S/R‌های مهم و شکست‌هایشان نگاه کن.
+
+دربارهٔ ناحیه‌ای که می‌شکند یا نگه می‌دارد یا می‌تواند هدف باشد، توجه کن که قیمت از FL به FL سفر می‌کند. یعنی از PAZ به PAZ. من هنوز روی PAZ و مقیاس‌ها کار می‌کنم و فهمیدم که IF در واقع آن را در ویدیوهای دورهٔ lite و همچنین وبینار یوتیوب آوریل 2015 لو داده. مفهوم «Pole and Flag» حتمی است.
+
+هر وقت هنگام نگاه به نمودار گیج شدی، خواندن مقالهٔ «Price Reading» می‌تواند کمک کند. :)
+
+### if_p98_14
+EN: Yup. Candles have no more importance than fibs and trendlines etc.
+
+The ITs sometimes create them intentionally, to get the forums bouncing in the wrong direction.
+
+It's like the news: Lies for misdirection
+FA: بله. کندل‌ها بیش از فیب‌ها و خطوط روند و امثال آن اهمیت ندارند.
+
+IT‌ها گاهی عمداً آن‌ها را می‌سازند تا فروم‌ها را به جهت اشتباه بیندازند.
+
+مثل اخبار است: دروغ‌هایی برای انحراف
+
+### if_p98_15
+EN: IF please confirm if my assumption is correct. Its regarding the FLs.
+You can draw a FL after it hits its target. We already know that and i
+think this was an eureka moment for me. I think i can say now when an LS
+ is important and when not, FOR PA, of course.
+
+Please take a look over this diagram. Its yours, but its a bit modified.
+ :) We can't say that we have PA once price engulf FL A, because we
+dont have another FL down, so we have to work with all the kinks from
+inside 2 and lower as they can react as possible targets. But what if
+price made an previous engulf at 3. If that is true we dont have to be
+aware of these little LS from inside 2 because ve have another FL from
+3. Am i right? Thank you!
+FA: IF لطفاً تأیید کن که فرضم درست است. دربارهٔ FL‌هاست. می‌توانی بعد از زدن هدف FL بکشی. این را قبلاً می‌دانیم و فکر می‌کنم برای من یک لحظهٔ اورکا بود. فکر می‌کنم حالا می‌توانم بگویم چه وقت یک LS مهم است و چه وقت نه، برای PA، البته.
+
+لطفاً نگاهی به این نمودار بینداز. مال خودت است، ولی کمی تغییرش داده‌ام. :) نمی‌توانیم بگوییم به‌محض این‌که قیمت FL A را اینگالف کرد PA داریم، چون FL دیگری پایین‌تر نداریم، پس باید با همهٔ کینک‌های داخل 2 و پایین‌تر کار کنیم، چون می‌توانند به‌عنوان هدف‌های احتمالی واکنش بدهند. ولی اگر قیمت قبلاً در 3 یک اینگالف کرده باشد چه؟ اگر این درست باشد، لازم نیست از این LS‌های کوچک داخل 2 باخبر باشیم، چون از 3 یک FL دیگر داریم. درست می‌گویم؟ ممنون!
+
+### if_p98_16
+EN: That's the kind of question i'm still fighting with too: how much it
+can retrace after ther break of a flag? And does the QM signifies that
+it's the end of that retrace?
+
+I think that even with the QM forming, it can actually retrace higher
+before it reaches its target south (to the Origin of the move / MPL for
+example), but I could really be wrong.
+FA: این همان نوع سؤالی است که من هم با آن درگیرم: بعد از شکست یک پرچم چقدر می‌تواند اصلاح کند؟ و آیا QM نشان می‌دهد که پایان آن اصلاح است؟
+
+فکر می‌کنم حتی با شکل‌گیری QM، می‌تواند پیش از رسیدن به هدف جنوبی‌اش (مثلاً مبدأ حرکت یا MPL) بالاتر اصلاح کند، ولی ممکن است واقعاً اشتباه کنم.
+
+### if_p98_17
+EN: HCDE wrote: That's the kind of
+question i'm still fighting with too: how much it can retrace after ther
+ break of a flag? And does the QM signifies that it's the end of that
+retrace?
+
+I think that even with the QM forming, it can actually retrace higher
+before it reaches its target south (to the Origin of the move / MPL for
+example), but I could really be wrong.
+
+then also BSZ can happen at OOM!
+FA: HCDE نوشت: این همان نوع سؤالی است که من هم با آن درگیرم: بعد از شکست یک پرچم چقدر می‌تواند اصلاح کند؟ و آیا QM نشان می‌دهد که پایان آن اصلاح است؟
+
+فکر می‌کنم حتی با شکل‌گیری QM، می‌تواند پیش از رسیدن به هدف جنوبی‌اش (مثلاً مبدأ حرکت یا MPL) بالاتر اصلاح کند، ولی ممکن است واقعاً اشتباه کنم.
+
+در آن صورت BSZ هم می‌تواند در OOM رخ بدهد!
+
+### if_p98_18
+EN: Hi , IF! RTM is full with price approach articles . shouldn't we consider any article for price distancing ?
+FA: سلام، IF! RTM پر از مقاله‌های price approach است. آیا نباید مقاله‌ای هم برای فاصله گرفتن قیمت در نظر بگیریم؟
+
+### if_p98_19
+EN: Ifmyante wrote: I'll be doing a lot of mind dumping in here for a while.
+
+Take nothing as a complete lesson unless I've said it is
+
+If your rectangle is above price, it must always be drawn from a low to the highest high on its right.
+
+If your rectangle is below price, it must always be drawn from an high to the lowest low on its right.
+
+To be tradeable, rectangles must cross lines drawn from highs and lows to the left
+
+A bit confused with this one... could someone be kind enough to show this with a drawing or chart?
+
+thanks
+FA: Ifmyante نوشت: تا مدتی اینجا کلی از افکارم را خالی می‌کنم.
+
+هیچ‌چیز را درس کامل ندان، مگر آن‌که خودم گفته باشم
+
+اگر مستطیلت بالای قیمت است، باید همیشه از یک کف تا بالاترین سقف سمت راستش کشیده شود.
+
+اگر مستطیلت زیر قیمت است، باید همیشه از یک سقف تا پایین‌ترین کف سمت راستش کشیده شود.
+
+برای این‌که قابل معامله باشد، مستطیل‌ها باید خطوطی را که از سقف‌ها و کف‌های سمت چپ کشیده می‌شوند قطع کنند
+
+کمی با این یکی گیجم... کسی می‌تواند لطف کند و این را با یک نقاشی یا نمودار نشان دهد؟
+
+ممنون
+
+### if_p98_20
+EN: IF - thanks a lot for lesson- BSZ. I used this lesson. It`s very important lesson. Thanks to you !
+FA: IF - خیلی ممنون برای درس BSZ. این درس را به کار بردم. درس خیلی مهمی است. ممنون از تو!
+
+### if_p98_21
+EN: IF. Lets say price come to an LS kink and as a reaction on that, it
+engulf a FL on the same scale as LS is. Can you still consider this PA
+to the next LS kink or FL? with puting your SL just above the LS kink
+from where price came from. I know in the lower scale is different
+because you put your SL above the entire kink, but same scale PA it
+confuse me a little bit! Thank you!
+FA: IF. فرض کن قیمت به یک کینک LS می‌رسد و در واکنش به آن، FL‌ی در همان مقیاس LS را اینگالف می‌کند. آیا هنوز این را PA تا کینک LS یا FL بعدی حساب می‌کنی؟ با گذاشتن SL درست بالای کینک LS که قیمت از آن آمده. می‌دانم در مقیاس پایین‌تر فرق دارد، چون SL را بالای کل کینک می‌گذاری، ولی PA در همان مقیاس کمی گیجم می‌کند! ممنون!
+
+### if_p98_22
+EN: I don't know how you look at this diagram , but real charts also have
+same story price can break Flags just to reach QM or MPL! and if no
+clean orders pending at this levels you can consider OOM (where diamond
+may occur -- BSZ will be almost same there.) as best opportunity.
+
+New UFL can easily engufled in this case.
+FA: نمی‌دانم تو چطور به این نمودار نگاه می‌کنی، ولی نمودارهای واقعی هم همین داستان را دارند: قیمت می‌تواند پرچم‌ها را فقط برای رسیدن به QM یا MPL بشکند! و اگر در این سطوح سفارش تمیزی در انتظار نباشد، می‌توانی OOM را (جایی که الماس ممکن است رخ بدهد -- BSZ آنجا تقریباً همان است.) بهترین فرصت بدانی.
+
+UFL تازه در این حالت به‌راحتی اینگالف می‌شود.
+
+### if_p98_23
+EN: bobyv87 wrote: IF please confirm
+ if my assumption is correct. Its regarding the FLs. You can draw a FL
+after it hits its target. We already know that and i think this was an
+eureka moment for me. I think i can say now when an LS is important and
+when not, FOR PA, of course.
+
+Please take a look over this diagram. Its yours, but its a bit modified.
+ :) We can't say that we have PA once price engulf FL A, because we
+dont have another FL down, so we have to work with all the kinks from
+inside 2 and lower as they can react as possible targets. But what if
+price made an previous engulf at 3. If that is true we dont have to be
+aware of these little LS from inside 2 because ve have another FL from
+3. Am i right? Thank you!
+
+You're essentially right.
+
+Once price breaks into a flag, it may or may not be PA.
+
+Should it not reach the next LS kink, then it's PA.
+
+If it does, it's not.
+
+Wherever there's space to the next target, there's PA
+FA: bobyv87 نوشت: IF لطفاً تأیید کن که فرضم درست است. دربارهٔ FL‌هاست. می‌توانی بعد از زدن هدف FL بکشی. این را قبلاً می‌دانیم و فکر می‌کنم برای من یک لحظهٔ اورکا بود. فکر می‌کنم حالا می‌توانم بگویم چه وقت یک LS مهم است و چه وقت نه، برای PA، البته.
+
+لطفاً نگاهی به این نمودار بینداز. مال خودت است، ولی کمی تغییرش داده‌ام. :) نمی‌توانیم بگوییم به‌محض این‌که قیمت FL A را اینگالف کرد PA داریم، چون FL دیگری پایین‌تر نداریم، پس باید با همهٔ کینک‌های داخل 2 و پایین‌تر کار کنیم، چون می‌توانند به‌عنوان هدف‌های احتمالی واکنش بدهند. ولی اگر قیمت قبلاً در 3 یک اینگالف کرده باشد چه؟ اگر این درست باشد، لازم نیست از این LS‌های کوچک داخل 2 باخبر باشیم، چون از 3 یک FL دیگر داریم. درست می‌گویم؟ ممنون!
+
+اصولاً درست می‌گویی.
+
+وقتی قیمت به داخل یک پرچم می‌شکند، ممکن است PA باشد یا نباشد.
+
+اگر به کینک LS بعدی نرسد، PA است.
+
+اگر برسد، نیست.
+
+هر جا تا هدف بعدی فضا باشد، PA هست
+
+### if_p98_24
+EN: kavya wrote: Hi , IF! RTM is full with price approach articles . shouldn't we consider any article for price distancing ?
+
+Like the engulf of the approach flag?
+
+That's all we need to know for PA trading
+FA: kavya نوشت: سلام، IF! RTM پر از مقاله‌های price approach است. آیا نباید مقاله‌ای هم برای فاصله گرفتن قیمت در نظر بگیریم؟
+
+مثل اینگالف پرچم نزدیک‌شونده؟
+
+همین تمام چیزی است که برای معامله‌گری PA باید بدانیم
+
+### if_p98_25
+EN: stevedxb wrote:
+Ifmyante wrote: I'll be doing a lot of mind dumping in here for a while.
+
+Take nothing as a complete lesson unless I've said it is
+
+If your rectangle is above price, it must always be drawn from a low to the highest high on its right.
+
+If your rectangle is below price, it must always be drawn from an high to the lowest low on its right.
+
+To be tradeable, rectangles must cross lines drawn from highs and lows to the left
+
+A bit confused with this one... could someone be kind enough to show this with a drawing or chart?
+
+thanks
+
+Please draw what you think you might understand from it, then I'll help out
+FA: stevedxb نوشت:
+Ifmyante نوشت: تا مدتی اینجا کلی از افکارم را خالی می‌کنم.
+
+هیچ‌چیز را درس کامل ندان، مگر آن‌که خودم گفته باشم
+
+اگر مستطیلت بالای قیمت است، باید همیشه از یک کف تا بالاترین سقف سمت راستش کشیده شود.
+
+اگر مستطیلت زیر قیمت است، باید همیشه از یک سقف تا پایین‌ترین کف سمت راستش کشیده شود.
+
+برای این‌که قابل معامله باشد، مستطیل‌ها باید خطوطی را که از سقف‌ها و کف‌های سمت چپ کشیده می‌شوند قطع کنند
+
+کمی با این یکی گیجم... کسی می‌تواند لطف کند و این را با یک نقاشی یا نمودار نشان دهد؟
+
+ممنون
+
+اول آن‌چه فکر می‌کنی از آن فهمیده‌ای را بکش، بعد من کمک می‌کنم

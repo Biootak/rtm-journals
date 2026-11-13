@@ -1,0 +1,135 @@
+### bsz_p4_76
+EN: Ok am just view using my phone never mind for now will see properly on my pc.
+FA: باشه، فعلاً با گوشی‌ام نگاه می‌کنم؛ مهم نیست، بعداً روی کامپیوترم درست می‌بینم.
+
+### bsz_p4_77
+EN: After seeing activity in those false highs I was very convinced there was an invisible kink in that wick, Its boundaries could only just be seen on the 10 second chart. Sadly MT4 and JF3 values often do not sync,so just had to do with a bigger box.
+FA: بعد از دیدن فعالیت در آن سقف‌های کاذب کاملاً قانع شده بودم که در آن سایه یک شکستگی نامرئی هست؛ مرزهایش فقط روی چارت 10 ثانیه‌ای دیده می‌شد. متأسفانه مقادیر MT4 و JF3 معمولاً سینک نمی‌شوند، پس باید با یک باکس بزرگ‌تر سر می‌کردم.
+
+### bsz_p4_78
+EN: Just found this gem. www.readthemarket.com/index.php/en/forum...3-if?start=900#36483 this is a perfect example of BSZ where price hit an MPL. Some of the members have already given their analyses, though. www.readthemarket.com/index.php/en/forum...3-if?start=900#36489 www.readthemarket.com/index.php/en/forum...3-if?start=900#36496 www.readthemarket.com/index.php/en/forum...3-if?start=900#36587
+
+Here is my chart just for a quick outlook
+FA: همین الان این جواهر را پیدا کردم. www.readthemarket.com/index.php/en/forum...3-if?start=900#36483 این نمونهٔ بی‌نقصی از BSZ است که قیمت به MPL خورد. البته بعضی از اعضا تحلیل‌هایشان را داده‌اند. www.readthemarket.com/index.php/en/forum...3-if?start=900#36489 www.readthemarket.com/index.php/en/forum...3-if?start=900#36496 www.readthemarket.com/index.php/en/forum...3-if?start=900#36587
+
+این هم چارت من، فقط برای یک نگاه سریع
+
+### bsz_p4_79
+EN: what determines PA compared to candle activity. I see price move into a level but people say there is no PA. WHY? anybody know please explain.
+FA: چه چیزی PA را نسبت به رفتار کندل تعیین می‌کند؟ می‌بینم قیمت به سطحی می‌رود اما مردم می‌گویند PA نیست. چرا؟ کسی می‌داند، لطفاً توضیح دهد.
+
+### bsz_p4_80
+EN: In order to have PA, there needs to be an ENGULF of a FL to the left that is important. Without an ENGULF of an important FL there is NO PA. Secondly, the ENGULF must not hit target otherwise, there is no PA either.
+FA: برای داشتن PA، باید اینگالف یک FL مهم در سمت چپ باشد. بدون اینگالف یک FL مهم، PA وجود ندارد. دوم، اینگالف نباید به تارگت بخورد، وگرنه آن هم PA نیست.
+
+### bsz_p4_81
+EN: Worthy of note and or discussion: This Chart replicated from the original CHART by IF:
+FA: شایستهٔ توجه و/یا بحث: این چارت از چارت اصلی IF بازتولید شده است:
+
+### bsz_p4_82
+EN: linos wrote: Worthy of note and or discussion: This Chart replicated from the original CHART by IF:
+
+Nice one Linos. IMHO I think this sums up why BSZ trading is a great way to start out, even without PA (how Gregg mentioned) it allows a entry. BUT the win rate and R will be less than the other methods. Man that Diagram just illustrates it better than any words. Lovely
+FA: linos نوشت: شایستهٔ توجه و/یا بحث: این چارت از چارت اصلی IF بازتولید شده است:
+
+کارت درست بود Linos. به نظر من این دقیقاً جمع‌بندی می‌کند چرا معاملهٔ BSZ راه عالی برای شروع است؛ حتی بدون PA (همان‌طور که Gregg گفت) اجازهٔ ورود می‌دهد. اما نرخ برد و R کمتر از روش‌های دیگر خواهد بود. مرد، آن دیاگرام بهتر از هر حرفی این را نشان می‌دهد. عالی بود
+
+### bsz_p4_83
+EN: You know thats kinda true, the BSZ should be the begginner s setup as ts not as complicated. I have noticed that if you are trading a BSZ into an LSK, you really need to get the LS right. I sometimes wish we could start a thread on valid LSes only, maybe post hundreds of examples while at it hmmmmm
+FA: می‌دانی، این تا حدی درست است؛ BSZ باید ستاپ مبتدی باشد چون آن‌قدرها پیچیده نیست. متوجه شده‌ام اگر یک BSZ را به یک LSK معامله می‌کنی، واقعاً باید LS را درست بگیری. گاهی آرزو می‌کنم کاش می‌توانستیم تایی دربارهٔ LSهای معتبر باز کنیم، شاید صدها نمونه هم آنجا پست کنیم، هوممممم
+
+### bsz_p4_84
+EN: Yes quite True Linos. The only thing I would say is that because we do not need PA, the trade off is that we ought to really be looking at the approach and the clean orders we are leaning on. for example, lets use a 2DT example. even without space we can take the trade back to the 2DT kink
+
+BUT
+
+We need to be comfortable with the approach and reaction at our FL we are leaning on, plus they need to contain clean orders. So the trade off here is not having to worry so much about the space (as per diagram - QM has hit target) but we have to be more cautious than we ordinarily would with the approach and reaction.
+
+Over at RTMA last year we had some discussions about scenario analysis which helps in these type of situations
+FA: بله کاملاً درست است Linos. تنها چیزی که می‌گویم این است که چون به PA نیاز نداریم، در عوض باید واقعاً به رویکرد و سفارش‌های تمیزی که به آن‌ها تکیه می‌کنیم نگاه کنیم. مثلاً یک نمونهٔ 2DT: حتی بدون فاصله می‌توانیم معامله را تا شکستگی 2DT بگیریم
+
+اما
+
+باید با رویکرد و واکنش در FLی که به آن تکیه می‌کنیم راحت باشیم، به‌علاوه باید سفارش‌های تمیز داشته باشند. پس معاوضه اینجا این است که لازم نیست آن‌قدر نگران فاصله باشیم (طبق دیاگرام - QM به تارگت خورده) ولی باید نسبت به رویکرد و واکنش محتاط‌تر از حد معمول باشیم.
+
+سال گذشته در RTMA بحث‌هایی دربارهٔ تحلیل سناریو داشتیم که در این نوع موقعیت‌ها کمک می‌کند
+
+### bsz_p4_85
+EN: linos wrote: You know thats kinda true, the BSZ should be the begginner s setup as ts not as complicated. I have noticed that if you are trading a BSZ into an LSK, you really need to get the LS right. I sometimes wish we could start a thread on valid LSes only, maybe post hundreds of examples while at it hmmmmm
+
+I think it's a great idea to start a thread on Left Shoulders. I find it difficult as well to find valid LS on the chart, while they should be very easy to spot. I would be more than happy to only play Left Shoulders and add some extra tools along the way. I'll open up a thread later on today with some examples of what I think are valid LS if people are interested in that.
+FA: linos نوشت: می‌دانی، این تا حدی درست است؛ BSZ باید ستاپ مبتدی باشد چون آن‌قدرها پیچیده نیست. متوجه شده‌ام اگر یک BSZ را به یک LSK معامله می‌کنی، واقعاً باید LS را درست بگیری. گاهی آرزو می‌کنم کاش می‌توانستیم تایی دربارهٔ LSهای معتبر باز کنیم، شاید صدها نمونه هم آنجا پست کنیم، هوممممم
+
+فکر می‌کنم باز کردن تایی دربارهٔ Left Shoulders ایدهٔ عالی است. من هم پیدا کردن LS معتبر روی چارت برایم سخت است، در حالی که باید خیلی راحت دیده شوند. بیشتر از خوشحال می‌شوم فقط Left Shoulders بازی کنم و در مسیر چند ابزار اضافه کنم. امروز بعداً تایی باز می‌کنم با چند نمونه از آنچه فکر می‌کنم LS معتبر است، اگر کسی علاقه دارد.
+
+### bsz_p4_86
+EN: So when would one say that an LS was spiked on the way away.I still trade them anyway, but I would like to be enlightened here guys:
+FA: پس کِی می‌شود گفت یک LS در مسیر دور شدن اسپایک شده است. من به هر حال معامله‌شان می‌کنم، ولی دوست دارم اینجا بچه‌ها روشنم کنند:
+
+### bsz_p4_87
+EN: So when would one say that an LSK was spiked on the way away.I still trade them anyway, but I would like to be enlightened here guys:
+FA: پس کِی می‌شود گفت یک LSK در مسیر دور شدن اسپایک شده است. من به هر حال معامله‌شان می‌کنم، ولی دوست دارم اینجا بچه‌ها روشنم کنند:
+
+### bsz_p4_88
+EN: Hi Linos, I don't understand your question, may you be more explicit?
+FA: سلام Linos، سؤالت را نمی‌فهمم، می‌شود واضح‌تر بگویی؟
+
+### bsz_p4_89
+EN: another BSZ found in IF's journal
+
+Kanzler wrote:
+
+Note QM level overlaps the rst FTR on the way down, which is the result of price engulng the FTR on the way up (the rst high).
+FA: یک BSZ دیگر در ژورنال IF پیدا شد
+
+Kanzler نوشت:
+
+توجه کن سطح QM با اولین FTR در مسیر پایین هم‌پوشانی دارد، که نتیجهٔ اینگالف کردن FTR توسط قیمت در مسیر بالا است (همان اولین سقف).
+
+### bsz_p4_90
+EN: Hello this is a BSZ i found on AUD/NZD
+FA: سلام، این یک BSZ است که روی AUD/NZD پیدا کردم
+
+### bsz_p4_91
+EN: Another BSZ on CAD/CHF
+
+[attachment=59566]
+FA: یک BSZ دیگر روی CAD/CHF
+
+[attachment=59566]
+
+### bsz_p4_92
+EN: Another example of BSZ but its a bit shady as you will see...Thank you for any comments
+FA: نمونهٔ دیگری از BSZ، ولی همان‌طور که می‌بینی کمی مشکوک است... ممنون بابت هر نظری
+
+### bsz_p4_93
+EN: Hey kloyster, somethings I see on part of your chart:
+FA: هی kloyster، چیزهایی که در بخشی از چارتت می‌بینم:
+
+### bsz_p4_94
+EN: Linos: great eye, thank you.
+FA: Linos: چشم تیزی داری، ممنون.
+
+### bsz_p4_95
+EN: Hi, i am continuing with my BSZ HW
+FA: سلام، من دارم تکلیف BSZ‌ام را ادامه می‌دهم
+
+### bsz_p4_96
+EN: From my journal.
+
+In next chart there are two highs perfectly simetrics and a fresh supply zone above
+
+one year later, the first time back. Notice how price engulf those highs to the BSZ and touch the supply and react. Massive return.
+FA: از ژورنال خودم.
+
+در چارت بعدی دو سقف کاملاً متقارن هست و یک ناحیهٔ عرضهٔ تازه بالای آن
+
+یک سال بعد، اولین بازگشت. ببین چطور قیمت آن سقف‌ها را تا BSZ اینگالف می‌کند و به عرضه می‌خورد و واکنش می‌دهد. بازدهی عظیم.
+
+### bsz_p4_98
+EN: another example
+FA: نمونهٔ دیگر
+
+### bsz_p4_100
+EN: Nice one Josh. Triple bottom and price blasts past it with a heavy push into your level grabbing those stops and enticing the BO traders. The strong push into the area is very important after the formations of the highs/lows. Nice one. Only question would be, is it at least 1R? Great work
+FA: کارت درست بود Josh. کف سه‌گانه و قیمت با یک فشار سنگین از آن عبور می‌کند به سمت سطح تو، آن استاپ‌ها را می‌گیرد و تریدرهای BO را فریب می‌دهد. فشار قوی به داخل ناحیه بعد از تشکیل سقف‌ها/کف‌ها خیلی مهم است. خوب بود. تنها سؤال این است که آیا حداقل 1R هست؟ کار عالی

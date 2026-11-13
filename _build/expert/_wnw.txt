@@ -1,0 +1,386 @@
+=== ID: whynotwork_p1_1 | HASH: 346cd759c14aaafff824c8874db1f56d272ada8d | AUTHOR: khivraj | PARAS: 5
+  [0] Hello all!
+  [1] Newbie here, getting my feet wet with RTM concepts.
+  [2] I am sure that in every trader's journey there have been instances when setups have failed miserably but he hasn't been able to find out why; and he keeps repeating the same mistakes again and again not knowing where he is wrong.
+  [3] I am also going through the same phase where "what is supposed to happen" is not happening and I am struggling to see if there is anything I am getting wrong concept wise or whether its just one of the losses that would occur based on probability.
+  [4] Any help from fellow traders is highly appreciated.
+=== ID: whynotwork_p1_2 | HASH: eabca62d79c04cf30b839316145d7cff4558a0e9 | AUTHOR: khivraj | PARAS: 4
+  [0] Currently having trouble with the concept of Engulfing.
+  [1] From my understanding: If an FTR breaks (engulfed), then price will retrace (maybe) and go to the next FTR in the direction of the engulf.
+  [2] But I am noticing again and again that that's not the case. Should I be using this concept along with some other rules combined?
+  [3] Some of the trade ideas from today are attached.
+=== ID: whynotwork_p1_3 | HASH: 0e71f2ec2637088a48b73be14585043dad81cc08 | AUTHOR: sev87 | PARAS: 4
+  [0] FTR that got engulfed actually not engulfed yet, if you go to the LTF you can see the real FTR not engulfed ( M30 )
+  [1] i put an FTR there because theres a break on low on the left so its an FTR there.
+  [2] FTR formed after break the last low, so if there nothing break the last low its not FTR
+  [3] sry for my english, but i think you got the idea. Hope its help
+=== ID: whynotwork_p1_4 | HASH: 8ac39aaab56d8a6c3ac0697e27ace27e713d1247 | AUTHOR: khivraj | PARAS: 4
+  [0] Sev87
+  [1] Thanks for the reply!
+  [2] I understood the issue with NZDUSD trade - There was another zone which was not very evident on 1H, but more clear on LTF - and price didnt break it.
+  [3] For the USDCHF trade I didnt understand what you wanted to say. Why is my marked area not an FTR? Price broke resistance (around FL level); it retraced back, formed a base and made a higher high. So by definition, isnt that an FTR?
+=== ID: whynotwork_p1_5 | HASH: 6a8845c651e4de02f5844e5dc173432de07a7f04 | AUTHOR: sev87 | PARAS: 2
+  [0] you mean that one on the rectangle?
+  [1] its FTR but tested once and engulfed after FTB. sorry my bad, i forgot to mark that FTR, because i thought you are asking the reaction on the right side.
+=== ID: whynotwork_p1_6 | HASH: d81acddc71c6497d63dd77bf059fbc537ebb74e3 | AUTHOR: hansma | PARAS: 5
+  [0] khivraj wrote: Currently having trouble with the concept of Engulfing.
+  [1] From my understanding: If an FTR breaks (engulfed), then price will retrace (maybe) and go to the next FTR in the direction of the engulf.
+  [2] But I am noticing again and again that that's not the case. Should I be using this concept along with some other rules combined?
+  [3] Some of the trade ideas from today are attached.
+  [4] You are missing the bigger picture here - what you thought an engulf have already hit its target...Always look further to the left to see what the "eng" is a reaction to.
+=== ID: whynotwork_p1_7 | HASH: a06ac157b273df03fa60faef7a78dd0e20f11045 | AUTHOR: sev87 | PARAS: 8
+  [0] hansma wrote:
+  [1] khivraj wrote: Currently having trouble with the concept of Engulfing.
+  [2] From my understanding: If an FTR breaks (engulfed), then price will retrace (maybe) and go to the next FTR in the direction of the engulf.
+  [3] But I am noticing again and again that that's not the case. Should I be using this concept along with some other rules combined?
+  [4] Some of the trade ideas from today are attached.
+  [5] You are missing the bigger picture here - what you thought an engulf might already have hit its target...
+  [6] correct me if im wrong, but actually it hits the flag limit right?
+  [7] is the flag limit is on the rectangle 1 or 2?
+=== ID: whynotwork_p1_8 | HASH: 2af9fe43bed7b9acbb941df8f324c48b205b1961 | AUTHOR: hansma | PARAS: 1
+  [0] 1 its the swab flag
+=== ID: whynotwork_p1_9 | HASH: b2ddf4fa35e34209365e4da0739edfe1df920b91 | AUTHOR: sev87 | PARAS: 2
+  [0] hansma wrote: 1 its the swab flag
+  [1] thanks hans
+=== ID: whynotwork_p1_10 | HASH: 5d45908f8dab8b8468d697ef1ab8a6848fe8f2f7 | AUTHOR: khivraj | PARAS: 1
+  [0] Thanks Sev87 & Hansma. Makes sense.
+=== ID: whynotwork_p1_11 | HASH: 66496cf82c2dcc11e9688073ae0580b823ad29ad | AUTHOR: khivraj | PARAS: 6
+  [0] Hi all,
+  [1] Thinking about the discussions on earlier charts, I got into a similar engulf related trade yesterday.
+  [2] Now, depending on how big or small you mark your levels, it can be argued that a target is hit or not.
+  [3] From the below USDCHF charts, the way I usually mark my levels (till top of body) I was expecting a move down. But if I mark till candle high, It can be argued that the move down was completed.
+  [4] How does everyone approach situation like this?
+  [5] Also can someone tell me why my marked FTR was engulfed so easily?
+=== ID: whynotwork_p1_12 | HASH: 03d21f83893cf33104dce0450f9533a4707f6132 | AUTHOR: sev87 | PARAS: 3
+  [0] for me, i always go to the higher timeframe or lower timeframe to find better view in my chart.
+  [1] in this case its engulf that H1 FTR, but if you go to the HTF you can see FTR that got engulfed is not a significant one.
+  [2] each FTR has it own importance, so not every FTR is important
+=== ID: whynotwork_p1_13 | HASH: bd988d2930e8766f619f22f605368a1f84cb0146 | AUTHOR: khivraj | PARAS: 3
+  [0] When I mark a FL on 1H (my trading TF) I make sure to mark only those that break an SR on 4H so that I can get major/better quality levels.
+  [1] For instance the one marked below in blue box. But instead of bouncing from this, it went further to a zone (marked in red) that is not really an important level IMO.
+  [2] Am i reading this right?
+=== ID: whynotwork_p1_14 | HASH: b7d1daa7a6eacd32b9c50ea22fcb878200551eba | AUTHOR: sev87 | PARAS: 1
+  [0] in my perspective im gonna mark that red box to become FL, sometimes FL can below or above SR level, sometimes it can exactly at the SR.
+=== ID: whynotwork_p1_15 | HASH: 267aa35d64159d7ae6018761edd0627362612273 | AUTHOR: khivraj | PARAS: 2
+  [0] sev87 wrote: in my perspective im gonna mark that red box to become FL, sometimes FL can below or above SR level, sometimes it can exactly at the SR.
+  [1] But shouldnt the preference be given to the FL that's breaking the major SR (blue box) rather than the one above or below it?
+=== ID: whynotwork_p1_16 | HASH: 9b5e0a93dc4f691d3cef6550cc3784065f70f036 | AUTHOR: fxeyes | PARAS: 1
+  [0] Here's how I see it, hope the chart makes sense. Personally I like looking for the swapped FLs. If you looked at it that way, then the FL you drew wouldn't have been the significant one. Also if you're unsure, you can wait for confirmation, which it gave beautifully. I wouldn't have known this is where would have turned lower, as it looks like there might be more orders above, so I would have taken TG1 around 1.80000 and hope that will just continue down.
+=== ID: whynotwork_p1_17 | HASH: f776a556128391777675caf13580f742e68e004d | AUTHOR: khivraj | PARAS: 1
+  [0] Thanks fxeyes for that. Its making a little sense but its still confusing. From what I understand, you have marked FL at 4 timeframes - 1H, 15M, 4M, 1M. You have used 3 colored boxes - blue, red, green - what does that signify? Also, what do you mean by you look only at swapped FLs?
+=== ID: whynotwork_p1_18 | HASH: 46bf71a53f976fbc642657c42203c58f499730a7 | AUTHOR: fxeyes | PARAS: 2
+  [0] khivraj wrote: Thanks fxeyes for that. Its making a little sense but its still confusing. From what I understand, you have marked FL at 4 timeframes - 1H, 15M, 4M, 1M. You have used 3 colored boxes - blue, red, green - what does that signify? Also, what do you mean by you look only at swapped FLs?
+  [1] Blue is a long FL, red is a short FL, green is a zone to look for a trade, usually a LTF set of orders (the green zone is personal thing of mines, i don't think anyone else uses a green zone). You can see the Blue FLs swap to a Red FL and vice versa, as the FLs are getting broken. Imagine an FL is an area where a transaction is made to hold price up and down. When all the orders in that FL are cleared, the FL gets broken, another transaction is created to hold price the other way. So the FLs swap as they get broken.
+=== ID: whynotwork_p1_19 | HASH: 97f0ec9b3f6ca0dc8567d14c53f583e28734b795 | AUTHOR: khivraj | PARAS: 2
+  [0] @fxeyes
+  [1] Thanks!
+=== ID: whynotwork_p1_20 | HASH: 8630f6d61d7c489f974a1c90d3049ac204196e91 | AUTHOR: khivraj | PARAS: 1
+  [0] Took my very first QM trade and it failed miserably. I thought everything lined up with the concepts. Any idea?
+=== ID: whynotwork_p1_21 | HASH: b99361eae072f86870d7e2259ee68fc0584cf2ff | AUTHOR: Edge | PARAS: 1
+  [0] Hi K, I cant see how that area EG is really that important. There is a big flag where the mouth kink may be higher I am away from charts so cant see., What makes you like that particular EG. Even if it was the SRK of the flag, even after breaking back in, its hit a TG area. I see no usable EG to trade
+=== ID: whynotwork_p1_22 | HASH: 215669368eb1a754545387f7e4eadafdb1013c7c | AUTHOR: khivraj | PARAS: 2
+  [0] Edge wrote: Hi K, I cant see how that area EG is really that important. There is a big flag where the mouth kink may be higher I am away from charts so cant see., What makes you like that particular EG. Even if it was the SRK of the flag, even after breaking back in, its hit a TG area. I see no usable EG to trade
+  [1] I took that trade not due to engulf but due to the quasimodo structure that formed. Took an entry at the left shoulder level. Am i understanding QM correctly?
+=== ID: whynotwork_p1_23 | HASH: 5454aff0fe6e8e4e5a5e3a0665d2d87a7f423ccb | AUTHOR: fxeyes | PARAS: 4
+  [0] khivraj wrote:
+  [1] Edge wrote: Hi K, I cant see how that area EG is really that important. There is a big flag where the mouth kink may be higher I am away from charts so cant see., What makes you like that particular EG. Even if it was the SRK of the flag, even after breaking back in, its hit a TG area. I see no usable EG to trade
+  [2] I took that trade not due to engulf but due to the quasimodo structure that formed. Took an entry at the left shoulder level. Am i understanding QM correctly?
+  [3] There is no Quasimodo without an engulf with space. Rewatch the video and focus on how IF reiterates that part throughout the vid. The structure isn’t as important as the engulf itself
+=== ID: whynotwork_p1_24 | HASH: a5bd03a095e9165c5b23e0d12da49826e951bbec | AUTHOR: sev87 | PARAS: 3
+  [0] my advice:
+  [1] stop here and go back to learn FL.
+  [2] FL is the most crucial material to learn and im struggling with this. if you learn FL and its variation its easier to learn the rest
+=== ID: whynotwork_p1_25 | HASH: 6031a192b09d7326700bc5128d82ef407eeb94bc | AUTHOR: khivraj | PARAS: 4
+  [0] Now I know that there are no such things as 'Stop hunts' when we are trading Supply & Demand. But I experienced something similar today with this trade taken on 1H. Since there HAS to be something I missed, going to 15M reveals a kink that (on hindsight) may have been the reason to price crossing the level.
+  [1] If that is true, then why is it that a higher TF (1H) RBD level is not given preference over a lower TF (15M) DBD level that too unimportant as no major SR passing through it?
+  [2] Also how do you consider which LTF levels are important and which arent? Say if I am trading 1H and go to 5M or 15M to mark every kink, my charts will be filled with levels everywhere
+  [3] My "Why did it not work?" thread.
+=== ID: whynotwork_p2_26 | HASH: 7aeb7675ce52e1712bb86b534dc070a8e32bf49f | AUTHOR: fxeyes | PARAS: 4
+  [0] khivraj wrote: Now I know that there are no such things as 'Stop hunts' when we are trading Supply & Demand. But I experienced something similar today with this trade taken on 1H. Since there HAS to be something I missed, going to 15M reveals a kink that (on hindsight) may have been the reason to price crossing the level.
+  [1] If that is true, then why is it that a higher TF (1H) RBD level is not given preference over a lower TF (15M) DBD level that too unimportant as no major SR passing through it?
+  [2] Also how do you consider which LTF levels are important and which arent? Say if I am trading 1H and go to 5M or 15M to mark every kink, my charts will be filled with levels everywhere
+  [3] IMO a stop hunt is exactly what happened (they took your stop). You’ll see stuff like this all the time, where price FOs a high into true S/D. This is part of what you learn from RTM, how spot these “fake” S/D zones and trade at the stop zones. When I look at this chart the H1 zone you drew doesn’t look important at all, but the M15 zone does. 2 reasons. First it’s a DP, where price decided to break down. Second, if you look left on the H1 it appears to line up with some highs (you’ll likely find more reasons looking further left).
+=== ID: whynotwork_p2_27 | HASH: 527e9dca3fdbeed122c4091863b1f5b46f097683 | AUTHOR: fxeyes | PARAS: 4
+  [0] khivraj wrote: Now I know that there are no such things as 'Stop hunts' when we are trading Supply & Demand. But I experienced something similar today with this trade taken on 1H. Since there HAS to be something I missed, going to 15M reveals a kink that (on hindsight) may have been the reason to price crossing the level.
+  [1] If that is true, then why is it that a higher TF (1H) RBD level is not given preference over a lower TF (15M) DBD level that too unimportant as no major SR passing through it?
+  [2] Also how do you consider which LTF levels are important and which arent? Say if I am trading 1H and go to 5M or 15M to mark every kink, my charts will be filled with levels everywhere
+  [3] Maybe some diagrams will help. Rewatch the 2nd kink video, you were stop hunted by the exact techniques IF talked about in those videos. Retrain yourself to stop looking at the market in terms of S/D.
+=== ID: whynotwork_p2_28 | HASH: f896adda32eb35da2fac091a2a214081a0e61d69 | AUTHOR: khivraj | PARAS: 3
+  [0] @fxeyes
+  [1] Damn! that makes total sense to me now. Thanks!
+  [2] By the way, on a side note, what does CM mean ("price broke into CM"). Dont see it in Abbreviations section. And what is an LSK trade? Dont see an article on that on Markepedia. (Is Left shoulder Kink trade the same as QM?)
+=== ID: whynotwork_p2_29 | HASH: 41351c3c765f579eec98ae1eeeb7c18da167661c | AUTHOR: fxeyes | PARAS: 5
+  [0] khivraj wrote: @fxeyes
+  [1] Damn! that makes total sense to me now. Thanks!
+  [2] By the way, on a side note, what does CM mean ("price broke into CM"). Dont see it in Abbreviations section. And what is an LSK trade? Dont see an article on that on Markepedia. (Is Left shoulder Kink trade the same as QM?)
+  [3] Cm = compression Lsk = left shoulder kink
+  [4] LSK trade is explained in the second video. Different concept than QM.
+=== ID: whynotwork_p2_30 | HASH: b55817ab0195f271e4b50abea54d4afe7ad31918 | AUTHOR: moneydeep | PARAS: 1
+  [0] You have to pick a timeframe and stick to the targets of that timeframe. I think you are jumping the gun. Look at the larger picture. What you have drawn are not very significant to the hourly timeframe. Try grasp more of the RTM concepts. A FTR is formed when price breaks a previous Flag which was supporting the price the opposite way. See the diagram.
+=== ID: whynotwork_p2_31 | HASH: 50f314b4140080ba65938379ffe3f924d6b14d4c | AUTHOR: khivraj | PARAS: 4
+  [0] moneydeep wrote: A FTR is formed when price breaks a previous Flag which was supporting the price the opposite way.
+  [1] @moneydeep From what I understood from Markepedia, an FTR is formed when price breaks a certain barrier (can be S/D, S/R, Flag or older FTR) retraces to form a base, and continues in the direction of the break.
+  [2] The way I have marked my FTR in that particular chart is with the break of S/R
+  [3] It is similar to chart (iii) of the article
+=== ID: whynotwork_p2_32 | HASH: 21579680ea94057e285b5b30ddd6281eedacc5e4 | AUTHOR: fxeyes | PARAS: 6
+  [0] khivraj wrote:
+  [1] moneydeep wrote: A FTR is formed when price breaks a previous Flag which was supporting the price the opposite way.
+  [2] @moneydeep From what I understood from Markepedia, an FTR is formed when price breaks a certain barrier (can be S/D, S/R, Flag or older FTR) retraces to form a base, and continues in the direction of the break.
+  [3] The way I have marked my FTR in that particular chart is with the break of S/R
+  [4] It is similar to chart (iii) of the article
+  [5] Hope you don’t mind me chiming in. The key is the break of something SIGNIFICANT. Not just any high or low. Being able to recognize what is significant is extemely important. This usually means zooming out more or going higher timeframe to see the bigger picture. Take another look at moneydeeps chart and really try to understand it. Then go back and redraw your chart (you’ll have to zoom out a bit)
+=== ID: whynotwork_p2_33 | HASH: e0050983eb4fbd1f2f5b8bc3b88af6370e07e56d | AUTHOR: moneydeep | PARAS: 1
+  [0] Start thinking in terms of Flags. SR are generally tips of FLAGS. Once one breaks a new one is formed. As price goes up new flags are formed holding price up and when each one is broken coming down similarly new ones are formed. Hopefully this helps 5 min chart of your area.
+=== ID: whynotwork_p2_34 | HASH: ffd34668f32ab6d4e72155ade31416855fde2a3e | AUTHOR: khivraj | PARAS: 2
+  [0] @fxeyes, @moneydeep
+  [1] Starting to get the point. Thanks
+=== ID: whynotwork_p2_35 | HASH: 89f74d7f541137421901ee5ae83dc7f495d2a61b | AUTHOR: khivraj | PARAS: 1
+  [0] Engulfing concept is still confusing the hell out of me. Any Idea why this didnt work?
+=== ID: whynotwork_p2_36 | HASH: b111d4f57c9671c83f5c600f693a74cde39ecd71 | AUTHOR: corsica | PARAS: 1
+  [0] Hi Khivraj It did work, the EG hit TG.
+=== ID: whynotwork_p2_37 | HASH: 4d7fddb7ac1900cf4182da6d7fa723a83e87c7f2 | AUTHOR: khivraj | PARAS: 4
+  [0] Thanks for the reply corsica.
+  [1] The area you call demand (the black box your drew) is not a true demand but a reaction to the demand below (blue box) isnt it?
+  [2] Also, the decision to shoot up wasnt taken in the area you marked but at the FL level (as we can see from the size/momentum of the candles) is it not?
+  [3] Btw, what is that Blue line and red circle you marked above the engulf?
+=== ID: whynotwork_p2_38 | HASH: 0a948eb434b0ce9b2e71382e1c0db9084983f17a | AUTHOR: corsica | PARAS: 1
+  [0] Yes Khivraj, it is a reaction You have a first decision at the FL, the one you named demand. Big pole then flag (this is indecision) and decision to break on upside. The blue line is a support. You have a low (something held the price there and it stopped falling.) This support is broken so a FL is created. And it is immediately re engulfed up. Again you need to see what is on the left, what broke what to understand what is going on.
+=== ID: whynotwork_p2_39 | HASH: bd53a6e84e8a3943a32788919d373a129285f4a5 | AUTHOR: khivraj | PARAS: 3
+  [0] Here's another failed engulf trade. Dont understand what I am missing!
+  [1] Present chart:
+  [2] Looking towards the left to see what happened in the Engulf area (whether it has reached a TG or not)
+=== ID: whynotwork_p2_40 | HASH: 7280c6dacc0416feb17f49e35f9b8e03e3203bbd | AUTHOR: moneydeep | PARAS: 1
+  [0] It's because you are drawing the FL wrong. Please go through Marketpedia and do all the homework one by one. it will be very helpful in the long run. What is a FL? Your FL hasn't broken anything to the left.
+=== ID: whynotwork_p2_41 | HASH: 82510799bf22481b18a5ffc8520824e6542200c6 | AUTHOR: khivraj | PARAS: 3
+  [0] @moneydeep
+  [1] Ahh.. I think I am starting to get your point. Thanks!
+  [2] I was trading flags in another way (as in the chart below). Looks like I took the meaning of FLAG too literally.
+=== ID: whynotwork_p2_42 | HASH: cd8315e0ea3b8a67266be482031307f1cea70955 | AUTHOR: sev87 | PARAS: 5
+  [0] maybe this gonna help
+  [1] moneydeep wrote: It's because you are drawing the FL wrong. Please go through Marketpedia and do all the homework one by one. it will be very helpful in the long run. What is a FL? Your FL hasn't broken anything to the left.
+  [2] sev87 wrote: my advice:
+  [3] stop here and go back to learn FL.
+  [4] FL is the most crucial material to learn and im struggling with this. if you learn FL and its variation its easier to learn the rest
+=== ID: whynotwork_p2_43 | HASH: b2fa82327aa435603e47a8a6541f947f66e1eba6 | AUTHOR: khivraj | PARAS: 1
+  [0] Can someone tell me why these FTRs didnt work?
+=== ID: whynotwork_p2_44 | HASH: 38833b6836e7a85ad7cac6b2a6d934001ffa51d6 | AUTHOR: moneydeep | PARAS: 1
+  [0] You have to draw the zone around the entire retrace after the break not just the bottom. Here is the FTR and the FTB
+=== ID: whynotwork_p2_45 | HASH: 698650f90f74e286fc14d7c9bbd67bca44a78de3 | AUTHOR: khivraj | PARAS: 2
+  [0] @moneydeep
+  [1] Oh. If that is the case, what about the one below it?
+=== ID: whynotwork_p2_46 | HASH: e5bfa4cabbd62295ed17bfec03907acf315d37f9 | AUTHOR: chrisb | PARAS: 4
+  [0] The last FL you posted is correct (I marked it the same yesterday). But you cannot expect that EACH FL will reverse/bounce price. They just don't work like that:) FLs are barriers. When such barrier is broken then price wants next barrier. Apart from that some of them are far more important than others.
+  [1] If you want reaction on a FL, then some additional circumstances must happen (remember that we read the price at RTM, we are not "pattern traders" like in standard technical analysis!) so we must read price intention before think about trade. One of such circumstance was mentioned by moneydeep in one of answers that you get recently (FL must engulf something to the left). There are many more which you will spot in the future.
+  [2] Anyway I'm strongly recommend you to take all moneydeep tips into account and continue your work with FLs. Mark as many you can and then investigate why some fail and why some bounce price. And please don't repeat my fault and when practicing with FLs: mark not only one FL per chart, but try to mark many FLs on the single "view".
+  [3] khivraj wrote:
+=== ID: whynotwork_p2_47 | HASH: bce7111d810273dfabc813b3d62a5e8d266f856a | AUTHOR: khivraj | PARAS: 1
+  [0] Thanks chrisb, will do.
+=== ID: whynotwork_p2_48 | HASH: f40b637357b97714c72b900b5e1d99dc7bc5c84f | AUTHOR: khivraj | PARAS: 5
+  [0] khivraj wrote: @moneydeep
+  [1] Ahh.. I think I am starting to get your point. Thanks!
+  [2] I was trading flags in another way (as in the chart below). Looks like I took the meaning of FLAG too literally.
+  [3] Just re-studying the FL markepedia article. It says the same thing that I was doing before. For example, refer the chart from the article:
+  [4] Where am I going wrong?
+=== ID: whynotwork_p2_49 | HASH: 538332c12aa82c4b9f6cc5cbc9146a058b94547a | AUTHOR: fxeyes | PARAS: 7
+  [0] khivraj wrote:
+  [1] khivraj wrote: @moneydeep
+  [2] Ahh.. I think I am starting to get your point. Thanks!
+  [3] I was trading flags in another way (as in the chart below). Looks like I took the meaning of FLAG too literally.
+  [4] Just re-studying the FL markepedia article. It says the same thing that I was doing before. For example, refer the chart from the article:
+  [5] Where am I going wrong?
+  [6] Hint: What's sitting between your pole and FL? You might have to go down one TF
+=== ID: whynotwork_p2_50 | HASH: 86977792a57e3c08bacc8b32e48676fc758bb917 | AUTHOR: khivraj | PARAS: 3
+  [0] fxeyes wrote: Hint: What's sitting between your pole and FL? You might have to go down one TF
+  [1] Not sure I follow. I can see an FTR beeing formed in LTF at the point where I see FL in 1H (trading TF). Not sure how it explains the "break of flag" to downside not happening.
+  [2] My "Why did it not work?" thread.
+=== ID: whynotwork_p3_51 | HASH: a3ad40aaf71697787e3a849079f84a3e900f6f4e | AUTHOR: fxeyes | PARAS: 6
+  [0] khivraj wrote:
+  [1] fxeyes wrote: Hint: What's sitting between your pole and FL? You might have to go down one TF
+  [2] Not sure I follow. I can see an FTR beeing formed in LTF at the point where I see FL in 1H (trading TF). Not sure how it explains the "break of ag" to downside not happening.
+  [3] Ah my fault, I think i was getting posts mixed up. I don't have EURGBP data so I don't have the full history, but I bet if you looked left there's probably zone there holding up price. I see 2 ways to interpret what happened:
+  [4] 1. The flag is still forming, in which case you don't know which way price will go until a FL breaks to the up or down side. 2. This is a FO move deeper into the (assumed) zone to the left to take out stops before moving higher.
+  [5] It could be an indication that it wants to go lower, but this is where you have to understand how this individual concept fits in context to the whole story. Its like taking the QM concept at face value and wondering why not all H, L, HH, LLs will reverse price. Hope that helps.
+=== ID: whynotwork_p3_52 | HASH: 9421f463fd64c62d019e872e84da3f802349dad0 | AUTHOR: khivraj | PARAS: 2
+  [0] Came across what looked like a good PAZ. Re-read through the markepedia article to double check if I was understanding this right. Still it failed. Arghhh. Any comments here?
+  [1] My example:
+=== ID: whynotwork_p3_53 | HASH: 162604729e34c1116d06e7779803d138c1c155b3 | AUTHOR: moneydeep | PARAS: 1
+  [0] When price enters PAZ its not immediately going to go to the other zone. It will retrace to collect orders. After an engulf you have to look to see where the flag is from which price has come to engulf. In your case if you took the high in the middle it'ts not correct because that high is in fact a reaction to a 4h supply flag. See attached chart.
+=== ID: whynotwork_p3_54 | HASH: b52eddfe286a76e8dcf34e411e634538ae5566bb | AUTHOR: khivraj | PARAS: 2
+  [0] @moneydeep
+  [1] Wow that makes a lot of sense! Thanks!
+=== ID: whynotwork_p3_55 | HASH: 6914b5ae814cb2a9d88d6fe96abdaf4e57dbe96d | AUTHOR: khivraj | PARAS: 1
+  [0] Can someone guide me on why this setup failed. FTR got engulfed and retraced to newly formed (bearish) FTR which is where I took my sell. There was enough space to move to the next zone which was an FL as indicated. My assumption of price movement was as per the arrows maked in the chart
+=== ID: whynotwork_p3_56 | HASH: b8a100cf43941038eadff098cb006d3deb2f1629 | AUTHOR: khivraj | PARAS: 4
+  [0] Still keeping my eye on the above trade, trying to find out what went wrong.
+  [1] Price still went in my direction after stopping me out. But I am not able to find an FL at the point price rejected before moving down - not even in LTF.
+  [2] Could this be a case of Ignored levels? - The top most FTR which got engulfed by a big bear candle, thus sell orders were stacked there and the original demand FTR got converted to a supply zone?
+  [3] Or could this be a case of QM, but price shot down from new FTR so price should travel the PAZ to reach below FL as marked by arrows before the new FTR got engulfed?
+=== ID: whynotwork_p3_57 | HASH: 881951b4318041d78bfbc59fcb82c535e06c11bd | AUTHOR: Danial | PARAS: 1
+  [0] Maybe I'm wrong... but this is my view
+=== ID: whynotwork_p3_58 | HASH: 7a3d633be51b81730928a19660be335516f11835 | AUTHOR: fxeyes | PARAS: 2
+  [0] here's one way to look at it
+  [1] Edit: also note that i dont have an engulf from that big spike down. Be careful
+=== ID: whynotwork_p3_59 | HASH: 9485989ff514b5106b7738850fd73c23e8c1e3f7 | AUTHOR: fxeyes | PARAS: 1
+  [0] delete
+=== ID: whynotwork_p3_60 | HASH: 8a1c6d5c303361a4048eccf09207558c99cb4bf3 | AUTHOR: khivraj | PARAS: 2
+  [0] @danial @fxeyes thanks for your input
+  [1] Even after spending days trying to make sense of things, I am still not able to understand it. I will be bookmarking this for future reference. Hopefully once I get more experienced in reading the price, I will be revisiting this setup in the future and maybe things will make sense then.
+=== ID: whynotwork_p3_61 | HASH: e3713a36e0590841e2bed119cf530ec5b6bad987 | AUTHOR: khivraj | PARAS: 2
+  [0] Hi all,
+  [1] Took my first successful QM trade past week. Can someone confirm if it was indeed a valid setup?
+=== ID: whynotwork_p3_62 | HASH: 56777dcc2a4ecda3fe97c64d4bdb89d6928dd033 | AUTHOR: khivraj | PARAS: 3
+  [0] Can someone say why I got stopped out here and price reversed at no-man's land?
+  [1] NZDUSD - 1H - My trading TF
+  [2] NZDUSD - 15M - LTF
+=== ID: whynotwork_p3_63 | HASH: bbe6725690b9591b534ab5444ad6227eaf5ca739 | AUTHOR: dengaima | PARAS: 4
+  [0] khivraj wrote: Can someone say why I got stopped out here and price reversed at no-man's land?
+  [1] NZDUSD - 1H - My trading TF
+  [2] NZDUSD - 15M - LTF
+  [3] My view it's iQM, but yes it was not good reaction. However it broke away and came back = FTB
+=== ID: whynotwork_p3_64 | HASH: d6823d5b1243219c0e9ebc9935eab39df7d6e767 | AUTHOR: fxeyes | PARAS: 7
+  [0] dengaima wrote:
+  [1] khivraj wrote: Can someone say why I got stopped out here and price reversed at no-man's land?
+  [2] NZDUSD - 1H - My trading TF
+  [3] NZDUSD - 15M - LTF
+  [4] My view it's iQM, but yes it was not good reaction. However it broke away and came back = FTB
+  [5] Dengaima
+  [6] Also, if you go in the m1, you'll see a little kink for the s/r Dengaima identified
+=== ID: whynotwork_p3_65 | HASH: 99b9b604fdb93e862e4007a8d008d5fb478e7c9a | AUTHOR: fxeyes | PARAS: 3
+  [0] khivraj wrote: Hi all,
+  [1] Took my first successful QM trade past week. Can someone confirm if it was indeed a valid setup?
+  [2] From what I can see it looks decent. Price hit some Supply, strong reation breaking last Fl into space. You didn’t get greedy and got out at the next Fl, especially because price was compressing into it. Good job.
+=== ID: whynotwork_p3_66 | HASH: c92bb14689acde8615266844a1d53b8e49790522 | AUTHOR: khivraj | PARAS: 8
+  [0] dengaima wrote:
+  [1] khivraj wrote: Can someone say why I got stopped out here and price reversed at no-man's land?
+  [2] NZDUSD - 1H - My trading TF
+  [3] NZDUSD - 15M - LTF
+  [4] My view it's iQM, but yes it was not good reaction. However it broke away and came back = FTB
+  [5] Dengaima
+  [6] Thanks for the reply.
+  [7] From what I see, there was no QM in the first place because there was no engulf. So there cant be ignored QM.
+=== ID: whynotwork_p3_67 | HASH: 976201cf1c6eac9b0c3097cb6c9f70c0a176b041 | AUTHOR: Atari | PARAS: 10
+  [0] On the contrary, there is something there that turn price around alright, an invisible flag limit. These are taught inside RTM Academy.
+  [1] khivraj wrote:
+  [2] dengaima wrote:
+  [3] khivraj wrote: Can someone say why I got stopped out here and price reversed at no-man's land?
+  [4] NZDUSD - 1H - My trading TF
+  [5] NZDUSD - 15M - LTF
+  [6] My view it's iQM, but yes it was not good reaction. However it broke away and came back = FTB
+  [7] Dengaima
+  [8] Thanks for the reply.
+  [9] From what I see, there was no QM in the rst place because there was no engulf. So there cant be ignored QM.
+=== ID: whynotwork_p3_68 | HASH: 63ff5ecb2289744f3a09be7d8960dc4cb8648749 | AUTHOR: MarkG | PARAS: 1
+  [0] @khivraj - I tried looking into a lower TF (M5) and there is a little flag area in there, which may be where/why price turned at that point. If you only went as low as M15 then perhaps that explains why this did not show up during your investigation. I'm offering this as a suggestion only, as I'm still new at this. Hope it helps in some way.
+=== ID: whynotwork_p3_69 | HASH: f219dc2196adf58834a5a4c0638c9c222ed637f0 | AUTHOR: fxeyes | PARAS: 1
+  [0] Bingo. Always go into the low timeframes to see where price broke, especially with these momentum/lq moves. Often times they don't show up in the higher timeframes, and is a great way to fake people out.
+=== ID: whynotwork_p3_70 | HASH: 7283b1a4a0f84f38742ddd4f9525228563465cc2 | AUTHOR: traderscape | PARAS: 2
+  [0] Hi,
+  [1] Just my view, don't take it for the real truth. I am only giving it a shot.
+=== ID: whynotwork_p3_71 | HASH: 0c64b48d4905c245384d75f5cd75e0945f609ef9 | AUTHOR: Edge | PARAS: 2
+  [0] Guys/Gals,
+  [1] Nice work pinpointing why. Those invisible ones can be ever so powerful.
+=== ID: whynotwork_p3_72 | HASH: 43fd728acb09a4e2da780e206e58d67c9f443b7f | AUTHOR: gjansen | PARAS: 4
+  [0] Something else to add here if I may. This was a trick. And what do we know about tricks? Look for a trade where a trick was played in the past.
+  [1] So, if you had a pending order set for that FTR and you were stopped out. You could simply wait. Wait for price to give PA (short in this case) then enter on a retrace to our trick area.
+  [2] Anyone care to mark this up on the Kiwi chart for the above?
+  [3] GJ
+=== ID: whynotwork_p3_73 | HASH: 676aea4822affde72125093ff03835551950f315 | AUTHOR: khivraj | PARAS: 5
+  [0] gjansen wrote: Something else to add here if I may. This was a trick. And what do we know about tricks? Look for a trade where a trick was played in the past.
+  [1] So, if you had a pending order set for that FTR and you were stopped out. You could simply wait. Wait for price to give PA (short in this case) then enter on a retrace to our trick area.
+  [2] Anyone care to mark this up on the Kiwi chart for the above?
+  [3] GJ
+  [4] Nicely noted GJ! Refer chart.
+=== ID: whynotwork_p3_74 | HASH: bfcb99dc2c6321a98a8d804ac42157f94d76088a | AUTHOR: gjansen | PARAS: 2
+  [0] Hi,
+  [1] Yes, and I was also thinking of something on a more smaller timescale.
+=== ID: whynotwork_p3_75 | HASH: 59129de9b1d2423d0ad9b9a31b3f417722588946 | AUTHOR: khivraj | PARAS: 4
+  [0] Two questions with respect to the chart below.
+  [1] 1. You can see a clear engulf south but the price didnt respect that and kept going up. Is there something I missed?
+  [2] 2. I read in a post somewhere that the extremes of a compression are very likely to give a nice bounce. Is that correct? In the chart, one end bounced the price but the other end didnt.
+  [3] My "Why did it not work?" thread.
+=== ID: whynotwork_p4_76 | HASH: 6bb60170a795c88c7e8a0ca66272ff68f8e9df3e | AUTHOR: lv5758 | PARAS: 7
+  [0] khivraj wrote: Two questions with respect to the chart below.
+  [1] 1. You can see a clear engulf south but the price didnt respect that and kept going up. Is there something I missed?
+  [2] 2. I read in a post somewhere that the extremes of a compression are very likely to give a nice bounce. Is that correct? In the chart, one end bounced the price but the other end didnt.
+  [3] Hi,
+  [4] 1. Your engulf hits its target. Go to H4 to see that it reacted to a LS Kink that gave a FTR.
+  [5] 2. Yes, the CPLQ likely to give a bounce. The other end that doesn't give a bounce because no more orders left. Think in terms of orders, buyers and sellers.
+  [6] Hope this helps
+=== ID: whynotwork_p4_78 | HASH: b42fa546a40bd9861a32ffb5f99b52f9fd37f628 | AUTHOR: khivraj | PARAS: 4
+  [0] @ lv5758
+  [1] Thanks for the reply. I see an engulf on the 4H chart too. Would it be possible to show on a chart which LS kink you are referring to?
+  [2] @staurum
+  [3] Appreciate your response! Regarding CP - It did react to the end of CP like you mentioned; I was wondering if the start of CP should also have a bounce? Sorry I didnt understand what "If that is an engulf" and "especially when this is an engulf" is referred to on you chart. I noticed you drew a violet box and are mentioning that its an engulf. I dont understand how.
+=== ID: whynotwork_p4_79 | HASH: d846896f456ca8fbcadfa212e0e81b3f98d630c3 | AUTHOR: lv5758 | PARAS: 3
+  [0] khivraj wrote: @ lv5758
+  [1] Thanks for the reply. I see an engulf on the 4H chart too. Would it be possible to show on a chart which LS kink you are referring to?
+  [2] Ok here u go...
+=== ID: whynotwork_p4_81 | HASH: a1f6fb5ad5bfec6139e8d920624f4c7a112b6a55 | AUTHOR: Edge | PARAS: 2
+  [0] S, is spot on. Also, I does look like supply and has had some reactions. Doesn't it look wonderful? I would be looking for it to move and find clean orders 'if any' above. cant see from the pic below. But my FL or FLs would be somewhere in the green area I circled. In fact the flag marked as FL which is not could just be a FTB to a FL or its mouth somewhere in the green area
+  [1] Let me echo S point as well. A reaction to a Flag does not make it a FL.
+=== ID: whynotwork_p4_82 | HASH: 500a1ee8286c3b36d8dab980b23b78a36c8bcea2 | AUTHOR: khivraj | PARAS: 4
+  [0] Thank you all for your replies.
+  [1] Another losing trade form yesterday. It looked like a good setup - FTB on an FL formed after break of another strong FL.
+  [2] Zoomed in of the same chart for more clarity:
+  [3] Your views would be helpful. Thanks.
+=== ID: whynotwork_p4_83 | HASH: 77bda1e8d4a91fb9684a255101963b0275027170 | AUTHOR: dengaima | PARAS: 5
+  [0] khivraj wrote: Thank you all for your replies.
+  [1] Another losing trade form yesterday. It looked like a good setup -FTB on an FL formed after break of another strong FL.
+  [2] Zoomed in of the same chart for more clarity:
+  [3] Your views would be helpful. Thanks.
+  [4] I believe according to RTM teachings, you cannot draw a FL upon break without hitting opposite FL. I am not good with RTM method, so maybe someone else should help you. I am trying out my own way of trading based on what is taught in RTM. I cannot teach that to anyone yet, as I am not sure of it myself. But basically what i want to do is be a hunter along with ITs to hunt people's stoploss
+=== ID: whynotwork_p4_84 | HASH: 8c86ca5a68088423d902cfd909ef7432e7763b3b | AUTHOR: khivraj | PARAS: 1
+  [0] Hi. Can someone point out why this setup failed? FTB to Strong FTR got stop hunted by 1 pip, then another stophunt by 3 pip before moving upwards as I was expecting.
+=== ID: whynotwork_p4_85 | HASH: 99335b539b570f3d7c9c0a6dd7c82ec73b8dcc04 | AUTHOR: Canadough | PARAS: 1
+  [0] Hey Khivraj, its hard for me to make out the ticker at the top of your chart. But Im pretty sure I got the one. I just saw your post and thought hey I wanna take a look at this and challenge myself. This is some thoughts I came up with. Im sure I never woulda came up with this answer trading it real time lol. And maybe Im way off, but I think this its one perspective in looking at it, in this scale, maybe theres other reasons HTF etc.. Also I didnt drill down any further, so maybe this is wrong because of that, my green FL. But Im sure if you drill down further theres something inside that green FL to give you a more precise area I would think?
+=== ID: whynotwork_p4_86 | HASH: 5cacf6991d6521738bb5a258bd4b8164b6e18ab9 | AUTHOR: sev87 | PARAS: 1
+  [0] just adding my thought, CPK already got it
+=== ID: whynotwork_p4_87 | HASH: 5051d97943d3a027dc06fd222b1a8152ce83fffa | AUTHOR: khivraj | PARAS: 2
+  [0] Thanks guys. Makes sense.
+  [1] Another one troubling me. Question in the chart.
+=== ID: whynotwork_p4_88 | HASH: 9fc9168ddb697713f45c025afc916f6cb8fbca81 | AUTHOR: sev87 | PARAS: 1
+  [0] i think its already hit its TG
+=== ID: whynotwork_p4_89 | HASH: 6b2a1c2517d889c5e058c832fa14e81f940a6da7 | AUTHOR: khivraj | PARAS: 2
+  [0] sev87 wrote: i think its already hit its TG
+  [1] how is that marked TG an FL? It doesnt break anything significant to the left
+=== ID: whynotwork_p4_90 | HASH: c7aabf4c6db6b780076f9b533af258a21f03edea | AUTHOR: sev87 | PARAS: 4
+  [0] khivraj wrote:
+  [1] sev87 wrote: i think its already hit its TG
+  [2] how is that marked TG an FL? It doesnt break anything signicant to the left
+  [3] if you already read about CP and watched the RTMA lite then you can understand why i marked that CP and why i marked that rectangle as a TG
+=== ID: whynotwork_p4_91 | HASH: 5ef09367d9980842e9e4a20c0aca92e4db4d31bf | AUTHOR: khivraj | PARAS: 2
+  [0] Hi all,
+  [1] Can someone tell me what is the difference between swap zone, SR flip zone and Support that becomes Resistance (and vice versa) after several hits. Are they to be traded in a different way from each other?
+=== ID: whynotwork_p4_92 | HASH: d3534ed31985e1f8a20b9ce34b9215d7076c4d10 | AUTHOR: sev87 | PARAS: 7
+  [0] khivraj wrote: Hi all,
+  [1] Can someone tell me what is the difference between swap zone, SR flip zone and Support that becomes Resistance (and vice versa) after several hits. Are they to be traded in a different way from each other?
+  [2] first look at above picture
+  [3] When price reach that line and rebound then we call it support, if the price break that support than it become resistance because common trader teached that way. If price bounce from that line many times than common trader thought it was a strong support or resistance, more touch and rebound than its stronger.
+  [4] So how IT can manipulate this ancient theory? they make price looks its gonna hold and common trader gonna take their trades and if the price break that SR then the breakout trader ( known for take trade after breaking support or resistance ) jump in and take their trade but IT know where common traders put their SL so IT just take their SL before they reverse price.
+  [5] so how RTM students take their trade? answer in the picture.
+  [6] About the swap level i think my knowledge still not good enough to answer that, but all i know is its almost a same concept as SR Flip
+=== ID: whynotwork_p4_93 | HASH: 5910eb459ecb6953c18e2fe01cd3e3d83e4e14d1 | AUTHOR: corsica | PARAS: 1
+  [0] Hi Sev. I tend to agree. Swap, Flip are the same thing. Broken demand becomes supply and vice versa. And these things happen around a line of support and resistance that we refine with "the kink" aka the FL.
+=== ID: whynotwork_p4_94 | HASH: ed7da241102b6eda53425d2e6113823a99e998ee | AUTHOR: khivraj | PARAS: 1
+  [0] A have a basic yet important question (Refer charts)
+=== ID: whynotwork_p4_95 | HASH: 442c8fb6d7d053aa3bd645c95558b1fd10ab1baa | AUTHOR: Gero | PARAS: 2
+  [0] Hi khivraj. Maybe you could consider this:
+  [1] der this:
+=== ID: whynotwork_p4_96 | HASH: 88e5b08a5fae677b02caa26983b60884bae7d37d | AUTHOR: sev87 | PARAS: 2
+  [0] I hope its help
+  [1] if you go to the Lower TF than you can see theres at least 2 lvl that could be potential QM
+=== ID: whynotwork_p4_97 | HASH: 47b4797eb47c416b5858295fe169d60546454eca | AUTHOR: Alex001001 | PARAS: 9
+  [0] Hello everybody!
+  [1] Today I had a loss on DAX (GER30) and I realy need your help on the following because i think I missunderstood the concept of Engulf and FTRs.
+  [2] Here you see DAX on 1H and I found some good looking FTR to the left. So far I would say it had everything it needed to be an FTR. Engulf of an obvious low, pullback and then continuing down. Now what made me look at this even more is that price tried to get there and failed two times, leaving a suspicious resistance which i would consider as trick (BSZ). The next break of those highs right into the zone was my entry area for a sell. (also we cleared the way below the CP so this would lead to some very very nice RR.
+  [3] This is the FTR from the past.
+  [4] Now what happend is that price just shot through my zone by 5 pips, leaving me confused as it broke my whole plan.
+  [5] Of course I watched PA on m1 to be sure price is moving down. And indeed there was an engulf by one pip. I smelled blood and sold in the upper part of the zone but got stopped out immediately. This left me confused and looked back in the past to see if I drew my zone wrong.
+  [6] Looking back I found this. Price stopped right before it touched the end of the zone that lead to the FTR. Is this what is called "true supply"? Should every SL be above this area or was it indeed an engulf? Because price is currently moving more then 100 pips in my -predicted- direction.
+  [7] Hope you can help me on this one. Thank you guys very much in advance!
+  [8] Kind regards, Alex
+=== ID: whynotwork_p4_99 | HASH: 8c4a17d13b6ffaf3ea15856de7070c22996ce96b | AUTHOR: MarkG | PARAS: 1
+  [0] It looks similar to the fake supply example from the first few minutes of RTM Lite video 2. As corsica pointed out, it will reach for the trick or MPL to get better priced sells.
+=== ID: whynotwork_p4_100 | HASH: e7013947bab12bd9114bad041c8835eaccd817e2 | AUTHOR: fendt | PARAS: 2
+  [0] But how are you to know that was the trick played in the past while trading in real time?
+  [1] My "Why did it not work?" thread.

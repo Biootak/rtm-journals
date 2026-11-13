@@ -1,0 +1,322 @@
+### if_p128_1
+EN: Hi guys,
+
+I found a live example of IF's point on EJ, thought it was Worth posting it for those who study BSZ.
+
+I was in a bit before that on this one thanks to DM setup.
+FA: سلام بچه‌ها،
+
+یک نمونهٔ زنده از همان نکتهٔ IF در EJ پیدا کردم، گفتم بد نیست برای کسانی که BSZ کار می‌کنند پستش کنم.
+
+کمی قبل از آن، به لطف ستاپ DM روی همین یکی وارد شدم.
+
+### if_p128_2
+EN: I see almost every post of the forum but oddly i missed IF explaining his UC trade!
+
+	readthemarket.com/index.php/en/forum/jou...-if?start=3125#69070
+
+I read that yesterday evening and tried to apply the same thinkings to what is happening right now on UC, any comments welcome!
+FA: تقریباً همهٔ پست‌های فروم را می‌بینم، ولی عجیب است که توضیح IF دربارهٔ معاملهٔ UC را از دست دادم!
+
+readthemarket.com/index.php/en/forum/jou...-if?start=3125#69070
+
+دیشب آن را خواندم و سعی کردم همان طرز فکر را روی چیزی که الان در UC اتفاق می‌افتد به کار ببرم، هر نظری خوش‌آمد است!
+
+### if_p128_3
+EN: I just realized i forgot to attach one chart and i can't edit my
+previous post (which made no sense at all due to that mistake...):
+FA: تازه متوجه شدم یک نمودار را فراموش کردم ضمیمه کنم و نمی‌توانم پست قبلی‌ام را ویرایش کنم (که به‌خاطر همان اشتباه اصلاً معنایی نداشت...):
+
+### if_p128_4
+EN: IF, can you please help me with this? How you deal with commissions
+and still catch to the pip entries? Lets say you take an SAS trade back
+to BS, and you have 1 pip SL or even 2 pips, and the space back to BS is
+ 2 pips. Your commission per round trip is 5.23 EUR. In this case, you
+can't close half of your position at first target because you just paid
+ your commission so if price retrace up to your SL, you are not in
+profit, but instead in a loss. Basically, from what i see you have to
+calculate to have at least 4 pips SL and 4 pips to first target to say,
+ok, i can close at first target a bit over half of my position to be
+still in profit if price goes against me. So how do you trade tick PA
+if in tick charts you often have your first target at less than 1 pip
+distance? Thank you!
+FA: IF، می‌شود لطفاً کمکم کنی؟ چطور با کمیسیون‌ها کنار می‌آیی و در همان حال ورودها را تا حد پیپ دقیق می‌گیری؟ فرض کن یک معاملهٔ SAS تا BS می‌گیری و SL یک‌پیپی یا حتی دو پیپی داری، و فضای برگشت تا BS هم 2 پیپ است. کمیسیون رفت‌وبرگشت تو 5.23 EUR است. در این حالت نمی‌توانی در تارگت اول نصف پوزیشنت را ببندی، چون تازه کمیسیونت را پرداخته‌ای؛ پس اگر قیمت تا SL‌ات اصلاح کند، در سود نیستی، بلکه در ضرری. اساساً از آنچه می‌بینم، باید طوری حساب کنی که نه کمتر از 4 پیپ SL و 4 پیپ تا تارگت اول داشته باشی تا بتوانی بگویی باشه، در تارگت اول کمی بیشتر از نصف پوزیشنم را می‌بندم و اگر قیمت علیه‌ام رفت هنوز در سودی. پس چطور PA تیک را معامله می‌کنی وقتی در نمودارهای تیک اغلب تارگت اولت کمتر از 1 پیپ فاصله دارد؟ ممنون!
+
+### if_p128_5
+EN: I don't imagine I've ever taken a trade looking for first target one pip away.
+
+In waters filled with sea bass and mackerel, it makes no sense to fish for one piece of plankton at a time
+FA: فکر نمی‌کنم هرگز معامله‌ای گرفته باشم که تارگت اولش یک پیپ فاصله داشته باشد.
+
+در آبی پر از ماهی سوف و خال‌مخالی، ماهی‌گیری برای یک دانه پلانکتون در هر نوبت هیچ منطقی ندارد
+
+### if_p128_6
+EN: HCDE wrote: I just realized i
+forgot to attach one chart and i can't edit my previous post (which made
+ no sense at all due to that mistake...):
+
+You are now looking at the charts the way I want you to; the way you
+should be looking at all of society. Literally, and figuratively, you're
+ seeing the false flags.
+
+Good work
+FA: HCDE نوشت: تازه متوجه شدم یک نمودار را فراموش کردم ضمیمه کنم و نمی‌توانم پست قبلی‌ام را ویرایش کنم (که به‌خاطر همان اشتباه اصلاً معنایی نداشت...):
+
+الان نمودارها را همان‌طوری می‌بینی که من می‌خواهم؛ همان‌طوری که باید کل جامعه را ببینی. چه تحت‌اللفظی چه مجازی، داری پرچم‌های دروغین را می‌بینی.
+
+کارت خوب بود
+
+### if_p128_7
+EN: Ifmyante wrote: I don't imagine I've ever taken a trade looking for first target one pip away.
+
+In waters filled with sea bass and mackerel, it makes no sense to fish for one piece of plankton at a time
+FA: Ifmyante نوشت: فکر نمی‌کنم هرگز معامله‌ای گرفته باشم که تارگت اولش یک پیپ فاصله داشته باشد.
+
+در آبی پر از ماهی سوف و خال‌مخالی، ماهی‌گیری برای یک دانه پلانکتون در هر نوبت هیچ منطقی ندارد
+
+### if_p128_8
+EN: Would it be true to say that you answered your own question in there?
+FA: می‌شود گفت جواب سؤالت را همان‌جا خودت دادی؟
+
+### if_p128_9
+EN: I don't know. If i would say that B is the proper BSZ, then price can
+react at 1, of course with SL above A so i TT it and price can only fill
+ that smaller space. In this case i would take a loss.
+FA: نمی‌دانم. اگر بگویم B همان BSZ درست است، پس قیمت می‌تواند در 1 واکنش بدهد، البته با SL بالای A، پس TT‌اش می‌کنم و قیمت فقط می‌تواند همان فضای کوچک‌تر را پر کند. در این حالت ضرر می‌کنم.
+
+### if_p128_10
+EN: Maybe we shouldnt take such trades, that doesn't have proper RR TG1
+FA: شاید نباید چنین معامله‌هایی بگیریم، معامله‌هایی که TG1 با RR درست ندارند
+
+### if_p128_11
+EN: B to A is a massive distance for a simple stophunt.
+
+If B has clean orders remaining, it's certainly attractive, but I couldn't call that space a BSZ.
+
+This, however, is just semantics
+FA: فاصلهٔ B تا A برای یک استاپ‌هانت ساده خیلی زیاد است.
+
+اگر سفارش‌های تمیزی در B باقی مانده باشد، قطعاً جذاب است، ولی من آن فضا را BSZ نمی‌نامم.
+
+ولی این فقط بحث لفظ است
+
+### if_p128_12
+EN: BTW, the second scenario is a massive stophunt too. What do you think? Am i correct?
+FA: راستی، سناریوی دوم هم یک استاپ‌هانت بزرگ است. نظرت چیست؟ درست می‌گویم؟
+
+### if_p128_13
+EN: Maybe I'm a bit scatterbrained right now, but I got quite lost there, especially at the end of chart two.
+
+Chart 1 seemed simple enough though, easily answered by any new student
+FA: شاید الان کمی حواسم پرت است، ولی آن‌جا خیلی گم شدم، مخصوصاً آخر نمودار دوم.
+
+نمودار 1 ولی ساده به نظر می‌رسید، هر دانشجوی تازه‌واردی راحت جوابش را می‌دهد
+
+### if_p128_14
+EN: I posted this elsewhere, and am copying it here, as it's important:
+
+We have had so many great analysts, who can draw a line at every place
+price will turn, yet fail to make money from their knowledge.
+
+If we want to face the ITs and win, we must first have faced the enemy within ourselves.
+
+Doing so teaches us which impulses to trade come from our rational,
+positive self, and which come from our self destructive side.
+FA: این را جای دیگری پست کردم و این‌جا هم کپی می‌کنم، چون مهم است:
+
+ما تحلیلگران بزرگ زیادی داشته‌ایم که می‌توانند در هر جایی که قیمت برمی‌گردد خط بکشند، ولی از دانششان پولی درنمی‌آورند.
+
+اگر می‌خواهیم با IT‌ها روبه‌رو شویم و ببریم، اول باید با دشمن درون خودمان روبه‌رو شده باشیم.
+
+این کار به ما یاد می‌دهد کدام تکانه‌ها برای معامله از خودِ عقلانی و مثبتمان می‌آید و کدام از سوی ویرانگرمان.
+
+### if_p128_15
+EN: Very nice one IF, and very much true I believe.
+
+For me, going through this process feeds both wolves. Slowly but
+steadily, the good one gets more of the food ;-) There are some days,
+weeks even though, that the bad one has the upper hand and I feel like
+I'll never get it although it all seems so obvious. Sometimes I'm in
+some really nice trades and that makes me cocky and over confident,
+which in turn makes me fail. That is the fight I'm currently in I guess.
+ Then again, I've "just started" this all and didn't expect to be hugely
+ profitable already.
+
+All in all, most of the time, I really enjoy learning RTM and I'm sure it'll all work out for me one day.
+FA: خیلی قشنگ بود IF، و به گمانم خیلی هم درست.
+
+برای من، گذراندن این مسیر هر دو گرگ را تغذیه می‌کند. آهسته ولی پیوسته، گرگ خوب غذای بیشتری می‌گیرد ;-) با این حال بعضی روزها و حتی هفته‌ها هستند که گرگ بد دست بالا را دارد و حس می‌کنم هرگز یادش نمی‌گیرم، هرچند همه‌چیز این‌قدر واضح به نظر می‌رسد. بعضی وقت‌ها در معامله‌های واقعاً خوبی هستم و همین مغرورم می‌کند و بیش از حد مطمئن، که خودش باعث شکستم می‌شود. حدس می‌زنم نبردی که الان در آن هستم همین است. با این حال، من «تازه» این راه را شروع کرده‌ام و انتظار نداشتم همین حالا سود کلانی داشته باشم.
+
+روی هم رفته، بیشتر وقت‌ها از یادگیری RTM واقعاً لذت می‌برم و مطمئنم یک روز همه‌چیز برایم جفت‌وجور می‌شود.
+
+### if_p128_16
+EN: Ifmyante wrote:
+HCDE
+ wrote: I just realized i forgot to attach one chart and i can't edit my
+ previous post (which made no sense at all due to that mistake...):
+
+You are now looking at the charts the way I want you to; the way you
+should be looking at all of society. Literally, and figuratively, you're
+ seeing the false flags.
+
+Good work
+
+Hi guys, i'm sorry to interrupt the trader psychology discussion, but
+i'd really like to continue the discussion about USDCAD and the way ITs
+construct price to bring Stops.
+
+I don't really understand the todays huge push up, i tried to draw some
+scenarios based on today's action, but if anyone can bring his comments
+on it i'd be glad
+
+Thanks
+
+Hugo
+FA: Ifmyante نوشت: HCDE نوشت: تازه متوجه شدم یک نمودار را فراموش کردم ضمیمه کنم و نمی‌توانم پست قبلی‌ام را ویرایش کنم (که به‌خاطر همان اشتباه اصلاً معنایی نداشت...):
+
+الان نمودارها را همان‌طوری می‌بینی که من می‌خواهم؛ همان‌طوری که باید کل جامعه را ببینی. چه تحت‌اللفظی چه مجازی، داری پرچم‌های دروغین را می‌بینی.
+
+کارت خوب بود
+
+سلام بچه‌ها، ببخشید وسط بحث روان‌شناسی معامله‌گر می‌پرم، ولی خیلی دوست دارم بحث USDCAD و روشی که IT‌ها قیمت را می‌سازند تا استاپ‌ها را بیاورند ادامه پیدا کند.
+
+آن جهش بزرگ امروز را واقعاً نمی‌فهمم، سعی کردم بر اساس حرکت امروز چند سناریو بکشم، ولی اگر کسی نظرش را بگوید خوشحال می‌شوم
+
+ممنون
+
+Hugo
+
+### if_p128_17
+EN: HCDE wrote:
+Ifmyante wrote:
+HCDE
+ wrote: I just realized i forgot to attach one chart and i can't edit my
+ previous post (which made no sense at all due to that mistake...):
+
+You are now looking at the charts the way I want you to; the way you
+should be looking at all of society. Literally, and figuratively, you're
+ seeing the false flags.
+
+Good work
+
+Hi guys, i'm sorry to interrupt the trader psychology discussion, but
+i'd really like to continue the discussion about USDCAD and the way ITs
+construct price to bring Stops.
+
+I don't really understand the todays huge push up, i tried to draw some
+scenarios based on today's action, but if anyone can bring his comments
+on it i'd be glad
+
+Thanks
+
+Hugo
+
+I am confident in one precisely.....
+
+it's Trap it's Trap it's Trap
+
+sorry
+
+my opinion
+FA: HCDE نوشت: Ifmyante نوشت: HCDE نوشت: تازه متوجه شدم یک نمودار را فراموش کردم ضمیمه کنم و نمی‌توانم پست قبلی‌ام را ویرایش کنم (که به‌خاطر همان اشتباه اصلاً معنایی نداشت...):
+
+الان نمودارها را همان‌طوری می‌بینی که من می‌خواهم؛ همان‌طوری که باید کل جامعه را ببینی. چه تحت‌اللفظی چه مجازی، داری پرچم‌های دروغین را می‌بینی.
+
+کارت خوب بود
+
+سلام بچه‌ها، ببخشید وسط بحث روان‌شناسی معامله‌گر می‌پرم، ولی خیلی دوست دارم بحث USDCAD و روشی که IT‌ها قیمت را می‌سازند تا استاپ‌ها را بیاورند ادامه پیدا کند.
+
+آن جهش بزرگ امروز را واقعاً نمی‌فهمم، سعی کردم بر اساس حرکت امروز چند سناریو بکشم، ولی اگر کسی نظرش را بگوید خوشحال می‌شوم
+
+ممنون
+
+Hugo
+
+من فقط به یک چیز مطمئنم.....
+
+تله است، تله است، تله است
+
+ببخشید
+
+نظر من
+
+### if_p128_18
+EN: It's amazing how much you spot while it only has been some weeks that you're within that community
+FA: با اینکه فقط چند هفته است در این جامعه هستی، باورنکردنی است که چقدر چیز می‌بینی
+
+### if_p128_19
+EN: dkd11 beat me to it!!!
+ That's what I thought indeed, the engulf north of a significant FL-A.
+Why significant? Because it not only broke PCP, it engulfed the entire
+CP.
+
+So now, I'm thinking, perhaps price wants to get to C first before it drop back to B and break it?
+FA: dkd11 زودتر از من گفتش!!! راستش من هم همین فکر را کردم، اینگالف شمال یک FL-A معنادار. چرا معنادار؟ چون نه‌فقط PCP را شکست، بلکه تمام CP را اینگالف کرد.
+
+پس الان فکر می‌کنم، شاید قیمت اول می‌خواهد به C برسد و بعد به B برگردد و بشکندش؟
+
+### if_p128_20
+EN: HCDE wrote: It's amazing how much you spot while it only has been some weeks that you're within that community
+
+It helps me to read history, but not to trade the future
+FA: HCDE نوشت: با اینکه فقط چند هفته است در این جامعه هستی، باورنکردنی است که چقدر چیز می‌بینی
+
+این به خواندن تاریخ کمکم می‌کند، ولی نه به معامله کردن آینده
+
+### if_p128_21
+EN: The above looks interesting. I'll read it in a moment.
+
+First I'll post some trading I did from a trade call in FF
+
+Second trade was a full position, so lots of profits banked now
+FA: بالایی جالب به نظر می‌رسد. یک لحظه بعد می‌خوانمش.
+
+اول چند معامله‌ای را که از یک کال در FF گرفتم پست می‌کنم
+
+معاملهٔ دوم با پوزیشن کامل بود، پس الان کلی سود ذخیره کرده‌ام
+
+### if_p128_22
+EN: Okay, so I like this for now
+
+They can play this range for ages, shaking everybody out up and down. So, we must only trade the screamers in a range like this
+FA: باشه، پس فعلاً این را می‌پسندم
+
+می‌توانند مدت‌ها این رنج را بازی کنند و همه را بالا و پایین بیرون بیندازند. پس در رنجی مثل این فقط باید حرکت‌های انفجاری را معامله کنیم
+
+### if_p128_23
+EN: guys I think it wasn't an engulf - source flag
+FA: بچه‌ها فکر می‌کنم اینگالف نبود، فلگ مبدأ
+
+### if_p128_24
+EN: Morning everyone.
+
+It's rare i see scales clearly, but on USDCAD i think we have a good example. I tried to represent two scales:
+
+-Scale "X": non dotted rectangles --> See how on that scale the engulf of the high still hasn't reached it's TG
+
+-Scale "X-1": See how they use the X-1 scale FLs to make the retrace in
+order to get more long orders below before they finally get to their TG
+on scale X.
+
+First chart presents only scale X, while second one présents both scales.
+
+Hope it helps,
+
+Hugo
+FA: صبح بخیر همه.
+
+کم پیش می‌آید مقیاس‌ها را واضح ببینم، ولی در USDCAD فکر می‌کنم نمونهٔ خوبی داریم. سعی کردم دو مقیاس را نشان دهم:
+
+- مقیاس «X»: مستطیل‌های بدون نقطه --> ببین در آن مقیاس اینگالف سقف هنوز به TG خودش نرسیده
+
+- مقیاس «X-1»: ببین چطور از FL‌های مقیاس X-1 برای ساختن اصلاح استفاده می‌کنند تا زیرش سفارش‌های لانگ بیشتری جمع کنند و بعد آخرش به TG خودشان در مقیاس X برسند.
+
+نمودار اول فقط مقیاس X را نشان می‌دهد، ولی دومی هر دو مقیاس را.
+
+امیدوارم کمک کند،
+
+Hugo
+
+### if_p128_25
+EN: i think i'll more often try to search those zones just before what i consider being a TG
+FA: فکر می‌کنم بیشتر وقت‌ها سعی می‌کنم این زون‌ها را درست قبل از چیزی که TG می‌دانم جست‌وجو کنم

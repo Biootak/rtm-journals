@@ -1,0 +1,180 @@
+##### hs_p20_476 Bodostock paras:4
+Hi Hoeschec
+
+Would you consider that the FTR at the swap level already engulfed?
+
+I was wondering if this is a valid engulf and that price might want to go down to the CP PAZ below?
+
+But overall judging on the HTF, i am more biased towards shorting this pair.
+---END---
+##### hs_p20_477 hoeschec paras:4
+I Just watched IF's webinar and it was really informative. Thanks IF!
+
+I am going to spend some time finding areas where these tricks occur so I get better at identifying them:
+
+Here is one that worked out nicely:
+
+USD-CAD
+---END---
+##### hs_p20_478 hoeschec paras:1
+More practice - this bounce was weak, probably because the buy orders were already consumed.
+---END---
+##### hs_p20_479 hoeschec paras:1
+EUR-USD - Lower time frame for this one, but there was a limited reaction that cold have been traded for a quick scalp on a 1 min or 5 min chart.
+---END---
+##### hs_p20_481 hoeschec paras:3
+USD-JPY:
+
+First chart is the hourly, showing where a trick occurred.
+
+Second chart shows the engulfs that occurred on the 5 min chart which identifies the entry point to go long once price returned to the area where a trick had previously happened:
+---END---
+##### hs_p20_482 hoeschec paras:1
+Here is a really good one
+---END---
+##### hs_p20_483 hoeschec paras:1
+Another....
+---END---
+##### hs_p20_484 hoeschec paras:2
+USD-JPY 1-Min chart
+
+This one would have worked out well-
+---END---
+##### hs_p20_485 Bodostock paras:2
+oh my god, master in the making!
+
+Good job, mate!
+---END---
+##### hs_p20_486 hoeschec paras:2
+Thanks Bodostock!
+
+I notice there are a lot of these that look like good setups that end up failing....I am cherry picking the ones that work, but I'm still somewhat confused....
+---END---
+##### hs_p20_487 hoeschec paras:8
+Maybe someone reading this can offer me a little direction on a problem I've been trying to figure out:
+
+The picture below shows IF's webinar example about price reversing/bouncing off areas where tricks have been played in the past. I can find tons of locations where tricks occur in a chart of any time frame. The hard part seems to be finding the ones that are actually going to bonce and timing the entry accordingly. It is actually pretty hard to execute these trades in real time- for example, on IF's recent example, I find many locations where price approached the level where price played a trick.
+
+How did IF know to wait for the exact approach to the level where he went short? (there were many touches at this level previous to his entry, as shown by my arrows).
+
+Also, why would there still be short orders waiting at this level after price repeatedly spiked this zone? Wouldn't all the price spikes have zeroed out any remaining short orders that originated as a result of the original "trick"?
+
+The only explanation I can think of is IF waited for the engulf to occur (I labeled it on the chart) before taking the touch trade. Anyone have any ideas? thanks!
+
+Here is an example I found while practicing. Price reacted nicely, but it did not reach the highest point of sell orders. To me, it looks like it bounced off of the RBD decision (LTF chart) point that occurred after the "trick" originally happened. I did not see any tricks occurring or a QM/Diamond forming as price returned to the level. I am pretty confused....
+
+Here is another example - this one shows an area where a trick occurred but there were no clean orders left over to give price a bounce. Instead, a Diamond formed and bounced off a different location altogether. How could I have predicted the diamond bounce at the highs shown on the chart below? This type of pattern recognition is easy when looking at historic price action, but doing this in real time as price is unfolding seems really hard.... any advice?
+
+Another question: what if price's RT to an area where a trick previously occurred includes a trick of its own while it bounces? If a reaction to a previous trick includes a trick, would it be a valid starting off point for price even further down the road? (This is hard to explain using words so look below at the chart IF used)...I added the black lines and labeled the three important areas as 1,2, and 3. Technically, #2 is a reaction to the trick played at #1. Let's assume for this example that there is a spike that occurs on a LTF chart as #2 forms which creates another "trick". When price moves up to #3 (where price "tricked" at #2), is that a valid area to once again look for PA to justify another bounce, or is #2 just a reaction to #1? I know when it comes to engulfs, you can't count it as legitimate if it is "engulfing" a flag that is simply a reaction to another flag. Is that the same concept when we are looking for these types of "tricks"? My apologies if I am doing a bad job of asking this question...it is hard to explain these concepts. If this is indeed true, it might explain why some of these setups appear to look like they will work but fail miserably.
+---END---
+##### hs_p20_488 Bodostock paras:4
+Hi Hoeschec
+
+This is my view on your USDDDK.
+
+I guess a workable trick that can lead to a good bounce must be an area where has been played couples of times in the past.
+
+Thanks!
+---END---
+##### hs_p20_489 Bodostock paras:5
+hoeschec wrote: Here is an example I found while practicing. Price reacted nicely, but it did not reach the highest point of sell orders. To me, it looks like it bounced off of the RBD decision (LTF chart) point that occurred after the "trick" originally happened. I did not see any tricks occurring or a QM/Diamond forming as price returned to the level. I am pretty confused....
+
+Nice finding, bro.
+
+It looks to me that it was almost the typical QM setup mentioned in IF drawing during the webinar.
+
+Of course i could be wrong,
+
+Thanks
+---END---
+##### hs_p20_490 Bodostock paras:5
+hoeschec wrote: Here is another example - this one shows an area where a trick occurred but there were no clean orders left over to give price a bounce. Instead, a Diamond formed and bounced off a different location altogether. How could I have predicted the diamond bounce at the highs shown on the chart below? This type of pattern recognition is easy when looking at historic price action, but doing this in real time as price is unfolding seems really hard.... any advice?
+
+Hi, Bro,
+
+Not sure if i understand correctly what you are asking.
+
+I think IF previously mentioned before that when a trick is being played on approach to where tricks were played in the past, we must always expect that a diamond is likely to happen even if a QM was already formed. As such, our stoploss should not be set just above the high of the QM but rather beyond the supply/demand zone where the price or QM was reacting to.
+
+Thanks.
+---END---
+##### hs_p20_491 hoeschec paras:3
+Hi Bodostock,
+
+Thanks for stopping by my journal to help out!
+
+There are so many tricks to be found in these charts- which means price could turn at any one of these previous 'trick' areas. Here is the USD/CHF 4-hr chart which shows other levels where tricks were played but price didn't go that high. If I was watching the QM form and anticipated a diamond would form, how could I possibly know price wouldn't blow through to the top level I marked below (see the yellow dotted line). Why did price turn exactly where it did, and how would a trader in real time know this?
+---END---
+##### hs_p20_492 hoeschec paras:2
+Here was a good trade opportunity:
+
+When price engulfs an opposing FTR and returns to create a new FTR price tends to bounce nicely on its first time back.
+---END---
+##### hs_p20_493 hoeschec paras:8
+More good examples... They are easier to find if you look for parabolic price action around areas of a S/R flip area....
+
+Does anyone exclusively look for & trade these setups? They seem relatively straightforward and profitable. I guess catching them in real time is the challenging part...
+
+Another example USD-CAD 30 Min Chart:
+
+EUR-JPY 15M- another example
+
+E/J - same thing
+
+AUD-USD - this one took a while to form, but price bounced nicely on its FTB to the FTR.
+
+AUD-USD - More examples
+
+AUD-USD
+---END---
+##### hs_p20_494 hoeschec paras:3
+AUD-USD 30M
+
+This one didn't work out as well as the others, but there was a bounce. Depending on the timing of the entry, this trade would have given a 1:2 or 1:3 R:R.
+
+CHF-JPY 15M Chart:
+---END---
+##### hs_p20_495 salivan paras:2
+HI Hoeschec i wrote some note in you question hope you don't mind. i am not expert but this what i understood from RTM and the masters. hope it helps you mate
+
+best regards SALIVAN
+---END---
+##### hs_p20_496 hoeschec paras:1
+Anyone else looking for a good place to get short on EUR-USD?
+---END---
+##### hs_p20_497 hoeschec paras:4
+So I must say...I am having a hard time with the pinpoint entries that IF discusses in his webinars. I am still working on it though....
+
+Salivan- thanks for your post a couple of days ago.
+
+Basically, from what I am seeing, we are looking for a QM-turned Diamond in to a zone where a QM previously occurred.
+
+I am also focusing on these types of setups:
+---END---
+##### hs_p20_498 hoeschec paras:6
+I just watched IF's new video on compression...thanks IF!
+
+Here is an example I found where the setup failed pretty badly. I see compression and I see an engulf (or what looks to me like an engulf) into the compression. Had I been trading this in real time I would have gone short when price returned to the supply zone @ the red rectangle.
+
+Anyone have ideas on why price failed to follow through on this?
+
+Many thanks!
+
+Here is another failure - this time AUD-USD. I am definitely missing something here...
+
+Here is a good one- What makes this successful and the others a failure?
+---END---
+##### hs_p20_499 hoeschec paras:2
+G/J - practice on demo. Went short on EG in to CP.
+
+Target at Base-
+---END---
+##### hs_p20_500 omidfxt paras:4
+hey Hoeschec
+
+good job buddy
+
+here are some notes on your first chart.just my view, hope it makes sense
+
+Regards OmidFxt
+---END---

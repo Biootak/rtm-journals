@@ -1,0 +1,149 @@
+===== cppaz-p2 : 12 posts =====
+--- cppaz_p2_26 author=Aaron hash=e358b034
+EN: H,
+
+For me, if price hits your purlple level I would be on the safe side and say the zone is consumed.
+
+A few more examples:
+
+DT
+FA: H،
+
+از نظر من، اگر قیمت به سطح بنفشت برخورد کند، جانب احتیاط را می‌گیرم و می‌گویم ناحیه مصرف شده است.
+
+چند مثال دیگر:
+
+DT
+--- cppaz_p2_27 author=Hotochin hash=39133224
+EN: Daft trader 1 wrote: Hey H,
+
+This is how I would have marked the PAZ, I may be wrong here buddy, but I believe the zone may have been a little bigger. The circle is the much awaited engulf into the PAZ
+
+DT
+
+Hey DT. Marks are on the chart.
+FA: Daft trader 1 نوشت: هی H،
+
+من PAZ را این‌طور علامت می‌زدم؛ شاید اینجا اشتباه کنم رفیق، اما باور دارم ناحیه می‌توانست کمی بزرگ‌تر باشد. دایره همان اینگالف به داخل PAZ را نشان می‌دهد که مدت‌ها منتظرش بودیم
+
+DT
+
+هی DT. علامت‌ها روی نمودار هستند.
+--- cppaz_p2_28 author=Aaron hash=0812b76f
+EN: Hi H,
+
+Yes I understand what you mean, in all honesty, I am just marking up what sticks out to me, where you have marked CP can indeed be the CP PAZ, I have marked on the chart where the zone could have been placed, I guess this shows how different traders view the market. I think the CP you have marked would have been a very clear CP PAZ on the LTFs. I was merely drawing the zone as I saw it on that TF, I did not include the upper tails as I believed them to be insignificant, I decided which zone I wanted to be engulfed before I consiered an entry short.
+
+I have tried to explain it the best I can mate, I may be completely incorrect, but it is what is making sense to me right now
+
+DT
+FA: سلام H،
+
+بله، می‌فهمم منظورت چیست؛ صادقانه بگویم، من فقط چیزی را علامت می‌زنم که به چشمم می‌آید. جایی که تو CP علامت زده‌ای واقعاً می‌تواند همان CP PAZ باشد؛ من روی نمودار مشخص کرده‌ام که ناحیه کجا می‌توانست قرار بگیرد. حدس می‌زنم این نشان می‌دهد معامله‌گران مختلف چطور بازار را می‌بینند. فکر می‌کنم آن CP که تو علامت زده‌ای در تایم‌فریم‌های پایین‌تر یک CP PAZ بسیار واضح می‌بود. من صرفاً ناحیه را همان‌طور که در آن TF می‌دیدم رسم می‌کردم؛ دُم‌های بالایی را نگنجاندم چون باور داشتم بی‌اهمیت‌اند، و قبل از اینکه به ورود به پوزیشن فروش فکر کنم، تصمیم گرفته بودم کدام ناحیه را می‌خواهم اینگالف شود.
+
+تلاش کردم تا جای ممکن خوب توضیحش بدهم رفیق؛ شاید کاملاً اشتباه کنم، اما این چیزی است که همین حالا برایم منطقی است
+
+DT
+--- cppaz_p2_29 author=Aaron hash=f91a09d0
+EN: DT
+FA: DT
+--- cppaz_p2_30 author=PP15 hash=5881538c
+EN: Hi Aaron,
+
+nice PAZs, I hope I have done mine right and got "how to draw a CP PAZ" correctly. Your progress is inspiring, I will follow you - I will work on that. And going to post more ofcourse.
+
+PP15:)
+FA: سلام Aaron،
+
+PAZ های خوبی هستند؛ امیدوارم مال خودم را درست کشیده باشم و "چطور یک CP PAZ رسم کنیم" را درست فهمیده باشم. پیشرفتت الهام‌بخش است؛ دنبالت می‌کنم - روی آن کار خواهم کرد. و البته قرار است بیشتر پست کنم.
+
+PP15:)
+--- cppaz_p2_31 author=naascott hash=8849bd1b
+EN: Hello Aaron, a rather interesting topic indeed. Thank you for creating. I have a question if you don't mind.
+
+It is unclear to me what the rules are for plotting a cp paz. I assume the start of of the zone is the first part or beginning of cp & perhaps a break into LQ as the end?
+
+Thanks again.
+FA: سلام Aaron، واقعاً تاپیک جالبی است. ممنون که ساختیش. اگر اشکالی ندارد یک سؤال دارم.
+
+برایم روشن نیست قواعد رسم یک cp paz چیست. فرض می‌کنم شروع ناحیه همان بخش اول یا آغاز cp است و شاید پایانش شکست به داخل LQ باشد؟
+
+باز هم ممنون.
+--- cppaz_p2_32 author=in2forex hash=0506b91e
+EN: Hi Scotty
+
+I haven't seen a post from Aaron for a while now, but I'm sure he is still around. But maybe I can help on his behalf. When I was looking at CPaz I found this chart in Pedini's journal which really helped me, Hopefully it give an insight into CPaz's. I unfortunately don't have the original post's number.
+
+Regards I2F
+FA: سلام Scotty
+
+مدتی است پستی از Aaron ندیده‌ام، اما مطمئنم هنوز هست. ولی شاید بتوانم به جای او کمک کنم. وقتی داشتم CPaz را بررسی می‌کردم، این نمودار را در ژورنال Pedini پیدا کردم که واقعاً به من کمک کرد؛ امیدوارم دیدی درباره CPaz ها به تو بدهد. متأسفانه شماره پست اصلی را ندارم.
+
+ارادتمند I2F
+--- cppaz_p2_33 author=in2forex hash=c0f53a0f
+EN: Here's the original post
+
+Pedini's journal post #312
+FA: این هم پست اصلی
+
+پست #312 ژورنال Pedini
+--- cppaz_p2_34 author=bulbuli hash=e2f907b6
+EN: Hi Guys,
+
+Hope you both don't mind me dropping-in in the conversation
+
+While trying to work with FTRs, I came across CP PAZ trades in Pedini's Journal. I tried to comprehend the mechanics behind drawing CP PAZs. I, somehow, see them as 'Stacked FTRs' mostly.
+
+Have tried to represent what I understand pictorially:
+
+What do you guys think of it?
+
+And Thanks a lot I2F for the link to Pedini's post. Pedini uses CP PAZs beautifully
+FA: سلام بچه‌ها،
+
+امیدوارم هر دوی شما با آمدن من به وسط بحث مشکلی نداشته باشید
+
+وقتی داشتم با FTR ها کار می‌کردم، در ژورنال Pedini به معاملات CP PAZ برخوردم. سعی کردم سازوکار رسم CP PAZ ها را بفهمم. به‌نوعی آن‌ها را بیشتر 'FTR های روی‌هم‌چیده' می‌بینم.
+
+سعی کرده‌ام آنچه می‌فهمم را به تصویر بکشم:
+
+نظر شما بچه‌ها درباره‌اش چیست؟
+
+و ممنونِ فراوان I2F بابت لینک پست Pedini. Pedini از CP PAZ ها به‌زیبایی استفاده می‌کند
+--- cppaz_p2_35 author=naascott hash=f8869361
+EN: Sweet! Thank you In2 and Bulb:)
+
+Bulb, what you shared seems to make sense to me. Thank you again
+FA: عالی! ممنون In2 و Bulb:)
+
+Bulb، چیزی که به اشتراک گذاشتی برایم منطقی به نظر می‌رسد. باز هم ممنون
+--- cppaz_p2_36 author=naascott hash=d9bda050
+EN: How's this look folks for my first plot?
+
+Zooming out to H1, also seems to show some interesting PA, too!
+FA: بچه‌ها، اولین رسم من چطور به نظر می‌رسد؟
+
+وقتی به H1 زوم‌اوت می‌کنم، انگار PA جالبی هم نشان می‌دهد!
+--- cppaz_p2_37 author=charvo hash=d1492c7d
+EN: i guess i have realised something important, i might be wrong of coz
+
+there's no cp paz vs ftr paz
+
+if you zoom and look into a cp paz, it actually consists of several ftr paz
+
+and if the price cut into one edge of a paz, it is NEVER 100% going to go to the other edge of that PAZ. ---- it is only most likely to, which depends on something else.
+
+this 'something else' is basically missing from the previous discussion, what is it? it is the coming back 'momentum' or strength of the returning price. in other words, you expect an engulf of the 'one edge of a paz' by a POLE, then expect the other edge will be engulfed most likely.
+
+sorry, i don't have a chart handy right now, will provide one later.
+FA: فکر می‌کنم به چیز مهمی پی برده‌ام؛ البته ممکن است اشتباه کنم
+
+چیزی به نام cp paz در برابر ftr paz وجود ندارد
+
+اگر زوم کنی و داخل یک cp paz نگاه کنی، در واقع از چند ftr paz تشکیل شده است
+
+و اگر قیمت به یک لبهٔ paz نفوذ کند، هیچ‌وقت تضمین 100% وجود ندارد که به لبهٔ دیگر آن PAZ برود. ---- فقط احتمال رسیدن به آن زیاد است و این به چیز دیگری بستگی دارد.
+
+این 'چیز دیگر' اساساً در بحث قبلی غایب است؛ آن چیست؟ همان 'مومنتوم' بازگشت یا قدرت قیمت هنگام بازگشت است. به بیان دیگر، انتظار داری 'یک لبهٔ paz' توسط یک POLE اینگالف شود، بعد انتظار داری لبهٔ دیگر به احتمال زیاد اینگالف شود.
+
+ببخشید، الان نموداری در دسترسم نیست؛ بعداً یکی می‌گذارم.

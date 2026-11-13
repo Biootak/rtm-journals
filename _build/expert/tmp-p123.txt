@@ -1,0 +1,310 @@
+##### page 121 posts 24
+--- if_p121_1 | Ifmyante | paras=2 | nums=[]
+   [1] Hope you got through it okay.
+   [2] I'll be without power for up to ten days, so I may be quiet here
+--- if_p121_2 | Wes | paras=4 | nums=[]
+   [1] I'd like to dig a little deeper on the diagrams IF posted a few days back.
+   [2] (1) Price engulfs the LFL, and retraces all the way back to pick up the remaining orders (most extreme set of orders - MPL) in the UFL. (2) After that price goes South again until it meets its next target - the next LFL (3) because price has hit a target we're allowed to draw in the new UFL (yellow box)
+   [3] At current price we have no PA in this scale until we engulf the blue LFL at (4) or the extreme of the newly formed UFL(2)
+   [4] While drawing this a thought came to mind. In my diagram price picks up the remaining orders immediately (as opposed to IFs diagram) Isn't this then a starting compression?
+--- if_p121_3 | Ifmyante | paras=1 | nums=[]
+   [1] Essentially, yes
+--- if_p121_4 | Ifmyante | paras=4 | nums=[]
+   [1] I remember the days, long ago, where I'd try to catch the tips of all time highs.
+   [2] I'd enter, hoping this would be the last push before the collapse. I'd lose, and enter higher, with the same hope.
+   [3] On one of the indices I think I lost maybe 10% in a month (which was okay, since my non hope based trading was still making profits).
+   [4] Well, now, I'm trying it again, but this time with a little more finesse. Whether this is the top or not, I'm still going to profit from the entry, by taking some profit early
+--- if_p121_5 | dengaima | paras=7 | nums=["3000"]
+   [1] Ifmyante wrote: I remember the days, long ago, where I'd try to catch the tips of all time highs.
+   [2] I'd enter, hoping this would be the last push before the collapse. I'd lose, and enter higher, with the same hope.
+   [3] On one of the indices I think I lost maybe 10% in a month (which was okay, since my non hope based trading was still making profits).
+   [4] Well, now, I'm trying it again, but this time with a little more finesse. Whether this is the top or not, I'm still going to profit from the entry, by taking some profit early
+   [5] Keep bringing up your trades :D it's been long time since you last time you posted your trades. They are godlike and eyeopener :D
+   [6] Too bad my broker sucks.... Too much missed information (gaps). By the way I just noticed, your trade was 3000 pips?:OO
+   [7] Dengaima
+--- if_p121_6 | Ifmyante | paras=2 | nums=[]
+   [1] My mind is way too noisy to concentrate on trading, so I do it extremely rarely!
+   [2] But I'm keeping an eye on this instrument, as I'd love to hang a top to bottom trade on my wall
+--- if_p121_7 | Ifmyante | paras=1 | nums=[]
+   [1] I'm very glad I don't have your BTC feed, by the way. I'd not have found my trade opp with it!
+--- if_p121_8 | dengaima | paras=3 | nums=[]
+   [1] Ifmyante wrote: I'm very glad I don't have your BTC feed, by the way. I'd not have found my trade opp with it!
+   [2] I know...Whats your broker by the way? I am looking for new broker :/
+   [3] Dengaima
+--- if_p121_9 | Al3cs | paras=4 | nums=["6032.46"]
+   [1] Entry at plain and simple QM?
+   [2] Easy as that?!
+   [3] (Edit: Ignore what I wrote in chart, it's obviously wrong. The first point was the HH of QM.
+   [4] QM lvl is visible on price axes and is 6032.46)
+--- if_p121_10 | salivan | paras=3 | nums=[]
+   [1] Ifmyante wrote:
+   [2] I'd enter, hoping this would be the last push before the collapse. I'd lose, and enter higher, with the same hope.
+   [3] Last night one of those guys who are willing to be a millionaire by investing in digital Fiat currencies sent a PM to me that why i am not interested in Bitcoin to buy and invest , he was really happy for his investment , you can not believe you could see happiness in every word that he typed for me , i told him i think it's time to sell , he told why do you say this ?, and my answer : bcz you and sure the majority is happy now , i will buy it when blood is running in the streets .and from that time up to now , he is posting about how the bitcoin is going to take over the world . it's interesting
+--- if_p121_11 | Ifmyante | paras=2 | nums=[]
+   [1] Yes Al3cs, simple as that!
+   [2] I dislike the setup now, as where my entry is, a 2T has been created, so price might well want the clean orders a few pips above
+--- if_p121_12 | Ifmyante | paras=1 | nums=[]
+   [1] Bitcoin will only take over the World if it falls under the control of the Rothschild empire
+--- if_p121_13 | Ifmyante | paras=4 | nums=[]
+   [1] dengaima wrote: Ifmyante wrote: I'm very glad I don't have your BTC feed, by the way. I'd not have found my trade opp with it!
+   [2] I know...Whats your broker by the way? I am looking for new broker :/
+   [3] Dengaima
+   [4] You know, if I returned full time to trading, I would seriously consider doing it through a broker using the Currenex platform. I find it awful for charting, but for trading it kicks MT's ass
+--- if_p121_14 | Kavya | paras=1 | nums=[]
+   [1] Will price RT deep? or just trash out the zone? Sorry for what looking target ,there's PA hidden with engulf into ORFL!
+--- if_p121_16 | dengaima | paras=6 | nums=[]
+   [1] Ifmyante I got a stupid question, which has been bothering me, but I hope you can clarify it.
+   [2] You mentioned lately that FL can be only drawn once price has hit it's target.
+   [3] How do we trade FTB, if the target was been hit.
+   [4] As the engulf that has hit it's target is not tradeable.
+   [5] Also, if price has hits it target, there is possibility that price will break the FL on FTB, right?
+   [6] Dengaima
+--- if_p121_17 | einrikr | paras=6 | nums=[]
+   [1] May I have a crack on this?
+   [2] I hope I understand you correctly, but here goes:
+   [3] The FL can only be drawn if price hit it's target means that if price doesn't retrace back far enough, it's not hitting the FL below and therefore it's no new FL but price just goes beyond it.
+   [4] There are several targets for price in several stages of it moving.
+   [5] The target for a new FL, is the FL below (or above) it and that has to be hit.
+   [6] I hope that clarifies it, and that I'm explaining it correctly!
+--- if_p121_18 | Ifmyante | paras=2 | nums=[]
+   [1] I strongly suspect that if you draw your question, the answer will become clear
+   [2] Give it a try
+--- if_p121_19 | dengaima | paras=4 | nums=[]
+   [1] Ifmyante wrote: I strongly suspect that if you draw your question, the answer will become clear
+   [2] Give it a try
+   [3] Ifmyante, this is my answer. Does it make sense at all?
+   [4] Dengaima
+--- if_p121_20 | Astrokillah | paras=12 | nums=[]
+   [1] Hi Einrikr, hope you don't mind me chipping in. I think you didn't actually address his question , he was asking this:
+   [2] Let's say a kink is created after price engulf an existing FL, but we cannot immediately consider the kink as an FL (because price hasn't reached the next FL in the direction of an engulf), that means we have no basis to trade FTB (back to the kink) then, because there's no FL to begin with?
+   [3] And then he followed it up with, let's say price eventually hit the next FL (target) and it reverse back towards the kink (now an FL), we still cannot trade FTB then, because there is no PA in either direction, we need to wait for either one of UFL or LFL to be engulfed.
+   [4] So isn't the only scenario to trade FTB is for price to first reach a target FL (allow us to consider the kink as new FL), and then it needs to engulf the target FL before coming back to the kink, then we can trade FTB?
+   [5] Cheers
+   [6] Ak
+   [7] einrikr wrote: May I have a crack on this?
+   [8] I hope I understand you correctly, but here goes:
+   [9] The FL can only be drawn if price hit it's target means that if price doesn't retrace back far enough, it's not hitting the FL below and therefore it's no new FL but price just goes beyond it.
+   [10] There are several targets for price in several stages of it moving.
+   [11] The target for a new FL, is the FL below (or above) it and that has to be hit.
+   [12] I hope that clarifies it, and that I'm explaining it correctly!
+--- if_p121_21 | einrikr | paras=16 | nums=[]
+   [1] Hi AK,
+   [2] Feel very welcome to chip in, as every point of view might be helpful ;-)
+   [3] I wasn't really sure that I understood what he meant but I thought: lets try and help!
+   [4] Going through your reply tells me that I misunderstood the question there...
+   [5] Astrokillah wrote: Hi Einrikr, hope you don't mind me chipping in. I think you didn't actually address his question , he was asking this:
+   [6] Let's say a kink is created after price engulf an existing FL, but we cannot immediately consider the kink as an FL (because price hasn't reached the next FL in the direction of an engulf), that means we have no basis to trade FTB (back to the kink) then, because there's no FL to begin with?
+   [7] And then he followed it up with, let's say price eventually hit the next FL (target) and it reverse back towards the kink (now an FL), we still cannot trade FTB then, because there is no PA in either direction, we need to wait for either one of UFL or LFL to be engulfed.
+   [8] So isn't the only scenario to trade FTB is for price to first reach a target FL (allow us to consider the kink as new FL), and then it needs to engulf the target FL before coming back to the kink, then we can trade FTB?
+   [9] Cheers
+   [10] Ak
+   [11] einrikr wrote: May I have a crack on this?
+   [12] I hope I understand you correctly, but here goes:
+   [13] The FL can only be drawn if price hit it's target means that if price doesn't retrace back far enough, it's not hitting the FL below and therefore it's no new FL but price just goes beyond it.
+   [14] There are several targets for price in several stages of it moving.
+   [15] The target for a new FL, is the FL below (or above) it and that has to be hit.
+   [16] I hope that clarifies it, and that I'm explaining it correctly!
+--- if_p121_22 | PinkPanter | paras=1 | nums=[]
+   [1] did you enter this trade withouth SL like a TT?
+--- if_p121_23 | Ifmyante | paras=2 | nums=[]
+   [1] Nope. Not my trade at all!
+   [2] That was Mertch
+--- if_p121_24 | Ifmyante | paras=6 | nums=[]
+   [1] dengaima wrote: Ifmyante wrote: I strongly suspect that if you draw your question, the answer will become clear
+   [2] Give it a try
+   [3] Ifmyante, this is my answer. Does it make sense at all?
+   [4] Dengaima
+   [5] Yup. It all seems possible
+   [6] Did you answer your question?
+--- if_p121_25 | dengaima | paras=9 | nums=[]
+   [1] Ifmyante wrote: dengaima wrote: Ifmyante wrote: I strongly suspect that if you draw your question, the answer will become clear
+   [2] Give it a try
+   [3] Ifmyante, this is my answer. Does it make sense at all?
+   [4] Dengaima
+   [5] Yup. It all seems possible
+   [6] Did you answer your question?
+   [7] I came to conclusion that once price leaves the flag limit then comes back to the SR of the flag limit there most likely will be a bounce. But we have to manage our expectation.
+   [8] Also the SR of the flag limit is a flag limit on lower scale.
+   [9] Dengaima
+##### page 122 posts 25
+--- if_p122_1 | PinkPanter | paras=2 | nums=["100%"]
+   [1] Can someone explain me this quote: (i reread it 10X but i dont know what it means...) i think i know but i dont know 100%..
+   [2] Once price engulfs a level, all that's important is how far it retraces before hitting its target. While the pockets of orders remain in this RT, it remains strong. If price totally compresses (picking up all orders) forward from the tip of the RT, then we will look primarily for the orders at the entrance to said CP.
+--- if_p122_2 | Ifmyante | paras=1 | nums=[]
+   [1] Have you drawn it?
+--- if_p122_3 | Ifmyante | paras=1 | nums=[]
+   [1] Kiwi thoughts
+--- if_p122_4 | Wes | paras=4 | nums=[]
+   [1] 1.) At point 1 price engulfs a LFL - which at that point is PA (an engulf which didn’t hit its target (2) So, we will now look for an opportunity to short at the UFL.
+   [2] 2.) At point 1 price engulfs a LFL, retraces just a little bit and hits its target (2) straight after – which means a new UFL (3) is formed. I think this is what dengaima means – for an engulf to be tradeable we need the engulf to not hit its target. (However, price failed to pick up the orders in the UFL (4) so I guess these will always be attractive for the ITs?)
+   [3] 3.) In the 3rd scenario we have an engulf of the LFL (2) at (5) – so again we look for a short opportunity at the UFL (3) But we have to be more careful with this UFL. Why is that? That is because we have left unfilled orders at the UFL (4). (UFL (3) is of course tradeable if you like, but you should look for LTF PA to get the confirmation for the trade (PA in a lower scale in yellow box)
+   [4] Could this be the structure for a BSZ?
+--- if_p122_5 | Ifmyante | paras=1 | nums=[]
+   [1] I'm being pedantic here, but it's best to be accurate
+--- if_p122_6 | PinkPanter | paras=1 | nums=[]
+   [1] yes i drawn it... i only dont understand last sentence: then we will look primarily for the orders at the entrance to said CP.
+--- if_p122_7 | Ifmyante | paras=2 | nums=[]
+   [1] Hmmmm
+   [2] This is how I'd draw the text
+--- if_p122_8 | staurum | paras=1 | nums=[]
+   [1] Alerts active
+--- if_p122_9 | PinkPanter | paras=1 | nums=[]
+   [1] this is how i try to define the direction of trading...
+--- if_p122_10 | Kavya | paras=2 | nums=[]
+   [1] Ifmyante wrote: I'm being pedantic here, but it's best to be accurate
+   [2] Sorry for overcrowding on already analyzed chart.
+--- if_p122_11 | Rinehart | paras=1 | nums=[]
+   [1] Wow, talk about moving from an example diagram to a real life example! Great job Kavya!
+--- if_p122_12 | PinkPanter | paras=3 | nums=[]
+   [1] IF please confirm if i am thinking right. i am trying to connect to IT mind so this will be natural to be, becose i still canot belive it and it is not natural to me...
+   [2] i need confirmation that i am thinking right. i need to understand what is happening otherwise i am forcing myself to some rules which are working but in my head is a lot of questions and insecurity.
+   [3] i need to clear this up. Please help us! mybe a lot of guys will connect puzzles in head if you confirm that what i draw here is true.
+--- if_p122_13 | staurum | paras=2 | nums=[]
+   [1] Excuse me for chiming in, chief.
+   [2] PP, there is nothing wrong with it, just zoom in more a little and everything will make sense. price reacts where it's supposed to and it is absolutely perfect to the point.
+--- if_p122_14 | Ifmyante | paras=5 | nums=[]
+   [1] PinkPanter wrote: IF please confirm if i am thinking right. i am trying to connect to IT mind so this will be natural to be, becose i still canot belive it and it is not natural to me...
+   [2] i need confirmation that i am thinking right. i need to understand what is happening otherwise i am forcing myself to some rules which are working but in my head is a lot of questions and insecurity.
+   [3] i need to clear this up. Please help us! mybe a lot of guys will connect puzzles in head if you confirm that what i draw here is true.
+   [4] This sort of PA I've described many times, as you've done, so of course you're right.
+   [5] The one thing which would differ in my modern view is that taking profits is not something the ITs want to do, as their masters create all the money anyway, making it useless to them. Rather, I now see that every move is to cause the herd to lose.
+--- if_p122_15 | dengaima | paras=9 | nums=["2175","68774"]
+   [1] Ifmyante wrote: PinkPanter wrote: IF please confirm if i am thinking right. i am trying to connect to IT mind so this will be natural to be, becose i still canot belive it and it is not natural to me...
+   [2] i need confirmation that i am thinking right. i need to understand what is happening otherwise i am forcing myself to some rules which are working but in my head is a lot of questions and insecurity.
+   [3] i need to clear this up. Please help us! mybe a lot of guys will connect puzzles in head if you confirm that what i draw here is true.
+   [4] This sort of PA I've described many times, as you've done, so of course you're right.
+   [5] The one thing which would differ in my modern view is that taking profits is not something the ITs want to do, as their masters create all the money anyway, making it useless to them. Rather, I now see that every move is to cause the herd to lose.
+   [6] Hmm, interesting conclusion, then why they want to hit the target if their purpose is to make herds lose money? There is always a purpose if there is target, right?
+   [7] Ifmyante, can you comment on this? readthemarket.com/index.php/en/forum/jou...nal?start=2175#68774 .
+   [8] I wrote there ITs are taking profit, but after writing, you drop this bomb :D
+   [9] Dengaima
+--- if_p122_16 | Ifmyante | paras=2 | nums=[]
+   [1] Instrument price has vast implications all through the empire, so having it at the right place at the right time is important.
+   [2] That's why the ITs are told to have be ready to take all stops and turn price by a certain news event, then keep it ranged between x and y until all beliefs are compounded.
+--- if_p122_17 | Ifmyante | paras=4 | nums=[]
+   [1] dengaima wrote:
+   [2] I wrote there ITs are taking profit, but after writing, you drop this bomb :D
+   [3] Dengaima
+   [4] Simply substitute the word "profit" with "stops"
+--- if_p122_18 | Frosty | paras=5 | nums=["99.9%"]
+   [1] Master IF and Master Staurum,
+   [2] This could be a basic concept for 99.9% of RTM population, but I have a question on the chart regarding the LS and how to choose the exact one (as Bro staurum did back there).
+   [3] The question is: Do we choose LSs based on price levels that are touched exactly to the pip from above and below, i.e. to trap SR fanatics?
+   [4] As for the purple dashed line in bro Staurum's chart, I can only see the yellow circled exactly to the pip reactions from below, but not from above. If I were to choose, I would choose the blue with the green circled price level above due to the to-the-pip reactions marked with the brown circles, which obviously would fall short of the turning point later on.
+   [5] If you don't mind, I would appreciate any guidance on this matter. Thank you very much
+--- if_p122_19 | Ifmyante | paras=2 | nums=[]
+   [1] I'm afraid I only have time to give you a very quick answer.
+   [2] This is a pinball table, and the mushroom first in line to be hit by the ball, will, most likely be, the first mushroom to repel the ball
+--- if_p122_20 | PinkPanter | paras=6 | nums=[]
+   [1] Staurum with your post you SYNC my KINK TNX
+   [2] IF you give us another bomb :)
+   [3] i can explain your sentence like this:
+   [4] IF: "The one thing which would differ in my modern view is that taking profits is not something the ITs want to do, as their masters create all the money anyway, making it useless to them. Rather, I now see that every move is to cause the herd to lose."
+   [5] ME: Traders (we call them IT) are trading for big investors. So this traders have ordinary job and salay + bonuses. But the big profit goes into pocket of big guys. So IT are only employees of big guys, and big guys give them a lot of money so IT can move price. Am i correct IF?
+   [6] dengaima: they first take profits, then they take SL and go other way with orders filled
+--- if_p122_21 | Ifmyante | paras=4 | nums=[]
+   [1] The IT's boss is not just an investor. He's the emperor, whose empire spans the entire globe. He creates the currencies.
+   [2] Now, imagine the only currency on earth is a piece of paper with your picture on it, and that you have the only machine which prints these notes. Billions of them every day.
+   [3] Would you like to get paid in these notes?
+   [4] This may sound like abstract philosophy, but if you think about it, you may get into the mind of an emperor, and follow his train of thought right to the decision that it makes sense to own everything and everybody on the planet
+--- if_p122_22 | Frosty | paras=1 | nums=[]
+   [1] Thank you bro IF! Loud and clear
+--- if_p122_23 | Ifmyante | paras=1 | nums=[]
+   [1] Please draw and explain (on the chart) possible scenarios this can lead to
+--- if_p122_24 | dengaima | paras=5 | nums=[]
+   [1] Ifmyante wrote: In that scale, yes.
+   [2] However, note that the FTR Failed to pick up orders, so it is very often used as tip one of a BSZ
+   [3] I'll remove the article until I've rewritten it myself
+   [4] Ifmyante, does the FTR trade on return still work? There are a lot of materials on this thread, where you are trading FTB back to FTR. Also there's video on FTR in yourtube. I am confused again as it seems the RTM method has been changed to pretty much taking MPL or QM levels (DM) =/.
+   [5] Dengaima
+--- if_p122_25 | dengaima | paras=2 | nums=[]
+   [1] Ifmyante wrote: Please draw and explain (on the chart) possible scenarios this can lead to
+   [2] Like this?
+##### page 123 posts 21
+--- if_p123_1 | Mukhcin | paras=5 | nums=[]
+   [1] Ifmyante wrote: The IT's boss is not just an investor. He's the emperor, whose empire spans the entire globe. He creates the currencies.
+   [2] Now, imagine the only currency on earth is a piece of paper with your picture on it, and that you have the only machine which prints these notes. Billions of them every day.
+   [3] Would you like to get paid in these notes?
+   [4] This may sound like abstract philosophy, but if you think about it, you may get into the mind of an emperor, and follow his train of thought right to the decision that it makes sense to own everything and everybody on the planet
+   [5] this guy was IT, above him were emperors...
+--- if_p123_2 | Ifmyante | paras=7 | nums=[]
+   [1] dengaima wrote: Ifmyante wrote: In that scale, yes.
+   [2] However, note that the FTR Failed to pick up orders, so it is very often used as tip one of a BSZ
+   [3] I'll remove the article until I've rewritten it myself
+   [4] Ifmyante, does the FTR trade on return still work? There are a lot of materials on this thread, where you are trading FTB back to FTR. Also there's video on FTR in yourtube. I am confused again as it seems the RTM method has been changed to pretty much taking MPL or QM levels (DM) =/.
+   [5] Dengaima
+   [6] That's odd! I was asked this week why I only emphasise SR trading.
+   [7] Now, does the FTR trade on return still work? I wonder how we could find that out
+--- if_p123_3 | Ifmyante | paras=2 | nums=[]
+   [1] dengaima wrote: Like this?
+   [2] Okay. It seems a waste to not use this 2B
+--- if_p123_5 | Frosty | paras=6 | nums=[]
+   [1] Thank you for the quiz, brother. This is a great learning experience.
+   [2] So I'm pretty sure the BSZ would be used in the near future.
+   [3] But before, I think it is good symmetry for ITs to fill the range back to the last upper kink.
+   [4] Then I think it could do the two scenarios that I drew here.
+   [5] The blue boxes in the bottom are (from top to bottom respectively): PCP FL, 2nd, and last set of clean orders.
+   [6] Thank you for your continued guidance!
+--- if_p123_6 | PinkPanter | paras=2 | nums=[]
+   [1] this is like a chees game!
+   [2] IF has right.. you need to see in advance what can happen to prepare alerts and know the direction of trade
+--- if_p123_7 | Kavya | paras=1 | nums=[]
+   [1] Right or Wrong ? doesn't matter . view is required. Every pro was student one time , only mistakes and learning made him pro. So keep on posting !
+--- if_p123_8 | Ifmyante | paras=1 | nums=[]
+   [1] I do love to see peeps looking for what looks like PA but isn't
+--- if_p123_11 | moneydeep | paras=1 | nums=[]
+   [1] I haven't completed my study yet so... I was trying to see the larger picture and understand. I may be wrong. I am trying to understand market maker intentions.
+--- if_p123_12 | dengaima | paras=4 | nums=[]
+   [1] Well...shit i am scared after watching the video by Mukchin and searching for more ex illuminate stories... one of them is about NWO (New world order) and injecting micro chip in everyone's body... We are fcked....how to stop this madness? Also I feel bad learning to trade after watching the video because it seems we are just helping them circulating money. On other hand there's so many people trading, so even if I stop learning there's so many out there trading it won't make any difference....
+   [2] I had another thinking as well. Came to a conclusion that all businessmen are evil but with further thinking I thought the evil ones are those who have no humanity left - only thinking about money.
+   [3] Those who are businessmen and have humanity will try to stop this madness in their way. That's what I hope at least. I hope I can figure out the market sooner than later to make a change...
+   [4] Dengaima
+--- if_p123_13 | Ifmyante | paras=2 | nums=[]
+   [1] Why did I take this trade?
+   [2] Hint: You can use this chart to see the answer
+--- if_p123_14 | PinkPanter | paras=2 | nums=[]
+   [1] mybe becouse of this? becouse they want to make QM?
+   [2] this how i want to see in future... and becouse this big red pole down is showing us that in this area is big imbalance, so sell orders are still there.
+--- if_p123_15 | Ifmyante | paras=1 | nums=[]
+   [1] I like your thinking, but that's not why I entered there
+--- if_p123_16 | PinkPanter | paras=3 | nums=[]
+   [1] You overtook me by posting... i edited post and add some reason why did you sell there...
+   [2] but interesting... i was seeing this level as fake supply (every SD trader was trade this level)... and mybe also becouse of traped breakut traders who canot see a few steps in future that there is no sense to trade breakout if above you is gigant supply
+   [3] or... mybe becouse of PRECP trade :)
+--- if_p123_17 | alirezat | paras=3 | nums=[]
+   [1] Ifmyante wrote: Why did I take this trade?
+   [2] Hint: You can use this chart to see the answer
+   [3] you had PCP with IQM az impediment and BSZK,s MPL as the conservative first target with R bigger than 1.so a good place to SAS.
+--- if_p123_19 | Ifmyante | paras=2 | nums=[]
+   [1] The PCP made it all the easier to take, but I took this trade to show you how you how predictable the IT is.
+   [2] Keep 'em coming
+--- if_p123_20 | Edge | paras=8 | nums=["99.9%"]
+   [1] May be late posting on a topic yesterday but its important and IF mentioned it.
+   [2] Three stages I went through:
+   [3] 1. Thinking I can jump into the markets and we can all win! based on some shiny indicators and patterns (even news)
+   [4] 2. After a while, I realized that everyone cant win and where liquidity comes in. Some think this is the aha moment and we can trade with the ITs who are smart and well backed. I thought how smart, I can trade with them. After all, they manipulate to fill orders and make money. Money can be made with this method but its not for these reasons
+   [5] 3. Finally, I see it for what it is A SCAM!. No such thing as ITs and Smart money, just the elite few who own nearly every single sovereign bank in the world aka: Bowers/Rothschilds and all their cronies. Money is nothing. means %#$# all. Its about taking stops of the everyday masses and even those so-called "smart investors" to impoverish us all, but why?. Remember, they create the money. The so-called sovereign banks ARE PRIVATELY OWNED by the same group in nearly every country. Its a disgrace and nobody asks why this is not reported well, because they control Reuters who also distribute99.9% of news to the world.
+   [6] If we pressed restart on the whole system, we would owe money on the very first dollar they printed. Its actually impossible to pay off the debt. BUT when people and business cant pay back interest on the fake debt, their very real assets built from fake value are put in the hands of the elite, so they get tangible assets such as property, physical buildings, real commodities from nothing in the first place. Pure genius and also the very roots of everything wrong in this world.
+   [7] Just one more thing, order flow does present itself in the charts and some say as long as I can see this and the manipulation I am fine, as I can see the clean orders.This is true to some extent, the rule of order flow will exist. BUT they can always change the way they define entries and targets. Its a formula they can take the bench mark and add one or two more variables to throw us off. Say we like well-proved areas such as qualifiable FLs. Its logical right due to what has been taken out in the past, the decision to consume orders and make a new FL. , the clean orders in the new established FL may be a great area for a trade. Its currently a great way to trade and may be for years to come. BUT even this logic could always change. If the elite start to work out less and less people are falling for the traps (dare I say false flags - pun intended) they may work on a new trick which they have started to do for a little while. FLs are still great, but this can change. whose to say they wont start using a formula based on logic but throwing in a variable to encrypt it. Its a puzzle almost a code. They are lazy now, but this may change. Its our job to know how to reverse engineer moves to find the encryption key.
+   [8] Sorry for the rant :)
+--- if_p123_21 | moneydeep | paras=1 | nums=[]
+   [1] What I see.
+--- if_p123_22 | Ifmyante | paras=7 | nums=[]
+   [1] Edge wrote: May be late posting on a topic yesterday but its important and IF mentioned it.
+   [2] ..............................................................
+   [3] Sorry for the rant :)
+   [4] Everybody should be made understand that rant!
+   [5] Everybody should know that each person has desires.
+   [6] Most of us have desires which can be sated with money.
+   [7] But what do you desire once you're the omnipotent creator of the money?
+--- if_p123_23 | Ifmyante | paras=2 | nums=[]
+   [1] I think my question was a bit too tricky!
+   [2] Tricks get played into places where tricks got played
+--- if_p123_24 | staurum | paras=3 | nums=[]
+   [1] That writing from Sr. Edge should be kept hidden and carefully maintained.
+   [2] I do so very much wish that the cr**ked ev*L money printer stay lazy, but also the rest of the traders, apart from RTM diligent workers, stay way way lazier.
+   [3] that wording: so a strong s/d must be made above/below which stops will be placed = also another,.. not gem, a DIAMOND. Thank you chief, i was thinking about the following that may resonate with it. that trade is MONSTER!
+--- if_p123_25 | HCDE | paras=3 | nums=[]
+   [1] Thanks IF, another good trade for us to study.
+   [2] Am i right if i say that you took that trade along with the FL trader, and not the other one that is also active in the market...?
+   [3] Have good WE!

@@ -1,0 +1,299 @@
+### sniffing_p1_1
+EN: Starting with previous posts, showing the complete trades from opening to close in addition to overview analysis.
+
+My main trading time frames are H4 & H1. I might use the minimum
+indicators for confluence sake, such as Trend Lines, Channels and
+sometimes Oscillators for divergence signals.
+
+The core of my trading technique is tracing the order flow and trading Price Action at decision areas.
+
+Based on this equation Volatility = High Volume + Low Liquidity, I will be using some terms that might have the same meaning as follows:
+
+Base = Cluster = Equilibrium = Indecision = Balance = Stable = Normal = Efficient = Range = Consolidation = Flag
+
+Decision = Imbalance = Unstable = Abnormal = Inefficient = Momentum = Impulse = Liquidity Gap/Spike = Engulf = Pole
+
+Corrective Moves = Rebalancing
+
+Level = Zone = Area
+
+Decision Point = Supply / Demand
+
+Pivot Zone = S/R Flip/Swap = Key Level
+
+Broken = Ignored
+
+False Breakout = Fakeout = Stop Run = Stop Hunt = Trap
+
+Positioning / Accumulation = Liquidation / Distribution
+
+You can find my following articles in the
+	Markepedia
+, and I recommend reading all of the other great articles in there:
+
+1).
+	Order Flow
+
+2).
+	Trend Direction / Highs & Lows
+
+3).
+	Key Levels and Price Action There
+
+4).
+	Stacked Orders/Zones
+
+5).
+	Momentum Away / Liquidity Gap
+
+6).
+	Fakeouts
+
+All comments and critics are most welcomed.
+
+Welcome to my journal!
+
+Edit: I was one of the co-founders of RTM
+ and it was fun for quite sometime but good things never last. I've
+decided to seperate myself from RTM and now I have my own place where I
+call home. This journal will remain here for the old time's sake.
+FA: از پست‌های قبلی شروع می‌کنم؛ معاملات کامل را از لحظهٔ ورود تا خروج، علاوه بر تحلیل کلی، نشان می‌دهم.
+
+تایم‌فریم‌های اصلی معامله‌گری من H4 و H1 هستند. برای هم‌راستایی ممکن است کمترین تعداد اندیکاتور را به کار ببرم؛ مثل خطوط روند، کانال‌ها و بعضی وقت‌ها اسیلاتورها برای سیگنال واگرایی.
+
+هستهٔ تکنیک معامله‌گری من ردیابی جریان سفارش و معامله بر پایهٔ پرایس اکشن در نواحی تصمیم است.
+
+بر پایهٔ این معادله که نوسان = حجم بالا + نقدینگی کم، از چند اصطلاح استفاده می‌کنم که ممکن است معنای یکسانی داشته باشند، به این شرح:
+
+بیس = کلاستر = تعادل = بلاتکلیفی = توازن = پایدار = عادی = کارا = رنج = فشرده‌سازی = پرچم
+
+تصمیم = عدم‌تعادل = ناپایدار = غیرعادی = ناکارا = مومنتوم = ایمپالس = گپ/اسپایک نقدینگی = انگولف = میله
+
+حرکات اصلاحی = بازتعادل‌سازی
+
+سطح = زون = ناحیه
+
+نقطهٔ تصمیم = عرضه / تقاضا
+
+ناحیهٔ پیوت = فلیپ/سواپ S/R = سطح کلیدی
+
+شکسته = نادیده‌گرفته‌شده
+
+بریک‌اوت کاذب = فیک‌اوت = استاپ‌ران = استاپ‌هانت = تله
+
+پوزیشن‌گیری / انباشت = لیکوییدیشن / توزیع
+
+مقالات زیر را می‌توانید در Markepedia پیدا کنید و توصیه می‌کنم همهٔ مقالات خوب دیگرِ آنجا را هم بخوانید:
+
+1). جریان سفارش
+
+2). جهت روند / سقف‌ها و کف‌ها
+
+3). سطوح کلیدی و پرایس اکشن همان‌جا
+
+4). سفارش‌های چیندار/زون‌ها
+
+5). فاصله‌گرفتن مومنتوم / گپ نقدینگی
+
+6). فیک‌اوت‌ها
+
+همهٔ نظرات و انتقادها با آغوش باز پذیرفته می‌شود.
+
+به ژورنال من خوش آمدید!
+
+ویرایش: من یکی از هم‌بنیان‌گذاران RTM بودم و مدتی طولانی سرگرم‌کننده بود، اما چیزهای خوب هیچ‌وقت دوام نمی‌آورند. تصمیم گرفتم از RTM جدا شوم و حالا جای خودم را دارم که آن را خانه می‌نامم. این ژورنال به احترام روزگار قدیم همین‌جا می‌ماند.
+
+### sniffing_p1_2
+EN: Gold trades...
+FA: معاملات طلا...
+
+### sniffing_p1_3
+EN: more of gold trades...
+FA: باز هم معاملات طلا...
+
+### sniffing_p1_4
+EN: yes gold...
+FA: بله، طلا...
+
+### sniffing_p1_5
+EN: More gold but this one is my fav cuz I was stopped out before price returns and hit my TG, had a good lesson from this one.
+
+SL got hit
+
+Explaining why...
+
+Finally price reached my TG as will be shown in next post
+FA: باز هم طلا، ولی این یکی موردعلاقهٔ من است، چون پیش از بازگشت قیمت استاپ خوردم و بعد به TG خودم رسیدم؛ درس خوبی از این معامله گرفتم.
+
+SL خورد
+
+توضیح می‌دهم چرا...
+
+بالاخره TG من لمس شد، همان‌طور که در پست بعدی نشان داده می‌شود
+
+### sniffing_p1_6
+EN: This short trade follows the previous long.
+
+had a DD but this time I didn't set a SL, so
+ I waited for price at higher supply zone. However, my 2nd entry as it
+shown in last chart wasn't a right decision.
+
+Explaining the trapped traders...
+
+On the right side of attached gold chart
+there is a marked demand zone, this zone was a very clear and strong
+demand twice. One time to leave the zone at ( A ), another one as retest
+ as a spike at ( B ). What do you think traders did when it came back at
+ ( C )? They bought it. Well it happens that it was not the good thing
+to do here so they got trapped at ( C ). When price came back near their
+ order price at ( D ) they could get out of their longs hence
+mechanically becoming sellers.
+
+Done..closed them all...
+
+Another example of trapped traders and price behavior there...
+FA: این معاملهٔ شورت بعد از لانگ قبلی است.
+
+دراوداون داشتم، ولی این بار SL نگذاشتم، پس منتظر قیمت در زون عرضهٔ بالاتر ماندم. با این حال، ورود دومم که در چارت قبلی نشان داده شد تصمیم درستی نبود.
+
+توضیح دربارهٔ معامله‌گران گرفتارشده...
+
+در سمت راست چارت طلای پیوست یک زون تقاضای مشخص‌شده هست؛ این ناحیه دو بار تقاضای بسیار واضح و قوی بود. یک بار برای خروج از آن در ( A )، و بار دیگر به‌عنوان ریتست به شکل اسپایک در ( B ). به نظرتان معامله‌گران وقتی قیمت در ( C ) برگشت چه کردند؟ خریدند. خوب، معلوم شد اینجا کار درستی نبود، پس در ( C ) گرفتار شدند. وقتی قیمت دوباره نزدیک قیمت سفارششان در ( D ) آمد، توانستند از لانگ‌هایشان خارج شوند و در نتیجه به‌طور مکانیکی فروشنده شدند.
+
+تمام شد.. همه را بستم...
+
+مثال دیگری از معامله‌گران گرفتارشده و رفتار قیمت در آن ناحیه...
+
+### sniffing_p1_7
+EN: Yen setup...
+FA: ستاپ ین...
+
+### sniffing_p1_8
+EN: Looonie trade...
+FA: معاملهٔ لونی...
+
+### sniffing_p1_9
+EN: Fiber trades...
+FA: معاملات فایبر...
+
+### sniffing_p1_10
+EN: Fiber again...
+
+moved my SL below the demand zone instead of middle of the zone
+FA: باز هم فایبر...
+
+SL را از وسط زون به زیر زون تقاضا بردم
+
+### sniffing_p1_11
+EN: Aussie QM.
+FA: QM استرالی.
+
+### sniffing_p1_12
+EN: Aussie short, had two sell orders, 2nd order was closed by mistake at 1.0223 which I dont mind :P
+FA: شورت استرالی؛ دو سفارش فروش داشتم، سفارش دوم اشتباهی در 1.0223 بسته شد که البته برایم مهم نیست :P
+
+### sniffing_p1_13
+EN: To evaluate myself I think I've been doing good with swings, but I have three weaknesses:
+
+1) I need to take into consideration the LTF levels and do more trading on LTF.
+
+2) I need to work on my entry to avoid as much as possible any drawdown.
+
+3) I need to be more flexible with my TP as I'm with my SL.
+FA: اگر خودم را ارزیابی کنم، فکر می‌کنم در سوینگ‌ها خوب بوده‌ام، اما سه ضعف دارم:
+
+1) باید سطوح LTF را در نظر بگیرم و روی LTF بیشتر معامله کنم.
+
+2) روی نقطهٔ ورودم کار کنم تا حد امکان از دراوداون دور بمانم.
+
+3) در TP هم مثل SL انعطاف بیشتری داشته باشم.
+
+### sniffing_p1_14
+EN: can we ever be emotionless?! cuz many
+times price reversed just a few pips before my TG, that was recently
+reflected on my decisions to exit my trades earlier... psychology
+FA: آیا اصلاً می‌توانیم بی‌احساس باشیم؟! چون بارها قیمت فقط چند پیپ پیش از TG من برگشت و همین اخیراً در تصمیم‌هایم برای خروج زودتر از معامله‌ها بازتاب پیدا کرد... روان‌شناسی
+
+### sniffing_p1_15
+EN: I'vebeen in this trade since yesterday
+when i published in AB that USDX to hit monthly high, today i posted
+about a correlation between USDX and USDJPY...
+	a QM on USDX
+ and
+	Yen at demand
+ so i held my positions till target.
+
+PS. links included and cuz i didn't post a before the fact setup here goes a proof.
+FA: از دیروز که در AB نوشتم USDX به سقف ماهانه می‌رسد، در این معامله هستم؛ امروز هم دربارهٔ همبستگی USDX و USDJPY پست گذاشتم... یک QM روی USDX و ین در تقاضا، پس پوزیشن‌هایم را تا تارگت نگه داشتم.
+
+پ.ن. لینک‌ها هست و چون ستاپ را قبل از وقوع اینجا نگذاشته بودم، این هم مدرکش.
+
+### sniffing_p1_16
+EN: Great job!
+FA: عالی بود!
+
+### sniffing_p1_17
+EN: For the same reasons i canceled my short gold setup
+	in here post #15
+ i bought it during momentum movement in correlation with USDX and S&P500.
+
+Now to look for short again.
+
+PS. I've added arrows on USDX & S&P500
+FA: به همین دلایل، ستاپ شورت طلایم را در پست شمارهٔ 15 اینجا لغو کردم و در جریان حرکت مومنتوم، همسو با USDX و S&P500، خرید کردم.
+
+حالا دوباره دنبال شورت باشم.
+
+پ.ن. روی USDX و S&P500 فلش اضافه کردم.
+
+### sniffing_p1_18
+EN: Would love to see this kind of reaction in gold.
+FA: دوست دارم چنین واکنشی را در طلا ببینم.
+
+### sniffing_p1_19
+EN: Fx.Sniffer wrote: Would love to see this kind of reaction in gold.
+
+I'm also watching this level. It looks promising.
+FA: Fx.Sniffer نوشت: دوست دارم چنین واکنشی را در طلا ببینم.
+
+من هم این سطح را زیر نظر دارم. امیدبخش به نظر می‌رسد.
+
+### sniffing_p1_20
+EN: kruger wrote: I'm also watching this level. It looks promising.
+
+First it has to decide between 1630 and 1600.
+FA: kruger نوشت: من هم این سطح را زیر نظر دارم. امیدبخش به نظر می‌رسد.
+
+اول باید بین 1630 و 1600 تصمیم بگیرد.
+
+### sniffing_p1_21
+EN: jumped in, lets see how deep it'll go.
+FA: وارد شدم، ببینیم چقدر عمیق می‌رود.
+
+### sniffing_p1_22
+EN: update...
+
+Edit: for more details on fakeout check this topic
+	How to identify a False Breakout (Liquidity Spike)
+FA: آپدیت...
+
+ویرایش: برای جزئیات بیشتر دربارهٔ فیک‌اوت این تاپیک را ببینید: چطور یک بریک‌اوت کاذب (اسپایک نقدینگی) را تشخیص دهیم
+
+### sniffing_p1_23
+EN: another update on M15.
+FA: یک آپدیت دیگر روی M15.
+
+### sniffing_p1_24
+EN: interesting...we have two highs before
+breaking the trend inside the box, one created by a spike and the other
+at the end of the movement before it breaks the trend, price returned to
+ retest the first high.
+
+perhaps another fakeout in work?! wil see, this is a very unique case.
+FA: جالب است... پیش از شکستن روند داخل باکس دو سقف داریم؛ یکی با اسپایک ساخته شد و دیگری در پایان حرکت، درست قبل از شکست روند. قیمت برگشت تا سقف اول را ریتست کند.
+
+شاید یک فیک‌اوت دیگر در راه باشد؟! باید دید؛ این مورد واقعاً بی‌نظیر است.
+
+### sniffing_p1_25
+EN: what will happen tomorrow?!
+FA: فردا چه می‌شود؟!

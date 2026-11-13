@@ -1,0 +1,18 @@
+##### whynotwork_p2_26 0
+khivraj wrote: Now I know that there are no such things as 'Stop hunts' when we are trading Supply & Demand. But I experienced something similar today with this trade taken on 1H. Since there HAS to be something I missed, going to 15M reveals a kink that (on hindsight) may have been the reason to price crossing the level.
+##### whynotwork_p2_26 3
+IMO a stop hunt is exactly what happened (they took your stop). You’ll see stuff like this all the time, where price FOs a high into true S/D. This is part of what you learn from RTM, how spot these “fake” S/D zones and trade at the stop zones. When I look at this chart the H1 zone you drew doesn’t look important at all, but the M15 zone does. 2 reasons. First it’s a DP, where price decided to break down. Second, if you look left on the H1 it appears to line up with some highs (you’ll likely find more reasons looking further left).
+##### whynotwork_p2_27 0
+khivraj wrote: Now I know that there are no such things as 'Stop hunts' when we are trading Supply & Demand. But I experienced something similar today with this trade taken on 1H. Since there HAS to be something I missed, going to 15M reveals a kink that (on hindsight) may have been the reason to price crossing the level.
+##### whynotwork_p2_30 0
+You have to pick a timeframe and stick to the targets of that timeframe. I think you are jumping the gun. Look at the larger picture. What you have drawn are not very significant to the hourly timeframe. Try grasp more of the RTM concepts. A FTR is formed when price breaks a previous Flag which was supporting the price the opposite way. See the diagram.
+##### whynotwork_p2_32 5
+Hope you don’t mind me chiming in. The key is the break of something SIGNIFICANT. Not just any high or low. Being able to recognize what is significant is extemely important. This usually means zooming out more or going higher timeframe to see the bigger picture. Take another look at moneydeeps chart and really try to understand it. Then go back and redraw your chart (you’ll have to zoom out a bit)
+##### whynotwork_p2_38 0
+Yes Khivraj, it is a reaction You have a first decision at the FL, the one you named demand. Big pole then flag (this is indecision) and decision to break on upside. The blue line is a support. You have a low (something held the price there and it stopped falling.) This support is broken so a FL is created. And it is immediately re engulfed up. Again you need to see what is on the left, what broke what to understand what is going on.
+##### whynotwork_p2_46 0
+The last FL you posted is correct (I marked it the same yesterday). But you cannot expect that EACH FL will reverse/bounce price. They just don't work like that:) FLs are barriers. When such barrier is broken then price wants next barrier. Apart from that some of them are far more important than others.
+##### whynotwork_p2_46 1
+If you want reaction on a FL, then some additional circumstances must happen (remember that we read the price at RTM, we are not "pattern traders" like in standard technical analysis!) so we must read price intention before think about trade. One of such circumstance was mentioned by moneydeep in one of answers that you get recently (FL must engulf something to the left). There are many more which you will spot in the future.
+##### whynotwork_p2_46 2
+Anyway I'm strongly recommend you to take all moneydeep tips into account and continue your work with FLs. Mark as many you can and then investigate why some fail and why some bounce price. And please don't repeat my fault and when practicing with FLs: mark not only one FL per chart, but try to mark many FLs on the single "view".

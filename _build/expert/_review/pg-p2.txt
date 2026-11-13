@@ -1,0 +1,65 @@
+===== pg-p2 : 16 posts =====
+--- pg_p2_26 author=prosenjitghosh hash=484f1a22
+EN: Some more learning and refining of RTM concepts.
+FA: ادامهٔ یادگیری و دقیق‌تر کردن درکم از مفاهیم RTM.
+--- pg_p2_27 author=prosenjitghosh hash=39b9deb9
+EN: Planning a trade in a QM supply, let's see how it works.
+FA: برنامه‌ریزی یک معامله در عرضهٔ QM، ببینیم چطور جواب می‌دهد.
+--- pg_p2_28 author=prosenjitghosh hash=868a9351
+EN: Planning another trade based on newly formed QM over a Monthly demand. let's see how it works works.
+FA: برنامه‌ریزی یک معاملهٔ دیگر بر اساس QM تازه‌شکل‌گرفته روی یک تقاضای ماهانه. ببینیم چطور کار می‌کند.
+--- pg_p2_29 author=prosenjitghosh hash=c0eee8e9
+EN: prosenjitghosh wrote: Planning another trade based on newly formed QM over a Monthly demand. let's see how it works works.
+
+Stopped Out in this trade. Price gave a small bounce and then a big fall. Also broke the Monthly demand.
+FA: prosenjitghosh نوشت: برنامه‌ریزی یک معاملهٔ دیگر بر اساس QM تازه‌شکل‌گرفته روی یک تقاضای ماهانه. ببینیم چطور کار می‌کند.
+
+در این معامله استاپ خوردم. قیمت یک بازگشت کوچک داد و بعد یک ریزش بزرگ. تقاضای ماهانه را هم شکست.
+--- pg_p2_30 author=prosenjitghosh hash=80d7865b
+EN: Another QM trade, Full target achieved.. QM was in 60 mins chart,so took a Hourly Income Trade and achieved 5:1. Decision points also worked out.
+FA: یک معاملهٔ دیگر بر اساس QM؛ تارگت به‌طور کامل محقق شد. QM در چارت 60 دقیقه‌ای بود، بنابراین یک معاملهٔ درآمد ساعتی انجام دادم و به نسبت 5:1 رسیدم. نقاط تصمیم نیز به‌خوبی عمل کردند.
+--- pg_p2_31 author=prosenjitghosh hash=dc4ac94c
+EN: Just a thought. Nifty Analysis on Daily Chart, mixing RTM concepts with Candle Stick Patterns. Will observe this..
+FA: صرفاً یک ایده است. تحلیل Nifty در چارت روزانه با ترکیب مفاهیم RTM و الگوهای کندلی. روند آن را دنبال خواهم کرد...
+--- pg_p2_32 author=prosenjitghosh hash=d4e509e0
+EN: prosenjitghosh wrote: Another QM trade, Full target achieved.. QM was in 60 mins chart,so took a Hourly Income Trade and achieved 5:1. Decision points also worked out.
+
+Analysing the Decision Points of this trade in a M5.
+FA: prosenjitghosh نوشت: یک معاملهٔ دیگر بر اساس QM؛ تارگت به‌طور کامل محقق شد. QM در چارت 60 دقیقه‌ای بود، بنابراین یک معاملهٔ درآمد ساعتی انجام دادم و به نسبت 5:1 رسیدم. نقاط تصمیم نیز به‌خوبی عمل کردند.
+
+تحلیل نقطه‌های تصمیم این معامله در M5.
+--- pg_p2_33 author=prosenjitghosh hash=f8a99d63
+EN: Back to Back QM's in Infy. Clear distribution is happening, Institutions are filling their sell order's.
+FA: QM‌های پشت‌سرهم در Infy. توزیع واضحی در جریان است، نهادها دارند سفارش‌های فروششان را پر می‌کنند.
+--- pg_p2_34 author=prosenjitghosh hash=c21618a8
+EN: Decision Points. Understanding HTF versus LTF zones. Daily Chart
+
+60 Mins Chart
+FA: نقاط تصمیم. شناخت نواحی تایم‌فریم بالاتر در مقایسه با تایم‌فریم پایین‌تر. چارت روزانه
+
+چارت 60 دقیقه‌ای
+--- pg_p2_35 author=prosenjitghosh hash=f28952e6
+EN: QM, 3 Drive, Compression.
+FA: QM، 3 Drive، فشردگی.
+--- pg_p2_36 author=prosenjitghosh hash=7a448d88
+EN: Price Action and Future movement.
+FA: پرایس اکشن و حرکت آینده.
+--- pg_p2_38 author=prosenjitghosh hash=2456e8af
+EN: Why engulf/Fakeouts are so important. Even an engulf of a Minor SR can give you huge returns.
+FA: چرا اینگالف/شکست‌های کاذب این‌قدر مهم‌اند؟ حتی اینگالف یک SR فرعی هم می‌تواند بازدهی بسیار زیادی داشته باشد.
+--- pg_p2_39 author=prosenjitghosh hash=352ddcce
+EN: prosenjitghosh wrote: Just a thought. Nifty Analysis on Daily Chart, mixing RTM concepts with Candle Stick Patterns. Will observe this..
+
+An Update on the same.
+FA: prosenjitghosh نوشت: صرفاً یک ایده است. تحلیل Nifty در چارت روزانه با ترکیب مفاهیم RTM و الگوهای کندلی. روند آن را دنبال خواهم کرد...
+
+یک به‌روزرسانی دربارهٔ همان.
+--- pg_p2_40 author=prosenjitghosh hash=ade0199b
+EN: SR FLIP
+FA: SR FLIP
+--- pg_p2_41 author=prosenjitghosh hash=6bb93ff3
+EN: FL's created at the Breakout point's of a Flag are wonderful places to take high probability trades.
+FA: FL‌هایی که در نقاط شکست یک Flag شکل می‌گیرند، نواحی بسیار مناسبی برای ورود به معاملات با احتمال موفقیت بالا هستند.
+--- pg_p2_42 author=prosenjitghosh hash=fe572354
+EN: Diamond in Nifty
+FA: الگوی الماس در Nifty

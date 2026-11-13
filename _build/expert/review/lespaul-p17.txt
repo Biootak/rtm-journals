@@ -1,0 +1,462 @@
+### lespaul_p17_1
+EN: Having gone through the homework tasks in order to understand each
+individual part of the puzzle, the next step for me has been to start
+working through journals to see the journey that others have been on in
+order to help me piece it together bit by bit.
+
+I have to thank you Les Paul because this is the first journal I've
+finished and I've found it incredibly helpful. Not only do you freely
+offer help to others but there's also such a clear progression through
+each page of the journal which is so encouraging for people trying to
+master this stuff.
+
+I've saved numerous screenshots and made tons of notes from your various
+ posts which are all saved away in my trading notebook, and I would give
+ particular mention to your posts on PAZ and fakeouts which really
+opened my eyes to the two areas I've found the hardest to grasp.
+
+I salute you sir!
+FA: بعد از اینکه تمرین‌های خانگی را انجام دادم تا هر تکه از پازل را جداگانه بفهمم، قدم بعدی‌ام این شده که شروع کنم به خواندن ژورنال‌ها و ببینم بقیه چه مسیری را رفته‌اند، تا کمکم کند تکه‌تکه آن را کنار هم بچینم.
+
+باید از تو ممنون باشم Les Paul، چون این اولین ژورنالی است که تا آخر خوانده‌ام و واقعاً برایم مفید بوده. نه‌فقط آزادانه به دیگران کمک می‌کنی، بلکه پیشرفت در هر صفحه از ژورنال هم چنان روشن است که برای کسانی که می‌خواهند در این کار استاد شوند، خیلی دلگرم‌کننده است.
+
+اسکرین‌شات‌های بی‌شماری ذخیره کرده‌ام و از پست‌های مختلفت کلی یادداشت برداشته‌ام که همه در دفتر معامله‌گری‌ام نگه‌داری می‌شوند؛ به‌ویژه پست‌هایت درباره PAZ و فیک‌اوت‌ها را باید نام ببرم که واقعاً چشمم را به دو بخشی باز کرد که فهمیدنشان سخت‌ترین بود.
+
+کلاه از سر برمی‌دارم، جناب!
+
+### lespaul_p17_2
+EN: Les_Paul wrote: Another try:
+
+Hi LP, i'm new here.... sorry about this question but, what's the difference between "Caps on Price" and "DBR, RBD"?
+FA: Les_Paul نوشت: یک تلاش دیگر:
+
+سلام LP، من تازه به اینجا آمده‌ام.... شرمنده که این سؤال را می‌پرسم، ولی تفاوت «Caps on Price» با «DBR، RBD» چیست؟
+
+### lespaul_p17_3
+EN: Hi Paul, if you dont mind i want to ask you something about the confirmation when price come to an FTR:Les_Paul wrote: one nice example of what I was taking about:
+
+I have some doubts about how you choose which
+level have to be engulfed in order to use it as confirmation. There is
+your chart with some of my thoughts in it. Thank you very much.
+
+Boby
+FA: سلام Paul، اگر اشکالی ندارد می‌خواهم چیزی درباره تأییدیه‌ای بپرسم که وقتی قیمت به یک FTR می‌رسد: Les_Paul نوشت: یک نمونهٔ خوب از چیزی که درباره‌اش حرف می‌زدم:
+
+درباره اینکه چطور انتخاب می‌کنی کدام سطح باید اینگالف شود تا به‌عنوان تأییدیه استفاده شود، چند ابهام دارم. این هم چارت تو با بعضی از فکرهای من در آن. خیلی ممنون.
+
+Boby
+
+### lespaul_p17_4
+EN: hi LP, there is another doubt with some trades that you taken. How you
+do top down analysis when you trade? Details on the chart. Also. FTR 1
+from your chart seems to be FTB to FTR1
+
+Thanx,
+
+BobyLes_Paul wrote: this is what I saw...
+FA: سلام LP، یک ابهام دیگر هم درباره بعضی از معامله‌هایی دارم که گرفته‌ای. وقتی معامله می‌کنی چطور تحلیل بالا به پایین انجام می‌دهی؟ جزئیات روی چارت است. همچنین FTR 1 در چارت تو به نظرم FTB به FTR1 است.
+
+ممنون،
+
+BobyLes_Paul نوشت: این چیزی است که دیدم...
+
+### lespaul_p17_5
+EN: bobyv87 wrote:
+
+hi LP, there is another doubt with some trades that you taken. How you
+do top down analysis when you trade? Details on the chart. Also. FTR 1
+from your chart seems to be FTB to FTR1
+
+Thanx,
+
+BobyLes_Paul wrote: this is what I saw...
+
+hi bobyv87,
+
+I've been reading RTM articles and now I'm reading some journals before doing anything else.
+
+I registered in January 2013, but at that time I was focused in other
+things so I didn't pay attention to the necessary process of learning.
+
+These last 3 weeks I've been searching knowledge with a purpose and it makes a big difference.
+
+Having said that, analize what I'm going to write and ponder if it makes sense to you.
+
+This is also an FTR. Why you didn't take into account this?
+
+Look at the swing points that define FTR1. The HH at the right is also the first Swing High of FTR2.
+
+I can see two inner ftrs (ftrs within FTR1). The right leg of the second one is the one that defines FTR1.
+
+FTR PAZ is defined by FTR1 and FTR2
+
+About Engulfs:
+
+Post
+	readthemarket.com/index.php/forum/journa...rnal?start=400#35777
+
+I have some doubts about how you choose which level have to be engulfed in order to use it as confirmation.
+
+Think in terms of Flag Limits: :Picture a Rally - Base - Rally Or Pole - FTR - Flagging if you like.
+
+When price breaks the limit, it will likely fill the base.
+
+Now look at what was engulfed in those charts and then look at the distance to the base.
+
+If price engulfs the limit and retraces, entry is at DP to engulf, and target is the base of the pole.
+
+Hope this helps.
+FA: bobyv87 نوشت:
+
+سلام LP، یک ابهام دیگر هم درباره بعضی از معامله‌هایی دارم که گرفته‌ای. وقتی معامله می‌کنی چطور تحلیل بالا به پایین انجام می‌دهی؟ جزئیات روی چارت است. همچنین FTR 1 در چارت تو به نظرم FTB به FTR1 است.
+
+ممنون،
+
+BobyLes_Paul نوشت: این چیزی است که دیدم...
+
+سلام bobyv87،
+
+داشتم مقاله‌های RTM را می‌خواندم و حالا پیش از هر کار دیگری چند ژورنال می‌خوانم.
+
+ژانویهٔ 2013 ثبت‌نام کردم، ولی آن موقع حواسم جای دیگری بود و به روند لازم برای یادگیری توجهی نکردم.
+
+این 3 هفتهٔ اخیر با هدف دنبال دانش رفته‌ام و تفاوتش خیلی زیاد است.
+
+با این اوصاف، آنچه می‌خواهم بنویسم را تحلیل کن و ببین آیا برایت منطقی است.
+
+این هم یک FTR است. چرا این را در نظر نگرفتی؟
+
+به سوئینگ‌پوینت‌هایی نگاه کن که FTR1 را تعریف می‌کنند. HH سمت راست همان اولین سوئینگ‌های FTR2 است.
+
+دو FTR داخلی می‌بینم (FTR‌هایی داخل FTR1). پای راست دومی همان است که FTR1 را تعریف می‌کند.
+
+FTR PAZ را FTR1 و FTR2 تعریف می‌کنند.
+
+درباره اینگالف‌ها:
+
+پست
+readthemarket.com/index.php/forum/journa...rnal?start=400#35777
+
+درباره اینکه چطور انتخاب می‌کنی کدام سطح باید اینگالف شود تا به‌عنوان تأییدیه استفاده شود، چند ابهام دارم.
+
+به زبان لیمیت‌های FL فکر کن: اگر دوست داری این‌طور تصور کن: رالی - بیس - رالی، یا میله - FTR - فلگینگ.
+
+وقتی قیمت لیمیت را می‌شکند، به احتمال زیاد بیس را پر می‌کند.
+
+حالا ببین در آن چارت‌ها چه چیزی اینگالف شده و بعد فاصله تا بیس را نگاه کن.
+
+اگر قیمت لیمیت را اینگالف کند و برگردد، ورود در DP تا اینگالف است و تارگت، بیسِ میله.
+
+امیدوارم کمک کند.
+
+### lespaul_p17_6
+EN: Thank you LP, that explanation help me a lot! In fact... every PAZ is a FLAG and we trade only its limit.
+FA: ممنون LP، این توضیح خیلی کمکم کرد! در واقع... هر PAZ یک FL است و ما فقط لیمیتش را معامله می‌کنیم.
+
+### lespaul_p17_7
+EN: bobyv87 wrote: Thank you LP, that explanation help me a lot! In fact... every PAZ is a FLAG and we trade only its limit.
+
+ALERT!
+
+I'm not Les_Paul.
+
+Be aware of whom answered you.
+FA: bobyv87 نوشت: ممنون LP، این توضیح خیلی کمکم کرد! در واقع... هر PAZ یک FL است و ما فقط لیمیتش را معامله می‌کنیم.
+
+هشدار!
+
+من Les_Paul نیستم.
+
+دقت کن چه کسی به تو جواب داده است.
+
+### lespaul_p17_8
+EN: By the way... forgot to quote this advice from ifmyante:
+
+You will find flags with several hiccups in their way. You must see if
+there is the possibility of a swap level at any of them. Look further
+left to find if there is a key level that may cause a reversal or at
+least a pullback.
+FA: راستی... یادم رفت این توصیه از ifmyante را نقل کنم:
+
+FL‌هایی پیدا می‌کنی که چند دست‌انداز در مسیرشان هست. باید ببینی آیا در یکی از آن‌ها امکان یک سطح سوآپ وجود دارد یا نه. بیشتر به چپ نگاه کن تا ببینی سطح کلیدی‌ای هست که می‌تواند باعث بازگشت، یا دست‌کم یک پول‌بک شود.
+
+### lespaul_p17_9
+EN: Oh Sorry, thank you jsr for your answer :)jsr wrote:
+bobyv87 wrote: Thank you LP, that explanation help me a lot! In fact... every PAZ is a FLAG and we trade only its limit.
+
+ALERT!
+
+I'm not Les_Paul.
+
+Be aware of whom answered you.
+FA: وای ببخشید، ممنون jsr برای جوابت :)jsr نوشت:
+bobyv87 نوشت: ممنون LP، این توضیح خیلی کمکم کرد! در واقع... هر PAZ یک FL است و ما فقط لیمیتش را معامله می‌کنیم.
+
+هشدار!
+
+من Les_Paul نیستم.
+
+دقت کن چه کسی به تو جواب داده است.
+
+### lespaul_p17_10
+EN: bobyv87 wrote: Oh Sorry, thank you jsr for your answer :)
+
+No need to apologize.
+
+I just wanted you to be aware that I'm not experienced and that you
+should take my words whith a grain of salt, because that is just my
+understanding of the charts.
+
+I was worried that you thought it was an answer from an experienced trader as is Les_Paul.
+FA: bobyv87 نوشت: وای ببخشید، ممنون jsr برای جوابت :)
+
+لازم نیست عذرخواهی کنی.
+
+فقط می‌خواستم بدانی من تجربه‌ای ندارم و باید حرف‌هایم را با کمی شک و تردید بگیری، چون این فقط برداشت من از چارت‌هاست.
+
+نگران بودم فکر کرده باشی این جواب یک معامله‌گر باتجربه مثل Les_Paul است.
+
+### lespaul_p17_11
+EN: hi LP
+
+thanks all of u make us think deep in market
+
+i have question about sweet ftr i did try to find but some failed there must be some more detail we have to look into
+
+and in pic. do u think it will be valid ftr. ??
+
+sorry for english
+FA: سلام LP
+
+ممنون از همه‌تان که باعث می‌شوید عمیق‌تر در بازار فکر کنیم.
+
+درباره FTR شیرین سؤال دارم؛ تلاش کردم پیدایش کنم، ولی بعضی‌ها بی‌نتیجه ماندند و حتماً جزئیات بیشتری هست که باید بررسی کنیم.
+
+و در تصویر، به نظرت FTR معتبری خواهد بود؟؟
+
+ببخشید اگر انگلیسی‌ام ضعیف است.
+
+### lespaul_p17_12
+EN: bump
+FA: بامپ
+
+### lespaul_p17_13
+EN: Wooow is all I can say! Loaded with lots of information. However I still don't get how to draw cp Paz:) needs more studying
+FA: فقط می‌توانم بگویم وای! پر از اطلاعات. ولی هنوز نفهمیده‌ام چطور cp Paz را رسم کنم :) باید بیشتر مطالعه کنم.
+
+### lespaul_p17_14
+EN: Was reading the legendary journal again.
+
+Referring to Eurocash's reply to Les Paul's failed trade at post 3, i
+wonder why the point of decision to engulf is not the lower one as
+highlighted.
+FA: داشتم دوباره این ژورنال افسانه‌ای را می‌خواندم.
+
+درباره پاسخ Eurocash به معاملهٔ ناموفق Les Paul در پست 3، برایم سؤال است چرا نقطهٔ تصمیم برای اینگالف همان سطح پایین‌تری نیست که علامت زده شده.
+
+### lespaul_p17_15
+EN: May i ask why the charts for this posting are no longer for available? Thanks
+
+Harry wrote:
+romant wrote:
+
+you took these 2 as touch trades. a good sign that price is turning
+would be if they had engulfed the flag limit, which none of them did
+here.
+
+Harry, could you post some charts with the flag limits you're talking about please?
+
+in the 2nd chart there is no visible FL, the 30Y USD auction gave some
+crazy momentum and there were no signs it was slowing down.
+
+[/quote]
+FA: اجازه هست بپرسم چرا چارت‌های این پست دیگر در دسترس نیستند؟ ممنون
+
+Harry نوشت:
+romant نوشت:
+
+این 2 را به‌عنوان تاچ‌ترید گرفتی. نشانهٔ خوبی که قیمت در حال چرخیدن است این می‌بود که لیمیت FL را اینگالف کرده باشند، که هیچ‌کدام در اینجا این کار را نکردند.
+
+Harry، می‌شود چند چارت با همان لیمیت‌های FL که می‌گویی بگذاری؟
+
+در چارت دوم هیچ FL قابل‌مشاهده‌ای نیست؛ حراج 30Y USD یک مومنتوم دیوانه‌وار داد و هیچ نشانه‌ای از کند شدنش نبود.
+
+[/quote]
+
+### lespaul_p17_16
+EN: The early content from this forum was copied from another site called
+AceGazette that IF was also involved with. My guess is these images were
+ hosted on there and didn't get copied across.
+FA: محتوای قدیمی این فروم از سایت دیگری به نام AceGazette کپی شده بود که IF هم در آن نقش داشت. حدس می‌زنم این تصاویر آنجا میزبانی می‌شدند و کپی نشدند.
+
+### lespaul_p17_17
+EN: I see. Thanks for the infor, mate.
+
+What a pity. How i wish i found this RTM site earlier. Must have missed a lot of great charts.
+
+ZeeDeveel wrote: The early content
+ from this forum was copied from another site called AceGazette that IF
+was also involved with. My guess is these images were hosted on there
+and didn't get copied across.
+FA: که این طور. ممنون از اطلاعات، رفیق.
+
+چه حیف. کاش زودتر این سایت RTM را پیدا می‌کردم. حتماً چارت‌های عالی زیادی را از دست داده‌ام.
+
+ZeeDeveel نوشت: محتوای قدیمی این فروم از سایت دیگری به نام AceGazette کپی شده بود که IF هم در آن نقش داشت. حدس می‌زنم این تصاویر آنجا میزبانی می‌شدند و کپی نشدند.
+
+### lespaul_p17_18
+EN: Hi, Les Paul
+
+Sorry to post this in your journal.
+
+But because this was your posting which i have some queries, i thought
+it would be better to post it here , hoping to get some feedback from
+anyone.
+
+In posting 174, you have shared your knowledge of PAZ - compression, stacked supply/demand and zone between PAZ.
+
+I couldn't understand the concept of stacked supply/ demand PAZ and how to really spot them.
+
+And for another reason i do not understand is that unlike compression
+where supply/demand was already consumed while on the way up or down to
+the the next DP, ity was said that stacked supply and demand still has
+its unfilled order left behind. So i do not understand the rationale
+that when the the edge of the SPAZ was engulfed, how is it that we can
+be so sure it will reach the other end of the PAZ? I mean since there
+are unfilled orders at every stacked supply/demand, shouldn't we be
+expecting reaction at one of the stack that could possibly bring price
+back to the original direction?
+
+I have this thinking because since stacked supply and demand has
+unfilled orders and they carry on to move lower /higher, aren't they
+considered as FTR and if they are considered as FTR, that's the more i
+feel that price would have reaction when they retraced to the stacks
+rather than engulfing every one of them all the way to the other end.
+
+Then on this example Les Paul shown in his post 174, he showed this chart as an example of a SPAZ and how it was engulfed.
+
+Now as per i added my comments in the chart, to me i am not sure how this looks like a stacked supply.
+
+I thought it was a engulf of low, then price retraced but capped formed a RBD FTR.
+
+Then as price bounced back later, it was at least to me that price was
+resisted by the FTR and came down. But i am surprised to see that Les
+Paul treated this contact as being an engulf of the zone.
+
+Of course, price eventually did go back to the very top in the end.
+
+But i just could not understand how was that an engulf.
+
+Thank you
+FA: سلام، Les Paul
+
+ببخشید که این را در ژورنال تو می‌نویسم.
+
+ولی چون این پست خودت بود و درباره‌اش چند سؤال دارم، فکر کردم بهتر است همین‌جا بنویسم، به این امید که از کسی بازخورد بگیرم.
+
+در پست 174، دانشت درباره PAZ را به اشتراک گذاشته‌ای — فشردگی، عرضه/تقاضای انباشته و ناحیهٔ بین PAZ.
+
+مفهوم PAZ عرضه/تقاضای انباشته و اینکه واقعاً چطور باید آن‌ها را تشخیص داد را نفهمیدم.
+
+و دلیل دیگری که نمی‌فهمم این است که برخلاف فشردگی، جایی که عرضه/تقاضا در مسیر بالا یا پایین رفتن به DP بعدی از قبل مصرف شده بود، گفته شد عرضه و تقاضای انباشته هنوز سفارش پرنشده‌اش را پشت سر دارد. پس منطق این را نمی‌فهمم که وقتی لبهٔ SPAZ اینگالف شد، چطور می‌توانیم این‌قدر مطمئن باشیم که به سر دیگر PAZ می‌رسد؟ یعنی چون در هر عرضه/تقاضای انباشته سفارش‌های پرنشده هست، نباید انتظار واکنش در یکی از این انباشته‌ها را داشته باشیم که ممکن است قیمت را به جهت اصلی برگرداند؟
+
+این فکر را دارم چون عرضه و تقاضای انباشته سفارش‌های پرنشده دارد و آن‌ها به حرکت پایین‌تر/بالاتر ادامه می‌دهند؛ آیا FTR حساب نمی‌شوند و اگر FTR حساب شوند، بیشتر حس می‌کنم قیمت وقتی به انباشته‌ها برمی‌گردد واکنش نشان می‌دهد، نه اینکه همه را تا سر دیگر اینگالف کند.
+
+بعد در این مثالی که Les Paul در پست 174 نشان داد، این چارت را به‌عنوان نمونهٔ SPAZ و نحوهٔ اینگالف شدنش آورد.
+
+حالا همان‌طور که نظرم را در چارت اضافه کرده‌ام، برای من روشن نیست چطور این شبیه عرضهٔ انباشته است.
+
+فکر کردم اینگالف یک لو بود، بعد قیمت برگشت ولی کپ خورد و یک RBD FTR ساخت.
+
+بعد وقتی قیمت دوباره برگشت بالا، دست‌کم برای من این‌طور بود که FTR مقاومت کرد و قیمت پایین آمد. ولی تعجب می‌کنم که Les Paul این برخورد را اینگالف ناحیه در نظر گرفته.
+
+البته قیمت در نهایت واقعاً تا بالاترین سطح برگشت.
+
+ولی فقط نمی‌توانستم بفهمم چطور آن یک اینگالف بود.
+
+ممنون
+
+### lespaul_p17_19
+EN: Bodostock wrote: I see. Thanks for the infor, mate.
+
+What a pity. How i wish i found this RTM site earlier. Must have missed a lot of great charts.
+
+ZeeDeveel wrote: The early
+content from this forum was copied from another site called AceGazette
+that IF was also involved with. My guess is these images were hosted on
+there and didn't get copied across.
+
+Don't feel bad. There's no shortage of great charts here
+FA: Bodostock نوشت: که این طور. ممنون از اطلاعات، رفیق.
+
+چه حیف. کاش زودتر این سایت RTM را پیدا می‌کردم. حتماً چارت‌های عالی زیادی را از دست داده‌ام.
+
+ZeeDeveel نوشت: محتوای قدیمی این فروم از سایت دیگری به نام AceGazette کپی شده بود که IF هم در آن نقش داشت. حدس می‌زنم این تصاویر آنجا میزبانی می‌شدند و کپی نشدند.
+
+ناراحت نباش. اینجا از چارت‌های خوب کم نیست.
+
+### lespaul_p17_20
+EN: Bodostock wrote: Was reading the legendary journal again.
+
+Referring to Eurocash's reply to Les Paul's failed trade at post 3, i
+wonder why the point of decision to engulf is not the lower one as
+highlighted.
+FA: Bodostock نوشت: داشتم دوباره این ژورنال افسانه‌ای را می‌خواندم.
+
+درباره پاسخ Eurocash به معاملهٔ ناموفق Les Paul در پست 3، برایم سؤال است چرا نقطهٔ تصمیم برای اینگالف همان سطح پایین‌تری نیست که علامت زده شده.
+
+### lespaul_p17_21
+EN: I can see that an other master coming back
+
+(he is online )
+
+we missed you master
+
+BEST REGARDS
+
+Salivan
+FA: می‌بینم که استاد دیگری دارد برمی‌گردد
+
+(آنلاین است)
+
+دلمان برایت تنگ شده بود استاد
+
+با بهترین آرزوها
+
+Salivan
+
+### lespaul_p17_22
+EN: Thank you mate!
+
+Remember, the fact that I started learning here earlier than you does not necessarily make me a master, forget about titles I am just a humble student like you, maybe with more experience. I am here to work with you and learn with you guys again.
+
+Les_Paul
+FA: ممنون رفیق!
+
+یادت باشد اینکه من زودتر از تو اینجا شروع کردم، لزوماً مرا استاد نمی‌کند؛ عنوان‌ها را فراموش کن، من هم مثل تو یک شاگرد ساده‌ام، شاید با تجربه‌ای بیشتر. من اینجا هستم تا با تو کار کنم و دوباره با شما یاد بگیرم.
+
+Les_Paul
+
+### lespaul_p17_23
+EN: Yes I agree but IMO you are an IDOL.
+FA: موافقم، ولی به نظر من تو یک اسطوره‌ای.
+
+### lespaul_p17_24
+EN: sorry salivan it 's spontaneous output
+FA: شرمنده salivan، ناخواسته گفتم.
+
+### lespaul_p17_25
+EN: Les_Paul wrote: Thank you mate!
+
+Remember, the fact that I started learning here earlier than you does not necessarily make me a master, forget about titles I am just a humble student like you, maybe with more experience. I am here to work with you and learn with you guys again.
+
+Les_Paul
+
+so nice to see you L_P
+FA: Les_Paul نوشت: ممنون رفیق!
+
+یادت باشد اینکه من زودتر از تو اینجا شروع کردم، لزوماً مرا استاد نمی‌کند؛ عنوان‌ها را فراموش کن، من هم مثل تو یک شاگرد ساده‌ام، شاید با تجربه‌ای بیشتر. من اینجا هستم تا با تو کار کنم و دوباره با شما یاد بگیرم.
+
+Les_Paul
+
+خیلی خوب است که تو را می‌بینم L_P

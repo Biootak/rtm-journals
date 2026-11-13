@@ -1,0 +1,212 @@
+[
+ [
+  "michal238",
+  "batches\\michal238-p7.json",
+  "michal238_p7_17",
+  "NUMMISS ['1']"
+ ],
+ [
+  "omidfx",
+  "batches\\omidfx-p5.json",
+  "omidfx_p5_12",
+  "NUMMISS ['1']"
+ ],
+ [
+  "omidfx",
+  "batches\\omidfx-p5.json",
+  "omidfx_p5_15",
+  "NUMMISS ['1']"
+ ],
+ [
+  "omidfx",
+  "batches\\omidfx-p6.json",
+  "omidfx_p6_18",
+  "NUMMISS ['2']"
+ ],
+ [
+  "omidfx",
+  "batches\\omidfx-p7.json",
+  "omidfx_p7_25",
+  "NUMMISS ['3']"
+ ],
+ [
+  "omidfx",
+  "batches\\omidfx-p8.json",
+  "omidfx_p8_20",
+  "NUMMISS ['2', '2', '2']"
+ ],
+ [
+  "omidfx",
+  "batches\\omidfx-p9.json",
+  "omidfx_p9_20",
+  "NUMMISS ['2', '2']"
+ ],
+ [
+  "omidfx",
+  "batches\\omidfx-p9.json",
+  "omidfx_p9_22",
+  "NUMMISS ['2', '2']"
+ ],
+ [
+  "omidfx",
+  "batches\\omidfx-p10.json",
+  "omidfx_p10_18",
+  "NUMMISS ['1']"
+ ],
+ [
+  "omidfx",
+  "batches\\omidfx-p10.json",
+  "omidfx_p10_20",
+  "NUMMISS ['1']"
+ ],
+ [
+  "vitaldrug",
+  "batches\\vitaldrug-p1.json",
+  "vitaldrug_p1_8",
+  "NUMMISS ['2']"
+ ],
+ [
+  "vitaldrug",
+  "batches\\vitaldrug-p3.json",
+  "vitaldrug_p3_19",
+  "LATSEQ 'FO to FL to shakeout retailers'"
+ ],
+ [
+  "vitaldrug",
+  "batches\\vitaldrug-p6.json",
+  "vitaldrug_p6_7",
+  "NUMMISS ['2']"
+ ],
+ [
+  "vitaldrug",
+  "batches\\vitaldrug-p9.json",
+  "vitaldrug_p9_17",
+  "NUMMISS ['1']"
+ ],
+ [
+  "benhur",
+  "batches\\benhur-p1.json",
+  "benhur_p1_12",
+  "LATSEQ 'BS trading with Kenneth Lee'"
+ ],
+ [
+  "benhur",
+  "batches\\benhur-p1.json",
+  "benhur_p1_22",
+  "NUMMISS ['8']"
+ ],
+ [
+  "benhur",
+  "batches\\benhur-p1.json",
+  "benhur_p1_23",
+  "NUMMISS ['8']"
+ ],
+ [
+  "benhur",
+  "batches\\benhur-p3.json",
+  "benhur_p3_21",
+  "NUMMISS ['2']"
+ ],
+ [
+  "benhur",
+  "batches\\benhur-p8.json",
+  "benhur_p8_13",
+  "NUMMISS ['1']"
+ ],
+ [
+  "homeoffinisher",
+  "batches\\homeoffinisher-p2.json",
+  "homeoffinisher_p2_38",
+  "NUMMISS ['2']"
+ ],
+ [
+  "homeoffinisher",
+  "batches\\homeoffinisher-p4.json",
+  "homeoffinisher_p4_79",
+  "NUMMISS ['1']"
+ ],
+ [
+  "homeoffinisher",
+  "batches\\homeoffinisher-p5.json",
+  "homeoffinisher_p5_103",
+  "NUMMISS ['2']"
+ ],
+ [
+  "homeoffinisher",
+  "batches\\homeoffinisher-p7.json",
+  "homeoffinisher_p7_168",
+  "NUMMISS ['2']"
+ ],
+ [
+  "linos",
+  "batches\\linos-p4.json",
+  "linos_p4_14",
+  "NUMMISS ['2']"
+ ],
+ [
+  "linos",
+  "batches\\linos-p4.json",
+  "linos_p4_16",
+  "NUMMISS ['2']"
+ ],
+ [
+  "linos",
+  "batches\\linos-p9.json",
+  "linos_p9_14",
+  "NUMMISS ['8']"
+ ],
+ [
+  "mukhcin",
+  "batches\\mukhcin-p1.json",
+  "mukhcin_p1_19",
+  "NUMMISS ['2']"
+ ],
+ [
+  "mukhcin",
+  "batches\\mukhcin-p7.json",
+  "mukhcin_p7_15",
+  "NUMMISS ['4']"
+ ],
+ [
+  "mukhcin",
+  "batches\\mukhcin-p7.json",
+  "mukhcin_p7_16",
+  "NUMMISS ['2']"
+ ],
+ [
+  "mukhcin",
+  "batches\\mukhcin-p8.json",
+  "mukhcin_p8_5",
+  "NUMMISS ['4']"
+ ],
+ [
+  "aran",
+  "batches\\aran-p7.json",
+  "aran_p7_14",
+  "WROTE 1!=2"
+ ],
+ [
+  "mel",
+  "batches\\mel-p1.json",
+  "mel_p1_23",
+  "NUMMISS ['2']"
+ ],
+ [
+  "mel",
+  "batches\\mel-p3.json",
+  "mel_p3_2",
+  "NUMMISS ['2']"
+ ],
+ [
+  "mel",
+  "batches\\mel-p4.json",
+  "mel_p4_24",
+  "NUMMISS ['1']"
+ ],
+ [
+  "mel",
+  "batches\\mel-p5.json",
+  "mel_p5_20",
+  "WROTE 1!=2"
+ ]
+]

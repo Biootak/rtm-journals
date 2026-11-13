@@ -1,0 +1,582 @@
+### if_p41_1
+EN: This is the way I see it. We have Flags, FTRs then the FL. A flag is
+just a stop in momentum after an important area is broken. Our FTR is
+when an important area is broken, then price stops in momentum the
+continues in the direction of the engulf. Now our Flag Limit (FL) is
+present in both the FTR and the Flag. The FL is simply exactly what its
+name say it is; it's our Flag Limit. Price consolidates between the
+limits. I've added a chart to show exactly what I'm saying. If I'm wrong
+ on this matter, please correct me, because this subject is a very
+important piece of the puzzle.
+FA: من این‌طور می‌بینمش. ما پرچم داریم، بعد FTR و بعد FL. پرچم فقط یک توقف در مومنتوم است، بعد از این‌که یک ناحیهٔ مهم شکسته می‌شود. FTR ما آنجاست که ناحیهٔ مهمی شکسته می‌شود، بعد قیمت در مومنتوم توقف می‌کند و سپس در جهت اینگالف ادامه می‌دهد. حالا لیمیت پرچم ما (FL) هم در FTR هست و هم در پرچم. FL دقیقاً همان چیزی است که از اسمش برمی‌آید؛ لیمیت پرچم ماست. قیمت بین لیمیت‌ها تثبیت می‌کند. یک نمودار اضافه کرده‌ام که دقیقاً همان چیزی را که می‌گویم نشان بدهد. اگر در این موضوع اشتباه می‌کنم، لطفاً تصحیحم کنید، چون این مبحث قطعهٔ بسیار مهمی از پازل است.
+
+### if_p41_2
+EN: charlespips wrote: Guys,
+
+FL is the two lines/zones that 'enclose' the flag area like a sandwich.
+The bread is the limit, Not the egg inside. I remember that we must find
+ setup on the edge, which in this case the 'Flag Limit' itself, not
+inside the flag. The edge where the price break later become the new DP
+point for price to return to. So I guess we must look at the limit, not
+the flag area itself (which is mid range).
+
+As for FTRs vs FLs, It's the same thing guys. what's become important is
+ that not all FTR/FL is good for entry. It MUST break important key
+levels before you can consider its value. That's my half cent.
+
+Please kindly correct me if I'm wrong.
+
+Hmm... i will make my self amnesia about FL for now and just know FTR...
+FA: charlespips نوشت: بچه‌ها،
+
+FL همان دو خط/زونی است که ناحیهٔ پرچم را مثل یک ساندویچ «احاطه» می‌کند. نان، لیمیت است، نه تخم‌مرغی که داخلش است. یادم است که باید ستاپ را روی لبه پیدا کنیم، که در این مورد خودِ «لیمیت پرچم» است، نه داخل پرچم. لبه‌ای که قیمت بعداً می‌شکند، نقطهٔ DP جدیدی می‌شود که قیمت به آن برمی‌گردد. پس حدس می‌زنم باید به لیمیت نگاه کنیم، نه خود ناحیهٔ پرچم (که میان‌محدوده است).
+
+دربارهٔ FTR در برابر FL، بچه‌ها همان یک چیز است. چیزی که مهم شده این است که هر FTR/FL برای ورود خوب نیست. باید سطوح کلیدی مهم را بشکند تا بتوانی ارزشش را در نظر بگیری. این هم سهم ناچیز من.
+
+لطفاً اگر اشتباه می‌گویم تصحیحم کنید.
+
+هوم... فعلاً خودم را دربارهٔ FL به فراموشی می‌زنم و فقط FTR را می‌دانم...
+
+### if_p41_3
+EN: I used to consider Russel as quite annoying but have to admit what he
+is on about recently with the Trews is close to the truth.
+
+Corporations need boycotting until the tax situation is sorted.
+
+aus1way wrote: These are very
+interesting times there are many groups gathering momentum. I have never
+ really been a fan of Russell Brand but this week he won me over with
+his support for the residents of a London council estate. A US company
+Westbrook are trying to evict the residents for the land this to me is
+no different than the Maasai issue as in effect your exterminating
+"Cockneys" by forcing families that have lived there for centuries out
+of London. Russell has since been ganged up on by the powers that be
+that clearly show how the media is used to manipulate the minds of the
+masses. Russell has responded to this attack very well with another
+great example of why we need to protect the internet. Not to long ago
+you could not respond, fight back and expose your attacker in this way
+the only way to get to the masses was through Tv News and papers here
+Russell takes a stab at both and exposes Murdoch. I will post some links
+ that if you get time to watch them in the correct order you will see
+two stories unfold the Resident story and how control via media works
+and is now under threat by the internet.
+
+1.
+
+2.
+
+3.
+
+4.
+FA: قبلاً Russel را آدم اعصاب‌خردکنی می‌دانستم، ولی باید قبول کنم آن چه اخیراً با این «Trews» می‌گوید به حقیقت نزدیک است.
+
+تا وقتی وضعیت مالیات درست نشود، باید شرکت‌ها را تحریم کرد.
+
+aus1way نوشت: این‌ها روزگار جالبی است، گروه‌های زیادی دارند قدرت می‌گیرند. من هرگز واقعاً طرفدار Russell Brand نبودم، ولی این هفته با حمایتش از ساکنان یک مجتمع مسکونی شورای لندن برنده‌ام کرد. یک شرکت آمریکایی به نام Westbrook می‌خواهد ساکنان را برای گرفتن زمین بیرون کند؛ این برای من با ماجرای Maasai فرقی ندارد، چون در عمل داری «کاکنی‌ها» را نابود می‌کنی و خانواده‌هایی را که قرن‌ها آنجا زندگی کرده‌اند از لندن بیرون می‌اندازی. Russell بعد از این مورد توسط صاحبان قدرت محاصره شد و همین خوب نشان می‌دهد رسانه چطور برای دستکاری ذهن توده‌ها استفاده می‌شود. Russell به این حمله خیلی خوب جواب داد و نمونهٔ عالی دیگری نشان داد که چرا باید از اینترنت محافظت کنیم. تا همین اواخر نمی‌توانستی این‌طور جواب بدهی، مقابله کنی و مهاجمت را افشا کنی؛ تنها راه رسیدن به توده‌ها تلویزیون و روزنامه بود، و اینجا Russell به هر دو می‌تازد و Murdoch را افشا می‌کند. چند لینک می‌گذارم که اگر وقت کردی به ترتیب درست ببینی، دو داستان را می‌بینی: داستان ساکنان و این‌که کنترل از طریق رسانه چطور کار می‌کند و الان با آمدن اینترنت در خطر است.
+
+1.
+
+2.
+
+3.
+
+4.
+
+### if_p41_4
+EN: Hmmm, FL itself is an FTR in LTF and it have 2 limits. So, maybe this
+is a vicious circle. The flag is a PAZ itself, like compression and
+stacked S/D, its space between to FTR's. Any comments?josh1125
+ wrote: This is the way I see it. We have Flags, FTRs then the FL. A
+flag is just a stop in momentum after an important area is broken. Our
+FTR is when an important area is broken, then price stops in momentum
+the continues in the direction of the engulf. Now our Flag Limit (FL) is
+ present in both the FTR and the Flag. The FL is simply exactly what its
+ name say it is; it's our Flag Limit. Price consolidates between the
+limits. I've added a chart to show exactly what I'm saying. If I'm wrong
+ on this matter, please correct me, because this subject is a very
+important piece of the puzzle.
+FA: هوم، خود FL در LTF یک FTR است و دو لیمیت دارد. پس شاید این یک دور باطل باشد. پرچم خودش یک PAZ است، مثل فشردگی و S/Dهای چیده‌شده روی هم؛ فاصله‌اش بین دو FTR است. نظری دارید؟ josh1125 نوشت: من این‌طور می‌بینمش. ما پرچم داریم، بعد FTR و بعد FL. پرچم فقط یک توقف در مومنتوم است، بعد از این‌که یک ناحیهٔ مهم شکسته می‌شود. FTR ما آنجاست که ناحیهٔ مهمی شکسته می‌شود، بعد قیمت در مومنتوم توقف می‌کند و سپس در جهت اینگالف ادامه می‌دهد. حالا لیمیت پرچم ما (FL) هم در FTR هست و هم در پرچم. FL دقیقاً همان چیزی است که از اسمش برمی‌آید؛ لیمیت پرچم ماست. قیمت بین لیمیت‌ها تثبیت می‌کند. نموداری اضافه کرده‌ام که دقیقاً همان چیزی را که می‌گویم نشان بدهد. اگر در این موضوع اشتباه می‌کنم، لطفاً تصحیحم کنید، چون این مبحث قطعهٔ بسیار مهمی از پازل است.
+
+### if_p41_5
+EN: I want to say thank you to all masters here or anyone that give me aha
+ moment here and there, and of course especially If , if you people
+check my Journal , at newest posts you can see that im done it, IT and
+Banks clearly blow my brain, even with RTM combined with 2 years of my
+experience & knowledge , i can say Fx movements is too much
+manipulated to the point its useless to do trade for me.
+
+So im gonna move to other market that is not Forex & doesnt have
+connection to Banks, but still regulated(broker) and moved by Buyer and
+Seller. And of course the knowledge here will be used later. until that
+happen i will make new Journal that just about practice trading Fx demo
+acc at full, no other thing.
+
+And also i read this news about banks busted >
+	www.washingtonsblog.com/2014/11/banks-bi...s-metal-markets.html
+ < this make me sure to move to other less crazy market.
+FA: می‌خواهم از همهٔ استادهای اینجا و هر کسی که گاهی جرقهٔ فهمی در ذهنم روشن می‌کند تشکر کنم، و البته مخصوصاً از If. اگر ژورنالم را ببینید، در جدیدترین پست‌ها می‌بینید که کارم را تمام کرده‌ام؛ IT و بانک‌ها واقعاً مغزم را منفجر می‌کنند. حتی با RTM و دو سال تجربه و دانش خودم می‌توانم بگویم حرکت‌های FX آن‌قدر دستکاری‌شده است که معامله کردن برای من بی‌فایده شده.
+
+پس به بازار دیگری می‌روم که فارکس نیست و به بانک‌ها وصل نیست، ولی همچنان رگوله است (بروکر) و با خریدار و فروشنده حرکت می‌کند. و البته دانش اینجا بعداً به کار می‌آید. تا آن موقع ژورنال تازه‌ای باز می‌کنم که فقط دربارهٔ تمرین معامله با حساب دموی FX در حد کامل باشد، نه چیز دیگر.
+
+و همچنین این خبر را دربارهٔ رسوا شدن بانک‌ها خواندم >
+	www.washingtonsblog.com/2014/11/banks-bi...s-metal-markets.html
+ < و همین مطمئنم می‌کند که به بازار دیگری با جنون کمتر بروم.
+
+### if_p41_6
+EN: All markets are more or less manipulated by information, order flow
+etc. I think FX market is better choice from manipulation outlook
+because it is massive if you compare with other markets, stock market
+for example. Only huge pockets can move price where they want in FX and
+best thing is that RTM teaches how they operate. Don't forget that RTM
+is a school of what you refer as manipulation
+
+Just my opinion
+FA: همهٔ بازارها کم و بیش با اطلاعات، جریان سفارش و از این قبیل دستکاری می‌شوند. فکر می‌کنم از نظر دستکاری، بازار FX انتخاب بهتری است، چون در مقایسه با بازارهای دیگر — مثلاً بازار سهام — عظیم است. فقط جیب‌های خیلی بزرگ می‌توانند در FX قیمت را هر جا می‌خواهند ببرند، و بهترین چیز این است که RTM یاد می‌دهد آن‌ها چطور کار می‌کنند. فراموش نکن که RTM مدرسهٔ همان چیزی است که تو دستکاری می‌نامی.
+
+فقط نظر من است
+
+### if_p41_7
+EN: MJfx wrote: All markets are more
+ or less manipulated by information, order flow etc. I think FX market
+is better choice from manipulation outlook because it is massive if you
+compare with other markets, stock market for example. Only huge pockets
+can move price where they want in FX and best thing is that RTM teaches
+how they operate. Don't forget that RTM is a school of what you refer as
+ manipulation
+
+Just my opinion
+
+If you look at the link i provided, you will know why Fx is super
+manipulated, and yes its massive, the move become even more crazy with
+that massiveness. No.. RTM DID NOT teach How They Operate... RTM teach
+how to READ PRICE.. but i see from year to year price move even weirder
+for me, FO without clear reason, not go into hidden S/D at all, etc. You
+ forget something... RTM teach how to read price... that is everything
+with Chart, Candlestick, Buy/Sell... even Chart about how much you sick
+in 10 years time in chart shape can be analyzed by this knowledge, you
+cannot refer RTM as manipulation school.
+FA: MJfx نوشت: همهٔ بازارها کم و بیش با اطلاعات، جریان سفارش و از این قبیل دستکاری می‌شوند. فکر می‌کنم از نظر دستکاری، بازار FX انتخاب بهتری است، چون در مقایسه با بازارهای دیگر — مثلاً بازار سهام — عظیم است. فقط جیب‌های خیلی بزرگ می‌توانند در FX قیمت را هر جا می‌خواهند ببرند، و بهترین چیز این است که RTM یاد می‌دهد آن‌ها چطور کار می‌کنند. فراموش نکن که RTM مدرسهٔ همان چیزی است که تو دستکاری می‌نامی.
+
+فقط نظر من است
+
+اگر به لینکی که دادم نگاه کنی، می‌فهمی چرا FX به‌شدت دستکاری‌شده است، و بله عظیم است؛ با همین عظمت، حرکت‌ها هم دیوانه‌وارتر می‌شوند. نه.. RTM یاد نداد که آن‌ها چطور کار می‌کنند... RTM یاد می‌دهد چطور قیمت را بخوانی.. ولی می‌بینم سال به سال حرکت‌ها برای من عجیب‌تر می‌شود، FO بدون دلیل روشن، اصلاً به S/D پنهان نمی‌رود و از این قبیل. یک چیز را فراموش کرده‌ای... RTM یاد می‌دهد چطور قیمت را بخوانی... همین و تمام، با نمودار، کندل، خرید/فروش... حتی نموداری دربارهٔ این‌که 10 سال بعد چقدر مریض هستی، در شکل نمودار با این دانش تحلیل می‌شود؛ نمی‌توانی RTM را مدرسهٔ دستکاری بنامی.
+
+### if_p41_8
+EN: Chang you need to understand and study what is being taught here. I
+can tell by your posts that you are at the beginning of your studies.
+Switching markets, won't really help you long term. You will have to
+dig for many 100's of hours on each subject and then integrate it all
+together. From what I see in your journal you're looking for patterns
+and engulfs which will tell you price is changing direction. This is
+only a small piece of the puzzle. If we simply trade QMs, engulfs etc
+at HTF S/D we will only be pattern traders and we might as well slap
+MACD and moon cycles back on our charts. We have to know where price
+can overshoot and under shoot too and then if we are prepared to trade
+in those areas. This takes experience which you can't get by studying
+for a few months.
+
+Don't allow yourself the luxury of making excuses that forex or any
+other market is too manipulated for your to succeed. IF, Kruger, Harry,
+ Gil and many of the bright shining stars on here do it day in day out.
+ We have to be tough on ourselves and study hard trusting that if they
+can do it so can we. Cheers.
+FA: Chang باید بفهمی و همان چیزی را که اینجا آموزش داده می‌شود مطالعه کنی. از پست‌هایت می‌فهمم که در ابتدای مسیر مطالعه‌ات هستی. عوض کردن بازار در بلندمدت واقعاً کمکی به تو نمی‌کند. باید روی هر مبحث 100 ساعت و بیشتر کندوکاو کنی و بعد همه را با هم یکپارچه کنی. از آن چه در ژورنالت می‌بینم، دنبال الگوها و اینگالف‌هایی هستی که به تو بگویند جهت قیمت در حال تغییر است. این فقط قطعهٔ کوچکی از پازل است. اگر فقط QMها، اینگالف‌ها و از این قبیل را روی S/D تایم‌فریم بالا معامله کنیم، فقط معامله‌گر الگو می‌شویم و بهتر است همان MACD و چرخه‌های ماه را هم بچسبانیم روی نمودارهایمان. باید بدانیم قیمت کجا می‌تواند بیش از حد یا کمتر از حد برود و بعد ببینیم آیا آمادهٔ معامله در آن نواحی باشیم. این تجربه می‌خواهد، تجربه‌ای که با چند ماه مطالعه به دست نمی‌آید.
+
+به خودت اجازه نده این تجمل را داشته باشی که بهانه بیاوری فارکس یا هر بازار دیگری برای موفق شدن تو زیادی دستکاری‌شده است. IF و Kruger و Harry و Gil و بسیاری از ستاره‌های درخشان اینجا هر روز این کار را می‌کنند. باید با خودمان سختگیر باشیم و سخت مطالعه کنیم و باور داشته باشیم اگر آن‌ها می‌توانند، ما هم می‌توانیم. بدرود.
+
+### if_p41_9
+EN: Good post Antraxia.
+
+Of course it's manipulated.... and that's why RTM teach us to FOLLOW the
+ MANIPULATORS. If it wasn't manipulated and truly was random then let's
+face it, who want want to throw big money at a random outcome?? Might as
+ well bet on four legged animals or roulette.
+FA: پست خوبی بود antraxia.
+
+البته که دستکاری‌شده است... و برای همین RTM یادمان می‌دهد که از دستکاری‌کنندگان پیروی کنیم. اگر دستکاری نمی‌شد و واقعاً تصادفی بود، خب قبول کن، چه کسی پول سنگین را وسط یک نتیجهٔ تصادفی می‌اندازد؟؟ آن‌وقت بهتر است روی حیوان‌های چهارپا یا رولت شرط ببندی.
+
+### if_p41_10
+EN: antraxia wrote: Chang you need to understand and study what is being taught here. I can tell by your posts that you are at the beginning of your studies.
+ Switching markets, won't really help you long term. You will have to
+dig for many 100's of hours on each subject and then integrate it all
+together. From what I see in your journal you're looking for patterns
+and engulfs which will tell you price is changing direction. This is
+only a small piece of the puzzle. If we simply trade QMs, engulfs etc
+at HTF S/D we will only be pattern traders and we might as well slap
+MACD and moon cycles back on our charts. We have to know where price
+can overshoot and under shoot too and then if we are prepared to trade
+in those areas. This takes experience which you can't get by studying
+for a few months.
+
+Don't allow yourself the luxury of making excuses that forex or any
+other market is too manipulated for your to succeed. IF, Kruger, Harry,
+ Gil and many of the bright shining stars on here do it day in day out.
+ We have to be tough on ourselves and study hard trusting that if they
+can do it so can we. Cheers.
+
+I can tell you even havent ever see my journal, not the 1 post one. Read page 1 post 1, just sayin.
+FA: antraxia نوشت: Chang باید بفهمی و همان چیزی را که اینجا آموزش داده می‌شود مطالعه کنی. از پست‌هایت می‌فهمم که در ابتدای مسیر مطالعه‌ات هستی. عوض کردن بازار در بلندمدت واقعاً کمکی به تو نمی‌کند. باید روی هر مبحث 100 ساعت و بیشتر کندوکاو کنی و بعد همه را با هم یکپارچه کنی. از آن چه در ژورنالت می‌بینم، دنبال الگوها و اینگالف‌هایی هستی که به تو بگویند جهت قیمت در حال تغییر است. این فقط قطعهٔ کوچکی از پازل است. اگر فقط QMها، اینگالف‌ها و از این قبیل را روی S/D تایم‌فریم بالا معامله کنیم، فقط معامله‌گر الگو می‌شویم و بهتر است همان MACD و چرخه‌های ماه را هم بچسبانیم روی نمودارهایمان. باید بدانیم قیمت کجا می‌تواند بیش از حد یا کمتر از حد برود و بعد ببینیم آیا آمادهٔ معامله در آن نواحی باشیم. این تجربه می‌خواهد، تجربه‌ای که با چند ماه مطالعه به دست نمی‌آید.
+
+به خودت اجازه نده این تجمل را داشته باشی که بهانه بیاوری فارکس یا هر بازار دیگری برای موفق شدن تو زیادی دستکاری‌شده است. IF و Kruger و Harry و Gil و بسیاری از ستاره‌های درخشان اینجا هر روز این کار را می‌کنند. باید با خودمان سختگیر باشیم و سخت مطالعه کنیم و باور داشته باشیم اگر آن‌ها می‌توانند، ما هم می‌توانیم. بدرود.
+
+می‌توانم بگویم حتی یک بار هم ژورنالم را ندیده‌ای، حتی پست اولش را هم نه. صفحه 1، پست 1 را بخوان، همین.
+
+### if_p41_11
+EN: Here's a quick test to get you all excited on what is being taught
+here. Chang brings up a good point regarding "The markets are getting
+way crazier than I've ever remembered them before". We've heard the
+media and other people say this before and I used to believe it until I
+started looking at charts from long ago. So lets test it: If we look at
+ random charts can we really tell TF or date when they are put in front
+of us? Here's some. Some of these charts are recent and some are from
+the 1800's.
+
+Chart 1: This is a percentage chart. I can see a QM, Engulf retest,
+compression, flip zones, FL, FTRs etc. Are all of them tradable, no, If
+ I had HTF and LTF support yes I believe so.
+
+Chart 2: I see a wonderful FO to the bottom of stacked demand. I can
+hear people saying "no one could have predicted the crash let alone
+bought at the bottom and held". What do you think?
+
+Chart 3: The market's just random Oh the humanity :). I mean there was
+ absolutely no opportunity to take a spanking trade on the can can or at
+ any of the flip zones on the way down or to reverse at the QM level at
+the bottom.
+
+Yes hindesite, but this is what we're being taught how to do in real
+time here. Lets vanquish the lies and get on with it. Yes its tough
+and yes I'm very new at it and don't' have all the answers but there is
+more than enough here on this site to convince me that IF isn't lying to
+ us. It is all here we just have to piece it together. Lets not waste
+his sacrifice of time and effort. If there's one thing that we can't
+get back its time. Lets not rob him and all the others that have given
+their time to us.
+
+Now lets get some "fire in our belly" and go get that market! Cheers.
+
+P.S. Sorry to hijack your journal IF.
+FA: یک آزمون سریع برایتان دارم تا برای چیزی که اینجا آموزش داده می‌شود هیجان‌زده شوید. Chang نکتهٔ خوبی می‌آورد: «بازارها دارند خیلی دیوانه‌تر از هر زمانی می‌شوند که به یاد می‌آورم». این را قبلاً از رسانه‌ها و دیگران شنیده‌ایم و من هم باورش داشتم تا وقتی شروع کردم نمودارهای خیلی قدیمی را نگاه کنم. پس بیایید امتحانش کنیم: اگر نمودارهای تصادفی جلوی ما گذاشته شود، واقعاً می‌توانیم تایم‌فریم یا تاریخشان را بگوییم؟ چند مورد اینجاست. بعضی از این نمودارها تازه‌اند و بعضی از دههٔ 1800.
+
+نمودار 1: این یک نمودار درصدی است. یک QM، ریتست اینگالف، فشردگی، زون‌های فلیپ، FL، FTR و از این قبیل می‌بینم. آیا همه‌شان قابل معامله‌اند؟ نه. اگر حمایت HTF و LTF داشتم، بله، باور دارم که بودند.
+
+نمودار 2: یک FO عالی به کف تقاضای روی‌هم می‌بینم. می‌توانم بشنوم که مردم می‌گویند «هیچ‌کس نمی‌توانست آن سقوط را پیش‌بینی کند، چه برسد به خرید در کف و نگه‌داشتن». نظرت چیست؟
+
+نمودار 3: بازار فقط تصادفی است، ای بشریت :). یعنی اصلاً هیچ فرصتی نبود که در کن‌کن یا در هر یک از زون‌های فلیپ در مسیر نزول یک معاملهٔ حساب‌شده بگیری، یا در سطح QM در کف برگشت بگیری.
+
+بله، حرف بعد از واقعه آسان است، ولی این همان کاری است که اینجا در زمان واقعی یادمان می‌دهند. بیایید دروغ‌ها را از میان برداریم و برویم جلو. بله سخت است و بله من در آن خیلی تازه‌کارم و همهٔ جواب‌ها را ندارم، ولی اینجا بیش از اندازهٔ کافی هست که مرا قانع کند IF به ما دروغ نمی‌گوید. همه‌اش همین‌جاست، فقط باید قطعه‌ها را کنار هم بگذاریم. بیایید فداکاری وقت و تلاشش را هدر ندهیم. اگر چیزی باشد که نتوانیم پس بگیریم، همان زمان است. بیایید او و همهٔ کسانی را که وقتشان را به ما داده‌اند ندزدیم.
+
+حالا بیایید کمی «آتش در شکم» بیاوریم و برویم سراغ آن بازار! بدرود.
+
+پ.ن. IF ببخش که ژورنالت را قبضه کردم.
+
+### if_p41_12
+EN: changbachang wrote:
+
+I can tell you even havent ever see my journal, not the 1 post one. Read page 1 post 1, just sayin.
+
+You would be surprised :). I see you are frustrated and in pain and I'm
+trying to help but it is your path so I will get out of your way.
+Sometimes we need to hear what we don't want to, to succeed and this has
+ been done to me in the past by other mentors and I found it helpful.
+If you do not then I am sorry if I offended you. Cheers.
+FA: changbachang نوشت:
+
+می‌توانم بگویم حتی یک بار هم ژورنالم را ندیده‌ای، حتی پست اولش را هم نه. صفحه 1، پست 1 را بخوان، همین.
+
+تعجب می‌کنی :). می‌بینم که کلافه و در دردی و می‌خواهم کمک کنم، ولی این مسیر توست، پس کنار می‌روم. گاهی برای موفق شدن باید چیزی را بشنویم که نمی‌خواهیم بشنویم؛ این را در گذشته مربی‌های دیگر با من کرده‌اند و برایم مفید بوده. اگر برای تو نیست، متأسفم اگر آزرده‌ات کرده‌ام. بدرود.
+
+### if_p41_13
+EN: Just to add my two cents. I only found RTM at the end of September.
+For the first month, I was trying to "predict" what was going to happen,
+ by analysing the charts down to the finest detail, and simple to say, I
+ failed miserably, due to lack of experience in such things.
+
+But does that mean I can't trade, and trade very successfully with the things taught on here? No, not at all.
+
+My biggest strides forward came when I gave up trying to predict what
+was going to happen, and just let the market show me its intentions.
+Think you've spotted a level that price is going to turn at? Great, now
+wait and see what happens. Got a significant engulf off the level you
+want? Check again - was it really significant? Or has it just come down
+to a SR flip level to continue in the way it was already going? How is
+price moving? Has it shot up to your level with a single big candle? Has
+ it compressed towards it? Has it proceeded up in a series of surges,
+forming fresh demand levels every step of the way?
+
+All we need to trade successfully is the ability to spot potential
+turning points ahead of time, and then just wait and see what happens
+when we get there. If we see things lining up in our favour, take the
+trade, and set your target at the first point you can realistically
+expect trouble from. Don't "expect" price to blow through several levels
+ of strong supply or demand to some hollywood target.
+
+There are plenty of pips out there, if one would just be patient, and let the market tell us what it wants to do.
+
+Predicting huge moves, and setting POs ahead of time with pinpoint
+accuracy is something I'm sure I will be able to do with 100s more hours
+ of chart time, but right now, I've got more than enough tools in my kit
+ with the things that are taught on here to be profitable.
+FA: فقط دو ریال هم من اضافه کنم. من RTM را فقط آخر سپتامبر پیدا کردم. ماه اول تلاش می‌کردم «پیش‌بینی» کنم چه می‌شود، با تحلیل نمودارها تا ریزترین جزئیات، و راحت بگویم، به‌خاطر نداشتن تجربه در این چیزها بدجوری شکست خوردم.
+
+ولی آیا این یعنی نمی‌توانم معامله کنم و با چیزهایی که اینجا آموزش داده می‌شود خیلی هم موفق معامله نکنم؟ نه، اصلاً.
+
+بزرگ‌ترین پیشرفت‌هایم وقتی بود که دست از پیش‌بینی برداشتم و گذاشتم بازار نیتش را نشانم بدهد. فکر می‌کنی سطحی را دیده‌ای که قیمت در آن برمی‌گردد؟ عالی، حالا صبر کن و ببین چه می‌شود. یک اینگالف معنادار از سطحی که می‌خواهی گرفتی؟ دوباره چک کن — واقعاً معنادار بود؟ یا فقط آمده تا سطح فلیپ SR و همان مسیر قبلی‌اش را ادامه بدهد؟ قیمت چطور حرکت می‌کند؟ با یک کندل بزرگ تک به سطحت شلیک کرده؟ به سمتش فشرده شده؟ در یک رشته از جهش‌ها بالا آمده و در هر قدم سطح تقاضای تازه‌ای ساخته؟
+
+برای معاملهٔ موفق فقط باید بتوانیم نقاط چرخش احتمالی را از قبل ببینیم و بعد صبر کنیم و ببینیم وقتی رسیدیم چه می‌شود. اگر دیدیم چیزها به نفعمان جور می‌شوند، معامله را بگیر و تارگتت را روی اولین نقطه‌ای بگذار که واقع‌بینانه انتظار دردسر از آن داری. «انتظار» نداشته باش که قیمت چند سطح عرضه یا تقاضای قوی را بشکافد و برود سراغ یک تارگت هالیوودی.
+
+پیپ‌های زیادی آن بیرون هست، اگر آدم فقط صبور باشد و بگذارد بازار بگوید چه می‌خواهد.
+
+پیش‌بینی حرکت‌های بزرگ و گذاشتن سفارش معلق از قبل با دقت میلی‌متری، مطمئنم با 100 ساعت بیشتر نمودار دیدن می‌توانم انجامش بدهم؛ ولی همین حالا با چیزهایی که اینجا آموزش داده می‌شود، ابزار بیش از اندازهٔ کافی در جعبه‌ام دارم که سودده باشم.
+
+### if_p41_14
+EN: Really great advice guys
+
+I have nothing to add except that I don't care at all that the market's
+being manipulated. The IT's still use the same tricks all the time, and
+follow the same rules.
+FA: واقعاً توصیه‌های خوبی بود بچه‌ها
+
+چیزی برای اضافه کردن ندارم، جز این‌که اصلاً برایم مهم نیست بازار دستکاری می‌شود. IT همچنان همیشه همان ترفندها را به کار می‌برد و همان قواعد را دنبال می‌کند.
+
+### if_p41_15
+EN: smimon wrote: Just to add my two cents. I only found RTM at the end of September. For the first month, I was trying to "predict" what was going to happen, by analysing the charts down to the finest detail, and simple to say, I failed miserably, due to lack of experience in such things.
+
+But does that mean I can't trade, and trade very successfully with the things taught on here? No, not at all.
+
+My biggest strides forward came when I gave up trying to predict what
+was going to happen, and just let the market show me its intentions.
+Think you've spotted a level that price is going to turn at? Great, now
+wait and see what happens. Got a significant engulf off the level you
+want? Check again - was it really significant? Or has it just come down
+to a SR flip level to continue in the way it was already going? How is
+price moving? Has it shot up to your level with a single big candle? Has
+ it compressed towards it? Has it proceeded up in a series of surges,
+forming fresh demand levels every step of the way?
+
+All we need to trade successfully is the ability to spot potential
+turning points ahead of time, and then just wait and see what happens
+when we get there. If we see things lining up in our favour, take the
+trade, and set your target at the first point you can realistically
+expect trouble from. Don't "expect" price to blow through several levels
+ of strong supply or demand to some hollywood target.
+
+There are plenty of pips out there, if one would just be patient, and let the market tell us what it wants to do.
+
+Predicting huge moves, and setting POs ahead of time with pinpoint
+accuracy is something I'm sure I will be able to do with 100s more hours
+ of chart time, but right now, I've got more than enough tools in my kit
+ with the things that are taught on here to be profitable.
+
+Let me guess.... your Blood is A? right? like me XD , anyway i got help
+ from Chuck for explanation(i dont know whos Chuck in here but i can say
+ he's master trader level), then i realized im too much focused on searching the demn orders location and miss simple thing... this
+FA: smimon نوشت: فقط دو ریال هم من اضافه کنم. من RTM را فقط آخر سپتامبر پیدا کردم. ماه اول تلاش می‌کردم «پیش‌بینی» کنم چه می‌شود، با تحلیل نمودارها تا ریزترین جزئیات، و راحت بگویم، به‌خاطر نداشتن تجربه در این چیزها بدجوری شکست خوردم.
+
+ولی آیا این یعنی نمی‌توانم معامله کنم و با چیزهایی که اینجا آموزش داده می‌شود خیلی هم موفق معامله نکنم؟ نه، اصلاً.
+
+بزرگ‌ترین پیشرفت‌هایم وقتی بود که دست از پیش‌بینی برداشتم و گذاشتم بازار نیتش را نشانم بدهد. فکر می‌کنی سطحی را دیده‌ای که قیمت در آن برمی‌گردد؟ عالی، حالا صبر کن و ببین چه می‌شود. یک اینگالف معنادار از سطحی که می‌خواهی گرفتی؟ دوباره چک کن — واقعاً معنادار بود؟ یا فقط آمده تا سطح فلیپ SR و همان مسیر قبلی‌اش را ادامه بدهد؟ قیمت چطور حرکت می‌کند؟ با یک کندل بزرگ تک به سطحت شلیک کرده؟ به سمتش فشرده شده؟ در یک رشته از جهش‌ها بالا آمده و در هر قدم سطح تقاضای تازه‌ای ساخته؟
+
+برای معاملهٔ موفق فقط باید بتوانیم نقاط چرخش احتمالی را از قبل ببینیم و بعد صبر کنیم و ببینیم وقتی رسیدیم چه می‌شود. اگر دیدیم چیزها به نفعمان جور می‌شوند، معامله را بگیر و تارگتت را روی اولین نقطه‌ای بگذار که واقع‌بینانه انتظار دردسر از آن داری. «انتظار» نداشته باش که قیمت چند سطح عرضه یا تقاضای قوی را بشکافد و برود سراغ یک تارگت هالیوودی.
+
+پیپ‌های زیادی آن بیرون هست، اگر آدم فقط صبور باشد و بگذارد بازار بگوید چه می‌خواهد.
+
+پیش‌بینی حرکت‌های بزرگ و گذاشتن سفارش معلق از قبل با دقت میلی‌متری، مطمئنم با 100 ساعت بیشتر نمودار دیدن می‌توانم انجامش بدهم؛ ولی همین حالا با چیزهایی که اینجا آموزش داده می‌شود، ابزار بیش از اندازهٔ کافی در جعبه‌ام دارم که سودده باشم.
+
+بگذار حدس بزنم.... گروه خونی‌ات A است؟ درست است؟ مثل خودم XD، به‌هرحال از Chuck برای توضیح کمک گرفتم (نمی‌دانم Chuck در اینجا کیست، ولی می‌توانم بگویم در سطح استاد معامله‌گری است)، بعد فهمیدم بیش از حد روی پیدا کردن محل آن سفارش‌های لعنتی تمرکز کرده بودم و یک چیز ساده را از دست داده بودم... این
+
+### if_p41_16
+EN: how about we hangout together and drink some beer people? need some cooldown in brain
+FA: چطور است همه با هم برویم بیرون و کمی آبجو بخوریم؟ مغزمان کمی خنک شود.
+
+### if_p41_17
+EN: smimon wrote: Just to add my two cents. I
+ only found RTM at the end of September. For the first month, I was
+trying to "predict" what was going to happen, by analysing the charts
+down to the finest detail, and simple to say, I failed miserably, due to
+ lack of experience in such things.
+
+But does that mean I can't trade, and trade very successfully with the things taught on here? No, not at all.
+
+My biggest strides forward came when I gave up trying to predict what
+ was going to happen, and just let the market show me its intentions.
+Think you've spotted a level that price is going to turn at? Great, now
+wait and see what happens. Got a significant engulf off the level you
+want? Check again - was it really significant? Or has it just come down
+to a SR flip level to continue in the way it was already going? How is
+price moving? Has it shot up to your level with a single big candle? Has
+ it compressed towards it? Has it proceeded up in a series of surges,
+forming fresh demand levels every step of the way?
+
+All we need to trade successfully is the ability to spot potential
+turning points ahead of time, and then just wait and see what happens
+when we get there. If we see things lining up in our favour, take the
+trade, and set your target at the first point you can realistically
+expect trouble from. Don't "expect" price to blow through several levels
+ of strong supply or demand to some hollywood target.
+
+There are plenty of pips out there, if one would just be patient, and let the market tell us what it wants to do.
+
+Predicting huge moves, and setting POs ahead of time with pinpoint
+accuracy is something I'm sure I will be able to do with 100s more hours
+ of chart time, but right now, I've got more than enough tools in my kit
+ with the things that are taught on here to be profitable.
+
+Can we sticky his words? this is important to all people
+FA: smimon نوشت: فقط دو ریال هم من اضافه کنم. من RTM را فقط آخر سپتامبر پیدا کردم. ماه اول تلاش می‌کردم «پیش‌بینی» کنم چه می‌شود، با تحلیل نمودارها تا ریزترین جزئیات، و راحت بگویم، به‌خاطر نداشتن تجربه در این چیزها بدجوری شکست خوردم.
+
+ولی آیا این یعنی نمی‌توانم معامله کنم و با چیزهایی که اینجا آموزش داده می‌شود خیلی هم موفق معامله نکنم؟ نه، اصلاً.
+
+بزرگ‌ترین پیشرفت‌هایم وقتی بود که دست از پیش‌بینی برداشتم و گذاشتم بازار نیتش را نشانم بدهد. فکر می‌کنی سطحی را دیده‌ای که قیمت در آن برمی‌گردد؟ عالی، حالا صبر کن و ببین چه می‌شود. یک اینگالف معنادار از سطحی که می‌خواهی گرفتی؟ دوباره چک کن — واقعاً معنادار بود؟ یا فقط آمده تا سطح فلیپ SR و همان مسیر قبلی‌اش را ادامه بدهد؟ قیمت چطور حرکت می‌کند؟ با یک کندل بزرگ تک به سطحت شلیک کرده؟ به سمتش فشرده شده؟ در یک رشته از جهش‌ها بالا آمده و در هر قدم سطح تقاضای تازه‌ای ساخته؟
+
+برای معاملهٔ موفق فقط باید بتوانیم نقاط چرخش احتمالی را از قبل ببینیم و بعد صبر کنیم و ببینیم وقتی رسیدیم چه می‌شود. اگر دیدیم چیزها به نفعمان جور می‌شوند، معامله را بگیر و تارگتت را روی اولین نقطه‌ای بگذار که واقع‌بینانه انتظار دردسر از آن داری. «انتظار» نداشته باش که قیمت چند سطح عرضه یا تقاضای قوی را بشکافد و برود سراغ یک تارگت هالیوودی.
+
+پیپ‌های زیادی آن بیرون هست، اگر آدم فقط صبور باشد و بگذارد بازار بگوید چه می‌خواهد.
+
+پیش‌بینی حرکت‌های بزرگ و گذاشتن سفارش معلق از قبل با دقت میلی‌متری، مطمئنم با 100 ساعت بیشتر نمودار دیدن می‌توانم انجامش بدهم؛ ولی همین حالا با چیزهایی که اینجا آموزش داده می‌شود، ابزار بیش از اندازهٔ کافی در جعبه‌ام دارم که سودده باشم.
+
+می‌شود حرف‌هایش را سنجاق کنیم؟ این برای همهٔ آدم‌ها مهم است.
+
+### if_p41_18
+EN: antraxia wrote:
+changbachang wrote:
+
+I can tell you even havent ever see my journal, not the 1 post one. Read page 1 post 1, just sayin.
+
+You would be surprised :). I see you are frustrated and in pain and I'm
+trying to help but it is your path so I will get out of your way.
+Sometimes we need to hear what we don't want to, to succeed and this has
+ been done to me in the past by other mentors and I found it helpful.
+If you do not then I am sorry if I offended you. Cheers.
+
+Nah, just slap me alrite lol , im frustated, sad, a hell lot of them for
+ this 2 years, and even cry in my room because of Fx more combined vs
+you watch Hachiko the movie
+FA: antraxia نوشت:
+changbachang نوشت:
+
+می‌توانم بگویم حتی یک بار هم ژورنالم را ندیده‌ای، حتی پست اولش را هم نه. صفحه 1، پست 1 را بخوان، همین.
+
+تعجب می‌کنی :). می‌بینم که کلافه و در دردی و می‌خواهم کمک کنم، ولی این مسیر توست، پس کنار می‌روم. گاهی برای موفق شدن باید چیزی را بشنویم که نمی‌خواهیم بشنویم؛ این را در گذشته مربی‌های دیگر با من کرده‌اند و برایم مفید بوده. اگر برای تو نیست، متأسفم اگر آزرده‌ات کرده‌ام. بدرود.
+
+نه بابا، فقط یک سیلی محکم به من بزن باشه هاها، من کلافه‌ام، غمگینم، و در این دو سال خیلی زیادش را داشته‌ام، و حتی در اتاقم گریه کرده‌ام، به‌خاطر FX بیشتر از وقتی که فیلم Hachiko را می‌بینی
+
+### if_p41_19
+EN: to If, sorry for making your journal full of my post :) , i know im
+evilish and have demon guardian too, sometimes my words can be 'looks'
+painfull or hostile or sharp to others too (like in my previous post to
+antraxia), that.. i want to say sorry ,but thats me.. and almost hard to
+ make it gone.. hope no one hurt by me :) , love all of you muach
+FA: به If، ببخش که ژورنالت را پر کردم از پست‌هایم :) می‌دانم که شیطانی‌ام و یک نگهبان دیو هم دارم، گاهی حرف‌هایم می‌تواند برای دیگران دردناک یا خصمانه یا تیز به نظر برسد (مثل پست قبلی‌ام به antraxia)... می‌خواهم بگویم متأسفم، ولی این منم.. و تقریباً سخت است که از شرش خلاص شود.. امیدوارم کسی از من آزرده نشده باشد :) دوستتان دارم، ماچ
+
+### if_p41_20
+EN: Ok this is awesome PA chang so I can't resist! (these sorts of discussions really excite me)
+
+Are we sure nothing important happened in that zone?
+
+I may be off base but it looks like we broke into compression here and
+are heading down for a possible whopper. Feel free to correct me if I'm
+ wrong. The reaction after the engulf on M1 (on this TF 30M) is also a
+bit sluggish and stalls at the QM box and other reasons if you explore
+M1 in depth.
+
+I was in two minds rather to post as I don't want you to think I'm
+picking on you but I think we can all learn from this example. I've
+seen this before a few times but I'm not consistent with it. Sometimes I
+ think we've broken into the edge of compression and it reverses. I'd
+love to know other's thoughts regarding this PA as it is a piece that
+has been bugging me for some time also. Cheers.
+FA: خیلی خب، این PA عالی است، Chang! پس نمی‌توانم مقاومت کنم! (این نوع بحث‌ها واقعاً هیجان‌زده‌ام می‌کند)
+
+مطمئنیم در آن ناحیه هیچ اتفاق مهمی نیفتاد؟
+
+ممکن است اشتباه کنم، ولی به نظر می‌رسد اینجا به فشردگی شکسته‌ایم و به سمت پایین می‌رویم، شاید یک حرکت گنده در راه باشد. اگر اشتباه می‌گویم راحت تصحیحم کن. واکنش بعد از اینگالف روی M1 (روی این تایم‌فریم 30M) هم کمی کند است و روی باکس QM متوقف می‌شود، و اگر M1 را عمیق نگاه کنی دلایل دیگری هم هست.
+
+دو دلم بود که پست بگذارم یا نه، چون نمی‌خواهم فکر کنی دارم روی تو گیر می‌دهم، ولی فکر می‌کنم همه می‌توانیم از این مثال یاد بگیریم. این را قبلاً چند بار دیده‌ام ولی در آن ثبات ندارم. گاهی فکر می‌کنم به لبهٔ فشردگی شکسته‌ایم و برگشت می‌خورد. خیلی دوست دارم نظر بقیه را دربارهٔ این PA بدانم، چون مدتی است این قطعه هم ذهنم را درگیر کرده. بدرود.
+
+### if_p41_21
+EN: changbachang wrote: to If, sorry
+ for making your journal full of my post :) , i know im evilish and have
+ demon guardian too, sometimes my words can be 'looks' painfull or
+hostile or sharp to others too (like in my previous post to antraxia),
+that.. i want to say sorry ,but thats me.. and almost hard to make it
+gone.. hope no one hurt by me :) , love all of you muach
+
+No I'm a bit too sensitive sometimes and tone doesn't carry on the
+forum. I have felt and still feel frustrated at times and I totally get
+ it. I can be blunt sometimes and its not my intentions. Lets get back
+ to it. Lets get that market! Cheers.
+FA: changbachang نوشت: به If، ببخش که ژورنالت را پر کردم از پست‌هایم :) می‌دانم که شیطانی‌ام و یک نگهبان دیو هم دارم، گاهی حرف‌هایم می‌تواند برای دیگران دردناک یا خصمانه یا تیز به نظر برسد (مثل پست قبلی‌ام به antraxia)... می‌خواهم بگویم متأسفم، ولی این منم.. و تقریباً سخت است که از شرش خلاص شود.. امیدوارم کسی از من آزرده نشده باشد :) دوستتان دارم، ماچ
+
+نه، من خودم گاهی زیادی حساس می‌شوم و لحن در فروم منتقل نمی‌شود. من هم گاهی احساس کلافگی کرده‌ام و هنوز می‌کنم و کاملاً درکت می‌کنم. من هم گاهی بی‌پرده حرف می‌زنم و قصدی ندارم. بیایید برگردیم سر کار. بیایید آن بازار را بگیریم! بدرود.
+
+### if_p41_22
+EN: antraxia wrote: Ok this is awesome PA chang so I can't resist! (these sorts of discussions really excite me)
+
+Are we sure nothing important happened in that zone?
+
+I may be off base but it looks like we broke into compression here and
+are heading down for a possible whopper. Feel free to correct me if I'm
+ wrong. The reaction after the engulf on M1 (on this TF 30M) is also a
+bit sluggish and stalls at the QM box and other reasons if you explore
+M1 in depth.
+
+I was in two minds rather to post as I don't want you to think I'm
+picking on you but I think we can all learn from this example. I've
+seen this before a few times but I'm not consistent with it. Sometimes I
+ think we've broken into the edge of compression and it reverses. I'd
+love to know other's thoughts regarding this PA as it is a piece that
+has been bugging me for some time also. Cheers.
+
+When i saw that big demn spike in M1.. my eye hurts... so i say nothing
+in there XD -____- ,also that spike is usually a sign that its emptying
+demand.. and thats also why price can go down like rocket, thats from me
+
+So i only mark the zone above the spike , 2nd pointer from below , the one i say break M1 demand (to the spiky zone below)
+
+Just this big that i mark lolo
+
+The Break in the right
+
+No you are not picking on anything, please just do what u wanna do :)
+FA: antraxia نوشت: خیلی خب، این PA عالی است، Chang! پس نمی‌توانم مقاومت کنم! (این نوع بحث‌ها واقعاً هیجان‌زده‌ام می‌کند)
+
+مطمئنیم در آن ناحیه هیچ اتفاق مهمی نیفتاد؟
+
+ممکن است اشتباه کنم، ولی به نظر می‌رسد اینجا به فشردگی شکسته‌ایم و به سمت پایین می‌رویم، شاید یک حرکت گنده در راه باشد. اگر اشتباه می‌گویم راحت تصحیحم کن. واکنش بعد از اینگالف روی M1 (روی این تایم‌فریم 30M) هم کمی کند است و روی باکس QM متوقف می‌شود، و اگر M1 را عمیق نگاه کنی دلایل دیگری هم هست.
+
+دو دلم بود که پست بگذارم یا نه، چون نمی‌خواهم فکر کنی دارم روی تو گیر می‌دهم، ولی فکر می‌کنم همه می‌توانیم از این مثال یاد بگیریم. این را قبلاً چند بار دیده‌ام ولی در آن ثبات ندارم. گاهی فکر می‌کنم به لبهٔ فشردگی شکسته‌ایم و برگشت می‌خورد. خیلی دوست دارم نظر بقیه را دربارهٔ این PA بدانم، چون مدتی است این قطعه هم ذهنم را درگیر کرده. بدرود.
+
+وقتی آن نیزهٔ لعنتی بزرگ را در M1 دیدم.. چشمانم درد گرفت... پس آنجا چیزی نگفتم XD -____- ، آن نیزه هم معمولاً نشانهٔ خالی شدن تقاضاست.. و برای همین است که قیمت می‌تواند مثل موشک پایین بیاید، این از من
+
+پس فقط ناحیهٔ بالای نیزه را علامت زدم، نشانگر دوم از پایین، همان که می‌گویم تقاضای M1 را می‌شکند (به ناحیهٔ نیزه‌ای پایین)
+
+فقط همین را بزرگ علامت زدم لولو
+
+شکست، در سمت راست
+
+نه، تو به چیزی ایراد نگرفتی، هر کاری می‌خواهی بکن :)
+
+### if_p41_23
+EN: I was wondering if during anyone else's stage if it was easier to read bearish PA than bullish?
+FA: داشتم فکر می‌کردم آیا برای کس دیگری هم در مرحلهٔ خودش، خواندن PA نزولی از صعودی راحت‌تر بود؟
+
+### if_p41_24
+EN: josh1125 wrote: I was wondering if during anyone else's stage if it was easier to read bearish PA than bullish?
+
+Till now for me its easier to read Bullish PA
+FA: josh1125 نوشت: داشتم فکر می‌کردم آیا برای کس دیگری هم در مرحلهٔ خودش، خواندن PA نزولی از صعودی راحت‌تر بود؟
+
+تا حالا خواندن PA صعودی برایم راحت‌تر است
+
+### if_p41_25
+EN: Hi IF,
+
+Trades getting failed in strong trending market too.
+
+Here i have attached two charts. Kindly correct me if i wrong!
+FA: سلام IF،
+
+معاملات در بازار پرروند قوی هم شکست می‌خورند.
+
+اینجا دو نمودار پیوست کرده‌ام. لطفاً اگر اشتباه می‌کنم تصحیحم کنید!

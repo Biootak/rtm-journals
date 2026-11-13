@@ -1,0 +1,591 @@
+### omidfx_p1_1
+EN: Hi. After going through the homeworks and studying and learning alot
+from RTM community, it's time to start my own journal and put all the
+things i've learnt in action and experience the real fight and analysis
+what i've learnt yet and correct my mistakes and learn more and more
+from my mistakes till every thing become simple and boring
+
+First of all i want to thank IF and RTM Community for all the things they have done here,
+
+the most precious things they've gave us, their Time and Experiences, for Free
+
+Hope my friends and i can go beyond our the limits and make this community even greater
+
+"With Time, Patience and Experience What Once Seemed Very Complex Becomes Very Simple Indeed" IF
+FA: سلام. بعد از اینکه تمرین‌ها را گذراندم و از جامعهٔ RTM خیلی چیزها یاد گرفتم، وقتش است که ژورنال خودم را شروع کنم و همهٔ آنچه آموخته‌ام را به عمل دربیاورم و مبارزهٔ واقعی را تجربه کنم و آنچه تا حالا یاد گرفته‌ام را تحلیل کنم، اشتباهاتم را اصلاح کنم و بیشتر و بیشتر از اشتباهاتم یاد بگیرم تا وقتی که همه‌چیز ساده و کسل‌کننده شود
+
+پیش از هر چیز می‌خواهم از IF و جامعهٔ RTM برای همهٔ کارهایی که اینجا کرده‌اند تشکر کنم،
+
+ارزشمندترین چیزی که به ما داده‌اند، یعنی وقت و تجربه‌شان، آن هم رایگان
+
+امیدوارم من و دوستانم بتوانیم از محدودیت‌هایمان فراتر برویم و این جامعه را حتی بهتر کنیم
+
+«با زمان، صبر و تجربه، آنچه روزی بسیار پیچیده به نظر می‌رسید، واقعاً بسیار ساده می‌شود» IF
+
+### omidfx_p1_2
+EN: first of all i like to post the Price Reading Article here
+
+it's a precious gift from RTM and a wise guide for trading
+
+Price Reading
+
+In order to be able to trade the markets, we need to be able to
+understand why price is where it is, and where it will go to next. The
+best indicator for all this is Price itself. It holds all the clues
+you'll ever need to work the market out. We do our trading at levels
+called Supply and Demand Zones, and we watch Price Action there to give
+us signs as to the intentions of the big money.
+
+ Here’s what we look for on the charts:
+
+General: HTF. Know where price is coming from and going to, and the PA past and present in all the TFs, from the Monthly down.
+
+Specific: At the zones you want to trade, look to:
+
+Past.
+
+Study the zone in all TFs, down to M1 ask yourself:
+
+Where were the decisions made? Clean S/D? Mark these lines. No clean S/D? – compressed zone
+
+Did price really shoot away form the zone, or did it cp away?
+
+Did the zone itself react at the right place? Look beyond the zone
+further into the past. See what it reacted to. Was there a better S/D
+nearby that price wants to visit? This explains many fakeouts. Did price
+ originally react to the RS of a Flag Limit? It can fakeout to true SD
+of the FL.
+
+Present:
+
+Approach.
+
+How is price returning to the zone?
+
+Where’s the nearest flag in the TF you want to trade? This is your tg1 in this TF. Flags in the LTFs? What does PA tell you?
+
+Has price tested the last flag on approach? (good sign)
+
+Has price compressed into the zone in this TF or LTFs? (good sign)
+
+Is there big news on the way? Has there just been big news?
+
+Reaction.
+
+In LTF, does price react violently to the first decision point? Does it quickly engulf the nearest S/D? (good sign)
+
+Does price simply CP away? Maybe it wants to go to the next decision point
+
+If the first decision point breaks, watch the signs on approach to the next, and, of course, reaction.
+FA: پیش از هر چیز می‌خواهم مقالهٔ قیمت‌خوانی را اینجا بگذارم
+
+این هدیهٔ ارزشمندی از RTM و راهنمای خردمندانه‌ای برای معامله‌گری است
+
+قیمت‌خوانی
+
+برای اینکه بتوانیم در بازارها معامله کنیم، باید بتوانیم بفهمیم چرا قیمت جایی است که هست و بعد از این به کجا خواهد رفت. بهترین اندیکاتور برای همهٔ این‌ها خود قیمت است. قیمت تمام سرنخ‌هایی را در خود دارد که برای کشف بازار به آن‌ها نیاز پیدا می‌کنید. ما معامله‌هایمان را در سطوحی به نام نواحی عرضه و تقاضا انجام می‌دهیم و آنجا رفتار قیمت را زیر نظر می‌گیریم تا نشانه‌هایی از نیّت پول بزرگ به دستمان بیاید.
+
+این‌ها چیزهایی است که روی نمودارها دنبالشان می‌گردیم:
+
+کلی: HTF. بدانید قیمت از کجا می‌آید و به کجا می‌رود، و PA گذشته و حال را در همهٔ تایم‌فریم‌ها، از ماهانه به پایین، بدانید.
+
+جزئی: در نواحی‌ای که می‌خواهید معامله کنید، به این‌ها نگاه کنید:
+
+گذشته.
+
+ناحیه را در همهٔ تایم‌فریم‌ها، تا M1، بررسی کنید و از خودتان بپرسید:
+
+تصمیم‌ها کجا گرفته شد؟ عرضه/تقاضای تمیز؟ این خطوط را علامت بزنید. عرضه/تقاضای تمیز ندارید؟ – ناحیهٔ فشرده
+
+آیا قیمت واقعاً از ناحیه شوت کرد و دور شد، یا با CP فاصله گرفت؟
+
+آیا خود ناحیه در جای درست واکنش داد؟ فراتر از ناحیه، در گذشته دورتر نگاه کنید. ببینید به چه چیزی واکنش داده است. آیا عرضه/تقاضای بهتری نزدیک بود که قیمت بخواهد به آن سر بزند؟ این خیلی از فیک‌اوت‌ها را توضیح می‌دهد. آیا قیمت در اصل به RS یک FL واکنش داده بود؟ می‌تواند به عرضه/تقاضای واقعی همان FL فیک‌اوت بزند.
+
+حال:
+
+رویکرد.
+
+قیمت چطور به ناحیه برمی‌گردد؟
+
+نزدیک‌ترین فلگ در تایم‌فریمی که می‌خواهید معامله کنید کجاست؟ این همان tg1 شما در این تایم‌فریم است. فلگ‌هایی در LTF‌ها؟ PA چه می‌گوید؟
+
+آیا قیمت در رویکرد به ناحیه، آخرین فلگ را تست کرد؟ (نشانهٔ خوب)
+
+آیا قیمت در این تایم‌فریم یا در LTF‌ها به داخل ناحیه فشرده شد؟ (نشانهٔ خوب)
+
+آیا خبر مهمی در راه است؟ آیا همین حالا خبر مهمی منتشر شده؟
+
+واکنش.
+
+در LTF، آیا قیمت به اولین نقطهٔ تصمیم واکنش شدید نشان می‌دهد؟ آیا نزدیک‌ترین عرضه/تقاضا را سریع اینگالف می‌کند؟ (نشانهٔ خوب)
+
+آیا قیمت صرفاً با CP از آن فاصله می‌گیرد؟ شاید می‌خواهد به نقطهٔ تصمیم بعدی برود
+
+اگر اولین نقطهٔ تصمیم شکست، نشانه‌های رویکرد به نقطهٔ بعدی را زیر نظر بگیرید و، مسلماً، واکنش را.
+
+### omidfx_p1_3
+EN: Well done omi,
+
+subscribed to your journal.
+
+Show us what you''re made of
+FA: آفرین omi،
+
+ژورنالت را دنبال می‌کنم.
+
+نشانمان بده از چه جنسی هستی
+
+### omidfx_p1_4
+EN: can't wait for your first fight BROTHER
+
+Let pave the streets with the blood of the banks
+FA: برای اولین مبارزه‌ات لحظه‌شماری می‌کنم برادر
+
+بیا خیابان‌ها را با خون بانک‌ها فرش کنیم
+
+### omidfx_p1_5
+EN: hey buddies
+
+her is my trade on AUD/USD
+
+i enjoyed it, hope you too
+FA: سلام بچه‌ها
+
+این هم معاملهٔ من روی AUD/USD
+
+خودم کیف کردم، امیدوارم شما هم بکنید
+
+### omidfx_p1_6
+EN: hey here is a trade on USD/CHF
+
+i tried to trade it with clear reasons and a tight stop
+
+i know the reasons aren't perfect and there are some points that i
+missed, but i try to be better each time and learn from my mistakes
+
+hope you enjoy it
+FA: سلام، این یک معامله روی USD/CHF است
+
+سعی کردم با دلایل روشن و استاپ‌لاس تنگ معامله‌اش کنم
+
+می‌دانم دلایل بی‌نقص نیست و نکته‌هایی هست که از دست داده‌ام، ولی هر بار تلاش می‌کنم بهتر باشم و از اشتباهاتم یاد بگیرم
+
+امیدوارم لذت ببرید
+
+### omidfx_p1_7
+EN: Hi Omidfxt
+
+very nice trades
+FA: سلام Omidfxt
+
+معامله‌های خیلی خوبی است
+
+### omidfx_p1_8
+EN: Nice trades M8 keep it up
+
+Looking at it in hindsight entry could have been lower.
+
+Regards
+
+Hans
+FA: معامله‌های خوبی است M8، همین‌طور ادامه بده
+
+با نگاه به گذشته، ورود می‌توانست پایین‌تر باشد.
+
+با احترام
+
+Hans
+
+### omidfx_p1_9
+EN: hey hansma
+
+good point buddy. where you point your base, was a good SR, but because
+after the base price didn't made a highest high point and didn't engulf
+the previous high(the point you mentioned as Eng by 0.2 pip), i wasn't
+comfortable to take the trade, i don't know maybe i need more
+experience, but that didn't look nice to me
+
+anyway i really appreciate your comment
+FA: سلام hansma
+
+نکتهٔ خوبی است رفیق. جایی که بیس را در نظر گرفتی، SR خوبی بود، ولی چون بعد از بیس قیمت سقف بالاتری نساخت و سقف قبلی را اینگالف نکرد (همان نقطه‌ای که گفتی با 0.2 پیپ اینگالف شده)، راحت نبودم که معامله را بگیرم؛ نمی‌دانم، شاید تجربهٔ بیشتری لازم دارم، ولی آن وضعیت به نظرم خوب نیامد
+
+در هر حال از کامنتت واقعاً ممنونم
+
+### omidfx_p1_10
+EN: hey everybody
+
+here is my view on USDCHF
+
+i will post the result too
+
+be happy to hear from you guys
+FA: سلام همه
+
+این هم دیدگاه من دربارهٔ USDCHF
+
+نتیجه را هم پست می‌کنم
+
+خوشحال می‌شوم از شما بچه‌ها بشنوم
+
+### omidfx_p1_11
+EN: hey. here is my view on USDCAD
+
+hope you enjoy it and i'll be happy to read your comments about it
+
+let's see what will happen
+FA: سلام. این دیدگاه من دربارهٔ USDCAD است
+
+امیدوارم لذت ببرید؛ خوشحال می‌شوم نظراتتان را درباره‌اش بخوانم
+
+ببینیم چه می‌شود
+
+### omidfx_p1_12
+EN: hi omidFXT
+
+BTW nice journal from you here
+
+hope you don't mind that i wrote my idea about your trade .
+
+nice work brother . keep it up
+
+sorry for my lack of ENGLISH and also if the pictures are messy
+
+best regards
+
+Salivan
+FA: سلام omidFXT
+
+راستی ژورنال خوبی داری اینجا
+
+امیدوارم بدت نیاید که نظرم را دربارهٔ معامله‌ات نوشتم.
+
+کارت خوب است برادر. همین‌طور ادامه بده
+
+بابت ضعف انگلیسی‌ام و اگر تصاویر نامرتب هستند عذر می‌خواهم
+
+با بهترین احترام
+
+Salivan
+
+### omidfx_p1_13
+EN: hey salivan
+
+thank you , it is very kind of you
+
+good idea about FLs, i really appreciate it
+
+let's see what will happen and learn more
+FA: سلام salivan
+
+ممنون، لطف داری
+
+ایدهٔ خوبی دربارهٔ FL‌ها بود، واقعاً ممنونم
+
+ببینیم چه می‌شود و بیشتر یاد بگیریم
+
+### omidfx_p1_14
+EN: omidfxt wrote: hey. here is my view on USDCAD
+
+hope you enjoy it and i'll be happy to read your comments about it
+
+let's see what will happen
+
+hey buddeis
+
+My Stop on CADUSD hit
+
+mistakes happen, but the most important part is what am i going to learn from them
+
+because i don't want to redo them again and again
+
+let's see what were the pros and cons:
+
+the zone wasn't Fresh(bad sign)
+
+price was compressing toward the zone(good sign)
+
+i can say that price was in midrange and not at the Extreme(bad sign)
+
+i think that it was FTB after a second ENG into free space and price
+made a new swing low, but i wasn't sure if it hit the origin
+
+after all of these i think MY BIG MISTAKE was NOT WAITING FOR THE PA(Reaction) and engulfing into the CP zone
+
+i love TT because you can take the trade from the most extreme, but as a
+ not experienced trader like me, i need a lot of time to achieve this
+goal, so until that time, i have to be more conservative and obey the
+rules(PAST, APPROACH & REACTION) and wait for the confirmations like
+ a ENG
+FA: omidfxt نوشت: سلام. این دیدگاه من دربارهٔ USDCAD است
+
+امیدوارم لذت ببرید؛ خوشحال می‌شوم نظراتتان را درباره‌اش بخوانم
+
+ببینیم چه می‌شود
+
+سلام رفقا
+
+استاپ من روی CADUSD خورد
+
+اشتباه پیش می‌آید، ولی مهم‌ترین بخش این است که از آن‌ها چه یاد می‌گیرم
+
+چون نمی‌خواهم دوباره و دوباره تکرارشان کنم
+
+ببینیم مزایا و معایب چه بود:
+
+ناحیه تازه نبود (نشانهٔ بد)
+
+قیمت به سمت ناحیه فشرده می‌شد (نشانهٔ خوب)
+
+می‌توانم بگویم قیمت در میانهٔ رنج بود و نه در اکسترمم (نشانهٔ بد)
+
+فکر می‌کنم FTB بعد از یک اینگالف دوم به فضای آزاد بود و قیمت سوئینگ‌لو جدید ساخت، ولی مطمئن نبودم که به اوریجین رسیده باشد
+
+بعد از همهٔ این‌ها فکر می‌کنم اشتباه بزرگ من این بود که منتظر PA (واکنش) نماندم و اینگالف به ناحیهٔ CP را ندیدم
+
+من TT را دوست دارم چون می‌توانی معامله را از اکسترمم‌ترین نقطه بگیری، ولی به‌عنوان معامله‌گری بی‌تجربه مثل من، زمان زیادی لازم دارم تا به این هدف برسم؛ پس تا آن موقع باید محافظه‌کارتر باشم و قوانین (گذشته، رویکرد و واکنش) را رعایت کنم و منتظر تأییدهایی مثل یک اینگالف بمانم
+
+### omidfx_p1_15
+EN: hey omidfxt
+
+i am so glad that you are here, there is no one that can say it's SL
+didn't hit yet , but it's important that I've never seen anyone look at
+his/her mistakes as beautiful as you did it ,i try to learn from you
+brother. really lovely work
+
+really nice journal by the way . keep it up bro .i am a fan of your work
+FA: سلام omidfxt
+
+واقعاً خوشحالم که اینجایی؛ کسی نیست که بتواند بگوید استاپ‌لاسش هنوز نخورده، ولی مهم این است که من هیچ‌کس را ندیده‌ام که به‌زیبایی تو به اشتباهاتش نگاه کند؛ من از تو یاد می‌گیرم برادر. کارت واقعاً دوست‌داشتنی است
+
+راستی ژورنال واقعاً خوبی داری. همین‌طور ادامه بده برادر. من طرفدار کارت هستم
+
+### omidfx_p1_16
+EN: hey salivan
+
+thanks for your kind words. i thinks it's really important to learn from our mistakes and don't do them again and again
+
+and it will be really nice to read other guys views and analysis on your mistakes.
+
+i really appreciate what you have done yet and posting your opinion
+about other guys analysis. you help your friends to see their analysis
+from another view and learn alot.
+
+we can learn a lot of from each other. TRADERS HELP TRADERS is a two-way street
+
+thanks again
+FA: سلام salivan
+
+ممنون از حرف‌های مهربانت. فکر می‌کنم واقعاً مهم است که از اشتباهاتمان یاد بگیریم و دوباره و دوباره انجامشان ندهیم
+
+و واقعاً خوب است که نظر و تحلیل دیگران را دربارهٔ اشتباهاتت بخوانی.
+
+واقعاً قدردان کاری هستم که تا حالا کرده‌ای و اینکه نظرت را دربارهٔ تحلیل دیگران می‌گذاری. تو به دوستانت کمک می‌کنی تحلیلیشان را از زاویهٔ دیگری ببینند و خیلی یاد بگیرند.
+
+ما می‌توانیم از همدیگر خیلی یاد بگیریم. TRADERS HELP TRADERS یک جادهٔ دوطرفه است
+
+باز هم ممنون
+
+### omidfx_p1_17
+EN: omidfxt wrote: hey everybody
+
+here is my view on USDCHF
+
+i will post the result too
+
+be happy to hear from you guys
+
+Hey dudes
+
+Stop was hit
+
+but not a good time for nagging, i prefer to investigate it why and how
+
+let's do it :
+
+by the way i be really happy to read your opinions too, tnx
+
+Regards
+FA: omidfxt نوشت: سلام همه
+
+این هم دیدگاه من دربارهٔ USDCHF
+
+نتیجه را هم پست می‌کنم
+
+خوشحال می‌شوم از شما بچه‌ها بشنوم
+
+سلام رفقا
+
+استاپ خورد
+
+ولی وقت غر زدن نیست، ترجیح می‌دهم بررسی کنم چرا و چطور
+
+بریم سراغش:
+
+راستی نظرهای شما را هم با علاقه می‌خوانم، ممنون
+
+با احترام
+
+### omidfx_p1_18
+EN: hey buddies
+
+I've just finished
+	Michal's Journal
+
+it was brilliant and very useful with great details and explanations
+
+i really recommend you to study it
+FA: سلام بچه‌ها
+
+همین حالا ژورنال Michal را تمام کردم
+
+درخشان و بسیار مفید بود، با جزئیات و توضیح‌های عالی
+
+واقعاً توصیه می‌کنم مطالعه‌اش کنی
+
+### omidfx_p1_19
+EN: hey buddies
+
+in the last few days i was studying about MPLs and the tricks in the market, were Big Boys decide to play with retailers feeling
+
+most of the time they do it by causing pain for the retailers and and
+their stops. this zones where tricks were played AS IF said are really
+important and are the best places in the world for trading
+
+today i start to give it a try and look for these zones in the chart and try to trade them
+
+let's see what happened
+
+here is my first trade on AUDUSD but Unfortunately my entry didn't hit just by few pips
+
+although my entries didn't hit but i'm happy. because i'm trying to
+trade the Extremes with amazing R:R and i will be better each time
+
+Regards
+FA: سلام بچه‌ها
+
+این روزهای آخر داشتم دربارهٔ MPL‌ها و ترفندهای بازار مطالعه می‌کردم، جایی که بچه‌های بزرگ تصمیم می‌گیرند با احساسات خرده‌معامله‌گرها بازی کنند
+
+بیشتر وقت‌ها این کار را با درد دادن به خرده‌معامله‌گرها و استاپ‌هایشان انجام می‌دهند. این نواحی‌ای که ترفندها در آن‌ها اجرا شده، همان‌طور که IF گفته، واقعاً مهم‌اند و بهترین جاهای دنیا برای معامله‌گری هستند
+
+امروز شروع کردم به امتحان کردنش و گشتن دنبال این نواحی در نمودار و تلاش برای معامله‌شان
+
+ببینیم چه شد
+
+این اولین معاملهٔ من روی AUDUSD است، ولی متأسفانه ورودم فقط چند پیپ کم آورد
+
+هرچند ورودهایم فعال نشد، ولی خوشحالم. چون دارم تلاش می‌کنم اکسترمم‌ها را با R:R فوق‌العاده معامله کنم و هر بار بهتر می‌شوم
+
+با احترام
+
+### omidfx_p1_20
+EN: hey. here is another trade on USDCHF
+
+IF: "All we need to do is look for tricks being played into places where tricks were played in the past"
+
+let's do it again
+
+Hope you enjoyed it
+FA: سلام. این هم معاملهٔ دیگری روی USDCHF
+
+IF: «تنها کاری که باید بکنیم این است که دنبال ترفندهایی بگردیم که در جاهایی اجرا می‌شوند که در گذشته ترفند در آن‌ها اجرا شده بود»
+
+بیایید دوباره انجامش دهیم
+
+امیدوارم لذت برده باشید
+
+### omidfx_p1_21
+EN: hey everybody
+
+these days i'm struggling with some important stuff like FLs and MPLs
+
+although i haven't study IF's journal yet and will go through it soon(i know that is a piece of Gold), but i've tried to draw the FLs and look for them in many charts and time frames
+
+here is an trade i took today on Gold with FLs and some other stuff that i explained it in the following charts
+
+as the other trades i took in the last few days, my entry didn't hit
+with just a few pips, but there were some lessons there for me
+
+hope they make sense and you enjoy it
+FA: سلام همه
+
+این روزها با چند چیز مهم مثل FL‌ها و MPL‌ها درگیرم
+
+هرچند هنوز ژورنال IF را مطالعه نکرده‌ام و به‌زودی سراغش می‌روم (می‌دانم که تکه‌ای طلاست)، ولی تلاش کرده‌ام FL‌ها را ترسیم کنم و در نمودارها و تایم‌فریم‌های زیادی دنبالشان بگردم
+
+این معامله‌ای است که امروز روی Gold گرفتم، با FL‌ها و چند چیز دیگر که در نمودارهای بعدی توضیح داده‌ام
+
+مثل بقیهٔ معامله‌هایی که این چند روز گرفتم، ورودم فقط چند پیپ کم آورد، ولی درس‌هایی برایم داشت
+
+امیدوارم منطقی باشد و لذت ببرید
+
+### omidfx_p1_22
+EN: Hi Omidfxt
+
+Thank you for posting these charts. I think you are struggling because
+the difference Flag- Flag limit is not clear. I marked some on your
+chart. What is crucial to understand is that a FL is continuation
+pattern, a DBD or a RBR which engulfs a SR. the more important the SR
+the more valuable your FL is. The Homework thread about FL is really
+good. particularly the work done by Aaron.
+
+It is also very easy after the fact so I spotted a MPL too, it is at QM
+level ( where people put their stops instead of putting their entry )
+
+You mark these limits perfectly, you just need to clarify a bit SR- FL and you're ready to rock !
+
+Cheers
+FA: سلام Omidfxt
+
+ممنون که این نمودارها را گذاشتی. فکر می‌کنم چون تفاوت Flag و Flag limit روشن نیست، درگیر شده‌ای. چند مورد را روی نمودارت علامت زدم. چیزی که فهمیدنش حیاتی است این است که FL یک الگوی ادامه‌دهنده است، یک DBD یا RBR که یک SR را اینگالف می‌کند. هرچه SR مهم‌تر باشد، FL تو ارزشمندتر است. تاپیک تمرین دربارهٔ FL واقعاً خوب است، به‌خصوص کاری که Aaron کرده.
+
+بعد از وقوع هم خیلی راحت است، پس من یک MPL هم دیدم؛ در سطح QM است (جایی که مردم استاپ‌هایشان را می‌گذارند به‌جای اینکه ورودشان را بگذارند)
+
+این لیمیت‌ها را بی‌نقص علامت می‌زنی، فقط باید SR و FL را کمی روشن کنی و آماده‌ای که بترکانی!
+
+با احترام
+
+### omidfx_p1_23
+EN: hey corsica
+
+i really appreciate your comments on the chart
+
+yeah you are right about the entry, FL then FTB to it, so simple
+
+i was just trying to find a more extreme edge for my entry at the trick zone and really forgot about that beautiful FL
+
+i could use more entry to catch the trade but didn't do that because i
+don't really like get used to it and i'm trying to find the exact point
+
+by the way i think FLs have something more to do with the SRs and we have to go on more details, but still need to work on it
+
+anyway thanks again buddy. keep the good work doing
+FA: سلام corsica
+
+واقعاً از کامنت‌هایت روی نمودار ممنونم
+
+بله، دربارهٔ ورود حق با توست؛ FL و بعد FTB به آن، این‌قدر ساده
+
+من فقط داشتم تلاش می‌کردم لبهٔ اکسترمم‌تری برای ورودم در ناحیهٔ ترفند پیدا کنم و واقعاً آن FL زیبا را فراموش کردم
+
+می‌توانستم از ورودهای بیشتری برای گرفتن معامله استفاده کنم ولی این کار را نکردم، چون دوست ندارم به آن عادت کنم و دارم تلاش می‌کنم نقطهٔ دقیق را پیدا کنم
+
+راستی فکر می‌کنم FL‌ها بیشتر به SR‌ها مربوط‌اند و باید جزئیات بیشتری را بررسی کنیم، ولی هنوز باید رویش کار کنم
+
+در هر حال باز هم ممنون رفیق. کار خوبت را ادامه بده
+
+### omidfx_p1_24
+EN: I've just start IF's journal
+
+here is a Master Piece from IF and an example by him
+
+enjoy it
+FA: همین حالا ژورنال IF را شروع کردم
+
+این یک شاهکار از IF و یک نمونه از خودش است
+
+لذت ببرید
+
+### omidfx_p1_25
+EN: still figure it out.
+FA: هنوز دارم سر از آن در می‌آورم.

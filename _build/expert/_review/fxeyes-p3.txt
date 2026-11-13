@@ -1,0 +1,803 @@
+===== fxeyes-p3 : 24 posts =====
+--- fxeyes_p3_1 author=Ifmyante hash=6da2fb46
+EN: WT
+
+Your LS is not just a line.
+
+Sure, you draw a line from the LS, but once it's on the right side of
+the H/L, you must draw the rectangle which surrounds the line.
+
+Find the kink, and you'll own the LS
+FA: WT
+
+LS تو فقط یک خط نیست.
+
+معلوم است که از LS یک خط می‌کشی، اما وقتی آن خط در سمت درست H/L قرار گرفت، باید مستطیلی بکشی که آن خط را در بر می‌گیرد.
+
+کینک را پیدا کن، آن‌وقت LS را در اختیار داری.
+--- fxeyes_p3_2 author=winnertrader hash=054f51d2
+EN: Hi IF,
+
+I left out the rectangles in the previous chart to avoid creating a mess.
+
+I attached two new charts of EURAUD below. My main problem is knowing
+which swings to draw LS from especially when we have multiple back and
+forth moves in the same area.
+FA: سلام IF،
+
+مستطیل‌ها را در چارت قبلی حذف کردم تا شلوغ نشود.
+
+دو چارت جدید از EURAUD را پایین پیوست کردم. مشکل اصلی من این است که بدانم LS را از کدام سوینگ‌ها بکشم، خصوصاً وقتی در همان ناحیه چند حرکت رفت‌وبرگشتی داریم.
+--- fxeyes_p3_3 author=fxeyes hash=a97748f9
+EN: First trade after switching everything to start trading in high TFs.
+Need to train myself to start holding trades for longer without feeling
+anxious. Need to build confidence and trust HTF reads.
+
+I'm reading this two ways.
+
+1. Price has been compressing up, QM'd, and went back into DM level, to turn lower.
+
+2. Price has already reacted to LS level, broke into higher PAZ, and will turn higher.
+
+No managing, we'll just see where it goes. Some pips already made on tg1.
+FA: اولین معامله بعد از اینکه همه‌چیز را عوض کردم تا معامله در تایم‌فریم‌های بالا را شروع کنم. باید خودم را تمرین بدهم تا بدون احساس اضطراب، معاملات را مدت بیشتری نگه دارم. باید اعتماد به نفس بسازم و به خوانش‌های تایم‌فریم بالاتر اعتماد کنم.
+
+این را به دو شکل می‌خوانم.
+
+1. قیمت به سمت بالا فشرده شده، QM زده و به سطح DM بازگشته تا به پایین بچرخد.
+
+2. قیمت پیش‌تر به سطح LS واکنش داده، به PAZ بالاتر شکسته و به سمت بالا خواهد چرخید.
+
+هیچ مدیریتی انجام نمی‌دهم، فقط می‌بینیم تا کجا می‌رود. چند پیپ روی tg1 همین حالا گرفته شده است.
+--- fxeyes_p3_4 author=fxeyes hash=382791c0
+EN: I think I've heard IF say something to the effect of since we don't
+have any information on all time highs, we can't trade them. Since i'm
+not so smart, my thinking is simpler. Since we know the general
+direction of price, can't we just keep looking for trades in that
+direction, as continuation engulfs? I did an exercise on the sp500, and
+ it's insane how well rtm concepts worked. There's pretty much at least
+ a bounce at every mpl, ls kink, qm, iQm, etc... pretty much all the
+concepts of RTM. Phenomenal success rates. With good MM, i don't know
+how much simpler trading can be. The mpls are particular noteworthy as
+these tiny inconspicuous zones became the reversal area for the next
+trend up. Too bad I've only learned most of these concepts in the past
+couple of months. It looks like price is starting to capitulate and
+blow off sometime this month. As IF notes, there's no information to
+look for areas for reversal.
+FA: فکر می‌کنم شنیده‌ام IF چیزی در این مضمون می‌گوید که چون هیچ اطلاعاتی از سقف‌های تاریخی نداریم، نمی‌توانیم روی آن‌ها معامله کنیم. چون من آن‌قدر باهوش نیستم، فکرم ساده‌تر است. وقتی جهت کلی قیمت را می‌دانیم، نمی‌توانیم همین‌طور در همان جهت دنبال معامله بگردیم، به‌عنوان اینگالف‌های ادامه‌دهنده؟ من یک تمرین روی sp500 انجام دادم و باورنکردنی است که مفاهیم rtm چقدر خوب کار کردند. تقریباً در هر mpl، کینک ls، qm، iQm و غیره دست‌کم یک بازگشت هست... تقریباً همهٔ مفاهیم RTM. نرخ موفقیت فوق‌العاده. با MM خوب، نمی‌دانم معامله‌گری چقدر می‌تواند ساده‌تر شود. mpl‌ها به‌طور خاص قابل توجه‌اند، چون همین ناحیه‌های کوچک و نامحسوس منطقهٔ برگشت روند صعودی بعدی شدند. حیف که بیشتر این مفاهیم را فقط در چند ماه گذشته یاد گرفته‌ام. به نظر می‌رسد قیمت در همین ماه شروع به تسلیم شدن و شتاب پایانی گرفتن می‌کند. همان‌طور که IF اشاره می‌کند، اطلاعاتی برای جست‌وجوی نواحی برگشت وجود ندارد.
+--- fxeyes_p3_5 author=fxeyes hash=f060504a
+EN: After reading some journals this weekend and doing some reflection,
+I'm realizing there's something fundamentally flawed with the way I read
+ the charts and look for trades. Lots of pieces, but they're not always
+ coming together, and I think its because my approach is wrong, and
+getting lost in scale. If I'm not mistaken, we should be:
+
+1. Finding the significant FLs at important levels.
+
+- What constitutes as significant?
+
+2. Find the currently relevant FLs.
+
+- What's the correct way to draw and trace through the FLs?
+
+3. Know when an engulf has taken place (and hasn't hit it's target).
+
+- What's a proper engulf?
+
+- How do i identify the correct target for a broken FL?
+
+3. Know the where the target is.
+
+4. Know where the best orders are for entry.
+
+- How do you identify where there orders?
+
+- How far can price retrace?
+
+- How do you identify the last set of orders before a turn?
+
+5. Tying all this together through scale.
+
+The hard part is there's so many ways to interpret it, and so easy to
+get wrong. But being hard doesn't mean impossible. The kink video has
+been great but it feels like there's still a lot guessing going on
+(maybe i'm not just not letting unclear trades go, but I'm also letting a
+ lot of good trades go). I"ve been relying on money management will
+get me through incorrect analysis or unclear trades. But Sali's journal
+ has been eye opening, and made me rethink my approach and where my gaps
+ are.
+
+Lets get these answered once and for all through true understanding and
+analysis with HW. No new trades until this FL reading is accurate and
+instinctual. Sali and IF's journals will be my bibles for the next
+couple of weeks. If anyone thinks I'm headed in the wrong direction,
+please let me know!
+FA: بعد از خواندن چند ژورنال در آخر هفته و کمی تأمل، متوجه می‌شوم ایرادی بنیادی در روش خواندن چارت‌ها و جست‌وجوی معاملاتم وجود دارد. اجزای زیادی هستند، اما همیشه در کنار هم جمع نمی‌شوند، و فکر می‌کنم دلیلش این است که رویکردم اشتباه است و در مقیاس گم می‌شوم. اگر اشتباه نکنم، باید:
+
+1. FL‌های مهم را در سطوح کلیدی پیدا کنیم.
+
+- چه چیزی یک FL را مهم می‌کند؟
+
+2. FL‌های مرتبط فعلی را پیدا کنیم.
+
+- روش درست کشیدن و عبور دادن خطوط از FL‌ها چیست؟
+
+3. بدانیم اینگالف چه وقت رخ داده است (و به تارگتش نخورده).
+
+- اینگالف درست کدام است؟
+
+- تارگت درست یک FL شکسته را چطور شناسایی کنم؟
+
+3. بدانیم تارگت کجاست.
+
+4. بدانیم بهترین سفارش‌ها برای ورود کجا هستند.
+
+- چطور تشخیص می‌دهید آن سفارش‌ها کجا هستند؟
+
+- قیمت تا کجا می‌تواند پولبک بزند؟
+
+- چطور آخرین دسته از سفارش‌ها پیش از یک چرخش را شناسایی می‌کنید؟
+
+5. همهٔ این‌ها را از طریق مقیاس به هم پیوند بدهیم.
+
+بخش سخت ماجرا این است که راه‌های زیادی برای تفسیرش وجود دارد و اشتباه کردن هم بسیار آسان است. اما سخت بودن به معنای ناممکن بودن نیست. ویدئوی کینک عالی بوده، ولی حس می‌کنم هنوز حدس و گمان زیادی در جریان است (شاید نه فقط معاملات نامشخص را رها نمی‌کنم، بلکه معاملات خوب زیادی را هم از دست می‌دهم). تا حالا به این تکیه کرده‌ام که مدیریت سرمایه از تحلیل اشتباه یا معاملات نامشخص عبورم می‌دهد. اما ژورنال Sali چشمم را باز کرد و باعث شد رویکردم و شکاف‌هایم را دوباره بررسی کنم.
+
+بیایید این‌ها را یک بار برای همیشه، با فهم و تحلیل واقعی به کمک HW، پاسخ دهیم. تا زمانی که این خوانش FL دقیق و شهودی نشود، معاملهٔ جدیدی نمی‌کنم. ژورنال‌های Sali و IF دو هفتهٔ آیندهٔ من کتاب مقدس خواهند بود. اگر کسی فکر می‌کند در مسیر اشتباه می‌روم، لطفاً به من بگوید!
+--- fxeyes_p3_6 author=fxeyes hash=88c035e2
+EN: winnertrader wrote: Hi IF,
+
+I left out the rectangles in the previous chart to avoid creating a mess.
+
+I attached two new charts of EURAUD below. My main problem is knowing
+which swings to draw LS from especially when we have multiple back and
+forth moves in the same area.
+
+I've been thinking more about your troubles with these LS lines, and I
+think your trouble is mixing up the lines between different time frames.
+ Im reiterating stuff being said in the video and video forum (i
+rewatched em), but I'll try to re-interpret it in a way that'll
+hopefully help you.
+
+Starting with a blank chart:
+
+1. Drawing your major lines, at the extremes, where price has crossed it
+ at least once. These are the lines that cut across all the way the
+charts. The obvious stuff. Use judgement call of how far to go back as
+ your TFs get smaller. There shouldn't be too many of these.
+
+2. This one is trickier and you'll just have to practice and find a way
+that works for you. The tops and bottoms of FLs that broke an important
+ FL are important. But when price crosses price alot, it's leads to a
+lot of lines. So if it looks important, draw a line across the chart.
+If you're unsure, maybe only if it's been crossed recently.
+
+3. Include the rest: PCP, Cm breaks, etc...Again same as two, maybe only
+ include recently crossed ones, unless it looks really important.
+
+4. Any other areas that seem to stand out, given what price is currently doing.
+
+5*. I'll also throw in areas where price swings are at least semi-major
+ and tends to swing a lot, if it hasn't been picked up by any of the
+above (which is unlikely). The area will need more 'touches' the lower
+the timeframe. So for example, in Mn it needs at least 3 touches. In
+Wk it needs at least 5 touches. etc... These numbers can change
+relative to the chart (charts that whipsaw back and forth will naturally
+ have alot of touches. For example USDJPY vs USDCAD in Mn chart.
+
+These should be all your major lines. For lines that you are not sure
+about, just leave it out for now. I'll naturally be picked up in a lower
+ tf. Then go and find your kinks. If you're not sure about something,
+just use a judgement call. Don't worry too much about being wrong.
+Here's an example from a chart that crosses alot
+
+1
+
+2
+
+3
+
+4
+
+I think your chart looks pretty good! So maybe you were already on your way to figuring this stuff out.
+
+I dont feel like I'm an expert at this, but i think you might be over
+complicating things trying to be perfect. I kinda feel like i've over
+done it already, and a number of the lines was better left to the lower
+time frame, but its no worries. Maybe I'll dive into the LTF and adjust
+ if needed. You just have to make a judgement call when you;re not
+sure. Do you want to be more cautious so you won't miss a trade (but
+will make your reading more difficult because you have so many lines),
+or do you want a clean chart so the reading becomes easier?
+FA: winnertrader نوشت: سلام IF،
+
+مستطیل‌ها را در چارت قبلی حذف کردم تا شلوغ نشود.
+
+دو چارت جدید از EURAUD را پایین پیوست کردم. مشکل اصلی من این است که بدانم LS را از کدام سوینگ‌ها بکشم، خصوصاً وقتی در همان ناحیه چند حرکت رفت‌وبرگشتی داریم.
+
+بیشتر دربارهٔ مشکلت با این خطوط LS فکر کرده‌ام، و فکر می‌کنم مشکلت این است که خطوط را بین تایم‌فریم‌های مختلف قاطی می‌کنی. دارم چیزهایی را که در ویدئو و فروم ویدئو گفته شده تکرار می‌کنم (دوباره از اول دیدمشان)، ولی سعی می‌کنم به شکلی بازتفسیرشان کنم که امیدوارم کمکت کند.
+
+با یک چارت خالی شروع کن:
+
+1. خطوط اصلی‌ات را در نقاط انتهایی بکش، جایی که قیمت دست‌کم یک بار از آن عبور کرده. این‌ها خطوطی هستند که تمام عرض چارت را می‌بُرند. چیزهای واضح. با کوچک‌تر شدن تایم‌فریم‌هایت، خودت قضاوت کن که چقدر به عقب برگردی. تعدادشان نباید زیاد باشد.
+
+2. این یکی سخت‌تر است و فقط باید تمرین کنی و راهی پیدا کنی که برای خودت کار کند. سقف‌ها و کف‌های FL‌هایی که یک FL مهم را شکسته‌اند مهم‌اند. اما وقتی قیمت بارها از قیمت عبور می‌کند، این به خطوط زیادی می‌رسد. پس اگر مهم به نظر می‌رسد، خطی در عرض چارت بکش. اگر مطمئن نیستی، شاید فقط در صورتی که در دورهٔ اخیر شکسته شده باشد.
+
+3. بقیه را هم شامل شو: PCP، شکست‌های Cm و غیره... باز هم مثل مورد دوم، شاید فقط آن‌هایی را بگنجان که اخیراً شکسته شده‌اند، مگر اینکه واقعاً مهم به نظر برسد.
+
+4. هر ناحیهٔ دیگری که با توجه به رفتار فعلی قیمت برجسته به نظر می‌رسد.
+
+5*. همچنین نواحی‌ای را اضافه می‌کنم که سوینگ‌های قیمت در آن‌ها دست‌کم نیمه‌مهم هستند و تمایل به نوسان زیاد دارند، اگر هیچ‌یک از موارد بالا آن‌ها را نگرفته باشد (که بعید است). هر چه تایم‌فریم پایین‌تر، ناحیه به «برخورد» بیشتری نیاز دارد. مثلاً در Mn دست‌کم 3 برخورد لازم است. در Wk دست‌کم 5 برخورد. و غیره... این اعداد بسته به چارت می‌توانند تغییر کنند (چارت‌هایی که مدام بالا و پایین شلاق می‌خورند طبیعتاً برخورد زیادی دارند. مثلاً USDJPY در برابر USDCAD در چارت Mn.
+
+این‌ها باید همهٔ خطوط اصلی‌ات باشند. خطوطی که مطمئن نیستی، فعلاً کنار بگذار. طبیعتاً در تایم‌فریم پایین‌تر گرفته می‌شوند. بعد برو کینک‌هایت را پیدا کن. اگر دربارهٔ چیزی مطمئن نیستی، فقط قضاوت کن. نگران اشتباه بودنش زیاد نباش. این مثال از چارتی است که تلاقی زیادی دارد:
+
+1
+
+2
+
+3
+
+4
+
+فکر می‌کنم چارتت خیلی خوب به نظر می‌رسد! پس شاید از قبل در مسیر فهمیدن این چیزها بودی.
+
+حس نمی‌کنم در این کار متخصص باشم، ولی فکر می‌کنم ممکن است با تلاش برای بی‌نقص بودن، ماجرا را بیش از حد پیچیده کرده باشی. حس می‌کنم خودم هم از قبل زیاده‌روی کرده‌ام و تعدادی از خطوط بهتر بود به تایم‌فریم پایین‌تر سپرده می‌شد، ولی مهم نیست. شاید در LTF دقیق‌تر شوم و در صورت نیاز تنظیم کنم. فقط وقتی مطمئن نیستی باید قضاوت کنی. می‌خواهی محتاط‌تر باشی تا معامله‌ای را از دست ندهی (ولی چون خطوط زیادی داری خوانشت سخت‌تر می‌شود)، یا چارت تمیزی می‌خواهی تا خواندن آسان‌تر شود؟
+--- fxeyes_p3_7 author=Ifmyante hash=c1dcd589
+EN: fxeyes wrote: I think I've heard
+ IF say something to the effect of since we don't have any information
+on all time highs, we can't trade them. Since i'm not so smart, my
+thinking is simpler. Since we know the general direction of price,
+can't we just keep looking for trades in that direction, as continuation
+ engulfs? I did an exercise on the sp500, and it's insane how well rtm
+concepts worked. There's pretty much at least a bounce at every mpl, ls
+ kink, qm, iQm, etc... pretty much all the concepts of RTM. Phenomenal
+success rates. With good MM, i don't know how much simpler trading can
+be. The mpls are particular noteworthy as these tiny inconspicuous
+zones became the reversal area for the next trend up. Too bad I've only
+ learned most of these concepts in the past couple of months. It looks
+like price is starting to capitulate and blow off sometime this month.
+As IF notes, there's no information to look for areas for reversal.
+
+Yup. The basics work extremely well
+FA: fxeyes نوشت: فکر می‌کنم شنیده‌ام IF چیزی در این مضمون می‌گوید که چون هیچ اطلاعاتی از سقف‌های تاریخی نداریم، نمی‌توانیم روی آن‌ها معامله کنیم. چون من آن‌قدر باهوش نیستم، فکرم ساده‌تر است. وقتی جهت کلی قیمت را می‌دانیم، نمی‌توانیم همین‌طور در همان جهت دنبال معامله بگردیم، به‌عنوان اینگالف‌های ادامه‌دهنده؟ من یک تمرین روی sp500 انجام دادم و باورنکردنی است که مفاهیم rtm چقدر خوب کار کردند. تقریباً در هر mpl، کینک ls، qm، iQm و غیره دست‌کم یک بازگشت هست... تقریباً همهٔ مفاهیم RTM. نرخ موفقیت فوق‌العاده. با MM خوب، نمی‌دانم معامله‌گری چقدر می‌تواند ساده‌تر شود. mpl‌ها به‌طور خاص قابل توجه‌اند، چون همین ناحیه‌های کوچک و نامحسوس منطقهٔ برگشت روند صعودی بعدی شدند. حیف که بیشتر این مفاهیم را فقط در چند ماه گذشته یاد گرفته‌ام. به نظر می‌رسد قیمت در همین ماه شروع به تسلیم شدن و شتاب پایانی گرفتن می‌کند. همان‌طور که IF اشاره می‌کند، اطلاعاتی برای جست‌وجوی نواحی برگشت وجود ندارد.
+
+بله. اصول پایه فوق‌العاده خوب کار می‌کنند.
+--- fxeyes_p3_8 author=Ifmyante hash=bd76f2c8
+EN: fxeyes wrote: After reading some
+ journals this weekend and doing some reflection, I'm realizing there's
+something fundamentally flawed with the way I read the charts and look
+for trades. Lots of pieces, but they're not always coming together, and
+ I think its because my approach is wrong, and getting lost in scale.
+If I'm not mistaken, we should be:
+
+1. Finding the significant FLs at important levels.
+
+- What constitutes as significant?
+
+2. Find the currently relevant FLs.
+
+- What's the correct way to draw and trace through the FLs?
+
+3. Know when an engulf has taken place (and hasn't hit it's target).
+
+- What's a proper engulf?
+
+- How do i identify the correct target for a broken FL?
+
+3. Know the where the target is.
+
+4. Know where the best orders are for entry.
+
+- How do you identify where there orders?
+
+- How far can price retrace?
+
+- How do you identify the last set of orders before a turn?
+
+5. Tying all this together through scale.
+
+The hard part is there's so many ways to interpret it, and so easy to
+get wrong. But being hard doesn't mean impossible. The kink video has
+been great but it feels like there's still a lot guessing going on
+(maybe i'm not just not letting unclear trades go, but I'm also letting a
+ lot of good trades go). I"ve been relying on money management will
+get me through incorrect analysis or unclear trades. But Sali's journal
+ has been eye opening, and made me rethink my approach and where my gaps
+ are.
+
+Lets get these answered once and for all through true understanding and
+analysis with HW. No new trades until this FL reading is accurate and
+instinctual. Sali and IF's journals will be my bibles for the next
+couple of weeks. If anyone thinks I'm headed in the wrong direction,
+please let me know!
+
+There are setups which are very difficult to read, even for the most experienced analysts.
+
+But as we get more experience, we're able to read more and more complex
+PA, allowing us to trade setups we would never before have imagined
+possible.
+
+Whatever our level of understanding, we must only trade the very rewarding setups which are screaming to be taken.
+
+Use what you know at every stage, and the rest will open up to you gradually
+FA: fxeyes نوشت: بعد از خواندن چند ژورنال در آخر هفته و کمی تأمل، متوجه می‌شوم ایرادی بنیادی در روش خواندن چارت‌ها و جست‌وجوی معاملاتم وجود دارد. اجزای زیادی هستند، اما همیشه در کنار هم جمع نمی‌شوند، و فکر می‌کنم دلیلش این است که رویکردم اشتباه است و در مقیاس گم می‌شوم. اگر اشتباه نکنم، باید:
+
+1. FL‌های مهم را در سطوح کلیدی پیدا کنیم.
+
+- چه چیزی یک FL را مهم می‌کند؟
+
+2. FL‌های مرتبط فعلی را پیدا کنیم.
+
+- روش درست کشیدن و عبور دادن خطوط از FL‌ها چیست؟
+
+3. بدانیم اینگالف چه وقت رخ داده است (و به تارگتش نخورده).
+
+- اینگالف درست کدام است؟
+
+- تارگت درست یک FL شکسته را چطور شناسایی کنم؟
+
+3. بدانیم تارگت کجاست.
+
+4. بدانیم بهترین سفارش‌ها برای ورود کجا هستند.
+
+- چطور تشخیص می‌دهید آن سفارش‌ها کجا هستند؟
+
+- قیمت تا کجا می‌تواند پولبک بزند؟
+
+- چطور آخرین دسته از سفارش‌ها پیش از یک چرخش را شناسایی می‌کنید؟
+
+5. همهٔ این‌ها را از طریق مقیاس به هم پیوند بدهیم.
+
+بخش سخت ماجرا این است که راه‌های زیادی برای تفسیرش وجود دارد و اشتباه کردن هم بسیار آسان است. اما سخت بودن به معنای ناممکن بودن نیست. ویدئوی کینک عالی بوده، ولی حس می‌کنم هنوز حدس و گمان زیادی در جریان است (شاید نه فقط معاملات نامشخص را رها نمی‌کنم، بلکه معاملات خوب زیادی را هم از دست می‌دهم). تا حالا به این تکیه کرده‌ام که مدیریت سرمایه از تحلیل اشتباه یا معاملات نامشخص عبورم می‌دهد. اما ژورنال Sali چشمم را باز کرد و باعث شد رویکردم و شکاف‌هایم را دوباره بررسی کنم.
+
+بیایید این‌ها را یک بار برای همیشه، با فهم و تحلیل واقعی به کمک HW، پاسخ دهیم. تا زمانی که این خوانش FL دقیق و شهودی نشود، معاملهٔ جدیدی نمی‌کنم. ژورنال‌های Sali و IF دو هفتهٔ آیندهٔ من کتاب مقدس خواهند بود. اگر کسی فکر می‌کند در مسیر اشتباه می‌روم، لطفاً به من بگوید!
+
+ستاپ‌هایی وجود دارند که خواندنشان بسیار دشوار است، حتی برای باتجربه‌ترین تحلیلگران.
+
+اما هرچه تجربهٔ بیشتری به دست می‌آوریم، می‌توانیم PA پیچیده‌تری بخوانیم، و این اجازه می‌دهد ستاپ‌هایی را معامله کنیم که پیش‌تر تصورشان را هم نمی‌کردیم ممکن باشد.
+
+در هر سطحی از درک که باشیم، باید فقط ستاپ‌های بسیار پرارزشی را معامله کنیم که فریاد می‌زنند باید برداشته شوند.
+
+در هر مرحله از آنچه می‌دانی استفاده کن، و بقیه به‌تدریج برایت باز خواهد شد.
+--- fxeyes_p3_9 author=fxeyes hash=8dc737bd
+EN: Ifmyante wrote:
+fxeyes
+ wrote: After reading some journals this weekend and doing some
+reflection, I'm realizing there's something fundamentally flawed with
+the way I read the charts and look for trades. Lots of pieces, but
+they're not always coming together, and I think its because my approach
+is wrong, and getting lost in scale. If I'm not mistaken, we should be:
+
+1. Finding the significant FLs at important levels.
+
+- What constitutes as significant?
+
+2. Find the currently relevant FLs.
+
+- What's the correct way to draw and trace through the FLs?
+
+3. Know when an engulf has taken place (and hasn't hit it's target).
+
+- What's a proper engulf?
+
+- How do i identify the correct target for a broken FL?
+
+3. Know the where the target is.
+
+4. Know where the best orders are for entry.
+
+- How do you identify where there orders?
+
+- How far can price retrace?
+
+- How do you identify the last set of orders before a turn?
+
+5. Tying all this together through scale.
+
+The hard part is there's so many ways to interpret it, and so easy to
+get wrong. But being hard doesn't mean impossible. The kink video has
+been great but it feels like there's still a lot guessing going on
+(maybe i'm not just not letting unclear trades go, but I'm also letting a
+ lot of good trades go). I"ve been relying on money management will
+get me through incorrect analysis or unclear trades. But Sali's journal
+ has been eye opening, and made me rethink my approach and where my gaps
+ are.
+
+Lets get these answered once and for all through true understanding and
+analysis with HW. No new trades until this FL reading is accurate and
+instinctual. Sali and IF's journals will be my bibles for the next
+couple of weeks. If anyone thinks I'm headed in the wrong direction,
+please let me know!
+
+There are setups which are very difficult to read, even for the most experienced analysts.
+
+But as we get more experience, we're able to read more and more complex
+PA, allowing us to trade setups we would never before have imagined
+possible.
+
+Whatever our level of understanding, we must only trade the very rewarding setups which are screaming to be taken.
+
+Use what you know at every stage, and the rest will open up to you gradually
+
+Thank you for the insight IF! Between Sali's achievement of figuring
+out the market through the same resources we have (probably less since
+he doesn't appear to use the video concepts), and Ysbail's recent
+improvements through study, I'm inspired to use your teachings to look
+behind the covers of price and see what's going on underneath. I have
+an odd way of learning; i need to know all the pieces, play with them
+and see how they all work individually, before I can put them all
+together. I've played with enough of the pieces and seen them in action
+ in live trading to have a good idea of what they're about. But there
+are some questions and uncertainty about them that i think is causing
+hesitation and second guessing. I also have a theory of how the market
+works. I seems like a good time to stop and do some intense studying to
+ answer these questions. I'm going to list them out here for myself as a
+ guide for my study, but feel free to offer any guidance where you see
+fit =)
+
+Flag Limits
+
+1. How do I correctly identify FLs, so I can find the correct engulfs
+and targets? I've been confused by a couple of styles:[/li]
+
+a. Finding the kinks through major S/R lines.
+
+i. If i'm trying to follow the FL breaks, how do i identify with FL to 'start' with?
+
+ii. Or do I just find the last FL that breaks on the right side? If so,
+ how do I draw the FL when price is choppy through the line?
+
+b. I've also seen people draw FLs based on the last FL that's been holding price, then trace through it, which seems more local.
+
+i. In this case, was there already an engulf somewhere that's offering guidance for the trade?
+
+ii. Were they tying it in with a major s/r further to the left?
+
+2.
+
+PAZs
+
+1. I understand there are PAZs in between the spaces of MPLs, but the
+PAZs that stand out to me are the ones through symmetry, which seems to
+be through s/r. I need further study of PAZs through MPLs (and I assume
+FLs)
+
+2. Do those concepts already naturally intermix?
+
+2. How do i identify trades within a PAZ? Lets say a PAZ engulfs one
+way, how far can price retrace (within the context of the last FL)
+before going to the next FL?
+
+Engulfs
+
+1. I guess I need to a better understanding of FLs and targets first.
+
+2. Sali had an interesting concept of FLs engulfing within an engulf, not necessarily always at the edge of it.
+
+3. I think i need to train myself to look for these engulfs first for trade ideas.
+
+Entries
+
+1. Instead of looking at all the possible sets of orders and trading
+each as price approaches, there seems to be a of figuring out where the
+last set of orders are before price turning (and this may not always be
+the last set of untouched orders, i think).
+
+2. Should i only enter at mpls/qm/ls? If so, what makes them tradable,
+do they have a particular structure? If seen price bounce at really odd
+ looking patterns. Were they 'valid' or were they simply just noise
+between the true mpls?
+
+QM
+
+1. Too often I've missed great QM trades because I was waiting it to
+the neckline, but price turns before then. Why? Was it left there for
+later? If so, how was it used later? Maybe this ties into the concept
+of last orders for a given scale.
+
+2. Should I even chase entries below the neckline? If so what should I
+be looking for? Is it just down to MM or are there clues in price that I
+ should be following?
+
+ orders, order flow and transactions
+
+1. Some concepts that seem to be at the core of Sali's trading. Interesting, need more study.
+
+Scale
+
+1. Heh, what else can I say. It's hard, need deliberate practice.
+
+And the theory. Its been said many times that price simply goes from FL
+ to FL. Engulfs of these FLs (whatever these engulf signals are)
+indicate the ITs are ready to move price to the next level. Footprints
+are left behind in the form of mpl/qm/ls levels of remaining orders and
+ultimately, where price will turn. Reversal signals and tricks will be
+played as we approach these orders. The more orders they have to fill,
+the more tricks will have to be played. And we tie these signals
+through scale to get the complete picture. That seems to be pretty much
+ it, no? But the trick is to accurately identify these signals,
+especially in real time. And that's where I think I need to go back and
+ fully understand FLs, how they're engulfed, the footprints left behind,
+ and targets, as they seem to be the fundamental framework for what we
+do.
+
+Wow that was a lot more questions than i thought I had. Probably left a
+ few out too. I feel like before I've been frustrating with not trading
+ because that's where 'true' learning happens. But now I feel like true
+ learning happens when you have full grasp of the concepts, and using
+the market to test out your theories. You, Sali and many others before
+us has showed us you can read the market to the pip, so that is now my
+goal, and the material is all here. Whether i reach it or not, I will
+become better through it's journey. As always, thanks for everything
+you've provided us IF! Now time to get
+FA: Ifmyante نوشت: fxeyes نوشت: بعد از خواندن چند ژورنال در آخر هفته و کمی تأمل، متوجه می‌شوم ایرادی بنیادی در روش خواندن چارت‌ها و جست‌وجوی معاملاتم وجود دارد. اجزای زیادی هستند، اما همیشه در کنار هم جمع نمی‌شوند، و فکر می‌کنم دلیلش این است که رویکردم اشتباه است و در مقیاس گم می‌شوم. اگر اشتباه نکنم، باید:
+
+1. FL‌های مهم را در سطوح کلیدی پیدا کنیم.
+
+- چه چیزی یک FL را مهم می‌کند؟
+
+2. FL‌های مرتبط فعلی را پیدا کنیم.
+
+- روش درست کشیدن و عبور دادن خطوط از FL‌ها چیست؟
+
+3. بدانیم اینگالف چه وقت رخ داده است (و به تارگتش نخورده).
+
+- اینگالف درست کدام است؟
+
+- تارگت درست یک FL شکسته را چطور شناسایی کنم؟
+
+3. بدانیم تارگت کجاست.
+
+4. بدانیم بهترین سفارش‌ها برای ورود کجا هستند.
+
+- چطور تشخیص می‌دهید آن سفارش‌ها کجا هستند؟
+
+- قیمت تا کجا می‌تواند پولبک بزند؟
+
+- چطور آخرین دسته از سفارش‌ها پیش از یک چرخش را شناسایی می‌کنید؟
+
+5. همهٔ این‌ها را از طریق مقیاس به هم پیوند بدهیم.
+
+بخش سخت ماجرا این است که راه‌های زیادی برای تفسیرش وجود دارد و اشتباه کردن هم بسیار آسان است. اما سخت بودن به معنای ناممکن بودن نیست. ویدئوی کینک عالی بوده، ولی حس می‌کنم هنوز حدس و گمان زیادی در جریان است (شاید نه فقط معاملات نامشخص را رها نمی‌کنم، بلکه معاملات خوب زیادی را هم از دست می‌دهم). تا حالا به این تکیه کرده‌ام که مدیریت سرمایه از تحلیل اشتباه یا معاملات نامشخص عبورم می‌دهد. اما ژورنال Sali چشمم را باز کرد و باعث شد رویکردم و شکاف‌هایم را دوباره بررسی کنم.
+
+بیایید این‌ها را یک بار برای همیشه، با فهم و تحلیل واقعی به کمک HW، پاسخ دهیم. تا زمانی که این خوانش FL دقیق و شهودی نشود، معاملهٔ جدیدی نمی‌کنم. ژورنال‌های Sali و IF دو هفتهٔ آیندهٔ من کتاب مقدس خواهند بود. اگر کسی فکر می‌کند در مسیر اشتباه می‌روم، لطفاً به من بگوید!
+
+ستاپ‌هایی وجود دارند که خواندنشان بسیار دشوار است، حتی برای باتجربه‌ترین تحلیلگران.
+
+اما هرچه تجربهٔ بیشتری به دست می‌آوریم، می‌توانیم PA پیچیده‌تری بخوانیم، و این اجازه می‌دهد ستاپ‌هایی را معامله کنیم که پیش‌تر تصورشان را هم نمی‌کردیم ممکن باشد.
+
+در هر سطحی از درک که باشیم، باید فقط ستاپ‌های بسیار پرارزشی را معامله کنیم که فریاد می‌زنند باید برداشته شوند.
+
+در هر مرحله از آنچه می‌دانی استفاده کن، و بقیه به‌تدریج برایت باز خواهد شد.
+
+ممنون از این بینش، IF! بین موفقیت Sali در فهم بازار با همان منابعی که ما داریم (احتمالاً کمتر، چون به نظر نمی‌رسد از مفاهیم ویدئو استفاده کند) و پیشرفت‌های اخیر Ysbail از راه مطالعه، انگیزه گرفته‌ام که با آموزه‌هایت به پشت پردهٔ قیمت نگاه کنم و ببینم زیرش چه می‌گذرد. روش یادگیری‌ام عجیب است؛ باید همهٔ قطعات را بشناسم، با آن‌ها بازی کنم و ببینم هر یک به‌تنهایی چطور کار می‌کند، تا بتوانم همه را کنار هم بگذارم. با قطعات کافی بازی کرده‌ام و آن‌ها را در معاملات زنده در عمل دیده‌ام تا ایدهٔ خوبی از چیستی‌شان داشته باشم. اما پرسش‌ها و ابهام‌هایی دربارهشان هست که فکر می‌کنم باعث تردید و شک دوباره می‌شود. یک نظریه هم دربارهٔ کارکرد بازار دارم. به نظر زمان خوبی است که توقف کنم و برای پاسخ دادن به این پرسش‌ها مطالعهٔ فشرده‌ای انجام دهم. آن‌ها را اینجا برای خودم فهرست می‌کنم تا راهنمای مطالعه‌ام باشد، ولی اگر جایی صلاح دیدید راهنمایی بفرمایید =)
+
+FL‌ها
+
+1. چطور FL‌ها را درست شناسایی کنم تا اینگالف‌ها و تارگت‌های درست را پیدا کنم؟ دو سبک مرا گیج کرده‌اند:[/li]
+
+a. یافتن کینک‌ها از طریق خطوط حمایت/مقاومت اصلی.
+
+i. اگر می‌خواهم شکست‌های FL را دنبال کنم، با کدام FL «شروع» کنم؟
+
+ii. یا فقط آخرین FL‌ی را پیدا کنم که در سمت راست شکسته است؟ اگر چنین است، وقتی قیمت به‌طور نامنظم از خط عبور می‌کند، چطور FL را بکشم؟
+
+b. همچنین دیده‌ام افرادی FL‌ها را بر اساس آخرین FL‌ی که قیمت را نگه داشته می‌کشند و بعد آن را دنبال می‌کنند، که محلی‌تر به نظر می‌رسد.
+
+i. در این حالت، آیا از قبل اینگالفی جایی وجود داشته که راهنمای معامله باشد؟
+
+ii. آیا آن را با یک حمایت/مقاومت اصلی‌تر در سمت چپ پیوند می‌دادند؟
+
+2.
+
+PAZ‌ها
+
+1. می‌فهمم که PAZ‌هایی بین فاصله‌های MPL‌ها وجود دارد، اما PAZ‌هایی که برایم برجسته می‌شوند آن‌هایی هستند که از راه تقارن شکل می‌گیرند، که به نظر می‌رسد از طریق حمایت/مقاومت باشد. به مطالعهٔ بیشتر PAZ‌ها از طریق MPL‌ها نیاز دارم (و گمان می‌کنم FL‌ها).
+
+2. آیا این مفاهیم به‌طور طبیعی با هم آمیخته نمی‌شوند؟
+
+2. چطور معاملات را درون یک PAZ شناسایی کنم؟ فرض کنیم یک PAZ به یک جهت اینگالف می‌کند؛ قیمت پیش از رفتن به FL بعدی چقدر می‌تواند پولبک بزند (در بستر آخرین FL)؟
+
+اینگالف‌ها
+
+1. گمان می‌کنم اول باید درک بهتری از FL‌ها و تارگت‌ها پیدا کنم.
+
+2. Sali مفهوم جالبی داشت: FL‌هایی که درون یک اینگالف اینگالف می‌کنند، نه لزوماً همیشه در لبهٔ آن.
+
+3. فکر می‌کنم باید خودم را عادت بدهم که اول برای ایده‌های معاملاتی دنبال این اینگالف‌ها بگردم.
+
+ورودها
+
+1. به‌جای نگاه کردن به همهٔ مجموعه‌های ممکن سفارش‌ها و معاملهٔ هر یک هنگام نزدیک شدن قیمت، به نظر روشی برای فهمیدن اینکه آخرین دستهٔ سفارش‌ها پیش از چرخش قیمت کجاست وجود دارد (و فکر می‌کنم این همیشه آخرین دستهٔ سفارش‌های دست‌نخورده نیست).
+
+2. آیا باید فقط در mpl/qm/ls وارد شوم؟ اگر چنین است، چه چیزی آن‌ها را قابل معامله می‌کند، آیا ساختار خاصی دارند؟ قیمت را دیده‌ام که در الگوهای واقعاً عجیب بازگشت می‌زند. آیا آن‌ها «معتبر» بودند یا فقط نویز بین mpl‌های واقعی؟
+
+QM
+
+1. بارها معاملات عالی QM را از دست داده‌ام چون منتظر رسیدن به خط گردن بودم، اما قیمت پیش از آن می‌چرخد. چرا؟ آیا آن را برای بعد گذاشته‌اند؟ اگر چنین است، بعداً چطور از آن استفاده شد؟ شاید این به مفهوم آخرین سفارش‌ها برای یک مقیاس مشخص مربوط می‌شود.
+
+2. آیا باید ورودهای زیر خط گردن را هم تعقیب کنم؟ اگر چنین است، باید دنبال چه باشم؟ آیا فقط به MM بستگی دارد یا نشانه‌هایی در قیمت هست که باید پیگیری کنم؟
+
+سفارش‌ها، جریان سفارش و تراکنش‌ها
+
+1. مفاهیمی که به نظر می‌رسد در هستهٔ معامله‌گری Sali قرار دارند. جالب است، نیاز به مطالعهٔ بیشتر.
+
+مقیاس
+
+1. هه، چه می‌توان گفت. سخت است، نیاز به تمرین عامدانه دارد.
+
+و اما نظریه. بارها گفته شده که قیمت به‌سادگی از FL‌ی به FL دیگر می‌رود. اینگالف‌های این FL‌ها (هر چه این سیگنال‌های اینگالف باشند) نشان می‌دهند که IT‌ها آماده‌اند قیمت را به سطح بعدی ببرند. ردپاهایی به شکل سطوح mpl/qm/ls از سفارش‌های باقی‌مانده و در نهایت جایی که قیمت خواهد چرخید، بر جا می‌ماند. با نزدیک شدن به این سفارش‌ها، سیگنال‌ها و ترفندهای برگشت اجرا می‌شوند. هرچه سفارش‌های بیشتری برای پر کردن داشته باشند، ترفندهای بیشتری باید بازی شود. و ما این سیگنال‌ها را از طریق مقیاس به هم می‌بندیم تا تصویر کامل را به دست آوریم. ظاهراً تقریباً همین است، نه؟ اما نکتهٔ اصلی شناسایی دقیق این سیگنال‌هاست، خصوصاً در زمان واقعی. و اینجاست که فکر می‌کنم باید برگردم و FL‌ها، نحوهٔ اینگالف شدنشان، ردپاهای برجای‌مانده و تارگت‌ها را کامل بفهمم، چون به نظر می‌رسد چارچوب بنیادی کاری هستند که می‌کنیم.
+
+وای، این‌ها خیلی بیشتر از آن بود که فکر می‌کردم سؤال دارم. احتمالاً چند تا را هم جا انداخته‌ام. حس می‌کنم پیش‌تر از اینکه معامله نمی‌کردم کلافه بودم، چون باور داشتم یادگیری «واقعی» همان‌جاست. اما حالا حس می‌کنم یادگیری واقعی وقتی رخ می‌دهد که تسلط کامل بر مفاهیم داشته باشی و از بازار برای آزمودن نظریه‌هایت استفاده کنی. تو، Sali و خیلی‌های دیگر پیش از ما نشان دادید که می‌توان بازار را تا حد پیپ خواند، پس هدف من حالا همین است و موادش همه اینجا هست. چه به آن برسم چه نرسم، در این مسیر بهتر خواهم شد. مثل همیشه، ممنون از هر چه در اختیار ما گذاشتی IF! حالا وقت شروع است.
+--- fxeyes_p3_10 author=winnertrader hash=df3f0091
+EN: Hi Fxeyes,
+
+I'm sorry it took me so long to respond, I have been away and didn't take my laptop with me.
+
+I owe you for that wonderfully detailed post. I mean you just didn't
+leave me any room to be confused about anything. Thanks so much buddy! I
+ will never forget this help.
+
+OK so I think the reason I was going nuts over LS is because I thought
+there had to be some way to validate certain lines. For example only
+drawing lines from the move that was facing the price or some such
+imagined criteria. When you posted your chart, it reminded me of what I
+had been doing and how it gave me tremendous results. The only line you
+marked that I dont agree with is below.
+
+Owe you big time and thanks for keeping the discussion going. I had honestly given up.
+
+Oh one more thing is I don't think there are too many lines on your
+chart. These lines from the monthly chart alone can give huge RR trades.
+ Might only need to add a few lines from the weekly chart. And just wait
+ for price to reveal it's structure. Engulf of the lines and return to
+the origin, QM, or MPL level and boom! I will post some charts of trades
+ in the following weeks. Here's hoping that the mind doesnt throw more
+obstacles in the way.
+FA: سلام Fxeyes،
+
+ببخشید جواب دادنم طول کشید، سفر بودم و لپ‌تاپم را با خودم نبردم.
+
+بابت آن پست فوق‌العاده دقیقت به تو مدیونم. یعنی هیچ جایی برای سردرگمی‌ام باقی نگذاشتی. خیلی ممنون رفیق! این کمک را هرگز فراموش نمی‌کنم.
+
+خب، فکر می‌کنم دلیل اینکه با LS دیوانه شده بودم این بود که فکر می‌کردم باید راهی برای اعتبارسنجی برخی خطوط وجود داشته باشد. مثلاً فقط کشیدن خطوط از حرکتی که رو به قیمت بود، یا معیارهای خیالی از این دست. وقتی چارتت را پست کردی، یادم آمد چه کار می‌کردم و چطور نتایج شگفت‌انگیزی گرفتم. تنها خطی که علامت زده‌ای و با آن موافق نیستم، خط پایین است.
+
+خیلی مدیونتم و ممنون که بحث را ادامه دادی. راستش را بگویم، دیگر ناامید شده بودم.
+
+اوه، یک چیز دیگر: فکر نمی‌کنم خطوط چارتت زیاد باشد. همین خطوطِ چارت ماهانه به‌تنهایی می‌توانند معاملات RR عظیم بدهند. شاید فقط لازم باشد چند خط از چارت هفتگی اضافه کنی. و فقط صبر کن تا قیمت ساختارش را نشان دهد. اینگالف خطوط و بازگشت به مبدأ، سطح QM یا MPL و بعد... بم! در هفته‌های آینده چند چارت از معاملات پست می‌کنم. امیدوارم ذهن موانع بیشتری سر راه نگذارد.
+--- fxeyes_p3_11 author=fxeyes hash=eb33641f
+EN: winnertrader wrote: Hi Fxeyes,
+
+I'm sorry it took me so long to respond, I have been away and didn't take my laptop with me.
+
+I owe you for that wonderfully detailed post. I mean you just didn't
+leave me any room to be confused about anything. Thanks so much buddy! I
+ will never forget this help.
+
+OK so I think the reason I was going nuts over LS is because I thought
+there had to be some way to validate certain lines. For example only
+drawing lines from the move that was facing the price or some such
+imagined criteria. When you posted your chart, it reminded me of what I
+had been doing and how it gave me tremendous results. The only line you
+marked that I dont agree with is below.
+
+Owe you big time and thanks for keeping the discussion going. I had honestly given up.
+
+Oh one more thing is I don't think there are too many lines on your
+chart. These lines from the monthly chart alone can give huge RR trades.
+ Might only need to add a few lines from the weekly chart. And just wait
+ for price to reveal it's structure. Engulf of the lines and return to
+the origin, QM, or MPL level and boom! I will post some charts of trades
+ in the following weeks. Here's hoping that the mind doesnt throw more
+obstacles in the way.
+
+Hey no worries, glad it helped! The line you showed highlights one of
+my main points, it can be subjective! If you don't mark a line and
+price bounces from it's kink, oh well plenty of opportunities. If you
+do highlight a line where price doesn't bounce, then you have approach
+(and validation) to confirm the trade. Just learn from it and refine
+the process through your experience. Just like any other concept here
+on RTM.
+
+But for the sake of debate, lets talk about that line. You're right
+that it'd be better if the prev low was broken first, but I just
+followed the rules for drawing lines; it's at a price extreme. The
+reason that's important, especially on a monthly, is because that
+would've been a line on the quarterly chart! For me i don't mind tight
+line clusters like that, it just tells me that general area is
+important.
+FA: winnertrader نوشت: سلام Fxeyes،
+
+ببخشید جواب دادنم طول کشید، سفر بودم و لپ‌تاپم را با خودم نبردم.
+
+بابت آن پست فوق‌العاده دقیقت به تو مدیونم. یعنی هیچ جایی برای سردرگمی‌ام باقی نگذاشتی. خیلی ممنون رفیق! این کمک را هرگز فراموش نمی‌کنم.
+
+خب، فکر می‌کنم دلیل اینکه با LS دیوانه شده بودم این بود که فکر می‌کردم باید راهی برای اعتبارسنجی برخی خطوط وجود داشته باشد. مثلاً فقط کشیدن خطوط از حرکتی که رو به قیمت بود، یا معیارهای خیالی از این دست. وقتی چارتت را پست کردی، یادم آمد چه کار می‌کردم و چطور نتایج شگفت‌انگیزی گرفتم. تنها خطی که علامت زده‌ای و با آن موافق نیستم، خط پایین است.
+
+خیلی مدیونتم و ممنون که بحث را ادامه دادی. راستش را بگویم، دیگر ناامید شده بودم.
+
+اوه، یک چیز دیگر: فکر نمی‌کنم خطوط چارتت زیاد باشد. همین خطوطِ چارت ماهانه به‌تنهایی می‌توانند معاملات RR عظیم بدهند. شاید فقط لازم باشد چند خط از چارت هفتگی اضافه کنی. و فقط صبر کن تا قیمت ساختارش را نشان دهد. اینگالف خطوط و بازگشت به مبدأ، سطح QM یا MPL و بعد... بم! در هفته‌های آینده چند چارت از معاملات پست می‌کنم. امیدوارم ذهن موانع بیشتری سر راه نگذارد.
+
+هی، نگران نباش، خوشحالم که کمک کرد! خطی که نشان دادی یکی از نکات اصلی من را برجسته می‌کند: می‌تواند سلیقه‌ای باشد! اگر خطی را علامت نزنی و قیمت از کینکش بازگشت بزند، خب فرصت زیاد است. اگر خطی را برجسته کنی که قیمت از آن بازگشت نمی‌زند، آن‌وقت رویکرد (و اعتبارسنجی) داری تا معامله را تأیید کنی. فقط از آن یاد بگیر و فرایند را با تجربه‌ات اصلاح کن. درست مثل هر مفهوم دیگری در RTM.
+
+اما به بهانهٔ بحث، بیایید دربارهٔ آن خط حرف بزنیم. حق داری که بهتر بود کف قبلی اول شکسته می‌شد، ولی من فقط قوانین کشیدن خط را دنبال کردم؛ خط در یک نقطهٔ انتهایی قیمت است. دلیل اهمیت این موضوع، خصوصاً در ماهانه، این است که آن خط در چارت فصلی هم یک خط می‌شد! برای من، خوشه‌های خط فشرده این‌شکلی مشکلی نیست، فقط به من می‌گوید آن ناحیهٔ کلی مهم است.
+--- fxeyes_p3_12 author=winnertrader hash=8f2fc648
+EN: I totally get your pain point. In fact, of late I keep bumping into
+charts that bring up the same question over and over again and I can't
+seem to find a solution. The idea of what constitutes a swing is so
+subjective.
+
+Here is a chart that's bugging me currently.
+FA: دقیقاً نقطهٔ درد تو را می‌فهمم. راستش اخیراً مدام به چارت‌هایی برمی‌خورم که همان سؤال را بارها و بارها پیش می‌آورند و نمی‌توانم راه‌حلی پیدا کنم. اینکه سوینگ چیست، خیلی سلیقه‌ای است.
+
+این چارتی است که الان اذیتم می‌کند.
+--- fxeyes_p3_13 author=fxeyes hash=5c7ecf85
+EN: winnertrader wrote: I totally
+get your pain point. In fact, of late I keep bumping into charts that
+bring up the same question over and over again and I can't seem to find a
+ solution. The idea of what constitutes a swing is so subjective.
+
+Here is a chart that's bugging me currently.
+
+So in this TF that all that stuff inside looks like compression. So i
+wouldn't mark it unless it lines up alot with other stuff. But i'tll
+look less like compression in the lower tf, and may be more relevant
+there.
+FA: winnertrader نوشت: دقیقاً نقطهٔ درد تو را می‌فهمم. راستش اخیراً مدام به چارت‌هایی برمی‌خورم که همان سؤال را بارها و بارها پیش می‌آورند و نمی‌توانم راه‌حلی پیدا کنم. اینکه سوینگ چیست، خیلی سلیقه‌ای است.
+
+این چارتی است که الان اذیتم می‌کند.
+
+پس در این تایم‌فریم، همهٔ آن چیزهای داخل شبیه فشرده‌سازی است. بنابراین آن را علامت نمی‌زنم مگر اینکه با چیزهای دیگر خیلی هم‌راستا باشد. اما در تایم‌فریم پایین‌تر کمتر شبیه فشرده‌سازی خواهد بود و ممکن است آنجا مرتبط‌تر باشد.
+--- fxeyes_p3_14 author=fxeyes hash=4137042f
+EN: Looks like EJ is setting up for a big drop
+FA: به نظر می‌رسد EJ دارد خودش را برای یک ریزش بزرگ آماده می‌کند.
+--- fxeyes_p3_15 author=fxeyes hash=e8f5ef22
+EN: USD/JPY long + short
+FA: USD/JPY خرید + فروش
+--- fxeyes_p3_16 author=fxeyes hash=d4f367e8
+EN: No BSZ trick, did i misread the orders?
+FA: ترفند BSZ در کار نبود؛ آیا سفارش‌ها را اشتباه خواندم؟
+--- fxeyes_p3_17 author=fxeyes hash=51a98a9c
+EN: USDJPY update
+
+Ah i just realized my mis-read. Price bouncing nicely on the actual ORFL =(
+FA: به‌روزرسانی USDJPY
+
+آه، تازه اشتباه خواندنم را فهمیدم. قیمت زیبا روی ORFL واقعی بازگشت می‌زند =(
+--- fxeyes_p3_18 author=fxeyes hash=c9f67787
+EN: A couple of misses on EURJPY. One for BE, one stopped at iQM. Hmmm
+maybe price did hit it's target at the FL above, need more study
+FA: چند ناکامی در EURJPY. یکی در BE، یکی در iQM استاپ خورد. هوم، شاید قیمت واقعاً به تارگتش در FL بالایی رسیده؛ نیاز به مطالعهٔ بیشتر است.
+--- fxeyes_p3_19 author=fxeyes hash=a3c6183c
+EN: What ultimately happened from yesterday's trades. Lost sight of htf. Scales, scales, scales...
+FA: آنچه در نهایت از معاملات دیروز رخ داد. دیدم را نسبت به تایم‌فریم بالاتر از دست دادم. مقیاس‌ها، مقیاس‌ها، مقیاس‌ها...
+--- fxeyes_p3_20 author=fxeyes hash=61890800
+EN: This one is a bit of a gamble. Still playing with the idea of inner
+engulfs. But the double CM makes me thing someone is accumulating. TG1
+taken quickly, we'll see what PA does
+FA: این یکی کمی قمار است. هنوز با ایدهٔ اینگالف‌های داخلی بازی می‌کنم. اما CM دوتایی باعث می‌شود فکر کنم کسی در حال جمع‌آوری است. TG1 سریع گرفته شد، ببینیم PA چه می‌کند.
+--- fxeyes_p3_21 author=fxeyes hash=eb6dda59
+EN: Ah bummer, entered the trade, then flattened it because of an error
+with the order entry. Lots of signs as to where its headed.
+FA: آه چه حیف، وارد معامله شدم و بعد به‌خاطر خطایی در ثبت سفارش، پوزیشن را بستم. نشانه‌های زیادی درباره جهت حرکتش هست.
+--- fxeyes_p3_22 author=fxeyes hash=45cd07f9
+EN: Trade ultimately didn't hit final TG. Not sure if I drew that FL
+right, it might not have been an engulf down. Trade was good for the
+3Drive
+
+Update. Likes like it might have been the right overall read, but
+expected the bigger move too soon (in th emiddle of the chart). I did
+get in at the QM kink, but got out early because I didn't have a clear
+picture of what's going on and price was moving fast. Damn again,
+scales.
+FA: معامله در نهایت به TG نهایی نرسید. مطمئن نیستم آن FL را درست کشیده باشم؛ شاید اینگالف نزولی نبوده باشد. معامله برای 3Drive خوب بود.
+
+به‌روزرسانی. به نظر می‌رسد خوانش کلی درست بوده، اما حرکت بزرگ‌تر را خیلی زود انتظار داشتم (در میانهٔ چارت). در کینک QM وارد شدم، اما زود خارج شدم چون تصویر روشنی از آنچه می‌گذشت نداشتم و قیمت سریع حرکت می‌کرد. باز هم لعنتی، مقیاس‌ها.
+--- fxeyes_p3_23 author=fxeyes hash=e4c5dc26
+EN: Simple bounce back to the last FL. Looks like it wanted to do more
+FA: یک بازگشت ساده به آخرین FL. به نظر می‌رسد می‌خواست کار بیشتری بکند.
+--- fxeyes_p3_24 author=fxeyes hash=3e6884ff
+EN: Ahhhh I was too focused on the FLs not enough on the Orders. Was
+barely stopped out to a tiny sliver of orders right above my Diamond
+level MPL. Need to pay more attention next time, that little pocket of
+order was so obvious.
+FA: آه، من بیش از حد روی FL‌ها تمرکز کرده بودم و به اندازهٔ کافی روی سفارش‌ها نه. قیمت فقط تا یک تکهٔ نازک از سفارش‌ها، درست بالای MPL سطح Diamond من، رفت و به‌سختی استاپ شدم. دفعهٔ بعد باید بیشتر توجه کنم؛ آن جیب کوچک سفارش آن‌قدر واضح بود.

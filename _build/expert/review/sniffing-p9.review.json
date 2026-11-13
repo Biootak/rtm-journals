@@ -1,0 +1,13 @@
+{
+ "sniffing_p9_20": {
+  "ok": false,
+  "issue": "wrong agent / ungrammatical verb",
+  "why": "EN: \"one last post before i vanish\" (first person, the writer is leaving); FA: \"یک پست آخر پیش از آنکه غیبم بزند\" uses the third-person idiom «غیبش زدن» (he vanished) with an impossible first-person enclitic, so the doer of \"vanish\" is no longer the writer and the clause is ungrammatical.",
+  "fix": "یک پست آخر پیش از آنکه غیب شوم؛ EG هنوز به TG نرسیده، پس استاپ‌لاسم را مطابق چارت زیر تریل می‌کنم.\n\nممنون romant، صبح پستت را دوباره می‌خوانم."
+ },
+ "sniffing_p9_3": {
+  "issue": "Latin date",
+  "why": "EN prose date EN p1: «…last time they were very short @ zero was in Dec 11, 2012 at marked price and…» was left in Latin inside the Persian body: FA p1 «Dec 11, 2012 بود» — the month name must be Persian while day/year digits stay Latin: «11 دسامبر 2012 بود».",
+  "fix": "خوب است؛ آخرین بار که به‌شدت فروشنده بودند و روی صفر ایستادند، 11 دسامبر 2012 بود، همان قیمت و تاریخی که علامت زده شده. حالا روی اندیس 5 هستند و به سمت صفر کم می‌شوند. پس بهتر است با روند صعودی، سفته‌بازان بزرگ را تا عرضهٔ بالای هفتگی دنبال کنی، تا آپدیت بعدی COT."
+ }
+}

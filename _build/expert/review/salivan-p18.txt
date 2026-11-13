@@ -1,0 +1,401 @@
+### salivan_p18_1
+EN: Some thoughts, sorry for the messy chart :)
+FA: چند نکته، ببخشید که نمودار شلوغ است :)
+
+### salivan_p18_2
+EN: Hi Paraipan
+
+Thank you for your reply.
+
+No worries, your chart is not messy.
+
+Zooming in the M1 to the area you indicated QM.
+
+Which QM are you referring to?
+
+The only one i saw was the one i marked the red zone in the HTF.
+
+Are you referring to the one further left as indicated in the chart?
+
+But that one was already engulfed, isn't it? How was it still relevant again for future price approach?
+
+Thank you
+
+Paraipan wrote: Some thoughts, sorry for the messy chart :)
+FA: سلام Paraipan
+
+ممنون از پاسخت.
+
+نگران نباش، نمودارت شلوغ نیست.
+
+روی M1 زوم می‌کنم روی ناحیه‌ای که QM گفته بودی.
+
+کدام QM را می‌گویی؟
+
+تنها QM‌ای که دیدم همان بود که ناحیهٔ قرمزش را در HTF علامت زده بودم.
+
+منظورت همان QM سمت چپ‌تر است که در نمودار نشان داده شده؟
+
+اما آن یکی دیگر اینگالف شده بود، نه؟ چطور هنوز برای برخورد آیندهٔ قیمت دوباره مهم بود؟
+
+ممنون
+
+Paraipan نوشت: چند نکته، ببخشید که نمودار شلوغ است :)
+
+### salivan_p18_3
+EN: Hi Bodostock,
+
+This is the level that i am talking about
+FA: سلام Bodostock،
+
+سطحی که دربارهٔ آن حرف می‌زنم همین است
+
+### salivan_p18_4
+EN: On the USD CHF subject the target(s) were reached and probably the move not over yet
+FA: در موضوع USD CHF تارگت‌ها زده شدند و احتمالاً حرکت هنوز تمام نشده
+
+### salivan_p18_5
+EN: Hi Salivan mate, a quick question i hope you can solve, since you are training to set yout thinkings like ITs do
+
+The behaviour of the price is different for the same order on the same
+pair, between DEMO order and LIVE order, do you agree ?
+
+....Or maybe it can be posed in another way: do ITs know which orders are DEMO, which orders are LIVE ?
+
+many thanks, all the best !
+FA: سلام salivan رفیق، یک سؤال سریع که امیدوارم بتوانی حلش کنی، چون در حال تمرین هستی که فکر کردنت را مثل IT‌ها تنظیم کنی
+
+رفتار قیمت برای یک سفارش یکسان روی یک جفت‌ارز یکسان بین سفارش DEMO و LIVE فرق دارد، موافقی؟
+
+....یا شاید طور دیگری هم بتوان گفت: آیا IT‌ها می‌دانند کدام سفارش‌ها DEMO هستند و کدام LIVE؟
+
+خیلی ممنون، بهترین‌ها!
+
+### salivan_p18_6
+EN: Hmmmm, my failure to read the bigger shoulder and head?
+
+Thanks a lot, bro!
+
+Paraipan wrote: Hi Bodostock,
+
+This is the level that i am talking about
+FA: هوممم، شکی نیست که شانه و سر بزرگ‌تر را نخواندم؟
+
+خیلی ممنون برادر!
+
+Paraipan نوشت: سلام Bodostock،
+
+سطحی که دربارهٔ آن حرف می‌زنم همین است
+
+### salivan_p18_7
+EN: hey althou, demo acc's have no impact on the market. its real market
+conditions with fake money ''a play ground''. So the IT's dont even
+look at demo accounts
+FA: سلام althou، حساب‌های دمو هیچ تأثیری روی بازار ندارند. همان شرایط واقعی بازار است با پول تقلبی، «یک زمین بازی». پس IT‌ها حتی نگاهی به حساب آزمایشی هم نمی‌اندازند
+
+### salivan_p18_8
+EN: very quick answer tjarbaart, thanks a lot
+
+So i'm wondering what DEMO training means ? the market reacts strongly
+and immediately to LIVE orders, and not to DEMO orders, so what DEMO
+traders learn if the market do not react ?
+
+a.t.b.
+
+tjaartbaart wrote: hey althou,
+demo acc's have no impact on the market. its real market conditions with
+ fake money ''a play ground''. So the IT's dont even look at demo
+accounts
+FA: پاسخ خیلی سریع بود tjaartbaart، خیلی ممنون
+
+پس برایم سؤال است که تمرین دمو یعنی چه؟ بازار به سفارش‌های LIVE شدید و فوری واکنش می‌دهد، نه به سفارش‌های DEMO؛ پس اگر بازار واکنش ندهد، معامله‌گران دمو چه یاد می‌گیرند؟
+
+a.t.b.
+
+tjaartbaart نوشت: سلام althou، حساب‌های دمو هیچ تأثیری روی بازار ندارند. همان شرایط واقعی بازار است با پول تقلبی، «یک زمین بازی». پس IT‌ها حتی نگاهی به حساب آزمایشی هم نمی‌اندازند
+
+### salivan_p18_9
+EN: hi guys ,
+
+as you know i am very busy with my new house also try to arrange the rig
+ and being here again ASAP, BTW thanks for helping each other
+FA: سلام بچه‌ها،
+
+همان‌طور که می‌دانید من با خانهٔ جدیدم خیلی درگیرم و سعی می‌کنم سیستم را هم راه بیندازم و هرچه زودتر دوباره اینجا باشم؛ راستی ممنون که به هم کمک می‌کنید
+
+### salivan_p18_10
+EN: the demo is only used to test out strategy's and learn market dynamics
+ to prepare for the live account. so its basically kindergarten before
+you go to school lol
+FA: دمو فقط برای تست استراتژی‌ها و یادگیری دینامیک بازار است تا برای حساب واقعی آماده شوی. پس عملاً مثل کودکستان پیش از مدرسه است lol
+
+### salivan_p18_11
+EN: ...as we know the reactions by the market to LIVE orders are important
+ for our SLs, as the market does stop hunting like a killer beast
+against our entries.
+
+Then learning SL by DEMO trading could be useful?...or even dangerous ?
+
+...huge R/R in DEMO trading for 6, 8 months before going LIVE could be
+as a world champion of war videogame was thrown on omaha-beach
+battlefield ( "Save Private Ryan", steven spielberg oscar
+prize).......here you are what you're world champion about, now fight
+!......with no joystick.
+
+But there are special stuffs with no reactions at all to LIVE orders:
+MPLs, pole bases at CP textbook, FOs being very careful....by the truth
+all the entries used by IF , where you can have SL like fingers in one hand and the trade the safest , where you see the price meek like your dog......amazing feeling, and all that is simply true!
+
+So this is just a comment, all i want to say is to carefully think to
+the meaning of great DEMO results, it's much more important to be
+trained on specific stuffs !!
+
+many thanks, all the best
+
+tjaartbaart wrote: the demo is
+only used to test out strategy's and learn market dynamics to prepare
+for the live account. so its basically kindergarten before you go to
+school lol
+FA: ...همان‌طور که می‌دانیم واکنش بازار به سفارش‌های LIVE برای حد ضررهای ما مهم است، چون بازار مثل یک جانور قاتل استاپ‌ها را شکار می‌کند و به ورودهای ما حمله می‌کند.
+
+پس یادگیری حد ضرر با معاملهٔ دمو می‌تواند مفید باشد؟... یا حتی خطرناک؟
+
+...R/R بزرگ در معاملهٔ دمو به مدت 6، 8 ماه پیش از رفتن به LIVE مثل این است که یک قهرمان جهانی بازی‌های جنگی را بیندازی در میدان نبرد ساحل اوماها («نجات سرباز رایان»، برندهٔ اسکار استیون اسپیلبرگ).......این هم از قهرمانی جهان تو، حالا بجنگ!......بدون هیچ دسته‌بازی.
+
+اما چیزهای خاصی هم هستند که هیچ واکنشی به سفارش‌های LIVE ندارند: MPL‌ها، پایه‌های میله‌ای در CP به‌شکل کتاب درسی، FO‌ها با احتیاط فراوان....راستش همهٔ ورودهایی که IF استفاده می‌کند، جایی که می‌توانی حد ضرر را مثل انگشتان یک دست داشته باشی و معامله امن‌ترین باشد، جایی که قیمت را مثل سگ خودت رام می‌بینی......حس شگفت‌انگیزی است، و همهٔ این‌ها ساده و راست است!
+
+پس این فقط یک توضیح است، تنها چیزی که می‌خواهم بگویم این است که در معنای نتایج عالی دمو خوب فکر کن، آموزش دیدن روی چیزهای مشخص خیلی مهم‌تر است!!
+
+خیلی ممنون، بهترین‌ها
+
+tjaartbaart نوشت: دمو فقط برای تست استراتژی‌ها و یادگیری دینامیک بازار است تا برای حساب واقعی آماده شوی. پس عملاً مثل کودکستان پیش از مدرسه است lol
+
+### salivan_p18_12
+EN: gold trade
+
+Salivan
+FA: معاملهٔ طلا
+
+Salivan
+
+### salivan_p18_13
+EN: Hello Salivan,
+
+Thank you for posting your gold trades!
+
+I have some questions if you don't mind.
+
+What was your confirmation to take the first short? I understand that it
+ is a strong place, but how do you know it will hold without
+confirmation?
+
+Could you explain what makes your red FL a FL and why it was important?
+
+Thanks!
+FA: سلام Salivan،
+
+ممنون که معاملات طلایت را می‌گذاری!
+
+اگر بدت نمی‌آید چند سؤال دارم.
+
+تأییدت برای گرفتن اولین پوزیشن فروش چه بود؟ قبول دارم که جای قوی‌ای است، اما از کجا می‌دانی بدون تأیید نگه می‌دارد؟
+
+می‌توانی توضیح بدهی چه چیزی FL قرمزت را FL می‌کند و چرا مهم بود؟
+
+ممنون!
+
+### salivan_p18_14
+EN: hiya hndrk
+
+very welcome
+
+in fact as IF told us for times and
+times ,price always goes from FL to FL . and if we do enough HW and
+enough investigationin the charts then it's really easy and simple to
+understand the power and value of FLs. in this case it was a FL and as i
+ showed it i went to LTF to find an other FL for my TT entry and really
+it didn't need any confirmation . after ENG of that blue FL i was happy
+and it made more confidence that price must reach it's obvious target(an
+ other FL). about the red one it was a FTR after break an S/R(again FL)
+
+hope it helps you mate
+FA: سلام hndrk
+
+خیلی خوش آمدی
+
+در واقع همان‌طور که IF بارها و بارها به ما گفت، قیمت همیشه از یک FL به FL بعدی می‌رود. و اگر به‌قدر کافی روی نمودارها کار و بررسی کنیم، فهمیدن قدرت و ارزش FL‌ها واقعاً ساده و آسان است. در این مورد یک FL بود و همان‌طور که نشانش دادم به LTF رفتم تا برای ورود TT یک FL دیگر پیدا کنم و واقعاً هیچ تأییدی لازم نداشت. بعد از ENG آن FL آبی خوشحال بودم و بیشتر مطمئن شدم که قیمت باید به تارگت بدیهی‌اش (یک FL دیگر) برسد. دربارهٔ آن قرمز، بعد از شکست یک S/R (دوباره FL) یک FTR بود
+
+امیدوارم کمکت کند رفیق
+
+### salivan_p18_15
+EN: Great work Salivan.
+
+I personally never touch trade and always wait for confirmations..So i
+tend to miss a lot of opportunities. But i have some huge winners from
+time to time. (i don't use take profit for my targets...) It's my major
+weakness. I'm clearly missing something but on the positive side , i
+sometimes have huge runs that can last several days...
+FA: کارت عالی است Salivan.
+
+من شخصاً هیچ‌وقت بدون تأیید معامله نمی‌کنم و همیشه منتظر تأییدها می‌مانم.. پس زیاد فرصت از دست می‌دهم. اما هر چند وقت یک بار چند برندهٔ بزرگ دارم. (برای تارگت‌هایم از حد سود استفاده نمی‌کنم...) این ضعف اصلی من است. واضح است که چیزی را از دست می‌دهم، اما نکتهٔ مثبت این است که بعضی وقت‌ها حرکت‌های بزرگی دارم که چند روز طول می‌کشد...
+
+### salivan_p18_16
+EN: thanks micka
+
+in the case of confirmation , i can say always we have confirmation in
+HTF and interest area in LTF to enter . there is always one FL in HTF
+that ENGULFED and one FO in LTF to dive. so that TT is also a kind of
+trade with confirmation .in the whole i suggest you to start with this
+quote from IF , this will help you a lot to know where the orders are .
+
+regards
+
+Salivan
+FA: ممنون micka
+
+دربارهٔ تأیید، می‌توانم بگویم همیشه در HTF تأیید داریم و ناحیهٔ مورد علاقه در LTF برای ورود. یک FL در HTF داریم که اینگالف شده و یک FO در LTF برای شیرجه. پس TT هم نوعی معامله با تأیید است. در کل پیشنهاد می‌کنم با این جملهٔ IF شروع کنی، خیلی کمکت می‌کند تا بدانی سفارش‌ها کجا هستند.
+
+با احترام
+
+Salivan
+
+### salivan_p18_17
+EN: salivan wrote: thanks micka
+
+in the case of confirmation , i can say always we have confirmation in
+HTF and interest area in LTF to enter . there is always one FL in HTF
+that ENGULFED and one FO in LTF to dive. so that TT is also a kind of
+trade with confirmation .in the whole i suggest you to start with this
+quote from IF , this will help you a lot to know where the orders are .
+
+regards
+
+Salivan
+
+Yes , i know what you mean. And i also realise that what i'm basically
+doing is a bit "redundant". (Because it would be like confirming the
+confirmation of the confirmation lol)... But again , it's because (even
+though i sometimes have big winners) , i'm not entirely sure if i'm
+always on the right side of the market. Double engulfs help , but i
+still have weaknesses with my "source" of move or "DP" .... So i
+compensate this weakness my own way.
+
+But i realise that i have to fix this problem if i want more opportunities.
+
+I guess i'll have to post some sharts or revisit some of the ones you posted.
+
+Sometimes i'm even surprised by my own accuracy....But there's still
+some things i have to work on. My targets are horrible. (which is why i
+rarely ever use them) and yet they're supposed to be crucial.
+
+This is an old screencap (from forextester) , just to give you an idea how i mark my chart.
+FA: salivan نوشت: ممنون micka
+
+دربارهٔ تأیید، می‌توانم بگویم همیشه در HTF تأیید داریم و ناحیهٔ مورد علاقه در LTF برای ورود. یک FL در HTF داریم که اینگالف شده و یک FO در LTF برای شیرجه. پس TT هم نوعی معامله با تأیید است. در کل پیشنهاد می‌کنم با این جملهٔ IF شروع کنی، خیلی کمکت می‌کند تا بدانی سفارش‌ها کجا هستند.
+
+با احترام
+
+Salivan
+
+بله، می‌دانم منظورت چیست. و متوجه شده‌ام کاری که اساساً می‌کنم کمی «تکراری» است. (چون مثل تأیید کردنِ تأییدِ تأیید است lol)... اما باز هم دلیلش این است که (هرچند بعضی وقت‌ها برنده‌های بزرگ دارم) کاملاً مطمئن نیستم همیشه در سمت درست بازار باشم. اینگالف‌های دوتایی کمک می‌کنند، اما من هنوز در «منبع» حرکت یا «DP» ضعف دارم.... پس این ضعف را به روش خودم جبران می‌کنم.
+
+اما می‌فهمم که اگر فرصت‌های بیشتری می‌خواهم، باید این مشکل را حل کنم.
+
+حدس می‌زنم باید چند نمودار بگذارم یا بعضی از نمودارهایی را که تو گذاشتی دوباره مرور کنم.
+
+بعضی وقت‌ها از دقت خودم هم شگفت‌زده می‌شوم....اما هنوز چیزهایی هست که باید رویشان کار کنم. تارگت‌هایم افتضاح‌اند. (به همین دلیل خیلی کم ازشان استفاده می‌کنم) و در حالی که قرار است حیاتی باشند.
+
+این یک اسکرین‌شات قدیمی است (از forextester)، فقط برای اینکه ایده‌ای بگیری که نمودارم را چطور علامت می‌زنم.
+
+### salivan_p18_18
+EN: And yet...I not only miss opportunities (because i rarely TT)... And
+also because i don't think i've grasped the entire rtm approach
+correctly. (even though i sometimes seem to hit bullseye entries.)
+FA: و با این حال... من نه‌فقط فرصت‌ها را از دست می‌دهم (چون کم پیش می‌آید TT کنم)... بلکه چون فکر نمی‌کنم کل رویکرد RTM را درست فهمیده باشم. (هرچند بعضی وقت‌ها به نظر می‌رسد ورودهای بی‌نقص می‌زنم.)
+
+### salivan_p18_19
+EN: here is some note on your chart
+FA: این هم چند یادداشت روی نمودارت
+
+### salivan_p18_20
+EN: salivan wrote: here is some note on your chart
+
+Brilliant... But you see , at the time i was looking at this trade...I
+was hesitating , i had more questions...That's why i can't trade the way
+ you do atm.
+
+Here was my thought process at the time i was looking this chart.
+FA: salivan نوشت: این هم چند یادداشت روی نمودارت
+
+درخشان بود... اما می‌بینی، آن زمان که این معامله را نگاه می‌کردم... دودل بودم، سؤال‌های بیشتری داشتم... به همین دلیل الان نمی‌توانم مثل تو معامله کنم.
+
+فرایند فکرم در آن زمان که این نمودار را نگاه می‌کردم این بود.
+
+### salivan_p18_21
+EN: So anyay , since i don't use targets...It's always a 50/50 Scenario.
+Either price turns against me or i get unexpected enormous winners.
+
+But it's annoying. (because of the breakeven trades that could've been avoided).
+
+For some reason i'm not always sure of the source of the move. (how to correctly identify it).
+
+Maybe my problem also has to do with scales...(on the timeframe i'm trading). But that's also another subject.
+FA: به‌هرحال، چون از تارگت استفاده نمی‌کنم... همیشه سناریوی 50/50 است. یا قیمت علیه من برمی‌گردد یا برندهٔ بزرگ غیرمنتظره می‌شوم.
+
+اما آزاردهنده است. (به خاطر معامله‌های سر به سری که می‌شد ازشان پرهیز کرد).
+
+دلیلی دارد که همیشه از منبع حرکت مطمئن نیستم. (اینکه چطور درست تشخیصش بدهم).
+
+شاید مشکل من به مقیاس‌ها هم مربوط باشد...(در تایم‌فریمی که معامله می‌کنم). اما آن هم موضوع دیگری است.
+
+### salivan_p18_22
+EN: hihi mika would mind if u can post the timeline for your chart so that we can help to analyse it together
+FA: سلام mika، بدت نمی‌آید تایم‌لاین نمودارت را بگذاری تا با هم کمک کنیم تحلیلش کنیم
+
+### salivan_p18_23
+EN: i hope salivan dont mind if i post this.
+
+as im a noob please take my analysis with a pitch of salt
+
+i try my best to find it on my platform but i cant find your picture , cant tell when is the chart from. only know EU and 15m
+FA: امیدوارم salivan بدش نیاید که این را می‌گذارم.
+
+چون تازه‌کارم، لطفاً تحلیلم را با کمی شک و تردید بخوان
+
+هر تلاشی کردم ن‌توانستم روی پلتفرم خودم تصویرت را پیدا کنم، نمی‌توانم بگویم نمودار مال چه زمانی است. فقط EU و 15m را می‌دانم
+
+### salivan_p18_24
+EN: FXlucky wrote: hihi mika would mind if u can post the timeline for your chart so that we can help to analyse it together
+
+Sure , like i said earlier , it's a very old one. (something i was practicing on forextester) , broker used: Alpari_UK
+
+Timeline dec 2009 , you should easily recgonize it on the 1h chart.
+
+here is the exact time
+FA: FXlucky نوشت: سلام mika، بدت نمی‌آید تایم‌لاین نمودارت را بگذاری تا با هم کمک کنیم تحلیلش کنیم
+
+حتماً، همان‌طور که قبلاً گفتم، خیلی قدیمی است. (چیزی بود که روی forextester تمرین می‌کردم)، بروکر: Alpari_UK
+
+تایم‌لاین dec 2009، باید راحت روی نمودار 1h تشخیصش بدهی.
+
+این هم زمان دقیقش
+
+### salivan_p18_25
+EN: FXlucky wrote: i hope salivan dont mind if i post this.
+
+as im a noob please take my analysis with a pitch of salt
+
+i try my best to find it on my platform but i cant find your picture , cant tell when is the chart from. only know EU and 15m
+
+Price actually went a bit lower after that. (Salivan nailed it).... But it could've been a nice place to take profit too...
+
+Here what price did after that...And how it looks on the 4h chart
+FA: FXlucky نوشت: امیدوارم salivan بدش نیاید که این را می‌گذارم.
+
+چون تازه‌کارم، لطفاً تحلیلم را با کمی شک و تردید بخوان
+
+هر تلاشی کردم ن‌توانستم روی پلتفرم خودم تصویرت را پیدا کنم، نمی‌توانم بگویم نمودار مال چه زمانی است. فقط EU و 15m را می‌دانم
+
+قیمت واقعاً بعد از آن کمی پایین‌تر رفت. (Salivan دقیق زد).... اما می‌توانست جای خوبی برای برداشت سود هم باشد...
+
+این هم آنچه قیمت بعد از آن کرد... و چطور روی نمودار 4h دیده می‌شود

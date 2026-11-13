@@ -1,0 +1,300 @@
+########## FILE finddecision-p7.json (25 posts) ##########
+=== [0] SunnyFX hash=02520ae5167c98363bbf740f7745a06a6e17cbe6 ===
+EN: PAST, APPROACH & REACTION
+FA: گذشته، نزدیک شدن و واکنش
+
+=== [1] SunnyFX hash=02520ae5167c98363bbf740f7745a06a6e17cbe6 ===
+EN: PAST, APPROACH & REACTION
+FA: گذشته، نزدیک شدن و واکنش
+
+=== [2] SunnyFX hash=15352efee2586b5266bf7c4b866c7713aa7b361b ===
+EN: PAST |  | APPROACH & REACTION
+FA: گذشته |  | نزدیک شدن و واکنش
+
+=== [3] SunnyFX hash=02520ae5167c98363bbf740f7745a06a6e17cbe6 ===
+EN: PAST, APPROACH & REACTION
+FA: گذشته، نزدیک شدن و واکنش
+
+=== [4] SunnyFX hash=15352efee2586b5266bf7c4b866c7713aa7b361b ===
+EN: PAST |  | APPROACH & REACTION
+FA: گذشته |  | نزدیک شدن و واکنش
+
+=== [5] SunnyFX hash=02520ae5167c98363bbf740f7745a06a6e17cbe6 ===
+EN: PAST, APPROACH & REACTION
+FA: گذشته، نزدیک شدن و واکنش
+
+=== [6] SunnyFX hash=b91fb3721426775010909f975de8154ffe92f9c1 ===
+EN: PAST, APPROACH & REACTION |  | **Remember how at point 7 LTF DEMAND had been engulfed and this allowed price to come right down to the DAILY DEMAND here at 9.
+FA: گذشته، نزدیک شدن و واکنش |  | **یادت باشه چطور در نقطهٔ 7، تقاضای LTF اینگالف شده بود و همین اجازه داد قیمت درست بیاد پایین تا تقاضای روزانه اینجا در 9.
+
+=== [7] SunnyFX hash=02520ae5167c98363bbf740f7745a06a6e17cbe6 ===
+EN: PAST, APPROACH & REACTION
+FA: گذشته، نزدیک شدن و واکنش
+
+=== [8] SunnyFX hash=02520ae5167c98363bbf740f7745a06a6e17cbe6 ===
+EN: PAST, APPROACH & REACTION
+FA: گذشته، نزدیک شدن و واکنش
+
+=== [9] arjfca hash=1a007dd07c03fe80b785b8cc97e31cca2dbcb9db ===
+EN: Here is my first post and first homework |  | If possible, please comment and say if I'm on a right track |  | Martin:)
+FA: این اولین پست و اولین تکلیف منه |  | اگه ممکنه، لطفاً نظر بدید و بگید آیا در مسیر درستی هستم |  | Martin:)
+
+=== [10] fxtiger hash=a64490807e93166a444a58b9e9d28c62e10ccc0d ===
+EN: Hi Guys, I'm learning how to find the Decisions Point on the charts, any help would be appreciated... Here's a series of recent GU charts from D1 to M5, I wonder if I have found the true Decision point.... |  | Thanks alot!
+FA: سلام بچه‌ها، دارم یاد می‌گیرم چطور نقطهٔ تصمیم رو روی چارت‌ها پیدا کنم، هر کمکی ممنون می‌شم... این مجموعه‌ای از چارت‌های اخیر GU از D1 تا M5 است، نمی‌دونم آیا واقعاً DP درست رو پیدا کردم یا نه.... |  | خیلی ممنون!
+
+=== [11] Ranganus hash=02ce015655363833701a8b6f2257ccb5046b30c7 ===
+EN: Hello Martin, |  | I am not familiar with the concept of WRB, will do some research. |  | In your third chart, to me it doesnt look like compression. Compression should have a wider range and more wicks on both sides, to put out orders and trigger SL´s.
+FA: سلام Martin، |  | من با مفهوم WRB آشنا نیستم، یه‌کم تحقیق می‌کنم. |  | در چارت سومت، به نظر من شبیه فشرده‌سازی نیست. فشرده‌سازی باید رنج بازتر و سایه‌های بیشتری در دو طرف داشته باشه، تا سفارش‌ها بیرون بریزه و استاپ‌لاس‌ها فعال بشن.
+
+=== [12] benhur hash=6f7c5e4b893bb3436a01a6ca304b6b27f6d8e947 ===
+EN: Ranganus wrote: Compression should have a wider range and more wicks on both sides, to put out orders and trigger SL´s. |  | I am afraid this is a wrong definition for compression! |  | A compression is where price move (usually crawls) in one direction while it keep retrace back to consume the last of orders left. Please refer to the compressionarticle inmarkepediafro better understanding readthemarket.com/index.php/education/ma...9-compression-part-1
+FA: Ranganus نوشت: فشرده‌سازی باید رنج بازتر و سایه‌های بیشتری در دو طرف داشته باشه، تا سفارش‌ها بیرون بریزه و استاپ‌لاس‌ها فعال بشن. |  | می‌ترسم این تعریف درستی از فشرده‌سازی نباشه! |  | فشرده‌سازی جاییه که قیمت در یک جهت حرکت می‌کنه (معمولاً سینه‌خیز) و مدام به عقب برمی‌گرده تا آخرین سفارش‌های باقی‌مونده رو مصرف کنه. لطفاً برای فهم بهتر به مقالهٔ فشرده‌سازی در markepedia مراجعه کن readthemarket.com/index.php/education/ma...9-compression-part-1
+
+=== [13] Les_Paul hash=011930c7986942994e75fbc28df386df78e48467 ===
+EN: fxtiger wrote: Hi Guys, I'm learning how to find the Decisions Point on the charts, any help would be appreciated... Here's a series of recent GU charts from D1 to M5, I wonder if I have found the true Decision point.... |  | Thanks alot! |  | Hi fxtiger: |  | your first question: yes, it is a lovely DP! |  | your second question: who knows...? It may bounce again or get engulfed. In the latter case a new DP will be formed
+FA: fxtiger نوشت: سلام بچه‌ها، دارم یاد می‌گیرم چطور نقطهٔ تصمیم رو روی چارت‌ها پیدا کنم، هر کمکی ممنون می‌شم... این مجموعه‌ای از چارت‌های اخیر GU از D1 تا M5 است، نمی‌دونم آیا واقعاً DP درست رو پیدا کردم یا نه.... |  | خیلی ممنون! |  | سلام fxtiger: |  | سؤال اولت: بله، DP قشنگیه! |  | سؤال دومت: کی می‌دونه...؟ ممکنه دوباره برگشت بزنه یا اینگالف بشه. در حالت دوم یک DP جدید شکل می‌گیره
+
+=== [14] ttfreitas hash=471b56a6c2892903e9a729e6cad8e4f489c01296 ===
+EN: This is an awesome homework! I am having a go at the GBP/USD Daily. My LTF charts are 5min charts and they display the zones that price reacted to. The numbers in the LTFs have their counterpart in the Daily chart.
+FA: این تکلیف فوق‌العاده‌ایه! من دارم روی GBP/USD روزانه امتحان می‌کنم. چارت‌های LTF من 5min هستند و ناحیه‌هایی رو نشون می‌دن که قیمت بهشون واکنش نشون داده. شماره‌های داخل LTFها معادل خودشون رو در چارت روزانه دارن.
+
+=== [15] faridisham hash=b6fc784ac8fddd4486cc11a8ca4269552345e74e ===
+EN: Finding Decision Point (DP) |  | Price rallied up from indecision area n created a new Demand Zone (RBR). At around 1.383, price dropped around 290 pips. But why? Let's take a look what's on the left |  | Zoomed out. Let's zoom into that area on the left. |  | That's a nice supply area where banks decided to sell Euro against USD back in 9/11/2011 |  | Correct me if i'm wrong or if there's anything i can improve on finding decision points and reading the market:)
+FA: پیدا کردن نقطهٔ تصمیم (DP) |  | قیمت از ناحیهٔ بی‌تصمیم بالا رفت و یک ناحیهٔ تقاضای جدید ساخت (RBR). حدود 1.383، قیمت حدود 290 پیپ ریخت. ولی چرا؟ بیایید ببینیم سمت چپ چه خبره |  | زوم شده. بیایید روی اون ناحیه در سمت چپ زوم کنیم. |  | این یک ناحیهٔ عرضهٔ خوبه که بانک‌ها تصمیم گرفتن در 9/11/2011 یورو رو در برابر دلار بفروشن |  | اگه اشتباه می‌گم یا جایی برای بهتر شدن در پیدا کردن نقطه‌های تصمیم و خواندن بازار هست، اصلاحم کنید:)
+
+=== [16] faridisham hash=25053edfcc3cc6d119248894d6809ae1bc80c249 ===
+EN: Gold H1 |  | My attempt to read the chart and find decision points and areas. |  | Comments are most welcomed:)
+FA: Gold H1 |  | تلاش من برای خواندن چارت و پیدا کردن نقطه‌ها و ناحیه‌های تصمیم. |  | از کامنت‌ها بیشترین استقبال رو می‌کنم:)
+
+=== [17] milkeyway hash=08d1d557754416a0fc42090e8ace9a5985fd231b ===
+EN: Is this correct??
+FA: این درسته؟؟
+
+=== [18] harshrthakkar hash=bccf85236e3e45fdfcbaddb6f83745344bb84b76 ===
+EN: Hi Seniors, I have a query here.I have attached a screenshot,with DP marked.Can you please give your inputs.
+FA: سلام به بزرگان، یه سؤالی دارم. یک عکس از صفحه پیوست کردم که DP روش علامت خورده. می‌شه لطفاً نظرتون رو بدید.
+
+=== [19] dcabfx hash=5abeabc101048183ad4a9505d13a8494c38568e7 ===
+EN: Decisions! Why did price react there? Price action clues and story. Okay, I've marked 20 turning points on a EU Daily chart. Went as low as I could in history to find relevant information for price reaction. Take a browse and any feedback is appreciated.
+FA: تصمیم‌ها! چرا قیمت اون‌جا واکنش نشون داد؟ سرنخ‌ها و داستان پرایس اکشن. باشه، 20 نقطهٔ چرخش روی چارت روزانهٔ EU علامت زدم. تا جایی که تونستم در تاریخ پایین رفتم تا اطلاعات مرتبط با واکنش قیمت رو پیدا کنم. یه نگاهی بندازید، هر بازخوردی ممنون می‌شم.
+
+=== [20] dcabfx hash=9e466212541cef1e4e4fa43f346f74ee308a6895 ===
+EN: Point 1.
+FA: نقطهٔ 1.
+
+=== [21] dcabfx hash=c5d124f0a36500d5418a78d06988e14c4fd71759 ===
+EN: Point 2
+FA: نقطهٔ 2
+
+=== [22] dcabfx hash=0ddcc506737670ee2d236267c045c6c350bf161a ===
+EN: Point 3
+FA: نقطهٔ 3
+
+=== [23] dcabfx hash=6b0ee4b41d6e5799da143ace1c9c25ae22b008fb ===
+EN: Point 4
+FA: نقطهٔ 4
+
+=== [24] dcabfx hash=a96979f57d44a73f632b1ec36a54e343883b2b97 ===
+EN: Point 5
+FA: نقطهٔ 5
+
+########## FILE finddecision-p11.json (10 posts) ##########
+=== [0] Crisaor hash=70483c02376786221aa1682336d033269d4164b5 ===
+EN: Turning point 14
+FA: نقطهٔ چرخش 14
+
+=== [1] Crisaor hash=db83dbbf9a0b51ddd90f098eb93985494f747c73 ===
+EN: Turning point 15
+FA: نقطهٔ چرخش 15
+
+=== [2] Crisaor hash=31804c6e29b3382b2531170b0fdf043f7934ff6a ===
+EN: Turning point 16
+FA: نقطهٔ چرخش 16
+
+=== [3] Crisaor hash=25d1cffb048f9d09908d20ab9fc356a7ded9a113 ===
+EN: Turning point 17
+FA: نقطهٔ چرخش 17
+
+=== [4] Crisaor hash=fd0d71dc0347733914f9df3e4ffb3d00ccdacc8f ===
+EN: Turning point 18
+FA: نقطهٔ چرخش 18
+
+=== [5] Crisaor hash=17b2bdc007babab8ea28c8966fe9d5bd17ffb39c ===
+EN: Turning point 19
+FA: نقطهٔ چرخش 19
+
+=== [6] Crisaor hash=a88aae16aff0a537b1c38f7fedb02923a7e33f74 ===
+EN: Turning point 20 |  | And with this one i finish the DP Homework. I hope someone tell me in case of something is wrong. Thanks in advance guys.
+FA: نقطهٔ چرخش 20 |  | و با این یکی تکلیف DP را تمام می‌کنم. امیدوارم اگر جایی اشکال دارد، کسی به من بگوید. از همین حالا از همهٔ شما ممنونم.
+
+=== [7] deenius hash=0b8b5a3259085bd869e9b5e9a4820f0b78d363e8 ===
+EN: This is my homework. Comments are welcomed!
+FA: این تمرین من است. نظرها خوش‌آمد است!
+
+=== [8] duy90 hash=131ead9eda2f0e7ebd6862535b151b2aed20a131 ===
+EN: Decision points on GBPUSD From 18.5.2015 - 2.4.2016
+FA: نقاط تصمیم در GBPUSD از 18.5.2015 تا 2.4.2016
+
+=== [9] omidfxt hash=3645da2f45e1b286080a7668c08e3a12a675c6f3 ===
+EN: HEY THIS IS MY HM IT WAS AN INTERESTING HM, I TOOK MY TIME FOR 3-4 HOURS BUT WORTH IT YOU CAN SEE THAT ANY ACTION HAS A REASON IN THE PAST IT IS NICE TO GO BACK AND SEE THE REASONS AND ONE DAY I WILL DO IT VICE VERSA I SEE THE PAST AND SAY WHAT WILL HAPPEN IN FUTURE |  | THIS IS THE CHART I WANT TO GO THROUGH
+FA: سلام، این HM من است. HM جالبی بود؛ 3-4 ساعت وقت گذاشتم اما ارزشش را داشت. می‌توانید ببینید که هر اقدامی در گذشته دلیلی دارد. خوب است آدم برگردد و آن دلایل را ببیند؛ و یک روز برعکسش را هم انجام می‌دهم: گذشته را می‌بینم و می‌گویم در آینده چه خواهد شد. |  | این چارتی است که می‌خواهم از آن بگذرم
+
+########## FILE finddecision-p12.json (20 posts) ##########
+=== [0] salivan hash=0854417d69ca7ac199fdc22ba867bda2c5643e7c ===
+EN: 1. |  | WITH REGARDS SALIVAN
+FA: 1. |  | با احترام، SALIVAN
+
+=== [1] Al3cs hash=c237e266be5bb383c29856112df7bca5d0379285 ===
+EN: Hi all, first try on this HW. I start with first 8 DP. More will follow. Please let me know what you think about it.
+FA: سلام به همه، اولین تلاشم در این تمرین. با 8 DP اول شروع می‌کنم. بقیه هم می‌آید. لطفاً بگویید چه فکری درباره‌اش می‌کنید.
+
+=== [2] alirezat hash=b43c200c5a197c3f26309c87ee770628a36becf9 ===
+EN: hi here is my homework on finding dps
+FA: سلام، این هم تمرین من در پیدا کردن DPها
+
+=== [3] alirezat hash=a15a35ad606e1bc1f03f8373851dda584a0035fe ===
+EN: I dig into the lowest time frame and I have a question about finding the exact decision point for drawing the edge of the levels, which I think is very important.the question is on the chart.
+FA: تا پایین‌ترین تایم‌فریم می‌روم و یک سؤال دارم دربارهٔ پیدا کردن نقطهٔ تصمیم دقیق برای رسم لبهٔ سطوح، که به نظرم خیلی مهم است. سؤال روی چارت است.
+
+=== [4] omidfxt hash=e37fd825a17a46a740bf7327ee59a1cb6e91e672 ===
+EN: hey alirezat |  | here are some note on your chart there isn't enough history on the chart so i supposed that you draw your FL properly |  | hope it made sense Regards omidFxt
+FA: سلام alirezat |  | چند نکته روی چارتت: تاریخچهٔ کافی روی چارت نیست، پس فرض کردم FL را درست رسم کرده‌ای |  | امیدوارم منطقی بوده باشد. با احترام omidFxt
+
+=== [5] ViTaLDRuG hash=4582f754f52d7f2f7fb83c667a11d92169b9c559 ===
+EN: Here is my homework, |  | Please comment on my mistakes and I have lots of questions on these images. If you have time, please answer them or guide me to find them myself. |  | Thanks, |  | Charts are from EURCHF ( 2016/09/01 TO 2016/10/10) |  | Point 1 |  | Point 2 |  | Pont 3 |  | Point 4 |  | Point 5 |  | Point 6 |  | Point 7 |  | Point 8 |  | Point 9 |  | Point 10 |  | Point 14 |  | Point 15 |  | Point 16 |  | Point 17 |  | Thanks a lot!
+FA: این هم تمرین من، |  | لطفاً روی اشتباهاتم نظر بدهید؛ من روی این تصاویر کلی سؤال دارم. اگر وقت دارید، لطفاً جوابشان را بدهید یا راهنمایی‌ام کنید که خودم پیدایشان کنم. |  | ممنون، |  | چارت‌ها از EURCHF هستند (2016/09/01 تا 2016/10/10) |  | نقطهٔ 1 |  | نقطهٔ 2 |  | نقطهٔ 3 |  | نقطهٔ 4 |  | نقطهٔ 5 |  | نقطهٔ 6 |  | نقطهٔ 7 |  | نقطهٔ 8 |  | نقطهٔ 9 |  | نقطهٔ 10 |  | نقطهٔ 14 |  | نقطهٔ 15 |  | نقطهٔ 16 |  | نقطهٔ 17 |  | خیلی ممنون!
+
+=== [6] Madmoney hash=74d6aae9e0b34d51cdbf1774857f54183162290f ===
+EN: FX.Sniffer wrote: |  | Ezabo wrote: Cheers If, your videos are great for showing how simple looking at this stuff can (and should) be. |  | I won't do all the turning points as screen captures here I doubt, but here's one that I could use another opinion on. |  | Very good presentation, you'll make a good teacher |  | I have an |  | answer for you..actually two. You could have figured it out by yourself if you had the M1 historical data. |  | Anyway, if you look at TF 15M & 5M both are telling the same story, an ignored supply later was respected just as in your number 1 and your pivot line is inside the supply zone, but if you wanna be more precise as Mr. Ifmyante likes it then you have to check the M1 TF and voila...there is a demand decision point. |  | Please see the attached charts. |  | Hi all, I'm trying to finally close the gaps in my knowledge and want to understand the anatomy and dynamics of decision points. |  | I need to understand the following question.... |  | Many thanks
+FA: FX.Sniffer نوشت: |  | Ezabo نوشت: ممنون If، ویدئوهایت عالی نشان می‌دهند که نگاه کردن به این چیزها چقدر می‌تواند (و باید) ساده باشد. |  | فکر نکنم همهٔ نقاط چرخش را اینجا به‌صورت عکس از صفحه بگذارم، ولی این یکی هست که می‌توانم درباره‌اش نظر دیگری هم بشنوم. |  | ارائهٔ خیلی خوبی بود، معلم خوبی می‌شوی |  | جوابی دارم |  | برای تو.. در واقع دو تا. اگر دادهٔ تاریخی M1 را داشتی خودت می‌توانستی پیدایش کنی. |  | به هر حال، اگر به TF 15M و 5M نگاه کنی، هر دو یک داستان را می‌گویند: یک عرضهٔ نادیده‌گرفته‌شده بعداً همان‌طور رعایت شد که در شمارهٔ 1 تو دیدیم، و خط پیوت تو داخل ناحیهٔ عرضه است؛ ولی اگر می‌خواهی دقیق‌تر باشی، همان‌طور که آقای Ifmyante دوست دارد، باید TF M1 را چک کنی و بعد... یک نقطهٔ تصمیم تقاضا آنجاست. |  | چارت‌های پیوست را ببینید. |  | سلام به همه، دارم سعی می‌کنم بالاخره شکاف‌های دانشم را پر کنم و می‌خواهم آناتومی و دینامیک نقاط تصمیم را بفهمم. |  | باید این سؤال را بفهمم.... |  | خیلی ممنون
+
+=== [7] Al3cs hash=dbb4f5ed8331100ac9b1b2f26b97069047ba2b71 ===
+EN: I think he only marked the low in the extreme right of the chart because that is the turning point he's investigating. After that he scrolled the chart on the left and in LTFs looking for reasons in the past. Only a visual aid, IMO.
+FA: فکر می‌کنم فقط کف سمت راست‌ترین قسمت چارت را علامت زده، چون همان نقطهٔ چرخشی است که دارد بررسی می‌کند. بعدش چارت را به چپ و در LTFها اسکرول کرده تا دلیل‌های گذشته را پیدا کند. به نظر من فقط یک کمک بصری است.
+
+=== [8] Madmoney hash=1f45a9cb10b07a7e76fef609b60d33e338b4fe9d ===
+EN: Al3cs wrote: I think he only marked the low in the extreme right of the chart because that is the turning point he's investigating. After that he scrolled the chart on the left and in LTFs looking for reasons in the past. Only a visual aid, IMO. |  | Still, it doesn't make any sense |  | Some people use the opposing FTR before break of supply and some use the FTR created by the break
+FA: Al3cs نوشت: فکر می‌کنم فقط کف سمت راست‌ترین قسمت چارت را علامت زده، چون همان نقطهٔ چرخشی است که دارد بررسی می‌کند. بعدش چارت را به چپ و در LTFها اسکرول کرده تا دلیل‌های گذشته را پیدا کند. به نظر من فقط یک کمک بصری است. |  | با این حال، هیچ منطقی ندارد |  | بعضی‌ها از FTR مقابل، قبل از شکست عرضه استفاده می‌کنند و بعضی از FTRی که خود شکست می‌سازد
+
+=== [9] salivan hash=0df31d571a35dda953ff6a6baff1a2db8a0cc304 ===
+EN: investigate the chart and prove for your self that which one is important to put weight on it. watch IF's video he answered to all doubts
+FA: چارت را بررسی کن و خودت ثابت کن کدام یک مهم است که به آن وزن بدهی. ویدئوی IF را ببین، او به همهٔ شک‌ها جواب داده
+
+=== [10] Madmoney hash=ff36cb07cb2b7c4061b1a02d38ea2f1484ed6c91 ===
+EN: salivan wrote: investigate the chart and prove for your self that which one is important to put weight on it. watch IF's video he answered to all doubts |  | I have one both those things. I don't like asking a question without investigation, it's lazy
+FA: salivan نوشت: چارت را بررسی کن و خودت ثابت کن کدام یک مهم است که به آن وزن بدهی. ویدئوی IF را ببین، او به همهٔ شک‌ها جواب داده |  | من هر دوی این کارها را کرده‌ام. دوست ندارم سؤالی را بدون بررسی بپرسم، این تنبلی است
+
+=== [11] Al3cs hash=63bda88ef692addc7d1b152b695d5785856dc58a ===
+EN: Oh man!! This HW request you to investigate why price reversed where it did so THE STARTING IN POINT IS THE REVERSAL POINT. Mark the point you want to investigate and watch left at that level in the past. Come back and read the first post please. Still doesn't makes sense? That line is the starting point of the analisys not the end of it.... I have no more words to explain a thing simple like this, excuse me, it's my limit.
+FA: اوه پسر!! این تمرین از تو می‌خواهد بررسی کنی چرا قیمت همان‌جا برگشت، پس نقطهٔ شروع همان نقطهٔ برگشت است. نقطه‌ای را که می‌خواهی درباره‌اش تحقیق کنی علامت بزن و در گذشته به سمت چپ، روی همان سطح نگاه کن. لطفاً برگرد و پست اول را بخوان. هنوز منطقی نیست؟ آن خط، آغاز تحلیل است، نه پایانش.... دیگر کلمه‌ای برای توضیح چنین چیز ساده‌ای ندارم، ببخشید، حد من همین است.
+
+=== [12] Al3cs hash=396f40bdf5025e6f739249547c0fc017499a6bcd ===
+EN: Little hint for all.... IF's teaches that price always move from FL to FL. So when price change his direction, it should be inside a FL where ITs decided that price was too low or too high. Mark the point and look left for that FL. When you do this for enough times you will learn a lot about FLs and about your ability to Read The Market
+FA: یک راهنمایی کوچک برای همه.... IF یاد می‌دهد که قیمت همیشه از FL به FL حرکت می‌کند. پس وقتی قیمت جهت عوض می‌کند، باید داخل یک FL باشد که ITs در آن تصمیم گرفته‌اند قیمت خیلی پایین یا خیلی بالاست. نقطه را علامت بزن و به سمت چپ دنبال آن FL بگرد. وقتی این کار را به تعداد کافی انجام دهی، چیز زیادی دربارهٔ FLها و دربارهٔ توانایی‌ات در خواندن بازار یاد می‌گیری
+
+=== [13] salivan hash=6d56676d7aaef80c86d15a0276a208f162a3d06a ===
+EN: Madmoney wrote: |  | salivan wrote: investigate the chart and prove for your self that which one is important to put weight on it. watch IF's video he answered to all doubts |  | I have one both those things. I don't like asking a question without investigation, it's lazy |  | again look at the first 20 second of this video,it tell you which one is important: THE FTR TRADE
+FA: Madmoney نوشت: |  | salivan نوشت: چارت را بررسی کن و خودت ثابت کن کدام یک مهم است که به آن وزن بدهی. ویدئوی IF را ببین، او به همهٔ شک‌ها جواب داده |  | من هر دوی این کارها را کرده‌ام. دوست ندارم سؤالی را بدون بررسی بپرسم، این تنبلی است |  | باز هم به 20 ثانیهٔ اول این ویدئو نگاه کن؛ می‌گوید کدام یک مهم است: معاملهٔ FTR
+
+=== [14] FXlucky hash=930682a51f186ffd1d9a49d570486e200e4a8032 ===
+EN: hi madmoney, |  | this is my explanation with he draw the Line and why price respected it. |  | I hope it helps you in your perusal. |  | is the explanation clear to you? |  | if not feel free to ask your question.
+FA: سلام madmoney، |  | این توضیح من است که او چطور خط را رسم کرده و چرا قیمت به آن احترام گذاشته. |  | امیدوارم در مطالعه‌ات کمکت کند. |  | آیا توضیح برایت روشن است؟ |  | اگر نه، راحت سؤالت را بپرس.
+
+=== [15] corsica hash=2f5f0109089bb18641f83cada3bcc322f6bd0def ===
+EN: Hello fellow RTMers a few decisions.
+FA: سلام به هم‌قطارهای RTM، چند تصمیم.
+
+=== [16] corsica hash=32aeab2c01e6817325b15fc3aceddb5dc72c7878 ===
+EN: turning points 5, 6 and 7. Have a great day
+FA: نقاط چرخش 5، 6 و 7. روز خوبی داشته باشی
+
+=== [17] corsica hash=69997f6bac84120a4ff99d4302acff1d55da540a ===
+EN: I made this trade with a mediocre entry. I came back to it to look at where and why the correct DP was where it was.
+FA: این معامله را با یک ورود معمولی انجام دادم. برگشتم سراغش تا ببینم DP درست کجا بود و چرا همان‌جا بود.
+
+=== [18] Nytewyre hash=583033eecfe7864c0512651cf3132280fac7b8c9 ===
+EN: This is my homework. I appreciate any comments or corrections. I will do more once I get through more threads.
+FA: این تمرین من است. از هر نظر یا اصلاحی ممنونم. وقتی تاپیک‌های بیشتری را بخوانم، بیشتر هم انجام می‌دهم.
+
+=== [19] Edge hash=81f9c13c8537f173b1d8cbf2d3287b3f4918ba11 ===
+EN: Hi Nytewyre,. I noticed you sometimes marked the decision to break which is the base just before a barrier like S/R. I am giving you this information because I wasted so much time on conventional S/D trading which teaches these areas are true supply and demand. Erase that from your mind. You will even see how RTM has changed over time. What makes this place great is the fact that even IF and other Masters never sit idle with how they see the market. They adapt. You will love it here!!! |  | The true DPs occur seconds after the barrier is broken and it retraces. Its often hidden in the tick chart and makes for a great trap for those S/D traders who swear by peaks and valleys as true supply/demand. The less visible our DP kink the better, especially if it retraces and forms a high/low which makes for a great FO zone.
+FA: سلام Nytewyre،. متوجه شدم که گاهی تصمیمِ شکست را علامت می‌زنی، یعنی همان بیسی که درست قبل از یک سد مثل S/R قرار دارد. این را به تو می‌گویم چون من زمان خیلی زیادی را صرف معامله‌گری متعارف S/D کردم که می‌گوید این نواحی عرضه و تقاضای واقعی هستند. این را از ذهنت پاک کن. حتی خواهی دید که RTM در طول زمان چطور تغییر کرده. چیزی که اینجا را عالی می‌کند این است که حتی IF و دیگر استادها هم هرگز با دید ثابت به بازار نگاه نمی‌کنند. آن‌ها خودشان را تطبیق می‌دهند. اینجا را خیلی دوست خواهی داشت!!! |  | DPهای واقعی ثانیه‌هایی بعد از شکستن سد و برگشت قیمت رخ می‌دهند. اغلب در چارت تیک پنهان است و تلهٔ خوبی برای آن معامله‌گران S/D می‌سازد که به سقف‌ها و کف‌ها به‌عنوان عرضه/تقاضای واقعی قسم می‌خورند. هرچه کینک DP ما کمتر دیده شود بهتر است، مخصوصاً اگر قیمت برگردد و یک سقف یا کف بسازد که ناحیهٔ FO عالی‌ای می‌سازد.
+
+########## FILE finddecision-p13.json (19 posts) ##########
+=== [0] TheBeard hash=1445b55a93a13135acdbb7a838e1c1f064e6dd2f ===
+EN: Edge wrote: Hi Nytewyre,. I noticed you sometimes marked the decision to break which is the base just before a barrier like S/R. I am giving you this information because I wasted so much time on conventional S/D trading which teaches these areas are true supply and demand. Erase that from your mind. You will even see how RTM has changed over time. What makes this place great is the fact that even IF and other Masters never sit idle with how they see the market. They adapt. You will love it here!!! |  | The true DPs occur seconds after the barrier is broken and it retraces. Its often hidden in the tick chart and makes for a great trap for those S/D traders who swear by peaks and valleys as true supply/demand. The less visible our DP kink the better, especially if it retraces and forms a high/low which makes for a great FO zone. |  | Do you mean like the image in the FTR article in markepedia?
+FA: Edge نوشت: سلام Nytewyre،. متوجه شدم گاهی تصمیم به شکستن را علامت می‌زنی، همان بیسی که درست قبل از یک سد مثل S/R قرار دارد. این اطلاعات را می‌دهم چون من زمان زیادی را صرف معامله‌گری متعارف S/D کردم که می‌آموزد این ناحیه‌ها عرضه و تقاضای واقعی‌اند. این را از ذهنت پاک کن. حتی خواهی دید که RTM در طول زمان چطور تغییر کرده. چیزی که اینجا را عالی می‌کند این است که حتی IF و دیگر استادها هرگز در نحوهٔ دیدن بازارشان بی‌کار نمی‌نشینند. آن‌ها سازگار می‌شوند. عاشق اینجا خواهی شد!!! |  | DPهای واقعی ثانیه‌هایی بعد از شکسته شدن سد و اصلاح آن رخ می‌دهند. معمولاً در چارت تیک پنهان‌اند و تلهٔ عالی‌ای برای آن معامله‌گران S/D می‌سازند که به سقف‌ها و کف‌ها به‌عنوان عرضه/تقاضای واقعی قسم می‌خورند. هر چه کینک DP ما کمتر دیده شود بهتر است، خصوصاً اگر اصلاح کند و سقف/کفی بسازد که ناحیهٔ FO عالی‌ای می‌شود. |  | منظورت مثل تصویر مقالهٔ FTR در markepedia است؟
+
+=== [1] Nytewyre hash=859fcd7d2ff9e8a093b8355f69cf4fad145cb8b2 ===
+EN: Hi edge |  | . Thank you for the challenging my thought process. I am new |  | to trading so I want to apologize beforehand if I can't understand some of the terms that you are using. I have been thinking about decision points for the past week. I marked the decision to break bases before price pushes through the barrier because I thought that is the most cost effective place to break a barrier, any further away from that there would be other areas of supply and demand which would prevent price from advancing beyond the barrier. I thought the institutional traders would wait until price comes close to the barrier before putting in their big orders to push price beyond the barrier. Anyways, I will study harder to understand where true DPs occur. |  | Regards CQ
+FA: سلام edge |  | ممنون که روند فکرم را به چالش می‌کشی. |  | من تازه‌وارد معامله‌گری شده‌ام، پس می‌خواهم از پیش عذرخواهی کنم اگر بعضی از اصطلاحاتی که به کار می‌بری را نفهمم. یک هفته است دربارهٔ نقاط تصمیم فکر می‌کنم. تصمیم به شکستن بیس‌ها را قبل از این‌که قیمت از سد عبور کند علامت می‌زدم، چون فکر می‌کردم آن مقرون‌به‌صرفه‌ترین جای شکستن یک سد است؛ هر جای دورتر از آن، ناحیه‌های عرضه و تقاضای دیگری هست که مانع پیشروی قیمت به آن‌سوی سد می‌شود. فکر می‌کردم معامله‌گران نهادی صبر می‌کنند تا قیمت به سد نزدیک شود و بعد سفارش‌های بزرگشان را برای عبور دادن قیمت از سد می‌گذارند. به‌هرحال، سخت‌تر مطالعه می‌کنم تا بفهمم DPهای واقعی کجا رخ می‌دهند. |  | با احترام CQ
+
+=== [2] Edge hash=1a0eae5efbb9e12d6e1f4d3f62a0164eb4a30532 ===
+EN: TheBeard wrote: |  | Edge wrote: Hi Nytewyre,. I noticed you sometimes marked the decision to break which is the base just before a barrier like S/R. I am giving you this information because I wasted so much time on conventional S/D trading which teaches these areas are true supply and demand. Erase that from your mind. You will even see how RTM has changed over time. What makes this place great is the fact that even IF and other Masters never sit idle with how they see the market. They adapt. You will love it here!!! |  | The true DPs occur seconds after the barrier is broken and it retraces. Its often hidden in the tick chart and makes for a great trap for those S/D traders who swear by peaks and valleys as true supply/demand. The less visible our DP kink the better, especially if it retraces and forms a high/low which makes for a great FO zone. |  | Do you mean like the image in the FTR article in markepedia? |  | Yeah Karlos, a couple of the diagrams of the ftr dont retrace past the barrier again. I think the concept has changed a bit, as historically it was the cap or hook considered the FTR but they really are only the FTB to the invisible FTR kink inside the area that initialy broke the barrier
+FA: TheBeard نوشت: |  | Edge نوشت: سلام Nytewyre،. متوجه شدم گاهی تصمیم به شکستن را علامت می‌زنی، همان بیسی که درست قبل از یک سد مثل S/R قرار دارد. این اطلاعات را می‌دهم چون من زمان زیادی را صرف معامله‌گری متعارف S/D کردم که می‌آموزد این ناحیه‌ها عرضه و تقاضای واقعی‌اند. این را از ذهنت پاک کن. حتی خواهی دید که RTM در طول زمان چطور تغییر کرده. چیزی که اینجا را عالی می‌کند این است که حتی IF و دیگر استادها هرگز در نحوهٔ دیدن بازارشان بی‌کار نمی‌نشینند. آن‌ها سازگار می‌شوند. عاشق اینجا خواهی شد!!! |  | DPهای واقعی ثانیه‌هایی بعد از شکسته شدن سد و اصلاح آن رخ می‌دهند. معمولاً در چارت تیک پنهان‌اند و تلهٔ عالی‌ای برای آن معامله‌گران S/D می‌سازند که به سقف‌ها و کف‌ها به‌عنوان عرضه/تقاضای واقعی قسم می‌خورند. هر چه کینک DP ما کمتر دیده شود بهتر است، خصوصاً اگر اصلاح کند و سقف/کفی بسازد که ناحیهٔ FO عالی‌ای می‌شود. |  | منظورت مثل تصویر مقالهٔ FTR در markepedia است؟ |  | آره Karlos، چند تا از نمودارهای FTR دیگر به آن‌سوی سد برنمی‌گردند. فکر می‌کنم مفهوم کمی تغییر کرده؛ چون در گذشته این کلاهک یا قلاب بود که FTR شمرده می‌شد، ولی آن‌ها واقعاً فقط همان FTB به کینک نامرئی FTR درون ناحیه‌ای هستند که ابتدا سد را شکست
+
+=== [3] TheBeard hash=e6cd01ea9efd58018846109913218f51d447e7e9 ===
+EN: So we can ignore these two FTR examples and look to the kinks instead?
+FA: پس می‌توانیم این دو نمونهٔ FTR را نادیده بگیریم و به‌جایش به کینک‌ها نگاه کنیم؟
+
+=== [4] traderscape hash=c02169836dfa07fdb5bdee2ae75904fd9727d0a0 ===
+EN: I am starting my DP Homework.
+FA: دارم مشق DP‌ام را شروع می‌کنم.
+
+=== [5] traderscape hash=4d0f10191da7c0c63a3a19f6801fd145f1c4c3e4 ===
+EN: 7. |  | 8. |  | 9.
+FA: 7. |  | 8. |  | 9.
+
+=== [6] traderscape hash=3f670d4b78a962e259fb41f60d08290f6213c125 ===
+EN: 11, 12 I do not have LTF data 13. |  | 14.
+FA: 11، 12 دادهٔ LTF ندارم 13. |  | 14.
+
+=== [7] Ifmyante hash=466dcfa4a6dada6c928b24ee437ed9fd708393d1 ===
+EN: Good. When you open a chart, note everything you see on it
+FA: خوب است. وقتی چارت را باز می‌کنی، هر چیزی که رویش می‌بینی را یادداشت کن
+
+=== [8] traderscape hash=411b9ba6d85d4e4c0d543a2dfa58c6d0e160bf89 ===
+EN: 15. |  | 16.
+FA: 15. |  | 16.
+
+=== [9] traderscape hash=2f48632a9231b843c283ff101ec5c1840c1b6ce6 ===
+EN: With this turning point I tried to go further back in price history 17.
+FA: با این نقطهٔ چرخش تلاش کردم در تاریخ قیمت عقب‌تر بروم 17.
+
+=== [10] traderscape hash=aa7b85903a68462ee5de71ca211a8fecde63f933 ===
+EN: 18. Same with this one. I try to check more of the level history
+FA: 18. با این یکی هم همین‌طور. سعی می‌کنم تاریخچهٔ بیشتری از سطح را بررسی کنم
+
+=== [11] Kavya hash=0a5172cf466679c32a53b95e456a2a7504da6f32 ===
+EN: Heya, traderscape! take some notes.
+FA: سلام traderscape! چند تا یادداشت بردار.
+
+=== [12] traderscape hash=076cba8fc480a20bb3ad49621afb4d84ffbb10ba ===
+EN: I have skipped posting some of the turning points. But I post one I am not sure why it did turn 25. |  | Looking back I cannot see much |  | Further back I find something
+FA: از گذاشتن بعضی از نقطه‌های چرخش صرف‌نظر کرده‌ام. ولی یکی را می‌گذارم که مطمئن نیستم چرا چرخید 25. |  | با نگاه به عقب چیز زیادی نمی‌بینم |  | عقب‌تر چیزی پیدا می‌کنم
+
+=== [13] haanz hash=e77b1300d062618cd216f40e4e41ab0e2a0e8f77 ===
+EN: Can someone tell me where can I find the IF's youtube video on DP again? Thanks.
+FA: کسی می‌تواند بگوید ویدئوی یوتیوب IF دربارهٔ DP را کجا می‌توانم پیدا کنم؟ ممنون.
+
+=== [14] dengaima hash=a851c83dad4e9ae1a35e1044dce9a618a4491e43 ===
+EN: haanz wrote: Can someone tell me where can I find the IF's youtube video on DP again? Thanks. |  | He deleted it and said he would DRM it than upload on RTM but didn't see it happening for past month. You can just wait...
+FA: haanz نوشت: کسی می‌تواند بگوید ویدئوی یوتیوب IF دربارهٔ DP را کجا می‌توانم پیدا کنم؟ ممنون. |  | او پاکش کرد و گفت DRM‌اش می‌کند و بعد در RTM آپلود می‌کند، ولی در ماه گذشته ندیدم چنین چیزی اتفاق بیفتد. فقط می‌توانی صبر کنی...
+
+=== [15] sev87 hash=52e308f7c7c24181f31f4ad71f7f5316039feff8 ===
+EN: so basically DP a place to look for price to turn |  | is it right?
+FA: پس اساساً DP جایی است برای دیدن این‌که قیمت بچرخد |  | درست است؟
+
+=== [16] Edge hash=5376b75b703e928e08e2bd37ed256917069e1302 ===
+EN: sev87 wrote: so basically DP a place to look for price to turn |  | is it right? |  | Decisions are everywhere on a chart. Once you undertake all the lessons you will see which decsions are the important ones. In terms of what you said, The emphasis ought to be placed on what caused the price to turn as opposed to price turning in isolation
+FA: sev87 نوشت: پس اساساً DP جایی است برای دیدن این‌که قیمت بچرخد |  | درست است؟ |  | تصمیم‌ها همه‌جای چارت هستند. وقتی همهٔ درس‌ها را انجام دادی می‌بینی کدام تصمیم‌ها مهم‌اند. دربارهٔ چیزی که گفتی، تأکید باید روی آن چیزی باشد که باعث چرخش قیمت شد، نه چرخش قیمت به‌تنهایی
+
+=== [17] sev87 hash=e3bf767adb2d21c280f8e7682cff21ee57f43690 ===
+EN: Edge wrote: |  | sev87 wrote: so basically DP a place to look for price to turn |  | is it right? |  | Decisions are everywhere on a chart. Once you undertake all the lessons you will see which decsions are the important ones. In terms of what you said, The emphasis ought to be placed on what caused the price to turn as opposed to price turning in isolation |  | thanks edge for the reply. |  | i think i need to learn alot about decision point, so many times i cant understand why price turn and what make that happen and find important DP
+FA: Edge نوشت: |  | sev87 نوشت: پس اساساً DP جایی است برای دیدن این‌که قیمت بچرخد |  | درست است؟ |  | تصمیم‌ها همه‌جای چارت هستند. وقتی همهٔ درس‌ها را انجام دادی می‌بینی کدام تصمیم‌ها مهم‌اند. دربارهٔ چیزی که گفتی، تأکید باید روی آن چیزی باشد که باعث چرخش قیمت شد، نه چرخش قیمت به‌تنهایی |  | ممنون edge از جوابت. |  | فکر می‌کنم باید خیلی دربارهٔ نقطهٔ تصمیم یاد بگیرم؛ خیلی وقت‌ها نمی‌توانم بفهمم چرا قیمت می‌چرخد و چه چیزی باعثش می‌شود و DP مهم را پیدا کنم
+
+=== [18] sev87 hash=0f1e021f3766db775fd096b4d615090484129a8a ===
+EN: i have a question regarding DP. |  | in this picture which one the DP? rectangle 1 or 2 or 3? ( in case theres a flag with 3 FTR like that ) |  | and another question ( bit off topic ), which flag is stronger? A or B? because i think point A looks like hold price but theres another pole and make another FL on point B, because theres so many case like this one and sometimes its just confusing to start mark the flag
+FA: یک سؤال دربارهٔ DP دارم. |  | در این تصویر کدام DP است؟ مستطیل 1 یا 2 یا 3؟ (در صورتی که فلگی با 3 تا FTR این‌طور باشد) |  | و یک سؤال دیگر (کمی خارج از موضوع)، کدام فلگ قوی‌تر است؟ A یا B؟ چون فکر می‌کنم نقطهٔ A شبیه حفظ قیمت است، ولی یک پل دیگر هست و در نقطهٔ B یک FL دیگر می‌سازد؛ چون خیلی موارد مثل این هست و گاهی شروع علامت‌زدن فلگ فقط گیج‌کننده است
+

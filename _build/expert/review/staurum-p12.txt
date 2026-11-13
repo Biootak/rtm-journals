@@ -1,0 +1,305 @@
+### staurum_p12_1
+EN: may others also input their price feed on what's happening to the both
+ edges of price as charted here. I can see some other data feeds broke
+1324.
+
+Thanks
+FA: شاید دیگران هم فید قیمتی خودشان را دربارهٔ آنچه بر دو لبهٔ قیمت که اینجا ترسیم شده می‌گذرد وارد کنند. من می‌بینم بعضی فیدهای دادهٔ دیگر 1324 را شکسته‌اند.
+
+ممنون
+
+### staurum_p12_3
+EN: why everybody has diffrent prices?
+
+staurum do you have ECN broker?
+
+here is dilema... someone will say that his SL was hit, but the other one will say that his order was not filled...
+
+so now it is important to analyze, which price was the best. My broker, IF's broker or staurum's broker...
+
+i think my price perfectly hit FTR supply
+FA: چرا همه قیمت‌های متفاوت دارند؟
+
+Staurum، بروکر ECN داری؟
+
+اینجا یک دوراهی است... یکی می‌گوید استاپ‌لاسش خورده، ولی دیگری می‌گوید سفارشش پر نشده...
+
+پس حالا مهم است تحلیل کنیم کدام قیمت بهترین بود. بروکر من، بروکر IF یا بروکر Staurum...
+
+فکر می‌کنم قیمت من بی‌نقص به عرضهٔ FTR خورد
+
+### staurum_p12_4
+EN: dont wanna clutter IF's journal anymore, so i'm putting it here
+
+Ifmyante wrote: Thanks Haanz
+
+I'm glad you're benefiting from being here
+
+Now, about filling ranges
+
+My imaginary monster says:
+FA: دیگر نمی‌خواهم ژورنال IF را شلوغ کنم، پس می‌گذارمش اینجا
+
+Ifmyante نوشت: ممنون Haanz
+
+خوشحالم که از بودن اینجا بهره می‌بری
+
+حالا دربارهٔ پر کردن رنج‌ها
+
+هیولای خیالی من می‌گوید:
+
+### staurum_p12_5
+EN: Hee hee Staurum!
+
+It seems that like the best of the best, you see price as is, and mentally see all the future scenarios it allows
+FA: هی هی Staurum!
+
+به نظر می‌رسد مثل بهترینِ بهترین‌ها، قیمت را همان‌طور که هست می‌بینی، و در ذهنت همهٔ سناریوهای آینده‌ای را که اجازه می‌دهد می‌بینی
+
+### staurum_p12_6
+EN: there is only one place to "blame" for that
+
+today, i was so happy until i zoom in my eyes to my screen only to
+notice that "red circled" phrase there; and hence only to feel like i
+have to blame someone for it.
+
+Like the saying goes "i wish i can turn back time for years back"
+FA: برای آن فقط یک جا هست که «سرزنش» را به گردنش انداخت
+
+امروز خیلی خوشحال بودم تا اینکه چشمم را به صفحه‌ام زوم کردم و فقط آن عبارت «دایره‌قرمز» را دیدم؛ و در نتیجه فقط این حس را داشتم که باید کسی را برایش ملامت کنم.
+
+همان‌طور که می‌گویند «ای کاش می‌توانستم زمان را سال‌ها به عقب برگردانم»
+
+### staurum_p12_8
+EN: Your broker seems to have you in their watchlist, brother.
+
+They must be thinking: "This guy will empty our bank account if we let him be. Lets mess with his feed!"
+
+Hopefully those of us who can't trade like that yet will get to where you are, brother.
+
+Thank you for your guidance and hints!
+FA: به نظر می‌رسد بروکرت تو را در لیست زیر نظر دارد داداش.
+
+حتماً با خودشان فکر می‌کنند: «اگر بگذاریم این یکی آزاد باشد، حساب بانکی ما را خالی می‌کند. بیا فیدش را به هم بریزیم!»
+
+امیدوارم آن‌هایی از ما که هنوز نمی‌توانند این‌طور معامله کنند به جایی که تو هستی برسند داداش.
+
+ممنون بابت راهنمایی و اشاره‌هایت!
+
+### staurum_p12_9
+EN: naahh... i dont think i'm yet where i wanna be.
+
+But since u've said that, this is just another moment.
+FA: نههه... فکر نمی‌کنم هنوز به جایی که می‌خواهم باشم رسیده باشم.
+
+ولی حالا که گفتی، این هم یک لحظهٔ دیگر است.
+
+### staurum_p12_10
+EN: Buys are a real pain in the ass!
+
+When the broker knows his stuff, he'll know where price will bounce upwards, and will widen the spread.
+
+In fact, he doesn't even need to know his stuff. He just needs to know
+of another broker who knows his stuff, and watch for spread widening on
+his feed!
+
+Anyway, please remove any implements from your room which could be used to batter your computer to pieces
+FA: خریدها واقعاً دردسرند!
+
+وقتی بروکر کارش را بلد باشد، می‌داند قیمت کجا به بالا برمی‌گردد و اسپرد را پهن می‌کند.
+
+در واقع، حتی لازم نیست کارش را بلد باشد. فقط باید بروکر دیگری را بشناسد که کارش را بلد است و مراقب پهن شدن اسپرد در فید او باشد!
+
+به هر حال، لطفاً هر وسیله‌ای را که می‌شود با آن کامپیوترت را خرد کرد از اتاقت بردار
+
+### staurum_p12_11
+EN: staurum which broker do you have and which type of account?
+FA: Staurum، تو کدام بروکر و کدام نوع حساب را داری؟
+
+### staurum_p12_12
+EN: Ifmyante wrote: Anyway, please remove any implements from your room which could be used to batter your computer to pieces
+
+Thank you for having read my mind so well, Chief
+
+@PP: not sure why that info will be of any benefit. it's LMAX. I'm considering to move to ICMarkets / Pepperstone though.
+FA: Ifmyante نوشت: به هر حال، لطفاً هر وسیله‌ای را که می‌شود با آن کامپیوترت را خرد کرد از اتاقت بردار
+
+ممنون که ذهنم را این‌قدر خوب خواندی، Chief
+
+@PP: مطمئن نیستم این اطلاعات چه سودی داشته باشد. LMAX است. ولی دارم فکر می‌کنم به ICMarkets یا Pepperstone بروم.
+
+### staurum_p12_13
+EN: staurum wrote: there is only one place to "blame" for that
+
+this smells of a new badge !!!
+FA: staurum نوشت: برای آن فقط یک جا هست که «سرزنش» را به گردنش انداخت
+
+این بوی یک نشان تازه می‌دهد!!!
+
+### staurum_p12_14
+EN: staurum wrote: dont wanna clutter IF's journal anymore, so i'm putting it here
+
+Ifmyante wrote: Thanks Haanz
+
+I'm glad you're benefiting from being here
+
+Now, about filling ranges
+
+My imaginary monster says:
+
+That diagram needs to put on a canvas and sent to an upmarket art
+auction house. Its divine. If I have ever seen a diagram that can
+encompass all the pieces (Scales/flags poles/ FL/LSK, PA) this would
+have to be a contender. To those putting the pieces together print it
+out and treasure it. It is practicing these scenarios over and over
+again that makes price movement predictable.
+
+Great Work S, you are on fire!!!
+FA: staurum نوشت: دیگر نمی‌خواهم ژورنال IF را شلوغ کنم، پس می‌گذارمش اینجا
+
+Ifmyante نوشت: ممنون Haanz
+
+خوشحالم که از بودن اینجا بهره می‌بری
+
+حالا دربارهٔ پر کردن رنج‌ها
+
+هیولای خیالی من می‌گوید:
+
+آن نمودار باید روی بوم برود و به یک خانهٔ حراج هنری سطح بالا فرستاده شود. الهی است. اگر تا حالا نموداری دیده باشم که می‌تواند همهٔ تکه‌ها را در بر بگیرد (مقیاس‌ها / میله‌های FL / FL/LSK، PA)، این یکی مدعی است. آن‌هایی که تکه‌ها را کنار هم می‌چینند، چاپش کنند و مثل گنج نگهش دارند. تمرین همین سناریوها بارها و بارها است که حرکت قیمت را پیش‌بینی‌پذیر می‌کند.
+
+کار عالی S، داری می‌درخشی!!!
+
+### staurum_p12_15
+EN: to whom do i owe the privilege that two of my favourite journalists visit and leave compliments.
+
+Bro Sali, it's very delighting to see you back posting.
+
+Bro E, big thankyou for your compliment. I was just trying to add "what
+if we're wrong" to the diagram because i think we all know that real
+chart never "exactly" follow our ideal expectations. I was a bit worried
+ that the diagram may actually confuse others (as people usually want
+"only the one answer"), but hopefully do the total opposite.
+
+Have a Greatastic Weekend, Everyone !
+FA: این افتخار را مدیون چه کسی هستم که دو نفر از روزنامه‌نگاران محبوبم به دیدارم می‌آیند و تعریف می‌کنند.
+
+داداش Sali، واقعاً خوشحال‌کننده است که دوباره می‌بینم پست می‌گذاری.
+
+داداش E، خیلی ممنون بابت تعریفت. فقط می‌خواستم «چه می‌شود اگر اشتباه کنیم» را به نمودار اضافه کنم، چون فکر می‌کنم همه می‌دانیم نمودار واقعی هرگز «دقیقاً» از انتظارات آرمانی ما پیروی نمی‌کند. کمی نگران بودم که نمودار در واقع دیگران را گیج کند (چون آدم‌ها معمولاً «فقط همان یک جواب» را می‌خواهند)، ولی امیدوارم کاملاً برعکس شود.
+
+آخر هفتهٔ فوق‌العاده‌ای داشته باشید، همه!
+
+### staurum_p12_16
+EN: We did away with rankings here a few months ago.
+
+But sometimes you've just got to make an exception
+FA: چند ماه پیش رتبه‌بندی‌ها را اینجا حذف کردیم.
+
+ولی بعضی وقت‌ها باید استثنا قائل شوی
+
+### staurum_p12_17
+EN: Ifmyante wrote: We did away with rankings here a few months ago.
+
+But sometimes you've just got to make an exception
+
+Congrats Master Staurum! you achieved it.
+FA: Ifmyante نوشت: چند ماه پیش رتبه‌بندی‌ها را اینجا حذف کردیم.
+
+ولی بعضی وقت‌ها باید استثنا قائل شوی
+
+تبریک Master Staurum! بهش رسیدی.
+
+### staurum_p12_18
+EN: Ifmyante wrote: We did away with rankings here a few months ago.
+
+But sometimes you've just got to make an exception
+
+Congrats Staurum!! Very well deserved
+FA: Ifmyante نوشت: چند ماه پیش رتبه‌بندی‌ها را اینجا حذف کردیم.
+
+ولی بعضی وقت‌ها باید استثنا قائل شوی
+
+تبریک Staurum!! کاملاً لایقش بودی
+
+### staurum_p12_19
+EN: Congrats Bro Staurum! You Really deserve it^:)^
+FA: تبریک داداش Staurum! واقعاً لایقش هستی^:)^
+
+### staurum_p12_20
+EN: Oh my my....
+
+Thank you, Chief. Thank you, everyone.
+
+This is indeed a weekend surprise... All credits must be returned to our
+ chief here and also the "committed" people in this community. I will
+admit that I am still some distance away from becoming a true trader,
+but by being here (helping & getting help) we can really grow
+together.
+
+And, btw, I know some names who are more deserving than me
+
+If i may, please see me as just another "crawling baby" (like the one in the pic ) still trying to learn to tame his inner self & the market.
+
+Don't stop believing and let's improve, together
+FA: خدای من....
+
+ممنون Chief. ممنون همه.
+
+این واقعاً یک سورپرایز آخر هفته است... همهٔ اعتبارها باید به Chief ما اینجا برگردد و همچنین به آدم‌های «متعهد» این جامعه. اعتراف می‌کنم که هنوز فاصله‌ای تا معامله‌گر واقعی شدن دارم، ولی با بودن اینجا (کمک کردن و کمک گرفتن) واقعاً می‌توانیم با هم رشد کنیم.
+
+و راستی، من چند اسم می‌شناسم که بیشتر از من لایق‌اند
+
+اگر اجازه بدهی، لطفاً مرا فقط یک «نوزاد سینه‌خیز» دیگر ببین (مثل همان یکی در عکس) که هنوز دارد یاد می‌گیرد خود درونی‌اش و بازار را رام کند.
+
+باور را متوقف نکن و بیا با هم بهتر شویم
+
+### staurum_p12_21
+EN: Congratulations Master Staurum,
+
+Very well deserved,
+
+Here in London It is still a bit early for a drink but rest assured I
+will raise my glass to you tonight . Cheers !!!: thumbsup:
+FA: تبریک Master Staurum،
+
+کاملاً لایقش بودی،
+
+اینجا در لندن برای یک نوشیدنی هنوز کمی زود است، ولی مطمئن باش امشب جام را به سلامتی تو بلند می‌کنم. Cheers !!!: thumbsup:
+
+### staurum_p12_22
+EN: WOW Staurum !!!! what a big surprise!!!
+
+Congratulations!!! Very well deserved!!!
+FA: واو Staurum !!!! چه سورپرایز بزرگی!!!
+
+تبریک!!! کاملاً لایقش بودی!!!
+
+### staurum_p12_23
+EN: Congrats staurum! Reminder for myself to really dive into your journal.
+FA: تبریک Staurum! یادآوری برای خودم که واقعاً در ژورنالت عمیق شوم.
+
+### staurum_p12_24
+EN: Congrats brother!
+
+I would've vouched for the master trader status long before if there was still one.
+
+You being one of the most active and helpful members in this community
+and definitely the one who helped me navigate RTM before the markepedia
+roadmap exists.
+
+Thank you for your continued guidance brother.
+
+Really proud to see a fellow countryman getting a master trader status
+FA: تبریک داداش!
+
+اگر هنوز وجود داشت، خیلی قبل‌تر برای عنوان معامله‌گر استاد رأی می‌دادم.
+
+تو یکی از فعال‌ترین و کمک‌کننده‌ترین اعضای این جامعه‌ای و قطعاً همان کسی که کمکم کرد پیش از وجود نقشهٔ راه Markepedia، در RTM راه پیدا کنم.
+
+ممنون بابت راهنمایی پیوسته‌ات داداش.
+
+واقعاً افتخار می‌کنم که یک هم‌وطن به عنوان معامله‌گر استاد می‌رسد
+
+### staurum_p12_25
+EN: Congratulation .this wasn,t a surprise for me, it shows the result of the hard work
+FA: تبریک. این برای من سورپرایز نبود، نتیجهٔ کار سخت را نشان می‌دهد

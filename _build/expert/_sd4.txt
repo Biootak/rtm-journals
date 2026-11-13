@@ -1,0 +1,380 @@
+===== supplydemand-p18.json | 031d8655cf6027c845ed2dc64cd4b55f8b9544b7 | supplydemand_p18_428
+--- EN ---
+Emene wrote: Hello Pippendale,
+
+This is where experience and screen time come into play. You see, we have this little very cordial debate going on between Ifmyante and me about engulfings. He talks about engulfings for zones, I use pure engulfing candles. My only "must" to be valid is that the candle following the engulf is in the same direction, ie. a bear candle after a bear engulfing. there is not much i can tell you, it just works. Too often to be a fluke.
+
+Try to train your eye and dont hesitate to ask questions. For me, they are the best supply and demand zones.
+
+PS: Went to play squash at lunch time, got taken at break even.
+
+If I could speak in this debate, I would say that zone engulf and candle engulf have practically the same meaning. The only thing to which you should pay attention to is the time (or time frame). Example of this is HTF engulf which on LTF looks like zone engulf. This is most evident on H4 TF where we can see different candle close depending on the time zone of the broker. In this scenario we could see engulf formed from one candle in one broker feed and from two candles in other brokers feed. But when we see it in LTF they are just the same zone engulf. IMO if you remember about this important detail we can use both approaches equally.:)
+
+What are your arguments in this debate?
+--- FA (current) ---
+Emene نوشت: سلام Pippendale،
+
+اینجا تجربه و زمان روی صفحه وارد عمل می‌شود. ببین، یک بحث خیلی دوستانهٔ کوچکی بین Ifmyante و من دربارهٔ اینگالف‌ها در جریان است. او دربارهٔ اینگالف‌ها برای ناحیه‌ها صحبت می‌کند، من از کندل‌های خالص اینگالف استفاده می‌کنم. تنها «باید» من برای معتبر بودن این است که کندل بعد از اینگالف در همان جهت باشد، یعنی یک کندل نزولی بعد از یک اینگالف نزولی. چیز زیادی نمی‌توانم به تو بگویم، فقط جواب می‌دهد. آن‌قدر زیاد که شانس نباشد.
+
+سعی کن چشمت را تمرین بدهی و در پرسیدن سؤال تردید نکن. برای من، این‌ها بهترین ناحیه‌های عرضه و تقاضا هستند.
+
+پ.ن: ظهر رفتم اسکواش بازی کنم، در Break حتی برداشته شدم.
+
+اگر می‌توانستم در این بحث حرف بزنم، می‌گفتم که ناحیه اینگالف و کندل اینگالف عملاً معنای یکسانی دارند. تنها چیزی که باید به آن توجه کنی زمان (یا تایم‌فریم) است. مثال این، اینگالف HTF است که روی LTF مثل ناحیه اینگالف به نظر می‌رسد. این در تایم‌فریم H4 بیشترین ظهور را دارد جایی که می‌توانیم بسته‌شدن‌های متفاوت کندل را بسته به منطقهٔ زمانی بروکر ببینیم. در این سناریو می‌توانیم اینگافِ تشکیل‌شده از یک کندل در فید یک بروکر و از دو کندل در فید بروکر دیگر را ببینیم. ولی وقتی آن را در LTF می‌بینیم همان ناحیه اینگالف است. به نظرم اگر این نکتهٔ مهم را به خاطر بسپاری می‌توانیم از هر دو رویکرد به‌طور برابر استفاده کنیم:)
+
+استدلال‌هایت در این بحث چیست؟
+
+===== supplydemand-p18.json | 692c9317d6ff0b02ac0a5552f9acd01abdcb1efb | supplydemand_p18_430
+--- EN ---
+minimalmonk wrote: hi If, could you draw where your qm was?
+
+Hi minimalmonk,
+
+Dunno if you use MT4 but I find switching between candlesticks and line charts can be quite helpful when spotting out potential QMs setting up.
+--- FA (current) ---
+minimalmonk نوشت: سلام If، می‌توانی جایی که QM‌ات بود را رسم کنی؟
+
+سلام minimalmonk،
+
+نمی‌دانم از MT4 استفاده می‌کنی یا نه، ولی من تعویض بین کندل‌استیک و چارت خطی را هنگام تشخیص QMهای بالقوهٔ در حال شکل‌گیری کاملاً مفید می‌بینم.
+
+===== supplydemand-p18.json | 0bade60dd85d61270be42315b19de094c1a31cf1 | supplydemand_p18_432
+--- EN ---
+Very important point. I would say that switching between candles and line charts is primordial and mandatory. That's if you want to improve your trading. Not only for patterns, but to see how strong is a demand/supply zone. Line show you the strenght of a reversal or continuation because it shows you how acute and sharp the move is. That's the first point.
+
+And as I tried to demonstrate in one thread here (but apparently people do not really like trading simplicity
+
+) The big guys look A LOT the close price levels, more than
+
+wicks. So go and try to draw your diagonals and horizontals on H4 and Daily LINES CHARTS, and try to sleep after doing it. Good luck with that.:)
+
+Simon wrote:
+
+minimalmonk wrote: hi If, could you draw where your qm was?
+
+Hi minimalmonk,
+
+Dunno if you use MT4 but I nd switching between candlesticks and line charts can be quite helpful when spotting out potential QMs setting up.
+--- FA (current) ---
+نکتهٔ خیلی مهمی است. می‌گویم تعویض بین کندل و چارت خطی primordial و اجباری است. اگر می‌خواهی معامله‌گری‌ات را بهتر کنی. نه فقط برای پترن‌ها، بلکه برای دیدن اینکه یک ناحیه تقاضا/عرضه چقدر قوی است. خط قدرت یک برگشت یا ادامه را به تو نشان می‌دهد چون نشان می‌دهد حرکت چقدر تند و تیز است. این نکتهٔ اول است.
+
+و همان‌طور که سعی کردم در یک ترد اینجا نشان بدهم (ولی ظاهراً مردم واقعاً سادگی معامله‌گری را دوست ندارند
+
+) بازیکنان بزرگ خیلی به سطوح قیمت بسته‌شدن نگاه می‌کنند، بیشتر از
+
+فیتیله‌ها. پس برو و سعی کن خطوط مورب و افقی‌ات را روی چارت‌های خطی H4 و روزانه رسم کنی، و بعد از انجامش سعی کنی بخوابی. با آن موفق باشی:)
+
+Simon نوشت:
+
+minimalmonk نوشت: سلام If، می‌توانی جایی که QM‌ات بود را رسم کنی؟
+
+سلام minimalmonk،
+
+نمی‌دانم از MT4 استفاده می‌کنی یا نه، ولی من تعویض بین کندل‌استیک و چارت خطی را هنگام تشخیص QMهای بالقوهٔ در حال شکل‌گیری کاملاً مفید می‌بینم.
+
+===== supplydemand-p18.json | b191113fb934df6ea108b7e9dde5b7bf5bf484dd | supplydemand_p18_442
+--- EN ---
+Good morning all,
+
+Quick question re setting levels.
+
+I notice, If, often tightening the entry criteria
+
+squeezing more reward out of less risk:)
+
+Re the attached images of today's EU:
+
+The H1 is the obvious (if a bit messy) RBD but the M5 is my attempt at tightening the criteria by focussing in on the local SD Flip zone. Is this the correct line of thinking when setting one's levels?
+
+Cheers.
+--- FA (current) ---
+صبح بخیر همه،
+
+سؤال سریع دربارهٔ تعیین سطوح.
+
+متوجه شدم If اغلب معیارهای ورود را سخت‌تر می‌کند
+
+پاداش بیشتری از ریسک کمتر بیرون می‌کشد:)
+
+در مورد تصاویر ضمیمه‌شدهٔ EU امروز:
+
+H1 همان RBD واضح (هرچند کمی به‌هم‌ریخته) است ولی M5 تلاش من برای سخت‌تر کردن معیار با تمرکز روی ناحیه فلیپ SD محلی است. آیا این خط درست تفکر است هنگام تعیین سطوح خود؟
+
+موفق باشی.
+
+===== supplydemand-p18.json | b22a05a2098ef37ca6c10d3139bbc674d56a4390 | supplydemand_p18_444
+--- EN ---
+i think everyone saw that easy on EU. right at the flag and decision to stay below the curvy top (better seen in H1). could be a good area to try a swing but i prefered to close it (demo).
+
+i am really annoyed to have missed a similar setup on AU, it barely touched and dropped fast
+
+and kiwi at the same time bounced off the same area for the 3rd time thats why i was expecting boths AU and NU to get a bit higher to enter. anyway, 20p on EU and a few scalps will do it for today
+--- FA (current) ---
+فکر می‌کنم همه آن را روی EU دیدند. دقیقاً در پرچم و تصمیم برای ماندن زیر سقف منحنی (در H1 بهتر دیده می‌شود). می‌توانست ناحیهٔ خوبی برای سوئینگ باشد ولی ترجیح دادم ببندمش (دمو).
+
+واقعاً کلافه شدم که ست‌آپ مشابهی روی AU را از دست دادم، به‌سختی به آن رسید و سریع افت کرد
+
+و kiwi در همان زمان برای سومین بار از همان ناحیه برگشت؛ به همین دلیل انتظار داشتم هم AU و هم NU کمی بالاتر بروند تا وارد شوم. به‌هرحال، 20p روی EU و چند اسکلپ برای امروز کافی است
+
+===== supplydemand-p18.json | 4a328fa852d3761df6a882a17e214f4e49e1064f | supplydemand_p18_450
+--- EN ---
+WRB: Wide Range Bodies = BIG CANDLES, lots of orders, heavy money making the price move fast and wild.
+
+Hidden gaps: there is no space between the candles, so it is not a true gap. HOWEVER, a WRB candle is called a hidden gap because this very candle must be filled, some people are trapped at the other end of it because it moved too fast. I personnally call them price inconsistencies. The price action is not clean, price has not been retest.
+
+In the way we teach here, hidden gaps are the sources of the poles (you know, poles, flag?). A flag fills the pole and comes back to source. Then the hiddne gap is closed and price can resume in the same direction.
+
+extremerrage wrote: E good day, out of topic what is WRB and hidden gaps??
+--- FA (current) ---
+WRB: Wide Range Bodies = کندل‌های بزرگ، سفارش‌های زیاد، پول سنگین که قیمت را سریع و وحشی حرکت می‌دهد.
+
+گپ‌های پنهان: بین کندل‌ها فاصله‌ای نیست، پس گپ واقعی نیست. با این حال، کندل WRB گپ پنهان نامیده می‌شود چون این کندل باید پر شود؛ بعضی آدم‌ها در انتهای دیگر آن به دام افتاده‌اند چون خیلی سریع حرکت کرده. من شخصاً به آن‌ها ناسازگاری‌های قیمت می‌گویم. اکشن قیمت تمیز نیست، قیمت ری‌تست نشده.
+
+به روشی که اینجا یاد می‌دهیم، گپ‌های پنهان منابع poleها هستند (پول، پرچم را می‌دانی؟). یک پرچم pole را پر می‌کند و به source برمی‌گردد. بعد گپ پنهان بسته می‌شود و قیمت می‌تواند در همان جهت ادامه دهد.
+
+extremerrage نوشت: روز خوبی E، خارج از موضوع: WRB و گپ‌های پنهان چیست؟؟
+
+flagged in file: 6
+===== supplydemand-p19.json | 84b7ad8d6c35f6cd61c8ad2573e028bcb8630f77 | supplydemand_p19_455
+--- EN ---
+anyone else watching the LTF QM which looks to be developing on the Dollar???
+
+Worth a trade??
+--- FA (current) ---
+کسی دیگر QM تایم‌فریم پایین‌تر را تماشا می‌کند که دارد روی Dollar شکل می‌گیرد؟؟؟
+
+ارزش یک معامله دارد؟؟
+
+===== supplydemand-p19.json | c314ce4935eca510282023c486235de937addc3d | supplydemand_p19_462
+--- EN ---
+aud/cad h4 line chart.
+--- FA (current) ---
+aud/cad چارت خطی h4.
+
+flagged in file: 2
+===== supplydemand-p20.json | 05b6fe21b921a74883b8860f0ee633cbc5ede551 | supplydemand_p20_486
+--- EN ---
+"personnally i dont see strong engulfings as compression"
+
+Thank you for this lesson
+
+I have already written it in my " Know How " notebook
+--- FA (current) ---
+«personnally i dont see strong engulfings as فشردگی»
+
+ممنون برای این درس
+
+قبلاً در دفترچهٔ «Know How» خود نوشتمش
+
+===== supplydemand-p20.json | 486d44e4093804f9979fe0599d1fa66a85a2283b | supplydemand_p20_489
+--- EN ---
+Thank you Emene,
+
+I would call it " odd enhancer " when it comes to compression understanding and I will paste it into my Worth To Know topic if you don't mind.
+--- FA (current) ---
+ممنون Emene،
+
+به آن «تقویت‌کنندهٔ عجیب» می‌گویم وقتی پای فهم فشردگی در میان است و اگر منظورت نباشد آن را در ترد Worth To Know می‌چسبانم.
+
+===== supplydemand-p20.json | 5101197901c2b05e650320afc2effad0ee78076e | supplydemand_p20_493
+--- EN ---
+thanks alot for your advice Emne...
+
+Practice again and again
+
+another short on Silver...
+
+please advice and critics
+--- FA (current) ---
+ممنون از توصیه‌ات Emne...
+
+دوباره و دوباره تمرین کن
+
+یک شورت دیگر روی Silver...
+
+لطفاً توصیه و انتقاد کن
+
+===== supplydemand-p20.json | 129bf31225ecdaa995360e4c930c36ede80f1eeb | supplydemand_p20_498
+--- EN ---
+I love what in HTF looks like a strong approach, but in LTF has compressed in.
+
+Do a study of what happened in the past, and let us know which were the best approaches
+
+Best
+
+if
+--- FA (current) ---
+دوست دارم چیزی که در HTF مثل رویکرد قوی به نظر می‌رسد، ولی در LTF فشرده شده.
+
+یک مطالعه روی گذشته انجام بده و بگو بهترین رویکردها کدام بودند
+
+بهترین‌ها
+
+if
+
+===== supplydemand-p20.json | 3eac955b04827bd61eefed99edc9dd5c68d24939 | supplydemand_p20_499
+--- EN ---
+home! When I was a young boy I played every sport that my dad wanted me to play. I was damn good as my father had willed me to be like him. But my passion was not for sports so as my competitors grew in size and skills I failed to grow as I was being asked to be like him. As life progressed I adopted Al Davis's manta Davis immediately began to implement what he termed the "vertical game," an aggressive offensive strategy based on the West Coast offense developed by Chargers head coach Sid Gillman. Under Davis the Raiders improved to 10–4, the first winning record in franchise history, and one more win than they had notched in their first three seasons combined. " Raiders' motto.[1] He was named the AFL's Coach of the Year in 1963. Though the team slipped to 5–7–2 in 1964, it rebounded to an 8–5–1 record in 1965. Read more here en.wikipedia.org/wiki/Al_Davis
+
+I came to conclude that there are many ways to achieve goals and trying to be something someone else wanted me to be was just not complementray to my health.Here is my set up for 01/11/2012 London carry Trade from 31.10.2012 Just win baby
+--- FA (current) ---
+برگشتم! وقتی پسر کوچکی بودم هر ورزشی که پدرم می‌خواست بازی می‌کردم. فوق‌العاده خوب بودم چون پدرم به من ارث داده بود که مثل او شوم. ولی شور من برای ورزش نبود، پس وقتی رقبایم در اندازه و مهارت بزرگ‌تر شدند من رشد نکردم چون از من خواسته می‌شد مثل او شوم. با پیشرفت زندگی، مانتراهای Al Davis را پذیرفتم؛ Davis بلافاصله چیزی را که «بازی عمودی» می‌نامید پیاده کرد، یک استراتژی تهاجمی بر اساس offense ساحل غربی که توسط سرمربی Chargers یعنی Sid Gillman توسعه یافت. زیر Davis، Raiders به رکورد 10–4 رسید، اولین رکورد برد در تاریخ باشگاه و یک برد بیشتر از مجموع سه فصل اولشان. «شعار Raiders». او در سال 1963 به‌عنوان Coach of the Year لیگ AFL نامیده شد. اگرچه تیم در 1964 به 5–7–2 افت کرد، در 1965 به رکورد 8–5–1 برگشت. اینجا بیشتر بخوان en.wikipedia.org/wiki/Al_Davis
+
+به این نتیجه رسیدم که راه‌های زیادی برای رسیدن به اهداف هست و تلاش برای اینکه کسی که دیگر می‌خواهید باشی برای سلامت من سازگار نبود. این ست‌آپ من برای ترید carry لندن در 01/11/2012 از 31.10.2012 است. فقط ببر بچه
+
+flagged in file: 5
+===== supplydemand-p21.json | 39ee654b7b822e584cc859d1647d8d30277461c0 | supplydemand_p21_502
+--- EN ---
+Aussie is cooking something,just broke a strong resistance,not very convincing though
+--- FA (current) ---
+Aussie دارد چیزی می‌پزد، تازه یک مقاومت قوی را شکست، ولی زیاد قانع‌کننده نیست
+
+===== supplydemand-p21.json | afa50ba78fda86961a339e82791c681ee4980362 | supplydemand_p21_514
+--- EN ---
+I must say, this is one of my best trades lately. Had a hard time recently so this one cheers me up. Good things happen when you manage to keep it simple. This is not as easy as it sounds, I know. Anyway, supply soon reaching demand on DAX 30.
+--- FA (current) ---
+باید بگویم، این یکی از بهترین معامله‌هایم اخیراً است. مدتی بود سخت می‌گذشت پس این یکی حال دلم را خوب می‌کند. چیزهای خوب وقتی اتفاق می‌افتند که بتوانی ساده نگهش داری. این آن‌قدر که به نظر می‌رسد آسان نیست، می‌دانم. به‌هرحال، عرضه در DAX 30 به‌زودی به demand می‌رسد.
+
+flagged in file: 2
+===== supplydemand-p22.json | c5e4e4e20afa19f83f1ca056d03c928c7c16203b | supplydemand_p22_527
+--- EN ---
+hi If,,
+
+sorry for posting out of topic, u can delet if my posting is not in the right place, it just for sharing to me..:)
+
+my performance for this week... I loss on all open positions,, I won most on demo account but when on real account this week, I loss all of them...
+--- FA (current) ---
+سلام If،
+
+ببخشید که خارج از موضوع پست می‌کنم، اگر پستم جای درست نیست می‌توانی پاکش کنی، فقط برای به اشتراک گذاشتن است..:)
+
+عملکردم برای این هفته... در همهٔ پوزیشن‌های باز ضرر کردم، بیشتر را روی حساب دمو بردم ولی وقتی این هفته روی حساب واقعی بودم، همه را باخت...
+
+===== supplydemand-p22.json | a29d63d0ba1683d6a125e290c170b4de175437a5 | supplydemand_p22_535
+--- EN ---
+Faldot, If you bought at 79,43, you bought right into supply... On the daily TF I see that the demand was broken and engulfed, price than reached demand (low of your pin bar) and retraced back into supply (the broken demand) Price is now forming a base on the 4h... so it might break either way...
+
+Mel
+--- FA (current) ---
+Faldot، اگر در 79.43 خریدی، دقیقاً داخل عرضه خریدی... روی تایم‌فریم روزانه می‌بینم که تقاضا شکسته و اینگالف شده بود، قیمت بعد به تقاضا رسید (کف pin bar تو) و به عرضه برگشت (تقاضای شکسته). قیمت الان دارد روی 4h بیس می‌سازد... پس ممکن است به هر سویی بشکند...
+
+Mel
+
+===== supplydemand-p22.json | 4b8fa6519a455b0506673ab6a032f10d8f5e1a2c | supplydemand_p22_536
+--- EN ---
+Hey guys,:)
+
+I suspect the Loonie is preparing a move for us.
+
+Look - He's approaching a flip zone + supply area on the daily chart.
+
+Any thoughts?
+
+TNX
+--- FA (current) ---
+هی بچه‌ها,:)
+
+حدس می‌زنم Loonie دارد حرکتی برای ما آماده می‌کند.
+
+نگاه کن - دارد به یک ناحیه فلیپ + ناحیهٔ عرضه در چارت روزانه نزدیک می‌شود.
+
+نظری داری؟
+
+TNX
+
+flagged in file: 3
+===== supplydemand-p23.json | e669115295d074907ac31d1cd06ef5348c65a866 | supplydemand_p23_560
+--- EN ---
+satman wrote: Hello everyone.
+
+Along with Acegazette i have also been watching some of Sam Seiden"s video's from (site not mentioned) about supply and demand. Sam doesn't consider the swing high's & lows as demand & support levels, he always seem to reference supply/demand levels as a brief pause just after a swing high or low, i'd naturally think that the swing high and low would be the proper supply and demand levels (confused)
+
+For example with a strong move he say's that there are stacks of unfilled buy orders remaining and if strong decline stacks of unfilled sell orders, is the reason for the unfilled orders due to the move being so quick? and what is the significance of that, can we expect another move in the opposite direction to the move to eat up all the left over orders?
+
+Just trying to get my head around it all.
+
+Regards Marc
+
+Hi Marc, What you are asking is really about the basics of supply and demand trading and it's important that you understand it. I wrote an article about Basic Supply & Demand some time ago, you can find it here: www.acegazette.com/en/trading-articles/s...s-levels-by-mel.html
+
+This is important to know that price moves from Supply to Demand and from Demand to Supply. Why does price move from Demand to Supply? Simply because Buyers were in control at this particular point. Why does price move from Supply to Demand? Simply because Sellers were in control at this particular point.
+
+Why is it that price can break Supply and become Demand? Simply because Buyers were in control at this particular point. Why is it that price can break Demand and become Supply? Simply because Sellers were in control at thos particular point.
+
+Our edge is based on this simple facts. When price re-visit a Fresh Demand, we look to buy because there is a good chance that Big Money will have orders placed there and vice versa for a re-vist of a Fresh Supply.
+
+I suspect that the "brief pause" you are reffering to is what we call a Base. You can find more info about it by clicking on the link to the article.
+
+Now about the Swing high and low, imo, those are mostly just retests of a previous Supply & Demand areas...
+
+I have marked a chfjpy chart for you with some thoughts on it, Hopefully it helps. Best, Mel
+
+EDIT: Nr 5 has to be " Imediate test of Supply" and not Demand
+--- FA (current) ---
+satman نوشت: سلام به همه.
+
+در کنار Acegazette، چند تا از ویدئوهای Sam Seiden (سایت ذکر نشده) دربارهٔ عرضه و تقاضا را هم تماشا کرده‌ام. Sam سقف‌ها و کف‌های سوئینگ را سطح‌های تقاضا و حمایت نمی‌داند، همیشه به نظر می‌رسد سطوح عرضه/تقاضا را به‌عنوان یک مکث کوتاه درست بعد از یک سقف یا کف سوئینگ ارجاع می‌دهد، من طبیعتاً فکر می‌کردم سقف و کف سوئینگ سطح‌های درست عرضه و تقاضا هستند (گیج شدم)
+
+مثلاً با یک حرکت قوی می‌گوید پشته‌هایی از سفارش‌های خرید پرنشده باقی مانده و اگر افت قوی پشته‌هایی از سفارش‌های فروش پرنشده، آیا دلیل سفارش‌های پرنشده این است که حرکت خیلی سریع بوده؟ و اهمیتش چیست، آیا می‌توانیم انتظار حرکت دیگری در جهت مخالف داشته باشیم که همهٔ سفارش‌های باقی‌مانده را بخورد؟
+
+فقط دارم سعی می‌کنم همه‌اش را بفهمم.
+
+با احترام Marc
+
+سلام Marc، چیزی که می‌پرسی واقعاً دربارهٔ مبانی معامله‌گری عرضه و تقاضاست و مهم است که بفهمیش. مدتی پیش یک مقاله دربارهٔ Basic عرضه & تقاضا نوشتم، می‌توانی اینجا پیدایش کنی: www.acegazette.com/en/trading-articles/s...s-levels-by-mel.html
+
+مهم است که بدانی قیمت از عرضه به تقاضا و از تقاضا به عرضه حرکت می‌کند. چرا قیمت از تقاضا به عرضه حرکت می‌کند؟ ساده چون خریداران در این نقطهٔ خاص کنترل را در دست داشتند. چرا قیمت از عرضه به تقاضا حرکت می‌کند؟ ساده چون فروشندگان در این نقطهٔ خاص کنترل را در دست داشتند.
+
+چرا قیمت می‌تواند عرضه را بشکند و تقاضا شود؟ ساده چون خریداران در این نقطهٔ خاص کنترل را در دست داشتند. چرا قیمت می‌تواند تقاضا را بشکند و عرضه شود؟ ساده چون فروشندگان در آن نقطهٔ خاص کنترل را در دست داشتند.
+
+مزیت ما بر اساس همین واقعیت‌های ساده است. وقتی قیمت یک تقاضا تازه را دوباره تست می‌کند، به دنبال خرید هستیم چون شانس خوبی هست که Big Money سفارش‌هایی آنجا گذاشته باشد و برعکس برای بازدید دوباره از یک عرضه تازه.
+
+حدس می‌زنم «مکث کوتاه»یی که به آن اشاره می‌کنی همان چیزی است که ما بیس می‌نامیم. با کلیک روی لینک مقاله می‌توانی اطلاعات بیشتری درباره‌اش پیدا کنی.
+
+حالا دربارهٔ سقف و کف سوئینگ، به نظرم آن‌ها بیشتر فقط ری‌تست‌های نواحی عرضه & تقاضا قبلی هستند...
+
+یک چارت chfjpy برایت با چند فکر روی آن علامت زدم، امیدوارم کمک کند. بهترین‌ها، Mel
+
+ویرایش: مورد 5 باید «تست فوری عرضه» باشد نه تقاضا
+
+===== supplydemand-p23.json | 02054e33905fe6130154062bc00c184aca314b61 | supplydemand_p23_566
+--- EN ---
+AdamH wrote: Hey guys,:)
+
+I suspect the Loonie is preparing a move for us.
+
+Look - He's approaching a flip zone + supply area on the daily chart.
+
+Any thoughts?
+
+TNX
+
+The Trade is working perfectly.:)
+
+My demo money, had i taken the trade, would have been up, LOL.:) My entry was 1.0051, and the high was just 5 pips above that and now price has droped over 70 pips. Given the CP, i expect it to go even lower, at least 30 pips more.
+
+Getting better, sport.
+--- FA (current) ---
+AdamH نوشت: هی بچه‌ها,:)
+
+حدس می‌زنم Loonie دارد حرکتی برای ما آماده می‌کند.
+
+نگاه کن - دارد به یک ناحیه فلیپ + ناحیهٔ عرضه در چارت روزانه نزدیک می‌شود.
+
+نظری داری؟
+
+TNX
+
+معامله بی‌نقص دارد کار می‌کند:)
+
+پول دموی من، اگر معامله را می‌گرفتم، بالا می‌بود، LOL.:) ورودم 1.0051 بود، و سقف فقط 5 پیپ بالای آن بود و حالا قیمت بیش از 70 پیپ افت کرده. با توجه به CP، انتظار دارم حتی پایین‌تر برود، دست‌کم 30 پیپ دیگر.
+
+بهتر می‌شوم، sport.
+
+===== supplydemand-p23.json | 299faf37916fb95d9d8d79be390e0d812c9ef97a | supplydemand_p23_573
+--- EN ---
+Thank you If. You give so much confidence to newbs like me. I was long from yesterday...trading off levels. You've now shown how to see a spike as a positive confluence signal.:)
+--- FA (current) ---
+ممنون If. تو به تازه‌کارهایی مثل من اعتمادبه‌نفس زیادی می‌دهی. من از دیروز لانگ بودم... از روی سطوح معامله می‌کردم. حالا نشان دادی چطور یک اسپایک را به‌عنوان سیگنال هم‌راستایی مثبت ببینی.:)
+
+flagged in file: 3

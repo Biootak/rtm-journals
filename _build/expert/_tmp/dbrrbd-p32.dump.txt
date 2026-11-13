@@ -1,0 +1,322 @@
+
+##### [0] dbrrbd_p32_776 | milkeyway | 1992af33c511c77a3fa3d44996f12d1069f24705
+--- EN ---
+Victor wrote:
+
+milkeyway wrote: Am I right? I still did not understand clearly DBR AND RBD concept.
+
+You are almost there Milkey
+
+Make sure to mark your DBR or RBD precise.
+
+Now dont just mark one or two mark as many as you can and post a chart here I will help you. Waiting for a chart go go go
+
+PS. I missed some DBR on your chart on a purpose. Do you see where they are?
+--- FA ---
+Victor نوشت:
+
+milkeyway نوشت: درست می‌گویم؟ هنوز مفهوم DBR و RBD را روشن نفهمیده‌ام.
+
+تقریباً رسیده‌ای Milkey
+
+حواس‌ات باشد DBR را دقیق علامت بزنی، و همین‌طور RBD را.
+
+حالا فقط یکی دو تا علامت نزن؛ هر چه می‌توانی علامت بزن و چارت را اینجا بگذار تا کمکت کنم. منتظر چارتم، برو برو برو
+
+پ.ن: من عمداً چند DBR را روی چارتت جا انداختم. می‌بینی کجا هستند؟
+
+##### [1] dbrrbd_p32_777 | Victor | 3ead6f45c4c7580951b2cb7218095bde2fa6acc9
+--- EN ---
+DBR (demand) or RBD(supply) is a cap of price which ussualy turn price aroun. Mikey please go to education section and start with Markepedia. It is all there. Thats some basic stuff you are asking and the best place to look for an answer is here readthemarket.com/index.php/education/markepedia
+--- FA ---
+DBR (تقاضا) یا RBD (عرضه) یک کپ در قیمت است که معمولاً قیمت را برمی‌گرداند. Mikey لطفاً به بخش آموزش برو و با Markepedia شروع کن. همه‌اش آنجاست. چیزی که می‌پرسی از مباحث پایه است و بهترین جای پیدا کردن جواب اینجاست: readthemarket.com/index.php/education/markepedia
+
+##### [2] dbrrbd_p32_778 | milkeyway | 97c1f4c327abcd44996a8513ee6b710cda300d34
+--- EN ---
+Victor wrote: DBR (demand) or RBD(supply) is a cap of price which ussualy turn price aroun. Mikey please go to education section and start with Markepedia. It is all there. Thats some basic stuff you are asking and the best place to look for an answer is here readthemarket.com/index.php/education/markepedia
+
+Hi Victor. I read the marketpedia I understood some concepts. The things I understood are: Supply and Demand
+
+S/R Drawing DBR & RBD. (but don't know how it works) Drawing Flag and it's limit.
+
+The thing I didn't understand: Don't know how DBR AND RBD works. How flag limit works. How to determine where price would go after DBR or RBD. Regards
+--- FA ---
+Victor نوشت: DBR (تقاضا) یا RBD (عرضه) یک کپ در قیمت است که معمولاً قیمت را برمی‌گرداند. Mikey لطفاً به بخش آموزش برو و با Markepedia شروع کن. همه‌اش آنجاست. چیزی که می‌پرسی از مباحث پایه است و بهترین جای پیدا کردن جواب اینجاست: readthemarket.com/index.php/education/markepedia
+
+سلام Victor. مارکت‌پدیا را خواندم و بعضی مفاهیم را فهمیدم. چیزهایی که فهمیدم: عرضه و تقاضا
+
+S/R، کشیدن DBR و RBD. (اما نمی‌دانم چطور کار می‌کند) کشیدن FL و لیمیتش.
+
+چیزی که نفهمیدم: نمی‌دانم DBR و RBD چطور کار می‌کنند. FL لیمیت چطور کار می‌کند. چطور تعیین کنم قیمت بعد از DBR یا RBD کجا می‌رود. با احترام
+
+##### [3] dbrrbd_p32_779 | Harry | a2f02617bd21c4a22476bc36540e3e665b9b7eff
+--- EN ---
+hi Mikey, you read the Markepedia article but i would also suggest that you read all the posts in this thread from the start. there are many excellent posts and lots of examples that will help you a lot. your questions above will be answered (mostly by yourself) when you have studied each of these subjects carefully. it is a long trip but its worth it.
+--- FA ---
+سلام Mikey، مقالهٔ Markepedia را خواندی اما پیشنهاد می‌کنم همهٔ پست‌های این تاپیک را از اول بخوانی. پست‌های عالی و نمونه‌های زیادی هست که خیلی کمکت می‌کند. سؤال‌های بالا وقتی هر کدام از این موضوع‌ها را با دقت مطالعه کنی جواب داده می‌شوند (بیشترشان را خودت). سفر طولانی است اما ارزشش را دارد.
+
+##### [4] dbrrbd_p32_780 | milkeyway | a610da5a5ac445f73b3e01c5f3e1d9374fc94365
+--- EN ---
+Harry wrote: hi Mikey, you read the Markepedia article but i would also suggest that you read all the posts in this thread from the start. there are many excellent posts and lots of examples that will help you a lot. your questions above will be answered (mostly by yourself) when you have studied each of these subjects carefully. it is a long trip but its worth it.
+
+Thanks. I am continuing reading. I hope it helps.:)
+--- FA ---
+Harry نوشت: سلام Mikey، مقالهٔ Markepedia را خواندی اما پیشنهاد می‌کنم همهٔ پست‌های این تاپیک را از اول بخوانی. پست‌های عالی و نمونه‌های زیادی هست که خیلی کمکت می‌کند. سؤال‌های بالا وقتی هر کدام از این موضوع‌ها را با دقت مطالعه کنی جواب داده می‌شوند (بیشترشان را خودت). سفر طولانی است اما ارزشش را دارد.
+
+ممنون. دارم ادامه می‌دهم به خواندن. امیدوارم کمک کند. :)
+
+##### [5] dbrrbd_p32_781 | Victor | 036ed18e54a37116785866b4befb2b9da9110efc
+--- EN ---
+Mikey you are really fortunated to come across RTM at so early stage of your jorney. I am jealous at you
+
+RBD DBR and flag limits work as supply and demand. When price hit RBD(supply) you expect it to drop to the next demand which may be flag limit or DBR. When price hit DBR(demand) you expect it to go up to the next supply which may be flag limit or RBD.
+
+Here is FL(supply)
+
+Here is RBD(supply)
+--- FA ---
+Mikey، واقعاً خوش‌شانسی که این‌قدر زود در مسیرت به RTM برخوردی. به تو حسودی‌ام می‌شود
+
+RBD و DBR و FL لیمیت مثل عرضه و تقاضا کار می‌کنند. وقتی قیمت به RBD (عرضه) می‌خورد انتظار داری تا تقاضای بعدی بریزد، که می‌تواند FL لیمیت یا DBR باشد. وقتی قیمت به DBR (تقاضا) می‌خورد انتظار داری تا عرضهٔ بعدی بالا برود، که می‌تواند FL لیمیت یا RBD باشد.
+
+این هم FL (عرضه)
+
+این هم RBD (عرضه)
+
+##### [6] dbrrbd_p32_782 | milkeyway | 82fac676174659df47e0bd8a2e28f30e1fcda44e
+--- EN ---
+Victor wrote: Mikey you are really fortunated to come across RTM at so early stage of your jorney. I am jealous at you
+
+RBD DBR and flag limits work as supply and demand. When price hit RBD(supply) you expect it to drop to the next demand which may be flag limit or DBR. When price hit DBR(demand) you expect it to go up to the next supply which may be flag limit or RBD.
+
+HI Victor.
+
+I am reading this thread. But I also need some trade examples so that I can understand how RBD & DBR plays role. Thanks.
+--- FA ---
+Victor نوشت: Mikey، واقعاً خوش‌شانسی که این‌قدر زود در مسیرت به RTM برخوردی. به تو حسودی‌ام می‌شود
+
+RBD و DBR و FL لیمیت مثل عرضه و تقاضا کار می‌کنند. وقتی قیمت به RBD (عرضه) می‌خورد انتظار داری تا تقاضای بعدی بریزد، که می‌تواند FL لیمیت یا DBR باشد. وقتی قیمت به DBR (تقاضا) می‌خورد انتظار داری تا عرضهٔ بعدی بالا برود، که می‌تواند FL لیمیت یا RBD باشد.
+
+سلام Victor.
+
+دارم این تاپیک را می‌خوانم. اما به چند نمونهٔ معامله هم نیاز دارم تا بفهمم RBD و DBR چه نقشی بازی می‌کنند. ممنون.
+
+##### [7] dbrrbd_p32_783 | ForexAccount | 65c611b0a5012e5a177a5ad206003fc9fcab69ff
+--- EN ---
+Hello everyone,,y name is Ernesto and this is my first post. Today i am posting some RBD, DBR
+--- FA ---
+سلام به همه، نام من Ernesto است و این اولین پستم است. امروز چند RBD و DBR می‌گذارم
+
+##### [8] dbrrbd_p32_784 | Harry | 259019a730a744611261124c8f89ab8523aaaf44
+--- EN ---
+ForexAccount wrote: Hello everyone,,y name is Ernesto and this is my first post. Today i am posting some RBD, DBR
+
+welcome Ernesto, nice work there
+--- FA ---
+ForexAccount نوشت: سلام به همه، نام من Ernesto است و این اولین پستم است. امروز چند RBD و DBR می‌گذارم
+
+خوش آمدی Ernesto، کار خوبی بود
+
+##### [9] dbrrbd_p32_785 | milkeyway | d17d772bf23dcb03dc6186391a64ecb27f16fc10
+--- EN ---
+Hi. I am not expert. But I see that sellers are filling remaining sell orders at this level. Please overview my analysis and let me know if I am wrong. and if yes then why wrong. Also tell me is there any topic in which daily trade examples are posted with confluence and comments? As per my knowledge student can understand teaching when he can see daily examples along with home work. Thanks.
+--- FA ---
+سلام. من متخصص نیستم. اما می‌بینم که فروشنده‌ها دارند سفارش‌های فروش باقی‌مانده را در این سطح پر می‌کنند. لطفاً تحلیل من را مرور کن و بگو اگر اشتباه است، و اگر اشتباه است چرا. همچنین بگو آیا موضوعی هست که نمونه‌های معاملهٔ روزانه با هم‌گرایی و کامنت در آن پست شود؟ تا آنجا که می‌دانم دانشجو وقتی آموزش را می‌فهمد که نمونه‌های روزانه را همراه تکلیف ببیند. ممنون.
+
+##### [10] dbrrbd_p32_786 | Victor | c9be8beaeac318bf18676c321a77719cca65f262
+--- EN ---
+Milkeyway there are countles trade examples here. Just start reading the journals in the
+
+are for me gold mines
+--- FA ---
+Milkeyway، اینجا نمونهٔ معامله بی‌شمار است. فقط شروع کن به خواندن ژورنال‌ها در
+
+برای من معدن طلا هستند
+
+##### [11] dbrrbd_p32_787 | milkeyway | 4ef3e5f6a2201ea67cd517408fc0a119cf9ca46b
+--- EN ---
+Victor wrote: Milkeyway there are countles trade examples here. Just start reading the journals in the Forum section. There are some master traders journals (Ifmyante and kruger) which are for me gold mines
+
+Thanks:) And what is comment about my analysis?
+--- FA ---
+Victor نوشت: Milkeyway، اینجا نمونهٔ معامله بی‌شمار است. فقط شروع کن به خواندن ژورنال‌ها در بخش فروم. چند ژورنال از معامله‌گران استاد هست (Ifmyante و kruger) که برای من معدن طلا هستند
+
+ممنون :) و دربارهٔ تحلیل من چه نظری داری؟
+
+##### [12] dbrrbd_p32_788 | Victor | c36a6fca6586276b529aee896601980e2abbc7b2
+--- EN ---
+Yes we can say that you are right about the level. the more times level is hit means more orders are filled but I suggest you to do your homework first hehe readthemarket.com/index.php/education/homework1 and then start doing analysis. There is actually such homework section "reading a session" but its at the end as you can see because you first need to get the basic skills. Please don't skip anything and have the patience to go one by one. It is very sistematic and easy to grasp.
+--- FA ---
+بله، می‌توانیم بگوییم دربارهٔ آن سطح درست می‌گویی. هر چه سطح بیشتر زده شود، سفارش‌های بیشتری پر می‌شود، اما پیشنهاد می‌کنم اول تکلیفت را انجام بدهی هههه readthemarket.com/index.php/education/homework1 و بعد تحلیل را شروع کنی. در واقع چنین بخش تکلیفی هم وجود دارد، «خواندن یک سشن»، اما همان‌طور که می‌بینی در آخر است، چون اول باید مهارت‌های پایه را به دست بیاوری. لطفاً از هیچ چیز نپر و حوصله کن که یکی‌یکی پیش بروی. خیلی سیستماتیک و آسان‌فهم است.
+
+##### [13] dbrrbd_p32_789 | milkeyway | 84d8d9cf96f43bc87b715fe1cbdae07ee0bdede1
+--- EN ---
+Hope this is correct.
+--- FA ---
+امیدوارم درست باشد.
+
+##### [14] dbrrbd_p32_790 | DrSwing | 26a4923ac53f28276131afb95b161bce2de2896d
+--- EN ---
+mmmhhhh
+
+it strikes me milkeyway that you need to dig some more into the forum
+
+before asking questions. You could start here
+--- FA ---
+مممممم
+
+milkeyway، به نظرم می‌رسد باید کمی بیشتر در فروم کندوکاو کنی
+
+پیش از پرسیدن سؤال. می‌توانی از اینجا شروع کنی
+
+##### [15] dbrrbd_p32_791 | Harry | 09a13c6b0c4ff04419e5b152df6d1186f0b0d932
+--- EN ---
+milkeyway wrote: Hope this is correct.
+
+extending the rectangles to the right would help you see what hit on them, if it reacted or engulfed and so on. read this thread from the start as suggested (and every other thread you are attempting homework in) it will really help you
+--- FA ---
+milkeyway نوشت: امیدوارم درست باشد.
+
+کشیدن مستطیل‌ها به سمت راست کمکت می‌کند ببینی چه چیزی به آن‌ها خورده، واکنش داده یا اینگالف کرده و از این قبیل. همان‌طور که پیشنهاد شد این تاپیک را از اول بخوان (و هر تاپیک دیگری که در آن تکلیف انجام می‌دهی) واقعاً کمکت می‌کند
+
+##### [16] dbrrbd_p32_792 | milkeyway | 164c44420e37f2305abebafb345c35c606844849
+--- EN ---
+Is this correct?
+--- FA ---
+این درست است؟
+
+##### [17] dbrrbd_p32_793 | Victor | ba24cd357ea1f30365fffe17eb2f09142e46b628
+--- EN ---
+milkeyway wrote: Is this correct?
+
+If price goes up before FL it means that there were enough buy orders to move price up. FTR is created.
+--- FA ---
+milkeyway نوشت: این درست است؟
+
+اگر قیمت پیش از رسیدن به FL بالا برود، یعنی سفارش‌های خرید کافی بوده که قیمت را بالا ببرد. FTR ساخته می‌شود.
+
+##### [18] dbrrbd_p32_794 | milkeyway | 9b0f033ff16b7fc1e78b5fdbc0b2894095a6e848
+--- EN ---
+Harry wrote:
+
+milkeyway wrote: Hope this is correct.
+
+extending the rectangles to the right would help you see what hit on them, if it reacted or engulfed and so on. read this thread from the start as suggested (and every other thread you are attempting homework in) it will really help you
+
+Hi harry. Can you please tell me the sequence of the things you look before entering trade.?
+--- FA ---
+Harry نوشت:
+
+milkeyway نوشت: امیدوارم درست باشد.
+
+کشیدن مستطیل‌ها به سمت راست کمکت می‌کند ببینی چه چیزی به آن‌ها خورده، واکنش داده یا اینگالف کرده و از این قبیل. همان‌طور که پیشنهاد شد این تاپیک را از اول بخوان (و هر تاپیک دیگری که در آن تکلیف انجام می‌دهی) واقعاً کمکت می‌کند
+
+سلام harry. می‌شود لطفاً ترتیب چیزهایی را که پیش از ورود به معامله نگاه می‌کنی بگویی؟
+
+##### [19] dbrrbd_p32_795 | Harry | a95077a5acba50da0b0a6a9962a6df20cf9f00f2
+--- EN ---
+milkeyway wrote: Hi harry. Can you please tell me the sequence of the things you look before entering trade.?
+
+it is in the Markepedia here readthemarket.com/index.php/education/ma...n1/492-price-reading but maybe you have not bothered studying it yet
+--- FA ---
+milkeyway نوشت: سلام harry. می‌شود لطفاً ترتیب چیزهایی را که پیش از ورود به معامله نگاه می‌کنی بگویی؟
+
+در Markepedia اینجاست readthemarket.com/index.php/education/ma… n1/492-price-reading اما شاید هنوز زحمت مطالعه‌اش را به خودت نداده‌ای
+
+##### [20] dbrrbd_p32_796 | milkeyway | 003928815890b1c6fffc7c07f8657eeaf71be3dc
+--- EN ---
+Harry wrote:
+
+milkeyway wrote: Hi harry. Can you please tell me the sequence of the things you look before entering trade.?
+
+it is in the Markepedia here readthemarket.com/index.php/education/ma...n1/492-price-reading but maybe you have not bothered studying it yet
+
+I already read that but because there was no chart, I was unable to understand clearly. Can you post example with chart please?
+--- FA ---
+Harry نوشت:
+
+milkeyway نوشت: سلام harry. می‌شود لطفاً ترتیب چیزهایی را که پیش از ورود به معامله نگاه می‌کنی بگویی؟
+
+در Markepedia اینجاست readthemarket.com/index.php/education/ma… n1/492-price-reading اما شاید هنوز زحمت مطالعه‌اش را به خودت نداده‌ای
+
+قبلاً آن را خوانده‌ام، اما چون چارتی نداشت نتوانستم روشن بفهمم. می‌شود لطفاً نمونه با چارت بگذاری؟
+
+##### [21] dbrrbd_p32_797 | milkeyway | 9d1c339c0f1d37a134173fb0a2565e0b577f9bba
+--- EN ---
+Harry wrote:
+
+milkeyway wrote: Hi harry. Can you please tell me the sequence of the things you look before entering trade.?
+
+it is in the Markepedia here readthemarket.com/index.php/education/ma...n1/492-price-reading but maybe you have not bothered studying it yet
+
+I watched video in which caps on price is explained but still I didn't understand that clearly. Can you explain with chart please?
+--- FA ---
+Harry نوشت:
+
+milkeyway نوشت: سلام harry. می‌شود لطفاً ترتیب چیزهایی را که پیش از ورود به معامله نگاه می‌کنی بگویی؟
+
+در Markepedia اینجاست readthemarket.com/index.php/education/ma… n1/492-price-reading اما شاید هنوز زحمت مطالعه‌اش را به خودت نداده‌ای
+
+ویدئویی دیدم که در آن کپ‌های روی قیمت توضیح داده شده، اما هنوز آن را روشن نفهمیدم. می‌شود با چارت توضیح بدهی؟
+
+##### [22] dbrrbd_p32_798 | milkeyway | bb87cb5e2a387f5218865c8144a2648b7d874757
+--- EN ---
+Harry wrote:
+
+milkeyway wrote: Hi harry. Can you please tell me the sequence of the things you look before entering trade.?
+
+it is in the Markepedia here readthemarket.com/index.php/education/ma...n1/492-price-reading but maybe you have not bothered studying it yet
+
+can you please explain this line with chart? I found this on Price reading..."Did the zone itself react at the right place? Look beyond the zone further into the past. See what it reacted to. Was there a better S/D nearby that price wants to visit? This explains many fakeouts. Did price originally react to the RS of a Flag Limit? It can fakeout to true SD of the FL. "
+--- FA ---
+Harry نوشت:
+
+milkeyway نوشت: سلام harry. می‌شود لطفاً ترتیب چیزهایی را که پیش از ورود به معامله نگاه می‌کنی بگویی؟
+
+در Markepedia اینجاست readthemarket.com/index.php/education/ma… n1/492-price-reading اما شاید هنوز زحمت مطالعه‌اش را به خودت نداده‌ای
+
+می‌شود لطفاً این خط را با چارت توضیح بدهی؟ این را در Price reading پیدا کردم… "آیا خود ناحیه در جای درست واکنش داد؟ فراتر از ناحیه، به گذشتهٔ دورتر نگاه کن. ببین به چه چیزی واکنش داد. آیا S/D بهتری نزدیک بود که قیمت بخواهد به آن سر بزند؟ این خیلی از فیک‌اوت‌ها را توضیح می‌دهد. آیا قیمت در ابتدا به RS یک FL واکنش داد؟ می‌تواند تا SD واقعی همان FL فیک‌اوت کند. "
+
+##### [23] dbrrbd_p32_799 | milkeyway | ed1662bfa2f43400f5a7bae7ff679fbfd844156b
+--- EN ---
+Hello Harry. The problem is Even after watching videos and reading article I can only draw the components like flag, DBR, RBD, COMPRESSION etc. But I didn't understand those clearly. I need explanation about it with chart and a trade example. If you post it, it would be very helpful to me to understand.
+
+I only know how to draw S/D and S/R. Engulf=breakout, no engulf = fakeout I know how to only identify pole, base. I need example of this one too. Thanks.
+--- FA ---
+سلام Harry. مشکل این است که حتی بعد از دیدن ویدئوها و خواندن مقاله، فقط می‌توانم اجزا را بکشم؛ چیزهایی مثل FL، DBR، RBD، فشرده‌سازی و غیره. اما آن‌ها را روشن نفهمیده‌ام. به توضیح همراه با چارت و یک نمونهٔ معامله نیاز دارم. اگر پستش کنی، برای فهم من خیلی کمک‌کننده است.
+
+من فقط می‌دانم S/D و S/R را چطور بکشم. اینگالف = شکست، بی‌اینگالف = فیک‌اوت. فقط می‌دانم تیرک و بیس را چطور شناسایی کنم. از این یکی هم نمونه لازم دارم. ممنون.
+
+##### [24] dbrrbd_p32_800 | Harry | d80a9168d9f3b7af3328bfed5a063a744f0474a0
+--- EN ---
+milkeyway wrote:
+
+Harry wrote:
+
+milkeyway wrote: Hi harry. Can you please tell me the sequence of the things you look before entering trade.?
+
+it is in the Markepedia here readthemarket.com/index.php/education/ma...n1/492-price-reading but maybe you have not bothered studying it yet
+
+can you please explain this line with chart? I found this on Price reading..."Did the zone itself react at the right place? Look beyond the zone further into the past. See what it reacted to. Was there a better S/D nearby that price wants to visit? This explains many fakeouts. Did price originally react to the RS of a Flag Limit? It can fakeout to true SD of the FL. "
+
+this chart below should help a little
+
+now remember, the articles in the Markepedia and the homework threads contain gold, but you have to dig it out for yourself. read the articles, study the homework threads from the start, THEN return to them and ask questions.
+
+reminder: the missing articles in the Markepedia have been restored mostly, in case there were missing subjects when some of you signed up.
+--- FA ---
+milkeyway نوشت:
+
+Harry نوشت:
+
+milkeyway نوشت: سلام harry. می‌شود لطفاً ترتیب چیزهایی را که پیش از ورود به معامله نگاه می‌کنی بگویی؟
+
+در Markepedia اینجاست readthemarket.com/index.php/education/ma… n1/492-price-reading اما شاید هنوز زحمت مطالعه‌اش را به خودت نداده‌ای
+
+می‌شود لطفاً این خط را با چارت توضیح بدهی؟ این را در Price reading پیدا کردم… "آیا خود ناحیه در جای درست واکنش داد؟ فراتر از ناحیه، به گذشتهٔ دورتر نگاه کن. ببین به چه چیزی واکنش داد. آیا S/D بهتری نزدیک بود که قیمت بخواهد به آن سر بزند؟ این خیلی از فیک‌اوت‌ها را توضیح می‌دهد. آیا قیمت در ابتدا به RS یک FL واکنش داد؟ می‌تواند تا SD واقعی همان FL فیک‌اوت کند. "
+
+این چارت پایین باید کمی کمک کند
+
+حالا یادت باشد، مقاله‌های Markepedia و تاپیک‌های تکلیف پر از طلا هستند، اما باید خودت بیرونش بکشی. مقاله‌ها را بخوان، تاپیک‌های تکلیف را از اول مطالعه کن، بعد برگرد سراغشان و سؤال بپرس.
+
+یادآوری: مقاله‌های گم‌شدهٔ Markepedia بیشترشان بازگردانده شده‌اند، در صورتی که بعضی موضوع‌ها هنگام ثبت‌نام بعضی از شما موجود نبوده.

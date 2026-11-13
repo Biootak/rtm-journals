@@ -1,0 +1,1094 @@
+===== supplydemand-p24.json | 294cb4099d1b904d4349cd9af313f6c2a4062f20 | supplydemand_p24_577
+--- EN ---
+i'm no expert but it looks like your spike out was typical behaviour on touching demand There is a lower area of demand that prce was testing. when price engulfs toward demand there will always be an argument and a fake. I always look for retrace in this situation and scalp it for what it is worth bfore entering on a position in either direction. Dont know when this pic was taken.... but events can come into play on long or medium term positions. In this situation on H4 or daily or monthly your sl would have to be at least H4 daily range + a few. Any sl should be placed at average daily range, nearest source of S/R or any possible dojis on 1 tf above. Price was looking to establish new level of demand. imho Good luck and take care.
+--- FA (current) ---
+کارشناس نیستم ولی به نظر می‌رسد اسپایک-out تو رفتار معمول هنگام لمس تقاضا بوده. ناحیهٔ پایین‌تری از تقاضا بود که قیمت در حال تستش بود. وقتی قیمت به سمت تقاضا اینگالف می‌کند همیشه یک بحث و یک فیک هست. من همیشه در این موقعیت به دنبال ریترس می‌گردم و آن را برای ارزشش اسکلپ می‌کنم قبل از اینکه در هر جهتی پوزیشن بگیرم. نمی‌دانم این عکس کی گرفته شده.... ولی رویدادها می‌توانند روی پوزیشن‌های بلند یا میان‌مدت اثر بگذارند. در این موقعیت روی H4 یا روزانه یا ماهانه، استاپ‌لاس‌ات باید حداقل رنج روزانهٔ H4 + چند پیپ باشد. هر استاپ‌لاس باید در رنج متوسط روزانه، نزدیک‌ترین source از S/R یا هر doji احتمالی روی 1 تایم‌فریم بالاتر گذاشته شود. قیمت می‌خواست سطح تقاضای جدیدی بسازد. به نظرم موفق باش و مراقب خودت باش.
+
+===== supplydemand-p24.json | 9fd2624571cd1a295b72ac174a3575d811420500 | supplydemand_p24_581
+--- EN ---
+Ifmyante wrote: Here was a really simple setup today
+
+Hello If,
+
+When I saw this chart I felt there was something important to add, particularly because you've marked the low area as a fakeout. By doing this you've made me realise why I'd been unsuccessful at catching that particular move.
+
+Investigating further has also answered a question that has routinely bugged me, which is why does price often seem to miss what is ostensibly a "good" higher timeframe level by just 1 pip?
+
+I hope the following charts explain.
+--- FA (current) ---
+Ifmyante نوشت: امروز یک ست‌آپ واقعاً ساده بود
+
+سلام If،
+
+وقتی این چارت را دیدم حس کردم چیز مهمی برای اضافه کردن هست، به‌خصوص چون ناحیهٔ پایین را به‌عنوان فیک‌اوت علامت زدی. با این کار باعث شد بفهمم چرا نتوانستم آن حرکت خاص را بگیرم.
+
+بررسی بیشتر هم پاسخی به سؤالی داد که همیشه اذیتم می‌کرد، که چرا قیمت اغلب به نظر می‌رسد یک سطح به‌ظاهر «خوب» تایم‌فریم بالاتر را فقط با 1 پیپ از دست می‌دهد؟
+
+امیدوارم چارت‌های زیر توضیح بدهند.
+
+===== supplydemand-p24.json | a12eeae75761fbaa03965515d374ac2c1f29b706 | supplydemand_p24_582
+--- EN ---
+Hello!
+
+Maybe also connected with charting (using) the different types of engulfings - Emene was discussing this with kruger on 23.8.2012 ( a, b or c type of engulfings) in the thread Charts of the day discussion?
+
+Because in this case would be the red candle on H1 TF which should be B-type charted and would be correct.
+
+Please free to comment.
+
+regards,Bushido
+--- FA (current) ---
+سلام!
+
+شاید هم به چارتینگ (استفاده از) انواع مختلف اینگالف‌ها مربوط باشد - Emene همین را با kruger در 23.8.2012 (نوع a، b یا c اینگالف‌ها) در ترد چارت‌ها of the day discussion بحث می‌کرد؟
+
+چون در این حالت کندل قرمز روی تایم‌فریم H1 است که باید از نوع B چارت شود و درست بود.
+
+لطفاً آزادانه کامنت کنید.
+
+با احترام، Bushido
+
+===== supplydemand-p24.json | 46b805e7d56728caec4fce1b3b4c031c0442590c | supplydemand_p24_586
+--- EN ---
+Gold QM entry at historic level
+
+Some out at source here, will monitor now
+--- FA (current) ---
+ورود QM طلا در سطح تاریخی
+
+بخشی اینجا در source بیرون آمد، حالا مانیتور می‌کنم
+
+===== supplydemand-p24.json | 28e8ec24a266e4e1559ac9bf19e46bb74132751b | supplydemand_p24_589
+--- EN ---
+boy2boy wrote: Hi,
+
+1st visit after 3 months, please let me know if I'm doing it right/wrong.
+
+Price stuck for 8 hours, time to bed, will check it tomorrow.
+
+Thanks, Kelvin
+
+You are definitely looking at important areas for your entry and tg levels!
+
+Upon first glance at your money management (mm) your trade is a little better than 1:1 which by many standards is too low. If you popped into the smaller timeframes I am sure you could fine tune the decision points and describe the price action around the area.
+
+I say this because Just looking at the 4 hr could hold you back on understanding the value decisions going on in the lower timeframes. You may not have the time to be around the charts perusing ltf all day but you could tighten up your stops or look for trades in between. Where you have your stop loss set could be a tg for a short trade should your entry level break and price action gives you a sign with an rbd after break kind of thing.
+
+Also your tg could be a good aread to reverse your trade should it go in your favor given a good aproach.
+
+So viewing from a multi timeframe perspective can increase your reward but also open other trade opportunities.
+
+Given most of us are relatively new at this, which I do not know your experience, 1:1 risk reward trading can lead to alot of head banging at break even and taking trades at less desirable levels, even though your areas are good.
+
+Thats my 2 cents for the day
+--- FA (current) ---
+boy2boy نوشت: سلام،
+
+اولین بازدید بعد از 3 ماه، لطفاً بگوید درست/غلط انجام می‌دهم.
+
+قیمت 8 ساعت گیر کرده، وقت خواب است، فردا چک می‌کنم.
+
+ممنون، Kelvin
+
+تو قطعاً به نواحی مهمی برای سطوح ورود و tgت نگاه می‌کنی!
+
+با نگاه اول به مدیریت پولت (mm)، معامله‌ات کمی بهتر از 1:1 است که با خیلی از معیارها خیلی پایین است. اگر وارد تایم‌فریم‌های کوچک‌تر می‌شدی مطمئنم می‌توانستی نقاط تصمیم را fine tune کنی و اکشن قیمت اطراف ناحیه را توصیف کنی.
+
+این را می‌گویم چون فقط نگاه به 4 ساعت می‌تواند تو را در فهم تصمیم‌های ارزشی در تایم‌فریم‌های پایین‌تر عقب بیندازد. ممکن است وقت نداشته باشی تمام روز دور چارت‌ها باشی و ltf را مرور کنی ولی می‌توانی استاپ‌هایت را تنگ‌تر کنی یا معامله‌هایی در بین پیدا کنی. جایی که استاپ‌لاس‌ات را گذاشته‌ای می‌تواند tg برای یک معاملهٔ شورت باشد اگر سطح ورودت بشکند و اکشن قیمت با یک rbd بعد از شکست به تو نشانه بدهد.
+
+همچنین tg تو می‌تواند ناحیهٔ خوبی برای برگرداندن معامله‌ات باشد اگر با رویکرد خوب به نفعت پیش برود.
+
+پس دیدن از منظر چند تایم‌فریمی می‌تواند پاداشت را بیشتر کند ولی فرصت‌های معاملاتی دیگری هم باز می‌کند.
+
+با توجه به اینکه بیشتر ما نسبتاً تازه‌کاریم، که نمی‌دانم تجربه‌ات چیست، معامله‌گری با ریسک/پاداش 1:1 می‌تواند به کوبیدن سر در Break حتی و گرفتن معامله در سطوح کمتر مطلوب منجر شود، هرچند نواحی‌ات خوب هستند.
+
+این 2 سنت من برای امروز است
+
+===== supplydemand-p24.json | 8231ad1cdf9d2330b94ffa300f0bcda9aa150559 | supplydemand_p24_592
+--- EN ---
+It's so good to see you all getting right down to business
+
+Thank you so much for all you're going to do for yourselves and each other.
+
+I've moved this thread to pride of place, where it should always have been
+
+Best to you all
+
+If
+--- FA (current) ---
+خیلی خوب است که می‌بینم همه دارید جدی کار می‌کنید
+
+ممنون از همه‌چیزی که برای خودتان و یکدیگر انجام خواهید داد.
+
+این ترد را به جای افتخار منتقل کردم، جایی که همیشه باید بود
+
+بهترین‌ها برای همه
+
+If
+
+===== supplydemand-p24.json | 8fe7a1b628b1385d040027acb0926d7a0aa26249 | supplydemand_p24_593
+--- EN ---
+Good morning everybody
+
+In getting ready for launch, I put off sooooooooooo many jobs that have now become urgent, so I'll be running around for most of the day.
+
+So what I'd ideally like to see is you lot saying hi, to know who's around, and get to work in teams.
+
+There are so many instruments out there, and we miss amazing opportunities all the time.
+
+I'd like to set a goal of finding at least the best 3 or 4 trade opps of the day. Nothing marginal, just the best So work in groups - each take your own set of pairs - FX Majors and their correlations, minors, indices, commodities, the lot.
+
+Only put up what you think are the very best possible setups - we don't need dozens Then you can really dissect the PA, and have a very clear idea of what to do on arrival/confirmation.
+
+Don't be shy about putting your ideas out there - you're sure to get feedback. Read the entire market with each other and for each other, and we'll easily hit the best setups every day.
+
+So get to know a few instruments intimately, each of you, and the workload will become very light!
+
+If I come back and see that you've done this, I'll be so proud
+
+So, before I go, I ask
+
+Who's in?
+--- FA (current) ---
+صبح بخیر به همه
+
+برای آماده‌شدن برای launch، آن‌قدر کارها را عقب انداختم که حالا urgent شده‌اند، پس بیشتر روز سرگردان خواهم بود.
+
+پس چیزی که در حالت ایده‌آل دوست دارم ببینم این است که شما سلام کنید، بدانیم چه کسی اینجاست، و در تیم کار کنید.
+
+این‌قدر instrument بیرون هست، و ما مدام فرصت‌های شگفت‌انگیز را از دست می‌دهیم.
+
+دوست دارم هدف بگذاریم که دست‌کم بهترین 3 یا 4 فرصت معاملاتی روز را پیدا کنیم. هیچ چیز حاشیه‌ای، فقط بهترین‌ها. پس در گروه‌ها کار کنید - هرکدام یک ست جفت‌های خود را بگیرید - FX Majors و همبستگی‌هایشان، مینورها، ایندکس‌ها، کامودیتی‌ها، همه.
+
+فقط چیزهایی را پست کنید که فکر می‌کنید بهترین ست‌آپ‌های ممکن هستند - ده‌ها تا لازم نداریم. بعد می‌توانید واقعاً PA را dissekt کنید و ایدهٔ خیلی روشنی از کاری که هنگام رسیدن/تأیید باید بکنید داشته باشید.
+
+از گذاشتن ایده‌هایتان بیرون خجالت نکشید - قطعاً فیدبک می‌گیرید. کل بازار را با هم و برای هم بخوانید، و ما به‌راحتی هر روز بهترین ست‌آپ‌ها را می‌زنیم.
+
+پس هرکدام چند instrument را عمیق بشناسید، و حجم کار خیلی سبک می‌شود!
+
+اگر برگردم و ببینم این کار را کرده‌اید، خیلی افتخار می‌کنم
+
+پس، قبل از اینکه بروم، می‌پرسم
+
+کی هست؟
+
+===== supplydemand-p24.json | 78a6d7bef4d324ad29ff7bc32e0ad89432d844cf | supplydemand_p24_596
+--- EN ---
+Ifmyante wrote: Oh man was pretty sad to see nobody had posted anything here when I got back
+
+Then I read multiple PMs to say people couldn't post - relief and then embarrassment ensued!
+
+We'll get this issue sorted, and be ready for next week.
+
+I think the weekend will be a good time to get the groups organised, so I hope you'll spare the time tomorrow, providing you can all post, of course!:)
+
+I think if we want to get in groups and post thurough analysis and find trade setups on the different pairs it should be a view only by members... encouraging people to be apart of the community and actually contribute to the analysis, I dont think too many will be looking for freebies, but as we know charts have been stolen from other people in the past and posted else where, I think thats why Ken had so much going on in his charts at certain points to deter theft.
+--- FA (current) ---
+Ifmyante نوشت: اوه مرد، وقتی برگشتم خیلی دلم گرفت که هیچ‌کس چیزی اینجا پست نکرده بود
+
+بعد چند PM خواندم که مردم نمی‌توانند پست کنند - اول راحت شدم و بعد خجالت!
+
+این مشکل را حل می‌کنیم و برای هفتهٔ بعد آماده می‌شویم.
+
+فکر می‌کنم آخر هفته زمان خوبی برای سازماندهی گروه‌هاست، پس امیدوارم فردا وقت بگذارید، البته اگر بتوانید همه پست کنید!:)
+
+فکر می‌کنم اگر بخواهیم در گروه‌ها باشیم و تحلیل کامل پست کنیم و ست‌آپ‌های معاملاتی روی جفت‌های مختلف پیدا کنیم، باید فقط برای اعضا قابل‌مشاهده باشد... تشویق کردن مردم به بخشی از community بودن و واقعاً در تحلیل مشارکت کردن، فکر نمی‌کنم خیلی‌ها دنبال چیز رایگان باشند، ولی همان‌طور که می‌دانیم چارت‌ها در گذشته از دیگران دزدیده و جای دیگری پست شده‌اند، فکر می‌کنم به همین دلیل Ken در نقاطی کارهای زیادی روی چارته‌اش داشت تا از سرقت جلوگیری کند.
+
+===== supplydemand-p24.json | 6b1a180e210047f2de07ce1731e09e713b400ebe | supplydemand_p24_597
+--- EN ---
+Hi If and company, I only recently discovered aceg and now this site. Nice to see a group of traders working together. I have traded S&D for quit a while and I blend it with some S/R and order flow stuff. I scalp or swing trade depending on how I feel and the charts. As you don't know me I will introduce myself with the setup I wanted to post here this morning, I also took a similar setup on AU today. Looking forward to contributing to the community here. Thanks
+--- FA (current) ---
+سلام If و شرکت، من فقط اخیراً aceg و بعد این سایت را کشف کردم. خوب است گروهی از معامله‌گران را در حال کار با هم می‌بینم. من S&D را مدت زیادی معامله کرده‌ام و آن را با کمی S/R و جریان سفارش ترکیب می‌کنم. بسته به حال و چارت‌ها اسکلپ یا سوئینگ ترید می‌کنم. چون مرا نمی‌شناسی با همان ست‌آپی که می‌خواستم امروز صبح اینجا پست کنم خودم را معرفی می‌کنم، ست‌آپ مشابهی هم امروز روی AU گرفتم. منتظر مشارکت در community اینجا هستم. ممنون
+
+===== supplydemand-p24.json | 1b35c0b2d04981fa57f696e4495b3f76104504b1 | supplydemand_p24_599
+--- EN ---
+fxfury wrote:
+
+boy2boy wrote: Hi,
+
+1st visit after 3 months, please let me know if I'm doing it right/wrong.
+
+Price stuck for 8 hours, time to bed, will check it tomorrow.
+
+Thanks, Kelvin
+
+You are definitely looking at important areas for your entry and tg levels!
+
+Upon first glance at your money management (mm) your trade is a little better than 1:1 which by many standards is too low. If you popped into the smaller timeframes I am sure you could fine tune the decision points and describe the price action around the area.
+
+I say this because Just looking at the 4 hr could hold you back on understanding the value decisions going on in the lower timeframes. You may not have the time to be around the charts perusing ltf all day but you could tighten up your stops or look for trades in between. Where you have your stop loss set could be a tg for a short trade should your entry level break and price action gives you a sign with an rbd after break kind of thing.
+
+Also your tg could be a good aread to reverse your trade should it go in your favor given a good aproach.
+
+So viewing from a multi timeframe perspective can increase your reward but also open other trade opportunities.
+
+Given most of us are relatively new at this, which I do not know your experience, 1:1 risk reward trading can lead to alot of head banging at break even and taking trades at less desirable levels, even though your areas are good.
+
+Thats my 2 cents for the day
+
+Yup, you're right. I set the tg at 1:1 because I do not know if I'm in the right direction and of course 1:2 and above is better "I'm learning to do it". regards the MTF, I read a lot about this, S/D at bigger TF, look for entry at lower TF, will get better entry price and smaller SL. Unfortunately I'm still unable to fully understand it.
+--- FA (current) ---
+fxfury نوشت:
+
+boy2boy نوشت: سلام،
+
+اولین بازدید بعد از 3 ماه، لطفاً بگوید درست/غلط انجام می‌دهم.
+
+قیمت 8 ساعت گیر کرده، وقت خواب است، فردا چک می‌کنم.
+
+ممنون، Kelvin
+
+تو قطعاً به نواحی مهمی برای سطوح ورود و tgت نگاه می‌کنی!
+
+با نگاه اول به مدیریت پولت (mm)، معامله‌ات کمی بهتر از 1:1 است که با خیلی از معیارها خیلی پایین است. اگر وارد تایم‌فریم‌های کوچک‌تر می‌شدی مطمئنم می‌توانستی نقاط تصمیم را fine tune کنی و اکشن قیمت اطراف ناحیه را توصیف کنی.
+
+این را می‌گویم چون فقط نگاه به 4 ساعت می‌تواند تو را در فهم تصمیم‌های ارزشی در تایم‌فریم‌های پایین‌تر عقب بیندازد. ممکن است وقت نداشته باشی تمام روز دور چارت‌ها باشی و ltf را مرور کنی ولی می‌توانی استاپ‌هایت را تنگ‌تر کنی یا معامله‌هایی در بین پیدا کنی. جایی که استاپ‌لاس‌ات را گذاشته‌ای می‌تواند tg برای یک معاملهٔ شورت باشد اگر سطح ورودت بشکند و اکشن قیمت با یک rbd بعد از شکست به تو نشانه بدهد.
+
+همچنین tg تو می‌تواند ناحیهٔ خوبی برای برگرداندن معامله‌ات باشد اگر با رویکرد خوب به نفعت پیش برود.
+
+پس دیدن از منظر چند تایم‌فریمی می‌تواند پاداشت را بیشتر کند ولی فرصت‌های معاملاتی دیگری هم باز می‌کند.
+
+با توجه به اینکه بیشتر ما نسبتاً تازه‌کاریم، که نمی‌دانم تجربه‌ات چیست، معامله‌گری با ریسک/پاداش 1:1 می‌تواند به کوبیدن سر در Break حتی و گرفتن معامله در سطوح کمتر مطلوب منجر شود، هرچند نواحی‌ات خوب هستند.
+
+این 2 سنت من برای امروز است
+
+آره، درست می‌گویی. tg را روی 1:1 گذاشتم چون نمی‌دانم در جهت درست هستم یا نه و البته 1:2 و بالاتر بهتر است «دارم یاد می‌گیرم انجامش بدهم». دربارهٔ MTF، چیزهای زیادی درباره‌اش خواندم، S/D روی تایم‌فریم بزرگ‌تر، دنبال ورود روی تایم‌فریم پایین‌تر، قیمت ورود بهتر و SL کوچک‌تر خواهم گرفت. متأسفانه هنوز نمی‌توانم کاملاً بفهممش.
+
+flagged in file: 10
+===== supplydemand-p25.json | c1dfa3368221f26c38c668e8a0a33fd041ec57b1 | supplydemand_p25_603
+--- EN ---
+Hi If and all
+
+I made some charts today, will appreciate any feedback, I'm not sure whether my levels and all that thinking is o.k. To me USDX looks like heading south and this last weeks north candle was just a fake one due to the fiscal clif agreement and thinking about stopping with QE3 in the end of 2013. What do you say?
+
+And GPBUSD for me looks like this:
+
+ANY COMMENTS APPRECIATED
+--- FA (current) ---
+سلام If و همه
+
+امروز چند چارت ساختم، از هر فیدبکی قدردانی می‌کنم، مطمئن نیستم سطوحم و همهٔ آن تفکر درست است یا نه. به نظرم USDX دارد به جنوب می‌رود و آن کندل شمالی هفته‌های اخیر فقط یک کندل فیک بود به دلیل توافق fiscal cliff و فکر کردن به توقف QE3 در آخر 2013. نظرت چیست؟
+
+و GPBUSD برای من این‌طور به نظر می‌رسد:
+
+هر کامنتی قدردانی می‌شود
+
+===== supplydemand-p25.json | 866d5d011cecc213958e4a844dae42b14b0c5684 | supplydemand_p25_604
+--- EN ---
+If......
+
+I followed you again. I hope you're alright with this
+
+I have never truly committed. Between PIE, RTP, AG, and now here. Never contributing as much as I have learned. I learned a lot about myself, as well, in 2012 and its time for me to be the person I want to be.
+
+Looking forward to the engagement and the wonderful intent of this endeavor.
+
+I am down for any tf, any pair, if that is okay with you.
+--- FA (current) ---
+If......
+
+دوباره تو را دنبال کردم. امیدوارم با این اوکی باشی
+
+من هرگز واقعاً commit نشده بودم. بین PIE، RTP، AG، و حالا اینجا. هرگز به‌اندازه‌ای که یاد گرفتم مشارکت نکردم. در 2012 چیزهای زیادی دربارهٔ خودم هم یاد گرفتم و وقت است که شخصی باشم که می‌خواهم باشم.
+
+منتظر مشارکت و قصد زیبای این تلاش هستم.
+
+برای هر تایم‌فریم، هر جفتی، اگر با تو اوکی باشد، حاضرم.
+
+===== supplydemand-p25.json | 78c066cde64657b4b9ce0f5d20247bb8664c6cc2 | supplydemand_p25_605
+--- EN ---
+Hi,
+
+By only looking at this chart, what can we actual "see" here?
+
+Price back to supply 3x Price back to demand 4x and break thru at 5th.
+
+What should we do in this zone / ranging market?
+--- FA (current) ---
+سلام،
+
+فقط با نگاه به این چارت، واقعاً چه چیزی می‌توانیم «ببینیم»؟
+
+قیمت برگشت به عرضه سه بار، قیمت برگشت به demand چهار بار و عبور در پنجمین.
+
+در این ناحیه / بازار رنج باید چه کنیم؟
+
+===== supplydemand-p25.json | 1db984499e3aa1c5ba841a72b80c2a48b1346328 | supplydemand_p25_607
+--- EN ---
+Hi If,
+
+I am happy to join the bandwagon. Feel free to include me any team, any pair!
+
+I wont be very active this week but next week on I would be actively present!
+
+Best Sunny
+--- FA (current) ---
+سلام If،
+
+خوشحالم که به کاروان می‌پیوندم. آزاد باش مرا در هر تیمی، هر جفتی بگنجان!17
+
+این هفته خیلی فعال نخواهم بود ولی از هفتهٔ بعد به‌طور فعال حضور دارم!
+
+بهترین‌ها Sunny
+
+===== supplydemand-p25.json | 2775ba40e11185bbfcb1d3a95300e4101f653aa3 | supplydemand_p25_608
+--- EN ---
+That's great to hear, ST
+
+This will work very well if everybody gets involved
+
+I have so much work to do making all the lessons that it'll be a while before I can lead any trading sessions.
+
+This is the opportunity for the community to get together and do something truly meaningful - I want as many people as possible to answer the call and get this thing going
+--- FA (current) ---
+شنیدنش عالی است، ST
+
+اگر همه درگیر شوند این خیلی خوب کار خواهد کرد
+
+کارهای زیادی دارم که همهٔ درس‌ها را بسازم، پس مدتی طول می‌کشد تا بتوانم هر سشن معاملاتی را هدایت کنم.
+
+این فرصت community است که دور هم جمع شود و کاری واقعاً معنادار بکند - می‌خواهم تا حد امکان 많은 نفر به فراخوان پاسخ بدهند و این کار را راه بیندازند
+
+===== supplydemand-p25.json | d60b65362360ac8db339a53534e48fc9cc619a02 | supplydemand_p25_609
+--- EN ---
+ok If.
+
+I will take the initiative for this one. I will start a seperate thread for this, where I would let people decide which pair they would like to join.
+
+Please feel free to intervene and get things in perspective if they are missing the shot!
+--- FA (current) ---
+باشه If.
+
+من ابتکار این یکی را برمی‌دارم. یک ترد جداگانه برایش شروع می‌کنم، جایی که به مردم اجازه می‌دهم تصمیم بگیرند کدام جفت را دوست دارند بپیوندند.
+
+لطفاً آزاد باش اگر هدف را از دست دادند وارد شوی و کارها را به مسیر درست برگردانی!
+
+===== supplydemand-p25.json | f9be0dc9acdfb2e3afee6ae438b9e752ec07a64d | supplydemand_p25_611
+--- EN ---
+boy2boy wrote: Hi,
+
+By only looking at this chart, what can we actual "see" here?
+
+Price back to supply 3x Price back to demand 4x and break thru at 5th.
+
+What should we do in this zone / ranging market?
+
+Thanks, Kelvin
+
+Hi Kevin,
+
+First of all, welcome to RTM! Regarding your question, they are different ways to look at it or to trade it depending on what kind of trader you are.
+
+The supply & demand areas that you've marked are HTF zones, so if you looked at a LTF, there was different opportunities to trade it in both ways.
+
+On the other hand, this picture (the HTF) gives you lots of clues on what price was actually going to do. Look at the reactions when priced hitted the supply and demand, how it approached the zone and how price closed at those areas. This is very powerfull! Try to find the answers on the chart, I am sure you'll have lots of Ah Ha moments.
+
+Wish you all the best, Mel
+--- FA (current) ---
+boy2boy نوشت: سلام،
+
+فقط با نگاه به این چارت، واقعاً چه چیزی می‌توانیم «ببینیم»؟
+
+قیمت برگشت به عرضه سه بار، قیمت برگشت به demand چهار بار و عبور در پنجمین.
+
+در این ناحیه / بازار رنج باید چه کنیم؟
+
+ممنون، Kelvin
+
+سلام Kevin،
+
+اول از همه، به RTM خوش آمدی! دربارهٔ سؤالت، راه‌های مختلفی برای نگاه کردن یا معامله کردن هست بسته به اینکه چه نوع معامله‌گری هستی.
+
+نواحی عرضه & demandی که علامت زدی ناحیه‌های HTF هستند، پس اگر به LTF نگاه می‌کردی، فرصت‌های متفاوتی برای معامله کردن به هر دو روش وجود داشت.
+
+از طرف دیگر، این تصویر (HTF) سرنخ‌های زیادی دربارهٔ اینکه قیمت واقعاً چه می‌خواست بکند به تو می‌دهد. به واکنش‌ها نگاه کن وقتی قیمت به عرضه و demand رسید، چطور به ناحیه نزدیک شد و چطور قیمت در آن نواحی بسته شد. این خیلی قدرتمند است! سعی کن جواب‌ها را روی چارت پیدا کنی، مطمئنم لحظه‌های Ah Ha زیادی خواهی داشت.
+
+بهترین‌ها را برای همه آرزو می‌کنم، Mel
+
+===== supplydemand-p25.json | 8b98c582b33a1ac42c6d5b983abc1889f0f8a16d | supplydemand_p25_612
+--- EN ---
+Hi Mel/If,
+
+I guess this is the right place for me to learn. Everyone looks so helpful.
+--- FA (current) ---
+سلام Mel/If،
+
+حدس می‌زنم این جای درست برای یادگیری من است. همه آن‌قدر کمک‌کننده به نظر می‌رسند.
+
+===== supplydemand-p25.json | f7bdd2e0c137db3673539d1ce311a404b9977062 | supplydemand_p25_613
+--- EN ---
+@mel wrote:
+
+boy2boy wrote: Hi,
+
+Hi Kevin,
+
+First of all, welcome to RTM! Regarding your question, they are different ways to look at it or to trade it depending on what kind of trader you are.
+
+The supply & demand areas that you've marked are HTF zones, so if you looked at a LTF, there was different opportunities to trade it in both ways.
+
+On the other hand, this picture (the HTF) gives you lots of clues on what price was actually going to do. Look at the reactions when priced hitted the supply and demand, how it approached the zone and how price closed at those areas. This is very powerfull! Try to find the answers on the chart, I am sure you'll have lots of Ah Ha moments.
+
+Wish you all the best, Mel
+
+Hi Mel,
+
+It is shame to tell you, I also wondering what kind of trader I am I've been trying to follow all the so call protable method/strategy/ I don't mind if I need to monitor all the time (but I wish I don't need to) If the strategy ask me to hold the longer (swing), then I have to choice to follow it. (but I prefer not too long, maybe hold for 3 day - max) Because I don't have a strong heart to see when price retrace back
+
+Can you let me know what should I look in LTF, I'll try to look for "Ah Ha".
+--- FA (current) ---
+@mel نوشت:
+
+boy2boy نوشت: سلام،
+
+سلام Kevin،
+
+اول از همه، به RTM خوش آمدی! دربارهٔ سؤالت، راه‌های مختلفی برای نگاه کردن یا معامله کردن هست بسته به اینکه چه نوع معامله‌گری هستی.
+
+نواحی عرضه & demandی که علامت زدی ناحیه‌های HTF هستند، پس اگر به LTF نگاه می‌کردی، فرصت‌های متفاوتی برای معامله کردن به هر دو روش وجود داشت.
+
+از طرف دیگر، این تصویر (HTF) سرنخ‌های زیادی دربارهٔ اینکه قیمت واقعاً چه می‌خواست بکند به تو می‌دهد. به واکنش‌ها نگاه کن وقتی قیمت به عرضه و demand رسید، چطور به ناحیه نزدیک شد و چطور قیمت در آن نواحی بسته شد. این خیلی قدرتمند است! سعی کن جواب‌ها را روی چارت پیدا کنی، مطمئنم لحظه‌های Ah Ha زیادی خواهی داشت.
+
+بهترین‌ها را برای همه آرزو می‌کنم، Mel
+
+سلام Mel،
+
+خجالت‌آور است که بگویم، من هم در حال فکر کردنم که چه نوع معامله‌گری هستم؛ دنبال همهٔ روش‌ها/استراتژی‌های به‌اصطلاح سودده رفته‌ام / اشکالی ندارد اگر باید همیشه مانیتور کنم (ولی آرزو می‌کنم لازم نباشد). اگر استراتژی از من بخواهد مدت بیشتری (سوئینگ) نگه دارم، پس مجبورم از آن پیروی کنم. (ولی ترجیح می‌دهم خیلی طولانی نه، شاید حداکثر 3 روز نگه دارم) چون قلب قوی‌ای برای دیدن وقتی قیمت پول‌بک می‌زند ندارم
+
+می‌توانی بگویی در LTF به چه چیزی نگاه کنم، سعی می‌کنم دنبال "Ah Ha" بگردم.
+
+===== supplydemand-p25.json | 0128023d1c30c285999bf4bc9783be96192b8398 | supplydemand_p25_617
+--- EN ---
+Kelvin,
+
+Once we have identifiend a HTF Key area, we look for different things.
+
+Approach to the area:
+
+-Compression -3 drive -Momentum
+
+Reaction on the area:
+
+-Candle close -Engulf
+
+-Quaasimodo -Diamonds -Flags
+
+All of the above points, give us some clues on what price is likely to do. IF wrote different lessons abot the above, the final course is not finished yet but you can find some of the above lessons here:
+
+readthemarket.com/index.php/education/ma...0-markepedia-content readthemarket.com/index.php/education/ma...471-merkepedia-index
+
+Best, Mel
+--- FA (current) ---
+Kelvin،
+
+وقتی یک ناحیهٔ کلیدی HTF را شناسایی کردیم، به دنبال چیزهای مختلفی هستیم.
+
+رویکرد به ناحیه:
+
+-فشردگی -3 درایو -Momentum
+
+واکنش روی ناحیه:
+
+-Candle نزدیک -Engulf
+
+-Quaasimodo -الماس‌ها -Flags
+
+همهٔ نقاط بالا به ما سرنخ‌هایی دربارهٔ اینکه قیمت احتمالاً چه می‌کند می‌دهند. IF درس‌های مختلفی دربارهٔ موارد بالا نوشت، دورهٔ نهایی هنوز تمام نشده ولی می‌توانی بعضی از درس‌های بالا را اینجا پیدا کنی:
+
+readthemarket.com/ایندکس.php/education/ma...0-markepedia-content readthemarket.com/ایندکس.php/education/ma...471-merkepedia-ایندکس
+
+بهترین‌ها، Mel
+
+===== supplydemand-p25.json | 2619941602cedb34c061a5f2f95b5a34761f4f79 | supplydemand_p25_619
+--- EN ---
+Hi Wolverine, and welcome
+
+It's great that another self made trader has joined the family.
+
+I truly look forward to seeing your views
+
+Best
+
+If
+--- FA (current) ---
+سلام Wolverine و خوش آمدی
+
+عالی است که یک معامله‌گر خودآموختهٔ دیگر به خانواده پیوسته.
+
+واقعاً منتظر دیدن دیدگاه‌هایت هستم
+
+بهترین‌ها
+
+If
+
+===== supplydemand-p25.json | 010d54b049cb352ad849276edc14606106a9703b | supplydemand_p25_621
+--- EN ---
+@mel wrote: Kelvin,
+
+Once we have identifiend a HTF Key area, we look for different things.
+
+Approach to the area:
+
+-Compression -3 drive -Momentum
+
+Reaction on the area:
+
+-Candle close -Engulf -Quaasimodo -Diamonds -Flags
+
+All of the above points, give us some clues on what price is likely to do. IF wrote different lessons abot the above, the final course is not finished yet but you can find some of the above lessons here:
+
+readthemarket.com/index.php/education/ma...0-markepedia-content
+
+readthemarket.com/index.php/education/ma...471-merkepedia-index
+
+Best, Mel
+
+Please include all the above in your trading plan. Thanx Mel
+--- FA (current) ---
+@mel نوشت: Kelvin،
+
+وقتی یک ناحیهٔ کلیدی HTF را شناسایی کردیم، به دنبال چیزهای مختلفی هستیم.
+
+رویکرد به ناحیه:
+
+-فشردگی -3 درایو -Momentum
+
+واکنش روی ناحیه:
+
+-Candle نزدیک -Engulf -Quaasimodo -الماس‌ها -Flags
+
+همهٔ نقاط بالا به ما سرنخ‌هایی دربارهٔ اینکه قیمت احتمالاً چه می‌کند می‌دهند. IF درس‌های مختلفی دربارهٔ موارد بالا نوشت، دورهٔ نهایی هنوز تمام نشده ولی می‌توانی بعضی از درس‌های بالا را اینجا پیدا کنی:
+
+readthemarket.com/ایندکس.php/education/ma...0-markepedia-content
+
+readthemarket.com/ایندکس.php/education/ma...471-merkepedia-ایندکس
+
+بهترین‌ها، Mel
+
+لطفاً همهٔ موارد بالا را در برنامهٔ معاملاتی‌ات بگنجان. ممنون Mel
+
+===== supplydemand-p25.json | f77445e170e54f9ac621062a3e929dc1e2eee23e | supplydemand_p25_622
+--- EN ---
+Thanks for the warm welcome If. I look forward to sharing and learning in this great positive environment you have going here. Regards,
+--- FA (current) ---
+ممنون برای خوش‌آمد گرم If. منتظر به اشتراک گذاشتن و یادگیری در این محیط مثبت عالی که اینجا راه انداخته‌ای هستم. با احترام،
+
+===== supplydemand-p25.json | 24f24b5d4e1058ffc024d5b80e077bc045110711 | supplydemand_p25_624
+--- EN ---
+Thanks IF.
+
+I can imagine this room to being massively popular. But would it be better if we separate by different rooms and instruments, or different teams? Dunno
+--- FA (current) ---
+ممنون IF.
+
+می‌توانم تصور کنم این روم خیلی محبوب شود. ولی آیا بهتر نیست که با روم‌ها و instrumentهای مختلف، یا تیم‌های مختلف جدا کنیم؟ نمی‌دانم
+
+===== supplydemand-p25.json | 66cca7aa5b761f364fe534bdb1150cb066057d49 | supplydemand_p25_625
+--- EN ---
+No way Pete - we're going to work together, here
+
+One thing I've been considering though is that people may decide not to get involved in the analysis and just use our work for trade calls, making our work harder.
+
+If we don't get enough people on board taking their instruments, it may be fairest to make a special group for those prepared to work in the trading room, and become invisible to lurkers
+
+I'm open to suggestions on this of course
+--- FA (current) ---
+نه اصلاً Pete - ما اینجا با هم کار خواهیم کرد
+
+یک چیز که در نظر داشتم این است که مردم ممکن است تصمیم بگیرند در تحلیل شرکت نکنند و فقط از کار ما برای ترید call استفاده کنند، که کار ما را سخت‌تر می‌کند.
+
+اگر آدم‌های کافی را برای گرفتن instrumentهایشان به سمت ما نیاوریم، شاید منصفانه‌ترین باشد که گروهی خاص برای کسانی که حاضرند در روم معامله‌گری کار کنند بسازیم و برای lurkerها نامرئی شویم
+
+البته برای این باز به پیشنهادها هستم
+
+flagged in file: 15
+===== supplydemand-p26.json | 723e2111972e448ee62f0f48fbf9dec8096baa8e | supplydemand_p26_626
+--- EN ---
+Ok mate.
+
+Count me into any group and any of the majors. I'd love to work with traders with one goal in mind. Keep me posted!:)
+--- FA (current) ---
+باشه رفیق.
+
+مرا در هر گروهی و هر یک از Majors بگنجان. عاشق کار کردن با معامله‌گران با یک هدف در ذهن هستم. خبرم کن!:)
+
+===== supplydemand-p26.json | cbbfa0e59d11560ca08b9e0c56653cb3ce5be6d3 | supplydemand_p26_628
+--- EN ---
+I'm like Alien, studying but am willing to help as much as possible. Not sure that I have the credentials to be part of an analysis team, but would loveto learn from experienced traders.
+
+Always a bit worried to give my opion as I'm break even trader on a good day, don't want to influence others in a bad way.
+--- FA (current) ---
+من مثل Alien هستم، در حال مطالعه ولی حاضرم تا حد ممکن کمک کنم. مطمئن نیستم برای بخشی از تیم تحلیل اعتبار لازم را دارم، ولی عاشق یادگیری از معامله‌گران باتجربه هستم.
+
+همیشه کمی نگرانم نظرم را بگویم چون در روز خوب Break حتی تریدر هستم، نمی‌خواهم دیگران را به شکل بدی تحت تأثیر بگذارم.
+
+===== supplydemand-p26.json | a18cba7f167af044ae6cb57491eea33880f19932 | supplydemand_p26_630
+--- EN ---
+Ifmyante wrote: No way Pete - we're going to work together, here
+
+One thing I've been considering though is that people may decide not to get involved in the analysis and just use our work for trade calls, making our work harder.
+
+If we don't get enough people on board taking their instruments, it may be fairest to make a special group for those prepared to work in the trading room, and become invisible to lurkers
+
+I'm open to suggestions on this of course
+
+Our community may need to grow just a little more, but the analysis will still be great hw. BTW I keep scouring my charts and trying to list things, but would really like to see you do a write up on a chart, maybe not to the very pixel charts, but how you would like it presented. Kind of like a template for us to follow. I know there is written word on this in the trading room, but I am better at visuals.
+--- FA (current) ---
+Ifmyante نوشت: نه اصلاً Pete - ما اینجا با هم کار خواهیم کرد
+
+یک چیز که در نظر داشتم این است که مردم ممکن است تصمیم بگیرند در تحلیل شرکت نکنند و فقط از کار ما برای ترید call استفاده کنند، که کار ما را سخت‌تر می‌کند.
+
+اگر آدم‌های کافی را برای گرفتن instrumentهایشان به سمت ما نیاوریم، شاید منصفانه‌ترین باشد که گروهی خاص برای کسانی که حاضرند در روم معامله‌گری کار کنند بسازیم و برای lurkerها نامرئی شویم
+
+البته برای این باز به پیشنهادها هستم
+
+community ما شاید باید فقط کمی رشد کند، ولی تحلیل در هر صورت عالی خواهد بود. BTW من مدام چارت‌هایم را غربال می‌کنم و سعی می‌کنم چیزها را لیست کنم، ولی واقعاً دوست دارم تو دربارهٔ یک چارت write up کنی، شاید تا پیکسل‌به‌پیکسل نباشد، ولی چطور دوست داری ارائه شود. چیزی شبیه یک template که از آن پیروی کنیم. می‌دانم کلمات نوشته‌شده‌ای دربارهٔ این در روم معامله‌گری هست، ولی من در چیزهای بصری بهترم.
+
+===== supplydemand-p26.json | 1fa6e18460f7fa2af9f8bd559c446cc491f661fd | supplydemand_p26_633
+--- EN ---
+Here's an example of analysis that should've been done on corn the other day
+
+We love our QM levels, and we love our price caps (in this case, a well pronounced RBD) and our CP into a level, we love engulfs on reaction
+
+Here's the trade call for it:
+
+Corn on approach. See readthemarket.com/index.php/forum/classr...e-pa? start=650#10584
+
+No great cp into the zone, but the RBD was a very strong cap on price, so expect origin at least
+
+All the above posts can go to your journal later, as well as this:)
+--- FA (current) ---
+این مثال تحلیلی است که باید آن روز روی corn انجام می‌شد
+
+ما QMهای‌مان را دوست داریم، و قیمت capهایمان را دوست داریم (در این حالت، یک RBD خیلی مشخص) و CPمان به داخل یک سطح، اینگالف‌ها روی واکنش را دوست داریم
+
+این ترید call برایش:
+
+Corn در حال نزدیک‌شدن. این را ببین readthemarket.com/ایندکس.php/انجمن/classr...e-pa? شروع=650#10584
+
+CP خوبی به داخل ناحیه نیست، ولی RBD یک cap خیلی قوی روی قیمت بود، پس حداقل مبدأ را انتظار داشته باش
+
+همهٔ پست‌های بالا بعداً می‌توانند به ژورنالت بروند، همین‌طور این:)
+
+===== supplydemand-p26.json | 5fb31ab03bea452010402741c3328beab82036a6 | supplydemand_p26_634
+--- EN ---
+Castus wrote: Hi If and all
+
+I made some charts today, will appreciate any feedback, I'm not sure whether my levels and all that thinking is o.k. To me USDX looks like heading south and this last weeks north candle was just a fake one due to the fiscal clif agreement and thinking about stopping with QE3 in the end of 2013. What do you say?
+
+And GPBUSD for me looks like this:
+
+ANY COMMENTS APPRECIATED
+
+Glad you picked GBPUSD as i was looking at that too. I sold it quite heavily last week and pulled my sells at the end of the week. My thinking on this pair is that the bull run is finished and that heavy bear move (300+ pips in 2 days) could be the beginning of something quite good. there are some good untested poles where there could be more orders waiting to go south. I think we'll go up a little to catch those orders as we have a bull pin in D1 which is probably a mixture of profit taking and rejection of 1.60 BRN. So to my charts....
+
+1.
+
+Please ignore some of my zones in this chart as they are LTF zones.... lazy charting but im rushing this...... This large bearish bar is a bit mixed and the close isn't as strong as i'd like. That said we look bearish to me.
+
+2.
+
+Massive bear pin on Wednesday (which is what got me in the selling mood) and then huge drop. Loads of big bears here. The Friday pin spoils things a bit but profit taking and 1.6 BRN we should expect something to happen.
+
+3.
+
+Plenty of poles and DBD in H1 to see that selling was heavy. Some of these are untested. If this is a bear move starting then there are unfilled orders potentially (LQ gaps) and there is where i'm looking to observe PA.
+
+4.
+
+The orange box in more detail. We can see the drop lining up with weekly pivot which can be a superb line of S/R. In this case i would hope to see this line up with some strong pivots next week for short opportunities. I have seen these turn to the pip so that is what i am watching for.
+
+5.
+
+M1 shows where it happened. Not huge bars but we can see where action could be sweet. Factor in the pivots and we can have some very good RR setups here.
+--- FA (current) ---
+Castus نوشت: سلام If و همه
+
+امروز چند چارت ساختم، از هر فیدبکی قدردانی می‌کنم، مطمئن نیستم سطوحم و همهٔ آن تفکر درست است یا نه. به نظرم USDX دارد به جنوب می‌رود و آن کندل شمالی هفته‌های اخیر فقط یک کندل فیک بود به دلیل توافق fiscal cliff و فکر کردن به توقف QE3 در آخر 2013. نظرت چیست؟
+
+و GPBUSD برای من این‌طور به نظر می‌رسد:
+
+هر کامنتی قدردانی می‌شود
+
+خوشحالم GPBUSD را انتخاب کردی چون من هم به آن نگاه می‌کردم. هفتهٔ پیش خیلی سنگین فروختمش و در پایان هفته فروش‌هایم را کشیدم بیرون. تفکر من دربارهٔ این جفت این است که رالی گاو تمام شده و آن حرکت خرس سنگین (300+ پیپ در 2 روز) می‌تواند آغاز چیزی خیلی خوب باشد. چند pole تست‌نشده خوب هست که ممکن است سفارش‌های بیشتری در انتظار رفتن به جنوب باشند. فکر می‌کنم کمی بالا می‌رویم تا آن سفارش‌ها را بگیریم چون یک pin گاو در D1 داریم که احتمالاً ترکیبی از سود taking و ریجکشن 1.60 BRN است. پس به چارت‌های من....
+
+1.
+
+لطفاً بعضی از ناحیه‌هایم را در این چارت نادیده بگیر چون ناحیه‌های LTF هستند.... چارتینگ تنبل ولی دارم عجله می‌کنم...... این کندل نزولی بزرگ کمی مختلط است و بسته‌شدنش به اندازه‌ای که دوست دارم قوی نیست. با این حال به نظرم نزولی است.
+
+2.
+
+pin خرس عظیم در چهارشنبه (که مرا به حال فروش انداخت) و بعد افت بزرگ. انبوهی خرس بزرگ اینجا هست. pin جمعه چیزها را کمی خراب می‌کند ولی سود taking و 1.6 BRN باید انتظار چیزی داشته باشیم.
+
+3.
+
+poleها و DBDهای زیادی در H1 هست که نشان می‌دهد فروش سنگین بوده. بعضی از این‌ها تست‌نشده‌اند. اگر این شروع یک حرکت خرس است پس سفارش‌های پرنشده به‌طور بالقوه (LQ gaps) وجود دارد و همان‌جایی است که به دنبال مشاهدهٔ PA هستم.
+
+4.
+
+جعبهٔ نارنجی با جزئیات بیشتر. می‌توانیم افت را هم‌راستا با هفتگی pivot ببینیم که می‌تواند خط S/R فوق‌العاده‌ای باشد. در این حالت امیدوارم آن را هم‌راستا با چند pivot قوی هفتهٔ بعد برای فرصت‌های شورت ببینم. دیده‌ام این‌ها تا پیپ برمی‌گردند پس به همان چیز نگاه می‌کنم.
+
+5.
+
+M1 نشان می‌دهد کجا اتفاق افتاد. کندل‌های بزرگی نیست ولی می‌توانیم ببینیم اکشن کجا می‌تواند شیرین باشد. pivotها را در نظر بگیر و می‌توانیم ست‌آپ‌های RR خیلی خوبی اینجا داشته باشیم.
+
+===== supplydemand-p26.json | b991e5c6b5146e03194b473ce9f8e54558bd94bf | supplydemand_p26_635
+--- EN ---
+Ifmyante wrote: I'd like to spend an hour or two here getting us organised, assigning pairs to whomever's around, so I hope there are lots of you here to take part.
+
+If, I am ready. would like to be considered for any: E/U A/U E/A G/U
+
+Do you think HTF candle closes due to different chart-broker will be a concern?
+--- FA (current) ---
+Ifmyante نوشت: دوست دارم یک یا دو ساعت اینجا صرف کنیم تا خودمان را سازماندهی کنیم و جفت‌ها را به هرکس که اینجاست بسپاریم، پس امیدوارم خیلی‌هایتان اینجا باشید تا شرکت کنید.
+
+If، آماده‌ام. دوست دارم برای هرکدام در نظر گرفته شوم: E/U A/U E/A G/U
+
+فکر می‌کنی بسته‌شدن‌های کندل HTF به دلیل چارت-بروکرهای متفاوت نگران‌کننده خواهد بود؟
+
+===== supplydemand-p26.json | aaebfb8c0b18cf32a2101742dd915bd53e37839a | supplydemand_p26_636
+--- EN ---
+Hi If.......i'm up or down for any instrument any tf...as long as they are fast...hmmm. (Cant stand swissy...is so slow i fall asleep ):)
+--- FA (current) ---
+سلام If....... برای هر instrument و هر تایم‌فریمی آماده‌ام... تا وقتی سریع باشند... همم. (نمی‌توانم swissy را تحمل کنم... آن‌قدر کند است که خوابم می‌برد ):)
+
+===== supplydemand-p26.json | a98b700140f21f7362eeea4b9134fb6ca690063b | supplydemand_p26_637
+--- EN ---
+Ifmyante wrote: Here's an example of analysis that should've been done on corn the other day
+
+We love our QM levels, and we love our price caps (in this case, a well pronounced RBD) and our CP into a level, we love engulfs on reaction
+
+All the above posts can go to your journal later, as well as this:)
+
+Every day I have to repeat, 'keep it simple'
+
+I am making myself blind cause I want to bring you guys the best setups and best charts and yet there is no need to look so hard. The setup should slap you in the mouth not be sought after in the depths of a cave with a torch. Your visuals as always If are better then any special fx I have seen in the movies.
+--- FA (current) ---
+Ifmyante نوشت: این مثال تحلیلی است که باید آن روز روی corn انجام می‌شد
+
+ما QMهای‌مان را دوست داریم، و قیمت capهایمان را دوست داریم (در این حالت، یک RBD خیلی مشخص) و CPمان به داخل یک سطح، اینگالف‌ها روی واکنش را دوست داریم
+
+همهٔ پست‌های بالا بعداً می‌توانند به ژورنالت بروند، همین‌طور این:)
+
+هر روز باید تکرار کنم، 'ساده نگه دار'
+
+دارم خودم را کور می‌کنم چون می‌خواهم بهترین ست‌آپ‌ها و چارت‌ها را به شما بیاورم و با این حال نیازی نیست این‌قدر سخت نگاه کنیم. ست‌آپ باید در دهانت بکوبد نه اینکه در اعماق غاری با مشعل دنبالش بگردی. تصاویر تو مثل همیشه If بهتر از هر special fx است که در فیلم‌ها دیده‌ام.
+
+===== supplydemand-p26.json | cc0645538e6df3613f4de880f894afd1aeb2d87a | supplydemand_p26_640
+--- EN ---
+Firefly wrote:
+
+Ifmyante wrote: I'd like to spend an hour or two here getting us organised, assigning pairs to whomever's around, so I hope there are lots of you here to take part.
+
+If, I am ready. would like to be considered for any: E/U A/U E/A G/U
+
+Do you think HTF candle closes due to dierent chart-broker will be a concern?
+
+Great news, thanks Firely, and all others!
+
+What I like to see is the interplay of the orders around the zones. When analysing the past, the significant decisions that have been made can be pinpointed far more accurately by looking into the LTFs, The HTF closes seem less relevant when you can see the PA within the zone
+--- FA (current) ---
+Firefly نوشت:
+
+Ifmyante نوشت: دوست دارم یک یا دو ساعت اینجا صرف کنیم تا خودمان را سازماندهی کنیم و جفت‌ها را به هرکس که اینجاست بسپاریم، پس امیدوارم خیلی‌هایتان اینجا باشید تا شرکت کنید.
+
+If، آماده‌ام. دوست دارم برای هرکدام در نظر گرفته شوم: E/U A/U E/A G/U
+
+فکر می‌کنی بسته‌شدن‌های کندل HTF به دلیل چارت-بروکرهای متفاوت نگران‌کننده خواهد بود؟
+
+خبرهای عالی، ممنون Firely، و همهٔ بقیه!
+
+چیزی که دوست دارم ببینم interplay سفارش‌ها دور ناحیه‌هاست. وقتی گذشته را تحلیل می‌کنیم، تصمیم‌های قابل‌توجهی که گرفته شده‌اند را می‌توان با نگاه به LTFها خیلی دقیق‌تر مشخص کرد. بسته‌شدن‌های HTF وقتی می‌توانی PA داخل ناحیه را ببینی کمتر مرتبط به نظر می‌رسند
+
+===== supplydemand-p26.json | 17242ad01ba0c6bb56e732c7b810a4515a9af2cc | supplydemand_p26_642
+--- EN ---
+kaspopsicle wrote: Hi If.......i'm up or down for any instrument any tf...as long as they are fast...hmmm. (Cant stand swissy...is so slow i fall asleep ):)
+
+Thanks for that, KJ
+
+Having the time to ride it up and down all day long
+
+those were the days:)
+
+I just won't be able to do that for so long to come. I'll be so happy to just analyse the few pairs I have and set my alerts for when price gets there, tell everybody it's there and how it's arrived, and then check here for others' analyses, while getting this place together.
+
+This room will be great for members with day jobs, learners who are as yet a bit nervous about scalping, and scalpers who won't say no to easy extra pips:)
+--- FA (current) ---
+kaspopsicle نوشت: سلام If....... برای هر instrument و هر تایم‌فریمی آماده‌ام... تا وقتی سریع باشند... همم. (نمی‌توانم swissy را تحمل کنم... آن‌قدر کند است که خوابم می‌برد :))
+
+ممنون برای آن، KJ
+
+داشتن وقت برای سوار شدن به بالا و پایینش تمام روز
+
+آن روزها بود:)
+
+من نمی‌توانم برای مدت طولانی که در پیش است این کار را بکنم. خیلی خوشحال خواهم بود اگر فقط چند جفتی که دارم را تحلیل کنم و alertهایم را برای وقتی قیمت به آنجا رسید تنظیم کنم، به همه بگویم آنجاست و چطور رسیده، و بعد برای تحلیل‌های دیگران اینجا چک کنم، در حالی که اینجا را سر هم می‌کنم.
+
+این روم برای اعضایی که کار روزانه دارند، یادگیرندگانی که هنوز کمی دربارهٔ اسکالپ کردن عصبی هستند، و اسکالپرهایی که به چند پیپ اضافهٔ آسان نه نمی‌گویند عالی خواهد بود:)
+
+===== supplydemand-p26.json | 3060fa6963ab07809a06a0534fc2da72482f3e05 | supplydemand_p26_646
+--- EN ---
+Same entry but different exit. Also i took aussie sell...Kiwi miss my entry
+--- FA (current) ---
+همان ورود ولی خروج متفاوت. همچنین sell روی استرالیایی گرفتم... Kiwi ورودم را از دست داد
+
+===== supplydemand-p26.json | 8bdec321665407e58bcc0981f275780fa1896f82 | supplydemand_p26_649
+--- EN ---
+i havent been trading profitably for 2 years until i stumble across supply and demand and espeially IF as a mentor.Been watching his videos upteen times hoping to create fotographic memory for upcoming setups.Slowly i will absorb and im able to quit my job and live a financial freedom life. Then im able to do charity work full time. 1 of my dreams.
+--- FA (current) ---
+2 سال است که با سود معامله نکرده‌ام تا وقتی به عرضه و تقاضا برخورد کردم و به‌خصوص IF به‌عنوان mentor. ویدئوهایش را ده‌ها بار تماشا می‌کنم با این امید که حافظهٔ عکاسی برای ست‌آپ‌های آینده بسازم. به‌تدریج جذب می‌کنم و می‌توانم شغلم را ترک کنم و زندگی آزادی مالی داشته باشم. بعد می‌توانم کار خیریه را تمام‌وقت انجام دهم. یکی از رویاهایم.
+
+flagged in file: 12
+===== supplydemand-p27.json | 1620e34d5bace9411c63778e22b385cedf804b08 | supplydemand_p27_654
+--- EN ---
+I'd like to get involved in the analysis team on dollar index or any other pair that needs help.
+--- FA (current) ---
+دوست دارم در تیم تحلیل روی dollar ایندکس یا هر جفت دیگری که به کمک نیاز دارد شرکت کنم.
+
+===== supplydemand-p27.json | 62364ee8a488f1cf43f630a26527acc6d8343972 | supplydemand_p27_661
+--- EN ---
+It would be hard for others to make suggestions if no one new my particular style. typical review Daily & 4HR TF down to 1HR. Check 15min and trade from the 5min, exacting entries & PA from 1 min during trading hours. Due to my unfortunate time zone, I place my over night trades on the 15min. Hope that helps. Obvisously using PA as everything at supply & demand levels.
+--- FA (current) ---
+برای دیگران سخت است پیشنهاد بدهند اگر کسی سبک خاص من را نداند. معمولاً روزانه و تایم‌فریم 4HR را تا 1HR مرور می‌کنم. 15min را چک می‌کنم و از 5min معامله می‌کنم، ورودهای دقیق و PA از 1 min در ساعات معاملاتی. به دلیل منطقهٔ زمانی بدشانسم، معامله‌های شبانه‌ام را روی 15min می‌گذارم. امیدوارم کمک کند. البته استفاده از PA به‌عنوان همه‌چیز در سطوح عرضه & demand.
+
+===== supplydemand-p27.json | 562baefa07a3b4c8d8de31f83c192eb9621e4844 | supplydemand_p27_662
+--- EN ---
+danandsueco wrote: It would be hard for others to make suggestions if no one new my particular style. I typical review Daily & 4HR TF down to 1HR. Check 15min and trade from the 5min, exacting entries & PA from 1 min during trading hours. Due to my unfortunate time zone, I place my over night trades on the 15min. Hope that helps. Obvisously using PA as everything at supply & demand levels.
+
+Oh I think your style will fit right in
+--- FA (current) ---
+danandsueco نوشت: برای دیگران سخت است پیشنهاد بدهند اگر کسی سبک خاص من را نداند. معمولاً روزانه و تایم‌فریم 4HR را تا 1HR مرور می‌کنم. 15min را چک می‌کنم و از 5min معامله می‌کنم، ورودهای دقیق و PA از 1 min در ساعات معاملاتی. به دلیل منطقهٔ زمانی بدشانسم، معامله‌های شبانه‌ام را روی 15min می‌گذارم. امیدوارم کمک کند. البته استفاده از PA به‌عنوان همه‌چیز در سطوح عرضه & demand.
+
+اوه فکر می‌کنم سبک تو دقیقاً در می‌آید
+
+===== supplydemand-p27.json | 16d545aba54bb9c6b2fd4592cea71e07b24e8d44 | supplydemand_p27_664
+--- EN ---
+danandsueco wrote:. Due to my unfortunate time zone, I place my over night trades on the 15min. Hope that helps. Obvisously using PA as everything at supply & demand levels.
+
+Man, I know how ya feel. Looks like you live on PST time zone. I live on that time zone as well. Quite the challenge to follow overnight trades.
+--- FA (current) ---
+danandsueco نوشت:. به دلیل منطقهٔ زمانی بدشانسم، معامله‌های شبانه‌ام را روی 15min می‌گذارم. امیدوارم کمک کند. البته استفاده از PA به‌عنوان همه‌چیز در سطوح عرضه & demand.
+
+مرد، می‌دانم چه حسی داری. به نظر می‌رسد تو روی منطقهٔ زمانی PST زندگی می‌کنی. من هم روی آن منطقهٔ زمانی هستم. دنبال کردن معامله‌های شبانه چالش بزرگی است.
+
+===== supplydemand-p27.json | 7d79be8ccaaa5064b2b67d175d3f4963f6359885 | supplydemand_p27_675
+--- EN ---
+I found out today that this forum was block at my work. I haven't had the chance to upload an updated chart until now. Both entry at supply held and target met at demand level. I would love to hear any comments.
+--- FA (current) ---
+امروز فهمیدم این فروم در محل کارم بلاک است. تا حالا فرصت آپلود چارت به‌روز را نداشتم. هر دو ورود در عرضه سر جایش ماند و تارگت در سطح demand محقق شد. عاشق شنیدن هر کامنتی هستم.
+
+flagged in file: 5
+===== supplydemand-p28.json | 6f5c7270cb7e2aef8834fb538319aa453fd5ed8b | supplydemand_p28_676
+--- EN ---
+EU daily higher highs and higher lows. Today there is a bullish outside bar. H4 shows break above major decision line. H1 shows minor white decision line below which looks like a good place for a long. M15 with demand just below but I favor the white decision line for a possible long. Overall I like a long scenario.
+--- FA (current) ---
+EU روزانه سقف‌های بالاتر و کف‌های بالاتر دارد. امروز یک outside bar صعودی هست. H4 شکست بالای خط تصمیم بزرگ را نشان می‌دهد. H1 یک خط تصمیم سفید کوچک پایین‌تر نشان می‌دهد که جای خوبی برای لانگ به نظر می‌رسد. M15 با تقاضا درست پایین‌تر ولی من خط تصمیم سفید را برای لانگ احتمالی ترجیح می‌دهم. در مجموع سناریوی لانگ را دوست دارم.
+
+===== supplydemand-p28.json | 9ad7a83d9bbdc5b450641feaaaf39bcf1886a788 | supplydemand_p28_678
+--- EN ---
+Coffee_C, charts from AVAfx, opens between 8:30am - 19:00 pm (GMT) because it trades the London ICE.
+
+some charts below
+
+ideally i wait for compression on approach or engulfing on reaction.
+--- FA (current) ---
+Coffee_C، چارت‌ها از AVAfx، بین 8:30am - 19:00 pm (GMT) باز می‌شوند چون London ICE را معامله می‌کند.
+
+چند چارت پایین
+
+ترجیح می‌دهم در رویکرد منتظر فشردگی یا روی واکنش منتظر اینگالف بمانم.
+
+===== supplydemand-p28.json | f8213aee2f806c31adcbe890b4770606eaa4a1b0 | supplydemand_p28_681
+--- EN ---
+WTI Crude Oil H1 QM @ Major Daily Level
+
+We are at a Daily level with a lot of history...
+
+As seen on the H1 chart, we have the makings of a QM. The 93.30 level has been significant lately and marks the top of the "H" in the QM. This is a good level to watch for a short, depending on PA of course.
+--- FA (current) ---
+WTI Crude Oil در H1، QM @ سطح روزانه بزرگ
+
+ما در یک سطح روزانه با تاریخچهٔ زیادی هستیم...
+
+همان‌طور که در چارت H1 دیده می‌شود، مواد خام QM را داریم. سطح 93.30 اخیراً قابل‌توجه بوده و بالای "H" در QM را علامت می‌زند. این سطح خوبی برای تماشا کردن شورت است، البته بسته به PA.
+
+===== supplydemand-p28.json | 2a3d2cda9ec11418425eaae3ca2843f080ec7d41 | supplydemand_p28_688
+--- EN ---
+Alientrader wrote: Trying to get my head around quasimodos. Would appreciate more examples and perhaps a graphic visual. Sorry for my denseness.
+
+Hi AT
+
+We're all about showing you what to look for and then sending you to look for many many examples of it in history, so you can make it your own
+
+Do the homeworkassigned, and you'll gradually get a serious understanding of PA
+
+Feel free to ask in the classroom for help getting started:)
+
+Best
+
+If
+--- FA (current) ---
+Alientrader نوشت: دارم سعی می‌کنم quasimodoها را بفهمم. از مثال‌های بیشتر و شاید یک تصویر گرافیکی قدردانی می‌کنم. ببخشید برای کندفهمی‌ام.
+
+سلام AT
+
+ما همه‌چیز دربارهٔ نشان دادن این هستیم که چه چیزی را باید دنبال کنی و بعد تو را می‌فرستیم که خیلی خیلی مثال از آن در تاریخ پیدا کنی، تا بتوانی آن را مال خودت کنی
+
+تکالیف تعیین‌شده را انجام بده، و به‌تدریج درک جدی از PA به دست خواهی آورد
+
+آزاد باش در کلاس برای کمک در شروع بپرسی:)
+
+بهترین‌ها
+
+If
+
+===== supplydemand-p28.json | b7c25a22e40aac85c5294c9c9e0a84925a893d35 | supplydemand_p28_694
+--- EN ---
+Okay here is something of interest in nzd just happened to look at the chart D area base of a pole some history.
+
+4hr looks like a swap zone next 4hr D is a ways down so htf compression of sorts.
+
+5min demand engulfed coming back to a capped area and I think you cant see the origin of this runup.
+
+Again I am not advising you jump right in, this is an analyis that took me 2 min 17 secs, could be major flaws. You make youre own choices as Alvin told me ahaha
+
+As for correlations, AU at htf supply working the same kind of thing & just printed 4hr engulfing on my feed and Loonie is playing around in Daily D flagging.
+--- FA (current) ---
+باشه اینجا چیزی جالب در nzd هست؛ اتفاقی چارت را نگاه کردم؛ ناحیهٔ بیس یک pole با کمی تاریخچه.
+
+4hr به نظر ناحیه سواپ می‌رسد؛ D در 4hr بعدی راهی است پس فشردگی HTF از نوعی.
+
+تقاضای 5min اینگالف شده و به یک ناحیهٔ capped برمی‌گردد و فکر نمی‌کنم بتوانی مبدأ این ران‌آپ را ببینی.
+
+دوباره نمی‌گویم بپری داخل، این تحلیلی است که 2 دقیقه و 17 ثانیه طول کشید، می‌تواند نقص‌های بزرگی داشته باشد. خودت تصمیم‌هایت را می‌گیری همان‌طور که Alvin به من گفت هاها
+
+دربارهٔ همبستگی‌ها، AU در عرضه تایم‌فریم بالا دارد همان نوع کار را می‌کند و تازه روی فیدم یک اینگالف 4hr چاپ کرد و Loonie دارد در D روزانه D پرچم می‌سازد.
+
+===== supplydemand-p28.json | 93c378b78db36721af66476fd5248b137c625546 | supplydemand_p28_695
+--- EN ---
+Hello all:
+
+I'm seeing GBDUSD breaking a supply line at the conflunce of a trend line. I think this might be a move toward 1.5830. Does anyone else see this?
+--- FA (current) ---
+سلام به همه:
+
+من GBDUSD را می‌بینم که دارد یک خط عرضه را در هم‌راستایی با trend line می‌شکند. فکر می‌کنم این ممکن است حرکتی به سمت 1.5830 باشد. کسی دیگر این را می‌بیند؟
+
+===== supplydemand-p28.json | 8b8ec9e13d43d8e6abb6e6c3ef635959382cd48d | supplydemand_p28_700
+--- EN ---
+I can't see it all because I'm missing a huge part of this. I would love someone to explain what is actually happening here. I mean as far as supply, demand, orders getting filled and the big boys filling and taking out orders. There's always a run up, a consolidation or lower low, a higher high, an engulf, an RT and a move. I just can't get it though my thick skull why!!!
+--- FA (current) ---
+نمی‌توانم همه‌چیز را ببینم چون بخش بزرگی از این را از دست داده‌ام. عاشقش می‌شوم کسی توضیح بدهد واقعاً اینجا چه دارد اتفاق می‌افتد. منظوری عرضه، تقاضا، سفارش‌هایی که پر می‌شوند و big boys که سفارش‌ها را پر و می‌برند. همیشه یک ران‌آپ، یک تثبیت یا کف پایین‌تر، یک سقف بالاتر، یک اینگالف، یک RT و یک حرکت هست. فقط نمی‌توانم بفهمم چرا در این جمجمهٔ ضخیمم!!!
+
+flagged in file: 7
+===== supplydemand-p29.json | 7f1615c89415cb0c589d319ff519e535427fd5c4 | supplydemand_p29_702
+--- EN ---
+Oedipus wrote: I can't see it all because I'm missing a huge part of this. I would love someone to explain what is actually happening here. I mean as far as supply, demand, orders getting filled and the big boys filling and taking out orders. There's always a run up, a consolidation or lower low, a higher high, an engulf, an RT and a move. I just can't get it though my thick skull why!!!
+
+I tried to answer this at home. When u say if this is supply this shouldnt happen; well that's whyvits called a fakeout and u need to pay attn to what level is being reacted to. My previous post highlights the zone that the highs have reacted to.
+--- FA (current) ---
+Oedipus نوشت: نمی‌توانم همه‌چیز را ببینم چون بخش بزرگی از این را از دست داده‌ام. عاشقش می‌شوم کسی توضیح بدهد واقعاً اینجا چه دارد اتفاق می‌افتد. منظوری عرضه، تقاضا، سفارش‌هایی که پر می‌شوند و big boys که سفارش‌ها را پر و می‌برند. همیشه یک ران‌آپ، یک تثبیت یا کف پایین‌تر، یک سقف بالاتر، یک اینگالف، یک RT و یک حرکت هست. فقط نمی‌توانم بفهمم چرا در این جمجمهٔ ضخیمم!!!
+
+در خانه سعی کردم به این جواب بدهم. وقتی می‌گویی اگر این عرضه بود این نباید اتفاق می‌افتاد؛ خب به همین دلیل فیک‌اوت نامیده می‌شود و باید به این توجه کنی که به کدام سطح واکنش نشان داده می‌شود. پست قبلی من ناحیه‌ای را که سقف‌ها به آن واکنش نشان دادند برجسته می‌کند.
+
+===== supplydemand-p29.json | 75e4692ac1327b3f217c11c00356abb54063f5d2 | supplydemand_p29_703
+--- EN ---
+Hello!
+
+We have a little bit different data feed - but this looks familiar to you?
+
+Big boys are kicking both groups (sellers and buyers) out of their intentions - so something is preparing.
+--- FA (current) ---
+سلام!
+
+ما data feed کمی متفاوت داریم - ولی این به نظرت آشنا نمی‌آید؟
+
+big boys دارند هر دو گروه (فروشندگان و خریداران) را از نیت‌هایشان بیرون می‌زنند - پس چیزی در حال آماده شدن است.
+
+===== supplydemand-p29.json | 806182e930c53f7525665d5aaf694d78204c867e | supplydemand_p29_709
+--- EN ---
+alvin2434 wrote: Anyone watching this?
+
+yes, lots of opportunities still in play. 1.6 defended successfully for now but lots of areas of interest for us to play long or short. I cant trade today so i'll just watch. My open sells in this pair are all finished now. didn't get as much profit as i'd like as i was holding but i'll stick all that in journal. Still a v good day for me.
+--- FA (current) ---
+alvin2434 نوشت: کسی این را تماشا می‌کند؟
+
+بله، هنوز فرصت‌های زیادی در جریان است. 1.6 فعلاً با موفقیت دفاع شد ولی نواحی موردتوجه زیادی برای لانگ یا شورت داریم. امروز نمی‌توانم معامله کنم پس فقط تماشا می‌کنم. همهٔ sellهای باز من در این جفت تمام شده‌اند. آن‌قدر سودی که دوست داشتم نگرفتم چون نگه داشته بودم ولی همه‌اش را در ژورنال می‌گذارم. با این حال روز خیلی خوبی برای من بود.
+
+===== supplydemand-p29.json | 37390840db8b1bd823bb15425dddbfdc8badd52d | supplydemand_p29_712
+--- EN ---
+Update on Crude.
+
+Strong H4 close above the 93.80 Daily S/R level and now retracing. IF this level holds it could set up a nice long. Demand below at the 93.66 which is the source of the break above the previous range. A revisit of that demand should see a nice reaction.
+
+DharmaTrader wrote: WTI Crude Oil H1 QM @ Major Daily Level
+
+We are at a Daily level with a lot of history...
+--- FA (current) ---
+آپدیت دربارهٔ Crude.
+
+بستهٔ قوی H4 بالای سطح S/R روزانهٔ 93.80 و الان در حال پول‌بک. اگر این سطح نگه دارد می‌تواند یک لانگ قشنگ بسازد. تقاضا پایین‌تر در 93.66 که source شکست بالای رنج قبلی است. بازدید دوباره از آن تقاضا باید واکنش قشنگی نشان دهد.
+
+DharmaTrader نوشت: WTI Crude Oil در H1، QM @ سطح روزانه بزرگ
+
+ما در یک سطح روزانه با تاریخچهٔ زیادی هستیم...
+
+===== supplydemand-p29.json | 37fbc258b413bb5857281271ca098cb1c4364c80 | supplydemand_p29_714
+--- EN ---
+hornet wrote:
+
+hornet wrote: UPDATE ON YESTERDAY'S
+
+hornet wrote:
+
+hey Hornet, I dnt trade the bund but that's a sweet chart there especially that 1hr tf u have. sorry no chart but look at it well, ull notice it's a bearish ag (copy that lower tl on ur 1st chart to the higher high moving into the supply area)
+
+entry shld be at the top of the bearish ag & break of the ag with tp at bottom of the ag... hope i explained it well enu cheers
+--- FA (current) ---
+hornet نوشت:
+
+hornet نوشت: آپدیت دربارهٔ دیروز
+
+hornet نوشت:
+
+هی Hornet، من bund را معامله نمی‌کنم ولی آن چارت شیرینی است به‌خصوص آن تایم‌فریم 1hr که داری. ببخشید چارت ندارم ولی خوب به آن نگاه کن، متوجه می‌شوی پرچم نزولی است (آن tl پایین را از چارت اولت به سقف بالاتر کپی کن که دارد به ناحیهٔ عرضه حرکت می‌کند)
+
+ورود باید در بالای پرچم نزولی باشد و شکست پرچم با tp در پایین پرچم... امیدوارم خوب توضیح داده باشم موفق باشید
+
+===== supplydemand-p29.json | 081de949e85f77bde026b407e9e443ef56222f52 | supplydemand_p29_715
+--- EN ---
+to wrote: hey Hornet, I dnt trade the bund but that's a sweet chart there especially that 1hr tf u have. sorry no chart but look at it well, ull notice it's a bearish flag (copy that lower tl on ur 1st chart to the higher high moving into the supply area) entry shld be at the top of the bearish flag & break of the flag with tp at bottom of the flag...
+
+hope i explained it well enuff cheers
+
+hi to, thanks for answering. you mean something like this?
+--- FA (current) ---
+to نوشت: هی Hornet، من bund را معامله نمی‌کنم ولی آن چارت شیرینی است به‌خصوص آن تایم‌فریم 1hr که داری. ببخشید چارت ندارم ولی خوب به آن نگاه کن، متوجه می‌شوی پرچم نزولی است (آن tl پایین را از چارت اولت به سقف بالاتر کپی کن که دارد به ناحیهٔ عرضه حرکت می‌کند) ورود باید در بالای پرچم نزولی باشد و شکست پرچم با tp در پایین پرچم...
+
+امیدوارم خوب توضیح داده باشم موفق باشید
+
+سلام to، ممنون برای جواب دادنت. منظورت چیزی شبیه این است؟
+
+===== supplydemand-p29.json | 7bc80ee69e72427d84c8035758a82b9e2d139b9a | supplydemand_p29_724
+--- EN ---
+hornet wrote:
+
+to wrote: hey Hornet, I dnt trade the bund but that's a sweet chart there especially that 1hr tf u have. sorry no chart but look at it well, ull notice it's a bearish flag (copy that lower tl on ur 1st chart to the higher high moving into the supply area) entry shld be at the top of the bearish flag & break of the flag with tp at bottom of the flag...
+
+hope i explained it well enuff cheers
+
+hi to, thanks for answering. you mean something like this?
+
+sorry for the late reply Hornet, yeah that's what I was talking about cheers
+--- FA (current) ---
+hornet نوشت:
+
+to نوشت: هی Hornet، من bund را معامله نمی‌کنم ولی آن چارت شیرینی است به‌خصوص آن تایم‌فریم 1hr که داری. ببخشید چارت ندارم ولی خوب به آن نگاه کن، متوجه می‌شوی پرچم نزولی است (آن tl پایین را از چارت اولت به سقف بالاتر کپی کن که دارد به ناحیهٔ عرضه حرکت می‌کند) ورود باید در بالای پرچم نزولی باشد و شکست پرچم با tp در پایین پرچم...
+
+امیدوارم خوب توضیح داده باشم موفق باشید
+
+سلام to، ممنون برای جواب دادنت. منظورت چیزی شبیه این است؟
+
+ببخشید برای جواب دیرهنگام Hornet، آره همان چیزی بود که از آن صحبت می‌کردم موفق باشید
+
+flagged in file: 7

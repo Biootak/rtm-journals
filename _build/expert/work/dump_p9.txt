@@ -1,0 +1,167 @@
+##### hs_p9_201 hoeschec paras:3
+AUD-USD worked out perfectly. News was bearish, fakeout above with a decent follow through. I didn't see price pulsing the way I'd expect however, so I closed out with 30 pips.
+
+This probably wasn't the safest trade, but watching that spike to the upside really made me think it was a false break.
+
+The 7 pip loss was just a transaction error I made in lot sizing and didn't have a measurable effect on the profit.
+---END---
+##### hs_p9_202 hoeschec paras:2
+Just found this setup on EUR/GBP.
+
+I have to set up a system where I check every pair on a regular basis. Missing this setup is unacceptable. It doesn't get much better than this.
+---END---
+##### hs_p9_203 hoeschec paras:3
+Watching this carefully....
+
+Will short if price hits QM level within the next hour or so.
+
+Target S/R level with lots of history.
+---END---
+##### hs_p9_204 hoeschec paras:1
+Took trade early, but still have another entry order pending at the origin of the second engulf. After drawing the flag, I see an engulf that already happened. Price already returned to that origin.
+---END---
+##### hs_p9_205 hoeschec paras:2
+I added to my U/J trade after price broke the flag. I closed out a little before the S/R line because there are swing highs (left) that spike in to the area.
+
+Here is HTF chart showing the S/R Flip level.
+---END---
+##### hs_p9_206 hoeschec paras:4
+Actually, now that I see the HTF chart for USD/JPY, I am thinking this might be a good time to look for PA to get long. This zone was the target of my shorts, and may act as a support level for price to make new highs.
+
+I'll wait to see if I can find an engulf to the upside or a bullish QM on the 5 min or 1 min charts.
+
+Here is a 1-minute chart showing PA as it reacts to the flip zone. I don't want to take a TT now, because it's too risky and price is too far from the area where I would place my stop. I will wait for PA to develop. I am biased for long trades. Here is the 1 minute chart:
+
+Update - 1 minute chart
+---END---
+##### hs_p9_207 hoeschec paras:2
+G/J
+
+I am posting this chart for now, but will follow up with an explanation for why I don't want to trade this QM.
+---END---
+##### hs_p9_208 hoeschec paras:4
+hoeschec wrote: G/J
+
+I am posting this chart for now, but will follow up with an explanation for why I don't want to trade this QM.
+
+OK, so here were my thoughts on this setup on Thursday (the QM actually ended up working nicely, so maybe I am wrong in my analysis). Many times when a QM fails, I notice the 'engulf' part of the HH or LL doesn't engulf the important flag to the left. This G/J was a good example of a QM that I didn't think engulfed the correct flag. To me, the flag (blue rectangle) is the flag that held price down, and also was the origin of the move that created the new low. To me, this was the important flag to engulf. For that reason, I didn't want to take the long when price returned to the QM level.
+
+Either the setup worked just out of dumb luck, or I mis-read the chart.
+---END---
+##### hs_p9_209 hoeschec paras:1
+Update on U/J from Thursday: Price did end up rebounding from the S/R flip level, but I wasn't able to get in. A combination of not being in from of the computer and not seeing any trade able engulfs.
+---END---
+##### hs_p9_210 hoeschec paras:6
+IF just posted an amazing trade on his journal USD/JPY.
+
+I am going to figure out why he took the trade so I can keep an eye out for similar opportunities in the future.
+
+By going out to a weekly chart I see a previous QM level. Did IF take the trade because price returned to this level, or is there more to it?
+
+Here is the Weekly Chart
+
+Here is the Daily Chart - This is a zoomed in area that the QM originally formed. I noticed a key FTR that formed (labeled on the chart). The red dashed line is the location of IF's trade yesterday. Did IF take yesterday's short based off of this previous QM short, assuming there would be left over orders at this level?
+
+If this is the rational for IF's trade, how did he know there would be a reaction at this level? I have seen price return to previous QM levels before, and there has not been a reaction like this. What am I not seeing about this setup that made it worth trading? Is there another important factor that I need to look for to increase the odds of a setup like this working out?
+---END---
+##### hs_p9_211 scoobydoo paras:1
+H, that certainly is on a huge timescale, but I don't think we need to look quite so far back for IF,s trade. I agree with Robbie's assessment of the trade on IF's board -- it is a QM reaction to the QM formed in June this year but your longer term analysis adds extra confidence that the level would hold
+---END---
+##### hs_p9_212 hoeschec paras:3
+scoobydoo wrote: H, that certainly is on a huge timescale, but I don't think we need to look quite so far back for IF,s trade. I agree with Robbie's assessment of the trade on IF's board -- it is a QM reaction to the QM formed in June this year but your longer term analysis adds extra confidence that the level would hold
+
+Wow...now that I check, that is really an obvious trade. Thanks for pointing that out to me. This is a really straightforward setup too. I need to start normalizing my daily routine so I don't miss opportunities like this.
+
+I appreciate your input!
+---END---
+##### hs_p9_213 hoeschec paras:2
+Had I been watching this U/J live, I would have taken a trade at the Red arrow. IF took the trade at the Green arrow. Why did he wait so long to take a trade, and why did he specifically take a trade at that level?
+
+Is it possible that he anticipated the F/O to the S/R flip above? Here is a chart to convey that question:
+---END---
+##### hs_p9_214 scoobydoo paras:2
+Yes, I think that's a good explanation. There was always a good chance that the nearest QM would FO given the close proximity of the larger QM above. Also, I don't have less than H4 data here, but look at the large candle down (big DP to sell) after the QM's HH. I think if we could drill down in LTF into this we could pinpoint the sell point? There's other strong decisions to sell on that chart that produce big reactions on FTB
+
+EDIT - oh one thing I forgot to add. I remember reading a comment (I think from IF) ----when u see 2 high peaks quite close together and reaching a similar level (like on the chart, then it's very common for a third peak to be made above them which turn out to be the selloff point. Psychology at play - the 2 highs form a resistance to be sold into. The peak above take's out those shorts and adds some breakout buyer buys... all the more yummy sells for the big seller to get on:-)
+---END---
+##### hs_p9_215 hoeschec paras:3
+Thanks Scooby. Here is a 15M chart that shows price as it breaks down after posting a HH of the QM. The red dashed line represents the approximate location of IF's trade yesterday, and it looks like he took the trade just before price reached on the FTB to the FTR that formed after the break of the S/R level holding up price.
+
+I am surprised he didn't wait for price to actually enter the FTR zone (he traded just prior to the FTR), but maybe his data is different or his entry is slightly off due to spread or commission charges. Also, maybe he drew in the Flag Limits and took the trade as price entered the FL. Either way, it looks like this was his rational for taking the trade where he did. I'd say it's close enough for me
+
+Thanks for your help and mention of the two peak concepts. I'll make note of that for future setups.
+---END---
+##### hs_p9_216 hoeschec paras:6
+I am perplexed on NZD/JPY.
+
+There is a bearish QM setting up on the hourly chart (see chart #1 below). But the Daily chart is showing a Bullish QM setup (see chart #2), at a HTF weekly FTR (See chart #3)
+
+I suppose when in doubt, it's best to trust the HTF.
+
+CHART # 1
+
+CHART # 2
+
+CHART # 3
+---END---
+##### hs_p9_217 hoeschec paras:1
+More QM practice. This one didn't work out well, and my opinion is that the engulf hit its target without returning the QM level.
+---END---
+##### hs_p9_218 hoeschec paras:2
+EUR-USD 4HR Continued:
+
+Where the target of the engulf exists, there are likely many traders closing their shorts (long trades). Price came to this level and bounced nicely, but did briefly break the low to hit the S/R level before moving up.
+---END---
+##### hs_p9_219 hoeschec paras:3
+EUR/USD Continued:
+
+Lots of QM's here. Another nice bullish bounce at the level which would have been the target for shorts at the bearish QM above (see chart below).
+
+It's always easy to find these QM's historically...I need to work on seeing these unfold live.
+---END---
+##### hs_p9_220 hoeschec paras:2
+Something I've been noticing lately: Following an engulf, the price target seems to hit S/R levels, not return to the base of the pole. Here is an example of what I'm taking about:
+
+Anyone else noticing this too?
+---END---
+##### hs_p9_221 hoeschec paras:5
+Actually, after going back to IF's USD/JPY trade, I still have some questions. On the chart below, I have drawn a red, blue, and green arrow. All three of these arrows show where price pierced the FL which made up the first shoulder of the QM. What steps can a trader make to not get caught taking a trade at the red or the blue arrow?
+
+The red and blue arrow both pierce the FL, however taking a short at that point would require a substantial SL. Is the solution as simple as only taking the short if price will retrace far enough in to the FL that the SL is low enough and R:R is high enough? There are tons of examples where a QM setup works and price turns immediately after piercing the limit the of the FL. Is there a way to differentiate which QM's will react immediately to price entering a QM and which QM's will react only after price retraces deep in to the FL?
+
+With regard to decision points, I think a legitimate argument can be made that the red and blue arrows are reacting to important decision points as well. The red arrow shows price reacting the a S/R level and alos the DP where price breaks out of the lower limit of the FL. Similar situation with the blue arrow. Why is the DP @ the green arrow the one IF waited to take a trade at? What makes that DP more important than the ones the red and blue arrows are reacting to?
+
+These are really important details that I think need to be discussed because they can make the difference between a failed trade and a successful trade.
+
+Ideas?
+---END---
+##### hs_p9_222 Meanwhile paras:3
+hoeschec wrote: Something I've been noticing lately: Following an engulf, the price target seems to hit S/R levels, not return to the base of the pole. Here is an example of what I'm taking about:
+
+Anyone else noticing this too?
+
+I've noticed it! Sometimes around S&R area there seems to be also a DP signaling higher or lower prices. In this case I found a DP on M15, but I found just similar setup in GBPUSD where they pound through obvious demand area and turn it in S&R area.
+---END---
+##### hs_p9_223 hoeschec paras:4
+Can someone help me understand why my E/J trade last week (see post # 194 on my journal) worked out so well, but today's A/U trade failed? IF even stopped by to congratulate me on the E/J trade, and I saw today's trade on A/U as being very similar.
+
+Many thanks everyone!
+
+Here is my E/J trade from last week:
+
+And here is today's trade on AUD-USD: Price was returning to a supply zone. I noticed there were stacked levels so I placed my stop accordingly. I saw a engulf and return to origin. As usual, I got blown out almost immediately.
+---END---
+##### hs_p9_224 Art paras:4
+Don't want to ruin the good moments in your journey so won't write it mate
+
+But if you consider the following?
+
+A. HTF location. Where from and where to price is moving. B. Mark the DP (here ask if your marked area was THE DECISION POINT) C. Again, did the DP ¨decide¨ anything important. D. Where you sucked in by lower TF and lost track of HTF
+
+You'll figure it out. I'm sure mate
+---END---
+##### hs_p9_225 Rdk123 paras:2
+Hi mate, you went short when buyers were still in control., price had just engulfed that FTR to the left and we were still in that big CP zone so price wanted the other side at least. Hope that helps.
+
+Robbie
+---END---

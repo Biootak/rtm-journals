@@ -1,0 +1,295 @@
+### edges_p6_1
+EN: weekend exercise which helped me when I started out - simulate scenarios. The below example is a DM scenario
+FA: تمرین آخر هفته که وقتی تازه شروع کرده بودم کمکم کرد — شبیه‌سازی سناریوها. مثال زیر یک سناریوی DM است
+
+### edges_p6_2
+EN: Nice QM too :P
+FA: QM قشنگی هم هست :P
+
+### edges_p6_3
+EN: Congrats to both of you Edge and Gslao on you promotion very well deserved
+FA: به هر دوتان تبریک می‌گویم Edge و Gslao؛ ارتقایتان کاملاً مستحق بود
+
+### edges_p6_4
+EN: Edge wrote: For those price
+nerds like me who enjoy the puzzle more than the trading. This is an
+exercise I like to do. Almost like a sports team at half time. Who is
+leading. Which kink has more chances of success with clean orders
+(caveat - not a strategy within itself but shows which kink has the
+probability of winning? Anyone want to have a shot at who is leading at
+half time. is it RED or GREEN (remember this is only one factor and is
+not worthy of trading as a strategy in of itself).HINT - it has nothing
+to do with what price is doing in between the kinks
+
+Hello Edge,
+
+Congratulation on your promotion! I'm a newbie here, been reading and
+reading, at the moment my brain is completely messed up, especially with
+ so many pieces scattering all over the places (SD, SR, DP, FL, FTR,
+PAZ). So let me attempt this quiz of yours, price history is telling me
+this:
+
+- All the clean orders inside the Green FL have been grabbed, price left
+ the area, went north for a long time before coming back down, creating
+the RED FL.
+
+- But price dropped a little too fast from the RED FL, leaving unfilled orders at its MPL.
+
+- ITs are not going to leave those orders behind, so they will find a way to get it.
+
+- However, ITs have not yet shown us their true intent! Price is
+bouncing between two FL, until one of them is engulfed, I don't know how
+ to guess the true intent of the ITs.
+
+What we know is:
+
+- If price gets to the MPL of the RED FL, it is likely to turn around -
+the question is how far? For example, I draw one of the many
+possibilities below:
+
+- Also, if price get to the bottom of GREEN FL, there is no more clean orders remaining, so price can easily engulf south.
+
+Thank you very much!
+
+AK
+FA: Edge نوشت: برای آن نِردهای قیمت مثل من که از معما بیشتر از معامله لذت می‌برند. این تمرینی است که دوست دارم انجام دهم. تقریباً مثل یک تیم ورزشی در نیمهٔ بازی. چه کسی جلو است. کدام خمیدگی با سفارش‌های تمیز شانس موفقیت بیشتری دارد (با این قید که خودش به‌تنهایی استراتژی نیست، اما نشان می‌دهد کدام خمیدگی احتمال برنده شدن دارد؟ کسی هست که دلش بخواهد شانسی برای حدس زدن بزند که در نیمهٔ بازی چه کسی جلوست. RED است یا GREEN (یادت باشد این فقط یک عامل است و به‌تنهایی ارزش معامله به‌عنوان استراتژی را ندارد). راهنما — هیچ ربطی به کاری که قیمت بین خمیدگی‌ها می‌کند ندارد
+
+سلام Edge،
+
+ارتقایت مبارک! من اینجا تازه‌کارم، مدام خوانده‌ام و خوانده‌ام؛ الآن ذهنم کاملاً قاطی کرده، مخصوصاً با این‌همه تکه‌ی پراکنده در همه‌جا (SD، SR، DP، FL، FTR، PAZ). پس بگذار تلاشم را برای این آزمون تو بکنم؛ تاریخچهٔ قیمت این را به من می‌گوید:
+
+- همهٔ سفارش‌های تمیز داخل FL سبز برداشته شده‌اند؛ قیمت ناحیه را ترک کرد، مدت زیادی به سمت شمال رفت و بعد برگشت پایین و FL سرخ را ساخت.
+
+- اما قیمت کمی زیادی سریع از FL سرخ پایین آمد و سفارش‌های پرشدنشده را در MPL آن جا گذاشت.
+
+- IT‌ها این سفارش‌ها را جا نمی‌گذارند، پس راهی پیدا می‌کنند تا به آن‌ها برسند.
+
+- با این حال، IT‌ها هنوز نیت واقعی‌شان را نشانمان نداده‌اند! قیمت بین دو FL بالا و پایین می‌رود؛ تا وقتی یکی از آن‌ها اینگالف نشود، نمی‌دانم چطور نیت واقعی IT‌ها را حدس بزنم.
+
+چیزی که می‌دانیم این است:
+
+- اگر قیمت به MPL FL سرخ برسد، احتمالاً برمی‌گردد — سؤال این است که چقدر؟ مثلاً یکی از احتمالات متعدد را پایین کشیده‌ام:
+
+- همچنین اگر قیمت به کف FL سبز برسد، دیگر سفارش تمیزی باقی نمانده، پس قیمت به‌راحتی می‌تواند به سمت جنوب اینگالف کند.
+
+خیلی ممنون!
+
+AK
+
+### edges_p6_5
+EN: Hello Edge,
+
+I saw you're the author of the Ignored Level article into Markepedia so I
+ tought I could ask this question to you. Hope you can help me
+
+We know price can bounce, on RT, at ignored levels, such as iQM.
+
+But does this bounce means that an ignored level respected on RT excludes the EG (such as EG into a FL) ?
+
+I try to better explain what I mean with the following example
+
+Many thanks, FranC
+FA: سلام Edge،
+
+دیدم که نویسندهٔ مقالهٔ «سطح نادیده‌گرفته‌شده» در Markepedia هستی، پس فکر کردم می‌توانم این سؤال را از تو بپرسم. امیدوارم بتوانی کمکم کنی
+
+می‌دانیم قیمت در RT می‌تواند از سطوح نادیده‌گرفته‌شده، مثل iQM، برگردد.
+
+اما آیا این برگشت یعنی اینکه یک سطح نادیده‌گرفته‌شده که در RT رعایت شده، EG را رد می‌کند (مثل EG به داخل یک FL)؟
+
+سعی می‌کنم منظورم را با مثال زیر بهتر توضیح بدهم
+
+خیلی ممنون، FranC
+
+### edges_p6_6
+EN: franc464 wrote: Hello Edge,
+
+I saw you're the author of the Ignored Level article into Markepedia so I
+ tought I could ask this question to you. Hope you can help me
+
+We know price can bounce, on RT, at ignored levels, such as iQM.
+
+But does this bounce means that an ignored level respected on RT excludes the EG (such as EG into a FL) ?
+
+I try to better explain what I mean with the following example
+
+Many thanks, FranC
+
+I am not edge, but from what I understand in my point of view is
+
+Ignored levels = Swap levels and levels with orders because price did not RT enough to fill them
+
+In simple words I understand them as potential places for taking trades in confluence with PA :D
+
+To answer you question, ignored levels play significant role as
+eventually they will be respected. I remember in one of the Ifmyante
+posts he posted some charts pointing this out. As for when it will be
+respected, you cannot know :D. We can only mark them as interest areas
+and watch PA.
+
+Dengaima
+FA: franc464 نوشت: سلام Edge،
+
+دیدم که نویسندهٔ مقالهٔ «سطح نادیده‌گرفته‌شده» در Markepedia هستی، پس فکر کردم می‌توانم این سؤال را از تو بپرسم. امیدوارم بتوانی کمکم کنی
+
+می‌دانیم قیمت در RT می‌تواند از سطوح نادیده‌گرفته‌شده، مثل iQM، برگردد.
+
+اما آیا این برگشت یعنی اینکه یک سطح نادیده‌گرفته‌شده که در RT رعایت شده، EG را رد می‌کند (مثل EG به داخل یک FL)؟
+
+سعی می‌کنم منظورم را با مثال زیر بهتر توضیح بدهم
+
+خیلی ممنون، FranC
+
+من Edge نیستم، اما آن‌طور که خودم درک کرده‌ام این است که
+
+سطوح نادیده‌گرفته‌شده = سطوح سواپ و سطوحی که سفارش دارند، چون قیمت به‌اندازهٔ کافی RT نکرده تا آن‌ها را پر کند
+
+به زبان ساده، من آن‌ها را مکان‌های بالقوه‌ای برای گرفتن معامله در هم‌راستایی با PA می‌فهمم :D
+
+در جواب سؤالت، سطوح نادیده‌گرفته‌شده نقش مهمی دارند، چون در نهایت رعایت می‌شوند. یادم می‌آید در یکی از پست‌های Ifmyante چند نمودار گذاشته بود که به این نکته اشاره می‌کرد. اما اینکه چه زمانی رعایت می‌شوند را نمی‌توانی بدانی :D. ما فقط می‌توانیم آن‌ها را به‌عنوان نواحی مورد علاقه علامت بزنیم و PA را زیر نظر داشته باشیم.
+
+Dengaima
+
+### edges_p6_7
+EN: Each level should pick up clean orders and hit first opposing TG. If
+it blasts through or only has a tiny retrace without hitting first TG, I
+ consider it ignored. We need to ask ourselves why it has not reacted as
+ expected :)
+FA: هر سطحی باید سفارش‌های تمیز را بردارد و به اولین TG مقابل برسد. اگر از آن عبور کند یا فقط یک اصلاح خیلی کوچک داشته باشد بدون اینکه به همان TG اول برسد، من آن را نادیده‌گرفته‌شده حساب می‌کنم. باید از خودمان بپرسیم چرا آن‌طور که انتظار داشتیم واکنش نداده :)
+
+### edges_p6_8
+EN: See if I get a fill XAUEUR
+FA: ببینم روی XAUEUR فیل می‌شوم یا نه
+
+### edges_p6_9
+EN: Touch Trade scalp, bit late but allowed enough R. The approach on a
+higher scale to the zone and clean orders where enough as opposed to
+waiting for PA
+FA: اسکالپ تاچ‌ترید؛ کمی دیر بود اما R کافی داد. نزدیک شدن در مقیاس بالاتر به زون و سفارش‌های تمیز، آن‌قدر کافی بود که لازم نباشد منتظر PA بمانم
+
+### edges_p6_11
+EN: @S
+
+Shh!!! we will need the liquidity above the Double top to our MPL to get the shorts filled.
+FA: @S
+
+هیس!!! ما به نقدینگی بالای سقف دوقلو تا MPL خودمان نیاز داریم تا شورت‌ها پر شوند.
+
+### edges_p6_12
+EN: Random Walk theory my a@@! ....
+FA: تئوری «گشت تصادفی» ... برو بابا ....
+
+### edges_p6_13
+EN: Quick scalp before bed.
+FA: یک اسکالپ سریع قبل از خواب.
+
+### edges_p6_14
+EN: Belated congratulations Edge, and thanks for helping me understand things better with your posts!
+FA: تبریک با تأخیر Edge، و ممنون که با پست‌هایت کمک کردی چیزها را بهتر بفهمم!
+
+### edges_p6_15
+EN: Edge wrote: Random Walk theory my a@@! ....
+
+Hi Edge
+
+I just wanted to clarify my understanding. Did I mark the right TG for it to be a respected LSK?
+FA: Edge نوشت: تئوری «گشت تصادفی» ... برو بابا ....
+
+سلام Edge
+
+فقط می‌خواستم درکم را روشن کنم. آیا TG درست را علامت زده‌ام تا یک LSK رعایت‌شده داشته باشیم؟
+
+### edges_p6_16
+EN: Edge wrote: Touch Trade scalp,
+bit late but allowed enough R. The approach on a higher scale to the
+zone and clean orders where enough as opposed to waiting for PA
+
+I apologize ahead if the answer to my question is obvious.
+
+Why is it considered clean despite the retracement?
+FA: Edge نوشت: اسکالپ تاچ‌ترید؛ کمی دیر بود اما R کافی داد. نزدیک شدن در مقیاس بالاتر به زون و سفارش‌های تمیز، آن‌قدر کافی بود که لازم نباشد منتظر PA بمانم
+
+از قبل عذرخواهی می‌کنم اگر جواب سؤالم واضح باشد.
+
+با وجود اصلاح، چرا تمیز حساب می‌شود؟
+
+### edges_p6_17
+EN: @WinnerTrader: Thanks mate, thats very kind
+
+@EM: . In regards to that zone, There were clean orders there a little
+higher. Remember that price is only consumed up to the tip of the
+highest price printed on the retrace. Further to this, I had some other
+confluence on a higher scale, and the approach was enough for me to get
+in with a scalp. :)
+FA: @WinnerTrader: ممنون رفیق، لطف داری
+
+@EM: . دربارهٔ آن زون، کمی بالاتر از آنجا سفارش‌های تمیز وجود داشت. یادت باشد که قیمت فقط تا نوک بالاترین قیمت ثبت‌شده در اصلاح مصرف می‌شود. علاوه بر این، در مقیاس بالاتر هم‌راستایی دیگری هم داشتم و همان نزدیک شدن برایم کافی بود تا با یک اسکالپ وارد شوم. :)
+
+### edges_p6_18
+EN: Edge wrote: @EM: . In regards to
+ that zone, There were clean orders there a little higher. Remember that
+ price is only consumed up to the tip of the highest price printed on
+the retrace. Further to this, I had some other confluence on a higher
+scale, and the approach was enough for me to get in with a scalp. :)
+
+My thoughts on clean zones has always been- when a zone has been
+retraced to and if you can no longer find smaller zones within that zone
+ then the zone is used.
+
+Thanks for the help. :)
+FA: Edge نوشت: @EM: . دربارهٔ آن زون، کمی بالاتر از آنجا سفارش‌های تمیز وجود داشت. یادت باشد که قیمت فقط تا نوک بالاترین قیمت ثبت‌شده در اصلاح مصرف می‌شود. علاوه بر این، در مقیاس بالاتر هم‌راستایی دیگری هم داشتم و همان نزدیک شدن برایم کافی بود تا با یک اسکالپ وارد شوم. :)
+
+نظر من دربارهٔ زون‌های تمیز همیشه این بوده: وقتی قیمت به یک زون اصلاح کرده و دیگر نمی‌توانی داخل همان زون زون‌های کوچک‌تری پیدا کنی، آن زون مصرف شده است.
+
+ممنون از کمکت. :)
+
+### edges_p6_19
+EN: The convict chart. Being an aussie, Its my go to pair.
+FA: نمودار محکوم‌ها. چون استرالیایی هستم، جفت‌ارزی است که همیشه اول سراغش می‌روم.
+
+### edges_p6_22
+EN: Edge,
+
+What made you use this LS as opposed to any of the others in that area?
+FA: Edge،
+
+چه چیزی باعث شد از این LS استفاده کنی و نه از بقیهٔ LS‌های آن ناحیه؟
+
+### edges_p6_23
+EN: A little bit of slippage but entered with a market order for a touch trade. Still a nice amount of R!
+FA: کمی اسلیپیج داشت اما برای یک تاچ‌ترید با سفارش مارکت وارد شدم. با این حال مقدار قشنگی R داد!
+
+### edges_p6_24
+EN: josh1125 wrote: Edge,
+
+What made you use this LS as opposed to any of the others in that area?
+
+Hi Josh, it lined up with a the low just left of my zone, which was a
+LS. I like confluence around areas where decisions have been made in the
+ past. Always find nice tricks around these areas
+FA: josh1125 نوشت: Edge،
+
+چه چیزی باعث شد از این LS استفاده کنی و نه از بقیهٔ LS‌های آن ناحیه؟
+
+سلام Josh، با کفی که دقیقاً سمت چپ زونم بود هم‌راستا شد؛ آن کف هم یک LS بود. من هم‌راستایی در نواحی‌ای را دوست دارم که در گذشته تصمیم‌گیری در آن‌ها انجام شده. همیشه در همین نواحی ترفندهای قشنگی پیدا می‌کنم
+
+### edges_p6_25
+EN: Thanks Edge..I don't know why, but my biggest struggle with picking LS
+ seem to be the fact that there are so many, and they can cut through
+soo many candles.
+
+Edge wrote:
+josh1125 wrote: Edge,
+
+What made you use this LS as opposed to any of the others in that area?
+
+Hi Josh, it lined up with a the low just left of my zone, which was a
+LS. I like confluence around areas where decisions have been made in the
+ past. Always find nice tricks around these areas
+FA: ممنون Edge..‌نمی‌دانم چرا، اما به نظر می‌رسد بزرگ‌ترین مشکلم در انتخاب LS این است که تعدادشان خیلی زیاد است و می‌توانند از میان کلی کندل رد شوند.
+
+Edge نوشت: josh1125 نوشت: Edge،
+
+چه چیزی باعث شد از این LS استفاده کنی و نه از بقیهٔ LS‌های آن ناحیه؟
+
+سلام Josh، با کفی که دقیقاً سمت چپ زونم بود هم‌راستا شد؛ آن کف هم یک LS بود. من هم‌راستایی در نواحی‌ای را دوست دارم که در گذشته تصمیم‌گیری در آن‌ها انجام شده. همیشه در همین نواحی ترفندهای قشنگی پیدا می‌کنم

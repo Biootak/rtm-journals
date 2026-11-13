@@ -1,0 +1,492 @@
+### lespaul_p9_1
+EN: add this to your journal
+
+*GU can be such a turd
+FA: این را به ژورنالت اضافه کن
+
+*GU می‌تواند واقعاً اعصاب‌خردکن باشد
+
+### lespaul_p9_2
+EN: Harry wrote: add this to your journal
+
+*GU can be such a turd
+
+will do right away
+FA: Harry نوشت: این را به ژورنالت اضافه کن
+
+*GU می‌تواند واقعاً اعصاب‌خردکن باشد
+
+همین حالا انجام می‌دهم
+
+### lespaul_p9_3
+EN: EU short - pending order not triggered... deleted
+FA: EU شورت — سفارش معلق فعال نشد... حذف شد
+
+### lespaul_p9_4
+EN: next two trades according to my TP:
+
+1: EURCHF long. I did not like it when it got triggered... so I closed
+it manually soon afterwards... It was rather a subconscious decision...
+(+ 2 pips)
+
+2: AUDJPY long. The trade went through some nasty DD but SL was not hit and it got closed a moment ago (+ 66 pips)
+
+LP
+FA: دو معاملهٔ بعدی طبق TP من:
+
+1: EURCHF خرید. وقتی فعال شد دوستش نداشتم... پس کمی بعد دستی بستمش... بیشتر یک تصمیم ناخودآگاه بود... (+ 2 پیپ)
+
+2: AUDJPY خرید. معامله DD بدی را تحمل کرد، ولی استاپ‌لاس نخورد و همین لحظه پیش بسته شد (+ 66 پیپ)
+
+LP
+
+### lespaul_p9_5
+EN: HI Lp.
+
+Could you please tell me your reasoning for why you went long on AUDJPY?
+
+Thanks
+FA: سلام Lp.
+
+می‌شود لطفاً بگویی استدلالت برای خرید AUDJPY چه بود؟
+
+ممنون
+
+### lespaul_p9_6
+EN: Les_Paul wrote: next two trades according to my TP:
+
+2: AUDJPY long. The trade went through some nasty DD but SL was not hit and it got closed a moment ago (+ 66 pips)
+
+LP
+
+Hey Les! I have two questions on your AUD/JPY trade.
+
+A. I am assuming that lower green area is HTF demand. Using a 4hr chart
+can you help me with the level that you saw. Is it the bigger white area
+ that you were looking at, or the smaller blue area I highlighted?
+
+B. This is a smaller 15min TF that you used to trade from. The white and
+ blue boxes are the same from the 240. My question is why you went long
+where you did? I am assuming you saw the PA that started from the purple
+ arrow and wanted to go long. Was there a reason you did not wait for
+price to return to the source of the engulf by the yellow arrow?
+
+Thanks,
+
+H
+FA: Les_Paul نوشت: دو معاملهٔ بعدی طبق TP من:
+
+2: AUDJPY خرید. معامله DD بدی را تحمل کرد، ولی استاپ‌لاس نخورد و همین لحظه پیش بسته شد (+ 66 پیپ)
+
+LP
+
+سلام Les! دو سؤال دربارهٔ معاملهٔ AUD/JPY تو دارم.
+
+A. حدس می‌زنم آن ناحیهٔ سبز پایینی تقاضای HTF است. با استفاده از نمودار 4 ساعته می‌توانی کمکم کنی ببینم چه سطحی را دیدی؟ ناحیهٔ سفید بزرگ‌تر را مد نظر داشتی یا ناحیهٔ آبی کوچک‌تری که علامت زده‌ام؟
+
+B. این یک تایم‌فریم کوچک‌تر 15 دقیقه است که از آن معامله می‌کردی. باکس‌های سفید و آبی همان‌های 240 هستند. سؤالم این است چرا همان‌جا که رفتی خرید کردی؟ حدس می‌زنم PA‌ای را دیدی که از فلش بنفش شروع شد و خواستی خرید کنی. دلیلی داشت که منتظر نماندی قیمت به منبع اینگالفِ فلش زرد برگردد؟
+
+ممنون،
+
+H
+
+### lespaul_p9_7
+EN: Dear Hotochin,
+
+yes, the green rectangle is an H4 demand:
+
+M15: engulf of last swing point that was the source of LL, pending order
+ to buy at the decission point ot engulf. Trailing SL bellow each new
+FTR.
+
+LP
+FA: Hotochin عزیز،
+
+بله، مستطیل سبز یک تقاضای H4 است:
+
+M15: اینگالف آخرین سوئینگ‌پوینت که منبع LL بود؛ سفارش معلق خرید در نقطهٔ تصمیم اینگالف. استاپ‌لاس متحرک زیر هر FTR جدید.
+
+LP
+
+### lespaul_p9_8
+EN: Les_Paul wrote: Dear Hotochin,
+
+yes, the green rectangle is an H4 demand:
+
+M15: engulf of last swing point that was the source of LL, pending order
+ to buy at the decission point ot engulf. Trailing SL bellow each new
+FTR.
+
+LP
+
+Whoa! Hold on there....
+
+This conversation here is the same as the one going on in the other
+thread with you. There is more to look at to the left than what I was
+before! Notice in your 4hr chart that you marked my white box with a
+blue dashed line. Then your green box is my blue box. I was thinking
+that you were looking at either or. The answer seems to be both! Look at
+ the chart below that I have added some markings too.
+
+Thanks,
+
+H
+FA: Les_Paul نوشت: Hotochin عزیز،
+
+بله، مستطیل سبز یک تقاضای H4 است:
+
+M15: اینگالف آخرین سوئینگ‌پوینت که منبع LL بود؛ سفارش معلق خرید در نقطهٔ تصمیم اینگالف. استاپ‌لاس متحرک زیر هر FTR جدید.
+
+LP
+
+وای! یک لحظه صبر کن....
+
+این گفتگو همان گفتگویی است که در تاپیک دیگر با تو جریان دارد. این‌بار چیزهای بیشتری در سمت چپ هست که قبلاً ندیده بودم! در نمودار 4 ساعته‌ات ببین که باکس سفید من را با خط‌چین آبی علامت زده‌ای. بعد باکس سبز تو همان باکس آبی من است. فکر می‌کردم یکی از آن دو را مد نظر داری. جواب ظاهراً هر دو است! نمودار زیر را ببین که چند علامت هم خودم به آن اضافه کرده‌ام.
+
+ممنون،
+
+H
+
+### lespaul_p9_9
+EN: Sorry Les, here is the chart.
+
+Thanks,
+
+H
+FA: ببخش Les، نمودار اینجاست.
+
+ممنون،
+
+H
+
+### lespaul_p9_10
+EN: Hotochin wrote: Sorry Les, here is the chart.
+
+Thanks,
+
+H
+
+Oh yes
+
+1: engulf of the FL
+
+2: FTR
+
+3: FTB
+
+Les_Paul
+FA: Hotochin نوشت: ببخش Les، نمودار اینجاست.
+
+ممنون،
+
+H
+
+آه بله
+
+1: اینگالف FL
+
+2: FTR
+
+3: FTB
+
+Les_Paul
+
+### lespaul_p9_11
+EN: Dear Hotochin, I have taken your H4 chart, switched it to H1 for a
+better view and marked the behaviour of the price in 3 steps. I hope it
+is helpful.
+
+Les_Paul
+FA: Hotochin عزیز، نمودار H4 تو را گرفتم، برای دید بهتر به H1 بردم و رفتار قیمت را در 3 مرحله علامت زدم. امیدوارم کمک کند.
+
+Les_Paul
+
+### lespaul_p9_12
+EN: Hey L_P
+
+Thanks for the nice 3 chart walkthrough very enlightening...
+
+I know that we are close to 4hr demand and one would not take it but
+where I marked the big black arrow is this considered the FTB into that
+initial flag (FTR) you marked?
+FA: سلام L_P
+
+ممنون از این مرور سه‌نموداره‌ای قشنگ، خیلی روشنگر بود...
+
+می‌دانم که به تقاضای 4 ساعته نزدیک هستیم و کسی آن را معامله نمی‌کند، ولی جایی که فلش مشکی بزرگ را زده‌ام، آیا این هم FTB به همان فلگ اولیه (FTR) حساب می‌شود که علامت زدی؟
+
+### lespaul_p9_13
+EN: pres78 wrote: Hey L_P
+
+Thanks for the nice 3 chart walkthrough very enlightening...
+
+I know that we are close to 4hr demand and one would not take it but
+where I marked the big black arrow is this considered the FTB into that
+initial flag (FTR) you marked?
+
+Yes, that's right!
+FA: pres78 نوشت: سلام L_P
+
+ممنون از این مرور سه‌نموداره‌ای قشنگ، خیلی روشنگر بود...
+
+می‌دانم که به تقاضای 4 ساعته نزدیک هستیم و کسی آن را معامله نمی‌کند، ولی جایی که فلش مشکی بزرگ را زده‌ام، آیا این هم FTB به همان فلگ اولیه (FTR) حساب می‌شود که علامت زدی؟
+
+بله، درست است!
+
+### lespaul_p9_14
+EN: Les_Paul wrote: Dear Hotochin, I
+ have taken your H4 chart, switched it to H1 for a better view and
+marked the behaviour of the price in 3 steps. I hope it is helpful.
+
+Les_Paul
+
+Hey Les, that chart helps me tons. I knew there had to be more to look
+at when finding FTR's. I clearly was not looking back far enough with
+price. The one thing I am surprised at is that you look at the areas
+pointed to with yellow arrows. I understand the red arrow, but am
+surprised at the yellow ones. Now if you were looking at the 4hr chart
+the red arrow would be the only important one, right?
+
+Thanks,
+
+H
+FA: Les_Paul نوشت: Hotochin عزیز، نمودار H4 تو را گرفتم، برای دید بهتر به H1 بردم و رفتار قیمت را در 3 مرحله علامت زدم. امیدوارم کمک کند.
+
+Les_Paul
+
+سلام Les، آن نمودار حسابی کمکم می‌کند. می‌دانستم موقع پیدا کردن FTR‌ها باید بیشتر نگاه کرد. واضح است که به‌اندازهٔ کافی در قیمت به عقب نگاه نمی‌کردم. تنها چیزی که شگفت‌زده‌ام می‌کند این است که به ناحیه‌هایی که فلش‌های زرد نشان می‌دهند هم نگاه می‌کنی. فلش قرمز را می‌فهمم، ولی از فلش‌های زرد تعجب می‌کنم. حالا اگر نمودار 4 ساعته را نگاه می‌کردی، فلش قرمز تنها مورد مهم می‌بود، درست است؟
+
+ممنون،
+
+H
+
+### lespaul_p9_15
+EN: Dear Hotochin,
+
+obviously, the lower you go in time frames, the more details you can
+see... It is just like using a magnifying glass or microscope....
+
+So yes, on H4 you cannot see the FTR's... and the red arrow is important ;-)
+
+Les_Paul
+FA: Hotochin عزیز،
+
+معلوم است که هرچه در تایم‌فریم‌ها پایین‌تر بروی، جزئیات بیشتری می‌بینی... درست مثل استفاده از ذره‌بین یا میکروسکوپ....
+
+پس بله، روی H4 این FTR‌ها را نمی‌بینی... و فلش قرمز مهم است ;-)
+
+Les_Paul
+
+### lespaul_p9_16
+EN: SHORT CHFJPY, no more trades until the market settles down after FOMC!
+FA: CHFJPY شورت؛ تا بعد از FOMC و آرام شدن بازار معاملهٔ دیگری نمی‌گیرم!
+
+### lespaul_p9_17
+EN: Hi!
+
+I want to show two setups here: in conventional terminology it is Demand-turned-supply zone (SWAP ZONE).
+
+However, behind this technocratic term there are novice traders who are trapped in losing positions:
+
+1 - demand is created and people unaware of the fact that price just left HTF RBD zone buy.
+
+2 - demand is engulfed and these people suddenly have losing positions
+
+3 - price revisits zone and people liquidate losing positions at BE.
+
+Big money use these trick very often and it's tradable nicely.
+
+a) find trapped traders
+
+b) find DP within the swap zone - DP to engulf demand
+
+c) open position upon retest of the DP (SL above DP or above zone)
+
+Les_Paul
+
+EDIT: according to my observation, the setups appear mostly after leaving HTF S/D to add to buying / selling pressure
+
+they are good "with trend" setups
+FA: سلام!
+
+می‌خواهم اینجا دو ستاپ را نشان دهم: در اصطلاح متعارف، ناحیه‌ای که تقاضا بوده و به عرضه تبدیل شده (ناحیهٔ سوآپ یا SWAP ZONE).
+
+با این حال، پشت این اصطلاح تکنوکراتیک، معامله‌گران تازه‌کاری هستند که در پوزیشن‌های ضررده گیر افتاده‌اند:
+
+1 - تقاضا ساخته می‌شود و کسانی که نمی‌دانند قیمت تازه از ناحیهٔ RBD در HTF خارج شده، خرید می‌کنند.
+
+2 - تقاضا اینگالف می‌شود و همین افراد ناگهان پوزیشن ضررده دارند
+
+3 - قیمت به ناحیه برمی‌گردد و افراد پوزیشن‌های ضررده را در سربه‌سر می‌بندند.
+
+پول بزرگ خیلی وقت‌ها از این ترفند استفاده می‌کند و به‌شکل خوبی قابل معامله است.
+
+a) معامله‌گران به‌دام‌افتاده را پیدا کن
+
+b) DP را داخل ناحیهٔ سوآپ پیدا کن — DPِ حاصل از اینگالف تقاضا
+
+c) با ری‌تست DP پوزیشن باز کن (استاپ‌لاس بالای DP یا بالای ناحیه)
+
+Les_Paul
+
+ویرایش: طبق مشاهدهٔ من، این ستاپ‌ها بیشتر بعد از خروج از S/D در HTF ظاهر می‌شوند تا فشار خرید/فروش را تقویت کنند
+
+این‌ها ستاپ‌های خوبی «هم‌جهت با روند» هستند
+
+### lespaul_p9_18
+EN: the same mechanics... but doubled ....
+FA: همان مکانیک... ولی دو برابر ....
+
+### lespaul_p9_19
+EN: Hi Paul,
+
+Have been reading your content and your teaching to our colleagues here.....its beautiful.You are tirelessly explaining up to you.....I felt I should ask you my query.
+
+Attached is screenshot.....my question is in RED FONT.Request your help on it.
+FA: سلام Paul،
+
+مدتی است محتوای تو و آموزش‌هایت به همکارانمان را می‌خوانم..... زیباست. بی‌وقفه داری توضیح می‌دهی..... حس کردم باید سوالم را از تو بپرسم.
+
+اسکرین‌شات پیوست است..... سوالم با فونت قرمز نوشته شده. از تو کمک می‌خواهم.
+
+### lespaul_p9_20
+EN: Also attached is a LTF Chart for youre reference.
+FA: یک نمودار LTF هم برای مراجعت پیوست است.
+
+### lespaul_p9_21
+EN: Dear harshrthakkar!
+
+I do not have this instrument, to I cannot look at different TF, but
+from what I can see in your charts I would say it's a reaction to Flag
+Limit:
+
+Les_Paul
+FA: harshrthakkar عزیز!
+
+این ابزار را ندارم، پس نمی‌توانم تایم‌فریم‌های دیگرش را ببینم؛ ولی از آنچه در نمودارهایت می‌بینم، می‌گویم واکنشی به حد FL است:
+
+Les_Paul
+
+### lespaul_p9_22
+EN: Thank You for your teaching.
+FA: ممنون از آموزشت.
+
+### lespaul_p9_23
+EN: Les_Paul wrote: Hi!
+
+I want to show two setups here: in conventional terminology it is Demand-turned-supply zone (SWAP ZONE).
+
+However, behind this technocratic term there are novice traders who are trapped in losing positions:
+
+1 - demand is created and people unaware of the fact that price just left HTF RBD zone buy.
+
+2 - demand is engulfed and these people suddenly have losing positions
+
+3 - price revisits zone and people liquidate losing positions at BE.
+
+Big money use these trick very often and it's tradable nicely.
+
+a) find trapped traders
+
+b) find DP within the swap zone - DP to engulf demand
+
+c) open position upon retest of the DP (SL above DP or above zone)
+
+Les_Paul
+
+EDIT: according to my observation, the setups appear mostly after leaving HTF S/D to add to buying / selling pressure
+
+they are good "with trend" setups
+
+Nice work Les!
+
+So in your 15min chart you have a HTF zone marked in blue. You mean that
+ zone is higher than 15min, right? And when you are picking those HTF
+zones you are basically doing the same thing as you are in the green,
+right?
+
+Here is a chart from the EUR 4hr back on the 8 of July. Notice the
+supply that got ignored when price rallied up? That would be a good
+place to look for longs when price returns to the DP, right?
+
+Here is the 15min view of that 4hr area. The plan would be to go long at the DP which is marked by the blue box, right?
+
+Thanks,
+
+H
+FA: Les_Paul نوشت: سلام!
+
+می‌خواهم اینجا دو ستاپ را نشان دهم: در اصطلاح متعارف، ناحیه‌ای که تقاضا بوده و به عرضه تبدیل شده (ناحیهٔ سوآپ یا SWAP ZONE).
+
+با این حال، پشت این اصطلاح تکنوکراتیک، معامله‌گران تازه‌کاری هستند که در پوزیشن‌های ضررده گیر افتاده‌اند:
+
+1 - تقاضا ساخته می‌شود و کسانی که نمی‌دانند قیمت تازه از ناحیهٔ RBD در HTF خارج شده، خرید می‌کنند.
+
+2 - تقاضا اینگالف می‌شود و همین افراد ناگهان پوزیشن ضررده دارند
+
+3 - قیمت به ناحیه برمی‌گردد و افراد پوزیشن‌های ضررده را در سربه‌سر می‌بندند.
+
+پول بزرگ خیلی وقت‌ها از این ترفند استفاده می‌کند و به‌شکل خوبی قابل معامله است.
+
+a) معامله‌گران به‌دام‌افتاده را پیدا کن
+
+b) DP را داخل ناحیهٔ سوآپ پیدا کن — DPِ حاصل از اینگالف تقاضا
+
+c) با ری‌تست DP پوزیشن باز کن (استاپ‌لاس بالای DP یا بالای ناحیه)
+
+Les_Paul
+
+ویرایش: طبق مشاهدهٔ من، این ستاپ‌ها بیشتر بعد از خروج از S/D در HTF ظاهر می‌شوند تا فشار خرید/فروش را تقویت کنند
+
+این‌ها ستاپ‌های خوبی «هم‌جهت با روند» هستند
+
+کار قشنگی بود Les!
+
+پس در نمودار 15 دقیقه‌ات یک ناحیهٔ HTF با آبی علامت زده‌ای. منظورت این است که آن ناحیه از 15 دقیقه بالاتر است، درست است؟ و وقتی این ناحیه‌های HTF را انتخاب می‌کنی، اساساً همان کاری را می‌کنی که در سبز انجام دادی، درست است؟
+
+این نمودار EUR در تایم 4 ساعته مربوط به 8 جولای است. آن عرضه‌ای را که وقتی قیمت بالا رفت نادیده گرفته شد می‌بینی؟ آنجا جای خوبی برای جست‌وجوی خرید است وقتی قیمت به DP برمی‌گردد، درست است؟
+
+این نمای 15 دقیقه از همان ناحیهٔ 4 ساعته است. پلن این می‌شد که در DP که با باکس آبی علامت زده شده خرید کنیم، درست است؟
+
+ممنون،
+
+H
+
+### lespaul_p9_24
+EN: Dear Hotochin,
+
+thank you for the example. Well, I haven't looked at many examples in
+H4, to be honest, but same principle should be applicable. (On the other hand, I cannot imagine trapped trader who would bear suffering for more than month with DD over 700 pips... )
+
+But you are right, there is a DP within the swap zone... If you go to
+M5, however, you'll see that the DP is taken.... So definitely no touch
+trade, I would say....
+
+Les_Paul
+FA: Hotochin عزیز،
+
+ممنون از مثال. راستش من مثال زیادی در H4 نگاه نکرده‌ام، ولی باید همان اصل کار کند. (از طرف دیگر، نمی‌توانم معامله‌گر به‌دام‌افتاده‌ای را تصور کنم که بیش از یک ماه با DD بالای 700 پیپ دردش را تحمل کند... )
+
+ولی حق با توست، داخل ناحیهٔ سوآپ یک DP هست... اما اگر به M5 بروی می‌بینی که آن DP گرفته شده.... پس قطعاً معاملهٔ تاچ در کار نیست، به نظر من....
+
+Les_Paul
+
+### lespaul_p9_25
+EN: Thanks for the reply Les. I actually just posted another similar
+comment in the RBD/DBR thread. I have to comment on something you said
+though. You had said to look at the lower 5min TF and I would see that
+the DP was used. So you look at the very small TF even if you are
+looking at 4hr or so charts? I guess I thought there was a point that
+you did not go to lower TF. For example, if I am watching weekly/daily
+levels, its seems to be overkill to look at those areas on a 1 min
+chart. Or is it? I guess what I am saying is, do you always have to go
+down to a 1min chart regardless of TF?
+
+Thanks,
+
+H
+FA: ممنون از جوابت Les. راستش همین حالا یک کامنت مشابه دیگر در تاپیک RBD/DBR گذاشتم. ولی باید روی چیزی که گفتی نظر بدهم. گفته بودی به تایم‌فریم کوچک‌تر 5 دقیقه نگاه کن تا ببینم آن DP استفاده شده. پس حتی وقتی نمودار 4 ساعته یا چیزی شبیه آن را نگاه می‌کنی، به تایم‌فریم خیلی کوچک هم سر می‌زنی؟ حدس می‌زنم فکر می‌کردم نقطه‌ای هست که دیگر پایین‌تر نمی‌روی. مثلاً اگر سطوح هفتگی/روزانه را می‌پایم، نگاه کردن به آن ناحیه‌ها روی نمودار 1 دقیقه زیادی به نظر می‌رسد. یا نه؟ حرفم این است که آیا همیشه باید بدون توجه به تایم‌فریم تا نمودار 1 دقیقه پایین بیایی؟
+
+ممنون،
+
+H

@@ -1,0 +1,635 @@
+
+===== POST 1 | frosty_p7_1 | Frosty =====
+--- EN ---
+Please note that this post is only an attempt to convey what I understand up to now regarding RTM materials. It might not be correct and, therefore, it would be best if read from a point of view that would correct and challenge my understanding rather than as a fact. Please also note that the drawings are super simplified and turning points are not placed exactly where they should. These drawings are done just to convey a concept rather than to create precision models.
+
+Now that is out of the way, I'll try to keep this post as short as possible. It is a rare time that I can get a timeout from day job and Edge's comment on Enkim's journal really make me want to figure it out. The guidance was: when we have an EG ask yourself how far can something retrace and what would be some factors determining this. think in terms of the area being engulfed. Where has it happened?
+
+I haven't been able to answer that question properly personally, but by reading Salivan's journal a few times since last month, I remember one out of many things that he emphasized all RTM-ers should do, and that is to focus on the orders, not the rectangles. This is what I have been trying to do since Edge posted that comment above.
+
+To start off, I paused trading activity, not because I've given up and became lazy, but because I don't really know what to look for from the losses that occured. Surely everything could be explained by curve-fitting, but I understand that would be a futile attempt because you could fit in many reasons that may be incorrect to justify why price turned at the SL level or beyond. I believe it comes down to the understanding of free/clean orders, just like master Salivan said. I'll be honest with all of you here: I think what I looked for before in trades, win or lose, are mostly patterns that could justify entry, SL and TP without actually thinking about where the orders lie and where is price mostly attracted to.
+
+So when first I came to RTM and studied the basics literally, this is what I thought I understand to trade the RTM way properly: Even people starting out would immediately see that this is overly simplistic and unpractical. Just look at real charts. If all the charts follow this simplistic algorithm, then it would be too easy to make money and retire happy before the age of 30 for most traders. Surely many would've figured this out since the beginning of the creation of markets.
+
+Then after that simplistic view, and hours of chart time, watching those flag forms in M5 charts, this scenario came about to throw me off balance and really scrambled my brain: So, I then went to copy many RTM materials, print them out, read it in the remaining spare time (read: life) I have and try to figure out why the above scenario could happen. I think most that left RTM can't properly solve the above puzzle and therefore, they think RTM is teaching the wrong stuff.
+
+Well, we all should know different, because many talented people here have proven that all the trades are planned and posted in advance and not after the trade was made. We all just need time to figure it out. Some, like me, would probably take longer to figure it out, but I really believe if you think you have it in you, you will eventually get it. I'm enjoying my journey because as all skills, I think it is best to view it as a journey rather than a destination. We all have our own race, and trying to run when you know you aren't capable of running yet will just make you stumble, hurt, and bleed.
+
+OK, with the above personal self-help BS ramblings done (definitely for myself only, please excuse me), many hints was thrown around RTM already up until now. I thank the generosity of many awesome people in RTM for these hints. Hopefully, it will sink in into my thick skull sooner or later. These are the few hints that I think would solve the confusion in with the second image above.
+
+After thinking only about these hints for a few days, I decided to add additional markings on the chart that IF marked in Enkim's journal (thank you for your question, btw brother. I also had the same question but haven't had the words or diagram to put it into a post). I read the hints, and I read all the markings in that diagram. It seems to me that everything is in the right place, but again, my understanding could be extremely flawed. I think this part is very crucial for me and I really appreciate any inputs anyone could give me. If this is along the right track, next thing I would do is validate them on charts.
+
+I apologize for not diving straight to the charts, because I think this issue is best explained in simpler drawings, not to reduce the complexity, but to reallyunderstand the basic concepts oforder flow behind it.
+
+Again, sorry for the wordy post. I really really appreciate the time for you to read this and any comments on this. Even a simple yes/no answer would suffice so I can actually go on into the charts to practice or rethink about the concepts again.
+--- FA ---
+لطفاً توجه کنید که این پست فقط تلاشی است برای انتقال آنچه تا امروز از مطالب RTM فهمیده‌ام. ممکن است درست نباشد و بنابراین بهتر است آن را از این زاویه بخوانید که فهم من را اصلاح و به چالش بکشد، نه اینکه آن را واقعیت مسلّم بگیرید. لطفاً این را هم در نظر داشته باشید که رسم‌ها بسیار ساده‌شده‌اند و نقاط چرخش دقیقاً همان جایی که باید باشند، قرار نگرفته‌اند. این رسم‌ها فقط برای انتقال یک مفهوم کشیده شده‌اند، نه برای ساختن مدل‌های دقیق.
+
+حالا که این را گفتیم، سعی می‌کنم این پست را تا حد امکان کوتاه نگه دارم. به‌ندرت پیش می‌آید که از کار روزانه فرصت خلاصی پیدا کنم و کامنت Edge روی ژورنال Enkim واقعاً باعث شد بخواهم این را حل کنم. راهنمایی این بود: وقتی یک EG داریم، از خودت بپرس قیمت چقدر می‌تواند ریتریس کند و چه عواملی این را تعیین می‌کنند. به ناحیه‌ای که اینگالف شده فکر کن. کجا این اتفاق افتاده است؟
+
+شخصاً نتوانسته‌ام به آن سؤال درست جواب بدهم، اما از ماه گذشته که چند بار ژورنال Salivan را خوانده‌ام، یکی از میان چیزهای زیادی که او تأکید می‌کرد همهٔ اهالی RTM باید انجام دهند یادم مانده: تمرکز روی سفارش‌ها، نه روی مستطیل‌ها. از وقتی Edge آن کامنت بالا را گذاشت، همین کار را در پیش گرفته‌ام.
+
+برای شروع، فعالیتم را متوقف کردم؛ نه چون تسلیم شده‌ام و تنبل شده‌ام، بلکه چون واقعاً نمی‌دانم از ضررهایی که خوردم باید دنبال چه چیزی بگردم. مطمئناً همه‌چیز را می‌شد با curve-fitting توضیح داد، ولی می‌دانم که این تلاشی بی‌فایده است، چون می‌شود کلی دلیل شاید نادرست سرِ هم کرد تا توجیه کنیم چرا قیمت روی سطح SL یا کمی بالاتر از آن برگشت. باور من این است که همهٔ ماجرا به درک سفارش‌های آزاد/تمیز برمی‌گردد، همان‌طور که استاد Salivan گفت. صادقانه بگویم: فکر می‌کنم چیزی که قبلاً در معاملاتم دنبالش می‌گشتم، چه برد و چه باخت، بیشتر الگوهایی بود که می‌شد ورود، SL و تارگت را توجیه کنند، بی‌آنکه واقعاً فکر کنم سفارش‌ها کجا هستند و قیمت بیشتر به کدام ناحیه کشیده می‌شود.
+
+پس وقتی اول به RTM آمدم و مباحث پایه را به‌صورت تحت‌اللفظی خواندم، فکر می‌کردم برای معاملهٔ درست به شیوهٔ RTM این چیزها را فهمیده‌ام: حتی کسانی هم که تازه شروع کرده‌اند فوراً می‌بینند که این خیلی ساده‌سازی‌شده و غیرعملی است. فقط به چارت‌های واقعی نگاه کنید. اگر همهٔ چارت‌ها از این الگوریتم ساده‌سان پیروی می‌کردند، پول درآوردن و بازنشستگی خوشبخت پیش از 30 سالگی برای بیشتر معامله‌گرها خیلی آسان می‌شد. مطمئناً خیلی‌ها از همان ابتدای پیدایش بازارها این را فهمیده بودند.
+
+بعد از آن نگاه ساده‌سازی‌شده و ساعت‌ها نگاه کردن به چارت و تماشای آن فرم‌های FL در چارت‌های M5، این سناریو پیش آمد که تعادلم را به هم بزند و واقعاً مغزم را قاطی کند: بعد رفتم کلی مطالب RTM را کپی کردم، چاپشان کردم، در وقت آزادِ باقی‌مانده‌ام (بخوانید: زندگی‌ام) خواندم و سعی کردم بفهمم چرا سناریوی بالا می‌تواند رخ بدهد. فکر می‌کنم بیشتر کسانی که RTM را ترک کرده‌اند نمی‌توانند این پازل را درست حل کنند و در نتیجه فکر می‌کنند RTM چیز اشتباهی آموزش می‌دهد.
+
+خب، همهٔ ما باید طور دیگری بدانیم، چون آدم‌های مستعد زیادی اینجا ثابت کرده‌اند که همهٔ معامله‌ها از قبل برنامه‌ریزی و منتشر می‌شوند، نه بعد از انجام معامله. همهٔ ما فقط زمان لازم داریم تا آن را حل کنیم. بعضی‌ها، مثل من، احتمالاً بیشتر طول می‌کشد تا حلش کنند، ولی واقعاً باور دارم اگر فکر می‌کنی این توان را داری، در نهایت به آن می‌رسی. من از مسیرم لذت می‌برم، چون مثل همهٔ مهارت‌ها، بهترین کار این است که آن را یک مسیر ببینی، نه یک مقصد. هر کدام از ما مسابقهٔ خودش را دارد و اگر بدوی در حالی که می‌دانی هنوز توان دویدن نداری، فقط زمین می‌خوری، درد می‌کشی و خون می‌دهی.
+
+خب، با تمام شدن این چرت‌وپرت‌ها و پرت‌وپلاهای خودیارانهٔ شخصی بالا (قطعاً فقط برای خودم؛ ببخشید)، تا حالا اشاره‌های زیادی در RTM پخش شده است. از سخاوت خیلی از آدم‌های فوق‌العاده در RTM برای این اشاره‌ها ممنونم. امیدوارم دیر یا زود در این کلهٔ کلفت من جا بیفتد. این‌ها چند اشاره‌ای است که فکر می‌کنم ابهام مربوط به تصویر دوم بالا را حل می‌کند.
+
+بعد از چند روز که فقط به این اشاره‌ها فکر کردم، تصمیم گرفتم نشانه‌گذاری‌های بیشتری به چارتی که IF در ژورنال Enkim علامت زده بود اضافه کنم (راستی برادر، ممنون از سوالت. من هم همین سؤال را داشتم، ولی واژه‌ها یا نموداری نداشتم که آن را در قالب یک پست بنویسم). اشاره‌ها را خواندم و همهٔ علامت‌های آن نمودار را هم خواندم. به نظر خودم همه‌چیز سر جای درست است، ولی باز هم ممکن است فهم من به‌شدت ایراد داشته باشد. فکر می‌کنم این بخش برای من خیلی حیاتی است و از هر نکته‌ای که کسی بتواند بدهد واقعاً ممنون می‌شوم. اگر مسیر درست باشد، قدم بعدی‌ام این است که آن‌ها را روی چارت‌ها اعتبارسنجی کنم.
+
+عذر می‌خواهم که مستقیم سراغ چارت‌ها نرفتم، چون فکر می‌کنم این موضوع را بهتر است با رسم‌های ساده‌تر توضیح داد؛ نه برای کم کردن پیچیدگی، بلکه برای اینکه واقعاً مفاهیم پایهٔ جریان سفارش پشت آن را بفهمیم.
+
+باز هم ببخشید که پست طولانی شد. واقعاً واقعاً از وقتی که برای خواندنش گذاشتید و از هر نظری دربارهٔ آن ممنونم. حتی یک جواب سادهٔ بله/خیر هم کافی است تا واقعاً بتوانم سراغ چارت‌ها بروم و تمرین کنم یا دوباره در مفاهیم بازنگری کنم.
+
+===== POST 2 | frosty_p7_2 | jacktrader =====
+--- EN ---
+you remind me of this.:D
+--- FA ---
+تو من را یاد این می‌اندازی :D
+
+===== POST 3 | frosty_p7_3 | Enkim =====
+--- EN ---
+Hi Frosty - i would suggest you to simplify your trading by only takeing trades in MPL of HTF FL where ARE clean orders. Then you dont need to worry about DMs and there is high probability that after price in LTF makes valid ENG you know that price already hit its target in HTF and it will go to its target BEFORE it breaks edge of HTF FL (my first question in my journal:)). Then It is strait forward - just trade after engulf with SL placed above MPL of HTF FL (if you are not sure) or pick the right place in LTF with tiny SL where clean orders are. As for me i had great heureka last week after reading last Salivans trade. Then it finally came to me and since then i had only good trades. Of course there is plenty of things i can do wrong but i allready know if i make a mistake. BTW the same as i told you here is just copy pasted IFs instructions how to trade QMs. But until now i was unable to uderstand what exactly are these targets and how to identify valid ENG (and how to find good HTF spot). I wish you many heurekas as well bro edit: the best way how to trade and understand the price at the same time will be knowing from where and where the price is going in every higher TF - that is what i am trying to study now - and that is just price reading article and all salivans work.. Its is intriguing subject to study i must say:)
+
+EDIT 2: i wanted to give you some charts as examples, but look at pedro and his last gold trade - that is what i mentReally great trade he did there
+--- FA ---
+سلام Frosty - پیشنهاد می‌کنم معامله‌گری‌ات را ساده‌تر کنی: فقط در MPL مربوط به FL تایم‌فریم بالاتر معامله کن، جایی که واقعاً سفارش‌های تمیز وجود دارند. آن‌وقت لازم نیست نگران DMها باشی و احتمال زیادی وجود دارد که وقتی قیمت در تایم‌فریم پایین‌تر یک ENG معتبر می‌سازد، بدانی قیمت پیش‌تر به تارگتش در تایم‌فریم بالاتر رسیده و پیش از آنکه لبهٔ FL تایم‌فریم بالاتر را بشکند، به تارگتش می‌رود (اولین سؤال من در ژورنالم :)). بعدش دیگر ساده است - فقط بعد از اینگالف معامله کن با SL بالای MPL مربوط به FL تایم‌فریم بالاتر (اگر مطمئن نیستی)، یا جای درست را در تایم‌فریم پایین‌تر با SL کوچک انتخاب کن، آنجا که سفارش‌های تمیز هستند. برای خودم هفتهٔ پیش بعد از خواندن آخرین معاملهٔ Salivan یک یوریکای عالی داشتم. آن‌وقت بالاخره برایم روشن شد و از آن موقع فقط معاملات خوب داشته‌ام. البته چیزهای زیادی هست که می‌توانم اشتباه انجام دهم، ولی دیگر می‌دانم کِی اشتباه می‌کنم. راستی، همین چیزی که اینجا گفتم، کپی‌پیست دستورالعمل‌های IF برای معاملهٔ QMهاست. اما تا حالا نتوانسته‌ام بفهمم این تارگت‌ها دقیقاً چه هستند و چطور ENG معتبر را تشخیص بدهم (و چطور نقطهٔ خوب در تایم‌فریم بالاتر پیدا کنم). امیدوارم تو هم یوریکاهای زیادی داشته باشی برادر. ویرایش: بهترین راه برای معامله کردن و همزمان فهمیدن قیمت این است که بدانی قیمت در هر تایم‌فریم بالاتر از کجا می‌آید و به کجا می‌رود - همین است که الان رویش کار می‌کنم - و آن هم فقط مقالهٔ price reading و همهٔ کارهای Salivan است. باید بگویم موضوع جذابی برای مطالعه است :)
+
+ویرایش 2: می‌خواستم چند چارت به‌عنوان مثال بفرستم، ولی به Pedro و آخرین معاملهٔ طلایش نگاه کن - منظورم همان بود. واقعاً معاملهٔ عالی‌ای انجام داد.
+
+===== POST 4 | frosty_p7_4 | staurum =====
+--- EN ---
+"To start off, I paused trading activity, not because I've given up and became lazy, but because I don't really know what to look for from the losses that occured. Surely everything could be explained by curve-fitting, but I understand that would be a futile attempt because you could fit in many reasons that may be incorrect to justify why price turned at the SL level or beyond. I believe it comes down to the understanding of free/clean orders, just like master Salivan said. I'll be honest with all of you here: I think what I looked for before in trades, win or lose, are mostly patterns that could justify entry, SL and TP without actually thinking about where the orders lie and where is Welcome to the city of conscious incompetence So you would've realised by now that trading & analysing is a world distant, and by trading real, u'll find that analysing other's trades are so much easier than done.
+
+I'm so happy at your progress, to be honest.
+
+This could be how you look: It's perhaps time to do what BruseVSN did, or just really slow down and start putting together what you already know, piece by piece slowly, but try doing it unconsciously too (this is not non-sense) hehe... just imho, u already have everything. so let loose a bit, but keep going and never lose faith.
+
+Somehow, u will find the exit road to the next city though. so just enjoy while you're in it.
+--- FA ---
+«برای شروع، فعالیتم را متوقف کردم؛ نه چون تسلیم شده‌ام و تنبل شده‌ام، بلکه چون واقعاً نمی‌دانم از ضررهایی که خوردم باید دنبال چه چیزی بگردم. مطمئناً همه‌چیز را می‌شد با curve-fitting توضیح داد، ولی می‌دانم که این تلاشی بی‌فایده است، چون می‌شود کلی دلیل شاید نادرست سرِ هم کرد تا توجیه کنیم چرا قیمت روی سطح SL یا کمی بالاتر از آن برگشت. باور من این است که همهٔ ماجرا به درک سفارش‌های آزاد/تمیز برمی‌گردد، همان‌طور که استاد Salivan گفت. صادقانه بگویم: فکر می‌کنم چیزی که قبلاً در معاملاتم دنبالش می‌گشتم، چه برد و چه باخت، بیشتر الگوهایی بود که می‌شد ورود، SL و تارگت را توجیه کنند، بی‌آنکه واقعاً فکر کنم سفارش‌ها کجا هستند و قیمت بیشتر به کدام ناحیه کشیده» به شهر «ناتوانی آگاهانه» خوش آمدی. پس تا حالا باید فهمیده باشی که معامله‌گری و تحلیل دو دنیای دور از هم هستند و وقتی واقعاً معامله کنی، می‌بینی تحلیل معاملات دیگران خیلی ساده‌تر از انجام دادنش است.
+
+راستش از پیشرفتت خیلی خوشحالم.
+
+شاید قیافه‌ات این‌طور باشد: احتمالاً وقتش رسیده همان کاری را بکنی که BruseVSN کرد، یا واقعاً سرعتت را کم کنی و شروع کنی به کنار هم گذاشتن چیزهایی که از قبل می‌دانی، آهسته و تکه‌تکه، ولی سعی کن ناخودآگاه هم این کار را بکنی (این حرف بی‌ربطی نیست) هههه... فقط به نظر من، تو از قبل همه‌چیز را داری. پس کمی رها باش، ولی ادامه بده و هرگز ایمانت را از دست نده.
+
+ولی یک‌جوری راه خروج به شهر بعدی را پیدا می‌کنی. پس تا وقتی در این شهری، از آن لذت ببر.
+
+===== POST 5 | frosty_p7_5 | Ifmyante =====
+--- EN ---
+For a long time now, there's been no doubt in my mind that you're going to be a great analyst!
+
+You're asking all the right questions, and you're picking the right directions towards the answers.
+
+You're right on the edge of conscious competence. Just another few steps and you'll be there.
+
+If you feel like your head will explode in your attempt to get to the next stage, it's time to take a break from price, to give your subconscious a chance to do its filing without you continually getting in the way.
+
+I can see you trying to force those sands from the sphere of information into the sphere of understanding below.
+
+Think about stepping back, having some fun in your life, and letting your intellectual gravity do its thing
+--- FA ---
+مدت‌هاست که هیچ شکی در ذهنم نیست که تو یک تحلیل‌گر عالی می‌شوی!
+
+همهٔ سؤال‌های درست را می‌پرسی و مسیرهای درست را به سوی پاسخ‌ها انتخاب می‌کنی.
+
+دقیقاً روی لبهٔ توانایی آگاهانه ایستاده‌ای. فقط چند قدم دیگر و آنجایی.
+
+اگر حس می‌کنی در تلاش برای رسیدن به مرحلهٔ بعد سرت می‌خواهد بترکد، وقتش رسیده از قیمت فاصله بگیری تا به ناخودآگاهت فرصت بدهی کار بایگانی‌اش را انجام دهد، بی‌آنکه مدام جلو راهش باشی.
+
+می‌بینم که داری سعی می‌کنی آن شن‌ها را با زور از حوزهٔ اطلاعات به حوزهٔ فهمِ زیر آن بریزی.
+
+به این فکر کن که یک قدم عقب بکشی، در زندگی‌ات کمی خوش بگذرانی و بگذاری جاذبهٔ فکری‌ات کار خودش را بکند.
+
+===== POST 6 | frosty_p7_6 | Frosty =====
+--- EN ---
+@Bro Jacktrader: Thank you for your encouragement, brother beautiful words of wisdom!
+
+@Bro Enkim: i would suggest you to simplify your trading by only takeing trades in MPL of HTF FL where ARE clean orders. Then you dont need to worry about DMs and there is high probability that after price in LTF makes valid ENG you know that price already hit its target in HTF and it will go to its target BEFORE it breaks edge of HTF FL. Then It is strait forward - just trade after engulf with SL placed above MPL of HTF FL (if you are not sure) or pick the right place in LTF with tiny SL where clean orders are.
+
+Thank you for this piece of gold, brother. That comment about the DM totally makes sense and I seem to neglect it by overthinking about things. I might have placed too many "what if" scenarios in my mind to end up being this pile of brain omeletteI think this is due to the need to get every price bounce correctly each time from all zones and therefore entering at places that would only produce small bounces. I'll focus on MPLs then, brother. I will check Pedro's CornerThank you again!
+
+@Bro Staurum: To be honest, that is exactly how I look like Since day job is also always hectic since last August and what you said in BruseVSN's journal:Lately (recent few weeks), i've noticed the more relaxed we are digesting the materials without having an obligation to even understand it completely, the faster they actually sink in. Having said that, i dont mean to be complacent in learning RTM, but rather what is important is controlling our emotion & attitude when something just does not click yet with the puzzles we already gathered., definitely looks like the problem I am having. I will step back, take a long overdue vacation, keep away from charts for a few weeks. Thank you for your patience in guiding me all this time, brother When I'm back, I'll follow IF's advice:As a simple warm up exercise for a few days, I'd like you to look back through markepedia, and see how you'd set the homework exercises a bit more difficult.
+
+An example of this would be, say, compression, where you'd ask the student to mark not just the compressions, but their MPLs too, and what happened once price hit these MPLs.
+
+You know it all by now. This exercise may help make it your own @Bro IF: Thank you for your kind comments, brother! I hope I won't let you and RTM down. Hearing your advice on this matter is very amazing to hear! Thanks to you too for being patient with me and my slow internal processor! I think if you can teach my slow brain how to trade, then teaching everybody else should be a piece of cake I will take a break for a few weeks and when I think my mind is clear, I'll report back in to start from the basic building blocks of RTM method. I can't thank you enough, brother!
+--- FA ---
+@Bro Jacktrader: ممنون از دلگرمی‌ات برادر، چه کلمات حکیمانه‌ای!
+
+@Bro Enkim: پیشنهاد می‌کنم معامله‌گری‌ات را ساده‌تر کنی: فقط در MPL مربوط به FL تایم‌فریم بالاتر معامله کن، جایی که واقعاً سفارش‌های تمیز وجود دارند. آن‌وقت لازم نیست نگران DMها باشی و احتمال زیادی وجود دارد که وقتی قیمت در تایم‌فریم پایین‌تر یک ENG معتبر می‌سازد، بدانی قیمت پیش‌تر به تارگتش در تایم‌فریم بالاتر رسیده و پیش از شکستن لبهٔ FL تایم‌فریم بالاتر به تارگتش می‌رود. بعد از آن دیگر ساده است - فقط بعد از اینگالف معامله کن با SL بالای MPL مربوط به FL تایم‌فریم بالاتر (اگر مطمئن نیستی)، یا جای درست را در تایم‌فریم پایین‌تر با SL کوچک انتخاب کن، آنجا که سفارش‌های تمیز هستند.
+
+ممنون از این تکهٔ طلا، برادر. آن کامنت دربارهٔ DM کاملاً منطقی است و به نظر می‌رسد با بیش از حد فکر کردن به چیزها از آن غافل شده‌ام. شاید «چه می‌شود اگر»های زیادی در ذهنم چیده بودم که آخرش به این تودهٔ املت مغزی تبدیل شدم. فکر می‌کنم این از نیاز به درست گرفتن هر بازگشت قیمت از همهٔ ناحیه‌ها در هر بار می‌آید و در نتیجه ورود کردن در جاهایی که فقط بازگشت‌های کوچک می‌دهند. پس از این به بعد روی MPLها تمرکز می‌کنم، برادر. سراغ Pedro's Corner هم می‌روم. باز هم ممنون!
+
+@Bro Staurum: راستش من دقیقاً همین شکلی‌ام. کار روزانه‌ام هم از آگوست گذشته تا حالا همیشه شلوغ بوده و آنچه تو در ژورنال BruseVSN گفتی: «اخیراً (چند هفتهٔ گذشته) متوجه شده‌ام هر چه راحت‌تر مطالب را هضم می‌کنیم، بدون اینکه وظیفه‌ای برای کامل فهمیدنشان داشته باشیم، سریع‌تر هم جا می‌افتند. با این حال منظورم این نیست که در یادگیری RTM سهل‌انگاری کنیم، بلکه مهم این است که وقتی چیزی هنوز با پازل‌هایی که جمع کرده‌ایم جور درنمی‌آید، هیجان و نگرشمان را کنترل کنیم.»، دقیقاً همان مشکلی است که من دارم. عقب می‌کشم، یک تعطیلات که خیلی وقت است به آن نیاز دارم می‌روم و چند هفته از چارت‌ها دور می‌مانم. ممنون از صبوری‌ات در راهنمایی من در تمام این مدت، برادر. وقتی برگشتم، توصیهٔ IF را دنبال می‌کنم: «به‌عنوان یک تمرین سادهٔ گرم‌کردن برای چند روز، دوست دارم نگاهی به markepedia بیندازی و ببینی چطور تمرین‌های تکلیفی را کمی سخت‌تر طراحی می‌کنی.»
+
+مثالی برای این کار مثلاً compression است، جایی که از دانشجو می‌خواهی نه فقط کمپرشن‌ها، بلکه MPL آن‌ها را هم علامت بزند و بگوید وقتی قیمت به این MPLها رسید چه اتفاقی افتاد.
+
+تو حالا همه‌اش را می‌دانی. این تمرین ممکن است کمک کند آن را از خودت کنی. @Bro IF: ممنون از کامنت‌های مهربانت، برادر! امیدوارم تو و RTM را ناامید نکنم. شنیدن توصیه‌ات در این مورد واقعاً شگفت‌انگیز است! از تو هم ممنون که با من و پردازندهٔ داخلی کندم صبور بوده‌ای! فکر می‌کنم اگر تو بتوانی به مغز کند من معامله کردن را یاد بدهی، پس آموزش دادن به بقیه باید مثل آب خوردن باشد. چند هفته استراحت می‌کنم و وقتی فکر کنم ذهنم صاف شده، برمی‌گردم تا از بلوک‌های سازندهٔ پایهٔ متد RTM شروع کنم. نمی‌دانم چطور از تو تشکر کنم، برادر!
+
+===== POST 7 | frosty_p7_7 | Frosty =====
+--- EN ---
+One last look at Pedro's Gold trade and I promise I'll take the much needed vacation To all RTM friends, I'll take a break from charts and trading after this post for a few weeks to relax my mind.
+
+I trust the process and I believe it will do me good. Thank you for all of your guidance and I wish you all the best in all of your endeavors!
+--- FA ---
+یک نگاه آخر به معاملهٔ طلای Pedro و قول می‌دهم آن تعطیلات لازم را بگیرم. به همهٔ دوستان RTM، بعد از این پست چند هفته از چارت‌ها و معامله‌گری فاصله می‌گیرم تا ذهنم آرام شود.
+
+به این مسیر اعتماد دارم و باور دارم به حالم خوب خواهد بود. ممنون از همهٔ راهنمایی‌هایتان و برایتان در همهٔ کارهایتان بهترین‌ها را آرزو می‌کنم!
+
+===== POST 8 | frosty_p7_8 | Pedro =====
+--- EN ---
+Frosty since you decided to really take a break from trading, I'd suggest you use this time to keep working on yourself and try to master your emotions which is way more important than trading and it will help you to achieve all your dreams. Feed your mind wisely, I do it by reading books and following 2/3 entrepreneurs on fb/youtube.. and then ask yourself some questions, some of them might be hard but it's a good way to learn how to deal with your emotions. I do this very often, I still have my demons to deal with, at the moment one that I'm trying to master is accountability.
+
+Besides that, just take your time and whenever you feel ready to come back, we'll be here helping each other to survive or succeed in this crazy world. Pedro
+--- FA ---
+Frosty، چون تصمیم گرفتی واقعاً از معامله‌گری فاصله بگیری، پیشنهاد می‌کنم از این وقت استفاده کنی و روی خودت کار کنی و سعی کنی بر هیجاناتت مسلط شوی؛ این خیلی مهم‌تر از معامله‌گری است و کمکت می‌کند به همهٔ رؤیاهایت برسی. ذهنت را عاقلانه تغذیه کن؛ من این کار را با خواندن کتاب و دنبال کردن 2/3 کارآفرین در fb/youtube انجام می‌دهم.. و بعد چند سؤال از خودت بپرس؛ بعضی‌هایشان ممکن است سخت باشند، ولی راه خوبی است برای یادگیری اینکه چطور با هیجاناتت کنار بیایی. من این کار را خیلی زیاد انجام می‌دهم، هنوز شیطان‌های خودم را دارم که با آن‌ها دست‌وپنجه نرم کنم؛ در حال حاضر آن‌که می‌خواهم بر آن مسلط شوم مسئولیت‌پذیری است.
+
+علاوه بر این، فقط وقتت را بگیر و هر وقت حس کردی آمادهٔ برگشت هستی، ما اینجاییم و به هم کمک می‌کنیم در این دنیای دیوانه زنده بمانیم یا موفق شویم. Pedro
+
+===== POST 9 | frosty_p7_9 | Frosty =====
+--- EN ---
+Hi everyone. Checking back in from a few weeks holiday from charts. Hope everyone is doing well I'll start with another rambling of mine Mainly, during the away time, it was reading non-trading related books since I enjoy reading ever since I was a child.
+
+Back then it was mostly encyclopedias ranging from types and names of dinosaurs, country facts, capital cities and flags, celestial bodies, and cloud classifications. Now it is mostly business-related books and psychology books. I dislike novels Now the question that I ask myself during the break was:what are my weakness and my strengths?
+
+For the weakness part, it was easy. My greatest weakness is lack of confidence and during the away time, I made an effort to reprogram my mind using visualization techniques that actually cured me from road rage problems before.
+
+I trust that it will be cured with time, and constant mind reprogramming.
+
+For the strengths part, it was difficult to find because of the greatest weakness mentioned above. I always felt inadequate and always killed the idea that I could be better at some fields than other people. I believe we all have strengths, but I can hardly find one for myself.
+
+Truthfully, when I reflect back at my formal school years, I can see my strength generally boils down to the love for the attention to details.
+
+Not to brag with these silly stories, but I feel a sense of confidence boost just by sharing these experiences from my younger days.
+
+As one example during high school, I sucked at soccer during the first few weeks of training. Never kicked a ball in my life, ever. I then picked up a thick book from the school library that teaches drills, dribbling and shot techniques, complete with diagrams on where to kick the ball, where to plant the supporting foot, angle of approach of the foot, what area of the boots should the ball contact, etc.
+
+Fast forward a few months with a help of a friend that served as a ball fetcher in training sessions, I was constantly feeding extra decent long balls and through-passes to forwards for their ease of goal scoring. I could actually feel and visualize the ball spin in my mind and foot just how to make it a perfect ball. All free kicks were given to me to be converted into potential goals since I was the only one in the team that could kick a hard knuckle shot (the one that had no spin so the ball looks wobbly from the goalie's perspective). Corner kick instructions from the coach was a different story than most professional soccer match. It was: kick straight, hard and about waist line height to the enemy defender that was closest to goal line. Weird strategy but definitely produced lots of weird deflection goals There are other examples during earlier years where I'm the only one in class that can recite the surface temperature of mercury during daytime and nighttime plus the number of earth days the planet took to complete one revolution around the sun. On other days it was just randomly pointing out countries like Vanuatu and Guinea-Bissau on the globe in the classroom. Other occasions was spelling out Parasaurolophus and cited what its horn was used for to friends. Naturally, I was called a "nerd" or "freak". Thinking about it, that, along with the harsh culture of criticism, was the source of the lack of confidence.
+
+I loved every aspect of the details in everything that I love to learn. Learning where the countries are on the globe, but not knowing the name of the capital cities deeply annoyed me (last year on google, I actually googled through what all the capital cities look like...another addition to complete the knowledge bank). Kicking the soccer ball for the sake of just being able to kick the ball is not enough. Simply knowing the order of planets in our solar system feels incomplete to me. The knowledge should be complete, holistic, and, preferably, as in the soccer case, practical for me to be satisfied. Situations like these keep me awake at night, impatient to get the rest of the information the next day.
+
+Then comes trading and RTM. I realized that I should've approached RTM the way I used to approach anything before. Take everything super slowly part by part and understand in detail each part down to its simplest building block. At first, to be honest, the potential reward was the thing that fascinates me to really understand trading ASAP. After really asking deep questions to myself (as Pedro suggested... Thanks Pedro!), understanding this great puzzle is mostly about to obtain the feeling of completeness as in other detailed studies that I was doing back in my school years. I remember another trading mentor that I had previously gave out a good advice actually. He said (or copied someone else saying):Don't focus on the potential rewards. Focus on controlling risk and, at the same time, focus on trading well. The profits will take care of itself. I'm sure somewhere in RTM IF or other master class traders might have said this as well Sorry for posting lengthy, unrelated post. Just want to share what I had in mind. After constant mind reprogramming, I feel less fear of being judged. I keep saying to myself that this is my life and it should be on my own pace.
+
+Tomorrow I will start again from the basics in markepedia articles and roadmap.
+
+I'll follow the roadmap as shown and build upon a single pair and analyze all of the past, approach, reaction parts down to the LTF.
+
+I'll follow IF's advice from a few posts back and I'll keep doing this until analysis of charts becomes second nature.
+
+Thank you everyone and RTM When I'm able to trade like many of you great people here, I'll definitely help out in this beautiful community. Its still student mode for me
+--- FA ---
+سلام به همه. بعد از چند هفته تعطیلی از چارت‌ها دوباره سر می‌زنم. امیدوارم حال همه خوب باشد. با یکی دیگر از پرت‌وپلاهای خودم شروع می‌کنم. عمدتاً در این مدت دوری، کتاب‌های غیرمرتبط با معامله‌گری خواندم، چون از کودکی از خواندن لذت می‌برم.
+
+آن‌موقع بیشتر دایرةالمعارف بود، از انواع و نام دایناسورها، دانستنی‌های کشورها، شهرهای پایتخت و پرچم‌ها، اجرام آسمانی و دسته‌بندی ابرها. حالا بیشتر کتاب‌های کاری و کتاب‌های روان‌شناسی است. از رمان خوشم نمی‌آید. حالا سؤالی که در این تعطیلی از خودم پرسیدم این بود: ضعف‌ها و قوت‌های من چیست؟
+
+بخش ضعف‌ها آسان بود. بزرگ‌ترین ضعف من کمبود اعتمادبه‌نفس است و در این مدت دوری تلاش کردم ذهنم را با تکنیک‌های تجسم دوباره برنامه‌ریزی کنم؛ همان تکنیکی که قبلاً واقعاً مشکل عصبانیت پشت فرمان را در من درمان کرد.
+
+باور دارم که با گذشت زمان و برنامه‌ریزی مداوم ذهن درمان می‌شود.
+
+بخش قوت‌ها سخت بود، به‌خاطر همان بزرگ‌ترین ضعفی که گفتم. همیشه احساس ناکافی بودن داشتم و همیشه این ایده را در خودم می‌کشتم که می‌توانم در بعضی زمینه‌ها از دیگران بهتر باشم. باور دارم همهٔ ما قوت‌هایی داریم، ولی برای خودم به‌سختی یکی پیدا می‌کنم.
+
+راستش وقتی به سال‌های مدرسهٔ رسمی‌ام برمی‌گردم، می‌بینم قوتم عموماً به علاقه‌ام به توجه به جزئیات خلاصه می‌شود.
+
+قصد فخرفروشی با این داستان‌های مسخره را ندارم، ولی فقط با تعریف کردن این تجربه‌ها از روزهای جوانی‌ام حس می‌کنم اعتمادبه‌نفسم بالا می‌رود.
+
+نمونه‌اش در دبیرستان: در چند هفتهٔ اول تمرین در فوتبال افتضاح بودم. در عمرم توپ نزده بودم، هیچ‌وقت. بعد یک کتاب قطور از کتابخانهٔ مدرسه برداشتم که تمرین‌ها، دریبل و تکنیک‌های شوت را آموزش می‌داد، همراه با نمودارهایی از اینکه توپ را کجا بزنی، پای تکیه‌گاه را کجا بگذاری، زاویهٔ نزدیک شدن پا چقدر باشد، کدام قسمت کفش باید با توپ تماس پیدا کند و غیره.
+
+چند ماه بعد، با کمک دوستی که در جلسات تمرین توپ‌جمع‌کن بود، مدام توپ‌های بلند و پاس‌های در عمق نسبتاً خوبی به مهاجم‌ها می‌رساندم تا گل زدن برایشان راحت شود. واقعاً می‌توانستم چرخش توپ را در ذهنم حس و تجسم کنم و با پا بسازم که چطور یک توپ بی‌نقص شود. همهٔ ضربه‌های آزاد را به من می‌دادند تا به گل‌های احتمالی تبدیل کنم، چون تنها کسی در تیم بودم که می‌توانست شوت سخت knuckle بزند (همان شوتی که چرخش ندارد و از دید دروازه‌بان توپ لرزان به نظر می‌رسد). دستور مربی برای کرنر با بیشتر مسابقات حرفه‌ای فوتبال فرق داشت. می‌گفت: مستقیم و محکم و در ارتفاع حدود کمر به نزدیک‌ترین مدافع حریف به خط دروازه بزن. استراتژی عجیبی بود، ولی قطعاً گل‌های انحرافی عجیب زیادی به بار آورد. نمونه‌های دیگری هم در سال‌های قبل‌تر هست، مثل وقتی که تنها کسی در کلاس بودم که می‌توانست دمای سطح عطارد در روز و شب و همچنین تعداد روزهای زمینی لازم برای یک دور کامل این سیاره به دور خورشید را از حفظ بگوید. روزهای دیگر فقط روی کرهٔ جغرافیای کلاس، کشورهایی مثل Vanuatu و Guinea-Bissau را بی‌هوا نشان می‌دادم. موارد دیگر هم هجی کردن Parasaurolophus و گفتن اینکه شاخش به چه کاری می‌آمده برای دوستانم بود. طبیعتاً به من «نِرد» یا «عجیب و غریب» می‌گفتند. وقتی به آن فکر می‌کنم، می‌بینم این، همراه با فرهنگ تند انتقاد، منشأ همان کمبود اعتمادبه‌نفس بود.
+
+عاشق همهٔ جنبه‌های جزئیات در هر چیزی بودم که یاد گرفتنش را دوست دارم. یاد گرفتن جای کشورها روی کرهٔ جغرافیا ولی ندانستن نام شهرهای پایتختشان عمیقاً اذیتم می‌کرد (سال گذشته در گوگل، واقعاً شکل همهٔ شهرهای پایتخت را گوگل کردم... یک افزودهٔ دیگر برای کامل کردن بانک دانش). زدن توپ فوتبال فقط برای اینکه بتوانی توپ بزنی کافی نیست. صرفاً دانستن ترتیب سیارات منظومهٔ شمسی برای من ناقص به نظر می‌رسد. دانش باید کامل و کل‌نگر باشد و ترجیحاً مثل مورد فوتبال، عملی، تا من راضی شوم. موقعیت‌هایی مثل این شب‌ها بیدار نگهم می‌دارد و بی‌تابم می‌کند تا روز بعد بقیهٔ اطلاعات را گیر بیاورم.
+
+بعد نوبت معامله‌گری و RTM می‌رسد. فهمیدم که باید به RTM همان‌طور نزدیک می‌شدم که قبلاً به هر چیز دیگری نزدیک می‌شدم. همه‌چیز را خیلی آهسته و تکه‌تکه بردار و هر تکه را تا ساده‌ترین بلوک سازنده‌اش با جزئیات بفهم. راستش اولش پاداش بالقوه بود که مرا مجذوب می‌کرد تا معامله‌گری را هر چه زودتر واقعاً بفهمم. بعد از پرسیدن سؤال‌های عمیق واقعی از خودم (همان‌طور که Pedro پیشنهاد کرد... ممنون Pedro!)، فهمیدن این پازل بزرگ بیشتر به به دست آوردن همان حس کاملی است که در مطالعات پرجزئیات دیگرم در سال‌های مدرسه داشتم. یادم می‌آید یک مربی معامله‌گری دیگر هم که قبلاً داشتم، واقعاً توصیهٔ خوبی کرد. گفت (یا از کسی دیگر نقل کرد): «روی پاداش‌های بالقوه تمرکز نکن. روی کنترل ریسک تمرکز کن و در همان حال روی خوب معامله کردن. سود خودش را نشان می‌دهد.» مطمئنم جایی در RTM، IF یا معامله‌گرهای استاد دیگر هم این را گفته‌اند. ببخشید که پست طولانی و بی‌ربط گذاشتم. فقط می‌خواستم آنچه در ذهن داشتم را شریک شوم. بعد از برنامه‌ریزی مداوم ذهن، ترسم از قضاوت شدن کمتر شده. مدام به خودم می‌گویم این زندگی من است و باید با سرعت خودم پیش برود.
+
+فردا دوباره از پایه‌ها در مقاله‌های markepedia و نقشهٔ راه شروع می‌کنم.
+
+نقشهٔ راه را همان‌طور که نشان داده شده دنبال می‌کنم و روی یک جفت‌ارز واحد بنا می‌کنم و همهٔ بخش‌های گذشته، نزدیک شدن و واکنش را تا تایم‌فریم پایین‌تر تحلیل می‌کنم.
+
+توصیهٔ IF از چند پست قبل را دنبال می‌کنم و این کار را ادامه می‌دهم تا تحلیل چارت‌ها برایم مثل نفس کشیدن شود.
+
+ممنون از همه و از RTM. وقتی بتوانم مثل خیلی از آدم‌های بزرگ اینجا معامله کنم، قطعاً در این جامعهٔ زیبا کمک خواهم کرد. برای من هنوز حالت دانشجویی است.
+
+===== POST 10 | frosty_p7_10 | Ifmyante =====
+--- EN ---
+It's great to have you back!
+
+Take it nice and easy. Once you can get yourself used to visualising what will happen next with price, you've got it cracked
+--- FA ---
+خیلی خوب شد که برگشتی!
+
+آرام و بی‌تعجیل پیش برو. وقتی عادت کنی از پیش تصور کنی که قرار است چه اتفاقی برای قیمت بیفتد، دیگر کارت راه افتاده.
+
+===== POST 11 | frosty_p7_11 | Ysbail =====
+--- EN ---
+If you like psychology book I can recommend you a book "Fast and Slow Thinking" Daniel Kahneman. It's not about trading but it's very interesting about our mind. After this lecture I realized many mechanism of thinking and how I can get fooled by myself, there are examples from real life, cognitive thinking etc.:)
+--- FA ---
+اگر کتاب روان‌شناسی دوست داری، می‌توانم کتاب Fast and Slow Thinking نوشتهٔ Daniel Kahneman را پیشنهاد کنم. موضوعش معامله‌گری نیست، اما دربارهٔ ذهن ما بسیار جذاب است. بعد از این درس، سازوکارهای زیادی از تفکر را شناختم و فهمیدم چطور می‌توانم خودم را گول بزنم؛ در آن مثال‌هایی از زندگی واقعی، تفکر شناختی و غیره هست :)
+
+===== POST 12 | frosty_p7_12 | Ifmyante =====
+--- EN ---
+I agree. I liked the ideas in there
+--- FA ---
+موافقم. ایده‌هایش را دوست داشتم.
+
+===== POST 13 | frosty_p7_13 | Frosty =====
+--- EN ---
+That book is actually in my read list, but currently still finishing up on another book called "Wealth Secrets of the One Percent" by Sam Wilkin.
+
+Contrary to the title, it is mostly a history book of some successful business people Following the markepedia roadmap, SD zones comes first on the list. So I'll do that first.
+
+Imho, this homework naturally overlaps with caps on price so I guess it is safe to say that I am understanding two things at once from this homework.
+
+Not all of SD zones are marked as the chart would be incredibly messy. I mostly marked caps on price (which is itself a SD zone) that looks significant. By that I mean caps that are created after the break of other caps and also caps that held price down or up at least once.
+
+My current understanding on SD zones and Caps on Price: - Price swings from balance to imbalance and back to balance of buyers and sellers repeatedly.
+
+- The rallies and the drops are where the imbalance occurs. A rally is an imbalance on the buy side and a drop is an imbalance on the sell side. - The base is where the balance of transactions between buyers and sellers occur. - The base looks like a square or box. Price finds equilibrium inside the base. The amount of sell vs. buy orders are mostly evenly matched. - The zone between the bottom limit and the top limit of the base is what we call a flag. - SD Zones are decisions whether price is too cheap or too expensive.
+
+- Not all SD zones are created equal, i.e. most are reactions to important DBR/RBD we call Flag Limits.
+
+- RBR and DBD is, in essence, can be reduced to LTF RBDs or DBRs. In my opinion, it is safe to assume that we will not need to concern ourselves with these two things. - Inside a given HTF SD zone, there are many smaller SD zones that can be drawn. This is due to the fractal nature of the markets. Examples inside A and B on the chart.
+
+- When important SD zones (i.e. flag limits) break, we look for the opposite SD zone to be created after their break. This would be the decision that price was not going back inside the base and it is the relevant important one for the next approach.
+
+- Ignored SD zones most of the time would be important when price is coming back from the other side.
+
+- From my studies, I believe the important caps on price held price up or down at least once. The break of such caps on price will create an important caps on price on the reverse side, which we used to call FTR. - Caps on price are safe to trade if we get CP on approach back to the cap.
+
+It is even better to wait for PA/engulf first though for added layer of safety. - Most SD zones are extensively used to create tricks that would provide liquidity for the ITs and, therefore, unreliable as a basis for trades by itself.
+
+S/D Article: Prologue/why this article is here: Although the article briefly discusses Supply & Demand, what we are most interested in, is when it breaks.
+
+What you should learn by practicing: After finishing your homework you should now be able to answer the question “what are the supply/demand levels themselves reactions to?"
+
+My answer: SD levels are reactions to flag limits and it is these flag limits that we should focus our attentions to.
+
+If this is already covers everything I need to know, I'll move on next to the next concept, which is SR. I will build upon the chart above.
+
+If my knowledge of the caps on price and SD zones are incomplete/flawed, I appreciate any corrections.
+
+Thank you everyone
+--- FA ---
+آن کتاب واقعاً در فهرست خواندنی‌های من است، اما الان هنوز مشغول تمام کردن کتاب دیگری هستم به نام Wealth Secrets of the One Percent نوشتهٔ Sam Wilkin.
+
+برخلاف عنوانش، بیشتر یک کتاب تاریخی دربارهٔ چند فرد موفق در کسب‌وکار است. با دنبال کردن نقشهٔ راه markepedia، نواحی SD اول فهرست قرار می‌گیرد. پس اول سراغ همان می‌روم.
+
+به نظر من، این تمرین به‌طور طبیعی با کپ‌های قیمت هم‌پوشانی دارد، پس فکر می‌کنم بی‌راه نیست اگر بگویم از این تمرین دو چیز را هم‌زمان یاد می‌گیرم.
+
+همهٔ نواحی SD را علامت‌گذاری نکرده‌ام، چون نمودار به‌شدت شلوغ می‌شد. من بیشتر کپ‌های قیمت (که خودشان یک ناحیهٔ SD هستند) را که مهم به نظر می‌رسیدند علامت زدم. منظورم کپ‌هایی است که پس از شکست کپ‌های دیگر شکل گرفته‌اند و همچنین کپ‌هایی که دست‌کم یک بار قیمت را در پایین یا بالا نگه داشته‌اند.
+
+درک فعلی من از نواحی SD و کپ‌های قیمت: - قیمت به‌طور مکرر از بالانس به عدم تعادل و باز به بالانس خریداران و فروشندگان نوسان می‌کند.
+
+- رالی‌ها و ریزش‌ها همان جایی هستند که عدم تعادل رخ می‌دهد. رالی یک عدم تعادل در سمت خرید است و ریزش یک عدم تعادل در سمت فروش. - بیس جایی است که بالانس معاملات میان خریداران و فروشندگان در آن رخ می‌دهد. - بیس شبیه مربع یا باکس است. قیمت داخل بیس به تعادل می‌رسد. حجم سفارش‌های فروش در برابر خرید تقریباً هم‌تراز است. - ناحیه‌ای بین حد پایین و حد بالای بیس همان چیزی است که ما FL می‌نامیم. - نواحی SD تصمیم‌هایی هستند دربارهٔ اینکه قیمت زیادی ارزان شده یا زیادی گران.
+
+- همهٔ نواحی SD یکسان نیستند، یعنی بیشترشان واکنشی به DBR/RBDهای مهمی هستند که ما آن‌ها را FL می‌نامیم.
+
+- RBR و DBD در اصل به RBDها یا DBRهای تایم‌فریم پایین‌تر قابل تقلیل هستند. به نظر من می‌توان با خیال راحت فرض کرد که لازم نیست خودمان را درگیر این دو مورد کنیم. - داخل هر ناحیهٔ SD در تایم‌فریم بالاتر، نواحی SD کوچک‌تر زیادی قابل رسم است. این به دلیل ماهیت فراکتالی بازارها است. نمونه‌هایش داخل A و B روی نمودار.
+
+- وقتی نواحی SD مهم (یعنی FLها) می‌شکنند، به دنبال این هستیم که پس از شکست آن‌ها ناحیهٔ SD مخالف شکل بگیرد. این همان تصمیمی است که می‌گوید قیمت دیگر به داخل بیس برنمی‌گردد و برای رویکرد بعدی، همان ناحیهٔ مهم و مرتبط است.
+
+- نواحی SD نادیده‌گرفته‌شده بیشتر وقت‌ها وقتی مهم می‌شوند که قیمت از سمت دیگر برمی‌گردد.
+
+- بر اساس مطالعاتم، باور دارم کپ‌های مهم قیمت دست‌کم یک بار قیمت را در بالا یا پایین نگه داشته‌اند. شکست چنین کپ‌هایی، در سمت مقابل یک کپ قیمت مهم می‌سازد که قبلاً به آن FTR می‌گفتیم. - اگر هنگام بازگشت قیمت به کپ، CP بگیریم، معامله روی کپ‌های قیمت امن است.
+
+البته برای یک لایهٔ ایمنی بیشتر، بهتر است اول منتظر PA و اینگالف بمانیم. - بیشتر نواحی SD به‌طور گسترده برای ساختن ترفندهایی به کار می‌روند که نقدینگی لازم برای ITs را فراهم می‌کنند و بنابراین به‌تنهایی پایهٔ مطمئنی برای معامله نیستند.
+
+مقالهٔ S/D: پیش‌گفتار/چرا این مقاله این‌جاست: هرچند مقاله به‌طور مختصر به عرضه و تقاضا می‌پردازد، آنچه برای ما بیشترین اهمیت را دارد لحظهٔ شکستن آن است.
+
+آنچه باید با تمرین یاد بگیرید: پس از تمام کردن این تمرین، حالا باید بتوانید به این پرسش پاسخ دهید: «سطوح عرضه/تقاضا خودشان واکنش به چه چیزی هستند؟»
+
+پاسخ من: سطوح SD واکنش به FLها هستند و همان FLها هستند که باید تمرکزمان را روی‌شان بگذاریم.
+
+اگر همین حالا همهٔ آنچه لازم است بدانم را پوشش می‌دهد، سراغ مفهوم بعدی می‌روم، یعنی SR. کار را بر پایهٔ نمودار بالا ادامه می‌دهم.
+
+اگر دانش من دربارهٔ کپ‌های قیمت و نواحی SD ناقص یا ایراددار است، از هر اصلاحی سپاسگزارم.
+
+از همه سپاسگزارم
+
+===== POST 14 | frosty_p7_14 | corsica =====
+--- EN ---
+Its a beautiful work you've just done, Thank you
+--- FA ---
+کار زیبایی انجام دادی، ممنون.
+
+===== POST 15 | frosty_p7_15 | salivan =====
+--- EN ---
+well done!
+--- FA ---
+آفرین!
+
+===== POST 16 | frosty_p7_16 | Frosty =====
+--- EN ---
+@ Master Salivan and Corsica, Thank you for visiting my journal and checking my understanding I really appreciate it!
+
+Next up on the list is Support Resistance Levels (SR)
+
+From the markepedia roadmap: S/R Article: P: A S/R level holding so many times in the past must be strong, right? Well.. think again. W: Again our interest here is to train the eye for where these “infamous” S/R levels break. Later on, in the BSZ article you will see how to take advantage of these stop-loss stacked places.
+
+Now I'll post what I have learnedbefore coming to RTM first.
+
+Start with the highest TF we can find. For our case, 99.9% of the time it is the Monthly TF (unless somebody has yearly charts)
+
+I marked the closest important MN SR levels relevant to the D1 chart that I was analyzing from the SD homework.
+
+The criteria for "important" is: the level should hold price up or down many times, i.e. the SR level should be used a lot of time from both sides.
+
+Then I dropped one TF lower on W1 TF. Repeat the same thing again with a different color (red)
+
+Again, dropped one TF lower on D1 TF. Repeat the same thing again with another unused color (violet)
+
+I used to think SR levels were all that I need to start trading properly. Mostly the strategy was the usual rejection-type candlestick forming on SR levels.
+
+Surely this leads to eventual frustration due to inconsistencies in the setup. And the thing I hated most of all, which I remembered clearly, was that the levels need to be estimated, i.e. not exact to the pip rejection would occur every time.
+
+Some days, the rejection candle would print above a support line and some days it would print the candle below the support line.
+
+I'm sure you all have tried this type of trading as well at some point before After coming to RTM and reading many materials in this community, I understood (and saw on the charts to prove it myself) that SR is fake propaganda. And the objective of that propaganda is to create liquidity for the ITs.
+
+Let me copy paste this definition of "liquidity" from investopedia: Liquidity describes the degree to which an asset or security can be quickly bought or sold in the market without affecting the asset's price.
+
+Market liquidity refers to the extent to which a market, such as a country's stock market or a city's real estate market, allows assets to be bought and sold at stable prices. Cash is the most liquid asset, while real estate, fine art and collectibles are all relatively illiquid.
+
+Now when I think about the statement "create liquidity", that, in simple terms, would literally mean "create the opposite orders to trade into as not to move price too much" To create liquidity for a truckload of "sell" positions, we would need a truckload of "buy" positions. The reverse applies.
+
+Also, by now, it is a public secret that the ITs want to be the only sellers or buyers at every particular time and market.
+
+To achieve this maximum greed type of trade, they would need to create price movements that builds up a lot of "stop orders" on price levels they would love to maximize their profits on their positions from.
+
+We know that price changes simply when there are imbalance of orders on the bid or offer side (which was summed up previously on the SD zone and caps HW) Why do the ITs need lots of stops to trade into? Simple: it is because they don't want price to move too much away from their best entry point (hence the need for liquidity at their price levels of interest). If the price level they are going to trade in has only a small pool of stop orders, when they place their large orders, even chunks of it, would immediately cause an imbalance and price would move too much away and eat their potential profits.
+
+In order to achieve their goals, i.e. massive amounts of stop orders at desirable price levels, the easiest trick they could do is line up two or three highs/lows. Retailers will see this as an opportunity to fade the SR level once again and place their stops beyond them, where ITs would be the happiest to take these stops. BSZ trade is one of the setups in RTM to exploit this phenomenon.
+
+So with the above explanation (and the hint from the markepedia roadmap -Stop loss stacked places), the types of SR manipulations like in these two charts is what I think we should focus on regarding the topic of SR: FXyogi's chart is at the top of my list for this demonstration of how to trade QM using SR levels to FO My current understanding of SR Levels: - SR levels, by itself, are also unreliable to base our trades upon. Just like SD zones.
+
+- Retail SR levels, through my observation from the 3 topmost charts, usually forms at round numbers (decimals ending with 00s and 50s). From previous studies I learned that retailers are basically taught to place stops at the next 20s for shorts and at the next 80s for longs. In my opinion that is why we usually see some form of reaction at the vicinity of BRNs (big, round numbers). This shouldn't be a basis for trade confluence though (from what I concluded from studying charts). - SR levels, especially clean looking ones with identical highs or lows, are mostly traps for retailers to provide liquidity to the ITs. - The only reliable SR levels that I can think of is the SR levels at the highs of UFL and lows of LFL (including the FL from PCP and MPL of CP) along with LS levels, where we would like to look for their kinks/FLs at the rightmost edge of the chart. Of course we are looking at other confluence of factors as well rather than the SR levels themselves. Kink and LS takes the most precedence. - The higher the TF, the more the stops are going to be above/below the fake SR level. - Personally, I would use SR only to find the stops beyond like the bottom two examples.
+
+Please excuse the lengthy post. I gave the topic of SR every single thought I can think of. Hopefully I got this topic cleared already.
+
+If anything is missing, i appreciate any guidance. All comments and guidance are more than welcomed Thank you everyone!
+
+P. S. I read bro IF's and Staurum's journal about the issue of some members invading with PMs and apparently from bro Staurum's post, the people was from the country that I also live in (Indonesia). I wasn't going to comment on this but I sometimes regret the bad reputations that sticks to a given country/community/business entity just because of a small sample of the minority of population/employees/people inside them.
+
+I'm sure big hearted people like all of you here in RTM don't stereotype, but most other people out there do. And I experienced this first hand during a leisure tour from residents of another country. They would be saying, after they found out I was Indonesian: "Indo people always talk about money money money, but they are lazy!", "Indo people are rude and unfriendly", and "Indo people are corrupt". Those are some rude things I overheard behind my back in mandarin (my wife translated for me).
+
+To be honest, not to flatter bro Staurum here, I'm thankful we got him here to prove those labels are definitely incorrectHe is the living proof that not all Indonesians are lazy, rude, and unfriendly. He was the person that replied most of my questions and homeworks during my early RTM days. Hopefully I can follow in his footsteps to add more sample to the contrary Oh, and we still have Bali and Raja Ampat, so I guess the label on our country is not all bad
+--- FA ---
+@ Master Salivan و Corsica، ممنون که به ژورنال من سر زدید و درکم را بررسی کردید؛ واقعاً قدردانم!
+
+مورد بعدی در فهرست، سطوح حمایت و مقاومت (SR) است.
+
+از نقشهٔ راه markepedia: مقالهٔ S/R: P: سطحی از S/R که در گذشته بارها دوام آورده حتماً قوی است، درست است؟ خب... دوباره فکر کنید. W: باز هم علاقهٔ ما اینجا این است که چشم را برای جایی که این سطوح S/R «بدنام» می‌شکنند تمرین بدهیم. بعداً در مقالهٔ BSZ خواهید دید چطور از این نقاطِ انباشته از استاپ‌لاس بهره ببرید.
+
+حالا اول چیزی را که پیش از آمدن به RTM یاد گرفته بودم می‌نویسم.
+
+از بالاترین تایم‌فریمی که می‌توانیم پیدا کنیم شروع کنید. در مورد ما، 99.9% مواقع همان تایم‌فریم ماهانه است (مگر اینکه کسی نمودار سالانه داشته باشد).
+
+نزدیک‌ترین سطوح SR مهم در MN را که به نمودار D1 مربوط می‌شد – همان نموداری که در تمرین SD تحلیلش می‌کردم – علامت زدم.
+
+معیار «مهم» بودن این است: سطح باید بارها قیمت را در بالا یا پایین نگه داشته باشد، یعنی سطح SR باید بارها از هر دو سمت استفاده شده باشد.
+
+بعد یک تایم‌فریم پایین‌تر آمدم، روی W1. همین کار را با یک رنگ دیگر (قرمز) تکرار کردم.
+
+باز هم یک تایم‌فریم پایین‌تر آمدم، روی D1. همین کار را با یک رنگ دیگر که استفاده نشده بود (بنفش) تکرار کردم.
+
+قبلاً فکر می‌کردم سطوح SR همان چیزی است که برای شروع درستِ معامله‌گری لازم دارم. بیشتر وقت‌ها استراتژی همان کندل‌های معمولِ ریجکشنی بود که روی سطوح SR شکل می‌گرفت.
+
+مطمئناً این کار در نهایت به سرخوردگی می‌رسد، چون ستاپ‌ها یک‌دست نیستند. و چیزی که بیش از همه از آن بدم می‌آمد و خوب یادم مانده این بود که این سطوح باید تخمین زده می‌شدند، یعنی تا حد یک پیپ دقیق نبودند؛ پس‌زدن هر بار در نقطه‌ای دیگر رخ می‌داد.
+
+بعضی روزها کندل پس‌زدن بالای خط حمایت چاپ می‌شد و بعضی روزها کندل زیر خط حمایت.
+
+مطمئنم همهٔ شما هم در مقطعی پیش از این، این نوع معامله‌گری را امتحان کرده‌اید. بعد از آمدن به RTM و خواندن مطالب زیادی در این جامعه، فهمیدم (و روی نمودارها دیدم و خودم ثابتش کردم) که SR پروپاگاندای دروغین است. و هدف آن پروپاگاندا ساختن نقدینگی برای ITs است.
+
+بگذارید این تعریف «نقدینگی» را از investopedia کپی کنم: نقدینگی بیانگر میزانی است که یک دارایی یا اوراق بهادار می‌تواند در بازار به‌سرعت خرید یا فروش شود، بدون آنکه روی قیمت آن دارایی اثر بگذارد.
+
+نقدینگی بازار به این اشاره دارد که یک بازار، مانند بازار سهام یک کشور یا بازار املاک یک شهر، تا چه اندازه اجازه می‌دهد دارایی‌ها با قیمت‌های پایدار خرید و فروش شوند. پول نقد نقدشونده‌ترین دارایی است، در حالی که املاک، هنرهای نفیس و اشیای کلکسیونی همگی نسبتاً کم‌نقدشونده‌اند.
+
+حالا وقتی به عبارت «ساختن نقدینگی» فکر می‌کنم، به زبان ساده یعنی «ساختن سفارش‌های مخالف برای معامله کردن با آن‌ها تا قیمت زیاد جابه‌جا نشود». برای ساختن نقدینگی برای یک کامیون پوزیشن «فروش»، به یک کامیون پوزیشن «خرید» نیاز داریم. عکس این هم برقرار است.
+
+همچنین تا حالا دیگر یک راز عمومی است که ITs می‌خواهند در هر زمان و بازار خاص، تنها فروشنده یا خریدار باشند.
+
+برای رسیدن به این نوع معاملهٔ حداکثر طمع، آن‌ها باید حرکات قیمتی‌ای بسازند که انبوهی از «سفارش‌های استاپ» را روی سطوحی از قیمت جمع کند که دوست دارند سود پوزیشن‌هایشان را از آن‌جا بیشینه کنند.
+
+می‌دانیم که قیمت صرفاً وقتی تغییر می‌کند که در سمت خرید یا فروش سفارش‌ها عدم تعادل داشته باشند (که پیش‌تر در تمرین ناحیهٔ SD و کپ‌ها جمع‌بندی شد). چرا ITs به استاپ‌های زیاد برای معامله کردن نیاز دارند؟ ساده است: چون نمی‌خواهند قیمت بیش از حد از بهترین نقطهٔ ورودشان فاصله بگیرد (به همین دلیل به نقدینگی روی سطوح قیمتی مورد نظرشان نیاز دارند). اگر سطح قیمتی که می‌خواهند در آن معامله کنند فقط مجموعهٔ کوچکی از سفارش‌های استاپ داشته باشد، وقتی سفارش‌های بزرگشان را می‌گذارند، حتی تکه‌هایی از آن، بلافاصله عدم تعادل ایجاد می‌کند، قیمت بیش از حد فاصله می‌گیرد و سود بالقوه‌شان را می‌خورد.
+
+برای رسیدن به هدفشان، یعنی حجم عظیمی از سفارش‌های استاپ روی سطوح قیمتی مطلوب، آسان‌ترین ترفندی که می‌توانند بزنند این است که دو یا سه سقف/کف را پشت سر هم بچینند. معامله‌گران خرد این را فرصتی می‌بینند تا یک بار دیگر روی سطح SR در جهت مخالف وارد شوند و استاپ‌هایشان را آن‌سوتر از آن بگذارند، جایی که ITs بیشتر از هر جا خوشحال می‌شوند این استاپ‌ها را بردارند. معاملهٔ BSZ یکی از ستاپ‌های RTM برای بهره‌برداری از همین پدیده است.
+
+پس با توضیح بالا (و اشاره‌ای که در نقشهٔ راه markepedia آمده بود – نقاط انباشته از استاپ‌لاس)، به نظرم در بحث SR باید روی انواع دستکاری‌های SR مانند آنچه در این دو نمودار می‌بینید تمرکز کنیم: نمودار FXyogi در فهرست من بالاتر از همه است برای نشان دادن اینکه چطور با استفاده از سطوح SR تا FO، QM معامله کنیم. درک فعلی من از سطوح SR: - سطوح SR هم به‌تنهایی پایهٔ قابل اعتمادی برای معامله نیستند. درست مثل نواحی SD.
+
+- سطوح SR معامله‌گران خرد، بر اساس مشاهدهٔ من از 3 نمودار بالایی، معمولاً روی اعداد رند شکل می‌گیرند (اعشاری که به 00 و 50 ختم می‌شود). از مطالعات قبلی یاد گرفتم که اساساً به معامله‌گران خرد آموزش می‌دهند استاپ‌ها را برای پوزیشن‌های فروش روی 20 بعدی و برای پوزیشن‌های خرید روی 80 بعدی بگذارند. به نظر من به همین دلیل است که معمولاً نوعی واکنش در حوالی BRNها (اعداد بزرگ و رند) می‌بینیم. البته این نباید پایهٔ هم‌گرایی معاملاتی باشد (این نتیجه‌ای است که از مطالعهٔ نمودارها گرفتم). - سطوح SR، خصوصاً آن‌هایی که ظاهر تمیزی دارند و سقف‌ها یا کف‌های یکسان دارند، بیشتر تله‌هایی برای معامله‌گران خرد هستند تا نقدینگی به ITs برسانند. - تنها سطوح SR قابل اعتمادی که به ذهنم می‌رسد، سطوح SR در سقف‌های UFL و کف‌های LFL (شامل FLهای حاصل از PCP و MPL مربوط به CP) به همراه سطوح LS است، جایی که دوست داریم پیچش‌ها/FLهایشان را در منتهی‌الیه سمت راست نمودار ببینیم. البته ما به‌جای خود سطوح SR، هم‌گرایی عوامل دیگر را هم در نظر می‌گیریم. پیچش و LS بالاترین اولویت را دارند. - هرچه تایم‌فریم بالاتر باشد، استاپ‌ها بیشتر بالای/پایین سطح SR جعلی قرار می‌گیرند. - شخصاً از SR فقط برای پیدا کردن استاپ‌های آن‌سوتر استفاده می‌کنم، مثل دو مثال پایینی.
+
+لطفاً این پست طولانی را ببخشید. هر فکری که به ذهنم می‌رسید را صرف موضوع SR کردم. امیدوارم این موضوع برایم روشن شده باشد.
+
+اگر چیزی جا افتاده باشد، از هر راهنمایی سپاسگزارم. هر نظر و راهنمایی‌ای را با آغوش باز می‌پذیرم. از همه ممنون!
+
+پینوشت: ژورنال برادر IF و Staurum را دربارهٔ موضوع هجوم بعضی اعضا با پیام خصوصی خواندم و ظاهراً بنا بر پست برادر Staurum، آن افراد از کشوری بودند که خودم هم در آن زندگی می‌کنم (اندونزی). قصد نداشتم در این باره کامنت بگذارم، اما گاهی از بدنامی‌ای که به یک کشور/جامعه/نهاد تجاری می‌چسبد، فقط به خاطر یک نمونهٔ کوچک از اقلیت جمعیت/کارمندان/افراد درونشان، متأسف می‌شوم.
+
+مطمئنم آدم‌های بزرگ‌دلی مثل همهٔ شما اینجا در RTM کلیشه‌سازی نمی‌کنند، اما بیشتر آدم‌های بیرون این کار را می‌کنند. و من این را از نزدیک در یک تور تفریحی از زبان ساکنان کشوری دیگر تجربه کردم. بعد از اینکه فهمیدند اندونزیایی هستم، می‌گفتند: «مردم اندو همیشه حرف پول پول پول می‌زنند، ولی تنبل‌اند!»، «مردم اندو بی‌ادب و غیردوستانه‌اند» و «مردم اندو فاسدند». این‌ها چیزهای بی‌ادبانه‌ای بود که پشت سرم به زبان ماندارین شنیدم (همسرم برایم ترجمه کرد).
+
+راستش را بخواهید، و قصد چاپلوسی از برادر Staurum را ندارم، خوشحالم که او را اینجا داریم تا ثابت کند این برچسب‌ها قطعاً نادرست‌اند. او مدرک زندهٔ این است که همهٔ اندونزیایی‌ها تنبل، بی‌ادب و غیردوستانه نیستند. در روزهای نخست حضورم در RTM، کسی که بیشتر سؤال‌ها و تمرین‌هایم را پاسخ داد او بود. امیدوارم بتوانم راه او را ادامه بدهم و نمونه‌های بیشتری بر خلاف آن اضافه کنم. راستی، ما هنوز بالی و Raja Ampat را داریم، پس حدس می‌زنم برچسب روی کشورمان کاملاً هم بد نیست
+
+===== POST 17 | frosty_p7_17 | salivan =====
+--- EN ---
+Indo people seems to me are so clever, nice explanation, keep it up and think about SRs as a zone not a LVL!
+--- FA ---
+به نظر من مردم اندو خیلی باهوش‌اند؛ توضیح خوبی بود، ادامه بده و به SRها مثل یک ناحیه فکر کن، نه یک سطح!
+
+===== POST 18 | frosty_p7_18 | Astrokillah =====
+--- EN ---
+Very impressive write-up Frosty! I guess those harsh words must be uttered by tourists from China? Don't worry about stereotyping, it's everywhere because it's human nature - our brain function by recognizing 'patterns', so automatically we group everything into different patterns. Life is a mirror reflecting your inner world. A thief would see everyone else having the same inclination to steal. Those who spoke badly about others, are not worth our time to even thinking about them, let them live in their own miserable world.
+
+Indonesia is a country with 267 million population - almost as bit as the US! You mentioned Raja Ampat, it's indeed one of the most beautiful places in the world. I have been to Maldives and Tahiti but Raja Ampat is a totally different experience. If there is one place I want to keep going back again and again, it would be Raja Ampat!
+
+cheers AK Frosty wrote: I'm sure big hearted people like all of you here in RTM don't stereotype, but most other people out there do. And I experienced this first hand during a leisure tour from residents of another country. They would be saying, after they found out I was Indonesian: "Indo people always talk about money money money, but they are lazy!", "Indo people are rude and unfriendly", and "Indo people are corrupt". Those are some rude things I overheard behind my back in mandarin (my wife translated for me).
+
+To be honest, not to flatter bro Staurum here, I'm thankful we got him here to prove those labels are definitely incorrectHe is the living proof that not all Indonesians are lazy, rude, and unfriendly. He was the person that replied most of my questions and homeworks during my early RTM days. Hopefully I can follow in his footsteps to add more sample to the contrary Oh, and we still have Bali and Raja Ampat, so I guess the label on our country is not all bad
+--- FA ---
+Frosty، نوشته‌ات واقعاً تحسین‌برانگیز بود! حدس می‌زنم آن حرف‌های تند را باید گردشگرانی از چین زده باشند؟ نگران کلیشه‌سازی نباش، همه‌جا هست چون بخشی از سرشت انسان است – مغز ما با شناخت «الگو»ها کار می‌کند، پس خودکار همه‌چیز را در الگوهای مختلف دسته‌بندی می‌کنیم. زندگی آینه‌ای است که دنیای درونت را بازتاب می‌دهد. یک دزد همه را دارای همان تمایل به دزدی می‌بیند. کسانی که بدِ دیگران را گفتند ارزش آن را ندارند که حتی وقتمان را صرف فکر کردن به آن‌ها کنیم؛ بگذار در دنیای فلاکت‌آمیز خودشان زندگی کنند.
+
+اندونزی کشوری با 267 میلیون جمعیت است – تقریباً به اندازهٔ آمریکا! از Raja Ampat گفتی، واقعاً یکی از زیباترین نقاط دنیاست. من به مالدیو و تاهیتی رفته‌ام، اما Raja Ampat تجربه‌ای کاملاً متفاوت است. اگر یک جا باشد که بخواهم بارها و بارها به آن برگردم، همان Raja Ampat است!
+
+خوش باشی، AK. Frosty نوشت: مطمئنم آدم‌های بزرگ‌دلی مثل همهٔ شما اینجا در RTM کلیشه‌سازی نمی‌کنند، اما بیشتر آدم‌های بیرون این کار را می‌کنند. و من این را از نزدیک در یک تور تفریحی از زبان ساکنان کشوری دیگر تجربه کردم. بعد از اینکه فهمیدند اندونزیایی هستم، می‌گفتند: «مردم اندو همیشه حرف پول پول پول می‌زنند، ولی تنبل‌اند!»، «مردم اندو بی‌ادب و غیردوستانه‌اند» و «مردم اندو فاسدند». این‌ها چیزهای بی‌ادبانه‌ای بود که پشت سرم به زبان ماندارین شنیدم (همسرم برایم ترجمه کرد).
+
+راستش را بخواهید، و قصد چاپلوسی از برادر Staurum را ندارم، خوشحالم که او را اینجا داریم تا ثابت کند این برچسب‌ها قطعاً نادرست‌اند. او مدرک زندهٔ این است که همهٔ اندونزیایی‌ها تنبل، بی‌ادب و غیردوستانه نیستند. در روزهای نخست حضورم در RTM، کسی که بیشتر سؤال‌ها و تمرین‌هایم را پاسخ داد او بود. امیدوارم بتوانم راه او را ادامه بدهم و نمونه‌های بیشتری بر خلاف آن اضافه کنم. راستی، ما هنوز بالی و Raja Ampat را داریم، پس حدس می‌زنم برچسب روی کشورمان کاملاً هم بد نیست
+
+===== POST 19 | frosty_p7_19 | Frosty =====
+--- EN ---
+@ Bro Master Salivan: Thank you for your kind words and for checking my HW. I appreciate your continued guidance, brother @ AK: Yes, they were from China (the word "mandarin" was a giveaway I guess?). You're right about stereotyping. I've been guilty of that too, of course at times, but I'm trying hard not to say bad things about people. I always remember something I read from somewhere. It goes something along the lines of: "If you don't have anything nice to say to someone, it is better to keep quiet". Definitely a hard thing to do, considering we are human but I am really trying not to judge people. A little secret of ours: I've never been to Raja Ampat before I just saw the pictures and before I got a chance to go there. Thanks for your kind support, brother!
+
+On to the next homework. I chose CP and other things to be the topic to tackle next as I want to leave FTR, FL, and Engulf for the last as they seem to be the core concept of understanding RTM. I can't seem to keep things less wordy because I think everything is important, so I apologize in advance if this is too wordy and confusing to read I appreciate your inputs and corrections on the matter of CP below.
+
+From the markepedia roadmap: Compression: P: Often a sign of reversal, compression is used by ITs to pave the way while hiding their true intentions. W: Combined with a valid entry place, it can be a powerful “indicator” for our trade result. You will also see how it is often used as a trap for S/D traders, especially in CPLQ form.
+
+This is the SD zones from CAD/JPY previously with the CPs marked. The light blue boxes are the PCP and the MPL of the CP (not all are marked though as my kid wants to dine out like... ASAP!)
+
+My current understanding of compression: - Compression (CP) does two things for the ITs: 1. Swapping out their orders from net long to net short or vice versa for their last trade position at the true supply or demand respectively, which, from what I understand, is the MPL. I believe Master Salivan calls this Free Order Flow (Please correct me if I am wrong about your concept of FOF, brother Salivan).
+
+How the ITs achieve this swapping of orders is by creating a series of HHs and HLs, in the case of CP to supply, or a series of LHs and LLs in the case of CP to demand. Retailers love to use these definitions of a “trend” as a base for their “trading systems”. HHs and HLs would create buy stops above the last highs. What the ITs do is they will push price above the previous high and consume all the buy stops sitting there with their sell positions, which would drop price again due to the absence of bids. ITs are essentially reducing their exposure to their long positions. Retailers would believe that this drop is a “retrace” and place more buy stops above the new high and the cycle repeats until the ITs are satisfied with their now net short position. The same logic applies for downwards-sloping CP to true demand.
+
+2. Clearing out any pockets of supply or demand in the way of their desired net position. As an example, if ITs desire a net short position from the true supply as in the case of upwards-sloping CP, it would make their lives much more easier if they clear out the pockets of demand during the CP process for ease of movement through the CP zone.
+
+What I understand by “clearing out pockets of demand” is to take every last sets of orders in the demand zone, which is also the MPL of the demand zone, on the way up. In a perfectly ideal world, every last sets of opposing orders inside a CP (like MPLs of the demand zones in the previous example) would already be cleared on the way to the true supply or demand. Below is IF’s diagram of a perfect CP which I think we all should always keep in mind.
+
+- At the end of CP, we would often see an LQ spike. I personally see this as an odd-enhancer as it is effectively used to create euphoria (in the case of breakout traders) and misery (in the case of the last SD or SR fader). As a side note for myself, I personally prefer to use the term “Liquidity Gap” instead of LQ since I believe there would be a shortage of either bids or offers in an LQ, but that is just me being foolishly over-technical.
+
+This final LQ push to the true zone would create massive opposite orders for the ITs to add to their positions, e.g. lots more of buy orders for ITs to short into in the case of CP to true supply.
+
+- I have also found that some bases of LQ, if aligned with LS levels, could be a nice place to look for bounces, like the below NOK/SEK example. This is already mentioned by IF in the Lite Video #2, which is the Pre-CP (PCP). The other place to look for bounces in price is the MPL of the CP. The area between the MPL of CP and PCP is a flag and we wouldn’t want to trade inside there, unless we are trading a lower TF.
+
+- CP in the direction of the ITs desired final net position can also be used for providing a push to the true zone, as we can best see it from IF’s example below.
+
+- Another thing we should look out for is a HTF level that runs through CPs. IF said (I think it was from the homework analysis section in Lite Video #1)
+
+that when we have a HTF SR running through the middle CP, we should divide the CP into two distinct CPs on each sides of the HTF kink, i.e. one CP above with its MPL and PCP, and the other CP below with its MPL and PCP. The way I understood this is that the HTF kink from the HTF SR level has the potential to turn price in the middle of the CP.
+
+- Last thing that I can include regarding the concept of CP is that we can look for CP to form after price has hit our zone of interest. The Price Reading Article gave out a clue for this: Reaction In LTF, does price react violently to the first decision point? Does it quickly engulf the nearest S/D? (good sign). Does price simply CP away? Maybe it wants to go to the next decision point.
+
+If the reaction from our zone of interest is a CP instead of a liquidity spike in our intended direction of trade, the trade could potentially be in trouble.
+
+Again, please excuse the lengthy post. As always, I have included everything in my brain and notes. Thank you very much for your comments, guidance, hints, and help! I really appreciate it. I will be away half of next week due to a vacation trip with my family. The much needed real vacation, lol. Last few weeks was just vacation off the charts If this CP subject is cleared, I would like to move on to the next topics. I'm left with the topics below:
+--- FA ---
+@ برادر Master Salivan: از حرف‌های محبت‌آمیزتان و از اینکه تکالیفم را بررسی کردید سپاسگزارم. بابت راهنمایی‌های مستمرتان ممنونم، برادر. @ AK: بله، اهل چین بودند (حدس می‌زنم واژهٔ «mandarin» لو می‌داد؟). دربارهٔ کلیشه‌سازی حق با شماست. من هم البته گاهی مرتکبش شده‌ام، اما سخت تلاش می‌کنم حرف بدی دربارهٔ آدم‌ها نزنم. همیشه چیزی را که جایی خوانده‌ام به یاد می‌آورم؛ مضمونش این است: «اگر حرف خوبی برای گفتن به کسی نداری، بهتر است سکوت کنی.» انجام دادنش قطعاً سخت است، با توجه به اینکه ما انسانیم، اما من واقعاً تلاش می‌کنم دربارهٔ مردم قضاوت نکنم. یک راز کوچک بین خودمان: من هرگز به راجا آمپات نرفته‌ام؛ فقط عکس‌هایش را دیده‌ام و هنوز فرصت رفتن به آنجا پیش نیامده. از حمایت مهربانتان ممنونم، برادر!
+
+برویم سراغ تکلیف بعدی. CP و چند موضوع دیگر را به‌عنوان مبحث بعدی انتخاب کردم، چون می‌خواهم FTR، FL و اینگالف را برای آخر بگذارم؛ به نظرم این‌ها هستهٔ اصلی درک RTM هستند. ظاهراً نمی‌توانم کم‌حرف‌تر باشم، چون فکر می‌کنم همه‌چیز مهم است، پس از پیش عذرخواهی می‌کنم اگر این متن زیادی طولانی و گیج‌کننده است. از نظرات و تصحیحاتتان دربارهٔ CP در ادامه سپاسگزارم.
+
+از نقشهٔ راه مارک‌پدیا: فشرده‌سازی: P: فشرده‌سازی که اغلب نشانهٔ بازگشت است، توسط ITs برای هموار کردن مسیر و پنهان کردن نیت واقعی‌شان به کار می‌رود. W: در ترکیب با یک محل ورود معتبر، می‌تواند «شاخص» قدرتمندی برای نتیجهٔ معاملهٔ ما باشد. خواهید دید که اغلب به‌عنوان تله برای معامله‌گران S/D استفاده می‌شود، به‌ویژه در قالب CPLQ.
+
+این هم نواحی SD مربوط به CAD/JPY از قبل است که CPها روی آن مشخص شده‌اند. کادرهای آبی روشن، PCP و MPL همان CP هستند (البته همه علامت‌گذاری نشده‌اند، چون بچه‌ام می‌خواهد مثل... هر چه زودتر بیرون شام بخوریم!)
+
+درک فعلی من از فشرده‌سازی: - فشرده‌سازی (CP) دو کار برای ITs انجام می‌دهد: 1. جابه‌جا کردن سفارش‌هایشان از لانگ خالص به شورت خالص یا برعکس، برای آخرین پوزیشن معاملاتی‌شان در عرضه یا تقاضای واقعی، که به گمان من همان MPL است. فکر می‌کنم استاد Salivan این را Free Order Flow می‌نامد (لطفاً اگر در برداشتم از مفهوم FOF شما اشتباه است، اصلاح کنید، برادر Salivan).
+
+ITs این جابه‌جایی سفارش‌ها را با ساختن زنجیره‌ای از HH و HL در حالت CP به‌سمت عرضه، یا زنجیره‌ای از LH و LL در حالت CP به‌سمت تقاضا محقق می‌کنند. خرده‌معامله‌گران‌ها عاشق این‌اند که از این تعاریف «روند» به‌عنوان پایهٔ «سیستم‌های معاملاتی»شان استفاده کنند. HH و HL باعث ایجاد استاپ‌های خرید بالای سقف‌های آخر می‌شوند. کاری که ITs می‌کنند این است که قیمت را بالای سقف قبلی می‌برند و همهٔ استاپ‌های خریدی را که آنجا نشسته‌اند با پوزیشن‌های فروش خود می‌بلعند و همین باعث می‌شود قیمت به‌دلیل نبود سفارش خرید دوباره افت کند. ITs در واقع در حال کاهش مواجهه‌شان با پوزیشن‌های خرید هستند. خرده‌معامله‌گران‌ها باور می‌کنند این افت یک «اصلاح» است و استاپ‌های خرید بیشتری بالای سقف جدید می‌گذارند و این چرخه تکرار می‌شود تا ITs از پوزیشن فروش خالص کنونی‌شان راضی شوند. همین منطق برای CP با شیب نزولی به‌سمت تقاضای واقعی هم صدق می‌کند.
+
+2. پاکسازی هر جیب عرضه یا تقاضایی که در مسیر پوزیشن خالص مطلوبشان قرار گرفته است. برای مثال، اگر ITs بخواهند از عرضهٔ واقعی یک پوزیشن شورت خالص بگیرند، همان‌طور که در CP با شیب صعودی هست، زندگی برایشان بسیار آسان‌تر می‌شود اگر در طول فرایند CP جیب‌های تقاضا را پاک کنند تا عبور از ناحیهٔ CP راحت‌تر شود.
+
+منظورم از «پاک کردن جیب‌های تقاضا» این است که در مسیر صعود، آخرین دسته‌های سفارش موجود در ناحیهٔ تقاضا، که همان MPL ناحیهٔ تقاضا هم هست، برداشته شود. در دنیایی کاملاً ایده‌آل، هر یک از آخرین دسته‌های سفارش مخالف داخل یک CP (مثل MPLهای نواحی تقاضا در مثال قبلی) در همان مسیر رسیدن به عرضه یا تقاضای واقعی پاک می‌شود. در زیر نمودار IF از یک CP کامل است که فکر می‌کنم همه باید همیشه آن را در ذهن داشته باشیم.
+
+- در پایان CP معمولاً یک اسپایک LQ می‌بینیم. من خودم آن را یک Odds Enhancer می‌دانم، چون عملاً برای ایجاد سرخوشی (در مورد معامله‌گران بریک‌اوت) و بدبختی (در مورد آخرین معامله‌گری که SD یا SR را فِید می‌کند) به کار می‌رود. به‌عنوان یک یادداشت شخصی، خودم ترجیح می‌دهم به‌جای LQ از اصطلاح «شکاف نقدینگی» (Liquidity Gap) استفاده کنم، چون معتقدم در یک LQ کمبودی از سفارش‌های خرید یا فروش وجود دارد؛ ولی این فقط منم که احمقانه بیش از حد فنی می‌شوم.
+
+این فشار نهایی LQ به‌سمت ناحیهٔ واقعی، سفارش‌های مخالف انبوهی برای ITs می‌سازد تا به پوزیشنشان اضافه کنند؛ مثلاً در حالت CP به‌سمت عرضهٔ واقعی، سفارش‌های خرید بسیار بیشتری برای ITs فراهم می‌شود تا در آن‌ها شورت بزنند.
+
+- همچنین دیده‌ام که برخی پایه‌های LQ، اگر با سطوح LS هم‌راستا باشند، می‌توانند جای خوبی برای جست‌وجوی بازگشت قیمت باشند، مثل نمونهٔ NOK/SEK در زیر. IF این را در ویدئوی Lite شمارهٔ 2 هم گفته است، همان Pre-CP یا PCP. جای دیگری که برای بازگشت قیمت می‌توان جست‌وجو کرد، MPL همان CP است. ناحیهٔ بین MPL و PCP یک FL است و نمی‌خواهیم داخل آن معامله کنیم، مگر اینکه در تایم‌فریم پایین‌تر معامله کنیم.
+
+- CP در جهت پوزیشن خالص نهاییِ مطلوب ITs هم می‌تواند برای ایجاد یک فشار به‌سمت ناحیهٔ واقعی به کار رود، چنان‌که در نمونهٔ IF در زیر بهتر دیده می‌شود.
+
+- نکتهٔ دیگری که باید مراقبش باشیم، سطحی در تایم‌فریم بالاتر است که از میان CPها می‌گذرد. IF گفت (فکر می‌کنم در بخش تحلیل تکالیف در ویدئوی Lite شمارهٔ 1 بود)
+
+که وقتی یک SR در تایم‌فریم بالاتر از میانهٔ CP می‌گذرد، باید CP را به دو CP مجزا در دو طرف kink تایم‌فریم بالاتر تقسیم کنیم؛ یعنی یک CP در بالا با MPL و PCP خودش، و CP دیگر در پایین با MPL و PCP خودش. برداشت من این است که kink ناشی از سطح SR تایم‌فریم بالاتر این توانایی را دارد که قیمت را در میانهٔ CP بچرخاند.
+
+- آخرین نکته‌ای که می‌توانم دربارهٔ مفهوم CP اضافه کنم این است که می‌توانیم منتظر شکل‌گیری CP پس از برخورد قیمت با ناحیهٔ موردنظرمان باشیم. مقالهٔ Price Reading برای این موضوع سرنخی داده است: واکنش در تایم‌فریم پایین‌تر؛ آیا قیمت به اولین نقطهٔ تصمیم واکنشی شدید نشان می‌دهد؟ آیا سریع نزدیک‌ترین ناحیهٔ S/D را اینگالف می‌کند؟ (نشانهٔ خوب). آیا قیمت صرفاً با CP از آنجا دور می‌شود؟ شاید می‌خواهد به نقطهٔ تصمیم بعدی برود.
+
+اگر واکنشِ ناحیهٔ موردنظرمان، به‌جای یک اسپایک نقدینگی در جهت موردنظر معامله، یک CP باشد، آن معامله بالقوه در خطر است.
+
+باز هم بابت طولانی بودن این پست عذر می‌خواهم. مثل همیشه، هر چه در ذهن و یادداشت‌هایم بود را نوشتم. از نظرات، راهنمایی‌ها، اشاره‌ها و کمکتان بسیار سپاسگزارم! واقعاً قدردانم. نیمهٔ هفتهٔ آینده به‌خاطر سفر تفریحی با خانواده‌ام در دسترس نیستم. یک تعطیلات واقعی که به‌شدت هم لازمش داشتم، هاها. چند هفتهٔ گذشته هم تعطیلاتی بود در حد خارج از نمودار. اگر موضوع CP روشن شده باشد، دوست دارم به موضوعات بعدی بروم. موضوعات زیر برایم باقی مانده‌اند:
+
+===== POST 20 | frosty_p7_20 | Frosty =====
+--- EN ---
+Hi Everyone, I hope all of you are having an awesome week as always! Checking back in from my vacation. It was a refreshing experience to get away from day job and charts for a while to look at beautiful sceneries and inhale some fresh, mountainside air.
+
+To continue my learning adventure, I will tackle the BSZ next.
+
+From the Markepedia Roadmap: BSZ: P: Supply and Demand work great right? Well how about a bunch of them stacked together? W: BSZ is easy to identify, but your study will also help you spot the right places to trade beyond them, when every retailer is trapped and the IT can now reverse price.
+
+Continuing with the D1 CAD/JPY chart from the previous homework with the important SD zones and caps on price marked, I have marked three chart sections that demonstrate BSZ scenario. I removed the CP markings for this homework since I don’t want to extremely clutter the chart.
+
+HTF Chart: CAD/JPY D1 Chart LTF Chart A: LTF Chart B: LTF Chart C: My current understanding of BSZ: - BSZs are traps that provide liquidity for the ITs in the form of opposite stop orders from the retailers.
+
+- BSZs are formed by multiple highs (or lows) that exactly or almost line up together right below the true supply (or right above true demand). From my observations, it is not necessary to have exact highs or lows that line up at the perfectly same price, but they would need to be close together.
+
+- The key important point about BSZs is that we should understand where the retailers’ stops are clustered by understanding retail SR and trend trading methods, and, therefore, where is the best price level beyond them to trigger all of their stops for the benefit of the ITs.
+
+- Another thing from Bro Edge that deserves a mention is that the BSZ is best formed outside the true supply or demand zone. I believe the reason for this is because of two things. One reason is for RR considerations, i.e. more space between the trap zones’ highs/lows and the true supply/demand would equal to more profit potential. The second reason is the more important one, which is that we can’t be sure if what looks like a BSZ might already hit the best set of orders in the true supply/demand. By having the BSZ forming outside the kink, we can be absolutely sure that the MPL hasn’t been hit yet. I believe this is what bro Edge shared with us in thispost - To trade a purely BSZ setup, we would only trade from the true supply/demand, i.e. MPL of the Flag Limit, down/up to the Flag Limit that were created after the break of the BSZ barrier and expect no more than that.
+
+That is what I have on BSZ. It looks relatively straightforward and there seems to be no ambiguity in the concept as well, so I think this is one of the easier puzzle pieces to understand. I believe I got the main idea down from the above points, but I’m very open to additional guidance and corrections Thank you all!
+--- FA ---
+سلام به همه، امیدوارم مثل همیشه هفتهٔ فوق‌العاده‌ای داشته باشید! دارم از تعطیلاتم سر می‌زنم. تجربهٔ نشاط‌آوری بود که مدتی از شغل روزانه و نمودارها دور باشم، مناظر زیبا ببینم و هوای تازهٔ دامنهٔ کوه را نفس بکشم.
+
+برای ادامهٔ ماجراجویی یادگیری‌ام، این بار سراغ BSZ می‌روم.
+
+از نقشهٔ راه مارک‌پدیا: BSZ: P: عرضه و تقاضا عالی جواب می‌دهند، نه؟ حالا چه می‌شود اگر چندتایشان روی هم انباشته شوند؟ W: تشخیص BSZ آسان است، اما مطالعهٔ شما کمک می‌کند جای درست معامله در آن‌سوی آن‌ها را هم پیدا کنید، آنجا که همهٔ خرده‌معامله‌گران‌ها در تله افتاده‌اند و IT می‌تواند قیمت را برگرداند.
+
+با ادامهٔ نمودار D1 جفت‌ارز CAD/JPY از تکلیف قبلی که نواحی مهم SD و سقف‌های قیمت روی آن مشخص شده بود، سه بخش از نمودار را که سناریوی BSZ را نشان می‌دهند علامت زده‌ام. برای این تکلیف علامت‌های CP را برداشتم، چون نمی‌خواهم نمودار بیش از حد شلوغ شود.
+
+نمودار تایم‌فریم بالاتر: نمودار D1 جفت‌ارز CAD/JPY نمودار تایم‌فریم پایین‌تر A: نمودار تایم‌فریم پایین‌تر B: نمودار تایم‌فریم پایین‌تر C: درک فعلی من از BSZ: - BSZها تله‌هایی هستند که نقدینگی لازم برای ITs را در قالب سفارش‌های استاپ مخالف از سوی خرده‌معامله‌گران‌ها فراهم می‌کنند.
+
+- BSZها از چندین سقف (یا کف) تشکیل می‌شوند که دقیقاً یا تقریباً در یک راستا، درست زیر عرضهٔ واقعی (یا درست بالای تقاضای واقعی) قرار می‌گیرند. از مشاهداتم، لازم نیست سقف‌ها یا کف‌ها دقیقاً روی یک قیمت یکسان باشند، اما باید نزدیک هم باشند.
+
+- نکتهٔ کلیدی و مهم دربارهٔ BSZها این است که باید با شناخت روش‌های معاملاتی SR و روندِ خرده‌معامله‌گران‌ها بفهمیم استاپ‌های آن‌ها کجا خوشه شده‌اند و در نتیجه، بهترین سطح قیمتیِ فراتر از آن‌ها برای فعال کردن همهٔ استاپ‌هایشان به سود ITs کجاست.
+
+- نکتهٔ دیگری از برادر Edge که ارزش ذکر دارد این است که BSZ بهتر است بیرون از ناحیهٔ عرضه یا تقاضای واقعی شکل بگیرد. معتقدم دلیلش دو چیز است. یک دلیل مربوط به RR است؛ یعنی فاصلهٔ بیشتر بین سقف/کف نواحی تله و عرضه/تقاضای واقعی به معنای پتانسیل سود بیشتر است. دلیل دوم که مهم‌تر است این است که نمی‌توانیم مطمئن باشیم چیزی که شبیه BSZ است، شاید همین حالا بهترین دستهٔ سفارش‌ها را در عرضه/تقاضای واقعی زده باشد. با شکل‌گیری BSZ بیرون از kink، می‌توانیم کاملاً مطمئن باشیم که MPL هنوز زده نشده است. فکر می‌کنم این همان چیزی است که برادر Edge در این پست با ما به اشتراک گذاشت. - برای معاملهٔ یک ستاپ صرفاً BSZ، فقط از عرضه/تقاضای واقعی یعنی MPL همان FL معامله می‌کنیم، پایین/بالا تا FLهایی که پس از شکست سد BSZ ایجاد شده‌اند، و بیش از آن انتظاری نداریم.
+
+این تمام چیزی است که دربارهٔ BSZ دارم. نسبتاً سرراست به نظر می‌رسد و ظاهراً ابهامی هم در این مفهوم نیست، پس فکر می‌کنم این یکی از قطعات آسان‌تر پازل برای درک است. باور دارم ایدهٔ اصلی را از نکات بالا گرفته‌ام، اما کاملاً پذیرای راهنمایی و تصحیح بیشتر هستم. از همه ممنون!
+
+===== POST 21 | frosty_p7_21 | Ifmyante =====
+--- EN ---
+That's all one needs to know about BSZ for reversal through the range However, it can often just lead to a retrace back to the range
+--- FA ---
+این تمام چیزی است که برای بازگشت از میان رنج باید دربارهٔ BSZ دانست. با این حال، اغلب می‌تواند فقط به یک اصلاح و بازگشت به داخل رنج منجر شود.
+
+===== POST 22 | frosty_p7_22 | Frosty =====
+--- EN ---
+Thank you for visiting my journal, bro IFI will keep your note about the retrace back into the range in my notes and in mind.
+
+I hope you are safe from the storm, brother!
+
+For the next journey, I will complete the "Find the Decisions" homework. I think I didn't do this homework properly since I can't find any records of it in my PC or I might have deleted it by accident. But anyways, it is always a time well spent when one is completing RTM homeworks Afterwards would be FTR homework. Although the FTR article was removed, I trust that it is still a good practice to understand them. From recent hints, I am strongly inclined to believe this homework's purpose is to differentiate between FTR and STR (Sorry bro Staurum, borrowing your term here) - Failure to Return vs. Success to Return. I acknowledge my weakness in this and FL area. Intensive and diligent homework sessions needed for these pieces from my part.
+
+Then comes FLs and, naturally, PAZs. When a single chart can be broken down into FLs and PAZs, I think only then can we dissect price movement systematically using engulfs, fakeouts, origins, targets, ignored levels, and LSs (I believe this would naturally include QM and DM).
+
+Also, not intending to be lazy at all, after re-reading the topics on 3-Drive and CanCan, I think I can't add more to what I have done previously since I think the dynamics of these two concepts have been properly summarized in the two posts below, therefore, I consider them complete. Please do remind me if that is not everything. I tried to be thorough previously and also this time around.
+
+3-Drive Summary CanCan Summary So this is where I currently stand regarding RTM concepts. I have also added my own study focuses in the psychology and money management sections on the markepedia roadmap for later use when applicable: Explanations are as follows: - Demons to overcome: List of what self-sabotaging habits and beliefs that I have that are holding me back, with possible solutions to eliminate them - Visualization exercises: Mantras and visualization techniques that I will be doing repeatedly to set my mind in the optimal mindset for the best trading performance - Trading objectives: The core reasons why I desire to pursue trading as a way of life. This is to remind myself every day. - Behavioral tendencies: During my previous journey of trading, I remembered that, for some unknown reasons, I was able to win a significantly larger amount of short trades than long trades. Also I seem to be able to do well in some pairs than other pairs. The purpose of this section is to create a guideline on how to monitor my winning vs losing tendencies. Comments needed on this, i.e. whether this is necessary to document or whether it is only a waste of time?
+
+- Trading plan: self-explanatory - Correlation considerations: List of correlation between currency pairs and commodities, also rules to prevent heavy exposure on any one correlated currency trade. I personally believe this is an important subject to understand as well. - Profit and Drawdown rules: List of rules that I will adhere to regarding the drawdowns I face and the profits I make in the future. - Trade Journaling: Journal and record every trade for study purposes. I will build a checklist on what I should record for each trades in this section.
+
+Thank you all for your continued guidance Also please forgive me in advance for the wordy posts. English is not my first language so I try to be as thorough as possible to prevent any wrong interpretations
+--- FA ---
+از اینکه به ژورنالم سر زدی ممنون، برادر IF. یادداشتت را دربارهٔ اصلاح و بازگشت به داخل رنج، هم در یادداشت‌هایم و هم در ذهنم نگه می‌دارم.
+
+امیدوارم از طوفان در امان باشی، برادر!
+
+برای سفر بعدی، تکلیف «یافتن نقاط تصمیم» را کامل می‌کنم. فکر می‌کنم این تکلیف را درست انجام نداده بودم، چون هیچ اثری از آن در کامپیوترم پیدا نمی‌کنم یا شاید تصادفی پاکش کرده‌ام. اما به هر حال، وقتی کسی تکالیف RTM را انجام می‌دهد، زمان همیشه به‌خوبی صرف شده است. پس از آن نوبت تکلیف FTR است. هرچند مقالهٔ FTR حذف شده، مطمئنم که هنوز تمرین خوبی برای درک آن‌هاست. با توجه به اشاره‌های اخیر، به‌شدت گرایش دارم باور کنم هدف این تکلیف تمایز دادن بین FTR و STR است (ببخشید برادر Staurum، اینجا اصطلاحش را از تو قرض گرفتم) — Failure to Return در برابر Success to Return. ضعفم را در این حوزه و حوزهٔ FL می‌پذیرم. از طرف من جلسات تمرین فشرده و کوشا برای این قطعات لازم است.
+
+بعد نوبت FLها و به‌طور طبیعی PAZها است. وقتی یک نمودار بتواند به FLها و PAZها تفکیک شود، فکر می‌کنم تنها از آن پس می‌توانیم حرکت قیمت را با اینگالف‌ها، فیکاوت‌ها، اورجین‌ها، تارگت‌ها، سطوح نادیده‌گرفته‌شده و LSها به‌صورت سیستماتیک کالبدشکافی کنیم (باور دارم QM و DM هم طبیعتاً در همین جا می‌گنجند).
+
+همچنین، اصلاً قصد تنبلی ندارم؛ پس از بازخوانی مباحث 3-Drive و CanCan، فکر می‌کنم چیزی بیشتر از کار قبلی‌ام نمی‌توانم اضافه کنم، چون معتقدم دینامیک این دو مفهوم به‌درستی در دو پست زیر خلاصه شده است؛ بنابراین آن‌ها را کامل می‌دانم. لطفاً اگر این همهٔ ماجرا نیست، یادآوری کنید. هم قبلاً و هم این بار تلاش کرده‌ام کامل و دقیق باشم.
+
+خلاصهٔ 3-Drive خلاصهٔ CanCan پس وضعیت کنونی من در مورد مفاهیم RTM این‌جاست. در بخش‌های روان‌شناسی و مدیریت پول در نقشهٔ راه مارک‌پدیا هم تمرکزهای مطالعاتی خودم را برای استفادهٔ بعدی در جای لازم اضافه کرده‌ام: توضیحات به شرح زیر است: - شیطان‌هایی که باید شکستشان داد: فهرستی از عادت‌ها و باورهای خودتخریبی که مرا عقب نگه می‌دارند، همراه با راه‌حل‌های ممکن برای حذفشان. - تمرین‌های تجسم: ذکرها و تکنیک‌های تجسمی که مکرراً انجام می‌دهم تا ذهنم را در بهترین وضعیت برای بهترین عملکرد معاملاتی قرار دهم. - اهداف معاملاتی: دلایل اصلیِ اینکه می‌خواهم معامله‌گری را به‌عنوان شیوهٔ زندگی دنبال کنم. این برای یادآوری روزانه به خودم است. - گرایش‌های رفتاری: در سفر معاملاتی قبلی‌ام به یاد می‌آورم که به دلایلی نامعلوم، تعداد معاملات شورتی که بردم به‌طور قابل‌توجهی بیشتر از معاملات لانگ بود. همچنین به نظر می‌رسد در برخی جفت‌ارزها بهتر از بقیه عمل می‌کنم. هدف از این بخش، ساختن یک راهنما برای پایش گرایش‌های برد در برابر باخت من است. در این باره نظر لازم دارم؛ یعنی آیا مستند کردنش لازم است یا فقط اتلاف وقت؟
+
+- پلن معاملاتی: خودش گویاست. - ملاحظات همبستگی: فهرستی از همبستگی بین جفت‌ارزها و کالاها، همچنین قواعدی برای جلوگیری از مواجههٔ سنگین روی هر معامله با ارز همبسته. شخصاً معتقدم این موضوع هم برای درک مهم است. - قواعد سود و افت سرمایه: فهرستی از قواعدی که دربارهٔ افت سرمایه‌های پیش‌رو و سودهایی که در آینده می‌کنم، به آن‌ها پایبند خواهم بود. - ژورنال معاملات: ثبت و ضبط هر معامله برای بررسی. در این بخش چک‌لیستی می‌سازم از آنچه باید برای هر معامله ثبت کنم.
+
+از راهنمایی‌های همیشگی‌تان سپاسگزارم. همچنین از پیش بابت پست‌های پرحرفم عذر می‌خواهم. انگلیسی زبان اولم نیست، پس تلاش می‌کنم تا حد امکان کامل و دقیق باشم تا از هر برداشت نادرستی جلوگیری شود.
+
+===== POST 23 | frosty_p7_23 | Astrokillah =====
+--- EN ---
+Hello Frosty, thank you for your writing, I have learned so much from this journal. I have taken a look at this post by Edge, and also saw your response and Audrey's response to, I am not sure if what you guys subsequently described was what Edge had in mind. When I read what Edge wrote, I interpret it as the following scenario is what he desired, i.e. BSZ formed OUTSIDE of the kink, not inside as the chart on his post showed.
+
+cheers AK Frosty wrote: Hi Everyone, - Another thing from Bro Edge that deserves a mention is that the BSZ is best formed outside the true supply or demand zone. I believe the reason for this is because of two things. One reason is for RR considerations, i.e. more space between the trap zones’ highs/lows and the true supply/demand would equal to more profit potential. The second reason is the more important one, which is that we can’t be sure if what looks like a BSZ might already hit the best set of orders in the true supply/demand. By having the BSZ forming outside the kink, we can be absolutely sure that the MPL hasn’t been hit yet. I believe this is what bro Edge shared with us in thispost
+--- FA ---
+سلام Frosty، از نوشته‌هایت سپاسگزارم، از این ژورنال چیزهای زیادی یاد گرفتم. نگاهی به این پست Edge انداختم و پاسخ تو و پاسخ Audrey را هم دیدم؛ مطمئن نیستم آنچه شما بعد از آن توصیف کردید همان چیزی بود که Edge در ذهن داشت. وقتی نوشتهٔ Edge را می‌خوانم، این‌طور تفسیر می‌کنم که سناریوی موردنظر او این است: BSZ بیرون از kink شکل بگیرد، نه در داخل آن، برخلاف نمودار پستش.
+
+درود، AK
+Frosty نوشت: سلام به همه، - نکتهٔ دیگری از برادر Edge که ارزش ذکر دارد این است که BSZ بهتر است بیرون از ناحیهٔ عرضه یا تقاضای واقعی شکل بگیرد. معتقدم دلیلش دو چیز است. یک دلیل مربوط به RR است؛ یعنی فاصلهٔ بیشتر بین سقف/کف نواحی تله و عرضه/تقاضای واقعی به معنای پتانسیل سود بیشتر است. دلیل دوم که مهم‌تر است این است که نمی‌توانیم مطمئن باشیم چیزی که شبیه BSZ است، شاید همین حالا بهترین دستهٔ سفارش‌ها را در عرضه/تقاضای واقعی زده باشد. با شکل‌گیری BSZ بیرون از kink، می‌توانیم کاملاً مطمئن باشیم که MPL هنوز زده نشده است. فکر می‌کنم این همان چیزی است که برادر Edge در این پست با ما به اشتراک گذاشت.
+
+===== POST 24 | frosty_p7_24 | Frosty =====
+--- EN ---
+Hi bro AK, Thank you for clearing that BSZ topic using a diagram! Yes I think I misinterpret bro Edge's words of wisdom back then and your diagram is exactly what I had in mind when I wrote the above point.
+
+I am also learning a lot from your questions and posts as well around RTM, brother let us not give up in this wonderful learning journey
+--- FA ---
+سلام برادر AK، ممنون که موضوع BSZ را با یک نمودار روشن کردی! بله، فکر می‌کنم آن موقع منظور برادر Edge را اشتباه متوجه شدم و نمودار تو دقیقاً همان چیزی است که هنگام نوشتن نکتهٔ بالا در ذهن داشتم.
+
+من هم از پرسش‌ها و پست‌های تو دربارهٔ RTM چیزهای زیادی یاد می‌گیرم، برادر؛ بیا در این سفر یادگیری شگفت‌انگیز تسلیم نشویم.
+
+===== POST 25 | frosty_p7_25 | Frosty =====
+--- EN ---
+Hi all, My attempt at "Find the Decisions" homework. Doing the first five for today before heading to bed.
+
+Comments and corrections are more than welcomed Daily Chart: Point 1: Point 2: Point 3:
+--- FA ---
+سلام به همه، تلاش من برای تکلیف «یافتن نقاط تصمیم». امروز پیش از رفتن به رختخواب، پنج مورد اول را انجام می‌دهم.
+
+نظرات و تصحیحات بیش از پیش خوش‌آمد است. نمودار روزانه: نقطهٔ 1: نقطهٔ 2: نقطهٔ 3:

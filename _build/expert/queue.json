@@ -1,0 +1,775 @@
+{
+ "generatedAt": "2026-11-10T19:05:13.111Z",
+ "pages": 72,
+ "posts": 1346,
+ "groups": [
+  {
+   "id": "rinehartfl",
+   "pages": 1,
+   "posts": 2,
+   "chars": 62,
+   "list": [
+    {
+     "page": "rinehartfl-p2",
+     "journal": "rinehartfl",
+     "number": 2,
+     "posts": 2,
+     "chars": 62,
+     "work": true
+    }
+   ]
+  },
+  {
+   "id": "dplocation",
+   "pages": 1,
+   "posts": 5,
+   "chars": 1280,
+   "list": [
+    {
+     "page": "dplocation-p1",
+     "journal": "dplocation",
+     "number": 1,
+     "posts": 5,
+     "chars": 1280,
+     "work": true
+    }
+   ]
+  },
+  {
+   "id": "maxpain",
+   "pages": 1,
+   "posts": 12,
+   "chars": 2427,
+   "list": [
+    {
+     "page": "maxpain-p1",
+     "journal": "maxpain",
+     "number": 1,
+     "posts": 12,
+     "chars": 2427,
+     "work": true
+    }
+   ]
+  },
+  {
+   "id": "staurum",
+   "pages": 1,
+   "posts": 24,
+   "chars": 23564,
+   "list": [
+    {
+     "page": "staurum-p19",
+     "journal": "staurum",
+     "number": 19,
+     "posts": 24,
+     "chars": 23564,
+     "work": true
+    }
+   ]
+  },
+  {
+   "id": "bill",
+   "pages": 2,
+   "posts": 12,
+   "chars": 2992,
+   "list": [
+    {
+     "page": "bill-p1",
+     "journal": "bill",
+     "number": 1,
+     "posts": 7,
+     "chars": 2372,
+     "work": true
+    },
+    {
+     "page": "bill-p2",
+     "journal": "bill",
+     "number": 2,
+     "posts": 5,
+     "chars": 620,
+     "work": true
+    }
+   ]
+  },
+  {
+   "id": "enquiry",
+   "pages": 2,
+   "posts": 22,
+   "chars": 2480,
+   "list": [
+    {
+     "page": "enquiry-p1",
+     "journal": "enquiry",
+     "number": 1,
+     "posts": 20,
+     "chars": 2043,
+     "work": true
+    },
+    {
+     "page": "enquiry-p2",
+     "journal": "enquiry",
+     "number": 2,
+     "posts": 2,
+     "chars": 437,
+     "work": true
+    }
+   ]
+  },
+  {
+   "id": "fakeouts",
+   "pages": 2,
+   "posts": 28,
+   "chars": 8269,
+   "list": [
+    {
+     "page": "fakeouts-p1",
+     "journal": "fakeouts",
+     "number": 1,
+     "posts": 25,
+     "chars": 7770,
+     "work": true
+    },
+    {
+     "page": "fakeouts-p2",
+     "journal": "fakeouts",
+     "number": 2,
+     "posts": 3,
+     "chars": 499,
+     "work": true
+    }
+   ]
+  },
+  {
+   "id": "sdcleared",
+   "pages": 2,
+   "posts": 29,
+   "chars": 13321,
+   "list": [
+    {
+     "page": "sdcleared-p1",
+     "journal": "sdcleared",
+     "number": 1,
+     "posts": 25,
+     "chars": 11518,
+     "work": true
+    },
+    {
+     "page": "sdcleared-p2",
+     "journal": "sdcleared",
+     "number": 2,
+     "posts": 4,
+     "chars": 1803,
+     "work": true
+    }
+   ]
+  },
+  {
+   "id": "cppaz",
+   "pages": 2,
+   "posts": 34,
+   "chars": 7277,
+   "list": [
+    {
+     "page": "cppaz-p1",
+     "journal": "cppaz",
+     "number": 1,
+     "posts": 22,
+     "chars": 4003,
+     "work": true
+    },
+    {
+     "page": "cppaz-p2",
+     "journal": "cppaz",
+     "number": 2,
+     "posts": 12,
+     "chars": 3274,
+     "work": true
+    }
+   ]
+  },
+  {
+   "id": "jc",
+   "pages": 2,
+   "posts": 36,
+   "chars": 10333,
+   "list": [
+    {
+     "page": "jc-p1",
+     "journal": "jc",
+     "number": 1,
+     "posts": 24,
+     "chars": 6331,
+     "work": true
+    },
+    {
+     "page": "jc-p2",
+     "journal": "jc",
+     "number": 2,
+     "posts": 12,
+     "chars": 4002,
+     "work": true
+    }
+   ]
+  },
+  {
+   "id": "pg",
+   "pages": 2,
+   "posts": 41,
+   "chars": 5326,
+   "list": [
+    {
+     "page": "pg-p1",
+     "journal": "pg",
+     "number": 1,
+     "posts": 25,
+     "chars": 3797,
+     "work": true
+    },
+    {
+     "page": "pg-p2",
+     "journal": "pg",
+     "number": 2,
+     "posts": 16,
+     "chars": 1529,
+     "work": true
+    }
+   ]
+  },
+  {
+   "id": "dissection",
+   "pages": 2,
+   "posts": 43,
+   "chars": 22438,
+   "list": [
+    {
+     "page": "dissection-p1",
+     "journal": "dissection",
+     "number": 1,
+     "posts": 25,
+     "chars": 14692,
+     "work": true
+    },
+    {
+     "page": "dissection-p2",
+     "journal": "dissection",
+     "number": 2,
+     "posts": 18,
+     "chars": 7746,
+     "work": true
+    }
+   ]
+  },
+  {
+   "id": "knowledgeismoney",
+   "pages": 2,
+   "posts": 46,
+   "chars": 8119,
+   "list": [
+    {
+     "page": "knowledgeismoney-p1",
+     "journal": "knowledgeismoney",
+     "number": 1,
+     "posts": 24,
+     "chars": 5398,
+     "work": true
+    },
+    {
+     "page": "knowledgeismoney-p2",
+     "journal": "knowledgeismoney",
+     "number": 2,
+     "posts": 22,
+     "chars": 2721,
+     "work": true
+    }
+   ]
+  },
+  {
+   "id": "cancan",
+   "pages": 3,
+   "posts": 50,
+   "chars": 6700,
+   "list": [
+    {
+     "page": "cancan-p1",
+     "journal": "cancan",
+     "number": 1,
+     "posts": 25,
+     "chars": 2835,
+     "work": true
+    },
+    {
+     "page": "cancan-p2",
+     "journal": "cancan",
+     "number": 2,
+     "posts": 21,
+     "chars": 3651,
+     "work": true
+    },
+    {
+     "page": "cancan-p3",
+     "journal": "cancan",
+     "number": 3,
+     "posts": 4,
+     "chars": 214,
+     "work": true
+    }
+   ]
+  },
+  {
+   "id": "flaglimitshydra",
+   "pages": 3,
+   "posts": 51,
+   "chars": 8149,
+   "list": [
+    {
+     "page": "flaglimitshydra-p1",
+     "journal": "flaglimitshydra",
+     "number": 1,
+     "posts": 19,
+     "chars": 2997,
+     "work": true
+    },
+    {
+     "page": "flaglimitshydra-p2",
+     "journal": "flaglimitshydra",
+     "number": 2,
+     "posts": 24,
+     "chars": 2591,
+     "work": true
+    },
+    {
+     "page": "flaglimitshydra-p3",
+     "journal": "flaglimitshydra",
+     "number": 3,
+     "posts": 8,
+     "chars": 2561,
+     "work": true
+    }
+   ]
+  },
+  {
+   "id": "its",
+   "pages": 3,
+   "posts": 54,
+   "chars": 85901,
+   "list": [
+    {
+     "page": "its-p1",
+     "journal": "its",
+     "number": 1,
+     "posts": 25,
+     "chars": 44146,
+     "work": true
+    },
+    {
+     "page": "its-p2",
+     "journal": "its",
+     "number": 2,
+     "posts": 25,
+     "chars": 40939,
+     "work": true
+    },
+    {
+     "page": "its-p3",
+     "journal": "its",
+     "number": 3,
+     "posts": 4,
+     "chars": 816,
+     "work": true
+    }
+   ]
+  },
+  {
+   "id": "ignoredlevel",
+   "pages": 3,
+   "posts": 69,
+   "chars": 31918,
+   "list": [
+    {
+     "page": "ignoredlevel-p1",
+     "journal": "ignoredlevel",
+     "number": 1,
+     "posts": 24,
+     "chars": 9450,
+     "work": true
+    },
+    {
+     "page": "ignoredlevel-p2",
+     "journal": "ignoredlevel",
+     "number": 2,
+     "posts": 20,
+     "chars": 5077,
+     "work": true
+    },
+    {
+     "page": "ignoredlevel-p3",
+     "journal": "ignoredlevel",
+     "number": 3,
+     "posts": 25,
+     "chars": 17391,
+     "work": true
+    }
+   ]
+  },
+  {
+   "id": "academylite2",
+   "pages": 4,
+   "posts": 96,
+   "chars": 47241,
+   "list": [
+    {
+     "page": "academylite2-p1",
+     "journal": "academylite2",
+     "number": 1,
+     "posts": 22,
+     "chars": 6559,
+     "work": true
+    },
+    {
+     "page": "academylite2-p2",
+     "journal": "academylite2",
+     "number": 2,
+     "posts": 24,
+     "chars": 8710,
+     "work": true
+    },
+    {
+     "page": "academylite2-p3",
+     "journal": "academylite2",
+     "number": 3,
+     "posts": 25,
+     "chars": 15146,
+     "work": true
+    },
+    {
+     "page": "academylite2-p4",
+     "journal": "academylite2",
+     "number": 4,
+     "posts": 25,
+     "chars": 16826,
+     "work": true
+    }
+   ]
+  },
+  {
+   "id": "ftrpaz",
+   "pages": 4,
+   "posts": 97,
+   "chars": 36407,
+   "list": [
+    {
+     "page": "ftrpaz-p1",
+     "journal": "ftrpaz",
+     "number": 1,
+     "posts": 25,
+     "chars": 11297,
+     "work": true
+    },
+    {
+     "page": "ftrpaz-p2",
+     "journal": "ftrpaz",
+     "number": 2,
+     "posts": 24,
+     "chars": 8371,
+     "work": true
+    },
+    {
+     "page": "ftrpaz-p3",
+     "journal": "ftrpaz",
+     "number": 3,
+     "posts": 25,
+     "chars": 11299,
+     "work": true
+    },
+    {
+     "page": "ftrpaz-p4",
+     "journal": "ftrpaz",
+     "number": 4,
+     "posts": 23,
+     "chars": 5440,
+     "work": true
+    }
+   ]
+  },
+  {
+   "id": "bsz",
+   "pages": 5,
+   "posts": 84,
+   "chars": 16424,
+   "list": [
+    {
+     "page": "bsz-p1",
+     "journal": "bsz",
+     "number": 1,
+     "posts": 19,
+     "chars": 4207,
+     "work": true
+    },
+    {
+     "page": "bsz-p2",
+     "journal": "bsz",
+     "number": 2,
+     "posts": 19,
+     "chars": 5019,
+     "work": true
+    },
+    {
+     "page": "bsz-p3",
+     "journal": "bsz",
+     "number": 3,
+     "posts": 17,
+     "chars": 1974,
+     "work": true
+    },
+    {
+     "page": "bsz-p4",
+     "journal": "bsz",
+     "number": 4,
+     "posts": 23,
+     "chars": 4629,
+     "work": true
+    },
+    {
+     "page": "bsz-p5",
+     "journal": "bsz",
+     "number": 5,
+     "posts": 6,
+     "chars": 595,
+     "work": true
+    }
+   ]
+  },
+  {
+   "id": "whynotwork",
+   "pages": 5,
+   "posts": 106,
+   "chars": 37285,
+   "list": [
+    {
+     "page": "whynotwork-p1",
+     "journal": "whynotwork",
+     "number": 1,
+     "posts": 25,
+     "chars": 8794,
+     "work": true
+    },
+    {
+     "page": "whynotwork-p2",
+     "journal": "whynotwork",
+     "number": 2,
+     "posts": 25,
+     "chars": 9228,
+     "work": true
+    },
+    {
+     "page": "whynotwork-p3",
+     "journal": "whynotwork",
+     "number": 3,
+     "posts": 25,
+     "chars": 7090,
+     "work": true
+    },
+    {
+     "page": "whynotwork-p4",
+     "journal": "whynotwork",
+     "number": 4,
+     "posts": 22,
+     "chars": 7607,
+     "work": true
+    },
+    {
+     "page": "whynotwork-p5",
+     "journal": "whynotwork",
+     "number": 5,
+     "posts": 9,
+     "chars": 4566,
+     "work": true
+    }
+   ]
+  },
+  {
+   "id": "capnp",
+   "pages": 6,
+   "posts": 119,
+   "chars": 57212,
+   "list": [
+    {
+     "page": "capnp-p1",
+     "journal": "capnp",
+     "number": 1,
+     "posts": 25,
+     "chars": 15242,
+     "work": true
+    },
+    {
+     "page": "capnp-p2",
+     "journal": "capnp",
+     "number": 2,
+     "posts": 25,
+     "chars": 14386,
+     "work": true
+    },
+    {
+     "page": "capnp-p3",
+     "journal": "capnp",
+     "number": 3,
+     "posts": 25,
+     "chars": 11961,
+     "work": true
+    },
+    {
+     "page": "capnp-p4",
+     "journal": "capnp",
+     "number": 4,
+     "posts": 23,
+     "chars": 6139,
+     "work": true
+    },
+    {
+     "page": "capnp-p5",
+     "journal": "capnp",
+     "number": 5,
+     "posts": 19,
+     "chars": 9418,
+     "work": true
+    },
+    {
+     "page": "capnp-p6",
+     "journal": "capnp",
+     "number": 6,
+     "posts": 2,
+     "chars": 66,
+     "work": true
+    }
+   ]
+  },
+  {
+   "id": "academylite1",
+   "pages": 6,
+   "posts": 125,
+   "chars": 40264,
+   "list": [
+    {
+     "page": "academylite1-p1",
+     "journal": "academylite1",
+     "number": 1,
+     "posts": 21,
+     "chars": 4052,
+     "work": true
+    },
+    {
+     "page": "academylite1-p2",
+     "journal": "academylite1",
+     "number": 2,
+     "posts": 21,
+     "chars": 5297,
+     "work": true
+    },
+    {
+     "page": "academylite1-p3",
+     "journal": "academylite1",
+     "number": 3,
+     "posts": 23,
+     "chars": 3870,
+     "work": true
+    },
+    {
+     "page": "academylite1-p4",
+     "journal": "academylite1",
+     "number": 4,
+     "posts": 24,
+     "chars": 12808,
+     "work": true
+    },
+    {
+     "page": "academylite1-p5",
+     "journal": "academylite1",
+     "number": 5,
+     "posts": 21,
+     "chars": 8146,
+     "work": true
+    },
+    {
+     "page": "academylite1-p6",
+     "journal": "academylite1",
+     "number": 6,
+     "posts": 15,
+     "chars": 6091,
+     "work": true
+    }
+   ]
+  },
+  {
+   "id": "whenever",
+   "pages": 8,
+   "posts": 161,
+   "chars": 77049,
+   "list": [
+    {
+     "page": "whenever-p1",
+     "journal": "whenever",
+     "number": 1,
+     "posts": 21,
+     "chars": 7173,
+     "work": true
+    },
+    {
+     "page": "whenever-p2",
+     "journal": "whenever",
+     "number": 2,
+     "posts": 21,
+     "chars": 8250,
+     "work": true
+    },
+    {
+     "page": "whenever-p3",
+     "journal": "whenever",
+     "number": 3,
+     "posts": 17,
+     "chars": 4233,
+     "work": true
+    },
+    {
+     "page": "whenever-p4",
+     "journal": "whenever",
+     "number": 4,
+     "posts": 23,
+     "chars": 9760,
+     "work": true
+    },
+    {
+     "page": "whenever-p5",
+     "journal": "whenever",
+     "number": 5,
+     "posts": 23,
+     "chars": 6436,
+     "work": true
+    },
+    {
+     "page": "whenever-p6",
+     "journal": "whenever",
+     "number": 6,
+     "posts": 24,
+     "chars": 35897,
+     "work": true
+    },
+    {
+     "page": "whenever-p7",
+     "journal": "whenever",
+     "number": 7,
+     "posts": 25,
+     "chars": 3873,
+     "work": true
+    },
+    {
+     "page": "whenever-p8",
+     "journal": "whenever",
+     "number": 8,
+     "posts": 7,
+     "chars": 1427,
+     "work": true
+    }
+   ]
+  }
+ ]
+}

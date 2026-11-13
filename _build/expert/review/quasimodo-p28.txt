@@ -1,0 +1,199 @@
+### quasimodo_p28_676
+EN: Is this correct?
+FA: این درست است؟
+
+### quasimodo_p28_677
+EN: sure is Josh
+FA: بله، دقیقاً همین‌طور است Josh
+
+### quasimodo_p28_678
+EN: a posible QM level on EU H4
+FA: یک سطح QM احتمالی روی EU در H4
+
+### quasimodo_p28_679
+EN: Hello
+
+I was practicing compression but i realized there was an engulf pattern as price compressed.
+
+Is this a valid quasimodo?
+
+Btw if valid these are some crazy 10:1 possible reward trades, i find this really amazing i must go back to more homework
+
+Please give me some feedback,
+
+Thank you
+FA: سلام
+
+داشتم روی فشرده‌سازی تمرین می‌کردم که متوجه شدم هنگام فشرده شدن قیمت، یک الگوی اینگالف هم شکل گرفته.
+
+آیا این یک QM معتبر است؟
+
+راستی اگر معتبر باشد، این‌ها معامله‌هایی با ریوارد بالقوهٔ 10:1 و واقعاً عجیب‌اند؛ برایم حیرت‌آور است و باید برگردم سر تمرین‌های بیشتر.
+
+لطفاً بازخوردتان را بگویید،
+
+ممنون
+
+### quasimodo_p28_680
+EN: Yes Baelar, that is a valid QM
+FA: بله Baelar، این یک QM معتبر است
+
+### quasimodo_p28_681
+EN: Try
+FA: امتحانش کن
+
+### quasimodo_p28_682
+EN: The market's closed, but found this, would have taken this short if I was there to monitor it. I'm a swing trader partly because I have a full time job. Mostly I like to trade in the bigger time frames, more suitable for me and I don't have to be there all the time to monitor the charts.
+
+It could work, might not work, but the pattern is there. The market is random, but market shows what we define high probability trades. And here's a QM on the 5m level inside a HTF 60m DBD Supply ZoneThe location looks really good. 5m chart showing weakness with its swing lower low and lower high
+
+What do you guys think?
+FA: بازار بسته است، اما این را پیدا کردم؛ اگر آنجا بودم و می‌توانستم رصدش کنم، این شورت را می‌گرفتم. تا حدی سوینگ‌تریدرم، چون شغل تمام‌وقت دارم. بیشتر دوست دارم در تایم‌فریم‌های بزرگ‌تر معامله کنم؛ برایم مناسب‌تر است و لازم نیست همیشه پای چارت باشم.
+
+ممکن است جواب بدهد، ممکن است ندهد، اما الگو آنجاست. بازار تصادفی است، ولی همان بازار چیزهایی را نشان می‌دهد که ما معامله‌های با احتمال بالا می‌نامیم. و اینجا یک QM در تایم 5m داخل یک DBD ساپلای در تایم‌فریم بالاتر 60m داریم. موقعیت واقعاً خوب به نظر می‌رسد. چارت 5m ضعف را با لوی پایین‌تر و های پایین‌ترِ سوینگش نشان می‌دهد.
+
+نظر شما چیست؟
+
+### quasimodo_p28_683
+EN: Hey PS, looks like it could have shown promise but came at one of the worst time! NU had quite a roller coaster of a week with the big drop and then rallying to cover half of it. With that much movement there may be a gap after the weekend. If so, that would seem to invalidate the QM, and if not, it seems like trading at the 2nd worst time - low liquidity at the week's open.
+
+Do you trade gaps?
+FA: سلام PS، به نظر می‌رسد می‌توانست امیدوارکننده باشد، اما در یکی از بدترین زمان‌ها پیش آمد! NU هفتهٔ پرتلاطمی داشت؛ یک ریزش بزرگ و بعد رالی‌ای که نصفش را جبران کرد. با این حجم از حرکت، ممکن است بعد از آخر هفته گپ داشته باشیم. اگر گپ باشد، ظاهراً QM را باطل می‌کند و اگر نباشد، معامله در دومین بدترین زمان است؛ نقدینگی کم در بازگشایی هفته.
+
+تو روی گپ‌ها معامله می‌کنی؟
+
+### quasimodo_p28_684
+EN: Other than the hump on his back, I've never really seen the similarity between a trading QM and the film version. I think someone with FAR more creativity than me came up with that one!:) But I do see how a colon with a closed parentheses is a sideways smiley face so at least I have that going for me. Anyway, here are some QM's.
+FA: جز آن قوز روی کمرش، هرگز شباهت واقعی بین QM معاملاتی و نسخهٔ سینمایی‌اش ندیده‌ام. فکر می‌کنم کسی با خلاقیتی خیلی بیشتر از من این نام را ساخته!:) اما خوب می‌بینم که دونقطه به‌همراه پرانتز بسته یک شکلک خوابیده است، پس حداقل همین را دارم. به‌هرحال، این هم چند QM.
+
+### quasimodo_p28_685
+EN: Mas Quasimodos.
+FA: QMهای بیشتر.
+
+### quasimodo_p28_686
+EN: Poly,
+
+I wanted to take a shot at analyzing one of your charts to see why the QM failed. Well in the chart posted below, there is a FL that was never engulfed showing that there was a possibility of a failed QM. Had the LL taken out that FL, then demand would have been cleared, and price would have been able to fall.
+FA: Poly،
+
+می‌خواستم یکی از چارت‌هایت را تحلیل کنم تا ببینم چرا QM شکست خورد. خب، در چارت زیر یک FL هست که هرگز اینگالف نشد و همین نشان می‌داد احتمال شکست QM وجود دارد. اگر LL آن FL را می‌زد، تقاضا پاک می‌شد و قیمت می‌توانست بریزد.
+
+### quasimodo_p28_687
+EN: Mas Quasimodos dos.
+FA: QMهای بیشتر، دومی.
+
+### quasimodo_p28_688
+EN: homework on QMs
+FA: تمرین روی QMها
+
+### quasimodo_p28_689
+EN: Been reading up on Quasimodo. Looks like an extremely serious approach to solid trades. Here's my first exercise (meant to post many more but with both kids at home and severe competition for all three machines at home, I had to surrender!). Would appreciate some feedback on my first attempt.
+
+Found another QM within the same setup.
+FA: داشتم دربارهٔ Quasimodo مطالعه می‌کردم. به نظر رویکردی بسیار جدی برای معامله‌های محکم است. این هم اولین تمرینم (قرار بود خیلی بیشتر بگذارم، اما با دو بچه در خانه و رقابت شدید بر سر هر سه کامپیوتر خانه، تسلیم شدم!). خوشحال می‌شوم دربارهٔ اولین تلاشم بازخورد بگیرم.
+
+یک QM دیگر هم در همین ستاپ پیدا کردم.
+
+### quasimodo_p28_690
+EN: Hi Miserly_One
+
+Thought I would comment on your chart. The first QM the one marked with green I think is a valid QM. The QM within the QM to me isn't great I see more of a Can Can as marked on the chart.
+
+But here's a question for you, can you identify the other QM in the chart? Have a look and see if yo can see it.
+FA: سلام Miserly_One
+
+گفتم روی چارتت نظری بدهم. اولین QM، همان که با سبز علامت زده‌ای، به نظرم QM معتبری است. اما QM داخل QM برای من چندان خوب نیست؛ بیشتر یک Can Can می‌بینم، همان‌طور که روی چارت علامت زده‌ام.
+
+اما یک سؤال از تو دارم: می‌توانی QM دیگر را در چارت پیدا کنی؟ نگاه کن و ببین می‌بینی‌اش یا نه.
+
+### quasimodo_p28_691
+EN: Thanks In2forex! Greatly appreciate your input. As regards the nested QM, I see what you mean by it being more like a Can Can rather than a QM. Point gratefully taken!
+
+You hinted to the presence of another QM - I think I see a bullish QM. Initially I was a little concerned about the huge number of bars between the HH and the revisit to the demand level. But I sense it does not really matter as long as the basic form of the pattern can be seen. Do let me know if my identification of the bullish QM is correct.
+FA: ممنون In2forex! خیلی از نظرت ممنونم. دربارهٔ QM تودرتو، می‌فهمم منظورت چیست که بیشتر شبیه Can Can است تا QM. نکته‌ات را با سپاس می‌پذیرم!
+
+به وجود QM دیگری اشاره کردی؛ فکر می‌کنم یک QM صعودی می‌بینم. اولش کمی نگران تعداد زیاد کندل‌ها بین HH و بازگشت به سطح تقاضا بودم. اما حس می‌کنم تا وقتی شکل پایهٔ الگو دیده شود، زیاد مهم نیست. لطفاً بگو آیا تشخیص QM صعودی‌ام درست است.
+
+### quasimodo_p28_692
+EN: For whatever reason, I tend to see bearish patterns far more easily than bullish ones!
+
+However with QM, it's starting to look like I might overcome my bias! Here's a bullish
+
+one - just hoping it is right.
+FA: به هر دلیلی، الگوهای نزولی را خیلی راحت‌تر از صعودی‌ها می‌بینم!
+
+اما با QM، کم‌کم به نظر می‌رسد می‌توانم بر این سوگیری غلبه کنم! این هم یک مورد صعودی
+
+که فقط امیدوارم درست باشد.
+
+### quasimodo_p28_693
+EN: Hi Miserly_One
+
+You picked it perfectly. Notice the DD almost if not 0 pips.
+
+The last one is also great. notice this one is going with the trend. Great stuff.
+FA: سلام Miserly_One
+
+عالی انتخابش کردی. به DD نگاه کن؛ تقریباً صفر پیپ است، اگر صفر نباشد.
+
+آخری هم عالی است. توجه کن این یکی هم‌جهت با روند است. کارت درست است.
+
+### quasimodo_p28_694
+EN: Thank you In2forex! That's a confidence booster for me!
+
+Found one more bullish QM - a little leery about this one though, mainly because of the lack of low drawdown. Unless of course, I use the low at the start of the smaller green demand zone shown on chart. Your insight please.
+
+Kind regards, MO
+
+in2forex wrote: Hi Miserly_One
+
+You picked it perfectly. Notice the DD almost if not 0 pips.
+
+The last one is also great. notice this one is going with the trend. Great stuff.
+FA: ممنون In2forex! این برایم یک تقویت اعتمادبه‌نفس است!
+
+یک QM صعودی دیگر هم پیدا کردم؛ البته کمی درباره‌اش تردید دارم، بیشتر به‌خاطر نبود دراودان پایین. مگر اینکه از لو شروع ناحیهٔ تقاضای سبز کوچک‌ترِ روی چارت استفاده کنم. لطفاً نظرت را بگو.
+
+با احترام، MO
+
+in2forex نوشت: سلام Miserly_One
+
+عالی انتخابش کردی. به DD نگاه کن؛ تقریباً صفر پیپ است، اگر صفر نباشد.
+
+آخری هم عالی است. توجه کن این یکی هم‌جهت با روند است. کارت درست است.
+
+### quasimodo_p28_695
+EN: Last one for the day! Bullish QM.
+FA: آخری برای امروز! QM صعودی.
+
+### quasimodo_p28_696
+EN: In my eyes, this is a valid bearish QM. But I'd like some wiser minds to point out any errors I may have made.
+FA: از نظر من این یک QM نزولی معتبر است. اما خوشحال می‌شوم ذهن‌های داناتری خطاهای احتمالی‌ام را نشان بدهند.
+
+### quasimodo_p28_697
+EN: Hi MO
+
+Yip to me that's a valid QM. Now once again can you see any more on your chart?
+FA: سلام MO
+
+آره، از نظر من QM معتبری است. حالا یک بار دیگر، QM دیگری روی چارتت می‌بینی؟
+
+### quasimodo_p28_698
+EN: Thanks for responding, In2forex! I've marked what I think is another QM (there might be even more). This is getting very interesting - gotta love these QMs.
+
+in2forex wrote: Hi MO
+
+Yip to me that's a valid QM. Now once again can you see any more on your chart?
+FA: ممنون که جواب دادی In2forex! آنچه فکر می‌کنم QM دیگری است را علامت زده‌ام (شاید حتی بیشتر هم باشد). موضوع دارد خیلی جالب می‌شود؛ عاشق این QMها هستم.
+
+in2forex نوشت: سلام MO
+
+آره، از نظر من QM معتبری است. حالا یک بار دیگر، QM دیگری روی چارتت می‌بینی؟
+
+### quasimodo_p28_699
+EN: Please judge
+FA: لطفاً قضاوت کنید
+
+### quasimodo_p28_700
+EN: why is this a diamond?
+FA: چرا این یک دایموند است؟

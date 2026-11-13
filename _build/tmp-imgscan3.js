@@ -1,0 +1,10 @@
+const fs=require('fs');
+const p=JSON.parse(fs.readFileSync('_build/parsed.json','utf8'));
+const J=p.journals;
+const k0=Object.keys(J)[0];
+const img0=J[k0].images && J[k0].images[0];
+console.log('journal images[0] keys',img0?Object.keys(img0):'none');
+console.log(JSON.stringify(img0).slice(0,400));
+const post0=J[k0].posts[0];
+console.log('post.images sample',JSON.stringify(post0.images).slice(0,200));
+console.log('stats',JSON.stringify(p.stats).slice(0,500));

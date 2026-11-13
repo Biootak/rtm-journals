@@ -1,0 +1,155 @@
+##### hs_p12_276 hoeschec paras:4
+Another G/U 4HR
+
+Is the CP area I marked all part of a CP PAZ
+
+Is the first EG out of the zone the indication that price will move to the next zone? If so, how would a trader know which area price would retrace to? Both spots (labeled A and B) look like they cold be the source of the engulf.
+
+Is the target for this EG the RBD Supply zone I marked in the black rectangle?
+---END---
+##### hs_p12_277 hoeschec paras:2
+Regarding the last chart I posted: Why not see the area marked as "C" the engulf, and trade the return to the origin?
+
+Is the answer that the FL "C" engulfed was really just part of CP, so it was not as important as the future engulf that happened to break the top of the CP zone?
+---END---
+##### hs_p12_278 hoeschec paras:4
+More G/U 4HR
+
+I noticed the RBD that was the target for shorts (in my example on post #277) is also an FTR. When price moved back up and engulfed this FTR, it created another important FTR.
+
+This "important" FTR was the one to watch for possible engulfs. An engulf does happen. This is also the FL that I noticed on Post #275.
+
+Question: How wold a trader taking a short live know to execute at source 1 and not wait for source 2? What makes source 1 the correct source of the engulf when source 1 was technically the first origin of the move that engulfed the FTR.
+---END---
+##### hs_p12_279 hoeschec paras:5
+G/U 4HR Continued:
+
+Price engulfs to the upside after bouncing off a S/R Flip. Where is the target for this trade ("A" or "B")? Setting the target for "B" would give a better R:R and it would also be a good FTR which we would expect to see most targets for traders who are going long.
+
+Also, the "important FTR" is created after is engulfs the original FTR. Current PA shows price entering in to this FTR. I am watching for price to engulf this FTR to the upside. Should this occur, I will be looking to get long at the source/origin of the EG. One thing I am noticing with consistency however, is after an engulf, price is not returning all the way to the source/origin of the move. I am frequently seeing price retrace to a S/R flip zone before taking off in the direction of the engulf.
+
+I wonder is this is something everyone else is noticing. It definitely complicates the R:R if we have to prepare for price to bounce before reaching the origin @ an S/R. Maybe the answer is to open two positions: one at an important S/R (If there is one) and one at the source of the engulf. Stop placement a couple of pips behind the origin of the engulf.
+
+Ideas?
+---END---
+##### hs_p12_280 hoeschec paras:3
+G/U 4HR Chart:
+
+Assuming price engulfs the important FTR, where would the target for a long trade be?
+
+I looked at the weekly chart and there is a S/R level that may act as resistance. This S/R level is also located near a RBD supply area that looks like a good place to close out longs.
+---END---
+##### hs_p12_281 hoeschec paras:3
+GBP-AUD - 1H
+
+This looks like a failed engulf...target was not hit.
+
+I wonder why this one failed...
+---END---
+##### hs_p12_282 hoeschec paras:2
+USD-CAD
+
+Price just engulfed. I am waiting for a retrace to the S/R zone.
+---END---
+##### hs_p12_283 hoeschec paras:2
+U-Cad
+
+Trap set...
+---END---
+##### hs_p12_284 hoeschec paras:5
+Limit order hit, I am long USD-CAD.
+
+Within the scope of this HTF chart. Not the greatest HTF level, but at a S/R Flip.
+
+(UPDATE)
+
+Price is moving up, but it's getting late the the US session and I am going to tighten my stop in case price doesn't hit my target before the markets close.
+
+I'll probably move it to break even in the next few minutes.
+---END---
+##### hs_p12_285 hoeschec paras:1
+close to getting stopped out on USD-CAD
+---END---
+##### hs_p12_286 hoeschec paras:3
+USD-CAD
+
+As yet another trade turns against me, I am looking to find out what I did wrong. To me, this still looks like a good engulf setup (and maybe price will end up hitting my target) but below is an illustration that I made to explain why this trade might fail.
+
+As I have mentioned in previous posts, the engulf seems to only work on specific flags-original flags. Not reactions to other flags.
+---END---
+##### hs_p12_287 hoeschec paras:2
+I made this drawing. Not 100% sure I am right, but I think this is a good concept to learn.
+
+It would make sense that when price takes out the source FL (not a reaction to a FL, but an original FL) the orders remaining at that FL would be taken out, which would clear the way for price to move through the area.
+---END---
+##### hs_p12_288 hoeschec paras:1
+Usually, live charts are a bit more messy than the illustrations. For example, what happens when there are several FL's that are overlapping? Which FL is the important FL that we must look at for an engulf?
+---END---
+##### hs_p12_289 hoeschec paras:3
+I wonder if the angle of PA matters when looking for valid engulfs. Does anyone notice that the steeper the PA, and the more definitive the FL, the more reliable the engulf signal?
+
+Some of the Base-Pole-FL are easy to see and price is steep in its ascent/descent. The steep angle means price is accelerating quickly...that the imbalance is strong and price has momentum.
+
+The choppier PA seems (at least to me) to be less reliable when it comes to the engulf signals. Also, I find the less steep/more linear PA to be harder to read.
+---END---
+##### hs_p12_290 hoeschec paras:1
+Here is some more practice. Engulf occurs, but the entry would have been tough on this because there wasn't much of a retrace.
+---END---
+##### hs_p12_291 hoeschec paras:3
+Here is an interesting example:
+
+Is this a valid engulf that already hit its target? Or, is this a F/O because price broke the FL but ended at another FL. Engulfs end in insignificant areas...right?
+
+Not sure which scenario is accurate on this one. If I had been trading this live, I would have probably seen this as an engulf and would have bought at the origin (blue rectangle).
+---END---
+##### hs_p12_292 HotRod paras:3
+Hey hoeschec here are a few things to consider regarding your loss. We always have to be aware of what price is doing in all TFs. While price can certainly move up from the point you took your trade you should realize that price is coming down from supply, and the best place to buy is at a fresh demand FTR. No matter what TF you use for entry it should be backed up by and at HTF FL/FTR. Your trade was in "no mans land" on the HTF.
+
+I certainly see your reason for the trade and it does look enticing. Price did engulf an FTR, but unfortunately it also immediately hit an important FL and the target. Its important because it is supply that engulfed and formed at the last demand. You found a place that would bounce price, but the move away from price tells you whether to keep it and discard it and try again at a better place. In this case price cp'd away which leaves no demand levels left to "guard" your entry. What you want to see is an engulf of the immediate supply/demand. Price ended up forming a QM against you. You can't see this in real time, but can see the environment in which one can form if you keep in mind all TFs and what FLs are in play on each.
+
+This is my take.
+---END---
+##### hs_p12_293 hoeschec paras:7
+HotRod wrote: Hey hoeschec here are a few things to consider regarding your loss. We always have to be aware of what price is doing in all TFs. While price can certainly move up from the point you took your trade you should realize that price is coming down from supply, and the best place to buy is at a fresh demand FTR. No matter what TF you use for entry it should be backed up by and at HTF FL/FTR. Your trade was in "no mans land" on the HTF.
+
+I certainly see your reason for the trade and it does look enticing. Price did engulf an FTR, but unfortunately it also immediately hit an important FL and the target. Its important because it is supply that engulfed and formed at the last demand. You found a place that would bounce price, but the move away from price tells you whether to keep it and discard it and try again at a better place. In this case price cp'd away which leaves no demand levels left to "guard" your entry. What you want to see is an engulf of the immediate supply/demand. Price ended up forming a QM against you. You can't see this in real time, but can see the environment in which one can form if you keep in mind all TFs and what FLs are in play on each.
+
+This is my take.
+
+HotRod,
+
+You are totally right about the HTF no mans land! Despite knowing to watch the HTF zones, I get excited when I see something occur on the LTF and usually try to justify the trade. It's a really bad habit that I'm trying to leave behind
+
+I didn't even notice the CP that formed and took away demand.
+
+Your post is really helpful...many thanks!
+---END---
+##### hs_p12_294 hoeschec paras:1
+AUD-USD: I just closed out a quick scalp on a bounce a FTR to a S/R.
+---END---
+##### hs_p12_295 hoeschec paras:1
+EUR-GBP - Engulf just happened on 5 min chart in a Daily Supply zone.
+---END---
+##### hs_p12_296 hoeschec paras:2
+Going to sleep now, so I am going to set a limit order as shown on the chart below. Target will be the FTR that broke the S/R line. So far, there has been an engulf but price is moving down pretty hard with very little retrace. It is possible price will hit its target without a retrace to the origin of the engulf. If it does retrace however, my order will be waiting.
+
+If price does retrace a bit, this will also make a nice QM level. My limit order is set at the S/R flip within the source flag where the decision point is located. Stop is just above the swing high. If I get my order filled, the R;R will be approx 1:4.
+---END---
+##### hs_p12_297 hoeschec paras:2
+E/G Update
+
+Here is a 5 min chart that shows my limit order. I zoomed in to find the DP where price decides to break the low of the FL.
+---END---
+##### hs_p12_298 hoeschec paras:1
+This one was pretty simple. EG to the downside, target at the FTR below.
+---END---
+##### hs_p12_299 hoeschec paras:2
+Watching EUR-USD.
+
+Price is in s HTF Supply zone. It is late in the day so this will probable something to look at next week (although there is likely to be some profit taking soon, so maybe we will see small move move down today). I have marked up the LTF chart looking for an EG.
+---END---
+##### hs_p12_300 hoeschec paras:2
+Watching USD-JPY:
+
+Engulf just occurred on the LTF chart, but the price is in a poor location on the HTF chart so I won't take a trade.
+---END---

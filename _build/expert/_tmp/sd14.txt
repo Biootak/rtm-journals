@@ -1,0 +1,166 @@
+@@@ supplydemand_p14_326 | castlerock | 3de5369b87f53834ef01f002d12f070fa61284d4
+Thanks mitchworth,took it to BE after post took exit @15110 looked there could be strong demand @15100 UC not as happy with entry for some reason not complaining at the moment.
+
+@@@ supplydemand_p14_327 | turboguru | 55ca405e595d1b296740c91b5451fd1fefaeb6fc
+EU long done alot of scalps today.
+
+Edit: out all don't want to hold over weekend
+
+@@@ supplydemand_p14_328 | Simon | 6fac3a3302ca5c113a3dfb998988dead8a83111d
+I feel like there are many trading opportunities that I am missing, particularly the intraday ones.
+
+I've noticed that there seems to be quite a lot of emphasis on S/R "flip zones", and traders advocating touch-trades at the first test.
+
+One thing that I have found confusing with this is that in order to establish a horizontal line at the flip-zone one will need to cut through candles.
+
+Sam Seiden, who I would consider my trading mentor has offered many examples of the areas that he considers supply or demand. And crucially, one will often hear Sam say that in order to mark out the level, "We NEVER cut through candles".
+
+The one person who made total sense to me from day one of my trading journey is Sam Seiden. There are also a number of guys on here who seem to have taken supply/demand trading to the next level (pun-intended):)
+
+I'd be grateful if anyone can help me disambiguate the cutting through candles process into one that also fits
+
+into Sam's type of supply/demand trading method.
+
+@@@ supplydemand_p14_329 | Ifmyante | 67a3c12d56c748e793c171850a9fb30cb8d1e63c
+Hi Simon.
+
+Just so I can be sure we're gonna talk about the same thing, would you mind showing me a chart example of "cutting through candles"?
+
+@@@ supplydemand_p14_330 | Simon | f41a66fe9b6abeebb0d4313c288148cd0cfb86f6
+Hi If,
+
+Thanks for the quick reply.
+
+I've attached a current chart of USDCHF which was a long trade that I recently took. It's in the D1 timeframe but I believe that the same principles should still apply across the other timeframes.
+
+1. Demand level
+
+2. All bear candles into the level and then buy.
+
+3. Sam Seiden would often talk about the "path of least resistance" to the nearest opposing level. On that basis the opportunity here looked really good.
+
+4. SR flip zone established. In order to consider the SR flip zone once I had bought
+
+at the original demand level, horizontal line would need to "cut through" the red candles.
+
+If I had considered the SR flip when taking the trade then I could have considered taking profits at the white circle, which also forms a confluence with a 76.4 fib retrace.
+
+In the event I did makes pips but do feel that with a little more craft it would have been possible to take a lot more of what the market was offering.
+
+Hope this makes sense!
+
+@@@ supplydemand_p14_331 | C-12 | 46ef4aff52e480699bb97d57f5fee3d0942b7076
+I've watched a few XLT videos where the instructors talk about "What was once demand then becomes supply".
+
+The reason given was that that once a demand zone has been weakened and then removed it can leave unfilled orders sell orders behind. It makes sense really if a large entity places a large sell order that not all their orders will be filled.
+
+Just from observation there seams to be lot of competition for fills at these flip levels and price can often reverse a few pips before the level.
+
+@@@ supplydemand_p14_332 | Ifmyante | f42edc71e1ed192b5b6120494967f8b75932cfdc
+Simon wrote: One thing that I have found confusing with this is that in order to establish a horizontal line at the flip-zone one will need to cut through candles.
+
+Sam Seiden, who I would consider my trading mentor has offered many examples of the areas that he considers supply or demand. And crucially, one will often hear Sam say that in order to mark out the level, "We NEVER cut through candles".
+
+Now I think I get what you mean, thanks for explaining.
+
+We look for decisions on value, and decision points both respected and broken.
+
+If a demand gets broken, and price shoots down from it, we look for the point where the decision was made to break it. Ideally we look for a break, and then a rally back into it which fails miserably. This "Epic Fail" point is the decision that price has broken the level and the level is staying broken. We can't just expect price to break this DP easily, as lots of sell orders await price's return there.
+
+That's why price will often need to bounce from S/R flips back to the last DP before advancing.
+
+In the case of your chart, the Deman you have shown is a reaction to something on the left - the decision to break a beautiful Supply. See what happened lately when price came back up from your buy line and hit that old supply?
+
+@@@ supplydemand_p14_333 | Simon | eff99690d6dff64cc7e1750867bc5d3b34c8ea24
+Hi If,
+
+Once again, thanks for the reply.
+
+Yes, I see exactly what you're saying - and that price is currently range bound between the two historic points of supply and demand.
+
+There's not been one major epiphany in my trading journey, rather a series of small revelations. I think the latest, and certainly one that I'm writing into my rules relates to trading between the larger timeframes but taking profits (and re-entries) in the smaller along the way.
+
+** importantly stepping down the timeframes allows me to identify observable levels of supply or demand around the flip zones without cutting through the candles.
+
+Zones for the week are set and so I'll see how I go and perhaps post up some entries if, as and when they have triggered.
+
+Great webinar yesterady btw.
+
+Cheers,
+
+@@@ supplydemand_p14_334 | castlerock | fd79654178fb9c388bca77296d47130e793d182e
+Hi, this looked a nice trade mon/3rd AUD/USD Next demand About 1.0216 area just thought I'd post this H1
+
+@@@ supplydemand_p14_335 | jkrick33 | 07ad412cd2f76301349d46bba25c895e110a2727
+something I have marked on the 1m, watching and learning
+
+@@@ supplydemand_p14_336 | castlerock | 01b1ec1b1c0d6d4ded80e3335aff097800e42500
+Hi,Took this trade I only have 10p stop as it looks 30p gain If it breaks above 9540 more supply @9560 no point in putting a stop there will wait and see how this pans out just how I'm seeing thing's at this time.
+
+@@@ supplydemand_p14_337 | castlerock | 84553f46750a40ff9ef53fc21cc97461898c6e2c
+Stopped out on that last chart never mind.
+
+@@@ supplydemand_p14_338 | turboguru | b2e8bab7efd264d0f69b3e5358b4ae88498e7914
+Short CHF trendline and supply
+
+@@@ supplydemand_p14_339 | Nosbigs | 8a1536d6bf16a431fc8d402f44b1b216f3488875
+While completing homework I found that I had not followed my trading analysis for the month. I had placed small trades along the path downward of yesterday and today unwilling to recall that fresh zones are typically revisited. Lesson learned hopefully remembered forward I would appreciate comment on content and location of buys forward
+
+@@@ supplydemand_p14_340 | Ifmyante | 9a53abc20d211c9bc1b4504606d663701530b1e5
+You have a set of decisions to make -
+
+Do I commit to even more longs at the next demand? If price gets back up to the SR above, what would that do to my balance? If the demand breaks, when do I call the whole thing off, and what would that do to my balance? If and when price hits the SR above, can I hold longs, watching the possible reaction to it, hoping price will ultimately hit the source and get me all out in profit?
+
+This is a big day for you in trading - I don't envy you, but I hope you work out what's best for your account, and end up with the best possible result under the circumstances
+
+@@@ supplydemand_p14_341 | Vickym | 70c5311f2731f58642cc61f55d79691229ef6e11
+These are the levels I am currently watching on EU. I wanted to go long at the bottom 1H demand, but missed the entry. I may enter a long trade if and when EU crosses the SR flip zone and provides a retest entry
+
+@@@ supplydemand_p14_342 | shinobi_brian | 343452c4a1040cbbadbe1417fb5aff1bcaa3d028
+OK, this is my first proper post here, so be gentle lol. I'm looking at EURCAD, which I traded today but ignored the daily timeframe. I focussed just on the H4 and watched the supply level there get taken out. I've looked at it in more detail this evening tonight however, and I've spotted a nice supply level at around 1.2850. My only concern is that the risk level is fairly considerable, being 120 or so pips, however reward looks to be about 450. Anyway, I have attached my chart, I'd appreciate any input, criticism or advice (or a combination of all three). Thanks.
+
+@@@ supplydemand_p14_343 | Tyoon | c1cd257ae26fec95fcdc80b27cec1628df64150e
+shinobi_brian wrote: OK, this is my first proper post here, so be gentle lol.
+
+This isn't forex factory so don't worry about hostility. This is a traderhood, traders helping traders along the way.
+
+It seems you're chart has not appeared. Perhaps it was too large?
+
+@@@ supplydemand_p14_344 | shinobi_brian | bb70fb109c91cca3745de30d97c3c14b8dc569d4
+Yes, I can't get it to post. I've resized it to <500k but it won't upload.
+
+**Edit - Got it **
+
+@@@ supplydemand_p14_345 | Ashkan | 807f11dfca26aced29a47c6bfdfc4cd0df5c8e6e
+Hi Ifmyant
+
+If we have a system based on 15m TF, which one is better:
+
+Finding S/D Zones on 15m TF; or Finding S/D Zones on HTF charts, like H1, H4 or D1.
+
+@@@ supplydemand_p14_346 | Ifmyante | d233a6a8978c03efc056d31aa884da6a189b4fd2
+Hi Ashkan Well,
+
+trading M15 itself would mean getting in and out at each M15 level, and being satisfied with the results
+
+If, however, you see an M15 zone deep inside an HTF zone, and you felt like trading it for a runner, you would then be trading the HTF, entering on the M15, and managing the trade on the HTF.
+
+I hope this helped
+
+@@@ supplydemand_p14_347 | Tyoon | caaf93ecf04e5c74fda73a2172a52ab0933fed24
+shinobi_brian wrote: My only concern is that the risk level is fairly considerable, being 120 or so pips, however reward looks to be about 450. Anyway, I have attached my chart, I'd appreciate any input, criticism or advice (or a combination of all three).
+
+The risk can be cut down by chunking the level down into single S/R levels. In this way, stops can be kept tighter therefore the reward will be larger.
+
+Another consideration is that price has broken the all time LL. If this is a true break then supply can give some very good rewards if price reacts there. However, there could be a larger pullback above the Ls taking out this supply.
+
+@@@ supplydemand_p14_348 | hornet | d1b360021150adc6b1a878deecca07d15f8eadc8
+Ifmyante wrote: If, however, you see an M15 zone deep inside an HTF zone, and you felt like trading it for a runner, you would then be trading the HTF, entering on the M15, and managing the trade on the HTF.
+
+You mean like this trade from yesterday that I saw happen right in front of my eyes?
+
+@@@ supplydemand_p14_349 | Ifmyante | 5cb57aefc1da3005c6172682a193502cfd3eee58
+Just like that:)
+
+@@@ supplydemand_p14_350 | hornet | 2b93fb13448c9914f3cabd1885ab5bbcd836651e
+I don't know if this should be posted here or not. I tried a quick little analysis

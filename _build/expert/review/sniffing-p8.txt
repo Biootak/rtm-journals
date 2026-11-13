@@ -1,0 +1,265 @@
+### sniffing_p8_1
+EN: Another short of mad dog.
+FA: یک شورت دیگر روی mad dog.
+
+### sniffing_p8_2
+EN: Yesterday, in my Gold & Silver charts I pointed to look for a sell entry and here it is for gold, closed it and was still dropping but I need to control my greed and still have an open position of Silver.
+
+News or no news let the the price guide you.
+FA: دیروز در چارت‌های طلا و نقره‌ام اشاره کردم که دنبال یک ورود فروش باشید و این هم برای طلا؛ بستمش و هنوز داشت می‌ریخت، اما باید طمعم را کنترل کنم و هنوز یک پوزیشن باز نقره دارم.
+
+با خبر یا بی‌خبر، بگذار قیمت راهنمایت باشد.
+
+### sniffing_p8_3
+EN: Hi fxsniffer..
+
+sorry for posting here, I want to ask u something about your short on gold, did u take short decision base on Key Level as I marked on below pic.. I read your article and very interesting bcause one of my friend also use key level as yours but he called it as "Swing line"
+FA: سلام fxsniffer..
+
+ببخشید که اینجا پست می‌گذارم، می‌خواستم چیزی دربارهٔ شورتت روی طلا بپرسم؛ تصمیم شورت را بر اساس همان سطح کلیدی گرفتی که در تصویر زیر علامت زدم؟ مقاله‌ات را خواندم و خیلی جالب بود، چون یکی از دوستانم هم مثل تو از این سطوح استفاده می‌کند، ولی اسمش را «Swing line» می‌گذارد
+
+### sniffing_p8_4
+EN: That is right faldot with a little difference to be honest with you...the level on your chart I consider it a S/R flip (the name doesn't matter) you can see it marked on
+	Post #173
+. My key level came from the daily TF in below chart, the one which price bounced from. The daily levels are stronger and are much stronger if confirmed by LTF S/R flip.
+FA: درست است faldot، اما راستش کمی تفاوت دارد... سطحی که در چارت تو هست، من آن را یک S/R flip حساب می‌کنم (اسمش مهم نیست)؛ می‌توانی علامت‌زده‌اش را در پست #173 ببینی. سطح کلیدی من از تایم‌فریم روزانه در چارت زیر آمده، همان که قیمت از آن برگشت. سطوح روزانه قوی‌ترند و اگر با فلیپ S/R در LTF تأیید شوند، خیلی قوی‌تر می‌شوند.
+
+### sniffing_p8_5
+EN: Here is the silver trade and enough for today.
+FA: این هم معاملهٔ نقره و برای امروز کافی است.
+
+### sniffing_p8_6
+EN: thanks alot buddy.... :)
+FA: خیلی ممنون رفیق.... :)
+
+### sniffing_p8_7
+EN: Bueatiful trades, a MUST read thread! Thanks for the sharing;)
+FA: معاملات زیبا، تاپیکی که باید خواند! ممنون از اشتراک‌گذاری ;)
+
+### sniffing_p8_8
+EN: Reading COT (Commitment of Traders) charts to identify the long term market sentiment;
+
+COT charts are based on COT reports which are published by the CFTC each Friday on 19:30 GMT.
+
+From outsource: There are several reasons why COT charts provide valuable information about changes in the position commitments of traders:
+
+- Flips in the overall positioning may be an accurate trending indicator
+
+- Extreme positioning has historically been accurate in identifying FX market reversals
+
+- Changes in overall number of contracts can be used to determine strength of trend
+
+The below chart shows the recent Commercial Traders Net (Hedgers, Exporters, Importers), Large Speculators Net (hedge funds, banks etc) and Small Traders Net.
+
+What concern me are the Commercial and the Speculators, and the index values of 100 and Zero on the vertical axis. Knowing that when one is at 100 the other will be at Zero and vice versa.
+
+So, let’s take a look at the euro COT chart and compare it with eur/usd chart.
+
+Starting with old history from 5 Jun 2012, Com traders index was at 100 and Spec index at 0 and eur futures price 1.2446 (marked by a vertical dotted line on COT chart).
+
+Present time on 29 Jan 2013, Com traders index at 0 and Spec traders index at 100, and eur futures price 1.3665
+
+In below chart prices are marked by horizontal lines and dates marked by vertical lines. The first lower crossing on the left side at [1] represents the old history and the second higher crossing on the right side at [2] represents the present. The weekly chart for an overall view and daily is for a zoom in view.
+
+Now, let’s start the analysis…..at [1] the Com were very long and Spec were very short, so what happened in price? It moved up above support level and into a decision area of supply followed by a move down to the 1.2446 value and bounced up retesting S/R level then back down into demand area from weekly TF where the stacked buy orders are, and price reversed in direction to rally up. Now open your eyes wide open and look at the level 1.2446 and see how it acted as an S/R flip level.
+
+So why price didn’t reverse directly from 1.2446?? Simply because of positioning.
+
+At [2] present time the Com are very short and Spec are very long, so what will happen? Currently we can see price bouncing down from 1.3665 to S/R level and two stacked decision areas of demand, but where are the stack sell orders on chart??! Yes at the higher decision area of stacked supply. So let’s see how it goes in the coming days.
+FA: خواندن چارت‌های COT (Commitment of Traders) برای شناسایی احساسات بلندمدت بازار؛
+
+چارت‌های COT بر پایهٔ گزارش‌های COT هستند که CFTC هر جمعه ساعت 19:30 به وقت GMT منتشر می‌کند.
+
+از منبع: چند دلیل وجود دارد که چارت‌های COT اطلاعات ارزشمندی دربارهٔ تغییرات تعهدات پوزیشنی معامله‌گران می‌دهند:
+
+- چرخش در پوزیشن‌گیری کلی می‌تواند یک اندیکاتور دقیق روند باشد
+
+- پوزیشن‌گیری حدی از نظر تاریخی در شناسایی برگشت‌های بازار FX دقیق بوده است
+
+- تغییرات در تعداد کل قراردادها می‌تواند برای تعیین قدرت روند استفاده شود
+
+چارت زیر خالص معامله‌گران تجاری اخیر (پوشش‌دهندگان ریسک، صادرکنندگان، واردکنندگان)، خالص سفته‌بازان بزرگ (صندوق‌های پوشش ریسک، بانک‌ها و غیره) و خالص معامله‌گران کوچک را نشان می‌دهد.
+
+چیزی که مرا نگران می‌کند معامله‌گران تجاری و سفته‌بازان است، و مقادیر شاخص 100 و صفر روی محور عمودی. با دانستن اینکه وقتی یکی در 100 است، دیگری در صفر خواهد بود و برعکس.
+
+پس بیایید نگاهی به چارت COT یورو بیندازیم و آن را با چارت eur/usd مقایسه کنیم.
+
+با تاریخ قدیمی از 5 Jun 2012 شروع می‌کنیم: شاخص معامله‌گران تجاری در 100 بود و شاخص سفته‌بازان در 0 و قیمت فیوچرز یورو 1.2446 (که با یک خط عمودی نقطه‌چین روی چارت COT مشخص شده).
+
+زمان حال، 29 Jan 2013: شاخص معامله‌گران تجاری در 0 و شاخص سفته‌بازان در 100، و قیمت فیوچرز یورو 1.3665
+
+در چارت زیر قیمت‌ها با خطوط افقی و تاریخ‌ها با خطوط عمودی مشخص شده‌اند. اولین تلاقی پایین‌تر در سمت چپ در [1] تاریخ قدیمی را نشان می‌دهد و دومین تلاقی بالاتر در سمت راست در [2] زمان حال را. چارت هفتگی برای دید کلی و روزانه برای دید زوم‌شده است.
+
+حالا تحلیل را شروع کنیم... در [1] معامله‌گران تجاری خیلی لانگ بودند و سفته‌بازان خیلی شورت، پس در قیمت چه شد؟ بالای سطح حمایت و به یک ناحیهٔ تصمیم عرضه رفت، سپس به مقدار 1.2446 پایین آمد، برگشت بالا و سطح S/R را ریتست کرد، بعد دوباره پایین رفت به ناحیهٔ تقاضای چارت هفتگی که سفارش‌های خرید چیده‌شده آنجاست، و قیمت جهت عوض کرد و رالی کرد. حالا چشمانت را خوب باز کن و به سطح 1.2446 نگاه کن و ببین چطور نقش یک سطح S/R flip را بازی کرد.
+
+پس چرا قیمت مستقیماً از 1.2446 برنگشت؟؟ صرفاً به‌خاطر پوزیشن‌گیری.
+
+در [2] زمان حال، معامله‌گران تجاری خیلی شورت‌اند و سفته‌بازان خیلی لانگ؛ پس چه می‌شود؟ همین حالا می‌بینیم قیمت از 1.3665 به سطح S/R و دو ناحیهٔ تصمیم تقاضای چیده‌شده برمی‌گردد، اما سفارش‌های فروش چیده‌شده روی چارت کجاست؟؟! بله، در ناحیهٔ تصمیم بالاتر، عرضهٔ چیده‌شده. پس ببینیم روزهای آینده چطور پیش می‌رود.
+
+### sniffing_p8_9
+EN: As promised in
+	Post #166
+ here goes a link to the Fakeouts article in Markepedia.
+
+	www.readthemarket.com/education/markepedia/fakeouts
+FA: همان‌طور که در پست #166 قول داده بودم، این هم لینکی به مقالهٔ فیک‌اوت‌ها در Markepedia.
+
+www.readthemarket.com/education/markepedia/fakeouts
+
+### sniffing_p8_10
+EN: FX.Sniffer wrote: As promised in
+	Post #166
+ here goes a link to the Fakeouts article in Markepedia.
+
+	www.readthemarket.com/education/markepedia/fakeouts
+
+Absolutely brilliant!
+
+Thanks for the informative article, I love it!
+FA: FX.Sniffer نوشت: همان‌طور که در پست #166 قول داده بودم، این هم لینکی به مقالهٔ فیک‌اوت‌ها در Markepedia.
+
+www.readthemarket.com/education/markepedia/fakeouts
+
+کاملاً درخشان!
+
+ممنون از این مقالهٔ پرمحتوا، خیلی دوستش داشتم!
+
+### sniffing_p8_11
+EN: awesome... thanks alot buddy....
+FA: عالی بود... خیلی ممنون رفیق....
+
+### sniffing_p8_12
+EN: Nice one, thank you!
+FA: قشنگ بود، ممنون!
+
+### sniffing_p8_13
+EN: Great article on Fakeouts.
+
+Thanks for taking the time to do this, it has given me a lot to think about.
+
+Cheers
+
+AL
+FA: مقالهٔ خوبی دربارهٔ فیک‌اوت‌ها بود.
+
+ممنون که وقت گذاشتی؛ کلی چیز برای فکر کردن به من دادی.
+
+با احترام
+
+AL
+
+### sniffing_p8_14
+EN: Hi FxSniffer...
+
+I had make a PDF for your articles to make easier for me to read whenever i have time, even I dont have internet connection,, it just for personal and not for publish somewhere out there. here is the link for download if any friends here need it
+
+	dl.dropbox.com/u/98858688/FXSniffer%20Ar...%28recomended%29.pdf
+
+cheers
+
+faldot
+FA: سلام FxSniffer...
+
+از مقاله‌هایت یک PDF ساختم تا هر وقت وقت داشتم راحت‌تر بخوانم، حتی وقتی اینترنت ندارم؛ فقط برای خودم است و جایی منتشر نمی‌شود. این هم لینک دریافتش، اگر دوستی اینجا لازمش داشت
+
+dl.dropbox.com/u/98858688/FXSniffer%20Ar...%28recomended%29.pdf
+
+با احترام
+
+faldot
+
+### sniffing_p8_15
+EN: Thank you all, and I'm so glad that you find it worthy
+
+Faldot, I hope you've copied it recently because I've made some minor editing, and there is a new article coming soon
+
+Cheers,
+FA: ممنون از همه، و خیلی خوشحالم که ارزشمندش می‌دانید
+
+Faldot، امیدوارم به‌تازگی کپی گرفته باشی، چون ویرایش‌های جزئی کرده‌ام و یک مقالهٔ تازه هم به‌زودی می‌آید
+
+با احترام،
+
+### sniffing_p8_16
+EN: sure I have a copied on words format,, so whenever additional articles or editing, its easy for me to create another PDF file.. :)
+FA: حتماً، یک کپی با فرمت ورد دارم، پس هر وقت مقاله یا ویرایش تازه‌ای بیاید، ساختن یک PDF دیگر برایم راحت است.. :)
+
+### sniffing_p8_17
+EN: Maybe after the completion of Markepedia we'll publish a pdf book "Read The Market"
+FA: شاید بعد از کامل شدن Markepedia یک کتاب pdf با عنوان «Read The Market» منتشر کنیم
+
+### sniffing_p8_18
+EN: FX.Sniffer wrote: Maybe after the completion of Markepedia we'll publish a pdf book "Read The Market"
+FA: FX.Sniffer نوشت: شاید بعد از کامل شدن Markepedia یک کتاب pdf با عنوان «Read The Market» منتشر کنیم
+
+### sniffing_p8_19
+EN: Here goes the new article:
+
+	TREND DIRECTION / HIGHS AND LOWS
+FA: این هم مقالهٔ تازه:
+
+جهت روند / سقف‌ها و کف‌ها
+
+### sniffing_p8_20
+EN: FX.Sniffer wrote: Reading COT (Commitment of Traders) charts to identify the long term market sentiment
+
+A follow up on the COT post;
+
+In the chart below we have the same lines and areas nothing modified. In the past at [1] when price came to the value where commercial traders were very long it pulled back to the S/R above and supply decision area, then bounced back down to the lower demand from the weekly chart.
+
+At present time we can see the same behavior happening, at [2] price has retraced from the value where commercial traders are very short to the S/R below and a demand decision area. So, is this where will see a bounce to the higher supply on the weekly chart?!
+FA: FX.Sniffer نوشت: خواندن چارت‌های COT (Commitment of Traders) برای شناسایی احساسات بلندمدت بازار
+
+ادامه‌ای بر پست COT؛
+
+در چارت زیر همان خطوط و نواحی را داریم و چیزی تغییر نکرده. در گذشته در [1] وقتی قیمت به مقداری رسید که معامله‌گران تجاری خیلی لانگ بودند، به S/R بالایی و ناحیهٔ تصمیم عرضه عقب کشید، بعد دوباره پایین رفت به تقاضای پایین‌تر از چارت هفتگی.
+
+در زمان حال همان رفتار را می‌بینیم: در [2] قیمت از مقداری که معامله‌گران تجاری خیلی شورت‌اند به S/R پایینی و یک ناحیهٔ تصمیم تقاضا اصلاح کرده. پس آیا اینجا شاهد برگشت به عرضهٔ بالاتر در چارت هفتگی خواهیم بود؟!
+
+### sniffing_p8_21
+EN: Must read thread
+
+Thanks Sniffer
+FA: تاپیکی که باید خواند
+
+ممنون Sniffer
+
+### sniffing_p8_22
+EN: awesomee... another great article... thanks buddy...
+FA: عالییی... یک مقالهٔ درخشان دیگر... ممنون رفیق...
+
+### sniffing_p8_23
+EN: Another follow up on COT;
+
+and again nothing has been modified on chart, price bounced from the S/R and lower demand now lets see where it will go to.
+FA: یک ادامهٔ دیگر بر COT؛
+
+و دوباره هیچ چیزی روی چارت تغییر نکرده؛ قیمت از S/R و تقاضای پایین‌تر برگشت، حالا ببینیم به کجا می‌رود.
+
+### sniffing_p8_24
+EN: Hi Sniffer, may I just ask about the source of COT data chart in your post 183?
+
+Thank you
+
+Les_Paul
+FA: سلام Sniffer، می‌توانم فقط منبع چارت دادهٔ COT در پست 183 را بپرسم؟
+
+ممنون
+
+Les_Paul
+
+### sniffing_p8_25
+EN: Here is the link but you need to subscribe to access the updated COT.
+
+	Commitment of Traders
+
+Here is another link for free but missing the Commercial Traders.
+
+	Commitment of Traders
+FA: این هم لینک، اما برای دسترسی به COT به‌روزشده باید عضو شوی.
+
+Commitment of Traders
+
+این هم یک لینک دیگر که رایگان است، اما معامله‌گران تجاری را ندارد.
+
+Commitment of Traders

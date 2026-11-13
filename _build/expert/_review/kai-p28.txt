@@ -1,0 +1,121 @@
+===== if_p28_1 | rcmacf | c606612d901390eb58f83472ee22a43cb043f5ba =====
+[EN0] Ifmyante wrote: That's a good question :)
+[FA0] Ifmyante نوشت: سؤال خوبی است :)
+[EN1] Those mid range levels are there to get S/D traders buying; a very easy way to sell some more!
+[FA1] آن سطوح میانهٔ رنج برای این هستند که معامله‌گران S/D را به خرید بیاورند؛ راه بسیار آسانی برای فروش بیشتر!
+[EN2] IF, do you say that is it's on a low time frame? Say that was an H4 chart, we would look in there for buys, I'm sure?
+[FA2] IF، منظورت این است که در تایم‌فریم پایین است؟ فرض کن نمودار H4 بود، مطمئنم آنجا دنبال خرید می‌گشتیم؟
+===== if_p28_2 | Ifmyante | 91112e009e6c877b3c4c46bda56fcfe634c60c18 =====
+[EN0] Oh you can be pretty sure that on the M1 or the tick chart, those levels got respected and did their S/D thing!
+[FA0] آه، می‌توانی مطمئن باشی که روی M1 یا چارت تیک، آن سطوح رعایت شدند و کار S/D خودشان را کردند!
+[EN1] That's fine in itself, but we're way beyond S/D by now
+[FA1] این به‌خودی‌خود خوب است، ولی ما الان خیلی از S/D گذشته‌ایم
+===== if_p28_3 | Ifmyante | a7ed4c27ae95910913baa147b7118c8ef00b4e1a =====
+[EN0] Right.
+[FA0] خب.
+[EN1] I want to watch the the new Top Gear on Sunday on the BBC iplayer, but
+they'll only allow its viewing in UK regions. I've been trying all
+evening to get a UK proxy server working, with no luck.
+[FA1] می‌خواهم یکشنبه Top Gear جدید را در BBC iplayer ببینم، ولی اجازهٔ تماشایش را فقط در منطقهٔ بریتانیا می‌دهند. تمام عصر تلاش کرده‌ام یک پروکسی سرور بریتانیایی راه بیندازم، بی‌فایده بوده.
+[EN2] If I don't get to watch Top Gear this Sunday, I'll be forced to disallow access to RTM for all UK residents
+[FA2] اگر این یکشنبه آن برنامه را نبینم، مجبور می‌شوم دسترسی همهٔ ساکنان بریتانیا به RTM را قطع کنم
+[EN3] You may blame the BBC for the inconvenience
+[FA3] تقصیر را گردن BBC بیندازید
+===== if_p28_4 | Les_Paul | c227b49c22a134879531f6c9f5a4a875e0cf1aa3 =====
+[EN0] Ifmyante wrote: Right.
+[FA0] Ifmyante نوشت: خب.
+[EN1] I want to watch the the new Top Gear on Sunday on the BBC iplayer, but
+they'll only allow its viewing in UK regions. I've been trying all
+evening to get a UK proxy server working, with no luck.
+[FA1] می‌خواهم یکشنبه Top Gear جدید را در BBC iplayer ببینم، ولی اجازهٔ تماشایش را فقط در منطقهٔ بریتانیا می‌دهند. تمام عصر تلاش کرده‌ام یک پروکسی سرور بریتانیایی راه بیندازم، بی‌فایده بوده.
+[EN2] If I don't get to watch Top Gear this Sunday, I'll be forced to disallow access to RTM for all UK residents
+[FA2] اگر این یکشنبه آن برنامه را نبینم، مجبور می‌شوم دسترسی همهٔ ساکنان بریتانیا به RTM را قطع کنم
+[EN3] You may blame the BBC for the inconvenience
+[FA3] تقصیر را گردن BBC بیندازید
+[EN4]  I solved the same problem long time ago. With TunnelBear (
+ www.tunnelbear.com/
+). Works like charm
+[FA4] من همین مشکل را خیلی وقت پیش حل کردم. با TunnelBear (
+www.tunnelbear.com/
+). بی‌نقص کار می‌کند
+[EN5] LP
+[FA5] LP
+===== if_p28_5 | Ifmyante | 806db7d8344d19564f312725ca3bc97c07434eb2 =====
+[EN0] Now I know why you've got that gold star ~^o^~
+[FA0] حالا می‌فهمم چرا آن ستارهٔ طلایی را گرفته‌ای ~^o^~
+[EN1] Our UK readers can thank LP for their continued access!
+[FA1] خوانندگان بریتانیایی‌مان برای دسترسی ادامه‌دارشان می‌توانند از LP تشکر کنند!
+===== if_p28_6 | Jambowlyai | d8166f4b54b6eb720ac22bef804d07a6c9fc10ea =====
+[EN0] I use unblock-us. Extremely handy, $5 a month, hassle free, no
+problems so far. Been mass-watching old episodes of river cottage on the
+ Ch4 iplayer recently.
+[FA0] من از سرویس Unblock-Us استفاده می‌کنم. فوق‌العاده راحت است، ماهی 5 دلار، بی‌دردسر، تا حالا هیچ مشکلی نداشته‌ام. اخیراً هم دارم قسمت‌های قدیمی «ریور کاتیج» را در آی‌پلیر کانال 4 پشت سر هم تماشا می‌کنم.
+===== if_p28_7 | Ifmyante | 8f0b0bb6b53e22609c7f680db3bd36c70dcd8f88 =====
+[EN0] Hi all
+[FA0] سلام به همه
+[EN1] the site will be down tonight for server maintenance for 15-30 minutes between the hours of 8 PM - 4 AM MST, whenever that is!
+[FA1] سایت امشب برای تعمیر و نگهداری سرور، بین ساعت 8 شب تا 4 صبح به وقت MST، برای 15 تا 30 دقیقه از دسترس خارج می‌شود، هر وقتی که هست!
+===== if_p28_8 | p5t | 83705c821af22d2e316a321ee1a51c0aafe763f2 =====
+[EN0] Hello if,
+[FA0] سلام If،
+[EN1] happy Birthday!!
+[FA1] تولدت مبارک!!
+===== if_p28_9 | benhur | 5d22270108afe22a6d251cdeb0125a35d62aa486 =====
+[EN0] Happy Birthday Big Chief!
+ ~^o^~ ~^o^~ ~^o^~
+[FA0] تولدت مبارک رئیس بزرگ! ~^o^~، ~^o^~، ~^o^~
+===== if_p28_10 | Paraipan | 12a1fc74fdbcacbe0c9cdcedd80cecb60ff507dd =====
+[EN0] Happy Birthday IF, we're on the same day
+[FA0] تولدت مبارک IF، ما هم‌روز هستیم
+===== if_p28_11 | Victor | 0d3f6dd643a09d9c7f5a52eef747f8a6d6d4c85c =====
+[EN0] Happy Birthday IF, I wish you health and happiness
+[FA0] تولدت مبارک IF، برایت سلامتی و خوشبختی آرزو می‌کنم
+===== if_p28_12 | Ifmyante | 2edc90627fdcc433a1eee00c2d43422813cc264e =====
+[EN0] Thanks so much friends
+[FA0] خیلی ممنون دوستان
+[EN1] Happy birthday to you too Paraipan ~^o^~
+[FA1] تولد تو هم مبارک Paraipan ~^o^~
+===== if_p28_13 | Springger | 1e2720093f84268291f936e76550bf4edd4a9a86 =====
+[EN0] Hey Old Man, Happy Birthday. . Hope you enjoy the beer and Ice Cream.
+[FA0] سلام پیرمرد، تولدت مبارک.. امیدوارم از آبجو و بستنی لذت ببری.
+===== if_p28_14 | Ifmyante | 307cbf336f01ed128ed3a5abfb6943bd427c4be7 =====
+[EN0] Thanks, whippersnapper; I sure will
+[FA0] ممنون، ای جوان‌خام؛ حتماً لذتش را می‌برم
+===== if_p28_15 | Mr.B | d4f6ff63f81d5e49321d755afedd3f882692a17c =====
+[EN0] Here's to another year of success, health and happiness.. ~^o^~ Happy Birthday IF.
+[FA0] به سلامتی یک سال دیگر موفقیت، سلامتی و خوشبختی.. ~^o^~ تولدت مبارک IF.
+===== if_p28_16 | joema | bf9882176fe7efdc14ee9658faa7218f8c811806 =====
+[EN0] Happy Birthday IF. Cheers to you sir. I'll put back a few for ya after work!!
+[FA0] تولدت مبارک IF. به سلامتی‌ات آقا. بعد از کار چند تا به سلامتی تو می‌زنم!!
+===== if_p28_17 | Ifmyante | a87aed8f0a643db0eddd82c792936ea97ebb6bd2 =====
+[EN0] Thanks guys
+[FA0] ممنون بچه‌ها
+[EN1] Mmmmm, that image has me in the mood for a beer!
+[FA1] هومممم، این تصویر حال و هوای آبجو را به سرم انداخت!
+[EN2] Must write the last lesson of the course first though, but mmmmmmmm, that'll be my reward!
+[FA2] هرچند اول باید آخرین درس دوره را بنویسم، ولی هومممممم، همان پاداش من می‌شود!
+===== if_p28_18 | marlonmatts | 42099b4af021e53fd8fd4e056c2568d7c2e3ffa8 =====
+[EN0] /
+[FA0] همین
+===== if_p28_19 | Aaron | 4f70dec1e1fba2fc052ad0a2a4bf089a3bd99711 =====
+[EN0] Happy Birthday mate, enjoy your day!!
+[FA0] تولدت مبارک رفیق، روزت خوش بگذرد!!
+===== if_p28_20 | Warren | d26e9a63189e38f03905c4fe19153dd18b739993 =====
+[EN0] Late to the party,
+[FA0] دیر رسیدم به جشن،
+[EN1] Happy Birthday mate.
+[FA1] تولدت مبارک رفیق.
+[EN2] You enjoy it and take some time out.
+[FA2] خوش بگذران و کمی هم استراحت کن.
+===== if_p28_22 | harshrthakkar | 70793772e7f5bd98774302e916fb4498e8467229 =====
+[EN0] MANY MANY HAPPY RETURNS OF THE DAY IF :)
+[FA0] تولدت بارها و بارها مبارک IF :)
+===== if_p28_23 | kruger | 8f4fb5cf040d0b39e6514f85515c1d70bdab578c =====
+[EN0] Happy birthday
+[FA0] تولدت مبارک
+===== if_p28_24 | Ifmyante | cfaaec4673e31a68264174207935a70c339b4b9e =====
+[EN0] Aw cheers Brethren. That's just lovely :)
+[FA0] آه ممنون ای برادران. واقعاً دلچسب است :)
+===== if_p28_25 | fxfury | e78db3353f79090e5c6cfef483d88d0d239d70af =====
+[EN0] Happy Birthday Indeed
+[FA0] تولدت مبارک، واقعاً

@@ -1,0 +1,342 @@
+
+##### [0] if_p4_1 | hornet | b393e9abf3bf3edae6c8021b9c7a2e170ff69e02
+--- EN ---
+Thank you guys, it is of some comfort.
+--- FA ---
+ممنون بچه‌ها، کمی آرامم کرد.
+
+##### [1] if_p4_2 | pete@rtm | 58d94949c5c03d3297709fa65eb0154528858878
+--- EN ---
+Ifmyante wrote: And where did price go to next?
+
+Well who'da guessed? The origin
+
+See approach to origin too - I mean how easy was a long there?
+
+"Trying to hide long orders but they can't hide"
+
+IF, I can't see what you're implying on the chart you've marked up. Are
+you looking at a bunch of PA candles (CP) or specific candle?
+--- FA ---
+Ifmyante نوشت: و بعدش قیمت کجا رفت؟
+
+خب، کی می‌تونست حدس بزند؟ خودِ مبدأ
+
+به نحوهٔ رسیدن به مبدأ هم نگاه کن — منظورم این است که لانگ گرفتن آنجا چقدر راحت بود؟
+
+«می‌خواهند سفارش‌های لانگ را پنهان کنند، ولی نمی‌توانند پنهانش کنند»
+
+IF، از نموداری که علامت زده‌ای نمی‌فهمم منظورت چیست. داری به یک دسته کندل PA (یعنی همان CP) نگاه می‌کنی یا به یک کندل مشخص؟
+
+##### [2] if_p4_3 | sunnytrader1984 | 4dfebb3c481afaed5835467bd363b1f6bbaf694e
+--- EN ---
+Hi Pete,
+
+I would try to answer, If, please correct me if I am wrong.
+
+Pete, if you look at those candles in the circle, do u see upper wicks
+on the candles. those are the big orders going in but in small portions
+ so that it does not become obvious...every retailer (except RTM
+traders) is selling but somebody is scaling in his big orders, the
+moment demand exceeds supply, you have it...change of direction!
+
+Since the chart is M1, it is impossible to hide it. but make sure you
+see this happening at a demand/supply zone, if you see it happening
+everywhere....hmmm...might not work.
+
+Have a good one!
+--- FA ---
+سلام Pete،
+
+سعی می‌کنم جواب بدهم؛ If، اگر اشتباه می‌گویم لطفاً تصحیح کن.
+
+Pete، اگر به آن کندل‌های داخل دایره نگاه کنی، سایه‌های بالایی روی کندل‌ها را می‌بینی؟ آن‌ها همان سفارش‌های بزرگ هستند که دارند وارد می‌شوند، اما در حجم‌های کوچک، تا خیلی واضح نشود… همهٔ معامله‌گرهای خرد (به‌جز معامله‌گرهای RTM) دارند می‌فروشند، ولی یک نفر دارد سفارش‌های بزرگش را قطره‌قطره وارد می‌کند؛ همان لحظه که تقاضا از عرضه بیشتر شود، دیگر تمام است… تغییر جهت!
+
+چون نمودار M1 است، پنهان کردنش غیرممکن است. اما مطمئن شو که این اتفاق را در یک ناحیهٔ عرضه/تقاضا می‌بینی؛ اگر ببینی همه‌جا دارد تکرار می‌شود… هوم… ممکن است جواب ندهد.
+
+روز خوبی داشته باشی!
+
+##### [3] if_p4_4 | pete@rtm | 4e5d37c7251e4272f793787e1511a28182410ed4
+--- EN ---
+sunnytrader1984 wrote: Hi Pete,
+
+I would try to answer, If, please correct me if I am wrong.
+
+Pete, if you look at those candles in the circle, do u see upper wicks
+on the candles. those are the big orders going in but in small portions
+ so that it does not become obvious...every retailer (except RTM
+traders) is selling but somebody is scaling in his big orders, the
+moment demand exceeds supply, you have it...change of direction!
+
+Since the chart is M1, it is impossible to hide it. but make sure you
+see this happening at a demand/supply zone, if you see it happening
+everywhere....hmmm...might not work.
+
+Have a good one!
+
+"do u see upper wicks..."
+
+So in the case of IF's chart, the wicks from the top 'AT' demand could signal a genuine demand level?
+
+And the safest way to trade this is to wait for the engulf long on the left as confirmation?
+
+I've never knew that, thanks Sunny
+
+EDIT: I just came across REDs compression explanation on PIE in FF and that cleared a lot of questions.
+--- FA ---
+sunnytrader1984 نوشت: سلام Pete،
+
+سعی می‌کنم جواب بدهم؛ If، اگر اشتباه می‌گویم لطفاً تصحیح کن.
+
+Pete، اگر به آن کندل‌های داخل دایره نگاه کنی، سایه‌های بالایی روی کندل‌ها را می‌بینی؟ آن‌ها همان سفارش‌های بزرگ هستند که دارند وارد می‌شوند، اما در حجم‌های کوچک، تا خیلی واضح نشود… همهٔ معامله‌گرهای خرد (به‌جز معامله‌گرهای RTM) دارند می‌فروشند، ولی یک نفر دارد سفارش‌های بزرگش را قطره‌قطره وارد می‌کند؛ همان لحظه که تقاضا از عرضه بیشتر شود، دیگر تمام است… تغییر جهت!
+
+چون نمودار M1 است، پنهان کردنش غیرممکن است. اما مطمئن شو که این اتفاق را در یک ناحیهٔ عرضه/تقاضا می‌بینی؛ اگر ببینی همه‌جا دارد تکرار می‌شود… هوم… ممکن است جواب ندهد.
+
+روز خوبی داشته باشی!
+
+«سایه‌های بالایی را می‌بینی… »
+
+پس در مورد نمودار IF، سایه‌های بالای تقاضای 'AT' می‌توانند نشانهٔ یک سطح تقاضای واقعی باشند؟
+
+و امن‌ترین راه برای معامله‌اش این است که منتظر اینگالف لانگ سمت چپ به‌عنوان تأیید بمانیم؟
+
+اصلاً این را نمی‌دانستم، ممنون Sunny
+
+ویرایش: همین الان توضیح RED دربارهٔ فشرده‌سازی را در PIE در FF دیدم و خیلی از سؤال‌هایم روشن شد.
+
+##### [4] if_p4_5 | Ifmyante | f337a8384f83dc9128e26d70468fbf9965124e43
+--- EN ---
+Thanks Sunnytrader, you're right
+
+Pete, when we see decent CP coming into the base of a pole, we are very often safe to touch trade the base.
+
+The safest thing to do however is to await the first engulf into the cp zone as confirmation.
+
+I can't tell you which way to trade it, as people's psyches vary
+--- FA ---
+ممنون Sunnytrader. حق با توست
+
+Pete جان، وقتی می‌بینیم یک CP درست‌وحسابی به پایهٔ یک میله می‌رسد، خیلی وقت‌ها می‌توانیم با خیال راحت پایه را با حجم سبک معامله کنیم.
+
+اما امن‌ترین کار این است که منتظر اولین اینگالف به داخل ناحیهٔ CP به‌عنوان تأیید بمانیم.
+
+نمی‌توانم بگویم آن را از کدام طرف معامله کن، چون روان آدم‌ها با هم فرق دارد
+
+##### [5] if_p4_6 | Ifmyante | b5e9eef89351377e8d96901f51461e08cc23fb8c
+--- EN ---
+You may have noticed the site went down for a bit
+
+We got hit by a spam bot. Will try to find a way to block them better
+--- FA ---
+حتماً متوجه شدید که سایت برای مدتی از دسترس خارج شد
+
+یک ربات اسپم به ما حمله کرد. سعی می‌کنم راهی پیدا کنم که بهتر جلوشان را بگیریم
+
+##### [6] if_p4_7 | Ifmyante | c0db415d58684c15849c7dd27c21f8058d36b6f9
+--- EN ---
+Quick heavy scalp on Loon
+--- FA ---
+یک اسکالپ سریع و سنگین روی Loon
+
+##### [7] if_p4_8 | Alientrader | 2e67ffab84f65959042aa11040867c07fa45327f
+--- EN ---
+Masterful !!!
+--- FA ---
+استادانه!!!
+
+##### [8] if_p4_9 | sunnytrader1984 | 80e99f81eb85d86bd056c2407b9cc1aa9f28f551
+--- EN ---
+Great trade If, absolutely clear chart.
+
+I have a question from your chart, would be nice to have a piece of your
+ mind on managing this trade. The question is on the chart.
+
+Thanks!
+--- FA ---
+معاملهٔ عالی بود If، نمودار کاملاً شفاف است.
+
+در مورد نمودارت یک سؤال دارم؛ خوب است نظرت را هم دربارهٔ مدیریت این معامله بشنویم. سؤال روی خود نمودار است.
+
+ممنون!
+
+##### [9] if_p4_10 | Ifmyante | 882d4ab622f547ede3ff28b73a4c50356dd7e82e
+--- EN ---
+Very good question, with answers which are well worth remembering
+
+Thanks for asking - this stuff is important
+--- FA ---
+سؤال خیلی خوبی است، با جواب‌هایی که واقعاً ارزش حفظ کردن دارند
+
+ممنون که پرسیدی — این چیزها مهم‌اند
+
+##### [10] if_p4_11 | sunnytrader1984 | 5df42de90268f19f732df45f1dfb786491999295
+--- EN ---
+Thanks IF!
+
+one for the AHA moment!
+--- FA ---
+ممنون IF!
+
+یکی برای لحظهٔ AHA!
+
+##### [11] if_p4_12 | Ifmyante | ffcad030af22ec8a98273bbb1661415c66c8a373
+--- EN ---
+When that one sinks in, you're MADE!
+--- FA ---
+وقتی این یکی ته‌نشین شود، دیگر موفق شده‌ای!
+
+##### [12] if_p4_13 | Victor | 5c15a595e461cdb9f39ffff48b5f428602727ea6
+--- EN ---
+Hi. Nice trade IF especially the entry
+
+Looking at daily . Big supply and nice target for long trades and nice
+place to correct from to suck more orders targeting the next highs. Red
+line is the place for me to look for "sure" longs, everything else i
+will consider as a correction but as always it really depends on what
+timeframe you trade. It is logical to look for short at the moment if
+you day trade . I wait for nice poles forming south with a fresh supply
+to short from ( IF's 1M chart shows it all I think). I look to CP as
+momentum killer not as a reversal pattern . Price may fall down to the
+source of the CP and go up again to daily supply and then fall or break
+above targeting the highs. Thats why i wait for a nice pole to form with
+ a fresh supply on lower timeframes targeting the next fresh demand in
+our case. It is simple and it works.Rest is discipline. So back to chart
+ . We have textbook CP momentum killer - a sign that price is ready for a
+ move down . Entries look at IF charts. I see my entry off a 5 min
+supply - the third leg down. sunnytrader1984 thats is why I think IF
+targeted a bit lower :) I do it simple it helps me stay more
+disciplined and calm. I should start my own journal. I hope my post
+doesnt bother you IF
+--- FA ---
+سلام. معاملهٔ خوبی بود IF، مخصوصاً ورود.
+
+به نمودار روزانه نگاه می‌کنم. عرضهٔ بزرگ و هدف خوبی برای معامله‌های لانگ، و جای خوبی برای اصلاح کردن تا سفارش‌های بیشتری جمع شود و هدف بعدی سقف‌ها باشد. خط قرمز برای من همان جایی است که دنبال لانگ‌های «مطمئن» باشم؛ بقیه را اصلاح در نظر می‌گیرم، اما مثل همیشه همه‌چیز به این بستگی دارد که چه تایم‌فریمی معامله می‌کنی. الان اگر روزانه‌کار باشی، منطقی است دنبال شورت باشی. من منتظر می‌مانم میله‌های خوبی نزولی شکل بگیرد با یک عرضهٔ تازه که از آن شورت بگیرم (به نظرم نمودار 1M خود IF همه‌چیز را نشان می‌دهد). من به CP به‌عنوان کشندهٔ مومنتوم نگاه می‌کنم، نه به‌عنوان الگوی برگشت. ممکن است قیمت تا منشأ CP پایین برود و دوباره تا عرضهٔ روزانه بالا بیاید و بعد بریزد یا به بالا بشکند و سقف‌ها را هدف بگیرد. برای همین منتظر می‌مانم یک میلهٔ خوب با عرضهٔ تازه در تایم‌فریم‌های پایین‌تر شکل بگیرد که هدفش تقاضای تازهٔ بعدی باشد، که در مورد ما همین است. ساده است و جواب می‌دهد. باقی‌اش انضباط است. پس برگردیم به نمودار. یک CP کتاب‌درسی به‌عنوان کشندهٔ مومنتوم داریم — نشانهٔ این‌که قیمت آمادهٔ حرکت نزولی است. ورودها را در نمودارهای IF ببین. من ورودم را از یک عرضهٔ 5 دقیقه می‌بینم — لگ سوم نزولی. sunnytrader1984 برای همین فکر می‌کنم IF کمی پایین‌تر را هدف گرفته :) من ساده انجامش می‌دهم؛ کمکم می‌کند منظم‌تر و آرام‌تر بمانم. باید ژورنال خودم را شروع کنم. امیدوارم پستم اذیتت نکند IF
+
+##### [13] if_p4_14 | Ifmyante | 0bbcaa4d3fff14e0c5e88ba9fa6653a4c966a6a1
+--- EN ---
+Very glad to see your post Victor - you have a good eye
+
+Here was a simple trade with massive RR on AU today
+--- FA ---
+خیلی خوشحالم که پستت را دیدم Victor — چشم خوبی داری
+
+امروز یک معاملهٔ ساده با RR عظیم روی AU داشتیم
+
+##### [14] if_p4_15 | Infest | 2b8fcbe9279bf1894a5b3c2f783b2fdd992307fb
+--- EN ---
+Superb trade setup for AUDUSD,
+
+One of these each day and we can go pro ;-)
+--- FA ---
+ستاپ معاملهٔ فوق‌العاده‌ای برای AUDUSD،
+
+روزی یکی از این‌ها و می‌توانیم پرو شویم ;-)
+
+##### [15] if_p4_16 | Ifmyante | 4cfa1147b246b6eef9ad89ba00e0be32804c9ebc
+--- EN ---
+Absolutely right! These ones can be traded quite heavily once you get
+used to them, and investors would be grinning from ear to ear with you
+trading just one of these per month
+--- FA ---
+کاملاً درست است! وقتی به این‌ها عادت کنی، می‌شود با حجم نسبتاً سنگین معامله‌شان کرد، و اگر ماهی فقط یکی از این‌ها را بزنی، سرمایه‌گذارها از خوشحالی لبخند گوش‌تاگوش می‌زنند
+
+##### [16] if_p4_17 | Ifmyante | 143c05e9e5159e75179785691d75ccdfe703f112
+--- EN ---
+Hi All
+
+Have been really busy this week with one thing and another
+
+Here are some gold trades I took. Will explain in detail ASAP
+--- FA ---
+سلام به همه
+
+این هفته با این کار و آن کار واقعاً سرم شلوغ بود
+
+این‌ها چند معاملهٔ طلاست که گرفتم. هرچه زودتر مفصل توضیح می‌دهم
+
+##### [17] if_p4_18 | Ifmyante | b32f6b6d055598a7c992cbf7e6a7d5e0995a75b1
+--- EN ---
+This Nok Cap may flip the market
+--- FA ---
+این NokCap ممکن است بازار را برگرداند
+
+##### [18] if_p4_19 | ttfreitas | e26cf9ea44a9ae275a25aa77bcbb3eb28a2de912
+--- EN ---
+Hello, IF
+
+I was waiting for NZDUSD to reach the area I called A in the 1H chart to look for selling opportunities.
+
+After the flag got broken in the 1min chart, I was waiting for a retest
+or a brief compression to new supply but it never happened.
+
+The pair has moved 23 pips in the direction I intended to trade so clearly the opportunity is gone.
+
+I don't know if you would have taken this trade or not. But if you
+would've, where would your entry have been? Is there a particular PA in
+the 1 minute that I missed that would have indicated that price was not
+returning for a retest?
+
+Thanks in advance.
+--- FA ---
+سلام IF
+
+منتظر بودم NZDUSD به ناحیه‌ای برسد که در نمودار 1H اسمش را A گذاشتم، تا دنبال فرصت فروش بگردم.
+
+بعد از این‌که پرچم در نمودار 1 دقیقه شکست، منتظر ماندم یا ری‌تست شود یا یک فشرده‌سازی کوتاه به سمت عرضهٔ جدید شکل بگیرد، ولی هیچ‌کدام اتفاق نیفتاد.
+
+جفت‌ارز 23 پیپ در همان جهتی حرکت کرد که قصد معامله‌اش را داشتم، پس واضح است که فرصت از دست رفته.
+
+نمی‌دانم تو این معامله را می‌گرفتی یا نه. اما اگر می‌گرفتی، ورودت کجا بود؟ آیا یک PA خاص در نمودار 1 دقیقه هست که من از دست داده باشم و نشان می‌داد قیمت برای ری‌تست برنمی‌گردد؟
+
+پیشاپیش ممنون.
+
+##### [19] if_p4_20 | Ifmyante | d6e233bd0ebd19592aaa92667a03d7df962d2cb1
+--- EN ---
+Hi TT
+
+My notes about this are on the charts - the trade potential is still there if PA allows
+--- FA ---
+سلام TT
+
+یادداشت‌هایم دربارهٔ این موضوع روی نمودارهاست — اگر PA اجازه بدهد، پتانسیل معامله هنوز وجود دارد
+
+##### [20] if_p4_21 | fxfury | ae42ee494a72fa98ab1faedd11201aecbd3dfcfc
+--- EN ---
+And in the end it reacts at a nice dbd decision to break the bottom of
+ that flag. I had this marked before sleepy time just couldnt stay up.
+--- FA ---
+و آخرش هم به یک dbd خوب واکنش نشان داد و تصمیم گرفت کف آن پرچم را بشکند. من این را قبل از خواب علامت زده بودم، فقط نتوانستم بیدار بمانم.
+
+##### [21] if_p4_22 | Ifmyante | c3c12b65fca1f108e5a75fc003f909cd795c6233
+--- EN ---
+The FTR trade can be used on any TF. Here's Dax M1
+--- FA ---
+معاملهٔ FTR روی هر TF قابل استفاده است. این هم Dax روی M1
+
+##### [22] if_p4_23 | Pedini | 83a88f087147be22889f5e403fcc784bcb779799
+--- EN ---
+Hey IF, I think i mostly understand the FTR. The only trouble i'm
+having is understanding if there is a difference between a FTR and a
+test of a flip zone. For example, in your chart price breaks demand in
+your upper blue box, then flags to test it again before dropping. What
+is it that separates this move from a FTR move?
+--- FA ---
+سلام IF، فکر می‌کنم FTR را تقریباً فهمیده‌ام. تنها مشکلم این است که بفهمم آیا بین یک FTR و تست یک ناحیهٔ فلیپ تفاوتی هست یا نه. مثلاً در نمودار تو، قیمت تقاضا را در کادر آبی بالایی می‌شکند، بعد پرچم می‌کند تا دوباره تستش کند و بعد می‌ریزد. چه چیزی این حرکت را از یک حرکت FTR جدا می‌کند؟
+
+##### [23] if_p4_24 | Ifmyante | 1dd6bbd65e993e2d49cf88db57855ffc0a5aa196
+--- EN ---
+If I understand you correctly, they're both exactly the same. Even
+look at a QM Right Shoulder level - that will usually contain price on
+next hit
+--- FA ---
+اگر درست متوجه شده باشم، این دو دقیقاً یکی هستند. حتی به سطح شانهٔ راست QM هم نگاه کن — آن هم معمولاً در برخورد بعدی قیمت را مهار می‌کند
+
+##### [24] if_p4_25 | Pedini | 4cbcee7f77e11f7dd90477d675be058241afedda
+--- EN ---
+Ah wonderful, that's exactly the answer I was hoping for. I suppose I am just confusing myself :)
+
+Thanks!
+--- FA ---
+آه، عالی؛ دقیقاً همان جوابی بود که امیدش را داشتم. فکر می‌کنم فقط خودم را گیج می‌کردم :)
+
+ممنون!

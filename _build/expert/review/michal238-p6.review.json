@@ -1,0 +1,7 @@
+{
+  "michal238_p6_6": {
+    "issue": "idiom mistranslated, subject of the compliment reversed",
+    "why": "EN «Hats off to you Michal» یعنی گوینده کلاه از سر برمی‌دارد (تحسین Michal)؛ ترجمهٔ «کلاه از سر بردار Michal» امری خطاب به خود Michal است و در فارسی این ترکیب به این شکل به کار نمی‌رود، پس جهت تحسین برعکس شده است.",
+    "fix": "کلاه از سرت برمی‌دارم Michal"
+  }
+}

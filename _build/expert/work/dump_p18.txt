@@ -1,0 +1,208 @@
+##### hs_p18_426 hoeschec paras:2
+EUR-AUD Update -
+
+Looks like bullish QM might be setting up for next week.
+---END---
+##### hs_p18_427 hoeschec paras:4
+EUR-AUD:
+
+EG just occurred
+
+Update:
+
+No trade, never got a good RT.
+---END---
+##### hs_p18_428 hoeschec paras:2
+Next week should be interesting with EUR-AUD. I see a EG, along with CP all the way down to an area of fresh demand.
+
+Anyone else watching this evolve?
+---END---
+##### hs_p18_429 hoeschec paras:2
+EUR-AUD EG -
+
+Too late in the day to trade this, but it looks like a decent setup is forming for a quick bearish scalp.
+---END---
+##### hs_p18_430 hoeschec paras:3
+EUR-AUD
+
+I took this on a demo just for fun. It is a great looking setup:
+
+Simple and easy!
+---END---
+##### hs_p18_431 hoeschec paras:2
+Practice for next week: EUR-USD Weekly Chart
+
+Focusing on the gold rectangle that outlines the important FTR to watch. This FTR is important because it breaks the original FTR of the left (black rectangle).
+---END---
+##### hs_p18_432 hoeschec paras:5
+Trying to ID areas within the gold FTR where price is likely to turn.
+
+Here is a zoomed version of the chart (Daily):
+
+For clarity of PA, I am deleting the black rectangle from the original FTR. I am focused specifically on the gold FTR area & will zoom in to find likely area where price will turn.
+
+The most obvious area for fresh order is the RBD Supply zone marked "A". The PA above "A" doesn't look to have fresh orders. I will zoom in to a 4-Hour chart next to take a closer look at RBD "A".
+
+After dropping down to a 4-Hour chart, it appears that there are two RBD Supply areas that could hold fresh orders. They are marked "A" and "B". Based on this time frame, it is hard to tell which zone is more likely to bounce price. The are in close proximity to each other, so it's possible that price could F/O RBD "A" to hit "B".
+---END---
+##### hs_p18_433 hoeschec paras:5
+EUR-USD 1-Hour Chart (analysis continued from Post # 431)
+
+Zoomed in to a 1-hour chart, you can still see the two RBD supply zones marked "A" and "B". At this point, both of these RBD supply zones look like they have fresh orders and have the potential to bounce price. I am going to zoom in further on both supply zones to find specific decision points.
+
+Starting with RBD Supply Zone "A"
+
+RBD Supply "A'" seems to have three FL's of interest. I have labeled them #1, #2, #3. It is hard to tell from this time frame whether there are fresh orders for FL #3.
+
+FL # 2 looks like a possible location for price to bounce, as does FL #1. I circled FL # 1 because it seems like a good decision point to watch when price returns.
+---END---
+##### hs_p18_434 hoeschec paras:4
+Arrg!
+
+FXCM always shuts down their platform late Friday through Saturday afternoon. Really bad timing
+
+I'll continue my practice when I have server connection again tomorrow.
+
+-H
+---END---
+##### hs_p18_435 Bodostock paras:4
+hi H,
+
+This is EURAUD H 1 chart.
+
+Can help to see if my QM is valid?
+
+Thanks!
+---END---
+##### hs_p18_437 Bodostock paras:9
+hi, Glory,
+
+I also noticed the weekly FTR you marked.
+
+However, i missed the daily chart vision you drawn. Nice one on the engulf of RS and oppoing FL, then FTR.
+
+But regarding the QM you highlighted in the daily chart, i have some questions.
+
+The QM need to have a L, LH, LL and then a HH, right.
+
+In your H1 chart, it seemed so.
+
+But if we are to zoom in M15 chart, i noticed that price reached almost the QM level first before actually making a HH.
+
+That is to say we have a HL before a HH,
+
+In this case, is the QM still valid?
+---END---
+##### hs_p18_438 glory305 paras:1
+ADD THE AUDUSD WEEK CHART.I wait the price dowm to important level.
+---END---
+##### hs_p18_439 hoeschec paras:4
+Thanks for your input Glory!
+
+I apologize for the delay Bodostock.
+
+I think Glory's analysis looks pretty good to me. For some reason, my platform isn't working this weekend so I haven't been able to review all the time frames, however I too see price moving up the the important FTR Glory marked.
+
+I will look at it some more when I get back on line.
+---END---
+##### hs_p18_440 hoeschec paras:7
+Regarding EUR-AUD: This is what I saw towards the end of last week which makes me think price is heading north.
+
+Bodo - you have a good point about the wick that hit the QM level. It didn't EG the FL (shown by the dotted line) however I too wonder if that wick already picked up the buy orders that existed at that level.
+
+The HTF (to me) looks bullish (to the level that Glory pointed out).
+
+A QM is a price pattern, and they can fail just like any other type of PA pattern. The two key aspects that must be present for me to consider trading a QM is:
+
+1. Valid EG of source/original FL
+
+2. The QM is setting up in agreement with the higher time frame, and there are no HTF engulfs occurring in the opposite direction of the direction you plan to trade the QM (Ex. if you are going to trade a bearish QM, make sure there aren't any recent HTF engulfs to the upside).
+
+I know this isn't much of a definitive answer to your original question, but hopefully it helps a little.
+---END---
+##### hs_p18_441 hoeschec paras:4
+I am going through the chart on EUR-JPY:
+
+Looks to me like there is a bearish QM & engulf happening within the scope of a HTF bearish QM. This pair looks very bearish...however since the daily chart is showing an engulf, it's possible price will move upward to the origin of the EG before dropping further.
+
+Weekly:
+
+Daily:
+---END---
+##### hs_p18_442 hoeschec paras:5
+USD-CAD:
+
+Here is a weekly chart that shows the PA which formed back in 2003-2004. I notice a very strong flip zone.
+
+Price is currently re-visiting this area.
+
+Flip zone formed back in June 2003 -June 2004:
+
+Current PA:
+---END---
+##### hs_p18_443 hoeschec paras:5
+Something I noticed on GBP-USD, that Kovalenko has mentioned before:
+
+Engulf has happened, and there are two consecutive higher highs that formed without a LL forming in between.
+
+Here is the Daily chart.
+
+I drew the important FL, the origin where price previously broke higher. i would anticipate this FL as an area where price will react on RT.
+
+4-HR Chart: There are several levels within the HTF Flag, so I marked the FTR that exists to the furthest extreme. It does not look like price has arrived on its FTB, so this is a good location for possible bounce.
+---END---
+##### hs_p18_444 Whenever paras:2
+Nice. Makes sense. That would also be the QM area level. Indeed an area to nearly look at.
+
+On your H4 that level could also be the consumption of the orders left by the FTR just on its left, but it's worth a better look when there. At first sight, to me the unfilled orders seem to be at the lower FTR. Also remember to read the approach too. Thanks, simple and clear view.
+---END---
+##### hs_p18_445 hoeschec paras:3
+Whenever wrote: Nice. Makes sense. That would also be the QM area level. Indeed an area to nearly look at.
+
+On your H4 that level could also be the consumption of the orders left by the FTR just on its left, but it's worth a better look when there. At first sight, to me the unfilled orders seem to be at the lower FTR. Also remember to read the approach too. Thanks, simple and clear view.
+
+Whenever- is this the FTR you are talking about (red rectangle)? Thanks!
+---END---
+##### hs_p18_446 hoeschec paras:4
+Whenever wrote: Nice. Makes sense. That would also be the QM area level. Indeed an area to nearly look at.
+
+On your H4 that level could also be the consumption of the orders left by the FTR just on its left, but it's worth a better look when there. At first sight, to me the unfilled orders seem to be at the lower FTR. Also remember to read the approach too. Thanks, simple and clear view.
+
+Whenever- is this the FTR you are talking about (red rectangle)? Thanks!
+
+Here is what I think you are referring to...thanks for the input on this. I didn't see this as the FTB it is
+---END---
+##### hs_p18_447 glory305 paras:1
+The market decides everything.NOT ME
+---END---
+##### hs_p18_448 hoeschec paras:1
+I appreciate the diagram showing the diamond...the diamond is still a concept I have yet to comfortably trade, but this helps a lot!
+---END---
+##### hs_p18_449 Bodostock paras:3
+glory305 wrote:
+
+ADD THE AUDUSD WEEK CHART.I wait the price dowm to important level.
+
+Great posting, Glory! Look forward to more of your postings.
+---END---
+##### hs_p18_450 Bodostock paras:10
+hoeschec wrote: Regarding EUR-AUD: This is what I saw towards the end of last week which makes me think price is heading north.
+
+Bodo - you have a good point about the wick that hit the QM level. It didn't EG the FL (shown by the dotted line) however I too wonder if that wick already picked up the buy orders that existed at that level.
+
+The HTF (to me) looks bullish (to the level that Glory pointed out).
+
+A QM is a price pattern, and they can fail just like any other type of PA pattern. The two key aspects that must be present for me to consider trading a QM is:
+
+1. Valid EG of source/original FL
+
+2. The QM is setting up in agreement with the higher time frame, and there are no HTF engulfs occurring in the opposite direction of the direction you plan to trade the QM (Ex. if you are going to trade a bearish QM, make sure there aren't any recent HTF engulfs to the upside).
+
+I know this isn't much of a definitive answer to your original question, but hopefully it helps a little.
+
+No problem, mate. Appreciated your valuable opinions on QM.
+
+Yes, i remember too that in IF's latest videos, he mentioned something like we cannot always see a QM-like setup and said it is a QM to trade but rather we should look to the left and see what has happened.
+
+Thus, i am concerned on how we should be reading QM in a more cautious way as it seemed to me that in quite a number of other journal postings, QM seemed to be misused which i believe included me myself.
+---END---

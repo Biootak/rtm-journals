@@ -1,0 +1,307 @@
+### hs_p7_173 FA>>> TTN، به یک چارت نگاه کن، Drop قوی داشتیم (RBD)، بعد L به LL و بعد فقط CP، underline - CP (مهم است) فکر می‌کنی قیمت Drop قوی دارد، بعد از فقط CP با L، LL..... قیمت بالاتر نمی‌خواهد. موافقی؟ BTW - ما ENG داشتیم، بعد retace و drop!
+### hs_p62_1530 FA>>> صبر، صبر، صبر.....
+
+می‌توانم صادقانه بگویم مشکل روانی من ترس از ریسک یا از دست دادن پول نیست... اضطرابی است که با از دست دادن یک معامله همراه می‌شود. مدام باید با تمایل به اجرای زودهنگام سفارش خودم بجنگم.
+
+نظریه/استراتژی فقط نصف معادله است وقتی پای معاملهٔ موفق در میان است... روانی نصف دیگر است.
+### hs_p84_2081 FA>>> اینگالفی با تارگت برآورده‌نشده شکل می‌گیرد. FO قبل از رسیدن تارگت اینگلاف شکل می‌گیرد.
+
+طبق همان معامله کردم..
+### hs_p86_2136 FA>>> دلم برایت تنگ شده بود Hs، خوش آمدی و FOای به FL مقیاس پایین‌تر کار خوبی بود رفیق
+
+IF، نظرت این تریدر آن‌قدر فعال نیست که شایستهٔ نشان جدید باشد؟ بوی نشان جدید می‌دهد
+### hs_p89_2216 FA>>> H، آیا به GBPAUD نگاه می‌کنی؟ قیمت دارد وارد زونی می‌شود با فیتیلهٔ بالایی LONG، همان چیزی که دوست داری.. GBPJPY، GBPAUD و GBPCAD، GBPNZD و GBPCHF همه این فیتیلهٔ بالایی بلند را روی چارت H1 دارند
+### hs_p90_2248 FA>>> دارم FOها را همان‌طور که شکل می‌گیرند معامله می‌کنم. یک FL قوی پیدا می‌کنم که دقیقاً بالای/زیر یک ناحیهٔ جذاب با جریان سفارش می‌نشیند. شگفت‌زده می‌شوم که این‌ها چقدر تکرار می‌شوند. واقعاً فقط دربارهٔ آموزش چشم‌هایت است تا PA را همان‌طور که شکل می‌گیرد ببینی.
+
+فیک‌اوت «A» و فیک‌اوت «B» هر دو نسبتاً قابل‌پیش‌بینی بودند.
+==== hs_p22_537 enP4 faP3
+E1: Another example E/J:
+E2: Here is a 5 min chart that shows lots of compression on approach to a 
+E3: Or, should the CPPAZ be drawn like the chart below shows? Even this sc
+E4: Here is a 30 min chart that shows the bigger picture as price moves in
+F1: یک مثال دیگر E/J:
+F2: این چارت 5 دقیقه فشرده‌سازی زیادی را در نزدیک شدن به یک ناحیهٔ عرضهٔ H
+F3: این چارت 30 دقیقه تصویر بزرگ‌تر را نشان می‌دهد وقتی قیمت به دو سطح عرض
+==== hs_p22_547 enP6 faP5
+E1: Hi Hans,
+E2: Thanks for the correction on EUR-USD
+E3: Does the double engulf increase the odds that price won't fakeout to t
+E4: One more question...how could we have known an engulf occurred at the 
+E5: Many thanks Hans!
+E6: I've drawn a picture to illustrate what I think you meant about the de
+F1: سلام Hans،
+F2: ممنون بابت تصحیح EUR-USD
+F3: آیا اینگالف دوتایی شانس اینکه قیمت به سطح عرضهٔ بالایی (مستطیل آبی) فی
+F4: یک سؤال دیگر... از کجا می‌توانستیم بدانیم روی پرچم دومی که کشیدی اینگا
+F5: خیلی ممنون Hans! یک تصویر کشیده‌ام تا نشان دهم فکر می‌کنم منظورت از نق
+==== hs_p41_1025 enP6 faP5
+E1: hoeschec wrote: EUR-USD Monthly
+E2: Hello Hoeschec. It's amazing the volume of hard job you're doing
+E3: , as your charts
+E4: are also "mentally organised"...a huge commitment, many congrats! i se
+E5: Do you have opinions about?
+E6: many thanks all the best
+F1: hoeschec نوشت: EUR-USD ماهانه
+F2: سلام Hoeschec. کار سختی که انجام می‌دهی شگفت‌انگیز است
+F3: چون چارت‌هایت هم «از نظر ذهنی سازمان‌یافته» هستند... یک تعهد بزرگ، تبر
+F4: آیا نظری در این باره داری؟
+F5: بسیار متشکرم بهترین‌ها
+==== hs_p46_1130 enP17 faP21
+E1: EUR-AUD - Continued from post above:
+E2: Taking a closer look at this RBD to ID more important swap zones....
+E3: 2 engulfs 1
+E4: B engulfs A
+E5: D engulfs C
+E6: So which of these boxes represents the origin of the move down? Someti
+E7: It can be hard to ID an origin, because often times there are multiple
+E8: What process do we use to identify an origin? Generally, they occur af
+E9: Every engulf has a target. Valid (actionable) engulfs have unmet targe
+E10: If every engulf has a target, we can safely assume there are many engu
+E11: Here are some of my ideas on this - I have been spending a lot of time
+E12: Firstly: as intimidating as the issue of scale is, I think it is actua
+E13: Scale offers us a chance to focus on one engulf/target at a time. LTF 
+E14: As confusing as the PAZ is, I think its intention is actually to simpl
+E15: A PAZ is defined as the space between two FTR's/FL's. Regardless of th
+E16: How does price move out of a PAZ? I think it all goes back to FOF. Str
+E17: Breaking a strong demand zone requires ample sell orders, and breaking
+F1: EUR-AUD - ادامه از پست بالا:
+F2: نگاه نزدیک‌تر به این RBD برای شناسایی نواحی swap مهم‌تر....
+F3: 2 اینگافل 1
+F4: B اینگافل A
+F5: D اینگافل C
+F6: پس کدام‌یک از این باکس‌ها مبدأ حرکت نزولی را نشان می‌دهد؟ گاهی سخت است
+F7: شناسایی یک مبدأ می‌تواند سخت باشد چون اغلب چند مبدأ در مقیاس‌های زمانی
+F8: چه فرایندی برای شناسایی یک مبدأ استفاده می‌کنیم؟ عموماً بعد از یک اینگ
+F9: هر اینگافل یک تارگت دارد. اینگافل‌های معتبر (قابل‌اقدام) تارگت برآورده
+F10: اگر هر اینگافل یک تارگت دارد، می‌توانیم با خیال راحت فرض کنیم که اینگا
+F11: اینجا بعضی از ایده‌هایم دربارهٔ این موضوع است - وقت زیادی روی این سؤال
+F12: اولاً: هرچقدر مسئلهٔ مقیاس دلهره‌آور به نظر برسد، فکر می‌کنم در واقع م
+F13: مقیاس به ما فرصتی می‌دهد که هر بار روی یک اینگافل/تارگت تمرکز کنیم. ای
+F14: هرچقدر PAZ گیج‌کننده به نظر برسد، فکر می‌کنم قصدش در واقع ساده کردن تر
+F15: PAZ به‌عنوان فضای بین دو FTR/FL تعریف می‌شود. بدون توجه به مقیاس، PAZ 
+F16: مفهوم PAZ روی چارت تیک درست است و روی چارت ماهانه هم درست است. تنها تف
+F17: قیاس: قوانین گرانش روی تو اثر می‌گذارند چه از آسمان‌خراش بیفتی چه از ن
+F18: ولی.. پیامد اجتناب‌ناپذیر گرانش این است که تو سقوط می‌کنی و به زمین می
+F19: فکر می‌کنم همین را می‌توان دربارهٔ حرکت قیمت داخل و در سراسر PAZها گفت
+F20: در واقع، یک چارت تایم‌فریم بالا با همهٔ مبدأها و تارگت‌های مقیاس‌های م
+F21: نمی‌توانی از یک ساختمان بلند سقوط کنی بدون عبور از هر طبقه در راه پایی
+==== hs_p46_1134 enP13 faP12
+E1: Continued from my post starting on # Post 1130:
+E2: Let's keep analyzing this concept of targets/origins and scale...
+E3: Since the issue of scale adds complexity, I will begin by listing all 
+E4: Please don't hesitate to tell me if I am wrong about any of this... I
+E5: am still very new to this
+E6: We know the following is always true, regardless of scale:
+E7: Each PAZ is bordered by a FTR/True supply/demand/associated MPL: Regar
+E8: The concept of a PAZ is true in a tick chart, and it is true on a mont
+E9: Analogy: the laws of gravity effect you whether you fall off a skyscra
+E10: But.. the inevitable consequence of gravity is you fall & hit the grou
+E11: I think the same can be said for price movement inside and throughout 
+E12: In fact, a HTF chart will all of the origins and targets of various sc
+E13: You can't fall from a high rise without passing through every floor on
+F1: ادامه از پست من که از # پست 1130 شروع شد:
+F2: بیایید به تحلیل این مفهوم تارگت‌ها/مبدأها و مقیاس ادامه دهیم...
+F3: چون مسئلهٔ مقیاس پیچیدگی می‌افزاید، شروع می‌کنم به فهرست کردن همهٔ اجز
+F4: لطفاً برای گفتن اینکه دربارهٔ هرکدام از این‌ها اشتباه می‌کنم تردید نکن
+F5: می‌دانیم موارد زیر همیشه بدون توجه به مقیاس درست است:
+F6: هر PAZ با یک FTR/supply/demand واقعی/MPL مرتبط محدود شده است: بدون توج
+F7: مفهوم PAZ روی چارت تیک درست است و روی چارت ماهانه هم درست است. تنها تف
+F8: قیاس: قوانین گرانش روی تو اثر می‌گذارند چه از آسمان‌خراش بیفتی چه از ن
+F9: ولی.. پیامد اجتناب‌ناپذیر گرانش این است که تو سقوط می‌کنی و به زمین می
+F10: فکر می‌کنم همین را می‌توان دربارهٔ حرکت قیمت داخل و در سراسر PAZها گفت
+F11: در واقع، یک چارت تایم‌فریم بالا با همهٔ مبدأها و تارگت‌های مقیاس‌های م
+F12: نمی‌توانی از یک ساختمان بلند سقوط کنی بدون عبور از هر طبقه در راه پایی
+==== hs_p61_1514 enP4 faP3
+E1: H, I like your answer
+E2: and I think if we consider the engulf you marked (true supply
+E3: eng) then the extreme zone is the QM as you pointed out. What makes it
+E4: As always nice posts and many things to think about
+F1: سلام، از پاسخت خوشم آمد
+F2: و فکر می‌کنم اگر اینگالی که علامت زدی (اینگالف عرضهٔ واقعی) را در نظر 
+F3: همیشه پست‌های خوب و چیزهای زیادی برای فکر کردن داری
+==== hs_p62_1537 enP9 faP10
+E1: althoufx wrote: Hi H. i see UJ is considered to have bullish outlook. 
+E2: Hey Althoufx
+E3: Really good question-
+E4: I wish I had a better answer for you regarding correlations (I think t
+E5: EUR-USD and USD-CHF tend to be negatively correlated.
+E6: USD-CHF and USD-JPY tend to be positively correlated.
+E7: I am the wrong one to ask about applying this to RTM analysis
+E8: I think it is a good idea to incorporate this, and if I was more advan
+E9: I will remember to revisit this soon, when I become more comfortable l
+F1: althoufx نوشت: سلام H. می‌بینم UJ چشم‌انداز صعودی دارد. UC را که تماشا
+F2: خیلی ممنون، بهترین‌ها
+F3: سلام Althoufx
+F4: سؤال خیلی خوبی بود-
+F5: کاش پاسخم برای موضوع همبستگی‌ها (فکر می‌کنم سؤال تو همین را می‌پرسد) ب
+F6: EUR-USD و USD-CHF تمایل دارند همبستگی منفی داشته باشند.
+F7: USD-CHF و USD-JPY تمایل دارند همبستگی مثبت داشته باشند.
+F8: من آدم اشتباهی هستم که دربارهٔ اعمال این به تحلیل RTM بپرسم
+F9: فکر می‌کنم ایدهٔ خوبی است که این را وارد کنم و اگر پیشرفته‌تر بودم، قط
+F10: یادم می‌ماند که به‌زودی به این برگردم، وقتی برچسب‌گذاری origin و TD/TS
+==== hs_p65_1622 enP8 faP9
+E1: I am practicing on AUD-USD Live charts-
+E2: Working on identifying all MPL's and price reaction to them (engulf).
+E3: So far no indication of price moving higher to the ORFL - Down. Waitin
+E4: Current PA:
+E5: No short @ MPL because no engulf of the swap FL. I will wait to see if
+E6: The MPL I am currently watching originated to the left of current PA. 
+E7: Update: price engulfed the MPL indicating IT's want higher target (ORF
+E8: Next, need to find out how far price will RT before moving higher. Sin
+F1: روی AUD-USD با نمودارهای زنده تمرین می‌کنم-
+F2: روی شناسایی همهٔ MPLها و واکنش قیمت به آن‌ها (اینگالف) کار می‌کنم.
+F3: تا الان نشانه‌ای از حرکت قیمت به سمت بالاتر به ORFL - Down نیست. منتظر
+F4: PA فعلی:
+F5: شورت روی MPL نیست چون اینگالی از FL swap نیست. صبر می‌کنم ببینم آیا ای
+F6: MPLی که الان تماشا می‌کنم در چپ PA فعلی منشأ گرفته. نمودار پایین یک نم
+F7: به‌روزرسانی: قیمت MPL را اینگالف کرد و نشان داد ITها تارگت بالاتر می‌خ
+F8: بعد، باید بفهمم قیمت قبل از حرکت بالاتر تا کجا RT می‌کند. چون TG یک OR
+F9: نمودار زیر MPL و سطح QM را در جزئیات نشان می‌دهد:
+==== hs_p65_1623 enP10 faP5
+E1: AUD-USD - Trade Analysis Continued:
+E2: Now that price has engulfed to the upside, and the target is an ORFL, 
+E3: IT's will want to be net long, so they will create a sell trap at the 
+E4: From what I see, the bottom grey rectangle seems to be the best place 
+E5: Price is coming from a unreached target for longs (ORFL - Down). MPL &
+E6: (ignore the limit order)
+E7: Also, I like this demand zone because it was originally formed after a
+E8: Retailers see the recent EG as a FO, price drops down to the QM level 
+E9: Perfect combination of potential tricks to get everyone short before g
+E10: HTF View:
+F1: AUD-USD - تحلیل معامله ادامه‌دار:
+F2: حالا که قیمت به سمت بالا اینگالف کرده و تارگت یک ORFL است، RT عمیق تا 
+F3: ITها می‌خواهند net long باشند، پس در عمیق‌ترین بخش RT یک تلهٔ فروش می‌
+F4: از آنچه می‌بینم، مستطیل خاکستری پایین به نظر بهترین جای demand است -و 
+F5: قیمت از یک تارگت لانگِ نرسیده می‌آید (ORFL - Down). MPL و سطح QM در جز
+==== hs_p69_1708 enP14 faP12
+E1: hoeschec wrote: Hey thanks for the reply. In the GU chart you posted, 
+E2: This is a 15 Min chart that zooms in on the exact area where price bro
+E3: Is this the correct way to draw the 'kink'?
+E4: Thanks
+E5: I notice there is another time when price crosses the line...is that k
+E6: Here is a chart that shows the kink:
+E7: H, Spot on. see how they (ITs) can confuse so many, I could only see t
+E8: The kink is only confirmed as a FL once it hits an opposing TG. The re
+E9: The inner kink you drew is of less significance however may add conflu
+E10: Sorry for the mind dump. I have a habit of rambling
+E11: . I can try and draw a diagram in
+E12: a few hours when I get home if it would add value.
+E13: Cheers,
+E14: Clint
+F1: hoeschec نوشت: سلام ممنون برای جوابت. در نمودار GUای که پست کردی، آیا 
+F2: این یک نمودار 15 دقیقه‌ای است که روی ناحیهٔ دقیقِ شکستن LS توسط قیمت ز
+F3: آیا این روش درست کشیدن «kink» است؟
+F4: ممنون
+F5: متوجه شدم بار دیگر قیمت از خط عبور می‌کند... آیا آن kink هم مهم است؟
+F6: این‌جا نموداری است که kink را نشان می‌دهد:
+F7: H، دقیقاً درست. ببین آن‌ها (ITها) چطور می‌توانند خیلی‌ها را گیج کنند، 
+F8: kink فقط وقتی به‌عنوان FL تأیید می‌شود که به TG مخالف برسد. دلیلش این 
+F9: kink داخلی‌ای که کشیدی اهمیت کمتری دارد اما ممکن است به معاملهٔ مقیاس 
+F10: از سرازیر شدن افکارم عذر می‌خواهم. عادت به پرگویی دارم
+F11: . می‌توانم وقتی برسم خانه چند ساعت دیگر یک دیاگرام بکشم اگر ارزش داشته
+F12: Clint عزیز
+==== hs_p69_1711 enP26 faP24
+E1: I was doing some simulation trading this evening and made a an incredi
+E2: ~ 50:R Trade
+E3: USD-JPY this trade occurred back around September 2015 if you are want
+E4: ______________________________________________________________________
+E5: I will start with the chart that caught my eye: I am looking on an hou
+E6: So far...easy and straightforward
+E7: Now that I am looking for a possible bounce when price returns to the 
+E8: This is an ongoing problem for me, and I am trying to find a good answ
+E9: 1. Explain why I chose this specific level 2. Explain why I did not ch
+E10: It is very easy to explain (in hindsight) why price bounced at a certa
+E11: Here is the chart that identifies all of the levels I was considering:
+E12: Going back to my simulation trade: I ended up choosing the LS below (s
+E13: I chose this LS because it was the last high that formed prior to the 
+E14: ...if I am being completely honest, I can't explain why price didn't b
+E15: It is my humble opinion that often times traders make the reckless ass
+E16: I think it is important to honestly take a step back and assess every 
+E17: This is one of my biggest weaknesses... I use the term 'confirmation b
+E18: OK...moving on. Now that I've Identified my LS I need to start thinkin
+E19: A: S/R Level will be a magnet for retail traders who want to trade the
+E20: B: Supply and demand traders will look at this level as a good place t
+E21: C: Many traders and computer algos/indicators for retailers will buy/s
+E22: The next step is for me to refine my entry by looking at a lower time 
+E23: Here is what I see on a 5-min chart. I am encouraged by how clear and 
+E24: 5-Min Kink
+E25: Lets look at this on a 30M, 15M, and 1M chart respectively. Keep in mi
+E26: Continued on next post... ran out of attachment room
+F1: امشب داشتم کمی معاملهٔ شبیه‌سازی انجام می‌دادم و یک معاملهٔ باورنکردنی
+F2: معاملهٔ ~ 50:R
+F3: USD-JPY این معامله حوالی سپتامبر 2015 رخ داد اگر می‌خواهی همراهی کنی
+F4: ______________________________________________________________________
+F5: با نموداری که چشمم را گرفت شروع می‌کنم: روی نمودار ساعتی به دنبال مومن
+F6: تا اینجا... آسان و سرراست
+F7: حالا که به دنبال برگشت احتمالی وقتی قیمت به تصمیم شکست به سمت بالا برم
+F8: این یک مشکل در حال ادامه برای من است و دارم سعی می‌کنم جواب خوبی پیدا 
+F9: 1. توضیح اینکه چرا این سطح خاص را انتخاب کردم 2. توضیح اینکه چرا سطوح 
+F10: خیلی آسان است (با دید گذشته‌نگر) توضیح بدهم چرا قیمت روی یک سطح خاص بر
+F11: این‌جا نموداری است که همهٔ سطوحی را که در نظر می‌گرفتم شناسایی می‌کند:
+F12: برگردیم به معاملهٔ شبیه‌سازی‌ام: در نهایت LS پایین را انتخاب کردم (نمو
+F13: این LS را انتخاب کردم چون آخرین سقفی بود که قبل از کندل اینگالف صعودی 
+F14: ... اگر کاملاً صادق باشم، نمی‌توانم توضیح بدهم چرا قیمت از سطح علامت‌گ
+F15: نظر فروتنانهٔ من این است که اغلب معامله‌گران فرض بی‌توجهانه‌ای می‌کنند
+F16: فکر می‌کنم مهم است که صادقانه یک قدم عقب بروم و هر معامله (برنده یا با
+F17: این یکی از بزرگ‌ترین ضعف‌های من است... از اصطلاح «سوگیری تأیید» برای ت
+F18: OK... ادامه می‌دهم. حالا که LS خودم را شناسایی کردم باید شروع کنم به ف
+F19: A: سطح S/R آهنربایی برای معامله‌گران خرده‌فروشی خواهد بود که می‌خواهند
+F20: B: معامله‌گران عرضه و تقاضا به این سطح به‌عنوان جای خوبی برای خرید نگا
+F21: C: خیلی از معامله‌گران و الگوریتم‌ها/اندیکاتورهای کامپیوتری برای خرده‌
+F22: گام بعدی این است که ورودم را با نگاه به تایم‌فریم پایین‌تر ظریف کنم. م
+F23: این‌طور که روی نمودار 5 دقیقه‌ای می‌بینم. از اینکه این kink چقدر واضح 
+F24: ادامه در پست بعدی... اتاق پیوست تمام شد
+==== hs_p71_1753 enP6 faP5
+E1: H, this is what I am working on. I see TGs and have major issues with 
+E2: I always use a Conservative level for a TG and only enter on the best 
+E3: I Mark up my PAZ's, areas between FL's are space. What are my FLs? the
+E4: -edge of CP -SR -LS or Ignored LS.
+E5: Any area marked as a FL on my scale becomes a possible target and the 
+E6: for me stacked paz or SPAZ is not treated like cp but more like a stan
+F1: H، این چیزی است که دارم رویش کار می‌کنم. TGها را می‌بینم و با کشیدن ما
+F2: همیشه از یک سطح محافظه‌کارانه برای TG استفاده می‌کنم و فقط روی بهترین 
+F3: PAZهایم را علامت می‌زنم، نواحی بین FLها فضا هستند. FLهای من چه هستند؟ 
+F4: هر ناحیه‌ای که روی مقیاسم به‌عنوان FL علامت‌گذاری شود به تارگت احتمالی
+F5: برای من PAZهای روی‌هم (SPAZ) مثل CP تلقی نمی‌شوند بلکه بیشتر مثل سقف ی
+==== hs_p71_1771 enP4 faP3
+E1: Nice H. in the same trade
+E2: found the M1 kink in the circle and entered - zero
+E3: drawdown - did you also go short?
+E4: Hans
+F1: عالی H. در همان معامله
+F2: kink مربوط به M1 را داخل دایره پیدا کردم و وارد شدم - صفر drawdown - آ
+F3: Hans
+==== hs_p71_1772 enP7 faP6
+E1: hansma wrote: Nice H. in the same trade
+E2: found the M1 kink in the circle and
+E3: entered - zero drawdown - did you also go short?
+E4: Hans
+E5: Yup!
+E6: You and I saw it the same way
+E7: I'm thinking it may continue to drop...
+F1: hansma نوشت: عالی H. در همان معامله
+F2: kink مربوط به M1 را داخل دایره پیدا کردم و وارد شدم - صفر drawdown - آ
+F3: Hans
+F4: آره!
+F5: تو و من یک‌جور دیدیم
+F6: فکر می‌کنم ممکن است به ریزش ادامه بدهد...
+==== hs_p73_1805 enP2 faP1
+E1: EUR-AUD Continued:
+E2: Very similar PA forms above the initial trade. This time however, pric
+F1: EUR-AUD ادامه:
+==== hs_p73_1815 enP4 faP1
+E1: EUR-JPY Detailed Setup:
+E2: Looking for large momentum candles on the 15-Min chart and came across
+E3: Ask: where is price likely to RT? Start by drawing important areas of 
+E4: Close up 1-min chart:
+F1: EUR-JPY ستاپ دقیق:
+==== hs_p73_1821 enP2 faP1
+E1: USD-JPY:
+E2: Really nice example- Forward testing simulation:
+F1: USD-JPY: مثالی واقعاً خوب- تست رو به جلو شبیه‌سازی:
+==== hs_p76_1900 enP4 faP1
+E1: Closed this out recently on GU: This trade was a little atypical for w
+E2: This was about 18:R
+E3: Here is a simplified HTF view:
+E4: Last chart, showing reason for target: (I wanted to get out at the HTF
+F1: همین حالا روی GU بستم: این معامله از نظر ورود معتبرِ معمولی‌ام کمی غیر

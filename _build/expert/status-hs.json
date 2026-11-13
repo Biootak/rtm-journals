@@ -1,0 +1,28 @@
+{
+ "hs": {
+  "pages": 2844,
+  "checked": 1509,
+  "missing": 3,
+  "examples": [
+   {
+    "file": "H_s Trading Journal - Page 16 - RTM Community.pdf",
+    "page": 13,
+    "y": 100.6,
+    "text": "The future of price is already written in the past"
+   },
+   {
+    "file": "H_s Trading Journal - Page 37 - RTM Community.pdf",
+    "page": 7,
+    "y": 94.6,
+    "text": "other people also said thanks."
+   },
+   {
+    "file": "H_s Trading Journal - Page 54 - RTM Community.pdf",
+    "page": 4,
+    "y": 93.9,
+    "text": "with an expert before assuming this is all true"
+   }
+  ],
+  "testedAt": "2026-11-12T01:50:41"
+ }
+}

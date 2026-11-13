@@ -1,0 +1,34 @@
+{
+  "jc_p1_1": {"ok": true},
+  "jc_p1_2": {"ok": true},
+  "jc_p1_3": {"ok": true},
+  "jc_p1_4": {
+    "issue": "Latin acronym joined to Persian suffix",
+    "why": "FL was welded to a Persian suffix, contrary to the translation rules.",
+    "fix": "Ysbail نوشت: سلام، به 14.11.2016 دقیق‌تر نگاه کن، به نظرم FO به flag بود (اما من هم در حال یادگیری‌ام، این فقط نظر فعلی من است)\n\nمن روی H4 زوم کردم و دور آن FL که اینگالف شده بود دایره کشیدم؛ تا LFL هم فاصله وجود دارد. آیا این درست است؟"
+  },
+  "jc_p1_5": {"ok": true},
+  "jc_p1_6": {"ok": true},
+  "jc_p1_7": {"ok": true},
+  "jc_p1_8": {"ok": true},
+  "jc_p1_9": {"ok": true},
+  "jc_p1_10": {"ok": true},
+  "jc_p1_11": {"ok": true},
+  "jc_p1_12": {"ok": true},
+  "jc_p1_13": {"ok": true},
+  "jc_p1_14": {"ok": true},
+  "jc_p1_15": {"ok": true},
+  "jc_p1_16": {"ok": true},
+  "jc_p1_17": {"ok": true},
+  "jc_p1_18": {"ok": true},
+  "jc_p1_19": {"ok": true},
+  "jc_p1_20": {"ok": true},
+  "jc_p1_21": {"ok": true},
+  "jc_p1_22": {"ok": true},
+  "jc_p1_24": {
+    "issue": "Latin acronym joined to Persian suffix",
+    "why": "MPL was welded to a Persian plural suffix; the alternatives and trading meaning are otherwise correct.",
+    "fix": "با نگاه دوباره می‌بینم که EG در FL پایینی اهمیت بیشتری دارد. پس اگر به این تحلیل پایبند بمانم، الان انتظار دارم قیمت به یکی از این نواحی MPL اصلاح کند: 1. KINK قبل از ریزش بزرگ 2. KINK بزرگ‌ترِ LS در بالا\n\nلطفاً راهنمایی کنید."
+  },
+  "jc_p1_25": {"ok": true}
+}

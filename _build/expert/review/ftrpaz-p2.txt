@@ -1,0 +1,343 @@
+### ftrpaz_p2_26
+EN: Hey DT.
+
+I am new at this too. Your analysis is good with regards to the 15min chart. I agree that the demand there would need to be taken out before price enters that CP zone and falls. The issue that I seem to have to work out is that I don't know how price on the 15min chart can stop the 2hr time frame. It would seem that the HTF would dominate the LTF levels.
+FA: سلام DT.
+
+من هم تازه کارم. تحلیل تو درباره چارت 15min خوب است. موافقم که آن demand باید گرفته شود قبل از اینکه قیمت وارد آن ناحیه CP شود و بیفتد. مسئله‌ای که به نظر می‌رسد باید حل کنم این است که نمی‌دانم قیمت روی چارت 15min چطور می‌تواند تایم‌فریم 2hr را متوقف کند. به نظر می‌رسد HTF بر سطوح LTF غلبه می‌کند.
+
+### ftrpaz_p2_27
+EN: Hello,
+
+I'm not sure if I understood the concept of FTR and PAZ right and would like to ask some questions.
+
+Here's my take on FTRs (any comments and corrections are very appreciated):
+
+1.FTRs are basically levels where one could expect enough supply or demand to drive price in a certain anticipated direction (i.e. to the next lower/upper FTR). So an FTR by definition must be a DBR, RBD, DBD or RBR. Is that correct?
+
+2. An FTR not only has meaning when price gets there for the first time and bounces of it, but also when it gets engulfed and switches sides (e.g. from supply to demand).
+
+But what does the term 'Failure to Return' exactly mean? Does it mean that the level was formed during price's failed attempt to get to the previous supply/demand level? If that is the case then two consecutive FTRs must by definition have a PAZ between them. Because if price would have made it to the previous FTR, it wouldn't be a 'failed' attempt in the first place, right? And it would explain why Pedini has not highlighted this yellow level in the chart below. Or am I just seeing things here?
+
+So when an FTR gets engulfed it is a hint that price may reach for the next FTR, which gives us a nice target. So if after the engulfing price retraces to the now broken FTR, we get a great opportunity for an entry because we can assume that the former resistance now acts as support (or vice versa). From this perspective the concept of FTR gives us everything we need: a pretty sure shot entry, stop loss and target level.
+
+Is that what FTRs are all about?
+
+I hope I did not make it too complicated. Thanks for your help!
+FA: سلام،
+
+مطمئن نیستم مفهوم FTR و PAZ را درست فهمیده‌ام یا نه و می‌خواهم چند سؤال بپرسم.
+
+برداشت من از FTRها این است (هر نظر و اصلاحی خیلی قدردانی می‌شود):
+
+1. FTRها اساساً سطوحی هستند که می‌توان انتظار داشت supply یا demand کافی برای هل دادن قیمت به یک جهت مورد انتظار (یعنی به FTR پایین‌تر/بالاتر بعدی) داشته باشد. پس یک FTR به تعریف باید DBR، RBD، DBD یا RBR باشد. درست است؟
+
+2. یک FTR نه‌تنها وقتی قیمت اولین بار به آنجا می‌رسد و از آن برمی‌گردد معنا دارد، بلکه وقتی engulf می‌شود و سمت‌ها را عوض می‌کند (مثلاً از supply به demand).
+
+اما اصطلاح 'Failure to Return' دقیقاً یعنی چه؟ آیا یعنی سطح در طول تلاش ناموفق قیمت برای رسیدن به سطح supply/demand قبلی شکل گرفته؟ اگر این‌طور باشد پس دو FTR متوالی به تعریف باید بینشان یک PAZ داشته باشند. چون اگر قیمت به FTR قبلی می‌رسید، اصلاً تلاشی 'ناموفق' نبود، درست است؟ و این توضیح می‌دهد چرا Pedini این سطح زرد را در چارت پایین هایلایت نکرده. یا فقط دارم چیزهایی می‌بینم که نیست؟
+
+پس وقتی یک FTR engulf می‌شود نشانه‌ای است که قیمت ممکن است FTR بعدی را بگیرد که به ما تارگت قشنگی می‌دهد. پس اگر بعد از engulfing قیمت به FTR حالا شکسته‌شده برگردد، فرصت عالی برای ورود داریم چون می‌توانیم فرض کنیم مقاومت قبلی حالا به‌عنوان support عمل می‌کند (یا برعکس). از این دیدگاه مفهوم FTR همه چیزی که لازم داریم را می‌دهد: ورود تقریباً مطمئن، stop loss و سطح تارگت.
+
+آیا FTRها همین‌اند؟
+
+امیدوارم خیلی پیچیده نکرده باشم. ممنون از کمکتان!
+
+### ftrpaz_p2_28
+EN: Here's my attempt to define FTR and PAZs. Three questions:
+
+1. Are those valid FTRs?
+
+2. Did I miss any?
+
+3. What about the 2nd zone from the bottom - is that an FTR, too? If my assumptions from the previous post are right then it isn't.
+
+Thanks for your help!
+FA: تلاش من برای تعریف FTR و PAZها. سه سؤال:
+
+1. آیا آن‌ها FTRهای معتبرند؟
+
+2. چیزی جا انداختم؟
+
+3. درباره ناحیه دوم از پایین - آیا آن هم FTR است؟ اگر فرضیه‌های من از پست قبلی درست باشد پس نیست.
+
+ممنون از کمکتان!
+
+### ftrpaz_p2_29
+EN: Hey Tcee,
+
+Here is my take on your question. I hope this helps.
+FA: سلام Tcee،
+
+برداشت من از سؤالت این است. امیدوارم کمک کند.
+
+### ftrpaz_p2_30
+EN: Hey Daft, felt like placing some PAZs on yout chart, as i see them.
+
+MIKY:)
+FA: سلام Daft، حس کردم چند PAZ روی چارت تو بگذارم، همان‌طور که می‌بینم.
+
+MIKY:)
+
+### ftrpaz_p2_31
+EN: Cheers Miky,
+
+Much appreciated and please if you have time do it more often, it helps a lot buddy
+
+This chart is filed away in the important charts:)
+
+DT
+FA: Cheers Miky،
+
+خیلی قدردانی می‌شود و اگر وقت داری لطفاً بیشتر این کار را بکن، خیلی کمک می‌کند رفیق
+
+این چارت در important charts بایگانی شد:)
+
+DT
+
+### ftrpaz_p2_32
+EN: AERO wrote: Hey Daft, felt like placing some PAZs on yout chart, as i see them.
+
+MIKY:)
+
+Looking at this chart I'd say that the little RBD marked as the FL is the FTR, failing to return into the area above the flip noted.
+
+So, what's marked as the FTR is the FTB.
+
+I'm out of practice, though.
+FA: AERO نوشت: سلام Daft، حس کردم چند PAZ روی چارت تو بگذارم، همان‌طور که می‌بینم.
+
+MIKY:)
+
+با نگاه به این چارت می‌گویم RBD کوچکی که به‌عنوان FL علامت خورده همان FTR است، که به ناحیه بالای flip علامت‌خورده برنگشته.
+
+پس، چیزی که به‌عنوان FTR علامت خورده FTB است.
+
+البته از تمرین افتاده‌ام.
+
+### ftrpaz_p2_33
+EN: Hi rcmacf,
+
+I think I understand what you mean mate. To me on that TF which is the 2hr, I believe was a FL due to the base and there was no clear FTR, I am not saying your wrong because if you look at other examples on your chart, what appears as a FL on the 2hr may be a nice looking FTR on the 30 min TF. But yes it could well be considered an FTR too.
+
+You said 'What's marked as the FTR is the FTB', that is spot on, but remember that FTB is also another FTR too as price failed to return to the supply which is the FL/FTR.
+
+I don't know if what I have just written is clear or not buddy, sometimes I write expecting everyone to understand exactly as I am thinking.
+
+Good job
+
+DT
+FA: سلام rcmacf،
+
+فکر کنم می‌فهمم منظورت چیست رفیق. برای من روی آن تایم‌فریم که 2hr است، باور دارم FL بود به‌خاطر base و FTR واضحی نبود؛ نمی‌گویم اشتباه می‌کنی چون اگر به مثال‌های دیگر روی چارتت نگاه کنی، آنچه روی 2hr به‌عنوان FL به نظر می‌رسد ممکن است روی تایم‌فریم 30 دقیقه FTR قشنگی باشد. اما بله می‌تواند FTR هم در نظر گرفته شود.
+
+گفتی 'چیزی که به‌عنوان FTR علامت خورده FTB است'، این کاملاً درست است، اما یادت باشد FTB هم FTR دیگری است چون قیمت به supply برنگشت که همان FL/FTR است.
+
+نمی‌دانم آنچه تازه نوشتم روشن است یا نه رفیق، گاهی می‌نویسم با این انتظار که همه دقیقاً مثل فکر من بفهمند.
+
+کار خوبی بود
+
+DT
+
+### ftrpaz_p2_34
+EN: Hotochin wrote: Hey Tcee,
+
+Here is my take on your question. I hope this helps.
+
+Thanks Hotochin. I understand that there's much more to it than I previously thought. I've already see IFs video on this topic but have to see it again...
+FA: Hotochin نوشت: سلام Tcee،
+
+برداشت من از سؤالت این است. امیدوارم کمک کند.
+
+ممنون Hotochin. می‌فهمم که خیلی بیشتر از چیزی است که قبلاً فکر می‌کردم. ویدئوی IF درباره این موضوع را دیده‌ام اما باید دوباره ببینم...
+
+### ftrpaz_p2_35
+EN: Hi TCEE, These is exactly the same (1) question which I had put some days back.From the answers I received and after going through several posts and journals I feel the following. This is only what "I" feel. The FTR is actually the RBD/DBR/RBR/DBD.As you rightly said.Please find the pictorial explanation......Also note this is what I feel.Seniors please correct if needed.
+FA: سلام TCEE، این دقیقاً همان سؤالی (1) است که چند روز پیش پرسیده بودم. از جواب‌هایی که گرفتم و بعد از مرور چند پست و ژورنال این احساس را دارم. این فقط چیزی است که "من" احساس می‌کنم. FTR در واقع همان RBD/DBR/RBR/DBD است. همان‌طور که درست گفتی. لطفاً توضیح تصویری را ببین...... همچنین توجه کن این چیزی است که من احساس می‌کنم. منتوران لطفاً در صورت نیاز اصلاح کنید.
+
+### ftrpaz_p2_36
+EN: harshrthakkar, thanks for your help. Your chart makes it pretty clear. The
+
+engulfing part was what I was missing. Thank you!
+FA: harshrthakkar، ممنون از کمکت. چارت تو کاملاً روشن می‌کند.
+
+بخش engulfing همان چیزی بود که از دستم افتاده بود. ممنون!
+
+### ftrpaz_p2_37
+EN: My pleasure.Thanks goes to IF and all seniors here.
+FA: با کمال میل. تشکر از IF و همه منتوران اینجا.
+
+### ftrpaz_p2_38
+EN: rcmacf wrote: Looking at this chart I'd say that the little RBD marked as the FL is the FTR, failing to return into the area above the flip noted.
+
+So, what's marked as the FTR is the FTB.
+
+I'm out of practice, though.
+
+Hey man, i agree. As i see what there is noted as FL represents an untested FTR until price retraces to it and fills the orders. In that case what is in the picture defined as FTR is really a FTB - retrace. (EDIT)
+
+harshrthakkar wrote: Hi TCEE, These is exactly the same (1) question which I had put some days back.From the answers I received and after going through several posts and journals I feel the following. This is only what "I" feel. The FTR is actually the RBD/DBR/RBR/DBD.As you rightly said.Please find the pictorial explanation......Also note this is what I feel.Seniors please correct if needed.
+
+This i how i see it work.:)
+
+Hope this helps.
+
+MIKY
+FA: rcmacf نوشت: با نگاه به این چارت می‌گویم RBD کوچکی که به‌عنوان FL علامت خورده همان FTR است، که به ناحیه بالای flip علامت‌خورده برنگشته.
+
+پس، چیزی که به‌عنوان FTR علامت خورده FTB است.
+
+البته از تمرین افتاده‌ام.
+
+سلام رفیق، موافقم. همان‌طور که می‌بینم چیزی که به‌عنوان FL noted شده FTR تست‌نشده‌ای را نشان می‌دهد تا وقتی قیمت به آن برگردد و سفارش‌ها را پر کند. در آن صورت آنچه در تصویر FTR تعریف شده واقعاً FTB - retace است. (ویرایش)
+
+harshrthakkar نوشت: سلام TCEE، این دقیقاً همان سؤالی (1) است که چند روز پیش پرسیده بودم. از جواب‌هایی که گرفتم و بعد از مرور چند پست و ژورنال این احساس را دارم. این فقط چیزی است که "من" احساس می‌کنم. FTR در واقع همان RBD/DBR/RBR/DBD است. همان‌طور که درست گفتی. لطفاً توضیح تصویری را ببین...... همچنین توجه کن این چیزی است که من احساس می‌کنم. منتوران لطفاً در صورت نیاز اصلاح کنید.
+
+این چطور می‌بینم کار می‌کند.:)
+
+امیدوارم کمک کند.
+
+MIKY
+
+### ftrpaz_p2_39
+EN: Hi TCEE, One thing I felt should be brought to you is this.
+FA: سلام TCEE، یک چیز که حس کردم باید به تو بگویم این است.
+
+### ftrpaz_p2_40
+EN: Thank you very much, AERO!
+FA: ممنون زیاد، AERO!
+
+### ftrpaz_p2_41
+EN: MIKY, You are correct.Rightly identified the lower FTR and PAZ.
+FA: MIKY، تو درست می‌گویی. درست FTR پایین و PAZ را شناسایی کردی.
+
+### ftrpaz_p2_42
+EN: Hi all,
+
+rcmacf, Aero.
+
+If I understand correctly what this current conversation is about regarding the chart below, I would have to politely disagree, I still stand by what I wrote on the chart, not that it matters in any case as price reacted to it nonetheless.
+
+DT
+FA: سلام به همه،
+
+rcmacf، Aero.
+
+اگر درست فهمیده باشم این گفتگوی فعلی درباره چارت پایین چیست، باید مؤدبانه مخالف باشم؛ هنوز روی آنچه روی چارت نوشتم ایستاده‌ام، هرچند مهم نیست چون قیمت با این حال به آن واکنش نشان داد.
+
+DT
+
+### ftrpaz_p2_43
+EN: Daft trader 1 wrote: Hi all,
+
+rcmacf, Aero.
+
+If I understand correctly what this current conversation is about regarding the chart below, I would have to politely disagree, I still stand by what I wrote on the chart, not that it matters in any case as price reacted to it nonetheless.
+
+DT
+
+I welcome it man! As long it is logical to you! and price repeatedly confirms it, then keep up with it!!:) It been stated: AS I SEE IT:) Just take what is logical to you and move on.
+
+I know in my learning i wouldnt want to trade QM if i dont truely know why it works ( The story behind it). Its a clear visual pattern thats for sure, but i rather trade something that is backed with my understanding and my mind wont go crazy after an unsuccseful trade. Its pointless to tell your mind: "Ah its ok, its gonna work next time, i have seen this pattern work on many charts on RTM and on my platform. The probability is high so i will go with it. I mean... i will need to fight my emotions when it doesnt work, but its ok, that stress i can handle."
+
+This has been leading idea for me:
+
+Just trade what you really understand.:) And i am sure using this one will sooner or later, come close to the understanding one is after. It has proven working for me.
+
+Just my 2 cents MIKY
+FA: Daft trader 1 نوشت: سلام به همه،
+
+rcmacf، Aero.
+
+اگر درست فهمیده باشم این گفتگوی فعلی درباره چارت پایین چیست، باید مؤدبانه مخالف باشم؛ هنوز روی آنچه روی چارت نوشتم ایستاده‌ام، هرچند مهم نیست چون قیمت با این حال به آن واکنش نشان داد.
+
+DT
+
+خوشحال می‌شوم رفیق! تا وقتی برایت منطقی است! و قیمت مدام آن را تأیید می‌کند، ادامه بده!!:) گفته شده: AS I SEE IT:) فقط چیزی را بگیر که برایت منطقی است و ادامه بده.
+
+می‌دانم در یادگیری‌ام نمی‌خواستم QM را معامله کنم اگر واقعاً نمی‌دانم چرا کار می‌کند (داستان پشتش). الگوی بصری روشنی است برای قطعیت، اما ترجیح می‌دهم چیزی را معامله کنم که با فهمم پشتش است و ذهنم بعد از یک معامله ناموفق دیوانه نمی‌شود. بی‌معنی است به ذهنت بگویی: "آه اشکالی ندارد، دفعه بعد کار می‌کند، این الگو را روی چارت‌های زیادی در RTM و روی پلتفرم‌ام کارکردن دیده‌ام. احتمال بالاست پس با آن می‌روم. یعنی... وقتی کار نمی‌کند باید با احساساتم بجنگم، اما اشکالی ندارد، آن استرس را می‌توانم تحمل کنم."
+
+این ایده اصلی من بوده است:
+
+فقط چیزی را معامله کن که واقعاً می‌فهمی.:) و مطمئنم استفاده از همین یکی دیر یا زود به فهمی که دنبالش هستی نزدیک می‌شود. برای من اثبات شده کار می‌کند.
+
+فقط 2 سنت من MIKY
+
+### ftrpaz_p2_44
+EN: Cheers Miky,
+
+U know, I had it sealed in my mind what an FTR and what a FL represents, and yes it does make total sense to me. I was happy to see someone questioning a chart of mine, it makes me think why I marked it this way and that way, and I really want more of it
+
+As always Miky, your words are wise, cheers.
+
+DT
+FA: Cheers Miky،
+
+می‌دانی، در ذهنم مهر شده بود که FTR و FL چه چیزی را نشان می‌دهند، و بله برایم کاملاً معنا می‌سازد. خوشحال شدم که کسی چارت من را زیر سؤال برد، این باعث می‌شود فکر کنم چرا این‌طوری و آن‌طوری علامت زدم، و واقعاً بیشترش را می‌خواهم
+
+مثل همیشه Miky، کلمات تو حکمت‌آمیز است، cheers.
+
+DT
+
+### ftrpaz_p2_45
+EN: Hi guys,
+
+I am currently studying CP PAZs, however I am beginning to look at FTR PAZs. This is very much my first attempt at this P.A concept, would any kind soul be gooe enough to correct me or advise where needed...
+
+Cheers all
+
+DT
+FA: سلام بچه‌ها،
+
+الان دارم PAZهای CP را مطالعه می‌کنم، با این حال شروع کرده‌ام به نگاه به FTR PAZها. این خیلی اولین تلاش من برای این مفهوم P.A است؛ آیا روحیه نیکوکارانه‌ای هست که مرا تصحیح کند یا در صورت نیاز راهنمایی کند...
+
+Cheers به همه
+
+DT
+
+### ftrpaz_p2_46
+EN: Any comments?
+
+DT
+FA: نظری هست؟
+
+DT
+
+### ftrpaz_p2_47
+EN: Great concise charts, DT.
+
+Before I came here these engulfings always equaled failed trades to me. Now I see that they can be signals for succesful trading in and of themselves. Thank you very much.
+FA: چارت‌های خلاصه عالی، DT.
+
+قبل از اینکه اینجا بیایم این engulfها همیشه برای من معادل معامله‌های ناموفق بودند. حالا می‌بینم که می‌توانند خودشان سیگنال‌های معامله موفق باشند. خیلی ممنون.
+
+### ftrpaz_p2_48
+EN: Cheers Andy,
+
+However I do not see many entry points as of yet using the FTR PAZ concept, I think they are correct, I will keep plugging away until another lightbulb hopefully switches on, I am happy the charts are helping
+
+DT
+FA: Cheers Andy،
+
+با این حال هنوز نقاط ورود زیادی با استفاده از مفهوم FTR PAZ نمی‌بینم؛ فکر می‌کنم درست هستند، به کوبیدن ادامه می‌دهم تا انشالله لامپ دیگری روشن شود؛ خوشحالم که چارت‌ها کمک می‌کنند
+
+DT
+
+### ftrpaz_p2_50
+EN: Daft trader 1 wrote: Cheers Andy,
+
+However I do not see many entry points as of yet using the FTR PAZ concept, I think they are correct, I will keep plugging away until another lightbulb hopefully switches on, I am happy the charts are helping
+
+DT
+
+Hi DT, yes, I've got the same problem (see here ). My trading until now was solely based on rudimentary knowledge of supply and demand levels (DBR, RBD etc.). That's not sufficient to identify those entry points. But I'm sure it will come over time.
+
+Keep up the great work!
+FA: Daft trader 1 نوشت: Cheers Andy،
+
+However I do not see many entry points as of yet using the FTR PAZ concept, I think they are correct, I will keep plugging away until another lightbulb hopefully switches on, I am happy the charts are helping
+
+DT
+
+سلام DT، بله، من هم همین مشکل را دارم (اینجا را ببین). معامله‌گری‌ام تا الان فقط بر اساس دانش مقدماتی سطوح supply و demand (DBR، RBD و غیره) بود. برای شناسایی آن نقاط ورود کافی نیست. اما مطمئنم با گذر زمان می‌آید.
+
+به کار عالی ادامه بده!

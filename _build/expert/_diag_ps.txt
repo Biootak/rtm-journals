@@ -1,0 +1,238 @@
+### projectsagana_p1_25 hash=1cf9a1bac39b1cc0495cf822a884190f85929716 | echo
+paras en/fa: 2/2 | echo bigram: "آیا معتبر"
+lex.audit: echo
+---FA---
+آیا این یک QM معتبر است؟
+
+ویدئوهایی در اکانت یوتیوب readthemarket.com تماشا می‌کردم. و متوجه شدم ناحیه PA دارد جلب توجه می‌کند. در این بودم که آیا این PAZ را درست علامت‌گذاری کرده‌ام و آیا یک QM معتبر است یا نه. برای نظرات متشکرم
+---EN---
+is this a valid QM?
+
+I've been watching videos on readthemarket.com's youtube account. And I noticed price action zone was getting noticed. I was wondering if I marked this PAZ correctly and if it was a valid QM. Thanks for the comments
+### projectsagana_p12_285 hash=7c1a2193d8002a3ad2e8f8e80600bcff30509972 | echo
+paras en/fa: 6/6 | echo bigram: "معنای برگشت"
+lex.audit: echo
+---FA---
+projectsagana نوشت: مطالعات و تحلیل من از PA فعلی USDCHF
+
+15m TF
+
+مطالعاتم روی اینگالغ. قیمت 1 FTR را اینگالغ کرد. پرسیدم آیا این نشانه ضعف است. پس نتیجه‌ام: یک اینگالغ به پایین به معنای برگشت نیست.
+
+[quote/]
+
+فقط تجربه‌ها و سؤالات یادگیری‌ام را در ژورنالم مرور می‌کنم تا تازه بمانم.
+
+اینجا به سؤالات خودم درباره اینکه آیا یک اینگالغ در جهت مخالف به معنای برگشت بود یا نه جواب دادم.
+---EN---
+projectsagana wrote: My studies and analysis of the current PA of USDCHF
+
+15m TF
+
+My studies on engulf. Price engulfed 1 FTR. I asked if that was a sign of weakness. So my conclusion: An engulf down does not mean a reversal.
+
+[quote/]
+
+Just revisiting my learning experiences and questions in my journal to keep me refreshed.
+
+Here I answered my own questions regarding whether an engulf on opposite direction meant reversal.
+### projectsagana_p12_288 hash=bf3a1f39b678d488fa0c6694a26c1c253aa33196 | echo
+paras en/fa: 5/5 | echo bigram: "روی tester"
+lex.audit: echo
+---FA---
+اینجا سومین تریدم روی FX tester است. چیز زیادی برای گفتن ندارم فکر کنم.
+
+ستاپ:
+
+PO‌ام پر شد:
+
+و نتیجه:
+
+روی fx tester این‌قدر آسان به نظر می‌رسد... شاید این PO‌ها را بدون ترس می‌گذارم؟ بیشتر محتمل است.
+---EN---
+Here's my 3rd trade on FX tester. Not much to say I guess.
+
+The set up:
+
+My PO getting filled:
+
+and the result:
+
+it seems so easy on fx tester... maybe I'm setting these PO with no fear? Most likely.
+### projectsagana_p15_373 hash=47027d7726eb1e50b29591b0044b824448f86c7a | echo
+paras en/fa: 1/1 | echo bigram: "خطوط s/r"
+lex.audit: echo
+---FA---
+خب این یک درس یادگیری برای من است. از نظر ذهنی می‌دانم خطوط s/r چیست، اما باید به سطح عملیاتی برسد. مراقب آن خطوط s/r باش. می‌توانند نقاط برگشت قیمت باشند. با این، می‌توانند برای ورودها یا تارگت‌ها خوب باشند.
+---EN---
+Well this a learning lesson for me. Intellectually I know what s/r lines are, but it must be concluded into a practical level. Watch for those s/r lines. They can be turning points in price. With that they can be good to set for entries or targets.
+### projectsagana_p16_384 hash=9a8e5b852d9b4e131a23db1b4caed3f032f144fb | echo
+paras en/fa: 2/2 | echo bigram: "حال واکنش"
+lex.audit: echo
+---FA---
+این اسکالپ روز من است. این ترید شگفت‌انگیزاً fun و ترسناک بود چون خیلی سریع بود. تارگت FTR بود؛ تا وقتی قیمت را در حال واکنش به آن تقاضای FTR ندیدم و usdchf را در حال واکنش به عرضهٔ FTR بهترنشد، خارج نشدم. درست به موقع خارج شدم.
+
+eurusd 1m شورت qm
+---EN---
+This is my scalp of the day. This trade was surprisingly fun and scary because it was so quick. The target was FTR, didn't get out until I saw price reacting to that FTR demand, and the usdchf reacting to a better looking FTR supply. I got out just in time.
+
+eurusd 1m short qm
+### projectsagana_p16_388 hash=882f67434d0e7b97a3be6ebe69d85b57e93d5730 | echo
+paras en/fa: 1/1 | echo bigram: "بدون ترید"
+lex.audit: echo
+---FA---
+استراتژی: دنبال PA داخل سطوح DP برای واکنش باش. قانون بدون ترید: (هنوز در حال توسعه) 1. بدون اینگالف = بدون ترید 2. بدون PA = بدون ترید
+---EN---
+Strategy: Look for PA inside DP levels for reaction No Trade Rule: (still developing) 1. No Engulf = No Trade 2. No PA = No Trade
+### projectsagana_p17_423 hash=4452d75160b910d1daff9eacc8de17088dd6a9a2 | echo
+paras en/fa: 5/5 | echo bigram: "FTR همان"
+lex.audit: echo
+---FA---
+blackmovie نوشت: سلام PS، روی ترید «شورت QM» بالایی، نقطهٔ ورودت شانهٔ راست QM است، نه؟ FTR همان HH است؟ می‌توانی نشان دهی شانهٔ چپ کجاست؟ ممنون
+
+قشنگ blackmovie!
+
+پایهٔ FTR همان HH است.
+
+این شانهٔ چپ است.
+
+همیشه تا پیپ نیست، واکنشی به عرضه و تقاضا است. و تله‌ای روی معامله‌گران شکست SR.
+---EN---
+blackmovie wrote: Hi PS, on the 'QM short' trade above, your entry point is the right shoulder of QM right? The FTR is HH? can you show where the left shoulder is? Thanks
+
+Nice blackmovie!
+
+The base of the FTR is the HH.
+
+Here's the L shoulder.
+
+It's not always to the pip, its a reaction to supply and demand. and a trap on s/r break out traders.
+### projectsagana_p18_438 hash=ae08fb30f8b7ddb6e82d3a5b95ca9359529c7504 | echo
+paras en/fa: 4/4 | echo bigram: "فکر می‌کنم"
+lex.audit: echo
+---FA---
+فکر می‌کنم خیلی‌ها به این مربوط می‌شوند....
+
+جلسهٔ ترید امروز:
+
+خبر خوب.... فکر می‌کنم می‌دانم چه اشتباه شد و برای جلسهٔ ترید دوشنبه به آن رسیدگی می‌کنم.
+
+آخر هفته خوبی داشته باشید دوستان
+---EN---
+I think many would relate to this....
+
+today's trading session:
+
+the good news.... I I think I know what went wrong, and will address it for Monday's trading session.
+
+Have a good weekend guys
+### projectsagana_p18_442 hash=433a646427f1cec9df6b6e700c995653ce81a3ed | echo
+paras en/fa: 4/4 | echo bigram: "فکر می‌کنم"
+lex.audit: echo
+---FA---
+projectsagana نوشت: فکر می‌کنم خیلی‌ها به این مربوط می‌شوند.... جلسهٔ ترید امروز:
+
+خبر خوب.... فکر می‌کنم می‌دانم چه اشتباه شد و برای جلسهٔ ترید دوشنبه به آن رسیدگی می‌کنم.
+
+آخر هفته خوبی داشته باشید دوستان
+
+اگر می‌خواهی سریع در LTF ترید کنی.. باید برای کوچک‌ترین سرنخ‌هایی که اتفاق می‌افتد مراقب باشی
+---EN---
+projectsagana wrote: I think many would relate to this.... today's trading session:
+
+the good news.... I I think I know what went wrong, and will address it for Monday's trading session.
+
+Have a good weekend guys
+
+If u want to trade fast in LTF.. u will need to watch for smallest clue that happen
+### projectsagana_p18_447 hash=d39a8b6612d326e5fbe5e5a49afcb91002e9a6bf | echo
+paras en/fa: 7/7 | echo bigram: "تایم‌چارچوب 15m"
+lex.audit: echo
+---FA---
+این نمونه‌ای از QM صعودی برگشت است
+
+مثال 1 EURUSD
+
+موقعیت: قیمت از تقاضای هفتگی واکنش نشان می‌دهد
+
+جهت بالاست: قیمت عرضه را به یک PAZ واضح در تایم‌چارچوب H4 اینگالف می‌کند؛ ورود: PA را داخل سطح DP در تایم‌چارچوب 15m پیدا کن
+
+هفتگی
+
+تایم‌چارچوب H4
+
+تایم‌چارچوب 15m
+---EN---
+Here's an example of the Reversal Bullish QM
+
+ex 1 EURUSD
+
+Location: Price is reacting from WKLY Demand
+
+Direction is Up: Price engulfs Supply into a clear PAZ in H4 TF Entry: Find PA inside DP lvl in 15m TF
+
+Wkly
+
+H4 TF
+
+15m TF
+### projectsagana_p3_60 hash=e1486aaed58b475e9ca6d102737ecf383c20dfeb | echo
+paras en/fa: 2/2 | echo bigram: "FTR قبلی"
+lex.audit: echo
+---FA---
+سلام Project،
+
+سؤالی درباره پست شماره 58 هست...... اگرچه بعد از اینگالف، منتظر می‌مانیم قیمت به DP برگردد؛ اما آیا اجازه نمی‌دهی قیمت حداقل تا FTR قبلی سرگردان شود؟ تریدهای نسبتاً زیادی دیده‌ام که DPها چندان مشخص نیستند و قیمت به FTR قبلی برمی‌گردد و بعد در جهت اینگالف حرکت می‌کند. فکر می‌کنم همین مورد در این ترید هم بود.. نظرت چیست؟
+---EN---
+Hi Project,
+
+I have a question Regarding post No 58...... Though after engulf, we wait for price to retrace to DP; however won't you allow price to wander at least till previous FTR? have seen quite a few trades where DPs are not that obvious and so price retraces to previous FTR and then moves in the direction of engulf. Same was the case in this trade I think.. What do you say?
+### projectsagana_p5_102 hash=213f29ad4c039997a02a5b52d61f48d8bf0d1abb | echo
+paras en/fa: 3/3 | echo bigram: "سطح‌های سوآپ"
+lex.audit: echo
+---FA---
+milkeyway نوشت: شاید هم دوست داشته باشی بدانی چه چیزی معنادار است که باعث چرخش قیمت‌ها می‌شود.
+
+ایده مشابه خط حمایت-مقاومت flip. می‌فهمم این‌ها سطح‌های سوآپ هستند، تقاضای نادیده‌گرفته‌شده به عرضه تبدیل می‌شود و برعکس. با این حال، هنوز باید یاد بگیرم چه زمانی می‌توانم انتظار داشته باشم که یک سطح سوآپ با احتمال بالا رخ دهد.
+
+فکر می‌کنم به یک مقاله برای این سطح‌های سوآپ نیاز داریم
+---EN---
+milkeyway wrote: You may also like to know what is significant which makes prices turn.
+
+Similar idea of support-resistance flip line. I understand these are swap levels, ignored demand turns into supply and vice-versa. Yet, I still have to learn when I can expect with a high possibility that a swap level may occur.
+
+I think we need an article for these swap levels
+### projectsagana_p8_196 hash=3a8c36e56308f3fbfa0f9e8dd47431cc96c44607 | echo
+paras en/fa: 5/5 | echo bigram: ""
+lex.audit: echo
+---FA---
+فقط دنبال ستاپ‌ها در گذشته هستم.
+
+HTF
+
+به دنبال PA در LTF
+
+اینگالغ‌های FTR (حداقل 2 یا بیشتر اینگالغ به درک من ضعف است) و ساختن یک FTR در جهت مخالف در حالی که در HTF است یک ستاپ فوق‌العاده است
+
+هنوز دارم این ایده را از طریق HW خودم و تجربه ترید دمو توسعه می‌دهم و آن را به یک برنامهٔ معامله که وقتی از دمو فارغ‌التحصیل شدم می‌توانم استفاده کنم تبدیل می‌کنم
+---EN---
+Just looking for sets up in the past.
+
+The HTF
+
+Look for PA in the LTF
+
+engulfs of FTR (at least 2 or more engulfs are weakness to my understanding) and creating an FTR on the opposite direction while at the HTF is a great set up
+
+I'm still developing this idea through my own homework and trading demo experience and integrate it into a trading plan I can use when I graduate out of demo
+### projectsagana_p9_221 hash=e2c6b5a805d438ff5b95b05a9142d3d583403cdf | echo
+paras en/fa: 2/2 | echo bigram: "آخر هفته"
+lex.audit: echo
+---FA---
+Kovalenko نوشت: منظورم سطح است. باشه رفیق، آخر هفته خوبی!
+
+ممنون که به سؤالاتم جواب دادی Alex. آخر هفته خوبی داشته باش!
+---EN---
+Kovalenko wrote: I mean level. Ok, mate, nice weekend!
+
+Thanks for answering my questions Alex. Have a great weekend!

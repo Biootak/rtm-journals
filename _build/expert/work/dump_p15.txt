@@ -1,0 +1,211 @@
+##### hs_p15_351 hoeschec paras:3
+Just closed out GBP-AUD for a quick 47 pips! I was able to add a position towards the end, but I didn't get much of a RT. Price dropped really hard.
+
+This concludes the best week I've had trading since I first started three years ago (22% gain on principle balance this week alone)!
+
+Thanks to everyone for your support and help
+---END---
+##### hs_p15_352 scoobydoo paras:1
+Fantastic stuff H!! Well done
+---END---
+##### hs_p15_353 hoeschec paras:7
+zhao wrote: Hoeschec, Thank you for your answer and your time. I understand your diagram very well, but it is still not easy to find out the important FL/FTR in real time trading. I need more time to train myself to read the real time chart.
+
+regards, Peter
+
+Hi Peter - I find that some setups are more straightforward than others. Since I too am still new to this, I try to focus on live price action that is easy to read and as 'obvious' as possible to understand. If I have to look at a chart for more than a minute or so to find the source flag, then I'll likely skip the pair and move on to a pair that is forming nicer structure. There are so many opportunities every day, there is no risk in playing it safe and waiting for the best setup.
+
+Like I mentioned in my last comment, this issue of a source/origin FL or FTR is new to me as well. All year long I've been struggling to properly trade engulfs...the problem was my lack of understanding on which engulfs to look for.
+
+Live charting is hard, and I still struggle with finding these zones myself. If you look back to my post last night (Post # 347) you will see a situation last night where I wasn't sure where the original FL was. I think the key is first drawing all of the important S/R levels or opposing FTR's and see when one of these important zones are broken and price flags or creates a new FTR. It is this newly created FL/FTR (after an important level breaks) that we should keep an eye on. It's a FL or FTR that served a specific purpose and these FL's contain decision points that will often bounce price. That is why an engulf of these important zones is so important... the engulf clears out those remaining orders and allows price to move freely to the next important level. Price wants the path of least resistance (I heard this quote from someone here on RTM, but I can't remember who it was that coined the phrase).
+
+I will do some practice this weekend to identify these and will post to my journal.
+
+I will help you out as much as I can...just know that I am new to this and don't want to do or say something that sends you down the wrong path. If there are any experienced traders reading this comment...will you let me know if I am giving Peter good advice? Many thanks!
+---END---
+##### hs_p15_354 hoeschec paras:9
+Since I'm sitting here bored as my Broker has temporarily closed out the platform for maintenance, I spent some time to draw out a recent concept I've been working on. Here is my interpretation of what it looks like:
+
+1. Find a Base-Pole-Flag: where the Flag portion forms in a HTF supply or demand zone (the HTF confirmation is very important)
+
+2. Once price starts flagging, drop down to a lower time frame and start marking out the FL's and FTR's that price makes as it spends time in your HTF supply or demand zone.
+
+3. Mark the important FL or FTR that supports price's move in to the HTF zone and marks the end of the 'Pole' and starts the FL (this is the important FL that you want to see price engulf before looking for a place to get short).
+
+4. Price will move sideways for a while while it consolidates. Just be patient...wait for the engulf.
+
+5. After the engulf has occurred, start looking for a place to get short.
+
+6. Find the high limit of the FL that formed within the HTF supply zone and watch for the area in the FL where the last orders (most extreme orders) could possibly exist. This is the MPL (I think).
+
+7. Wait for the deep retrace to this MPL and get short with a tight stop. These entries are the ones that can be 1:10 R:R or more.
+
+I am not sure if my drawing is 100% accurate, but I will use this idea in my trading next week to refine my entries and find trading opportunities that have a higher R:R.
+---END---
+##### hs_p15_355 hoeschec paras:1
+EUR-USD Practice
+---END---
+##### hs_p15_356 hoeschec paras:2
+EUR-USD - Historical 4-Hour Chart from 2006
+
+Part of what makes this engulf so powerful is the fact that it occurs after price bounces off a HTF (weekly) demand zone. The CP also provided a path of least resistance for price to continue north.
+---END---
+##### hs_p15_357 hoeschec paras:3
+EUR-USD 4-HR Chart (Historic Practice) 11-10-2006
+
+HTF - Supply Zone
+
+LTF - Looking for EG of FL signaling to take a short
+---END---
+##### hs_p15_358 lv5758 paras:2
+Hi there H,
+
+Sorry to clutter your journal, but i just wanted to tell you that i really enjoy reading your journal. I learned a lot from reading up your journal. Keep up the good work H. Thanks H
+---END---
+##### hs_p15_359 Niekumaty paras:3
+hoeschec wrote: G/A - Looking for an engulf here as well. FL is drawn.
+
+HTF showing a bounce at S/R Flip
+
+im just begining so sorry for my question - am I correct when I see QM at GBP AUD at the lower red line at screens from M15?
+---END---
+##### hs_p15_360 hoeschec paras:5
+Hi Niekumaty,
+
+I marked up the chart with how I see that area...hopefully this is what you are looking for
+
+A QM is only valid if the HH or LL is a true engulf. So in the case of GBP-AUD 15M chart, price would have to follow the path of the orange line in order to make the area you pointed out a valid QM location. Price needed to engulf and return back to the source/QM Level (dark blue rectangle).
+
+In this example, it did end up engulfing (if you look at the chart) but this occurred late on a Friday when many traders were closing out their positions, so it wouldn't have been a good time to trade the QM. Many traders close out all positions before heading in to the weekend...especially these days where the market is so unpredictable.
+
+Feel free to let me know if you are still confused. No need to apologize, I am still pretty new to this as well and I am more than happy to share what I've learned here!
+---END---
+##### hs_p15_361 hoeschec paras:5
+Now that I've taken another look at GBP-AUD from last week, I am thinking the original FL that must be engulfed is shown by the green rectangle.
+
+Last week I labeled the area at "B" as the important location to engulf. Now that I revisit this chart, I am wondering if "B" is really a reaction to "A". If this is true, "A" would be the FL to engulf.
+
+It's amazing how intricate trading can be sometimes...the details really matter.
+
+Hopefully if I am wrong someone will stop by and let me know
+
+And Niekumaty: If the original FL that needs to be engulfed is indeed the one shown the by the green rectangle (instead of the red rectangle I drew on post # 360), the accurate QM would be revised to look more like the following:
+---END---
+##### hs_p15_362 Niekumaty paras:1
+ok, Thank You, understood:)
+---END---
+##### hs_p15_363 hoeschec paras:3
+Watching AUD-USD this week. Lots of compression clearing a path north.
+
+4-Hour Chart:
+
+1-Hour Chart
+---END---
+##### hs_p15_364 hoeschec paras:10
+USD-CAD - Practice & PAZ Question: This is a confusing example & I am posting it here so I can come back to it later and try to understand what happened.
+
+Top Down Analysis: Price entering HTF weekly supply zone
+
+Weekly:
+
+Daily:
+
+4-Hour:
+
+The specific area of this 4-hour chart that I am focusing on for this example is the yellow shaded region that seemingly engulfs the low of FL-1. Initially, I saw this as an engulf and wondered why price didn't RT to the origin of the EG and drop to the base of the pole where a FTR was located.
+
+I suppose there are two possible reasons for price not dropping: either this was a fakeout, or the 'engulf' of the low of FL-1 was not significant because it broke in to a larger level of compression (see the dotted rectangle for the entire compression area).
+
+In this case, drawing what looked to be FL-1 was probably not accurate. the entire FL was better drawn encompassing the whole CP area. Is this what everyone refers to as a CP PAZ?
+
+If price had broken the low of the CP (broken the low of the dotted blue rectangle) would that have been the same as saying "price broke out of the CP PAZ?"
+
+I have always understood a F/O as having a specific intent - they break a low or a high with the intention of trapping buyers/sellers and picking up remaining orders. In this example however, if this wick was a F/O, where did it find adequate 'buy' orders to push price forward? If you look left from where the wick ends, you will see compression already consumed the orders of the demand zone created after price flags. Here is a close up of what I am talking about:
+---END---
+##### hs_p15_365 hoeschec paras:3
+Here is a diagram that illustrates my basic question from Post # 364 above:
+
+The FTR shown by the dark blue rectangle looks legitimate and initially I would see a break of the low of this FTR as an engulf. In this case however, there is compression below the FTR. Does the location of CP in direct proximity to an important FL/FTR change how we should view price breaking in to these areas? If price breaks an original FL/FTR and engulfs in to a CP area, is it considered a F/O?
+
+Perhaps this is the concept behind the CP PAZ?
+---END---
+##### hs_p15_366 hoeschec paras:4
+Here is a good example of this question, with a current live chart USD-JPY:
+
+A possible EG in to an area of CP.
+
+Can this be traded as an EG, or should it be ignored since price broke in to a CP zone?
+
+Here is a similar example on GBP/JPY:
+---END---
+##### hs_p15_367 Crisaor paras:3
+Hello H. I haven't checked my charts yet, i don't know how that situation finished, so i'm answering just looking at your chart from yesterday. Please, remember i'm still learning so i could be completely wrong.
+
+I have done some notes in one of your charts. Have you tried to mark PAZ? Now that price has come into CP PAZ i would wait for a retrace to place my entry.
+
+I hope it helps you in some way. Alf.
+---END---
+##### hs_p15_368 hoeschec paras:3
+Hi Crisaor,
+
+I think you are correct about the CP PAZ.
+
+Thanks for your help!
+---END---
+##### hs_p15_369 hoeschec paras:4
+Here is a trade I took today. I didn't lose any money on it, but wasn't satisfied with my execution. I got in very late on a bullish QM for EUR-GBP.
+
+I saw the Bullish QM's target had not been hit so I went long to pick up the remaining pips. Although ultimately my analysis proved accurate, I got stuck in a two hour draw down before price move my way. I kept buying in to the drop as I felt price would still hit its target (opened a total of three positions).
+
+The R:R was terrible for this trade and it could have made a major dent in my account. I need to slow down, remain conservative, and only take trades that have strong R:R. The potential retrace (risk) of EUR-GBP was over twice the possible upside.
+
+Here is a 30-Min view
+---END---
+##### hs_p15_370 hoeschec paras:3
+Anyone else see this on EUR-AUD?
+
+Daily:
+
+4-Hour:
+---END---
+##### hs_p15_371 hoeschec paras:3
+EUR-AUD
+
+Here is an updated chart showing another possible QM.
+
+If this works out, the bullish QM will hit its target at the same time price reaches the Bearish QM.
+---END---
+##### hs_p15_372 hoeschec paras:5
+EUR-AUD:
+
+Here's a question I've been having lately...Which one of these three FL's represents the important/source FL need to be engulfed?
+
+I am guessing it is # 1 because #2 looks like a reaction to #1, and #3 looks like a reaction to #2.
+
+Anyone else agree with me?
+
+Thanks!
+---END---
+##### hs_p15_373 Rdk123 paras:1
+This could be a view...
+---END---
+##### hs_p15_374 hoeschec paras:6
+Hi Robbie!
+
+I am reading the charts you posted and have a couple questions:
+
+It looks like you drew similar levels as I did, however yours are a bit different. I marked up my specific question on the chart below but will describe my question here as well (for ease of communication I labeled the two areas we are looking at as "A" and "B". I see that your important FL is shown as "B". To me, it seems like "B" is just a FTB reaction to "A" (which would disqualify it as being a valid source/original FL/FTR). The closer I looked at your chart however, I began to see "B" as an FTR that formed at a S/R flip level (price broke below "A" and held with the formation of a new FTR). In this case, I suppose an EG of "B: would qualify as being a valid EG because "B" is an original FTR. Am I reading this right?
+
+Hopefully my questions makes sense. It is hard to communicate these concepts in writing
+
+Many thanks as always Robbie!!
+
+-H
+---END---
+##### hs_p15_375 Rdk123 paras:3
+Hi mate, on my H1 chart you 'A' is basically the decision that the FTR/FL reacts off so in reality I should have probably marked them as one zone but when you incorporate cp in to it and the need for the market to find liquidity you see where the market needs to go to facilitate trade.
+
+Hope that helps in some way.
+
+Robbie
+---END---

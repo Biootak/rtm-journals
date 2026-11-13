@@ -1,0 +1,51 @@
+===== bill-p2 : 10 posts =====
+--- bill_p2_26 author=Ifmyante hash=af24791c
+EN: I've just seen your post from the tenth.
+
+Have you gotten that worked out yet?
+FA: همین حالا پست روز دهمت را دیدم.
+
+تا الان توانسته‌ای جوابش را پیدا کنی؟
+--- bill_p2_27 author=Ifmyante hash=11a2600b
+EN: I'm confused by your last post I'm afraid
+
+By bullish and bearish flags, do you mean they've made engulfs up and down which haven't yet hit their targets? That's the only way something can have a direction.
+
+A and B may be in one scale, but C and D are absolutely lower scale, as neither of them have engulfed A or B.
+
+The engulf of something is PA if it didn't hit its target.
+
+That's all I can answer without more understanding your drawing, I'm afraid
+FA: متأسفانه پست آخرت برایم مبهم است
+
+منظورت از ساختارهای FLAG صعودی و نزولی این است که اینگالف‌هایی رو به بالا و پایین ایجاد کرده‌اند که هنوز به تارگت‌هایشان نرسیده‌اند؟ تنها در این حالت است که چیزی می‌تواند جهت داشته باشد.
+
+ممکن است A و B در یک مقیاس باشند، اما C و D قطعاً در مقیاس کوچک‌تری هستند، چون هیچ‌کدام A یا B را اینگالف نکرده‌اند.
+
+اینگالف یک ساختار وقتی PA محسوب می‌شود که آن ساختار به تارگتش نرسیده باشد.
+
+متأسفانه بدون اینکه منظورت را از ترسیمت بهتر بفهمم، فقط همین‌قدر می‌توانم پاسخ بدهم
+--- bill_p2_28 author=billmac3 hash=37cf27d1
+EN: Hi IF, sorry for the webinar problem. Those things can be very frustrating. As for the question from the 10th, was this a BSZ? That's the only explanation I can come up with. Thanks Bill
+FA: سلام IF، ببخش بابت مشکل وبینار. این چیزها می‌توانند خیلی آزاردهنده باشند. دربارهٔ سؤال روز 10، آیا این یک BSZ بود؟ تنها توضیحی است که به ذهنم می‌رسد. ممنون Bill
+--- bill_p2_29 author=billmac3 hash=33129b92
+EN: Hi IF - I believe the question I was trying to ask was answered by you in post #3303.
+FA: سلام IF - فکر می‌کنم سؤالی که می‌خواستم بپرسم را شما در پست #3303 پاسخ دادید.
+--- bill_p2_30 author=Ifmyante hash=d57c1cf5
+EN: Oh well, that's great then
+FA: خب، پس عالی است
+--- bill_p2_31 author=billmac3 hash=7b81fbc9
+EN: Merry Xmas and a Happy New Year to all of RTM. Here's hoping 2018 is our best yet!
+FA: کریسمس مبارک و سال نو مبارک به همهٔ RTM. امیدوارم 2018 بهترین سالمان باشد!
+--- bill_p2_32 author=billmac3 hash=fac859ad
+EN: I'll be looking for PA upon approach to the purple MPL line
+FA: به‌دنبال PA در نزدیک شدن به خط بنفش MPL خواهم بود
+--- bill_p2_33 author=billmac3 hash=10596cc7
+EN: This is for you AK - EG of FL after hitting W1 level of 1.2968. Will look for RT back to W1 level w/CP, BSZ or 3D. SL above MPL, TG1 is 1.2830, TG2 1.2240 because we're on a weekly scale? So we have 3 of your 4 criteria in place...
+FA: این برای تو AK - اینگالف FL بعد از برخورد با سطح W1 در 1.2968. به‌دنبال بازگشت به سطح W1 با CP، BSZ یا 3D خواهم بود. استاپ‌لاس بالای MPL، TG1 برابر 1.2830، TG2 برابر 1.2240 چون در مقیاس هفتگی هستیم؟ پس 3 مورد از 4 معیار تو را داریم...
+--- bill_p2_34 author=Astrokillah hash=4769afa6
+EN: oh.. which pair is this?
+FA: آها.. این کدام جفت‌ارز است؟
+--- bill_p2_35 author=billmac3 hash=dc2db26b
+EN: sorry the text didn't show up...USDCAD
+FA: ببخشید، متن نمایش داده نشد...USDCAD

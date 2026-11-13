@@ -1,0 +1,111 @@
+### kruger_p10_1
+EN: Hey Kruger, I wonder if afor example your market-buy-order places your line exactly where you clicked it (current price)? Or does it place it at the price where the offer(ASK) is? Cous i notice in my MT4, where ever current price is - it represent the BID.
+
+Thx:)
+FA: هی Kruger، کنجکاوم مثلاً سفارش بازارِ خریدت خط را دقیقاً همان‌جا که کلیک کردی می‌گذارد (قیمت فعلی)؟ یا در قیمتی می‌گذارد که عرضه (ASK) آنجاست؟ چون در MT4 من هر جا قیمت فعلی باشد، BID را نشان می‌دهد.
+
+ممنون:)
+
+### kruger_p10_2
+EN: Hi AERO,
+FA: سلام AERO،
+
+### kruger_p10_5
+EN: EURX in supply, USDX in demand.
+FA: EURX در عرضه، USDX در تقاضا.
+
+### kruger_p10_9
+EN: kruger wrote: EURX in supply, USDX in demand.
+
+Hey Kruger, Great trades - do you use eurx frequently as an indicator for eur pairs?
+
+:)
+FA: kruger نوشت: EURX در عرضه، USDX در تقاضا.
+
+هی Kruger، معامله‌های عالی - از eurx به‌عنوان شاخص جفت‌های یورو زیاد استفاده می‌کنی؟
+
+:)
+
+### kruger_p10_10
+EN: Hi Naughtypip:)
+
+yes for big picture view, less frequently when scalping.
+FA: سلام Naughtypip:)
+
+بله برای دید تصویر بزرگ، در اسکالپ کم‌تر.
+
+### kruger_p10_11
+EN: I was so late with this entry but it's still good for a scalp.
+FA: با این ورود خیلی دیر بودم اما هنوز برای یک اسکالپ خوب است.
+
+### kruger_p10_13
+EN: Hi Kruger I went short at the QM level after seeing the engulf of the low and got stopped out Just wandering what made you look for a long? Was it because the high was engulfed first and price was very bearish on approach of the lows, signalling a possible FO?
+FA: سلام Kruger من بعد از دیدن اینگالف کف در سطح QM شورت کردم و استاپ خوردم فقط می‌خواستم بدانم چه چیزی باعث شد دنبال لانگ بگردی؟ چون سقف اول اینگالف شد و قیمت هنگام نزدیک شدن به کف‌ها خیلی نزولی بود، نشانهٔ FO ممکن؟
+
+### kruger_p10_14
+EN: Hi Prosper, yes, you are right about higher engulf. This move was a nice engulf, but also consumption of supply above engulfed high. That is why QM level didn't hold.
+
+I was bullish because below engulfed low price had S/R level and small but nice pocket of demand, Also whole week was bullish which helped.
+FA: سلام Prosper، بله، دربارهٔ اینگالف بالاتر درست می‌گویی. این حرکت اینگالف خوبی بود، اما همچنین مصرف عرضهٔ بالای سقف اینگالف‌شده. همین است که سطح QM نگه نداشت.
+
+صعودی بودم چون زیر کف اینگالف‌شده قیمت سطح S/R داشت و جیب کوچک اما خوبی از تقاضا، همچنین کل هفته صعودی بود که کمک کرد.
+
+### kruger_p10_15
+EN: Last trade for this week. Let's see if price can fall through compression.
+FA: آخرین معاملهٔ این هفته. ببینیم قیمت می‌تواند از فشرده‌سازی بیفتد.
+
+### kruger_p10_16
+EN: USDX close to W1 S/R zone.
+FA: USDX نزدیک ناحیهٔ S/R هفتگی.
+
+### kruger_p10_17
+EN: Reasons behind Euro's rally..
+FA: دلایل رالی یورو..
+
+### kruger_p10_19
+EN: Update.
+FA: به‌روزرسانی.
+
+### kruger_p10_20
+EN: Hello!
+
+This is EUR index or something else as instrument? Because i'm using also one, but not with this kinda vlaues.
+FA: سلام!
+
+این شاخص EUR است یا چیز دیگری به‌عنوان ابزار؟ چون من هم یکی استفاده می‌کنم اما با این مقادیر نیست.
+
+### kruger_p10_21
+EN: Bushido wrote: Hello!
+
+This is EUR index or something else as instrument? Because i'm using also one, but not with this kinda vlaues.
+
+Hi Bushido, I use euro and dollar index available at Admiral Market, it's not trade-able.
+FA: Bushido نوشت: سلام!
+
+این شاخص EUR است یا چیز دیگری به‌عنوان ابزار؟ چون من هم یکی استفاده می‌کنم اما با این مقادیر نیست.
+
+سلام Bushido، من از شاخص یورو و دلار موجود در Admiral Market استفاده می‌کنم، قابل معامله نیست.
+
+### kruger_p10_22
+EN: Update.
+FA: به‌روزرسانی.
+
+### kruger_p10_23
+EN: My current EU. Had few buys on the way south (latest on chart) while holding short.
+FA: EU فعلی من. چند خرید در مسیر جنوب داشتم (آخری در چارت) در حالی که شورت را نگه داشته بودم.
+
+### kruger_p10_24
+EN: Shortly after the close of last long I added another short.
+
+Watching price, may bounce north again.
+FA: کمی بعد از بسته شدن آخرین لانگ، شورت دیگری اضافه کردم.
+
+قیمت را می‌پایم، ممکن است دوباره به شمال بانس کند.
+
+### kruger_p10_25
+EN: Hi Kruger, Were your entries for the last 3 charts triggered by the QM levels?
+
+Thanks
+FA: سلام Kruger، ورودهایت در 3 چارت آخر با سطوح QM فعال شدند؟
+
+ممنون

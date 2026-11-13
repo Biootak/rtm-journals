@@ -1,0 +1,310 @@
+### vitaldrug_p10_1
+EN: Pardon me, I am trying understand the sentences above. I will post what I think in a while.
+FA: ببخشید، دارم سعی می‌کنم جمله‌های بالا را بفهمم. کمی بعد آنچه فکر می‌کنم را می‌نویسم.
+
+### vitaldrug_p10_2
+EN: Ifmyante wrote: Okay
+
+To the last chart
+
+Seeing the note I put in the top corner, what would be the only two ways to guarantee that breaking A would bring price to B?
+
+One of the ways would be if there had already been an engulf down which
+didn't hit a target meaning that A was bound to break too
+
+I am sorry I don't understand this sentence. My mother tongue is not
+English. What I understand by this sentence is that, " I need to assume
+that if price break A and go to B, means that price will break X and go
+to Y. But How is it possible? And I see that A is already broken. Yeah. I
+ understand that price has already hit a target. But to me it seems like
+ it is not in the same scale. If anyone can explain this better, I would
+ be grateful.
+
+Here is what I see, (may not be correct). if, What I have marked with a
+circle is a DM, then we can assume that price go to the LSK 1 (it has
+not actually yet) and come down, breaking B and also A. Still I am not
+sure how IF's X and Y can be related to this.?
+FA: Ifmyante نوشت: باشه
+
+دربارهٔ چارت آخر
+
+با توجه به یادداشتی که در گوشهٔ بالا گذاشتم، تنها دو راه برای تضمین اینکه شکست A قیمت را به B می‌برد چه می‌توانند باشند؟
+
+یکی از راه‌ها این است که از قبل اینگالف رو به پایین رخ داده باشد که به تارگت نرسیده باشد؛ یعنی A هم محکوم به شکست بوده است
+
+ببخشید، این جمله را نمی‌فهمم. زبان مادری من انگلیسی نیست. آنچه از این جمله می‌فهمم این است: «باید فرض کنم اگر قیمت A را بشکند و به B برود، یعنی قیمت X را می‌شکند و به Y می‌رود. اما چطور ممکن است؟» و می‌بینم که A الان شکسته شده. بله، می‌فهمم که قیمت به تارگت رسیده. اما به‌نظر من در یک مقیاس نیست. اگر کسی بهتر توضیح دهد ممنون می‌شوم.
+
+این چیزی است که می‌بینم (شاید درست نباشد). اگر چیزی که با دایره علامت زده‌ام یک DM باشد، می‌توان فرض کرد قیمت به LSK 1 می‌رود (که واقعاً هنوز نرفته) و پایین می‌آید، B و همچنین A را می‌شکند. هنوز مطمئن نیستم X و Y مورد نظر IF چطور به این ربط پیدا می‌کند.؟
+
+### vitaldrug_p10_3
+EN: I'm all in favour of finding a scenario which promises a complete range fill to MPL, breaking all obstacles in its way.
+
+Testing it is very simple, so go for it
+FA: من کاملاً موافق یافتن سناریویی هستم که پر شدن کامل دامنه تا MPL را وعده دهد و همهٔ موانع سر راهش را بشکند.
+
+آزمودنش خیلی ساده است، پس برو برایش
+
+### vitaldrug_p10_4
+EN: Hi V,
+
+I think what IF meant is your FL A is not a valid FL, so engulfing A
+does not mean anything. The reason why FL A is not valid because the
+blue box is not FL so far as IF commented. The scenario is similar to
+"FL X", X looks like a FL, but it is not.
+
+IF's comments reminded me another important question. How/where to draw the FL? Is my drawing correct?
+FA: سلام V،
+
+فکر می‌کنم منظور IF این است که FL A تو یک FL معتبر نیست، پس اینگالف شدن A معنایی ندارد. دلیلش این است که جعبهٔ آبی، آن‌طور که IF گفت، FL نیست. ماجرا شبیه «FL X» است؛ X شبیه FL است ولی FL نیست.
+
+کامنت IF یک پرسش مهم دیگر را یادم انداخت. FL را چطور و کجا باید رسم کرد؟ رسم من درست است؟
+
+### vitaldrug_p10_5
+EN: I watched the 1st video again and again. So we can only draw a FL if
+the price has hit the target. And UFL is created by breaking a LFL and
+hitting the target. LFL is created by breaking a UFL and then hitting
+the target. Still we need to define the LFL and UFL, because world first
+ ever UFL/LFL will not have a LFL/UFL to the left side. In that case I
+think we can consider breaking a high/low to the left and then hitting a
+ target as a FL. I was practicing drawing FLs for a long time believing
+that FL is a kink that break something very important (such as, Pre-CP,
+Tip of the CP, high low, another FL..) which later price hits its
+target.
+
+Next thing is defining the target. So a target can be a UFL, LFL, or Ignored QM level or a LSK. I think it hasn't changed yet :)
+
+IF, I am seeing setups very similar to the EURUSD one. In HTF, we have a
+ FL, then price engulf the mouth FL of that HTF FL, retraces back to a
+local LSK, where we can actually short, which has a strong possibility
+(small probability :) ) .
+
+One is shown below. Purple color rectangle is a FL ( let me know if
+not). Then its mouth FL is the FL 1. Price it the MPL of a LSK marked
+with orange color in the top, then engulf down the FL1. Then retraces
+back up to the Local LSK 4. Now I am waiting at FL 2, which is another
+LSK.
+
+HTF
+
+LTF
+FA: ویدئوی اول را بارها و بارها دیدم. پس فقط وقتی می‌توانیم FL رسم کنیم که قیمت به تارگت رسیده باشد. و UFL با شکستن یک LFL و رسیدن به تارگت ساخته می‌شود. LFL هم با شکستن یک UFL و بعد رسیدن به تارگت ساخته می‌شود. هنوز باید LFL و UFL را تعریف کنیم، چون اولین UFL/LFL جهان هیچ LFL/UFL‌ی در سمت چپ ندارد. در آن حالت فکر می‌کنم می‌توان شکستن یک سقف/کف در سمت چپ و بعد رسیدن به تارگت را FL دانست. مدت زیادی تمرین رسم FL می‌کردم با این باور که FL همان کینکی است که چیز مهمی را می‌شکند (مثل Pre-CP، نوک CP، سقف/کف، یک FL دیگر..) و بعداً قیمت به تارگتش می‌رسد.
+
+نکتهٔ بعدی تعریف تارگت است. پس تارگت می‌تواند یک UFL، LFL، سطح QM نادیده‌گرفته‌شده یا یک LSK باشد. فکر می‌کنم هنوز تغییر نکرده :)
+
+IF، ستاپ‌هایی خیلی شبیه به EURUSD می‌بینم. در HTF یک FL داریم، بعد قیمت دهانهٔ FL آن HTF را اینگالف می‌کند، به یک LSK محلی برمی‌گردد که آنجا واقعاً می‌توان شورت کرد و احتمال قوی دارد (احتمال کوچک :) ).
+
+یکی از آن‌ها پایین نشان داده شده. مستطیل بنفش یک FL است (اگر نیست بگویید). دهانهٔ آن، FL 1 است. قیمت به MPL یک LSK که با رنگ نارنجی در بالا علامت زده‌ام رسید، بعد FL1 را رو به پایین اینگالف کرد. سپس به LSK محلی 4 برمی‌گردد. الان منتظر FL 2 هستم که خودش یک LSK دیگر است.
+
+HTF
+
+LTF
+
+### vitaldrug_p10_6
+EN: Hi V,
+
+I believe DP is also a target. Recall that in post #213, price engulfed FL but hit a DP, and bounced strongly up?
+
+cheers
+
+AK
+
+ViTaLDRuG wrote: Next thing is
+defining the target. So a target can be a UFL, LFL, or Ignored QM level
+or a LSK. I think it hasn't changed yet :)
+FA: سلام V،
+
+به گمانم DP هم یک تارگت است. یادت هست در پست 213 قیمت FL را اینگالف کرد ولی به DP رسید و به‌شدت بالا برگشت؟
+
+درود
+
+AK
+
+ViTaLDRuG نوشت: حالا برسیم به تعریف تارگت. خود تارگت می‌تواند یک UFL یا یک LFL یا سطح QM نادیده‌گرفته‌شده یا یک LSK باشد. فکر می‌کنم هنوز تغییر نکرده :)
+
+### vitaldrug_p10_7
+EN: DP is a FL. Is it not? DP is where it is decided price is too expensive or too cheap.Astrokillah wrote: Hi V,
+
+I believe DP is also a target. Recall that in post #213, price engulfed FL but hit a DP, and bounced strongly up?
+
+cheers
+
+AK
+
+ViTaLDRuG wrote: Next thing is
+ defining the target. So a target can be a UFL, LFL, or Ignored QM level
+ or a LSK. I think it hasn't changed yet :)
+FA: DP یک FL است. نه؟ DP همان جایی است که تصمیم گرفته می‌شود قیمت بیش از حد گران یا بیش از حد ارزان است. Astrokillah نوشت: سلام V،
+
+به گمانم DP هم یک تارگت است. یادت هست در پست 213 قیمت FL را اینگالف کرد ولی به DP رسید و به‌شدت بالا برگشت؟
+
+درود
+
+AK
+
+ViTaLDRuG نوشت: حالا برسیم به تعریف تارگت. خود تارگت می‌تواند یک UFL یا یک LFL یا سطح QM نادیده‌گرفته‌شده یا یک LSK باشد. فکر می‌کنم هنوز تغییر نکرده :)
+
+### vitaldrug_p10_8
+EN: Err..
+FA: اِ..
+
+### vitaldrug_p10_9
+EN: How is this possible? It should have been activated no matter of how high your spread was. I dont get it
+FA: چطور ممکن است؟ مهم نیست اسپردت چقدر بالا بود، باید فعال می‌شد. سر در نمی‌آورم
+
+### vitaldrug_p10_10
+EN: On my chart
+
+ask 1,20815 bid 1,20813
+
+but
+
+as far as I know there could be a exchange and there was not enought
+offers for you. Someday I found out that if you even trade on real
+market(not in just MM) you will always be next in queue after big banks
+and institutions, so that situation could happen even if your broker is
+ECN and he just intermediate between you and the market - unless your
+broker guarantee you will take every price there is
+FA: روی چارت من
+
+ask 1,20815 bid 1,20813
+
+اما
+
+تا آنجا که می‌دانم ممکن است صرافی‌ای باشد و پیشنهاد کافی برای تو نبوده. یک روز فهمیدم حتی اگر در بازار واقعی معامله کنی (نه فقط در MM)، همیشه بعد از بانک‌های بزرگ و موسسات در صف می‌ایستی؛ پس آن وضعیت می‌تواند رخ دهد حتی اگر بروکرت ECN باشد و فقط واسطهٔ تو و بازار باشد — مگر اینکه بروکر تضمین کند هر قیمتی که هست را برای تو می‌گیرد
+
+### vitaldrug_p10_11
+EN: Enkim wrote: How is this possible? It should have been activated no matter of how high your spread was. I dont get it
+
+This was not the first time, It happened sometime back. I am waiting for another engulf and retrace.. Lets see.. :)
+FA: Enkim نوشت: چطور ممکن است؟ مهم نیست اسپردت چقدر بالا بود، باید فعال می‌شد. سر در نمی‌آورم
+
+این اولین بار نبود، قبلاً هم چند وقت پیش رخ داد. منتظر یک اینگالف و برگشت دیگر هستم.. ببینیم.. :)
+
+### vitaldrug_p10_12
+EN: EURJPY - A pair I never have traded before.
+
+Past
+
+It was a kink made at the Pre-CP. Inside the kink there was a CP too.
+But it didnt hold price. Price went to the MPL of that kink in present
+
+Present
+
+Price FOed to the green upper area, then made a nice QM. breaking the
+mouth FL of the bigger FL. So my expectation is that price will go down
+to the MPL of the big FL.
+
+Trade
+
+This has two trades, second trade is just a bounce from the FL X in the
+above image. If FL X is engulfed in the future, i think it will be a big
+ move down.
+FA: EURJPY — جفتی که هرگز معامله نکرده‌ام.
+
+گذشته
+
+کینکی بود که روی Pre-CP ساخته شد. داخل کینک یک CP هم بود. اما قیمت را نگه نداشت. قیمت به MPL آن کینک رفت.
+
+حال
+
+قیمت به ناحیهٔ سبز بالا FO کرد، بعد یک QM خوب ساخت و دهانهٔ FL بزرگ‌تر را شکست. پس انتظارم این است که قیمت تا MPL آن FL بزرگ پایین برود.
+
+معامله
+
+این دو معامله دارد؛ معاملهٔ دوم فقط یک برگشت از FL X در تصویر بالاست. اگر FL X در آینده اینگالف شود، فکر می‌کنم حرکت بزرگی رو به پایین خواهد بود.
+
+### vitaldrug_p10_13
+EN: This one, which I failed to put a pending order yesterday :( A perfect
+ DM. Breaking the Mouth FL then running it down to the MPL. I am seeing
+this pattern over and over again.. But here is a HTF trade in the same
+setup, We can still enter.
+
+Past
+
+Present
+FA: این یکی، که دیروز نتوانستم سفارش معلق برایش بگذارم :( یک DM بی‌نقص. شکستن دهانهٔ FL و بعد دویدن تا MPL. این الگو را بارها و بارها می‌بینم.. اما اینجا یک معاملهٔ HTF با همان ستاپ داریم، هنوز می‌توانیم وارد شویم.
+
+گذشته
+
+حال
+
+### vitaldrug_p10_14
+EN: Here is a missing trade in the same EURAUD setup. It was a perfect diamond. Note that in HTF, we still have a trade.
+FA: این هم یک معاملهٔ ازدست‌رفته در همان ستاپ EURAUD. یک الماس بی‌نقص بود. توجه کن که در HTF هنوز یک معامله داریم.
+
+### vitaldrug_p10_15
+EN: I got that one
+FA: آن یکی را گرفتم
+
+### vitaldrug_p10_16
+EN: Great! :D
+FA: عالی! :D
+
+### vitaldrug_p10_17
+EN: Price broke the below Green FL (FL x) and entered the CPZ. Now if price retraces back up, it will be a much bigger trade :)
+
+I am waiting till price re-visits there. ViTaLDRuG wrote:
+
+Present
+
+Price FOed to the green upper area, then made a nice QM. breaking the
+mouth FL of the bigger FL. So my expectation is that price will go down
+to the MPL of the big FL.
+FA: قیمت FL سبز پایین (FL x) را شکست و وارد CPZ شد. الان اگر قیمت به بالا برگردد، معاملهٔ خیلی بزرگ‌تری خواهد بود :)
+
+منتظرم قیمت دوباره به آنجا برگردد. ViTaLDRuG نوشت:
+
+حال
+
+قیمت به ناحیهٔ سبز بالا FO کرد، بعد یک QM خوب ساخت و دهانهٔ FL بزرگ‌تر را شکست. پس انتظارم این است که قیمت تا MPL آن FL بزرگ پایین برود.
+
+### vitaldrug_p10_18
+EN: This was a great Trade for me.. :) SL is invisible as it was higher in
+ the chart. I will provide the analysis, if anyone needs.
+FA: این معاملهٔ خیلی خوبی برایم بود.. :) استاپ‌لاس در چارت دیده نمی‌شود چون بالاتر بود. اگر کسی لازم دارد، تحلیلش را ارائه می‌دهم.
+
+### vitaldrug_p10_19
+EN: ViTaLDRuG wrote: This was a
+great Trade for me.. :) SL is invisible as it was higher in the chart. I
+ will provide the analysis, if anyone needs.
+
+Let me have a try :D. But the question I have is, that did you enter trade based on the LS only?
+
+Dengaima
+FA: ViTaLDRuG نوشت: این معاملهٔ خیلی خوبی برایم بود.. :) استاپ‌لاس در چارت دیده نمی‌شود چون بالاتر بود. اگر کسی لازم دارد، تحلیلش را ارائه می‌دهم.
+
+بگذار من هم امتحان کنم :D. اما پرسشی که دارم این است: آیا فقط بر اساس LS وارد معامله شدی؟
+
+Dengaima
+
+### vitaldrug_p10_20
+EN: Hi Dengaima,
+
+You have marked it right. :) You can add more to that chart in LTF. We have the LTF LS and the lTF confirmation (CP).
+FA: سلام Dengaima،
+
+درست علامت زده‌ای. :) می‌توانی چیزهای بیشتری به آن چارت در LTF اضافه کنی. ما LS روی LTF و تأیید lTF (CP) را داریم.
+
+### vitaldrug_p10_21
+EN: Another EURUSD trade.
+FA: یک معاملهٔ EURUSD دیگر.
+
+### vitaldrug_p10_22
+EN: What the hell!!
+FA: چه خبر است!!
+
+### vitaldrug_p10_24
+EN: Hello everyone!
+
+After some time, got some spare time to do a trade. I have been very busy with my work. So this time it is a HTF trade.
+
+HTF
+
+LTF
+FA: سلام به همه!
+
+بعد از مدتی، کمی وقت آزاد پیدا کردم برای یک معامله. خیلی درگیر کارم بودم. پس این بار یک معاملهٔ HTF است.
+
+HTF
+
+LTF

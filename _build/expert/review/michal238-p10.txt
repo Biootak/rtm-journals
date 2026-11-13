@@ -1,0 +1,695 @@
+### michal238_p10_1
+EN: Thanks Michal, now its much clear for me!Michal238 wrote: Hi guys.
+
+naascott
+
+There are few things I want to see when I'm looking for good DP:
+
+- it can be located on swap zone
+
+- FO zone can be created below it ( short scenario)
+
+- also I like to see CP above strong DP - if price is compressed above,
+then it is more likely that price will be reversed on this DP - it is
+only fresh DP in the area
+
+DP is a barrier to ITs, because another sellers are waiting on this
+level (short scenario), so they need to do their manipulations before
+price reaches it - they need to create LQ and when they do that we see
+reversal patterns, FO zones etc.
+
+bobyv87
+
+FL and PAZ between them work in every TF, therefore some FLs are more
+important than others, smaller or bigger FLs. There are diffrent
+cycles.
+
+It's quite difficult to learn spot all of this correctly but with a lot
+of practice it will become clear. And don't forget to look left:
+
+Markers are usually small FLs - ITs use them to reverse price before DP.
+ I like to see when price bouces from this level few times - it creates
+FO zone below DP which provides LQ for ITs. I enter on FO to DP after
+confirmation - in this case it was eng into CPPAZ on approach. I thik
+that after this reversal PA SL can be above DP (grey box - because it is
+ FL in itself - you can see this on m1 chart). But if situation is not
+very clear then you may use wider SL.
+FA: ممنون Michal، حالا برایم خیلی روشن‌تر شد! Michal238 نوشت: سلام بچه‌ها.
+
+naascott
+
+چند چیز هست که وقتی دنبال DP خوب می‌گردم می‌خواهم ببینم:
+
+- می‌تواند در ناحیهٔ سوآپ قرار بگیرد
+
+- ناحیهٔ FO می‌تواند زیرش ساخته شود (سناریوی فروش)
+
+- همچنین دوست دارم CP را بالای DP قوی ببینم - اگر قیمت بالا فشرده شده باشد، احتمال بیشتری دارد که قیمت روی این DP برگردانده شود - تنها DP تازه در آن ناحیه است
+
+DP برای ITs یک سد است، چون فروشندگان دیگر روی این سطح منتظرند (سناریوی فروش)، پس باید قبل از اینکه قیمت به آن برسد دستکاری‌هایشان را انجام بدهند - باید LQ بسازند و وقتی این کار را می‌کنند الگوهای برگشتی، نواحی FO و غیره را می‌بینیم.
+
+bobyv87
+
+FL و PAZ و فاصلهٔ میانشان در هر TF کار می‌کنند، بنابراین بعضی FL‌ها از بعضی دیگر مهم‌ترند، FL‌های کوچک‌تر یا بزرگ‌تر. سیکل‌های مختلفی وجود دارد.
+
+یاد گرفتن اینکه همهٔ این‌ها را درست تشخیص بدهی نسبتاً سخت است، اما با تمرین زیاد روشن می‌شود. و یادت نرود به سمت چپ نگاه کنی:
+
+مارکرها معمولاً FL‌های کوچک هستند - ITs از آن‌ها برای برگرداندن قیمت قبل از DP استفاده می‌کنند. دوست دارم ببینم قیمت چند بار از این سطح بازگشت می‌کند - این ناحیهٔ FO زیر DP می‌سازد که LQ برای ITs فراهم می‌کند. من بعد از تأیید روی FO به DP وارد می‌شوم - در این مورد وقتی قیمت نزدیک می‌شد، اینگالف به CPPAZ بود. فکر می‌کنم بعد از این برگشت PA، SL می‌تواند بالای DP باشد (باکس خاکستری - چون خودش یک FL است - می‌توانی این را در چارت m1 ببینی). اما اگر وضعیت خیلی روشن نباشد، می‌توانی از SL گشادتر استفاده کنی.
+
+### michal238_p10_2
+EN: Hello Michal! Now, i have another problem! How to define cycles. Do
+you look for swings and mark all FTRs from the extreme. Another
+missunderstanding: see the picture:
+
+bobyv87 wrote: Thanks Michal, now its much clear for me!
+Michal238 wrote: Hi guys.
+
+naascott
+
+There are few things I want to see when I'm looking for good DP:
+
+- it can be located on swap zone
+
+- FO zone can be created below it ( short scenario)
+
+- also I like to see CP above strong DP - if price is compressed above,
+then it is more likely that price will be reversed on this DP - it is
+only fresh DP in the area
+
+DP is a barrier to ITs, because another sellers are waiting on this
+level (short scenario), so they need to do their manipulations before
+price reaches it - they need to create LQ and when they do that we see
+reversal patterns, FO zones etc.
+
+bobyv87
+
+FL and PAZ between them work in every TF, therefore some FLs are more
+important than others, smaller or bigger FLs. There are diffrent
+cycles.
+
+It's quite difficult to learn spot all of this correctly but with a lot
+of practice it will become clear. And don't forget to look left:
+
+Markers are usually small FLs - ITs use them to reverse price before DP.
+ I like to see when price bouces from this level few times - it creates
+FO zone below DP which provides LQ for ITs. I enter on FO to DP after
+confirmation - in this case it was eng into CPPAZ on approach. I thik
+that after this reversal PA SL can be above DP (grey box - because it is
+ FL in itself - you can see this on m1 chart). But if situation is not
+very clear then you may use wider SL.
+FA: سلام Michal! حالا یک مشکل دیگر دارم! چطور سیکل‌ها را تعریف کنم. آیا دنبال سوئینگ‌ها می‌گردی و همهٔ FTR‌ها را از نقطهٔ انتهایی علامت می‌زنی. یک سوءتفاهم دیگر: عکس را ببین:
+
+bobyv87 نوشت: ممنون Michal، حالا برایم خیلی روشن‌تر شد!
+Michal238 نوشت: سلام بچه‌ها.
+
+naascott
+
+چند چیز هست که وقتی دنبال DP خوب می‌گردم می‌خواهم ببینم:
+
+- می‌تواند در ناحیهٔ سوآپ قرار بگیرد
+
+- ناحیهٔ FO می‌تواند زیرش ساخته شود (سناریوی فروش)
+
+- همچنین دوست دارم CP را بالای DP قوی ببینم - اگر قیمت بالا فشرده شده باشد، احتمال بیشتری دارد که قیمت روی این DP برگردانده شود - تنها DP تازه در آن ناحیه است
+
+DP برای ITs یک سد است، چون فروشندگان دیگر روی این سطح منتظرند (سناریوی فروش)، پس باید قبل از اینکه قیمت به آن برسد دستکاری‌هایشان را انجام بدهند - باید LQ بسازند و وقتی این کار را می‌کنند الگوهای برگشتی، نواحی FO و غیره را می‌بینیم.
+
+bobyv87
+
+FL و PAZ و فاصلهٔ میانشان در هر TF کار می‌کنند، بنابراین بعضی FL‌ها از بعضی دیگر مهم‌ترند، FL‌های کوچک‌تر یا بزرگ‌تر. سیکل‌های مختلفی وجود دارد.
+
+یاد گرفتن اینکه همهٔ این‌ها را درست تشخیص بدهی نسبتاً سخت است، اما با تمرین زیاد روشن می‌شود. و یادت نرود به سمت چپ نگاه کنی:
+
+مارکرها معمولاً FL‌های کوچک هستند - ITs از آن‌ها برای برگرداندن قیمت قبل از DP استفاده می‌کنند. دوست دارم ببینم قیمت چند بار از این سطح بازگشت می‌کند - این ناحیهٔ FO زیر DP می‌سازد که LQ برای ITs فراهم می‌کند. من بعد از تأیید روی FO به DP وارد می‌شوم - در این مورد وقتی قیمت نزدیک می‌شد، اینگالف به CPPAZ بود. فکر می‌کنم بعد از این برگشت PA، SL می‌تواند بالای DP باشد (باکس خاکستری - چون خودش یک FL است - می‌توانی این را در چارت m1 ببینی). اما اگر وضعیت خیلی روشن نباشد، می‌توانی از SL گشادتر استفاده کنی.
+
+### michal238_p10_3
+EN: Just when I start to think I'm getting a handle on things, I come here
+ and realise there's a another whole level I need to be considering!
+
+Love your work pal. Have you received any academy training, or all this
+is just what you've pieced together through RTM lessons and journals?
+FA: دقیقاً وقتی شروع می‌کنم به این فکر کردن که دارم از عهدهٔ کارها برمی‌آیم، می‌آیم اینجا و می‌فهمم یک لایهٔ کاملاً دیگر هم هست که باید در نظر بگیرم!
+
+کارت را دوست دارم رفیق. آیا آموزش آکادمی دیده‌ای، یا همهٔ این‌ها چیزی است که خودت از درس‌ها و ژورنال‌های RTM کنار هم گذاشته‌ای؟
+
+### michal238_p10_4
+EN: Sorry for long reply time guys, I have been really busy lately.
+
+bobyv87
+
+To define cycles you have to evaluate importance of FL. I'm not an
+expert at this yet, because I still have some things to learn about PAZ,
+ but with practice I am more and more often able to spot this correctly
+on chart. I find it difficult to explain though. You have to think
+about space between FL's. When you find space that is limited from both
+ sides by FL's, then after eng you expect price to go to next FL in
+direction of eng. Befere this happens price creates Fls as it retraces,
+but these FLs don't affect main move. They work in different cycles.
+
+Blue box that you marked is not FTR. It is reaction to DP on QM lvl. It
+is high that didn't engulf anything. Price engulfed FL at 3 and FL was
+made at 4.
+
+smimon
+
+I learned all of this from free RTM, and by doing price reading on historic data. I still have a lot to learn though .
+FA: ببخشید که دیر جواب می‌دهم بچه‌ها، اخیراً واقعاً سرم شلوغ بوده.
+
+bobyv87
+
+برای تعریف سیکل‌ها باید اهمیت FL را بسنجی. من هنوز در این کار متخصص نیستم، چون هنوز چیزهایی دربارهٔ PAZ هست که باید یاد بگیرم، اما با تمرین بیشتر و بیشتر می‌توانم این را درست روی چارت تشخیص بدهم. با این حال توضیح دادنش را سخت می‌بینم. باید به فاصلهٔ بین FL‌ها فکر کنی. وقتی فضایی پیدا کنی که از دو طرف با FL محدود شده، بعد از اینگالف انتظار داری قیمت در جهت اینگالف به FL بعدی برود. قبل از اینکه این اتفاق بیفتد، قیمت همان‌طور که اصلاح می‌کند FL‌هایی می‌سازد، اما این FL‌ها روی حرکت اصلی تأثیر نمی‌گذارند. آن‌ها در سیکل‌های مختلف کار می‌کنند.
+
+باکس آبی که علامت زده‌ای FTR نیست. این واکنش به DP در سطح QM است. سقفی است که چیزی را اینگالف نکرد. قیمت در 3 FL را اینگالف کرد و FL در 4 ساخته شد.
+
+smimon
+
+همهٔ این‌ها را از RTM رایگان یاد گرفتم، و با خواندن قیمت روی داده‌های تاریخی. با این حال هنوز چیزهای زیادی برای یاد گرفتن دارم.
+
+### michal238_p10_5
+EN: This is example of setup where I can see exactly what is happening. I still manged to miss it though
+FA: این نمونه‌ای از ستاپی است که در آن دقیقاً می‌بینم چه اتفاقی می‌افتد. با این حال باز هم موفق شدم از دستش بدهم.
+
+### michal238_p10_6
+EN: I enjoy every single post of yours, had learn so much from you
+FA: از تک‌تک پست‌هایت لذت می‌برم، از تو خیلی یاد گرفته‌ام
+
+### michal238_p10_7
+EN: Hi Michal, the last post helped me to understand much better the IT
+thinking. My problem is FO zones. How, and where you look for this FO
+zones? Thanks!
+FA: سلام Michal، پست آخر خیلی کمکم کرد که تفکر IT را بهتر بفهمم. مشکل من نواحی FO است. این نواحی FO را چطور و کجا جست‌وجو می‌کنی؟ ممنون!
+
+### michal238_p10_8
+EN: Hi Michal!
+
+Great analysis for NZDUSD. You didn't miss your trade, your broker's feed did
+
+You should have hit your PO line because in Oanda or FXCM, the low is
+different with yours. Have a look at tradingview (they use FXCM feed),
+the low should has triggered your order and you are in the way to the
+top with massive RR. :)
+
+Here is Tradingview version, low was at 0.76924:
+
+And here is Oanda feed, low was at 0.76914:
+
+Compare them with ICmarket's feed (which is almost like yours I guess), where the low is at 0.76999:
+
+IC has the highest low, which is around 8 pips of difference from Oanda.
+ While FXCM and oanda is only 1 pips, which is pretty acceptable.
+FA: سلام Michal!
+
+تحلیل عالی برای NZDUSD. تو معامله‌ات را از دست ندادی، فید بروکرت داد
+
+باید خط PO را لمس می‌کردی، چون در Oanda یا FXCM کف با مال تو فرق دارد. در tradingview نگاه کن (آن‌ها از فید FXCM استفاده می‌کنند)، کف باید سفارشت را فعال کرده باشد و تو در مسیر رسیدن به سقف با RR عظیم باشی. :)
+
+این هم نسخهٔ Tradingview، کف در 0.76924 بود:
+
+و این هم فید Oanda، کف در 0.76914 بود:
+
+آن‌ها را با فید ICmarket مقایسه کن (که حدس می‌زنم تقریباً مثل مال توست)، که کف در آن 0.76999 است:
+
+IC بالاترین کف را دارد که حدود 8 پیپ با Oanda فرق دارد. در حالی که FXCM و oanda فقط 1 پیپ فرق دارند، که کاملاً قابل قبول است.
+
+### michal238_p10_9
+EN: Hi Michal I just want to drop by and say thank you and I have learned
+so much from your post. Your previous post where you talk about scales
+and cycles in the chart hit a note in me. I think you will do very well
+in your pursuit.
+FA: سلام Michal، فقط آمدم سر بزنم و تشکر کنم؛ از پستت خیلی یاد گرفته‌ام. پست قبلی‌ات که دربارهٔ مقیاس‌ها و سیکل‌ها در چارت حرف زدی، به دلم نشست. فکر می‌کنم در کاری که دنبالش هستی خیلی موفق می‌شوی.
+
+### michal238_p10_10
+EN: bobyv I started to notice FO zones when I tried to think about
+ ITs and how they need to create LQ by hunting for stops and making BO
+traders open wrong positions. I don't trade when I see only FO zone - it
+ is not enough. FO zone is most of the times just a part of good setup.
+
+I can distinguish 2 types of setups with FO zones:
+
+- First one is setup where there is already a FO zone created before
+price arrives at particular lvl. For example there is nice fresh FTR and
+ sing high / swing higs below it ( short scenario ). You definitely need
+ confirmation PA in setup like this one on approach and reaction.
+
+- Second one is creating LQ after price shown reversal signals (ENG).
+
+This setup combines these 2 types:
+FA: bobyv، نواحی FO را وقتی شروع کردم به دیدن که سعی کردم به ITs فکر کنم و به اینکه چطور با شکار استاپ‌ها و وادار کردن معامله‌گران BO به باز کردن پوزیشن‌های اشتباه، باید LQ بسازند. وقتی فقط ناحیهٔ FO را می‌بینم معامله نمی‌کنم - کافی نیست. ناحیهٔ FO بیشتر وقت‌ها فقط بخشی از یک ستاپ خوب است.
+
+می‌توانم 2 نوع ستاپ با ناحیهٔ FO را از هم تشخیص بدهم:
+
+- نوع اول ستاپی است که در آن، پیش از رسیدن قیمت به یک سطح مشخص، ناحیهٔ FO از قبل ساخته شده است. برای نمونه یک FTR تازهٔ خوب هست و زیرش سقف سوئینگ/سقف‌های سوئینگ قرار دارند (سناریوی فروش). در ستاپی مثل این، در نزدیک‌شدن و در واکنش، قطعاً به PA تأییدی نیاز داری.
+
+- نوع دوم ساختن LQ بعد از اینکه قیمت سیگنال‌های برگشت (ENG) را نشان داد.
+
+این ستاپ این 2 نوع را با هم ترکیب می‌کند:
+
+### michal238_p10_11
+EN: some swaps, FTRs and two quasimodos on AU
+FA: چند سوآپ، FTR و دو QM روی AU
+
+### michal238_p10_12
+EN: Michal great work , helped me to see things I had no idea were there.
+Thanks a lot for that. Easiest for me to see is Faked Out FTR/Q level
+after previous engulf of FTR in opposite direction. I have couple
+questions to clarify...I`ll use gold setup from past.
+
+What needs to be engulfed by movement up from FO level before return to it? FTR in RBD(1,2,3) or even FTR above?
+
+And more less a statement in green on the chart I am not sure about(for clarification).
+
+Thanks
+
+K
+FA: Michal کارت عالی بود، کمکم کرد چیزهایی را ببینم که هیچ ایده‌ای نداشتم وجود دارند. خیلی ممنون برای این. آسان‌ترین چیزی که من می‌بینم، سطح FTR/Q فیک‌اوت‌شده بعد از اینگالف قبلی FTR در جهت مخالف است. چند سؤال برای روشن شدن دارم... از ستاپ طلا در گذشته استفاده می‌کنم.
+
+چه چیزی باید با حرکت صعودی از سطح FO، قبل از بازگشت به آن، اینگالف شود؟ FTR در RBD(1,2,3) یا حتی FTR بالاتر؟
+
+و کمابیش یک جملهٔ سبزرنگ روی چارت که دربارهٔ آن مطمئن نیستم (برای روشن شدن).
+
+ممنون
+
+K
+
+### michal238_p10_13
+EN: Hi kos, the right most of your chart, the right most of the blue
+retangle, you mart FO/Q level, why is it a QM level? can you mark the Hs
+ and Ls? Thank you
+FA: سلام kos، سمت راست‌ترین قسمت چارتت، سمت راست‌ترین قسمت مستطیل آبی، سطح FO/Q را علامت زده‌ای، چرا سطح QM است؟ می‌توانی Hs و Ls را علامت بزنی؟ ممنون
+
+### michal238_p10_14
+EN: Hi black.
+
+here it is I did not include reaction, cause the pic would be too large check it on your chart 6th November 2014-Gold.
+FA: سلام black.
+
+بفرما. واکنش را نیاوردم، چون عکس خیلی بزرگ می‌شد؛ روی چارت خودت 6th November 2014-Gold را ببین.
+
+### michal238_p10_15
+EN: Hi Michal I have a question, it may be very basic but I cannot figure
+it out for the world. How do you know which FTR is more important and
+which is less important..
+
+Is it about how many reactions does previous FTR have to it. or how big
+move does finally break it? Or is it about the history on that
+particular FTR how DP`s and previous FTR`s line up with it? Cause as I
+perceive it now some FTR`s when engulfed really show the way where
+market wants to go and some not, but maybe those are just fakeouts and I
+ have it wrong.
+
+Thanks
+FA: سلام Michal، یک سؤال دارم، ممکن است خیلی ابتدایی باشد اما هرچه می‌کنم نمی‌توانم حلش کنم. از کجا می‌دانی کدام FTR مهم‌تر و کدام کم‌اهمیت‌تر است..
+
+آیا به این مربوط است که FTR قبلی چند واکنش به آن داشته. یا حرکتی که در نهایت آن را می‌شکند چقدر بزرگ است؟ یا به تاریخچهٔ همان FTR خاص مربوط است، که DP‌ها و FTR‌های قبلی چطور با آن هم‌راستا می‌شوند؟ چون همان‌طور که الان درک می‌کنم، بعضی FTR‌ها وقتی اینگالف می‌شوند واقعاً راهی را نشان می‌دهند که بازار می‌خواهد برود و بعضی نه، اما شاید آن‌ها فقط فیک‌اوت باشند و من اشتباه فهمیده باشم.
+
+ممنون
+
+### michal238_p10_16
+EN: I had to take a break from trading and pass some exams, sorry for leaving my journal. I'm going to post more regurarly now.
+
+I'm working on self mastery, and I practice decision making and analisys on FT2.
+
+I'll start live trading after few more weeks of preparation. I have long list of rules and I'm polishing my trading plan.
+
+In next few weeks, I'll trade on demo account (also FT2) focusing on taking confirmed entries that fit into my trading plan.
+
+I'll write more about my rules and trading plan soon.
+
+Befere I left there was a question about importance of FTRs. This is something that can not be answered in one post.
+
+The best way to learn this is to collect all great posts about FTRs/FLs, study them, and then practice.
+
+Mark all FL in different TFs and see how they interact with each other. When you don't know why something happend,
+
+write question on the chart, make some assumptions. Then go to then next example and do the same thing.
+
+There is finite number of "setups" in the market ( olny shapes may be a bit different) so sooner or later
+
+you'll find answers to your questions.
+
+Here is my RTM folder. I learn about FLs using method I described above:
+
+Today I took this trade on GOLD. Entered a bit too late, it was possible to get better RR from this:
+
+I recently started to watch TFs lower than M1 because there is a lot of great scalp opportunities that can not
+
+be seen so easily on m1, and sometimes it is impossible to mark all FLs precisely on m1.
+FA: مجبور شدم از معامله‌گری وقفه بگیرم و چند امتحان پاس کنم؛ ببخشید که ژورنالم را رها کردم. از حالا منظم‌تر پست می‌گذارم.
+
+روی تسلط بر خودم کار می‌کنم و تصمیم‌گیری و تحلیل را روی FT2 تمرین می‌کنم.
+
+بعد از چند هفتهٔ دیگر آماده‌سازی، معامله‌گری لایو را شروع می‌کنم. فهرست بلندی از قواعد دارم و دارم پلن معاملاتی‌ام را صیقل می‌دهم.
+
+در چند هفتهٔ آینده روی حساب دمو (هم FT2) معامله می‌کنم و روی گرفتن ورودهای تأییدشده‌ای تمرکز می‌کنم که با پلن معاملاتی‌ام جور باشند.
+
+به‌زودی بیشتر دربارهٔ قواعد و پلن معاملاتی‌ام می‌نویسم.
+
+قبل از اینکه بروم، سؤالی دربارهٔ اهمیت FTR‌ها بود. این چیزی است که در یک پست جواب داده نمی‌شود.
+
+بهترین راه یاد گرفتن این، جمع کردن همهٔ پست‌های عالی دربارهٔ FTR‌ها/FL‌ها، مطالعهٔ آن‌ها و بعد تمرین است.
+
+همهٔ FL‌ها را در تایم‌فریم‌های مختلف علامت بزن و ببین چطور با هم تعامل می‌کنند. وقتی نمی‌دانی چرا چیزی اتفاق افتاد،
+
+سؤال را روی چارت بنویس، چند فرض بگذار. بعد به مثال بعدی برو و همین کار را بکن.
+
+تعداد «ستاپ‌ها» در بازار محدود است (فقط شکل‌هایشان ممکن است کمی متفاوت باشد)، پس دیر یا زود
+
+جواب سؤال‌هایت را پیدا می‌کنی.
+
+این هم پوشهٔ RTM من. FL‌ها را با همان روشی یاد می‌گیرم که بالا توضیح دادم:
+
+امروز این معامله را روی GOLD گرفتم. کمی دیر وارد شدم؛ می‌شد از این RR بهتری گرفت:
+
+اخیراً شروع کرده‌ام تایم‌فریم‌های پایین‌تر از M1 را هم ببینم، چون فرصت‌های اسکالپ عالی زیادی هست که
+
+روی m1 این‌قدر راحت دیده نمی‌شوند، و بعضی وقت‌ها علامت‌زدن دقیق همهٔ FL‌ها روی m1 غیرممکن است.
+
+### michal238_p10_17
+EN: I 'm glad to see you again, mate.
+FA: خوشحالم که دوباره می‌بینمت، رفیق.
+
+### michal238_p10_18
+EN: Welcome back, Michal!
+
+That is a lot of studies you've put in your RTM folder! I understand why
+ you have your thousands of chart files, but why there are hundreds of
+folders as well?
+
+Are they all about FL??
+FA: خوش برگشتی Michal!
+
+چه مطالعات زیادی در پوشهٔ RTM خودت گذاشته‌ای! می‌فهمم چرا هزاران فایل چارت داری، اما چرا صدها پوشه هم داری؟
+
+همه‌شان دربارهٔ FL هستند؟؟
+
+### michal238_p10_19
+EN: This folder contains everything related to trading, but majority of charts is FL analysis.
+
+Number of folders is so big, because I have many setups saved in
+separate folders, and I make new folder for every session on FT2
+
+I realized recently that I'm pretty bad at decision making, I'm not
+patient enough on live charts, and I tend to make the same mistakes many
+ times due to loose analysis.
+
+So I set some rules regarding my analysis during practise on FT2:
+
+I test one pair at a time and I have 3 separate charts. One is for
+general HTF view and I mark most important lvls and FLs on it.
+
+Second chart is for LTF FL analysis - sometimes it gets messy and that is why I need more than one chart.
+
+On third chart I mark S/R flips, swaps lvls - it is easy to miss them when chart is not neat and clean.
+
+Doing this I'm sure that I used propely my best analysis tools, and I wont do mistakes that could easily been avoided.
+
+And this is how I'm going to improve my decision making:
+
+- I take screenshots with my analysis and mark best places to look for PA
+
+- as price is approaching my lvl, I make decision - do I wait for
+confirmation or can I TT? why? I write this on screenshot. Decision is
+made.
+
+- let's say that I took TT. At this point I have marked on chart
+different sized FL that were formed on approach - I decide where is my
+TP1 and where
+
+are potential trouble areas
+
+- I make screen after TP1 , and then after every continuation ENG, or reversal ENG.
+
+- reversal ENG - I close my trade
+
+- continuation ENG - I make decision - where I'll let price retrace to, before closing my trade? where in next FL?
+
+As price is moving away (or towards) my entry I mark new FLs that are
+created, I mark CP, and strong SD lvls / ignored SD lvls, using always
+
+the same colors. I don't want to miss/ forget anything. Also I do this to develop habists:
+
+strong SD lvls formed against me ----> look for exit
+
+CP between my entry, and current price ----> I move my SL above last fresh SD lvl
+
+FL not engulfed --> exit
+
+etc.
+
+I know that this is basic stuff, but sometimes I ignored important
+information, because I wanted my FL analysis to be correct every single
+time.
+
+Its stupid, I know, but I have done this in the past on live account
+
+Every trade is narrated, and I also try to think like IT - what they want to accomplish, where is LQ for them
+
+- what are doing trend followers?
+
+- what are doing BO traders?
+
+- what are doing savy SD traders?
+
+In the next month I will continue practising in this way, and what is
+most important - I also want to apply this method to live charts.
+
+In this way I will have everything propely analysed, and decisions will be made only once - I wont stay undecided at any time.
+
+Analysis is made ---> its time to make decisions and write it down.
+
+New piece of PA created --> make analysis marking FLs, SD, CPs ---> make decision, just like on FT2
+
+I described briefly how my perfect price reading session looks like.
+Probably I will post here example of this on real charts soon.
+
+It is easy to just fast-forward charts not thinking much about it. Its
+tempting as well - because there is a part of me that enjoys gambling.
+
+What I want to achieve in my every single price reading session is
+called "deliberate practice" - it takes big ammount of effort,
+
+but I believe that in this way I can get great results.
+FA: این پوشه شامل هر چیزی مربوط به معامله‌گری است، اما بیشتر چارت‌ها تحلیل FL است.
+
+تعداد پوشه‌ها این‌قدر زیاد است چون ستاپ‌های زیادی را در پوشه‌های جدا ذخیره کرده‌ام، و برای هر سشن روی FT2 پوشهٔ جدیدی می‌سازم
+
+اخیراً فهمیدم که در تصمیم‌گیری نسبتاً ضعیفم، روی چارت‌های زنده به‌اندازهٔ کافی صبور نیستم، و به‌خاطر تحلیل سرسری، گرایش دارم همان اشتباه‌ها را بارها تکرار کنم.
+
+پس چند قاعده برای تحلیلم در حین تمرین روی FT2 گذاشتم:
+
+هر بار روی یک جفت‌ارز تست می‌کنم و 3 چارت جدا دارم. یکی برای نمای کلی HTF است و مهم‌ترین سطوح و FL‌ها را روی آن علامت می‌زنم.
+
+چارت دوم برای تحلیل FL در LTF است - بعضی وقت‌ها به‌هم‌ریخته می‌شود و به همین دلیل به بیش از یک چارت نیاز دارم.
+
+روی چارت سوم فلیپ‌های S/R و سطوح سوآپ را علامت می‌زنم - وقتی چارت مرتب و تمیز نیست، از دست دادنشان آسان است.
+
+با این کار مطمئنم که از بهترین ابزارهای تحلیلم درست استفاده کرده‌ام، و اشتباه‌هایی که راحت می‌شد از آن‌ها پرهیز کرد را مرتکب نمی‌شوم.
+
+و این‌طور تصمیم‌گیری‌ام را بهتر می‌کنم:
+
+- از تحلیلم اسکرین‌شات می‌گیرم و بهترین جاها برای جست‌وجوی PA را علامت می‌زنم
+
+- وقتی قیمت به سطحم نزدیک می‌شود، تصمیم می‌گیرم - منتظر تأیید بمانم یا می‌توانم TT بگیرم؟ چرا؟ این را روی اسکرین‌شات می‌نویسم. تصمیم گرفته شده.
+
+- فرض کن TT گرفتم. در این مرحله FL‌های با اندازه‌های مختلفی را که در نزدیک‌شدن شکل گرفته‌اند روی چارت علامت زده‌ام - تصمیم می‌گیرم TP1‌ام کجاست و
+
+نواحی دردسر احتمالی کجا هستند
+
+- بعد از TP1 اسکرین می‌گیرم، و بعد از هر ENG ادامه‌دهنده یا ENG برگشتی.
+
+- ENG برگشتی - معامله‌ام را می‌بندم
+
+- ENG ادامه‌دهنده - تصمیم می‌گیرم - اجازه بدهم قیمت تا کجا اصلاح کند، قبل از اینکه معامله‌ام را ببندم؟ در کدام FL بعدی؟
+
+همان‌طور که قیمت از ورودم دور (یا به سمتش) می‌رود، FL‌های جدیدی را که ساخته می‌شوند علامت می‌زنم، CP را علامت می‌زنم، و سطوح قوی SD / سطوح SD نادیده‌گرفته‌شده را، همیشه
+
+با همان رنگ‌ها. نمی‌خواهم چیزی را از دست بدهم یا فراموش کنم. همچنین این کار را می‌کنم تا عادت بسازم:
+
+سطوح قوی SD که خلاف من شکل گرفته‌اند ----> دنبال خروج بگرد
+
+CP بین ورود من و قیمت فعلی ----> SL‌ام را بالای آخرین سطح SD تازه می‌برم
+
+FL اینگالف‌نشده --> خروج
+
+و غیره.
+
+می‌دانم که این‌ها چیزهای پایه‌ای هستند، اما بعضی وقت‌ها اطلاعات مهم را نادیده می‌گرفتم، چون می‌خواستم تحلیل FL‌ام هر بار بی‌نقص باشد.
+
+احمقانه است، می‌دانم، اما در گذشته روی حساب لایو این کار را کرده‌ام
+
+هر معامله روایت می‌شود، و من هم سعی می‌کنم مثل IT فکر کنم - آن‌ها چه می‌خواهند به دست بیاورند، LQ برایشان کجاست
+
+- پیروان روند چه می‌کنند؟
+
+- معامله‌گران BO چه می‌کنند؟
+
+- معامله‌گران زیرک SD چه می‌کنند؟
+
+ماه بعد به تمرین با همین روش ادامه می‌دهم، و مهم‌تر از همه - می‌خواهم این روش را روی چارت‌های زنده هم پیاده کنم.
+
+این‌طور همه‌چیز را درست تحلیل‌شده خواهم داشت و تصمیم‌ها فقط یک بار گرفته می‌شوند - هیچ‌وقت بلاتکلیف نمی‌مانم.
+
+تحلیل انجام شد ---> وقت تصمیم‌گیری و نوشتنش است.
+
+تکهٔ جدیدی از PA ساخته شد --> تحلیل کن و FL‌ها، SD، CP‌ها را علامت بزن ---> تصمیم بگیر، درست مثل FT2
+
+به‌طور خلاصه توصیف کردم که سشن کامل خواندن قیمت من چه شکلی است. احتمالاً به‌زودی نمونه‌ای از این را روی چارت‌های واقعی اینجا پست می‌کنم.
+
+راحت است که چارت‌ها را فقط سریع جلو ببری و زیاد به آن فکر نکنی. این هم وسوسه‌کننده است - چون بخشی از من هست که از قمار لذت می‌برد.
+
+چیزی که می‌خواهم در هر سشن خواندن قیمتم به آن برسم، «تمرین عامدانه» نام دارد - تلاش زیادی می‌طلبد،
+
+اما باور دارم که با این روش می‌توانم نتایج عالی بگیرم.
+
+### michal238_p10_20
+EN: Great example of scalp opportunity. This one is easy to spot on M1.
+I'll have to decide how to trade setups like this, because
+
+this particular setup has no confirmation on approach to FO lvl.
+
+There are setups like this that have "double confirmation" - there is
+eng (like in this example, and then, there is small QM on
+approach/reaction to FTR/FO lvl.
+
+It is easy to miss it, because these setups can show up very quickly on the market.
+FA: نمونهٔ عالی یک فرصت اسکالپ. این یکی روی M1 راحت دیده می‌شود. باید تصمیم بگیرم ستاپ‌هایی مثل این را چطور معامله کنم، چون
+
+این ستاپ خاص در نزدیک‌شدن به سطح FO هیچ تأییدی ندارد.
+
+ستاپ‌هایی مثل این هستند که «تأیید دوگانه» دارند - یک ENG هست (مثل همین مثال)، و بعد یک QM کوچک در نزدیک‌شدن/واکنش به سطح FTR/FO.
+
+از دست دادنش آسان است، چون این ستاپ‌ها می‌توانند خیلی سریع در بازار ظاهر شوند.
+
+### michal238_p10_21
+EN: Really bad RR on this one, but I was pretty confident that TG1 will be hit.
+
+I wanted to wait for reversal PA with 50%, but accidently closed whole position at TG1
+FA: RR این یکی واقعاً بد بود، اما کاملاً مطمئن بودم که TG1 لمس می‌شود.
+
+می‌خواستم برای PA برگشتی با 50% صبر کنم، اما به‌طور تصادفی کل پوزیشن را در TG1 بستم
+
+### michal238_p10_22
+EN: Nice short trade Michal.
+
+I just want to make sure of one thing: You Pole Base (PB) zone.
+
+Is PB the same as decision point (DP) to engulf? Also, are you taking
+the level where you marked with "important lvl big decision" as the key
+to find out all others PB like you've marked in second chart?
+
+Thanks. :)
+FA: معاملهٔ فروش خوبی بود Michal.
+
+فقط می‌خواهم از یک چیز مطمئن شوم: ناحیهٔ Pole Base (PB) تو.
+
+آیا PB همان DP برای اینگالف است؟ همچنین، آیا سطحی را که با «سطح مهم، تصمیم بزرگ» علامت زده‌ای به‌عنوان کلید پیدا کردن همهٔ PB‌های دیگر در نظر می‌گیری، همان‌طور که در چارت دوم علامت زده‌ای؟
+
+ممنون. :)
+
+### michal238_p10_23
+EN: Hello Michal,
+
+always nice to see your charts, very instructive.
+
+I would like to ask one question about your entry in the chart here
+below, because I would like to better understand how you look at the
+"doble confirmation" ?
+
+We actually already had an EG after the strong pull downwards, then
+price came back as FTB. That would have aready been a trade entry to me
+(at the moment).
+
+But I understand that you wanted to see a strong rejection and then enter at retest.
+
+My question is: why did you not enter at retest, but waited for a further retest ?
+
+Many thanks for your time and teaching.
+FA: سلام Michal،
+
+همیشه دیدن چارت‌هایت لذت‌بخش است، خیلی آموزنده.
+
+می‌خواهم یک سؤال دربارهٔ ورودت در چارت پایین بپرسم، چون می‌خواهم بهتر بفهمم «تأیید دوگانه» را چطور می‌بینی؟
+
+ما در واقع بعد از آن پول قوی به پایین، از قبل یک EG داشتیم، بعد قیمت به‌صورت FTB برگشت. برای من (در آن لحظه) از قبل یک ورود معاملاتی می‌بود.
+
+اما می‌فهمم که می‌خواستی یک رد شدن قوی ببینی و بعد در ریتست وارد شوی.
+
+سؤال من این است: چرا در ریتست وارد نشدی، بلکه منتظر ریتست دیگری ماندی؟
+
+خیلی ممنون برای وقت و آموزشت.
+
+### michal238_p10_24
+EN: Charles,
+
+Pole base is for me just significant change in momentum and decision point.
+
+When you can find swap level, and pole bases are created on this level
+multiple times, it is showing you that there is often strong imbalance
+on this level.
+
+I found fresh DP on level like this, got confirmation PA so there was low risk entry.
+
+Whenever,
+
+Here is a chart for you:
+
+I took nice trade on AU today. I closed it on 10R after first news up move.
+
+I schould be more confident with my analysis. On live charts I like to
+take profit like this, because I don't like to see price retrace against
+ me,
+
+especially when it could last for few hours. On FT2 I would hold it
+longer, and I schould on live account, too. Didn't expectet move so
+fast and so big,
+
+but there was one signal after another that up move will continue.
+
+Once I managed to take entry very similar to this one on FT2. I
+followed it lvl by lvl looking for for continuation engulfs., and traded
+ what price was telling me.
+
+It was about 30-40R, my best trade so far. I have to learn doing this on live charts.
+
+Ok, here it is (AUDUSD):
+
+This is SL hunt befor news release:
+
+On this chart I marked most important levels. There was strong push into each one of them and price broke them easily.
+
+Continuation ENGs :
+FA: Charles،
+
+Pole base برای من فقط تغییر معنادار در مومنتوم و نقطهٔ تصمیم است.
+
+وقتی می‌توانی سطحی سوآپ پیدا کنی که روی آن چند بار pole base ساخته شده، این نشان می‌دهد که اغلب عدم تعادل قوی روی این سطح وجود دارد.
+
+DP تازه‌ای روی سطحی مثل این پیدا کردم، PA تأییدی گرفتم، پس ورود کم‌ریسکی بود.
+
+Whenever،
+
+این هم یک چارت برای تو:
+
+امروز معاملهٔ خوبی روی AU گرفتم. بعد از اولین حرکت صعودی خبر، آن را روی 10R بستم.
+
+باید به تحلیلم مطمئن‌تر باشم. روی چارت‌های زنده دوست دارم این‌طور سود بگیرم، چون دوست ندارم ببینم قیمت برخلاف من اصلاح می‌کند،
+
+مخصوصاً وقتی می‌تواند چند ساعت طول بکشد. روی FT2 بیشتر نگهش می‌داشتم، و روی حساب لایو هم باید همین کار را بکنم. انتظار چنین حرکت سریع و بزرگی را نداشتم،
+
+اما سیگنال پشت سیگنال بود که حرکت صعودی ادامه می‌یابد.
+
+یک بار موفق شدم ورودی خیلی شبیه به این را روی FT2 بگیرم. سطح به سطح دنبالش کردم و دنبال اینگالف‌های ادامه‌دهنده گشتم، و هرچه قیمت به من می‌گفت را معامله کردم.
+
+حدود 30-40R بود، بهترین معامله‌ام تا حالا. باید یاد بگیرم این کار را روی چارت‌های زنده بکنم.
+
+خب، بفرما (AUDUSD):
+
+این هم شکار SL قبل از انتشار خبر:
+
+روی این چارت مهم‌ترین سطوح را علامت زده‌ام. به هر کدام از آن‌ها فشار قوی وارد شد و قیمت راحت شکستشان.
+
+اینگالف‌های ادامه‌دهنده:
+
+### michal238_p10_25
+EN: Yea, Michal...good to see you back You were missed.
+FA: آره Michal... خوب است که برگشتی. جایت خالی بود.

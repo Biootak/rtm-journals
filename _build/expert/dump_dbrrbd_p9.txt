@@ -1,0 +1,380 @@
+### dbrrbd_p9_202 hash=519aa809875cb370aeefddd63320cb46f62f40d4
+EN>>
+Red Knight
+
+Ifmyante wrote: That's a great study, RK
+
+I hope others try it this way too
+
+Best
+
+If
+
+Thank you and I would like to say thank you to everyone who posted here.Big thanks guys for your HW'S presentations, some useful web.links etc. all that is big help for me.
+FA>>
+Red Knight
+
+Ifmyante نوشت: مطالعهٔ خیلی خوبی است، RK
+
+امیدوارم بقیه هم این‌طور امتحانش کنند
+
+بهترین‌ها
+
+If
+
+ممنونم و می‌خواهم از همهٔ کسانی که اینجا پست گذاشتند تشکر کنم. بچه‌ها برای ارائهٔ تکالیفتان، چند لینک وب مفید و غیره خیلی ممنون؛ همهٔ این‌ها کمک بزرگی برای من است.
+
+### dbrrbd_p9_203 hash=fb1ac8fda2e232327a2d1fff5f008206a760701f
+EN>>
+4-200 Result: 23 zones 11 zones=respected 9 zones =ignored 1 zone=0.5 2 zones not tested 1 zone testing right now
+
+7 S/R zones 6 zones =respected 1 zone=0.5
+FA>>
+4-200. نتیجه: 23 ناحیهٔ RDB/DBR؛ 11 مورد رعایت‌شده، 9 مورد نادیده‌گرفته‌شده، 1 مورد با 0.5، 2 مورد آزمایش‌نشده و 1 ناحیه همین حالا در حال آزمایش است.
+
+نواحی S/R: 6 رعایت‌شده و 1 با 0.5
+
+### dbrrbd_p9_204 hash=7425822be82d497566ea6a4b3e93c902693f00a2
+EN>>
+5-200
+
+Result: 22-RDB/DBR zones 4-zones=not tested 9-zones=respected 7-zones =ignored 2-zones=0.5
+
+7-S/R zones
+
+6-zones=respected 1-zone=ignored
+FA>>
+5-200
+
+نتیجه: 22 ناحیهٔ RDB/DBR؛ 4 مورد آزمایش‌نشده، 9 مورد رعایت‌شده، 7 مورد نادیده‌گرفته‌شده، 2 مورد با 0.5
+
+نواحی S/R
+
+6 رعایت‌شده و 1 نادیده‌گرفته‌شده
+
+### dbrrbd_p9_205 hash=3695642a4a65310702728ab8ac4f5e0e52cd9e61
+EN>>
+6-200
+
+Result: 22 RDB/DBR zones 1-zones=not tested 15-zones=respected 6-zones=ignored
+
+9-S/R zones 8-zones=respected 1-zone=ignored
+FA>>
+6-200
+
+نتیجه: 22 ناحیهٔ RDB/DBR؛ 1 مورد آزمایش‌نشده، 15 مورد رعایت‌شده، 6 مورد نادیده‌گرفته‌شده
+
+نواحی S/R: 8 رعایت‌شده و 1 نادیده‌گرفته‌شده
+
+### dbrrbd_p9_206 hash=4d18dd96c5ef061df0ef47101244b2323fe8e888
+EN>>
+7-200
+
+Result: 31-RDB/DBR zones 15-zones=respected 8-zones=ignored 6-zones=0.5 2-zones=not tested
+
+15-S/R zones 12-zones=respected 3-zones=ignored
+FA>>
+7-200
+
+نتیجه: 31 ناحیهٔ RDB/DBR؛ 15 مورد رعایت‌شده، 8 مورد نادیده‌گرفته‌شده، 6 مورد با 0.5، 2 مورد آزمایش‌نشده
+
+نواحی S/R: 12 رعایت‌شده و 3 نادیده‌گرفته‌شده
+
+### dbrrbd_p9_207 hash=4efcbb94946ce3f42f08dba6b693c9ca72eae4c1
+EN>>
+8-200 Result: 20-RDB/DBR zones 18-zones=respected 1-zone=ignored 1-zone=0.5 1-zone=not tested
+
+7-S/R zones 4-zones=respected 1-zone=ignored 2-zones=not tested.
+FA>>
+8-200. نتیجه: 20 ناحیهٔ RDB/DBR؛ 18 مورد رعایت‌شده، 1 مورد نادیده‌گرفته‌شده، 1 مورد با 0.5، 1 مورد آزمایش‌نشده
+
+نواحی S/R: 4 رعایت‌شده، 1 نادیده‌گرفته‌شده و 2 آزمایش‌نشده.
+
+### dbrrbd_p9_208 hash=445c12cd983eacb340fe1ec29af75715c18a98ee
+EN>>
+Here's a few clear examples of DBR & RBDs with Reactions. A lot more to come. Comments are welcome.
+FA>>
+این چند نمونهٔ واضح از DBR و RBD همراه با واکنش‌هاست. خیلی بیشتر از این‌ها در راه است. نظرات خوش‌آمدند.
+
+### dbrrbd_p9_209 hash=f930346a836428b8008277e234f25427321dd6d8
+EN>>
+Hi Alex,
+
+Nice chart, I can see that you understand the concept of DBR RBD very well. About the cp, there is other cp going on on your chart.... Can you spot it?
+
+Best, Mel
+FA>>
+سلام Alex،
+
+چارت خوبی است؛ می‌بینم که مفهوم DBR و RBD را خیلی خوب فهمیده‌ای. دربارهٔ cp، یک cp دیگر هم روی چارتت در جریان است.... می‌توانی پیدایش کنی؟
+
+بهترین‌ها، Mel
+
+### dbrrbd_p9_210 hash=f7fc89b5225aa0b2e373fea30ab933626c1d6642
+EN>>
+Result: 40-zones RBD/DBR 26-zones=respected 6-zones=ignored 2-zones=0.5 3-zones= not tested (hm counting doesn't look right but don't want to check again)
+
+15-S/R zones 12-zones=respected 3-zones=ignored
+
+9-200:
+
+10-200:
+
+11-200:
+FA>>
+نتیجه: 40 ناحیهٔ RDB/DBR؛ 26 مورد رعایت‌شده، 6 مورد نادیده‌گرفته‌شده، 2 مورد با 0.5، 3 مورد آزمایش‌نشده (هوم، شمارش درست به نظر نمی‌رسد، اما دیگر نمی‌خواهم دوباره چکش کنم)
+
+نواحی S/R: 12 رعایت‌شده و 3 نادیده‌گرفته‌شده
+
+9-200:
+
+10-200:
+
+11-200:
+
+### dbrrbd_p9_211 hash=bfa57e0dae75771dc34038dbccd725486175eab5
+EN>>
+Hi Mel, I see cps when price rallies and drops to the bases on this chart. Thank you Mel for pointing them out.:)>-
+FA>>
+سلام Mel، در این چارت وقتی قیمت بالا می‌رود و به پایه‌ها برمی‌گردد، cpها را می‌بینم. ممنون Mel که نشانشان دادی.:)>-
+
+### dbrrbd_p9_212 hash=a268c96e542530717c6f85ad92d18dde319b2b30
+EN>>
+Here some more examples of DBR/RBD with CP shown on a 5m chart.
+FA>>
+این هم چند نمونهٔ دیگر از DBR/RBD که CP روی چارت 5m نشان داده شده.
+
+### dbrrbd_p9_213 hash=02c4afe52995538e528ed20a50f246fb45d80481
+EN>>
+Examples of DBR/RBD with CP shown on the USD/CAD daily chart.
+FA>>
+نمونه‌هایی از DBR/RBD که CP روی چارت روزانهٔ USD/CAD نشان داده شده.
+
+### dbrrbd_p9_214 hash=137b584c29fe55e889ffb1a96433d8094c2a3e80
+EN>>
+Careful how you draw your cp
+FA>>
+در رسم cpهایت دقت کن
+
+### dbrrbd_p9_215 hash=244013c024bef545725175b05b1b8e2666725a47
+EN>>
+a lot of ppl draw Consumtion as Compression. i guess there has been a mix up somewhere, in areas like a wedge where you dont know where price will go next its ok but the rest...?
+FA>>
+خیلی‌ها Consumption را به‌جای Compression رسم می‌کنند. حدس می‌زنم جایی اشتباهی رخ داده؛ در نواحی‌ای مثل وج که نمی‌دانی قیمت بعدی به کجا می‌رود مشکلی نیست، اما بقیه‌اش...؟
+
+### dbrrbd_p9_216 hash=ecf5eb445fff34139bcc5b24fcc6b146539e24a0
+EN>>
+Result:
+
+53-RDB/DBR zones 36-zones=respected 12-zones=ignored 3-zones=0.5
+
+2-zones=not touched 1-zone=not count
+
+15-S/R zones 8-zones=respected 5-zones ignored 2-zones=0.5
+
+12-200:
+
+13-200:
+
+14-200:
+FA>>
+نتیجه:
+
+53 ناحیهٔ RDB/DBR؛ 36 مورد رعایت‌شده، 12 مورد نادیده‌گرفته‌شده، 3 مورد با 0.5
+
+2 ناحیه دست‌نخورده، 1 ناحیه حساب نشده
+
+نواحی S/R: 8 رعایت‌شده، 5 نادیده‌گرفته‌شده و 2 با 0.5
+
+12-200:
+
+13-200:
+
+14-200:
+
+### dbrrbd_p9_217 hash=c001f2bb8c42809725d217a31c7cb9caff8466b6
+EN>>
+Hi Ifmyante, The cp turning points I understand now from what you noted on my cp homework. I noticed now how you drew the lines on the bottom for rising cps and from above on dropping cps. Good to know. I see how cps can look unruly from the opposite sides. Thanks again If, much appreciated.
+FA>>
+سلام Ifmyante، نقاط برگشت cp را حالا از یادداشت‌هایت روی تکلیف cp من می‌فهمم. تازه متوجه شدم چطور خط‌ها را برای cpهای صعودی از پایین و برای cpهای نزولی از بالا رسم کرده‌ای. خوب است که این را بدانم. می‌بینم که cpها از سمت مقابل چقدر بی‌نظم به نظر می‌رسند. باز هم ممنون If، خیلی لطف کردی.
+
+### dbrrbd_p9_218 hash=842246f2918afac8db7dde5df50038affc7344e2
+EN>>
+Result: 42-RBD/DBR 24-zones=respected 9-zones=ignored 3-zones=0.5 5- zones=not touched
+
+13-S/R zones 11-zones=respected 1-zone=ignored 1-zone=not tested
+
+15-200:
+
+16-200:
+
+17-200:
+FA>>
+نتیجه: 42 ناحیهٔ RDB/DBR؛ 24 مورد رعایت‌شده، 9 مورد نادیده‌گرفته‌شده، 3 مورد با 0.5، 5 مورد دست‌نخورده
+
+نواحی S/R: 11 رعایت‌شده، 1 نادیده‌گرفته‌شده و 1 آزمایش‌نشده
+
+15-200:
+
+16-200:
+
+17-200:
+
+### dbrrbd_p9_219 hash=2a0ce1f7a6d61cc778d7af924c8f1c700f65e218
+EN>>
+AlexC wrote: Hi Ifmyante, The cp turning points I understand now from what you noted on my cp homework. I noticed now how you drew the lines on the bottom for rising cps and from above on dropping cps. Good to know. I see how cps can look unruly from the opposite sides. Thanks again If, much appreciated.
+
+Alex, exatly as you said. you draw CP from the side that price will visit (if it does) to indicate it will have an easy pass through as the orders that were sitting there have been removed.
+FA>>
+AlexC نوشت: سلام Ifmyante، نقاط برگشت cp را حالا از یادداشت‌هایت روی تکلیف cp من می‌فهمم. تازه متوجه شدم چطور خط‌ها را برای cpهای صعودی از پایین و برای cpهای نزولی از بالا رسم کرده‌ای. خوب است که این را بدانم. می‌بینم که cpها از سمت مقابل چقدر بی‌نظم به نظر می‌رسند. باز هم ممنون If، خیلی لطف کردی.
+
+Alex، دقیقاً همان‌طور که گفتی. CP را از سمتی رسم می‌کنی که قیمت به آن سر می‌زند (اگر بزند) تا نشان دهی عبورش از آنجا راحت خواهد بود، چون سفارش‌هایی که آنجا نشسته بودند برداشته شده‌اند.
+
+### dbrrbd_p9_220 hash=a85d1c97b8004ad238ddf1b2148c39547899390d
+EN>>
+Thanks Harry.
+FA>>
+ممنون Harry.
+
+### dbrrbd_p9_221 hash=e8e44991afa8a3eb4c4f2be3d4a7e50782f3fbec
+EN>>
+Here's a 5m chart
+FA>>
+این هم یک چارت 5m
+
+### dbrrbd_p9_222 hash=85f73ba1a08a78476fbd84023a4bc2108172dd8d
+EN>>
+Result:
+
+71-RBD/DBR zones 45-zones=respected 13-zones=ignored 6-zones=0.5 7-zones=not tested
+
+16-S/R zones 14-zones=respected 1-zone=ignored 1-zone=not tested.
+
+18-200:
+
+19-200:
+
+20-200:
+
+21-200:
+FA>>
+نتیجه:
+
+71 ناحیهٔ RDB/DBR؛ 45 مورد رعایت‌شده، 13 مورد نادیده‌گرفته‌شده، 6 مورد با 0.5، 7 مورد آزمایش‌نشده
+
+نواحی S/R: 14 رعایت‌شده، 1 نادیده‌گرفته‌شده و 1 آزمایش‌نشده.
+
+18-200:
+
+19-200:
+
+20-200:
+
+21-200:
+
+### dbrrbd_p9_223 hash=b3dfb3a08703047d923abb6566c6e67f95283edc
+EN>>
+Result: 82-RBD/DBR zones 47-zones=respected 23-zones=ignored 4-zones=0.5 6-zones=not test.
+
+38- S/R zones 23-zones=respected 10-zones=ignored 3-zones=0.5 1-zone=not test
+
+22-200
+
+23-200:
+
+24-200:
+
+25-200:
+
+26-200:
+
+27-200:
+FA>>
+نتیجه: 82 ناحیهٔ RDB/DBR؛ 47 مورد رعایت‌شده، 23 مورد نادیده‌گرفته‌شده، 4 مورد با 0.5، 6 مورد آزمایش‌نشده.
+
+نواحی S/R: 23 رعایت‌شده، 10 نادیده‌گرفته‌شده، 3 با 0.5 و 1 آزمایش‌نشده
+
+22-200
+
+23-200:
+
+24-200:
+
+25-200:
+
+26-200:
+
+27-200:
+
+### dbrrbd_p9_224 hash=d86c719250f263878cb44587608f74b5978aa2f6
+EN>>
+Result: 105-RBD/DBR zones 54-zones=respected 23-zones=ignored 15-zones=0.5 8-zones=not test.
+
+38-S/R zones 28-zones=respected 8-zones=ignored 1-zone=0.5 1-zone=not test.
+
+28-200:
+
+29-200:
+
+30-200:
+
+31-200:
+
+32-200:
+
+33-200:
+
+34-200:
+FA>>
+نتیجه: 105 ناحیهٔ RDB/DBR؛ 54 مورد رعایت‌شده، 23 مورد نادیده‌گرفته‌شده، 15 مورد با 0.5، 8 مورد آزمایش‌نشده.
+
+نواحی S/R: 28 رعایت‌شده، 8 نادیده‌گرفته‌شده، 1 با 0.5 و 1 آزمایش‌نشده.
+
+28-200:
+
+29-200:
+
+30-200:
+
+31-200:
+
+32-200:
+
+33-200:
+
+34-200:
+
+### dbrrbd_p9_225 hash=6d2e58072b8bae27fa71176873ba0baa6f795c28
+EN>>
+Result:
+
+49-RBD/DBR zones
+
+21-zones=respected 13-zones=ignored 7-zones=0.5 8-zones=not test
+
+22-S/R zones 16-zones=respected 2-zones=ignored 1-zone=0.5 1-zone=not test.
+
+35-200:
+
+36-200:
+
+37-200:
+
+38-200:
+FA>>
+نتیجه:
+
+49 ناحیه RBD/DBR
+
+21 ناحیه=رعایت شد 13 ناحیه=نادیده گرفته شد 7 ناحیه=0.5 8 ناحیه=تست نشد
+
+22 ناحیه S/R: 16 مورد رعایت شد، 2 مورد بی‌توجه ماند، 1 مورد 0.5 و 1 مورد آزمایش نشد.
+
+35-200:
+
+36-200:
+
+37-200:
+
+38-200:
+

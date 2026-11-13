@@ -1,0 +1,451 @@
+### frosty_p4_1
+EN: linos wrote: My favourite video, that one should also be locked, and removed from Youtube lol lol... i figured. u probably spent days just watching that one video alone. it shows
+FA: linos نوشت: ویدئوی محبوب من؛ آن یکی هم باید قفل شود و از Youtube برداشته شود lol lol... حدسش را می‌زدم. تو احتمالاً روزها فقط همان یک ویدئو را تماشا کرده‌ای. این خودش همه‌چیز را می‌گوید.
+
+### frosty_p4_2
+EN: HW - Flag Limits 10 - 13 As bro Staurum suggested to keep things neat and starting out simple, here are some new homework for FLs.
+
+Chart 10: Chart 11: Chart 12: Chart 13: A stock trade (GILD) that I took on a cash account. The CP looked very intriguing and the risk:reward looks promising. First time trying RTM style on real markets As a side note, I wonder if bro Staurum ever sleeps it looks like he is all over the forum non-stop.
+
+I suspect he is a vampire Just kidding brother As always, thank you for all of your continued guidance
+FA: تکلیف - محدودیت‌های FL 10 - 13. همان‌طور که برادر Staurum پیشنهاد داد تا همه‌چیز مرتب بماند و کار را ساده شروع کنم، اینها چند تکلیف تازه برای FLهاست.
+
+چارت 10: چارت 11: چارت 12: چارت 13: یک معاملهٔ سهام (GILD) که در حساب نقدی گرفتم. CP خیلی جذاب به نظر می‌رسید و نسبت ریسک به ریوارد هم امیدبخش است. نخستین بار است که سبک RTM را در بازار واقعی امتحان می‌کنم. راستی، نمی‌دانم برادر Staurum اصلاً می‌خوابد یا نه؛ انگار تمام‌وقت در فروم است.
+
+شک دارم خون‌آشام باشد. شوخی می‌کنم برادر. مثل همیشه، از همهٔ راهنمایی‌های همیشگی‌ات سپاسگزارم.
+
+### frosty_p4_3
+EN: Frosty wrote:HW - Flag Limits 10 - 13 As bro Staurum suggested to keep things neat and starting out simple, here are some new homework for FLs.
+
+Chart 10: Chart 11: Chart 12: Chart 13: A stock trade (GILD) that I took on a cash account. The CP looked very intriguing and the risk:reward looks promising. First time trying RTM style on real markets As a side note, I wonder if bro Staurum ever sleeps it looks like he is all over the forum non-stop.
+
+I suspect he is a vampire Just kidding brother As always, thank you for all of your continued guidance Lol you really took trade from weekly level? That's holla big SL you need:) hopefully it works out Dengaima
+FA: Frosty نوشت: تکلیف - محدودیت‌های FL 10 - 13. همان‌طور که برادر Staurum پیشنهاد داد تا همه‌چیز مرتب بماند و کار را ساده شروع کنم، اینها چند تکلیف تازه برای FLهاست.
+
+چارت 10: چارت 11: چارت 12: چارت 13: یک معاملهٔ سهام (GILD) که در حساب نقدی گرفتم. CP خیلی جذاب به نظر می‌رسید و نسبت ریسک به ریوارد هم امیدبخش است. نخستین بار است که سبک RTM را در بازار واقعی امتحان می‌کنم. راستی، نمی‌دانم برادر Staurum اصلاً می‌خوابد یا نه؛ انگار تمام‌وقت در فروم است.
+
+شک دارم خون‌آشام باشد. شوخی می‌کنم برادر. مثل همیشه، از همهٔ راهنمایی‌های همیشگی‌ات سپاسگزارم. لول، واقعاً از یک سطح هفتگی معامله گرفتی؟ آن‌وقت به یک استاپ‌لاس حسابی بزرگ نیاز داری :) امیدوارم جوری از آب دربیاید. Dengaima
+
+### frosty_p4_4
+EN: Yup its from a weekly level, lol. Bought just 1 share though. Without leverage the risk is approximately $15 at most including commissions Thanks brother
+FA: بله، از یک سطح هفتگی است، لول. ولی فقط 1 سهم خریدم. بدون لوریج، ریسک حداکثر حدود $15 می‌شود، با احتساب کمیسیون‌ها. ممنون برادر.
+
+### frosty_p4_5
+EN: HW - Flag Limits 14 This attempt at in-depth analysis of FLs was done in just above 2 hours. I know some of you can draw this up in seconds By far, this is the hardest RTM material, personally, for me to grasp.
+
+When I was finishing the HW, I tried my best not to look at the right side and try to mark things off after moving bar-by-bar. I do this to avoid positive outcome bias (if this is the right term for it), i.e. not looking for the results first and then finding the reason why. What I did was the reverse, i.e. mark the zones first and then look at the reactions later.
+
+When drawing up FLs, I remember what bro Staurum said: without FTR, there is no FL without break there is no FTR without a zone or price barrier, there is no break without price movement, there is no zone or price barrier What I understand the progression of thought is:price movement - barriers/zones - break of barriers - FTR - FL The logical step from that, then, would be:find important barriers, look for their breaks, draw FTRs, assess which are the FLs I will document the steps and thought process that I use in this HW. If it is not too much to ask, I would love to hear any opinions from all of you regarding my thought process when looking for FLs. I might be doing the wrong things and, therefore, over/undercomplicating this. A simple yes/no will suffice, if you all have the time and will to comment, that is Monthly Chart: Find the clearest important barrier starts from this TF for best / largest amounts of pips reaction. This one clearly has an important SR flip level at a BRN at 1.37000 (purple line). I then mark this off in the Monthly chart. I start analyzing at the region of the big bearish candle that breaks the important SR flip from above (shown on the chart)
+
+Weekly Chart: I drew the red thick FL from the break of the important SR flip. This also coincides with the break of a local low (blue line). I trace the chart to the right and found a trick level below (blue box). That was all that I marked the first time.
+
+Daily Chart: After the above two charts are done, I went down to the D1 TF. Here, I marked FTB, 2TB, and 3TB.
+
+H4 Chart #1: In the H4 TF, I mark the FTR after the break of an important barrier in the LTF (two highs that lines up). Looking back on the D1 chart, I can clearly see now that the level is a FL since it held price up a couple of times before the LQ described on the previous D1 chart.
+
+H4 Chart #2: I mark FTB and 2TB to the upper green FL. I can clearly see the LQ base (Pre-CP) and I marked this on the chart. I also marked the swap FL (purple box) from engulfing the top green FL.
+
+I can see FTB and 2TB to the purple FL but I didn't mark these on the chart.
+
+The LS kink (bottom green box) is then drawn after looking at the H1 chart, which also coincides with the engulfing of a CPPAZ on H1.
+
+I then mark the engulf that hasn't reached its target (the pre-CP MPL).
+
+Then lastly, the potential BSZ because of the 2 similar lows. This 2 lows touches the mouth of the LS kink and the previous moves haven't touched the LS kink level. I guessed that this would be used for future fakeout to the MPL of the LS kink.
+
+H4 Chart #3: I marked the reaction further on the right side of the LS kink.
+
+PA clearly shows the DM forming to touch the exact LS kink level (thin blue box).
+
+Personally, the SL for any trade I will take should be placed beyond the trick zone (thin blue box)
+
+The target for the long is the pre-CP MPL, which clearly is hit later on.
+
+That was a long explanation, lol. I hope I get some things right this time. I really tried to keep things in the simplest manner I could.
+
+Thank you everyone for your continued guidance and comments. I appreciate them as always
+FA: تکلیف - محدودیت‌های FL 14. این تلاش برای تحلیل عمیق FLها کمی بیش از 2 ساعت طول کشید. می‌دانم بعضی از شما چنین چیزی را در چند ثانیه رسم می‌کنید. بی‌گمان این سخت‌ترین مبحث RTM است که به شخصه درکش برایم دشوار بوده است.
+
+وقتی داشتم تکلیف را تمام می‌کردم، نهایت تلاشم را کردم که به سمت راست نگاه نکنم و کندل‌به‌کندل جلو بروم و بعد موارد را علامت بزنم. این کار را می‌کنم تا از سوگیری نتیجهٔ مثبت (اگر اصطلاح درستی باشد) دور بمانم؛ یعنی اول نتیجه را نبینم و بعد دلیلش را پیدا کنم. کاری که کردم برعکس بود؛ یعنی اول نواحی را علامت زدم و بعد واکنش‌ها را نگاه کردم.
+
+هنگام رسم FLها، حرف برادر Staurum را به یاد می‌آورم: بدون FTR، FL وجود ندارد؛ بدون شکست، FTR وجود ندارد؛ بدون ناحیه یا سد قیمتی، شکستی رخ نمی‌دهد؛ بدون حرکت قیمت، ناحیه یا سد قیمتی وجود ندارد. آنچه من از توالی فکر می‌فهمم این است: حرکت قیمت - سدها/نواحی - شکست سدها - FTR - FL. پس گام منطقی بعدی این می‌شود: سدهای مهم را پیدا کن، شکست‌هایشان را بجوی، FTRها را رسم کن، ارزیابی کن کدام‌ها FL هستند. من گام‌ها و روند فکری‌ای را که در این تکلیف به کار می‌برم مستند می‌کنم. اگر پررویی نباشد، خیلی دوست دارم نظر همهٔ شما را دربارهٔ روند فکری‌ام در جست‌وجوی FLها بشنوم. شاید کارهای اشتباهی می‌کنم و در نتیجه این موضوع را بیش از حد یا کمتر از حد پیچیده کرده‌ام. یک بله/خیر ساده کافی است، اگر همه وقت و حوصلهٔ نظر دادن داشته باشید، همین. چارت ماهانه: یافتن روشن‌ترین سد مهم از همین تایم‌فریم آغاز می‌شود، برای بهترین و بیشترین میزان واکنش پیپی. این یکی آشکارا یک سطح فلیپ SR مهم روی یک BRN در 1.37000 دارد (خط بنفش). بعد آن را در چارت ماهانه علامت می‌زنم. تحلیل را از ناحیهٔ کندل نزولی بزرگی شروع می‌کنم که سطح فلیپ SR مهم را از بالا می‌شکند (در چارت نشان داده شده).
+
+چارت هفتگی: FL ضخیم قرمز را از شکست سطح فلیپ SR مهم رسم کردم. این با شکست یک کف محلی (خط آبی) هم منطبق است. چارت را به سمت راست دنبال کردم و پایین‌تر یک سطح ترفند پیدا کردم (باکس آبی). اولین بار فقط همین‌ها را علامت زده بودم.
+
+چارت روزانه: بعد از تمام شدن دو چارت بالا، به تایم‌فریم D1 رفتم. اینجا FTB، 2TB و 3TB را علامت زدم.
+
+چارت H4 شمارهٔ 1: در تایم‌فریم H4، FTR را بعد از شکست یک سد مهم در تایم‌فریم پایین‌تر علامت می‌زنم (دو سقفی که هم‌تراز شده‌اند). حالا با نگاه دوباره به چارت D1 به‌روشنی می‌بینم که این سطح یک FL است، چون پیش از LQ که در چارت D1 قبلی توصیف شد، چند بار قیمت را بالا نگه داشت.
+
+چارت H4 شمارهٔ 2: FTB و 2TB را تا FL سبز بالایی علامت می‌زنم. پایهٔ LQ (پیش از CP) را به‌وضوح می‌بینم و آن را روی چارت علامت زدم. همچنین FL سوآپ (باکس بنفش) را از اینگالف FL سبز بالایی علامت زدم.
+
+می‌توانم FTB و 2TB تا FL بنفش را ببینم، اما آن‌ها را روی چارت علامت نزدم.
+
+بعد کینک LS (باکس سبز پایینی) پس از نگاه کردن به چارت H1 رسم می‌شود که با اینگالف یک CPPAZ در H1 هم منطبق است.
+
+سپس اینگالفی را علامت می‌زنم که به تارگتش نرسیده است (MPL پیش از CP).
+
+و در آخر، BSZ بالقوه به خاطر آن 2 کف مشابه. این 2 کف دهانهٔ کینک LS را لمس می‌کنند و حرکت‌های قبلی سطح کینک LS را لمس نکرده‌اند. حدس زدم که این ناحیه برای فیک‌اوت آینده به سمت MPL کینک LS استفاده شود.
+
+چارت H4 شمارهٔ 3: واکنش را جلوتر در سمت راست کینک LS علامت زدم.
+
+PA به‌روشنی نشان می‌دهد که DM برای لمس دقیق سطح کینک LS شکل می‌گیرد (باکس آبی نازک).
+
+به شخصه، استاپ‌لاس هر معامله‌ای که بگیرم باید آن‌سوی ناحیهٔ ترفند قرار بگیرد (باکس آبی نازک).
+
+تارگت پوزیشن خرید، MPL پیش از CP است که آشکارا بعداً لمس می‌شود.
+
+توضیح طولانی شد، لول. امیدوارم این بار بعضی چیزها را درست انجام داده باشم. واقعاً تلاش کردم همه‌چیز را تا جای ممکن ساده نگه دارم.
+
+از همهٔ شما برای راهنمایی‌ها و نظرات همیشگی‌تان سپاسگزارم. مثل همیشه برایم ارزشمندند.
+
+### frosty_p4_6
+EN: Great analysis...
+FA: تحلیل عالی...
+
+### frosty_p4_7
+EN: HW - Flag Limits 15 Another FL homework. The thought process is similar to the previous homework.
+
+Tried my best not to look right. I should use FT2 next to hide the right side. Comments and guidance are extremely accepted Monthly Chart: Weekly Chart: Daily Chart 1: Daily Chart 2: H4 Chart 1: H4 Chart 2:
+FA: تکلیف - محدودیت‌های FL 15. یک تمرین دیگر برای FL. روند فکری‌ام شبیه تمرین قبلی است.
+
+نهایت تلاشم را کردم که به سمت راست نگاه نکنم. دفعهٔ بعد باید از FT2 استفاده کنم تا سمت راست را پنهان کنم. نظرات و راهنمایی‌ها بیش از پیش پذیرفته و ارزشمندند. چارت ماهانه: چارت هفتگی: چارت روزانه 1: چارت روزانه 2: چارت H4 1: چارت H4 2:
+
+### frosty_p4_8
+EN: HW - Flag Limits 16 A more complete homework on NZD USD.
+
+I followed the steps IF was using in the Lite Video #2. Hopefully something is correct here.
+
+I marked clean orders only in the UFL and LFL closest to current price to avoid clutter.
+
+For each of the kinks shown here, I noted down in which TF did I find the kink form (did not post this on the charts, but in my notes).
+
+I believe this note will be useful for studying about trade targets and managing expectations on trades later on in the journey.
+
+Thank you all for your continued guidance EDIT: I forgot to number the objects on the monthly chart (bottom left), but the order is from left to right in order of appearance (and top, then bottom for the lines)
+
+Monthly Chart: Weekly Chart: Daily Chart: H4 Charts: H1 Chart: Next two charts in next post. Limit exceeded
+FA: تکلیف - محدودیت‌های FL 16. تکلیفی کامل‌تر روی NZD USD.
+
+گام‌هایی را دنبال کردم که IF در ویدئوی Lite شمارهٔ 2 به کار می‌برد. امیدوارم چیزی اینجا درست باشد.
+
+برای اینکه شلوغ نشود، سفارش‌های تمیز را فقط در UFL و LFL نزدیک به قیمت فعلی علامت زدم.
+
+برای هر یک از کینک‌هایی که اینجا نشان داده شده، یادداشت کردم که فرم آن کینک را در کدام TF پیدا کرده‌ام (این را روی چارت‌ها نگذاشتم، در یادداشت‌های خودم نوشتم).
+
+باور دارم این یادداشت بعداً در مسیر، برای مطالعه دربارهٔ تارگت‌های معاملاتی و مدیریت انتظارات از معاملات مفید خواهد بود.
+
+از همهٔ شما برای راهنمایی‌های همیشگی‌تان سپاسگزارم. ویرایش: یادم رفت اشیاء روی چارت ماهانه (پایین سمت چپ) را شماره‌گذاری کنم، اما ترتیب از چپ به راست و به ترتیب ظاهر شدن است (و برای خطوط، اول بالا و بعد پایین).
+
+چارت ماهانه: چارت هفتگی: چارت روزانه: چارت‌های H4: چارت H1: دو چارت بعدی در پست بعدی. سقف مجاز رد شد.
+
+### frosty_p4_9
+EN: HW - Flag Limits 16 Part II M1 Charts:
+FA: تکلیف - محدودیت‌های FL 16 بخش دوم. چارت‌های M1:
+
+### frosty_p4_11
+EN: HW - Flag Limits 17 I've been bouncing back and forth between level of complexities for the homeworks. Not good.
+
+I fixed myself to focus on simple stuff that I can see and comprehend first, and hence, this homework.
+
+Trying to run without learning to crawl is a futile endeavor. Hope to learn from all of you as usual Thank you all for your guidance.
+
+Weekly Chart: Daily Chart: H1 Chart for Trade 2 - Past: H1 Chart for Trade 2 - Approach and Reaction: H1 Chart for Trade 1 - Past: H1 Chart for Trade 1 - Approach and Reaction:
+FA: تکلیف - محدودیت‌های FL 17. مدام بین سطح‌های مختلف پیچیدگی برای تکالیف بالا و پایین می‌پرم. خوب نیست.
+
+خودم را مقید کردم که اول روی چیزهای سادهٔ قابل دیدن و فهمیدن تمرکز کنم، و تکلیف حاضر نتیجهٔ همان است.
+
+تلاش برای دویدن پیش از یاد گرفتن چهاردست‌وپا رفتن، کاری بیهوده است. مثل همیشه امیدوارم از همهٔ شما یاد بگیرم. از همه برای راهنمایی‌تان سپاسگزارم.
+
+چارت هفتگی: چارت روزانه: چارت H1 برای معاملهٔ 2 - گذشته: چارت H1 برای معاملهٔ 2 - نزدیک شدن و واکنش: چارت H1 برای معاملهٔ 1 - گذشته: چارت H1 برای معاملهٔ 1 - نزدیک شدن و واکنش:
+
+### frosty_p4_12
+EN: Side comment: Heard this song once and I'm totally hooked. Music definitely is an amazing part of being human.
+FA: یک حاشیه: این آهنگ را یک بار شنیدم و کاملاً گیرش افتادم. موسیقی بی‌تردید بخش شگفت‌انگیزی از انسان بودن است.
+
+### frosty_p4_13
+EN: After doing so many homeworks, I think it is a good idea to open a demo account and start trying to piece all of the pieces together by analyzing the charts and placing demo trades.
+
+All trades will be posted, win or lose, along with the reasoning behind them, complete with SL, TP and any trade managements done during the trade.
+
+There are 6 pairs that I'll be using for this studying purpose: AUD/JPY, EUR/GBP, NZD/USD, USD/CAD, NOK/SEK, XAU/USD The only reason why I chose these pairs: they seem to have weak correlation with each other (....and because I love Canada and Scandinavia ) I personally dislike CHF for some reason, so I think I'll leave CHF pairs for the future Money management rule for risk is 1% of total account balance per trade or 0.5% if I feel less confident about a setup. I'll be treating this account as real money account. Still trying to find a way on how to adjust the % if there are many open trades but I'll get there in the future.
+
+The main purpose, to be honest, is to get feedback on analysis of trades, whether it is correct or incorrect. The second major reason is to train my chicken mentality of not placing trades due to the fear of losses. If I did my analysis, I should have the confidence to trade it. Bro Staurum also mentioned this once in reply to one of my post:If we are always second guessing, we cannot trade.
+
+If the trade is a win, great, I'll learn from those and that means some or all of my analysis is correct or mostly correct. If it is a loss, all the better, I will learn from those more than I learn from the winning trades, then use the lesson as a feedback for the next trades so I don't make the same mistakes. And most of all, I believe all of you here will guide me through my losing trades when you have the time. Account balance curve should be the last thing I should worry about because I understand that if I focus on the process of trading the right way, account balance curve will take care of itself.
+
+After watching the "curing perfectionism" video on bro Staurum's journal, I now somehow understand the reason why I can't make progress is really mainly because of the fear of failure and I expect RTM method to work ALL THE TIME (100% accuracy) right from the very first time I place an order until the time to exit.
+
+Mastery takes thousands of hours of practice, but I can't even start the first second of the journey just because I'm too afraid the trades will have many losses. I realized I was expecting a PERFECT, FLAWLESS method that can't lose 100% of the time, which I should understand by now that this expectation is just unrealistic. I also re-read Edge's markepedia article and that stands out in #1 (not surprising after understanding my own thought process)
+
+If I find some trade setup that don't work, I keep scouring the charts endlessly for ways to optimize the trade and how to make them work out so no losses occur. Usually by widening the zones, changing the level i thought the entries should be in, curve fitting targets so the trades work out before reversing to SL level, etc.
+
+My INTJ nature doesn't help in this case as well as I always beat myself up extra hard if something goes wrong or if I perceive something can go wrong (in my mind, those are losing trades). Bad self-talk happens or will happen inside my mind that says something along the lines of: "You're still not qualified to trade!", "You're still a noob, read everything again!", "You can never be a trader", "Your trade reasoning is crap!", etc.
+
+So for me, the plan for the rest of this week is to finish up on reading and to understand each of the puzzle piece down to its sub-atomic particles as best as I can (while realizing that I can't truly understand it in one sitting and that understanding will improve through screen time and analysis time). Tomorrow, I'll open a perpetual demo account ready for next week, when I will start to analyze charts in real-time and place demo trades to start the training process.
+
+Believe me, I'm not looking for any sympathy by typing up these words. The purpose is that I want to declare my fears out in the open so I can vanquish it and kill it down to its roots. Starting today, I will try my hardest to have faith in my abilities to improve. I will not blame outside circumstances for my current psychological condition, because if I blame external factors, I will never be able to control myself. I will focus on things that I can change first and that is myself.
+
+I apologize for this rambling. I'll get back on track starting next post. Thank you all for taking the time to visit my journal Thank you all for your continued guidance.
+FA: بعد از این‌همه تکلیف، فکر می‌کنم ایدهٔ خوبی است که یک حساب دمو باز کنم و کم‌کم همهٔ تکه‌های پازل را با تحلیل چارت‌ها و گرفتن معاملات دمو کنار هم بچینم.
+
+همهٔ معاملات، برنده یا بازنده، همراه با استدلال پشتشان و با ذکر کامل استاپ‌لاس، تارگت و هر مدیریت معامله‌ای که در طول معامله انجام شده، منتشر می‌شود.
+
+6 جفت‌ارز را برای این کار مطالعاتی استفاده می‌کنم: AUD/JPY، EUR/GBP، NZD/USD، USD/CAD، NOK/SEK، XAU/USD. تنها دلیل انتخاب این جفت‌ارزها این است که به نظر می‌رسد همبستگی ضعیفی با هم دارند (....و چون کانادا و اسکاندیناوی را دوست دارم). من به دلیلی از CHF خوشم نمی‌آید، پس فکر می‌کنم جفت‌ارزهای CHF را برای آینده بگذارم. قاعدهٔ مدیریت سرمایه برای ریسک، 1% از کل بالانس حساب در هر معامله است، یا 0.5% اگر به ستاپی کمتر مطمئن باشم. با این حساب مثل حساب پول واقعی رفتار می‌کنم. هنوز دنبال راهی هستم که اگر معاملات باز زیادی بود، درصد را چطور تنظیم کنم، اما در آینده به آن می‌رسم.
+
+هدف اصلی، راستش، گرفتن بازخورد دربارهٔ تحلیل معاملات است، درست باشد یا غلط. دلیل مهم دوم، تمرین دادن ذهنیت جوجه‌وارم است که از ترس ضرر معامله نمی‌گذارد. اگر تحلیلم را انجام داده‌ام، باید اعتماد داشته باشم که واردش شوم. برادر Staurum هم یک بار در پاسخ به یکی از پست‌هایم به این نکته اشاره کرد: اگر مدام در شک باشیم، نمی‌توانیم معامله کنیم.
+
+اگر معامله برنده شود، عالی است؛ از آن یاد می‌گیرم و این یعنی بخشی یا تمام تحلیلم درست یا عمدتاً درست بوده است. اگر ضرر شود، چه بهتر؛ از آن‌ها بیشتر از معاملات برنده یاد می‌گیرم و بعد درسش را به‌عنوان بازخورد برای معاملات بعدی به کار می‌برم تا همان اشتباه‌ها را تکرار نکنم. و مهم‌تر از همه، باور دارم همهٔ شما اینجا هر وقت وقت داشته باشید، در معاملات ضررده‌ام راهنمایی‌ام می‌کنید. منحنی بالانس حساب باید آخرین چیزی باشد که نگرانش هستم، چون می‌فهمم اگر روی فرایند درست معامله‌گری تمرکز کنم، این منحنی خودش درست می‌شود.
+
+بعد از دیدن ویدئوی «درمان کمال‌گرایی» در ژورنال برادر Staurum، حالا تا حدی می‌فهمم که دلیل نتوانستن در پیشرفت کردن، واقعاً عمدتاً ترس از شکست است و اینکه انتظار دارم روش RTM همهٔ مواقع کار کند (دقت 100%)، از همان نخستین بار که سفارش می‌گذارم تا لحظهٔ خروج.
+
+تبحر هزاران ساعت تمرین می‌خواهد، اما من حتی ثانیهٔ اول این سفر را هم نمی‌توانم شروع کنم، فقط چون بیش از حد می‌ترسم معاملات ضررهای زیادی داشته باشند. فهمیدم که انتظار یک روش کامل و بی‌عیب را داشتم که در 100% موارد ضرر نمی‌دهد، و باید تا حالا فهمیده باشم که این انتظار اصلاً واقع‌بینانه نیست. مقالهٔ Edge در markepedia را هم دوباره خواندم؛ آن مورد در رتبهٔ 1 برجسته بود (بعد از فهم روند فکری خودم، عجیب نیست).
+
+اگر ستاپ معاملاتی‌ای پیدا کنم که جواب نمی‌دهد، بی‌وقفه چارت‌ها را زیر و رو می‌کنم تا راهی برای بهینه کردن معامله و جوری از آب درآوردنش پیدا کنم که هیچ ضرری رخ ندهد. معمولاً با پهن‌تر کردن نواحی، عوض کردن سطحی که فکر می‌کردم ورودها باید در آن باشد، جا انداختن تارگت‌ها (curve fitting) تا معامله پیش از برگشت به سطح استاپ‌لاس جفت‌وجور شود، و از این قبیل کارها.
+
+طبیعت INTJ من هم در این مورد کمکی نمی‌کند، چون هر وقت چیزی خراب شود یا حس کنم ممکن است خراب شود، بیش از حد خودم را سرزنش می‌کنم (در ذهن من، آن‌ها معاملات ضررده هستند). خودگویی‌های منفی در ذهنم رخ می‌دهد یا رخ خواهد داد، چیزی شبیه این: «تو هنوز صلاحیت معامله کردن را نداری!»، «تو هنوز تازه‌کاری، همه‌چیز را دوباره بخوان!»، «تو هرگز نمی‌توانی معامله‌گر شوی»، «استدلال معاملاتی‌ات مزخرف است!» و غیره.
+
+پس برنامهٔ من برای باقی این هفته این است که خواندن را تمام کنم و هر تکه از پازل را تا حد ذرات زیراتمی‌اش، تا جایی که می‌توانم، بفهمم (و در همان حال بدانم که نمی‌توانم همه‌اش را در یک نشست واقعاً بفهمم و این درک با زمان گذاشتن پای چارت و زمان تحلیل بهتر می‌شود). فردا یک حساب دمو همیشگی باز می‌کنم که برای هفتهٔ آینده آماده باشد؛ آن‌وقت تحلیل چارت‌ها را در زمان واقعی شروع می‌کنم و برای آغاز فرایند تمرین، معاملات دمو می‌گیرم.
+
+باور کنید با نوشتن این حرف‌ها دنبال دلسوزی نیستم. هدف این است که ترس‌هایم را آشکارا اعلام کنم تا بتوانم شکستش بدهم و ریشه‌ای نابودش کنم. از امروز، نهایت تلاشم را می‌کنم که به توانایی‌هایم برای بهتر شدن ایمان داشته باشم. وضعیت روانی فعلی‌ام را به گردن شرایط بیرونی نمی‌اندازم، چون اگر عوامل بیرونی را مقصر بدانم، هرگز نمی‌توانم خودم را کنترل کنم. اول روی چیزهایی تمرکز می‌کنم که می‌توانم تغییرشان بدهم، و آن خودم هستم.
+
+بابت این پرحرفی عذرخواهی می‌کنم. از پست بعدی به ریل اصلی برمی‌گردم. ممنون که وقت گذاشتید و به ژورنالم سر زدید. از همهٔ شما برای راهنمایی‌های همیشگی‌تان سپاسگزارم.
+
+### frosty_p4_14
+EN: Weekly Analysis and Training - Week 1 Hi all, I just opened a demo account on Friday. It is from FXPro, due to the ease of demo account management in their web control panel and its' non- expiring demo account property. I'll start with the training of RTM-style trading starting Monday. Hope to learn from all of you here I've done all past analysis from HTF to LTF for the 6 instruments that I mentioned a few days ago.
+
+I've already noted where I'm going to look for PA on the LTF for each one of them.
+
+I'm not going to trade blindly from any level. If a good trade level was found after my weekly analysis, I will skip them.
+
+One of the many rules of my trading will be: DISCIPLINE. I will not chase trades. I will not force trades just for the sake of trading.
+
+Below is one of my analysis on one of the pairs, Gold.
+
+Monthly Chart In my humble opinion, price is trapped between these two boxes, i.e. the MPL of CPPAZ on the top, and the FL on the bottom.
+
+Price already broke into the CPPAZ and currently retracing down to collect orders for additional fuel to reach the MPL.
+
+I think from this scale, the previous information is the most we can get. Dropping to LTF next.
+
+Weekly Chart From this scale, we can see that price is held down by the swap FL. The target, which is shown on the chart, is the FL from the engulf of a CPPAZ at the bottom, which also coincides with a LS (not marked) Price hasn't reached its target at the bottom FL and is currently retracing to collect more orders in the swap FL. At this point, we can't clearly see where the last set of clean orders are.
+
+LTF needed for zooming in on potential trade areas.
+
+The second weekly chart shows the structure of the price history on the left and what I think is worth noting, i.e. the FTR after the break of all-time high, the DP to break the all-time high, and the reactions off the FTR. BSZ has formed below D and the next time back not shown in the second chart.
+
+Daily Chart We can now see where the last trick was played in the swap FL. This is the last clean sets of orders. Conveniently, there are many confluences that supports a trade inside the violet box, i.e. the trick area. Please see chart for what these confluences are.
+
+M15 Chart A closer look at the trick area, with their FLs. On the chart is how I would enter the trade.
+
+I will look for signs of approach PA to both of the marked areas, i.e. CP or CPLQ.
+
+If one of those occurs, I'll TT the entry price levels. If there is no clear approach PA, I'll get in later using engulf-retrace on LTF If I miss it altogether, I will move on since trading and life doesn't end then and there Monthly Chart Revisited This is what I predict the ITs will do in the future (if one of that IT is me )
+
+Hope is the bane of all traders and I don't hope this will happen. It is just a simple prediction based on my way of current thinking.
+
+PA will definitely show the way and adjustments definitely will be made according to new information later on.
+
+I will type up an elaborate trading plan for my personal use and to remind me of the rules that I should follow.
+
+I'll post the plan here for all of you to guide and correct. I just realized that the markets give us freedom to do whatever we pleased.
+
+We should create our own boundaries. From those boundaries, through persistence and feedback, we will create self-discipline. No boundaries, no self-discipline.
+
+As always, please feel free to correct anything in my posts. Thank you all for your continued gems of wisdom
+FA: تحلیل هفتگی و تمرین - هفتهٔ 1. سلام به همه، جمعه تازه یک حساب دمو باز کردم. حسابم از FXPro است، به خاطر راحتی مدیریت حساب دمو در پنل تحت وبشان و اینکه حساب دموی‌شان منقضی نمی‌شود. تمرین معامله‌گری به سبک RTM را از دوشنبه شروع می‌کنم. امیدوارم از همهٔ شما اینجا یاد بگیرم. همهٔ تحلیل‌های گذشته را از تایم‌فریم بالاتر تا تایم‌فریم پایین‌تر برای همان 6 ابزاری که چند روز پیش گفتم انجام داده‌ام.
+
+قبلاً یادداشت کرده‌ام که برای هر کدام از آن‌ها، PA را در کجای تایم‌فریم پایین‌تر جست‌وجو می‌کنم.
+
+قصد ندارم کورکورانه از هر سطحی معامله کنم. اگر بعد از تحلیل هفتگی‌ام سطح معاملاتی خوبی پیدا شود، از آن می‌گذرم.
+
+یکی از قواعد متعدد معامله‌گری‌ام این خواهد بود: نظم. دنبال معاملات نمی‌دوم. معامله‌ای را فقط به خاطر معامله کردن به خودم تحمیل نمی‌کنم.
+
+در ادامه یکی از تحلیل‌هایم روی یکی از جفت‌ارزها، یعنی طلا، را می‌آورم.
+
+چارت ماهانه: به نظر حقیر، قیمت بین این دو باکس گرفتار شده است؛ یعنی MPL مربوط به CPPAZ در بالا و FL در پایین.
+
+قیمت قبلاً به داخل CPPAZ شکسته و اکنون در حال اصلاح به پایین است تا سفارش جمع کند و سوخت اضافی برای رسیدن به MPL به دست آورد.
+
+فکر می‌کنم در این مقیاس، همین اطلاعات قبلی بیشترین چیزی است که می‌توانیم به دست آوریم. بعد به تایم‌فریم پایین‌تر می‌رویم.
+
+چارت هفتگی: در این مقیاس می‌بینیم که قیمت توسط FL سوآپ پایین نگه داشته شده است. تارگت که روی چارت نشان داده شده، همان FL حاصل از اینگالف یک CPPAZ در پایین است که با یک LS هم منطبق می‌شود (علامت‌گذاری نشده). قیمت به تارگت خود در FL پایین نرسیده و اکنون در حال اصلاح است تا در FL سوآپ سفارش بیشتری جمع کند. در این مرحله نمی‌توانیم به‌روشنی ببینیم آخرین دستهٔ سفارش‌های تمیز کجاست.
+
+برای نزدیک شدن روی نواحی معاملاتی بالقوه، به تایم‌فریم پایین‌تر نیاز است.
+
+چارت هفتگی دوم ساختار تاریخچهٔ قیمت در سمت چپ و چیزهایی را نشان می‌دهد که به نظرم ارزش توجه دارند؛ یعنی FTR پس از شکست سقف تاریخی، DP برای شکست سقف تاریخی، و واکنش‌های پس از FTR. یک BSZ زیر D شکل گرفته و بازگشت بعدی در چارت دوم نشان داده نشده است.
+
+چارت روزانه: حالا می‌توانیم ببینیم آخرین ترفند در FL سوآپ کجا اجرا شده است. اینجا آخرین دسته‌های سفارش تمیز است. خوشبختانه هم‌گرایی‌های زیادی هست که از یک معامله داخل باکس بنفش، یعنی ناحیهٔ ترفند، پشتیبانی می‌کند. برای دیدن این هم‌گرایی‌ها چارت را ببینید.
+
+چارت M15: نگاهی نزدیک‌تر به ناحیهٔ ترفند، همراه با FLهایش. روی چارت مشخص است که چطور وارد معامله می‌شوم.
+
+دنبال نشانه‌های PA نزدیک شدن به هر دو ناحیهٔ علامت‌خورده می‌گردم، یعنی CP یا CPLQ.
+
+اگر یکی از این‌ها رخ دهد، سطوح قیمتی ورود را TT می‌کنم. اگر PA نزدیک شدن روشنی نبود، بعداً با اینگالف-اصلاح در تایم‌فریم پایین‌تر وارد می‌شوم. اگر کلاً از دستش بدهم، می‌گذرم و می‌روم جلو، چون معامله‌گری و زندگی همان‌جا تمام نمی‌شود. بازگشت به چارت ماهانه: پیش‌بینی من این است که ITها در آینده چه می‌کنند (اگر یکی از همان ITها خودم باشم).
+
+امید، بلای جان همهٔ معامله‌گران است و من امید ندارم این اتفاق بیفتد. این فقط یک پیش‌بینی ساده بر اساس شیوهٔ تفکر فعلی من است.
+
+PA قطعاً راه را نشان خواهد داد و بعداً بر اساس اطلاعات تازه، حتماً تعدیل‌هایی انجام می‌شود.
+
+یک پلن معاملاتی مفصل برای استفادهٔ شخصی خودم تایپ می‌کنم و همچنین برای اینکه قواعدی را که باید رعایت کنم به خودم یادآوری کنم.
+
+پلن را همین‌جا می‌گذارم تا همهٔ شما راهنمایی و اصلاحش کنید. تازه فهمیدم که بازارها به ما آزادی می‌دهند هر کاری دلمان می‌خواهد بکنیم.
+
+ما باید مرزهای خودمان را بسازیم. از دل همان مرزها، با پشتکار و بازخورد، خودانضباطی می‌سازیم. بدون مرز، بدون خودانضباطی.
+
+مثل همیشه، اگر جایی در پست‌هایم ایراد دیدید، راحت اصلاحش کنید. از همهٔ شما برای جواهرات حکمت همیشه‌جاری‌تان سپاسگزارم.
+
+### frosty_p4_15
+EN: great job Frosty. let me add my SUBJECTIVE view on this. but i warn everyone, this is subjective view of newbie, don't follow it blindly...instead, i would be glad if everyone showed me my mistake, so i could learn too...
+FA: کارت عالی بود Frosty. اجازه بده نگاه سوبژکتیو خودم را هم به آن اضافه کنم. اما به همه هشدار می‌دهم، این دیدگاه شخصی یک تازه‌کار است، کورکورانه پایش نروید... در عوض، خوشحال می‌شوم اگر همه اشتباهم را نشانم بدهند تا من هم یاد بگیرم...
+
+### frosty_p4_16
+EN: Just a couple of minor things to look at on this chart mate. Amendments in purple and maroon. Your break into CP kink never hit the other end, where last clean orders reside. It still may be a FL, depending on whats left, but it cant be a break into CP FL based on the CP marked.
+
+the swap FL's purple MPL is the true PCP. with possible BSZ below
+FA: فقط چند نکتهٔ جزئی برای نگاه کردن در این چارت، رفیق. اصلاحات با بنفش و زرشکی مشخص شده‌اند. شکست تو به داخل کینک CP هرگز به سر دیگر نرسید، همان‌جایی که آخرین سفارش‌های تمیز قرار دارد. هنوز ممکن است یک FL باشد، بسته به اینکه چه چیزی باقی مانده، اما بر پایهٔ CPی که علامت زده‌ای، نمی‌تواند شکست به FLِ CP به حساب بیاید.
+
+MPL بنفش FL سوآپ، همان PCP واقعی است؛ با احتمال یک BSZ در پایین.
+
+### frosty_p4_17
+EN: Hi Edge and Mukhcin, Thank you for stopping by and pointing out the gaps in my understanding
+FA: سلام Edge و Mukhcin، ممنون که سر زدید و شکاف‌های درک من را نشان دادید.
+
+### frosty_p4_18
+EN: Thanks Edge that looks clearer. The more I zoom out that chart, the more I get unsure, the empty left sideon monthly and fxtop doesnt help either.
+
+looks like a safe move from swap FL to BSZ but overally the shorts to your target are expected from way up there.
+FA: ممنون Edge، حالا روشن‌تر است. هر چه بیشتر آن چارت را کوچک‌نمایی می‌کنم، بیشتر شک می‌کنم؛ سمت چپ خالی در تایم‌فریم ماهانه و fxtop هم کمکی نمی‌کند.
+
+به نظر یک حرکت بی‌خطر از FL سوآپ به BSZ می‌آید، اما در مجموع، پوزیشن‌های فروش تا تارگت تو از همان بالاها انتظار می‌رفت.
+
+### frosty_p4_19
+EN: Gold Trade #1 After re-analysis of the zones to trade and with the notes from bro Mukhcin & Edge, this is what I came up with.
+
+Comments are on the chart.
+
+Trade Details: Reason for entries:D1 BSZ looks obvious and PCP MPL hasn't been spiked yet Reason for SL level: LTF PCP MPL Risk %: 0.5% at entry 1, 0.5% at entry 2 This week has been super hectic at day job. Can't look at charts more than I wanted to.
+
+Repeating this mantra to myself every day to reprogram my subconscious: "I am not afraid of losses because I will learn from them and improve my trading ability every time. I will analyze and learn from my losses and move on.
+FA: معاملهٔ طلا شمارهٔ 1. پس از تحلیل دوبارهٔ نواحی معاملاتی و با یادداشت‌های برادر Mukhcin و Edge، به این نتیجه رسیدم.
+
+توضیحات روی چارت است.
+
+جزئیات معامله: دلیل ورودها: BSZ در D1 بدیهی به نظر می‌رسد و MPL مربوط به PCP هنوز اسپایک نشده است. دلیل سطح استاپ‌لاس: MPL مربوط به PCP در تایم‌فریم پایین‌تر. درصد ریسک: 0.5% در ورود 1 و 0.5% در ورود 2. این هفته سر کار اصلی‌ام فوق‌العاده شلوغ بوده است. نمی‌توانم بیشتر از آنچه می‌خواستم چارت ببینم.
+
+هر روز این مانترا را برای خودم تکرار می‌کنم تا ناخودآگاهم را بازبرنامه‌ریزی کنم: «از ضرر نمی‌ترسم، چون از آن‌ها یاد می‌گیرم و هر بار توان معامله‌گری‌ام را بهتر می‌کنم. ضررهایم را تحلیل می‌کنم، از آن‌ها درس می‌گیرم و پیش می‌روم.»
+
+### frosty_p4_20
+EN: Way to go Frosty; great mantra, works for me too.
+FA: آفرین Frosty؛ مانترای خوبی است، برای من هم جواب می‌دهد.
+
+### frosty_p4_21
+EN: EUR/GBP Trade #1 Next up is this trade entry from a nice price cap. I realized price could fake past the zone too since there looks like a pin bar on the W1 timeframe and there should be stops beyond it. But as I have been trying to program myself to do, i.e. believe in my own analysis, I will take the trade. Win or lose, it is all about the learning process and the annihilation of my chicken mentality Trade Details: Reason for entries:confluence with HTF LS, beautiful price cap, clean orders inside LTF FL and also iQM Reason for SL level: Above obvious cap level Risk %: 0.5% at entry 1, 0.5% at entry 2
+FA: معاملهٔ EUR/GBP شمارهٔ 1. بعدی این ورود معاملاتی از یک کپ قیمتی خوب است. متوجه شدم که قیمت می‌تواند از ناحیه هم فیک بزند و رد شود، چون در تایم‌فریم W1 یک پین‌بار به نظر می‌رسد و باید استاپ‌هایی آن‌سوترش باشد. اما همان‌طور که تلاش کرده‌ام خودم را برنامه‌ریزی کنم، یعنی به تحلیل خودم باور داشته باشم، این معامله را می‌گیرم. برنده یا بازنده، همه‌اش دربارهٔ فرایند یادگیری و نابودی ذهنیت جوجه‌وار من است. جزئیات معامله: دلیل ورودها: هم‌گرایی با LS در تایم‌فریم بالاتر، کپ قیمتی زیبا، سفارش‌های تمیز داخل FL در تایم‌فریم پایین‌تر و همچنین iQM. دلیل سطح استاپ‌لاس: بالای سطح کپ بدیهی. درصد ریسک: 0.5% در ورود 1 و 0.5% در ورود 2.
+
+### frosty_p4_22
+EN: @bro Linos: Thank you for the confirmation of the mantra, brother. If it works for you, I believe it will work for me too Next up is the creation of a trading plan. Obviously it will have a lot of flaws at first, but I believe it will improve with time.
+
+After reanalyzing the speed of my chart analysis (which is in the snail pace category), I'll cut down on two more of the pairs that I will be watching, i.e. NZD/USD and NOK/SEK. NZD/USD is approximately inverse of USD/CAD, so this should be redundant. NOK/SEK looks blocky because exotics (for obvious reasons) have less trading volume.
+
+So now I have only 4 focus pairs in my study list: AUD/JPY, EUR/GBP, USD/CAD, Gold.
+
+That should cover most currencies and correlating trades shouldn't be a problem.
+
+Trading volume is also sufficient to make the charts not looking square- ish/blocky.
+
+As I said before, the choice is purely arbitrary other than correlation considerations.
+
+Personal Trading Plan for Study Phase: - Objective of study phase:learn where is the most likely price level that price will bounce, annihilation ofmentality - Starting capital (demo):$5,000 - Risk per trade:1% of total account balance per trade - Minimum RR ratio: 1:1.5 risk:reward (will improve with time and study) - Pairs to trade:AUD/JPY, EUR/GBP, USD/CAD, Gold - Entries:divided into two equal-risk parts at relevant zones, mainly to scale in - Reason for dividing entries:the objective is to find the larger FL that price will react to in study phase. Sniper accuracy will come later with screen time. - Stops:the same level for both entries.
+
+- Reason for placing stops at the same price level:the SL level is the logical place on the chart where the trade is invalidated due to incorrect analysis. - Exits:exit the positions at first and second trouble areas, i.e. HTF SR.
+
+FL, next origin of move, and keep the smallest lot possible to run indefinitely to see ultimately where price potentially goes to for learning process. *Side comment*: Not trying to divert attention from RTM materials, I remember I've read a good thread at FF regarding the benefit of keeping positions indefinitely. Here it is for anyone wants to read it. I will remove the link if it is inappropriate.
+
+- Trade ALL setups that have been analyzed and personally judged as a good setup - Do not force trades that have not been analyzed. If a trade is missed, move on to the next opportunity. Don't chase trades - Do visualization exercises every morning and night. This is personalized, but basically it is a subconscious reprogramming technique that I learned from the book "Psychocybernetics" by Dr. Maxwell Maltz. I eliminated 100% of my road rage problem with this technique. I believe it will help me with trading and other endeavors too.
+
+Tools and Color Schemes: Might as well standardize this too for ease of reanalyzing the trades.
+
+MT4 Tools: - Rectangle Extender – Automatically extend boxes and lines.
+
+- News Calendar – Shows upcoming and previous news (bottom right of chart).
+
+- Drawing Tools – Used for drawing boxes and lines (bottom left of chart). - Spread and Lot Pip Indicator – Shows the spread, lot pip, and pair symbol (top right of chart).
+
+Color Schemes: - Major High/Low – Red/Blue horizontal trend lines - Minor or Lower Timeframe High/Low – Violet/Green horizontal trend lines - Major Upper Flag Limit/Lower Flag Limit – Red/Blue hollow rectangles - Minor Upper Flag Limit/Lower Flag Limit – Violet/Green hollow rectangles - Clean orders, spiked orders, and MPL at Upper Flag Limit – Thistle, Violet, Khaki solid rectangles - Clean orders, spiked orders, and MPL at Lower Flag Limit – Powder Blue, Cornflower Blue, Pale Green solid rectangles
+FA: @برادر Linos: ممنون که مانترا را تأیید کردی، برادر. اگر برای تو جواب می‌دهد، باور دارم برای من هم می‌دهد. مورد بعدی، ساختن یک پلن معاملاتی است. واضح است که در ابتدا ایرادهای زیادی خواهد داشت، اما باور دارم با گذشت زمان بهتر می‌شود.
+
+بعد از بازبینی سرعت تحلیل چارتم (که در دستهٔ سرعت حلزون قرار می‌گیرد)، دو جفت‌ارز دیگر را از فهرست جفت‌ارزهایی که زیر نظر می‌گیرم حذف می‌کنم؛ یعنی NZD/USD و NOK/SEK. NZD/USD تقریباً معکوس USD/CAD است، پس باید تکراری باشد. NOK/SEK هم بلوکی به نظر می‌رسد، چون جفت‌ارزهای اگزوتیک (به دلایل واضح) حجم معاملاتی کمتری دارند.
+
+پس حالا فقط 4 جفت‌ارز اصلی در فهرست مطالعه‌ام دارم: AUD/JPY، EUR/GBP، USD/CAD و طلا.
+
+این باید بیشتر ارزها را پوشش بدهد و معاملات هم‌بسته هم مشکلی ایجاد نمی‌کند.
+
+حجم معاملات هم کافی است تا چارت‌ها مربعی و بلوکی به نظر نرسند.
+
+همان‌طور که قبلاً گفتم، جز بحث هم‌بستگی، این انتخاب کاملاً دلبخواه است.
+
+پلن معاملاتی شخصی برای فاز مطالعه: - هدف فاز مطالعه: یاد گرفتن اینکه محتمل‌ترین سطح قیمتی‌ای که قیمت از آن باز می‌گردد کجاست، و نابودی ذهنیت جوجه‌وار - سرمایهٔ اولیه (دمو): $5,000 - ریسک در هر معامله: 1% از کل بالانس حساب در هر معامله - حداقل نسبت RR: 1:1.5 ریسک به ریوارد (با گذشت زمان و مطالعه بهتر می‌شود) - جفت‌ارزهای معاملاتی: AUD/JPY، EUR/GBP، USD/CAD، طلا - ورودها: تقسیم‌شده به دو بخش با ریسک برابر در نواحی مربوطه، عمدتاً برای ورود پله‌ای - دلیل تقسیم ورودها: هدف در فاز مطالعه این است که FL بزرگ‌تری را که قیمت به آن واکنش می‌دهد پیدا کنیم. دقت تکتیراندازی بعداً با زمان گذاشتن پای چارت می‌آید. - استاپ‌ها: یک سطح یکسان برای هر دو ورود.
+
+- دلیل گذاشتن استاپ‌ها روی یک سطح قیمتی: سطح استاپ‌لاس همان جای منطقی روی چارت است که معامله به دلیل تحلیل نادرست باطل می‌شود. - خروج‌ها: خروج از پوزیشن‌ها در اولین و دومین ناحیهٔ دردسر، یعنی SR در تایم‌فریم بالاتر.
+
+FL، مبدأ بعدی حرکت، و نگه داشتن کوچک‌ترین لات ممکن برای اجرای نامحدود، تا در نهایت ببینیم قیمت به کجا می‌تواند برود، برای فرایند یادگیری. *حاشیه*: قصد ندارم توجه را از مطالب RTM منحرف کنم؛ یادم می‌آید تاپیک خوبی در FF خوانده بودم دربارهٔ فایدهٔ نگه داشتن پوزیشن‌ها برای مدت نامحدود. این هم لینکش برای هر کس که بخواهد بخواند. اگر نامناسب بود حذفش می‌کنم.
+
+- همهٔ ستاپ‌هایی را که تحلیل شده و شخصاً خوب تشخیص داده شده‌اند معامله کن - معاملاتی را که تحلیل نشده‌اند به خودت تحمیل نکن. اگر معامله‌ای از دست رفت، برو سراغ فرصت بعدی. به دنبال معامله نرو - هر صبح و شب تمرین‌های تجسم انجام بده. این کار شخصی‌سازی شده است، اما در اصل یک تکنیک بازبرنامه‌ریزی ناخودآگاه است که از کتاب «Psychocybernetics» نوشتهٔ دکتر Maxwell Maltz یاد گرفتم. با این تکنیک 100% مشکل خشم پشت فرمانم را حل کردم. باور دارم در معامله‌گری و کارهای دیگر هم به من کمک می‌کند.
+
+ابزارها و طرح رنگ‌ها: بهتر است این را هم برای راحتی تحلیل دوبارهٔ معاملات استاندارد کنم.
+
+ابزارهای MT4: - Rectangle Extender – باکس‌ها و خطوط را به‌طور خودکار امتداد می‌دهد.
+
+- News Calendar – اخبار پیش‌رو و قبلی را نشان می‌دهد (پایین سمت راست چارت).
+
+- Drawing Tools – برای رسم باکس‌ها و خطوط استفاده می‌شود (پایین سمت چپ چارت). - Spread and Lot Pip Indicator – اسپرد، پیپ لات و نماد جفت‌ارز را نشان می‌دهد (بالا سمت راست چارت).
+
+طرح رنگ‌ها: - سقف/کف اصلی – خطوط روند افقی قرمز/آبی - سقف/کف فرعی یا تایم‌فریم پایین‌تر – خطوط روند افقی بنفش/سبز - حد بالایی/پایینی FL اصلی – مستطیل‌های توخالی قرمز/آبی - حد بالایی/پایینی FL فرعی – مستطیل‌های توخالی بنفش/سبز - سفارش‌های تمیز، سفارش‌های اسپایک‌شده و MPL در حد بالایی FL – مستطیل‌های توپر Thistle، Violet و Khaki - سفارش‌های تمیز، سفارش‌های اسپایک‌شده و MPL در حد پایینی FL – مستطیل‌های توپر Powder Blue، Cornflower Blue و Pale Green
+
+### frosty_p4_23
+EN: EUR/GBP Trade #1 - Update The first target for the trade, in my opinion, is the origin of the LQ spike as shown in the chart.
+
+I'm looking to remove 75% of my positions there and leave the remaining 25% for a runner.
+
+Current trade analysis: - iQM level is ignored twice on the way up and down, but then provided a bounce as well later on. - Missed entry by 1.2 pips. Actually, without the 3 pip buffer, my trade would have missed by 4+ pips. This is because of lack of proper FL analysis on LTF (see the reason in second chart above)
+
+- R:R ratio is bad, i.e. less than 1. I decided to not really worry about this at the moment. As I said in the previous objective, I would need to learn where is the most likely price level that price will bounce. If I understand this, surely a better R:R ratio will follow. - Psychological: I hate swaps. I hate swaps. I hate swaps. Since the start of my trading journey, I really thought swaps were OK and it is part of the costs involved. Currently my brain says it definitely is not OK. Will see in the future how my mind handle positive swaps in other trades.
+
+I'll post my thought process here as well as my chart analysis and trade updates when time permits. I believe psychological issues should also be addressed to have total mastery in choosing trading as a business.
+
+Thank you all for your continued golden advice
+FA: معاملهٔ EUR/GBP شمارهٔ 1 - به‌روزرسانی. به نظر من، نخستین تارگت این معامله، مبدأ اسپایک LQ است، همان‌طور که در چارت نشان داده شده.
+
+قصد دارم 75% از پوزیشن‌هایم را همان‌جا ببندم و 25% باقی‌مانده را برای یک رانر نگه دارم.
+
+تحلیل فعلی معامله: - سطح iQM دو بار در مسیر بالا و پایین نادیده گرفته شده، اما بعدها یک بازگشت هم داده است. - ورود را 1.2 پیپ از دست دادم. راستش بدون آن بافر 3 پیپی، معامله‌ام با اختلاف 4+ پیپ از دست می‌رفت. دلیلش کمبود تحلیل درست FL در تایم‌فریم پایین‌تر است (دلیلش را در چارت دوم بالا ببینید).
+
+- نسبت R:R بد است، یعنی کمتر از 1. تصمیم گرفتم فعلاً زیاد نگرانش نباشم. همان‌طور که در هدف قبلی گفتم، باید یاد بگیرم که محتمل‌ترین سطح قیمتی‌ای که قیمت از آن باز می‌گردد کجاست. اگر این را بفهمم، مطمئناً نسبت R:R بهتری هم به دنبالش می‌آید. - روانی: از سوآپ بدم می‌آید. از سوآپ بدم می‌آید. از سوآپ بدم می‌آید. از شروع سفر معامله‌گری‌ام، واقعاً فکر می‌کردم سوآپ اشکالی ندارد و بخشی از هزینه‌های کار است. الان مغزم می‌گوید قطعاً اشکالی دارد. در آینده خواهیم دید ذهنم سوآپ‌های مثبت در معاملات دیگر را چطور مدیریت می‌کند.
+
+هر وقت وقت اجازه بدهد، روند فکری‌ام را همراه با تحلیل چارت و به‌روزرسانی معاملات همین‌جا می‌گذارم. باور دارم برای تسلط کامل در انتخاب معامله‌گری به‌عنوان یک کسب‌وکار، باید مسائل روانی هم حل شوند.
+
+از همهٔ شما برای توصیه‌های طلایی همیشگی‌تان سپاسگزارم.
+
+### frosty_p4_24
+EN: EUR/GBP Trade #1 - Trade Closed Closed all positions. The reason is because it looks like SL got close to being tagged, but the 1 pip SL buffer and adding the average spread actually saved me this time.
+
+I closed the positions as soon as I see price already touched the kink of the red line (marked on the chart), which is the target for shorts after the engulf of CP area to the left. The high of the FL was at 0.91415 and price then went to 0.91424. My SL was at 0.91462. My general SL formula for shorts is: high of FL + 1 pip buffer + average spread for the pair rounded up (in this case it was 3.7 pips). Theoretically, my SL was hit and I should exit my positions. Theory and practice is really different After tagging the theoretical SL level, price turned and produced a nice bounce. I believe if price is turning where my stop loss is, then I must be close to understanding some of RTM materials Interesting thing about the W1 pinbar that I mentioned in post 120, the last move collected the stops above that and produced the decent bounce Onto the next opportunity. Please see chart.
+
+Did I get the logic right here?
+
+As always, thank you for all of your comments and continued guidance
+FA: معاملهٔ EUR/GBP شمارهٔ 1 - بسته شدن معامله. همهٔ پوزیشن‌ها را بستم. دلیلش این است که به نظر می‌رسید استاپ‌لاس نزدیک بود لمس شود، اما بافر 1 پیپی استاپ‌لاس و اضافه کردن میانگین اسپرد این بار نجاتم داد.
+
+به محض اینکه دیدم قیمت به کینک خط قرمز (که روی چارت علامت‌خورده) رسیده، پوزیشن‌ها را بستم؛ آن خط تارگت پوزیشن‌های فروش پس از اینگالف ناحیهٔ CP در سمت چپ است. سقف FL روی 0.91415 بود و قیمت بعد به 0.91424 رفت. استاپ‌لاس من روی 0.91462 بود. فرمول کلی استاپ‌لاس من برای پوزیشن‌های فروش این است: سقف FL + بافر 1 پیپ + میانگین اسپرد جفت‌ارز، رُند شده به بالا (که در این مورد 3.7 پیپ بود). به لحاظ نظری، استاپ‌لاسم خورده بود و باید از پوزیشن‌ها خارج می‌شدم. نظریه و عمل واقعاً فرق دارند. بعد از لمس سطح نظری استاپ‌لاس، قیمت برگشت و بازگشت خوبی داد. باور دارم اگر قیمت همان‌جا که استاپ‌لاس من است برمی‌گردد، پس باید به فهم بخشی از مباحث RTM نزدیک شده باشم. نکتهٔ جالب دربارهٔ پین‌بار W1 که در پست 120 گفتم: حرکت آخر استاپ‌های بالای آن را جمع کرد و همان بازگشت قابل‌ملاحظه را ساخت. به سراغ فرصت بعدی. لطفاً چارت را ببینید.
+
+آیا منطق کار را درست پیش برده‌ام؟
+
+مثل همیشه، از همهٔ نظرات و راهنمایی‌های همیشگی‌تان سپاسگزارم.
+
+### frosty_p4_25
+EN: Although this could retrace very deeply, you did the right thing to close where you did.
+
+Your FL was broken, so your short lost its validity Nice work
+FA: با اینکه ممکن است این خیلی عمیق اصلاح کند، اما بستن در همان نقطه‌ای که بستی کار درستی بود.
+
+FL تو شکسته شد، پس پوزیشن فروشت اعتبارش را از دست داد. خوب کار کردی.

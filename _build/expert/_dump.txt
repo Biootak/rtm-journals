@@ -1,0 +1,1134 @@
+===== ftrpaz-p2 n=25
+--- [0] ftrpaz_p2_26 e97b81d4d589de4f1f27f2dc0043cf97fb3f5925
+Hey DT.
+
+I am new at this too. Your analysis is good with regards to the 15min chart. I agree that the demand there would need to be taken out before price enters that CP zone and falls. The issue that I seem to have to work out is that I don't know how price on the 15min chart can stop the 2hr time frame. It would seem that the HTF would dominate the LTF levels.
+--- [1] ftrpaz_p2_27 50abc54eb27ee8c1d24c7c98c9cc9d0461bfd89b
+tcee
+
+Hello,
+
+I'm not sure if I understood the concept of FTR and PAZ right and would like to ask some questions.
+
+Here's my take on FTRs (any comments and corrections are very appreciated):
+
+1.FTRs are basically levels where one could expect enough supply or demand to drive price in a certain anticipated direction (i.e. to the next lower/upper FTR). So an FTR by definition must be a DBR, RBD, DBD or RBR. Is that correct?
+
+2. An FTR not only has meaning when price gets there for the first time and bounces of it, but also when it gets engulfed and switches sides (e.g. from supply to demand).
+
+But what does the term 'Failure to Return' exactly mean? Does it mean that the level was formed during price's failed attempt to get to the previous supply/demand level? If that is the case then two consecutive FTRs must by definition have a PAZ between them. Because if price would have made it to the previous FTR, it wouldn't be a 'failed' attempt in the first place, right? And it would explain why Pedini has not highlighted this yellow level in the chart below. Or am I just seeing things here?
+
+So when an FTR gets engulfed it is a hint that price may reach for the next FTR, which gives us a nice target. So if after the engulfing price retraces to the now broken FTR, we get a great opportunity for an entry because we can assume that the former resistance now acts as support (or vice versa). From this perspective the concept of FTR gives us everything we need: a pretty sure shot entry, stop loss and target level.
+
+Is that what FTRs are all about?
+
+I hope I did not make it too complicated. Thanks for your help!
+--- [2] ftrpaz_p2_28 dbc32a420d5c3cd9a9895d834247c4f9712244d3
+tcee
+
+Here's my attempt to define FTR and PAZs. Three questions:
+
+1. Are those valid FTRs?
+
+2. Did I miss any?
+
+3. What about the 2nd zone from the bottom - is that an FTR, too? If my assumptions from the previous post are right then it isn't.
+
+Thanks for your help!
+--- [3] ftrpaz_p2_29 138fa74356858ecd74b48f54ee89e47dbf2282dc
+Hey Tcee,
+
+Here is my take on your question. I hope this helps.
+--- [4] ftrpaz_p2_30 b8815ac1caa821e672168093faedb1d9140430c5
+AERO
+
+Hey Daft, felt like placing some PAZs on yout chart, as i see them.
+
+MIKY:)
+--- [5] ftrpaz_p2_31 e46b0151e8491d340bf3e3f466f480fc0080cc4e
+Aaron
+
+Cheers Miky,
+
+Much appreciated and please if you have time do it more often, it helps a lot buddy
+
+This chart is filed away in the important charts:)
+
+DT
+--- [6] ftrpaz_p2_32 99ab0911bda491490046af09719bfb34c4f6c2b1
+rcmacf
+
+AERO wrote: Hey Daft, felt like placing some PAZs on yout chart, as i see them.
+
+Looking at this chart I'd say that the little RBD marked as the FL is the FTR, failing to return into the area above the flip noted.
+
+So, what's marked as the FTR is the FTB.
+
+I'm out of practice, though.
+--- [7] ftrpaz_p2_33 0f15d6796c22d903958d3d23509344eb4dc2914d
+Aaron
+
+Hi rcmacf,
+
+I think I understand what you mean mate. To me on that TF which is the 2hr, I believe was a FL due to the base and there was no clear FTR, I am not saying your wrong because if you look at other examples on your chart, what appears as a FL on the 2hr may be a nice looking FTR on the 30 min TF. But yes it could well be considered an FTR too.
+
+You said 'What's marked as the FTR is the FTB', that is spot on, but remember that FTB is also another FTR too as price failed to return to the supply which is the FL/FTR.
+
+1707
+
+I don't know if what I have just written is clear or not buddy, sometimes I write expecting everyone to understand exactly as I am thinking.
+
+Good job
+
+DT
+--- [8] ftrpaz_p2_34 fa32a7883a4b5e0ddf7c1d786177b699ac789bc4
+tcee
+
+Hotochin wrote: Hey Tcee,
+
+Here is my take on your question. I hope this helps.
+
+Thanks Hotochin. I understand that there's much more to it than I previously thought. I've already see IFs video on this topic but have to see it again...
+--- [9] ftrpaz_p2_35 e4e6decef07e02367dd628e3ee42def470e30363
+Hi TCEE, These is exactly the same (1) question which I had put some days back.From the answers I received and after going through several posts and journals I feel the following. This is only what "I" feel. The FTR is actually the RBD/DBR/RBR/DBD.As you rightly said.Please find the pictorial explanation......Also note this is what I feel.Seniors please correct if needed.
+--- [10] ftrpaz_p2_36 a0bcd976680ceb9048eb995955a0431092f8c017
+tcee
+
+harshrthakkar, thanks for your help. Your chart makes it pretty clear. The
+
+engulfing part was what I was missing. Thank you!
+--- [11] ftrpaz_p2_37 ba3446441d69cded4b57d93070f559fbc832c4d4
+My pleasure.Thanks goes to IF and all seniors here.
+--- [12] ftrpaz_p2_38 2099ad3d9cb1f92dc99b07cbc6be4682d7453896
+AERO
+
+rcmacf wrote: Looking at this chart I'd say that the little RBD marked as the FL is the FTR, failing to return into the area above the flip noted.
+
+So, what's marked as the FTR is the FTB.
+
+I'm out of practice, though.
+
+Hey man, i agree. As i see what there is noted as FL represents an untested FTR until price retraces to it and fills the orders. In that case what is in the picture defined as FTR is really a FTB - retrace. (EDIT)
+
+harshrthakkar wrote: Hi TCEE, These is exactly the same (1) question which I had put some days back.From the answers I received and after going through several posts and journals I feel the following. This is only what "I" feel. The FTR is actually the RBD/DBR/RBR/DBD.As you rightly said.Please find the pictorial explanation......Also note this is what I feel.Seniors please correct if needed.
+
+This i how i see it work.:)
+
+Hope this helps.
+
+MIKY
+--- [13] ftrpaz_p2_39 cd76a2afd5b274c0acc8555fe685b2ab3e0e8cfd
+Hi TCEE, One thing I felt should be brought to you is this.
+--- [14] ftrpaz_p2_40 6895fcba41fd9e5b9169813976f2ca300135679a
+tcee
+
+Thank you very much, AERO!
+--- [15] ftrpaz_p2_41 c4a5ee3796d30c56847278f652541d5bce740893
+MIKY, You are correct.Rightly identified the lower FTR and PAZ.
+--- [16] ftrpaz_p2_42 90d3ae73ff9e3d4ac540fc7b562bd74fd6482845
+Aaron
+
+Hi all,
+
+rcmacf, Aero.
+
+If I understand correctly what this current conversation is about regarding the chart below, I would have to politely disagree, I still stand by what I wrote on the chart, not that it matters in any case as price reacted to it nonetheless.
+
+1707
+
+DT
+--- [17] ftrpaz_p2_43 64eab764d39a0cafe6922739902cac7ac9468cb5
+AERO
+
+Daft trader 1 wrote: Hi all,
+
+rcmacf, Aero.
+
+If I understand correctly what this current conversation is about regarding the chart below, I would have to politely disagree, I still stand by what I wrote on the chart, not that it matters in any case as price reacted to it nonetheless.
+
+I welcome it man! As long it is logical to you! and price repeatedly confirms it, then keep up with it!!:) It been stated: AS I SEE IT:) Just take what is logical to you and move on.
+
+I know in my learning i wouldnt want to trade QM if i dont truely know why it works ( The story behind it). Its a clear visual pattern thats for sure, but i rather trade something that is backed with my understanding and my mind wont go crazy after an unsuccseful trade. Its pointless to tell your mind: "Ah its ok, its gonna work next time, i have seen this pattern work on many charts on RTM and on my platform. The probability is high so i will go with it. I mean... i will need to fight my emotions when it doesnt work, but its ok, that stress i can handle."
+
+This has been leading idea for me:
+
+Just trade what you really understand.:) And i am sure using this one will sooner or later, come close to the understanding one is after. It has proven working for me.
+
+Just my 2 cents MIKY
+--- [18] ftrpaz_p2_44 efade29b3369ca4e321e695f2ec1c668a9d2eab7
+Aaron
+
+Cheers Miky,
+
+U know, I had it sealed in my mind what an FTR and what a FL represents, and yes it does make total sense to me. I was happy to see someone questioning a chart of mine, it makes me think why I marked it this way and that way, and I really want more of it
+
+As always Miky, your words are wise, cheers.
+
+DT
+--- [19] ftrpaz_p2_45 e086ae3992c1a59a12d1f79775fc19e4e1132963
+Aaron
+
+Hi guys,
+
+I am currently studying CP PAZs, however I am beginning to look at FTR PAZs. This is very much my first attempt at this P.A concept, would any kind soul be gooe enough to correct me or advise where needed...
+
+1707
+
+Cheers all
+
+DT
+--- [20] ftrpaz_p2_46 7c827faf0d89c033143dfe5fb1900f00584ddd2f
+Aaron
+
+Any comments?
+
+1707
+
+DT
+--- [21] ftrpaz_p2_47 d8e8b1e3f2c6d5a9771db3d0fe42e95fee724238
+tcee
+
+Great concise charts, DT.
+
+Before I came here these engulfings always equaled failed trades to me. Now I see that they can be signals for succesful trading in and of themselves. Thank you very much.
+--- [22] ftrpaz_p2_48 055e6e18e730666ec37f7583e7d1cb760de1f3a7
+Aaron
+
+Cheers Andy,
+
+However I do not see many entry points as of yet using the FTR PAZ concept, I think they are correct, I will keep plugging away until another lightbulb hopefully switches on, I am happy the charts are helping
+
+DT
+--- [23] ftrpaz_p2_49 8e8c8da983a670c7d442ac3976fab74e3e05a2e0
+Aaron
+
+1707
+--- [24] ftrpaz_p2_50 1f45cc8d0ea374761db4b00fc8dca7df22310c84
+tcee
+
+Daft trader 1 wrote: Cheers Andy,
+
+However I do not see many entry points as of yet using the FTR PAZ concept, I think they are correct, I will keep plugging away until another lightbulb hopefully switches on, I am happy the charts are helping
+
+DT
+
+Hi DT, yes, I've got the same problem (see here ). My trading until now was solely based on rudimentary knowledge of supply and demand levels (DBR, RBD etc.). That's not sufficient to identify those entry points. But I'm sure it will come over time.
+
+Keep up the great work!
+===== ftrpaz-p3 n=25
+--- [0] ftrpaz_p3_51 4f9f5d86f571876e1c0442c3a6bfbe59f9c1b2ff
+Aaron
+
+Hi Andy,
+
+I don't know if you're a Sam Seiden fan, but I know I was and thought I found the holy grail in him, and I started live trading it with no success! I then thought to myself as you probably have, there MUST be something to give me a hint or a clue as to whether a SD - SR zone will hold or not, that is when I found RTM recommended by a freidn who also trades, it's a puzzle, but once you fit the pieces together, BOY, I bet that is a feeling so great that its unimaginable, that is my motivation, as I am sure it is yours too.
+
+1707
+
+A few more examples:
+
+DT
+--- [1] ftrpaz_p3_52 df8d9777a5f62feb452c360da5c00eb7009873c0
+tcee
+
+Daft trader 1 wrote: Hi Andy,
+
+I don't know if you're a Sam Seiden fan, but I know I was and thought I found the holy grail in him, and I started live trading it with no success! I then thought to myself as you probably have, there MUST be something to give me a hint or a clue as to whether a SD -SR zone will hold or not, that is when I found RTM recommended by a freidn who also trades, it's a puzzle, but once you fit the pieces together, BOY, I bet that is a feeling so great that its unimaginable, that is my motivation, as I am sure it is yours too.
+
+We've got that in common, DT. I thought the exact same thing when I stumbled upon Sam Seiden. And it really helped me a lot. But I was still far from being profitable. I took some time off and a slowly became obsessed with the idea that there must be something missing, something someone must already have found. And so it does not embarrass me in the least to confess that I came across Ifmyante and RTM while googling "sam seidens secret", LOL Now here I am and very happy with it.
+
+Please keep them charts coming, DT1, I learn a lot from them! And I'm sure you will see the light very soon.
+
+To make this not a complete off-topic, here's a chart from me. Your comments are very much appreciated.
+--- [2] ftrpaz_p3_53 45d8f3c50a7b0814ef4359f51da0a67b8c5a963c
+Aaron
+
+Hi,
+
+Merry Christmas to all BTW, you see, living abroad in Asia, Christmas is not the same as back home, so I do not really 'feel' the Christmas spirit, anyway I would much rather be charting
+
+I don't really have much to say on this chart, the only thing that 'stuck out'
+
+to me was the fact that we did engulf into the PAZ, but we also filled the zone, in other words, we hit the next edge, so I would not have taken the RT trade, I have circled the areas showing where I believe price has hit the next edge, have a look and see what you think buddy.
+
+1707
+
+DT
+--- [3] ftrpaz_p3_54 29f4a0833d49a1d672c3c95700f91d3a0df6bec9
+tcee
+
+Daft trader 1 wrote: Merry Christmas to all BTW, you see, living abroad in Asia, Christmas is not the same as back home, so I do not really 'feel' the Christmas spirit, anyway I would much rather be charting
+
+Merry christmas to you too, DT1, and thanks for the analysis of my chart. I've got two questions:
+
+1. Regarding the lowest FTR you added to my chart: is that a correction of my lowest FTR or do you think they are both valid?
+
+2. I always struggled with finding the edges/zones where price is likely to turn around. How do you define those edges? Why exactly do you expect that upper FTR to be such an edge? Is that something that is revealed by the FTR itself or by some more general price action?
+
+Thank you very much for your great help, DT1. BTW: You have not by any chance been a long term member of the James16 thread, have you?
+--- [4] ftrpaz_p3_55 78d0295b5e7e91db57bed5a13ff452dbe05b4efe
+Aaron
+
+Hi Andy,
+
+I am so happy my analysis is helping you, I really am, however I will feel terrible if it is not the 'correct' advice. Usually if I say or mark up something wrong a senior normally jumps in to correct, so this is good.
+
+What I marked on your chart I believe is a FL, well to me it is, some may see it as an FTR and in a sense it is, as price failed to return to the true demand below. I have marked an SR on you chart, notice how price broke through (engulfed) then based and took off, engulfing the high (you marked in blue).
+
+1707
+
+With regards to your first question, I do hope I understand too When something engulfs something such as your high in blue I always look for the DP that broke the low or high in this case, do you see how price nearly came back to the DP? I believe you maybe right my friend with regards to the correction, price broke supply, your blue marked area and this now becomes demand, and price was just reacting from the left over orders that were there. Please don't get confused with why I placed my FL there, all I was really trying to do was to highlight a DP for you
+
+With regards to your second question, I believe that the FTR PAZ edges are identified purely from the FTRs themselves, so for instance price engulfed into a PAZ, RT to a DP then shot of to the next FTR. I have added a chart to show what I mean, notice how price engulfed into the zone, please do not pay attention as to whether price RT to a DP or not, just focus on the fact price engulfed into the zone, and then hit the next FTR, this would be the next FTR.
+
+Andy, I really do hope this helps, please do keep asking the questions as it helps me also. On a side note to the seniors, if I am saying anything that would be considered incorrect, please do tell me.
+
+Cheers
+
+DT
+--- [5] ftrpaz_p3_56 e53b8029c40e9a44f0b36fab0e2f3063a819824f
+Hey guys. My marks are on the chart.
+--- [6] ftrpaz_p3_57 397e90a1709bf411fb827e04705e379dddefe7dd
+Aaron
+
+Hi Hoto,
+
+Where you asked about whether this would be an FTR, I believe it is, but on this TF I do not consider it obvious, and would never take a trade off of it, I suppose if we went down to the 30/15 min TFs it would be more prominent, I try to always look for the obvious, if I have to look too long, imo, it is not there.
+
+DT
+--- [7] ftrpaz_p3_58 8f6b802f114e326d1fe4fa4f08518c0fd162df67
+tcee
+
+Daft trader 1 wrote: Hi Andy,
+
+I am so happy my analysis is helping you, I really am, however I will feel terrible if it is not the 'correct' advice. Usually if I say or mark up something wrong a senior normally jumps in to correct, so this is good.
+
+Thanks for your help, DT1. Reading your post I found that my 2nd question was based on false assumptions. When you said you wouldn't have traded the upper RT, I assumed that there was something special about the upper FTR level that I did not realise yet. But it became clear to me that it was not the FTR level itself, that made you reject the RT trade, but the simple fact that price had pierced it already and hence 'filled' the zone. This reveals yet another piece of the puzzle to me. Thanks a lot!
+--- [8] ftrpaz_p3_59 05fc20b2ac3bb66d096a43bf5a6ff0ddc31ecd47
+Hey guys. So the most important moves are the sources of the new lows? I have seen some people use the areas marked in yellow. I understand in the lower time frames they might be ok, but not here.
+--- [9] ftrpaz_p3_60 1b5430828bbbc3d6861a2a5b959705e923f88d21
+Check this out too. Realistically you could trade this either way, but they seem to work better after price breaks the levels.
+
+All comments are welcomed.
+--- [10] ftrpaz_p3_61 ed847de8a46e4dbffbfd2a026fb7e239853ce475
+Hi Hoto, This brings us to a question,should we short/long at the FTR or the source of supply.Attched is the diagram for reference.
+--- [11] ftrpaz_p3_62 d68a2acf28a2343c537cb91bb86d2631713ad64d
+harshrthakkar wrote: Hi Hoto, This brings us to a question,should we short/long at the FTR or the source of supply.Attched is the diagram for reference.
+
+That is a good question Harsh. I have heard IF say before that the FTR is not needed, but it does make the potential move that much more likely. I guess it just depends how aggressive you want to be. I don't think it is wrong to take either. I think its like touch trading. You can do it, but your risk is greater. If you don't do it, you risk missing the trade.
+--- [12] ftrpaz_p3_63 16fb9f1775486f8484f0ed4f3b4cd46ada7e591e
+I feel the source of engulf accompanied by FTR is a stronger structure than just trading a source of engulf.Your say.
+--- [13] ftrpaz_p3_64 e95c0940045fc9baf7085cd8d428dae8ae0b9f2a
+harshrthakkar wrote: I feel the source of engulf accompanied by FTR is a stronger structure than just trading a source of engulf.Your say.
+
+Yes, I do think the source of demand and the FTR is stronger than just demand alone. I have heard IF say the same thing too. The question is which level to take the trade at. If price does have enough gusto to make it through the FTR then I would say the source of that demand would be strong. In other words too many sellers would be used up getting through the FTR that they would be to exhausted to push through the source of the demand as well.
+--- [14] ftrpaz_p3_65 a05648c6f59c0e4e2990dda927722444423ccf1e
+JZ1986
+
+The firt picture shows an H4 FTR, and how price reacted to it when it came for a first visit
+
+The second picture shows how I exactly highlighted the zone from a LTF H1 (engulf, retrace, and the move out in the same direction, which created the FTR also Flag limit) if am not mistaken.
+
+sorry if this is the wrong thread, since am posting about FTRs only
+--- [15] ftrpaz_p3_66 59a9c70b7dde674ea2db79be5938e3d9a348fafc
+Because of Engulf it will to up to the origin of the down move. Hope this study is right.
+--- [16] ftrpaz_p3_67 cd10137a290aa30b350e8d231bd32bf7684d65fa
+harshrthakkar wrote: Hi TCEE, One thing I felt should be brought to you is this.
+
+Hey Harsh…I have something to add to your picture if you don't mind. My thoughts are below.
+
+Comments Welcomed!
+--- [17] ftrpaz_p3_68 2c774846a8bdc35abb625b5b847f9dc7111aef9e
+Yes Hoto,rightly added.Thanks.
+--- [18] ftrpaz_p3_69 e9b972091d68bdaa48719b4fe8acac20478ff460
+i hope this is correct.
+--- [19] ftrpaz_p3_70 c3592dfbf5c05035a0e279a594d5475f8d28ed6e
+Yes.While trading them make sure they r found on HTF first.
+--- [20] ftrpaz_p3_71 cb9082e8609b30f0e1fa30b0303452a42eaaf75f
+Aaron
+
+Hi MW,
+
+Great work by the way buddy!
+
+When I was looking at finding FTRs, I was always thinking of what the actual pattern meant in simple terms... A failure to return to either supply or demand, now this could be an SR, or an SD... Please also bear in mind I am in no way saying my view is the only way to look at this pattern rather it is what I have found through lots of charting examples...
+
+Whilst it is great to have HTF FTRs and trade off of them using LTF FTRs
+
+1707
+
+this is not always necessary in my findings...
+
+Here is a few examples of 4hr FTRs
+
+And also one I found on the hourly...
+
+This may give you something to think about mate.
+
+Aaron
+--- [21] ftrpaz_p3_72 08ee4f8a8615466981719493f459eb9cd9f45fd4
+bulbuli
+
+Hi Guys,
+
+Though I haven't spent much time with FTRs and PAZs, but saw some action unfolding in the last two days in USDCAD and USDJPY... Hope I am approaching the concept correctly.. Seniors Please Guide
+
+UP!!
+--- [22] ftrpaz_p3_73 0ead36483b76e86cf9d4ad7a0f248711fc0a97b1
+Kanzler
+
+Hello all,
+
+After reading about how critical understanding the FTR concept is for determining price action zones, I decided to go through all of my charts and modify them to show all the FTRs I could find, but I'm not sure about these three colored areas in the image. The orange one is the one I have the most question about; is it placed properly? I feel the situation is complicated by the fact that we had a compressed break above the high at the orange line and not a clean drive up (maybe a small pullback in that area is the actual FTR?), and that we had another FTR (red) right above the orange one that was immediately broken and a third one was formed above them both (green).
+
+Thanks in advance!
+--- [23] ftrpaz_p3_74 05d8cbcad02ff05910ba7f0e8375e0c32ef39d05
+Kanzler
+
+bulbuli,
+
+I know this is a late reply! Here's my take on it, marked over in black from ms paint...definitely subject to the review of someone more experience. That choppy area kicked my butt! If there are normal FTRs in there they're probably on the LTF. Or maybe I'm just blind.
+--- [24] ftrpaz_p3_75 39cb475e49b366e3a7174da679f41f529f905cd3
+bulbuli
+
+Kanzler wrote: bulbuli,
+
+I know this is a late reply! Here's my take on it, marked over in black from ms paint...definitely subject to the review of someone more experience. That choppy area kicked my butt! If there are normal FTRs in there they're probably on the LTF. Or maybe I'm just blind.
+
+UP!!
+
+First of all thanks a lot for reviewing the chart And yes you are right I have made glitches there and that was because I started posting homework too soon I realized it when I saw a few very important posts; one of which I had missed earlier was about how to draw the zones correctly by finding worst buyer/seller and where actually control transferred. So in essence the corrections you have done are right
+
+In fact this is the reason I have taken a step back and plan to start posting once I look at homework done by others so that I may not make such blunders in future. Thanks again.
+===== ftrpaz-p4 n=24
+--- [0] ftrpaz_p4_76 7d0e8b7dea8196acfdd868d8a15970b83bdae834
+Kanzler
+
+Hey bulbuli,
+
+No worries!! We're in this together to learn, part of the learning process is making mistakes and having others correct them. I don't feel that I have a real strong grasp of this topic either, and honestly that's a little dismaying as I know FTRs and price action zones are so important, but this thread is relatively dormant compared to others. Here's another question for someone willing to review it - this area shows up on the 4 hour chart as a potential FTR, but when you zoom in on the hourly you see pretty distinctly that the FTR was lower and that the ensuing RBR was actually bouncing off of our FTR. Would anybody else have still marked up the 4 hour as the FTR? Something just doesn't feel quite right about my analysis here.
+
+Kanzler
+--- [1] ftrpaz_p4_77 9eda39a6de47f7cbb1979c45570318914a215b50
+Hello guys. I dont understand exactly how ftr can be marked. I mention that i readed marketpedia and almost all Masters journals from about 5 months until now and now i try to apply all the information to begin my own trading journal in RTM. From what i seen FTR can be: RBR,DBD, RBD, DBR so an SR flip can be an FTR (this is my understanding) I put a chart here that help you guys to understand what i mean. I try to find an answer that can eliminate a lot a subjectivity from my head:) Sorry about my english!
+
+Bobyv87
+--- [2] ftrpaz_p4_78 3e15ac7882aa8da5f12e2512c8f5f83ba0473596
+Practice
+--- [3] ftrpaz_p4_80 3baa233b0557f234a6dda3cb69261aa2d1ab46d7
+These happen so often, just wait for the right setup, don't make it complicated, UJ 30 min.
+--- [4] ftrpaz_p4_81 bfd27adcf0441c96d2a5113e01a3f707895e68b2
+Nicking some pips before the news on GU
+--- [5] ftrpaz_p4_82 4e76359310290f00157b30e332792025a4d70835
+Gu
+--- [6] ftrpaz_p4_83 21e7115f99bafb426eda4dd2b25daca211997b06
+EJ 1min
+--- [7] ftrpaz_p4_84 a37a221a595f334199b5fc8bf78097ad65c3f678
+Ben's UJ 1 min
+--- [8] ftrpaz_p4_85 9754a568df92b8d3ffa6684ca93fcfe39ef7e8b6
+Great charts Mart, thank you. Having gone through a lot of the RTM material over the past few weeks, I have been planning to trade FTRs in much the same way.
+--- [9] ftrpaz_p4_86 1ce4b4ea358fe5f357ec667a4fda9544609635d5
+Here's a trade I was just stopped out on. As per this thread, I was expecting price to go higher, having broken the flag limit/FTR. Did I read something wrong?
+
+Higher res:
+
+screencast.com/t/uRyiCVAJ3m
+--- [10] ftrpaz_p4_87 40c78d1b8aac96284a85ac6ec5035eb339f0eb2a
+And another one that leaves me baffled. Is this approach no longer relevant, or am I reading the origin of the move incorrectly? Would it not be the top of the last flag before the engulf took place?
+
+Higher res: screencast.com/t/XfxEAzAdPRsA
+--- [11] ftrpaz_p4_88 e60a79f9bbe75886ed6aab1d73878eca329fb2ec
+By_Tor2114 wrote: And another one that leaves me baffled. Is this approach no longer relevant, or am I reading the origin of the move incorrectly? Would it not be the top of the last flag before the engulf took place?
+
+Not an expert but not sure why you would enter at 4 unless you got some nice PA. Easy in hindsight but that SZ at 1.9740, which is an FTR, looks far more significant and likely to get a reaction there.
+--- [12] ftrpaz_p4_89 761158c13a2748a0a3218d9a2dabb75cb3a60f47
+Hi Mazdag,
+
+The logic is based on the FTR articel, that if one breaks, you should look for a retrace before it moves down to the other side. One the flag limit at "1" had broken, according to the article, we should see a move to the bottom. As for the area at 1.9740, it looks like that has also tanked.
+--- [13] ftrpaz_p4_90 3da859b90f61b0a4e82775af5a621a1d18deabd1
+Yeah I understand what you're saying about "1" being engulfed, but I don't think that necessarily means that you short at the first area of supply that price comes to. "4" is an FTR but notice it has already had the FTB in the past, yours was 2TB so not going to be as strong - look for PA. The wider zone of the FTR at 40s is still holding but it may yet go higher to that area of supply you have marked up above 80s.
+--- [14] ftrpaz_p4_91 4f6c6e2ef9dff4f9143e40c685248a0454670e0e
+This is where clarification could go a long way. Do we trade the extreme of the most recent flag, which was the fail point in the image I posted, or is there a different approach?
+--- [15] ftrpaz_p4_92 6e6c652325226294f7b1c358b75ae15c5951ce0f
+"the extreme of the most recent flag"
+
+Are you talking about point 4?
+--- [16] ftrpaz_p4_93 49b874f3919d87dfe556cd9d1d518c9c3f9a501e
+Yeah, that would be the coloured zone at "4."
+--- [17] ftrpaz_p4_94 77f7f3905862db43525e22b4865613422ee67f15
+There's no hard and fast rule as to where to short, as far as I'm aware. I think it just comes down to judgement, experience and personal preference. Some will take a TT, others will wait for PA - obviously waiting for PA would give you a little more certainty over the trade.
+
+What I can say is I definitely wouldn't have taken a TT at 4 because it was 2TB. The area doesn't really stand out so I'm not even that bothered about looking for PA there. 40s looked a lot more attractive as an area of supply to me.
+--- [18] ftrpaz_p4_95 a2e18c9d03df17dae18af5ef9521c554b36e8cdb
+It would be handy if one approach could be drafted, as it seems as though everyone has a different way of reading the market.
+--- [19] ftrpaz_p4_96 4fffda761ae29af38a540326dd6b59d6c6909d1b
+Mazdaq, would you be able to put a chart up with the FTR you're referring to in the 40s area?
+--- [20] ftrpaz_p4_97 4d065c514ed8a88b561162150cabb8bb59dfce2c
+By_Tor2114 wrote: It would be handy if one approach could be drafted, as it seems as though everyone has a different way of reading the market.
+
+I hear what you're saying but the point is there is more than one way to skin a cat and you need to work out what is the best way to skin it to suit your personality and lifestyle. I'm still trying to get to that point myself. Follow the GBPAUD now and watch where it goes and work out why it goes where it does, make notes on the chart and study it. Repeat ad nauseum!
+
+Here's a chart of that FTR.
+--- [21] ftrpaz_p4_98 851da82c82e0f0fcaae8f226b8c104bb1fc56d31
+[double post ] sry
+--- [22] ftrpaz_p4_99 9e754fd9d86346ba4bfab1cd5c910e35db580000
+My first FTR homework. Hope this looks alright, comments are very much welcome!
+--- [23] ftrpaz_p4_100 de07d9ab52cac731d39384f1e8317255c8aa6e0d
+sm0uvy
+
+Hi First go at FTR PAZ
+
+I drew in the FTR's 1 and 2. Wasn't sure about the bottom one? it didn't seem to meet the criteria clearly.
+
+The FTR's 1 and 2 show intent to go higher. Then marked in the demand Zones. At text 1, it engulfed the demand zone. Now the question is does this mean that it shall go to demand zone 2? or shall it reverse and go higher as it is a FTB. Its easy to see after the event, but if it was live I would have thought because it was a FTB it would have went higher? Where is the signal to show it is not going to go back higher?
+
+Thanks in advance sm0uvy
+===== ftrpaz-p5 n=1
+--- [0] ftrpaz_p5_101 2fb9930c4f387d5e7d58977d00b07e2b5342d89f
+sm0uvy
+
+Hi With chart this time Sm0uvy
+===== ftrpaz-p6 n=25
+--- [0] ftrpaz_p6_1 b5c3d18d8fcccf7979c4dd254d3a80648ac708d3
+I´ll just start this one now. Here are a few FTR PAZ´s. I´d like to know. Price broke into the lower PAZ, therefore we expect price to reach the opposite FTR (lowest purple box). However, in this case price already reached the opposite side of the PAZ before it came back where we´d enter short.
+
+If that´s the case are we still considering a trade here becasuse price already reached the opposite side. In this case it worked, but I´ve noticed oftentimes it´s not working out then.
+--- [1] ftrpaz_p6_2 bfe1b1187fb26745a0ceb9d3aa4066de6161ebd8
+jkrick33
+
+This is going to turn out to be an "AHA" moment for some. This thread is going to be powerful. Thanks for starting this for everyone. Also if your an overachiever look into IFs videos on the FTR trade as well as the Classroom section.
+--- [2] ftrpaz_p6_3 cd56a659c2c5fe4e1c9d0c481d72999a17c1e9cd
+Pedini
+
+Christian wrote: I´ll just start this one now. Here are a few FTR PAZ ´s. I´d like to know. Price broke into the lower PAZ, therefore we expect price to reach the opposite FTR (lowest purple box). However, in this case price already reached the opposite side of the PAZ before it came back where we´d enter short.
+
+If that´s the case are we still considering a trade here becasuse price already reached the opposite side. In this case it worked, but I ´ve noticed oftentimes it´s not working out then.
+
+Hi christian, from my view on the chart the PAZ you have drawn is okay, but
+
+2620
+
+price already went through and didn't really give us much of an opportunity to trade it. The entry you have marked up is just price reacting to a flag on the lower TF. This is my view on the charts.
+
+There are other important PAZs further to the left which have yet been enguled, and this is what caused price to stop and flag, extend these lines on your chart and see how price reacts in the future.
+
+I hope this is clear enough!
+
+Peds
+
+PS great initiative starting this thread!
+--- [3] ftrpaz_p6_4 15719150a967299be86a530493c37f3d99d3d7d9
+rcmacf
+
+Here's how I am marking in the PAZs, based on my current understanding. I'm leaving out cpPAZ until I've got a handle on the FTR PAZ. I'm using the same chart area as above, so we've consistency. Peds, am I getting there?
+
+1. First I mark in the FTRs I see. These I take to be an engulf (a new high in this case) showing intent to go higher, then the fail to go lower. It does not become a true FTR until price then moves higher than the initial higher high. So, for example, z does not qualify as an FTR as y is a few pips lower than x. (it is a cpPAZ edge, but I'm not going near those yet). I've used a little red ellipse to show the tips of the FTRs.
+
+2. I then mark in the demand zones (or supply if moving down) which the FTRs represent. My indi marks those created above current price blue, and those below as pink). These are going to become the targets on the way down - the FTB to the FTR, essentially.
+
+3. Then it's a case of watching what price does:
+
+The engulf at 1 means expect price to go to 2 (engulf 1 also engulfs an FL to the left of the top elipse, and should have you primed and ready for point A to happen - it is ignored demand becoming supply - an SR flip).
+
+The engulf at 3 means expect price to go to 4
+
+The engulf at 5 means expect price to go to 6, whichever PAZ edge that leads to next. If you were sharp, you could maybe get in at B.
+
+And see how the influence continues..
+--- [4] ftrpaz_p6_5 b3f0710c6888824e38d96ed0e28256a9d8568677
+jkrick33 wrote: This thread is going to be powerful. Thanks for starting this for everyone.
+
+The power of the thread died away... let's ressurect it...;-)
+--- [5] ftrpaz_p6_6 53503eeea90464931f30aed71e6b80cd156f074d
+Are these valid FTR zones?
+--- [6] ftrpaz_p6_7 6fcdc90782d455054b0ce5a00562564da7b0cd5b
+Yes, but I'd like you to show why you think they are
+--- [7] ftrpaz_p6_8 70beee0eaedfefb250422ba05bb2b89a3c7fc8f4
+Ifmyante wrote: Yes, but I'd like you to show why you think they are
+
+Let me know if my explanation is correct or not. I want to really understand this PA/zone
+
+Continued
+--- [8] ftrpaz_p6_9 ee7de5f265e48983ed4b4a9ba0f10130981bef3d
+Hello, Please refer to the image on right.Your comments requested.
+--- [9] ftrpaz_p6_10 69fa2c23718ea1dc6676bfe8d389db780da3be87
+Another example from me of the FTR zone. This one is after an engulfing of the previous FL. Why i consider that an FTR? Price engulfed the FL then failed to get back to the above supply. Question would anyone consider a touch trade on a FTB to the FTR zone. If yes/no, why? Not looking for signals. Just knowledge.
+--- [10] ftrpaz_p6_11 7f076267d21ef13b35102b2d07606f503c8c02e9
+Hi, Guys,
+
+I'd like to post GBP/USD 1hr chart where I applied what I learned about FTR / Engulfed set up. I have been studying these set-up and the rational behind it from IF and the masters members. Any comments are welcome. I post two charts - one is the analysis, the other one is the trade taken based on the analysis.
+
+Cheers
+--- [11] ftrpaz_p6_12 ceffe587fd2847df9ab0037dd89b38da781035c0
+Andyfx
+
+Hi yalanola
+
+I'm learning PAZ and FTR too in these days.
+
+As a beginner I think that your trade is reasonable, we are in supply zone in many timeframes, previous low and important key level is engulfed on H4, previous highs respected, right now no sign that price wants to go higher to me. Let's see what happens next..
+
+I didn't understand very well how did you draw your PAZ and FTR and how you used PAZ and FTR concepts to enter that trade.
+
+Here I tryed to draw some PAZ and FTR, any comment and suggestion is welcome.
+
+If I understand correctly, one option to trade PAZ and FTR is: once a previous FTR is engulfed, we entered in a new PAZ between 2 FTRs. So the price wants to go to the other side of the PAZ where the next FTR Supply or Demand zone is. What we want to do is search for a SD area near the origin of the move that engulfed previous FTR and enter on the retracement. I found 2 problems doing this: 1) Many times (like in my example) price doesn't retrace or do only a little retracement not giving us a clear entry point and a good R:R 2) If the price engulfs a FTR and then touch the next at the other side of the PAZ and then retraces to the origin, this PAZ is not tradable because price already reached the other side.
+
+Is it correct?
+--- [12] ftrpaz_p6_13 b6a133d5010a67ae96528b1b1b0108d06fc397e7
+Andyfx wrote: Hi yalanola
+
+I'm learning PAZ and FTR too in these days.
+
+As a beginner I think that your trade is reasonable, we are in supply zone in many timeframes, previous low and important key level is engulfed on H4, previous highs respected, right now no sign that price wants to go higher to me. Let's see what happens next..
+
+I didn't understand very well how did you draw your PAZ and FTR and how you used PAZ and FTR concepts to enter that trade.
+
+Here I tryed to draw some PAZ and FTR, any comment and suggestion is welcome.
+
+I believe what you are saying is correct. On the hard right edge of the screen price should now fall to the bottom of the PAZ and move right through that CP you have marked. The key is to watch for PA at the edges of the PAZ's.
+--- [13] ftrpaz_p6_14 2c9df42b5dca10a0c9285411d9bbe331b5f2e590
+Hi, Andy,
+
+My understanding on the FTR set-up is when price breaks out a level, it may comes back to get more orders in order to gain the momentum, it either hit the break-though point (called retest) or doesn't even made it back to the point (FTR) and then turns in the direction. I understand that this would be the decision point. There might be some orders left there, so when the price reaches the level again, which is the FTB, it may pick up those orders and this creates an entry opportunity. I feel that some of your marks are not exactly FTR, the most obvious one is at the top where you marked "supply". when price dropped from "newer hight" you marked, it attempted to come back, but failed, from there, the price goes all the way down to "CP" you marked, so, that area will be your reference, when the price comes back to that level. You would take short opportunity from there.
+
+I'll post chart afterwards and let'd discuss about it.
+
+Cheers.
+--- [14] ftrpaz_p6_15 72ddf2fe8e75e83f00477f373d3a4985992b3229
+I am really confused regarding this FTR. I have read couple of posts regarding this but still confused. 1) From what I can see, FTR can be said to be the same as DP or FL? Or is there specific way to identify FTR's?
+
+Here I have attached h1 chart of aud/usd marking the areas which I believe to be FTR. am I correct or not?
+
+Thanks.
+--- [15] ftrpaz_p6_16 f9ac317e334fe082ba4cb6d29f76fc0985af1bf4
+maximohmax wrote: I am really confused regarding this FTR. I have read couple of posts regarding this but still confused. 1) From what I can see, FTR can be said to be the same as DP or FL? Or is there specific way to identify FTR's?
+
+Here I have attached h1 chart of aud/usd marking the areas which I believe to be FTR. am I correct or not?
+
+Thanks.
+
+Hello,
+
+From my understanding a FL and decision point are the same thing. A DP is the point that the decision was made for price to go north or south. Hope this helps.
+--- [16] ftrpaz_p6_17 ddc818f6e6882a059739a95fd94b4f6654c3e8fa
+Yes. But what about FTR?
+--- [17] ftrpaz_p6_18 d020d641b4a0388f1e590283efdf19eb748ed18d
+Andyfx
+
+In my view a FTR is created when something (a previous High/Low, a Key Level, a previous FTR, a previous SD zone like RBR/DBD) gets engulfed and there is a pullback.
+
+I think that most of the FLs are FTR too, because they form when a SR level gets engulfed and in the flag there is actually a pullback, an attempt to return to the origin of the move, so we can call it FTR.
+
+But why not all FL are FTR? Well, if I understand FLs, most of the times a flag forms after a SR level gets engulfed, so we can call it FTR, but in some FLs the flag forms BEFORE the SR gets engulfed, so this flag has not yet engulfed something right now, so we can't call it FTR, in this case the real FTR is the FTB to the flag limit. Look at the draw below.
+
+Decision points are FTR? Same as I said about FLs, most DP are FTR too, but not all. Imagine a Rally-Base-Rally that forms in the middle of nowhere and there is no engulf of previous things, is this a decision point? Yes, when the flag breaks there is the decision to go higher. Is this a FTR? No, because no engulf.
+
+Makes sense?
+
+Anyways don't take it for true, I'm just a noob in the market, maybe I'm wrong!
+--- [18] ftrpaz_p6_19 4666406784078fd02537ace3c20a6bcb1e27f735
+Hi, Thanks for replying. I understood what you said and it clicks. Now just need to wait for senior member to be sure if this is all okay or is there any addition to it:)
+--- [19] ftrpaz_p6_20 794063b28a0ae91c1cc48bce74c22bbc94259fa4
+maximohmax wrote: Yes. But what about FTR?
+
+Here is my view on the FTR's. Price engulfs the horizontal lines marked with a red arrow. After the engulf price pulls back and then makes a new high afterwards. The source of that new high is the FTR. In my chart below they are marked with a blue box. I hope this helps.
+--- [20] ftrpaz_p6_21 3aafe716d5d1b598ea265a47815735d9293fdd5b
+That helps:)
+--- [21] ftrpaz_p6_22 4be070676d4f03365e64ccb2487d3c95c9acde55
+There is an article under the "Marketpedia" section written by Pedini. The article goes over FTR's and its where I got my example from.
+--- [22] ftrpaz_p6_23 54efbd0126aaa452ad81a4db19c8c43386380e40
+Hotochin wrote: There is an article under the "Marketpedia" section written by Pedini. The article goes over FTR's and its where I got my example from.
+
+I have read it:) The article mainly talks about Price action zones and doesn't explain much about FTR's.
+--- [23] ftrpaz_p6_24 f64585a7a0d3b4ef4e2563d7ca129da6fdc87150
+I see. Hopefully my explanation helped. So to combine the two, the black space in-between the two blue FTR zones is the PAZ in my chart above.
+--- [24] ftrpaz_p6_25 0bc7195d5eaaa1a6555cf0026a220f8b5afb8f5c
+Aaron
+
+Hi guys,
+
+Here is what I believe to be an FTR, I saw this whilst doing my CP stuff, don't worry too much that the FTR did not work out, I guess we have P,A for that.
+
+1707
+
+Below is why I would not have shorted there:
+
+Just my 2 cents guys..
+
+DT
+===== knowledgeismoney-p1 n=24
+--- [0] knowledgeismoney_p1_1 698ffa4979f32244231ede4043a8d512a2a96da5
+Hi Guys,
+
+been learning and learning for months now after registering into RTM. I used to worship indicators and EAs but now im reverted back to basics again for some reasons. It's like a cycle and in the end you know a blank chart and some simple drawings is just enough, or far better than indicators. Just started my journal here, to record my mistakes and success in trading using IF methodology. There's still so much space for me to improve, but i would love to gather your feedback and ideas on my setups so i can add them into my learning process.
+
+Thank you all!
+--- [1] knowledgeismoney_p1_2 abe91161312396cf5af17e67803ea4cafc37c258
+Doing some SAS when i saw this trade setup. Looks like a classic BSZ created to trick more buys, maybe there are tons of stops below that zone?
+
+Sold right at the 2tb where the FL was created. closed 80% and let the remaining ride along to tg.
+
+the big picture...
+
+closer look down to M1. Devil is in the detail.
+--- [2] knowledgeismoney_p1_3 f993e134c2f2f39674c5df48e7bad20044309571
+I often wonder how our more silent members are getting along.
+
+Thanks for showing me that you're coming along nicely
+
+Keep showing us what you're up to. It's quite impressive so far!
+--- [3] knowledgeismoney_p1_4 3e0e73f16789d6316ca4511e106e32135231ec44
+Ifmyante wrote: I often wonder how our more silent members are getting along.
+
+Thanks for showing me that you're coming along nicely
+
+Keep showing us what you're up to. It's quite impressive so far!
+
+i have been lurking around here for a long time IF, i started reading from J16 then moved to VSA then your RTM then Darkstar's order flow..then it all comes to make sense one day when i review your thread in FF again. It's like dejavu lol. This guy has been showing us where the gold mine is and i'm still digging everywhere!
+
+Luckily you didn't removed the old unpaid members haha. I paid myself up for a fee then read everything you got to show. Thanks for creating such a great community IF. Your time and effort in building this is very much appreciated.
+--- [4] knowledgeismoney_p1_5 26f18cc482fed278850c7f30031b59218d75ed87
+Hi Jacktrader, you and I have taken similar paths. I started with J16's private forum. Then I learned VSA (which I continue to use for equity trades on weekly timeframe). Now I'm here. RTM is legit. Best material....really only material I've found for high win rate and high R/R in forex.
+--- [5] knowledgeismoney_p1_6 c150eed12f7fccf14b0750c621ea0cebdba72c1c
+Continue with my weekend chart reading. i enjoy drawing and screwing around with my mt4 blank charts and fill them with boxes and colors! haha.
+
+Comment as harsh as you may. I welcome all critics and comments. Thats the only way for me to learn from different angles.
+
+what do you guys think about this FL (blue box)? is that engulf valid enough for such a FL to be created? or that FL should simply be a FTR only? It could also be a miniQM too as it did reacted to a LS kink...oh well, to me it seems like a good supply zone:D
+--- [6] knowledgeismoney_p1_7 0fb02f45035cef18d15589ee155b17250ef8cd65
+EU seems like a interesting pair to trade especially its on a significant flip from a weekly time frame
+
+zoom closer to M1 we can see numerous bearish flag formed and price reacting to SR flip zone. seems like the blocks of supply is slowly building there....
+
+interesting week ahead!
+--- [7] knowledgeismoney_p1_8 73e71bf4af4a4c400b291657b18ce7eb457fb651
+found swissy reacting funny. how many QM can you guys find inside?? lol
+--- [8] knowledgeismoney_p1_9 8622dd26baf1bd356273eaf830c07a5b6fd65cbf
+trade 1 of today. thoughts are already in the pic...now just trailing my stops
+--- [9] knowledgeismoney_p1_10 2cd532dd58ada6ed4ed8cd0efc6a1e2693bc8c85
+It won't be long before you stop giving weight to candle shapes
+
+Washer
+
+find
+
+14517
+--- [10] knowledgeismoney_p1_12 51ef9b1787a5b5078a9ce7e1adcdac991d72a9da
+All 3 are engulfed in both chart right?
+--- [11] knowledgeismoney_p1_13 7c98ecc52d3b7b68be8279e39f40dbc3f05243cd
+Buy above BRN. Confluence of supply breached+ FL above BRN gives me enough reason to buy
+--- [12] knowledgeismoney_p1_14 43551fc270bb46675576df66ba2153835165e269
+jacktrader wrote: All 3 are engulfed in both chart right?
+
+My thoughts: In first chart, B & C as they are 2 ends of CP. In second, only B because after engulfing B price is bouncing without hitting target of engulf B.
+--- [13] knowledgeismoney_p1_15 3b313713b4b5a4ce93728a684d8202fd8cef853a
+well for me when CP all 3 levels are taken out i would consider this a engulf already ( its a huge move of price, less likely to be a FO)
+
+chart 2 seems a bit sneaky, but price is definitely under line C. (usually it would be an engulf of all 3 levels...) but if looked closer B and A both reacted with no signs of bull where as for C, price could do a fakey with that close distance to it..
+
+What do you think?
+--- [14] knowledgeismoney_p1_16 e6cf73f70781304ef2bb77ba471d1b06f88f6bbf
+You're buying at the very tip of D1 PCP just above, the high of which is at the very MPL of W1 PCP above.
+
+This seems to be buying high. What's your target?
+--- [15] knowledgeismoney_p1_17 3f00ea6ed8ccdce716e777362b58bd5c0f2a5340
+which one? you mean EJ? can i have a look at how would you draw the chart please? hehe clearly i miss out the PCP:(
+--- [16] knowledgeismoney_p1_18 115a1620c7a838988895874b81eb4ff3523a9173
+Entered at the bounce of FL edge. let price travelled a bit and currently BE+1 after 5 pips...let's see how price move
+--- [17] knowledgeismoney_p1_19 9d467367d9919c24718ea98884d833f5143f0134
+zee
+
+Hi,
+
+each engulf has a target. Once that target is hit, your engulf is no longer usable. So make sure you identify a target for each engulf. This is one of the most crucial parts I think. I hope my comments are helpful.
+--- [18] knowledgeismoney_p1_20 6807c0d764fe120d4f2db52bf03d6e60a811f7b9
+Frosty
+
+@Bro Zee: And generally the targets for these are QM levels inside the next FL in the direction of the engulf, if I'm not mistaken?
+
+I'm
+
+currently redo-ing my homeworks to see if my basics are still shaky. I got lost somewhere trying to figure out FLs' scale
+--- [19] knowledgeismoney_p1_21 3e97d7087614167c787e6215ffb4dc503a20c0a6
+zee
+
+I'm really no expert on this yet unfortunately, but the target is the next FL on the same scale. Might be a QM, but might be other stuff (see lite video part1). Also, I'm starting to realize how much engulf/target and scale go hand in hand. What is an engulf in one scale is only a reaction in another. See my chart for an example.
+
+Edit: sorry, i think it's in the part2 video, not the part1.
+--- [20] knowledgeismoney_p1_22 a22af7b7437c9e03efe185bc424b79fc54c0626c
+some of my trades today..
+--- [21] knowledgeismoney_p1_23 7dd3b167bda19bc74ee66cb240fcf4a1e7d64e0d
+zee
+
+jacktrader wrote:
+
+Be careful
+--- [22] knowledgeismoney_p1_24 f53785d4f07db8ef92a48ce91d05afa33837e1b4
+zee wrote:
+
+jacktrader wrote:
+
+yea saw that FTR that's holding price up. my entry is a little risky but should do a 1:3 rr if it works out. SAS trade.
+--- [23] knowledgeismoney_p1_25 ad2b643ece34588ef8bf9a856f3ed141ad3f6678
+Knowledge is MONEY. Do you agree?
+===== knowledgeismoney-p2 n=22
+--- [0] knowledgeismoney_p2_26 e289beb36785dcf9409bf20511566cab994a7a05
+FTR within RBD, sold on FTB into the FTR
+--- [1] knowledgeismoney_p2_27 6725c1a7aecfb735b588f0d08482baddd372d884
+I think your first tg may be a bit low. It might reach it of course, but a big decision must be made first
+
+Washer
+--- [2] knowledgeismoney_p2_28 7e512f3c8dad69e8f797618b3e29537dc5902dc2
+A follow up
+
+Washer
+--- [3] knowledgeismoney_p2_30 9ba941bad352b2e89c9fb76a795a99d03722d240
+Nice trade if you took what was on offer
+
+Washer
+--- [4] knowledgeismoney_p2_31 c21053cfb6224051db8c87a1513a78fa65953d11
+not the best touch trade but i tried my best. Price broke top supply (RBD)
+
+then retraces down, the direction is shown so i just find the sweet spot where left overs order + new orders could be....
+--- [5] knowledgeismoney_p2_32 f21dd0de21d0485a87db509caf11b0f7a8e12a76
+reason to sell? RBD + 1.2 magic number
+--- [6] knowledgeismoney_p2_33 01a0ab0f7bb5eafd5a019146953573401c7abc9d
+Guess where my entry is.....
+--- [7] knowledgeismoney_p2_34 3952d8cb381a60e1f25ed1d1d1fcc776597da034
+update.....
+
+update again. Closed the trade and opened a buy right at the closure of gap.
+--- [8] knowledgeismoney_p2_35 b8fbab6a919ae214bf94741094e9460c86f749da
+short this one when price hits a possible QM level. overshoot a bit but it still work, could be a short living one..lets see..
+--- [9] knowledgeismoney_p2_36 fe5438a6ebe49684ce1c11d1000226547f1cb101
+bought this pair when dollar was trending after news.
+
+the small FL in 1 min and the rebound is my trigger to enter.
+--- [10] knowledgeismoney_p2_38 11806ce2c908734e4a86132fe639474d11308605
+do you guys consider this as QM level? the yummy BRN with a nice spike at previous kink + a respectable QM level. i say its worth for a short
+--- [11] knowledgeismoney_p2_40 68842b4c5507a19883c518dbbb2fd22c1da72520
+Where you traded was 2TB to the level you drew.
+
+You were lucky there were more clean orders beneath your stop
+
+Washer
+
+find
+
+14517
+--- [12] knowledgeismoney_p2_41 307c45acd783e231bb28ce875de52ad30f345207
+well i had a loss, because i wasnt patient enough. PA really saved the day
+
+2144
+--- [13] knowledgeismoney_p2_42 1e9d1f882163d3c259e26ff60e1aec4889869b87
+Dont you hate this:(
+--- [14] knowledgeismoney_p2_43 eea7217ce86eb095a3034f476a61c683f6583286
+Hee hee!
+
+Welcome to RTM!
+
+But if there's one thing which can be said about GU; it loves to return for a BE hunt
+
+Washer
+
+find
+
+14517
+--- [15] knowledgeismoney_p2_44 da631e9b1894f35f00dc9eb2d247e33f3fc61808
+ok im a bit confused with this GU movement. can someone with better RTM reading help me to interpret this movement? i have been selling at 1,2,3,4 and it all catches SL:( how would you trade and anticipate this?
+
+gladly thankful for those who spend time to elaborate why and what not.:D
+--- [16] knowledgeismoney_p2_45 49b572c37a1f296ff6f41746cc4970e2de610b61
+HCDE
+
+Hi jacktrader,When i saw you post it almost instantly remind me about that old chart from IF:
+
+On the upside: You have a rally base drop after break of demand. That RBD gave some 'S/R' rejections, but many thing are still clean into it, and furthermore this is a very clear trick. On the downside: where is price? In any thing significant? I doubt it. In short there are a lot of clues that tells they'll fakeout higher to short heavily. Maybe that's the direction you could use to find your explanations. That's not a trade call, let me be clear that i haven't made a good analysis on that pair!
+--- [17] knowledgeismoney_p2_46 b0838776d01a473f71932a3500985314b089558f
+You got caught time and again by the oldest trick in the book!
+
+Washer
+
+Forget about the engulf of highs and lows. It's only FL engulfs which are PA
+
+find
+
+14517
+--- [18] knowledgeismoney_p2_47 90d0a5348dbbe5a50c7841431f823e8efc8e98cf
+Ysbail
+
+I also thought about Staurum's post in which he collect some screens and graphics - in Salivan's journal this one
+
+especially this graphic about return after accumulation
+--- [19] knowledgeismoney_p2_48 6f4597bdc4d93d0cc0948a930c517d589b8d472c
+HCDE
+
+You see? Fakeout to the highest set of orders Now you have a good argument for your girlfriend to print these old IF charts on your bedsheet
+--- [20] knowledgeismoney_p2_49 c7e6957955aa1f9d001c83ffcdd0619b7abfbc34
+Hee hee!
+
+I hope you don't mind my editing the text a bit in your post
+
+Washer
+
+find
+
+14517
+--- [21] knowledgeismoney_p2_50 32dc089a80f144e8a1a32d7937ef325eed158d6d
+HCDE
+
+Such a stupid typing mistake!
+
+Sorry
+===== knowledgeismoney-p3 n=23
+--- [0] knowledgeismoney_p3_1 698ffa4979f32244231ede4043a8d512a2a96da5
+Hi Guys,
+
+been learning and learning for months now after registering into RTM. I used to worship indicators and EAs but now im reverted back to basics again for some reasons. It's like a cycle and in the end you know a blank chart and some simple drawings is just enough, or far better than indicators. Just started my journal here, to record my mistakes and success in trading using IF methodology. There's still so much space for me to improve, but i would love to gather your feedback and ideas on my setups so i can add them into my learning process.
+
+Thank you all!
+--- [1] knowledgeismoney_p3_2 abe91161312396cf5af17e67803ea4cafc37c258
+Doing some SAS when i saw this trade setup. Looks like a classic BSZ created to trick more buys, maybe there are tons of stops below that zone?
+
+Sold right at the 2tb where the FL was created. closed 80% and let the remaining ride along to tg.
+
+the big picture...
+
+closer look down to M1. Devil is in the detail.
+--- [2] knowledgeismoney_p3_3 f993e134c2f2f39674c5df48e7bad20044309571
+I often wonder how our more silent members are getting along.
+
+Thanks for showing me that you're coming along nicely
+
+Keep showing us what you're up to. It's quite impressive so far!
+--- [3] knowledgeismoney_p3_4 3e0e73f16789d6316ca4511e106e32135231ec44
+Ifmyante wrote: I often wonder how our more silent members are getting along.
+
+Thanks for showing me that you're coming along nicely
+
+Keep showing us what you're up to. It's quite impressive so far!
+
+i have been lurking around here for a long time IF, i started reading from J16 then moved to VSA then your RTM then Darkstar's order flow..then it all comes to make sense one day when i review your thread in FF again. It's like dejavu lol. This guy has been showing us where the gold mine is and i'm still digging everywhere!
+
+Luckily you didn't removed the old unpaid members haha. I paid myself up for a fee then read everything you got to show. Thanks for creating such a great community IF. Your time and effort in building this is very much appreciated.
+--- [4] knowledgeismoney_p3_5 26f18cc482fed278850c7f30031b59218d75ed87
+Hi Jacktrader, you and I have taken similar paths. I started with J16's private forum. Then I learned VSA (which I continue to use for equity trades on weekly timeframe). Now I'm here. RTM is legit. Best material....really only material I've found for high win rate and high R/R in forex.
+--- [5] knowledgeismoney_p3_6 c150eed12f7fccf14b0750c621ea0cebdba72c1c
+Continue with my weekend chart reading. i enjoy drawing and screwing around with my mt4 blank charts and fill them with boxes and colors! haha.
+
+Comment as harsh as you may. I welcome all critics and comments. Thats the only way for me to learn from different angles.
+
+what do you guys think about this FL (blue box)? is that engulf valid enough for such a FL to be created? or that FL should simply be a FTR only? It could also be a miniQM too as it did reacted to a LS kink...oh well, to me it seems like a good supply zone:D
+--- [6] knowledgeismoney_p3_7 0fb02f45035cef18d15589ee155b17250ef8cd65
+EU seems like a interesting pair to trade especially its on a significant flip from a weekly time frame
+
+zoom closer to M1 we can see numerous bearish flag formed and price reacting to SR flip zone. seems like the blocks of supply is slowly building there....
+
+interesting week ahead!
+--- [7] knowledgeismoney_p3_8 73e71bf4af4a4c400b291657b18ce7eb457fb651
+found swissy reacting funny. how many QM can you guys find inside?? lol
+--- [8] knowledgeismoney_p3_9 8622dd26baf1bd356273eaf830c07a5b6fd65cbf
+trade 1 of today. thoughts are already in the pic...now just trailing my stops
+--- [9] knowledgeismoney_p3_10 2cd532dd58ada6ed4ed8cd0efc6a1e2693bc8c85
+It won't be long before you stop giving weight to candle shapes
+
+Washer
+
+find
+
+14517
+--- [10] knowledgeismoney_p3_12 51ef9b1787a5b5078a9ce7e1adcdac991d72a9da
+All 3 are engulfed in both chart right?
+--- [11] knowledgeismoney_p3_13 7c98ecc52d3b7b68be8279e39f40dbc3f05243cd
+Buy above BRN. Confluence of supply breached+ FL above BRN gives me enough reason to buy
+--- [12] knowledgeismoney_p3_14 43551fc270bb46675576df66ba2153835165e269
+jacktrader wrote: All 3 are engulfed in both chart right?
+
+My thoughts: In first chart, B & C as they are 2 ends of CP. In second, only B because after engulfing B price is bouncing without hitting target of engulf B.
+--- [13] knowledgeismoney_p3_15 3b313713b4b5a4ce93728a684d8202fd8cef853a
+well for me when CP all 3 levels are taken out i would consider this a engulf already ( its a huge move of price, less likely to be a FO)
+
+chart 2 seems a bit sneaky, but price is definitely under line C. (usually it would be an engulf of all 3 levels...) but if looked closer B and A both reacted with no signs of bull where as for C, price could do a fakey with that close distance to it..
+
+What do you think?
+--- [14] knowledgeismoney_p3_16 e6cf73f70781304ef2bb77ba471d1b06f88f6bbf
+You're buying at the very tip of D1 PCP just above, the high of which is at the very MPL of W1 PCP above.
+
+This seems to be buying high. What's your target?
+--- [15] knowledgeismoney_p3_17 3f00ea6ed8ccdce716e777362b58bd5c0f2a5340
+which one? you mean EJ? can i have a look at how would you draw the chart please? hehe clearly i miss out the PCP:(
+--- [16] knowledgeismoney_p3_18 115a1620c7a838988895874b81eb4ff3523a9173
+Entered at the bounce of FL edge. let price travelled a bit and currently BE+1 after 5 pips...let's see how price move
+--- [17] knowledgeismoney_p3_19 9d467367d9919c24718ea98884d833f5143f0134
+zee
+
+Hi,
+
+each engulf has a target. Once that target is hit, your engulf is no longer usable. So make sure you identify a target for each engulf. This is one of the most crucial parts I think. I hope my comments are helpful.
+--- [18] knowledgeismoney_p3_20 09b6419cc2ef4194ab6ee41ad3523eb085528106
+Frosty
+
+@Bro Zee: And generally the targets for these are QM levels inside the next FL in the direction of the engulf, if I'm not mistaken? I'm currently redo-ing my homeworks to see if my basics are still shaky. I got lost somewhere trying to figure out FLs' scale
+--- [19] knowledgeismoney_p3_21 3e97d7087614167c787e6215ffb4dc503a20c0a6
+zee
+
+I'm really no expert on this yet unfortunately, but the target is the next FL on the same scale. Might be a QM, but might be other stuff (see lite video part1). Also, I'm starting to realize how much engulf/target and scale go hand in hand. What is an engulf in one scale is only a reaction in another. See my chart for an example.
+
+Edit: sorry, i think it's in the part2 video, not the part1.
+--- [20] knowledgeismoney_p3_22 a22af7b7437c9e03efe185bc424b79fc54c0626c
+some of my trades today..
+--- [21] knowledgeismoney_p3_23 7dd3b167bda19bc74ee66cb240fcf4a1e7d64e0d
+zee
+
+jacktrader wrote:
+
+Be careful
+--- [22] knowledgeismoney_p3_24 f53785d4f07db8ef92a48ce91d05afa33837e1b4
+zee wrote:
+
+jacktrader wrote:
+
+yea saw that FTR that's holding price up. my entry is a little risky but should do a 1:3 rr if it works out. SAS trade.
+===== dplocation-p1 n=9
+--- [0] dplocation_p1_1 08424405cdff1576d29b4fd16eca93eb38acf0ef
+Hello RTM
+
+Putting pieces of the puzzle what I love the most. This is a chart from Master Salivan, I hope he doesn't mind me using it for this question. One thing confusing that I haven't seen discussed, maybe I'm stupid:S Is why is the location of the DP at FL (A) and not (B) I added (B) on top of Master Salivan's chart (A) was his initial rectangle. Is there a reason for (A) being the DP?
+
+because what I think is that IT can delay decision, RT a lot above (A) and then DP to EG the DP (2) to the left.
+
+I hope that makes sense, also not sure if this is the correct section to post this.
+
+Thank you for advice
+--- [1] dplocation_p1_2 82511fc07ac39d40b11f78651be1191cd0893713
+sev87
+
+in my opinion, A was a better level than B, if you see on the left there's a SR level there (kink? still not sure can i call it kink).
+
+when price break SR and go to other level theres always DP, beside i think B not a FL
+
+CMIIW
+--- [2] dplocation_p1_3 701ea2c123a802d7bba1881523f6f57ec0805b65
+Hi Sev
+
+Thanks for stopping by
+
+Do you mean the SR at 1.301753?
+
+The DBR from A didn't cross the lower flag limit of (2)
+
+Not sure if CP up towards Flag A would count as being part of the Dropping pole that engulf flag (2)
+--- [3] dplocation_p1_4 e1abbf222c7b9c07672c4d9bade5cc28c5dc3af5
+sev87
+
+maybe a pict can be a better explanation
+--- [4] dplocation_p1_5 a4e3da6bb07a3a676f43e29a8ce5a5602179420e
+Hi again Sev
+
+I was thinking for a few days and it's embarrassing how stupid it was that I didn't see the new FL from SR EG and the DP inside that, luckily I still could search the lower TF to find the DP
+
+Thanks again friend =D
+
+sev87 wrote:
+--- [5] dplocation_p1_6 25b51a08a922b07bcf4eb5158efc848e2cf5aa43
+sev87
+
+glad i can help
+--- [6] dplocation_p1_7 993f1d29d9f220925474e3fdc761076996ae0237
+DP = Decision Point, Decision to Break, Decision to Engulf
+
+Both A and B are DP.
+--- [7] dplocation_p1_8 429f7137da260ed239ebfa30959cb762bc9ae4e0
+Astrokillah wrote: DP = Decision Point, Decision to Break, Decision to Engulf
+
+Both A and B are DP.
+
+Hi Astro
+
+Yes I agree, my initial thought was the same but I was confused why A was the stronger one to hold down price at the far right instead of B
+
+Also it makes a nice BSZ to stop breakout traders
+--- [8] dplocation_p1_9 a8086333eaf5506262c1b48c266e09574d26339e
+fxeyes
+
+nsikandar wrote:
+
+Astrokillah wrote: DP = Decision Point, Decision to Break, Decision to Engulf
+
+Both A and B are DP.
+
+In this case, there were more orders above B, so it’s very likely that price will want to go higher before turning down. You can see that right above B, at the bottom of A, there was an MPL that price turned at. Then there was an even higher set of orders at the top of A. Remember price CAN turn at any DP, the last set of orders is the safest bet. Until then, be conservative with your tg1.
+===== maxpain-p1 n=15
+--- [0] maxpain_p1_1 78164a369dc4fc51783b1263d8271a5b18ff31b2
+Nasir
+
+Hi there, I think it is worth to focus on this topic for some time as to broaden our tool box. I don't have the answer. That is why I am asking your opinion.
+
+Where is the MPL? How does it look like? Is it time frame dependant? just few questions, certainly there are more.
+--- [1] maxpain_p1_2 6368abd5a2b0165dfaf1279e3f56aa12c3084ac6
+Nasir
+
+Just to clarify the Max Pain Level -(MPL) is a place, lets say in up trend, which when is taken down, says for almost sure, that the trend changed. So in up trend, it must be somewhere lower than the lower low (LL) etc. So in essence, the MPL must be a place for institutions, which when taken, will signal change in trend, sentiment. I can imagine it is a precise level, point which is the last possible point for pullback. It could be a particullar flag limit or M1 S/R level or something else.
+
+Any ideas
+
+I just want to say, that IF was mentioning the phrase "Max Pain Level" several times - without explanation though:( so it must be IMPORTANT.
+
+IF - hope you don't mind me quoting you:)
+--- [2] maxpain_p1_3 7bf9e57746fe86a0adf415af71369324c9dd75ac
+hi answer this questions? what is MPL?
+--- [3] maxpain_p1_4 24f865dbcb314a9a8388b64514a5c387d9653ee7
+omidfxt
+
+masterfx wrote: hi answer this questions? what is MPL?
+
+hey masterfx i think you know that MPL is Maximum Pain Level but for a complete explanation i recommend you to watch the IF's webinars here is the link: RTM Community/Youtube
+--- [4] maxpain_p1_5 060bd4ba2a61feb4ad8d5bc2b7fd4e6c0a164af7
+boon86
+
+youtube link no longer work, if somebody can provide a chart with explanation maybe better..
+--- [5] maxpain_p1_6 79fdb12d0d7b0d76d0b129851c66606c34c77feb
+I made a post on MPL don't know if if helps you but here it is.
+--- [6] maxpain_p1_7 c0671f72ecfd0b22c5af32cbb8967a9ccd8c6480
+boon86
+
+thank you moneydeep, your explanation are awesome, i have question below, hope you/all others can help:
+--- [7] maxpain_p1_8 0f3a7af79f1eb0fdcf6c45eafd161cd2d38aead8
+boon86
+
+After some digging, i finally found the answer:
+
+example on chart:
+--- [8] maxpain_p1_9 ac0e6957efc371ac2cc2895ff18ede39b9795ef6
+khivraj
+
+Boon86, Looking at your charts, isnt this essentially an FTR?
+--- [9] maxpain_p1_10 ad8350b61ff5ed9e98a1ad57990dfa5933c400c4
+MarkG
+
+Take this with a pinch of salt as I'm new around here. I've always believed the MPL to be the lower limit of the FO zone when price changed direction.
+
+So there will be outstanding orders at that price and it will be the last place for price to turn when it comes back to that area. It sometimes turns below the MPL, but to get the best price you wait for it to reach the MPL. It doesn't always happen, so you get fewer trades that way. The trades you do get will have a higher R.
+--- [10] maxpain_p1_11 daf6da2f446f243a8579c3a517e008d0aff15a85
+Edge
+
+The MPL will always be the last set of orders. This can be right down to the tick. Lower scales in a flag will show you where the smallest order blocks may reside to cause the maximum pain.
+
+1373
+--- [11] maxpain_p1_12 82b22056f71007a7326231603f155a63b9f750f4
+sev87
+
+is it MPL?
+--- [12] maxpain_p1_13 690da9667ab0b14ace7aaddbd9fa7ce96f1a6813
+What you have drawn are caps. An MPL is the maximum pain level which the IT can give to retailers before turning price. As Edge said, the last set of orders inside a flag. Look at in terms of fractals. Draw flags on the TF you wish to trade then dig down to the lowest tf you can go and find the last set of orders inside that area you wish to trade. An easy way to start understanding how it works is draw Flags on the lowest timeframe inside the larger flag which you are looking to trade and you will find pockets of unfilled orders ready to be taken. the last set of such orders is the MPL.
+--- [13] maxpain_p1_14 def08a1f0fd7c31fd5d294994820cb9942cc12b1
+sev87
+
+this one?
+
+its a cap in H4
+--- [14] maxpain_p1_15 b564298b0e636f2cb9e417723b733f950d0e6265
+fxeyes
+
+Hmm this one is interesting. HTF looks nice since it lines up with a few things. But it's harder to resolve in the lower timeframe. How would you guys view the LTF analysis? How would you rate A, B, and C?

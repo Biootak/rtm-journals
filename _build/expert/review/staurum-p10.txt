@@ -1,0 +1,614 @@
+### staurum_p10_1
+EN: I found some interesting articles that help redirect my mindset about reading the market.
+
+please beware: the blog author, i think, is still in search of what we learn here
+
+	www.priceactionlab.com/Blog/2012/12/the-...cal-trading-methods/
+
+written in 2012, "...these technical methods were expected to work
+because they were raised to indisputable trading rules by some authors.
+In reality, these tarding rules were the cause a high rate of trader
+failures..." seems to be a whistleblower.
+
+After reading it, understanding how technical analysis works AND how the
+ ITs can profit from it should nicely fit in RTM philosophy.
+
+	www.priceactionlab.com/Blog/2015/11/tech...alth-redistribution/
+
+another whistleblower. one funny sentence is "...market makers were the
+beneficiaries of the largest wealth redistribution that has ever
+occurred with non violent means..."
+
+I'm so often caught up with the technicality side of looking at chart
+and so often forget to think how the retailers can be fooled by
+feeling&reading price moves. IF many times explained how price moves
+ in terms of how the ITs can profit.
+
+A simple repetitive omission that "should" be easily noticed and treated, but humans like me do repeat similar mistakes.
+FA: چند مقالهٔ جالب پیدا کردم که کمک می‌کند طرز فکرم دربارهٔ خواندن بازار تغییر مسیر بدهد.
+
+لطفاً حواست باشد: به گمان من نویسندهٔ آن وبلاگ هنوز در جست‌وجوی همان چیزی است که اینجا یاد می‌گیریم
+
+www.priceactionlab.com/Blog/2012/12/the-...cal-trading-methods/
+
+نوشتهٔ 2012: «...انتظار می‌رفت این روش‌های تکنیکال کار کنند، چون بعضی نویسندگان آن‌ها را به قواعد بی‌چون‌وچرای معامله‌گری ارتقا داده بودند. در واقعیت، همین قواعد معامله‌گری عامل نرخ بالای شکست معامله‌گرها بودند...» — به نظر یک افشاگر است.
+
+بعد از خواندنش، فهمیدن اینکه تحلیل تکنیکال چطور کار می‌کند و IT‌ها چطور می‌توانند از آن سود ببرند باید خوب در فلسفهٔ RTM جا بیفتد.
+
+www.priceactionlab.com/Blog/2015/11/tech...alth-redistribution/
+
+یک افشاگر دیگر. یک جملهٔ خنده‌دارش این است: «...مارکت‌میکرها بهره‌مند بزرگ‌ترین بازتوزیع ثروتی بودند که تا به حال با ابزارهای غیرخشونت‌آمیز رخ داده است...»
+
+من خیلی وقت‌ها درگیر جنبهٔ تکنیکال نگاه کردن به نمودار می‌شوم و خیلی وقت‌ها فراموش می‌کنم فکر کنم که معامله‌گران خرد چطور با احساس و خواندن حرکت قیمت فریب می‌خورند. IF بارها توضیح داده که قیمت چطور حرکت می‌کند، از این منظر که IT‌ها چطور می‌توانند سود ببرند.
+
+یک غفلت ساده و تکراری که «باید» به‌راحتی دیده و درمان شود، ولی آدم‌هایی مثل من واقعاً اشتباه‌های مشابه را تکرار می‌کنند.
+
+### staurum_p10_2
+EN: Hy,
+
+First tnx por posting this infos.
+
+i am not sure if i understand this:
+
+can you explain us?
+
+These methods worked well for an extended period of time in those
+markets due to the presence of autocorrelation. After 1998 these methods
+ struggle because serial correlation in all markets has virtually
+disappeared.
+
+So article show us, that no metod works all the time... so we need to
+stick together and study and trade and be always in front of everyone...
+ You never know when QM and Diamonds will become retailer strategy and
+we will need to develop strategy to benefit from QM and Diamond.
+
+I am not scaring anyone here, but i only preparing my mindset to be dynamic in the market.
+
+I read in second article, that if you had computer in 1970 you had gigant advantage...
+
+But nowdays anyone have it.. so it is useless with classical trading methods.
+
+Now IT have advanced algos with HTF and flash orders to manipulate big investitors.
+
+With flash orders they PING the market so they get response if price is
+reacting... How do they do it? they puting orders towards predicted SD
+and watching how this zone reacts.
+
+I will draw you what i think...
+
+more lazy and stupid the designer of investitors algo was, more quickly he can be spoted by HTF.
+
+So randomnes is the key in this case for investitor.
+
+BTW i was programiny EA's for myself buth with classic trading knowladge.
+
+I think if i will write algo right now with RTM knowleadge it can rock
+the market... BUT for now i dont want to go in this, becouse this can
+take me a year to develop and still will have errors and bugs..
+FA: سلام،
+
+اول ممنون بابت گذاشتن این اطلاعات.
+
+مطمئن نیستم که این را می‌فهمم:
+
+می‌شود برایمان توضیح بدهی؟
+
+این روش‌ها به‌خاطر حضور خودهمبستگی، در آن بازارها مدت طولانی خوب کار می‌کردند. بعد از 1998 این روش‌ها به زحمت کار می‌کنند، چون همبستگی سریالی در همهٔ بازارها عملاً از بین رفته است.
+
+پس مقاله به ما نشان می‌دهد که هیچ روشی همیشه کار نمی‌کند... پس باید به هم بچسبیم و مطالعه و معامله کنیم و همیشه جلوی همه باشیم... هیچ‌وقت نمی‌دانی کِی QM و Diamond‌ها به استراتژی معامله‌گران خرد تبدیل می‌شوند و ما مجبور می‌شویم استراتژی‌ای بسازیم که از QM و Diamond سود ببرد.
+
+من اینجا کسی را نمی‌ترسانم، فقط ذهنم را آماده می‌کنم که در بازار پویا باشم.
+
+در مقالهٔ دوم خواندم که اگر در 1970 کامپیوتر داشتی، مزیت عظیمی داشتی...
+
+ولی امروز هر کسی یکی دارد.. پس با روش‌های کلاسیک معامله‌گری بی‌فایده است.
+
+حالا IT‌ها الگوریتم‌های پیشرفته با HTF و سفارش‌های فلش دارند تا سرمایه‌گذارهای بزرگ را دستکاری کنند.
+
+با سفارش‌های فلش بازار را PING می‌کنند تا ببینند آیا قیمت واکنش نشان می‌دهد... چطور این کار را می‌کنند؟ سفارش‌ها را به سمت SD پیش‌بینی‌شده می‌گذارند و می‌بینند آن ناحیه چطور واکنش می‌دهد.
+
+می‌خواهم برایت بکشم که چه فکر می‌کنم...
+
+هرچه طراح الگوریتم سرمایه‌گذار تنبل‌تر و احمق‌تر بوده باشد، سریع‌تر می‌تواند توسط HTF شناسایی شود.
+
+پس در این حالت تصادفی بودن کلید کار سرمایه‌گذار است.
+
+راستی من داشتم برای خودم EA برنامه‌نویسی می‌کردم، ولی با دانش معامله‌گری کلاسیک.
+
+فکر می‌کنم اگر همین حالا الگوریتمی با دانش RTM بنویسم می‌تواند بازار را بلرزاند... ولی فعلاً نمی‌خواهم واردش شوم، چون ممکن است یک سال طول بکشد و باز هم خطا و باگ داشته باشد..
+
+### staurum_p10_3
+EN: Hi PP, I hv reread your last post a few times but have yet to
+understand what it is you're intending to point out for the benefit of
+us learning here. I'm so sorry but my comprehension skill is not as good
+ to digest this.
+
+If you don't mind, please simplify it. i'm willing to help and share as long as i can understand the matter. :)
+FA: سلام PP، پست آخرت را چند بار دوباره خوانده‌ام ولی هنوز نفهمیده‌ام منظورت چیست که به نفع ما یادگیرنده‌ها اینجا می‌خواهی بگویی. خیلی ببخش، ولی مهارت درک من آن‌قدر خوب نیست که این را هضم کند.
+
+اگر اشکالی ندارد، ساده‌اش کن. تا وقتی موضوع را بفهمم، حاضرم کمک کنم و شریک شوم. :)
+
+### staurum_p10_4
+EN: @Strautum I think what PP is trying to explain is order flow:
+
+Here is article written by Master FxSniffer
+
+	readthemarket.com/index.php/en/forum/new...erial?start=50#64432
+
+@Pp I applaud you if you are really planning to make EA. It will take
+huge effort as reading market has many scenarios and codings requires
+algorithm that are derived from price movement.
+
+Please do sell it to RTM members if you ever get it done, as we are all
+Lazy as human beings and will always try to find easier way to do
+thingsxD
+
+Dengaima
+FA: @Strautum فکر می‌کنم PP دارد جریان سفارش را توضیح می‌دهد:
+
+این هم مقاله‌ای که Master FxSniffer نوشته
+
+readthemarket.com/index.php/en/forum/new...erial?start=50#64432
+
+@Pp اگر واقعاً قصد ساختن EA داری، تحسینت می‌کنم. تلاش عظیمی می‌خواهد، چون خواندن بازار سناریوهای زیادی دارد و کدنویسی الگوریتم‌هایی می‌خواهد که از حرکت قیمت بیرون آمده باشند.
+
+اگر تمامش کردی، لطفاً آن را به اعضای RTM بفروش، چون همهٔ ما انسان‌ها تنبل هستیم و همیشه دنبال راه راحت‌تر می‌گردیم xD
+
+Dengaima
+
+### staurum_p10_5
+EN: OK,
+
+1. i just want to point ot that, if RTM founds will be trading really
+big lots, then they need EA to redistribute big order, so IT will not
+spot your big order.
+
+2. if you have big order you canot have SL visible to the market, you
+need dynamic SL whis is only in memory of your computer where EA runs.
+So on every thick EA will go and check price if SL or TP is hit.. so you
+ have hidden orders. (BUY, SELL, SL, TP) all this needs to be hidden.
+
+3. BTW if you are playing with 1 lot forget about this...
+
+BUT for EA it will be semiautomatic. You will benefit from certain rules
+ whic will be dynamic... you will only mark zone, where you wants PA in
+LTF to be happened and EA will recognize engulfs, QM's, diamonds, FO...
+
+BUT this is dream for know... i dont want to overwhelm myself with this idea, becouse i have many crazy ideas in my life...
+
+First i need to prove myself that this RTM method is profitable to deserve EA.
+
+I am programer and first everything needs to be clear as water in my head to design RTM semiautomatic EA.
+
+for know, if you dont understand my words.. dont bother... just ignore it.
+FA: باشه،
+
+1. فقط می‌خواهم اشاره کنم که اگر بنیادهای RTM بخواهند واقعاً لات‌های بزرگ معامله کنند، به EA نیاز دارند تا سفارش بزرگ را توزیع کند، تا IT سفارش بزرگ تو را نبیند.
+
+2. اگر سفارش بزرگ داری نمی‌توانی استاپ‌لاس را مقابل بازار آشکار کنی؛ استاپ‌لاس دینامیک لازم داری که فقط در حافظهٔ کامپیوتری است که EA رویش اجرا می‌شود. پس در هر تیک EA می‌رود قیمت را چک می‌کند که استاپ‌لاس یا تارگت زده شده یا نه.. یعنی سفارش‌های پنهان داری. (BUY، SELL، SL، TP) همهٔ این‌ها باید پنهان باشند.
+
+3. راستی اگر با 1 لات بازی می‌کنی این را فراموش کن...
+
+ولی برای EA نیمه‌خودکار خواهد بود. از قواعد مشخصی سود می‌بری که دینامیک خواهند بود... فقط ناحیه‌ای را علامت می‌زنی که می‌خواهی PA در LTF در آن رخ دهد و EA اینگالف‌ها، QM‌ها، الگوهای Diamond، FO را تشخیص می‌دهد...
+
+ولی این فعلاً رؤیاست... نمی‌خواهم خودم را با این ایده درگیر کنم، چون در زندگی‌ام ایده‌های دیوانهٔ زیادی دارم...
+
+اول باید به خودم ثابت کنم که این روش RTM سودده است تا لایق EA باشد.
+
+من برنامه‌نویس‌ام و اول همه‌چیز باید مثل آب در ذهنم روشن باشد تا EA نیمه‌خودکار RTM را طراحی کنم.
+
+فعلاً، اگر حرف‌هایم را نمی‌فهمی.. خودت را درگیر نکن... فقط نادیده‌اش بگیر.
+
+### staurum_p10_6
+EN: For me, RTM is no longer a method, but rather it is a philosophy of
+price. no situation is ever the same. Accepting this is hard already,
+market is truly randomly manipulated, but it is not a chaos. Just like
+IF said: there are rules they abide by.
+
+Trying to find, or even try to solidify a method has wasted me lots & lots of weeks of my time. So good luck with that :)
+
+Trading for me is no longer about being correct. It is so much more
+about trying to be consistently profitable (Good R ratio x Win/Loss
+ratio) while thinking several scenarios as price is ticking through
+time, and having flexibility of thinking to trade in any way based on
+RTM.
+FA: برای من، RTM دیگر یک روش نیست، بلکه فلسفه‌ای از قیمت است. هیچ موقعیتی هرگز یکسان نیست. پذیرفتن این از قبل سخت است؛ بازار واقعاً به‌طور تصادفی دستکاری می‌شود، ولی آشوب نیست. همان‌طور که IF گفت: قواعدی هست که به آن پایبندند.
+
+تلاش برای پیدا کردن، یا حتی تثبیت کردن یک روش، هفته‌های زیادی از وقتم را هدر داد. پس در آن موفق باشی :)
+
+معامله‌گری برای من دیگر دربارهٔ درست بودن نیست. خیلی بیشتر دربارهٔ تلاش برای سوددهی پیوسته است (نسبت R خوب × نسبت برد/باخت) در حالی که چند سناریو را هم‌زمان که قیمت در زمان تیک می‌زند در نظر می‌گیریم، و انعطاف در تفکر برای معامله به هر شیوه‌ای بر پایهٔ RTM.
+
+### staurum_p10_7
+EN: yes yes of course philosophy.. it happenes to me that i was deaming charts and RTM...
+
+i didnt mean RTM metod as strict rule...
+
+i agree with your thinking. so you are getting one with the market. :D this is nice
+
+but now i am starting to connect all pices together and now i dont even
+look on QM like a some pattern, but like true SR with DP and mybe in
+FTR...
+
+and i dont look a diamont like a pattern but like a QM which is not in
+the right place and have tons of SL above and HTF SR above
+
+like you said you have to adopt to manipulation becouse IT are only
+searching for LQ and respect some major rules like monthly SR and so
+on..
+
+i get some perfect entries last days. but i was to greedy about targets and this is why i took only 50 % instead of 100%
+
+and also is the best to open 2 positions and have tg1 and tg2.. this can give you good sleep
+
+i still have problem with waiting PA and i mostly TT... it is really
+hard to wait for PA becouse it is not normal to people, even for me and i
+ know that this exist
+
+now i will go back to learning again
+FA: بله بله البته فلسفه.. برای من پیش می‌آید که خواب نمودار و RTM می‌بینم...
+
+منظورم از روش RTM قاعدهٔ سخت نبود...
+
+با طرز فکرت موافقم. پس داری با بازار یکی می‌شوی. :D این خوب است
+
+ولی حالا دارم کم‌کم همهٔ تکه‌ها را به هم وصل می‌کنم و دیگر به QM مثل یک الگو نگاه نمی‌کنم، بلکه مثل یک SR واقعی با DP و شاید در FTR...
+
+و به Diamond مثل یک الگو نگاه نمی‌کنم، بلکه مثل QM‌ی که در جای درست نیست و کوهی از استاپ‌لاس بالای سرش و SR در HTF بالای آن است
+
+همان‌طور که گفتی باید خودت را با دستکاری سازگار کنی، چون IT‌ها فقط دنبال LQ هستند و به بعضی قواعد اصلی مثل SR ماهانه و غیره احترام می‌گذارند..
+
+چند روز اخیر چند ورود بی‌نقص گرفتم. ولی دربارهٔ تارگت‌ها زیادی طمع کردم و همین شد که فقط 50 % گرفتم به‌جای 100%
+
+و همچنین بهترین کار این است که 2 پوزیشن باز کنی و tg1 و tg2 داشته باشی.. این می‌تواند خواب خوبی به تو بدهد
+
+من هنوز با انتظار برای PA مشکل دارم و بیشتر TT می‌کنم... انتظار برای PA واقعاً سخت است، چون برای آدم‌ها طبیعی نیست، حتی برای من که می‌دانم چنین چیزی وجود دارد
+
+حالا برمی‌گردم به یادگیری
+
+### staurum_p10_8
+EN: When asked how to read the market, we are given the readthemarket.com
+materials. We are excited, learn about it, putting all the puzzles
+together with sleepless nights and self doubts. At mid journey or even
+after learning almost all materials; funnily, we may still ask "so how
+do we read the market using these?"
+
+I think this happens a lot to some people who is looking for perfection,
+ loss-proof working template/mechanism. Well peeps, this short video may
+ help you as it has opened my mind eyes:
+
+I used to be a perfectionist, but little did i know that I was more of a procrastinator than a perfectionist.
+
+Every business has business plan. So is trading. Here are some examples I pulled up:
+
+* Omidfx:
+	readthemarket.com/index.php/en/forum/jou...club?start=175#56499
+
+* Edge:
+	readthemarket.com/index.php/en/forum/jou...es-journal-2-0#61591
+
+* Michal238 :
+	readthemarket.com/index.php/en/forum/jou...-s-journal-2-0#60739
+
+RTM should have one, but where is it? It's all in price reading article.
+ Thanks also to our RTM founders, we are now guided by Markepedia
+Roadmap & the "FAQ" article. Based on all these, we still need to
+make our own "TRADING" business plan, dont we? well, how about
+developing the price reading article to include markepedia roadmap. Now,
+ our price reading article becomes longer than half a page long, but
+more detailed and has psychology & money management aspects too.
+Remember though: the plan is still very much gravitated towards PAR rule
+ of thumb.
+
+Then, based on our findings from our trades, screentime, homeworks; we can always add/remove/update the price reading article.
+
+What's more interesting is to add IF's bits & pieces of lessons to
+it, just to add some flavors. In addition to that, how about adding IF's
+ quotes complied by Deenius:
+	readthemarket.com/index.php/en/forum/jou...-war?start=750#56612
+
+Now our business plan starts looking like a manual, doesnt it? Please be
+ careful not to make it too mechanical. Market is manipulated. Profits
+are not exactly profits, neither are losses. It is all about transfer of
+ wealth from the manipulated to the manipulator. So the manual just
+helps us to understand price structures. How the ITs profit from price
+moves is another side of the balance we need to interpret for ourselves.
+ Having both mechanical & psychological sides balanced, we should be
+ more sensitive towards "what may/will happen".
+
+Having said that, every single one of us will have different business
+plan, hence different practice and different trading style. no one is
+ever the same. Yes, we all will look similar and often take same trades,
+ but the process inside of us will never be exactly similar.
+
+Let us not search for perfection, because perfection risks us to be a
+procrastinator and focus too much on the results we desperately need to
+achieve (just like the youtube video said); but instead, start building
+the pieces slowly and patiently, enjoy the process, and what is much
+more important, just like IF said: "feel more at home" with the charts.
+
+Bro PinkPanter, i hope this post helps you and everyone in answering what you look for.
+
+Best wishes,
+
+S
+FA: وقتی از ما می‌پرسند چطور بازار را بخوانیم، مطالب readthemarket.com را می‌دهند. هیجان‌زده می‌شویم، یاد می‌گیریم، همهٔ پازل‌ها را با شب‌های بی‌خوابی و شک به خود کنار هم می‌چینیم. در میانهٔ راه یا حتی بعد از یادگیری تقریباً همهٔ مطالب؛ بامزه اینکه هنوز ممکن است بپرسیم «خب چطور با این‌ها بازار را بخوانیم؟»
+
+فکر می‌کنم این برای بعضی‌ها که دنبال بی‌نقصی و یک قالب یا مکانیزم کارآمد و ضدضرر هستند، زیاد پیش می‌آید. خب رفقا، این ویدئوی کوتاه ممکن است کمکتان کند، چون چشم ذهن من را باز کرد:
+
+من قبلاً کمال‌گرا بودم، ولی نمی‌دانستم که بیشتر از کمال‌گرا، یک تعویق‌انداز بودم.
+
+هر کسب‌وکاری برنامهٔ کسب‌وکار دارد. معامله‌گری هم همین‌طور. این‌ها چند نمونه است که بیرون کشیدم:
+
+* Omidfx:
+readthemarket.com/index.php/en/forum/jou...club?start=175#56499
+
+* Edge:
+readthemarket.com/index.php/en/forum/jou...es-journal-2-0#61591
+
+* Michal238 :
+readthemarket.com/index.php/en/forum/jou...-s-journal-2-0#60739
+
+RTM باید یکی داشته باشد، ولی کجاست؟ همه‌اش در مقالهٔ خواندن قیمت است. ممنون از بنیان‌گذاران RTM، حالا نقشهٔ راه Markepedia و مقالهٔ «FAQ» راهنمای ما هستند. بر پایهٔ همهٔ این‌ها، ما هنوز باید برنامهٔ کسب‌وکار «معامله‌گری» خودمان را بسازیم، نه؟ خب، چطور است مقالهٔ خواندن قیمت را توسعه بدهیم تا نقشهٔ راه Markepedia را هم در بر بگیرد؟ حالا مقالهٔ خواندن قیمت ما از نصف صفحه بلندتر می‌شود، اما جزئی‌تر است و جنبه‌های روان‌شناسی و مدیریت پول را هم دارد. هرچند یادت باشد: برنامه هنوز تا حد زیادی به قاعدهٔ سرانگشتی PAR گرایش دارد.
+
+بعد، بر پایهٔ یافته‌هایمان از معامله‌ها، زمان صفحه و تکلیف‌ها؛ همیشه می‌توانیم مقالهٔ خواندن قیمت را اضافه، حذف یا به‌روز کنیم.
+
+جالب‌تر از آن، اضافه کردن تکه‌های درس‌های IF به آن است، فقط برای افزودن طعم. علاوه بر آن، چطور است نقل‌قول‌های IF را که Deenius جمع کرده هم اضافه کنیم:
+readthemarket.com/index.php/en/forum/jou...-war?start=750#56612
+
+حالا برنامهٔ کسب‌وکار ما شبیه یک دفترچهٔ راهنما می‌شود، نه؟ لطفاً مراقب باش که خیلی مکانیکی‌اش نکنی. بازار دستکاری می‌شود. سودها دقیقاً سود نیستند، ضررها هم همین‌طور. همه‌اش انتقال ثروت از دستکاری‌شده به دستکاری‌کننده است. پس دفترچه فقط کمکمان می‌کند ساختارهای قیمت را بفهمیم. اینکه IT‌ها چطور از حرکت قیمت سود می‌برند، طرف دیگر ترازویی است که باید خودمان تفسیرش کنیم. با متعادل داشتن هر دو جنبهٔ مکانیکی و روانی، باید نسبت به «چه چیزی ممکن است یا خواهد شد» حساس‌تر باشیم.
+
+با این اوصاف، هر یک از ما برنامهٔ کسب‌وکار متفاوتی خواهد داشت، پس تمرین متفاوت و سبک معامله‌گری متفاوت. هیچ‌کس هرگز یکسان نیست. بله، همهٔ ما شبیه هم به نظر می‌رسیم و اغلب معامله‌های یکسانی می‌گیریم، ولی فرایند درون ما هرگز دقیقاً یکسان نخواهد بود.
+
+بیایید دنبال بی‌نقصی نگردیم، چون بی‌نقصی ما را در معرض تعویق‌اندازی قرار می‌دهد و باعث می‌شود بیش از حد روی نتایجی تمرکز کنیم که به‌شدت نیاز داریم به دست بیاوریم (همان‌طور که آن ویدئوی یوتیوب گفت)؛ بلکه به‌جایش، تکه‌ها را آهسته و صبورانه بسازیم، از مسیر لذت ببریم، و مهم‌تر از آن، همان‌طور که IF گفت: با نمودارها «بیشتر احساس خانه بودن» کنیم.
+
+داداش PinkPanter، امیدوارم این پست به تو و همه در پاسخ به آنچه دنبالش هستی کمک کند.
+
+با بهترین آرزوها،
+
+S
+
+### staurum_p10_9
+EN: Tnx 1000 times...
+
+I watched video and re-read your post again...
+
+I will go buy myself rubberband!
+FA: 1000 بار ممنون...
+
+ویدئو را دیدم و پستت را دوباره خواندم...
+
+می‌روم برای خودم کش لاستیکی بخرم!
+
+### staurum_p10_10
+EN: That video deserves a standing ovation.
+
+Its a direct punch to the brain.
+
+I'm gonna share it to everyone I know as well since its so good.
+
+Thanks so much for the video, bro Staurum
+FA: آن ویدئو یک تشویق ایستاده می‌ارزد.
+
+یک مشت مستقیم به مغز است.
+
+آن را با هر کسی که می‌شناسم هم به اشتراک می‌گذارم، چون واقعاً خوب است.
+
+خیلی ممنون بابت ویدئو، داداش Staurum
+
+### staurum_p10_11
+EN: great post staurum.thank you
+FA: پست عالی بود Staurum. ممنون
+
+### staurum_p10_13
+EN: staurum wrote:
+
+Bro, how did you catch this move? For me it hasn't even hit Supply level yet :D
+
+Dengaima
+FA: staurum نوشت:
+
+داداش، این حرکت را چطور گرفتی؟ برای من هنوز حتی به سطح عرضه هم نرسیده است :D
+
+Dengaima
+
+### staurum_p10_14
+EN: i dont wanna post too many charts, i think you can fill in the blanks on this one, though.
+
+The stripes are purely subjective. Zoom in to m1, if u can, to that
+green-boxed area and also blue-boxed area, then you dissect them going
+from the larger moves down to the smaller moves.
+
+haha. if u say, price hasn't reached our supply level yet, please enlighten us
+FA: نمی‌خواهم نمودار زیادی بگذارم، فکر می‌کنم خودت می‌توانی جاهای خالی این یکی را پر کنی.
+
+خط‌خطی‌ها کاملاً سلیقه‌ای است. اگر می‌توانی تا m1 زوم کن، به آن ناحیهٔ کادر سبز و همچنین کادر آبی، بعد آن‌ها را از حرکت‌های بزرگ‌تر رو به حرکت‌های کوچک‌تر تشریح کن.
+
+هاها. اگر می‌گویی قیمت هنوز به سطح عرضه‌مان نرسیده، لطفاً ما را روشن کن
+
+### staurum_p10_15
+EN: staurum wrote:
+
+i dont wanna post too many charts, i think you can fill in the blanks on this one, though.
+
+The stripes are purely subjective. Zoom in to m1, if u can, to that
+green-boxed area and also blue-boxed area, then you dissect them going
+from the larger moves down to the smaller moves.
+
+haha. if u say, price hasn't reached our supply level yet, please enlighten us
+
+If they only spike level and shoot away fast, I think they will be
+orders unfilled as no one can fill all their orders if price moves away
+too fast + Spikes usually scares the shit out of all retail traders,
+even amateur RTM traders,like me.
+
+About your trade, nicely spot =) Supply SPAZ where you entered on M1 chart
+
+Dengaima
+FA: staurum نوشت:
+
+نمی‌خواهم نمودار زیادی بگذارم، فکر می‌کنم خودت می‌توانی جاهای خالی این یکی را پر کنی.
+
+خط‌خطی‌ها کاملاً سلیقه‌ای است. اگر می‌توانی تا m1 زوم کن، به آن ناحیهٔ کادر سبز و همچنین کادر آبی، بعد آن‌ها را از حرکت‌های بزرگ‌تر رو به حرکت‌های کوچک‌تر تشریح کن.
+
+هاها. اگر می‌گویی قیمت هنوز به سطح عرضه‌مان نرسیده، لطفاً ما را روشن کن
+
+اگر فقط به سطح اسپایک می‌زنند و سریع دور می‌شوند، فکر می‌کنم سفارش‌ها پرنشده می‌مانند، چون هیچ‌کس نمی‌تواند همهٔ سفارش‌هایش را پر کند اگر قیمت خیلی سریع دور شود + اسپایک‌ها معمولاً همهٔ معامله‌گران خرد را می‌ترسانند، حتی معامله‌گرهای تازه‌کار RTM مثل من.
+
+دربارهٔ معاملهٔ تو، خوب دیدی =) عرضه SPAZ که در نمودار M1 وارد شدی
+
+Dengaima
+
+### staurum_p10_16
+EN: regarding "I dont have balls to TT is as the SL is almost 100 pips"
+
+Ok, here we go: we need to think trades in terms of Risk/Reward ratio,
+no more in terms of pips. no matter how wide the stop is, what matters
+is how much we r risking, and therfore the position size should adjust
+automatically.
+
+Regarding the "balls", that is why I wrote "find out which is PA"
+
+:D
+FA: دربارهٔ «جرئت TT کردن را ندارم چون استاپ‌لاس تقریباً 100 پیپ است»
+
+خب، برو که رفتیم: باید معامله‌ها را بر حسب نسبت ریسک/ریوارد فکر کنیم، دیگر نه بر حسب پیپ. هرقدر استاپ پهن باشد، مهم این است که چقدر ریسک می‌کنیم، و بنابراین حجم پوزیشن باید خودکار تنظیم شود.
+
+دربارهٔ «جرئت»، همان است که نوشتم «بفهم کدام PA است»
+
+:D
+
+### staurum_p10_17
+EN: staurum wrote: regarding "I dont have balls to TT is as the SL is almost 100 pips"
+
+Ok, here we go: we need to think trades in terms of Risk/Reward ratio,
+no more in terms of pips. no matter how wide the stop is, what matters
+is how much we r risking, and therfore the position size should adjust
+automatically.
+
+Regarding the "balls", that is why I wrote "find out which is PA"
+
+:D
+
+Bro :D I have micro account with less than 100 Dollars and I prefer to trade Live as it's more exciting and I learn more :DD
+
+I tried demo before, but it always ended up me playing for fun...which I
+ don't like =). Everyone has their own thinkings I guess :D
+
+Dengaima
+FA: staurum نوشت: دربارهٔ «جرئت TT کردن را ندارم چون استاپ‌لاس تقریباً 100 پیپ است»
+
+خب، برو که رفتیم: باید معامله‌ها را بر حسب نسبت ریسک/ریوارد فکر کنیم، دیگر نه بر حسب پیپ. هرقدر استاپ پهن باشد، مهم این است که چقدر ریسک می‌کنیم، و بنابراین حجم پوزیشن باید خودکار تنظیم شود.
+
+دربارهٔ «جرئت»، همان است که نوشتم «بفهم کدام PA است»
+
+:D
+
+داداش :D من حساب میکرو با کمتر از 100 دلار دارم و ترجیح می‌دهم لایو معامله کنم چون هیجان‌انگیزتر است و بیشتر یاد می‌گیرم :DD
+
+قبلاً دمو امتحان کردم، ولی همیشه به این ختم می‌شد که برای تفریح بازی کنم... که دوستش ندارم =). فکر کنم هر کسی طرز فکر خودش را دارد :D
+
+Dengaima
+
+### staurum_p10_18
+EN: Staurum, I'm truly humbled by all you're doing.
+
+You're a true light in the darkness
+FA: Staurum، من واقعاً از هر کاری که می‌کنی فروتن شده‌ام.
+
+تو نوری واقعی در تاریکی هستی
+
+### staurum_p10_19
+EN: Please IF.
+
+What you've shared here is beyond the things that I'm grateful for. Thanks is just not enough.
+
+I'm only a human, beaten previously by the trading world to a place of
+deep depression, but somehow was led to this place then saw a light. I
+know for sure that some others will agree that this place is a light in
+the darkness of trading education scams.
+
+What you've shared with us here, not only trading education, but also
+palebluedot knowledge about the world, woke me up to "see" a mess we are
+ all in.
+
+I would probably be still lost without this place, and more importantly
+without the members (you know who you are) here who've helped me so much
+ in this 10 months.
+
+All in all, we, who have gone through thousands and thousands of hours
+sweeping all forum posts with our sleepless pair of eyes and brains,
+know and understand what you've done here.
+
+Big Thanks to you, as always
+FA: خواهش می‌کنم IF.
+
+آنچه اینجا به اشتراک گذاشته‌ای فراتر از چیزهایی است که برایش سپاسگزارم. «ممنون» کافی نیست.
+
+من فقط یک انسانم، که قبلاً دنیای معامله‌گری او را تا جای افسردگی عمیق کتک زده، ولی به شکلی به اینجا هدایت شدم و بعد نوری دیدم. مطمئنم بعضی‌های دیگر هم قبول دارند که اینجا نوری است در تاریکی کلاهبرداری‌های آموزش معامله‌گری.
+
+آنچه اینجا با ما به اشتراک گذاشته‌ای، نه فقط آموزش معامله‌گری، بلکه دانش palebluedot دربارهٔ دنیا، مرا بیدار کرد تا «ببینم» در چه آشفته‌بازاری هستیم.
+
+بدون اینجا احتمالاً هنوز گم بودم، و مهم‌تر از آن بدون اعضایی (خودتان می‌دانید کی هستید) که در این 10 ماه خیلی کمکم کرده‌اند.
+
+روی هم رفته، ما که هزاران هزار ساعت را با جفت چشم و مغز بی‌خواب صرف جارو کردن همهٔ پست‌های انجمن کرده‌ایم، می‌دانیم و می‌فهمیم چه کرده‌ای.
+
+ممنون بزرگ از تو، مثل همیشه
+
+### staurum_p10_20
+EN: I really wanna blame RTM for making me miss this trade (2nd time
+now).... I, now, wanna go back to trend followers and breakout trading
+so bad.
+
+"all is well.... all is well..... all is well" -- (3 Idiots, 2009)
+FA: واقعاً می‌خواهم RTM را سرزنش کنم که باعث شد این معامله را از دست بدهم (حالا بار دوم).... من، همین حالا، خیلی دلم می‌خواهد به پیروان روند و معامله‌گری بریک‌اوت برگردم.
+
+«همه‌چیز خوب است.... همه‌چیز آرام..... همه‌چیز درست» -- (3 Idiots، 2009)
+
+### staurum_p10_21
+EN: Sorry for your loss
+FA: بابت ضررت متأسفم
+
+### staurum_p10_22
+EN: I was supposed to be a loyal trend follower and follow the market
+flow, a holy grail of trading as taught by so many market experts. RTM
+has forced me to betray my former self.
+
+I am now full of regrets.
+FA: قرار بود یک پیرو روند وفادار باشم و جریان بازار را دنبال کنم، جام مقدسی از معامله‌گری که خیلی از کارشناسان بازار آموزش می‌دهند. RTM مرا مجبور کرده به خود سابقم خیانت کنم.
+
+الان پر از حسرتم.
+
+### staurum_p10_23
+EN: Will you ever learn?
+FA: هیچ‌وقت یاد می‌گیری؟
+
+### staurum_p10_24
+EN: staurum wrote: I was supposed to
+ be a loyal trend follower and follow the market flow, a holy grail of
+trading as taught by so many market experts. RTM has forced me to betray
+ my former self.
+
+I am now full of regrets.
+
+Bravo on your USDCAD trade Staurum. I took the same trade...love it!
+FA: staurum نوشت: قرار بود یک پیرو روند وفادار باشم و جریان بازار را دنبال کنم، جام مقدسی از معامله‌گری که خیلی از کارشناسان بازار آموزش می‌دهند. RTM مرا مجبور کرده به خود سابقم خیانت کنم.
+
+الان پر از حسرتم.
+
+آفرین به معامله‌ات روی USDCAD، Staurum. من هم همین معامله را گرفتم... عاشقش شدم!
+
+### staurum_p10_25
+EN: ok, i can't stop laughing. sorry guys, i need to put it here. if u dont laugh, dat s even funnier.
+
+Peace,
+
+Note: i'm sorry, RTM. I think my trend following method is a genius one. See everything is in my favour to buy AUDCAD.
+
+mmm...... I now miss so much to being back to be a trend & indicator trader.
+FA: باشه، نمی‌توانم جلوی خنده‌ام را بگیرم. ببخشید بچه‌ها، لازم است این را اینجا بگذارم. اگر نخندی، حتی خنده‌دارتر است.
+
+صلح،
+
+توجه: ببخشید RTM. فکر می‌کنم روش پیروی از روند من یک روش نابغه‌وار است. ببین همه‌چیز به نفع من است برای خرید AUDCAD.
+
+هوم...... الان خیلی دلم برای برگشتن به معامله‌گر روند و اندیکاتور تنگ شده.

@@ -1,0 +1,305 @@
+### lespaul_p4_1
+EN: Thanks for the detailed reply, Les_Paul :) .
+
+I'm not sure why the UCAD failed, maybe it went a bit down into the Daily supply before deciding to go up.
+
+Btw. Nice catch in GU, seems to have worked really well.
+
+Regards
+FA: ممنون بابت پاسخ مفصلت، Les_Paul :) .
+
+مطمئن نیستم چرا UCAD شکست خورد، شاید کمی پایین رفت داخل عرضهٔ روزانه و بعد تصمیم گرفت بالا بیاید.
+
+راستی، گرفتن GU قشنگ بود، به نظر می‌رسد خیلی خوب جواب داده است.
+
+با احترام
+
+### lespaul_p4_2
+EN: This is my USDCAD long trade, simple setup but very powerful. The trade was taken with PO.
+FA: این معاملهٔ خرید USDCAD من است؛ ستاپ ساده، ولی خیلی قدرتمند. معامله با سفارش معلق گرفته شد.
+
+### lespaul_p4_3
+EN: But I still have many losers like these:
+FA: ولی من هنوز کلی بازنده از این جنس دارم:
+
+### lespaul_p4_4
+EN: In this trade I wanted to try to implement FIB according to Rufus. EURGBP short.
+FA: در این معامله می‌خواستم FIB را بر اساس روش Rufus پیاده کنم. EURGBP، پوزیشن فروش.
+
+### lespaul_p4_5
+EN: Les_Paul wrote: But I still have many losers like these:
+
+you took these 2 as touch trades. a good sign that price is turning
+would be if they had engulfed the flag limit, which none of them did
+here.
+FA: Les_Paul نوشت: ولی من هنوز کلی بازنده از این جنس دارم:
+
+تو این 2 تا را به‌عنوان تاچ‌ترید گرفتی. نشانهٔ خوبی که قیمت دارد می‌چرخد این بود که سقف فلگ را اینگالف می‌کردند، که هیچ‌کدامشان در این نمودارها این کار را نکردند.
+
+### lespaul_p4_6
+EN: Hey LP.
+
+Here is what I think why those trades did not work out. Although Harry
+did explain why they did not work out, I decided to do it in charts.
+
+Hopefully this would help in some way.
+
+Have a nice weekend.
+FA: سلام LP.
+
+این است آنچه فکر می‌کنم چرا آن معاملات جواب ندادند. هرچند Harry توضیح داد چرا جواب ندادند، تصمیم گرفتم با نمودار این کار را بکنم.
+
+امیدوارم به شکلی کمک کند.
+
+آخر هفتهٔ خوبی داشته باشی.
+
+### lespaul_p4_7
+EN: Harry wrote:
+Les_Paul wrote: But I still have many losers like these:
+
+you took these 2 as touch trades. a good sign that price is turning
+would be if they had engulfed the flag limit, which none of them did
+here.
+
+I did exactly the same thing today and yesterday. I have come to see the
+ importance of engulfing. It confirms.the change of direction in price.
+Will be spending the weekend looking at engulf examples and asking for
+critique.
+FA: Harry نوشت:
+Les_Paul نوشت: ولی من هنوز کلی بازنده از این جنس دارم:
+
+تو این 2 تا را به‌عنوان تاچ‌ترید گرفتی. نشانهٔ خوبی که قیمت دارد می‌چرخد این بود که سقف فلگ را اینگالف می‌کردند، که هیچ‌کدامشان در این نمودارها این کار را نکردند.
+
+من امروز و دیروز دقیقاً همین کار را کردم. تازه دارم اهمیت اینگالف را می‌فهمم. اینگالف تغییر جهت قیمت را تأیید می‌کند. آخر هفته را صرف نگاه کردن به نمونه‌های اینگالف می‌کنم و می‌خواهم نقدش کنید.
+
+### lespaul_p4_8
+EN: sunnytrader1984 wrote: Hey LP.
+
+Here is what I think why those trades did not work out. Although Harry
+did explain why they did not work out, I decided to do it in charts.
+
+Hopefully this would help in some way.
+
+Have a nice weekend.
+
+quite some thoughts behind these charts. thank you Sunny
+FA: sunnytrader1984 نوشت: سلام LP.
+
+این است آنچه فکر می‌کنم چرا آن معاملات جواب ندادند. هرچند Harry توضیح داد چرا جواب ندادند، تصمیم گرفتم با نمودار این کار را بکنم.
+
+امیدوارم به شکلی کمک کند.
+
+آخر هفتهٔ خوبی داشته باشی.
+
+این نمودارها پشتشان کلی فکر است. ممنون Sunny
+
+### lespaul_p4_9
+EN: I have been glaring at these three charts for the last three hours.
+These examples and explanations have helped me in a BIG way!
+FA: سه ساعت است که به این سه نمودار خیره شده‌ام. این نمونه‌ها و توضیح‌ها به‌طرز بزرگی کمکم کرد!
+
+### lespaul_p4_10
+EN: Harry wrote:
+Les_Paul wrote: But I still have many losers like these:
+
+you took these 2 as touch trades. a good sign that price is turning
+would be if they had engulfed the flag limit, which none of them did
+here.
+
+Harry, could you post some charts with the flag limits you're talking about please?
+FA: Harry نوشت:
+Les_Paul نوشت: ولی من هنوز کلی بازنده از این جنس دارم:
+
+تو این 2 تا را به‌عنوان تاچ‌ترید گرفتی. نشانهٔ خوبی که قیمت دارد می‌چرخد این بود که سقف فلگ را اینگالف می‌کردند، که هیچ‌کدامشان در این نمودارها این کار را نکردند.
+
+Harry، ممکن است چند نمودار با همان سقف‌های فلگی که می‌گویی بگذاری؟
+
+### lespaul_p4_11
+EN: romant wrote:
+
+you took these 2 as touch trades. a good sign that price is turning
+would be if they had engulfed the flag limit, which none of them did
+here.
+
+Harry, could you post some charts with the flag limits you're talking about please?[/quote]
+
+in the 2nd chart there is no visible FL, the 30Y USD auction gave some
+crazy momentum and there were no signs it was slowing down.
+FA: romant نوشت:
+
+تو این 2 تا را به‌عنوان تاچ‌ترید گرفتی. نشانهٔ خوبی که قیمت دارد می‌چرخد این بود که سقف فلگ را اینگالف می‌کردند، که هیچ‌کدامشان در این نمودارها این کار را نکردند.
+
+Harry، ممکن است چند نمودار با همان سقف‌های فلگی که می‌گویی بگذاری؟[/quote]
+
+در نمودار دوم هیچ FL قابل‌مشاهده‌ای نیست؛ حراج 30Y USD یک مومنتوم دیوانه‌وار داد و هیچ نشانه‌ای از کند شدنش نبود.
+
+### lespaul_p4_12
+EN: Sunny, thank you very much, this is exactly what I need to move a bit
+on... will study this inside out and also will analyse my past setups
+and failed trades!
+
+Harry, thank you for the additional information about flag limits!
+
+All of this will help all the traders not just me.
+
+Les_Paul
+FA: از Sunny خیلی ممنونم؛ این دقیقاً همان چیزی است که برای کمی جلو رفتن لازم دارم... این را موبه‌مو مطالعه می‌کنم و ستاپ‌های گذشته و معاملات شکست‌خوردهٔ خودم را هم تحلیل می‌کنم!
+
+از Harry هم ممنون بابت اطلاعات بیشتر دربارهٔ سقف‌های فلگ!
+
+همهٔ این‌ها به همهٔ معامله‌گران کمک می‌کند، نه فقط به من.
+
+Les_Paul
+
+### lespaul_p4_13
+EN: EURUSD long +20pips, hopefully this engulfing was valid, pls comment...
+FA: EURUSD، پوزیشن خرید +20 پیپ؛ امیدوارم این اینگالف معتبر بوده باشد، نظرتان را بگویید...
+
+### lespaul_p4_14
+EN: Hi Les_ Paul,
+
+I decided to short the same setup, I'm not sure if the engulf was valid
+
+But as for the up move i was assuming that it has just touched the peak
+of the HTF demand, and it MAY move a bit deep before deciding to go up.
+
+P.S: H4 Demand wrongly marked as Daily D in chart, sorry
+
+The setup does not seem to be working as of now
+
+Regards
+
+R.B.N.J
+
+Les_Paul wrote: EURUSD long +20pips, hopefully this engulfing was valid, pls comment...
+FA: سلام Les_ Paul،
+
+تصمیم گرفتم همین ستاپ را شورت کنم؛ مطمئن نیستم اینگالف معتبر بوده باشد.
+
+ولی دربارهٔ حرکت صعودی، فرض من این بود که تازه به قلهٔ تقاضای HTF خورده و ممکن است کمی عمیق‌تر برود و بعد تصمیم بگیرد بالا بیاید.
+
+پینوشت: تقاضای H4 در نمودار به‌اشتباه تقاضای روزانه علامت خورده، ببخشید
+
+این ستاپ تا این لحظه به نظر نمی‌رسد جواب بدهد.
+
+با احترام
+
+R.B.N.J
+
+Les_Paul نوشت: EURUSD، پوزیشن خرید +20 پیپ؛ امیدوارم این اینگالف معتبر بوده باشد، نظرتان را بگویید...
+
+### lespaul_p4_15
+EN: Hi rbnj, shorting into HTF demand is generaly considered as rather risky. I may go lower, though, there's a nice compression.
+
+LP
+FA: سلام rbnj، شورت کردن به داخل تقاضای HTF عموماً نسبتاً پرریسک شمرده می‌شود. ممکن است پایین‌تر برود، ولی یک فشرده‌سازی قشنگ هم آنجاست.
+
+LP
+
+### lespaul_p4_16
+EN: Hey LP.
+
+You have your DP marked and price reacted to it nicely. Why is it your
+buy order is so much higher? Also in reference to the engulf, I
+personally am waiting for an engulf of a more significant level. Have a
+look at the M15.
+
+Where was your stop on this trade?
+
+Peds
+FA: سلام LP.
+
+DP را علامت زده‌ای و قیمت هم قشنگ به آن واکنش داد. چرا سفارش خریدت اینقدر بالاتر است؟ دربارهٔ اینگالف هم، من شخصاً منتظر اینگالف یک سطح مهم‌تر می‌مانم. یک نگاه به M15 بینداز.
+
+حد ضررت در این معامله کجا بود؟
+
+Peds
+
+### lespaul_p4_17
+EN: Pedini wrote: Hey LP.
+
+You have your DP marked and price reacted to it nicely. Why is it your
+buy order is so much higher? Also in reference to the engulf, I
+personally am waiting for an engulf of a more significant level. Have a
+look at the M15.
+
+Where was your stop on this trade?
+
+Peds
+
+Hi Pedini, I knew someone would notice this... Yes the entry was way too
+ high, I had not set PO and opened it manually. The stop was at 2945 -
+under the blue level. The RR was poor - about 1:1 because of the late
+entry. Thank you!
+
+LP
+FA: Pedini نوشت: سلام LP.
+
+DP را علامت زده‌ای و قیمت هم قشنگ به آن واکنش داد. چرا سفارش خریدت اینقدر بالاتر است؟ دربارهٔ اینگالف هم، من شخصاً منتظر اینگالف یک سطح مهم‌تر می‌مانم. یک نگاه به M15 بینداز.
+
+حد ضررت در این معامله کجا بود؟
+
+Peds
+
+سلام Pedini، می‌دانستم یک نفر این را می‌بیند... بله، ورود خیلی بالا بود؛ سفارش معلق نگذاشته بودم و دستی بازش کردم. حد ضرر روی 2945 بود — زیر سطح آبی. نسبت RR ضعیف بود، حدود 1:1، چون دیر وارد شدم. ممنون!
+
+LP
+
+### lespaul_p4_18
+EN: Yeh. Really gotta screen those RR. I rarely take anything under 4:1.
+FA: آره. واقعاً باید این نسبت‌های RR را خوب بسنجی. من به‌ندرت چیزی زیر 4:1 می‌گیرم.
+
+### lespaul_p4_19
+EN: Yes, the price did go up in a nice compressed manner. Also i entered
+short mainly because the Price barely entered the Daily demand and
+failed to make a HH in m15( Which i usually consider). So it was a low
+risk Short Scalp opportunity, has eventually came down pretty fast :).
+
+Regards
+FA: بله، قیمت هم به شکلی فشرده و قشنگ بالا رفت. راستش من بیشتر به این خاطر شورت گرفتم که قیمت به‌زور وارد تقاضای روزانه شد و در M15 نتوانست سقف بالاتری بسازد (که معمولاً به آن توجه می‌کنم). پس یک فرصت اسکالپ فروش کم‌ریسک بود که در نهایت خیلی سریع هم پایین آمد :).
+
+با احترام
+
+### lespaul_p4_20
+EN: Les_Paul wrote: EURUSD long +20pips, hopefully this engulfing was valid, pls comment...
+
+Here is a short which was equally valid while you were waiting for your entry.
+
+Just because you want to go long, doesnt mean you can not take short.
+
+Have a nice week.
+FA: Les_Paul نوشت: EURUSD، پوزیشن خرید +20 پیپ؛ امیدوارم این اینگالف معتبر بوده باشد، نظرتان را بگویید...
+
+این هم یک شورت که همان‌قدر معتبر بود، در همان زمانی که منتظر ورودت بودی.
+
+فقط به این خاطر که دلت می‌خواهد خرید کنی، این‌طور نیست که نتوانی فروش هم بگیری.
+
+هفتهٔ خوبی داشته باشی.
+
+### lespaul_p4_21
+EN: sunnytrader1984 wrote:
+
+Just because you want to go long, doesnt mean you can not take short.
+
+Thank you Sunny, I will remember this quote!
+FA: sunnytrader1984 نوشت:
+
+فقط به این خاطر که دلت می‌خواهد پوزیشن خرید بگیری، این‌طور نیست که نتوانی پوزیشن فروش هم بگیری.
+
+ممنون Sunny، این جمله را برای همیشه در ذهنم نگه می‌دارم؛ حرف درستی است و باید آن را جایی بنویسم که همیشه جلوی چشمم باشد!
+
+### lespaul_p4_22
+EN: I recommend watching If's FTR video... a real eye opener for me today!
+FA: پیشنهاد می‌کنم ویدئوی FTR را از IF ببینید... امروز واقعاً چشمم را باز کرد!
+
+### lespaul_p4_23
+EN: from decision to decision....
+FA: از تصمیم به تصمیم....
+
+### lespaul_p4_24
+EN: Very nice trade at this hook level, and your risk was close to 0. /
+FA: معاملهٔ خیلی قشنگی روی این سطح قلاب، و ریسکت نزدیک صفر بود. /
+
+### lespaul_p4_25
+EN: AUDUSD short, decided to close at the SR flip
+FA: AUDUSD، پوزیشن فروش؛ تصمیم گرفتم در فلیپ SR ببندم.

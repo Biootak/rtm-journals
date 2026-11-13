@@ -1,0 +1,14 @@
+{
+  "classroom_p49_1201": {"ok": true},
+  "classroom_p49_1202": {
+    "issue": "Engulf destination obscured.",
+    "why": "The source asks about engulfing FL 2 into MPL 1, not an FL 2 already located inside MPL 1. Keep the price movement explicit.",
+    "fix": "چند سؤال دربارهٔ FLها و MPLها داشتم. 1) با توجه به نمودار زیر، آیا اینکه FLها یکدیگر را قطع کنند اشکالی دارد، یا FL 1 بر FL 2 اولویت دارد؟ 2) به FL 2 نگاه کنید؛ اگر واقعاً یک FL باشد، آیا MPL مربوط به FL 2 سفارش‌های تازه محسوب می‌شود؟ 3) اگر قیمت FL 2 را اینگالف کند و وارد MPL مربوط به FL 1 شود، آیا این اتفاق اهمیتی دارد؟ 4) آیا استاپ‌لاس MPL 2 بالای MPL 1 قرار می‌گیرد؟\n\nهمان‌طور که می‌بینید، این روزها در EG چیزهای زیادی در جریان است. ممنون، Bill"
+  },
+  "classroom_p49_1203": {
+    "issue": "Validator echo rejection.",
+    "why": "Repeated answer/question wording triggered the echo gate. Rephrase only the final lead-in, preserving the CP condition and stop-loss placement above MPL.",
+    "fix": "پاسخ 3 سؤال اولت این است که تمام این بخش ناحیهٔ CP است؛ یا PCP را معامله می‌کنی یا MPL را. بین این دو سفارش دست‌نخورده‌ای وجود ندارد. برای سؤال سوم پیشنهاد می‌کنم ویدئوی QM DM Video 1 lite در marketpedia را مرور کنی. ضمناً دربارهٔ سؤال 4، در حالت CP استاپ‌لاس همیشه بالای MPL قرار می‌گیرد!"
+  },
+  "classroom_p49_1204": {"ok": true}
+}

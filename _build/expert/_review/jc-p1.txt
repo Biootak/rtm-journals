@@ -1,0 +1,225 @@
+===== jc-p1 : 24 posts =====
+--- jc_p1_1 author=reaq hash=d5993b27
+EN: Hi everyone!
+
+I just joined last month and have been quietly studying and observing. I feel I got enough understanding to finally start a journal and begin posting some analysis.
+
+There are so many ways to trade within RTM cookbook so I'll focus on the one which make sense to me first, that's this quote below from IF: "Certainly there's an awful lot to learn here. But if I were to summarise what I think is most important, I'd say look to an engulf into free space that hasn't yet hit the origin (tg). Very often it will retrace deeply before advancing to the origin. Learn to spot these, and you'll be better equipped than most other traders out there."
+
+Here are some screenshots on this setup.
+
+Thanks AK for highlighting the FIRST LAW OF ENGULF.
+
+So here's my step by step plan to trade this setup in my own words:
+
+1. DIRECTION: Look for PAZ (space between two FTR). The FTR which didn't get hit after the ENGULF will be our TG 2. ENTRY: Pullback to MPL within opposing FL 3. SL: At the extreme edge of the opposing FL 4. TP: As per #1 above.
+
+Pls advice whether I get this concept right. Thank you in advance for helping me in this wonderful journal. I'm grateful to all of you!
+FA: سلام به همه!
+
+من ماه گذشته عضو شدم و بی‌سروصدا در حال مطالعه و مشاهده بوده‌ام. احساس می‌کنم به درک کافی رسیده‌ام تا بالاخره یک ژورنال شروع کنم و چند تحلیل پست کنم.
+
+در کتابچهٔ RTM روش‌های زیادی برای معامله وجود دارد، پس اول روی روشی تمرکز می‌کنم که برایم منطقی است، یعنی این نقل‌قول زیر از IF: «قطعاً چیزهای بسیار زیادی برای یادگیری اینجا هست. اما اگر بخواهم خلاصه کنم آنچه به نظرم مهم‌ترین است، می‌گویم دنبال یک اینگالف به داخل فضای آزاد بگرد که هنوز به مبدأ (tg) نرسیده است. خیلی اوقات پیش از پیشروی به سمت مبدأ، عمیق اصلاح می‌کند. یاد بگیر این‌ها را تشخیص بدهی، آن‌وقت از بیشتر معامله‌گران دیگر مجهزتر خواهی بود.»
+
+اینجا چند اسکرین‌شات از این ستاپ است.
+
+ممنون AK که قانون اول اینگالف را برجسته کردی.
+
+پس این برنامهٔ گام‌به‌گام من برای معاملهٔ این ستاپ، به زبان خودم است:
+
+1. جهت: دنبال PAZ بگرد (فاصلهٔ بین دو FTR). آن FTR که بعد از اینگالف لمس نشده، TG ما خواهد بود 2. ورود: پولبک به MPL داخل FL مخالف 3. استاپ‌لاس: در منتهی‌الیه لبهٔ FL مخالف 4. تارگت: طبق مورد 1 بالا.
+
+لطفاً راهنمایی کنید آیا این مفهوم را درست فهمیده‌ام. پیشاپیش ممنون که در این ژورنال فوق‌العاده کمکم می‌کنید. از همهٔ شما سپاسگزارم!
+--- jc_p1_2 author=reaq hash=bba78994
+EN: Here's one such setup which I spotted in UJ.
+
+1. DIRECTION: EG + Space to next FTR 2. ENTRY: Pullback to MPL 3. SL: At the extreme edge of the yellow FL 4. TP: As per #1 above.
+FA: این یک ستاپ از همان نوع است که در UJ پیدا کردم.
+
+1. جهت: EG + فاصله تا FTR بعدی 2. ورود: پولبک به MPL 3. استاپ‌لاس: در منتهی‌الیه لبهٔ FL زرد 4. تارگت: طبق مورد 1 بالا.
+--- jc_p1_3 author=Ysbail hash=391bc7ad
+EN: hello, look closer at 14.11.2016 I think it was FO to flag(but I'm also studying, it's just my view right now)
+FA: سلام، به 14.11.2016 دقیق‌تر نگاه کن، به نظرم FO به flag بود (اما من هم در حال یادگیری‌ام، این فقط نظر فعلی من است)
+--- jc_p1_4 author=reaq hash=c8bc4813
+EN: Ysbail wrote: hello, look closer at 14.11.2016 I think it was FO to flag(but I'm also studying, it's just my view right now)
+
+I zoomed into H4 and circled the FL which was engulfed and there's spacing to the LFL. Is this correct?
+FA: Ysbail نوشت: سلام، به 14.11.2016 دقیق‌تر نگاه کن، به نظرم FO به flag بود (اما من هم در حال یادگیری‌ام، این فقط نظر فعلی من است)
+
+من روی H4 زوم کردم و دور آن FL که اینگالف شده بود دایره کشیدم؛ تا LFL هم فاصله وجود دارد. آیا این درست است؟
+--- jc_p1_5 author=zee hash=02e7d8ce
+EN: Hi JC and welcome!
+
+Read these posts, starting from here, they might help: readthemarket.com/index.php/en/forum/jou...rnal?start=150#67361
+
+Z.
+FA: سلام JC، خوش آمدی!
+
+این پست‌ها را بخوان، از اینجا شروع کن، ممکن است کمک کنند: readthemarket.com/index.php/en/forum/jou...rnal?start=150#67361
+
+Z.
+--- jc_p1_6 author=reaq hash=bf07b4b5
+EN: Thanks Z. Will check it out. Wow didn't expect this community to be this active:)
+FA: ممنون Z. بررسی می‌کنم. عجب، انتظار نداشتم این انجمن این‌قدر فعال باشد:)
+--- jc_p1_7 author=Ifmyante hash=f7dfd8de
+EN: My but your first trades shown are very maturely taken!
+
+Looking forward to watching you progress
+
+Ah, they were AK's. Silly me! Anyway, all digits crossed for you
+FA: عجب، اولین معامله‌هایی که نشان دادی خیلی پخته و سنجیده گرفته شده‌اند!
+
+مشتاقم پیشرفتت را ببینم
+
+آه، آن‌ها مال AK بودند. عجب حواس‌پرتی‌ای کردم! به هر حال، به امید موفقیتت!
+--- jc_p1_8 author=reaq hash=2498fedc
+EN: Ifmyante wrote: My but your first trades shown are very maturely taken!
+
+Looking forward to watching you progress
+
+Ah, they were AK's. Silly me! Anyway, all digits crossed for you
+
+Even got a reply from Grandmaster IF himself! Yes the examples in the 1st post were from other members. Woohoo! I'm going to be learn fast here with all the help.
+
+Two quick questions for you if I may based on your post: "I'm not even a part time trader now, so I miss nearly every piece of action there is. If I ever open the charts and see a trade opp right in front of me, I take it. However, I usually get between 10R and 25R per trade. If I lose, it's usually no more than the spread and commission. There are between 5 and 20 such confirmed trades available every day."
+
+1. May I know what type of setups within RTM could generate 5-20 signals daily? Are these in a single TF and single pair?
+
+2. Could you suggest some SET & FORGET setups in RTM?
+
+THANK YOU VERY MUCH!
+FA: Ifmyante نوشت: عجب، اولین معامله‌هایی که نشان دادی خیلی پخته و سنجیده گرفته شده‌اند!
+
+مشتاقم پیشرفتت را ببینم
+
+آه، آن‌ها مال AK بودند. عجب حواس‌پرتی‌ای کردم! به هر حال، به امید موفقیتت!
+
+حتی از خود گرندمستر IF پاسخ گرفتم! بله، نمونه‌های پست 1 از اعضای دیگر بودند. وو هو! با همهٔ این کمک‌ها اینجا قرار است سریع یاد بگیرم.
+
+دو سؤال سریع از تو، اگر اجازه بدهی، بر اساس پستت: «من الان حتی یک معامله‌گر پاره‌وقت هم نیستم، پس تقریباً هر فرصتی را از دست می‌دهم. اگر وقتی چارت‌ها را باز کنم و یک فرصت معاملاتی درست جلوی رویم ببینم، آن را می‌گیرم. با این حال، معمولاً بین 10R تا 25R در هر معامله می‌گیرم. اگر ببازم، معمولاً بیشتر از اسپرد و کمیسیون نیست. هر روز بین 5 تا 20 معاملهٔ تأییدشدهٔ این‌چنینی در دسترس است.»
+
+1. می‌توانم بدانم چه نوع ستاپ‌هایی در RTM می‌توانند روزانه 5-20 سیگنال تولید کنند؟ آیا این‌ها در یک تایم‌فریم و یک جفت‌ارز هستند؟
+
+2. می‌توانی چند ستاپ «تنظیم کن و رها کن» در RTM پیشنهاد بدهی؟
+
+خیلی خیلی ممنون!
+--- jc_p1_9 author=Ysbail hash=17bd5088
+EN: I think that we should always take a look ltf like 1 or 5 minutes( i often check down to 30 ticks to be sure) it helps a lot, here zee gave a good link but on 5 minutes you will see whats happend there
+FA: به نظرم همیشه باید یک نگاه به تایم‌فریم پایین‌تر مثل 1 یا 5 دقیقه بیندازیم (من اغلب برای اطمینان تا 30 تیک پایین می‌روم) خیلی کمک می‌کند، اینجا zee لینک خوبی داد اما در 5 دقیقه می‌بینی آنجا چه اتفاقی افتاده
+--- jc_p1_10 author=Ifmyante hash=d70a7049
+EN: Hee hee Reaq
+
+You have a lot of homework to get done before hitting any set and forget trades!
+FA: هه‌هه Reaq
+
+قبل از اینکه سراغ معاملات «تنظیم کن و رها کن» بروی، کلی تمرین داری که باید انجام بدهی!
+--- jc_p1_11 author=Astrokillah hash=de9f0305
+EN: Bro, welcome to RTM! In case you haven't, just to save you time, these are some of the very nice posts I have read and bookmarked! Madwt on DBR/RBD: www.readthemarket.com/index.php/en/forum...rops?start=700#25396
+
+What PA to look for as price approach HTF SD zone, by Pedini: www.readthemarket.com/index.php/en/forum...tups?start=225#20459
+
+By Madwt www.readthemarket.com/index.php/en/forum...rops?start=700#25624 readthemarket.com/index.php/en/forum/jou...-to-rtm-master#28854
+FA: داداش، به RTM خوش آمدی! اگر هنوز نخوانده‌ای، فقط برای اینکه وقتت تلف نشود، این‌ها چند تا از پست‌های خیلی خوبی هستند که خوانده‌ام و بوکمارک کرده‌ام! Madwt دربارهٔ DBR/RBD: www.readthemarket.com/index.php/en/forum...rops?start=700#25396
+
+وقتی قیمت به ناحیهٔ SD در تایم‌فریم بالاتر نزدیک می‌شود دنبال چه PA باشیم، از Pedini: www.readthemarket.com/index.php/en/forum...tups?start=225#20459
+
+از Madwt www.readthemarket.com/index.php/en/forum...rops?start=700#25624 readthemarket.com/index.php/en/forum/jou...-to-rtm-master#28854
+--- jc_p1_12 author=reaq hash=37c92750
+EN: After going through the materials suggested by AK, here's my updated IN-DEPTH analysis on UJ SELL as I have posted earlier.
+
+We'll start from D1 and zoom to H4 and H1 for entry.
+
+So here's my reason on why we can't SELL the first time price RT back to Daily SZ / FL although there was an EG on H4 SZ (2nd chart) 1. This is NOT the MPL yet! 2. There's BSZ formed to trick double top traders since their SL is just ABOVE the swing high... HAHA! 3. There was a FTR within the D1 FL 4. This FTR also confluence with a STRONG SR on Daily! Look to the LEFT!
+
+Pls advice.
+
+PS: I used a light blue background as white is too glaring for my eyes. Hope you guys don't mind.
+FA: پس از مرور مطالب پیشنهادی AK، این تحلیل عمیق و به‌روزشدهٔ من دربارهٔ پوزیشن فروش UJ است، همان‌طور که قبلاً پست کرده بودم.
+
+از D1 شروع می‌کنیم و برای ورود به H4 و H1 زوم می‌کنیم.
+
+پس این دلیل من است که چرا نمی‌توانیم اولین باری که قیمت به SZ / FL روزانه RT می‌زند بفروشیم، هرچند یک EG روی SZ در H4 بود (چارت 2) 1. این هنوز MPL نیست! 2. یک BSZ شکل گرفته تا معامله‌گران دابل‌تاپ را فریب دهد، چون استاپ‌لاس آن‌ها درست بالای سقف سوئینگ است... هاها! 3. یک FTR داخل FL در D1 بود 4. این FTR با یک SR قوی در روزانه هم‌گرایی دارد! به چپ نگاه کن!
+
+لطفاً راهنمایی کنید.
+
+پی‌نوشت: از پس‌زمینهٔ آبی روشن استفاده کردم چون سفید برای چشمانم خیلی زننده است. امیدوارم شما بچه‌ها بدتان نیاید.
+--- jc_p1_13 author=reaq hash=518412e8
+EN: OMG! RTM concepts even work in BTC without much historical data. The ITs could manipulate retail traders by creating FRESH BSZ easily.
+FA: خدای من! مفاهیم RTM حتی در BTC بدون دادهٔ تاریخی زیاد هم جواب می‌دهند. ITs می‌توانند به‌راحتی با ایجاد BSZ تازه، معامله‌گران خرد را بازی دهند.
+--- jc_p1_14 author=reaq hash=1366610b
+EN: Today's catch:
+FA: شکار امروز:
+--- jc_p1_15 author=reaq hash=a58a80a0
+EN: EU analysis update. Up 20R if entry at QM level on M1 in previous chart with 4 pips SL.
+FA: به‌روزرسانی تحلیل EU. اگر با استاپ‌لاس 4 پیپ در سطح QM روی M1 در چارت قبلی وارد می‌شدی، الان 20R در سودی.
+--- jc_p1_16 author=Ifmyante hash=257f6b3f
+EN: Your UJ and Btc I like, but your EU engulf came from nowhere, and looks just like a fake in an FTR, which may be broken soon, or much later.
+
+Good work though
+
+(Your blue background looks nice and restful, by the way)
+FA: از تحلیل‌هایت روی UJ و Btc خوشم می‌آید، اما اینگالفی که در EU مشخص کرده‌ای از ناحیهٔ معناداری شروع نشده و به نظر فقط یک فیک‌اوت داخل FTR است؛ این FTR ممکن است به‌زودی یا خیلی دیرتر شکسته شود.
+
+با این حال کار خوبی است
+
+(راستی، پس‌زمینهٔ آبی‌ات قشنگ و آرامش‌بخش است)
+--- jc_p1_17 author=reaq hash=c6a49e29
+EN: Ifmyante wrote: Your UJ and Btc I like, but your EU engulf came from nowhere, and looks just like a fake in an FTR, which may be broken soon, or much later.
+
+Good work though
+
+(Your blue background looks nice and restful, by the way)
+
+IF, may I know which EG in EU you're referring to? Is it the H1 chart or just the most recent M5 above?
+FA: Ifmyante نوشت: از تحلیل‌هایت روی UJ و Btc خوشم می‌آید، اما اینگالفی که در EU مشخص کرده‌ای از ناحیهٔ معناداری شروع نشده و به نظر فقط یک فیک‌اوت داخل FTR است؛ این FTR ممکن است به‌زودی یا خیلی دیرتر شکسته شود.
+
+با این حال کار خوبی است
+
+(راستی، پس‌زمینهٔ آبی‌ات قشنگ و آرامش‌بخش است)
+
+IF، می‌توانم بدانم منظورت کدام EG در EU است؟ چارت H1 است یا فقط آخرین M5 بالا؟
+--- jc_p1_18 author=reaq hash=abf5841d
+EN: I think I got it. What about this chart for EG to BUY?
+FA: فکر کنم متوجه شدم. نظرت درباره EG این چارت برای ورود به خرید چیست؟
+--- jc_p1_19 author=zee hash=14656db0
+EN: A higher high does not necesserily mean an engulf. Always ask yourself wheather what was engulfed was actually important. Look left and left again. Read the story
+FA: یک سقف بالاتر لزوماً به معنای اینگالف نیست. همیشه از خودت بپرس آیا چیزی که اینگالف شد واقعاً مهم بود. به چپ نگاه کن و دوباره به چپ. داستان را بخوان.
+--- jc_p1_20 author=reaq hash=a8ec3b8b
+EN: zee wrote: A higher high does not necesserily mean an engulf. Always ask yourself wheather what was engulfed was actually important. Look left and left again. Read the story
+
+Will study more. Thanks!
+FA: zee نوشت: یک سقف بالاتر لزوماً به معنای اینگالف نیست. همیشه از خودت بپرس آیا چیزی که اینگالف شد واقعاً مهم بود. به چپ نگاه کن و دوباره به چپ. داستان را بخوان.
+
+بیشتر مطالعه می‌کنم. ممنون!
+--- jc_p1_21 author=Ifmyante hash=bb2ed325
+EN: reaq wrote:
+
+Ifmyante wrote: Your UJ and Btc I like, but your EU engulf came from nowhere, and looks just like a fake in an FTR, which may be broken soon, or much later.
+
+Good work though
+
+(Your blue background looks nice and restful, by the way)
+
+IF, may I know which EG in EU you're referring to? Is it the H1 chart or just the most recent M5 above?
+FA: reaq نوشت:
+
+Ifmyante نوشت: از تحلیل‌هایت روی UJ و Btc خوشم می‌آید، اما اینگالفی که در EU مشخص کرده‌ای از ناحیهٔ معناداری شروع نشده و به نظر فقط یک فیک‌اوت داخل FTR است؛ این FTR ممکن است به‌زودی یا خیلی دیرتر شکسته شود.
+
+با این حال کار خوبی است
+
+(راستی، پس‌زمینهٔ آبی‌ات قشنگ و آرامش‌بخش است)
+
+IF، می‌توانم بدانم منظورت کدام EG در EU است؟ چارت H1 است یا فقط آخرین M5 بالا؟
+--- jc_p1_22 author=Ifmyante hash=91a40535
+EN: Every engulf has a target
+FA: هر اینگالفی یک تارگت دارد.
+--- jc_p1_24 author=reaq hash=2536cbc1
+EN: The EG at the bottom FL is more significant on another look. So if I stick to this analysis, I''m now expecting price to retrace to either MPL: 1. The KINK before the huge drop 2. The bigger LS KINK at the top
+
+Pls advice.
+FA: با نگاه دوباره می‌بینم که EG در FL پایینی اهمیت بیشتری دارد. پس اگر به این تحلیل پایبند بمانم، الان انتظار دارم قیمت به یکی از این نواحی MPL اصلاح کند: 1. KINK قبل از ریزش بزرگ 2. KINK بزرگ‌ترِ LS در بالا
+
+لطفاً راهنمایی کنید.
+--- jc_p1_25 author=Ysbail hash=7a86d481
+EN: but you also reach flag, after more important eng
+FA: اما بعد از یک اینگالف مهم‌تر، به flag هم می‌رسی.

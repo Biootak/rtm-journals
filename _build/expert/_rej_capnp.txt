@@ -1,0 +1,12 @@
+capnp_p1_8 | no-persian
+capnp_p1_9 | no-persian
+capnp_p1_10 | no-persian
+capnp_p1_12 | quote heads 1 wrote: / 0 نوشت:
+capnp_p1_15 | quote heads 1 wrote: / 0 نوشت:
+capnp_p1_16 | quote heads 1 wrote: / 0 نوشت:
+capnp_p1_17 | quote heads 2 wrote: / 0 نوشت:
+capnp_p1_18 | no-persian
+capnp_p1_23 | quote heads 1 wrote: / 0 نوشت:
+capnp_p1_24 | no-persian
+capnp_p2_26 | no-persian
+capnp_p2_47 | quote heads 1 wrote: / 0 نوشت:

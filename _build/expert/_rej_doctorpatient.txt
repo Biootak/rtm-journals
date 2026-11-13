@@ -1,0 +1,12 @@
+doctorpatient_p11_269 | echo
+doctorpatient_p15_373 | no-persian
+doctorpatient_p17_416 | no-persian
+doctorpatient_p18_448 | no-persian
+doctorpatient_p2_49 | echo
+doctorpatient_p23_551 | echo
+doctorpatient_p27_673 | echo
+doctorpatient_p29_714 | echo
+doctorpatient_p4_79 | echo
+doctorpatient_p4_85 | echo
+doctorpatient_p4_100 | echo
+doctorpatient_p6_147 | numbers missing 100

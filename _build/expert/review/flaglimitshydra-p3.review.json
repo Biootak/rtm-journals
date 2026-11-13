@@ -1,0 +1,10 @@
+{
+ "flaglimitshydra_p3_51": {"ok": true},
+ "flaglimitshydra_p3_52": {"ok": true},
+ "flaglimitshydra_p3_53": {"ok": true},
+ "flaglimitshydra_p3_54": {"ok": true},
+ "flaglimitshydra_p3_55": {"ok": true},
+ "flaglimitshydra_p3_56": {"ok": true},
+ "flaglimitshydra_p3_57": {"issue": "MPL definition mistranslated", "why": "Max pain is not a maximum-loss limit; preserve the source definition without adding a risk-management meaning.", "fix": "20 FL که قیمت پس از بازگشت‌های بعدی به آن‌ها تغییر جهت داد - PA را یادداشت کنید\n\n7 از 20:\n\nاینجا PA را ثبت کرده‌ام. هنوز مطمئن نیستم برداشتم درست باشد، اما بگذارید نتیجهٔ بررسی‌ام را بگویم... ابتدا این FL را در نمودار USDCAD در m15 شناسایی کردم\n\nو سپس به تایم‌فریم پایین‌تری رفتم تا PA را بررسی یا ثبت کنم.\n\nدیدم قیمت برای مصرف سفارش‌های واقع در عمیق‌ترین بخش ناحیه به آنجا رفته و در نتیجه به MPL (سطح حداکثر درد) رسیده است. علاوه بر این، یک QM هم آنجا شناسایی کردم... لطفاً نگاهی بیندازید..."},
+ "flaglimitshydra_p3_58": {"ok": true}
+}

@@ -1,0 +1,390 @@
+
+##### [0] projectsagana_p17_401 | projectsagana | a74287565944289987eadbcff05395a3d1451113
+--- EN ---
+I don't get how I got stopped out with this one.
+
+I also had many potential trades where I had set the PO, saw the price printed passed my limit order and never got filled.
+
+Can someone explain this to me?
+--- FA ---
+نمی‌فهمم چطور با این استاپ‌لاس شدم.
+
+همچنین تریدهای بالقوهٔ زیادی داشتم که PO گذاشته بودم، قیمت را در حال عبور از سفارش لیمیت از روی صفحه دیدم و هرگز پر نشد.
+
+کسی می‌تواند برایم توضیح دهد؟
+
+##### [1] projectsagana_p17_402 | projectsagana | 4a14bc38405b032998e4160db86f1717a47f4ae5
+--- EN ---
+woke up late for the NY open but saw this that I got filled:)
+
+30:1 RR QM
+--- FA ---
+برای باز شدن NY دیر بیدار شدم اما دیدم این که پر شدم:)
+
+QM با 30:1 RR
+
+##### [2] projectsagana_p17_403 | gristar | dc343f63722a99d2e6318117cccf98e07afb63eb
+--- EN ---
+You got stopped out because "ASK PRICE" touched that level. you may turn on your MT4 ask line by right clicking on your chart and go to properties. You will see a line slightly higher displayed on the price shown by your candle. Sometimes ask price is near to bid price which is the candle showing but sometimes it could be far. The different between ask and bid is what we call Spread. Spread is not constant all of the time. it may be widen by broker some times. when it is wide enough to hit your SL, it may look like what happened to your chart. You think the candle never touch the level so your SL should not be hit, but in fact SL got hit by ASK line,
+
+when you Buy you use Ask price, when you Sell you use Bid price (which is your candle)
+--- FA ---
+به این دلیل استاپ‌لاس شدی که «ASK PRICE» آن سطح را لمس کرد. می‌توانی خط ask را در MT4 با کلیک راست روی چارت و رفتن به properties روشن کنی. گاهی ask قیمت نزدیک bid قیمت است که همان چیزی است که کندل نشان می‌دهد اما گاهی می‌تواند دور باشد. تفاوت بین ask و bid همان چیزی است که اسپرد می‌نامیم. اسپرد همیشه ثابت نیست. گاهی بروکر آن را پهن می‌کند. وقتی به‌اندازهٔ کافی پهن باشد که به SL تو بخورد، ممکن است مثل چیزی که روی چارتت دیدی به نظر برسد. فکر می‌کنی کندل هرگز سطح را لمس نکرده پس SL ات نباید زده شود، اما در واقع SL توسط خط ASK زده شد،
+
+وقتی می‌خری از Ask قیمت استفاده می‌کنی، وقتی می‌فروشی از Bid قیمت (که همان کندل توست)
+
+##### [3] projectsagana_p17_404 | projectsagana | 572a87657d294bf46325abb7980f99d03cfed03f
+--- EN ---
+gristar wrote: You got stopped out because "ASK PRICE" touched that level. you may turn on your MT4 ask line by right clicking on your chart and go to properties. Sometimes ask price is near to bid price which is the candle showing but sometimes it could be far. That is what we call it Spread. Spread is not constant all of the time. it may be widen by broker some times. when it is wide enough to hit your SL, it may look like your chart. you think the candle never touch the level so your SL should not be hit, but in fact SL got hit by ASK line, when you Sell you use Ask price, when you buy you use Bid price (which is your candle)
+
+thanks gristar for taking the time to reply. I was thinking for a while that I was getting bad data. Next time I will watch out for that. In swing traders or HTF trades this don't really affect my entries. I just started seeing these when I was playing the 1m TF. Thanks again.
+--- FA ---
+gristar نوشت: به این دلیل استاپ‌لاس شدی که «ASK PRICE» آن سطح را لمس کرد. می‌توانی خط ask را در MT4 با کلیک راست روی چارت و رفتن به properties روشن کنی. گاهی ask قیمت نزدیک bid قیمت است که همان چیزی است که کندل نشان می‌دهد اما گاهی می‌تواند دور باشد. همان چیزی است که اسپرد می‌نامیم. اسپرد همیشه ثابت نیست. گاهی بروکر آن را پهن می‌کند. وقتی به‌اندازهٔ کافی پهن باشد که به SL تو بخورد، ممکن است مثل چارتت به نظر برسد. فکر می‌کنی کندل هرگز سطح را لمس نکرده پس SL ات نباید زده شود، اما در واقع SL توسط خط ASK زده شد، وقتی می‌فروشی از Ask قیمت استفاده می‌کنی، وقتی می‌خری از Bid قیمت (که همان کندل توست)
+
+ممنون gristar که وقت گذاشتی و پاسخ دادی. مدتی فکر می‌کردم دادهٔ بدی دارم. دفعهٔ بعد مراقبش خواهم بود. در تریدرهای سوئینگ یا تریدهای HTF این واقعاً روی ورودهایم اثر نمی‌گذارد. تازه وقتی تایم‌چارچوب 1m را بازی می‌کردم شروع به دیدن این‌ها کردم. دوباره ممنون.
+
+##### [4] projectsagana_p17_405 | gristar | 16059fdd08664cd21ea6e93ffa46481f3d3f728e
+--- EN ---
+you are welcome. Sorry. I edit some of what i have written. Should be "Buy you refer to Ask price and Sell you refer to Bid Price". Yea you definitely will encounter the same situation in lower TF because the spread is relatively larger in Lower TF.
+--- FA ---
+خواهش می‌کنم. ببخشید. کمی از آنچه نوشتم ویرایش کردم. باید این‌طور باشد «وقتی می‌خری به Ask قیمت مراجعه می‌کنی و وقتی می‌فروشی به Bid قیمت». بله در تایم‌چارچوب پایین‌تر قطعاً همان موقعیت را خواهی دید چون اسپرد در تایم‌چارچوب پایین‌تر نسبتاً بزرگ‌تر است.
+
+##### [5] projectsagana_p17_406 | projectsagana | e8054ba9630f334ff548bb8a735de2e38ccc764b
+--- EN ---
+have a new PO and letting the 25% of the original position run free.
+--- FA ---
+یک PO جدید دارم و می‌گذارم 25% موقعیت اصلی آزاد بدود.
+
+##### [6] projectsagana_p17_407 | smimon | 437573447b0de82632693bc0934e410693643b4e
+--- EN ---
+projectsagana wrote: woke up late for the NY open but saw this that I got filled:)
+
+30:1 RR QM
+
+Lovely trade pal, quick question if you don't mind - what made you focus on the QM at that particular level? I can see it's just above a strong SR line with some good history H1/H4 (at 1.24000 on the dot - whole number sweet spot?), and the push that formed the HH after the LL took out some local SR - was that it? It's just that you can find those LTF QM levels in quite a few places.
+
+Cheers
+--- FA ---
+projectsagana نوشت: برای باز شدن NY دیر بیدار شدم اما دیدم این که پر شدم:)
+
+QM با 30:1 RR
+
+ترید قشنگی رفیق، یک سؤال سریع اگر اشکالی نداری - چه چیزی تو را روی QM در آن سطح خاص متمرکز کرد؟ می‌بینم درست بالای یک خط SR قوی با تاریخچهٔ خوب H1/H4 است (در 1.24000 دقیقاً - نقطهٔ شیرین عدد صحیح؟) و پوشی که HH را بعد از LL ساخت بعضی SR محلی را گرفت - این بود؟ فقط می‌توانی آن سطوح QM تایم‌چارچوب پایین را در چند جا پیدا کنی.
+
+با احترام
+
+##### [7] projectsagana_p17_408 | projectsagana | 863983ef975bd7f7e2863622db4de44484441862
+--- EN ---
+Quick short position and experimenting on adding on to a winning position.
+
+I got stopped out. gaining 1 RR in total
+--- FA ---
+موقعیت شورت سریع و در حال آزمایش اضافه کردن به موقعیت برنده.
+
+استاپ‌لاس شدم. در مجموع 1 RR سود.
+
+##### [8] projectsagana_p17_409 | projectsagana | 58330e0ac90d95b1a3ee0ce95799f296e9010b5a
+--- EN ---
+smimon wrote:
+
+projectsagana wrote: woke up late for the NY open but saw this that I got filled:)
+
+30:1 RR QM
+
+Lovely trade pal, quick question if you don't mind - what made you focus on the QM at that particular level? I can see it's just above a strong SR line with some good history H1/H4 (at 1.24000 on the dot - whole number sweet spot?), and the push that formed the HH after the LL took out some local SR - was that it? It's just that you can find those LTF QM levels in quite a few places.
+
+Cheers
+
+Hey smimon thanks for visiting my journal,
+
+Actually when that QM formation was happening, I was trading the NY open session. As soon as that HH was made, I set that PO for that possible QM lvl. As the London session closes, and I had to go to my temporary job, but price never returned to that QM lvl. So I promised my self not to delete the POs I had set because I've had many experience in the past where just because I wasn't there, I would delete the POs and they would later produce desirable moves. So I just left it there.
+
+To be honest I was trying to figure out why the QM lvl seem so significant, because like you said there seem to be many possible QM lvls all over the place. I feel lucky and yes I know maybe some of you hate the word luck, but I do feel lucky that this happened. Up to this point, I still have to find the answer to that question we both asks. My guess is that this QM lvl was made during the open of the NY session. If you have any idea or the masters out there, please help us out on this one, because as random as it seems at the moment, I know the market is very predictable. Just currently and temporarily, my awareness of market dynamics is still growing. I'd love to figure this one out, because I know it is repeatable and the market gives an abundance of easy and extremely profitable trading opportunities. I must expand my level of awareness. Because I know the truth is, even though these kind of trades are EVERYWHERE, I can only get what I can see or at least visualize, and the latter, what I cannot see, I cannot get.
+
+So again help us out on this one.
+
+Thanks RTM for the help and support
+--- FA ---
+smimon نوشت:
+
+projectsagana نوشت: برای باز شدن NY دیر بیدار شدم اما دیدم این که پر شدم:)
+
+QM با 30:1 RR
+
+ترید قشنگی رفیق، یک سؤال سریع اگر اشکالی نداری - چه چیزی تو را روی QM در آن سطح خاص متمرکز کرد؟ می‌بینم درست بالای یک خط SR قوی با تاریخچهٔ خوب H1/H4 است (در 1.24000 دقیقاً - نقطهٔ شیرین عدد صحیح؟) و پوشی که HH را بعد از LL ساخت بعضی SR محلی را گرفت - این بود؟ فقط می‌توانی آن سطوح QM تایم‌چارچوب پایین را در چند جا پیدا کنی.
+
+با احترام
+
+hey smimon ممنون که از ژورنالم بازدید کردی،
+
+در واقع وقتی آن ساختار QM در حال شکل‌گیری بود، داشتم جلسه NY را ترید می‌کردم. به‌محض اینکه آن HH ساخته شد، آن PO را برای آن سطح QM بالقوه گذاشتم. با بسته شدن جلسه لندن، و باید به کار موقتیم می‌رفتم، اما قیمت هرگز به آن سطح QM برنگشت. پس به خودم قول دادم PO‌هایی که گذاشتم را حذف نکنم چون تجربه‌های زیادی در گذشته داشتم که فقط به‌خاطر نبودنم PO‌ها را حذف می‌کردم و بعداً حرکت‌های مطلوبی تولید می‌کردند. پس فقط آن را همان‌جا گذاشتم.
+
+راستش داشتم سعی می‌کردم بفهمم چرا سطح QM این‌قدر معنادار به نظر می‌رسد، چون مثل اینکه گفتی به نظر می‌رسد سطوح QM بالقوهٔ زیادی همه‌جا هستند. احساس شانس می‌کنم و بله می‌دانم شاید بعضی‌هایتان کلمهٔ شانس را دوست نداشته باشید، اما احساس شانس می‌کنم که این اتفاق افتاد. تا این نقطه، هنوز باید جواب آن سؤالی که هر دو می‌پرسید را پیدا کنم. حدس من این است که این سطح QM در زمان باز شدن جلسه NY ساخته شد. اگر ایده‌ای داری یا استادان آن‌جا هستید، لطفاً به ما در این کمک کنید، چون هرچقدر هم که فعلاً تصادفی به نظر می‌رسد، می‌دانم بازار خیلی قابل‌پیش‌بینی است. فقط فعلاً و موقتاً، آگاهی من از دینامیک بازار هنوز در حال رشد است. عاشق می‌شوم این را حل کنم، چون می‌دانم تکرارپذیر است و بازار فرصت‌های ترید آسان و فوق‌العاده سودده فراوانی می‌دهد. باید سطح آگاهی‌ام را گسترش دهم. چون می‌دانم حقیقت این است که هرچند این نوع تریدها همه‌جا هستند، من فقط می‌توانم چیزی را بگیرم که می‌بینم یا حداقل visualize می‌کنم، و دومی، چیزی که نمی‌توانم ببینم، نمی‌توانم بگیرم.
+
+پس دوباره در این به ما کمک کنید.
+
+ممنون RTM برای کمک و حمایت
+
+##### [9] projectsagana_p17_410 | smimon | b7f93f2b271435d93354646bda33b31f3f7e5b87
+--- EN ---
+This is what I came up with - I would never have called it in advance mind you, perhaps the biggest clue was that it was FTB to a FTR, which was the beginning of a strong upward surge which eng'd a big opposing FTR?
+
+Recent SR:
+
+SR line has good history, also whole number (1.24000):
+
+Condensed M5:
+
+I don't like to see things happening which I can't explain in the market, kind of makes me think I don't know enough yet
+
+In 95% of cases, even if I get it wrong, or miss the
+
+trade, I can at least see why it did what it did.
+--- FA ---
+این چیزی است که به آن رسیدم - هرگز از قبل حدس نمی‌زدم، شاید بزرگ‌ترین سرنخ این بود که FTB به یک FTR بود، که آغاز یک موج صعودی قوی بود که یک FTR بزرگ مخالف را ENG کرد؟
+
+SR اخیر:
+
+خط SR تاریخچهٔ خوبی دارد، همچنین عدد صحیح (1.24000):
+
+M5 فشرده:
+
+دوست ندارم چیزهایی را ببینم که نمی‌توانم در بازار توضیحشان دهم، نوعی مرا به فکر می‌اندازد که هنوز به‌اندازهٔ کافی نمی‌دانم
+
+در 95% موارد، حتی اگر اشتباه کنم یا ترید را
+
+از دست بدهم، حداقل می‌توانم ببینم چرا کاری که کرد را کرد.
+
+##### [10] projectsagana_p17_411 | smimon | 0ea73376ca825f60283ffec17ec1a0290a17d7f6
+--- EN ---
+Excuse me for rambling on, but I sometimes find switching to line mode can make the picture clearer also.
+--- FA ---
+ببخشید برای حاشیه‌نویسی، اما گاهی می‌یابم که سوییچ به حالت خط می‌تواند تصویر را واضح‌تر کند.
+
+##### [11] projectsagana_p17_412 | projectsagana | 14752a2bf2c1751aec242d156d0c7321a46ab733
+--- EN ---
+Always put yourself in a win win situation: Two Ways I Win Win #1: Earn Money Win #2: Learn Lesson
+
+Today was a learning lesson
+--- FA ---
+همیشه خودت را در موقعیت برد-برد بگذار: دو راه من دو راه می‌برم #1: پول در می‌آورم، برد #2: درس یاد می‌گیرم
+
+امروز یک درس یادگیری بود
+
+##### [12] projectsagana_p17_413 | smimon | 1db35cedd9f416afd99dee2329b924d761ca8085
+--- EN ---
+Unlucky pal, this one caught me out also, got in with a PO right at the base of the move, stop is just down below H1 demand, so still in it for now, hoping we'll dip a little deeper and then come back up strong - the top that we came down off doesn't look that "strong", and didn't seem to have reached as high up into the bigger supply as it could do (to my amateur eye!).
+--- FA ---
+بدشانسی رفیق، این یکی هم من را گرفت؛ با PO دقیقاً در پایهٔ حرکت وارد شدم، استاپ فقط پایین‌تر از تقاضای H1 است، پس فعلاً هنوز در آن هستم، امیدوارم کمی عمیق‌تر برویم و بعد قوی برگردیم - سقفی که از آن پایین آمدیم آن‌قدر «قوی» به نظر نمی‌رسد و به نظر نمی‌رسید تا آن‌قدر بالایی به عرضهٔ بزرگ‌تر رسیده باشد که می‌توانست (به چشم آماتورم!)
+
+##### [13] projectsagana_p17_414 | projectsagana | dc21580e9033140c6eb8557618948ad19e46f6a7
+--- EN ---
+EURUSD 2 short trades QM and FTB to the FL supply
+
+and one long for USDCHF, price compressed down to demand
+--- FA ---
+EURUSD 2 ترید شورت QM و FTB به عرضهٔ FL
+
+و یک لانگ برای USDCHF، قیمت به تقاضا فشرده شد
+
+##### [14] projectsagana_p17_415 | projectsagana | 26d69b5ece5cf19258c5b6299ae11a1e3389322e
+--- EN ---
+Just a quick scalp.
+--- FA ---
+فقط یک اسکالپ سریع.
+
+##### [15] projectsagana_p17_416 | projectsagana | d0ba2382aef8998b3b2154682fef9da015a508a6
+--- EN ---
+Had a very learning experience today which is a WIN because it makes me a better trader tomorrow.
+
+Here are two different QMs and FLs. I took both trades. One is a winner in earning money and the other is a winner in learning a lesson.
+
+Why did QM 1 resulted in a extremely profitable trade and broke FL 1; and why did QM 2 only resulted in the way it did and FL 2 didn't break, but FL 2 produced higher highs even though both PAs were inside HTF SUPPLY levels?
+
+Here are my conclusions which can save me a lot of money and produce infinite potential.
+
+QM 1 and FL 1
+
+QM 2 and FL 2
+
+The HTF view
+
+what you guys think?
+--- FA ---
+امروز تجربهٔ یادگیری خیلی خوبی داشتم که برد است چون مرا فردا معامله‌گر بهتری می‌کند.
+
+اینجا دو QM و FL متفاوت هست. هر دو ترید را گرفتم. یکی در درآوردن پول برنده است و دیگری در یادگیری درس برنده است.
+
+چرا QM 1 به ترید فوق‌العاده سوددهی انجامید و FL 1 را شکست؛ و چرا QM 2 فقط به آن شکلی که شد انجامید و FL 2 نشکست، اما FL 2 سقف‌های بالاتر تولید کرد هرچند هر دو PA داخل سطوح عرضهٔ HTF بودند؟
+
+این‌ها نتیجه‌گیری‌هایم است که می‌تواند پول زیادی برایم پس‌انداز کند و پتانسیل بی‌نهایت تولید کند.
+
+QM 1 و FL 1
+
+QM 2 و FL 2
+
+نمای HTF
+
+به نظرتان چیست؟
+
+##### [16] projectsagana_p17_417 | projectsagana | 14cea398ef2b88fcdc75f5e55999fa91ee1f559d
+--- EN ---
+When I am trading there are sometimes many PA signalling for bearish and bullish movement at the same time. Any of you guys bump into this? I want to clear the confusion for future trading sessions.
+
+To go long or to go short?
+
+Here's a study on when it's not a good case to go long on the FL.
+
+HTF
+
+LTF Set up ups.
+--- FA ---
+وقتی ترید می‌کنم گاهی PA‌های زیادی برای حرکت نزولی و صعودی همزمان سیگنال می‌دهند. کدامتان به این برخورده‌اید؟ می‌خواهم سردرگمی را برای جلسات ترید آینده پاک کنم.
+
+لانگ بروم یا شورت؟
+
+این یک مطالعه است روی اینکه چه زمانی لانگ روی FL حالت خوبی نیست.
+
+HTF
+
+ست‌آپ‌های LTF.
+
+##### [17] projectsagana_p17_418 | charlespips | b34f8c8529408340199be6ece051edb01d214e40
+--- EN ---
+Hey PS,
+
+Allow me to intrude your journal
+
+I'm not sure why your FL is at that place, but if it's me, I would draw it like this:
+
+I'm not sure I'm correct either. But if it's in this case, the FL has been engulfed, and price want demand low there in the blue line. Also, when viewed on bird's view. The first engulf is not really important (but did its job telling other ITs to spread their short orders). Here is my view:
+
+HH can be two or more. What do you think? My broker have a bad feed though (lots of holes in m1), so might not as accurate as yours. But the most obvious engulf is the last one which also entering CP zone.
+
+Nice journal btw! I can't focus enough to write mine.
+
+CP
+--- FA ---
+سلام PS،
+
+اجازه بده به ژورنالت سرک بکشیم
+
+مطمئن نیستم چرا FL ات آن‌جا است، اما اگر من باشم این‌طور می‌کشیدمش:
+
+من هم مطمئن نیستم درست باشم. اما اگر در این مورد، FL اینگالف شده و قیمت می‌خواهد در خط آبی تقاضای پایین برود. همچنین، وقتی از نمای پرنده نگاه می‌کنی. اولین اینگالف واقعاً مهم نیست (اما کارش را کرد و به ITs دیگر گفت سفارش‌های شورتشان را پخش کنند). این دید من است:
+
+HH می‌تواند دو یا بیشتر باشد. چه فکر می‌کنی؟ بروکر من فید بدی دارد (سوراخ‌های زیادی در m1)، پس شاید به اندازهٔ تو دقیق نباشد. اما آشکارترین اینگالف همان آخرین است که هم وارد ناحیهٔ CP می‌شود.
+
+ژورنال قشنگی راستی! نمی‌توانم آن‌قدر تمرکز کنم که مال خودم را بنویسم.
+
+CP
+
+##### [18] projectsagana_p17_419 | charlespips | 5dbbb7bc6e1b8ba172c8b1d077bb1ca2e19f3246
+--- EN ---
+projectsagana wrote: QM 1 and FL 1
+
+QM 2 and FL 2
+
+The HTF view
+
+what you guys think?
+
+Hey mate, I would really like to watch the FLs (FL1 or FL2) to be engulfed by the LL before considering the QM level good enough to trade. Well, just in case. Also, on your QM1 & FL1 chart, I would love to enter on the break of the FL base, which formed a great low risk FL at the flip side.
+
+It's a great 18R trade back to the origin of the upmove (green line), which is not too shabby.
+--- FA ---
+projectsagana نوشت: QM 1 و FL 1
+
+QM 2 و FL 2
+
+نمای HTF
+
+به نظرتان چیست؟
+
+سلام رفیق، واقعاً دوست دارم FL‌ها (FL1 یا FL2) را توسط LL اینگالف‌شده ببینم قبل از اینکه سطح QM را به‌اندازهٔ کافی خوب برای ترید بدانم. خوب، فقط برای احتیاط. همچنین، روی چارت QM1 و FL1 تو، عاشق ورود روی شکست پایهٔ FL می‌شوم، که FL کم‌ریسک بزرگی در سمت flip ساخت.
+
+ترید 18R قشنگی است تا مبدا حرکت صعودی (خط سبز)، که بد نیست.
+
+##### [19] projectsagana_p17_420 | projectsagana | e9127a6366d102f045d841b42cc4518937043798
+--- EN ---
+charlespips wrote: Hey mate, I would really like to watch the FLs (FL1 or FL2) to be engulfed by the LL before considering the QM level good enough to trade. Well, just in case. Also, on your QM1 & FL1 chart, I would love to enter on the break of the FL base, which formed a great low risk FL at the flip side.
+
+It's a great 18R trade back to the origin of the upmove (green line), which is not too shabby.
+
+Yea I agree with you that it's much safer to see the FL to be engulfed and enter on the retracement.
+
+Thanks for the other one. I did not see the QM that you spotted for me.
+
+I encourage you to start your own journal as well. Its a way to get feedback and plus you get to see how much you've improved! And for me I went back to refresh the lessons that I had.
+
+cya!
+--- FA ---
+charlespips نوشت: سلام رفیق، واقعاً دوست دارم FL‌ها (FL1 یا FL2) را توسط LL اینگالف‌شده ببینم قبل از اینکه سطح QM را به‌اندازهٔ کافی خوب برای ترید بدانم. خوب، فقط برای احتیاط. همچنین، روی چارت QM1 و FL1 تو، عاشق ورود روی شکست پایهٔ FL می‌شوم، که FL کم‌ریسک بزرگی در سمت flip ساخت.
+
+ترید 18R قشنگی است تا مبدا حرکت صعودی (خط سبز)، که بد نیست.
+
+آره با تو موافقم که خیلی امن‌تر است ببینیم FL اینگالف شده و روی برگشت مجدد وارد شویم.
+
+ممنون برای آن یکی. QM که برایم پیدا کردی را ندیده بودم.
+
+تو را تشویق می‌کنم ژورنال خودت را هم شروع کنی. راهی برای گرفتن بازخورد است و به‌علاوه می‌بینی چقدر پیشرفت کرده‌ای! و برای من به عقب برگشتم و درس‌هایی که داشتم را تازه کردم.
+
+می‌بینمت!
+
+##### [20] projectsagana_p17_421 | projectsagana | a50295bbee122c3fb089ca55e13b8411cfbe2cd2
+--- EN ---
+simple FTR QM short trade
+--- FA ---
+ترید شورت FTR QM ساده
+
+##### [21] projectsagana_p17_422 | blackmovie | d3fc9e7f142b9fb2a4c651cf6d60136123faffa5
+--- EN ---
+Hi PS, on the 'QM short' trade above, your entry point is the right shoulder of QM right? The FTR is HH? can you show where the left shoulder is? Thanks
+--- FA ---
+سلام PS، روی ترید «شورت QM» بالایی، نقطهٔ ورودت شانهٔ راست QM است، نه؟ FTR همان HH است؟ می‌توانی نشان دهی شانهٔ چپ کجاست؟ ممنون
+
+##### [22] projectsagana_p17_423 | projectsagana | 4452d75160b910d1daff9eacc8de17088dd6a9a2
+--- EN ---
+blackmovie wrote: Hi PS, on the 'QM short' trade above, your entry point is the right shoulder of QM right? The FTR is HH? can you show where the left shoulder is? Thanks
+
+Nice blackmovie!
+
+The base of the FTR is the HH.
+
+Here's the L shoulder.
+
+It's not always to the pip, its a reaction to supply and demand. and a trap on s/r break out traders.
+--- FA ---
+blackmovie نوشت: سلام PS، روی ترید «شورت QM» بالایی، نقطهٔ ورودت شانهٔ راست QM است، نه؟ FTR همان HH است؟ می‌توانی نشان دهی شانهٔ چپ کجاست؟ ممنون
+
+قشنگ blackmovie!
+
+پایهٔ FTR اون HH محسوب می‌شه.
+
+این همون شانهٔ چپه.
+
+همیشه تا پیپ نیست، واکنشی به عرضه و تقاضا است. و تله‌ای روی معامله‌گران شکست SR.
+
+##### [23] projectsagana_p17_424 | projectsagana | 0e518685f9c6dbd434e16f9c50b3037579c1d8b4
+--- EN ---
+SOOOO MANY TRADING OPPORTUNITIES, funny how they all look similar to each other!!
+
+Any of you guys caught this?
+--- FA ---
+خیلی خیلی فرصت‌های ترید، جالب که همه شبیه هم به نظر می‌رسند!!
+
+کدامتان این را گرفتید؟
+
+##### [24] projectsagana_p17_425 | charlespips | 866a48aa43321d993d43792f4312857d99fecac4
+--- EN ---
+Nice spotting, PS!
+
+But most of the QMs are actually iQMs (Inverse QM), which occur only for continuation. The usual QM is the strongest for LTF reaction on HTF zone, mainly for reversal play.:)
+
+But looking at your chart, without looking to HTF can be profitable as well. took some of them. but not all of them yet. Gotta catch 'em all!
+--- FA ---
+تشخیص قشنگی، PS!
+
+اما بیشتر QM‌ها در واقع iQM هستند (QM معکوس)، که فقط برای ادامه رخ می‌دهند. QM معمولی برای واکنش تایم‌چارچوب پایین روی ناحیهٔ HTF قوی‌ترین است، عمدتاً برای بازی برگشت.:)
+
+اما با نگاه به چارت تو، بدون نگاه به HTF هم می‌تواند سودده باشد. بعضی را گرفتم. اما هنوز همه را نه. باید همه را بگیرم!

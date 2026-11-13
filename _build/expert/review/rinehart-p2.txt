@@ -1,0 +1,206 @@
+### rinehart_p2_1
+EN: Forgive the weird boxes but I imagine maybe this:
+
+I could be wrong but just a view one may have how do you see?
+FA: ببخشید بابت این کادرهای عجیب، ولی تصورم شاید این باشد:
+
+ممکن است اشتباه کنم، ولی این فقط یک دیدگاه است که آدم می‌تواند داشته باشد؛ تو چطور می‌بینی؟
+
+### rinehart_p2_2
+EN: Hello Linos, thanks for commenting!
+
+I don't love the idea of a hit to the pip on the LS because I can't see
+anything on the LTF charts indicating a location for a LTF kink. The
+cap is ideal for me. The number of candles in the caps was small.
+Price exited the cap very forcefully.
+
+A diamond is always a concern, but I honestly don't know how to analyze
+the gap. I haven't come across the answer in my studies yet. Since it
+is Friday, I could see price gapping to the gap supply or to the cap at
+the open. So I would make sure to be flat or only have a pending at the
+ gap supply for the Sunday open.
+
+I do have access to Interactive Brokers charting platform. I was able
+to find a kink but it is only visible on the 15 sec chart. I'm going to
+ play a small position off the kink but it will be more for education
+since it is more advanced. Other issue is spread...I've got 2 pips with
+ IB which is great for this pair. I don't have this with my other
+broker.
+FA: سلام Linos، ممنون بابت نظرت!
+
+ایدهٔ برخورد دقیقاً تا پیپ روی LS را خیلی نمی‌پسندم، چون روی چارت‌های تایم‌فریم پایین‌تر چیزی نمی‌بینم که مکان یک کینک تایم‌فریم پایین‌تر را نشان بدهد. کپ برای من ایده‌آل است. تعداد کندل‌های داخل کپ‌ها کم بود. قیمت با قدرت خیلی زیاد از کپ خارج شد.
+
+دایموند همیشه مایهٔ نگرانی است، ولی صادقانه نمی‌دانم چطور باید گپ را تحلیل کنم. هنوز در مطالعه‌هایم به جوابش برنخورده‌ام. چون جمعه است، ممکن است ببینم قیمت در زمان بازگشایی با گپ به عرضهٔ گپ یا به کپ می‌رود. پس حتماً حواسم هست که برای بازگشایی یکشنبه فلت باشم یا فقط یک سفارش معلق روی عرضهٔ گپ داشته باشم.
+
+من به پلتفرم چارت Interactive Brokers دسترسی دارم. توانستم یک کینک پیدا کنم، ولی فقط روی چارت 15 ثانیه دیده می‌شود. می‌خواهم یک پوزیشن کوچک از آن کینک بازی کنم، ولی بیشتر جنبهٔ آموزشی دارد چون پیشرفته‌تر است. مسئلهٔ دیگر اسپرد است... با IB اسپرد 2 پیپ دارم که برای این جفت عالی است. این را با بروکر دیگرم ندارم.
+
+### rinehart_p2_3
+EN: Yes gaps are always a headache, IF says they are like trying to find Schrodinger's cat in a box!
+FA: بله، گپ‌ها همیشه سردرد هستند؛ IF می‌گوید پیدا کردنشان مثل تلاش برای یافتن گربهٔ شرودینگر داخل یک جعبه است!
+
+### rinehart_p2_5
+EN: I am short on my tiny kink trade...but also on my real trade. I'm
+short from the lower LS. SL above the cap+spread. If a diamond occurs,
+ I'll be stopped out because I want to keep my SL tighter.
+FA: در معاملهٔ کینک کوچکم شورت هستم... ولی در معاملهٔ اصلی‌ام هم همین‌طور. از LS پایین‌تر شورت گرفته‌ام. استاپ‌لاس بالای کپ+اسپرد. اگر دایموندی شکل بگیرد، استاپ می‌خورم چون می‌خواهم استاپ‌لاسم را تنگ‌تر نگه دارم.
+
+### rinehart_p2_6
+EN: It seems LS to the pip was the winner...! Kink educational trade stopped out...lol. Real trade is open.
+FA: به‌نظر می‌رسد LS دقیقاً تا پیپ برنده بود...! معاملهٔ آموزشی کینک استاپ خورد... هاها. معاملهٔ اصلی باز است.
+
+### rinehart_p2_7
+EN: I finally closed my monthly cancan trade on USDCAD...
+	USDCAD Monthly Cancan
+
+I was an amazing feeling getting in at the top of this enormous move and holding to the bottom of the CP. Thank you RTM!
+FA: بالأخره معاملهٔ کن‌کن ماهانه‌ام روی USDCAD را بستم... کن‌کن ماهانهٔ USDCAD
+
+حسی شگفت‌انگیز بود که در سقف این حرکت عظیم وارد شدم و تا کف CP نگه داشتم. ممنون RTM!
+
+### rinehart_p2_8
+EN: linos wrote:
+
+Forgive the weird boxes but I imagine maybe this:
+
+I could be wrong but just a view one may have how do you see?
+
+So they filled the gap and reached for the zone that you marked. Price
+didn't quite hit my entry at that supply but I did get in on the gap
+fill. My entry off the cap was a BE after the news spike to form the
+diamond.
+FA: linos نوشت:
+
+ببخشید بابت این کادرهای عجیب، ولی تصورم شاید این باشد:
+
+ممکن است اشتباه کنم، ولی این فقط یک دیدگاه است که آدم می‌تواند داشته باشد؛ تو چطور می‌بینی؟
+
+پس گپ را پر کردند و به سمت ناحیه‌ای که علامت زده بودی رفتند. قیمت دقیقاً به ورودم در آن عرضه نخورد، ولی من روی پر شدن گپ وارد شدم. ورودم از کپ بعد از اسپایک خبری که دایموند را ساخت، BE شد.
+
+### rinehart_p2_9
+EN: Thats great, i think that if you see a level like that, put a
+telescope on your rifle and shoot your target to the mm(i mean a tick
+chart kink can often hold price at these kinds of levels}.Test it out if
+ you can
+
+By the time i checked to see if i could get in , price had already hit that are so i let it go
+FA: عالی است؛ به‌نظرم اگر چنین سطحی دیدی، دوربین روی تفنگت بگذار و تارگتت را تا میلی‌متر بزن (منظورم این است که کینک چارت تیک اغلب می‌تواند قیمت را در این جور سطح‌ها نگه دارد}. اگر توانستی امتحانش کن
+
+تا آمدم چک کنم ببینم می‌توانم وارد شوم یا نه، قیمت قبلاً به آن ناحیه خورده بود، پس رهایش کردم
+
+### rinehart_p2_10
+EN: Linos, I've got another one.
+FA: Linos، یکی دیگر دارم.
+
+### rinehart_p2_12
+EN: Hi, A very difficult chart for me, I would not be trading there bro.
+But your assessment look really reasonable. And maybe you guys are
+right, I would be hiding in my closet here.
+
+SInce its no harm If I had to fail this as an exam lol it would look like this:
+FA: سلام، چارت خیلی دشواری برای من است؛ آنجا معامله نمی‌کردم برادر. ولی ارزیابی‌ات واقعاً معقول به‌نظر می‌رسد. و شاید شما بچه‌ها درست می‌گویید؛ من اینجا توی کمد قایم می‌شدم.
+
+چون ضرری ندارد، اگر قرار بود این را به‌عنوان یک امتحان رد شوم هاها، این‌شکلی می‌شد:
+
+### rinehart_p2_13
+EN: Maybe can see clearer. I am trying but I cant
+FA: شاید بتوانم واضح‌تر ببینم. تلاش می‌کنم ولی نمی‌توانم
+
+### rinehart_p2_14
+EN: I've closed my GBPNZD trade. Thank you for working it out with me Linos!
+FA: معاملهٔ GBPNZD را بستم. ممنون که با من رویش کار کردی Linos!
+
+### rinehart_p2_15
+EN: So I stuck with my trade plan on EURNZD and I've taken partial profit so my net risk is zero if my SL get hit now.
+FA: پس سر برنامهٔ معامله‌ام روی EURNZD ماندم و بخشی از سود را گرفتم، طوری که اگر الان استاپ‌لاسم بخورد، ریسک خالصم صفر است.
+
+### rinehart_p2_16
+EN: Here's my GBPJPY trade plan.
+FA: این هم برنامهٔ معاملهٔ GBPJPY من.
+
+### rinehart_p2_17
+EN: Here's my AUDNZD trade plan...feedback always welcome!
+FA: این هم برنامهٔ معاملهٔ AUDNZD من... بازخورد همیشه خوش‌آمد است!
+
+### rinehart_p2_18
+EN: Here's my EJ trade plan...comments welcome
+FA: این هم برنامهٔ معاملهٔ EJ من... نظرات خوش‌آمد است
+
+### rinehart_p2_19
+EN: Rinehart wrote: Here's my EJ trade plan...comments welcome
+
+maybe a good idea to check whether or not the tip of the high reacts at
+the correct place. But of course, if any PA gives way at your interest
+zone, why not trade it.
+FA: Rinehart نوشت: این هم برنامهٔ معاملهٔ EJ من... نظرات خوش‌آمد است
+
+شاید ایدهٔ خوبی باشد که چک کنی آیا نوک سقف در جای درست واکنش نشان می‌دهد یا نه. ولی البته اگر هر PA در ناحیهٔ موردنظرت راه بدهد، چرا معامله‌اش نکنی.
+
+### rinehart_p2_20
+EN: staurum wrote: maybe a good idea
+ to check whether or not the tip of the high reacts at the correct
+place. But of course, if any PA gives way at your interest zone, why not
+ trade it.
+
+I don't know where the correct place is to be honest...I'm still reading and practicing lessons.
+
+Is the correct place the MPL of the FL?
+FA: staurum نوشت: شاید ایدهٔ خوبی باشد که چک کنی آیا نوک سقف در جای درست واکنش نشان می‌دهد یا نه. ولی البته اگر هر PA در ناحیهٔ موردنظرت راه بدهد، چرا معامله‌اش نکنی.
+
+صادقانه نمی‌دانم جای درست کجاست... هنوز دارم درس‌ها را می‌خوانم و تمرین می‌کنم.
+
+آیا جای درست همان MPL این FL است؟
+
+### rinehart_p2_21
+EN: my suggestion would be: print out price reading article and have it
+seen anywhere in front of you as you are reading and practicing lessons
+all the time.
+
+Etwanm had a good idea of turning the article into a diagram like this:
+
+So i made mine, exactly the same but different looks
+
+What's interesting is: you can add your own findings to it in your own creative thinking
+FA: پیشنهاد من این است: مقالهٔ خواندن قیمت را پرینت بگیر و همیشه جلوی چشمت باشد، طوری که هر جا درس‌ها را می‌خوانی و تمرین می‌کنی آن را ببینی.
+
+Etwanm ایدهٔ خوبی داشت که مقاله را به یک دیاگرام مثل این تبدیل کند:
+
+پس من هم مال خودم را ساختم؛ دقیقاً همان، ولی با ظاهر متفاوت
+
+جالب اینجاست: می‌توانی یافته‌های خودت را با تفکر خلاق خودت به آن اضافه کنی
+
+### rinehart_p2_22
+EN: LOL well done Rinehart, that would have surely been a 100 something R
+move for the week, I hate that I missed it, LOL we need just one per
+week to retire.Anyways havent had much time for charts this week hope
+you guys and Staurum are doing great
+FA: هاها آفرین Rinehart، آن قطعاً یک حرکت 100 و چند R برای هفته می‌شد؛ متنفرم که از دستش دادم، هاها ما فقط یکی در هفته لازم داریم تا بازنشسته شویم. به‌هرحال این هفته وقت زیادی برای چارت‌ها نداشتم؛ امیدوارم شما بچه‌ها و Staurum عالی باشید
+
+### rinehart_p2_23
+EN: staurum wrote: my suggestion
+would be: print out price reading article and have it seen anywhere in
+front of you as you are reading and practicing lessons all the time.
+
+Etwanm had a good idea of turning the article into a diagram like this:
+
+So i made mine, exactly the same but different looks
+
+What's interesting is: you can add your own findings to it in your own creative thinking
+
+Hey startum, pls give high quality version of those images! you can share link for that.
+FA: staurum نوشت: پیشنهاد من این است: مقالهٔ خواندن قیمت را پرینت بگیر و همیشه جلوی چشمت باشد، طوری که هر جا درس‌ها را می‌خوانی و تمرین می‌کنی آن را ببینی.
+
+Etwanm ایدهٔ خوبی داشت که مقاله را به یک دیاگرام مثل این تبدیل کند:
+
+پس من هم مال خودم را ساختم؛ دقیقاً همان، ولی با ظاهر متفاوت
+
+جالب اینجاست: می‌توانی یافته‌های خودت را با تفکر خلاق خودت به آن اضافه کنی
+
+هی startum، لطفاً نسخهٔ باکیفیت آن تصویرها را بده! می‌توانی لینکش را به اشتراک بگذاری.
+
+### rinehart_p2_24
+EN: Thank you for the decision tree Staurum and Etwanm!
+FA: ممنون بابت درخت تصمیم‌گیری Staurum و Etwanm!
+
+### rinehart_p2_25
+EN: Kavya, the enlarged picture of Staurum's own decision tree is legible.
+FA: Kavya، تصویر بزرگ‌شدهٔ درخت تصمیم‌گیری خود Staurum خوانا است.

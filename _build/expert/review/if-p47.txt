@@ -1,0 +1,597 @@
+### if_p47_1
+EN: GJ, you're getting closer for sure
+FA: GJ، مطمئناً داری نزدیک‌تر می‌شوی
+
+### if_p47_2
+EN: Hey GeeJay!
+
+This one burned me on my broker as my TP was missed by 2 pips then
+reversal for BE. This is what I saw but I was targeting the 5min demand
+ not the flip above. Slippage or stop widening probably would have
+screwed me anyway. I wasn't around to watch the trade but it was my
+first successful longer term trade.
+
+If I'm blowing smoke maybe IF can correct me. Cheers all!
+
+Edit: I didn't know that the FL was going to be faked I just put that
+in as an afterthought. I was short near the top via PA for a ride down
+to the DP to engulf on the 1 h
+FA: سلام GeeJay!
+
+این یکی با بروکرم حالّم را گرفت، چون TP‌ام 2 پیپ کم آمد و بعدش برگشت سر به سر. این چیزی است که من دیدم، ولی هدفت ناحیهٔ تقاضای 5 دقیقه بود، نه فلیپ بالای آن. اسلیپیج یا گشاد شدن استاپ هم احتمالاً کارم را می‌ساخت. بالای معامله نبودم که تماشایش کنم، ولی اولین معاملهٔ بلندمدت موفقم بود.
+
+اگر دارم چرندی می‌گویم، شاید IF بتواند اصلاحم کند. به سلامتی همه!
+
+ویرایش: نمی‌دانستم آن FL قرار است فیک شود، همین‌طوری به‌عنوان فکر بعدی نوشتم. از طریق PA نزدیک سقف شورت بودم برای یک سقوط تا DP و اینگالف روی 1 ساعته
+
+### if_p47_3
+EN: Hi there IF, im analyzing this AUDUSD chart,. can you check or anyone here with much experience if my analysis is correct.
+
+H4 Chart
+
+H1 Chart
+
+M15 Chart - my entry point
+FA: سلام IF، دارم این نمودار AUDUSD را تحلیل می‌کنم. می‌شود تو یا هر کس باتجربه‌تری اینجا بگوید تحلیلم درست است.
+
+چارت H4
+
+نمودار H1
+
+نمودار M15 - نقطهٔ ورودم
+
+### if_p47_4
+EN: jelo90210 wrote: Hi there IF, im
+ analyzing this AUDUSD chart,. can you check or anyone here with much
+experience if my analysis is correct.
+
+H1 Chart
+
+M15 Chart - my entry point
+
+Hi Jelo,
+
+Here is my perspective. Forgive the lack of image editing skills.
+Essentially, I see 2 sell ops here. In the M15, the sell is the FTB to
+the Flag marked in the blue box. In M1, the sell is at 3 of the 1, 2, 3.
+
+The other comment I had was QM are normally more important at HTF Supply
+ or Demand. So, you have marked a bearish QM but this is not HTF supply
+(my opinion).
+
+GJ
+FA: jelo90210 نوشت: سلام IF، دارم این نمودار AUDUSD را تحلیل می‌کنم. می‌شود تو یا هر کس باتجربه‌تری اینجا بگوید تحلیلم درست است.
+
+نمودار H1
+
+نمودار M15 - نقطهٔ ورودم
+
+سلام Jelo،
+
+این دیدگاه من است. ببخش که مهارت ویرایش تصویر ندارم. در اصل، من اینجا 2 فرصت فروش می‌بینم. در M15، فروش همان FTB به فلگ مشخص‌شده در کادر آبی است. در M1، فروش در 3 از 1، 2، 3 است.
+
+نکتهٔ دیگری که داشتم این بود که QM معمولاً در عرضه یا تقاضای HTF مهم‌تر است. پس تو یک QM نزولی علامت زده‌ای، ولی این عرضهٔ HTF نیست (به نظر من).
+
+GJ
+
+### if_p47_5
+EN: HI all,
+
+just my take on the U/J trade first chart show the dp holding price
+m15 chart second chart shows it being engulfed creating an FTR the
+tg
+
+Joe
+FA: سلام به همه،
+
+فقط برداشت من از معاملهٔ U/J؛ نمودار اول نشان می‌دهد که DP قیمت را نگه داشته، نمودار m15 در نمودار دوم روشن می‌کند که اینگالف شده و FTR ساخته، همان tg
+
+Joe
+
+### if_p47_6
+EN: [qoute]Hi Jelo,
+
+Here is my perspective. Forgive the lack of image editing skills.
+Essentially, I see 2 sell ops here. In the M15, the sell is the FTB to
+the Flag marked in the blue box. In M1, the sell is at 3 of the 1, 2, 3.
+
+The other comment I had was QM are normally more important at HTF Supply
+ or Demand. So, you have marked a bearish QM but this is not HTF supply
+(my opinion).
+
+GJ[/quote]
+
+Hi there GJ, Thanks for your inputs, thanks for reminding me about how
+QM is more important in HTF than in LTF, i missed that one out :D
+
+the flag you plotted in m15, i really didn't saw that one. maybe i need
+to backtest more so i can locate and get my eyes used to see the flag
+limits :)
+
+and oh btw, can you explain further that 1,2,3?
+
+Thanks!
+
+J9
+FA: [qoute]سلام Jelo،
+
+این دیدگاه من است. ببخش که مهارت ویرایش تصویر ندارم. در اصل، من اینجا 2 فرصت فروش می‌بینم. در M15، فروش همان FTB به فلگ مشخص‌شده در کادر آبی است. در M1، فروش در 3 از 1، 2، 3 است.
+
+نکتهٔ دیگری که داشتم این بود که QM معمولاً در عرضه یا تقاضای HTF مهم‌تر است. پس تو یک QM نزولی علامت زده‌ای، ولی این عرضهٔ HTF نیست (به نظر من).
+
+GJ[/quote]
+
+سلام GJ، ممنون از ورودی‌هایت، ممنون که یادم انداختی QM در HTF مهم‌تر از LTF است، آن یکی را جا انداخته بودم :D
+
+فلگی که در m15 کشیدی، واقعاً ندیدمش. شاید باید بیشتر بک‌تست کنم تا بتوانم فلگ لیمیت‌ها را پیدا کنم و چشمم به دیدنشان عادت کند :)
+
+و راستی، می‌شود آن 1، 2، 3 را بیشتر توضیح بدهی؟
+
+ممنون!
+
+J9
+
+### if_p47_7
+EN: Hi J9,
+
+Sure. At point 1 on the down side, we have an engulf. The little flag on
+ the left side is a decision, a decision to go higher and go back into
+the M15 flag. On the way down, when this level marked by the red line in
+ broken, we can say the demand was engulfed. Next price flags. It
+bottoms, reverses back to the red line, then on the next wave down, it
+makes a lower low. To me, that is a clear signal that price wants to go
+lower. So, when price comes back to 3, to test the cap at 1, it is a
+good place to go short.
+
+And a point to clarify about QM. They do work in all timeframes, M1 up
+to MON1. What I was referring to is their respective locations. We are
+more interested in QM that form in historical S and D zones. So, the way
+ you marked up your QM, was for a short. But I don't see any Supply zone
+ there. There is supply for sure but the way I learned QM was to expect
+them at higher TF supply zones (Daily Supply for example for shorts).
+Perhaps the easiest is to go back to the QM article and read it again as
+ that is probably clearer than my explanation.
+
+GJ.
+FA: سلام J9،
+
+حتماً. در نقطهٔ 1 در سمت نزولی، یک اینگالف داریم. فلگ کوچک سمت چپ یک تصمیم است، تصمیمی برای رفتن بالاتر و برگشتن به فلگ M15. در مسیر پایین، وقتی این سطحی که با خط قرمز علامت خورده شکسته می‌شود، می‌توانیم بگوییم تقاضا اینگالف شده. بعد قیمت فلگ می‌زند. کف می‌سازد، به خط قرمز برمی‌گردد و بعد در موج نزولی بعدی کف پایین‌تری می‌سازد. برای من این سیگنال روشنی است که قیمت می‌خواهد پایین‌تر برود. پس وقتی قیمت به 3 برمی‌گردد تا سقفِ 1 را تست کند، جای خوبی برای شورت است.
+
+و یک نکته برای روشن شدن QM. آن‌ها در همهٔ تایم‌فریم‌ها کار می‌کنند، از M1 تا MON1. منظور من جایگاهشان بود. ما بیشتر به QMهایی علاقه‌مندیم که در نواحی تاریخی S و D شکل می‌گیرند. پس روشی که QM را علامت زدی برای شورت بود، ولی من آنجا هیچ ناحیهٔ عرضه‌ای نمی‌بینم. عرضه قطعاً هست، ولی روشی که QM را یاد گرفتم این بود که انتظارشان را در نواحی عرضهٔ تایم‌فریم بالاتر داشته باشم (مثلاً عرضهٔ روزانه برای شورت). شاید ساده‌ترین کار این باشد که برگردی سر مقالهٔ QM و دوباره بخوانی‌اش، چون احتمالاً از توضیح من روشن‌تر است.
+
+GJ.
+
+### if_p47_8
+EN: jelo90210 wrote: This file enlightened me as i was back reading this thread. This is exactly what happened to USDJPY...
+
+Then this happen earlier in NFP
+
+If only it were that simple, that Engulf = direction of Price.
+
+But, we equally see wicks 'engulf' as we call it, and Price turns around and goes completely the other way.
+
+Then we call it a false breakout, of course.
+
+Perhaps, there are characteristics that make Engulfs and false breakouts
+ recognizable at least enough to give us a statistical edge?
+
+	www.tradingview.com/x/ML1eo85h/
+
+In this nzdusd chart we see that P Engulfed the zone but with benefit of
+ hindsight we (subsequently) found out that it was in fact a false
+breakout.
+FA: jelo90210 نوشت: این فایل روشنم کرد، چون داشتم این تاپیک را از اول می‌خواندم. دقیقاً همان چیزی است که برای USDJPY رخ داد...
+
+بعد این اوایل NFP رخ داد
+
+کاش این‌قدر ساده بود که اینگالف مساوی است با جهت قیمت.
+
+ولی ما به همان اندازه ساقه‌هایی می‌بینیم که به آن‌ها «اینگالف» می‌گوییم و قیمت برمی‌گردد و کاملاً جهت مخالف را می‌رود.
+
+بعد اسمش را می‌گذاریم شکست جعلی، البته.
+
+شاید ویژگی‌هایی هست که اینگالف‌ها و شکست‌های جعلی را دست‌کم به اندازه‌ای قابل تشخیص کند که به ما برتری آماری بدهد؟
+
+www.tradingview.com/x/ML1eo85h/
+
+در این نمودار nzdusd می‌بینیم که قیمت ناحیه را اینگالف کرد، ولی با مزیت نگاه به گذشته بعداً فهمیدیم که در واقع شکست جعلی بوده.
+
+### if_p47_9
+EN: May the road rise up to meet you.
+
+May the wind always be at your back.
+
+May the sun shine warm upon your face
+
+And rains fall soft upon your fields.
+
+And until we meet again,
+
+May God hold you in the palm of his hand.
+
+Happy St. Paddy's day to you If!
+
+My mom painted this blessing on a flat rock (she always joked it was a
+blarney stone) to take with me in my travels as a small piece of home.
+
+My ancestry is Irish/English so I'm always fighting with everyone
+ . Hope your day is awesome; my little one and I are setting a trap for
+ the wee folk consisting of a box propped up with a cardboard tube (to
+be operated by her lamby if she sees a leprechaun) and some gold pipe
+cleaners, green cupcakes and gold coin chocolates for bate. I told her
+to be careful as they are a trick-some bunch but love a good gag.
+
+Hope you have a few dear friends to share some green pints with tonight. Cheers.
+
+Gaf
+FA: باشد که راه پیش پایت برخیزد.
+
+باشد که باد همیشه پشت سرت باشد.
+
+باشد که خورشید گرم بر چهره‌ات بتابد
+
+و باران نرم بر کشتزارهایت ببارد.
+
+و تا دوباره همدیگر را ببینیم،
+
+باشد که خدا تو را در کف دستش نگه دارد.
+
+روز سنت پدی مبارک IF!
+
+مادرم این دعا را روی یک سنگ صاف نقاشی کرد (همیشه شوخی می‌کرد که این همان سنگ بلارنی است) تا در سفرهایم به‌عنوان تکه‌ای کوچک از خانه همراه داشته باشم.
+
+تبار من ایرلندی/انگلیسی است، پس همیشه با همه در حال جنگم. امیدوارم روزت عالی باشد؛ من و کوچک‌ترم تله‌ای برای مردمان کوچک برپا کرده‌ایم: جعبه‌ای که با یک لولهٔ مقوایی بالا نگه داشته شده (که اگر لپرکانی ببیند، برهٔ اسباب‌بازی‌اش آن را کار می‌اندازد) و چند پیپ‌پاک‌کن طلایی، کاپ‌کیک سبز و شکلات سکه‌ای طلایی برای طعمه. به او گفتم مراقب باشد، چون آن‌ها گروه حیله‌گری‌اند ولی عاشق شوخی‌اند.
+
+امیدوارم امشب چند دوست عزیز داشته باشی که با آن‌ها چند پینت سبز بخوری. به سلامتی.
+
+Gaf
+
+### if_p47_10
+EN: what is engulf - prepare to enter.. i mean what did the price engulf - the demand on left?
+FA: اینگالف یعنی چه - آمادهٔ ورود.. یعنی قیمت چه چیزی را اینگالف کرد - تقاضای سمت چپ؟
+
+### if_p47_11
+EN: antraxia wrote: May the road rise up to meet you.
+
+May the wind always be at your back.
+
+May the sun shine warm upon your face
+
+And rains fall soft upon your fields.
+
+And until we meet again,
+
+May God hold you in the palm of his hand.
+
+Happy St. Paddy's day to you If!
+
+My mom painted this blessing on a flat rock (she always joked it was a
+blarney stone) to take with me in my travels as a small piece of home.
+
+My ancestry is Irish/English so I'm always fighting with everyone
+ . Hope your day is awesome; my little one and I are setting a trap for
+ the wee folk consisting of a box propped up with a cardboard tube (to
+be operated by her lamby if she sees a leprechaun) and some gold pipe
+cleaners, green cupcakes and gold coin chocolates for bate. I told her
+to be careful as they are a trick-some bunch but love a good gag.
+
+Hope you have a few dear friends to share some green pints with tonight. Cheers.
+
+Gaf
+
+Thanks Gaf
+
+I never celebrate the genocide (yes, St Pat was an evil mass murderer!)
+which was quickly whitewashed over , but I do celebrate the beautiful
+celtic culture he destroyed
+FA: antraxia نوشت: باشد که راه پیش پایت برخیزد.
+
+باشد که باد همیشه پشت سرت باشد.
+
+باشد که خورشید گرم بر چهره‌ات بتابد
+
+و باران نرم بر کشتزارهایت ببارد.
+
+و تا دوباره همدیگر را ببینیم،
+
+باشد که خدا تو را در کف دستش نگه دارد.
+
+روز سنت پدی مبارک IF!
+
+مادرم این دعا را روی یک سنگ صاف نقاشی کرد (همیشه شوخی می‌کرد که این همان سنگ بلارنی است) تا در سفرهایم به‌عنوان تکه‌ای کوچک از خانه همراه داشته باشم.
+
+تبار من ایرلندی/انگلیسی است، پس همیشه با همه در حال جنگم. امیدوارم روزت عالی باشد؛ من و کوچک‌ترم تله‌ای برای مردمان کوچک برپا کرده‌ایم: جعبه‌ای که با یک لولهٔ مقوایی بالا نگه داشته شده (که اگر لپرکانی ببیند، برهٔ اسباب‌بازی‌اش آن را کار می‌اندازد) و چند پیپ‌پاک‌کن طلایی، کاپ‌کیک سبز و شکلات سکه‌ای طلایی برای طعمه. به او گفتم مراقب باشد، چون آن‌ها گروه حیله‌گری‌اند ولی عاشق شوخی‌اند.
+
+امیدوارم امشب چند دوست عزیز داشته باشی که با آن‌ها چند پینت سبز بخوری. به سلامتی.
+
+Gaf
+
+ممنون Gaf
+
+من هرگز نسل‌کشی را جشن نمی‌گیرم (بله، سنت پت قاتل دسته‌جمعی شرور بود!) که سریع ماست‌مالی شد، ولی فرهنگ زیبای سلتی را که نابود کرد جشن می‌گیرم
+
+### if_p47_12
+EN: Sorry If; I always viewed the holiday as secular to celebrate all things Irish over here.
+
+We had orange, green and atheist/agnostic in my family and they managed
+to get along so I never thought the day would be viewed as evil but
+researching further I see that is not the case. I apologize for my
+ignorance as it was not my intention to offend you. You have shared so
+much with me and I appreciate it.
+
+On a brighter note our leprechaun trap was a success (I assume my wife
+snuck down and stuck some "lucky" stickers under our cardboard box trap
+though you never know
+ as she admits nothing). The little one is quite chuffed and I can put
+off the part about them not being proven for another year
+ . Its so hard to keep the innocence and not be that "guy" when you're
+trying to teach them whats real and what has yet to be proven.
+
+Cheers.
+FA: ببخش If؛ من همیشه این تعطیلات را سکولار می‌دیدم، برای جشن گرفتن همه‌چیز ایرلندی، این‌طرف.
+
+در خانوادهٔ ما نارنجی، سبز و آتئیست/آگنوستیک داشتیم و با هم کنار می‌آمدند، پس هیچ‌وقت فکر نمی‌کردم این روز شر تلقی شود، ولی با بیشتر تحقیق کردن دیدم این‌طور نیست. از نادانی‌ام عذر می‌خواهم، قصد آزردن تو را نداشتم. تو خیلی چیزها با من در میان گذاشته‌ای و قدرش را می‌دانم.
+
+خبر خوش این‌که تلهٔ لپرکانمان موفق بود (البته حدس می‌زنم همسرم یواشکی رفته و چند برچسب «خوش‌شانس» زیر جعبهٔ مقوایی چسبانده باشد، ولی هیچ‌وقت نمی‌دانی، چون خودش چیزی اعتراف نمی‌کند). کوچک‌ترم کلی ذوق کرده و می‌توانم بخش «ثابت نشده‌اند» را یک سال دیگر عقب بیندازم. حفظ بی‌گناهی و این‌که آن آدم نباشی که وقتی می‌خواهی یادشان بدهی چه چیزی واقعی است و چه چیزی هنوز ثابت نشده، خیلی سخت است.
+
+به سلامتی.
+
+### if_p47_13
+EN: No need to apologise at all. You cheered me up lots
+
+Abhorring propaganda, I just tend to rant a bit every time that guy's name pops up.
+
+Be very wary of any leprechauns you catch; they're tricky little rascals!
+FA: نیازی به عذرخواهی نیست. کلی خوشحالم کردی
+
+از پروپاگاندا بیزارم، همین که اسم آن آدم می‌آید کمی غر می‌زنم.
+
+از هر لپرکانی که بگیرید خیلی مراقب باشید؛ حیله‌گرهای کوچکی‌اند!
+
+### if_p47_14
+EN: Hi if,
+
+Hope your well,
+
+You mentioned a short time ago that you were considering opening the
+academy again, is this something you have given much thought too and
+made a decision whether to run another class
+
+Thanks
+
+Effex
+FA: سلام if،
+
+امیدوارم خوب باشی،
+
+چندی پیش گفتی که در فکر باز کردن دوبارهٔ آکادمی هستی؛ آیا زیاد به آن فکر کرده‌ای و تصمیم گرفته‌ای کلاس دیگری برگزار کنی
+
+ممنون
+
+Effex
+
+### if_p47_15
+EN: Hi Effex
+
+I think we may indeed be opening the doors again, with a new course, specifically dedicated to creating RTM Fund traders.
+
+I even recently wrote a statement about it, which I'll try do dig out and publish soon
+FA: سلام Effex
+
+فکر می‌کنم واقعاً ممکن است درها را دوباره باز کنیم، با یک دورهٔ جدید که مشخصاً وقف ساختن معامله‌گران RTM Fund است.
+
+حتی اخیراً بیانیه‌ای درباره‌اش نوشتم که سعی می‌کنم پیدایش کنم و به‌زودی منتشر کنم
+
+### if_p47_16
+EN: Great news thanks!
+
+Is the statement the one regarding to supporting the pale blue dot trust or is there also an option to pay to be on the course.
+
+Thanks again
+
+Effex!
+FA: خبر عالی، ممنون!
+
+آن بیانیه همان است که دربارهٔ حمایت از pale blue dot trust بود یا گزینهٔ پرداخت برای حضور در دوره هم هست.
+
+باز هم ممنون
+
+Effex!
+
+### if_p47_17
+EN: It's about a paid course.
+
+Sure, had there been lots of posts and support for the Pale Blue Dot
+Trust (not one person has posted there yet!) I would've been considering
+ taking people from there too.
+
+We also haven't forgotten our most talented traders from RTM. If we start the course, we'll be vetting them for free entry too
+FA: بحث یک دورهٔ پولی است.
+
+مطمئناً اگر پست‌ها و حمایت زیادی برای Pale Blue Dot Trust بود (هنوز یک نفر هم آنجا پست نگذاشته!) در نظر داشتم آدم‌هایی را از آنجا هم بردارم.
+
+با استعدادترین معامله‌گران RTM را هم فراموش نکرده‌ایم. اگر دوره را شروع کنیم، آن‌ها را هم برای ورود رایگان بررسی می‌کنیم
+
+### if_p47_18
+EN: Ifmyante wrote: It's about a paid course.
+
+Sure, had there been lots of posts and support for the Pale Blue Dot
+Trust (not one person has posted there yet!) I would've been considering
+ taking people from there too.
+
+We also haven't forgotten our most talented traders from RTM. If we start the course, we'll be vetting them for free entry too
+
+IF,
+
+you have made my day, after kicking myself for not signing up for the
+first classes and then finding out the doors were closed Im so happy
+there will be another chance.
+
+I look forward to it.
+
+Thanks effex
+FA: Ifmyante نوشت: بحث یک دورهٔ پولی است.
+
+مطمئناً اگر پست‌ها و حمایت زیادی برای Pale Blue Dot Trust بود (هنوز یک نفر هم آنجا پست نگذاشته!) در نظر داشتم آدم‌هایی را از آنجا هم بردارم.
+
+با استعدادترین معامله‌گران RTM را هم فراموش نکرده‌ایم. اگر دوره را شروع کنیم، آن‌ها را هم برای ورود رایگان بررسی می‌کنیم
+
+IF،
+
+روزم را ساختی. بعد از این‌که کلی خودم را سرزنش کردم که در کلاس‌های اول ثبت‌نام نکردم و بعد فهمیدم درها بسته شده، خیلی خوشحالم که فرصت دیگری خواهد بود.
+
+منتظرش هستم.
+
+ممنون effex
+
+### if_p47_19
+EN: Hi IF,
+
+Learned recently you're a Dublin man, I myself live in greystones, I'm
+wondering if you skype or meet up, I've so many question and struggling
+with consistency,
+
+Would love to meet up online or whatever means if it were possible.
+
+Thanks in advance , sorry if its a tall order but one doesn'.t know until one asks.
+
+Have a great day , and thank you for sharing , RTM is a great resource for us strugglers,
+
+Thanks 4x.
+FA: سلام IF،
+
+اخیراً فهمیدم اهل دوبلین هستی، من خودم در greystones زندگی می‌کنم. می‌خواستم ببینم اسکایپ می‌کنی یا جایی همدیگر را می‌بینیم؛ سؤال خیلی زیاد دارم و با ثبات داشتن دست‌وپنجه نرم می‌کنم،
+
+خیلی دوست دارم آنلاین یا به هر شکل دیگری اگر ممکن باشد همدیگر را ببینیم.
+
+پیشاپیش ممنون، ببخش اگر خواستهٔ بزرگی است ولی آدم تا نپرسد نمی‌داند.
+
+روزت عالی، و ممنون که به اشتراک می‌گذاری، RTM منبع عالی‌ای برای ما دست‌وپنجه‌نرم‌کننده‌هاست،
+
+ممنون 4x.
+
+### if_p47_20
+EN: Ifmyante wrote: It's about a paid course.
+
+Sure, had there been lots of posts and support for the Pale Blue Dot
+Trust (not one person has posted there yet!) I would've been considering
+ taking people from there too.
+
+We also haven't forgotten our most talented traders from RTM. If we start the course, we'll be vetting them for free entry too
+
+Thanks IF !
+
+This is a fantastic News !
+
+Will wait for that every single day !
+
+And I know I will be ready to do many things to may put that needed money together...
+FA: Ifmyante نوشت: بحث یک دورهٔ پولی است.
+
+مطمئناً اگر پست‌ها و حمایت زیادی برای Pale Blue Dot Trust بود (هنوز یک نفر هم آنجا پست نگذاشته!) در نظر داشتم آدم‌هایی را از آنجا هم بردارم.
+
+با استعدادترین معامله‌گران RTM را هم فراموش نکرده‌ایم. اگر دوره را شروع کنیم، آن‌ها را هم برای ورود رایگان بررسی می‌کنیم
+
+ممنون IF !
+
+این خبر فوق‌العاده‌ای است !
+
+هر روز، تک‌تک روزها منتظرش می‌مانم !
+
+و می‌دانم آماده‌ام کلی کار بکنم تا آن پول لازم را جور کنم...
+
+### if_p47_21
+EN: Ifmyante wrote: It's about a paid course.
+
+Sure, had there been lots of posts and support for the Pale Blue Dot
+Trust (not one person has posted there yet!) I would've been considering
+ taking people from there too.
+
+We also haven't forgotten our most talented traders from RTM. If we start the course, we'll be vetting them for free entry too
+
+I tried to post on PBD a few times but the site comes up with an error.
+FA: Ifmyante نوشت: بحث یک دورهٔ پولی است.
+
+مطمئناً اگر پست‌ها و حمایت زیادی برای Pale Blue Dot Trust بود (هنوز یک نفر هم آنجا پست نگذاشته!) در نظر داشتم آدم‌هایی را از آنجا هم بردارم.
+
+با استعدادترین معامله‌گران RTM را هم فراموش نکرده‌ایم. اگر دوره را شروع کنیم، آن‌ها را هم برای ورود رایگان بررسی می‌کنیم
+
+چند بار سعی کردم در PBD پست بگذارم ولی سایت خطا می‌دهد.
+
+### if_p47_22
+EN: If,
+
+After finally taking care of some pretty major personal problems, I can
+now finish the new pbdt site design I've been working on piece by piece
+for sometime now. I should be done with it hopefully within the next two
+ weeks. I really think you're gonna like the new fresh look I'm giving
+it.
+FA: If،
+
+بعد از این‌که بالاخره چند مشکل شخصی نسبتاً بزرگ را حل کردم، حالا می‌توانم طراحی جدید سایت pbdt را که مدتی است تکه‌تکه رویش کار می‌کنم تمام کنم. امیدوارم تا دو هفتهٔ آینده تمامش کنم. واقعاً فکر می‌کنم از ظاهر تازه‌ای که به آن می‌دهم خوشت می‌آید.
+
+### if_p47_23
+EN: Ifmyante wrote: It's about a paid course.
+
+Sure, had there been lots of posts and support for the Pale Blue Dot
+Trust (not one person has posted there yet!) I would've been considering
+ taking people from there too.
+
+We also haven't forgotten our most talented traders from RTM. If we start the course, we'll be vetting them for free entry too
+
+Hi If,
+
+Some time ago, there was mention of the fund results being published on
+the site. Is this something that is still going to happen before the
+next course is for sale?
+FA: Ifmyante نوشت: بحث یک دورهٔ پولی است.
+
+مطمئناً اگر پست‌ها و حمایت زیادی برای Pale Blue Dot Trust بود (هنوز یک نفر هم آنجا پست نگذاشته!) در نظر داشتم آدم‌هایی را از آنجا هم بردارم.
+
+با استعدادترین معامله‌گران RTM را هم فراموش نکرده‌ایم. اگر دوره را شروع کنیم، آن‌ها را هم برای ورود رایگان بررسی می‌کنیم
+
+سلام If،
+
+چندی پیش صحبت از انتشار نتایج صندوق در سایت بود. این هم چیزی است که قرار است پیش از عرضهٔ دورهٔ بعدی اتفاق بیفتد؟
+
+### if_p47_24
+EN: 4x wrote: Hi IF,
+
+Learned recently you're a Dublin man, I myself live in greystones, I'm
+wondering if you skype or meet up, I've so many question and struggling
+with consistency,
+
+Would love to meet up online or whatever means if it were possible.
+
+Thanks in advance , sorry if its a tall order but one doesn'.t know until one asks.
+
+Have a great day , and thank you for sharing , RTM is a great resource for us strugglers,
+
+Thanks 4x.
+
+Hi 4x
+
+I'm quite reclusive at the moment, but as Spring/Summer begins to draw me out, who knows?!
+FA: 4x نوشت: سلام IF،
+
+اخیراً فهمیدم اهل دوبلین هستی، من خودم در greystones زندگی می‌کنم. می‌خواستم ببینم اسکایپ می‌کنی یا جایی همدیگر را می‌بینیم؛ سؤال خیلی زیاد دارم و با ثبات داشتن دست‌وپنجه نرم می‌کنم،
+
+خیلی دوست دارم آنلاین یا به هر شکل دیگری اگر ممکن باشد همدیگر را ببینیم.
+
+پیشاپیش ممنون، ببخش اگر خواستهٔ بزرگی است ولی آدم تا نپرسد نمی‌داند.
+
+روزت عالی، و ممنون که به اشتراک می‌گذاری، RTM منبع عالی‌ای برای ما دست‌وپنجه‌نرم‌کننده‌هاست،
+
+ممنون 4x.
+
+سلام 4x
+
+این روزها خیلی گوشه‌گیر شده‌ام، ولی حالا که بهار/تابستان دارد بیرونم می‌کشد، کی می‌داند؟!
+
+### if_p47_25
+EN: I'll look into that straight away
+
+thanks for the heads up
+FA: همین حالا پیگیری‌اش می‌کنم
+
+ممنون که خبر دادی

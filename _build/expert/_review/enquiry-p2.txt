@@ -1,0 +1,14 @@
+===== enquiry-p2 : 3 posts =====
+--- enquiry_p2_26 author=yacino94 hash=dd7b2f64
+EN: When I get the answer
+FA: وقتی جواب را بگیرم
+--- enquiry_p2_27 author=corsica hash=0e82eb39
+EN: Bonsoir Yacino I would like to say that the specifications are 86-66-91 (Cindy Crawford, what else?) but that would be inappropriate and uncorrect. A flag limit is what happens when the price breaks a flag, retrace and is rejected. This zone (breaks-retrace-rejection ) is where it has been decided to break the flag. When price comes back to it (FTB) it is likely to be rejected again.
+FA: عصربه‌خیر Yacino، دلم می‌خواهد بگویم مشخصاتش 86-66-91 است (Cindy Crawford، چه چیز دیگری؟)، اما این حرف هم بی‌جا است و هم نادرست. FL زمانی شکل می‌گیرد که قیمت یک FLAG را می‌شکند، برمی‌گردد و پس زده می‌شود. این ناحیه (شکست، بازگشت و پس زده شدن) همان جایی است که تصمیم به شکستن FLAG گرفته شده است. وقتی قیمت به آن برمی‌گردد (FTB)، احتمال دارد دوباره پس زده شود.
+--- enquiry_p2_28 author=Edge hash=03a21475
+EN: Please read response in your other thread
+
+Feedback
+FA: لطفاً پاسخ را در تاپیک دیگرت بخوان
+
+بازخورد

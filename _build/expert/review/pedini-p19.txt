@@ -1,0 +1,356 @@
+### pedini_p19_1
+EN: Youve been a great friend to all of us...wishing you a great day!
+FA: تو برای همهٔ ما دوست فوق‌العاده‌ای بوده‌ای... روزی عالی برایت آرزو می‌کنم!
+
+### pedini_p19_2
+EN: Never overlook a nice FO level
+
+Peds
+FA: هرگز از یک سطح FO خوب غافل نشو
+
+Peds
+
+### pedini_p19_3
+EN: Peds,
+
+I have a quick question about this trade if you don't mind buddy.
+FA: Peds،
+
+اگر ناراحت نمی‌شوی رفیق، یک سؤال سریع دربارهٔ این معامله دارم.
+
+### pedini_p19_4
+EN: Hiya Aaron,
+
+Not exactly, notice the flag to the left of the black boxes you drew,
+see how price faked out up above the flag then continued lower, exactly
+where my sell line is? That is the FO level.
+
+Peds
+FA: سلام Aaron،
+
+دقیقاً نه؛ به فلگ سمت چپ کادرهای سیاهی که کشیدی نگاه کن. می‌بینی قیمت چطور بالای فلگ فیک‌اوت کرد و بعد پایین‌تر ادامه داد، دقیقاً همان‌جایی که خط فروش من است؟ آن همان سطح FO است.
+
+Peds
+
+### pedini_p19_5
+EN: Cheers Peds, I just wanna make sure I got what you mean, I think I have it now, here is a chart to illustrate
+
+The FL you're talking about is marked on the chart I think
+FA: ممنون Peds، فقط می‌خواهم مطمئن شوم منظورت را گرفته‌ام؛ فکر می‌کنم حالا گرفته‌ام، این هم نموداری برای نشان دادنش
+
+گمانم آن FL که می‌گویی روی نمودار علامت خورده است
+
+### pedini_p19_6
+EN: Perfect
+FA: عالی
+
+### pedini_p19_7
+EN: Hello Pedini,
+
+If you don't mind I have a question about FO in the charts below
+
+Thank you very much,
+
+Pucci
+FA: سلام Pedini،
+
+اگر ناراحت نمی‌شوی یک سؤال دربارهٔ FO در نمودارهای زیر دارم
+
+خیلی ممنون،
+
+Pucci
+
+### pedini_p19_8
+EN: Hi Pucci, yes this is still a valid FO. A FO of an SR is very common.
+
+Peds
+FA: سلام Pucci، بله این هنوز یک FO معتبر است. FO شدن یک SR خیلی رایج است.
+
+Peds
+
+### pedini_p19_9
+EN: I exited UJ at the first sign of price continuing higher, one of the
+best lessons I have gotten from RTM is not to "hope" price goes a
+particular way, once you stop hoping, you can see much more clearly.
+
+Peds
+FA: به محض اولین نشانهٔ ادامهٔ صعود قیمت از UJ خارج شدم. یکی از بهترین درس‌هایی که از RTM گرفته‌ام این است که «امیدوار نباش» قیمت به سمت خاصی برود؛ وقتی امیدوار بودن را کنار بگذاری، خیلی واضح‌تر می‌بینی.
+
+Peds
+
+### pedini_p19_10
+EN: Hey Peds.
+
+First off, happy birthday!
+
+Second, I have been looking at your FO charts above. The one thing I
+have to get straightened out is if you are supposed to enter on the FO
+itself or the return to the FO? I have seen some people predict the FO
+and enter in the FO itself. Others entered after the FO. Is there a
+reason for this?
+
+Thanks,
+
+H
+FA: سلام Peds.
+
+اول، تولدت مبارک!
+
+دوم، داشتم به نمودارهای FO بالایی نگاه می‌کردم. تنها چیزی که باید برایم روشن شود این است که آیا باید روی خود FO وارد شد یا روی بازگشت به FO؟ دیده‌ام بعضی‌ها FO را پیش‌بینی می‌کنند و در همان‌جا وارد می‌شوند. بقیه بعد از FO وارد شده‌اند. دلیلی برای این تفاوت هست؟
+
+ممنون،
+
+H
+
+### pedini_p19_11
+EN: Hi Scotty,
+
+I am really hesitant to give you an answer for this, and only because
+these situations happen all the time, have a look in history and look
+for times price done similar things, and what happened to price
+afterwards.
+
+Peds
+FA: سلام Scotty،
+
+واقعاً برای دادن جواب در این مورد تردید دارم، و فقط به این دلیل که این موقعیت‌ها همیشه پیش می‌آیند؛ در تاریخچه نگاه کن و ببین چه زمان‌هایی قیمت چیزهای مشابهی کرده و بعدش چه بر سر قیمت آمده.
+
+Peds
+
+### pedini_p19_12
+EN: Hey Pedini,
+
+I wanted to ask you a question about order flow. This may be a loaded
+question but it would really help me out being that it is one of the
+last pieces of the puzzle for me. I have always had a problem with the
+compartmentalizing of trades on a smaller TF and being an avid follower
+of the Doctor, I've always wanted to gain the sensibility of order flow
+in the macro sense. The thing that gets me everyday when I trade is
+DIRECTION. The fractal nature of time makes this concept very difficult
+ for me to grasp. Like what determines you direction for the day, the
+daily curve, 4 hr, 1 hr?? I feel the direction is half the battle
+because when working with smaller TF entries, you will get entry signals
+ all over the place and if you are in a zone that is on the wrong side
+of the curve, you will eventually blow an account by entering on the 15
+min or 5 min because you probably will get some sort of a reversal
+signal being that these entry TFs are so nimble compared to their larger
+ TF zone counterparts. I guess what I'm trying to ask is how do you
+spot the plausible reversal zones on the larger TFs (4hr, daily,
+weekly)? Do you just go for extremities (from engulf to engulf) or
+from fresh zone to fresh zone?? There have been many times where I
+have seen a RBR or DBD get completely blown through on the 4hr or daily
+even if an entry signal was given on the smaller TF because the trend
+was so strong. Do you just depend on original DBR and RBD for macro
+trend REVERSAL spots?? I just like the Idea of knowing my direction for
+ the day and only taking longs or shorts for days weeks until the trend
+is over, thus staying out of the cop of counter trend movements. Happy
+belated B Day btw.
+
+ST
+FA: سلام Pedini،
+
+می‌خواستم یک سؤال دربارهٔ اردر فلو از تو بپرسم. شاید سؤال پرمحملی باشد، ولی واقعاً کمکم می‌کند، چون یکی از آخرین تکه‌های پازل من است. من همیشه با بخش‌بخش کردن معاملات در تایم‌فریم کوچک‌تر مشکل داشته‌ام و چون از دنبال‌کنندگان سرسخت دکتر بوده‌ام، همیشه می‌خواستم حس اردر فلو را در معنای ماکرو به دست بیاورم. چیزی که هر روز معامله‌گری‌ام را اذیت می‌کند جهت است. ماهیت فراکتالی زمان این مفهوم را برای من خیلی سخت می‌کند. یعنی چه چیزی جهت روزت را تعیین می‌کند، منحنی روزانه، 4 ساعته، 1 ساعته؟؟ حس می‌کنم جهت نیمی از نبرد است، چون وقتی با ورودهای تایم‌فریم کوچک‌تر کار می‌کنی، سیگنال ورود از همه‌جا سر و کله‌اش پیدا می‌شود و اگر در ناحیه‌ای باشی که سمت اشتباه منحنی است، در نهایت حساب را با ورود روی 15 دقیقه یا 5 دقیقه می‌سوزانی، چون احتمالاً نوعی سیگنال برگشت می‌گیری؛ آخر این تایم‌فریم‌های ورود در مقایسه با همتایان ناحیه‌ای بزرگ‌ترشان چقدر چابک‌اند. حدس می‌زنم سؤالم این است که نواحی برگشت محتمل را در تایم‌فریم‌های بزرگ‌تر (4 ساعته، روزانه، هفتگی) چطور تشخیص می‌دهی؟ فقط سراغ انتهاها می‌روی (از اینگالف تا اینگالف) یا از ناحیهٔ تازه تا ناحیهٔ تازه؟؟ بارها دیده‌ام که یک RBR یا DBD روی 4 ساعته یا روزانه کاملاً از میان برداشته شود، حتی وقتی روی تایم‌فریم کوچک‌تر سیگنال ورود داده شده، چون روند خیلی قوی بوده. برای نقاط برگشت روند ماکرو فقط به DBR و RBD اصلی تکیه می‌کنی؟؟ من فقط این ایده را دوست دارم که جهت روزم را بدانم و روزها و هفته‌ها فقط خرید یا فقط فروش بگیرم تا روند تمام شود، و این‌طور از چوپیِ حرکات خلاف روند بیرون بمانم. راستی تولدت هم مبارک، با تأخیر.
+
+ST
+
+### pedini_p19_13
+EN: Hey Peds. So I don't junk up your journal I am going to place some examples in my journal.
+
+H
+FA: سلام Peds. برای اینکه ژورنالت را شلوغ نکنم، چند نمونه را در ژورنال خودم می‌گذارم.
+
+H
+
+### pedini_p19_14
+EN: Hey Peds. I will place this here for you to see as it is your trade. I
+ am trying to guess why you looked at that level. I am guessing that
+your entry here was really based on this H4 level. I noticed that IF had
+ done the same thing in his weekly example…thats interesting
+ Thus far it has been hard for me to see why price sometimes turns at
+S/D and why sometimes it turns at the source of the engulf. In this case
+ I think the IT's used the reaction to S/D to stop people out and fill
+their sell orders when price moved up. This is easy to say, but I don't
+know that I could see this all the time.
+
+Your chart
+
+4HR
+
+LTF
+
+Thanks,
+
+H
+FA: سلام Peds. این را برایت این‌جا می‌گذارم تا ببینی، چون معاملهٔ خودت است. دارم حدس می‌زنم چرا به آن سطح نگاه کردی. حدس می‌زنم ورودت این‌جا واقعاً بر پایهٔ همین سطح H4 بود. متوجه شدم IF هم در نمونهٔ هفتگی‌اش همین کار را کرده... جالب است. تا حالا برای من سخت بوده دیدن اینکه چرا قیمت بعضی وقت‌ها در S/D می‌چرخد و بعضی وقت‌ها در مبدأ اینگالف. در این مورد فکر می‌کنم IT‌ها از واکنش به S/D استفاده کردند که آدم‌ها را استاپ‌اوت کنند و وقتی قیمت بالا رفت سفارش‌های فروششان را پر کنند. گفتنش ساده است، ولی نمی‌دانم چنین چیزی را همیشه بتوانم ببینم.
+
+نمودار تو
+
+H4
+
+LTF
+
+ممنون،
+
+H
+
+### pedini_p19_15
+EN: Hi Pedini,
+
+Good article on S n D in mktpedia,.....thrs a correction there i thnk needd.
+
+referring to para "You can see from the image above I marked a DBR after
+ a break of the highs to the left of it. This is a level that forms
+after a break of a high, it’s a FTR, and we can expect it to bounce
+price, but it doesn’t, it breaks. The FTR that proceeds is the RBD that
+is the important one, this is where we want to keenly look for PA."
+under 2nd pic is not in sync with picture.
+FA: سلام Pedini،
+
+مقالهٔ خوبی دربارهٔ عرضه و تقاضا در mktpedia،..... فکر می‌کنم یک اصلاح لازم دارد.
+
+منظورم پاراگرافی است که زیر تصویر دوم آمده و با تصویر هم‌خوان نیست: «از تصویر بالا می‌بینید که بعد از شکست های‌های سمت چپ آن، یک DBR علامت زدم. این سطحی است که بعد از شکست یک های شکل می‌گیرد، یک FTR است و انتظار داریم قیمت را پس بزند، ولی نمی‌زند و می‌شکند. FTR بعدی همان RBD است که مهم است؛ این‌جا است که می‌خواهیم با دقت دنبال PA بگردیم.»
+
+### pedini_p19_16
+EN: Cheers Harsh - We will get on to changing that ASAP.
+FA: ممنون Harsh — در اولین فرصت سراغ اصلاحش می‌رویم.
+
+### pedini_p19_17
+EN: This was an easy one. It's currently 20/1 RR
+
+Peds
+FA: این یکی راحت بود. الان RR آن 20/1 است
+
+Peds
+
+### pedini_p19_18
+EN: Hai Peds,,,this is my analysis,,correct me if i wrong,,thanks
+FA: سلام Peds، این تحلیل من است، اگر اشتباه می‌کنم اصلاحم کن، ممنون
+
+### pedini_p19_19
+EN: be70isme wrote: Hai Peds,,,this is my analysis,,correct me if i wrong,,thanks
+
+Hi mate, yes, the SR is correct, but there is a reason it worked so well...
+FA: be70isme نوشت: سلام Peds، این تحلیل من است، اگر اشتباه می‌کنم اصلاحم کن، ممنون
+
+سلام رفیق، بله، SR درست است، ولی دلیلی دارد که این‌قدر خوب کار کرد...
+
+### pedini_p19_20
+EN: Hey Pedini,
+
+I see spread 4 on your chart. And lets say ur S/L is 1 pip, so total
+possible loss is 5 pips. Perfect trade exit is 20 pips, so in this case
+ super perfect trade management and being right brings 1/4 R/R or am I
+wrong?
+
+So unless one can know what will be in the future and know where markets
+ will turn, one shouldn't take this trade unless trading plan calls for
+1/x>100 R/R
+FA: سلام Pedini،
+
+در نمودارت اسپرد 4 می‌بینم. و فرض کن استاپ‌لاس تو 1 پیپ باشد، پس کل ضرر ممکن 5 پیپ می‌شود. خروج کامل معامله هم 20 پیپ است، پس در این حالت مدیریت معاملهٔ فوق‌کامل و درست بودن، 1/4 R/R می‌دهد یا اشتباه می‌کنم؟
+
+پس تا وقتی کسی آینده را نداند و نداند بازار کجا می‌چرخد، نباید این معامله را بگیرد، مگر اینکه پلن معاملاتی‌اش 1/x>100 R/R بخواهد
+
+### pedini_p19_21
+EN: Vito wrote: Hey Pedini,
+
+I see spread 4 on your chart. And lets say ur S/L is 1 pip, so total
+possible loss is 5 pips. Perfect trade exit is 20 pips, so in this case
+ super perfect trade management and being right brings 1/4 R/R or am I
+wrong?
+
+So unless one can know what will be in the future and know where markets
+ will turn, one shouldn't take this trade unless trading plan calls for
+1/x>100 R/R
+
+Hi mate, not sure what you are getting at here. Anyway my spread at the
+time of the screen shot was .4 it was possible less at entry, I don't
+recall
+FA: Vito نوشت: سلام Pedini،
+
+در نمودارت اسپرد 4 می‌بینم. و فرض کن استاپ‌لاس تو 1 پیپ باشد، پس کل ضرر ممکن 5 پیپ می‌شود. خروج کامل معامله هم 20 پیپ است، پس در این حالت مدیریت معاملهٔ فوق‌کامل و درست بودن، 1/4 R/R می‌دهد یا اشتباه می‌کنم؟
+
+پس تا وقتی کسی آینده را نداند و نداند بازار کجا می‌چرخد، نباید این معامله را بگیرد، مگر اینکه پلن معاملاتی‌اش 1/x>100 R/R بخواهد
+
+سلام رفیق، مطمئن نیستم منظورت چیست. به‌هرحال اسپرد من در زمان اسکرین‌شات .4 بود، محتمل است موقع ورود کمتر هم بوده باشد، دقیق یادم نیست
+
+### pedini_p19_22
+EN: Hi Peds,,thanks for your comment,,please let me know what the reason it working so well
+FA: سلام Peds، ممنون از کامنتت، لطفاً بگو دلیل اینکه این‌قدر خوب کار کرد چیست
+
+### pedini_p19_23
+EN: Pedini wrote:
+Vito wrote: Hey Pedini,
+
+I see spread 4 on your chart. And lets say ur S/L is 1 pip, so total
+possible loss is 5 pips. Perfect trade exit is 20 pips, so in this case
+ super perfect trade management and being right brings 1/4 R/R or am I
+wrong?
+
+So unless one can know what will be in the future and know where markets
+ will turn, one shouldn't take this trade unless trading plan calls for
+1/x>100 R/R
+
+Hi mate, not sure what you are getting at here. Anyway my spread at the
+time of the screen shot was .4 it was possible less at entry, I don't
+recall
+
+Hey, nothing personal, just trying to understand better how to catch trades with 1 pip SL, really not an easy task for me.
+
+Here I have my chart up with some points where it was possible in my
+view to look for trades at that area, I would like to see your opinion
+why you haven't taken trades at mentioned 2 previous spots before your
+trade on my graph.
+FA: Pedini نوشت: Vito نوشت: سلام Pedini،
+
+در نمودارت اسپرد 4 می‌بینم. و فرض کن استاپ‌لاس تو 1 پیپ باشد، پس کل ضرر ممکن 5 پیپ می‌شود. خروج کامل معامله هم 20 پیپ است، پس در این حالت مدیریت معاملهٔ فوق‌کامل و درست بودن، 1/4 R/R می‌دهد یا اشتباه می‌کنم؟
+
+پس تا وقتی کسی آینده را نداند و نداند بازار کجا می‌چرخد، نباید این معامله را بگیرد، مگر اینکه پلن معاملاتی‌اش 1/x>100 R/R بخواهد
+
+سلام رفیق، مطمئن نیستم منظورت چیست. به‌هرحال اسپرد من در زمان اسکرین‌شات .4 بود، محتمل است موقع ورود کمتر هم بوده باشد، دقیق یادم نیست
+
+سلام، بحث شخصی نیست، فقط می‌خواهم بهتر بفهمم معامله‌هایی با استاپ‌لاس یک‌پیپی را چطور می‌شود گرفت؛ واقعاً کار ساده‌ای برای من نیست.
+
+این‌جا نمودارم را با چند نقطه باز کرده‌ام که به نظر من در آن ناحیه می‌شد دنبال معامله گشت؛ دوست دارم نظرت را بدانم که چرا در آن 2 نقطهٔ قبلی ذکرشده روی نمودار من، قبل از معاملهٔ خودت، معامله نگرفتی.
+
+### pedini_p19_24
+EN: Vito wrote:
+
+Hey, nothing personal, just trying to understand better how to catch trades with 1 pip SL, really not an easy task for me.
+
+Here I have my chart up with some points where it was possible in my
+view to look for trades at that area, I would like to see your opinion
+why you haven't taken trades at mentioned 2 previous spots before your
+trade on my graph.
+
+Hi Pedini,
+
+I think Vito wants to know how you came up with your limit/market order
+and stoploss for your last trade. Vito the last chart you posted shows
+your intentions to go long am I right? In case I'm right all of your
+markings to buy are in the wrong place, remember you only want to buy in
+ demand not in the middle. I added a chart with my reasoning of where
+you could possibly make a trade in the direction of the engulf, hope
+this helps. In addition, look at m1 how price approached the source of
+the engulf notice something?
+
+Just my thoughts.
+
+Mr.B
+FA: Vito نوشت:
+
+سلام، بحث شخصی نیست، فقط می‌خواهم بهتر بفهمم معامله‌هایی با استاپ‌لاس یک‌پیپی را چطور می‌شود گرفت؛ واقعاً کار ساده‌ای برای من نیست.
+
+این‌جا نمودارم را با چند نقطه باز کرده‌ام که به نظر من در آن ناحیه می‌شد دنبال معامله گشت؛ دوست دارم نظرت را بدانم که چرا در آن 2 نقطهٔ قبلی ذکرشده روی نمودار من، قبل از معاملهٔ خودت، معامله نگرفتی.
+
+سلام Pedini،
+
+فکر می‌کنم Vito می‌خواهد بداند برای آخرین معامله‌ات سفارش لیمیت/مارکت و استاپ‌لاس را چطور تعیین کردی. Vito، نمودار آخری که گذاشتی نیتت را برای خرید نشان می‌دهد، درست است؟ اگر درست باشد، همهٔ علامت‌های خرید تو در جای اشتباه است؛ یادت باشد فقط باید در تقاضا بخری، نه در وسط. یک نمودار اضافه کردم با استدلال خودم از جایی که احتمالاً می‌شود در جهت اینگالف معامله کرد، امیدوارم کمک کند. علاوه بر این، در M1 نگاه کن قیمت چطور به مبدأ اینگالف نزدیک شد؛ چیزی متوجه می‌شوی؟
+
+فقط نظر من.
+
+Mr.B
+
+### pedini_p19_25
+EN: Hey guys thats my view about Pedini's last trade.
+FA: سلام بچه‌ها، این دید من دربارهٔ آخرین معاملهٔ Pedini است.

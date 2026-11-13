@@ -1,0 +1,534 @@
+===== quasimodo-p14.json quasimodo_p14_350 | echo
+--- EN ---
+Ifmyante wrote: The proof of the pudding's in the eating
+
+Lol..Indeed it is my friend..Indeed it is!
+
+Quasimodo
+--- FA ---
+Ifmyante نوشت: اثبات پودینگ در خوردنش است
+
+Lol.. واقعاً همین‌طور است رفیق.. واقعاً همین‌طور است!
+
+Quasimodo
+
+===== quasimodo-p15.json quasimodo_p15_369 | echo
+--- EN ---
+Found one!
+
+Unfortunatley as I was marking up the chart and taking screenshots etc price had already started dropping. But was very nice to see price start to drop from the predicted LH supply. Lets see if it goes the whole way, not much to stop it on the way down.
+
+CAD/CHF M5
+
+CAD/CHF H1
+--- FA ---
+یکی پیدا کردم!
+
+متأسفانه وقتی داشتم چارت را علامت‌گذاری می‌کردم و عکس از صفحه می‌گرفتم و غیره قیمت قبلاً شروع به افت کرده بود. ولی دیدن اینکه قیمت از عرضه پیش‌بینی‌شدهٔ LH شروع به افت کرد خیلی قشنگ بود. ببینیم آیا تا ته می‌رود؛ راهش به پایین چیزی برای توقفش نیست.
+
+CAD/CHF M5
+
+CAD/CHF H1
+
+===== quasimodo-p16.json quasimodo_p16_389 | echo
+--- EN ---
+Hi guys,
+
+QM is almost everywhere in the chart. It's a simple over under pattern, of course the right shoulder has to be a HH/LL to make it a valid QM.
+
+So what does it actually make a QM a good QM?
+
+Here's my 2 cents. Went over the 5mins chart to find an example, and got this one. Hope it makes sense.
+
+*Posted this on the other thread "Quasimodo", and figured this is also a good place to double post this.
+--- FA ---
+سلام رفیقا،
+
+QM تقریباً همه‌جا روی چارت است. یک الگوی ساده «بالا/پایین» است؛ البته شانهٔ راست باید HH/LL باشد تا QM معتبر شود.
+
+پس واقعاً چه چیزی یک QM را QM خوب می‌کند؟
+
+این نظر صادقانهٔ من است. رفتم روی چارت 5 دقیقه‌ای دنبال مثال و این را پیدا کردم. امیدوارم معنا پیدا کند.
+
+*این را در ترد دیگر «Quasimodo» هم پست کردم و فکر کردم این هم جای خوبی برای پست دوباره است.
+
+===== quasimodo-p16.json quasimodo_p16_391 | echo
+--- EN ---
+Ok... I try again to understand... I will not die before understanding this method
+
+Here there is a chart about USDCAD on M5 and on H1
+
+Price is on Daily Supply and I marked a Fake on H1 chart So, going to the M5 chart I see this two types of channel: the first as retracement on previous FL, that was engulfed; the second as retracement up to the decision point
+
+Target is, for me, the QM level
+--- FA ---
+باشه... دوباره تلاش می‌کنم بفهمم... قبل از فهمیدن این متد نمی‌میرم
+
+اینجا چارتی دربارهٔ USDCAD روی M5 و روی H1 هست
+
+قیمت روی عرضهٔ روزانه است و یک Fake روی چارت H1 علامت زدم. پس با رفتن به چارت M5 دو نوع کانال می‌بینم: اولی به‌عنوان پس‌رفت روی FL قبلی که engulf شد؛ دومی به‌عنوان پس‌رفت تا نقطهٔ تصمیم
+
+تارگت برای من سطح QM است
+
+===== quasimodo-p17.json quasimodo_p17_404 | echo
+--- EN ---
+I'm not an expert, but when I analize my failed trades I often see that HTF PA shows other price direction than LTF PA, so now I try analize LTF PA in context of HTF and don't blindly give an label DP, FTR.
+
+So my answer to your question, no,they are not all created equal. But I would like to see an opinion of someone more experienced.
+--- FA ---
+من متخصص نیستم، ولی وقتی تریدهای ناموفقم را تحلیل می‌کنم اغلب می‌بینم PA تایم‌فریم بالاتر جهت قیمتی متفاوتی از PA تایم‌فریم پایین‌تر نشان می‌دهد، پس الان سعی می‌کنم PA تایم‌فریم پایین‌تر را در بافت تایم‌فریم بالاتر تحلیل کنم و کورکورانه برچسب DP، FTR نزنم.
+
+پس جواب سؤالت: نه، همه با هم برابر نیستند. ولی دوست دارم نظر کسی باتجربه‌تر را ببینم.
+
+===== quasimodo-p18.json quasimodo_p18_446 | paragraphs 1 / 2
+--- EN ---
+I read several times the Marketpedia but still the QM dynamic is not very clear to me. While a QM is forming, the engulf of previous demand for us is a strong signal that price wants to go lower, so we wait the FTR to sell at Supply of Higher High (Head) or previous High (left Shoulder). My question is: why the big market players let engulfing previous demand, wich tells us that price wants to reverse? If they need to fill their sell order, isn't enough waiting for people buyng at a pullback of the trend (higher low in an uptrend) and suddenly push the price lower without any warning? What kind of benefit do they have from engulfing previous demand and not simply consume it to prepare the sell off? Probably I don't understand the market dynamic behind the QM and why it occours the way it does, but I can't figure out why. What do you think?
+--- FA ---
+Marketpedia را چند بار خواندم ولی هنوز داینامیک QM برایم خیلی واضح نیست. وقتی QM در حال شکل‌گیری است، اینگالف تقاضای قبلی برای ما سیگنال قوی است که قیمت می‌خواهد پایین‌تر برود، پس منتظر FTR می‌مانیم تا در عرضهٔ سقف بالاتر (سر) یا سقف قبلی (شانهٔ چپ) بفروشیم. سؤالم این است: چرا بازیکنان بزرگ بازار اجازه می‌دهند تقاضای قبلی بلعیده شود که به ما می‌گوید قیمت می‌خواهد برگردد؟ اگر برای پر کردن سفارش فروش‌شان نیاز دارند، آیا کافی نیست منتظر بمانند مردم در پولبک روند (کف بالاتر در روند صعودی) بخرند و ناگهان قیمت را بدون هیچ هشداری پایین ببرند؟ چه منفعتی از بلعیدن تقاضای قبلی دارند و نه اینکه فقط آن را مصرف کنند تا فروش را آماده کنند؟ احتمالاً داینامیک بازار پشت QM را نمی‌فهمم و چرا این‌طور رخ می‌دهد، ولی نمی‌توانم بفهمم چرا. نظرت چیست؟
+
+احتمالاً IF بیشتر برای گفتن دارد ولی به زبان ساده آن‌ها باید اقداماتشان را هماهنگ کنند و اینگالف یکی از راه‌های رسیدن به این است.
+
+===== quasimodo-p19.json quasimodo_p19_458 | paragraphs 15 / 16
+--- EN ---
+kruger wrote:
+
+Andyfx wrote:
+
+kruger wrote:
+
+Andyfx wrote: I read several times the Marketpedia but still the QM dynamic is not very clear to me. While a QM is forming, the engulf of previous demand for us is a strong signal that price wants to go lower, so we wait the FTR to sell at Supply of Higher High (Head) or previous High (left Shoulder). My question is: why the big market players let engulfing previous demand, wich tells us that price wants to reverse? If they need to fill their sell order, isn't enough waiting for people buyng at a pullback of the trend (higher low in an uptrend) and suddenly push the price lower without any warning? What kind of benefit do they have from engulfing previous demand and not simply consume it to prepare the sell off? Probably I don't understand the market dynamic behind the QM and why it occours the way it does, but I can't figure out why. What do you think?
+
+Probably IF would have more to say but in simple IT's have to synchronize their actions and engulf is one of the ways to achieve this.
+
+Yep I read this on If journal recently, but also I was wondering: reatail traders volume in the forex market is like only 10% or so (the 10 major banks have something like 75% of total forex volume) so aren't big players in competition between each other?
+
+Could you give a link to this information?
+
+FX market is more complex than that, as WIKIsays: "Traders include large banks, central banks, institutional investors, currency speculators, corporations, governments, other nancial institutions, and retail investors."
+
+Also quick googling: link
+
+BTW. I only discuss on the basis of information from the net because I have no proper background.
+
+Hi Kruger
+
+From the Wiki you posted you see this Tab:
+
+You see 10 major players in the market hold about 80% of total volume, if I understand right.
+
+I googled the same FXCM article yesterday but didn't understand very well (english is not my mother language), maybe it talks only about their volume of FXCM and not total FX Market
+
+BTW I don't have financial background too. Just curious to dig informations to understand the market microstructures
+--- FA ---
+kruger نوشت:
+
+Andyfx نوشت:
+
+kruger نوشت:
+
+Andyfx نوشت: Marketpedia را چند بار خواندم ولی هنوز داینامیک QM برایم خیلی واضح نیست. وقتی QM در حال شکل‌گیری است، اینگالف تقاضای قبلی برای ما سیگنال قوی است که قیمت می‌خواهد پایین‌تر برود، پس منتظر FTR می‌مانیم تا در عرضهٔ سقف بالاتر (سر) یا سقف قبلی (شانهٔ چپ) بفروشیم. سؤالم این است: چرا بازیکنان بزرگ بازار اجازه می‌دهند تقاضای قبلی بلعیده شود که به ما می‌گوید قیمت می‌خواهد برگردد؟ اگر برای پر کردن سفارش فروش‌شان نیاز دارند، آیا کافی نیست منتظر بمانند مردم در پولبک روند (کف بالاتر در روند صعودی) بخرند و ناگهان قیمت را بدون هیچ هشداری پایین ببرند؟ چه منفعتی از بلعیدن تقاضای قبلی دارند و نه اینکه فقط آن را مصرف کنند تا فروش را آماده کنند؟ احتمالاً داینامیک بازار پشت QM را نمی‌فهمم و چرا این‌طور رخ می‌دهد، ولی نمی‌توانم بفهمم چرا. نظرت چیست؟
+
+احتمالاً IF بیشتر برای گفتن دارد ولی به زبان ساده آن‌ها باید اقداماتشان را هماهنگ کنند و اینگالف یکی از راه‌های رسیدن به این است.
+
+آره این را اخیراً در ژورنال If خواندم، ولی همچنین کنجکاو بودم: حجم
+
+تریدرهای خرد در بازار فارکس فقط حدود 10% است (10 بانک اصلی چیزی حدود 75% از حجم کل فارکس را دارند) پس آیا بازیکنان بزرگ با هم رقابت می‌کنند؟
+
+میتوانی لینکی به این اطلاعات بدهی؟
+
+بازار FX از آن پیچیده‌تر است؛ همان‌طور که WIKI می‌گوید: «تریدرها شامل بانک‌های بزرگ، بانک‌های مرکزی، سرمایه‌گذاران نهادی، سفته‌بازان ارزی، شرکت‌ها، دولت‌ها، سایر نهادهای مالی و سرمایه‌گذاران خرد هستند.»
+
+همچنین یک گوگل سریع: لینک
+
+به‌هرحال. من فقط بر اساس اطلاعات نت بحث می‌کنم چون پیش‌زمینهٔ مناسبی ندارم.
+
+سلام Kruger
+
+از ویکی‌ای که پست کردی این برگه را می‌بینی:
+
+می‌بینی 10 بازیکن اصلی بازار حدود 80% از حجم کل را دارند، اگر درست فهمیده باشم.
+
+دیروز همان مقالهٔ FXCM را گوگل کردم ولی خیلی خوب نفهمیدم (انگلیسی زبان مادریم نیست)، شاید فقط دربارهٔ حجم خودشان در FXCM حرف می‌زند نه کل بازار FX
+
+به‌هرحال من هم پیش‌زمینهٔ مالی ندارم. فقط کنجکاو هستم که اطلاعاتی بگردم تا میکروساختارهای بازار را بفهمم
+
+===== quasimodo-p22.json quasimodo_p22_532 | latex
+--- EN ---
+here gbp\usd that made the return few days later
+
+is it better?
+
+and thats the return
+
+is this a failed QM?
+
+and some nzd\usd 4hrs
+
+tyvm for ur comments
+--- FA ---
+اینجا gbp\usd که چند روز بعد برگشت کرد
+
+بهتر است؟
+
+و این همان برگشت است
+
+آیا این یک QM ناموفق است؟
+
+و چندتا NZD\usd چهار ساعته
+
+tyvm برای نظراتت
+
+===== quasimodo-p22.json quasimodo_p22_534 | latex
+--- EN ---
+2 fresh QMs from eur\aud today
+
+the first one was my first QM trade (weee 1 ml=3.5$ profit).
+
+for the 2nd QM, its actually more interesting- ihad an order but cancell it after price broke the highs (1.5650+-).
+
+what do u think, was it still valid? if it was 1hr or more i prob wouldnt cancell, but since its its 5min,is it make any different?
+
+thx for ur comments
+--- FA ---
+2 QM تازه از eur\aud امروز
+
+اولی اولین ترید QM من بود (weee 1 ml=3.5$ سود).
+
+برای QM دوم، در واقع جالب‌تر است- سفارشی داشتم ولی بعد از اینکه قیمت سقف‌ها را شکست (1.5650+-) آن را کنسل کردم.
+
+نظرت چیست، هنوز معتبر بود؟ اگر 1 ساعت یا بیشتر بود احتمالاً کنسل نمی‌کردم، ولی چون 5 دقیقه است، فرقی می‌کند یا نه؟
+
+ممنون برای نظراتت
+
+===== quasimodo-p23.json quasimodo_p23_551 | echo
+--- EN ---
+Hi G,
+
+A QM junkie, I like it!! Remember a QM setup is a REVERSAL pattern, not really a continuation pattern like the the FL for example... I am not saying they do not work as in some circumstances as continuation patterns because I am sure they do..
+
+With regards to seeing a QM in demand, it would be, like you said, upside down (L, H, LL, HH) in this formation, instead of when we're at supply it would be H, L, HH, LL....
+--- FA ---
+سلام G،
+
+یک QM junkie، دوست دارمش!! به یاد داشته باش یک ستاپ QM الگوی برگشت است، نه واقعاً الگوی ادامه مثل FL مثلاً... نمی‌گویم در بعضی شرایط به‌عنوان الگوی ادامه کار نمی‌کنند چون مطمئنم کار می‌کنند..
+
+در مورد دیدن QM در تقاضا، همان‌طور که گفتی وارونه خواهد بود (L, H, LL, HH) در این الگو، به‌جای اینکه وقتی در عرضه هستیم H, L, HH, LL باشد....
+
+===== quasimodo-p23.json quasimodo_p23_567 | paragraphs 6 / 5
+--- EN ---
+Piphop,
+
+I am so sorry mate, my mistake, you are totally right, there was no HH to trigger the QM, please do excuse me, I am testing QMs and posting on the forum at the same time
+
+but the area I have pointed out is still my demand to enter on if price ever returns to
+
+this zone as it coincided beautifully with the QM level.
+
+With regards to the second chart, my order would not have yet been triggered, this is where patience comes in my friend, something I am tackling too... And an alert system of course!
+
+What a sausage I am, here is the revised chart mate..
+--- FA ---
+Piphop،
+
+خیلی متأسفم رفیق، اشتباه من بود، کاملاً درست می‌گویی؛ HHی برای تریگر کردن QM نبود، لطفاً مرا ببخش؛ دارم QMها را تست می‌کنم و هم‌زمان در انجمن پست می‌کنم
+
+ولی ناحیه‌ای که اشاره کردم هنوز تقاضای من برای ورود است اگر قیمت هرگز به این ناحیه برگردد چون به QM سطح به‌نیکی منطبق شد.
+
+در مورد چارت دوم، سفارشم هنوز تریگر نشده بود؛ اینجاست که صبر وارد می‌شود رفیق، چیزی که من هم با آن دست‌وپنجه نرم می‌کنم... و البته یک سیستم alert!
+
+چه احمقی هستم؛ این چارت اصلاح‌شده رفیق..
+
+===== quasimodo-p25.json quasimodo_p25_617 | paragraphs 1 / 2
+--- EN ---
+hi guys, I found an example with a nice QM setup, but price didn't quite touch QM before it reacted.
+--- FA ---
+سلام رفیقا،
+
+مثالی با ستاپ QM قشنگ پیدا کردم، ولی قیمت قبل از اینکه به QM واکنش نشان دهد کاملاً به آن نرسید.
+
+===== quasimodo-p26.json quasimodo_p26_633 | paragraphs 2 / 1
+--- EN ---
+Here is another homework. Please take a look at my question and let me know your opinion:)
+
+Thanks in advance, guys!
+--- FA ---
+این تکلیف دیگر. لطفاً به سؤالم نگاه کن و نظرت را بگو:)
+
+===== quasimodo-p26.json quasimodo_p26_635 | paragraphs 6 / 5
+--- EN ---
+Hi Johnny,
+
+Great work, just another observation for your chart, and this is only my opinion... The level you're waiting for price to come back to is a nice FO, because of the prior engulf high (Your H in the QM set up), so I believe this becomes a FO zone which will/may support you're QM set up.
+
+PG,
+
+You're previous post was a good one, reacted very well to the QM level!
+
+Keep
+
+finding those!
+--- FA ---
+سلام Johnny،
+
+کار عالی؛ فقط یک مشاهدهٔ دیگر برای چارتت، و این فقط نظر من است... سطحی که منتظر برگشت قیمت به آن هستی یک FO قشنگ است، به خاطر سقف اینگالف قبلی (H تو در ستاپ QM)، پس باور دارم این یک ناحیهٔ FO می‌شود که از ستاپ QM تو حمایت می‌کند یا شاید کند.
+
+PG،
+
+پست قبلی‌ات خوب بود، به QM سطح خیلی خوب واکنش نشان داد!
+
+به پیدا کردن آن‌ها ادامه بده!
+
+===== quasimodo-p26.json quasimodo_p26_641 | paragraphs 9 / 8
+--- EN ---
+Aaron wrote: Hi Piphop,
+
+I am learning all I can about the FO and Engulf at present, please do join me in the thread: 'Engulf or Fakeout', it would be great to get some different views over there.
+
+Aaron
+
+Have begun reading 'Engulf or Fakeout'......just what I was looking for. Man you have provided a lot of insights for people on this forum..
+
+I just had to show you what I
+
+spotted on the NSDUSD after trying to work out whether it was in the process of a FO or not. I thought it probably best at this stage to put it in this thread as it fulfills the other criteria I have learn't from you.....the need for PATIENCE!!!
+
+Here is the pair back in October 2013
+
+Here is the same pair with that same QM Level extended out over the months to today's dilemma........ FO or an Engulf
+
+And then down to the 5m Chart
+--- FA ---
+Aaron نوشت: سلام Piphop،
+
+الان FO و اینگالف را تا حدی که می‌توانم یاد می‌گیرم؛ لطفاً در ترد 'اینگالف or فیک‌اوت' به من بپیوند، آنجا دیدگاه‌های متفاوت دیگری گرفتن عالی خواهد بود.
+
+Aaron
+
+شروع به خواندن 'اینگالف or فیک‌اوت' کردم...... دقیقاً همان چیزی بود که دنبال می‌کردم. رفیق واقعاً بینش‌های زیادی برای مردم این انجمن فراهم کردی..
+
+فقط باید بهت نشان می‌دادم چیزی که روی NSDUSD پیدا کردم بعد از تلاش برای فهمیدن اینکه آیا در جریان FO بود یا نه. فکر کردم در این مرحله بهتر است آن را در این ترد بگذارم چون بقیهٔ معیارهایی را که از تو یاد گرفتم کامل می‌کند..... نیاز به صبر!!!
+
+اینجا جفت در اکتبر 2013
+
+اینجا همان جفت با همان QM سطح کشیده‌شده روی ماه‌ها تا معمای امروز........ FO یا اینگالف
+
+و بعد پایین‌تر به چارت 5 دقیقه‌ای
+
+===== quasimodo-p29.json quasimodo_p29_711 | paragraphs 5 / 4
+--- EN ---
+Very, very nice! Actually, I'm starting to get a little envious!
+
+Wish I had an eye like
+
+yours...
+
+I guess one of the reasons why QMs are so good is that their structure is instinctively appealing (I trust I am not being weird here!). And of course, the risk/reward ratio they seem to present more often than not.
+
+polymorph wrote: QM's were a pretty quick click with me but I need a LOT more practice! In green I marked another bearish QM on that same chart that I just noticed (see, need more practice!) With the FL that you marked there's a lot of upside protection so the RS seems like an even lower risk entry than just a straight QM. A little something I think the kids are calling "confluence":)
+--- FA ---
+خیلی خیلی قشنگ! در واقع، دارم کمی حسود می‌شوم!
+
+کاش چشمی مثل چشم تو داشتم...
+
+حدس می‌زنم یکی از دلایلی که QMها این‌قدر خوب هستند این است که ساختارشان به‌طور غریزی جذاب است (امیدوارم عجیب نباشم!). و البته نسبت ریسک/ریواردای که بیشتر اوقات ارائه می‌دهند.
+
+polymorph نوشت: QMها برای من خیلی سریع click شدند ولی به MUCH تمرین بیشتری نیاز دارم! با سبز QM نزولی دیگری روی همان چارت که تازه متوجه شدم علامت زدم (دیدی، به تمرین بیشتر نیاز دارم!) با FLی که علامت زدی محافظت upside زیادی هست پس RS به نظر ورود با ریسک حتی پایین‌تر از QM مستقیم است. یک چیزی که فکر می‌کنم بچه‌ها به آن می‌گویند «تطابق»:)
+
+===== quasimodo-p29.json quasimodo_p29_719 | paragraphs 7 / 6
+--- EN ---
+revivalfx wrote: Hello All,
+
+I am completed fascinated by the Diamond and QM at the moment.
+
+I know that we are supposed to look for QMs at HTF zones ( I assume the same for the Diamond). But can someone qualify HTF in this context. Are we talking Daily and higher? H4 and higher? Some traders even believe that H1 is HTF.
+
+My feeling is that the lower the timeframe, the lesser the probablility of success.
+
+Not that I've tried very hard (mainly because I wasn't sure if H1 was included), but I've only found one H1 QM so far. I would much rather stick with H4 and above, but the thing is the H1 QM that I did find was successful even if it was a lower (than H4).... higher (than M30)... time frame?
+
+Any feedback would be great. Thanks and go get those pips!
+
+there are no timeframes, its all fractal. only smaller and larger swings/flags/call them what you want. switching between timeframes in your platform, only helps see them
+--- FA ---
+revivalfx نوشت: سلام به همه،
+
+الان کاملاً با «الماس» و QM شیفته شده‌ام.
+
+می‌دانم باید QMها را در نواحی HTF بگردیم (فرض می‌کنم برای الماس هم همین‌طور). ولی کسی می‌تواند HTF را در این بافت تعریف کند؟ آیا داریم دربارهٔ روزانه و بالاتر حرف می‌زنیم؟ H4 و بالاتر؟ بعضی تریدرها حتی باور دارند H1 هم HTF است.
+
+حس من این است که هرچه تایم‌فریم پایین‌تر، احتمال موفقیت کمتر. نه اینکه خیلی سخت تلاش کرده باشم (عمدتاً چون مطمئن نبودم H1 هم جزو آن است)، ولی تا اینجا فقط یک QM یک‌ساعته پیدا کرده‌ام. خیلی بیشتر ترجیح می‌دهم به H4 و بالاتر بچسبم، ولی مسئله این است که QM یک‌ساعته‌ای که پیدا کردم موفق بود، حتی اگر تایم‌فریمش پایین‌تر (از H4).... بالاتر (از M30).... بود؟
+
+هر بازخوردی عالی است. ممنون و برو آن پیپ‌ها را بگیر!
+
+تایم‌فریم وجود ندارد؛ همه‌چیز فراکتالی است. فقط سوینگ‌ها/پرچم‌های کوچک‌تر و بزرگ‌تر — هرچه می‌خواهی صدایش کن. جابه‌جا شدن بین تایم‌فریم‌ها در پلتفرمت فقط به دیدنشان کمک می‌کند.
+
+===== quasimodo-p31.json quasimodo_p31_753 | paragraphs 7 / 8
+--- EN ---
+revivalfx wrote:
+
+astro wrote:
+
+revivalfx wrote: I know this is not pretty, but do you guys consider this to be a QM?
+
+Don't know if it's ocially considered a QM, but IInd quite often that price will only make it to the lower supply line (yellow line) especially in AUDUSD.
+
+Astro,
+
+Thanks for your observation. I'm working through ForexTester right now to get some more insight into price. I can pick out the "textbook" QMs quite well. It's just the not so pretty ones that are still elusive to me.
+
+That's where i'm struggling at the moment. At what level to place my orders/stops without adding too much risk. I've looked at a couple of different options. Good luck with the testing. Would be interested to know your results.
+--- FA ---
+astro نوشت:
+
+revivalfx نوشت:
+
+astro نوشت:
+
+revivalfx نوشت: می‌دانم این قشنگ نیست، ولی آیا شما رفیقا این را QM می‌دانید؟
+
+نمی‌دانم آیا رسماً QM محسوب می‌شود، ولی اغلب می‌بینم قیمت فقط تا خط عرضه پایین‌تر (خط زرد) می‌رسد مخصوصاً در AUDUSD.
+
+Astro،
+
+ممنون از مشاهدت. الان دارم ForexTester را برای بینش بیشتر در قیمت کار می‌کنم. QMهای «کتاب درسی» را خوب می‌توانم جدا کنم. فقط آن‌هایی که آن‌قدر قشنگ نیستند هنوز از دستم می‌گریزند.
+
+همان‌جایی است که الان درگیرش هستم. در چه سطحی سفارش‌ها/استاپ‌هایم را بگذارم بدون اینکه ریسک زیادی اضافه کنم. چند گزینهٔ متفاوت را نگاه کرده‌ام. موفق باشی با تست. دوست دارم نتایجت را بدانم.
+
+===== quasimodo-p31.json quasimodo_p31_765 | paragraphs 3 / 1
+--- EN ---
+Of course I would, there was a 170 pip rally. Perfect trade opportunity.
+
+projectsagana wrote: With the excitement for the GBPUSD WKLY QM that I found, I wanted to find more anticipated QM set up on the wkly chart. With the succession of L-H-LL-HH-and QM for Bullish QM; and H-L-HH-LL-and QM for Bearish QM.
+
+This is the first chart that I found. What do you guys think? Would you get in here for a long position as it was happening? Be honest now.
+--- FA ---
+البته که می‌شدم؛ یک رالی 170 پیپی بود. فرصت ترید کامل.
+
+===== quasimodo-p32.json quasimodo_p32_783 | paragraphs 4 / 3
+--- EN ---
+scoobydoo wrote: If u had taken the bearish QM setup as u indicate, then I think there's some lovely PA here to at least let u out of the trade with minimal damage limitation and maybe even flip the trade for profit.
+
+...but I think what I'm learning from RTM is the fact that although these patterns do fail from time to time, there is quite a clue develops about it's failure which allows us to get out with minimal damage...or indeed reverse our trade.
+
+I think I know what you are trying to say. I think you are talking about trade
+
+management. Like maybe getting out of a trade if PA doesn't show what it's supposed to do. Is there to know in advance whether a QM level will work out so you don't have monitor it 24/7 once you get on a live trade?
+--- FA ---
+scoobydoo نوشت: اگر ستاپ QM نزولی را همان‌طور که نشان دادی می‌گرفتی، فکر می‌کنم PA قشنگی اینجا هست که حداقل بگذارد با کمترین ضرر از ترید خارج شوی و شاید حتی ترید را برای سود برعکس کنی.
+
+...ولی فکر می‌کنم چیزی که از RTM یاد می‌گیرم این است که اگرچه این الگوها گاهی شکست می‌خورند، سرنخ قابل‌توجهی دربارهٔ شکستشان شکل می‌گیرد که به ما اجازه می‌دهد با کمترین ضرر خارج شویم... یا واقعاً تریدمان را برعکس کنیم.
+
+فکر می‌کنم می‌فهمم چه می‌خواهی بگویی. فکر می‌کنی دربارهٔ مدیریت ترید حرف می‌زنی. مثلاً شاید از ترید خارج شدن اگر PA آنچه باید نشان دهد را نشان ندهد. آیا از قبل می‌شود دانست که QM سطح جواب می‌دهد تا وقتی وارد ترید زنده شدی 24/7 آن را پایش نکنی؟
+
+===== quasimodo-p32.json quasimodo_p32_798 | echo
+--- EN ---
+astro wrote: Here's a beautiful QM I took last night on SPI200 and it's still running....
+
+Lets make a lesson out of it:
+
+A QM level is the edge of the left shoulder. But there are more qualifications for valid Quasimodo.
+
+Astro and everyone else: Please refer to the QM article, and lets gather a list of price events that qualifies a valid Quasimodo:
+
+1. 2. 3. 4. 5.
+--- FA ---
+astro نوشت: اینجا QM زیبایی است که دیشب روی SPI200 گرفتم و هنوز در حال اجراست....
+
+بیایید از آن درسی بسازیم:
+
+QM سطح لبهٔ شانهٔ چپ است. ولی qualificationهای بیشتری برای Quasimodo معتبر هست.
+
+Astro و همهٔ بقیه: لطفاً به مقالهٔ QM مراجعه کنید و بیایید فهرستی از رویدادهای قیمتی که Quasimodo معتبر را واجد می‌کند جمع کنیم:
+
+1. 2. 3. 4. 5.
+
+===== quasimodo-p34.json quasimodo_p34_829 | paragraphs 9 / 8
+--- EN ---
+click wrote:
+
+Harry wrote:
+
+click wrote: Hello everyone, congratulations to the thread very interesting, I do not speak good English, sorry. I wanted to ask, can I
+
+start this thread to study the method Quasimodo, or do I see elsewhere. Sorry, I do not yet know well the forum. Thank you.
+
+hello, feel free to post some examples here to get some feedback and see if you understand it.
+
+Thank you, I do not feel ready, I need to understand more. If you have of the tips for me, I would learn faster. Thank you.
+
+Hi click
+
+I'm a student of PA also. You post when you feel comfortable doing so. I think you would learn faster when you are posting your charts here, it will give everyone an opportunity to give some feedback. The feedback and structured criticism is good so you would know what you are doing right and wrong.
+
+So my advice for you is to post your charts and see how RTM community sees it. We're all here to learn the same method.
+--- FA ---
+click نوشت:
+
+Harry نوشت:
+
+click نوشت: سلام به همه، تبریک به ترد؛ خیلی جالب است؛ انگلیسی‌ام خوب نیست، ببخشید. می‌خواستم بپرسم، آیا می‌توانم این ترد را برای مطالعهٔ روش Quasimodo شروع کنم، یا باید جای دیگری ببینم؟ ببخشید، هنوز انجمن را خوب نمی‌شناسم. ممنون.
+
+salam، با خیال راحت چند مثال اینجا پست کن تا بازخورد بگیری و ببینی آیا می‌فهمی یا نه.
+
+ممنون؛ آماده نیستم، باید بیشتر بفهمم. اگر نکته‌ای برایم داری، سریع‌تر یاد می‌گیرم. ممنون.
+
+سلام click
+
+من هم دانش‌آموز PA هستم. وقتی راحت شدی پست کن. فکر می‌کنم وقتی چارت‌هایت را اینجا پست می‌کنی سریع‌تر یاد می‌گیری، چون به همه فرصت می‌دهد بازخورد بدهند. بازخورد و نقد ساختاریافته خوب است تا بدانی چه کارهایی درست و غلط می‌کنی.
+
+پس توصیه‌ام به تو این است که چارت‌هایت را پست کنی و ببینی جامعهٔ RTM چطور می‌بیند. همه اینجا برای یادگیری همان روش هستیم.
+
+===== quasimodo-p37.json quasimodo_p37_918 | paragraphs 8 / 1
+--- EN ---
+Hi Lads im confiused with QM So i know that when i start draw them on the charts i will have many answers that why i was holding my self back with the qestions but with this chart i had to ask...
+
+QM.... so i reading and wathing this tred to clearly understand the QM setup my problem is: 1 where to entry?? -
+
+a) do we enter on supply zone what is created from first H? b) or we enter on the orange line what is S/R line c) or we enter on fresh supply and it can be created on HH pik
+
+d) seen many QM where right H did not reach left H is that valid QM? e) seen QM where right H breake orange S/R line and react to the HH supply! is that QM or more range?
+
+2 now where to place SL (i know that you need to leve fev pips higher over the zone for just in case of spread increase or other broker tricks:D ) a) is it over the left H zone b) is it over the QM?
+
+now in other price patterns the rules on entry are clear... np
+
+after breake w8 for hook and then enter stop lost under hook... you see all on pic above....
+
+in QM is not so clear for me:D
+--- FA ---
+سلام بچه‌ها، دربارهٔ QM گیج شدم؛ می‌دانم وقتی شروع می‌کنم به کشیدنشان روی چارت جواب‌های زیادی برایم می‌آید — همان پرسش‌هایی که مرا عقب نگه می‌داشت — اما با این چارت مجبور شدم بپرسم... QM.... پس داشتم این ترد را می‌خواندم و می‌دیدم تا QM را کاملاً بفهمم؛ مشکل من این است: 1) ورود کجا؟ — a) روی ناحیهٔ عرضه‌ای که از اولین H ساخته می‌شود وارد می‌شویم؟ b) یا روی خط نارنجی که خط S/R است؟ c) یا روی عرضهٔ تازه که می‌تواند روی پیک HH ساخته شود؟ d) QMهای زیادی دیده‌ام که H سمت راست به H سمت چپ نرسیده؛ آیا QM معتبر است؟ e) QM دیده‌ام که H سمت راست خط نارنجی S/R را شکسته و به عرضهٔ HH واکنش نشان داده؛ آن QM است یا بیشتر رنج؟ 2) حالا SL را کجا بگذارم (می‌دانم که باید چند پیپ بالاتر از ناحیه بگذاری، برای احتیاط در برابر افزایش اسپرد یا ترفندهای دیگر بروکر :D) a) بالای ناحیهٔ H چپ؟ b) بالای QM؟ حالا در الگوهای قیمتی دیگر قوانین ورود روشن است... np بعد از شکست w8 برای هوک و بعد ورود با استاپ‌لاس زیر هوک... همه را روی عکس بالا می‌بینی.... در QM برای من این‌قدر روشن نیست :D
+
+===== quasimodo-p38.json quasimodo_p38_928 | echo
+--- EN ---
+Hi Full, this is what I see on C/Y, each box is a target. When you mark something up on your chart pan out on a HTF and see if it still fits you may notice something else.
+--- FA ---
+سلام Full، این چیزی است که روی C/Y می‌بینم؛ هر جعبه یک تارگت است. وقتی چیزی را روی چارتت علامت می‌زنی، روی یک HTF بزرگ‌نمایی کن و ببین آیا هنوز می‌سازد؛ ممکن است چیز دیگری متوجه شوی.
+
+===== quasimodo-p43.json quasimodo_p43_1064 | echo
+--- EN ---
+Hi friends!! Todays analysis of my recent failed qm. first chart it is a big picture.details in the chart.
+
+second chart it's a correct to one.
+--- FA ---
+سلام دوستان!! تحلیل امروز QM ناموفق اخیر من است. چارت اول تصویر بزرگ است؛ جزئیات روی چارت است.
+
+چارت دوم نسخهٔ درست آن است.
+
+===== quasimodo-p45.json quasimodo_p45_1114 | echo
+--- EN ---
+omidfxt wrote: HEY EVERYONE
+
+QM IN GBP DAILY CHART IN MY OPINION
+
+hey every body
+
+thanks RTM this is the result of the GBPUSD DAILY Chart now there is another QM, let's see what will happen
+--- FA ---
+omidfxt نوشت: هی همه
+
+QM در چارت روزانهٔ GBP به نظر من
+
+سلام به همه
+
+ممنون RTM، این نتیجهٔ چارت روزانهٔ GBPUSD است؛ حالا یک QM دیگر هست، ببینیم چه می‌شود
+

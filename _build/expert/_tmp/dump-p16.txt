@@ -1,0 +1,382 @@
+
+##### [0] projectsagana_p16_376 | projectsagana | 4981b25854ddffadf0f302a1a4980ce6be1f57ed
+--- EN ---
+This is for September 2014. Nothing really to show off in here. I only took 14 trades total in this month. I avoided a lot of trades and only took the ones that I understood. I got into some trades that were losers but I exited them quickly and realize they weren't working. My biggest trades were the GBPUSD long and a GBPAUD short. They were swing trades. Most of my trades are swing trades because of my job. Now I want to incorporate day trades because I can. I can trade the half part of the New York Session.
+
+My goals were to be have a positive gain, every month. For the last two months I have reached my 5% goal. That might not seem a lot but for someone who has been losing even on a demo account. I made that goal because I only took trades that I understood and avoided a lot of trades. Some trades were easy to execute, had a gut feeling into them and they did work. Sometimes I saw live PA and hesitated and the set up just left my entry and ended up being "right". Emotions were a big part of me. Up to now that's something I have to work on.
+
+I have a new goal. Is to trade every single day. At least one trade a day. I am preparing my self to trade when I do this full time, because I won't have a steady income anymore with my current job. I have to train my mind into this mode. Like it's serious. Like if I didn't trade, I won't have anything to eat and nothing to pay my rent. I realize by doing this. I am gonna make a lot of mistakes. LOTS of THEM. And hopefully I can fail my self forward to success in this business.
+
+projectsagana wrote: This is August, I will post my PL charts every end of the month here.
+--- FA ---
+این برای سپتامبر 2014 است. واقعاً چیزی برای نشان دادن نیست. فقط 14 ترید در این ماه گرفتم. از خیلی تریدها دوری کردم و فقط آن‌هایی را گرفتم که می‌فهمیدم. وارد بعضی تریدها شدم که بازنده بودند اما سریع خارج شدم و فهمیدم کار نمی‌کنند. بزرگ‌ترین تریدهایم لانگ GBPUSD و شورت GBPAUD بودند. تریدهای سوئینگ بودند. بیشتر تریدهایم به‌خاطر شغلم ترید سوئینگ هستند. الان می‌خواهم تریدهای روزانه را هم بگنجانم چون می‌توانم. می‌توانم نیمهٔ دوم جلسه نیویورک را ترید کنم.
+
+اهدافم این بود که هر ماه سود مثبت داشته باشم. در دو ماه گذشته به هدف 5% خودم رسیدم. شاید زیاد به نظر نرسد اما برای کسی که حتی روی اکانت دمو هم در حال باختن بوده. آن هدف را گذاشتم چون فقط تریدهایی را گرفتم که می‌فهمیدم و از تریدهای زیادی دوری کردم. بعضی تریدها آسان اجرا می‌شدند، حس درونی به آن‌ها داشتم و کار کردند. گاهی PA زنده را می‌دیدم و مردد می‌شدم و ست‌آپ از ورودم می‌گذشت و در نهایت «درست» می‌شد. احساسات بخش بزرگی از من بود. تا الان چیزی است که باید رویش کار کنم.
+
+یک هدف جدید دارم. هر روز ترید کنم. حداقل یک ترید در روز. دارم خودم را برای وقتی که این کار را تمام‌وقت می‌کنم آماده می‌کنم، چون با شغل فعلی‌ام دیگر درآمد پایداری نخواهم داشت. باید ذهنم را به این حالت عادت بدهم. انگار جدی است. انگار اگر ترید نکنم چیزی برای خوردن نخواهم داشت و چیزی برای اجاره‌ام ندارم. با این کار متوجه می‌شوم که اشتباهات زیادی خواهم کرد. خیلی خیلی زیاد. و امیدوارم بتوانم با شکست در این کار خودم را به سمت موفقیت هل بدهم.
+
+projectsagana نوشت: این اوت است؛ نمودارهای PL ام را آخر هر ماه این‌جا پست می‌کنم.
+
+##### [1] projectsagana_p16_377 | projectsagana | d1f31219462f65f610b1ea0e3712c7a0eb8a8741
+--- EN ---
+sylntthunder wrote:
+
+projectsagana wrote: This what made me take this trade:
+
+And you're right it's reacting to that 4h s/r line, didn't spot that. A feedback to me that I got so much to learn to add to my awareness when looking at charts!
+
+Thanks SyT
+
+One thing that really helped me in the last couple of months was to make sure all of my trades had enough room for profit. I had to learn the hard way after suffering several losses that there is no need to force a trade when there is no free 'space' for price to move and at least reach a decent first target. Sure, sometimes price blows right through a zone but a good chunk of the time, orders have to get absorbed first. I would even say that space is the most important thing to look for in a possible trade. Observe some of the trades that the senior members have posted and look at how obvious a lot of their trades look. Most times you will notice, they look so appealing because they had enough room for profit. Also, scrub trough the PIE tread on FF and look at Red's charts. Pretty much all of his trades have clear room for profit and he usually takes off 2/3 of his position at the first major obstacle (usually an SR/ flip zone) and closes out the rest of the position at the source/ origin of the move.
+
+Also, here is an acronym I developed that has helped me focus on the important things to look for in a trade. The acronym is
+
+and the breakdown is as
+
+STTAR
+
+follows:
+
+Make sure there is room for profit and enough space to get decent a RRR
+
+SPACE: at your first target.
+
+Try to trade during the corresponding hot spots for your pair. In other
+
+TIMING: words, try to time your trades during the major market opens for the corresponding pair you are trading (i.e. trade the Yen pairs during the Asian session, trade the Euro pairs during the London session etc...) You will also notice that a lot of fake outs and direction changes form during session changes (opens and closes) and news events..
+
+The trade is either counter trend, trend following, or neutral (in the case
+
+TREND: of a ranging market). This matters a lot when it comes to how you want to manage the trade. In counter trend situations, I am much more willing to take full profit at my first target and be aggressive with my trailing stop. In trend following trades, I am open to holding on to my trades for more profit and I allow more lenience for pullbacks. I tend to treat ranging market trades like counter trend trades i.e. be aggressive with the stop trailing and profit taking.. Now of course the market is fractal and trends can be different on different TFs, but I tend to look at the HTFs for the ultimate gauge on what the trend is (4hr, daily, weekly....) But if you are a 1min scalper per say, then you could just use the 1hr charts as your trend curve etc...
+
+Is price moving in a parabolic, steady, or compressed manner
+
+APPROACH: toward your trade zone. If it is moving parabolic toward your zone of interest, then sometimes the momentum is unsustainable. Other times, the overzealous momentum of a parabolic move can blow right through zones. IMHO, It is important to try to use confirmation trades when price is moving toward your zone of interest in a parabolic fashion. The good thing about parabolic approaches, is that they give you ample space/ room for profit if the LTF confirmation gives you the signal to take the trade. If price is moving in a healthy, steady manner toward your zone and especially if it is building a base right before the zone (remember the importance of 'room for profit'), this is another time to use caution when looking for a trade because the PA shows signs of a healthy trend. I also tend to wait for LTF confirmation in these scenarios. If price is compresses into your zone, then you can usually put on a limit order and let her rip IMO.
+
+Did your zone cause a LTF engulf and in what manner did it do so. Was
+
+Reaction: it a fast powerful rejection, or a weak limp one. If the rejection was weak, perhaps price wants to go higher. Look our for reactions that occur before the bounds of the zone are reached. Institutions LOVE to use these as fake out levels to get cheap easy orders.
+
+If you think about it, as long as these 5 principles all check out, then you have a very good chance of having a profitable trade. They don't all have to check out for every trade, but the more of them that do, the better chance your trade has of winning ( I personally recommend that at least 3 out of the 5 principles check out in every trade with the idea of 'space' being the constant that has to be present every time).
+
+Sorry for the long explanations to my STTAR acronym as I'm sure you already know most of this information but I just wanted to show you something that has helped me quickly concentrate my mind on the important things to look for before taking a trade.
+
+Hope this helps, SyT
+
+Thank you so much SyT. I know I can learn a lot from this and it will make it beneficial!
+
+here's an executed live trade
+
+train everyday. Make mistakes everyday. and learn everyday.
+--- FA ---
+sylntthunder نوشت:
+
+projectsagana نوشت: این چیزی بود که مرا به گرفتن این ترید برانگیخت:
+
+و درست می‌گویی به آن خط s/r چهارساعته واکنش نشان می‌دهد؛ آن را ندیده بودم. بازخوردی به من که خیلی چیزها برای یادگیری هست تا به آگاهی‌ام وقتی چارت‌ها را نگاه می‌کنم اضافه کنم!
+
+ممنون SyT
+
+یک چیز که در چند ماه گذشته خیلی به من کمک کرد این بود که مطمئن شوم همهٔ تریدهایم فضای کافی برای سود دارند. مجبور شدم به سختی بعد از چند زیان یاد بگیرم که وقتی فضای آزادی برای حرکت قیمت و حداقل رسیدن به یک تارگت اول قابل‌قبول نیست نیازی به اجبار ترید نیست. البته گاهی قیمت مستقیم از ناحیه رد می‌شود اما بخش خوبی از مواقع سفارش‌ها اول باید جذب شوند. حتی می‌گویم فضا مهم‌ترین چیزی است که در یک ترید بالقوه باید دنبال شود. بعضی از تریدهایی که اعضای ارشد پست کرده‌اند را تماشا کن و ببین چقدر آشکار به نظر می‌رسند. بیشتر مواقع متوجه می‌شوی خیلی جذاب به نظر می‌رسند چون فضای کافی برای سود داشتند. همچنین، در ترد PIE در FF بگرد و چارت‌های Red را ببین. تقریباً همهٔ تریدهایش فضای واضحی برای سود دارند و معمولاً 2/3 موقعیتش را در اولین مانع اصلی (معمولاً ناحیهٔ SR/flip) برمی‌دارد و بقیه را در مبدا/منشأ حرکت می‌بندد.
+
+همچنین، این یک مخفف است که توسعه دادم و به من کمک کرده روی چیزهای مهم برای ترید تمرکز کنم. مخفف
+
+و تجزیه‌اش این‌طور است
+
+STTAR
+
+است:
+
+مطمئن شو فضای کافی برای سود هست و فضای کافی برای گرفتن RR قابل‌قبول
+
+SPACE: در تارگت اولت.
+
+سعی کن در نقاط داغ متناظر برای جفتت ترید کنی. به‌عبارت
+
+TIMING: دیگر، سعی کن تریدهایت را در زمان باز شدن‌های اصلی بازار برای جفت متناظری که ترید می‌کنی انجام دهی (یعنی جفت‌های ین را در جلسه آسیایی ترید کن، جفت‌های یورو را در جلسه لندن و غیره… ) همچنین متوجه می‌شوی فریب‌ها و تغییر جهت‌های زیادی در طول تغییر جلسه (باز و بسته شدن) و رویدادهای خبری شکل می‌گیرند…
+
+ترید یا خلاف‌روند است، یا روند‌پیرو، یا خنثی (در مورد
+
+TREND: بازار رنج). این هنگام مدیریت ترید خیلی مهم است. در موقعیت‌های خلاف‌روند، خیلی مایلم در تارگت اولم سود کامل بگیرم و با استاپ دنباله‌رو تهاجمی باشم. در تریدهای روند‌پیرو، حاضرم تریدهایم را برای سود بیشتر نگه دارم و برای برگشت‌ها صبر بیشتری دارم. تمایل دارم تریدهای بازار رنج را مثل تریدهای خلاف‌روند رفتار کنم یعنی با دنباله‌روی استاپ و برداشت سود تهاجمی باشم… البته بازار فراکتال است و روندها می‌توانند روی تایم‌چارچوب‌های مختلف متفاوت باشند، اما تمایل دارم HTF‌ها را برای سنجش نهایی روند (4 ساعت، روزانه، هفتگی… ) نگاه کنم. اما اگر مثلاً اسکالپر 1 دقیقه‌ای هستی، می‌توانی فقط چارت‌های 1 ساعت را به‌عنوان منحنی روندت استفاده کنی و غیره…
+
+آیا قیمت به‌سوی ناحیهٔ تریدت به شکل پارابولیک، یکنواخت یا فشرده
+
+APPROACH: حرکت می‌کند. اگر به‌صورت پارابولیک به ناحیهٔ علاقه‌ات حرکت می‌کند، گاهی شتاب غیرقابل‌تداوم است. گاهی دیگر، شتاب بیش‌ازحد مشتاقانهٔ حرکت پارابولیک می‌تواند مستقیم از نواحی رد شود. به نظر من، مهم است وقتی قیمت به‌صورت پارابولیک به ناحیهٔ علاقه‌ات حرکت می‌کند سعی کنی از تریدهای تأیید استفاده کنی. چیز خوب رویکردهای پارابولیک این است که اگر تأیید LTF به تو سیگنال گرفتن ترید را بدهد فضای/اتاق فراوانی برای سود می‌دهند. اگر قیمت به‌طور سالم و یکنواخت به‌سوی ناحیه‌ات حرکت می‌کند و به‌ویژه اگر درست قبل از ناحیه دارد پایه می‌سازد (اهمیت «فضای برای سود» را به یاد داشته باش)، این زمان دیگری برای احتیاط هنگام جستجوی ترید است چون PA نشانه‌های روند سالم را نشان می‌دهد. در این سناریوها هم تمایل دارم منتظر تأیید LTF بمانم. اگر قیمت به‌سوی ناحیه‌ات فشرده می‌شود، معمولاً می‌توانی یک سفارش لیمیت بگذاری و رهایش کنی به نظر من.
+
+آیا ناحیه‌ات باعث اینگالف LTF شد و به چه روشی. آیا
+
+Reaction: ریجکشن سریع و قدرتمند بود یا ضعیف و بی‌رمق؟ اگر ریجکشن ضعیف بود، شاید قیمت می‌خواهد بالاتر برود. مراقب واکنش‌هایی باش که قبل از رسیدن به مرزهای ناحیه اتفاق می‌افتند. نهادها عاشق استفاده از این‌ها به‌عنوان سطوح فریب برای گرفتن سفارش‌های ارزان و آسان‌اند.
+
+اگر فکر کنی، تا وقتی هر 5 اصل برقرار باشد، شانس بسیار خوبی برای داشتن ترید سودده داری. لازم نیست هر 5 تا برای هر ترید برقرار باشد، اما هرچه بیشتر برقرار باشند شانس برد تریدت بهتر است (من شخصاً توصیه می‌کنم حداقل 3 تا از 5 اصل در هر ترید برقرار باشد با این ایده که «فضا» ثابت است که باید هر بار حضور داشته باشد).
+
+ببخشید برای توضیحات طولانی دربارهٔ مخفف STTAR؛ مطمئنم بیشتر این اطلاعات را از قبل می‌دانی اما فقط می‌خواستم چیزی به تو نشان دهم که به من کمک کرده زود ذهنم را روی چیزهای مهم برای قبل از گرفتن ترید متمرکز کنم.
+
+امیدوارم کمک کند، SyT
+
+خیلی ممنون SyT. می‌دانم می‌توانم خیلی از این یاد بگیرم و سودمند خواهد بود!
+
+این یک ترید زندهٔ اجراشده است
+
+هر روز تمرین کن. هر روز اشتباه کن. و هر روز یاد بگیر.
+
+##### [2] projectsagana_p16_378 | projectsagana | d6514ee07bf68475131f820f976ea911863f3959
+--- EN ---
+two small scalp trades I took today.
+--- FA ---
+دو اسکالپ کوچک که امروز گرفتم.
+
+##### [3] projectsagana_p16_379 | naascott | e9dd689bd34efdb69a5ff89730b44d393faa255a
+--- EN ---
+Text book. Nice job project!
+--- FA ---
+کتاب درسی. کار قشنگی Project!
+
+##### [4] projectsagana_p16_380 | projectsagana | 1688b931ede1f1b0c024e7b687fb0d7fa0a341d9
+--- EN ---
+My little short scalp.
+
+location of price in HTF
+
+and the result
+--- FA ---
+اسکالپ کوچک من.
+
+موقعیت قیمت در HTF
+
+و نتیجه
+
+##### [5] projectsagana_p16_381 | projectsagana | 50c3116babfb070a2aa8ffbfae831dba1ed0a953
+--- EN ---
+My scalp of the day.
+
+My entry
+
+and my exit
+--- FA ---
+اسکالپ روز من.
+
+ورودم
+
+و خروجیم
+
+##### [6] projectsagana_p16_382 | projectsagana | 453b4cfef62f8aae83529985564349271b230f45
+--- EN ---
+Scalp of the day. QM long on gbpusd 1m tf
+--- FA ---
+اسکالپ روز. QM لانگ روی gbpusd تایم‌چارچوب 1m
+
+##### [7] projectsagana_p16_383 | projectsagana | 72771b37062c47c92f1848ce731fc60734a81dd0
+--- EN ---
+I love correlations. My scalp of the day: eurusd long
+--- FA ---
+همبستگی‌ها را دوست دارم. اسکالپ روز من: eurusd لانگ
+
+##### [8] projectsagana_p16_384 | projectsagana | 9a8e5b852d9b4e131a23db1b4caed3f032f144fb
+--- EN ---
+This is my scalp of the day. This trade was surprisingly fun and scary because it was so quick. The target was FTR, didn't get out until I saw price reacting to that FTR demand, and the usdchf reacting to a better looking FTR supply. I got out just in time.
+
+eurusd 1m short qm
+--- FA ---
+این اسکالپ روز من است. این ترید شگفت‌انگیزاً fun و ترسناک بود چون خیلی سریع بود. تارگت FTR بود؛ تا وقتی قیمت را در حال واکنش به آن تقاضای FTR ندیدم و usdchf را هم واکنش‌گرا به عرضهٔ FTR بهترنشد، خارج نشدم. درست به موقع خارج شدم.
+
+eurusd 1m شورت qm
+
+##### [9] projectsagana_p16_385 | projectsagana | 4d6faa996f05ed9e2ec0d97192832bfe80ce2b37
+--- EN ---
+studying again.... this set up includes the FTB to the FTR supply and PA that FTR supply is g
+
+oing to give a reaction
+--- FA ---
+دوباره در حال مطالعه… این ست‌آپ شامل FTB به عرضهٔ FTR و PA است
+
+که عرضهٔ FTR قرار است واکنش بدهد
+
+##### [10] projectsagana_p16_386 | projectsagana | f49e608557d327989008587dc71f5b2187623efe
+--- EN ---
+I decided that I want to master trading the 1m TF because I think they're best for income trading. Last month I was making more money than my current hourly rate being an employee for this medical company. I broke one of my cardinal rules in my plan. I was playing with improper risk management, I think some of you guys been there. So I took off a month off of trading and charts. I'm ready again, this time with rules set on paper. It's still developing but I have them written down on my notebook.
+
+One of the things I'm writing are my trigger points for entry and exits so I may trade objectively. I'm just basically looking for set ups so that I can recognize in the future and trade them confidently So here I spotted a set up:
+
+HTF 15m
+
+1m TF
+--- FA ---
+تصمیم گرفتم می‌خواهم تایم‌چارچوب 1m را مسلط شوم چون فکر می‌کنم برای ترید درآمدی بهترین‌اند. ماه گذشته بیشتر از نرخ ساعتی فعلی‌ام به‌عنوان کارمند این شرکت پزشکی پول درمی‌آوردم. یکی از قوانین اساسی پلنم را شکستم. با مدیریت ریسک نامناسب بازی می‌کنم، فکر می‌کنم بعضی‌هایتان آنجا بوده‌اید. پس یک ماه از ترید و چارت‌ها فاصله گرفتم. دوباره آماده‌ام، این بار با قوانین روی کاغذ. هنوز در حال توسعه است اما آن‌ها را در دفترچه‌ام نوشتم.
+
+یکی از چیزهایی که می‌نویسم نقاط ماشه برای ورود و خروج است تا بتوانم عینی ترید کنم. اساساً دنبال ست‌آپ‌هایی هستم تا بتوانم در آینده آن‌ها را تشخیص دهم و با اعتماد تریدشان کنم. پس اینجا یک ست‌آپ پیدا کردم:
+
+HTF 15m
+
+تایم‌چارچوب 1m
+
+##### [11] projectsagana_p16_387 | projectsagana | 5600c3bb5502b8172201a6262ac9190ba5539532
+--- EN ---
+I spotted this just right now, didn't get it because I was calculating proper position size
+
+Bullish PA at 15m Demand
+
+One of my written rule: No Engulf = No Trade
+--- FA ---
+این را همین الان دیدم، نگرفتم چون در حال محاسبهٔ اندازهٔ موقعیت مناسب بودم
+
+PA صعودی در تقاضای 15m
+
+یکی از قوانین نوشته‌شده‌ام: بدون اینگالف = بدون ترید
+
+##### [12] projectsagana_p16_388 | projectsagana | 882f67434d0e7b97a3be6ebe69d85b57e93d5730
+--- EN ---
+Strategy: Look for PA inside DP levels for reaction No Trade Rule: (still developing) 1. No Engulf = No Trade 2. No PA = No Trade
+--- FA ---
+استراتژی: دنبال PA داخل سطوح DP برای واکنش باش. قانون بدون ترید: (هنوز در حال توسعه) 1. بدون اینگالف تریدی در کار نیست 2. بدون PA هم چیزی برای ترید نیست
+
+##### [13] projectsagana_p16_389 | projectsagana | fd4e7f9db9a9be235a06f30ae6396741261240b8
+--- EN ---
+I saved money on this one, by taking the PO on this FL level
+
+This 15m FL looks like a significant level. Source of engulf and very strong movement away from the flag.
+
+However there was no PA reaction in the 1m TF that signals this FL is going to give a bounce.
+
+Now I will watch for those PA on top
+--- FA ---
+روی این یکی پول پس‌انداز کردم، با گذاشتن PO روی این سطح FL
+
+این FL تایم‌چارچوب 15m مثل سطح مهمی به نظر می‌رسد. مبدا اینگالف و حرکت بسیار قوی دور از پرچم.
+
+با این حال در تایم‌چارچوب 1m هیچ واکنش PA نبود که نشان دهد این FL قرار است برگشت بدهد.
+
+الان آن PA را در بالا زیر نظر می‌گیرم
+
+##### [14] projectsagana_p16_390 | projectsagana | 89c0c614a1318a715b560a3950161abbe52a6de9
+--- EN ---
+I just want to share these beautiful set ups and the correlation between USDCHF and EURUSD
+--- FA ---
+فقط می‌خواهم این ست‌آپ‌های زیبا و همبستگی بین USDCHF و EURUSD را به اشتراک بگذارم
+
+##### [15] projectsagana_p16_391 | projectsagana | 063b12cdc4f91fb48361773c95f653b0a7ebb96d
+--- EN ---
+I keep spotting these Can Can set ups and looking for ways to enter confidently and write in my playbook.
+--- FA ---
+مدام این ست‌آپ‌های Can Can را می‌بینم و دنبال راه‌هایی برای ورود با اعتماد و نوشتن در کتابچهٔ تریدم هستم.
+
+##### [16] projectsagana_p16_392 | projectsagana | b7b38e72b0c0490d00e90ff11ae0db5d454a7a96
+--- EN ---
+Look for Reaction PA at DP lvls
+
+the set up: bull flag after compression down to DP demand and retrace back QM lvl
+
+why the FTR Demand was important because it was the DP Demand lvl that engulfed an opposite DP Supply lvl
+--- FA ---
+دنبال PA واکنش روی سطوح DP باش
+
+ست‌آپ: پرچم صعودی بعد از فشردگی به تقاضای DP و برگشت به سطح QM
+
+چرا تقاضای FTR مهم بود چون همان سطح تقاضای DP بود که عرضهٔ DP مخالف را اینگالف کرد
+
+##### [17] projectsagana_p16_393 | projectsagana | f447c2a0b0415fa1728c65135788dac10587b977
+--- EN ---
+I noticed many times that FL lvls can produce multiple reaction And look where the 2TB bounced from
+--- FA ---
+متوجه شدم که سطوح FL می‌توانند چندین واکنش تولید کنند و ببین 2TB از کجا برگشت
+
+##### [18] projectsagana_p16_394 | Kovalenko | 1db3ac365e8a342fbb51dbd50b90bece5b623e23
+--- EN ---
+I call this- mandatory second wave.
+--- FA ---
+به این می‌گویم- موج دوم اجباری.
+
+##### [19] projectsagana_p16_395 | projectsagana | 79a9537f7d58b3b6b273b6dfa058d3857022d38b
+--- EN ---
+I entered FL lvl, the DP lvl that engulfed CPAZ into another PAZ.
+
+Most of the trades I take produce more than 5:1 RR or even 8:1 RR or +10:1 RR if I left them be. The rule that I have written down is that day/scalp trades have to be 2:1 RR. So I automatically take them at 2:1 RR. Now I'm grateful that I'm able to take those trades and end up in profit, but I see more potential in what I can make.
+
+How would I know if these trades would produce more than 2:1 or less so that I can exit at BE at the least? I don't want to put a trade and just "hope" that it will keep on going. Do I look at a possible entry in the opposite direction?
+
+like this
+--- FA ---
+وارد سطح FL شدم، سطح DP که CPAZ را به PAZ دیگری اینگالف کرد.
+
+بیشتر تریدهایی که می‌گیرم بیش از 5:1 RR یا حتی 8:1 RR یا +10:1 RR تولید می‌کنند اگر بگذارمشان. قانونی که نوشتم این است که تریدهای روزانه/اسکالپ باید 2:1 RR باشند. پس خودکار در 2:1 RR سودشان را می‌گیرم. الان سپاسگزارم که می‌توانم آن تریدها را بگیرم و به سود برسم، اما پتانسیل بیشتری در چیزی که می‌توانم بسازم می‌بینم.
+
+چطور می‌دانم این تریدها بیش از 2:1 تولید می‌کنند یا کمتر تا حداقل در BE خارج شوم؟ نمی‌خواهم تریدی بگذارم و فقط «امیدوار» باشم ادامه می‌دهد. آیا به ورود بالقوه در جهت مخالف نگاه می‌کنم؟
+
+مثل این
+
+##### [20] projectsagana_p16_396 | projectsagana | 0422ccd1f221904407f26f8b88ddeca7596605d9
+--- EN ---
+Now this trade was 8:1 RR, to be honest I really didn't know if price was going to get to that FTR above. I guess I am lucky because I was in the bathroom when this was happening and exited right when it reached the FTR.
+
+Setting appropriate targets is a must for me to maximize my trades. This is my next focus of study now.
+--- FA ---
+این ترید 8:1 RR بود، راستش واقعاً نمی‌دانستم آیا قیمت به آن FTR بالا می‌رسد یا نه. فکر می‌کنم شانس آوردم چون وقتی این اتفاق می‌افتاد در دستشویی بودم و درست وقتی به FTR رسید خارج شدم.
+
+گذاشتن تارگت‌های مناسب برای من برای بیشینه‌سازی تریدهایم ضروری است. این تمرکز بعدی مطالعه‌ام است.
+
+##### [21] projectsagana_p16_397 | projectsagana | 0e26b772ee36d7638838c6d420e558d4a25bcbcc
+--- EN ---
+I had a PO on this level, but deleted it. I heard a poker player said before that "scared money is lost money." My goal is to trade freely as in to execute with out hesitation.
+
+I notice this set up so many times. Where price would bounce from the last FTR level inside a compressed of stacked FTRs and the last FTR lvl is clearly distinctly separated by a big giant pole that would represent the another PAZ.
+--- FA ---
+روی این سطح PO داشتم، اما حذفش کردم. از یک بازیکن پوکر شنیدم که «پول ترسیده پول باخته است.» هدفم این است که آزادانه ترید کنم یعنی بدون تردید اجرا کنم.
+
+این ست‌آپ را بارها می‌بینم. جایی که قیمت از آخرین سطح FTR داخل فشردگی FTR‌های انباشته برمی‌گردد و آخرین سطح FTR به‌وضوح با یک پایهٔ غول‌پیکر جدا شده که نشان‌دهندهٔ PAZ دیگری است.
+
+##### [22] projectsagana_p16_398 | projectsagana | 4604ba8514b0c8f15b7bc413b2be9b3682b5906c
+--- EN ---
+here's for today:
+
+HTF 15m DP lvl
+
+LTF 1m entry at DP lvl after the 3D approach
+--- FA ---
+این برای امروز:
+
+سطح DP تایم‌چارچوب 15m
+
+ورود LTF تایم‌چارچوب 1m در سطح DP بعد از رویکرد 3D
+
+##### [23] projectsagana_p16_399 | projectsagana | 0ce002b20ff58e4c59decada3aa06a29ea579623
+--- EN ---
+So this 15m FTR SUPPLY that EURUSD produced turned out to be a can can set up and there was many different ways to take advantage of the set up.
+
+Price compressed back to the 15m FTR SUPPLY for the second time.
+
+I've seen this type of set up before. Where price would 3-D to supply and would produce a reaction, when price returned to the supply again, it would bounce on the second drive as a QM lvl of the 3-D set up. I learned this from IF from one of his trade examples back then, specifically the AUDUSD trade a while ago.
+
+and this one is a similar set up I found today.
+
+This is the HTF 15m, showing the can can set up.
+
+and take a look at the 2TB to the cap and the reaction.
+
+It reacted to the QM lvl of the second drive of the 3-D set up. And another trading opporunity when a bear flag (FL supply) is created after the seemingly uptrend but compressed price action and the entry at the return.
+
+I didn't catch any of those today because I woke up extremely late, I had work until 12 am last night. I'm training my body to get used to 6.5 hrs to 7 hrs sleep a night. This is my first trade of the day. It's a simple set up. FL supply is engulfed, with that another FL is created and entry at FTB to the new FL, my target was the opposite QM lvl and an FTR lvl.
+
+Oh yeah, to help me with my trading I've also gotten rid of the terminal window temporarily on MT4, because when I get into a live trade I used to get distracted by the potential cash gained or loss. By releasing the need to see how much money I've made or loss, I can focus solely on the charts and the procedures of trading properly.
+--- FA ---
+پس این عرضهٔ FTR تایم‌چارچوب 15m که EURUSD تولید کرد به‌عنوان ست‌آپ can can بیرون آمد و راه‌های متفاوتی برای بهره بردن از ست‌آپ بود.
+
+قیمت بار دوم به عرضهٔ FTR تایم‌چارچوب 15m فشرده برگشت.
+
+این نوع ست‌آپ را قبلاً دیده‌ام. جایی که قیمت به عرضه 3-D می‌کرد و واکنش تولید می‌کرد؛ وقتی قیمت دوباره به عرضه برگشت، در drive دوم به‌عنوان سطح QM ست‌آپ 3-D برمی‌گشت. این را از IF از یکی از مثال‌های تریدمان آن موقع یاد گرفتم، به‌ویژه ترید AUDUSD مدتی پیش.
+
+و این هم ست‌آپ مشابهی است که امروز پیدا کردم.
+
+این HTF 15m است که ست‌آپ can can را نشان می‌دهد.
+
+و به 2TB به سقف و واکنش نگاه کن.
+
+به سطح QM drive دوم ست‌آپ 3-D واکنش نشان داد. و یک فرصت ترید دیگر وقتی پرچم نزولی (عرضهٔ FL) بعد از رفتار قیمت به‌ظاهر صعودی اما فشرده ساخته می‌شود و ورود در برگشت.
+
+هیچ‌کدام را امروز نگرفتم چون خیلی دیر بیدار شدم؛ دیشب تا 12 شب کار داشتم. دارم بدنم را تمرین می‌دهم که به 6.5 تا 7 ساعت خواب در شب عادت کند. این اولین ترید روز من است. ست‌آپ ساده‌ای است. عرضهٔ FL اینگالف می‌شود، با آن FL دیگری ساخته می‌شود و ورود در FTB به FL جدید؛ تارگتم سطح QM مخالف و یک سطح FTR بود.
+
+آه بله، برای کمک به تریدم همچنین پنجرهٔ ترمینال را موقتاً در MT4 حذف کردم، چون وقتی وارد ترید زنده می‌شدم توسط سود یا زیان بالقوه حواسم پرت می‌شد. با رهایی از نیاز به دیدن اینکه چقدر پول درآورده یا باخته‌ام، می‌توانم فقط روی چارت‌ها و رویه‌های ترید درست تمرکز کنم.
+
+##### [24] projectsagana_p16_400 | projectsagana | c1dd2935a24754764557a5df9f47d986734586f4
+--- EN ---
+Here's another one, the compressed PA to the DP supply made me feel more confident that this trade was going to work
+--- FA ---
+این یکی دیگر است؛ PA فشرده به عرضهٔ DP به من اعتماد بیشتری داد که این ترید جواب می‌دهد

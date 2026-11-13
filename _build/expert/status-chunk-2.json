@@ -1,0 +1,118 @@
+{
+ "3drive": {
+  "pages": 393,
+  "checked": 52,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T01:34:21"
+ },
+ "engulf": {
+  "pages": 286,
+  "checked": 233,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T01:34:41"
+ },
+ "jiri": {
+  "pages": 349,
+  "checked": 143,
+  "missing": 3,
+  "examples": [
+   {
+    "file": "Jiri_s NewWay - Page 9 - RTM Community.pdf",
+    "page": 26,
+    "y": 72.9,
+    "text": "now the situation is a bit diffrent :) but its truth iam still"
+   },
+   {
+    "file": "Jiri_s NewWay - Page 9 - RTM Community.pdf",
+    "page": 26,
+    "y": 93.1,
+    "text": "risking a lot because of the small account"
+   },
+   {
+    "file": "Jiri_s NewWay - Page 9 - RTM Community.pdf",
+    "page": 26,
+    "y": 113.4,
+    "text": "iam actually trading with no proper MM until i have 20-30k"
+   }
+  ],
+  "testedAt": "2026-11-12T01:34:58"
+ },
+ "sunnytrader": {
+  "pages": 526,
+  "checked": 195,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T01:35:25"
+ },
+ "mm": {
+  "pages": 587,
+  "checked": 166,
+  "missing": 2,
+  "examples": [
+   {
+    "file": "MM_s Journal - Page 1 - RTM Community.pdf",
+    "page": 8,
+    "y": 107.4,
+    "text": "-If your going through hell, keep going-"
+   },
+   {
+    "file": "MM_s Journal - Page 8 - RTM Community.pdf",
+    "page": 18,
+    "y": 93.1,
+    "text": "at around current level as"
+   }
+  ],
+  "testedAt": "2026-11-12T01:36:07"
+ },
+ "amit": {
+  "pages": 732,
+  "checked": 185,
+  "missing": 1,
+  "examples": [
+   {
+    "file": "Amit_s Journal and Trading Practice - Page 17 - RTM Community.pdf",
+    "page": 33,
+    "y": 81.9,
+    "text": "Amit's Journal and Trading Practice"
+   }
+  ],
+  "testedAt": "2026-11-12T01:36:38"
+ },
+ "smimon": {
+  "pages": 1210,
+  "checked": 966,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T01:37:53"
+ },
+ "doctorpatient": {
+  "pages": 1130,
+  "checked": 1337,
+  "missing": 1,
+  "examples": [
+   {
+    "file": "The Doctor_s patients - Page 31 - RTM Community.pdf",
+    "page": 4,
+    "y": 100.6,
+    "text": "catshare.net/FDUdJuzjKbPr9UbI/The Doctor_noteRTM6.1.pdf"
+   }
+  ],
+  "testedAt": "2026-11-12T01:38:27"
+ },
+ "gembel": {
+  "pages": 2027,
+  "checked": 279,
+  "missing": 1,
+  "examples": [
+   {
+    "file": "gembel journal trading - Page 31 - RTM Community.pdf",
+    "page": 12,
+    "y": 100.6,
+    "text": "The future of price is already written in the past"
+   }
+  ],
+  "testedAt": "2026-11-12T01:41:03"
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "capnp": {
+  "pages": 188,
+  "checked": 130,
+  "missing": 1,
+  "examples": [
+   {
+    "file": "Cap_n P_s - S_D Momo and Pointy Places - Page 5 - RTM Community.pdf",
+    "page": 35,
+    "y": 93.9,
+    "text": "Cap'n P's - S&D Momo and Pointy Places"
+   }
+  ],
+  "testedAt": "2026-11-12T02:18:32"
+ },
+ "jiri": {
+  "pages": 349,
+  "checked": 143,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T02:18:45"
+ },
+ "frosty": {
+  "pages": 352,
+  "checked": 510,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T02:19:18"
+ },
+ "mm": {
+  "pages": 587,
+  "checked": 166,
+  "missing": 1,
+  "examples": [
+   {
+    "file": "MM_s Journal - Page 1 - RTM Community.pdf",
+    "page": 8,
+    "y": 107.4,
+    "text": "-If your going through hell, keep going-"
+   }
+  ],
+  "testedAt": "2026-11-12T02:19:50"
+ },
+ "kruger": {
+  "pages": 661,
+  "checked": 150,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T02:20:13"
+ },
+ "flaglimits": {
+  "pages": 1094,
+  "checked": 632,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T02:21:34"
+ },
+ "supplydemand": {
+  "pages": 2006,
+  "checked": 681,
+  "missing": 0,
+  "examples": [],
+  "testedAt": "2026-11-12T02:22:26"
+ }
+}

@@ -1,0 +1,251 @@
+### flaglimits_p21_501
+EN: Nice work Alex, you seem to have the idea. Can you explain the one I have marked below on your chart?
+FA: کارت خوب بود Alex، انگار ایده را گرفته‌ای. می‌توانی آن یکی را که پایین روی چارتت علامت زده‌ام توضیح بدهی؟
+
+### flaglimits_p21_502
+EN: I'm still having trouble wrapping my brain around some of our lingo. Please see the chart below with my questions.
+
+Based on the abbreviations section, I understand FL to stand for Flag Limits, and based on the Flag Limits section, I understand them to be the edges of a Flag. I think an FTR is the base that happens after an Engulf in a DBD or RBR. If that is all true, then: Flag = the Base of RBR or DBD before an ENG or where no ENG occurs. FTR = the Base of either Rally-ENG-Base- Rally or Drop-ENG- Base-Drop (see pic.)
+
+Is all that right? And a FTB is the first return of price to a point of interest, be it Supply, Demand, an FTR, a Flag, etc. I also had a couple questions from Alex's chart below.
+
+I'm hugely appreciative of your time and input!
+FA: هنوز ذهنم بعضی از اصطلاحات خودمان را درست جا نمی‌اندازد. لطفاً چارت پایین را با سؤال‌هایم ببین.
+
+بر اساس بخش اختصارات متوجه شدم که FL مخفف Flag Limits است و بر اساس همان بخش، آن‌ها را لبه‌های یک FL می‌دانم. فکر می‌کنم FTR همان پایه‌ای است که بعد از یک اینگالف در DBD یا RBR رخ می‌دهد. اگر همهٔ این‌ها درست باشد، پس: FL = پایهٔ RBR یا DBD پیش از یک ENG یا جایی که هیچ ENG رخ نمی‌دهد. FTR = پایهٔ Rally-ENG-Base-Rally یا Drop-ENG-Base-Drop (تصویر را ببین.)
+
+آیا همهٔ این‌ها درست است؟ و FTB اولین بازگشت قیمت به یک نقطهٔ موردنظر است، چه عرضه باشد، چه تقاضا، چه یک FTR، چه یک FL و غیره. از چارت Alex در پایین هم چند سؤال داشتم.
+
+از وقتی که می‌گذاری و از ورودی‌هایت بی‌نهایت ممنونم!
+
+### flaglimits_p21_503
+EN: I viewed it as a movement up and return back. But it`s not FTR, I forgot to delete it. Sorry.
+FA: من آن را یک حرکت به بالا و بازگشت می‌دیدم. اما FTR نیست؛ یادم رفت پاکش کنم. ببخشید.
+
+### flaglimits_p21_504
+EN: No need to be sorry Alex! I'm not saying there is anything wrong with what you've done as that does look like a key level. Now we need to find out why! Has anybody got any thoughts on it?
+
+Right or wrong posting doesn't matter when we are learning. It's important to post our thinking so that others can interact and put forward their thinking, as that way everybody learns. We can be harbouring thoughts or concepts about the charts that are misleading us and holding us back, so we need to get them out in the open to be corrected.
+FA: لازم نیست عذرخواهی کنی Alex! نمی‌گویم کاری که کردی اشکالی دارد، چون آن واقعاً شبیه یک سطح کلیدی است. حالا باید بفهمیم چرا! کسی نظری دربارهٔ آن دارد؟
+
+درست یا غلط بودن پست وقتی در حال یادگیری هستیم مهم نیست. مهم این است که فکرمان را به اشتراک بگذاریم تا بقیه بتوانند تعامل کنند و فکرشان را مطرح کنند؛ این‌طور همه یاد می‌گیرند. ممکن است فکرها یا مفاهیمی دربارهٔ چارت‌ها در سرمان داشته باشیم که گمراه‌مان می‌کند و جلوی پیشرفتمان را می‌گیرد، پس باید آن‌ها را بیرون بریزیم تا اصلاح شوند.
+
+### flaglimits_p21_505
+EN: Practice
+FA: تمرین
+
+### flaglimits_p21_506
+EN: polymorph wrote: I'm still having trouble wrapping my brain around some of our lingo. Please see the chart below with my questions.
+
+Based on the abbreviations section, I understand FL to stand for Flag Limits, and based on the Flag Limits section, I understand them to be the edges of a Flag. I think an FTR is the base that happens after an Engulf in a DBD or RBR. If that is all true, then: Flag = the Base of RBR or DBD before an ENG or where no ENG occurs. FTR = the Base of either Rally-ENG-Base- Rally or Drop-ENG- Base-Drop (see pic.)
+
+Is all that right? And a FTB is the rst return of price to a point of interest, be it Supply, Demand, an FTR, a Flag, etc. I also had a couple questions from Alex's chart below.
+
+I'm hugely appreciative of your time and input!
+
+This is the where I think I'm confused at. I know that the flag is the accumulation/distribution period, when price is moving sideways. But would the Flag Limit itself be the source of the engulf?
+FA: polymorph نوشت: هنوز ذهنم بعضی از اصطلاحات خودمان را درست جا نمی‌اندازد. لطفاً چارت پایین را با سؤال‌هایم ببین.
+
+بر اساس بخش اختصارات متوجه شدم که FL مخفف Flag Limits است و بر اساس همان بخش، آن‌ها را لبه‌های یک FL می‌دانم. فکر می‌کنم FTR همان پایه‌ای است که بعد از یک اینگالف در DBD یا RBR رخ می‌دهد. اگر همهٔ این‌ها درست باشد، پس: FL = پایهٔ RBR یا DBD پیش از یک ENG یا جایی که هیچ ENG رخ نمی‌دهد. FTR = پایهٔ Rally-ENG-Base-Rally یا Drop-ENG-Base-Drop (تصویر را ببین.)
+
+آیا همهٔ این‌ها درست است؟ و FTB اولین بازگشت قیمت به یک نقطهٔ موردنظر است، چه عرضه باشد، چه تقاضا، چه یک FTR، چه یک FL و غیره. از چارت Alex در پایین هم چند سؤال داشتم.
+
+از وقتی که می‌گذاری و از ورودی‌هایت بی‌نهایت ممنونم!
+
+اینجاست که فکر می‌کنم گیج شده‌ام. می‌دانم که FL دورهٔ انباشت/توزیع است، زمانی که قیمت در جا می‌زند. اما آیا خودِ FL می‌تواند منبع اینگالف باشد؟
+
+### flaglimits_p21_507
+EN: Experiorz wrote: Practice
+
+I'm still learning as well, but these charts look amazing. These are good charts! Nice work. I just noticed something in your last chart.
+FA: Experiorz نوشت: تمرین
+
+من هم هنوز در حال یادگیری‌ام، اما این چارت‌ها فوق‌العاده به نظر می‌رسند. چارت‌های خوبی هستند! کارت خوب بود. فقط یک چیزی در آخرین چارتت دیدم.
+
+### flaglimits_p21_508
+EN: I'm with you Josh, not really sure. I hoped my pic of the NU would spark some discussion and clarification but hasn't really yet. I clearly see a flag of sideways movement and thought there would be limits (FL) on each side of that as I labeled it and as the line graph shows in the FL section of Marketpedia.
+
+What I really don't get is regardless of what we call them (FL, FTR, Cap, etc.), what difference does it make? Do we trade them differently? It seems like the first time that price returns to any of them they are traded the same way. If that's true, do we need different names for them? If that's not true, what is the difference? In case there's any confusion, that's not an attack on the material, names, etc., just the truth: my brain has yet to clearly comprehend what those things are or the differences between them.
+
+Someone here (DrSwing or Les_Paul, I think) suggested practicing what you know and trusting more would come (or some similar sentiment), so that's what I'm doing. I don't know the names but the Source of the Engulf (wanna call it SOE in the meantime?) seems to be a big deal. Tell me what you (or anyone else) think of the chart below - it's the same NU M15 that I posted yesterday and you commented on today. It is updated using my current understanding: the zone where price starts its move to ENG a high of resistance, low of support, or zone of supply or demand is a big deal and can be traded the FTB and maybe on subsequent returns too. I also posted in my journalusing the same methodology on an AU D1 chart. I invite all to comment, correct, and clarify both here and there. As always, thanks in advance!
+FA: با تو موافقم Josh، واقعاً مطمئن نیستم. امید داشتم تصویرم از NU بحث و روشنگری به راه بیندازد، اما هنوز نشده. من به‌وضوح یک FL با حرکت افقی می‌بینم و فکر می‌کردم همان‌طور که علامت زده‌ام و همان‌طور که نمودار خطی در بخش FL در Marketpedia نشان می‌دهد، در هر طرفش لبه‌هایی (FL) وجود دارد.
+
+چیزی که واقعاً نمی‌فهمم این است که فارغ از اسمی که رویشان می‌گذاریم (FL، FTR، Cap و غیره)، چه تفاوتی ایجاد می‌کند؟ آیا با آن‌ها متفاوت معامله می‌کنیم؟ به نظر می‌رسد اولین باری که قیمت به هر کدامشان برمی‌گردد، همه یک‌جور معامله می‌شوند. اگر این‌طور است، آیا به اسم‌های متفاوت نیاز داریم؟ اگر این‌طور نیست، تفاوت چیست؟ اگر سوءتفاهمی پیش نیاید، این حمله به مطالب یا اسم‌ها و غیره نیست، فقط حقیقت است: ذهن من هنوز روشن نفهمیده آن چیزها چه هستند یا تفاوتشان چیست.
+
+یکی از بچه‌ها اینجا (فکر می‌کنم DrSwing یا Les_Paul) پیشنهاد کرد آنچه را می‌دانی تمرین کن و باور داشته باش که بیشترش خواهد آمد (یا حسی شبیه این)، پس دارم همین کار را می‌کنم. اسم‌ها را نمی‌دانم، اما منبع اینگالف (فعلاً SOE صدایش کنیم؟) چیز مهمی به نظر می‌رسد. بگو تو (یا هر کس دیگر) دربارهٔ چارت پایین چه فکر می‌کنی — همان NU M15 است که دیروز گذاشتم و امروز نظرش را دادی. با فهم فعلی‌ام به‌روزش کردم: ناحیه‌ای که قیمت حرکتش را برای اینگالف یک سقف مقاومت، کف حمایت، یا ناحیهٔ عرضه یا تقاضا از آن شروع می‌کند چیز مهمی است و می‌شود در FTB و شاید در بازگشت‌های بعدی هم معامله‌اش کرد. در ژورنالم هم با همین روش یک چارت AU D1 گذاشتم. از همه دعوت می‌کنم هم اینجا و هم آنجا نظر بدهند، اصلاح کنند و روشن کنند. مثل همیشه، از قبل ممنون!
+
+### flaglimits_p21_509
+EN: Poly,
+
+I'm under the impression that flags are just middle supply and demand zones that typically helps get price to true demand and supply...if price is moving from supply to demand, flags should offer an opportunity to enter a continuation trade until price reaches pure supply and demand Or the origin of the move....i could be wrong because like you I'm still new on this topic
+FA: Poly،
+
+من این‌طور برداشت کرده‌ام که FLها فقط نواحی میانی عرضه و تقاضا هستند که معمولاً کمک می‌کنند قیمت به عرضه و تقاضای واقعی برسد... اگر قیمت از عرضه به سمت تقاضا حرکت می‌کند، FLها باید فرصتی برای ورود به یک معاملهٔ ادامه‌دهنده بدهند تا قیمت به عرضه و تقاضای خالص یا مبدأ حرکت برسد.... ممکن است اشتباه کنم، چون مثل تو در این موضوع تازه‌کارم
+
+### flaglimits_p21_510
+EN: This is what I think
+FA: من این‌طور فکر می‌کنم
+
+### flaglimits_p21_511
+EN: josh1125 wrote: Poly,
+
+I'm under the impression that flags are just middle supply and demand zones that typically helps get price to true demand and supply...if price is moving from supply to demand, flags should offer an opportunity to enter a continuation trade until price reaches pure supply and demand Or the origin of the move....i could be wrong because like you I'm still new on this topic
+
+yepz, FTB to FLs is a good way to follow price and get in on a continuation in the LTF as price is moving towards an HTF target. you can follow it like that until there is a reversal, FLs will tell you there is one. also don't forget that SD in itself is nothing more than reactions to other FLs
+
+clearly explained in the SD/SR Markepedia articles
+FA: josh1125 نوشت: Poly،
+
+من این‌طور برداشت کرده‌ام که FLها فقط نواحی میانی عرضه و تقاضا هستند که معمولاً کمک می‌کنند قیمت به عرضه و تقاضای واقعی برسد... اگر قیمت از عرضه به سمت تقاضا حرکت می‌کند، FLها باید فرصتی برای ورود به یک معاملهٔ ادامه‌دهنده بدهند تا قیمت به عرضه و تقاضای خالص یا مبدأ حرکت برسد.... ممکن است اشتباه کنم، چون مثل تو در این موضوع تازه‌کارم
+
+بله، FTB به FLها راه خوبی است برای دنبال کردن قیمت و سوار شدن بر یک حرکت ادامه‌دهنده در تایم‌فریم پایین‌تر، وقتی قیمت به سمت یک تارگت در تایم‌فریم بالاتر می‌رود. می‌توانی همین‌طور دنبالش کنی تا یک برگشت رخ دهد؛ FLها به تو می‌گویند که برگشتی هست. یادت هم نرود که S/D خودش چیزی جز واکنش به FLهای دیگر نیست
+
+که در مقاله‌های SD/SR در Markepedia روشن توضیح داده شده
+
+### flaglimits_p21_512
+EN: Harry wrote:
+
+josh1125 wrote: Poly,
+
+I'm under the impression that flags are just middle supply and demand zones that typically helps get price to true demand and supply...if price is moving from supply to demand, flags should offer an opportunity to enter a continuation trade until price reaches pure supply and demand Or the origin of the move....i could be wrong because like you I'm still new on this topic
+
+yepz, FTB to FLs is a good way to follow price and get in on a continuation in the LTF as price is moving towards an HTF target. you can follow it like that until there is a reversal, FLs will tell you there is one. also don't forget that SD in itself is nothing more than reactions to other FLs clearly explained in the SD/SR Markepedia articles
+
+Thanks Harry that's exactly what I was thinking. I can't remember where I read it, but in one of the articles If stated that we could use FLs to sometimes see where a S or D zone will form. An issue I was having was I was using one tf to determine to purpose of FLs. Below I've posted two charts, and it shows price is moving away from higher tf supply. The FL marked is giving us the opportunity to join the downward movement as we head towards the higher tf swap zone (old supply new demand).
+
+Cad/jpy Weekly
+
+Cad/jpy Daily
+FA: Harry نوشت:
+
+josh1125 نوشت: Poly،
+
+من این‌طور برداشت کرده‌ام که FLها فقط نواحی میانی عرضه و تقاضا هستند که معمولاً کمک می‌کنند قیمت به عرضه و تقاضای واقعی برسد... اگر قیمت از عرضه به سمت تقاضا حرکت می‌کند، FLها باید فرصتی برای ورود به یک معاملهٔ ادامه‌دهنده بدهند تا قیمت به عرضه و تقاضای خالص یا مبدأ حرکت برسد.... ممکن است اشتباه کنم، چون مثل تو در این موضوع تازه‌کارم
+
+بله، FTB به FLها راه خوبی است برای دنبال کردن قیمت و سوار شدن بر یک حرکت ادامه‌دهنده در تایم‌فریم پایین‌تر، وقتی قیمت به سمت یک تارگت در تایم‌فریم بالاتر می‌رود. می‌توانی همین‌طور دنبالش کنی تا یک برگشت رخ دهد؛ FLها به تو می‌گویند که برگشتی هست. یادت هم نرود که S/D خودش چیزی جز واکنش به FLهای دیگر نیست که در مقاله‌های SD/SR در Markepedia روشن توضیح داده شده
+
+ممنون Harry، دقیقاً همان چیزی است که خودم فکر می‌کردم. یادم نیست کجا خواندم، اما در یکی از مقاله‌ها IF گفته بود که می‌توانیم از FLها استفاده کنیم تا بعضی وقت‌ها ببینیم یک ناحیهٔ عرضه یا تقاضا کجا شکل می‌گیرد. مشکلی که داشتم این بود که از یک تایم‌فریم برای تعیین کارکرد FLها استفاده می‌کردم. پایین دو چارت گذاشته‌ام و نشان می‌دهد قیمت از عرضهٔ تایم‌فریم بالاتر فاصله می‌گیرد. FL علامت‌خورده به ما فرصت می‌دهد به حرکت نزولی بپیوندیم، در حالی که به سمت ناحیهٔ سوآپ تایم‌فریم بالاتر می‌رویم (عرضهٔ قدیم، تقاضای جدید).
+
+Cad/jpy هفتگی
+
+Cad/jpy دیلی
+
+### flaglimits_p21_513
+EN: Trying my hand at FL's. Currently reading the FL Post ( Thanks Harry ) and looking at numerous journals.
+
+So here goes::
+FA: دارم روی FLها دستی می‌آزمایم. الان پست FL را می‌خوانم (ممنون Harry) و کلی ژورنال را نگاه می‌کنم.
+
+خب، بفرمایید::
+
+### flaglimits_p21_514
+EN: Hey Ezio, good luck on your FL charting/study! I got to run and can't markup your charts but wanted to say after looking at your charts to be picky marking the limits of the Flag (dig to the lowest timeframe if necessary and possible), look left and identify what the Flag reacted to (Support/Resistance, another FLAG, Sup/Dem, etc) and pay attention to the ones that work and those that don't.
+
+Enjoy!
+FA: سلام Ezio، در چارت‌خوانی و مطالعهٔ FL موفق باشی! باید بروم و نمی‌توانم روی چارت‌هایت علامت بگذارم، اما بعد از دیدنشان خواستم بگویم در علامت زدن لبه‌های FL سخت‌گیر باش (اگر لازم و ممکن بود تا پایین‌ترین تایم‌فریم برو)، به چپ نگاه کن و ببین FL به چه چیزی واکنش داده (حمایت/مقاومت، یک FL دیگر، عرضه/تقاضا و غیره) و به آن‌هایی که کار می‌کنند و آن‌هایی که نمی‌کنند دقت کن.
+
+خوش بگذرد!
+
+### flaglimits_p21_515
+EN: good advice dcabfx Ezio i would like you to start marking why is it an FL, what SR/SD it broke to be one and show as much of the left as you can.
+FA: توصیهٔ خوبی است dcabfx. Ezio، دوست دارم شروع کنی به علامت زدن اینکه چرا FL است، برای FL شدن چه S/R و S/Dای را شکسته و تا جایی که می‌توانی از سمت چپ چارت را نشان بدهی.
+
+### flaglimits_p21_516
+EN: projectsagana
+
+Your comment give me more understand about FL.Thank you so much.
+FA: projectsagana
+
+نظرت فهمم را دربارهٔ FL بیشتر کرد. خیلی ممنون.
+
+### flaglimits_p21_517
+EN: Thanks for the feedback dcabfx and Harry. I will look left and goto a lower time frame to find out why the flag formed and show it on my posts.
+FA: ممنون بابت بازخورد dcabfx و Harry. به چپ نگاه می‌کنم و به تایم‌فریم پایین‌تر می‌روم تا بفهمم چرا FL شکل گرفت و در پست‌هایم نشانش می‌دهم.
+
+### flaglimits_p21_518
+EN: Ok here we go. Just posting one chart to make sure I'm getting this right. Let me know
+
+Thanks RTM community for all the help
+FA: خب، شروع کنیم. فقط یک چارت می‌گذارم تا مطمئن شوم درست گرفته‌ام. خبرم کن
+
+ممنون از جامعهٔ RTM برای همهٔ کمک‌ها
+
+### flaglimits_p21_519
+EN: I would like to share with community my study about eurusd, H1 timeframe It's my view getting together all stuff studied in these months about S/D method, trader's journal. And it's becoming really funny.
+
+Funny because I'm tryiing to wathc on the chart what they are doing, where they are doing and how they are doing Their goal is always the same: fill their orders at the best price possible, searching liquidity to do that. So I would like to spot fakes, stop running, consuming e consumed levels... and wait for and entry trade when their games are really clear.
+FA: می‌خواهم مطالعه‌ام دربارهٔ eurusd در تایم‌فریم H1 را با جامعه به اشتراک بگذارم. این دید من است که همهٔ چیزهایی را که در این ماه‌ها دربارهٔ روش S/D و ژورنال معامله‌گر خوانده‌ام کنار هم می‌گذارد. و واقعاً هم دارد بامزه می‌شود.
+
+بامزه چون دارم سعی می‌کنم روی چارت ببینم آن‌ها چه می‌کنند، کجا این کار را می‌کنند و چطور. هدفشان همیشه یکی است: پر کردن سفارش‌هایشان با بهترین قیمت ممکن و برای این کار دنبال نقدینگی می‌گردند. پس دوست دارم فیک‌ها، شکار استاپ‌ها و مصرف سطوح و سطوحِ مصرف‌شده را پیدا کنم... و وقتی بازیشان واقعاً روشن شد منتظر یک ورود بمانم.
+
+### flaglimits_p21_520
+EN: DrSwing wrote: Nice work Alex, you seem to have the idea. Can you explain the one I have marked below on your chart?
+
+Hi All
+
+I would like to forward my idea about DrSwing question although it was not addressed to me ( I do apologise if thats not o.k. )
+FA: DrSwing نوشت: کارت خوب بود Alex، انگار ایده را گرفته‌ای. می‌توانی آن یکی را که پایین روی چارتت علامت زده‌ام توضیح بدهی؟
+
+سلام به همه
+
+می‌خواهم نظرم را دربارهٔ سؤال DrSwing بگویم، هرچند خطاب به من نبود (اگر اشکالی دارد عذرخواهی می‌کنم)
+
+### flaglimits_p21_521
+EN: A lot of great information in here, Truly very valuable, I cant thank you all enough on how much great inspiration is on this website.
+FA: کلی اطلاعات عالی اینجا هست، واقعاً بسیار ارزشمند. نمی‌توانم به‌اندازهٔ کافی از همه‌تان تشکر کنم برای این‌همه الهام بزرگی که در این سایت هست.
+
+### flaglimits_p21_522
+EN: Ok guys,
+
+I’m going to post some homework, please comment.
+
+Thank you, PASniper
+FA: خب دوستان،
+
+می‌خواهم چند تمرین بگذارم، لطفاً نظر بدهید.
+
+ممنون، PASniper
+
+### flaglimits_p21_523
+EN: @ PASniper much better but far from perfect yet. you curve fit some by not marking the SR at the tip and marking others even before the break of the marked SR. but you are on a good path and it will be more clear with practice
+FA: @ PASniper خیلی بهتر، اما هنوز با کامل فاصله دارد. بعضی‌ها را با علامت نزدن S/R در نوک، و بعضی دیگر را حتی پیش از شکست S/R علامت‌خورده، به قیمت تحمیل کرده‌ای. اما در مسیر خوبی هستی و با تمرین روشن‌تر می‌شود.
+
+### flaglimits_p21_524
+EN: Harry wrote: @ PASniper much better but far from perfect yet. you curve fit some by not marking the SR at the tip and marking others even before the break of the marked SR. but you are on a good path and it will be more clear with practice
+
+Ok Harry, With your feedback here goes the third but not the last tried.
+
+What I understand with a flag is: a break of a SR continued with a consolidation (accumulation of the BIG GUYS) and a strong pole in the same direction of the break. With this understanding this should be a FL:
+
+Harry thank you very much for your patience to share this knowledge with strange people, to you and all the people that makes this site possible. Thank you!
+FA: Harry نوشت: @ PASniper خیلی بهتر، اما هنوز با کامل فاصله دارد. بعضی‌ها را با علامت نزدن S/R در نوک، و بعضی دیگر را حتی پیش از شکست S/R علامت‌خورده، به قیمت تحمیل کرده‌ای. اما در مسیر خوبی هستی و با تمرین روشن‌تر می‌شود.
+
+خب Harry، با بازخورد تو، این هم سومین تلاش، که آخری نیست.
+
+آنچه از FL می‌فهمم این است: شکست یک S/R که با یک تثبیت (انباشت بزرگان) ادامه پیدا می‌کند و یک میلهٔ قوی در همان جهت شکست. با این فهم، این باید یک FL باشد:
+
+Harry، خیلی ممنون از صبرت برای شریک شدن این دانش با آدم‌های غریبه؛ از تو و همهٔ کسانی که این سایت را ممکن می‌کنند ممنونم. سپاس!
+
+### flaglimits_p21_525
+EN: And here are two more (to see if I have understand the concept of Flag
+
+Limits).
+
+The first one is the yellow, which fails getting engulfed by a strong move from the Bears. The second one is the blue one, which we can say is the same one working in the other direction that continues with the high supply that engulfed the yellow one.
+
+Thanks, PASniper
+
+...
+
+...
+FA: و این هم دو مورد دیگر (تا ببینم مفهوم
+
+FL را درست فهمیده‌ام).
+
+اولی زرد است که با یک حرکت قوی از سوی خرس‌ها اینگالف نمی‌شود. دومی آبی است که می‌توان گفت همان یکی است که در جهت مخالف کار می‌کند و با عرضهٔ بالایی ادامه می‌یابد که زردی را اینگالف کرد.
+
+ممنون، PASniper
+
+...
+
+...

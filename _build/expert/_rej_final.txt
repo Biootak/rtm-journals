@@ -1,0 +1,38 @@
+  hs_p10_238 | echo
+  hs_p15_366 | echo
+  hs_p16_385 | echo
+  hs_p19_474 | echo
+  hs_p22_537 | paragraphs 4 / 3
+  hs_p22_541 | echo
+  hs_p22_547 | paragraphs 6 / 5
+  hs_p34_831 | echo
+  hs_p37_909 | echo
+  hs_p38_939 | echo
+  hs_p41_1025 | paragraphs 6 / 5
+  hs_p42_1033 | echo
+  hs_p45_1110 | echo
+  hs_p46_1130 | paragraphs 17 / 21
+  hs_p46_1134 | paragraphs 13 / 12
+  hs_p48_1181 | echo
+  hs_p49_1223 | echo
+  hs_p60_1480 | echo
+  hs_p61_1514 | paragraphs 4 / 3
+  hs_p62_1537 | paragraphs 9 / 10
+  hs_p65_1612 | echo
+  hs_p65_1622 | paragraphs 8 / 9
+  hs_p65_1623 | paragraphs 10 / 5
+  hs_p69_1708 | paragraphs 14 / 12
+  hs_p69_1711 | paragraphs 26 / 24
+  hs_p7_173 | echo
+  hs_p71_1753 | paragraphs 6 / 5
+  hs_p71_1771 | paragraphs 4 / 3
+  hs_p71_1772 | paragraphs 7 / 6
+  hs_p73_1805 | paragraphs 2 / 1
+  hs_p73_1815 | paragraphs 4 / 1
+  hs_p73_1821 | paragraphs 2 / 1
+  hs_p75_1869 | echo
+  hs_p76_1900 | paragraphs 4 / 1
+  hs_p8_176 | echo
+  hs_p8_177 | echo
+  hs_p81_2009 | echo
+  hs_p90_2248 | echo

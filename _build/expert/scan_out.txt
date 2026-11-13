@@ -1,0 +1,919 @@
+aboutcompression-p1.json :: aboutcompression_p1_28 :: NUM en=['2', '1', '2', '10', '1000', '100', '1'] fa=['1', '2', '10', '1000', '100', '1'] | WROTE:On your 2nd chart that you posted you | LATIN:whiteout | LATIN:naughtypip | LATIN:whiteout | LATIN:Whiteout | LATIN:whiteout | SLANG:داخ
+aboutcompression-p1.json :: aboutcompression_p1_30 :: LATIN:naughtypip
+aboutcompression-p1.json :: aboutcompression_p1_32 :: LATIN:eurnzd | SLANG:داخ
+aboutcompression-p1.json :: aboutcompression_p1_33 :: LATIN:chpln
+aboutcompression-p1.json :: aboutcompression_p1_35 :: LATIN:flag
+aboutcompression-p1.json :: aboutcompression_p1_36 :: LATIN:cheer
+aboutcompression-p1.json :: aboutcompression_p1_37 :: LATIN:Whiteout | LATIN:flag | LATIN:flag | LATIN:flag | LATIN:flag | LATIN:bull | LATIN:flag | LATIN:flag
+aboutcompression-p1.json :: aboutcompression_p1_40 :: SLANG:داخ
+aboutcompression-p1.json :: aboutcompression_p1_45 :: LATIN:outapips | LATIN:flag | LATIN:flag | LATIN:flag | LATIN:bull | LATIN:flag | LATIN:flag | SLANG:داخ
+aboutcompression-p1.json :: aboutcompression_p1_47 :: LATIN:Homerus | LATIN:cheer
+aboutcompression-p1.json :: aboutcompression_p1_48 :: LATIN:whiteout | LATIN:White
+aboutcompression-p1.json :: aboutcompression_p1_49 :: LATIN:Osman | LATIN:whiteout | LATIN:White | LATIN:rapidshare | LATIN:multiupload
+aboutcompression-p1.json :: aboutcompression_p1_50 :: LATIN:Whiteout | LATIN:flag | SLANG:داخ
+aboutcompression-p10.json :: aboutcompression_p10_252 :: LATIN:Ifmyante
+aboutcompression-p10.json :: aboutcompression_p10_254 :: LATIN:Ashkan
+aboutcompression-p10.json :: aboutcompression_p10_260 :: SLANG:داخ
+aboutcompression-p10.json :: aboutcompression_p10_261 :: LATIN:insert
+aboutcompression-p10.json :: aboutcompression_p10_263 :: LATIN:Uceego
+aboutcompression-p10.json :: aboutcompression_p10_265 :: LATIN:Ucego
+aboutcompression-p10.json :: aboutcompression_p10_269 :: LATIN:AlexC
+aboutcompression-p10.json :: aboutcompression_p10_270 :: LATIN:Ifmyante
+aboutcompression-p10.json :: aboutcompression_p10_274 :: LATIN:Ifmyante | SLANG:داخ
+aboutcompression-p12.json :: aboutcompression_p12_307 :: LATIN:CPLQ
+aboutcompression-p12.json :: aboutcompression_p12_308 :: LATIN:AlexC | LATIN:CPLQ | LATIN:Alex
+aboutcompression-p12.json :: aboutcompression_p12_311 :: LATIN:cable
+aboutcompression-p12.json :: aboutcompression_p12_313 :: LATIN:Ashkan
+aboutcompression-p12.json :: aboutcompression_p12_315 :: LATIN:outapips
+aboutcompression-p12.json :: aboutcompression_p12_316 :: LATIN:rapidshare | LATIN:multiupload | LATIN:scribd
+aboutcompression-p12.json :: aboutcompression_p12_318 :: LATIN:scribd
+aboutcompression-p12.json :: aboutcompression_p12_321 :: LATIN:eurusd
+aboutcompression-p12.json :: aboutcompression_p12_323 :: LATIN:Oedipus
+aboutcompression-p12.json :: aboutcompression_p12_324 :: LATIN:snebucA | LATIN:Oedipus | LATIN:BUFL
+aboutcompression-p13.json :: aboutcompression_p13_327 :: LATIN:Ifmyante
+aboutcompression-p13.json :: aboutcompression_p13_332 :: LATIN:whiteout | LATIN:Ifmyante | LATIN:whiteout
+aboutcompression-p13.json :: aboutcompression_p13_342 :: LATIN:Oedipus
+aboutcompression-p13.json :: aboutcompression_p13_344 :: LATIN:naughtypip | LATIN:Oedipus | LATIN:naughty
+aboutcompression-p13.json :: aboutcompression_p13_345 :: LATIN:Triple | LATIN:witching
+aboutcompression-p13.json :: aboutcompression_p13_346 :: LATIN:Amschel | LATIN:Rothchild
+aboutcompression-p15.json :: aboutcompression_p15_378 :: LATIN:Ifmyante
+aboutcompression-p15.json :: aboutcompression_p15_379 :: LATIN:fxfury
+aboutcompression-p15.json :: aboutcompression_p15_380 :: LATIN:Haydel | LATIN:Harry | SLANG:داخ
+aboutcompression-p15.json :: aboutcompression_p15_382 :: NUM en=['1'] fa=[]
+aboutcompression-p15.json :: aboutcompression_p15_383 :: LATIN:Cath | SLANG:داخ
+aboutcompression-p15.json :: aboutcompression_p15_384 :: LATIN:audusd
+aboutcompression-p15.json :: aboutcompression_p15_385 :: LATIN:fxfury
+aboutcompression-p15.json :: aboutcompression_p15_386 :: LATIN:CathS | LATIN:audusd
+aboutcompression-p15.json :: aboutcompression_p15_387 :: LATIN:Cath | SLANG:توپ
+aboutcompression-p15.json :: aboutcompression_p15_392 :: LATIN:Oedipus
+aboutcompression-p15.json :: aboutcompression_p15_397 :: LATIN:MitchWorse
+aboutcompression-p17.json :: aboutcompression_p17_427 :: LATIN:Raven
+aboutcompression-p17.json :: aboutcompression_p17_428 :: LATIN:Harry
+aboutcompression-p17.json :: aboutcompression_p17_429 :: LATIN:Cath
+aboutcompression-p17.json :: aboutcompression_p17_437 :: LATIN:Haydel | LATIN:Ifmyante
+aboutcompression-p17.json :: aboutcompression_p17_438 :: NUM en=['4', '5'] fa=[]
+aboutcompression-p17.json :: aboutcompression_p17_439 :: LATIN:Sunny | SLANG:داخ
+aboutcompression-p17.json :: aboutcompression_p17_440 :: LATIN:Sunny | SLANG:داخ
+aboutcompression-p17.json :: aboutcompression_p17_441 :: LATIN:Sunny | SLANG:داخ
+aboutcompression-p17.json :: aboutcompression_p17_442 :: LATIN:Sunny
+aboutcompression-p17.json :: aboutcompression_p17_447 :: NUM en=['2'] fa=[]
+aboutcompression-p17.json :: aboutcompression_p17_448 :: LATIN:insert | LATIN:zoom
+aboutcompression-p17.json :: aboutcompression_p17_449 :: LATIN:Ifmyante | LATIN:Adam
+aboutcompression-p17.json :: aboutcompression_p17_450 :: LATIN:decision | LATIN:point
+aboutcompression-p18.json :: aboutcompression_p18_451 :: LATIN:Adam
+aboutcompression-p18.json :: aboutcompression_p18_452 :: LATIN:AdamH | LATIN:Ifmyante | LATIN:Adam | LATIN:Adam
+aboutcompression-p18.json :: aboutcompression_p18_454 :: LATIN:Seisen | LATIN:Swap | LATIN:Zone | LATIN:Adam
+aboutcompression-p18.json :: aboutcompression_p18_455 :: LATIN:AdamH | LATIN:Seisen | LATIN:Swap | LATIN:Zone
+aboutcompression-p18.json :: aboutcompression_p18_456 :: LATIN:naughtypip
+aboutcompression-p18.json :: aboutcompression_p18_458 :: LATIN:narottam | LATIN:Narottam
+aboutcompression-p18.json :: aboutcompression_p18_459 :: LATIN:narottam
+aboutcompression-p18.json :: aboutcompression_p18_460 :: LATIN:Adam
+aboutcompression-p18.json :: aboutcompression_p18_462 :: LATIN:Adam
+aboutcompression-p18.json :: aboutcompression_p18_463 :: SLANG:داخ
+aboutcompression-p18.json :: aboutcompression_p18_464 :: SLANG:داخ
+aboutcompression-p18.json :: aboutcompression_p18_466 :: NUM en=['4'] fa=[]
+aboutcompression-p18.json :: aboutcompression_p18_467 :: NUM en=['5'] fa=[]
+aboutcompression-p18.json :: aboutcompression_p18_468 :: LATIN:Narottam
+aboutcompression-p18.json :: aboutcompression_p18_469 :: LATIN:Simon
+aboutcompression-p18.json :: aboutcompression_p18_471 :: LATIN:google | LATIN:search | LATIN:sine | LATIN:wave
+aboutcompression-p19.json :: aboutcompression_p19_476 :: NUM en=['2'] fa=[]
+aboutcompression-p19.json :: aboutcompression_p19_477 :: NUM en=['7', '4', '1'] fa=['4', '1'] | LATIN:Simon
+aboutcompression-p19.json :: aboutcompression_p19_478 :: LATIN:Adam
+aboutcompression-p19.json :: aboutcompression_p19_479 :: LATIN:Adam
+aboutcompression-p19.json :: aboutcompression_p19_480 :: LATIN:Narrotam | LATIN:aussie | SLANG:داخ
+aboutcompression-p19.json :: aboutcompression_p19_481 :: LATIN:simon
+aboutcompression-p19.json :: aboutcompression_p19_482 :: LATIN:Narottam | LATIN:Doctor
+aboutcompression-p19.json :: aboutcompression_p19_483 :: NUM en=['10'] fa=[]
+aboutcompression-p19.json :: aboutcompression_p19_484 :: SLANG:داخ
+aboutcompression-p19.json :: aboutcompression_p19_485 :: LATIN:Adam
+aboutcompression-p19.json :: aboutcompression_p19_489 :: LATIN:AdamH | LATIN:Adam | LATIN:Adam
+aboutcompression-p19.json :: aboutcompression_p19_490 :: LATIN:Ifmyante | LATIN:Adam | SLANG:داخ
+aboutcompression-p19.json :: aboutcompression_p19_496 :: LATIN:Rufus | LATIN:simpleguy | LATIN:Rufus
+aboutcompression-p26.json :: aboutcompression_p26_651 :: LATIN:Harry | LATIN:Hotochin | LATIN:Harry | SLANG:داخ
+aboutcompression-p26.json :: aboutcompression_p26_652 :: LATIN:Hotochin | LATIN:Harry | LATIN:Hotochin | LATIN:Harry | SLANG:داخ
+aboutcompression-p26.json :: aboutcompression_p26_654 :: LATIN:johnnym | LATIN:Johnny
+aboutcompression-p26.json :: aboutcompression_p26_656 :: LATIN:benhur | LATIN:johnnym | LATIN:Johnny
+aboutcompression-p26.json :: aboutcompression_p26_658 :: LATIN:Infest | LATIN:Infest
+aboutcompression-p26.json :: aboutcompression_p26_660 :: LATIN:johnnym
+aboutcompression-p26.json :: aboutcompression_p26_661 :: LATIN:Infest | LATIN:johnnym | LATIN:Infest
+aboutcompression-p26.json :: aboutcompression_p26_664 :: LATIN:Ifmyante
+aboutcompression-p26.json :: aboutcompression_p26_669 :: LATIN:Spongy
+aboutcompression-p26.json :: aboutcompression_p26_671 :: LATIN:bennygill
+aboutcompression-p26.json :: aboutcompression_p26_675 :: LATIN:CPLQ
+aboutcompression-p27.json :: aboutcompression_p27_677 :: LATIN:Benny | LATIN:CPLQ | LATIN:Cable
+aboutcompression-p27.json :: aboutcompression_p27_678 :: LATIN:CPLQ
+aboutcompression-p27.json :: aboutcompression_p27_680 :: SLANG:داخ
+aboutcompression-p27.json :: aboutcompression_p27_684 :: LATIN:Ifmyante | SLANG:داخ
+aboutcompression-p27.json :: aboutcompression_p27_685 :: LATIN:CPLQ
+aboutcompression-p27.json :: aboutcompression_p27_686 :: LATIN:bennygill | LATIN:CPLQ
+aboutcompression-p27.json :: aboutcompression_p27_687 :: LATIN:bennygill | LATIN:CPLQ
+aboutcompression-p27.json :: aboutcompression_p27_689 :: LATIN:CPLQ | LATIN:CPLQ | SLANG:داخ
+aboutcompression-p27.json :: aboutcompression_p27_691 :: LATIN:Benny
+aboutcompression-p27.json :: aboutcompression_p27_692 :: LATIN:CPLQ
+aboutcompression-p27.json :: aboutcompression_p27_694 :: LATIN:CPLQ
+aboutcompression-p27.json :: aboutcompression_p27_697 :: LATIN:Daily
+aboutcompression-p28.json :: aboutcompression_p28_704 :: LATIN:Benny
+aboutcompression-p28.json :: aboutcompression_p28_705 :: NUM en=['15', '5', '2'] fa=['15', '5']
+aboutcompression-p28.json :: aboutcompression_p28_707 :: SLANG:داخ
+aboutcompression-p28.json :: aboutcompression_p28_709 :: LATIN:Spongy
+aboutcompression-p28.json :: aboutcompression_p28_712 :: LATIN:acegazette | LATIN:option | LATIN:flippingbo | LATIN:Itemid | LATIN:lang | LATIN:Chris | LATIN:josh
+aboutcompression-p28.json :: aboutcompression_p28_713 :: LATIN:freefilehosting | LATIN:compression | LATIN:marketpedia
+aboutcompression-p28.json :: aboutcompression_p28_714 :: LATIN:readthemarket | LATIN:media | LATIN:Compression
+aboutcompression-p28.json :: aboutcompression_p28_717 :: LATIN:azlan
+aboutcompression-p28.json :: aboutcompression_p28_719 :: LATIN:Kelvin
+aboutcompression-p28.json :: aboutcompression_p28_720 :: NUM en=['1'] fa=[] | LATIN:Kelvin
+aboutcompression-p28.json :: aboutcompression_p28_721 :: LATIN:Kelvin
+aboutcompression-p28.json :: aboutcompression_p28_722 :: LATIN:Kelvin
+aboutcompression-p29.json :: aboutcompression_p29_731 :: LATIN:benhur | LATIN:benhur
+aboutcompression-p29.json :: aboutcompression_p29_733 :: LATIN:benhur
+aboutcompression-p29.json :: aboutcompression_p29_734 :: LATIN:Harry
+aboutcompression-p29.json :: aboutcompression_p29_736 :: LATIN:Ranganus
+aboutcompression-p29.json :: aboutcompression_p29_737 :: LATIN:Harry | LATIN:Kelvin
+aboutcompression-p29.json :: aboutcompression_p29_738 :: LATIN:Benhur
+aboutcompression-p29.json :: aboutcompression_p29_739 :: LATIN:compression | LATIN:whiteout | LATIN:outapips | LATIN:whiteout | LATIN:scribd
+aboutcompression-p29.json :: aboutcompression_p29_740 :: LATIN:readthemarket | LATIN:media | LATIN:Compression
+aboutcompression-p29.json :: aboutcompression_p29_741 :: LATIN:Ifmyante | LATIN:CPLQ
+aboutcompression-p29.json :: aboutcompression_p29_742 :: LATIN:whaka | LATIN:whaka | LATIN:Education | LATIN:Videos
+aboutcompression-p30.json :: aboutcompression_p30_751 :: LATIN:Paul
+aboutcompression-p30.json :: aboutcompression_p30_752 :: LATIN:Paul
+aboutcompression-p30.json :: aboutcompression_p30_754 :: LATIN:Paul | LATIN:Paul
+aboutcompression-p30.json :: aboutcompression_p30_755 :: LATIN:Harry | LATIN:Paul
+aboutcompression-p31.json :: aboutcompression_p31_777 :: LATIN:Harry
+aboutcompression-p31.json :: aboutcompression_p31_778 :: LATIN:Harry | SLANG:داخ
+aboutcompression-p31.json :: aboutcompression_p31_780 :: LATIN:ZONES
+aboutcompression-p31.json :: aboutcompression_p31_783 :: NUM en=['2', '1'] fa=['2']
+aboutcompression-p31.json :: aboutcompression_p31_789 :: LATIN:Harry | LATIN:Benhur
+aboutcompression-p31.json :: aboutcompression_p31_790 :: NUM en=['2', '3'] fa=['2'] | LATIN:Harry | LATIN:Paul | LATIN:Benhur
+aboutcompression-p31.json :: aboutcompression_p31_791 :: NUM en=['2', '3'] fa=['2'] | LATIN:Harry | LATIN:Harry | LATIN:Paul | LATIN:Benhur | LATIN:Harry
+aboutcompression-p31.json :: aboutcompression_p31_792 :: NUM en=['3', '3'] fa=[] | LATIN:Harry | LATIN:Paul | LATIN:Benhur
+aboutcompression-p31.json :: aboutcompression_p31_797 :: NUM en=['1'] fa=[] | LATIN:Paul
+aboutcompression-p31.json :: aboutcompression_p31_798 :: NUM en=['2', '1', '2'] fa=['2', '2'] | LATIN:Markepedia
+aboutcompression-p31.json :: aboutcompression_p31_800 :: LATIN:Markepedia
+aboutcompression-p35.json :: aboutcompression_p35_878 :: LATIN:Aaron
+aboutcompression-p35.json :: aboutcompression_p35_879 :: LATIN:Aaron | LATIN:Harry
+aboutcompression-p35.json :: aboutcompression_p35_881 :: LATIN:milkeyway
+aboutcompression-p35.json :: aboutcompression_p35_882 :: LATIN:Victor | LATIN:milkeyway
+aboutcompression-p35.json :: aboutcompression_p35_888 :: LATIN:Milkeyway | LATIN:Aaron | LATIN:forex
+aboutcompression-p35.json :: aboutcompression_p35_893 :: LATIN:aaron | LATIN:swing
+aboutcompression-p35.json :: aboutcompression_p35_898 :: LATIN:forex
+aboutcompression-p35.json :: aboutcompression_p35_899 :: LATIN:Aaron | LATIN:forex
+aboutcompression-p35.json :: aboutcompression_p35_900 :: LATIN:Aaron
+aboutcompression-p38.json :: aboutcompression_p38_952 :: LATIN:Ezio
+aboutcompression-p38.json :: aboutcompression_p38_953 :: LATIN:DrSwing
+aboutcompression-p38.json :: aboutcompression_p38_955 :: NUM en=['3', '15', '5'] fa=['15', '5'] | LATIN:EURAUD
+aboutcompression-p38.json :: aboutcompression_p38_958 :: LATIN:Baelar
+aboutcompression-p38.json :: aboutcompression_p38_960 :: LATIN:DrSwing | LATIN:Swing | LATIN:Swing
+aboutcompression-p38.json :: aboutcompression_p38_961 :: LATIN:projectsagana
+aboutcompression-p38.json :: aboutcompression_p38_962 :: LATIN:DrSwing | LATIN:projectsagana | LATIN:DrSwing
+aboutcompression-p38.json :: aboutcompression_p38_963 :: LATIN:Projectsagana
+aboutcompression-p38.json :: aboutcompression_p38_965 :: LATIN:Ezio
+aboutcompression-p38.json :: aboutcompression_p38_966 :: LATIN:Poly
+aboutcompression-p38.json :: aboutcompression_p38_967 :: LATIN:EurAud
+aboutcompression-p38.json :: aboutcompression_p38_968 :: LATIN:Ezio | LATIN:EurAud | LATIN:Ezio
+aboutcompression-p38.json :: aboutcompression_p38_969 :: LATIN:Josh
+aboutcompression-p38.json :: aboutcompression_p38_972 :: LATIN:GbpUsd | SLANG:داخ
+aboutcompression-p38.json :: aboutcompression_p38_974 :: LATIN:AudJpy
+aboutcompression-p38.json :: aboutcompression_p38_975 :: LATIN:CPLQ | LATIN:flow | LATIN:CPLQ | LATIN:flag | SLANG:داخ
+aboutcompression-p39.json :: aboutcompression_p39_976 :: LATIN:revivalfx | LATIN:CPLQ | LATIN:readthemarket | LATIN:index | LATIN:forum | LATIN:journa | LATIN:course | LATIN:start
+aboutcompression-p39.json :: aboutcompression_p39_977 :: LATIN:polymorph | LATIN:revivalfx | LATIN:CPLQ | LATIN:readthemarket | LATIN:index | LATIN:forum | LATIN:journa | LATIN:course
+aboutcompression-p39.json :: aboutcompression_p39_979 :: LATIN:Miserly
+aboutcompression-p39.json :: aboutcompression_p39_980 :: LATIN:Ezio | LATIN:Ezio | LATIN:Miserly
+aboutcompression-p39.json :: aboutcompression_p39_984 :: LATIN:anneb
+aboutcompression-p39.json :: aboutcompression_p39_986 :: LATIN:anneb
+aboutcompression-p39.json :: aboutcompression_p39_987 :: LATIN:Kanzler
+aboutcompression-p39.json :: aboutcompression_p39_991 :: LATIN:PASnipper
+aboutcompression-p39.json :: aboutcompression_p39_992 :: LATIN:PASniper
+aboutcompression-p39.json :: aboutcompression_p39_993 :: LATIN:Kanzler | LATIN:PASniper | LATIN:Kanzler | LATIN:Kanzler
+aboutcompression-p39.json :: aboutcompression_p39_995 :: LATIN:chiron
+aboutcompression-p39.json :: aboutcompression_p39_996 :: LATIN:FireFox | LATIN:Chrome
+aboutcompression-p39.json :: aboutcompression_p39_997 :: LATIN:Chiron | LATIN:chiron | LATIN:FireFox | LATIN:Chrome
+aboutcompression-p39.json :: aboutcompression_p39_998 :: LATIN:chiron | LATIN:FireFox | LATIN:Chrome | LATIN:Marketpedia | LATIN:readthemarket | LATIN:index | LATIN:compression
+aboutcompression-p39.json :: aboutcompression_p39_999 :: LATIN:milkeyway | LATIN:chiron | LATIN:FireFox | LATIN:Chrome | LATIN:Marketpedia | LATIN:readthemarket | LATIN:index | LATIN:compression
+aboutcompression-p39.json :: aboutcompression_p39_1000 :: LATIN:CPLQ
+aboutcompression-p4.json :: aboutcompression_p4_101 :: LATIN:jirkahybs | LATIN:centrum
+aboutcompression-p4.json :: aboutcompression_p4_104 :: LATIN:Tyoon
+aboutcompression-p4.json :: aboutcompression_p4_107 :: LATIN:Sniffer
+aboutcompression-p4.json :: aboutcompression_p4_108 :: LATIN:Paul
+aboutcompression-p4.json :: aboutcompression_p4_109 :: LATIN:okami | LATIN:Ifmyante | SLANG:داخ
+aboutcompression-p4.json :: aboutcompression_p4_111 :: LATIN:okami | LATIN:Flag | LATIN:outapips | LATIN:bflag | LATIN:Bflag | LATIN:bflag | LATIN:Tyoon
+aboutcompression-p4.json :: aboutcompression_p4_112 :: LATIN:GREEN | LATIN:GREY | SLANG:داخ
+aboutcompression-p4.json :: aboutcompression_p4_113 :: LATIN:Cheers
+aboutcompression-p4.json :: aboutcompression_p4_115 :: LATIN:minimalmonk | LATIN:whiteout
+aboutcompression-p4.json :: aboutcompression_p4_119 :: LATIN:okami
+aboutcompression-p4.json :: aboutcompression_p4_120 :: LATIN:hometrading | LATIN:whiteout | LATIN:Tyoon
+aboutcompression-p4.json :: aboutcompression_p4_123 :: LATIN:Cheers
+aboutcompression-p4.json :: aboutcompression_p4_124 :: LATIN:Cheers
+aboutcompression-p4.json :: aboutcompression_p4_125 :: LATIN:Cheers
+aboutcompression-p40.json :: aboutcompression_p40_1003 :: LATIN:compression
+aboutcompression-p40.json :: aboutcompression_p40_1005 :: LATIN:Duds | LATIN:compression | LATIN:readthemarket | LATIN:media | LATIN:Compression
+aboutcompression-p40.json :: aboutcompression_p40_1006 :: SLANG:داخ
+aboutcompression-p40.json :: aboutcompression_p40_1008 :: LATIN:Coast | LATIN:coast | LATIN:coast
+aboutcompression-p40.json :: aboutcompression_p40_1010 :: LATIN:Chris | LATIN:naascott
+aboutcompression-p40.json :: aboutcompression_p40_1013 :: LATIN:Mrgerry | LATIN:Mrgerry
+aboutcompression-p40.json :: aboutcompression_p40_1017 :: LATIN:Mrgerry | LATIN:Mrgerry | LATIN:Mrgerry
+aboutcompression-p40.json :: aboutcompression_p40_1018 :: LATIN:naascott
+aboutcompression-p40.json :: aboutcompression_p40_1019 :: LATIN:markepedia
+aboutcompression-p40.json :: aboutcompression_p40_1020 :: LATIN:Scoob
+aboutcompression-p40.json :: aboutcompression_p40_1025 :: LATIN:astro
+aboutcompression-p41.json :: aboutcompression_p41_1030 :: LATIN:WKLY
+aboutcompression-p41.json :: aboutcompression_p41_1031 :: LATIN:Projetct
+aboutcompression-p41.json :: aboutcompression_p41_1032 :: LATIN:astro
+aboutcompression-p41.json :: aboutcompression_p41_1035 :: LATIN:Project
+aboutcompression-p41.json :: aboutcompression_p41_1036 :: LATIN:astro | LATIN:Project | LATIN:astro
+aboutcompression-p41.json :: aboutcompression_p41_1037 :: LATIN:projectsagana | LATIN:astro | LATIN:Project | LATIN:astro
+aboutcompression-p41.json :: aboutcompression_p41_1039 :: LATIN:astro
+aboutcompression-p41.json :: aboutcompression_p41_1040 :: LATIN:Project
+aboutcompression-p41.json :: aboutcompression_p41_1041 :: LATIN:astro
+aboutcompression-p41.json :: aboutcompression_p41_1044 :: LATIN:astro
+aboutcompression-p41.json :: aboutcompression_p41_1045 :: LATIN:Project
+aboutcompression-p41.json :: aboutcompression_p41_1050 :: LATIN:color
+aboutcompression-p42.json :: aboutcompression_p42_1052 :: LATIN:Liquidity
+aboutcompression-p42.json :: aboutcompression_p42_1061 :: SLANG:داخ
+aboutcompression-p42.json :: aboutcompression_p42_1062 :: SLANG:داخ
+aboutcompression-p42.json :: aboutcompression_p42_1064 :: LATIN:Robbie
+aboutcompression-p42.json :: aboutcompression_p42_1070 :: LATIN:here | LATIN:acegazzette | LATIN:error | LATIN:whiteout | LATIN:Acts | LATIN:This | LATIN:Taken | LATIN:Supply
+aboutcompression-p42.json :: aboutcompression_p42_1071 :: LATIN:Acegazette
+aboutcompression-p42.json :: aboutcompression_p42_1072 :: LATIN:Ifmyante
+aboutcompression-p42.json :: aboutcompression_p42_1073 :: LATIN:readthemarket | LATIN:index | LATIN:forum | LATIN:homewo | LATIN:sion | LATIN:limitstart | SLANG:داخ
+aboutcompression-p42.json :: aboutcompression_p42_1074 :: LATIN:naascott | LATIN:naascott | LATIN:readthemarket | LATIN:index | LATIN:forum | LATIN:homewo | LATIN:sion | LATIN:limitstart
+aboutcompression-p42.json :: aboutcompression_p42_1075 :: LATIN:Bodostock | LATIN:Forex | LATIN:tester
+aboutcompression-p43.json :: aboutcompression_p43_1076 :: LATIN:naascott | LATIN:scott | LATIN:naascott | LATIN:Bodostock | LATIN:Forex | LATIN:tester
+aboutcompression-p43.json :: aboutcompression_p43_1077 :: LATIN:Bodo | LATIN:Scott | LATIN:Bodo
+aboutcompression-p43.json :: aboutcompression_p43_1079 :: NUM en=['2', '2'] fa=[]
+aboutcompression-p43.json :: aboutcompression_p43_1080 :: LATIN:Benhur
+aboutcompression-p43.json :: aboutcompression_p43_1081 :: SLANG:داخ
+aboutcompression-p43.json :: aboutcompression_p43_1082 :: LATIN:Benhur | LATIN:Benhur
+aboutcompression-p43.json :: aboutcompression_p43_1089 :: LATIN:windpower | LATIN:Windpower | LATIN:Windpower
+aboutcompression-p43.json :: aboutcompression_p43_1090 :: LATIN:windpower
+aboutcompression-p43.json :: aboutcompression_p43_1091 :: LATIN:windpower
+aboutcompression-p43.json :: aboutcompression_p43_1093 :: LATIN:faridisham | LATIN:faridisham
+aboutcompression-p43.json :: aboutcompression_p43_1095 :: LATIN:Kossack
+aboutcompression-p43.json :: aboutcompression_p43_1096 :: NUM en=['2', '3'] fa=[] | SLANG:داخ
+aboutcompression-p43.json :: aboutcompression_p43_1097 :: NUM en=['2', '3', '100', '4', '30', '1', '70', '100'] fa=['100', '4', '30', '1', '70', '100'] | LATIN:Kossack | LATIN:Kossack | SLANG:داخ
+aboutcompression-p43.json :: aboutcompression_p43_1098 :: LATIN:Tajda
+aboutcompression-p43.json :: aboutcompression_p43_1099 :: LATIN:Tajda | LATIN:ifmyante | LATIN:compression
+aboutcompression-p43.json :: aboutcompression_p43_1100 :: LATIN:readthemarket | LATIN:index | LATIN:forum | LATIN:journa | LATIN:rnal | LATIN:start
+aboutcompression-p46.json :: aboutcompression_p46_1155 :: LATIN:Bodostock | LATIN:EURNZD
+aboutcompression-p46.json :: aboutcompression_p46_1160 :: NUM en=['1', '29'] fa=['29'] | LATIN:compression
+aboutcompression-p46.json :: aboutcompression_p46_1161 :: LATIN:Bodostock | LATIN:Internet | LATIN:Explorer | LATIN:save
+aboutcompression-p46.json :: aboutcompression_p46_1169 :: LATIN:PRIOR
+aboutcompression-p46.json :: aboutcompression_p46_1174 :: LATIN:AUDCHF | LATIN:CPLQ
+aboutcompression-p46.json :: aboutcompression_p46_1175 :: LATIN:CPLQ
+aboutcompression-p5.json :: aboutcompression_p5_127 :: LATIN:ttfreitas
+aboutcompression-p5.json :: aboutcompression_p5_128 :: LATIN:Paint | LATIN:JPEG
+aboutcompression-p5.json :: aboutcompression_p5_134 :: SLANG:داخ
+aboutcompression-p5.json :: aboutcompression_p5_136 :: LATIN:ttfreitas | SLANG:داخ
+aboutcompression-p5.json :: aboutcompression_p5_138 :: LATIN:cheer
+aboutcompression-p5.json :: aboutcompression_p5_139 :: LATIN:ttfreitas
+aboutcompression-p5.json :: aboutcompression_p5_140 :: LATIN:ttfreitas
+aboutcompression-p5.json :: aboutcompression_p5_141 :: LATIN:This | LATIN:Taken
+aboutcompression-p5.json :: aboutcompression_p5_142 :: LATIN:Acts | LATIN:This | LATIN:Taken | LATIN:taking
+aboutcompression-p5.json :: aboutcompression_p5_144 :: LATIN:whiteout | LATIN:Acts | LATIN:This | LATIN:Taken | LATIN:taking | LATIN:Acts | LATIN:White | LATIN:Witheout
+aboutcompression-p5.json :: aboutcompression_p5_146 :: LATIN:spring
+aboutcompression-p5.json :: aboutcompression_p5_147 :: LATIN:spring
+aboutcompression-p5.json :: aboutcompression_p5_148 :: LATIN:Spring | LATIN:GBPCHF
+aboutcompression-p5.json :: aboutcompression_p5_149 :: LATIN:Scribed
+aboutcompression-p6.json :: aboutcompression_p6_153 :: LATIN:Gilben
+aboutcompression-p6.json :: aboutcompression_p6_159 :: LATIN:Gilben
+aboutcompression-p6.json :: aboutcompression_p6_160 :: LATIN:Okami
+aboutcompression-p6.json :: aboutcompression_p6_161 :: LATIN:SETUP | LATIN:ROOM | LATIN:acegazette | LATIN:forum | LATIN:forex | LATIN:majors | LATIN:html | LATIN:start
+aboutcompression-p6.json :: aboutcompression_p6_162 :: LATIN:Lockhart
+aboutcompression-p6.json :: aboutcompression_p6_163 :: LATIN:Lockhart
+aboutcompression-p6.json :: aboutcompression_p6_165 :: LATIN:Liquidity | LATIN:CPLQ | LATIN:Lockhart
+aboutcompression-p6.json :: aboutcompression_p6_166 :: LATIN:rokuhaato | LATIN:Liquidity | LATIN:CPLQ | LATIN:Lockhart | LATIN:Lockhart | LATIN:CPLQ
+aboutcompression-p6.json :: aboutcompression_p6_167 :: LATIN:Gilben | LATIN:Lockhart
+aboutcompression-p6.json :: aboutcompression_p6_168 :: LATIN:viat
+aboutcompression-p6.json :: aboutcompression_p6_169 :: LATIN:Viat
+aboutcompression-p6.json :: aboutcompression_p6_175 :: LATIN:Binyamin
+aboutcompression-p9.json :: aboutcompression_p9_227 :: NUM en=['3', '99', '2', '1'] fa=['3', '99']
+aboutcompression-p9.json :: aboutcompression_p9_229 :: LATIN:Simon | SLANG:داخ
+aboutcompression-p9.json :: aboutcompression_p9_230 :: LATIN:Whiteout
+aboutcompression-p9.json :: aboutcompression_p9_232 :: LATIN:Brainer | LATIN:trades | LATIN:Simon
+aboutcompression-p9.json :: aboutcompression_p9_233 :: LATIN:tyoon
+aboutcompression-p9.json :: aboutcompression_p9_234 :: LATIN:whiteout
+aboutcompression-p9.json :: aboutcompression_p9_235 :: LATIN:Harry | LATIN:whiteout
+aboutcompression-p9.json :: aboutcompression_p9_237 :: LATIN:simon | SLANG:بام
+aboutcompression-p9.json :: aboutcompression_p9_238 :: LATIN:whiteout
+aboutcompression-p9.json :: aboutcompression_p9_239 :: LATIN:Ifmyante | LATIN:Brainer | LATIN:trades | LATIN:Simon
+aboutcompression-p9.json :: aboutcompression_p9_240 :: LATIN:Simon | LATIN:Ifmyante | LATIN:Brainer | LATIN:trades | LATIN:Simon | LATIN:Drive
+aboutcompression-p9.json :: aboutcompression_p9_242 :: LATIN:Quasimodo | SLANG:داخ
+aboutcompression-p9.json :: aboutcompression_p9_243 :: LATIN:Ashkan
+aboutcompression-p9.json :: aboutcompression_p9_246 :: LATIN:Ashkan | LATIN:Ashkan
+aboutcompression-p9.json :: aboutcompression_p9_247 :: LATIN:Simon | LATIN:Ashkan | LATIN:Simon
+aboutcompression-p9.json :: aboutcompression_p9_248 :: LATIN:Ashkan | SLANG:داخ
+aboutcompression-p9.json :: aboutcompression_p9_250 :: LATIN:Ifmyante
+dbrrbd-p1.json :: dbrrbd_p1_6 :: NUM en=['1', '5', '1', '2', '3'] fa=['1', '1', '2', '3'] | LATIN:minimalmonk | LATIN:fxsniffer | LATIN:gpdusd
+dbrrbd-p1.json :: dbrrbd_p1_9 :: LATIN:Doubletop
+dbrrbd-p1.json :: dbrrbd_p1_10 :: LATIN:ifmyante
+dbrrbd-p1.json :: dbrrbd_p1_14 :: LATIN:doubletop | LATIN:ifmyante
+dbrrbd-p1.json :: dbrrbd_p1_15 :: LATIN:doubletop
+dbrrbd-p1.json :: dbrrbd_p1_16 :: LATIN:Ifmyante | LATIN:doubletop
+dbrrbd-p1.json :: dbrrbd_p1_17 :: LATIN:Ifmyante | LATIN:doubletop
+dbrrbd-p1.json :: dbrrbd_p1_19 :: LATIN:cheer
+dbrrbd-p1.json :: dbrrbd_p1_20 :: LATIN:whiteout
+dbrrbd-p1.json :: dbrrbd_p1_21 :: LATIN:doubletop | LATIN:whiteout
+dbrrbd-p1.json :: dbrrbd_p1_22 :: LATIN:doubletop | LATIN:whiteout
+dbrrbd-p1.json :: dbrrbd_p1_23 :: LATIN:whiteout
+dbrrbd-p1.json :: dbrrbd_p1_24 :: LATIN:ifmyante
+dbrrbd-p1.json :: dbrrbd_p1_25 :: LATIN:whiteout
+dbrrbd-p10.json :: dbrrbd_p10_226 :: NUM en=['90', '48', '28', '10', '0', '5', '6', '27', '16', '4', '7', '0', '5', '200', '39', '200', '40', '200', '41', '200', '42', '200', '43', '200', '44', '200', '45', '200'] fa=['90', '48', '28', '10', '0', '5', '6', '16', '4', '7', '0', '5', '200', '39', '200', '40', '200', '41', '200', '42', '200', '43', '200', '44', '200', '45', '200']
+dbrrbd-p10.json :: dbrrbd_p10_228 :: LATIN:AUCCAD
+dbrrbd-p10.json :: dbrrbd_p10_229 :: LATIN:EURJPY
+dbrrbd-p10.json :: dbrrbd_p10_235 :: LATIN:Oedipus | LATIN:Oedipus | LATIN:Ashkan
+dbrrbd-p10.json :: dbrrbd_p10_236 :: LATIN:Oedipus
+dbrrbd-p10.json :: dbrrbd_p10_239 :: LATIN:acegazette | LATIN:articles | LATIN:html
+dbrrbd-p10.json :: dbrrbd_p10_248 :: LATIN:Ifmyante | LATIN:Chief | LATIN:Cook | LATIN:Bottle | LATIN:Washer | LATIN:ever | LATIN:find | LATIN:CathS
+dbrrbd-p10.json :: dbrrbd_p10_249 :: LATIN:Cath
+dbrrbd-p11.json :: dbrrbd_p11_251 :: LATIN:Mika
+dbrrbd-p11.json :: dbrrbd_p11_252 :: LATIN:Mika | LATIN:mika
+dbrrbd-p11.json :: dbrrbd_p11_254 :: LATIN:Oedipus | LATIN:cath
+dbrrbd-p11.json :: dbrrbd_p11_258 :: LATIN:GBPJPY
+dbrrbd-p11.json :: dbrrbd_p11_259 :: LATIN:uceego
+dbrrbd-p11.json :: dbrrbd_p11_260 :: LATIN:uceego | LATIN:Rufus | LATIN:uceego | LATIN:Rufus
+dbrrbd-p11.json :: dbrrbd_p11_261 :: LATIN:EURAUD
+dbrrbd-p11.json :: dbrrbd_p11_264 :: SLANG:داخ
+dbrrbd-p11.json :: dbrrbd_p11_271 :: LATIN:Drop | LATIN:Base | LATIN:Rally | LATIN:Rally | LATIN:Base | LATIN:Drop | LATIN:Drop | LATIN:Base
+dbrrbd-p11.json :: dbrrbd_p11_274 :: LATIN:image | LATIN:shack | LATIN:gazette | SLANG:داخ
+dbrrbd-p11.json :: dbrrbd_p11_275 :: LATIN:naughty | LATIN:attachments | LATIN:file | LATIN:insert | LATIN:babypips | LATIN:forex | LATIN:factory
+dbrrbd-p12.json :: dbrrbd_p12_277 :: LATIN:CMIIW
+dbrrbd-p12.json :: dbrrbd_p12_278 :: LATIN:Bayuar | SLANG:داخ
+dbrrbd-p12.json :: dbrrbd_p12_279 :: LATIN:tyoon | LATIN:Gazette | LATIN:ACES | LATIN:Academy | LATIN:Traders
+dbrrbd-p12.json :: dbrrbd_p12_281 :: LATIN:Bayuar | SLANG:داخ
+dbrrbd-p12.json :: dbrrbd_p12_286 :: LATIN:Gilben
+dbrrbd-p12.json :: dbrrbd_p12_288 :: LATIN:PureMuscle | LATIN:emenes
+dbrrbd-p12.json :: dbrrbd_p12_289 :: LATIN:cmiiw
+dbrrbd-p12.json :: dbrrbd_p12_290 :: LATIN:MASTA
+dbrrbd-p12.json :: dbrrbd_p12_291 :: LATIN:masta | SLANG:داخ
+dbrrbd-p12.json :: dbrrbd_p12_292 :: LATIN:Bayuar | SLANG:داخ
+dbrrbd-p12.json :: dbrrbd_p12_295 :: LATIN:Simple | LATIN:Sandy | LATIN:Simple
+dbrrbd-p12.json :: dbrrbd_p12_297 :: LATIN:Adam
+dbrrbd-p12.json :: dbrrbd_p12_299 :: LATIN:Emma
+dbrrbd-p13.json :: dbrrbd_p13_307 :: LATIN:faldot
+dbrrbd-p13.json :: dbrrbd_p13_308 :: LATIN:dropbox
+dbrrbd-p13.json :: dbrrbd_p13_309 :: LATIN:dropbox
+dbrrbd-p13.json :: dbrrbd_p13_310 :: LATIN:dropbox | LATIN:Faldot
+dbrrbd-p13.json :: dbrrbd_p13_311 :: LATIN:GBPCHF
+dbrrbd-p13.json :: dbrrbd_p13_312 :: LATIN:GBPCHF
+dbrrbd-p13.json :: dbrrbd_p13_313 :: LATIN:CMIIW
+dbrrbd-p13.json :: dbrrbd_p13_314 :: LATIN:Knight
+dbrrbd-p13.json :: dbrrbd_p13_315 :: LATIN:LequalsS
+dbrrbd-p13.json :: dbrrbd_p13_319 :: LATIN:Harry | LATIN:Harry
+dbrrbd-p13.json :: dbrrbd_p13_320 :: LATIN:EURGBP
+dbrrbd-p13.json :: dbrrbd_p13_321 :: LATIN:eurusd
+dbrrbd-p13.json :: dbrrbd_p13_325 :: NUM en=['4'] fa=[]
+dbrrbd-p14.json :: dbrrbd_p14_326 :: LATIN:outapips | LATIN:outapips | LATIN:acegazette | LATIN:community | LATIN:foru | LATIN:html | LATIN:start
+dbrrbd-p14.json :: dbrrbd_p14_327 :: LATIN:Redknight
+dbrrbd-p14.json :: dbrrbd_p14_331 :: LATIN:drive
+dbrrbd-p14.json :: dbrrbd_p14_332 :: NUM en=['4', '1', '30'] fa=['1', '30'] | LATIN:whiteout
+dbrrbd-p14.json :: dbrrbd_p14_333 :: LATIN:ttfreitas
+dbrrbd-p14.json :: dbrrbd_p14_334 :: LATIN:FRESH | LATIN:TOUCHED | LATIN:SWAP | LATIN:SWAP
+dbrrbd-p14.json :: dbrrbd_p14_336 :: SLANG:داخ
+dbrrbd-p14.json :: dbrrbd_p14_337 :: LATIN:Rufus | LATIN:Rufus
+dbrrbd-p14.json :: dbrrbd_p14_340 :: LATIN:ttfreitas | SLANG:داخ
+dbrrbd-p14.json :: dbrrbd_p14_341 :: LATIN:madwt
+dbrrbd-p14.json :: dbrrbd_p14_342 :: LATIN:Finding | LATIN:Decisions | LATIN:Gazette
+dbrrbd-p14.json :: dbrrbd_p14_343 :: LATIN:Benhur | LATIN:Seiden
+dbrrbd-p14.json :: dbrrbd_p14_344 :: LATIN:EURJPY | LATIN:EURJPY
+dbrrbd-p14.json :: dbrrbd_p14_346 :: LATIN:Madwt
+dbrrbd-p14.json :: dbrrbd_p14_347 :: LATIN:Madwt
+dbrrbd-p14.json :: dbrrbd_p14_350 :: LATIN:ifmyante
+dbrrbd-p15.json :: dbrrbd_p15_351 :: LATIN:outapips | LATIN:outapips | LATIN:EURJPY | LATIN:EURJPY
+dbrrbd-p15.json :: dbrrbd_p15_352 :: LATIN:ttfreitas
+dbrrbd-p15.json :: dbrrbd_p15_353 :: LATIN:ttfreitas
+dbrrbd-p15.json :: dbrrbd_p15_355 :: LATIN:Outapips | LATIN:Madwt | LATIN:Outapips
+dbrrbd-p15.json :: dbrrbd_p15_358 :: LATIN:Madwt
+dbrrbd-p15.json :: dbrrbd_p15_360 :: LATIN:Madwt
+dbrrbd-p15.json :: dbrrbd_p15_361 :: LATIN:snebuca
+dbrrbd-p15.json :: dbrrbd_p15_362 :: NUM en=['4', '3', '1', '4', '15', '1', '1', '10', '100', '3', '1', '33', '15', '100', '6', '1', '4', '4', '1', '15', '1', '2', '4', '1', '15'] fa=['4', '3', '1', '4', '15', '1', '100', '3', '1', '33', '15', '100', '6', '1', '4', '4', '1', '15', '1', '2', '4', '1', '15'] | SLANG:داخ
+dbrrbd-p15.json :: dbrrbd_p15_365 :: LATIN:madwt
+dbrrbd-p15.json :: dbrrbd_p15_366 :: LATIN:Outapips | LATIN:Madwt
+dbrrbd-p15.json :: dbrrbd_p15_367 :: LATIN:Outapips
+dbrrbd-p15.json :: dbrrbd_p15_368 :: LATIN:Rufus
+dbrrbd-p15.json :: dbrrbd_p15_369 :: LATIN:Lustruce | LATIN:Rufus
+dbrrbd-p15.json :: dbrrbd_p15_370 :: LATIN:Faldot
+dbrrbd-p15.json :: dbrrbd_p15_371 :: LATIN:Faldot
+dbrrbd-p15.json :: dbrrbd_p15_372 :: LATIN:Ifmyante | LATIN:Faldot
+dbrrbd-p15.json :: dbrrbd_p15_373 :: LATIN:Ifmyante | LATIN:Faldot
+dbrrbd-p15.json :: dbrrbd_p15_374 :: LATIN:jetscreenshot | LATIN:demo | LATIN:piae
+dbrrbd-p15.json :: dbrrbd_p15_375 :: LATIN:Mamba
+dbrrbd-p16.json :: dbrrbd_p16_376 :: NUM en=['2', '1'] fa=['1']
+dbrrbd-p16.json :: dbrrbd_p16_377 :: LATIN:Mamba
+dbrrbd-p16.json :: dbrrbd_p16_378 :: NUM en=['2'] fa=[]
+dbrrbd-p16.json :: dbrrbd_p16_383 :: LATIN:Outapips
+dbrrbd-p16.json :: dbrrbd_p16_384 :: LATIN:okami | LATIN:Outapips | LATIN:okami
+dbrrbd-p16.json :: dbrrbd_p16_385 :: LATIN:Rogeid
+dbrrbd-p16.json :: dbrrbd_p16_386 :: LATIN:Ashkan
+dbrrbd-p16.json :: dbrrbd_p16_387 :: LATIN:Springer
+dbrrbd-p16.json :: dbrrbd_p16_388 :: LATIN:Bushido
+dbrrbd-p16.json :: dbrrbd_p16_389 :: LATIN:Cath
+dbrrbd-p16.json :: dbrrbd_p16_392 :: LATIN:Bushido
+dbrrbd-p16.json :: dbrrbd_p16_393 :: NUM en=['1'] fa=[] | LATIN:fxfury
+dbrrbd-p16.json :: dbrrbd_p16_395 :: LATIN:Blacky
+dbrrbd-p16.json :: dbrrbd_p16_396 :: LATIN:AlexC | LATIN:Blacky | LATIN:Alex
+dbrrbd-p16.json :: dbrrbd_p16_397 :: LATIN:Blacky
+dbrrbd-p16.json :: dbrrbd_p16_398 :: LATIN:Raven
+dbrrbd-p16.json :: dbrrbd_p16_399 :: LATIN:Simpleguy
+dbrrbd-p16.json :: dbrrbd_p16_400 :: LATIN:Elliot
+dbrrbd-p17.json :: dbrrbd_p17_401 :: LATIN:okami
+dbrrbd-p17.json :: dbrrbd_p17_403 :: LATIN:Ifmyante
+dbrrbd-p17.json :: dbrrbd_p17_404 :: LATIN:Ifmyante
+dbrrbd-p17.json :: dbrrbd_p17_405 :: LATIN:Ifmyante
+dbrrbd-p17.json :: dbrrbd_p17_407 :: LATIN:Blacky
+dbrrbd-p17.json :: dbrrbd_p17_408 :: LATIN:Simon
+dbrrbd-p17.json :: dbrrbd_p17_409 :: LATIN:Blacky | SLANG:داخ
+dbrrbd-p17.json :: dbrrbd_p17_412 :: LATIN:Ifmyante
+dbrrbd-p17.json :: dbrrbd_p17_413 :: LATIN:Nosbigs | LATIN:minimalmonk
+dbrrbd-p17.json :: dbrrbd_p17_424 :: LATIN:Peter
+dbrrbd-p17.json :: dbrrbd_p17_425 :: LATIN:Peter
+dbrrbd-p18.json :: dbrrbd_p18_431 :: LATIN:drop | LATIN:base | LATIN:rally
+dbrrbd-p18.json :: dbrrbd_p18_433 :: LATIN:drop | LATIN:base | LATIN:rally | LATIN:inside | LATIN:outside | LATIN:white | LATIN:soldiers | LATIN:engulfing
+dbrrbd-p18.json :: dbrrbd_p18_437 :: LATIN:Seiden | LATIN:hard | LATIN:right | LATIN:edge | LATIN:touch | LATIN:decision | LATIN:point | LATIN:book
+dbrrbd-p18.json :: dbrrbd_p18_439 :: LATIN:mettafort | LATIN:Supply | LATIN:Demand | LATIN:Supply | LATIN:Demand | LATIN:Supply | LATIN:Demand
+dbrrbd-p18.json :: dbrrbd_p18_440 :: LATIN:mettafort | LATIN:Seiden | LATIN:mettafort | LATIN:hard | LATIN:right | LATIN:edge | LATIN:mettafort | LATIN:compression
+dbrrbd-p18.json :: dbrrbd_p18_441 :: LATIN:Hotochin
+dbrrbd-p18.json :: dbrrbd_p18_442 :: LATIN:mettafort | LATIN:decision | LATIN:point | LATIN:book | LATIN:book | LATIN:book | LATIN:decision | LATIN:point
+dbrrbd-p18.json :: dbrrbd_p18_443 :: LATIN:benhur | LATIN:Supply | LATIN:Demand | LATIN:hard | LATIN:right | LATIN:edge | LATIN:markepedia
+dbrrbd-p18.json :: dbrrbd_p18_444 :: LATIN:Markepedia | LATIN:Supply | LATIN:Demand | LATIN:fakeout
+dbrrbd-p18.json :: dbrrbd_p18_445 :: LATIN:Harry | LATIN:compression
+dbrrbd-p18.json :: dbrrbd_p18_446 :: LATIN:Christian | LATIN:mettafort | LATIN:decision | LATIN:point | LATIN:decision | LATIN:point | LATIN:CONVICTION | LATIN:flag
+dbrrbd-p18.json :: dbrrbd_p18_447 :: LATIN:mettafort | LATIN:Harry | LATIN:compression
+dbrrbd-p18.json :: dbrrbd_p18_449 :: LATIN:reject | LATIN:Spongy
+dbrrbd-p19.json :: dbrrbd_p19_451 :: LATIN:EURJPY
+dbrrbd-p19.json :: dbrrbd_p19_453 :: LATIN:Spongy
+dbrrbd-p19.json :: dbrrbd_p19_454 :: LATIN:Drop | LATIN:compression | LATIN:compression | LATIN:Supply | LATIN:Resistance | LATIN:Spongy
+dbrrbd-p19.json :: dbrrbd_p19_456 :: LATIN:Spongy
+dbrrbd-p19.json :: dbrrbd_p19_458 :: LATIN:mettafort | LATIN:Pros | LATIN:Cons | LATIN:Pros | LATIN:Cons | LATIN:Price | LATIN:Action | LATIN:Spongy
+dbrrbd-p19.json :: dbrrbd_p19_459 :: LATIN:Spongy | LATIN:over | LATIN:analyze | LATIN:Spongy | LATIN:Drop | LATIN:drop | LATIN:drop | LATIN:drop
+dbrrbd-p19.json :: dbrrbd_p19_461 :: LATIN:mettafort
+dbrrbd-p19.json :: dbrrbd_p19_462 :: LATIN:wick | LATIN:tail | LATIN:resting | LATIN:liquidity | LATIN:taker | LATIN:breakout | LATIN:value
+dbrrbd-p19.json :: dbrrbd_p19_463 :: LATIN:Infest
+dbrrbd-p19.json :: dbrrbd_p19_464 :: LATIN:Mettafort | LATIN:Supply | LATIN:Resistance | LATIN:Resistance | LATIN:Supply | LATIN:Supply | LATIN:Price | LATIN:Action
+dbrrbd-p19.json :: dbrrbd_p19_465 :: LATIN:Spongy
+dbrrbd-p19.json :: dbrrbd_p19_466 :: LATIN:Spongy | LATIN:confluence | LATIN:fake | LATIN:drop | LATIN:bulls | LATIN:breakout | LATIN:futures | LATIN:futures
+dbrrbd-p19.json :: dbrrbd_p19_467 :: LATIN:tradingjedi | LATIN:mettafort | LATIN:webinar | LATIN:hindsight | LATIN:expose | LATIN:Spongy | LATIN:tradingjedi | SLANG:داخ
+dbrrbd-p19.json :: dbrrbd_p19_468 :: LATIN:plug | LATIN:Supply | LATIN:raid | LATIN:Supply | LATIN:Supply | LATIN:Demand | LATIN:Supply | LATIN:flip
+dbrrbd-p19.json :: dbrrbd_p19_469 :: LATIN:tradingjedi
+dbrrbd-p19.json :: dbrrbd_p19_470 :: LATIN:tradingjedi | LATIN:Spongy
+dbrrbd-p19.json :: dbrrbd_p19_471 :: LATIN:Cocoa | LATIN:Futures
+dbrrbd-p19.json :: dbrrbd_p19_472 :: LATIN:Spongy | LATIN:flip | LATIN:breakout | LATIN:Spongy
+dbrrbd-p19.json :: dbrrbd_p19_473 :: LATIN:Spongiform | LATIN:tradingjedi | LATIN:Spongy
+dbrrbd-p19.json :: dbrrbd_p19_474 :: LATIN:flip | LATIN:drop | LATIN:decision | LATIN:point | LATIN:tail | LATIN:wick | LATIN:over | LATIN:analyze
+dbrrbd-p19.json :: dbrrbd_p19_475 :: LATIN:Spongy | LATIN:Spongiform | LATIN:tradingjedi | LATIN:Spongy
+dbrrbd-p2.json :: dbrrbd_p2_26 :: LATIN:whiteout | LATIN:cheer | LATIN:Whiteout
+dbrrbd-p2.json :: dbrrbd_p2_30 :: LATIN:minimalmonk
+dbrrbd-p2.json :: dbrrbd_p2_31 :: LATIN:cheer
+dbrrbd-p2.json :: dbrrbd_p2_32 :: LATIN:audusd
+dbrrbd-p2.json :: dbrrbd_p2_34 :: LATIN:eurusd | LATIN:eurusd
+dbrrbd-p2.json :: dbrrbd_p2_38 :: LATIN:Osman
+dbrrbd-p2.json :: dbrrbd_p2_40 :: LATIN:Elin
+dbrrbd-p2.json :: dbrrbd_p2_41 :: LATIN:Chokdee | LATIN:Chokdee
+dbrrbd-p2.json :: dbrrbd_p2_42 :: LATIN:chokdee
+dbrrbd-p2.json :: dbrrbd_p2_46 :: LATIN:Whiteout | LATIN:whiteout
+dbrrbd-p2.json :: dbrrbd_p2_47 :: LATIN:whiteout
+dbrrbd-p2.json :: dbrrbd_p2_48 :: LATIN:Okami
+dbrrbd-p2.json :: dbrrbd_p2_50 :: LATIN:Okami | LATIN:cheer
+dbrrbd-p20.json :: dbrrbd_p20_476 :: LATIN:Battleship | LATIN:Drop | LATIN:Rally | LATIN:spike | LATIN:spike | LATIN:Supply | LATIN:Supply | LATIN:front
+dbrrbd-p20.json :: dbrrbd_p20_477 :: LATIN:Spongy | LATIN:iPad
+dbrrbd-p20.json :: dbrrbd_p20_478 :: LATIN:Spongy | LATIN:drop | LATIN:bear | LATIN:spike | LATIN:compression | LATIN:drop | LATIN:decision | LATIN:point
+dbrrbd-p20.json :: dbrrbd_p20_479 :: LATIN:double | LATIN:multi | LATIN:time | LATIN:frame | LATIN:drill | LATIN:down | LATIN:Spongy
+dbrrbd-p20.json :: dbrrbd_p20_480 :: LATIN:Demand | LATIN:Demand | LATIN:Spongy | LATIN:pixie
+dbrrbd-p20.json :: dbrrbd_p20_481 :: LATIN:Spongy | LATIN:Spongy
+dbrrbd-p20.json :: dbrrbd_p20_482 :: LATIN:Spongy | LATIN:iPad
+dbrrbd-p20.json :: dbrrbd_p20_483 :: LATIN:Euro | LATIN:Futures | LATIN:EURJPY | LATIN:scalp
+dbrrbd-p20.json :: dbrrbd_p20_484 :: LATIN:mettafort | LATIN:deep | LATIN:dive | LATIN:tail | LATIN:Price | LATIN:Action | LATIN:mean | LATIN:reversion
+dbrrbd-p20.json :: dbrrbd_p20_485 :: LATIN:Spongy | LATIN:engulf | LATIN:compression | LATIN:scale | LATIN:double | LATIN:pullback | LATIN:engulf | LATIN:Spongy
+dbrrbd-p20.json :: dbrrbd_p20_486 :: LATIN:flip | LATIN:spike | LATIN:smash | LATIN:grab | LATIN:DBRagainst | LATIN:play | LATIN:Price | LATIN:Action
+dbrrbd-p20.json :: dbrrbd_p20_487 :: LATIN:Spongy | LATIN:flip | LATIN:screen | LATIN:time | LATIN:safe | LATIN:production | LATIN:scalp | LATIN:dabble
+dbrrbd-p20.json :: dbrrbd_p20_488 :: LATIN:techie | LATIN:severity | LATIN:Entry | LATIN:Stop | LATIN:Entry | LATIN:Stop | LATIN:nails | LATIN:bracket
+dbrrbd-p20.json :: dbrrbd_p20_489 :: LATIN:Spongy | LATIN:tail | LATIN:Spongy | LATIN:Spongy | LATIN:breakout | LATIN:rally | LATIN:base | LATIN:drop
+dbrrbd-p20.json :: dbrrbd_p20_496 :: NUM en=['1'] fa=[]
+dbrrbd-p20.json :: dbrrbd_p20_497 :: LATIN:Price | LATIN:Action | LATIN:intent | LATIN:Infest | LATIN:skim | LATIN:subconsciously | LATIN:engulf | LATIN:Supply
+dbrrbd-p20.json :: dbrrbd_p20_498 :: LATIN:bennygill | LATIN:attachment | LATIN:Spongy
+dbrrbd-p20.json :: dbrrbd_p20_499 :: LATIN:Spongy
+dbrrbd-p21.json :: dbrrbd_p21_501 :: LATIN:Barron
+dbrrbd-p21.json :: dbrrbd_p21_507 :: LATIN:Neopips
+dbrrbd-p21.json :: dbrrbd_p21_509 :: LATIN:Dave
+dbrrbd-p21.json :: dbrrbd_p21_511 :: LATIN:Harry | LATIN:Dave
+dbrrbd-p21.json :: dbrrbd_p21_512 :: LATIN:Doctor | LATIN:Doctor | LATIN:Spongy
+dbrrbd-p21.json :: dbrrbd_p21_517 :: LATIN:Bravo | LATIN:Spongy | SLANG:داخ
+dbrrbd-p21.json :: dbrrbd_p21_519 :: LATIN:Dane
+dbrrbd-p21.json :: dbrrbd_p21_520 :: LATIN:Dane
+dbrrbd-p21.json :: dbrrbd_p21_521 :: LATIN:Dane
+dbrrbd-p21.json :: dbrrbd_p21_522 :: LATIN:Danish
+dbrrbd-p21.json :: dbrrbd_p21_523 :: LATIN:Spongiform | LATIN:Bravo | LATIN:Spongy | SLANG:داخ
+dbrrbd-p21.json :: dbrrbd_p21_525 :: NUM en=['1', '1', '1', '13', '1', '4', '1', '4', '4', '1', '1', '1', '1', '0160', '1', '15'] fa=['1', '1', '13', '1', '4', '1', '4', '4', '1', '1', '1', '1', '0160', '1', '15'] | LATIN:AUDCAD
+dbrrbd-p22.json :: dbrrbd_p22_526 :: LATIN:Traders
+dbrrbd-p22.json :: dbrrbd_p22_527 :: LATIN:Ramshorn
+dbrrbd-p22.json :: dbrrbd_p22_528 :: LATIN:Ramshorn | LATIN:extreme | LATIN:wick | LATIN:wick | LATIN:flip | LATIN:Supply
+dbrrbd-p22.json :: dbrrbd_p22_529 :: LATIN:Kanzler | LATIN:Ramshorn
+dbrrbd-p22.json :: dbrrbd_p22_534 :: NUM en=['3', '1', '1', '4', '3', '2', '2', '2', '2', '4', '3', '3', '2', '4'] fa=['3', '1', '1', '4', '2', '2', '2', '4', '3', '3', '4']
+dbrrbd-p22.json :: dbrrbd_p22_535 :: LATIN:Nicolas
+dbrrbd-p22.json :: dbrrbd_p22_536 :: LATIN:Nicolas
+dbrrbd-p22.json :: dbrrbd_p22_537 :: LATIN:reject | LATIN:engulf
+dbrrbd-p22.json :: dbrrbd_p22_539 :: LATIN:Genesis
+dbrrbd-p22.json :: dbrrbd_p22_540 :: LATIN:nichess | LATIN:reject | LATIN:engulf | LATIN:Multi | LATIN:Time | LATIN:Frame
+dbrrbd-p22.json :: dbrrbd_p22_541 :: LATIN:benhur | LATIN:Genesis | LATIN:Benhur | LATIN:Gene
+dbrrbd-p22.json :: dbrrbd_p22_542 :: LATIN:Genesis | LATIN:benhur | LATIN:Genesis | LATIN:Benhur | LATIN:Gene | LATIN:Gene
+dbrrbd-p22.json :: dbrrbd_p22_543 :: LATIN:EUREKA
+dbrrbd-p22.json :: dbrrbd_p22_544 :: LATIN:nichess | LATIN:Demand | LATIN:Supply | LATIN:multi | LATIN:time | LATIN:frame | LATIN:Index | LATIN:Price
+dbrrbd-p22.json :: dbrrbd_p22_545 :: LATIN:benhur | LATIN:Gene | LATIN:gene
+dbrrbd-p22.json :: dbrrbd_p22_546 :: LATIN:Genesis | LATIN:DECISION | LATIN:POINT | LATIN:stack
+dbrrbd-p22.json :: dbrrbd_p22_548 :: LATIN:Support | LATIN:Resistance | LATIN:Supply | LATIN:Demand
+dbrrbd-p22.json :: dbrrbd_p22_549 :: LATIN:lurk | SLANG:داخ
+dbrrbd-p23.json :: dbrrbd_p23_551 :: LATIN:Kenneth
+dbrrbd-p23.json :: dbrrbd_p23_552 :: LATIN:Kenneth
+dbrrbd-p23.json :: dbrrbd_p23_553 :: NUM en=['2'] fa=[] | LATIN:Kenneth
+dbrrbd-p23.json :: dbrrbd_p23_554 :: LATIN:Kenneth
+dbrrbd-p23.json :: dbrrbd_p23_555 :: NUM en=['2'] fa=[] | LATIN:kenwoh | LATIN:Kenneth | LATIN:Kenneth
+dbrrbd-p23.json :: dbrrbd_p23_556 :: LATIN:Kenneth
+dbrrbd-p23.json :: dbrrbd_p23_557 :: LATIN:kenwoh | LATIN:Kenneth
+dbrrbd-p23.json :: dbrrbd_p23_558 :: LATIN:Kenneth
+dbrrbd-p23.json :: dbrrbd_p23_559 :: LATIN:kenwoh | LATIN:Kenneth
+dbrrbd-p23.json :: dbrrbd_p23_560 :: LATIN:Kenneth
+dbrrbd-p23.json :: dbrrbd_p23_561 :: LATIN:kenneth
+dbrrbd-p23.json :: dbrrbd_p23_562 :: NUM en=['20', '20', '20', '1', '2', '1'] fa=['20', '20', '20', '2', '1']
+dbrrbd-p23.json :: dbrrbd_p23_564 :: LATIN:EurUsd
+dbrrbd-p23.json :: dbrrbd_p23_568 :: LATIN:Jiris
+dbrrbd-p23.json :: dbrrbd_p23_570 :: LATIN:Jiris
+dbrrbd-p23.json :: dbrrbd_p23_571 :: LATIN:keroro | LATIN:Jiris
+dbrrbd-p23.json :: dbrrbd_p23_572 :: LATIN:keroro | LATIN:Jiris
+dbrrbd-p24.json :: dbrrbd_p24_576 :: NUM en=['1', '1', '1', '9'] fa=['1', '1', '9'] | LATIN:action | LATIN:Uploaded | LATIN:with | LATIN:ImageShack
+dbrrbd-p24.json :: dbrrbd_p24_577 :: LATIN:Uploaded | LATIN:with | LATIN:ImageShack
+dbrrbd-p24.json :: dbrrbd_p24_581 :: LATIN:Kelvin
+dbrrbd-p24.json :: dbrrbd_p24_586 :: LATIN:Drop | LATIN:BASE | LATIN:Rally | LATIN:Rally | LATIN:BASE | LATIN:Drop
+dbrrbd-p24.json :: dbrrbd_p24_590 :: LATIN:Drop | LATIN:Base | LATIN:Rally | LATIN:Rally | LATIN:Base | LATIN:Drop
+dbrrbd-p24.json :: dbrrbd_p24_591 :: LATIN:forex
+dbrrbd-p24.json :: dbrrbd_p24_592 :: LATIN:forex
+dbrrbd-p24.json :: dbrrbd_p24_593 :: LATIN:Adrian
+dbrrbd-p24.json :: dbrrbd_p24_594 :: LATIN:Harry | LATIN:forex | LATIN:Harry
+dbrrbd-p24.json :: dbrrbd_p24_595 :: LATIN:Adrian | LATIN:Ramjet | LATIN:Adrian
+dbrrbd-p24.json :: dbrrbd_p24_597 :: NUM en=['1', '2', '3', '4', '1', '5', '4', '4'] fa=['1', '2', '3', '4', '1', '5', '4'] | LATIN:paint | LATIN:Patrick
+dbrrbd-p24.json :: dbrrbd_p24_598 :: LATIN:Kelvin
+dbrrbd-p24.json :: dbrrbd_p24_599 :: LATIN:Kelvin
+dbrrbd-p24.json :: dbrrbd_p24_600 :: LATIN:Kelvin
+dbrrbd-p25.json :: dbrrbd_p25_604 :: LATIN:SunnyFX
+dbrrbd-p25.json :: dbrrbd_p25_606 :: LATIN:Ranganus
+dbrrbd-p25.json :: dbrrbd_p25_608 :: LATIN:Genesis | LATIN:Genesis | LATIN:DROP | LATIN:BASE | LATIN:RALLY
+dbrrbd-p25.json :: dbrrbd_p25_610 :: LATIN:Paul
+dbrrbd-p25.json :: dbrrbd_p25_611 :: LATIN:Genesis | LATIN:Paul | LATIN:Genesis
+dbrrbd-p25.json :: dbrrbd_p25_614 :: LATIN:Genesis | LATIN:genesis | LATIN:Genesis | LATIN:Paul | LATIN:George
+dbrrbd-p25.json :: dbrrbd_p25_615 :: LATIN:Mike | LATIN:Mike | LATIN:Rally | LATIN:Base | LATIN:Drop | LATIN:Drop | LATIN:Base | LATIN:Rally
+dbrrbd-p25.json :: dbrrbd_p25_616 :: LATIN:Paul | LATIN:Paul | LATIN:Paul
+dbrrbd-p25.json :: dbrrbd_p25_617 :: LATIN:SunnyFX
+dbrrbd-p25.json :: dbrrbd_p25_619 :: LATIN:Paul
+dbrrbd-p25.json :: dbrrbd_p25_620 :: LATIN:Mike | LATIN:Paul | LATIN:Mike
+dbrrbd-p25.json :: dbrrbd_p25_621 :: LATIN:Sniffers
+dbrrbd-p25.json :: dbrrbd_p25_623 :: LATIN:DAVZUN | LATIN:DAVZUN | LATIN:readthemarket | LATIN:index | LATIN:forum | LATIN:welcom | LATIN:charts | LATIN:attachments
+dbrrbd-p25.json :: dbrrbd_p25_625 :: LATIN:rcmacf
+dbrrbd-p26.json :: dbrrbd_p26_626 :: LATIN:Paul | LATIN:rcmacf | LATIN:engulf | LATIN:decision | LATIN:point | LATIN:engulf | LATIN:engulf
+dbrrbd-p26.json :: dbrrbd_p26_627 :: LATIN:rcmacf | LATIN:Paul | LATIN:rcmacf | LATIN:engulf | LATIN:decision | LATIN:point | LATIN:engulf | LATIN:engulf
+dbrrbd-p26.json :: dbrrbd_p26_628 :: NUM en=['5', '1', '1', '2', '3', '1', '1', '2', '1', '1', '2', '1', '2', '3', '1', '1', '5', '1', '5', '2', '2', '3', '4', '20', '3'] fa=['5', '1', '1', '2', '3', '1', '1', '2', '1', '1', '2', '1', '2', '3', '1', '1', '5', '1', '5', '2', '2', '3', '4', '20'] | LATIN:flag | LATIN:First | LATIN:Time | LATIN:Back | LATIN:flag | LATIN:choppy | LATIN:engulf
+dbrrbd-p26.json :: dbrrbd_p26_629 :: LATIN:flip | LATIN:flag | LATIN:insert | LATIN:extreme | SLANG:داخ
+dbrrbd-p26.json :: dbrrbd_p26_630 :: LATIN:decision | LATIN:point
+dbrrbd-p26.json :: dbrrbd_p26_631 :: LATIN:compression | LATIN:compression | LATIN:engulf | LATIN:flag | LATIN:pole | LATIN:hindsight | LATIN:extreme | LATIN:fake
+dbrrbd-p26.json :: dbrrbd_p26_634 :: NUM en=['7', '7', '7', '1', '1', '7', '7', '7', '7', '7', '7', '7', '7', '1', '7', '7', '7'] fa=['7', '7', '7', '1', '1', '7', '7', '7', '7', '7', '7', '7', '7', '7', '7', '7'] | LATIN:flag | LATIN:drop | LATIN:engulf | LATIN:engulf | LATIN:engulf | LATIN:engulf | LATIN:compression
+dbrrbd-p26.json :: dbrrbd_p26_635 :: LATIN:pause
+dbrrbd-p26.json :: dbrrbd_p26_636 :: LATIN:rcmacf
+dbrrbd-p26.json :: dbrrbd_p26_637 :: LATIN:Harry | LATIN:drop | LATIN:flag
+dbrrbd-p26.json :: dbrrbd_p26_638 :: LATIN:rcmacf
+dbrrbd-p26.json :: dbrrbd_p26_639 :: LATIN:flip | LATIN:fakeout | LATIN:flip | LATIN:First | LATIN:Time | LATIN:Back
+dbrrbd-p26.json :: dbrrbd_p26_640 :: LATIN:extreme | LATIN:spike | LATIN:sexy | LATIN:bull | SLANG:داخ
+dbrrbd-p26.json :: dbrrbd_p26_641 :: LATIN:rcmacf
+dbrrbd-p26.json :: dbrrbd_p26_642 :: LATIN:Victor | LATIN:jing
+dbrrbd-p26.json :: dbrrbd_p26_643 :: LATIN:romano | LATIN:Victor | LATIN:jing | LATIN:Paint | LATIN:Resize
+dbrrbd-p26.json :: dbrrbd_p26_644 :: LATIN:Harry | LATIN:rcmacf
+dbrrbd-p26.json :: dbrrbd_p26_645 :: LATIN:faridisham | LATIN:faridisham | LATIN:Windows | LATIN:Paint
+dbrrbd-p26.json :: dbrrbd_p26_646 :: LATIN:faridisham | LATIN:clip
+dbrrbd-p26.json :: dbrrbd_p26_647 :: LATIN:Jetscreenshot
+dbrrbd-p26.json :: dbrrbd_p26_648 :: LATIN:DrSwing | LATIN:rcmacf | LATIN:homework
+dbrrbd-p26.json :: dbrrbd_p26_649 :: LATIN:THIS | LATIN:essential | LATIN:exercises
+dbrrbd-p26.json :: dbrrbd_p26_650 :: LATIN:flag | LATIN:extreme | LATIN:fakeout
+dbrrbd-p27.json :: dbrrbd_p27_651 :: LATIN:spike | LATIN:compression | SLANG:داخ
+dbrrbd-p27.json :: dbrrbd_p27_653 :: LATIN:Farid | LATIN:faridisham
+dbrrbd-p27.json :: dbrrbd_p27_654 :: NUM en=['2'] fa=[] | LATIN:rcmacf | LATIN:Farid | LATIN:rcmacf
+dbrrbd-p27.json :: dbrrbd_p27_655 :: NUM en=['2'] fa=[] | LATIN:engulf | LATIN:entered | LATIN:compression | LATIN:engulf | LATIN:engulf | LATIN:compression | LATIN:engulf
+dbrrbd-p27.json :: dbrrbd_p27_656 :: LATIN:FXCM | LATIN:File | LATIN:Save | LATIN:Image | LATIN:Paint | LATIN:Paint | LATIN:Paint | LATIN:Jing
+dbrrbd-p27.json :: dbrrbd_p27_657 :: LATIN:flag | LATIN:TALL | LATIN:Whiteout | LATIN:wick | SLANG:داخ
+dbrrbd-p27.json :: dbrrbd_p27_658 :: LATIN:Sketch | LATIN:readthemarket | LATIN:index | LATIN:forum | LATIN:charts | LATIN:attachments | SLANG:داخ
+dbrrbd-p27.json :: dbrrbd_p27_659 :: LATIN:Victor
+dbrrbd-p27.json :: dbrrbd_p27_660 :: LATIN:romano | LATIN:Victor | LATIN:romano
+dbrrbd-p27.json :: dbrrbd_p27_661 :: LATIN:Sketch | LATIN:flag | LATIN:TALL | LATIN:Whiteout | LATIN:wick | SLANG:داخ
+dbrrbd-p27.json :: dbrrbd_p27_662 :: LATIN:Sketch | LATIN:Sketch | LATIN:flag | LATIN:TALL | LATIN:Whiteout | LATIN:wick | LATIN:Sketch | SLANG:داخ
+dbrrbd-p27.json :: dbrrbd_p27_663 :: LATIN:drop | SLANG:داخ
+dbrrbd-p27.json :: dbrrbd_p27_665 :: LATIN:rcmacf
+dbrrbd-p27.json :: dbrrbd_p27_666 :: LATIN:extreme | LATIN:fake
+dbrrbd-p27.json :: dbrrbd_p27_667 :: LATIN:Paul | LATIN:rcmacf | LATIN:Highs | LATIN:Lows | LATIN:engulf | LATIN:engulf | LATIN:engulf | LATIN:flip
+dbrrbd-p27.json :: dbrrbd_p27_668 :: LATIN:Sketch | LATIN:Paul | LATIN:rcmacf | LATIN:Highs | LATIN:Lows | LATIN:engulf | LATIN:engulf | LATIN:engulf
+dbrrbd-p27.json :: dbrrbd_p27_669 :: LATIN:rcmacf
+dbrrbd-p27.json :: dbrrbd_p27_670 :: LATIN:drop | SLANG:داخ
+dbrrbd-p27.json :: dbrrbd_p27_671 :: LATIN:pole | LATIN:flag | LATIN:compression | LATIN:pole | LATIN:compression | LATIN:pole | LATIN:pole | LATIN:Kruger
+dbrrbd-p27.json :: dbrrbd_p27_672 :: LATIN:wick | LATIN:pure | LATIN:flag | LATIN:engulf | LATIN:drop | SLANG:داخ
+dbrrbd-p27.json :: dbrrbd_p27_674 :: LATIN:spike | LATIN:extreme | LATIN:hunt | LATIN:engulf | SLANG:داخ
+dbrrbd-p27.json :: dbrrbd_p27_675 :: LATIN:drop | LATIN:compression | LATIN:retrace | LATIN:compression | LATIN:engulf | SLANG:داخ
+dbrrbd-p28.json :: dbrrbd_p28_676 :: NUM en=['200', '18', '1', '18', '1', '5'] fa=['200', '18', '18', '1', '5'] | LATIN:spike | LATIN:compression | LATIN:extreme | LATIN:extreme | LATIN:spike | LATIN:decision | LATIN:point
+dbrrbd-p28.json :: dbrrbd_p28_677 :: LATIN:compression | LATIN:cancan
+dbrrbd-p28.json :: dbrrbd_p28_678 :: LATIN:compression | LATIN:engulf
+dbrrbd-p28.json :: dbrrbd_p28_679 :: LATIN:proper | LATIN:drop | LATIN:drop | LATIN:decision | LATIN:point | LATIN:engulf | LATIN:breakout | SLANG:داخ
+dbrrbd-p28.json :: dbrrbd_p28_680 :: LATIN:drop | LATIN:compression | LATIN:drop | LATIN:engulf | LATIN:retrace | SLANG:داخ
+dbrrbd-p28.json :: dbrrbd_p28_683 :: LATIN:Farid | LATIN:retracement
+dbrrbd-p28.json :: dbrrbd_p28_684 :: LATIN:benhur | LATIN:Farid | LATIN:retracement | LATIN:compression | LATIN:engulf | LATIN:flip | LATIN:benhur | LATIN:gilbert
+dbrrbd-p28.json :: dbrrbd_p28_685 :: NUM en=['1'] fa=[] | LATIN:TheGypsy
+dbrrbd-p28.json :: dbrrbd_p28_686 :: NUM en=['1'] fa=[] | LATIN:xTheGypsyx | LATIN:TheGypsy | LATIN:Gypsy
+dbrrbd-p28.json :: dbrrbd_p28_688 :: LATIN:Vytautas | LATIN:Vytautas | LATIN:RALLY | LATIN:DROP | LATIN:DOWN | LATIN:RALLY | LATIN:BASE | LATIN:DROP
+dbrrbd-p28.json :: dbrrbd_p28_689 :: LATIN:Paul | LATIN:Rally | LATIN:Base | LATIN:Drop | LATIN:Drop | LATIN:Base | LATIN:Rally | LATIN:Abraham
+dbrrbd-p28.json :: dbrrbd_p28_690 :: LATIN:Vytautas | LATIN:Paul | LATIN:Rally | LATIN:Base | LATIN:Drop | LATIN:Drop | LATIN:Base | LATIN:Rally
+dbrrbd-p28.json :: dbrrbd_p28_691 :: LATIN:Rally | LATIN:Drop
+dbrrbd-p28.json :: dbrrbd_p28_692 :: LATIN:harshrthakkar | LATIN:Rally | LATIN:Drop | LATIN:Harsh
+dbrrbd-p28.json :: dbrrbd_p28_694 :: LATIN:harshrthakkar | LATIN:harshrthakkar | LATIN:engulf
+dbrrbd-p28.json :: dbrrbd_p28_695 :: LATIN:rally | LATIN:drop | LATIN:drop | LATIN:rally
+dbrrbd-p28.json :: dbrrbd_p28_696 :: LATIN:harshrthakkar | LATIN:rally | LATIN:drop | LATIN:drop | LATIN:rally
+dbrrbd-p28.json :: dbrrbd_p28_699 :: LATIN:Price | LATIN:Price
+dbrrbd-p28.json :: dbrrbd_p28_700 :: LATIN:Price | LATIN:Price
+dbrrbd-p29.json :: dbrrbd_p29_701 :: LATIN:Price | LATIN:Supply
+dbrrbd-p29.json :: dbrrbd_p29_702 :: LATIN:rebound | LATIN:engulf | LATIN:Dave
+dbrrbd-p29.json :: dbrrbd_p29_703 :: LATIN:Price | LATIN:Supply
+dbrrbd-p29.json :: dbrrbd_p29_704 :: LATIN:dave | LATIN:rebound | LATIN:engulf | LATIN:Dave | LATIN:Dave | LATIN:engulf
+dbrrbd-p29.json :: dbrrbd_p29_705 :: LATIN:Paul | LATIN:dave | LATIN:rebound | LATIN:engulf | LATIN:Dave | LATIN:Dave | LATIN:engulf | LATIN:Paul
+dbrrbd-p29.json :: dbrrbd_p29_706 :: LATIN:dave | LATIN:Dave
+dbrrbd-p29.json :: dbrrbd_p29_707 :: NUM en=['1', '2', '2', '3'] fa=['2'] | LATIN:flag | LATIN:limits | LATIN:bounce | LATIN:bounce | LATIN:Dave
+dbrrbd-p29.json :: dbrrbd_p29_710 :: NUM en=['236', '1', '2', '2', '3', '1', '1628', '2'] fa=['236', '2', '1', '1628', '2'] | LATIN:dave | LATIN:flag | LATIN:limits | LATIN:bounce | LATIN:bounce | LATIN:Dave | LATIN:Dave
+dbrrbd-p29.json :: dbrrbd_p29_711 :: LATIN:Harry | LATIN:Dave
+dbrrbd-p29.json :: dbrrbd_p29_712 :: LATIN:readthemarket | LATIN:index | LATIN:forum | LATIN:tradin | LATIN:flag | LATIN:limits
+dbrrbd-p29.json :: dbrrbd_p29_713 :: LATIN:Whiteout | LATIN:decision | LATIN:point | LATIN:Whiteout | LATIN:decision | LATIN:point | LATIN:value | LATIN:value
+dbrrbd-p29.json :: dbrrbd_p29_719 :: LATIN:faridisham | LATIN:Daily | LATIN:decision | LATIN:point | LATIN:breakout | LATIN:flag | LATIN:flag
+dbrrbd-p29.json :: dbrrbd_p29_720 :: LATIN:faridisham | LATIN:decision | LATIN:point | LATIN:decision | LATIN:point | LATIN:Master | LATIN:decision | LATIN:point
+dbrrbd-p29.json :: dbrrbd_p29_722 :: LATIN:madwt | LATIN:faridisham | LATIN:Daily | LATIN:decision | LATIN:point | LATIN:breakout | LATIN:flag | LATIN:flag
+dbrrbd-p29.json :: dbrrbd_p29_723 :: LATIN:faridisham | LATIN:madwt | LATIN:Snagit | LATIN:overlay | LATIN:Snagit | LATIN:screen | LATIN:capture | LATIN:Jetscreenshot
+dbrrbd-p3.json :: dbrrbd_p3_51 :: SLANG:داخ
+dbrrbd-p3.json :: dbrrbd_p3_52 :: LATIN:okami
+dbrrbd-p3.json :: dbrrbd_p3_57 :: LATIN:Gilben
+dbrrbd-p3.json :: dbrrbd_p3_58 :: NUM en=['8'] fa=[] | LATIN:Harry
+dbrrbd-p3.json :: dbrrbd_p3_59 :: NUM en=['2', '2', '2'] fa=[] | LATIN:gilben
+dbrrbd-p3.json :: dbrrbd_p3_60 :: LATIN:okami | LATIN:Gilben
+dbrrbd-p3.json :: dbrrbd_p3_61 :: NUM en=['8'] fa=[] | LATIN:Harry
+dbrrbd-p3.json :: dbrrbd_p3_62 :: LATIN:Doctor | LATIN:Doctor | LATIN:Doctor
+dbrrbd-p3.json :: dbrrbd_p3_63 :: LATIN:gilben
+dbrrbd-p3.json :: dbrrbd_p3_64 :: LATIN:Seiden | LATIN:Trader
+dbrrbd-p3.json :: dbrrbd_p3_67 :: LATIN:Michael
+dbrrbd-p3.json :: dbrrbd_p3_70 :: NUM en=['1'] fa=[]
+dbrrbd-p3.json :: dbrrbd_p3_75 :: LATIN:Hornet | LATIN:insert | SLANG:داخ
+dbrrbd-p30.json :: dbrrbd_p30_726 :: LATIN:Fish
+dbrrbd-p30.json :: dbrrbd_p30_729 :: LATIN:Fish
+dbrrbd-p30.json :: dbrrbd_p30_734 :: LATIN:piper | LATIN:Peds
+dbrrbd-p30.json :: dbrrbd_p30_742 :: LATIN:Paul
+dbrrbd-p30.json :: dbrrbd_p30_743 :: LATIN:SupDem
+dbrrbd-p30.json :: dbrrbd_p30_745 :: LATIN:Fish | LATIN:Fish | LATIN:Sniffer
+dbrrbd-p30.json :: dbrrbd_p30_746 :: LATIN:Hotochin
+dbrrbd-p30.json :: dbrrbd_p30_748 :: LATIN:Mrgerry | LATIN:Sniffer
+dbrrbd-p31.json :: dbrrbd_p31_751 :: NUM en=['1'] fa=[]
+dbrrbd-p31.json :: dbrrbd_p31_752 :: NUM en=['5758', '1'] fa=['5758']
+dbrrbd-p31.json :: dbrrbd_p31_753 :: LATIN:Benhur
+dbrrbd-p31.json :: dbrrbd_p31_754 :: LATIN:Benhur | LATIN:LesPaul
+dbrrbd-p31.json :: dbrrbd_p31_755 :: LATIN:Benhur | LATIN:LesPaul
+dbrrbd-p31.json :: dbrrbd_p31_758 :: LATIN:Slurpee | LATIN:object | LATIN:properties
+dbrrbd-p31.json :: dbrrbd_p31_759 :: LATIN:Harry
+dbrrbd-p31.json :: dbrrbd_p31_760 :: LATIN:slurpee
+dbrrbd-p31.json :: dbrrbd_p31_762 :: LATIN:Daily | LATIN:fine | LATIN:tune
+dbrrbd-p31.json :: dbrrbd_p31_763 :: LATIN:FxPrelude | LATIN:Daily | LATIN:fine | LATIN:tune
+dbrrbd-p31.json :: dbrrbd_p31_764 :: LATIN:Harry
+dbrrbd-p31.json :: dbrrbd_p31_765 :: LATIN:FxPrelude | LATIN:Harry | LATIN:intimidating | LATIN:Aaron | LATIN:Daft | LATIN:Trader | LATIN:master
+dbrrbd-p31.json :: dbrrbd_p31_766 :: LATIN:Harry | LATIN:FxPrelude | LATIN:Harry | LATIN:intimidating | LATIN:Aaron | LATIN:Daft | LATIN:Trader | LATIN:master
+dbrrbd-p31.json :: dbrrbd_p31_768 :: NUM en=['2'] fa=[] | LATIN:engulf | LATIN:engulfing | LATIN:engulfing | LATIN:STRIKE
+dbrrbd-p31.json :: dbrrbd_p31_770 :: LATIN:charts | LATIN:eurusd | LATIN:forex | LATIN:capital | LATIN:markets | LATIN:bind
+dbrrbd-p31.json :: dbrrbd_p31_773 :: LATIN:milkeyway | LATIN:Milkeyway | LATIN:Adrian
+dbrrbd-p31.json :: dbrrbd_p31_774 :: LATIN:milkeyway | LATIN:Milkey
+dbrrbd-p31.json :: dbrrbd_p31_775 :: LATIN:Victor | LATIN:milkeyway | LATIN:Milkey
+dbrrbd-p32.json :: dbrrbd_p32_776 :: LATIN:Victor | LATIN:milkeyway | LATIN:Milkey | SLANG:داخ
+dbrrbd-p32.json :: dbrrbd_p32_777 :: LATIN:Mikey | LATIN:Markepedia | LATIN:readthemarket | LATIN:index | LATIN:education | LATIN:markepedia
+dbrrbd-p32.json :: dbrrbd_p32_778 :: LATIN:Victor | LATIN:Mikey | LATIN:Markepedia | LATIN:readthemarket | LATIN:index | LATIN:education | LATIN:markepedia | LATIN:Victor
+dbrrbd-p32.json :: dbrrbd_p32_779 :: LATIN:Mikey | LATIN:Markepedia
+dbrrbd-p32.json :: dbrrbd_p32_780 :: LATIN:Harry | LATIN:Mikey | LATIN:Markepedia
+dbrrbd-p32.json :: dbrrbd_p32_781 :: LATIN:Mikey
+dbrrbd-p32.json :: dbrrbd_p32_782 :: LATIN:Victor | LATIN:Mikey | LATIN:Victor
+dbrrbd-p32.json :: dbrrbd_p32_783 :: LATIN:Ernesto
+dbrrbd-p32.json :: dbrrbd_p32_784 :: LATIN:ForexAccount | LATIN:Ernesto | LATIN:Ernesto
+dbrrbd-p32.json :: dbrrbd_p32_786 :: LATIN:Milkeyway
+dbrrbd-p32.json :: dbrrbd_p32_787 :: LATIN:Victor | LATIN:Milkeyway | LATIN:Ifmyante | LATIN:kruger
+dbrrbd-p32.json :: dbrrbd_p32_788 :: LATIN:readthemarket | LATIN:index | LATIN:education | LATIN:homework
+dbrrbd-p32.json :: dbrrbd_p32_790 :: LATIN:milkeyway
+dbrrbd-p32.json :: dbrrbd_p32_791 :: LATIN:milkeyway
+dbrrbd-p32.json :: dbrrbd_p32_793 :: LATIN:milkeyway
+dbrrbd-p32.json :: dbrrbd_p32_794 :: LATIN:Harry | LATIN:milkeyway | LATIN:harry
+dbrrbd-p32.json :: dbrrbd_p32_795 :: LATIN:milkeyway | LATIN:harry | LATIN:Markepedia | LATIN:readthemarket | LATIN:index | LATIN:education | LATIN:reading
+dbrrbd-p32.json :: dbrrbd_p32_796 :: LATIN:Harry | LATIN:milkeyway | LATIN:harry | LATIN:Markepedia | LATIN:readthemarket | LATIN:index | LATIN:education | LATIN:reading
+dbrrbd-p32.json :: dbrrbd_p32_797 :: LATIN:Harry | LATIN:milkeyway | LATIN:harry | LATIN:Markepedia | LATIN:readthemarket | LATIN:index | LATIN:education | LATIN:reading
+dbrrbd-p32.json :: dbrrbd_p32_798 :: LATIN:Harry | LATIN:milkeyway | LATIN:harry | LATIN:Markepedia | LATIN:readthemarket | LATIN:index | LATIN:education | LATIN:reading
+dbrrbd-p32.json :: dbrrbd_p32_799 :: LATIN:Harry
+dbrrbd-p32.json :: dbrrbd_p32_800 :: LATIN:milkeyway | LATIN:Harry | LATIN:milkeyway | LATIN:harry | LATIN:Markepedia | LATIN:readthemarket | LATIN:index | LATIN:education
+dbrrbd-p34.json :: dbrrbd_p34_827 :: NUM en=['2', '04', '05', '2011', '4'] fa=['04', '05', '2011', '4'] | LATIN:projectsagana | LATIN:LOLR | LATIN:Tomer
+dbrrbd-p34.json :: dbrrbd_p34_831 :: LATIN:blogspot | LATIN:NXyWDwgQ | LATIN:sddaily
+dbrrbd-p34.json :: dbrrbd_p34_832 :: SLANG:داخ
+dbrrbd-p34.json :: dbrrbd_p34_837 :: LATIN:madwt
+dbrrbd-p34.json :: dbrrbd_p34_838 :: LATIN:milkeyway
+dbrrbd-p34.json :: dbrrbd_p34_842 :: LATIN:Ifmyante
+dbrrbd-p34.json :: dbrrbd_p34_843 :: LATIN:Milky | LATIN:marketpedia
+dbrrbd-p34.json :: dbrrbd_p34_846 :: LATIN:adishal | LATIN:Adishal | LATIN:forex
+dbrrbd-p34.json :: dbrrbd_p34_847 :: LATIN:forex | LATIN:adishal | LATIN:Adishal | LATIN:forex
+dbrrbd-p34.json :: dbrrbd_p34_848 :: LATIN:adishal
+dbrrbd-p34.json :: dbrrbd_p34_849 :: LATIN:adishal
+dbrrbd-p34.json :: dbrrbd_p34_850 :: LATIN:Madwt
+dbrrbd-p35.json :: dbrrbd_p35_854 :: LATIN:Lebanen
+dbrrbd-p35.json :: dbrrbd_p35_856 :: SLANG:داخ
+dbrrbd-p35.json :: dbrrbd_p35_857 :: LATIN:benhur | SLANG:داخ
+dbrrbd-p35.json :: dbrrbd_p35_859 :: LATIN:benhur | LATIN:Lebanen | LATIN:benhur
+dbrrbd-p35.json :: dbrrbd_p35_864 :: LATIN:Lebanen
+dbrrbd-p35.json :: dbrrbd_p35_865 :: LATIN:adishal | LATIN:benhur | SLANG:داخ
+dbrrbd-p35.json :: dbrrbd_p35_867 :: LATIN:Drummerboy
+dbrrbd-p35.json :: dbrrbd_p35_868 :: LATIN:projectsagana
+dbrrbd-p35.json :: dbrrbd_p35_869 :: LATIN:benhur
+dbrrbd-p35.json :: dbrrbd_p35_871 :: LATIN:milkeyway
+dbrrbd-p35.json :: dbrrbd_p35_875 :: LATIN:DrummerBoy | LATIN:DrummerBoy | SLANG:داخ
+dbrrbd-p36.json :: dbrrbd_p36_876 :: LATIN:Harry
+dbrrbd-p36.json :: dbrrbd_p36_877 :: LATIN:forex
+dbrrbd-p36.json :: dbrrbd_p36_879 :: LATIN:benhur | LATIN:Lebanen
+dbrrbd-p36.json :: dbrrbd_p36_898 :: LATIN:Miserly
+dbrrbd-p36.json :: dbrrbd_p36_899 :: LATIN:johnnym | LATIN:Miserly
+dbrrbd-p38.json :: dbrrbd_p38_926 :: NUM en=['6'] fa=[] | LATIN:dcabfx | LATIN:Warren | LATIN:Tino
+dbrrbd-p38.json :: dbrrbd_p38_927 :: LATIN:Aaron | LATIN:Aaron | LATIN:dcabfx | LATIN:Tino
+dbrrbd-p38.json :: dbrrbd_p38_928 :: LATIN:Tino
+dbrrbd-p38.json :: dbrrbd_p38_929 :: LATIN:snag
+dbrrbd-p38.json :: dbrrbd_p38_932 :: LATIN:Naascott
+dbrrbd-p38.json :: dbrrbd_p38_933 :: LATIN:Sasa
+dbrrbd-p38.json :: dbrrbd_p38_934 :: LATIN:Sasa
+dbrrbd-p38.json :: dbrrbd_p38_935 :: LATIN:Sasa
+dbrrbd-p38.json :: dbrrbd_p38_936 :: LATIN:DrSwing | LATIN:sasa | LATIN:DrSwing | LATIN:Sasa
+dbrrbd-p38.json :: dbrrbd_p38_937 :: LATIN:Sasa | LATIN:drswing
+dbrrbd-p38.json :: dbrrbd_p38_938 :: LATIN:Warren | LATIN:Tino | SLANG:داخ
+dbrrbd-p38.json :: dbrrbd_p38_939 :: LATIN:Aaron
+dbrrbd-p38.json :: dbrrbd_p38_940 :: LATIN:DrSwing | LATIN:Sasa | LATIN:Tinno | LATIN:Swing | LATIN:Tinno | LATIN:Tinno | LATIN:micro
+dbrrbd-p38.json :: dbrrbd_p38_942 :: LATIN:FXCM
+dbrrbd-p38.json :: dbrrbd_p38_943 :: LATIN:Tino
+dbrrbd-p38.json :: dbrrbd_p38_949 :: LATIN:Angelo
+dbrrbd-p4.json :: dbrrbd_p4_76 :: LATIN:MitchWorse | LATIN:mitch
+dbrrbd-p4.json :: dbrrbd_p4_77 :: LATIN:hornet | LATIN:MitchWorse | LATIN:mitch | LATIN:mitch
+dbrrbd-p4.json :: dbrrbd_p4_78 :: LATIN:whiteout | LATIN:hornet | LATIN:MitchWorse | LATIN:mitch | LATIN:mitch
+dbrrbd-p4.json :: dbrrbd_p4_79 :: LATIN:hornet | LATIN:whiteout | LATIN:hornet | LATIN:MitchWorse | LATIN:mitch | LATIN:mitch | LATIN:ifmyante
+dbrrbd-p4.json :: dbrrbd_p4_84 :: LATIN:jpeg
+dbrrbd-p4.json :: dbrrbd_p4_91 :: LATIN:Seiden | LATIN:fxstreet | LATIN:search | LATIN:contributors
+dbrrbd-p4.json :: dbrrbd_p4_92 :: LATIN:gilb | LATIN:Seiden
+dbrrbd-p4.json :: dbrrbd_p4_94 :: LATIN:hornet
+dbrrbd-p4.json :: dbrrbd_p4_96 :: LATIN:hornet | LATIN:drop | LATIN:base | LATIN:drop | LATIN:rally | LATIN:base | LATIN:drop | LATIN:drop
+dbrrbd-p4.json :: dbrrbd_p4_97 :: LATIN:Tyoon | LATIN:Michael
+dbrrbd-p4.json :: dbrrbd_p4_98 :: LATIN:Lockhart
+dbrrbd-p4.json :: dbrrbd_p4_99 :: LATIN:Doctor | LATIN:Bandura
+dbrrbd-p4.json :: dbrrbd_p4_100 :: LATIN:Nosbigs | LATIN:Nosbigs
+dbrrbd-p40.json :: dbrrbd_p40_978 :: LATIN:Harsh
+dbrrbd-p40.json :: dbrrbd_p40_980 :: LATIN:gigiocean
+dbrrbd-p40.json :: dbrrbd_p40_982 :: LATIN:Drop | LATIN:Base | LATIN:Rally | LATIN:Rally | LATIN:Base | LATIN:Drop
+dbrrbd-p40.json :: dbrrbd_p40_983 :: LATIN:Ezio
+dbrrbd-p40.json :: dbrrbd_p40_984 :: LATIN:Project
+dbrrbd-p40.json :: dbrrbd_p40_986 :: LATIN:Sagana
+dbrrbd-p40.json :: dbrrbd_p40_995 :: LATIN:baelar
+dbrrbd-p40.json :: dbrrbd_p40_997 :: NUM en=['5', '1', '4', '20', '1', '1'] fa=['5', '4', '20', '1', '1'] | LATIN:Gian | LATIN:Gian | LATIN:Tino
+dbrrbd-p40.json :: dbrrbd_p40_999 :: LATIN:revivalfx | LATIN:flag
+dbrrbd-p40.json :: dbrrbd_p40_1000 :: LATIN:Harry | LATIN:flag | LATIN:flag | LATIN:Flag | LATIN:Limit | LATIN:readthemarket | LATIN:index | LATIN:reading
+dbrrbd-p41.json :: dbrrbd_p41_1001 :: LATIN:readthemarket | LATIN:index | LATIN:engulf | LATIN:readthemarket | LATIN:index | LATIN:flag | LATIN:limits | LATIN:Pedini
+dbrrbd-p41.json :: dbrrbd_p41_1002 :: LATIN:Harry | LATIN:revivalfx
+dbrrbd-p41.json :: dbrrbd_p41_1003 :: LATIN:Harry | LATIN:readthemarket | LATIN:index | LATIN:engulf | LATIN:readthemarket | LATIN:index | LATIN:flag | LATIN:limits
+dbrrbd-p41.json :: dbrrbd_p41_1008 :: LATIN:harshrthakkar | LATIN:Harsh
+dbrrbd-p41.json :: dbrrbd_p41_1009 :: LATIN:Bulbuli
+dbrrbd-p41.json :: dbrrbd_p41_1010 :: LATIN:harshrthakkar | LATIN:Bulbuli
+dbrrbd-p41.json :: dbrrbd_p41_1011 :: LATIN:Bulbuli
+dbrrbd-p41.json :: dbrrbd_p41_1012 :: LATIN:harshrthakkar | LATIN:Bulbuli | LATIN:Harsh
+dbrrbd-p41.json :: dbrrbd_p41_1017 :: LATIN:anneb | LATIN:readthemarket | LATIN:index | LATIN:forum | LATIN:welcom | LATIN:charts | LATIN:attachments
+dbrrbd-p41.json :: dbrrbd_p41_1018 :: LATIN:Harry | LATIN:First | LATIN:Time | LATIN:Return | LATIN:Failure | LATIN:Return | LATIN:First | LATIN:Time
+dbrrbd-p41.json :: dbrrbd_p41_1021 :: LATIN:Holy | LATIN:Smoke
+dbrrbd-p41.json :: dbrrbd_p41_1024 :: LATIN:madwt | LATIN:madwt | LATIN:Whiteout | LATIN:Whiteout | LATIN:Benhur | LATIN:Tyoon | LATIN:Benhur | LATIN:Rufus
+dbrrbd-p46.json :: dbrrbd_p46_1129 :: LATIN:Caps
+dbrrbd-p46.json :: dbrrbd_p46_1136 :: LATIN:EURJPY
+dbrrbd-p46.json :: dbrrbd_p46_1137 :: LATIN:EURNZD | LATIN:EURNZD
+dbrrbd-p46.json :: dbrrbd_p46_1140 :: LATIN:Sniper
+dbrrbd-p46.json :: dbrrbd_p46_1141 :: LATIN:ajentha
+dbrrbd-p46.json :: dbrrbd_p46_1147 :: LATIN:GBPNZD
+dbrrbd-p46.json :: dbrrbd_p46_1149 :: LATIN:Caps
+dbrrbd-p46.json :: dbrrbd_p46_1150 :: LATIN:andron | LATIN:andron
+dbrrbd-p47.json :: dbrrbd_p47_1159 :: LATIN:GBPCAD
+dbrrbd-p47.json :: dbrrbd_p47_1162 :: LATIN:naascoott
+dbrrbd-p47.json :: dbrrbd_p47_1169 :: LATIN:Karaa
+dbrrbd-p47.json :: dbrrbd_p47_1171 :: LATIN:usdjpy
+dbrrbd-p47.json :: dbrrbd_p47_1172 :: LATIN:Naascoot
+dbrrbd-p47.json :: dbrrbd_p47_1175 :: LATIN:mohsin | LATIN:homework
+dbrrbd-p48.json :: dbrrbd_p48_1176 :: LATIN:Mohsin | SLANG:داخ
+dbrrbd-p48.json :: dbrrbd_p48_1177 :: LATIN:Marketpedia
+dbrrbd-p48.json :: dbrrbd_p48_1180 :: LATIN:Pengait
+dbrrbd-p48.json :: dbrrbd_p48_1183 :: LATIN:whiteout | LATIN:cheer | LATIN:Whiteout
+dbrrbd-p48.json :: dbrrbd_p48_1185 :: LATIN:Shotty | LATIN:Snaggit | LATIN:Paint | LATIN:jpeg
+dbrrbd-p48.json :: dbrrbd_p48_1187 :: LATIN:Whiteout
+dbrrbd-p48.json :: dbrrbd_p48_1188 :: LATIN:Drummer
+dbrrbd-p48.json :: dbrrbd_p48_1194 :: LATIN:arnoud | LATIN:Arnoud
+dbrrbd-p48.json :: dbrrbd_p48_1196 :: LATIN:EURJPY
+dbrrbd-p48.json :: dbrrbd_p48_1198 :: LATIN:naascott
+dbrrbd-p49.json :: dbrrbd_p49_1208 :: LATIN:Trend
+dbrrbd-p49.json :: dbrrbd_p49_1210 :: LATIN:cable
+dbrrbd-p49.json :: dbrrbd_p49_1211 :: SLANG:داخ
+dbrrbd-p5.json :: dbrrbd_p5_101 :: LATIN:pole
+dbrrbd-p5.json :: dbrrbd_p5_102 :: LATIN:Tyoon
+dbrrbd-p5.json :: dbrrbd_p5_104 :: SLANG:داخ
+dbrrbd-p5.json :: dbrrbd_p5_105 :: LATIN:hornet
+dbrrbd-p5.json :: dbrrbd_p5_107 :: LATIN:justinforex
+dbrrbd-p5.json :: dbrrbd_p5_114 :: LATIN:Hornet
+dbrrbd-p5.json :: dbrrbd_p5_120 :: LATIN:Hornet | LATIN:Michael
+dbrrbd-p5.json :: dbrrbd_p5_121 :: LATIN:Neopips
+dbrrbd-p50.json :: dbrrbd_p50_1245 :: LATIN:roqallo
+dbrrbd-p50.json :: dbrrbd_p50_1249 :: LATIN:nysforex
+dbrrbd-p51.json :: dbrrbd_p51_1260 :: LATIN:victoryong
+dbrrbd-p51.json :: dbrrbd_p51_1272 :: SLANG:داخ
+dbrrbd-p51.json :: dbrrbd_p51_1273 :: LATIN:Tirnanog | LATIN:Tirnanog
+dbrrbd-p51.json :: dbrrbd_p51_1274 :: LATIN:Victoryong
+dbrrbd-p51.json :: dbrrbd_p51_1275 :: LATIN:Timanog | LATIN:Tirnanog | LATIN:Victoryong
+dbrrbd-p52.json :: dbrrbd_p52_1276 :: LATIN:Victoryong
+dbrrbd-p52.json :: dbrrbd_p52_1277 :: LATIN:mohsin | LATIN:victoryong
+dbrrbd-p52.json :: dbrrbd_p52_1278 :: LATIN:Tirnanog | LATIN:Tirnanog | LATIN:Victoryong
+dbrrbd-p52.json :: dbrrbd_p52_1289 :: SLANG:توپ
+dbrrbd-p52.json :: dbrrbd_p52_1291 :: LATIN:Ifmyante
+dbrrbd-p52.json :: dbrrbd_p52_1296 :: LATIN:Deenius
+dbrrbd-p52.json :: dbrrbd_p52_1297 :: LATIN:Pucci
+dbrrbd-p52.json :: dbrrbd_p52_1298 :: LATIN:Rally | LATIN:Base | LATIN:Drop | LATIN:Drop | LATIN:Base | LATIN:Rally
+dbrrbd-p53.json :: dbrrbd_p53_1304 :: LATIN:Nehru
+dbrrbd-p53.json :: dbrrbd_p53_1305 :: LATIN:Kanzler
+dbrrbd-p53.json :: dbrrbd_p53_1309 :: LATIN:Enlightenme
+dbrrbd-p53.json :: dbrrbd_p53_1314 :: NUM en=['1', '2', '2', '100', '1', '2', '3', '1', '4', '4', '8', '5', '6', '1', '6', '7', '8', '4', '9', '7', '10', '11', '12', '12', '13', '14', '13', '15', '11', '16', '12', '17', '18', '12', '15', '19', '12', '18', '18', '19', '19', '19'] fa=['1', '100', '1', '2', '3', '1', '4', '8', '5', '6', '1', '6', '7', '8', '9', '7', '10', '11', '12', '12', '13', '14', '13', '15', '11', '16', '12', '17', '18', '12', '15', '19', '12', '18', '18', '19', '19', '19'] | LATIN:Fail | LATIN:Return | LATIN:First | LATIN:Time | LATIN:Back
+dbrrbd-p53.json :: dbrrbd_p53_1316 :: LATIN:Kanzler
+dbrrbd-p53.json :: dbrrbd_p53_1320 :: LATIN:kouta | LATIN:Kanzler | SLANG:داخ
+dbrrbd-p53.json :: dbrrbd_p53_1321 :: NUM en=['1'] fa=[]
+dbrrbd-p53.json :: dbrrbd_p53_1322 :: NUM en=['1'] fa=[]
+dbrrbd-p54.json :: dbrrbd_p54_1331 :: LATIN:EURGBP
+dbrrbd-p54.json :: dbrrbd_p54_1337 :: LATIN:eurusd | LATIN:gbpusd
+dbrrbd-p54.json :: dbrrbd_p54_1349 :: LATIN:GBPJPY
+dbrrbd-p55.json :: dbrrbd_p55_1352 :: LATIN:salivan
+dbrrbd-p55.json :: dbrrbd_p55_1353 :: LATIN:EURCAD
+dbrrbd-p55.json :: dbrrbd_p55_1354 :: LATIN:salivan | LATIN:salivan
+dbrrbd-p55.json :: dbrrbd_p55_1357 :: LATIN:Salivan
+dbrrbd-p55.json :: dbrrbd_p55_1358 :: LATIN:ahmad
+dbrrbd-p55.json :: dbrrbd_p55_1364 :: LATIN:GBPAUD
+dbrrbd-p55.json :: dbrrbd_p55_1365 :: LATIN:salivan
+dbrrbd-p55.json :: dbrrbd_p55_1366 :: LATIN:CADJPY
+dbrrbd-p55.json :: dbrrbd_p55_1367 :: LATIN:EURJPY
+dbrrbd-p55.json :: dbrrbd_p55_1368 :: LATIN:salivan | LATIN:salivan
+dbrrbd-p55.json :: dbrrbd_p55_1371 :: LATIN:salivan | LATIN:EURJPY
+dbrrbd-p55.json :: dbrrbd_p55_1372 :: LATIN:GUNNER
+dbrrbd-p55.json :: dbrrbd_p55_1373 :: LATIN:GUNNER
+dbrrbd-p55.json :: dbrrbd_p55_1374 :: LATIN:salivan | LATIN:GUNNER
+dbrrbd-p57.json :: dbrrbd_p57_1401 :: LATIN:Corsica
+dbrrbd-p57.json :: dbrrbd_p57_1410 :: LATIN:KHAN | LATIN:SALIVAN
+dbrrbd-p57.json :: dbrrbd_p57_1411 :: LATIN:Salivan
+dbrrbd-p57.json :: dbrrbd_p57_1416 :: LATIN:KHAN | LATIN:FLIP | LATIN:SWAP | LATIN:SALIVAN
+dbrrbd-p57.json :: dbrrbd_p57_1417 :: LATIN:KimA | LATIN:KimA | LATIN:SALIVAN
+dbrrbd-p57.json :: dbrrbd_p57_1418 :: LATIN:Salivan | LATIN:KimA | LATIN:salivan | LATIN:KimA | LATIN:KimA | LATIN:SALIVAN
+dbrrbd-p57.json :: dbrrbd_p57_1419 :: LATIN:Kima | LATIN:SALIVAN
+dbrrbd-p57.json :: dbrrbd_p57_1423 :: LATIN:Alireza | LATIN:insert
+dbrrbd-p57.json :: dbrrbd_p57_1424 :: LATIN:alireza | LATIN:salivan
+dbrrbd-p57.json :: dbrrbd_p57_1425 :: LATIN:audusd
+dbrrbd-p6.json :: dbrrbd_p6_126 :: NUM en=['0', '2', '2'] fa=['0', '2']
+dbrrbd-p6.json :: dbrrbd_p6_127 :: NUM en=['1'] fa=[]
+dbrrbd-p6.json :: dbrrbd_p6_128 :: NUM en=['0', '2', '2', '2', '4', '2', '4', '1', '1', '1', '0645'] fa=['0', '2', '4', '2', '4', '1', '1', '1', '0645'] | LATIN:whiteout | LATIN:Whiteout | LATIN:Alpari
+dbrrbd-p6.json :: dbrrbd_p6_129 :: NUM en=['1', '1', '0645', '4', '4', '1'] fa=['1', '1', '0645', '1'] | LATIN:Simon | LATIN:whiteout | LATIN:pass | SLANG:داخ
+dbrrbd-p6.json :: dbrrbd_p6_130 :: LATIN:Whiteout | LATIN:Doctor
+dbrrbd-p6.json :: dbrrbd_p6_134 :: LATIN:Pedini | LATIN:Nosbigs | LATIN:flip
+dbrrbd-p6.json :: dbrrbd_p6_135 :: LATIN:Nick | LATIN:Omaha | LATIN:Nebraska | SLANG:بام
+dbrrbd-p6.json :: dbrrbd_p6_140 :: LATIN:Nick | LATIN:Omaha | LATIN:Nebraska
+dbrrbd-p6.json :: dbrrbd_p6_141 :: LATIN:Tyoon
+dbrrbd-p6.json :: dbrrbd_p6_143 :: LATIN:Nosbigs
+dbrrbd-p6.json :: dbrrbd_p6_146 :: LATIN:Ifmyante | LATIN:Michael
+dbrrbd-p6.json :: dbrrbd_p6_148 :: LATIN:GBPJPY | LATIN:CADJPY
+dbrrbd-p6.json :: dbrrbd_p6_149 :: LATIN:Bushido
+dbrrbd-p66.json :: dbrrbd_p66_1626 :: LATIN:DHAVAL | LATIN:CHRISB
+dbrrbd-p66.json :: dbrrbd_p66_1629 :: LATIN:DHAVAL | LATIN:KAVYA
+dbrrbd-p66.json :: dbrrbd_p66_1630 :: LATIN:DHAVAL | LATIN:readthemarket | LATIN:index | LATIN:cation | LATIN:markepedia
+dbrrbd-p7.json :: dbrrbd_p7_151 :: LATIN:Neopips
+dbrrbd-p7.json :: dbrrbd_p7_155 :: LATIN:Ifmyante | LATIN:Doctor | LATIN:Ashkan
+dbrrbd-p7.json :: dbrrbd_p7_165 :: LATIN:enhancer
+dbrrbd-p7.json :: dbrrbd_p7_168 :: LATIN:Ashkan
+dbrrbd-p7.json :: dbrrbd_p7_169 :: LATIN:Ifmyante | LATIN:Ashkan | LATIN:Ashkan
+dbrrbd-p7.json :: dbrrbd_p7_174 :: LATIN:Neopips
+dbrrbd-p8.json :: dbrrbd_p8_180 :: LATIN:spring
+dbrrbd-p8.json :: dbrrbd_p8_181 :: LATIN:uceego | LATIN:Uceego
+dbrrbd-p8.json :: dbrrbd_p8_182 :: LATIN:gilben
+dbrrbd-p8.json :: dbrrbd_p8_186 :: LATIN:Uceego
+dbrrbd-p8.json :: dbrrbd_p8_187 :: LATIN:Okami
+dbrrbd-p8.json :: dbrrbd_p8_189 :: LATIN:EURJPY
+dbrrbd-p8.json :: dbrrbd_p8_190 :: LATIN:EURGBP
+dbrrbd-p8.json :: dbrrbd_p8_194 :: LATIN:Doctor
+dbrrbd-p8.json :: dbrrbd_p8_197 :: SLANG:بام
+dbrrbd-p9.json :: dbrrbd_p9_202 :: LATIN:Knight | LATIN:Ifmyante
+dbrrbd-p9.json :: dbrrbd_p9_203 :: NUM en=['4', '200', '23', '11', '9', '1', '0', '5', '2', '1', '7', '6', '1', '0', '5'] fa=['4', '200', '23', '11', '9', '1', '0', '5', '2', '1', '6', '1', '0', '5']
+dbrrbd-p9.json :: dbrrbd_p9_204 :: NUM en=['5', '200', '22', '4', '9', '7', '2', '0', '5', '7', '6', '1'] fa=['5', '200', '22', '4', '9', '7', '2', '0', '5', '6', '1']
+dbrrbd-p9.json :: dbrrbd_p9_205 :: NUM en=['6', '200', '22', '1', '15', '6', '9', '8', '1'] fa=['6', '200', '22', '1', '15', '6', '8', '1']
+dbrrbd-p9.json :: dbrrbd_p9_206 :: NUM en=['7', '200', '31', '15', '8', '6', '0', '5', '2', '15', '12', '3'] fa=['7', '200', '31', '15', '8', '6', '0', '5', '2', '12', '3']
+dbrrbd-p9.json :: dbrrbd_p9_207 :: NUM en=['8', '200', '20', '18', '1', '1', '0', '5', '1', '7', '4', '1', '2'] fa=['8', '200', '20', '18', '1', '1', '0', '5', '1', '4', '1', '2']
+dbrrbd-p9.json :: dbrrbd_p9_209 :: LATIN:Alex
+dbrrbd-p9.json :: dbrrbd_p9_210 :: NUM en=['40', '26', '6', '2', '0', '5', '3', '15', '12', '3', '9', '200', '10', '200', '11', '200'] fa=['40', '26', '6', '2', '0', '5', '3', '12', '3', '9', '200', '10', '200', '11', '200']
+dbrrbd-p9.json :: dbrrbd_p9_215 :: LATIN:Consumption | LATIN:Compression
+dbrrbd-p9.json :: dbrrbd_p9_216 :: NUM en=['53', '36', '12', '3', '0', '5', '2', '1', '15', '8', '5', '2', '0', '5', '12', '200', '13', '200', '14', '200'] fa=['53', '36', '12', '3', '0', '5', '2', '1', '8', '5', '2', '0', '5', '12', '200', '13', '200', '14', '200']
+dbrrbd-p9.json :: dbrrbd_p9_217 :: LATIN:Ifmyante
+dbrrbd-p9.json :: dbrrbd_p9_218 :: NUM en=['42', '24', '9', '3', '0', '5', '5', '13', '11', '1', '1', '15', '200', '16', '200', '17', '200'] fa=['42', '24', '9', '3', '0', '5', '5', '11', '1', '1', '15', '200', '16', '200', '17', '200']
+dbrrbd-p9.json :: dbrrbd_p9_219 :: LATIN:AlexC | LATIN:Ifmyante | LATIN:Alex
+dbrrbd-p9.json :: dbrrbd_p9_220 :: LATIN:Harry
+dbrrbd-p9.json :: dbrrbd_p9_222 :: NUM en=['71', '45', '13', '6', '0', '5', '7', '16', '14', '1', '1', '18', '200', '19', '200', '20', '200', '21', '200'] fa=['71', '45', '13', '6', '0', '5', '7', '14', '1', '1', '18', '200', '19', '200', '20', '200', '21', '200']
+dbrrbd-p9.json :: dbrrbd_p9_223 :: NUM en=['82', '47', '23', '4', '0', '5', '6', '38', '23', '10', '3', '0', '5', '1', '22', '200', '23', '200', '24', '200', '25', '200', '26', '200', '27', '200'] fa=['82', '47', '23', '4', '0', '5', '6', '23', '10', '3', '0', '5', '1', '22', '200', '23', '200', '24', '200', '25', '200', '26', '200', '27', '200']
+dbrrbd-p9.json :: dbrrbd_p9_224 :: NUM en=['105', '54', '23', '15', '0', '5', '8', '38', '28', '8', '1', '0', '5', '1', '28', '200', '29', '200', '30', '200', '31', '200', '32', '200', '33', '200', '34', '200'] fa=['105', '54', '23', '15', '0', '5', '8', '28', '8', '1', '0', '5', '1', '28', '200', '29', '200', '30', '200', '31', '200', '32', '200', '33', '200', '34', '200']

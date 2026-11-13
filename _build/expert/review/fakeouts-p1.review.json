@@ -1,0 +1,79 @@
+{
+  "fakeouts_p1_1": {"ok": true},
+  "fakeouts_p1_2": {"ok": true},
+  "fakeouts_p1_3": {
+    "issue": "idiom_and_natural_persian",
+    "why": "Aha moments means sudden understanding, not calling out آهای; remove redundant importance wording and express searching for answers naturally.",
+    "fix": "موضوع بسیار مهمی را دنبال می‌کنی! به‌عنوان راهنمایی، بررسی کن که فیک‌اوت‌ها کجا اتفاق افتادند و به کجا واکنش نشان دادند؟ (گاهی باید تا چارت M1 پایین بروی!) بعد از آن‌ها چه اتفاقی افتاد و قیمت در ادامه به کجا رفت؟ جست‌وجوی پاسخ این سؤال‌ها باعث می‌شود خیلی از نکات ناگهان برایت روشن شوند."
+  },
+  "fakeouts_p1_4": {"ok": true},
+  "fakeouts_p1_5": {"ok": true},
+  "fakeouts_p1_6": {"ok": true},
+  "fakeouts_p1_7": {"ok": true},
+  "fakeouts_p1_8": {"ok": true},
+  "fakeouts_p1_9": {
+    "issue": "trading_meaning_and_grammar",
+    "why": "The source's 'buy Engulf' is a grammatical typo for consumption by an engulf; the batch invented a buy qualifier and omitted the agent preposition.",
+    "fix": "بیایید ببینیم در مسیر بالا رفتن به سمت FO چه اتفاقی افتاد.\n\nاینجا FTR‌های دست‌نخورده در 1D و یک FTR دست‌نخورده در 5m را می‌بینیم. بقیه FTR‌ها در مسیر نزول یا به‌وسیله اینگالفی که FTR در 1D را مصرف می‌کند، مصرف شده‌اند. چارت:\n\nاینجا قیمت چطور برگشت و ناحیه‌ها را یکی پس از دیگری اینگالف کرد. به آخرین FTR با توضیحات آبی توجه کنید. از ناحیهٔ مهمی برگشت و در نتیجه به‌شدت به پایین اصلاح کرد. چارت:\n\nو اینجا مکانی است که آخرین اینگالف برگشت. این یک اصلاح (در 5m) از اینگالفِ بیسِ سقف قبلی است."
+  },
+  "fakeouts_p1_10": {"ok": true},
+  "fakeouts_p1_11": {
+    "issue": "futures_chart_terminology",
+    "why": "Non-glued refers to an individual non-continuous contract chart, not a literally unglued chart.",
+    "fix": "نگاهی به چارت غیرپیوستهٔ قرارداد همان ماه؛ این هم با فشردگی زیبایی که در مسیر صعود دارد، کاملاً منطقی به نظر می‌رسد:"
+  },
+  "fakeouts_p1_12": {
+    "issue": "contract_roll_meaning",
+    "why": "Two months ahead identifies the contract and changing on the way refers to changing contracts, not changing the trade itself.",
+    "fix": "قرارداد مربوط به دو ماه بعد حتی بهتر به نظر می‌رسد؛ چون می‌توانی آن را تا رسیدن به تارگت معامله کنی، بی‌آنکه در میانهٔ راه مجبور به تعویض قرارداد شوی.\n\nدر 1W:\n\nدر 1D:"
+  },
+  "fakeouts_p1_13": {
+    "issue": "event_timing_and_terminology",
+    "why": "The production-cut agreement occurred over the weekend; the source does not limit production cuts to weekends. Preserve OPEC in Latin and use non-continuous chart terminology.",
+    "fix": "FO بعدی در 1W. هنوز روشن نیست که پس از این FO حرکت نزولی عمیقی رخ خواهد داد یا نه. با این حال، آن را تحلیل خواهیم کرد.\n\nاین حرکت پس از آن رخ داد که کشورهای غیرعضو OPEC در آخر هفته بر سر کاهش تولید توافق کردند. روز با گپ بزرگی باز شد و قیمت ظرف 15 دقیقه به سقف روز رسید. کندل روزانه به شکل یک پین‌بار عالی بسته شد. در 1W این‌طور به نظر می‌رسد:\n\nدر چارت غیرپیوستهٔ قرارداد فیوچرز آخرین ماه معامله‌شده، خیلی زیباتر دیده می‌شود:"
+  },
+  "fakeouts_p1_14": {
+    "issue": "futures_chart_terminology_and_natural_persian",
+    "why": "Use continuous/non-continuous terminology and express the absence of LL and possible further rise before a deep decline clearly.",
+    "fix": "تحلیل:\n\nبرمی‌گردیم به چارت پیوستهٔ قراردادها. زوم کردن روی 1D جزئیات بیشتری از حرکت نشان می‌دهد. این یک FO ساده نبود. در واقع، حرکت از 3 مورد عبور کرد: 1. نزدیک‌ترین سقف قبلی 2. FL @1D (مشخص‌شده با مستطیل نارنجی) 3. یکی از سقف‌های تاریخی در 1W (خط مشکی)\n\nدر هر دو چارت پیوسته و غیرپیوستهٔ قرارداد، پس از رسیدن به سطح عرضه در 1D هیچ LL شکل نگرفت. این نشان می‌دهد که ممکن است پیش از یک نزول عمیق، حرکت صعودی دیگری رخ دهد. این هم نمای 1D در محل پرایس اکشن:\n\nاین هم تاریخچهٔ این سطح:"
+  },
+  "fakeouts_p1_15": {
+    "issue": "shared_FL_location_and_clause_structure",
+    "why": "The reversal is within the same FL as the previous high, not 'as a previous high'; separate the FO/engulf alternatives from analysis of the reversal point.",
+    "fix": "بیایید 3 موردی را که حرکت گرفت مرور کنیم.\n\n1. گرفتن نزدیک‌ترین سقف در 1D.\n\nدر 1D دیده می‌شود که سقف قبلی زودتر گرفته شده و قیمت پیش از حرکت به بالا اصلاح کرده است:\n\nاین یا یک FO جداگانه است یا یک اینگالف؛ نقطهٔ برگشتش در ادامه تحلیل شده است.\n\nقیمت در همان FL در 1D برگشت که سقف قبلی در آن شکل گرفته بود:\n\nقیمت به نزدیک‌ترین FTR بعدی در 4h رفت:\n\nنمای 1h:\n\n15m چیز زیادی ندارد:\n\nاحتمالاً پاسخ در 5m است. از FL تمیز بعدی برگشت:\n\nو RBD کوچک در 1m. آیا می‌توانستم پیش‌بینی‌اش کنم؟؟؟؟"
+  },
+  "fakeouts_p1_16": {"ok": true},
+  "fakeouts_p1_17": {
+    "issue": "futures_chart_terminology",
+    "why": "Replace the literal non-glued rendering with a non-continuous contract chart, preserving the negation and Flag label.",
+    "fix": "تحلیل همان حرکت در چارت غیرپیوستهٔ قرارداد آخرین ماه معامله‌شده.\n\nدر 1D، این اینگالف یا FO نیست. بلکه واکنش به یک سقف قیمت (سقف قبلی) است:\n\nیک بیس در 1h:\n\nFlag پیش از ریزش از بیس در 15m:\n\nیک فیک‌اوت از اینگالف و اصلاح بیس در 5m؟؟:\n\nو نمای 1m:"
+  },
+  "fakeouts_p1_18": {
+    "issue": "futures_chart_comparison",
+    "why": "Use clear continuous-versus-individual-month contract terminology in the question about which analysis explains the reversal.",
+    "fix": "جامعهٔ عزیز،\n\nبه نظر شما کدام‌یک این برگشت را بهتر توضیح می‌دهد؟ چارت پیوستهٔ قراردادها در FX:USOIL (تحلیل اول) یا چارت غیرپیوستهٔ قرارداد ماهانهٔ فیوچرز (تحلیل دوم).\n\nممنون."
+  },
+  "fakeouts_p1_19": {
+    "issue": "terminology",
+    "why": "Use the required HTF convention in both occurrences. Preserve the author's stated engulf-then-FO logic, its negation, and the quote head.",
+    "fix": "باشه. فیک‌اوت: می‌خواهم یک نکته به اشتراک بگذارم\n\nPedini نوشت: سلام بچه‌ها، خیلی ممنون بابت سؤال‌ها، عالی هستند. در این لحظه روشن است که EU در یک محدودهٔ معاملاتی قرار دارد، و حرکت‌های جعلی در هر دو طرف بوده و افرادی را که در این محدوده معامله می‌کنند به دام انداخته است. من شخصاً ترجیح می‌دهم تا وقتی خودش تعیین تکلیف شود، بیرون بمانم.\n\nاما دربارهٔ سؤال‌هایت، کاری که وقتی یک اینگالف می‌بینم انجام می‌دهم این است که از خودم می‌پرسم «آیا این اینگالف منطقی است؟» منظورم این است که به تاریخچهٔ اطراف جایی که قیمت اینگالف کرد نگاه کن. آیا به داخل یک DP یا یک سطح کلیدی اینگالف کرد؟ آیا به داخل عرضه/تقاضا اینگالف کرد؟ همچنین، نگاه کن منبع اینگالف از کجا آمده، آیا از یک سطح عرضه/تقاضای تایم‌فریم بالاتر می‌آمد یا هنوز به یکی نرسیده بود؟ همهٔ این‌ها باید دربارهٔ یک FO بالقوه به تو هشدار بدهد.\n\nبرای مثال، اگر قیمت در حال اینگالف به سمت پایین باشد، اما قیمت هنوز از یک سطح عرضهٔ مهم جدا نشده باشد، منطقی است که یک FO ببینی تا به هل دادن قیمت به سطوح بالاتر کمک کند. چیزی که به نظر می‌رسد ممکن است الان در EU در حال رخ دادن باشد.\n\nبه هر حال، امیدوارم این‌ها مایهٔ فکر باشد، از ساعت 2 بامداد گذشته، پس کمبود اطلاعات/چارت‌های دقیق را ببخش، وقتی خوب استراحت کردم سعی می‌کنم مثالی پیدا کنم و پست کنم.\n\nPeds\n\nنکات این است: - یک اینگالف باید اول اتفاق بیفتد و منطقی باشد (یعنی قیمت یک DP یا سطح کلیدی را اینگالف کند، یا «به داخل» S/D) سپس: - منبع اینگالف. FO اغلب وقتی اتفاق می‌افتد که منبع اینگالف نتوانسته به ناحیهٔ درست برسد (یعنی S/D در تایم‌فریم بالاتر)\n\nمنطق: اول اینگالف، سپس FO. هیچ اینگالفی ندیده‌ام که بعد از FO بیاید."
+  },
+  "fakeouts_p1_20": {"ok": true},
+  "fakeouts_p1_21": {"ok": true},
+  "fakeouts_p1_22": {
+    "issue": "support_resistance_flip_meaning",
+    "why": "An S/R flip is a change of support/resistance role, not a generic rotation.",
+    "fix": "برمی‌گردیم به موارد 2 و 3 این حرکت. فرض می‌کنم این FO است.\n\n1. نزدیک‌ترین سقف قبلی 2. FL @1D (مشخص‌شده با مستطیل نارنجی) 3. یکی از سقف‌های تاریخی در 1W (خط مشکی)\n\nموارد 2 و 3 با هم و در ارتباط با یکدیگر تحلیل خواهند شد.\n\nفقط برای یادآوری، چارت 1W:\n\nدو مکان تاریخی اینجا تحلیل خواهند شد (با دایره‌های قرمز زیر مشخص شده‌اند). مکان تحلیل 1 تاریخچهٔ FL را نشان می‌دهد. و مکان تحلیل 2 تاریخچهٔ یکی از سقف‌های 1W را که روی آن تمرکز داریم نشان می‌دهد - تبدیل نقش S/R در 1d و 1w."
+  },
+  "fakeouts_p1_23": {
+    "issue": "pip_distance_clarity",
+    "why": "Clarify that 2 pips measures the possible FO, preserving the tentative interpretation and all timeframes.",
+    "fix": "شروع با مکان تحلیل 1.\n\nقیمت در نزدیک‌ترین FL در 4h برگشت:\n\nنزدیک‌ترین RBD در 1h:\n\nRBD نه‌چندان تمیز در 15m. شاید FO به‌اندازهٔ 2 پیپ از RBD تمیز قبلی باشد:\n\nکمی وضوح در 5m:\n\nو اینجا مکان برگشت در 1m است:"
+  },
+  "fakeouts_p1_24": {"ok": true},
+  "fakeouts_p1_25": {
+    "issue": "idiom",
+    "why": "At the end of the day is a conclusion here, not a claim about the trading day's closing time.",
+    "fix": "جمع‌بندی این حرکت.\n\nدر نهایت هنوز تشخیص نداده‌ام که اینگالف بود یا FO؛ و اگر FO است، تارگت چیست؟"
+  }
+}

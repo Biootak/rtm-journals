@@ -1,0 +1,58 @@
+===== ftrretest-p12 : 3 posts =====
+--- ftrretest_p12_276 author=Edge hash=8fb7e447
+EN: Kohai wrote: So, as Staurum suggested, I re-read the FTR article and found many new information which I did not see previously.
+
+For example, an FTR is made after a break of these barriers:
+
+1. An SR line which are two or more highs/lows lined, in this case, the higher the number of highs/lows, the stronger the FTR that is generated when the level breaks 2. Another FTR in the opposite direction 3. A PAZ limit
+
+OK, let's nd some FTRs of the rst type. (As always, correct me if I'm wrong)
+
+It can also be a single high or low. Obviously the ones that have more that line up, have more stops beyond them. As you go through the material, over time some others may pop out like breaks of cp, ls but don't worry about those yet. What you have outlined is spot on IMO.
+FA: Edge
+
+Kohai نوشت: پس همان‌طور که Staurum پیشنهاد داد، مقالهٔ FTR را دوباره خواندم و اطلاعات تازهٔ زیادی یافتم که قبلاً ندیده بودم.
+
+مثلاً یک FTR بعد از شکست این سدها ساخته می‌شود:
+
+1373
+
+می‌تواند یک سقف یا کف تنها هم باشد. واضح است آن‌هایی که خط‌های بیشتری هم‌راستا دارند، استاپ بیشتری پشتشان هست. وقتی مواد را می‌گذرانی، با گذشت زمان چند مورد دیگر هم بیرون می‌زند، مثل شکست cp و ls، اما فعلاً نگران آن‌ها نباش. آنچه ترسیم کرده‌ای به نظر من دقیقاً درست است.
+--- ftrretest_p12_277 author=Kohai hash=acd272ed
+EN: Edge wrote:
+
+Kohai wrote: So, as Staurum suggested, I re-read the FTR article and found many new information which I did not see previously.
+
+For example, an FTR is made after a break of these barriers:
+
+1. An SR line which are two or more highs/lows lined, in this case, the higher the number of highs/lows, the stronger the FTR that is generated when the level breaks 2. Another FTR in the opposite direction 3. A PAZ limit
+
+OK, let's nd some FTRs of the rst type. (As always, correct me if I'm wrong)
+
+It can also be a single high or low. Obviously the ones that have more that line up, have more stops beyond them. As you go through the material, over time some others may pop out like breaks of cp, ls but don't worry about those yet. What you have outlined is spot on IMO.
+
+Hi Edge thanks for your input. I had an Aha moment thanks to this passage: "Obviously the ones that have more that line up, have more stops beyond them. The logic consequence is that breaking this level requires a lot of orders and when the levels breaks, the stop losses of the retailers and small funds are taken. The fact is that the SL is an order that pushes price in the direction of the break, so many pending orders remains at the FTR.
+FA: Edge نوشت:
+
+Kohai نوشت: پس همان‌طور که Staurum پیشنهاد داد، مقالهٔ FTR را دوباره خواندم و کلی اطلاعات تازه یافتم که قبلاً ندیده بودم.
+
+مثلاً یک FTR بعد از شکست این سدها ساخته می‌شود:
+
+1. یک خط SR که دو یا چند سقف/کف هم‌راستا هستند؛ در این حالت هرچه تعداد سقف‌ها/کف‌ها بیشتر باشد، FTRی که هنگام شکست این سطح شکل می‌گیرد قوی‌تر است 2. یک FTR دیگر در جهت مخالف 3. یک لیمیت PAZ
+
+خب، بیایید چند FTR از نوع اول پیدا کنیم. (مثل همیشه، اگر اشتباه می‌گویم تصحیحم کنید)
+
+می‌تواند فقط یک سقف یا کف تنها هم باشد. واضح است آن‌هایی که موارد بیشتری با آن‌ها هم‌راستا هستند، استاپ بیشتری پشتشان دارند. وقتی مواد را می‌گذرانی، با گذشت زمان چند مورد دیگر هم بیرون می‌زند، مثل شکست cp و ls، اما فعلاً نگرانشان نباش. آنچه ترسیم کرده‌ای از نظر من دقیقاً درست است.
+
+سلام Edge، ممنون از نظرت. به لطف این جمله یک لحظهٔ «آها» داشتم: «واضح است آن‌هایی که موارد بیشتری با آن‌ها هم‌راستا هستند، استاپ بیشتری پشتشان دارند. نتیجهٔ منطقی این است که شکستن این سطح به سفارش‌های زیادی نیاز دارد و وقتی سطح می‌شکند، حد ضرر معامله‌گران خرد و صندوق‌های کوچک زده می‌شود. واقعیت این است که SL سفارشی است که قیمت را در جهت شکست هُل می‌دهد، بنابراین سفارش‌های معلق زیادی روی FTR باقی می‌ماند.»
+--- ftrretest_p12_278 author=Kohai hash=23d33f36
+EN: Let's get to the basics to understand and recognize them better
+
+I want to identify only FTRs that are formed by an engulf of a high or a low.
+
+This is interesting
+FA: بیایید به اصول برگردیم تا آن‌ها را بهتر بفهمیم و تشخیص دهیم
+
+من می‌خواهم فقط FTRهایی را شناسایی کنم که از اینگالف یک سقف یا یک کف شکل گرفته‌اند.
+
+این جالب است

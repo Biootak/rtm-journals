@@ -1,0 +1,137 @@
+
+## if_p1_1  EN=2 FA=2  author=Ifmyante
+  EN1: It's really about time I made a journal here!
+  EN2: I have so much content to create over the next while that I don't think I'll do much trading, but I'll be using this space to celebrate achievements, …
+
+## if_p1_2  EN=1 FA=1  author=fxfury
+  EN1: Seeing what I have seen from you, I imagine it would take a few mins to see a good scalping opportunity, so dont go overboard with the content I still…
+
+## if_p1_3  EN=1 FA=1  author=Ifmyante
+  EN1: And it never ceases to amuse me how frequently they come along
+
+## if_p1_4  EN=14 FA=14  author=Ifmyante
+  EN1: It's been a great day, seeing so many old friends and new come back to rejoin the community.
+  EN2: A lot of work was put into building this site, but so little of it was done by me.
+  EN3: I'm truly honoured to have found people that share the vision of what we will become, and have given so much of their time and expertise into making t…
+  EN4: You've been steadfast companions, tirelessly working so hard behind the scenes, that I'm stunned every time I think about the sacrifices you've made.
+  EN5: So (in alphabetical order, as you appear on skype )
+  EN6: Mel
+  EN7: Harry
+  EN8: Benhur
+  EN9: Kruger
+  EN10: Mertch
+  EN11: FXSniffer
+  EN12: Okami
+  EN13: Whiteout
+  EN14: Thank you all from the bottom of my heart. You've brought something very special to life
+
+## if_p1_5  EN=1 FA=1  author=faldot
+  EN1: Gracias fellazz... :)>- :)>-
+
+## if_p1_6  EN=1 FA=1  author=FX.Sniffer
+  EN1: ...and the best is yet to come...
+
+## if_p1_7  EN=1 FA=1  author=pete@rtm
+  EN1: THERE"S MORE??? /
+
+## if_p1_8  EN=1 FA=1  author=naughtypip
+  EN1: Would just like to express my gratitude here for all the work that has been done by everyone. :)
+
+## if_p1_9  EN=2 FA=2  author=Ifmyante
+  EN1: It's been a lot of work, yes, but when we help people improve their analysis, they, we hope will share their analysis with us and make our lives so mu…
+  EN2: It's not altruism, but an investment in social exchange :)
+
+## if_p1_10  EN=3 FA=3  author=Ifmyante
+  EN1: My pet peeve at the moment:
+  EN2: Reading a post with charts that aren't inserted.
+  EN3: Please people, for my sanity, press the insert button on your uploads :)
+
+## if_p1_11  EN=1 FA=1  author=Ifmyante
+  EN1: See here for a sample analysis and trade call
+
+## if_p1_12  EN=6 FA=6  author=Ifmyante
+  EN1: I've never explained my complete dream for what we're going to be, as individuals and as a group
+  EN2: Here it is in its very core
+  EN3: We already have massive investors lined up to have us trade for them, so every member who gets to the top of the ladder will earn a fortune, and then …
+  EN4: I imagine myself working hard for the next couple of years on this project, setting up the business. I won't have much time, if any, for trading, but …
+  EN5: I've found such an amazing group of very talented people who are so happy to be involved in this, and can see the potential for all of us, that we're …
+  EN6: This is a very exciting time!
+
+## if_p1_13  EN=2 FA=2  author=Oedipus
+  EN1: What a fantastic idea.
+  EN2: Of course you have to be one of the best traders in the world to do it but you got that covered :)
+
+## if_p1_14  EN=7 FA=7  author=Alientrader
+  EN1: Ifmyante wrote: I've never explained my complete dream for what we're going to be, as individuals and as a group
+  EN2: Here it is in its very core
+  EN3: We already have massive investors lined up to have us trade for them, so every member who gets to the top of the ladder will earn a fortune, and then …
+  EN4: I imagine myself working hard for the next couple of years on this project, setting up the business. I won't have much time, if any, for trading, but …
+  EN5: I've found such an amazing group of very talented people who are so happy to be involved in this, and can see the potential for all of us, that we're …
+  EN6: This is a very exciting time!
+  EN7: I doubt I will ever be trading anyone's money but I am truly amazed at your vision If. What an honor just to be able to post and share my humble opini…
+
+## if_p1_15  EN=6 FA=6  author=Ifmyante
+  EN1: Oedipus wrote: What a fantastic idea.
+  EN2: Of course you have to be one of the best traders in the world to do it but you got that covered :)
+  EN3: But that's the big thing - once we're a well oiled machine, scanning the entire market with ease, we'll only be taking the very very best, no-brainer …
+  EN4: These are so simple that they can be taught to anybody.
+  EN5: The guys in the trading room will get massive help from those below, knowing it will soon be their time to pass the torch
+  EN6: I love this idea!
+
+## if_p1_16  EN=4 FA=4  author=Ifmyante
+  EN1: Alientrader wrote:
+  EN2: I doubt I will ever be trading anyone's money but I am truly amazed at your vision If. What an honor just to be able to post and share my humble opini…
+  EN3: That's perfectly fine too - If you're happy to learn and then teach, you'll be getting all the trade calls from every step of the ladder
+  EN4: Another win win scenario
+
+## if_p1_17  EN=2 FA=2  author=faldot
+  EN1: extraordinary plan IF...
+  EN2: big challenge for me and for us here to be part of the best team... :)
+
+## if_p1_18  EN=2 FA=2  author=faldot
+  EN1: Ifmyante wrote: See here for a sample analysis and trade call
+  EN2: Just realize that I couldnt post on the link that u share,, its ok,, maybe Im not qulified yet... need more hardwork.. :)
+
+## if_p1_19  EN=2 FA=2  author=Ifmyante
+  EN1: That's odd
+  EN2: Everything except the ladder should be open to all members
+
+## if_p1_20  EN=5 FA=5  author=Ifmyante
+  EN1: I've been so seriously busy lately that I've had no time to write articles
+  EN2: This though, will soon change
+  EN3: For now, for those yet to do their homework, I've set 3 of the very first, very important assignments.
+  EN4: They're the live links in readthemarket.com/index.php/education/homework1
+  EN5: So if you haven't done this yet, get stuck in, there's lots more to come!
+
+## if_p1_21  EN=5 FA=5  author=Ifmyante
+  EN1: Many apologies for not being further along by now with what we're trying to do.
+  EN2: Making progress is a little difficult, as on New Years Day I found myself homeless (my fiancé got fed up of all the time I had been putting into this,…
+  EN3: Anyway, I hope today to find an home, with a snug little office where I can make the lessons, so that one day, hopefully it will all pay off and I'll …
+  EN4: Wish me luck :)
+  EN5: If
+
+## if_p1_22  EN=8 FA=8  author=Frxter
+  EN1: Ifmyante wrote: Many apologies for not being further along by now with what we're trying to do.
+  EN2: Making progress is a little difficult, as on New Years Day I found myself homeless (my fiancé got fed up of all the time I had been putting into this,…
+  EN3: Anyway, I hope today to find an home, with a snug little office where I can make the lessons, so that one day, hopefully it will all pay off and I'll …
+  EN4: Wish me luck :)
+  EN5: If
+  EN6: Sorry to read about that, IF. The awesome person that you are will certainly ensure that everything resolves in your best possible interests. It's the…
+  EN7: Take your time to deal with the situation. I am sure the others would agree that we can all wait for as long as is necessary. Wish you all the luck in…
+  EN8: Frxter
+
+## if_p1_23  EN=3 FA=3  author=to
+  EN1: sorry to read that IF, as Frxter said above, do take some time to deal with the situation.
+  EN2: we would still be here whenever u return.
+  EN3: take care
+
+## if_p1_24  EN=4 FA=4  author=AlexC
+  EN1: Hi If,
+  EN2: Really sad to hear about your troubles. Please take your time so you can get things back to a place of stability.
+  EN3: Even though you might be down now, know that with faith, things will work out.
+  EN4: We're with you.
+
+## if_p1_25  EN=3 FA=3  author=Ifmyante
+  EN1: Thanks so much guys
+  EN2: I've just found a place around the corner from the kids - I go to check it out in a couple of hours.
+  EN3: Fingers crossed it's still available when I get there - the first piece of the puzzle would be in place :)

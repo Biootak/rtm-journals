@@ -1,0 +1,127 @@
+### mm_p16_1
+EN: dengaima wrote: 3rd last arrow from the right is demand and the second from the right is ignored demand. See how if marked the box? He marked between decisions and high = PAZ. Also where you marked other arrows on the left looks like CP.
+
+Ignored levels are always respected sooner or later. Reason = Demand becomes Supply and vice versa. Also they are fresh levels once they break something significant. In this case I think it broke flag limit.
+
+I noticed how you mark the levels thinking they are fresh in your journey.. I suggest u to check HTF to see if they are really fresh levels.
+
+Dengaima Thanks, do you think you could explain how you were drawing PAZ when you were experimenting in you journal, it might help me.
+FA: dengaima نوشت: سومین فلش از سمت راست تقاضاست و دومی از سمت راست، تقاضای نادیده‌گرفته‌شده است. ببین کادر را چطور علامت زده؟ او بین نقاط تصمیم و سقف علامت زده = PAZ. آنجا هم که فلش‌های دیگر را سمت چپ علامت زده بودی، شبیه CP است.
+
+سطوح نادیده‌گرفته‌شده دیر یا زود همیشه رعایت می‌شوند. دلیلش = تقاضا به عرضه تبدیل می‌شود و برعکس. همچنین وقتی چیزی مهم را می‌شکنند، به سطوح تازه تبدیل می‌شوند. در این مورد فکر می‌کنم FL را شکسته است.
+
+توجه کردم که در مسیرت سطوح را با این تصور که تازه‌اند علامت می‌زنی.. پیشنهاد می‌کنم تایم‌فریم بالاتر را بررسی کنی تا ببینی واقعاً سطوح تازه‌ای هستند یا نه.
+
+Dengaima ممنون، فکر می‌کنی می‌توانی توضیح بدهی وقتی در ژورنالت آزمایش می‌کردی، PAZ را چطور رسم می‌کردی؟ ممکن است به من کمک کند.
+
+### mm_p16_2
+EN: Madmoney wrote: After struggling time after time with picking out LS/stoploss area's, I put a question out there to anyone who is comfortable picking these out day in day out.
+
+I see IF and other traders pick them like it is nothing and when I hear it is "simple stuff" I really begin start feeling stupid Here is a screenshot from one of IF's videos on youtube and I explain what is going on in my head.
+
+Madmoney, you might already realize this and if so please disregard my comment...
+
+For me, I find the FL or area I'm going to trade before I start looking for a LS. For the chart you provided, I agree with Dengaima completely. The strong break and ignored demand get my attention. Then I'm examining the FL / Ign D area under LTF to find the boundaries. And then finally I'm looking further left to find the LS that matches with my DP to identify my entry.
+
+If I marked every significant higher or low on my chart, the chart would soon be unreadable. So it seems more logical to find these last to me.
+FA: Madmoney نوشت: بعد از اینکه بارها و بارها برای انتخاب ناحیهٔ LS/استاپ‌لاس تقلا کردم، پرسشی را با همه کسانی که هر روز راحت این نواحی را انتخاب می‌کنند مطرح کردم.
+
+می‌بینم که IF و معامله‌گران دیگر آن‌ها را طوری انتخاب می‌کنند که انگار هیچ کاری نیست و وقتی می‌شنوم که «چیز ساده‌ای» است، واقعاً احساس حماقت می‌کنم. این تصویری از یکی از ویدئوهای IF در یوتیوب است و توضیح می‌دهم در ذهنم چه می‌گذرد.
+
+Madmoney، ممکن است خودت قبلاً این را فهمیده باشی و اگر این‌طور است، لطفاً به نظر من توجه نکن...
+
+برای من، اول FL یا ناحیه‌ای را که می‌خواهم در آن معامله کنم پیدا می‌کنم و بعد به دنبال LS می‌گردم. در مورد چارتی که فرستادی، کاملاً با Dengaima موافقم. شکست قوی و تقاضای نادیده‌گرفته‌شده توجه من را جلب می‌کنند. بعد ناحیهٔ FL / Ign D را در تایم‌فریم پایین‌تر بررسی می‌کنم تا مرزهایش را پیدا کنم. و در نهایت، دورتر به سمت چپ نگاه می‌کنم تا LS را که با DP من جور درمی‌آید پیدا کنم و ورودم را مشخص کنم.
+
+اگر هر سقف یا کف مهمی را روی چارتم علامت می‌زدم، چارت خیلی زود ناخوانا می‌شد. پس برای من منطقی‌تر است که این‌ها را در آخر پیدا کنم.
+
+### mm_p16_3
+EN: Thanks guys. I'm currently putting in chart time based on this subject, hopefully I will start posting charts soon.
+
+I have another question which posted here a while backSCALES Has anyone cracked this yet?
+
+Thanks in advance
+FA: ممنون بچه‌ها. الان دارم وقتم را روی همین موضوع و روی چارت‌ها می‌گذارم، امیدوارم به‌زودی شروع کنم به گذاشتن چارت.
+
+یک پرسش دیگر هم دارم که مدتی پیش اینجا مطرح کردم، SCALES؛ آیا کسی تا حالا سر از این درآورده است؟
+
+از قبل ممنون
+
+### mm_p16_4
+EN: Hello I just drew the PAZ according to S/R and decision points. However I don't think they are any different from FL... because you can notice I have empty space between the PAZ which are the same as FL I will continue to research more:)
+
+Dengaima
+FA: سلام، من فقط PAZ را بر اساس S/R و نقاط تصمیم رسم کردم. هرچند فکر نمی‌کنم تفاوت چندانی با FL داشته باشند... چون همان‌طور که می‌بینی بین PAZ فضای خالی دارم که همان FL است. بیشتر تحقیق می‌کنم :)
+
+Dengaima
+
+### mm_p16_5
+EN: I really have been struggling, as I have too much abstract information in my brain, I honestly don't know where to start.
+
+I think the best thing is to broadcast what is going on in my head, even if it is wrong, I am hoping I can be directed in the right direction. I really do feel silly not figuring this stuff out, it's like mental torture. I can't let something go without figuring it out first, so I have to struggle on.
+
+Anyway this is how or what I am seeing in the market, not sure if this is right or wrong.
+FA: واقعاً درگیر این ماجرا بوده‌ام؛ چون اطلاعات انتزاعی زیادی در ذهنم دارم، راستش نمی‌دانم از کجا شروع کنم.
+
+فکر می‌کنم بهترین کار این است که هر چه در ذهنم می‌گذرد را بازگو کنم، حتی اگر اشتباه باشد؛ امیدوارم مرا در مسیر درست هدایت کنند. واقعاً از اینکه این چیزها را نمی‌فهمم احساس بی‌عقلی می‌کنم، مثل شکنجهٔ ذهنی است. نمی‌توانم چیزی را رها کنم بدون اینکه اول آن را بفهمم، پس باید تقلا را ادامه دهم.
+
+به هر حال این چیزی است که در بازار می‌بینم، مطمئن نیستم درست است یا غلط.
+
+### mm_p16_6
+EN: Chart mind dump. All criticism welcome
+FA: تخلیهٔ ذهن روی چارت. از هر نقدی استقبال می‌کنم
+
+### mm_p16_7
+EN: Practice
+FA: تمرین
+
+### mm_p16_8
+EN: Madmoney wrote: Practice Almost hitting bulll's eye, but what your previous zones are reaction to?
+FA: Madmoney نوشت: تمرین تقریباً درست به هدف زده‌ای، ولی نواحی قبلی‌ات واکنش به چه چیزی هستند؟
+
+### mm_p16_9
+EN: Kavya wrote: Madmoney wrote: Practice Almost hitting bulll's eye, but what your previous zones are reaction to?
+
+Which zone are you eluding to?
+FA: Kavya نوشت: Madmoney نوشت: تمرین تقریباً درست به هدف زده‌ای، ولی نواحی قبلی‌ات واکنش به چه چیزی هستند؟
+
+منظورت کدام ناحیه است؟
+
+### mm_p16_10
+EN: Which zone are you eluding to?
+
+LS and Swing H to LS!
+FA: منظورت کدام ناحیه است؟
+
+LS و از سقف سوئینگ تا LS!
+
+### mm_p16_11
+EN: Let's see if I worked this out correctly....
+FA: ببینیم این را درست حل کرده‌ام یا نه....
+
+### mm_p16_12
+EN: I'm starting to see price travels from LS flag to LS flag and entries are targets and vice versa.
+
+Need a lot more practice but here is a chart...
+FA: دارم می‌بینم که قیمت از یک FLAG در LS تا FLAG بعدی همان LS حرکت می‌کند و ورودها همان تارگت‌ها هستند و برعکس.
+
+به تمرین خیلی بیشتری نیاز دارم، ولی این هم یک چارت...
+
+### mm_p16_13
+EN: Madmoney wrote: I'm starting to see price travels from LS flag to LS flag and entries are targets and vice versa.
+
+Need a lot more practice but here is a chart...
+
+Exited because bullish PA on M5.
+FA: Madmoney نوشت: دارم می‌بینم که قیمت از یک FLAG در LS تا FLAG بعدی همان LS حرکت می‌کند و ورودها همان تارگت‌ها هستند و برعکس.
+
+به تمرین خیلی بیشتری نیاز دارم، ولی این هم یک چارت...
+
+خارج شدم چون PA در M5 صعودی بود.
+
+### mm_p16_14
+EN: You gave me a lot of inspirations MM! Thank you very much.
+FA: MM، تو الهام‌های زیادی به من دادی! خیلی ممنون.
+
+### mm_p16_16
+EN: GBPUSD
+FA: GBPUSD
