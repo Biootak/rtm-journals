@@ -2656,6 +2656,7 @@ const Anno = (function () {
            everything a lift changes, so the list is left alone too. */
         touch();
         repaintInk(t.id);
+        paintTools();
         return;   // the pen stays in the hand
       }
     }
@@ -2666,6 +2667,7 @@ const Anno = (function () {
       touch();
       repaintInk(d.id, pass.id);
       renderList();
+      paintTools();
       return;   // a pen is never spent after one letter
     }
     state.selected = d.id;
