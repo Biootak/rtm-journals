@@ -15,6 +15,7 @@ const SETTINGS_KEY = 'rtm_archive_settings_v3';
 const BOOKMARKS_KEY = 'rtm_bookmarks_v1';
 const READING_KEY = 'rtm_reading_v1';
 const PROGRESS_KEY = 'rtm_progress_v1';
+const SEARCHES_KEY = 'rtm_searches_v1';
 
 const DEFAULT_SETTINGS = {
   fontSize: 15,            // the one reading-size token; every text surface derives from it
@@ -29,6 +30,7 @@ const DEFAULT_SETTINGS = {
   imageFit: 'fit',         // fit | width | actual
   wheel: 'zoom',           // zoom | pan — what a bare wheel does over a plate
   language: 'both',        // both | fa | en — one reading mode for cards and posts
+  gallerySize: 'l',        // s | m | l — thumbnail size on the image board
 };
 
 const App = {
@@ -45,8 +47,9 @@ const App = {
   all: {
     shards: {}, rows: null, filter: 'all', text: '', savedOnly: false, limit: 40,
     loading: false, error: '', loaded: 0, total: 0, failed: 0, renderTimer: 0,
+    sort: 'journal', ts: {},
   },
-  gallery: { journalId: '', items: [], currentJournal: null, limit: 48, loading: false, error: '' },
+  gallery: { journalId: '', postId: '', q: '', items: [], currentJournal: null, limit: 48, loading: false, error: '', token: 0 },
   viewer: { items: [], idx: 0, journal: null, returnFocus: null, zoom: { scale: 1, fit: 1, fitW: 1, natW: 0, natH: 0, mode: 'fit' } },
   railOpen: false,
   postReturn: null,
@@ -54,6 +57,7 @@ const App = {
   pendingScrollPost: null,
   paletteReturnFocus: null,
   paletteItems: [],
+  shortcutsReturnFocus: null,
   promises: {},
   bookmarks: loadBookmarks(),
   reading: loadReading(),
@@ -272,12 +276,27 @@ function findImage(journal, key) {
   return journal.images.find(im => im.k === key) || null;
 }
 
+/* A plate carries the id of the post it was printed in, but the post's number
+   and author live on the lightweight stub list. Both the board and the viewer
+   need that pair to turn a picture into a door back to its post. */
+function postByPid(journal, pid) {
+  if (!journal || !pid) return null;
+  return (journal.posts || []).find(p => p.id === pid) || null;
+}
+
 function pidLabel(post) {
   return post.id ? String(post.id).split('_').pop() : '';
 }
 
 function postHref(jid, page, pid) {
   return `#/p/${encodeURIComponent(jid)}/${page}/${encodeURIComponent(pid)}`;
+}
+
+/* The message where the forum showed it: the journal page itself, scrolled to
+   the row. Used by the picture's "go to post" doors, which should not drop the
+   reader into the one-post sheet when the conversation is the point. */
+function postSpotHref(jid, page, pid) {
+  return `#/j/${encodeURIComponent(jid)}/${page}/${encodeURIComponent(pid)}`;
 }
 
 /* A toast can carry one action. Deletion of the reader's own work always does,
@@ -394,6 +413,7 @@ function loadSettings() {
       imageFit: ['fit', 'width', 'actual'],
       wheel: ['zoom', 'pan'],
       language: ['both', 'fa', 'en'],
+      gallerySize: ['s', 'm', 'l'],
       theme: ['paper', 'dark'],
       lampTone: ['dark', 'sepia'],
     })) {
@@ -473,6 +493,24 @@ function applySettings() {
   }
   applyChrome();
   syncSettingsControls();
+  syncGallerySize();
+}
+
+/* The image board's size switch lives on the board itself, not in the settings
+   drawer: the reader changes it while looking at the thumbnails. The value is
+   still a setting, so it survives a reload. */
+function syncGallerySize() {
+  const size = App.settings.gallerySize || DEFAULT_SETTINGS.gallerySize;
+  const box = $('#gallerySize');
+  if (box) {
+    $$('button[data-gallery-size]', box).forEach(b => {
+      const on = b.dataset.gallerySize === size;
+      b.classList.toggle('is-active', on);
+      b.setAttribute('aria-pressed', String(on));
+    });
+  }
+  const grid = $('#galleryGrid');
+  if (grid) grid.dataset.size = size;
 }
 
 function isRailLayout() {
@@ -511,7 +549,8 @@ function syncRail() {
     btn.setAttribute('aria-expanded', String(expanded));
     btn.classList.toggle('is-on', expanded);
   }
-  const modalOpen = !$('#lightbox')?.hidden || !$('#settingsDrawer')?.hidden || !$('#palette')?.hidden;
+  const modalOpen = !$('#lightbox')?.hidden || !$('#settingsDrawer')?.hidden
+    || !$('#shortcutsDrawer')?.hidden || !$('#palette')?.hidden;
   document.body.style.overflow = ((phone && App.railOpen) || modalOpen) ? 'hidden' : '';
 }
 
@@ -1378,6 +1417,7 @@ function init() {
   setupViewer();
   setupNotesView();
   setupSettings();
+  setupShortcuts();
   setupPostView();
   setupPalette();
   route();
@@ -1588,7 +1628,10 @@ function route() {
      any other address has to put the viewer away, or the plate stays pasted
      over the page the address bar now names. */
   const plateRoute = view === 'i' && !!(parts[1] && parts[3]);
-  if (!plateRoute) closeViewer();
+  /* Reaching another address is itself the way out of the plate: the entry the
+     viewer pushed is either already replaced or sits under the new route, so
+     backing out here would undo the navigation the reader just asked for. */
+  if (!plateRoute) closeViewer({ keepEntry: true });
   if (document.body.classList.contains('search-open')) setSearchOpen(false);
   if (view === 'home' || view === '') {
     showView('home');
@@ -1601,7 +1644,7 @@ function route() {
     syncActiveNav();
     return;
   }
-  if (view === 'j' && parts[1]) { openJournal(parts[1], num(parts[2]) || 1, null, null); return; }
+  if (view === 'j' && parts[1]) { openJournal(parts[1], num(parts[2]) || 1, parts[3] || null, null); return; }
   if (view === 'p' && parts[1] && parts[3]) { openPost(parts[1], num(parts[2]) || 1, parts[3]); return; }
   if (view === 'p' && parts[1]) { openJournal(parts[1], num(parts[2]) || 1, null, null); return; }
   if (view === 'i' && parts[1]) { openJournal(parts[1], num(parts[2]) || 1, null, parts[3] || null); return; }
@@ -1618,7 +1661,7 @@ function route() {
     openTopics();
     return;
   }
-  if (view === 'gallery') { openGallery(); return; }
+  if (view === 'gallery') { openGallery(parts[1] || '', parts[2] === 'p' ? parts[3] || '' : ''); return; }
   if (view === 'saved') { openSaved(); return; }
   if (view === 'notes') { openNotes(parts.slice(1).join('/')); return; }
   showView('notfound');
@@ -1656,6 +1699,11 @@ function showView(name) {
   // scroll-margin offsets have to be told the new height before the first paint.
   setMastVar();
   syncActiveNav();
+  /* A new page starts at its top. Without this, walking from the middle of a
+     long journal to the gallery or the index left the reader halfway down a
+     page they had never seen. The reader's own journal position is restored
+     later by openJournal, which runs after this. */
+  window.scrollTo({ top: 0, behavior: 'instant' });
 }
 
 function syncActiveNav() {
@@ -1691,6 +1739,7 @@ async function openJournal(rawId, page = 1, postId = null, imageKey = null) {
    * button and a refresh all telling the truth afterwards. */
   if (meta.id !== rawId) {
     replaceHash('j/' + encodeURIComponent(meta.id) + '/' + (page || 1) +
+      (postId ? '/' + encodeURIComponent(postId) : '') +
       (imageKey ? '/' + encodeURIComponent(imageKey) : ''));
   }
   const id = meta.id;
@@ -1711,7 +1760,8 @@ async function openJournal(rawId, page = 1, postId = null, imageKey = null) {
     /* The reader may have typed a page the journal does not have; the content
        is clamped, so the address bar has to tell the same story. */
     if (App.currentPage !== page && !imageKey) {
-      replaceHash('j/' + encodeURIComponent(id) + '/' + App.currentPage);
+      replaceHash('j/' + encodeURIComponent(id) + '/' + App.currentPage +
+        (postId ? '/' + encodeURIComponent(postId) : ''));
     }
     await ensureJournalPage(id, App.currentPage);
     if (token !== App.journalToken) return;
@@ -1737,8 +1787,18 @@ async function openJournal(rawId, page = 1, postId = null, imageKey = null) {
       scrollToPost(pid);
     }
     if (imageKey) {
+      /* A plate link is a door into the board, so give the viewer the same list
+         the board would: every unique plate in the journal, in page order. If
+         that list cannot be fetched, the page-local set still opens. */
+      try { await ensureJournalImages(id); } catch {}
+      if (token !== App.journalToken) return;
       const im = findImage(journal, imageKey);
-      if (im) openViewerForImage(imageKey, im.pid || postId || null);
+      if (im) {
+        const items = galleryItems(journal).map(im2 => ({ ...im2, p: im2.p || 1 }));
+        const idx = items.findIndex(im2 => im2.k === imageKey);
+        if (idx >= 0) openViewer(items, idx, journal);
+        else openViewerForImage(imageKey, im.pid || postId || null);
+      }
     }
   } catch (e) {
     if (token !== App.journalToken) return;
@@ -1769,6 +1829,8 @@ function injectJournalTools(journal) {
         <button class="text-action" id="unreadToggle" type="button" title="فقط پست‌هایی که هنوز نخوانده‌اید">فقط خوانده‌نشده‌ها</button>
         <input class="jfilter" id="journalFilterInput" type="search" placeholder="فیلتر در همین ژورنال…" aria-label="فیلتر در همین ژورنال">
         <button class="text-action" id="journalMark" type="button" title="نشان‌کردن ژورنال برای مرور بعدی">★ ژورنال</button>
+        <a class="text-action" id="journalResume" href="#" hidden title="رفتن به آخرین پستی که در این دفتر خوانده‌اید"><svg class="icon"><use href="#i-clock"/></svg> ادامه</a>
+        <a class="text-action" id="journalGalleryLink" href="#" title="همهٔ تصویرهای این دفتر در تابلوی تصاویر"><svg class="icon"><use href="#i-image"/></svg> تصویرها</a>
       </div>`);
     const tools = $('#journalTools');
     tools.addEventListener('click', (e) => {
@@ -1794,6 +1856,25 @@ function injectJournalTools(journal) {
   const tog = $('#unreadToggle');
   if (tog) { tog.classList.toggle('is-on', !!App.unreadOnly); tog.textContent = App.unreadOnly ? 'همهٔ پست‌ها' : 'فقط خوانده‌نشده‌ها'; }
   syncJournalMark();
+  syncJournalLinks(journal);
+}
+
+/* Two one-tap doors from a journal header: back to the last post read here,
+   and into the image board already pointed at this book. */
+function syncJournalLinks(journal) {
+  const gallery = $('#journalGalleryLink');
+  if (gallery) gallery.href = '#/gallery/' + encodeURIComponent(journal.id);
+  const link = $('#journalResume');
+  if (!link) return;
+  const resume = (App.reading || []).find(r => r.jid === journal.id && r.pid);
+  if (!resume) { link.hidden = true; return; }
+  const page = clamp(resume.page || 1, 1, journal.pages || 1);
+  link.href = postHref(journal.id, page, resume.pid);
+  link.innerHTML = `${icon('clock')} ادامه از ص ${faNum(page)}`;
+  link.title = resume.label
+    ? `رفتن به پست ${esc(resume.label)} در صفحهٔ ${faNum(page)}`
+    : `رفتن به آخرین پستِ خوانده‌شده در صفحهٔ ${faNum(page)}`;
+  link.hidden = false;
 }
 
 function syncJournalMark() {
@@ -2120,6 +2201,19 @@ function scrollToPost(postId) {
       if (Math.abs(window.scrollY - from) > 8) return;
       el.scrollIntoView({ behavior: 'instant', block: 'start' });
     }, 420);
+    /* A journal page draws its plates lazily, and an article above the target
+     * can change height after the animation has already picked its endpoint.
+     * That is why "go to the post" used to stop a screen or two past the row:
+     * re-align while the page is still settling, then leave the scroll alone. */
+    let settles = 0;
+    const marginal = parseFloat(getComputedStyle(el).scrollMarginTop) || 0;
+    const settle = () => {
+      if (++settles > 3) return;
+      const off = el.getBoundingClientRect().top - marginal;
+      if (Math.abs(off) > 12) el.scrollIntoView({ behavior: 'instant', block: 'start' });
+      if (settles < 3) setTimeout(settle, 280);
+    };
+    setTimeout(settle, 520);
   }, 80);
 }
 
@@ -2737,9 +2831,16 @@ function renderPostDetailNav() {
       <bdi dir="auto">${esc(p.n || pidLabel(p))}</bdi> <span class="muted">${esc(p.a || '—')}</span>
     </a>`;
   };
+  /* A post is often the only place a chart is explained, so its plates get a
+     direct door into the board already narrowed to this post. */
+  const imgs = Array.isArray(post.im) ? post.im : (post.images || []);
+  const galleryLink = imgs.length
+    ? `<a class="text-action" href="#/gallery/${encodeURIComponent(journal.id)}/p/${encodeURIComponent(post.id)}">${icon('grid')} تصاویر این پست</a>`
+    : '';
   $('#postDetailNav').innerHTML =
     link(prev, 'پست قبلی', 'is-prev') +
     `<a class="text-action" href="#/j/${encodeURIComponent(journal.id)}/${post.p ?? 1}">${icon('list')} فهرست همین صفحه</a>` +
+    galleryLink +
     link(next, 'پست بعدی', 'is-next');
 }
 
@@ -2766,6 +2867,22 @@ function copyPostText() {
   const out = parts.filter(Boolean).join('\n\n———\n\n').trim();
   if (!out) { showToast('متنی برای کپی نیست'); return; }
   copyText(out).then(ok => showToast(ok ? 'متن پست کپی شد' : 'کپی ممکن نشد'));
+}
+
+/* The phone share sheet when the browser offers one; otherwise the link goes
+   to the clipboard, which is what the reader wanted anyway. */
+async function sharePostLink() {
+  const d = App.postDetail;
+  if (!d || !d.journal || !d.post) return;
+  const page = d.post.p ?? d.post.pageNum ?? d.page;
+  const url = location.href.split('#')[0] + postHref(d.journal.id, page, d.post.id);
+  const title = `${d.journal.name} — ${d.post.n || pidLabel(d.post)}`;
+  if (navigator.share) {
+    try { await navigator.share({ title, url }); return; }
+    catch (e) { if (e && e.name === 'AbortError') return; }
+  }
+  const ok = await copyText(url);
+  showToast(ok ? 'پیوند پست کپی شد' : 'کپی ممکن نشد');
 }
 
 function openViewerForPostImage(key) {
@@ -2830,6 +2947,7 @@ function setupPostView() {
   if (wide.addEventListener) wide.addEventListener('change', onWideChange);
   else if (wide.addListener) wide.addListener(onWideChange);
   $('#postCopy')?.addEventListener('click', copyPostText);
+  $('#postShare')?.addEventListener('click', sharePostLink);
   $('#postExport')?.addEventListener('click', exportPostMarkdown);
   $('#postBookmark')?.addEventListener('click', () => {
     const d = App.postDetail;
@@ -2840,21 +2958,6 @@ function setupPostView() {
   });
   $('#postFontMinus')?.addEventListener('click', () => setTextSize(-1));
   $('#postFontPlus')?.addEventListener('click', () => setTextSize(1));
-  $('#postSpeak')?.addEventListener('click', () => {
-    const d = App.postDetail;
-    if (!d || !d.post) return;
-    if (!('speechSynthesis' in window)) { showToast('خواندن با صدا در این مرورگر نیست'); return; }
-    if (window.speechSynthesis.speaking) { window.speechSynthesis.cancel(); return; }
-    const text = ((d.view === 'en' ? (d.post.t || d.post.text) : d.post.fa) || d.post.t || d.post.text || '')
-      .replace(/\s+/g, ' ').trim().slice(0, 4000);
-    if (!text) { showToast('متنی برای خواندن نیست'); return; }
-    const u = new SpeechSynthesisUtterance(text);
-    u.lang = d.view === 'en' ? 'en-US' : 'fa-IR';
-    u.rate = 0.95;
-    const v = speechSynthesis.getVoices().find(v => v.lang && v.lang.toLowerCase().startsWith(u.lang.slice(0, 2)));
-    if (v) u.voice = v;
-    speechSynthesis.speak(u);
-  });
   $('#postRead')?.addEventListener('click', () => {
     const d = App.postDetail;
     if (!d || !d.post || !d.journal) return;
@@ -2930,6 +3033,7 @@ function setupViewer() {
     }
   });
   $('#lbOpenPost')?.addEventListener('click', openViewerPost);
+  $('#lbCopyLink')?.addEventListener('click', copyViewerLink);
   $('#lbImage')?.addEventListener('load', settleViewerImage);
   $('#lbImage')?.addEventListener('error', () => {
     /* A plate whose full-size file is missing used to leave the pane painted
@@ -2968,6 +3072,7 @@ function setupViewer() {
     if (e.key === 'ArrowDown') { e.preventDefault(); if (panning) panViewer(0, step); else zoomStep(-1, centerAnchor()); return; }
     if (e.key === 'PageDown' || e.key === 'n') { e.preventDefault(); moveViewer(1); return; }
     if (e.key === 'PageUp' || e.key === 'p') { e.preventDefault(); moveViewer(-1); return; }
+    if (e.key === 'o' || e.key === 'O') { e.preventDefault(); openViewerPost(); return; }
     if (e.key === 'Home') { e.preventDefault(); jumpViewer(0); return; }
     if (e.key === 'End') { e.preventDefault(); jumpViewer(App.viewer.items.length - 1); return; }
     if (e.key === 'f' || e.key === 'F') { e.preventDefault(); toggleViewerFullscreen(); return; }
@@ -3035,7 +3140,7 @@ function openViewer(items, idx, journal) {
   lb.focus({ preventScroll: true });
 }
 
-function closeViewer() {
+function closeViewer(options = {}) {
   const lb = $('#lightbox');
   if (!lb || lb.hidden) return;
   if (document.fullscreenElement && document.exitFullscreen) document.exitFullscreen().catch(() => {});
@@ -3050,9 +3155,10 @@ function closeViewer() {
   if (ret && typeof ret.focus === 'function') ret.focus();
   /* Undo the same-URL entry openViewer pushed — but only when this close is
      the reader's own (button, Esc, backdrop). A popstate-initiated close has
-     already spent that entry, and a route-initiated close leaves it behind as
-     a harmless duplicate of the page the reader was on. */
-  const backOut = App.viewer.pushed && !App.viewer.fromPop;
+     already spent that entry, and a route-initiated close must leave it alone:
+     the address bar has already moved, and a history.back() here would drag the
+     reader back to the gallery instead of the post they asked for. */
+  const backOut = !options.keepEntry && App.viewer.pushed && !App.viewer.fromPop;
   App.viewer.pushed = false;
   App.viewer.fromPop = false;
   if (backOut) { try { history.back(); } catch {} }
@@ -3097,7 +3203,21 @@ function renderViewer() {
   $('#lbCounter').textContent = `${faNum(App.viewer.idx + 1)} از ${faNum(App.viewer.items.length)}`;
   $('#lbPrev').disabled = App.viewer.items.length < 2;
   $('#lbNext').disabled = App.viewer.items.length < 2;
+  /* The plate is already open; the caption should say which conversation it
+     belongs to and be that door, not only the icon in the toolbar. */
+  const post = im.pid ? postByPid(journal, im.pid) : null;
+  /* The post's own page wins over the plate's: they agree in the archive, but
+     when a stub is missing one of them the message is the thing being linked. */
+  const postPage = (post && post.p) || im.p || 1;
+  const postMeta = im.pid && journal
+    ? `<a class="cap-post-link" href="${postSpotHref(journal.id, postPage, im.pid)}"
+        title="رفتن به پست این تصویر در دفتر (O)">
+        ${icon('arrow-left')}<bdi dir="ltr">${esc(post ? (post.n || pidLabel(post)) : pidLabel({ id: im.pid }))}</bdi>
+        ${post?.a ? `<span class="cap-post-author" dir="auto">${esc(post.a)}</span>` : ''}
+      </a>`
+    : '';
   $('#lbImageMeta').innerHTML = [
+    postMeta,
     im.o ? `<span class="cap-file" dir="ltr">${esc(im.o)}</span>` : '',
     im.w && im.h ? `<bdi dir="ltr">${faNum(im.w)}×${faNum(im.h)}</bdi>` : '',
     metaIsolate(im.b ? formatBytes(im.b) : ''),
@@ -3121,12 +3241,36 @@ function openViewerPost() {
   const im = App.viewer.items[App.viewer.idx];
   if (!im) return;
   const journal = App.viewer.journal;
-  const pid = im.pid;
   const jid = journal ? journal.id : im.journalId;
   const page = im.p || im.pageNum || 1;
-  closeViewer();
-  if (pid) go(`p/${encodeURIComponent(jid)}/${page}/${encodeURIComponent(pid)}`);
-  else go(`j/${encodeURIComponent(jid)}/${page}`);
+  /* The reader asked for the message, not for the single-post sheet: open the
+     journal page that holds it and scroll the row into view. go() runs route(),
+     which closes the plate with keepEntry so the address is not undone, and
+     openJournal() honours the post id after drawing the page. */
+  const path = im.pid
+    ? `j/${encodeURIComponent(jid)}/${page}/${encodeURIComponent(im.pid)}`
+    : `j/${encodeURIComponent(jid)}/${page}`;
+  go(path);
+}
+
+/* The plate already has a real address (#/i/…), so the viewer copies that
+   instead of inventing a second one: pasting it reopens the journal with the
+   same image in front of the reader. */
+function viewerLink() {
+  const im = App.viewer.items[App.viewer.idx];
+  if (!im || !im.k) return '';
+  const jid = (App.viewer.journal && App.viewer.journal.id) || im.journalId || '';
+  if (!jid) return '';
+  const page = im.p || im.pageNum || 1;
+  return location.href.split('#')[0] +
+    `#/i/${encodeURIComponent(jid)}/${page}/${encodeURIComponent(im.k)}`;
+}
+
+async function copyViewerLink() {
+  const url = viewerLink();
+  if (!url) { showToast('این تصویر نشانی مستقل ندارد'); return; }
+  const ok = await copyText(url);
+  showToast(ok ? 'پیوند تصویر کپی شد' : 'کپی ممکن نشد');
 }
 
 /* ============================== viewer zoom & pan ==============================
@@ -3660,14 +3804,24 @@ const onSearchInput = debounce(() => {
   const q = input.value.trim();
   const clear = $('#searchClear');
   if (clear) clear.hidden = !q;
-  if (!q) { if (App.currentView === 'search') go(''); return; }
+  /* A search that is still streaming must not paint into a box the reader has
+     already emptied or shortened: invalidating the token here is what keeps a
+     slow shard from dropping the previous query's results onto the page. */
+  if (!q) {
+    App.search.token++;
+    App.search.loading = false;
+    if (App.currentView === 'search') go('');
+    return;
+  }
   if (q.length < 2) {
+    App.search.token++;
+    App.search.loading = false;
+    App.search.posts = [];
     showView('search');
     $('#searchTitle').textContent = 'جستجو';
     $('#searchSubtitle').textContent = 'دو حرف به بالا';
     $('#searchStatus').textContent = '';
-    $('#searchResults').innerHTML = '';
-    $('#searchMore').hidden = true;
+    renderSearchHome();
     return;
   }
   replaceHash('search/' + encodeURIComponent(q));
@@ -3696,6 +3850,49 @@ function searchJournalOrder() {
     .sort((a, b) => (a.posts || 0) - (b.posts || 0) || String(a.name).localeCompare(String(b.name), 'en'));
 }
 
+/* ---------------------------- search history ---------------------------- */
+
+/* Six recent queries, one per related chain: typing «liq», «liqui» and
+   «liquidity» leaves one useful entry, not three fragments of the same word. */
+function loadRecentSearches() {
+  try {
+    const list = JSON.parse(localStorage.getItem(SEARCHES_KEY) || '[]');
+    return Array.isArray(list) ? list.filter(x => typeof x === 'string' && x.trim()).slice(0, 8) : [];
+  } catch { return []; }
+}
+
+function saveRecentSearches(list) {
+  try { localStorage.setItem(SEARCHES_KEY, JSON.stringify(list.slice(0, 8))); } catch {}
+}
+
+function rememberSearch(q) {
+  const clean = String(q || '').trim();
+  if (clean.length < 2) return;
+  const low = norm(clean);
+  const list = loadRecentSearches().filter(x => {
+    const nx = norm(x);
+    return nx !== low && !nx.startsWith(low) && !low.startsWith(nx);
+  });
+  list.unshift(clean);
+  saveRecentSearches(list);
+}
+
+/* An empty search view is a place to start, not a blank page: recent queries
+   and a few terms the archive actually answers make the first search one tap. */
+function renderSearchHome() {
+  const history = loadRecentSearches();
+  const suggestions = ['liquidity', 'نقدینگی', 'flag limits', 'supply and demand', 'order block', 'ریسک'];
+  const chip = (q) => `<button class="chip" type="button" data-search-q="${esc(q)}"><svg class="icon"><use href="#i-search"/></svg>${esc(q)}</button>`;
+  const block = (title, list, extra = '') => list.length ? `
+    <div class="rule-head"><h2>${title}</h2>${extra}</div>
+    <div class="chip-row">${list.map(chip).join('')}</div>` : '';
+  $('#searchResults').innerHTML =
+    block('جستجوهای اخیر', history, `<button class="text-action" type="button" data-search-clear>پاک کردن</button>`)
+    + block('پیشنهادها', suggestions)
+    + `<p class="field-hint" style="margin-top:18px">جستجو در متنِ انگلیسی و ترجمهٔ فارسی انجام می‌شود. عبارت را بنویسید یا یکی از بالا را بزنید.</p>`;
+  $('#searchMore').hidden = true;
+}
+
 async function runSearch(q) {
   q = String(q || '').trim();
   const input = $('#globalSearch');
@@ -3711,9 +3908,8 @@ async function runSearch(q) {
   if (!q || q.length < 2) {
     App.search.loading = false;
     App.search.posts = [];
-    $('#searchStatus').textContent = 'دو حرف به بالا';
-    $('#searchResults').innerHTML = '';
-    $('#searchMore').hidden = true;
+    $('#searchStatus').textContent = q ? 'دو حرف به بالا' : '';
+    renderSearchHome();
     return;
   }
   App.search.loading = true;
@@ -3760,6 +3956,7 @@ async function runSearch(q) {
     return;
   }
   renderSearchResults();
+  rememberSearch(q);
 }
 
 function renderSearchResults() {
@@ -3864,7 +4061,13 @@ async function openAll() {
   App.all.failed = 0;
   const ids = (App.index.journals || []).map(j => j.id);
   App.all.total = ids.length;
-  $('#allPosts').innerHTML = `<div class="loading-row"><span class="spinner"></span> فهرست ${faNum(App.index.stats?.posts || 0)} پست بارگذاری می‌شود…</div>`;
+  /* «همهٔ دفترها» lists journals only, so the loading line must not borrow the
+     archive-wide post count: it would promise the topic threads' posts and then
+     settle on a much smaller number once the list was drawn. */
+  const journalIds = new Set(orderedJournals().map(j => j.id));
+  const journalPosts = (App.index.journals || [])
+    .reduce((s, j) => s + (journalIds.has(j.id) ? (j.posts || 0) : 0), 0);
+  $('#allPosts').innerHTML = `<div class="loading-row"><span class="spinner"></span> فهرست ${faNum(journalPosts)} پست بارگذاری می‌شود…</div>`;
   $('#allMore').hidden = true;
   renderAllPosts();
   await Promise.all(ids.map(id => ensurePostsShard(id).then(() => {
@@ -3885,6 +4088,19 @@ async function openAll() {
   renderAllPosts();
 }
 
+/* The forum timestamp is `03 Jan 2013 20:18`; Date.parse reads it in every
+   current engine, and the pid-keyed cache keeps a sort from re-parsing ten
+   thousand rows on every partial render while the shards stream in. */
+function postTimestamp(row) {
+  const key = row && row[2];
+  if (!key) return 0;
+  const cached = App.all.ts[key];
+  if (cached !== undefined) return cached;
+  const ts = Date.parse(row[3] || '') || 0;
+  App.all.ts[key] = ts;
+  return ts;
+}
+
 function renderAllPosts() {
   const all = App.all.rows || [];
   const journal = App.all.filter;
@@ -3900,15 +4116,28 @@ function renderAllPosts() {
   if (text) {
     rows = rows.filter(row => norm((row[5] || '') + ' ' + (row[7] || '') + ' ' + (row[4] || '')).includes(text));
   }
+  if (App.all.sort === 'new') rows = rows.slice().sort((a, b) => postTimestamp(b) - postTimestamp(a));
   const list = rows.slice(0, App.all.limit);
   const loading = !!App.all.loading;
-  const total = loading ? (App.index.stats?.posts || all.length) : rows.length;
+  /* While the shards stream in, the header still names the size of the list the
+     reader is waiting for. For «همهٔ دفترها» that is the journal posts only. */
+  const scopedPosts = journal === 'all'
+    ? (App.index.journals || []).reduce((s, j) => s + (journalIds.has(j.id) ? (j.posts || 0) : 0), 0)
+    : (journalById(journal)?.posts || 0);
+  const total = loading ? (scopedPosts || all.length) : rows.length;
   const unitCount = journal === 'all' ? journalIds.size : 1;
   const unitWord = journal === 'all' ? 'دفتر' : (isTopic(journalById(journal)) ? 'موضوع' : 'دفتر');
   $('#allSubtitle').innerHTML = `${faNum(total)} پست در ${faNum(unitCount)} ${unitWord} · نشان‌شده‌ها ${faNum(App.bookmarks.length)}${loading ? ' · در حال بارگذاری…' : ''}`;
   $('#allCount').textContent = loading
     ? `${faNum(list.length)} از ${faNum(rows.length)} تا اینجا · ${faNum(App.all.loaded)}/${faNum(App.all.total)} دفتر`
     : `${faNum(list.length)} از ${faNum(rows.length)} نمایش داده می‌شود`;
+  const sortBtn = $('#allSort');
+  if (sortBtn) {
+    const newest = App.all.sort === 'new';
+    sortBtn.textContent = newest ? 'ترتیب: تازه‌ترین' : 'ترتیب: دفتر';
+    sortBtn.classList.toggle('is-on', newest);
+    sortBtn.title = newest ? 'از تازه به قدیم؛ برای بازگشت به ترتیب دفتر بزنید' : 'به ترتیب دفتر و صفحه؛ برای نمایش تازه‌ترین‌ها بزنید';
+  }
   const box = $('#allPosts');
   if (!list.length) {
     box.innerHTML = loading
@@ -3944,15 +4173,45 @@ function renderAllPosts() {
 
 /* ============================== gallery ============================== */
 
-async function openGallery() {
+async function openGallery(journalId, postId = '') {
   showView('gallery');
   syncActiveNav();
+  syncGallerySize();
+  /* A plain visit to the board starts clean. A link from a post adds its id and
+     narrows the board to that post's plates, not to the whole journal. */
+  App.gallery.q = '';
+  const filterInput = $('#galleryFilter');
+  if (filterInput && filterInput.value) filterInput.value = '';
+  const filterClear = $('#galleryClear');
+  if (filterClear) filterClear.hidden = true;
   const sel = $('#galleryJournal');
   if (sel && !sel.options.length) {
-    sel.innerHTML = orderedJournals()
-      .map(j => `<option value="${esc(j.id)}">${esc(j.name)}</option>`).join('');
+    /* Journals first, exactly in the home page's priority order, then the
+       subject threads. A thread that carries charts belongs here too, and
+       leaving it out of the list while still loading it left the select blank. */
+    const topics = orderedTopics();
+    const option = (j) => {
+      const rank = priorityRank(j.id);
+      return `<option value="${esc(j.id)}">${rank ? '★ ' : ''}${esc(j.name)}</option>`;
+    };
+    sel.innerHTML = `<optgroup label="دفترها">` + orderedJournals().map(option).join('') + `</optgroup>`
+      + (topics.length ? `<optgroup label="موضوع‌های آموزشی">` + topics.map(option).join('') + `</optgroup>` : '');
   }
-  if (!App.gallery.journalId) App.gallery.journalId = (App.currentJournal && App.currentJournal.id) || App.index.journals[0]?.id || '';
+  const units = orderedUnits();
+  const wanted = journalId && units.some(j => j.id === journalId) ? journalId : '';
+  /* The board's journal is part of its address now, so a shared link and a
+     refresh both open the same book instead of falling back to the first one. */
+  if (wanted) {
+    App.gallery.journalId = wanted;
+    App.gallery.postId = postId || '';
+  } else {
+    App.gallery.postId = '';
+    if (journalId) replaceHash('gallery');
+  }
+  if (!App.gallery.journalId || !units.some(j => j.id === App.gallery.journalId)) {
+    /* The board opens where the home page starts: the first priority journal. */
+    App.gallery.journalId = units[0]?.id || '';
+  }
   if (sel) sel.value = App.gallery.journalId;
   await loadGalleryJournal();
 }
@@ -3960,40 +4219,112 @@ async function openGallery() {
 async function loadGalleryJournal() {
   const jid = App.gallery.journalId;
   if (!jid) return;
+  const token = ++App.gallery.token;
   App.gallery.loading = true;
   App.gallery.error = '';
   $('#galleryGrid').innerHTML = `<div class="loading-row"><span class="spinner"></span> تصویرها بارگذاری می‌شوند…</div>`;
   $('#galleryCount').textContent = '';
   $('#galleryMore').hidden = true;
+  const scope = $('#galleryScope');
+  if (scope) { scope.hidden = true; scope.innerHTML = ''; }
   try {
     const journal = await ensureJournalImages(jid);
+    if (token !== App.gallery.token) return;
     App.gallery.currentJournal = journal;
     App.gallery.items = journal.images.slice();
     App.gallery.loading = false;
     renderGallery();
   } catch (e) {
+    if (token !== App.gallery.token) return;
     App.gallery.loading = false;
     App.gallery.error = e.message;
     $('#galleryGrid').innerHTML = errorState('تابلوی تصاویر بارگذاری نشد', e.message);
   }
 }
 
+/* One ordered, de-duplicated list for both the board and its viewer.
+   The source files are emitted in post order, but a late page can arrive out
+   of sequence; a stable sort by page keeps the forum order inside each page
+   while making the board read 1, 2, 3… like the journal itself. */
+function galleryItems(journal, filters) {
+  const source = journal && App.gallery.currentJournal && App.gallery.currentJournal.id === journal.id
+    ? App.gallery.items
+    : ((journal && journal.images) || []);
+  const opts = filters || {};
+  const postId = opts.postId || '';
+  const nq = opts.q ? norm(opts.q) : '';
+  const postMap = nq || postId
+    ? new Map(((journal && journal.posts) || []).map(p => [p.id, p]))
+    : null;
+  const seen = new Set();
+  const rows = [];
+  source.forEach((im, i) => {
+    if (!im || !im.k || seen.has(im.k)) return;
+    seen.add(im.k);
+    if (isTinyPlate(im)) return;
+    if (postId && im.pid !== postId) return;
+    if (nq) {
+      const post = postMap && im.pid ? postMap.get(im.pid) : null;
+      const hay = [im.o, im.pid, im.p, post && post.a, post && post.n].filter(Boolean).join(' ');
+      if (!norm(hay).includes(nq)) return;
+    }
+    rows.push({ im, i });
+  });
+  rows.sort((a, b) => ((a.im.p || 1) - (b.im.p || 1)) || (a.i - b.i));
+  return rows.map(r => r.im);
+}
+
+/* Clicking a thumbnail opens the whole board, not the handful of plates that
+   happen to sit on the same journal page. Next/previous then walk every chart
+   in the order the gallery shows them. */
+function openGalleryViewer(key) {
+  const journal = App.gallery.currentJournal;
+  if (!journal) return;
+  const items = galleryItems(journal, { postId: App.gallery.postId, q: App.gallery.q })
+    .map(im => ({ ...im, p: im.p || 1 }));
+  let idx = items.findIndex(im => im.k === key);
+  if (idx < 0) return;
+  openViewer(items, idx, journal);
+}
+
 function renderGallery() {
   const journal = App.gallery.currentJournal;
   if (!journal) return;
-  const seen = new Set();
-  const all = [];
-  for (const im of App.gallery.items) {
-    if (seen.has(im.k)) continue;
-    seen.add(im.k);
-    if (!isTinyPlate(im)) all.push(im);
-  }
+  const all = galleryItems(journal, { postId: App.gallery.postId, q: App.gallery.q });
   const list = all.slice(0, App.gallery.limit);
-  $('#galleryCount').innerHTML = `${faNum(list.length)} از ${faNum(all.length)} تصویرِ یکتا در <bdi dir="auto">${esc(journal.name)}</bdi>`;
+  const postMap = new Map((journal.posts || []).map(p => [p.id, p]));
+  const scopePost = App.gallery.postId ? postMap.get(App.gallery.postId) : null;
+  const bits = [];
+  if (App.gallery.postId) {
+    bits.push(`فقط تصاویر ${scopePost ? `<bdi dir="ltr">${esc(scopePost.n || pidLabel(scopePost))}</bdi>` : 'این پست'}`);
+  }
+  if (App.gallery.q) bits.push(`پالایش «${esc(App.gallery.q)}»`);
+  $('#galleryCount').innerHTML = `${faNum(list.length)} از ${faNum(all.length)} تصویرِ یکتا در <bdi dir="auto">${esc(journal.name)}</bdi>${bits.length ? ` · ${bits.join(' · ')}` : ''}`;
+
+  const scope = $('#galleryScope');
+  if (scope) {
+    if (App.gallery.postId) {
+      scope.hidden = false;
+      scope.innerHTML = `<span class="gallery-scope-chip">${icon('arrow-left')} نمای پست${scopePost ? ` <bdi dir="ltr">${esc(scopePost.n || pidLabel(scopePost))}</bdi>` : ''}${scopePost?.a ? ` — <bdi dir="auto">${esc(scopePost.a)}</bdi>` : ''}
+        <a class="text-action" href="#/gallery/${encodeURIComponent(journal.id)}">همهٔ تصاویر دفتر</a></span>`;
+    } else {
+      scope.hidden = true;
+      scope.innerHTML = '';
+    }
+  }
+
   const grid = $('#galleryGrid');
+  grid.dataset.size = App.settings.gallerySize || DEFAULT_SETTINGS.gallerySize;
   if (!list.length) {
-    grid.innerHTML = `<div class="empty-state">${icon('image')}<h3>تصویری نیست</h3>
-      <p>این دفتر تصویری ندارد.</p></div>`;
+    const emptyTitle = App.gallery.postId
+      ? 'این پست تصویری ندارد'
+      : (App.gallery.q ? 'تصویری با این پالایش پیدا نشد' : 'تصویری نیست');
+    const emptyText = App.gallery.postId
+      ? 'شاید تصویرهای این پست در آرشیو نباشند یا به پست دیگری تعلق داشته باشند.'
+      : (App.gallery.q ? 'عبارت دیگری بنویسید یا پالایش را پاک کنید.' : 'این دفتر تصویری ندارد.');
+    grid.innerHTML = `<div class="empty-state">${icon('image')}<h3>${emptyTitle}</h3>
+      <p>${emptyText}</p>${(App.gallery.postId || App.gallery.q)
+        ? `<a class="btn" href="#/gallery/${encodeURIComponent(journal.id)}">همهٔ تصاویر دفتر</a>` : ''}</div>`;
     $('#galleryMore').hidden = true;
     return;
   }
@@ -4001,18 +4332,36 @@ function renderGallery() {
     const src = im.t || im.f || '';
     const name = im.o || 'تصویر';
     const ar = im.w && im.h ? `${im.w} / ${im.h}` : 'auto';
-    return `<div class="contact-cell">
-      <a class="plate" href="#/i/${encodeURIComponent(journal.id)}/${im.p || 1}/${encodeURIComponent(im.k)}"
-        data-gallery-key="${esc(im.k)}" aria-label="${esc(name)}">
+    const post = im.pid ? postMap.get(im.pid) : null;
+    const page = im.p || (post && post.p) || 1;
+    /* The plate deep link uses the image's page; the post door uses the post's,
+       which is the one the journal will actually have this row on. */
+    const postPage = (post && post.p) || im.p || 1;
+    const number = post ? (post.n || pidLabel(post)) : (im.pid ? pidLabel({ id: im.pid }) : '');
+    const author = post ? (post.a || '') : '';
+    /* The picture opens the viewer; this line opens the conversation it came
+       from. Keeping them as two links means a plain click still gets the whole
+       board, while a reader who wants the post does not have to go through it. */
+    const postLink = im.pid
+      ? `<a class="contact-post" href="${postSpotHref(journal.id, postPage, im.pid)}"
+          title="رفتن به پست این تصویر در دفتر${author ? ` — ${esc(author)}` : ''}">
+          ${icon('arrow-left')}<span class="cp-num" dir="ltr">${esc(number)}</span>
+          ${author ? `<span class="cp-author" dir="auto">${esc(author)}</span>` : ''}
+        </a>`
+      : '';
+    return `<div class="contact-cell" data-post-id="${esc(im.pid || '')}">
+      <a class="plate" href="#/i/${encodeURIComponent(journal.id)}/${page}/${encodeURIComponent(im.k)}"
+        data-gallery-key="${esc(im.k)}" aria-label="باز کردن تصویر ${esc(name)}">
         <span class="plate-frame">
           <span class="plate-media" style="--ar: ${esc(ar)}">
             ${src ? `<img src="${esc(src)}" alt="${esc(name)}" loading="lazy" decoding="async" draggable="false" data-thumb="${esc(src)}">` : ''}
           </span>
         </span>
-        <span class="contact-cap">
-          <span class="cap-page">ص ${faNum(im.p || 1)}</span>
-        </span>
       </a>
+      <div class="contact-cap">
+        <span class="cap-page">ص ${faNum(page)}</span>
+        ${postLink}
+      </div>
     </div>`;
   }).join('');
   wirePlateImages(grid);
@@ -4233,13 +4582,22 @@ function setupEvents() {
         setSearchOpen(false);
       }
     }
-    if (e.key === 'Escape') { search.value = ''; $('#searchClear').hidden = true; setSearchOpen(false); go(''); search.blur(); }
+    if (e.key === 'Escape') {
+      search.value = '';
+      $('#searchClear').hidden = true;
+      setSearchOpen(false);
+      /* Escape closes the search box. It only leaves for the archive index when
+         the search view itself is what is open; closing the box mid-post must
+         not throw the reader back to the home page. */
+      if (App.currentView === 'search') go('');
+      search.blur();
+    }
   });
   $('#searchClear')?.addEventListener('click', () => {
     search.value = '';
     $('#searchClear').hidden = true;
     setSearchOpen(false);
-    go('');
+    if (App.currentView === 'search') go('');
     search.focus();
   });
 
@@ -4256,8 +4614,38 @@ function setupEvents() {
     App.search.postLimit += 40;
     renderSearchResults();
   });
+  $('#searchResults')?.addEventListener('click', (e) => {
+    const clear = e.target.closest('[data-search-clear]');
+    if (clear) {
+      saveRecentSearches([]);
+      renderSearchHome();
+      return;
+    }
+    const chip = e.target.closest('[data-search-q]');
+    if (chip) {
+      e.preventDefault();
+      const q = chip.dataset.searchQ || '';
+      const input = $('#globalSearch');
+      if (input) input.value = q;
+      replaceHash('search/' + encodeURIComponent(q));
+      runSearch(q);
+      return;
+    }
+    /* A query that led to a clicked result is a query worth keeping. */
+    if (e.target.closest('a.result') && App.search.q) rememberSearch(App.search.q);
+  });
+  $('#randomBtn')?.addEventListener('click', goRandomPost);
+  $('#toTop')?.addEventListener('click', () => {
+    const calm = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    window.scrollTo({ top: 0, behavior: calm ? 'instant' : 'smooth' });
+  });
 
   $('#allMore')?.addEventListener('click', () => { App.all.limit += 40; renderAllPosts(); });
+  $('#allSort')?.addEventListener('click', () => {
+    App.all.sort = App.all.sort === 'new' ? 'journal' : 'new';
+    App.all.limit = 40;
+    renderAllPosts();
+  });
   $('#allJournalSelect')?.addEventListener('change', (e) => {
     App.all.filter = e.target.value;
     App.all.limit = 40;
@@ -4276,8 +4664,72 @@ function setupEvents() {
 
   $('#galleryJournal')?.addEventListener('change', (e) => {
     App.gallery.journalId = e.target.value;
+    App.gallery.postId = '';
+    App.gallery.q = '';
     App.gallery.limit = 48;
+    const filter = $('#galleryFilter');
+    if (filter) filter.value = '';
+    const clear = $('#galleryClear');
+    if (clear) clear.hidden = true;
+    replaceHash('gallery/' + encodeURIComponent(e.target.value));
     loadGalleryJournal();
+  });
+  /* The board can carry five hundred charts; a filename, author, post number or
+     page is what a reader actually remembers. The filter runs on the already
+     loaded list, so it costs no request. */
+  const galleryFilter = $('#galleryFilter');
+  const applyGalleryFilter = () => {
+    App.gallery.q = galleryFilter ? galleryFilter.value.trim() : '';
+    App.gallery.limit = 48;
+    const clear = $('#galleryClear');
+    if (clear) clear.hidden = !App.gallery.q;
+    renderGallery();
+  };
+  galleryFilter?.addEventListener('input', debounce(applyGalleryFilter, 180));
+  galleryFilter?.addEventListener('search', applyGalleryFilter);
+  $('#galleryClear')?.addEventListener('click', () => {
+    if (galleryFilter) {
+      galleryFilter.value = '';
+      galleryFilter.focus();
+    }
+    applyGalleryFilter();
+  });
+  $('#galleryGrid')?.addEventListener('click', (e) => {
+    /* Let a modified click copy/open the real deep link. A plain click belongs
+       to the board viewer, which can page through every plate. */
+    if (e.defaultPrevented || e.button !== 0 || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+    const cell = e.target.closest('[data-gallery-key]');
+    if (!cell) return;
+    e.preventDefault();
+    openGalleryViewer(cell.dataset.galleryKey);
+  });
+  /* The board is a grid, so the arrow keys move through it like one. In this
+     RTL flow the next card sits to the left of the current one. */
+  $('#galleryGrid')?.addEventListener('keydown', (e) => {
+    /* Arrow keys walk the cards, not the two links inside one card: starting
+       from the post link should land on the next picture, not on itself. */
+    const cell = e.target.closest('.contact-cell');
+    if (!cell) return;
+    const cells = $$('.contact-cell', $('#galleryGrid'));
+    const idx = cells.indexOf(cell);
+    if (idx < 0) return;
+    const firstRow = cells.filter(c => Math.abs(c.offsetTop - cells[0].offsetTop) < 2).length || 1;
+    let next = idx;
+    if (e.key === 'ArrowLeft') next = idx + 1;
+    else if (e.key === 'ArrowRight') next = idx - 1;
+    else if (e.key === 'ArrowDown') next = idx + firstRow;
+    else if (e.key === 'ArrowUp') next = idx - firstRow;
+    else if (e.key === 'Home') next = 0;
+    else if (e.key === 'End') next = cells.length - 1;
+    else return;
+    e.preventDefault();
+    const target = cells[clamp(next, 0, cells.length - 1)]?.querySelector('[data-gallery-key]');
+    if (target) target.focus();
+  });
+  $('#gallerySize')?.addEventListener('click', (e) => {
+    const btn = e.target.closest('[data-gallery-size]');
+    if (!btn) return;
+    updateSetting('gallerySize', btn.dataset.gallerySize);
   });
   $('#galleryMore')?.addEventListener('click', () => { App.gallery.limit += 48; renderGallery(); });
 
@@ -4318,6 +4770,8 @@ function setupEvents() {
     const p = max > 40 ? clamp(window.scrollY / max, 0, 1) : 0;
     const bar = $('#readingBar');
     if (bar) bar.style.setProperty('--p', p.toFixed(4));
+    const top = $('#toTop');
+    if (top) top.hidden = window.scrollY < 700;
     const y = window.scrollY;
     // The bar tucks away as the reader moves into the text and returns the
     // moment they come back up. Near the top it is always shown, so the page
@@ -4347,10 +4801,34 @@ function setupEvents() {
     }
     if (paletteOpen) return;
     if (viewerOpen) return;
+    if (!$('#settingsDrawer')?.hidden || !$('#shortcutsDrawer')?.hidden) return;
+    if (!typing && e.key === '?') { e.preventDefault(); openShortcuts(); return; }
     if (!typing && e.key === '/') { e.preventDefault(); focusSearch(); return; }
     if (e.key === 'Escape') {
-      if (!$('#settingsDrawer')?.hidden) { closeSettings(); return; }
       if (App.railOpen && isRailLayout()) { App.railOpen = false; syncRail(); return; }
+    }
+    /* j/k walk the journal one post at a time; the same links sit at the foot
+       of the post for anyone who does not use the keyboard. */
+    if (!typing && !e.ctrlKey && !e.metaKey && !e.altKey
+      && App.currentView === 'post' && (e.key === 'j' || e.key === 'k')) {
+      const d = App.postDetail;
+      if (d && d.journal && d.post) {
+        const posts = d.journal.posts || [];
+        const i = posts.findIndex(p => p.id === d.post.id);
+        const target = posts[i + (e.key === 'j' ? 1 : -1)];
+        if (target) {
+          e.preventDefault();
+          go(postHref(d.journal.id, target.p ?? target.pageNum ?? 1, target.id));
+        }
+      }
+      return;
+    }
+    if (!typing && !e.ctrlKey && !e.metaKey && !e.altKey && (e.key === 'g' || e.key === 'G')) {
+      const jid = (App.currentView === 'journal' || App.currentView === 'post')
+        ? (App.currentJournal && App.currentJournal.id)
+        : (App.currentView === 'gallery' ? App.gallery.journalId : '');
+      go(jid ? `gallery/${encodeURIComponent(jid)}` : 'gallery');
+      return;
     }
     if (!typing && e.key === 'm') { toggleRail(); return; }
     if (!typing && (e.key === 'f' || e.key === 'F')) { toggleFocusMode(); return; }
@@ -4481,18 +4959,55 @@ function setupSettings() {
   syncSettingsControls();
 }
 
+/* ============================== keyboard help ============================== */
+
+function openShortcuts() {
+  const box = $('#shortcutsDrawer');
+  if (!box || !box.hidden) return;
+  App.shortcutsReturnFocus = document.activeElement;
+  box.hidden = false;
+  syncRail();
+  $('#shortcutsClose')?.focus();
+}
+
+function closeShortcuts() {
+  const box = $('#shortcutsDrawer');
+  if (!box || box.hidden) return;
+  box.hidden = true;
+  syncRail();
+  const ret = App.shortcutsReturnFocus;
+  App.shortcutsReturnFocus = null;
+  if (ret && typeof ret.focus === 'function') ret.focus();
+}
+
+function setupShortcuts() {
+  const box = $('#shortcutsDrawer');
+  if (!box || box.dataset.bound) return;
+  box.dataset.bound = '1';
+  $('#shortcutsBackdrop')?.addEventListener('click', closeShortcuts);
+  $('#shortcutsClose')?.addEventListener('click', closeShortcuts);
+  $('#shortcutsBtn')?.addEventListener('click', openShortcuts);
+  box.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') { e.preventDefault(); closeShortcuts(); }
+    if (e.key === 'Tab') trapFocus(e, box);
+  });
+}
+
 /* ============================== command palette ============================== */
 
 const PALETTE_COMMANDS = [
   { icon: 'home', title: 'صفحهٔ نخست', sub: 'نمای کلی و دفترها', run: () => go('') },
   { icon: 'list', title: 'همهٔ پست‌ها', sub: 'دفتر به دفتر، صفحه به صفحه', run: () => go('all') },
   { icon: 'grid', title: 'تابلوی تصاویر', sub: 'شبکه‌ای از بندانگشتی‌های هر دفتر', run: () => go('gallery') },
+  { icon: 'book', title: 'موضوع‌های آموزشی', sub: 'دفترهای موضوعی RTM', run: () => go('topics') },
+  { icon: 'note', title: 'یادداشت‌های من', sub: 'یادداشت‌های نوشته‌شده روی نمودارها', run: () => go('notes') },
   { icon: 'bookmark', title: 'نشان‌شده‌ها', sub: 'فهرست مطالعهٔ نشان‌شده', run: () => go('saved') },
   { icon: 'search', title: 'جستجو در آرشیو', sub: 'متن پست‌ها و تصویرها', run: () => focusSearch() },
   { icon: 'lamp', title: 'چراغ مطالعه', sub: 'حالت مطالعهٔ راحت: تم گرم، متن بزرگ‌تر، حرکت کمتر', toggle: 'lamp', run: () => updateSetting('lamp', !App.settings.lamp) },
   { icon: 'moon', title: 'تغییر تم', sub: 'کاغذ روشن یا تیره', run: () => updateSetting('theme', App.settings.theme === 'dark' ? 'paper' : 'dark') },
   { icon: 'image', title: 'کشفِ تصادفی', sub: 'یک پستِ رندوم از آرشیو', run: () => { goRandomPost(); } },
   { icon: 'focus', title: 'حالت تمرکز', sub: 'کم کردن عناصر دور متن', toggle: 'focus', run: toggleFocusMode },
+  { icon: 'keyboard', title: 'میانبرهای کلیدی', sub: 'همهٔ کلیدها در یک نگاه (?)', run: openShortcuts },
   { icon: 'settings', title: 'تنظیمات نمایش', sub: 'زبان، اندازهٔ نوشته، سرستون', run: openSettings },
   { icon: 'reset', title: 'بازگشت به پیش‌فرض‌ها', sub: 'پاک کردن تنظیمات این مرورگر', run: resetSettings },
 ];
