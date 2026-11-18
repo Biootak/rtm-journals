@@ -1142,6 +1142,24 @@ html[data-lamp] .pane-scroll { background: radial-gradient(circle at 50% 0%, rgb
 }
 .to-top:hover { color:var(--accent-deep); border-color:var(--accent-line); background:var(--accent-soft); transform:translateY(-2px); }
 .to-top .icon { width:19px; height:19px; }
+
+/* The way back from a plate's "go to post" hop: a quiet pill in the corner
+   opposite «بازگشت به بالا», naming the spot it returns to. */
+.return-chip {
+  position:fixed; inset-block-end:22px; inset-inline-start:22px; z-index:200;
+  display:inline-flex; align-items:center; gap:8px; min-height:44px; padding:10px 18px;
+  border-radius:999px; border:1px solid var(--rule-strong);
+  background:var(--glass-strong); backdrop-filter:blur(12px); -webkit-backdrop-filter:blur(12px);
+  color:var(--ink); font-family:var(--fa); font-size:13px; font-weight:700;
+  box-shadow:var(--shadow-lift); cursor:pointer; transition:all var(--tr);
+}
+.return-chip:hover { color:var(--accent-deep); border-color:var(--accent-line); background:var(--accent-soft); transform:translateY(-2px); }
+.return-chip .icon { width:15px; height:15px; }
+.return-chip[hidden] { display:none; }
+
+/* The thumbnail the reader had open in the viewer flashes once when the board
+   comes back, so "same spot" is visible, not just positional. */
+.contact-cell.is-return { animation:mark 2.6s ease both; border-color:var(--accent-line); }
 @media (max-width:700px) {
   .to-top { inset-inline-end:14px; inset-block-end:16px; width:40px; height:40px; }
 }
@@ -1341,7 +1359,7 @@ html[dir="rtl"] .toast.is-on { transform:translate(50%,0); }
 
 /* print */
 @media print {
-  .masthead, .index-rail, .toolbar, .pager, .viewer, .sheet, .palette, .toast, .footer, .reading-bar, .article-foot, .article-jump, .plate-chip, .to-top { display:none !important; }
+  .masthead, .index-rail, .toolbar, .pager, .viewer, .sheet, .palette, .toast, .footer, .reading-bar, .article-foot, .article-jump, .plate-chip, .to-top, .return-chip, .hl-bubble, .author-mates, .study-stats, .stats-actions { display:none !important; }
   body { background:#fff; color:#000; font-size:11.5pt; }
   .colophon { display:block; padding:0; }
   .article { page-break-inside:avoid; border:1px solid #999; border-radius:0; box-shadow:none; }
@@ -1370,3 +1388,20 @@ pre, code, .mono, [dir="ltr"] { overflow-wrap:anywhere; }
    every figure to ~560px. */
 .post-inline-plates { display:flex; flex-direction:column; gap:16px; margin:18px 0; }
 .post-inline-plates .plate { flex:none; max-width:100%; }
+
+/* ---------------- highlights, stats, post-nav ---------------- */
+mark.hl { background:color-mix(in srgb, var(--accent, #c8a24a) 30%, transparent); color:inherit; border-radius:3px; padding:0 1px; cursor:pointer; }
+.hl-bubble { position:fixed; z-index:1200; background:var(--panel, #1d2126); color:var(--ink, #eee); border:1px solid var(--line, #333); border-radius:10px; padding:4px; box-shadow:0 8px 24px rgba(0,0,0,.35); }
+.hl-bubble button { background:none; border:0; color:inherit; font:inherit; padding:6px 12px; border-radius:8px; cursor:pointer; }
+.hl-bubble button:hover { background:var(--accent-soft, rgba(200,162,74,.15)); }
+.cap-nav { display:inline-flex; align-items:center; gap:4px; margin-inline-end:10px; font-size:12px; color:var(--accent-deep, #b98d2f); text-decoration:none; }
+.cap-nav bdi { font-weight:700; }
+.author-mates { display:flex; flex-wrap:wrap; align-items:center; gap:8px; margin-top:10px; padding-top:10px; border-top:1px dashed var(--line, #ddd); font-size:13px; }
+.mates-label { color:var(--muted, #888); }
+.study-stats { margin:28px 0 8px; }
+.stats-head { display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap; }
+.stats-actions { display:inline-flex; gap:10px; }
+.stat-grid { display:grid; grid-template-columns:repeat(auto-fit, minmax(96px, 1fr)); gap:10px; margin-top:12px; }
+.stat { background:var(--panel, #fff); border:1px solid var(--line, #e3e0d8); border-radius:12px; padding:12px 10px; text-align:center; }
+.stat b { display:block; font-size:20px; color:var(--accent-deep, #b98d2f); }
+.stat span { font-size:11px; color:var(--muted, #888); }

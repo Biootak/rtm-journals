@@ -53,6 +53,9 @@ const App = {
   viewer: { items: [], idx: 0, journal: null, returnFocus: null, zoom: { scale: 1, fit: 1, fitW: 1, natW: 0, natH: 0, mode: 'fit' } },
   railOpen: false,
   postReturn: null,
+  returnPoint: null,
+  pendingGalleryRestore: null,
+  galleryReturnArmed: false,
   pendingRestore: null,
   pendingScrollPost: null,
   paletteReturnFocus: null,
@@ -1395,6 +1398,252 @@ function cachedLoad(key, start) {
   return App.promises[key];
 }
 
+
+/* ============================== viewer slideshow ============================== */
+let slideTimer = 0;
+function toggleSlideshow() {
+  const on = !slideTimer;
+  const btn = $('#lbSlide');
+  if (on) {
+    slideTimer = setInterval(() => {
+      if ($('#lightbox').hidden) { toggleSlideshow(); return; }
+      moveViewer(1);
+    }, 2800);
+    btn?.classList.add('is-active');
+    showToast('نمایش خودکار روشن شد — S برای توقف');
+  } else {
+    clearInterval(slideTimer); slideTimer = 0;
+    btn?.classList.remove('is-active');
+    showToast('نمایش خودکار خاموش شد');
+  }
+}
+
+/* ============================== text highlights ============================== */
+const HIGHLIGHTS_KEY = 'rtm_highlights_v1';
+App.highlights = (() => { try { const r = JSON.parse(localStorage.getItem(HIGHLIGHTS_KEY) || '{}'); return r && typeof r === 'object' ? r : {}; } catch { return {}; } })();
+function saveHighlights() { try { localStorage.setItem(HIGHLIGHTS_KEY, JSON.stringify(App.highlights)); } catch {} }
+function hlSnippet(raw) { return String(raw || '').replace(/\s+/g, ' ').trim().slice(0, 200); }
+function findSnip(nodeData, snip) {
+  const i = nodeData.indexOf(snip);
+  if (i >= 0) return { start: i, len: snip.length };
+  try {
+    const re = new RegExp(snip.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/\s+/g, '\\s+'));
+    const m = re.exec(nodeData);
+    if (m) return { start: m.index, len: m[0].length };
+  } catch {}
+  return null;
+}
+function wrapHighlight(t, start, len, snip) {
+  const rest = t.splitText(start);
+  rest.splitText(len);
+  const mark = document.createElement('mark');
+  mark.className = 'hl';
+  mark.dataset.snippet = snip;
+  rest.parentNode.replaceChild(mark, rest);
+  mark.appendChild(rest);
+}
+function paintHighlights(el, key) {
+  const list = App.highlights[key];
+  if (!el || !list || !list.length) return;
+  const tw = document.createTreeWalker(el, NodeFilter.SHOW_TEXT);
+  const nodes = [];
+  let n;
+  while ((n = tw.nextNode())) {
+    if (n.parentElement && n.parentElement.closest('mark.hl')) continue;
+    nodes.push(n);
+  }
+  for (const snip of list) {
+    if (!snip) continue;
+    for (const t of nodes) {
+      if (!t.data) continue;
+      const hit = findSnip(t.data, snip);
+      if (hit) { wrapHighlight(t, hit.start, hit.len, snip); break; }
+    }
+  }
+}
+function applyHighlights(root) {
+  const store = App.highlights || {};
+  if (!Object.keys(store).length) return;
+  const scope = root && root.querySelectorAll ? root : document;
+  scope.querySelectorAll('article[data-post-id]').forEach(art => {
+    const jid = art.dataset.jid || (App.currentJournal && App.currentJournal.id) || '';
+    paintHighlights(art, `${jid}|${art.dataset.postId}`);
+  });
+  const pdt = scope.id === 'postDetailText' ? scope : (scope.querySelector ? scope.querySelector('#postDetailText') : null);
+  if (pdt && App.postDetail.post && App.postDetail.journal) {
+    paintHighlights(pdt, `${App.postDetail.journal.id}|${App.postDetail.post.id}`);
+  }
+}
+function hlContext(node) {
+  const el = node && (node.nodeType === 1 ? node : node.parentElement);
+  if (!el || !el.closest) return null;
+  if (!el.closest('.article-text') && !el.closest('#postDetailText') && !el.closest('.dual-en') && !el.closest('.dual-fa')) return null;
+  const art = el.closest('article[data-post-id]');
+  if (art) {
+    const jid = art.dataset.jid || (App.currentJournal && App.currentJournal.id) || '';
+    if (jid && art.dataset.postId) return { jid, pid: art.dataset.postId };
+  }
+  if (App.postDetail.post && App.postDetail.journal && el.closest('#viewPost')) {
+    return { jid: App.postDetail.journal.id, pid: App.postDetail.post.id };
+  }
+  return null;
+}
+function hideHlBubble() { $('#hlBubble')?.remove(); }
+function showHlBubble(rect, snip, jid, pid) {
+  hideHlBubble();
+  const b = document.createElement('div');
+  b.id = 'hlBubble'; b.className = 'hl-bubble';
+  b.innerHTML = `<button type="button" data-jid="${esc(jid)}" data-pid="${esc(pid)}" data-snippet="${esc(snip)}">هایلایت</button>`;
+  b.style.top = Math.max(8, rect.top - 46) + 'px';
+  b.style.left = Math.max(8, Math.min(innerWidth - 140, rect.left)) + 'px';
+  document.body.appendChild(b);
+}
+function addHighlight(jid, pid, snip) {
+  const key = `${jid}|${pid}`;
+  const list = App.highlights[key] || (App.highlights[key] = []);
+  if (!list.includes(snip)) { list.push(snip); saveHighlights(); }
+  applyHighlights(document);
+  showToast('هایلایت شد — برای برداشتن روی آن کلیک کنید');
+}
+function removeHighlight(mark) {
+  const snip = mark.dataset.snippet || '';
+  const art = mark.closest('article[data-post-id]');
+  let jid = '', pid = '';
+  if (art) { jid = art.dataset.jid || (App.currentJournal && App.currentJournal.id) || ''; pid = art.dataset.postId || ''; }
+  else if (App.postDetail.post && App.postDetail.journal) { jid = App.postDetail.journal.id; pid = App.postDetail.post.id; }
+  const list = (App.highlights[`${jid}|${pid}`] || []).filter(x => x !== snip);
+  if (list.length) App.highlights[`${jid}|${pid}`] = list; else delete App.highlights[`${jid}|${pid}`];
+  saveHighlights();
+  mark.replaceWith(document.createTextNode(mark.textContent));
+  showToast('هایلایت برداشته شد');
+}
+function setupHighlights() {
+  document.addEventListener('mouseup', () => {
+    setTimeout(() => {
+      const sel = getSelection();
+      if (!sel || sel.isCollapsed) { hideHlBubble(); return; }
+      const text = hlSnippet(sel.toString());
+      if (text.length < 3) { hideHlBubble(); return; }
+      const ctx = hlContext(sel.anchorNode);
+      if (!ctx) { hideHlBubble(); return; }
+      const range = sel.rangeCount ? sel.getRangeAt(0) : null;
+      const rect = range ? range.getBoundingClientRect() : null;
+      if (rect) showHlBubble(rect, text, ctx.jid, ctx.pid);
+    }, 10);
+  });
+  document.addEventListener('click', (e) => {
+    const mark = e.target.closest && e.target.closest('mark.hl');
+    if (mark) { e.preventDefault(); removeHighlight(mark); return; }
+    const btn = e.target.closest && e.target.closest('#hlBubble button');
+    if (btn) {
+      e.preventDefault();
+      addHighlight(btn.dataset.jid, btn.dataset.pid, btn.dataset.snippet || '');
+      hideHlBubble();
+      getSelection()?.removeAllRanges();
+    }
+  });
+  document.addEventListener('mousedown', (e) => {
+    if (!e.target.closest || !e.target.closest('#hlBubble')) hideHlBubble();
+  });
+  document.addEventListener('scroll', hideHlBubble, { passive: true });
+}
+
+/* ============================== study stats & data port ============================== */
+function studyStatsData() {
+  let readPosts = 0, journalsStarted = 0;
+  for (const e of Object.values(App.progress || {})) {
+    const n = e && e.read ? Object.keys(e.read).length : 0;
+    if (n) { journalsStarted++; readPosts += n; }
+  }
+  const days = new Set();
+  const mark = (d) => { const t = new Date(d); if (!isNaN(t)) days.add(t.toISOString().slice(0, 10)); };
+  (App.bookmarks || []).forEach(b => mark(b.ts));
+  (App.reading || []).forEach(r => mark(r.ts));
+  Object.values(App.progress || {}).forEach(e => mark(e.updated));
+  const cursor = new Date();
+  if (!days.has(cursor.toISOString().slice(0, 10))) cursor.setDate(cursor.getDate() - 1);
+  let streak = 0;
+  while (days.has(cursor.toISOString().slice(0, 10))) { streak++; cursor.setDate(cursor.getDate() - 1); }
+  return { readPosts, journalsStarted, streak };
+}
+function renderStudyStats() {
+  const view = $('#viewHome');
+  if (!view) return;
+  let sec = $('#studyStats');
+  if (!sec) { sec = document.createElement('section'); sec.id = 'studyStats'; sec.className = 'study-stats'; view.appendChild(sec); }
+  if (sec.dataset.bound !== '1') {
+    sec.dataset.bound = '1';
+    sec.addEventListener('click', (e) => {
+      const b = e.target.closest('[data-stats]');
+      if (!b) return;
+      if (b.dataset.stats === 'export') exportArchiveData();
+      if (b.dataset.stats === 'import') $('#archiveImport')?.click();
+    });
+  }
+  const st = studyStatsData();
+  sec.innerHTML = `<div class="stats-head"><h2 class="rule-title">آمار مطالعه</h2>
+      <span class="stats-actions">
+        <button class="text-action" type="button" data-stats="export">خروجی داده</button>
+        <button class="text-action" type="button" data-stats="import">ورود داده</button>
+      </span></div>
+    <div class="stat-grid">
+      <div class="stat"><b>${faNum(st.readPosts)}</b><span>پست خوانده‌شده</span></div>
+      <div class="stat"><b>${faNum((App.bookmarks || []).length)}</b><span>نشان‌شده</span></div>
+      <div class="stat"><b>${faNum((App.reading || []).length)}</b><span>در حال خواندن</span></div>
+      <div class="stat"><b>${faNum(st.journalsStarted)}</b><span>دفتر شروع‌شده</span></div>
+      <div class="stat"><b>${faNum(st.streak)}</b><span>روزهای متوالی</span></div>
+    </div>`;
+}
+function exportArchiveData() {
+  const data = {
+    version: 1, exported: new Date().toISOString(),
+    settings: App.settings, bookmarks: App.bookmarks, reading: App.reading,
+    progress: App.progress, highlights: App.highlights,
+  };
+  const ok = downloadText('rtm-archive-data.json', JSON.stringify(data, null, 1), 'application/json');
+  showToast(ok ? 'فایل دادهٔ آرشیو ذخیره شد' : 'ذخیره ممکن نشد');
+}
+async function importArchiveData(file) {
+  try {
+    const data = JSON.parse(await file.text());
+    if (!data || typeof data !== 'object') throw new Error('bad');
+    if (data.settings && typeof data.settings === 'object') { App.settings = { ...App.settings, ...data.settings }; saveSettings(); applySettings(); }
+    if (Array.isArray(data.bookmarks)) { App.bookmarks = data.bookmarks; saveBookmarks(); }
+    if (Array.isArray(data.reading)) { App.reading = data.reading; saveReading(); }
+    if (data.progress && typeof data.progress === 'object') { App.progress = data.progress; saveProgress(); }
+    if (data.highlights && typeof data.highlights === 'object') { App.highlights = data.highlights; saveHighlights(); }
+    applyHighlights(document);
+    if (typeof renderHome === 'function') renderHome();
+    if (typeof renderShelf === 'function') renderShelf();
+    if (typeof renderReadingRail === 'function') renderReadingRail();
+    showToast('دادهٔ آرشیو وارد شد');
+  } catch {
+    showToast('فایل داده معتبر نیست');
+  }
+}
+function setupStudyStats() {
+  if ($('#archiveImport')) return;
+  const inp = document.createElement('input');
+  inp.type = 'file'; inp.id = 'archiveImport'; inp.accept = 'application/json,.json'; inp.hidden = true;
+  inp.addEventListener('change', () => {
+    const f = inp.files && inp.files[0];
+    inp.value = '';
+    if (f) importArchiveData(f);
+  });
+  document.body.appendChild(inp);
+}
+
+/* ============================== post view: same-author row ============================== */
+function authorMatesRow(journal, post) {
+  const posts = journal.posts || [];
+  const author = post.a || post.author || '';
+  if (!author) return '';
+  const mates = posts.filter(pp => pp.id !== post.id && (pp.a || pp.author || '') === author).slice(0, 6);
+  if (!mates.length) return '';
+  return `<div class="author-mates"><span class="mates-label">پست‌های دیگر ${esc(author)}:</span>${mates.map(pp =>
+    `<a class="text-action" href="${postHref(journal.id, pp.p ?? pp.pageNum ?? 1, pp.id)}"><bdi dir="ltr">${esc(pp.n || pidLabel(pp))}</bdi></a>`).join('')}</div>`;
+}
+
 /* ============================== boot ============================== */
 
 document.addEventListener('DOMContentLoaded', init);
@@ -1420,6 +1669,8 @@ function init() {
   setupShortcuts();
   setupPostView();
   setupPalette();
+  setupHighlights();
+  setupStudyStats();
   route();
   registerServiceWorker();
   // Chrome settles after the first paint: measure the real masthead height and
@@ -1550,6 +1801,7 @@ function renderHome() {
   const grid = $('#journalGrid');
   const recent = $('#recentList');
   if (!grid || !recent) return;
+  renderStudyStats();
   const journals = orderedJournals();
   grid.innerHTML = journals.map((j, i) => {
     const rank = priorityRank(j.id);
@@ -1634,6 +1886,9 @@ function route() {
   if (!plateRoute) closeViewer({ keepEntry: true });
   if (document.body.classList.contains('search-open')) setSearchOpen(false);
   if (view === 'home' || view === '') {
+    App.returnPoint = null;
+    App.pendingGalleryRestore = null;
+    App.galleryReturnArmed = false;
     showView('home');
     /* Hash routing never reloads the page, so the shelf, the progress chips
        and the recent rail would otherwise keep whatever they rendered at
@@ -1694,6 +1949,7 @@ const READING_VIEWS = new Set(['post', 'journal']);
 function showView(name) {
   App.currentView = name;
   $$('.view').forEach(v => v.classList.toggle('is-active', v.dataset.view === name));
+  syncReturnChip();
   document.body.classList.toggle('is-reading', READING_VIEWS.has(name));
   // The reading views strip rows off the bar, so the sticky rail and the
   // scroll-margin offsets have to be told the new height before the first paint.
@@ -1828,6 +2084,9 @@ function injectJournalTools(journal) {
       <div class="journal-tools" id="journalTools">
         <button class="text-action" id="unreadToggle" type="button" title="فقط پست‌هایی که هنوز نخوانده‌اید">فقط خوانده‌نشده‌ها</button>
         <input class="jfilter" id="journalFilterInput" type="search" placeholder="فیلتر در همین ژورنال…" aria-label="فیلتر در همین ژورنال">
+        <button class="text-action" id="platesToggle" type="button" title="فقط نمودارها و نقل‌قول‌ها، بدون متن پست">فقط چارت‌ها</button>
+        <button class="text-action" id="contToggle" type="button" title="دو صفحهٔ بعد هم زیر همین صفحه بیاید">مطالعهٔ پیوسته</button>
+        <button class="text-action" id="timelineToggle" type="button" title="نمای فهرستی فشرده از پست‌های این صفحه">خط‌زمان</button>
         <button class="text-action" id="journalMark" type="button" title="نشان‌کردن ژورنال برای مرور بعدی">★ ژورنال</button>
         <a class="text-action" id="journalResume" href="#" hidden title="رفتن به آخرین پستی که در این دفتر خوانده‌اید"><svg class="icon"><use href="#i-clock"/></svg> ادامه</a>
         <a class="text-action" id="journalGalleryLink" href="#" title="همهٔ تصویرهای این دفتر در تابلوی تصاویر"><svg class="icon"><use href="#i-image"/></svg> تصویرها</a>
@@ -1840,6 +2099,18 @@ function injectJournalTools(journal) {
         App.unreadOnly = !App.unreadOnly;
         b.classList.toggle('is-on', App.unreadOnly);
         b.textContent = App.unreadOnly ? 'همهٔ پست‌ها' : 'فقط خوانده‌نشده‌ها';
+        renderJournalPage();
+      } else if (b.id === 'platesToggle') {
+        App.platesOnly = !App.platesOnly;
+        b.classList.toggle('is-on', App.platesOnly);
+        renderJournalPage();
+      } else if (b.id === 'contToggle') {
+        App.continuous = !App.continuous;
+        b.classList.toggle('is-on', App.continuous);
+        renderJournalPage();
+      } else if (b.id === 'timelineToggle') {
+        App.timelineMode = !App.timelineMode;
+        b.classList.toggle('is-on', App.timelineMode);
         renderJournalPage();
       } else if (b.id === 'journalMark') {
         toggleJournalMark(App.currentJournal.id);
@@ -1857,6 +2128,10 @@ function injectJournalTools(journal) {
   if (tog) { tog.classList.toggle('is-on', !!App.unreadOnly); tog.textContent = App.unreadOnly ? 'همهٔ پست‌ها' : 'فقط خوانده‌نشده‌ها'; }
   syncJournalMark();
   syncJournalLinks(journal);
+  const pt = $('#platesToggle'), ct = $('#contToggle'), tt = $('#timelineToggle');
+  if (pt) pt.classList.toggle('is-on', !!App.platesOnly);
+  if (ct) ct.classList.toggle('is-on', !!App.continuous);
+  if (tt) tt.classList.toggle('is-on', !!App.timelineMode);
 }
 
 /* Two one-tap doors from a journal header: back to the last post read here,
@@ -2014,28 +2289,60 @@ function renderJournalPage() {
   const journal = App.currentJournal;
   if (!journal) return;
   const box = $('#journalPosts');
-  let posts = journal.posts.filter(p => (p.p ?? p.pageNum) === App.currentPage);
   const q = (App.journalFilter || '').trim().toLowerCase();
-  if (q) posts = posts.filter(p =>
-    String(p.t || p.text || '').toLowerCase().includes(q) ||
-    String(p.fa || '').toLowerCase().includes(q) ||
-    String(p.a || p.author || '').toLowerCase().includes(q));
-  if (App.unreadOnly) posts = posts.filter(p => !isPostRead(journal.id, p.id));
-  App.currentPagePosts = posts;
+  const keep = (list) => {
+    let out = list;
+    if (q) out = out.filter(p =>
+      String(p.t || p.text || '').toLowerCase().includes(q) ||
+      String(p.fa || '').toLowerCase().includes(q) ||
+      String(p.a || p.author || '').toLowerCase().includes(q));
+    if (App.unreadOnly) out = out.filter(p => !isPostRead(journal.id, p.id));
+    return out;
+  };
+  const pagePosts = (pg) => keep(journal.posts.filter(p => (p.p ?? p.pageNum) === pg));
+  const posts = pagePosts(App.currentPage);
   const sel = $('#pageSelect');
   if (sel) sel.value = String(App.currentPage);
   wirePageButtons(journal);
   const of = $('#pageOf');
   if (of) of.innerHTML = `<b>${faNum(App.currentPage)}</b> از ${faNum(journal.pages)}`;
   renderJournalBottomPager(journal);
-  if (!posts.length) {
+  /* Continuous reading stitches the next two pages under this one with a
+     hairline between them, so a long journal reads like one scroll instead
+     of a pager click every few screens. Timeline mode trades the articles
+     for a compact ledger of numbers, authors and dates. */
+  const continuous = !App.timelineMode && App.continuous && App.currentPage < journal.pages;
+  if (!posts.length && !(continuous && pagePosts(App.currentPage + 1).length)) {
     box.innerHTML = `<div class="empty-state">${icon('book')}<h3>این صفحه پستی ندارد</h3><p>با فهرست صفحه‌ها در بالا، صفحهٔ دیگری را انتخاب کنید.</p></div>`;
     return;
   }
   const map = imageMap(journal);
-  box.innerHTML = posts.map(p => renderPostCard(p, journal, map)).join('');
+  box.classList.toggle('is-plates-only', !!App.platesOnly);
+  if (App.timelineMode) {
+    App.currentPagePosts = posts;
+    box.innerHTML = posts.length ? `<div class="tl-list">` + posts.map(p => {
+      const snip = String(p.t || p.text || p.fa || '').replace(/\s+/g, ' ').slice(0, 110);
+      return `<a class="tl-row" href="${postHref(journal.id, p.p ?? p.pageNum ?? App.currentPage, p.id)}">
+        <span class="tl-num" dir="ltr">${esc(p.n || pidLabel(p))}</span>
+        <span class="tl-body"><bdi dir="auto">${esc(p.a || p.author || '—')}</bdi><span class="tl-date" dir="ltr">${esc(p.d || p.date || '')}</span><span class="tl-snip">${esc(snip)}</span></span></a>`;
+    }).join('') + `</div>` : '';
+  } else {
+    const groups = [{ page: App.currentPage, posts }];
+    if (continuous) {
+      for (let pg = App.currentPage + 1; pg <= Math.min(App.currentPage + 2, journal.pages); pg++) {
+        const more = pagePosts(pg);
+        if (more.length) groups.push({ page: pg, posts: more });
+      }
+    }
+    App.currentPagePosts = groups.reduce((a, g) => a.concat(g.posts), []);
+    box.innerHTML = groups.map(g =>
+      (g.page !== App.currentPage ? `<div class="page-break"><span>— صفحهٔ ${faNum(g.page)} —</span></div>` : '') +
+      g.posts.map(p => renderPostCard(p, journal, map)).join('')
+    ).join('');
+  }
   wirePlateImages(box);
   wireReadTracking(box);
+  applyHighlights(box);
 }
 
 /* The ledger row is the article: a hairline, a number, a name, then text.
@@ -2841,7 +3148,8 @@ function renderPostDetailNav() {
     link(prev, 'پست قبلی', 'is-prev') +
     `<a class="text-action" href="#/j/${encodeURIComponent(journal.id)}/${post.p ?? 1}">${icon('list')} فهرست همین صفحه</a>` +
     galleryLink +
-    link(next, 'پست بعدی', 'is-next');
+    link(next, 'پست بعدی', 'is-next') +
+    authorMatesRow(journal, post);
 }
 
 function setPostView(view, persist = false) {
@@ -3033,6 +3341,12 @@ function setupViewer() {
     }
   });
   $('#lbOpenPost')?.addEventListener('click', openViewerPost);
+  const slideBtn = document.createElement('button');
+  slideBtn.type = 'button'; slideBtn.className = 'vt-btn'; slideBtn.id = 'lbSlide';
+  slideBtn.innerHTML = icon('clock'); slideBtn.title = 'نمایش خودکار (S)';
+  slideBtn.setAttribute('aria-label', 'نمایش خودکار');
+  slideBtn.addEventListener('click', toggleSlideshow);
+  $('#lbAnnotate')?.insertAdjacentElement('afterend', slideBtn);
   $('#lbCopyLink')?.addEventListener('click', copyViewerLink);
   $('#lbImage')?.addEventListener('load', settleViewerImage);
   $('#lbImage')?.addEventListener('error', () => {
@@ -3073,6 +3387,7 @@ function setupViewer() {
     if (e.key === 'PageDown' || e.key === 'n') { e.preventDefault(); moveViewer(1); return; }
     if (e.key === 'PageUp' || e.key === 'p') { e.preventDefault(); moveViewer(-1); return; }
     if (e.key === 'o' || e.key === 'O') { e.preventDefault(); openViewerPost(); return; }
+    if (e.key === 's' || e.key === 'S') { e.preventDefault(); toggleSlideshow(); return; }
     if (e.key === 'Home') { e.preventDefault(); jumpViewer(0); return; }
     if (e.key === 'End') { e.preventDefault(); jumpViewer(App.viewer.items.length - 1); return; }
     if (e.key === 'f' || e.key === 'F') { e.preventDefault(); toggleViewerFullscreen(); return; }
@@ -3148,6 +3463,7 @@ function closeViewer(options = {}) {
   const fsBtn = $('#lbFullscreen');
   if (fsBtn) fsBtn.innerHTML = icon('maximize');
   lb.hidden = true;
+  if (slideTimer) { clearInterval(slideTimer); slideTimer = 0; $('#lbSlide')?.classList.remove('is-active'); }
   if (window.Anno) Anno.detach();
   resetViewer();
   syncRail();
@@ -3216,7 +3532,17 @@ function renderViewer() {
         ${post?.a ? `<span class="cap-post-author" dir="auto">${esc(post.a)}</span>` : ''}
       </a>`
     : '';
+  let postNav = '';
+  if (journal && im.pid) {
+    const list = journal.posts || [];
+    const ix = list.findIndex(pp => pp.id === im.pid);
+    if (ix >= 0) {
+      const mk = (pp, label) => pp ? `<a class="cap-nav" href="${postSpotHref(journal.id, pp.p ?? pp.pageNum ?? 1, pp.id)}" title="${label}">${label} <bdi dir="ltr">${esc(pp.n || pidLabel(pp))}</bdi></a>` : '';
+      postNav = mk(ix > 0 ? list[ix - 1] : null, 'قبلی') + mk(ix < list.length - 1 ? list[ix + 1] : null, 'بعدی');
+    }
+  }
   $('#lbImageMeta').innerHTML = [
+    postNav || null,
     postMeta,
     im.o ? `<span class="cap-file" dir="ltr">${esc(im.o)}</span>` : '',
     im.w && im.h ? `<bdi dir="ltr">${faNum(im.w)}×${faNum(im.h)}</bdi>` : '',
@@ -3237,16 +3563,128 @@ function renderViewer() {
   });
 }
 
+/* ============================== way back ==============================
+ * «رفتن به پست» always lands on the journal page that holds the message —
+ * but the plate was often opened from somewhere else entirely: the image
+ * board scrolled deep, a journal page midway down, a post sheet, the notes
+ * list. captureViewerReturn() remembers that spot before the jump; the
+ * floating return chip (syncReturnChip/goReturn) is the door back, and the
+ * browser's own back button walks the same hashes for free. The scroll half
+ * of the return rides on mechanisms that already exist: postReturn restores
+ * a journal page's scroll, pendingGalleryRestore restores the board's. */
+
+function captureViewerReturn(im) {
+  const journal = App.viewer.journal;
+  const jid = journal ? journal.id : (im && im.journalId) || '';
+  const base = { hash: location.hash, y: window.scrollY, jid, key: (im && im.k) || '', t: Date.now() };
+  if (App.currentView === 'gallery') {
+    /* The board re-renders from scratch on return, so it needs more than a
+       hash: the scroll offset, the thumbnail to flash, and the filter/scope
+       the reader had narrowed the board to. */
+    App.pendingGalleryRestore = {
+      jid: App.gallery.journalId || jid,
+      postId: App.gallery.postId || '',
+      q: App.gallery.q || '',
+      limit: App.gallery.limit || 48,
+      y: window.scrollY,
+      key: base.key,
+      t: Date.now(),
+    };
+    return { ...base, kind: 'gallery', label: 'تابلوی تصاویر' };
+  }
+  if (App.currentView === 'journal' && App.currentJournal) {
+    return {
+      ...base, kind: 'journal',
+      label: `دفتر ${App.currentJournal.name}`,
+      journal: { jid: App.currentJournal.id, page: App.currentPage, y: window.scrollY },
+    };
+  }
+  if (App.currentView === 'post' && App.postDetail.journal && App.postDetail.post) {
+    const pd = App.postDetail;
+    return {
+      ...base, kind: 'post',
+      label: `پست ${pd.post.n || pidLabel(pd.post)}`,
+      post: { jid: pd.journal.id, pid: pd.post.id, page: pd.page },
+    };
+  }
+  if (App.currentView === 'notes') return { ...base, kind: 'notes', label: 'یادداشت‌ها' };
+  return { ...base, kind: 'other', label: 'صفحهٔ قبل' };
+}
+
+/* The chip only earns its place on the views «go to post» can land on —
+   the journal page and the post sheet — and only while the reader is
+   actually somewhere other than the spot the chip would take them back to. */
+function syncReturnChip() {
+  let chip = $('#returnChip');
+  const rp = App.returnPoint;
+  const onTarget = App.currentView === 'journal' || App.currentView === 'post';
+  const fresh = rp && (Date.now() - rp.t) < 30 * 60 * 1000;
+  if (!fresh || !onTarget || rp.hash === location.hash) {
+    if (chip) chip.hidden = true;
+    return;
+  }
+  if (!chip) {
+    chip = document.createElement('button');
+    chip.type = 'button';
+    chip.id = 'returnChip';
+    chip.className = 'return-chip';
+    chip.addEventListener('click', goReturn);
+    document.body.appendChild(chip);
+  }
+  chip.innerHTML = `${icon('arrow-right')}<span>بازگشت به ${esc(rp.label)}</span>`;
+  chip.title = 'بازگشت به جایی که تصویر از آنجا باز شده بود';
+  chip.hidden = false;
+}
+
+function goReturn() {
+  const rp = App.returnPoint;
+  if (!rp) return;
+  /* Journal and post destinations get their scroll position back through
+     the same postReturn channel the post sheet's own back button uses. */
+  if (rp.kind === 'journal' && rp.journal) {
+    App.postReturn = {
+      hash: `#/j/${encodeURIComponent(rp.journal.jid)}/${rp.journal.page}`,
+      y: rp.journal.y,
+    };
+  }
+  if (rp.kind === 'gallery') App.galleryReturnArmed = true;
+  const hash = rp.hash;
+  App.returnPoint = null;
+  go(hash.replace(/^#\/?/, ''));
+}
+
 function openViewerPost() {
   const im = App.viewer.items[App.viewer.idx];
   if (!im) return;
   const journal = App.viewer.journal;
   const jid = journal ? journal.id : im.journalId;
+  if (!jid) return;
   const page = im.p || im.pageNum || 1;
+  /* The plate was opened from the very post it belongs to: «go to post» then
+     means "show me where it sits", not a trip across the archive — put the
+     viewer away and land on the picture inside the post. */
+  const d = App.postDetail;
+  if (App.currentView === 'post' && d && d.journal && d.journal.id === jid
+      && d.post && d.post.id === im.pid) {
+    closeViewer();
+    const plate = document.querySelector(`#viewPost .plate[data-key="${CSS.escape(im.k || '')}"]`);
+    (plate || $('#viewPost .article'))?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    return;
+  }
+  /* The journal page that holds the post is already on screen: scrolling to
+     the row beats reloading every plate on the page just to move the view. */
+  if (App.currentView === 'journal' && App.currentJournal && App.currentJournal.id === jid
+      && im.pid && App.currentPage === page
+      && document.getElementById('post-' + im.pid)) {
+    closeViewer();
+    scrollToPost(im.pid);
+    return;
+  }
   /* The reader asked for the message, not for the single-post sheet: open the
      journal page that holds it and scroll the row into view. go() runs route(),
      which closes the plate with keepEntry so the address is not undone, and
      openJournal() honours the post id after drawing the page. */
+  App.returnPoint = captureViewerReturn(im);
   const path = im.pid
     ? `j/${encodeURIComponent(jid)}/${page}/${encodeURIComponent(im.pid)}`
     : `j/${encodeURIComponent(jid)}/${page}`;
@@ -4212,6 +4650,23 @@ async function openGallery(journalId, postId = '') {
     /* The board opens where the home page starts: the first priority journal. */
     App.gallery.journalId = units[0]?.id || '';
   }
+  /* The way back from a plate hop reopens the board the way it was left:
+     same journal, same post scope, same filter text, same loaded depth. A
+     stale snapshot (older than the freshness window) is dropped instead of
+     yanking the reader to a board they have since moved on from. */
+  const gr = App.pendingGalleryRestore;
+  const grFresh = gr && (Date.now() - gr.t) < 30 * 60 * 1000;
+  if (grFresh && gr.jid === App.gallery.journalId
+      && (App.returnPoint || App.galleryReturnArmed)) {
+    App.gallery.q = gr.q || '';
+    App.gallery.postId = gr.postId || '';
+    App.gallery.limit = gr.limit || App.gallery.limit;
+    if (filterInput) filterInput.value = App.gallery.q;
+    if (filterClear) filterClear.hidden = !App.gallery.q;
+  } else {
+    App.pendingGalleryRestore = null;
+  }
+  App.galleryReturnArmed = false;
   if (sel) sel.value = App.gallery.journalId;
   await loadGalleryJournal();
 }
@@ -4366,6 +4821,25 @@ function renderGallery() {
   }).join('');
   wirePlateImages(grid);
   paintMoreRow('#galleryMore', all.length - list.length, 'تصویر');
+  const gr = App.pendingGalleryRestore;
+  if (gr && gr.jid === journal.id) {
+    App.pendingGalleryRestore = null;
+    /* Lazy thumbs keep their aspect-ratio boxes, so the page height is already
+       right; a couple of delayed re-asserts cover the images that settle
+       late and any scrollbar appearing after the first paint. */
+    const jump = () => window.scrollTo({ top: gr.y, behavior: 'instant' });
+    requestAnimationFrame(() => {
+      jump();
+      setTimeout(jump, 120);
+      setTimeout(jump, 420);
+    });
+    const anchor = gr.key ? grid.querySelector(`a[data-gallery-key="${CSS.escape(gr.key)}"]`) : null;
+    const cell = anchor ? anchor.closest('.contact-cell') : null;
+    if (cell) {
+      cell.classList.add('is-return');
+      setTimeout(() => cell.classList.remove('is-return'), 2600);
+    }
+  }
 }
 
 /* ============================== saved ============================== */
