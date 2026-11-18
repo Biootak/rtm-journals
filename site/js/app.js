@@ -3513,6 +3513,10 @@ function renderViewer() {
      re-opening the plate you just closed left the veil up over an image that was
      perfectly on screen. That is the "sometimes the picture isn't shown". */
   const unchanged = img.getAttribute('src') === wanted;
+  /* A new src keeps painting the previous bitmap until its bytes arrive —
+     the reader sees the old plate for seconds under the spinner. Dim it the
+     moment the target changes; settleViewerImage restores it on load. */
+  img.classList.toggle('is-pending', !unchanged);
   img.src = wanted;
   img.alt = im.o || im.originalName || 'تصویر';
   if (unchanged && img.complete && img.naturalWidth) settleViewerImage();
@@ -3925,6 +3929,7 @@ window.zoomToRect = zoomToRect;
 function settleViewerImage() {
   const load = $('#lbLoading');
   if (load) load.hidden = true;
+  $('#lbImage')?.classList.remove('is-pending');
   $('#lbImageStage')?.classList.remove('is-void');
   initViewerForImage();
   /* The mark layer measures the plate in its own pixels, so it can only be laid
