@@ -725,7 +725,7 @@ html[dir="rtl"] .anno-peek { border-radius:0 12px 12px 0; }
 .vt-count { font-family:var(--mo); font-size:12px; color:var(--ink-3); padding-inline:8px; white-space:nowrap; font-weight:700; }
 .vt-zoom { font-family:var(--mo); font-size:11.5px; color:var(--ink-2); min-width:58px; text-align:center; border:1px solid var(--rule); border-radius:8px; height:32px; background:var(--paper-raised); }
 .vt-zoom:hover { border-color:var(--accent-line); color:var(--accent-deep); }
-.pane-scroll { flex:1; min-height:0; overflow:auto; display:flex; padding:18px; direction:ltr; touch-action:none; overscroll-behavior:contain; scrollbar-width:thin; cursor:default; background:
+.pane-scroll { flex:1; min-height:0; overflow:scroll; display:flex; padding:18px; direction:ltr; touch-action:none; overscroll-behavior:contain; scrollbar-width:thin; cursor:default; background:
   radial-gradient(circle at 50% 0%, rgba(255,255,255,.4), transparent 55%), var(--paper-sunk); }
 /* Chrome and Safari zoom the whole page when a pinch starts outside the plate
    scroller — the toolbar, the foot and the notes sheet all qualify. Pinch is
@@ -747,6 +747,9 @@ html[data-lamp] .pane-scroll { background: radial-gradient(circle at 50% 0%, rgb
    space is zero and the wrapper is invisible; note mode lends it a margin so a
    reference picture can sit beside the chart instead of over it. */
 .pane-board { position:relative; flex:none; margin:auto; line-height:0; }
+/* Scroll anchoring fights the manual scroll writes setZoom makes: the
+   browser re-anchors the stage on every resize and the plate jumps. */
+.pane-board, .pane-stage { overflow-anchor:none; }
 .pane-stage { position:relative; line-height:0; flex:none; }
 /* Before the plate decodes there is no size to wrap, so the wrapper takes the
    pane for the loading veil. */
