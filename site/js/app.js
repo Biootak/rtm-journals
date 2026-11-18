@@ -3519,6 +3519,11 @@ function renderViewer() {
   $('#lbCounter').textContent = `${faNum(App.viewer.idx + 1)} از ${faNum(App.viewer.items.length)}`;
   $('#lbPrev').disabled = App.viewer.items.length < 2;
   $('#lbNext').disabled = App.viewer.items.length < 2;
+  const slideBtn = $('#lbSlide');
+  if (slideBtn) {
+    slideBtn.disabled = App.viewer.items.length < 2;
+    if (slideBtn.disabled && slideTimer) toggleSlideshow();
+  }
   /* The plate is already open; the caption should say which conversation it
      belongs to and be that door, not only the icon in the toolbar. */
   const post = im.pid ? postByPid(journal, im.pid) : null;
