@@ -4085,6 +4085,7 @@ function setupViewerGestures() {
      possible at all is already kept in the `can-pan` class by setZoom(). */
   let dragRaf = 0;
   let dragTarget = null;
+  let wheelZoomRaf = 0, wheelZoomAcc = 1, wheelZoomAnchor = null;
   const flushDrag = () => {
     dragRaf = 0;
     if (!dragTarget) return;
@@ -4223,8 +4224,14 @@ function setupViewerGestures() {
     const box = viewerBox();
     const unit = e.deltaMode === 1 ? 16 : e.deltaMode === 2 ? (box ? box.contentH : 800) : 1;
     const px = clamp(e.deltaY * unit, -600, 600);
-    const factor = clamp(Math.exp(-px * 0.0018), 0.5, 2);
-    setZoom(z.scale * factor, { x: e.clientX, y: e.clientY });
+    wheelZoomAcc *= clamp(Math.exp(-px * 0.0018), 0.5, 2);
+    wheelZoomAnchor = { x: e.clientX, y: e.clientY };
+    if (!wheelZoomRaf) wheelZoomRaf = requestAnimationFrame(() => {
+      wheelZoomRaf = 0;
+      const acc = wheelZoomAcc; wheelZoomAcc = 1;
+      const a = wheelZoomAnchor;
+      if (App.viewer.zoom.natW) setZoom(App.viewer.zoom.scale * acc, a);
+    });
   }, { passive: false });
 }
 

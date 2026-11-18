@@ -749,7 +749,7 @@ html[data-lamp] .pane-scroll { background: radial-gradient(circle at 50% 0%, rgb
 .pane-board { position:relative; flex:none; margin:auto; line-height:0; }
 /* Scroll anchoring fights the manual scroll writes setZoom makes: the
    browser re-anchors the stage on every resize and the plate jumps. */
-.pane-board, .pane-stage { overflow-anchor:none; }
+.pane-scroll, .pane-scroll * { overflow-anchor:none; }
 .pane-stage { position:relative; line-height:0; flex:none; }
 /* Before the plate decodes there is no size to wrap, so the wrapper takes the
    pane for the loading veil. */
