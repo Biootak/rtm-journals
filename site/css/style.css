@@ -735,6 +735,11 @@ html[dir="rtl"] .anno-peek { border-radius:0 12px 12px 0; }
 .viewer .panel, .viewer .anno-panel, .viewer .sheet-panel, .anno-list { touch-action:pan-y; }
 .anno-zone-tools, .anno-zone-style { touch-action:pan-x; }
 html[data-lamp] .pane-scroll { background: radial-gradient(circle at 50% 0%, rgba(255,255,255,.05), transparent 55%), var(--paper-sunk); }
+/* Zoom re-anchors by writing scrollLeft/scrollTop on every step; the smooth
+   scrolling the document asks for turns each step into a lagging animation
+   and the plate visibly shakes under the cursor. Inside the viewer every
+   scroll is already deliberate, so it must be instant. */
+.pane-scroll { scroll-behavior:auto !important; }
 .pane-scroll.can-pan { cursor:grab; }
 .pane-scroll.is-dragging { cursor:grabbing; user-select:none; }
 .pane-scroll:not(.can-pan) .pane-stage img { cursor:zoom-in; }
